@@ -1,63 +1,76 @@
-> *The following text is extracted and transformed from the freeandpowerful.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211151806id_/http%3A//www.freeandpowerful.com/i/webmaster/TRACK%3Dtracking-not-available%2A%3BENDTRACK%3B/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeandpowerful.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423055713id_/http%3A//www.rapidpaysystem.com/i/webmaster/_/rps-privacy-policy.html) for the most accurate reproduction.*
 
-# www.FreeAndPowerful.com - Privacy Policy
+# 
 
-Welcome to **FreeAndPowerful.com!**
+| 
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.FreeAndPowerful.com (collectively, "Services") ("Authorized Customers").
+**PRIVACY POLICY**
 
-**"Personally Identifiable Information"**
+**Do we disclose any information to outside parties?**
 
-Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business (programmers, etc.) so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce site policies, or protect ours or others rights, property, or safety.
 
-**What Personally Identifiable Information is collected?**
+**What information do we collect?**
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+We collect information from you when you register for a free system on our site or update your information in your free control center via the "My Info" page. 
 
-**With whom may the information may be shared?**
+When registering or updating information on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address and, or phone number. You may, however, visit our site anonymously.
 
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
+ **What do we use your information for?**
 
-**How does the Site use Personally Identifiable Information?**
+Any of the information we collect from you may be used in one of the following ways: 
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**How is Personally Identifiable Information stored?**
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Personally Identifiable Information collected by FreeAndPowerful.com is securely stored and is not accessible to third parties or employees of FreeAndPowerful.com except for use as indicated above.
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**
+; To process transactions
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at support@FreeAndPowerful.com. 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**How does the Site keep Personally Identifiable Information secure?**
+; To administer a contest, promotion, survey or other site feature
 
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+; To send periodic emails
 
-**Are Cookies Used on the Site?**
+> The email address you provide may be used to send you updates, in addition to receiving company news, related information, etc.
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+Note: If at any time you would like to unsubscribe from receiving future emails, you may log into your free control center, go to "My Tools", Support, FAQ, Delete. We also include unsubscribe instructions at the bottom of each email.
 
-**How does www.FreeAndPowerful.com use login information?**
+ **How do we protect your information?**
 
-We use login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-**Disclosure of Personally Identifiable Information to comply with law.**
+**Do we use cookies?**
 
-We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at support@FreeAndPowerful.com
+ **Third party links**
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting support@FreeAndPowerful.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+ **Childrens Online Privacy Protection Act Compliance**
 
-**What happens if the Privacy Policy Changes?**
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+ **Your Consent**
 
-**Spam Policy**
+By using our site, you consent to our websites privacy policy.
 
-We abide by a very strict no spam policy. If you suspect you have been spammed regarding the FreeAndPowerful.com products or opportunity please email us at support@FreeAndPowerful.com. [](http://www.gbg-business-opportunity.com/)
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+
+This policy was last modified on April 24, 2014
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the Support Ticket form in your free Rapid Pay System control center.
+
+| 
