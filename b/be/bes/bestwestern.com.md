@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwestern.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222212447id_/http%3A//www.bestwestern.com/privacy.asp%3Fm%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwestern.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423113430id_/http%3A//www.bestwestern.com/privacy.asp%3Fm%3D1) for the most accurate reproduction.*
 
 # Best Western International, Inc. - Privacy Policy
 
@@ -57,7 +57,7 @@ In instances where Non-PII is combined with PII (such as combining your name wit
 
 ## IP Addresses
 
-Your IP Address is a number that your Internet Service Provider automatically assigns to the computer that you are using. This number is identified and logged automatically in our server log files whenever users visit the Site, along with the time(s) of such visit(s) and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site. Please note that we treat IP Addresses, server log files, and related information as Non-PII, except when we are required to do otherwise under applicable law.
+Your IP Address is a number that your Internet Service Provider automatically assigns to the computer that you are using. This number is identified and logged automatically in our server log files whenever users visit the Site, along with the time(s) of such visit(s) and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, validation of a legitimate user session via Google™ captcha and administering the Site. Please note that we treat IP Addresses, server log files, and related information as Non-PII, except when we are required to do otherwise under applicable law.
 
 ## Do Not Track
 
