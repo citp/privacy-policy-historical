@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaflix.com privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913073754id_/http%3A//www.chinaflix.com/china_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaflix.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423080313id_/http%3A//www.chinaflix.com/china_privacy_policy.php) for the most accurate reproduction.*
 
 # ChinaFlix
 
