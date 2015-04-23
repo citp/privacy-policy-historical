@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodreference.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223024420id_/http%3A//www.foodreference.com/html/contact.html%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodreference.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423100302id_/http%3A//www.foodreference.com/html/contact.html%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Food Reference Website: Contact Us
 
@@ -9,19 +9,19 @@
 
 The Food Reference Website contains over 20,000 pages and is constantly growing. New content is added daily to various sections. 
 
-Foodreference.com receives 1/2 million page views per month.   (August, 2012)
+Foodreference.com receives 1/2 million page views per month.   (January, 2015)
 
 Since its beginnings in 1999, Foodreference.com has maintained an excellent reputation, and has been recommended as a resource by countless magazines, newspapers, universities, food critics, cookbook authors, culinary historians, TV & radio programs, and thousands of other food related websites.
 
-\-- [The people behind FoodReference.com](https://web.archive.org/web/20141223024420id_/http%3A//www.foodreference.com/html/chefjamesbio.html)  
-\-- [Statistics and Demographic information](https://web.archive.org/web/20141223024420id_/http%3A//www.foodreference.com/html/advertise-foodreference.html)  
+\-- [The people behind FoodReference.com](https://web.archive.org/web/20150423100302id_/http%3A//www.foodreference.com/html/chefjamesbio.html)  
+\-- [Statistics and Demographic information](https://web.archive.org/web/20150423100302id_/http%3A//www.foodreference.com/html/advertise-foodreference.html)  
  
 
 **Inquires for permission to use material from the Food Reference Website:** **  
 Contact** [chefjames@foodreference.com](mailto:chefjames@foodreference.com)   Phone:  (507) 474-1689
 
  **Advertising Inquires:**  
-For Advertising information, including website statistics [Click Here](https://web.archive.org/web/20141223024420id_/http%3A//www.foodreference.com/html/advertise-foodreference.html)
+For Advertising information, including website statistics [Click Here](https://web.archive.org/web/20150423100302id_/http%3A//www.foodreference.com/html/advertise-foodreference.html)
 
  
 
@@ -44,13 +44,14 @@ You are free to link to our home page or any interior pages:
 
 [](http://www.foodreference.com/)
 
-[](http://www.foodreference.com/)
-
-[](http://www.foodreference.com/)
-
+  
 [](http://www.foodreference.com/)
 
   
+[](http://www.foodreference.com/)
+
+  
+[](http://www.foodreference.com/)  
 
 
 **PRIVACY POLICY**  
