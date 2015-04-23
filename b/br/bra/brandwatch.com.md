@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandwatch.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230074359id_/http%3A//www.brandwatch.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandwatch.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423171235id_/http%3A//www.brandwatch.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Website Privacy Policy - Brandwatch
 
