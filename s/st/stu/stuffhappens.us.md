@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the stuffhappens.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125523id_/http%3A//stuffhappens.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffhappens.us privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423232926id_/http%3A//stuffhappens.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stuff Happens
 
-
-
-
+[Home](http://stuffhappens.us/) Privacy Policy
 
 ### Privacy Policy
 
@@ -27,5 +25,4 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
-All facts and images are copyrighted by their respective copyright owners mentioned in source, in any concern you can Contact Us  
-**stuffdidhappen@gmail.com  **– All Rights Reserved
+All facts and images are copyrighted by their respective copyright owners mentioned in source, in any concern you can Contact Us **stuffhappens27@yahoo.com  **– All Rights Reserved
