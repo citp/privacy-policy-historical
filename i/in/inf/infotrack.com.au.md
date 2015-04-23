@@ -1,76 +1,132 @@
-> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906131058id_/http%3A//www.infotrack.com.au/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423063909id_/http%3A//www.infotrack.com.au/privacy/index.htm) for the most accurate reproduction.*
 
-# Privacy Policy - InfoTrack
+# eConveyancing - Company, Property & Title Search - InfoTrack : Privacy Policy
 
-## Privacy Statement
+## InfoTrack
 
-InfoTrack’s Privacy Statement has been issued to make you aware of the organisation's procedures regarding the handling of personal and sensitive information, including collection, use, disclosure and storage of information, as well as the right of individuals to access and correct that information.
+### Privacy Policy
 
-InfoTrack will comply with the provisions of the Privacy Act 1988 (Cth) (Privacy Act).  
-InfoTrack will ensure that individuals are advised of InfoTrack’s identity whenever personal information is collected.
+* * *
 
-In summary, 'personal information' is information or an opinion relating to an individual which can be used to identify that individual.
+InfoTrack Pty Ltd ABN 36 092 724 251 (“InfoTrack” or “we”, “our” or “us”) is bound by the Privacy Act 1988 (as amended) and is committed to the protection of privacy in accordance with the applicable law. This Privacy Policy sets out how we treat the personal information that we collect, use and disclose and our procedures regarding the handling of personal and sensitive information, including collection, use, disclosure and storage of information, as well as the right of individuals to access and correct that information.
 
-InfoTrack may collect personal information in order to conduct our business, to provide and market our services and to meet our legal obligations.
+InfoTrack may collect personal information in order to conduct our business, to provide and market our services and to meet our legal obligations. By using our website or our services, or by providing any personal information to us, you consent to the collection, use and disclosure of your personal information as set out in this Privacy Policy. 
+
+## The types of personal information we collect
 
 The type of information we may collect and hold includes (but is not limited to) personal information about:
 
   * clients, business associates and potential clients and their employees;
   * suppliers and their employees; and
-  * prospective employees, employees and contractors.
+  * prospective employees and contractors.
 
 
 
-Personal information may consist of names, addresses, contact details, occupations and other information.
+Personal information may consist of names, addresses, contact details, occupations and other information and generally will include:
 
-In many cases, if personal information we request is not provided, we may not be able to supply the relevant product or service. InfoTrack will use its best endeavours to ensure that an individual is advised of the consequences of not providing the requested information. This may include individual collection statements.
+  * name, address, contact telephone number and other contact details such as email address;
+  * payment information (such as credit card or bank details); 
+  * other personal information required to provide our services in specific cases; and
+  * details of your use of our products or services.
 
-InfoTrack will ensure the individual is advised (via the respective individual collection statements) of the type of organisation that may be provided with the collected information. Organisations to which InfoTrack discloses information may include insurers, solicitors and mailing houses.
 
-InfoTrack will not provide personal information to third parties without the prior consent of the individual providing the information.
 
-InfoTrack will only collect and use information for the purpose exposed to the individual at the time of collection (via the respective individual collection statements). Organisations to which INFOTRACK discloses information may include insurers, solicitors and mailing houses.
+You are not obliged to provide personal information to InfoTrack, however in many cases, if personal information we request is not provided, we may not be able to supply the relevant product or service that you have requested from us.
 
-InfoTrack will destroy any personal information collected, either once its need has been met or as prescribed by the Privacy Act.
+In some circumstances, you may provide to us, and we may collect from you, personal information of a third party. Where you provide the personal information of a third party, you must ensure that the third party is aware of this Privacy Policy, understands it and agrees to accept it.
 
-InfoTrack will ensure that all personal information remains secure from unauthorized access. InfoTrack will not send your personal information to recipients outside of Australia without obtaining your consent (in some cases consent will be implied) or complying with the Privacy Act.
+If it is necessary to provide specific services to you, we may collect sensitive information about you (health information, information about racial or ethnic origin, criminal records, information about religious affiliation and political opinions), but only if you agree to provide it to us or authorise us to obtain it from a third party. We will only use sensitive information in accordance with the Privacy Act 1988 and for the purpose for which it is provided.
 
-InfoTrack will ensure that an equitable and unbiased complaint process is available to all individuals. The Compliance Officer, an internally appointed position, will oversee this process. InfoTrack will ensure that where a complaint cannot be resolved to the satisfaction of all parties involved, the matter will be referred unhindered to the Federal Commissioner of Privacy for action.
+## How personal information is collected and held by us
 
-InfoTrack will make available to an individual on receipt of a formal request, the personal information collected from that individual. InfoTrack reserves the right to refuse a request to access personal information, where the identity of the individual making the request is in doubt, or where legal professional privilege exists or where InfoTrack’s rights may be prejudiced.
+In most cases we collect information from you directly when you fill in and return to us a signed client form or when you submit information through our website. We may also collect information from you in person or in the course of providing services to you. We may also collect information about you from third party suppliers and government database services.
 
-InfoTrack will take all reasonable precautions to ensure the personal information it has collected from an individual remains correct and accurate.
-
-InfoTrack takes reasonable steps to protect personal information held from misuse and loss and from unauthorised access, modification or disclosure.
-
-## Questions about Privacy
-
-If you have any complaints or queries about the privacy of, or access to, your personal information, or require a copy of our privacy policies, please contact our National Helpdesk whose details can be found on our website.
-
-If your complaint or query is not resolved by us to your satisfaction, you may write to the Privacy Commissioner at GPO Box 5218, Sydney NSW 2000.
-
-## Website
-
-Information that may identify you as a user may be gathered during your access with our website and this privacy statement details how such information is collected, stored and used.
-
-## Collection and use of Information by InfoTrack
-
-InfoTrack does not directly collect information from users of the website. Your email address will not be recorded unless you send us a message or fill out a form.
+Otherwise, InfoTrack does not directly collect information from users of our website or third party suppliers. Your email address will not be recorded unless you send us a message or fill out a form.
 
 InfoTrack does not try to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
 
-Where you contact us we may store information such as your name, company, postal address, telephone number, type of request and possible further information to enable us to respond to your request. We will only use such personal information for the purpose for which it has been provided and in the course of conducting our business.
+We store personal information in computer storage facilities, paper-based files and other records. We take steps to protect the personal information against loss, unauthorised access, use modification or disclosure, and against other misuse. These steps include password protection and access privileges for accessing out IT system, and physical access restrictions to paper files.
 
-We will not provide your information to any organisation outside InfoTrack.
+Where we provide personal information to third parties, we endeavor to use contractual measures to protect this information.
+
+Additionally, we take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.
+
+Because transmission of information over the internet is often insecure we do not accept responsibility for the security of information you send to or receive from us over the internet, or for any unauthorised access or use of that information by others over the internet.
+
+## The purposes for which we collect, use and disclose personal information
+
+Except as otherwise specified in this Privacy Policy, we will only use personal information for the purpose disclosed at the time of collection in the course of conducting our business. We will not use your personal information for any other purpose without first obtaining your consent or unless required by law.
+
+We collect and use personal information for the following purposes:
+
+  * to set up your account with us;
+  * to provide the products or services you have requested from us; 
+  * to answer inquiries you make;
+  * payment processing;
+  * for direct marketing and promotion and improvement of our business and products and services including: 
+    * to notify details of new services and products offered by us;
+    * to notify details of meetings, events and seminars that may be of interest to InfoTrack customers and clients;
+    * to send our newsletters and other marketing publications;
+  * to administer our databases for client service, marketing and financial accounting purposes; and ****
+  * to comply with legal requirements regarding collection and retention of information concerning the products and services that we provide.
+
+
+
+We may disclose your personal information third party service providers who assist us in providing the services you request, including public authorities and providers of information services.
+
+We may also disclose your personal information to third parties who work with us in our business to promote, market or improve the services that we provide, including:
+
+  * providers of customer relations management database services and marketing database services;
+  * marketing consultants, promotion companies and website hosts; and
+  * consultants and professional advisers.
+
+
+
+We may also combine your personal information with information available from other sources, including the entities mentioned above, to help us provide better services to you.
+
+You may opt-out of receiving direct marketing or the disclosure your personal information for the purpose of direct marketing by contacting our privacy officer using the details set out below or by using any unsubscribe facility contained in a communication that you receive from us.
+
+## Sending personal information overseas
+
+We do not presently disclose personal information to any organisations located overseas; however we do disclose information in Australia, for the purposes described above, to some multinational organisations that are located both in Australia and overseas.
+
+In the future we may decide to disclose personal information to organisations such as service providers located overseas, but only for the purposes described above.
+
+Some other countries may not have the same privacy laws as those applicable under the Privacy Act 1988 and the Australian Privacy Principles. We may not require organisations to which we disclose personal information in those countries to comply with similar privacy laws, and accordingly your personal information may not receive the same protections that it would in Australia. 
+
+By providing your personal information to us, you consent to our disclosure of your personal information to organisations in other countries (for the purposes described above), even though it may not receive the same protections that it would in Australia, and if the organisation in another country handles the personal information in breach of the Australian Privacy Principles or other applicable legislation we will not be liable nor will you be able to seek redress against us under Australian Privacy Laws. You may request us not to transfer your personal information to other countries, but if you do so in some cases we may not be able to provide the services or products you have requested from us.
+
+## How you can access your personal information
+
+You have a right to request access to your personal information and to request its correction. We will take all reasonably practicable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up to date. 
+
+At your request, we will provide you with a copy of any personal information which we hold about you, unless an exception under the Privacy Act 1988 applies. We may charge a reasonable fee for retrieving this information, in which case we will inform you of the fee and seek your agreement to that fee before providing the information.
+
+## How to contact us or make a complaint
+
+If you have any questions about this Privacy Policy, if you wish to correct or update information we hold about you or if you wish to make a complaint about the way we have collected, disclosed or used your personal information, please contact:
+
+InfoTrack Privacy Officer  
+GPO Box 4029 Sydney NSW 2001
+
+[privacy@infotrack.com.au](mailto:privacy@infotrack.com.au)
+
+1800 738 524 or 02 8273 7511
+
+We will acknowledge and investigate any complaint about the way we manage personal information as soon as practicable. We will take reasonable steps to remedy any failure to comply with our privacy obligations. If you are unhappy with our handling of the complaint, you may contact the Australian Information Commissioner.
+
+## Website
+
+Information that may identify you as a user may be gathered during your access with our website and this privacy statement details how such information is collected, stored and used. We are not responsible for the privacy policies or privacy practices of the organisations we provide links to from our website. We suggest that you check the privacy policies and practices of those organisations.
 
 ## Cookies
 
-A 'cookie' is a piece of information that allows the server to identify and interact more effectively with your computer. The cookie assists us in identifying what our users find interesting on our website.
+A 'cookie' is a piece of information that allows the server to identify and interact more effectively with your computer. The cookie assists us in identifying what our users find interesting on our website. 
 
 When you use our website we allocate you a unique identification number (cookie). A cookie will be allocated each time you use our website. The cookie does not identify you as a user in our data collection process. It does identify your Internet Server Provider.
 
 You can configure your web browser to refuse cookies but you then may not be able to use all or part of our website.
 
-## Updating Our Privacy Statement
+## Updating Our Privacy Policy
 
-This Privacy Statement may be updated from time to time so we recommend you review the information on our website on a regular basis.
+This Privacy Policy may be updated from time to time so we recommend you review the information on our website on a regular basis.
