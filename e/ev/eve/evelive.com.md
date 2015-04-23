@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the evelive.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926220306id_/http%3A//eve-live.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evelive.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423075738id_/http%3A//evelive.com/en/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-At DNX Network, respecting your privacy is important to us. DNX Network is committed to ensuring your privacy, in accordance with the provisions of Luxembourg law regarding the protection of privacy when processing personal information.
+At DNX Network SARL, respecting your privacy is important to us. DNX Network SARL is committed to ensuring your privacy, in accordance with the provisions of Luxembourg law regarding the protection of privacy when processing personal information. 
 
-When the user visits or signs up for the DNX Network Website, the user sends DNX Network personal information that can refer to, but not be limited to:
+When the user visits or signs up for the DNX Network SARL Website, the user sends DNX Network SARL personal information that can refer to, but not be limited to: 
 
   * \- information regarding the visitor's identity: name, address, and other contact information such as telephone number, email address, user name, password, and IP address
   * \- financial information such as information regarding credit cards
@@ -31,7 +31,7 @@ We also collect personal information when you send us an email to report a probl
 
   4. ## Information bulletin
 
-When you sign up, you may receive information on webcams, new features, offers, and services by email. These emails will be sent by DNX Network SARL, 6 rue Henri Schnadt, L-2530 Luxembourg, Luxembourg - Telephone No.: + 352 27 00 28 70 – [support@dnxnetwork.lu](mailto:support@dnxnetwork.lu). If you do not wish to receive this information, go to the "My Account" section, visible at the bottom of every page.
+When you sign up, you may receive information on webcams, new features, offers, and services by email. These emails will be sent by DNX Network SARL, 6 rue Henri Schnadt, L-2530 Luxembourg, Luxembourg - Telephone No.: +352 2088 0401 – [support@dnxnetwork.lu](mailto:support@dnxnetwork.lu). If you do not wish to receive this information, go to the "My Account" section, visible at the bottom of every page. 
 
   5. ## Data protection and security measures
 
@@ -39,11 +39,11 @@ We take into account appropriate technical and organizational measures to protec
 
   6. ## Saving communications information
 
-If you choose to use the chat room or other interactive communications options, you thereby accept this information being stored. DNX Network will save said information based on need in order to resolve disputes, provide assistance, and research problems as the law allows. DNX Network will not share this information with third parties except in response to a verified request by law enforcement or other government officials in the context of a criminal investigation or suspected illicit activity.
+If you choose to use the chat room or other interactive communications options, you thereby accept this information being stored. DNX Network SARL will save said information based on need in order to resolve disputes, provide assistance, and research problems as the law allows. DNX Network SARL will not share this information with third parties except in response to a verified request by law enforcement or other government officials in the context of a criminal investigation or suspected illicit activity. 
 
   7. ## Third parties
 
-We will never not sell or transfer said information to third parties. The information you provide us can be transferred to DNX Network partners in order to offer you webcam services.
+We will never not sell or transfer said information to third parties. The information you provide us can be transferred to DNX Network SARL partners in order to offer you webcam services. 
 
   8. ## Cookies
 
@@ -51,13 +51,13 @@ When you visit our Website, information may be saved by us on your computer in t
 
   9. ## Access right
 
-You always have the right to view your personal information and have it modified free of charge when it is no longer up to date. The simplest way is to send a written request to [support@dnxnetwork.lu](mailto:support@dnxnetwork.lu).
+You always have the right to view your personal information and have it modified free of charge when it is no longer up to date. The simplest way is to send a written request to [support@dnxnetwork.lu](mailto:support@dnxnetwork.lu). 
 
   10. ## Additional Information
 
-If you would like more information, do not hesitate to contact us by email to [support@dnxnetwork.lu](mailto:support@dnxnetwork.lu) or by writing to DNX Network SARL - 6 rue Henri Schnadt, L-2530 Luxembourg, Luxembourg.
+If you would like more information, do not hesitate to contact us by email to [support@dnxnetwork.lu](mailto:support@dnxnetwork.lu) or by writing to DNX Network SARL - 6 rue Henri Schnadt, L-2530 Luxembourg, Luxembourg. 
 
-These privacy protection rules were last modified on 12/14/2011. DNX Network reserves the right to modify these regulations regarding privacy protection at any time, pursuant to all applicable laws and regulations.
+These privacy protection rules were last modified on 12/14/2011. DNX Network SARL reserves the right to modify these regulations regarding privacy protection at any time, pursuant to all applicable laws and regulations. 
 
 
 
