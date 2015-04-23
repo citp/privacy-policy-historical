@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227083150id_/http%3A//www.nmm.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423061013id_/http%3A//www.nmm.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy : RMG
 
@@ -50,7 +50,7 @@ The Museum uses [MailChimp](http://mailchimp.com/) to provide our [e-mail new
 
 This personal data is collected by MailChimp on behalf of the Museum. The data is stored on a secure MailChimp server. MailChimp are not permitted to use the data for their own purposes nor to sell or distribute it on to any other individual, organization or business under any circumstances. 
 
-You can 'opt out' of the newsletter at any time by clicking on the 'Unsubscribe' link at the bottom of each newsletter. Alternatively you can contact us via the '[Contact us](https://web.archive.org/web/20141227083150id_/http%3A//www.nmm.ac.uk/server.php?show=nav.00500b)' section of the main website. Your details will then be deleted from the database.
+You can 'opt out' of the newsletter at any time by clicking on the 'Unsubscribe' link at the bottom of each newsletter. Alternatively you can contact us via the '[Contact us](https://web.archive.org/web/20150423061013id_/http%3A//www.nmm.ac.uk/server.php?show=nav.00500b)' section of the main website. Your details will then be deleted from the database.
 
 For a copy of the information we hold on you please contact the Museum at the address below.
 
@@ -91,4 +91,4 @@ London SE10 9NF
 
 Copyright © National Maritime Museum
 
-Read the Museum's [copyright notice](https://web.archive.org/web/20141227083150id_/http%3A//www.nmm.ac.uk/server.php?show=nav.3219).
+Read the Museum's [copyright notice](https://web.archive.org/web/20150423061013id_/http%3A//www.nmm.ac.uk/server.php?show=nav.3219).
