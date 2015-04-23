@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coingecko.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202195041id_/https%3A//www.coingecko.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coingecko.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423203638id_/https%3A//www.coingecko.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CoinGecko
 
