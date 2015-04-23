@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourezlist.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005407id_/http%3A//yourezlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourezlist.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423121534id_/http%3A//yourezlist.com/privacy.php) for the most accurate reproduction.*
 
 # Your EZ List! Viral List Builder | Instant Commissions | Free Traffic
 
-[](http://yourezlist.com/bannerclick.php?code=0820059bbd47e4c9449d3582bc670770)  
+[](http://yourezlist.com/bannerclick.php?code=f306d07d1d0022e299c953a089f94d6b)  
 
 
 Your EZ List Privacy Policy
@@ -39,7 +39,7 @@ Links: This web site contains links to other web sites. Please note that when yo
 
 Copyright (c) Your EZ List All Rights Reserved - Part of the [Trax Web](http://www.traxhelpdesk.com/sites/)
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php) | [ _Recommended Site of The Day_](http://yourezlist.com/recommends.php)
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php) | [ _Recommended Site of The Day_](http://yourezlist.com/recommends.php)  | [Your EZ List Promo Codes](http://trafficcodex.com/promo-codes/yourezlist.com&ref=8333 "Your EZ List Promo Codes")
 
   
 
