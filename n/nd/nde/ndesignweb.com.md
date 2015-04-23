@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndesignweb.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026002024id_/http%3A//www.ndesignweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndesignweb.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423071025id_/http%3A//www.ndesignweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NDesign
 
