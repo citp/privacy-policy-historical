@@ -1,1141 +1,480 @@
-<!--The following is the downloaded HTML source of the rewardsnetwork.com privacy policy that was archived on 2009-01-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090107065210id_/http%3A//www.rewardsnetwork.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rewardsnetwork.com privacy policy that was archived on 2015-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150423180909id_/http%3A//www.rewardsnetwork.com/business-solutions/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<title>Rewards Network Privacy Policy</title>
-		<meta name="robots" content="noodp,noydir">
-		<meta name="description" content="Rewards Network Inc. respects your privacy and wants you to know how information about you is collected and shared.">
-		<link rel="shortcut icon" href="http://content.idine.com/z/rn/favicon.ico" type="image/x-icon">
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
+		<meta charset="utf-8">
 		
-
-
-
-
-<script type="text/javascript" src="http://content.idine.com/m/js/jquery-1.2.1.min.js"></script>
-<script type="text/javascript" src="http://content.idine.com/m/js/jquery.autocomplete.js"></script>
-<script type="text/javascript" src="http://content.idine.com/m/js/jquery.bgiframe.min.js"></script>
-<script type="text/javascript" src="http://content.idine.com/m/js/jquery.below.js"></script>
-<link href="http://content.idine.com/m/css/jquery.autocomplete.css" rel="stylesheet" type="text/css" media="screen">
-<link href="http://content.idine.com/m/css/jquery.bettertip_p.css" rel="stylesheet" type="text/css">
-
-
-
-
-
-<script type="text/javascript" src="http://content.idine.com/m/js/jquery.form.js"></script>
-<script type="text/javascript" src="http://content.idine.com/m/js/jquery.bettertip.js"></script>
-
-<script type="text/javascript">
-
-jQuery.noConflict();
-jQuery(document).ready(function($) {
-
-
-
-$('#CityAjax').autocomplete('/ajax-one-box.htm',	{
-	minChars: 3,
-	max: 10,
-	delay: 30,
-	highlight: false,	
-	formatItem: formatItem,
-	formatResult: formatResult
-});
-
-$('#CityAjax').result(function(event, data, formatted) {
-	var hidden = $(this).find("..+/:input");
-	hidden.val( (hidden.val() ? hidden.val() + ";" : hidden.val()) + data[1]);
-	$('#CityAjax').parents('form').submit();
-});
-
-$('#CityAjax2').autocomplete('/ajax-one-box.htm',	{
-	minChars: 3,
-	max: 10,
-	delay: 30,
-	highlight: false,	
-	formatItem: formatItem,
-	formatResult: formatResult
-});
-
-$('#CityAjax2').result(function(event, data, formatted) {
-	var hidden = $(this).find("..+/:input");
-	hidden.val( (hidden.val() ? hidden.val() + ";" : hidden.val()) + data[1]);
-	$('#CityAjax2').parents('form').submit();
-});
-
-$('#CityAjax3').autocomplete('/ajax-one-box.htm',	{
-	minChars: 3,
-	max: 10,
-	delay: 30,
-	highlight: false,	
-	formatItem: formatItem,
-	formatResult: formatResult
-});
-
-$('#CityAjax3').result(function(event, data, formatted) {
-	var hidden = $(this).find("..+/:input");
-	hidden.val( (hidden.val() ? hidden.val() + ";" : hidden.val()) + data[1]);
-});
-
-function formatItem(row) {return row[1];}
-function formatResult(row) {return row[0];}
-
-	//$("div.loginButtonClosed").click(function(){$("div.quickLoginForm").slideToggle("fast"); $(".loginButtonClosed").toggleClass("loginButtonClosed2"); return false;});
-
-	$("div.vsaFromClosed").click(function(){$("div#vsaFromList").slideToggle("fast"); $(".vsaFromClosed").toggleClass("vsaFromClosed2");$("#vsaFT").toggleClass("vsaU");return false;});
-	$("div.vsaToClosed").click(function(){$("div#vsaToList").slideToggle("fast"); $(".vsaToClosed").toggleClass("vsaToClosed2"); $("#vsaTT").toggleClass("vsaU");return false;});
-
-
-	$("div.bene_guide_btn").click(function(){$("div.bene_guide").slideToggle("fast"); return false; });
-
-
-
-	
-
-	$("a.directionSearchClosedFrom").click(function(){
-		document.getElementById("ffAddress1").value="";
-		document.getElementById("ffCity").value="";
-		document.getElementById("ffState").value="";
-		document.getElementById("ffZipcode").value="";
-		document.getElementById("ftAddress1").value="";
-		document.getElementById("ftCity").value="";
-		document.getElementById("ftState").value="";
-		document.getElementById("ftZipcode").value="";
-		document.getElementById("sWhichForm").value="dFSF";
-		$("div#dFSF").slideToggle("slow");
-		resizeDirColumns();
-		return false;
-	});
-	$("a.directionSearchClosedTo").click(function(){
-		document.getElementById("ffAddress1").value="";
-		document.getElementById("ffCity").value="";
-		document.getElementById("ffState").value="";
-		document.getElementById("ffZipcode").value="";
-		document.getElementById("ftAddress1").value="";
-		document.getElementById("ftCity").value="";
-		document.getElementById("ftState").value="";
-		document.getElementById("ftZipcode").value="";
-		document.getElementById("sWhichForm").value="dTSF";
-		$("div#dTSF").slideToggle("slow");
-		resizeDirColumns();
-		return false;
-	});
-
-
-
-	$("a.addBankCardClosed").click(function(){$("div.quickAddBankCardForm").slideToggle("slow"); return false;});
-	$("a.addAddressClosed").click(function(){$("div.quickAddAddressForm").slideToggle("slow"); return false;});
-	$("a.addPhoneClosed").click(function(){$("div.quickAddPhoneForm").slideToggle("slow"); return false;});
-	$("a.editAddressClosed").click(function(){ showForm(); return false;});
-	$("a.editPhoneClosed").click(function(){$("div.quickEditPhoneForm").slideToggle("slow"); return false;});
-
-	
-    var myLoginFormOptions = {
-    	//dataType:  'xml',
-    	success: handleLoginResponse
-    };
-
-	$("#manaddrform").ajaxForm(manAddrFormOptions);
-	var manAddrFormOptions = {
-		success: handleManAddrResponse
-	};
-
-	/*$("#expander").click(function(){$("div.expanded").slideToggle("slow"); $(".open_btn").toggleClass("close_btn"); return false;});
-	$("#expander2").click(function(){$("div.expanded").slideToggle("slow"); $(".open_btn").toggleClass("close_btn"); return false;});*/
-
-function handleManAddrResponse(responseXml) {
-	var response = $('message', responseXml).text();
-	//alert("1");
-	if(response == 'true') {
-		//alert("2");
-		$("#manaddrsubmit").hide();
-	}
-}
-
-function handleLoginResponse(responseXml) {
-	var response = $('message', responseXml).text().split('|');
-
-	var status = response[0];
-	var message= response[1];
-	var page   = response[2];
-
-	if (status == 'false') {
-	document.getElementById("error_login").innerHTML=message;
-	}  else {
-	window.location = page;
-	}
-}
-});
-</script>
-
-
-<script type="text/javascript">
-function resizeDirColumns() {
-		setTimeout(function() {
-	        var test = document.createElement('div');
-        	jQuery(test).css({'width': '1px','min-width': '2px'});
-	        jQuery('body').append(test);
-	        var nativeSupport = ( test.offsetWidth && test.offsetWidth == 2 );
-	        jQuery(test).remove();
-			var anonh = jQuery("div#anonDir").height();
-			var newh = 1000;
-			if( anonh > 515) { newh = 485 + anonh; }
-			if(nativeSupport) {
-				jQuery("div#rest_details").css("min-height",newh);
-				jQuery("div#rest_details_col1").css("min-height",newh);
-				jQuery("div#rest_details_col2").css("min-height",newh);
-				jQuery("div#rest_details_col3").css("min-height",newh);
-			} else {
-				jQuery("div#rest_details").css("height",newh);
-				jQuery("div#rest_details_col1").css("height",newh);
-				jQuery("div#rest_details_col2").css("height",newh);
-				jQuery("div#rest_details_col3").css("height",newh);
-			}
-		},800);
-}
-/* delete cookie by setting expiration 1 second into the past */
-function deleteCookie (cookie_name)
-{
-  var cookie_date = new Date ( );  // current date & time
-  cookie_date.setTime ( cookie_date.getTime() - 1 );
-  document.cookie = cookie_name += "=; expires=-5";
-}
-
-function clearSearchCookie (inDomain)
-{
-	inDomain = inDomain.replace(/[\"\'][\s]*javascript:(.*)[\"\']/g, "\"\"");
-    inDomain = inDomain.replace(/script(.*)/g, "");
-    inDomain = inDomain.replace(/eval\((.*)\)/g, "");
-	var name = "searchCookie";
-	var value = "";
-	var domain = "." + escape(inDomain);
-	var path = "/";
-	var cookie_date = new Date ( );  // current date & time
-	var expires = 1000 * 60 * 60 * 24 * 365;
-  	cookie_date.setTime ( cookie_date.getTime() + expires );
-	var curCookie = name + "=" + escape(value) + "; expires=" + cookie_date + "; path=" + path + "; domain=" + domain;
-  document.cookie = curCookie;
-  document.getElementById('cookies').style.display='none';
-  if (document.getElementById('cookies2') != null) {
-  	document.getElementById('cookies2').style.display='none';
-  }
-}
-</script>
-
-<script type="text/javascript">
-/* get cookie */
-function parseCookie() {		
-cookie = readCookie('searchCookie');	
-
-if(!cookie) { return false; }
-	
-var results = new Array();
-var list = cookie.split(':');
-
-for(i = 0; i < list.length; i++) {
-	var parsedItem = list[i].split('|');
-	if (parsedItem != '') {	
-		parsedItem[1] = parsedItem[1].replace(/\+/g, ' ');
+		<title>Privacy Policy | Rewards Network</title>
 		
-		var exists = false;
-		for(j = 0; j < results.length; j++) {
-			if(results[j][1] == parsedItem[1]) {
-				exists = true;
-				break;
-			}
-		}
-		if(!exists) {					
-			results.push(parsedItem); 
-		}
-	}
+		<!-- Google Chrome Frame for IE -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+		<!-- mobile meta (hooray!) -->
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!-- icons & favicons (for more: http://themble.com/support/adding-icons-favicons/) -->
+		<link rel="shortcut icon" href="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/favicon.ico">
+				
+  		<link rel="pingback" href="https://www.rewardsnetwork.com/xmlrpc.php">
+		
+		<!-- wordpress head functions -->
+		<style type="text/css">
+					.no-break br {
+						display: none !important;
+					}
+			</style>
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.rewardsnetwork.com/business-solutions/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Rewards Network">
+<meta property="og:description" content="We respect your privacy and want you to know how we collect and share personally identifiable information about you and sensitive information about your business. We prepared this privacy policy to describe to you how we collect and share your personally identifiable information and sensitive information about your business. Please read this privacy policy so...  Read more »">
+<meta property="og:url" content="https://www.rewardsnetwork.com/business-solutions/privacy-policy/">
+<meta property="og:site_name" content="Rewards Network">
+<meta property="og:image" content="http://www.rewardsnetwork.com/wp-content/uploads/2014/04/SOC.jpg">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Rewards Network » Feed" href="https://www.rewardsnetwork.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Rewards Network » Comments Feed" href="https://www.rewardsnetwork.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Rewards Network » Privacy Policy Comments Feed" href="https://www.rewardsnetwork.com/business-solutions/privacy-policy/feed/">
+<link rel="stylesheet" id="partnerslider-frontend-css-css" href="https://www.rewardsnetwork.com/wp-content/plugins/partnerslider/css/partners.css" type="text/css" media="all">
+<link rel="stylesheet" id="partnerslider-skin-default-css" href="https://www.rewardsnetwork.com/wp-content/plugins/partnerslider/css/partners-skins/default/default.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery.prettyphoto-css" href="https://www.rewardsnetwork.com/wp-content/plugins/wp-video-lightbox/css/prettyPhoto.css" type="text/css" media="all">
+<link rel="stylesheet" id="video-lightbox-css" href="https://www.rewardsnetwork.com/wp-content/plugins/wp-video-lightbox/wp-video-lightbox.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.rewardsnetwork.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="DOPTS_JScrollPaneStyle-css" href="https://www.rewardsnetwork.com/wp-content/plugins/dopts/libraries/gui/css/jquery.jscrollpane.css" type="text/css" media="all">
+<link rel="stylesheet" id="DOPTS_ThumbnailScrollerStyle-css" href="https://www.rewardsnetwork.com/wp-content/plugins/dopts/assets/gui/css/jquery.dop.ThumbnailScroller.css" type="text/css" media="all">
+<link rel="stylesheet" id="scroll-triggered-boxes-css" href="https://www.rewardsnetwork.com/wp-content/plugins/scroll-triggered-boxes/assets/css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="cpsh-shortcodes-css" href="https://www.rewardsnetwork.com/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css" type="text/css" media="all">
+<link rel="stylesheet" id="bones-stylesheet-css" href="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/css/style.css" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='bones-ie-only-css'  href='https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="my_plugin2_style-css" href="https://www.rewardsnetwork.com/wp-content/plugins/simple-slideshow-manager/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="lightboxStyle-css" href="https://www.rewardsnetwork.com/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.css" type="text/css" media="screen">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+window.slideDeck2Version = "2.3.9";
+window.slideDeck2Distribution = "pro";
+</script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/partnerslider/js/jquery.partners-slider.full.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/partnerslider/js/jquery.color-gray.scale.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/partnerslider/js/jquery.easing.1.3.min.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast","slideshow":"5000","autoplay_slideshow":"false","opacity":"0.80","show_title":"true","allow_resize":"true","allow_expand":"true","default_width":"640","default_height":"480","counter_separator_label":"\/","theme":"pp_default","horizontal_padding":"20","hideflash":"false","wmode":"opaque","autoplay":"false","modal":"false","deeplinking":"false","overlay_gallery":"true","overlay_gallery_max":"30","keyboard_shortcuts":"true","ie6_fallback":"true"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/dopts/assets/js/jquery.dop.ThumbnailScroller.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/js/libs/modernizr.custom.min.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/easy-logo-slider/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/easy-logo-slider/js/jcarousel.responsive.js"></script>
+<link rel="shortlink" href="https://www.rewardsnetwork.com/?p=323">
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.e1258a68-a565-4446-b322-def517b906bf'});var st_type='wordpress3.5';</script><script src="http://a.vimeocdn.com/js/froogaloop2.min.js?25f83-1376905454"></script>
+<script type="text/javascript" id="acx_js_api">
+function call_acx_y_player(frame_id, func,id,u_id, args){
+frame_id_dpl = frame_id+u_id;
+var frame ='#'+frame_id+u_id;
+var imageid = '#acx_image_'+u_id+'_'+id;
+var vedio_stat_field ='#acx_hidden_id_'+u_id;
+var palybuttn = '.acx_dis_yplay_but_'+u_id;
+var pausebuttn = '.acx_dis_ypause_but_'+u_id;
+if(func=="playVideo")
+{
+jQuery(imageid).hide();
+jQuery(frame).fadeIn('slow');
+jQuery(palybuttn).hide();
+jQuery(pausebuttn).show();
+jQuery(vedio_stat_field).val('play');
 }
-return results;
+else if(func=="stopVideo")
+{
+jQuery(frame).hide();
+jQuery(imageid).fadeIn('slow');
+jQuery(palybuttn).show();
+jQuery(pausebuttn).hide();
+jQuery(vedio_stat_field).val('stop');
 }
-
-function readCookie(name) {
-
-var cookie = document.cookie;
-var str = name + '=';
-var start = cookie.indexOf(str);
-if(start != -1) {
-	var end = cookie.indexOf(';', start);
-	if(end != -1) {
-		return unescape(cookie.substring(start + str.length, end));
-	} else {
-		return unescape(cookie.substring(start + str.length));
-	}
-} else {
-	return false;
-}		
-
+if(!frame_id) return;
+if(frame_id_dpl.id) frame_id_dpl = frame_id_dpl.id;
+else if(typeof jQuery != "undefined" && frame_id_dpl instanceof jQuery && frame_id_dpl.length) frame_id = frame_id_dpl.get(0).id;
+if(!document.getElementById(frame_id_dpl)) return;
+args = args || [];
+/*Searches the document for the IFRAME with id=frame_id*/
+var all_iframes = document.getElementsByTagName("iframe");
+for(var i=0, len=all_iframes.length; i<len; i++){
+if(all_iframes[i].id == frame_id_dpl || all_iframes[i].parentNode.id == frame_id){
+/*The index of the IFRAME element equals the index of the iframe in
+the frames object (<frame> . */
+window.frames[i].postMessage(JSON.stringify({
+"event": "command",
+"func": func,
+"args": args,
+"id": frame_id
+}), "*");
+}
+}
+}
+function acx_play_vimeo_video(vedio_id,id,u_id)
+{
+	var iframe_id = "#player_"+vedio_id+u_id;
+	var iframe = jQuery(iframe_id)[0],
+	player = iframe;
+var frame ='#'+vedio_id+u_id;
+var imageid = '#acx_image_vimeo_'+u_id+'_'+id;
+var vedio_stat_field ='#acx_hidden_id_'+u_id;
+var palybuttn = '.acx_dis_vplay_but_'+u_id;
+var pausebuttn = '.acx_dis_vpause_but_'+u_id;
+jQuery(vedio_stat_field).val('play');
+jQuery(imageid).hide();
+jQuery(frame).fadeIn('slow');
+jQuery(palybuttn).hide();
+jQuery(pausebuttn).show();
+player.api('play');
+}
+function acx_stop_vimeo_video(vedio_id,id,u_id)
+{
+	var iframe_id = "#player_"+vedio_id+u_id;
+	var iframe = jQuery(iframe_id)[0],
+	player = iframe;
+	
+var frame ='#'+vedio_id+u_id;
+var imageid = '#acx_image_vimeo_'+u_id+'_'+id;
+var vedio_stat_field ='#acx_hidden_id_'+u_id;
+var palybuttn = '.acx_dis_vplay_but_'+u_id;
+var pausebuttn = '.acx_dis_vpause_but_'+u_id;
+jQuery(frame).hide();
+jQuery(imageid).fadeIn('slow');
+jQuery(palybuttn).show();
+jQuery(pausebuttn).hide();
+jQuery(vedio_stat_field).val('stop');
+player.api('unload');
 }
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		<link href="http://content.idine.com/z/rn/d/style_p.css" rel="stylesheet" type="text/css">
-		<link href="http://content.idine.com/z/rn/d/globalnav_p.css" rel="stylesheet" type="text/css">
-
+<style type="text/css">
+.avatar {vertical-align:middle}
+.credit {font-size: 50%;}
+</style>
+				
+<!-- Responsive Select CSS 
+================================================================ -->
+<style type="text/css" id="responsive-select-css">
+.responsiveSelectContainer select.responsiveMenuSelect, select.responsiveMenuSelect{
+	display:none;
+}
+
+@media (max-width: 960px) {
+	.responsiveSelectContainer{
+		border:none !important;
+		background:none !important;
+		box-shadow:none !important;
+	}
+	.responsiveSelectContainer ul, ul.responsiveSelectFullMenu, #megaMenu ul.megaMenu.responsiveSelectFullMenu{
+		display: none !important;
+	}
+	.responsiveSelectContainer select.responsiveMenuSelect, select.responsiveMenuSelect { 
+		display: inline-block; 
+		width:100%;
+	}
+}	
+</style>
+<!-- end Responsive Select CSS -->
+
+<!-- Responsive Select JS
+================================================================ -->
+<script type="text/javascript">
+jQuery(document).ready( function($){
+	$( '.responsiveMenuSelect' ).change(function() {
+		var loc = $(this).find( 'option:selected' ).val();
+		if( loc != '' && loc != '#' ) window.location = loc;
+	});
+	//$( '.responsiveMenuSelect' ).val('');
+});
+</script>
+<!-- end Responsive Select JS -->
+		
+		<!-- end of wordpress head -->
+			
+		<!-- drop Google Analytics Here -->
+		
 		<script type="text/javascript">
-			function printview()
-			{
-			 	myWindow = window.open("static-print.htm", "tinyWindow", 'toolbar,width=745,height=1000,scrollbars=1');
-			}
-		</script>
-<script type="text/javascript" charset="windows-1252" src="http://content.idine.com/m/js/oo_engine.js"></script>
+
+      		var _gaq = _gaq || [];
+      		_gaq.push(['_setAccount', 'UA-6133587-2']);
+		_gaq.push(['_setAllowLinker', true]);
+		_gaq.push(['_trackPageview']);
+
+      		(function() {
+        	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      		})();
+
+    		</script>
+		<!-- end analytics -->
+		<style>
+		  a#scroll-to-top {display:none!important;}
+		</style>
+		<meta name="p:domain_verify" content="e384a29b8e61d3cf591020e0b36c00b2">
+		
 	</head>
-
-<body>
-    	<div id="header">
-		<h3></h3>
-		
-
-<a href="/">
-<div id="headerlinkhome">
-
+	
+	<body style="background:#ededed;" class="page page-id-323 page-child parent-pageid-199 page-template page-template-rewardsnetworkfullwidth-php">
+	  <div id="redBar">
+	   <div class="wrapLarge clearfix">
+	    <div class="topLeft" style="overflow:hidden;width:68%;padding:3px 0;">
+        	<span style="float:left;padding:10px 12px;">Call us at (866) 559-3463 &nbsp; &nbsp;</span>
+             	<a href="http://stnd.rewardsnetwork.com/" target="_blank" style="float:left;background:url(http://www.rewardsnetwork.com/wp-content/uploads/2014/08/rn-top-arrow.png) 10px 13px no-repeat;padding:10px 0 10px 33px;text-decoration:none;">Looking for restaurants?</a>
+                <!--<a href="http://www.rewardsnetwork.com/" target="_blank" style="float:left;padding:10px 12px;background:none;">Join today for free</a>-->
+        </div>
+	    <!--<a class="mobile-only earnRewardsText" href="http://www.rewardsnetwork.com/" target="_blank">Earn Rewards for Free &raquo;</a>-->
+	    <div class="topRight" style="width:auto;overflow:hidden;margin-top:13px;">
+        	<div style="float:left;background:none!important;"><form method="get" id="searchform" action="https://www.rewardsnetwork.com/">
+<div style="border-radius:5px;width:190px;height:24px;background:#FFF;">
+<input type="search" size="10" name="s" id="s" value="Search" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" style="padding-left:5px;width:143px;border:none;margin-left:5px;color:#666;font-size:13px;">
+  <!--<div class="divider"></div>-->
+<input type="submit" id="searchsubmit" value="Search" class="btn" style="position:static;right:0;">
 </div>
-</a>
-
-<script type="text/javascript">
-/* hide & show (hs) */
-
-var hs_animationInProgress = false;
-
-var hs_containerElement;
-var hs_animationElement;
-var hs_timeoutSpeed;
-
-function hs_toggleElement(id, speed, caller, class_closed, class_open, slide)
-{
-	if(hs_animationInProgress) return;
-
-	switch(speed)
-	{
-		case 'fast': hs_timeoutSpeed = 5; break;
-		case 'slow': hs_timeoutSpeed = 30; break;
-		case 'instant': default: hs_timeoutSpeed = 0; break;
-	}
-
-	hs_containerElement = document.getElementById(id);
-	hs_animationElement = hs_containerElement.getElementsByTagName('div')[0];
-
-	if(hs_timeoutSpeed)
-	{
-		//only do this to slide
-		if(slide)
-			hs_animationElement.style.position = 'relative';
-
-		hs_animationInProgress = true;
-
-		if((!hs_containerElement.style.display || hs_containerElement.style.display == 'none') && hs_containerElement.className != 'sliderHolderOpen')
-		{
-			if(slide)
-				hs_animationElement.style.top = 0 - hs_animationElement.offsetHeight + 'px';
-
-			hs_containerElement.style.display = 'block';
-			hs_containerElement.style.visibility = 'visible';
-
-			if(class_open)
-				caller.className = class_open;
-
-			(speed == 'fast') ?	animationInc = Math.floor(hs_animationElement.offsetHeight / 3) : animationInc = Math.floor(hs_animationElement.offsetHeight / 8);
-			hs_animateElement(animationInc);
-		}
-		else
-		{
-			if(hs_containerElement.className == 'sliderHolderOpen')
-				hs_containerElement.className = 'sliderHolderOpen2';
-
-			if(class_closed)
-				caller.className = class_closed;
-
-			(speed == 'fast') ?	animationInc = Math.floor(hs_animationElement.offsetHeight / 3) : animationInc = Math.floor(hs_animationElement.offsetHeight / 8);
-			hs_animateElement(animationInc * -1);
-		}
-	}
-	else
-	{
-		if((!hs_containerElement.style.display || hs_containerElement.style.display == 'none') && hs_containerElement.className != 'sliderHolderOpen')
-		{
-			hs_containerElement.style.display = 'block';
-			hs_containerElement.style.visibility = 'visible';
-			hs_containerElement.style.height = hs_animationElement.offsetHeight + 'px';
-
-			if(class_open)
-				caller.className = class_open;
-		}
-		else
-		{
-			if(hs_containerElement.className == 'sliderHolderOpen')
-				hs_containerElement.className = '';
-
-			hs_containerElement.style.display = 'none';
-			hs_containerElement.style.visibility = 'hidden';
-
-			if(class_closed)
-				caller.className = class_closed;
-		}
-	}
-}
-
-function hs_animateElement(direction)
-{
-	//get the height of the container
-	height = hs_containerElement.clientHeight;
-
-	if(height == 0)
-		height = hs_containerElement.offsetHeight;
-
-	continueAnimation = true;
-
-	//if the height is bigger the the content, then height = content height, dont continue
-	if(height + direction > hs_animationElement.offsetHeight)
-	{
-		height = hs_animationElement.offsetHeight;
-		continueAnimation = false;
-		hs_animationInProgress = false;
-	}
-	else if(height + direction <= 1)
-	{
-		height = 1;
-		continueAnimation = false;
-		hs_animationInProgress = false;
-	}
-	else
-	{
-		height = height + direction;
-	}
-
-	//set the heigh to the container
-	hs_containerElement.style.height = height + 'px';
-
-	var animationElementTop = height - hs_animationElement.offsetHeight;
-
-	if(animationElementTop > 0)
-		animationElementTop = 0;
-
-	hs_animationElement.style.top = animationElementTop + 'px';
-
-	if(continueAnimation)
-	{
-		setTimeout('hs_animateElement(' + direction + ')', hs_timeoutSpeed);
-	}
-	else
-	{
-		//hs_animationInProgress = false;
-		if(height <= 1)
-		{
-			hs_containerElement.style.display = 'none';
-			hs_containerElement.style.visibility = 'hidden';
-
-
-			hs_animationElement.style.display = 'block';
-			hs_animationElement.style.visibility = 'visible';
-
-			//hs_animationInProgress = false;
-		}
-
-		//hs_animationInProgress = false;
-	}
-}
-</script>
-
-
+</form> </div>
+            <div style="float:left;padding:2px 8px;height:24px;border:1px solid white;border-radius:6px;font-size:11px;margin-left:10px;"><a href="https://client.rewardsnetwork.com/rncomments/index.htm" target="_blank" style="text-decoration:none;">Login</a></div>
+         </div>
+	   </div>
+	  </div>
 	
-	
-		<div class="quickLogin">
-			<div align="right">
-				<table cellpadding="0" cellspacing="0"><tbody><tr><td>
-				<span>Already a Member?&nbsp;</span></td><td>
-				<div class="loginButtonClosed" onclick="hs_toggleElement('sectionQL', 'slow', this, 'loginButtonClosed', 'loginButtonClosed2');" id="lbcid"></div></td></tr></tbody></table>
-
-			</div>
+		<div id="container">
 			
-			<div align="right" id="sectionQL" class="sliderHolderClosed" style="display: none; position:relative; top: -1px;">
-					<div align="left" class="quickLoginForm2">
-						<form method="post" action="https://www.rewardsnetwork.com/login.htm" onkeydown="var evn=window.event||event;if(evn.keyCode==13){this.submit();return false;}">
-							<table cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td class="pad_t10 bold" style="font-size: 9px;">Login ID</td>
-									<td class="pad_t10 bold" style="font-size: 9px;" colspan="2">Password</td>
-								</tr>
-								<tr>
-									<td><input type="text" id="loginId" name="loginId" size="20" class="qlTextInput" maxlength="50" autocomplete="off"></td>
-									<td><input type="password" id="password" name="password" size="20" class="qlTextInput" autocomplete="off"></td>
-									<td><input type="image" name="submit" value="submit" src="http://content.idine.com/z/rn/d/i/quicklogin_go_btn.gif"></td>
-								</tr>
-								<tr>
-									<td valign="top"><input type="checkbox" id="remember" name="remember" checked=""><span class="mov_u3">Remember Login ID</span></td>
-									<td valign="top" colspan="2"><a href="/login.htm?s=forgot">Forgot Password?</a>&nbsp;<img class="mov_d2" src="http://content.idine.com/z/rn/d/i/hm_qcklg_scre_icon.gif" title="This Site uses 128-Bit SSL Encryption."></td>
-								</tr>
-							</tbody></table>
-							<div id="error_login"></div>
-							<input type="hidden" id="loginType" name="loginType" value="standard">
-							<input type="hidden" id="location" name="location" value="/web/20090107065210id_/http%3A//www.rewardsnetwork.com/privacy.htm">
-							<input type="hidden" id="redirect" name="redirect" value="Y">
-							<input type="hidden" id="showMessage" name="showMessage" value="Y">
-							<input type="hidden" name="loginToken" value="qNbn7z4anMWSJw4anXSIhmLCYp2OnF">
-						</form>
-					</div>
-			</div>
+			<header class="headerMain" role="banner">
 			
-		</div>
-
-		<script type="text/javascript">
-			var temp = document.getElementById("location");
-			temp.value = window.location.pathname + window.location.search;
-		</script>
-	
-
-
-
-			<div id="globalnav">
-				<ul id="topnav">    
-  <li id="whyjoin"><a href="/"><span class="hidden">Why join</span></a></li> 
-  <li id="howitworks"><a href="/howitworks.htm"><span class="hidden">How it works</span></a></li>    
-  <li id="bonuses"><a href="/bonus.htm"><span class="hidden">Bonuses</span></a></li>           
-  <li id="joinnow"><a href="/join.htm">
-<span class="hidden">Join now</span></a></li></ul>
-				
-				<script language="javascript" type="text/javascript" charset="windows-1252">O_GoT('<span class="f_right pad_t10 pad_r10 nodec pointer textwhite">Site Feedback? [+]</span>');</script> 
-			</div>
-		</div>
-<div id="backdrop"><div id="repeater">
-<div id="sitecontainer" class="p_rel">
-		
-			<div id="searcharea">
-				
-
-
-
-
-
-	
-	<form name="cszForm" id="cszForm" method="get" action="/search.htm">		
-		<img src="http://content.idine.com/z/rn/d/i/nav_ttl_search.gif" class="pad_r5 mov_d3 noborder">
-			<input class="f10 pad_l5" type="text" id="CityAjax" name="q" value="Zip (or) City, State" onblur="if (this.value == '') { this.value = 'Zip (or) City, State'; }" onfocus="if (this.value == 'Zip (or) City, State') { this.value = ''; }">
-			<span class="p_rel">
-				
-	
-				<span class="extendedSearch">
+				<div id="inner-header" class="wrapLarge clearfix">
 					
-
-
-
-
-
-
+					<!-- to use a image just replace the bloginfo('name') with your img src and remove the surrounding <p> -->
+					<a href="https://www.rewardsnetwork.com/business-solutions" rel="nofollow"><div id="logoBiz"><img src="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/images/logo_bizsolutions.png" alt="Rewards Network"></div></a>
+					
+					<!-- if you'd like to use the site description you can un-comment it below -->
+										
+					
+					  <nav id="mainNav" role="navigation">
+						  <ul id="menu-biz-nav" class="biz-nav clearfix"><li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="https://www.rewardsnetwork.com/business-solutions/our-business/">Our Business</a></li>
+<li id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="https://www.rewardsnetwork.com/business-solutions/solutions/">Solutions</a></li>
+<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="https://www.rewardsnetwork.com/business-solutions/rewards/">Rewards</a></li>
+<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217"><a href="https://www.rewardsnetwork.com/business-solutions/blog/">Blog</a></li>
+<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="https://www.rewardsnetwork.com/business-solutions/contact-us/">Contact Us</a></li>
+</ul>					  </nav>
 				
-
-
-					<div class="dot_top">
-						<div>
-							<div class="bold f_left fontred pad_b5 pad_t5 pad_l10">
-								RECENT SEARCHES<br>								
-							</div>
-							<script>
-								var cookieArray = parseCookie();
-								if (cookieArray && cookieArray.length > 0) {
-									document.write('<div class="f_right pad_r5 pad_b5 pad_t5"><a href="#" onclick="clearSearchCookie(\'www.rewardsnetwork.com\');">Clear Searches &raquo;</a></div>');
-								}
-							</script>
-							<div class="clear"></div>
-						</div>
-
-						<div id="cookies" class="pad_b15">
-														
-							<script>	
-								if (cookieArray && cookieArray.length > 0) {									
-									for(i=0; i < cookieArray.length; i++)
-									{ 	
-										if(cookieArray[i][0].indexOf("=")==0)
-										 cookieArray[i][0]="q"+cookieArray[i][0];
-										if(cookieArray[i][0].indexOf("q=")==-1)
-										 cookieArray[i][0]="q="+cookieArray[i][0];									
-										document.write('<div class="pad_l10"><img src="http://content.idine.com/z/rn/d/i/location_arrow_grey.gif"/> <a class="nodec" href="/search.htm?' + cookieArray[i][0] + '">' + cookieArray[i][1]+ '</a></div>'); 
-									}
-								}
-							</script>							
-						</div>
-					</div>
-				</span>
-			</span>
-			<span id="go">
-				<img id="cszSubmitButton" onclick="if(document.getElementById('CityAjax').value.toString().charAt(0)!=' ' &amp;&amp; document.getElementById('CityAjax').value!='Zip (or) City, State'&amp;&amp; document.getElementById('CityAjax').value!='' &amp;&amp; document.getElementById('CityAjax').value.toString().length>=3) document.getElementById('cszForm').submit();" src="http://content.idine.com/z/rn/d/i/hm_qcklg_go_btn.gif" class="pointer">
-			</span>
-			<div id="advlink" class=""><a class="textwhite" href="/advanced-search.htm">Advanced Search »</a></div>
-	</form>
-
-
-
-			</div>
-		
-		<div id="staticmain">
-			<div style="background-image:url(http://content.idine.com/z/rn/d/i/privacy_header.jpg); height:89px; "></div>
-
-		    		<div id="topspan">
-						<div class="root"><b>You are in:</b>&nbsp;<a href="/">Home</a>&nbsp;&gt;&nbsp;Privacy Policy</div>
-						<div class="rightlinks"><img alt="Print Friendly" src="http://content.idine.com/z/rn/d/i/merch_direct_btn_print.gif"><a href="javascript:printview();">Printer Friendly</a></div>
-					</div>
-				<div id="about">
-					<div id="leftside">
-					    
-						
-							<div class="left_head">
-	<a href="faqs.htm"><img src="http://content.idine.com/z/rn/d/i/rn_on_03.gif" class="noborder"></a>
-</div>
-<div class="left_head">
-	<img src="http://content.idine.com/z/rn/d/i/rn_down_06.gif" class="noborder">
-</div>
-<div class="left_head">
-	<a href="terms.htm"><img src="http://content.idine.com/z/rn/d/i/rn_on_13.gif" class="noborder"></a>
-</div>
-<div class="left_head">
-	<a href="contact.htm"><img src="http://content.idine.com/z/rn/d/i/rn_on_17.gif" class="noborder"></a>
-</div>
-<div class="left_head">
-	<a href="about.htm"><img src="http://content.idine.com/z/rn/d/i/rn_on_20.gif" class="noborder"></a>
-</div>
-<div class="left_head">
-	<a href="careers.htm"><img src="http://content.idine.com/z/rn/d/i/rn_on_23.gif" class="noborder"></a>
-</div>
-<div class="left_head">
-	<a href="http://investor.rewardsnetwork.com/phoenix.zhtml?c=63758&amp;p=irol-IRHome"><img src="http://content.idine.com/z/rn/d/i/rn_on_26.gif" class="noborder"></a>
-</div>
-<div class="left_head">
-	<a href="corporate.htm"><img src="http://content.idine.com/z/rn/d/i/rn_on_29.gif" class="noborder"></a>
-</div>
-<div class="left_head">
-	<a href="owners.htm"><img src="http://content.idine.com/z/rn/d/i/rn_on_32.gif" class="noborder"></a>
-</div>
-						
-				   	</div>
-				   	<div id="rightside">
-						
-						
-							<div class="pad_b20"><img src="http://content.idine.com/z/rn/d/i/PrivacyPolicy_03.gif"></div>
-	<div class="f12 fontgreen bold pad_b10">Our pledge to you, our member</div>
-	<div class="pad_b10 b_b">
-		<div class="pad_b10">Rewards Network Inc. and its affiliates (referred to herein as "we", "us" and "our") respect your privacy and want you to know how information about you is collected and shared. We have prepared this privacy policy ("Privacy Policy") describing how we collect and disclose personally identifiable information about you ("Personal Information").</div>
-	<div>Please read this Privacy Policy so that you can make informed decisions about using our services. By participating in one of our Rewards Network programs (the "Rewards Network"), you agree to these provisions. This Privacy Policy applies to current and former members in the Rewards Network. The companies in our corporate family (called "affiliates"), when this Policy was updated, are listed for you at the end of the Privacy Policy.</div>
-</div>
-<div class="pad_t10 f12 fontgreen bold pad_b10">Your Privacy Protections</div>
-	<div class="pad_b10 b_b">
-		<div>We take several steps to protect your Personal Information. Among other things:</div>
-		
-  <ul class="mar0">
-    <li>We will not disclose your Personal Information to any nonaffiliated third 
-      party for use in marketing that party’s goods or services without 
-      your consent; </li>
-    <li>We will give you access to information we maintain on your name, how to 
-      contact you, credit cards you have registered with the Rewards Network, 
-      and certain other preferences you have registered with us ("Registration 
-      Information"), and we will allow you to correct any inaccuracies; and</li>
-    <li>We will take reasonable steps to protect the security of the Personal 
-      Information we collect about you.</li>
-  </ul>
-		</div>
-<div class="pad_t10 f12 fontgreen bold pad_b10">What Personal Information We Collect</div>
-	<div class="pad_b10 b_b">
-		<div class="pad_b10">We gather the following types of Personal Information in connection with the provision of our services to you.</div>
-		<ul class="mar0">
-		<li><u>Information you voluntarily provide to us.</u> For example, when you register to participate in the Rewards Network, you may provide us with Personal Information.</li>
-		<li><u>Information about your transactions with us or with others.</u> For example, we collect Personal Information from merchants that accept your credit card as payment for goods or services, including merchants that are participating in the Rewards Network or that have agreed to help us evaluate our program.  We may also collect Personal Information from merchants or other parties who do not participate in the Rewards Network.</li>
-		<li><u>Information obtained about you from others.</u> For example, we work with firms that provide us demographic information or that enroll you in the Rewards Network (like a credit card company or airline).</li>
-		</ul>
-	</div>
-<div class="pad_t10 f12 fontgreen bold pad_b10">What Personal Information We Disclose</div>
-		<div class="pad_b10 b_b">
-		
-  <div class="pad_b10">We do not disclose any Personal Information to nonaffiliated 
-    third parties, except as necessary for the nonaffiliated third party to provide 
-    services to us (such as printing or mailing services) or as permitted by law. 
-    This means that we will not disclose your Personal Information (such as your 
-    telephone number) to nonaffiliated third parties for such parties’ use 
-    in marketing its goods or services without your consent. </div>
-		
-  <div class="pad_b10">However, since we may disclose information as permitted 
-    by law, we may, for example, disclose Personal Information in connection with 
-    giving you credit for rewards, carrying out a transaction you have requested, 
-    operating or managing our business, or responding to legal process. </div>
-		<div class="pad_b10">We may obtain your consent to share information with third parties in various ways. For example, we may invite you to participate in a survey or special promotional program offered by a third party and your choice to participate in such a survey or promotional program will indicate your consent for us to share information with third parties in connection with the survey or promotional program.</div>
-		
-  <div>We also may disclose any Personal Information we collect with our affiliates. 
-    However, we will not disclose with our affiliates any Personal Information 
-    that is collected or used to determine eligibility for credit, insurance, 
-    or employment (such as a consumer report from a consumer reporting agency), 
-    except as permitted by law or to affiliates that provide services for us, 
-    unless we give you the right to ask us not to do so.</div>
-</div>
-<div class="pad_t10 f12 fontgreen bold pad_b10">Anonymous Information</div>
-	
-<div class="pad_b10 b_b">We may share information that is not personally identifiable 
-  to you (“Anonymous Information”), including aggregated demographic 
-  and statistical information, with our affiliates, partners, merchants, and others. 
-  Such information could be used, for example, to provide us with statistical 
-  or other analysis. None of this Anonymous Information can be linked by the recipient 
-  to any Personal Information that can identify you. </div>
-						
-							<div class="pad_t10 f12 fontgreen bold pad_b10">Communicating With You</div>
-		<div class="pad_b10 b_b">
-		
-  <div class="pad_b10">We may from time to time send special offers to you on 
-    behalf of selected companies that we think may be of interest to you. However, 
-    because we or our third party vendors (and not the selected company) would 
-    send such offers to you, it is not necessary to disclose Personal Information 
-    to the company in order to send these offers to you. We also may send you 
-    offers for goods or services sold by us or our affiliates, including in our 
-    e-mail newsletters, by e-mail or ordinary mail, or by telephone. </div>
-		
-  <div>We will allow you to choose not to receive these marketing communications 
-    from us. For example, if you do not want to receive our dining e-mail newsletters, 
-    or other dining e-mail marketing communications from us, you may unsubscribe 
-    or opt out from such dining marketing communications by clicking the link 
-    included at the bottom of each e-mail message we send to you. You also can 
-    choose to not receive special offers we send on behalf of other companies. 
-    Please read the section entitled "Reviewing, Changing Your Registration Information 
-    or Unsubscribing" for details on how to request not to receive these 
-    marketing communications. </div>
-</div>
-<div class="pad_t10 f12 fontgreen bold pad_b10">“E-mail a Friend” 
-  and “Refer a Friend” Information</div>
-		<div class="pad_b10 b_b">
+				</div> <!-- end #inner-header -->
 			
-  <div class="pad_b10">You may use our E-mail a Friend service to send restaurant 
-    links to family and friends via e-mail. Rewards Network will automatically 
-    send a one-time e-mail inviting your family and friends to visit the specific 
-    restaurant page on <a href="/">www.rewardsnetwork.com.</a> Your family 
-    and friends may <a href="/contact.htm">contact us</a> to request that 
-    their information be removed.</div>
+			</header> <!-- end header -->
 			
-  <div>You may use our Refer a Friend service to refer your family and friends 
-    to become members of Rewards Network. Rewards Network will automatically send 
-    a one-time e-mail inviting your family and friends to visit <a href="/">www.rewardsnetwork.com</a> 
-    and become members of our program. Your family and friends may <a href="/contact.htm">contact 
-    us</a> to request that their information be removed.</div>
-</div>
+			<div id="content">
+			
+				<div id="inner-content" class="wrapLarge clearfix">
+			
+				    <div id="main" class="twelvecol whiteFW first clearfix" role="main">
 
-<div class="pad_t10 f12 fontgreen bold pad_b10">Operating Our Website (Including How We Use Cookies)</div>
-	<div class="pad_b10 b_b">
-	<div class="pad_b10">When you visit our site without logging in, we may collect usage information ("session data"), but it is anonymous and is not linked to you as an individual. We may use session data for a variety of reasons, including to better understand things like how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the types of browsers and computer operating systems used by our visitors, and the Internet Protocol addresses from which our visitors connect to our site.</div>
-	<div class="pad_b10">When you visit our site and login, we may collect usage information ("persistent data"), that will be linked to your User Name and password. We may use the persistent data for a variety of reasons, including to monitor your use of our site in conjunction with your participation in one of our programs.</div>
-	
-<div class="pad_b10">We use cookies on our website to collect session data and 
-  persistent data for several purposes, such as to personalize and improve your 
-  individual viewing experiences on our site. Cookies placed on your computer 
-  by <a href="/">www.rewardsnetwork.com</a> can only be read by the <a href="/">www.rewardsnetwork.com</a> 
-  web server. We use two different types of cookies in our website:</div>
-	<div class="pad_b10">• "Session cookies" track the user’s progression through our sites and session data in a single visit. These cookies enable us to remember things as the user progresses from one page to another. Your session cookies are deleted as soon as you close your browser. In addition, if you leave your browser open for a prolonged period, they are set to automatically erase themselves after a short period.</div>
-	<div class="pad_b10">• "Persistent cookies" remember a user and the user’s persistent data at the user’s next visit to our website. Your persistent cookies are not automatically erased, and they remain on your computer until you erase them. (If you do not want these cookies to remain on your computer, you can erase them by following the steps for your specific browser.) For members, we may use a persistent cookie to remember such things as your User Name, name, preferred dining area, selected cuisine type and other promotional links that you clicked on while on the site.</div>	
+					    					
+					    <article id="post-323" class="post-323 page type-page status-publish hentry clearfix" role="article">
+					      <header class="article-header">
+							
+							    <h1 class="page-title" itemprop="headline">Privacy Policy</h1>
 						
-							<div class="pad_b10">Most Internet browsers automatically accept cookies. However, 
-  you can instruct your browser to stop accepting cookies or prompt you before 
-  accepting a cookie from the sites you visit.</div>
-	
-<div class="pad_b10">Rewards Network may also use a third party to place cookies 
-  on your computer to track and analyze non-personally identifiable usage and 
-  volume statistical information from our visitors and customers to administer 
-  our website in order to constantly improve the website quality. </div>
-	
-<div class="pad_b10">Clear GIFs are tiny graphics with a unique identifier, similar 
-  in function to cookies, and are used to track the online movements of Web users. 
-  The main difference between the two is that clear GIFs are invisible on the 
-  page and are much smaller, about the size of the period at the end of this sentence. 
-  Clear GIFs are not tied to users' personally identifiable information.</div>
-	
-<div class="pad_b10">To help us improve visitor experience and manage site content, 
-  third party vendors and our site may utilize clear GIFs to track and analyze 
-  non-personally identifiable usage and volume information from our visitors and 
-  customers to administer our website or improve its quality.</div>
-	
-<div>Our website may have links to other sites on the Internet that are owned 
-  by third parties ("External Sites"), or you may come to our website 
-  from a link on an External Site. These other websites will have their own rules 
-  on privacy that you should review. Rewards Network is not responsible for the 
-  privacy policies of External Sites.</div>
-</div>
-<div class="pad_t10 f12 fontgreen bold pad_b10">Data Security</div>
-	<div class="pad_b10 b_b">
-		
-  <div class="pad_b10">We restrict access to Personal Information to those individuals 
-    or entities that need to know that information to operate, manage, and expand 
-    the Rewards Network, including to provide products and services to you. We 
-    maintain physical, electronic, and procedural safeguards to guard your Personal 
-    Information.</div>
-	
-  <div>With respect to use of our website, we use industry-standard encryption 
-    technologies when transferring and receiving Personal Information through 
-    our site. We use Secure Sockets Layer (SSL) technology that encrypts information 
-    and keeps the data private and confidential between your machine and <a href="/">www.rewardsnetwork.com.</a> 
-    This technology makes it safer to transmit your credit card number over the 
-    Internet.</div>
-	</div>
-	<div class="pad_t10 f12 fontgreen bold pad_b10">Reviewing, Changing Your Registration Information or Unsubscribing</div>
-	<div class="pad_b10 b_b">
-	
-  <div class="pad_b10">At any time, you can correct or update your Registration 
-    Information or modify your preferences pertaining to our newsletter and other 
-    marketing communications (whether made by e-mail, telephone, or ordinary mail). 
-    To review, change, or update your Registration Information, or unsubscribe 
-    or opt out from our monthly newsletters or other marketing communications, 
-    you have several options:</div>
-	
-  <ul class="mar0 pad_b10">
-    <li>Online: On the <a href="/">www.rewardsnetwork.com.</a> site login to your account and 
-      click on the "My Account" link at the top of the home page. Then 
-      click on the appropriate link to change your Personal Information or modify 
-      your newsletter subscription or marketing communication preferences.</li>
-    <li>By e-mail: Unsubscribe or opt out of our e-mail newsletter or other marketing 
-      communications by sending an e-mail request to <a href="mailto:customerservice@rewardsnetwork.com">customerservice@rewardsnetwork.com.</a> 
-      For your security, please do not e-mail credit card changes.</li>
-    <li>By postal mail: Please include your e-mail address and mail your request 
-      to us at Rewards Network Inc.,300 South Park Road, Suite 300, Hollywood, 
-      FL 33021 , Attention: Member Services. </li>
-    <li>By phone: Call toll-free at (877) 491-3463.</li>
-    <li>Link to unsubscribe: Links to unsubscribe or opt out from future newsletters 
-      and other marketing communications are included at the bottom of each e-mail.</li>
-  </ul>
-	
-  <div class="pad_b10">To protect your privacy and security, we will take reasonable 
-    steps to verify your identity before granting access to your Personal Information 
-    or making corrections.</div>
-	
-  <div>Requests to be unsubscribed or to opt out of marketing communications will 
-    be processed promptly, however you may be included in the selection for additional 
-    newsletters and communications for a short period of time after you make your 
-    request. If the information you provide us does not match the information 
-    in our database, we may not be able to process your election (or the processing 
-    may be delayed).</div>
-	</div>
+						    </header> <!-- end article header -->
+					
+						    <section class="entry-content">
+							    <div style="text-align:left;"></div><p>We respect your privacy and want you to know how we collect and share personally identifiable information about you and sensitive information about your business. We prepared this privacy policy to describe to you how we collect and share your personally identifiable information and sensitive information about your business. Please read this privacy policy so that you understand how we use Personal Information, Business Information and Program Data in operating our business and providing services to you.</p>
+<p>We need to collect information from you in order for you to use our services. We also collect information about you as a result of your use of our services. We refer to personally identifiable information that we collect as Personal Information, sensitive information about your business as Business Information, and data about your business generated by your use of our services as Program Data. The type of Personal Information and Business Information that we collect about you is described in the section below on “What Personal Information and Business Information We Collect”. The type of Program Data that is generated by our services is described in the section below on .Program Data..</p>
+<p>Rewards Network® Inc. and its affiliates provide services to you. In this privacy policy, words like “we”, “us” and “our” refer to Rewards Network Inc. and our affiliates, collectively. Our affiliates at the time this privacy policy was last updated are listed for you at the end of the privacy policy. In this privacy policy, words like .you. and .your. refer to the entity with we have an agreement, and any individuals who have supplied us with Personal Information in connection with an entity.s agreement with us.</p>
+<p><strong>Your Consent To This Merchant Privacy Policy</strong><br>
+By using the products or services that we provide to you, you agree to the provisions of this privacy policy.</p>
+<p><strong>Your Privacy Protections</strong><br>
+We take several steps to protect your Personal Information and Business Information. Among other things:</p>
+<ul>
+<li>We will not disclose your Personal Information or Business Information to any non-affiliated third party for use in marketing that party’s goods or services without your consent;</li>
+<li>We will give you access to Personal Information or Business Information we maintain about you and we will allow you to correct any inaccuracies; and</li>
+<li>We take data security seriously. We take reasonable steps to protect the security of your Personal Information and Business Information. See the section below called “Data Security” for more information on the steps we take to protect your Personal Information and Business Information.</li>
+</ul>
+<p><strong>What Personal Information And Business Information We Collect</strong><br>
+We gather the following types of Personal Information and Business Information in connection with the provision of our services to you.</p>
+<p>Information you voluntarily provide to us. When you enter into an agreement with Rewards Network, you provide us with Personal Information and Business Information in order to receive our services. Business Information may include information such as bank account information, information regarding your credit card processing, credit card statements, and financial information. Business Information includes only sensitive information about your business, so it does not include publicly available information, such as your business location, menu information or photos and other marketing material relating to you that we use in connection with marketing you as part of the services we provide to you. Personal Information may include information such as an individual.s name, email and mailing address, telephone number(s), social security number, and driver.s license number. We collect information when you send us an inquiry, comment or request including any email or mailing address or telephone number you provide so that we may respond. We collect information when you choose to participate in a survey or any market research that we conduct.</p>
+<p>Information obtained about you from others. For example, we may work with firms that provide us with business information, credit information, financial and other information in order to assess whether to do business with you, or to evaluate or improve our services to you. We may also collect information with your consent or as permitted or required by law.</p>
+<p><strong>Program Data</strong><br>
+Information we collect from your participation in our programs. Program Data means the data we receive from you in order for you to participate in our programs, which is primarily credit card sales information. Program Data does not include information that we receive from other parties in connection with your participation in our programs, such as post-dine surveys or the demographic information of members who have transactions with you.</p>
+<p><strong>Use Of Personal Information, Business Information And Program Data</strong><br>
+We use Personal Information, Business Information and Program Data to operate our business and provide products and services to you.</p>
+<p><strong>Retention And Disposal Of Information</strong><br>
+We retain Personal Information, Business Information and Program Data as long as we determine is required for operation of our business and to meet legal, regulatory and other requirements. We take reasonable steps to ensure that Personal Information, Business Information and Program Data is disposed of securely when we no longer require such data.</p>
+<p>Personal Information, Business Information and Program Data are stored for the most part electronically in our computer systems or the computer systems of non-affiliated third parties that we work with in connection with operating our programs and providing services to you. We may have Personal Information and Business Information on hard copies of agreements or other documents that you provide to us, as well as on hard copies of documents prepared by us. The measures we take to protect Personal Information, Business Information and Program Data are described in the section below on .Data Security..</p>
+<p><strong>Access To Information</strong><br>
+We restrict access to Personal Information, Business Information and Program Data to those individuals or entities that require access to that information in order for us to operate our business, operate, manage, and expand our products and services and provide products and services to you.</p>
+<p>What Personal Information, Business Information And Program Data We Disclose<br>
+We may disclose Personal Information, Business Information and Program Data to non-affiliated third parties, such as suppliers, vendors or contractors, as necessary for the non-affiliated third party to provide services to us in connection with operating our business, operating, managing, and expanding our products and services, and providing products and services to you, or as permitted by law. We may disclose Personal Information, Business Information and Program Data to non-affiliated third parties in connection with addressing any issues that may arise in connection with crediting or debiting your bank account, conducting due diligence on your business before or while you are participating in our programs, enforcing our contractual and other rights, or responding to legal process. We may also share publicly available information about your business with third parties.</p>
+<p>We also may disclose any Personal Information, Business Information and Program Data we collect with our affiliates, including for purposes such as for internal audit, management, billing or administrative purposes including protecting us and our members from losses, and to protect our rights. We may also disclose Personal Information, Business Information and Program Data as necessary for defending and bringing legal actions.</p>
+<p>We may disclose Personal Information, Business Information and Program Data if required by a government authority or legal process.</p>
+<p>We will not disclose your Personal Information and Business Information (such as your email address) to non-affiliated third parties for such parties’ use in marketing their goods or services without your consent.</p>
+<p>We may obtain your consent to share information with non-affiliated third parties in various ways. For example, we may invite you to participate in a survey or special promotional program offered by a non-affiliated third party and your choice to participate in such a survey or promotional program will indicate your consent for us to share your Personal Information or Business Information with non-affiliated third parties in connection with the survey or promotional program. If you consent to such disclosure, any information that you provide to the third parties will be controlled by that party.s privacy policy, not our privacy policy.</p>
+<p><strong>Use Of Aggregate Data</strong><br>
+We may share information that is not personally identifiable to you or your business, including aggregated statistical information derived from Program Data, with our affiliates, partners, merchants, and others. Such information could be used, for example, to provide us with statistical or other analysis. None of this type of information can be linked by the recipient in a way that identifies the Program Data as pertaining specifically to you.</p>
+<p><strong>Disclosure Of Anonymous Information</strong><br>
+We may also disclose or share information that is not personally identifiable to you with our affiliates, partners, merchants and others.</p>
+<p><strong>Your Use Of Third Party Sites</strong><br>
+When you voluntarily post or otherwise comment on any portion of a social networking site (such as Facebook or Twitter) registered by us or by any of our affiliates, partners, merchants or others, your usage of that site is governed by and subject to the privacy policy of that third party networking sites and any privacy settings that are available on that third party site. We do not control the privacy policies of such third parties and we assume no responsibility or liability for the actions of such third parties.</p>
+<p><strong>Communicating With You</strong><br>
+We may from time to time send special offers to you on behalf of selected companies that we think may be of interest to you. However, because we or our third party vendors (and not the selected company) would send such offers to you, it is not necessary to disclose Personal Information or Business Information to the company in order to send these offers to you. You may choose to opt out of certain of our marketing communications while still receiving other types of our marketing communications. We also may send you offers for goods or services sold by us or our affiliates, including in our email newsletters, by email or ordinary mail, or by telephone.</p>
+<p><strong>Data Security</strong><br>
+We take reasonable steps to maintain physical, electronic, and procedural safeguards to guard your Personal Information, Business Information and Program Data. These safeguards may include encryption of data and limiting access to data as described above in the section .Access to Information.. Non-affiliated third parties that provide services to us and who may receive your Personal Information, Business Information and Program Data from us are subject to contractual obligations with respect to data security and limitations on use of data in accordance with this privacy policy.</p>
+<p><strong>Reviewing And Changing Your Personal Information And Business Information</strong><br>
+At any time, you can correct or update your Personal Information or Business Information. To review, change, or update your Personal Information or Business Information, you have several options:</p>
+<ul>
+<li>You may contact Client Services toll-free at (800) 422-5155.</li>
+<li>You may contact your Account Executive or Account Manager and they will assist you.</li>
+<li>To protect your privacy and security, we will take reasonable steps to verify your identity before granting access to your Personal Information, Business Information or making corrections.</li>
+</ul>
+<p><strong>Our Privacy Office</strong><br>
+We have appointed a Privacy Office, which is responsible for ensuring that the protection of your Personal Information, Business Information and Program Data is carried out in accordance with our Privacy Policy. The Privacy Office monitors and enforces compliance with our Privacy Policy.</p>
+<p>The following person serves as the contact person for the Privacy Office:</p>
+<p>Alice Geene<br>
+Chief Legal Officer<br>
+Two North Riverside Plaza, Suite 200.<br>
+Chicago, Illinois 60606.<br>
+Phone: (312) 291-5878.<br>
+Fax: (312) 521-6768.<br>
+Email: <a href="mailto:ageene@rewardsnetwork.com" target="_blank">ageene@rewardsnetwork.com</a>.</p>
+<p><strong>Notice Of Changes</strong><br>
+This Privacy Policy was published on July 22, 2013. We reserve the right to change, modify or add to this policy at any time, and to apply any such change, modification or addition to Personal Information that we have already collected. We may provide you with notice of a change, modification or addition by posting a notice or a revised privacy policy on our Web site. You agree to visit our Web site from time to time to review the current policy and any changes, modifications or additions.</p>
+<p><strong>Affiliates</strong><br>
+Rewards Network Establishment Services Inc..Rewards Network Services LLC.Rewards Network International, Inc..Rewards Network Canada GP Corp..Rewards Network Canada LP.RTR Funding LLC</p>
+<a href="https://cert.webtrust.org/soc_rewardsnetwork.html" target="_blank"><img class="alignleft size-full wp-image-3496" alt="SOC" src="http://www.rewardsnetwork.com/wp-content/uploads/2014/04/SOC.jpg" width="209" height="89"></a>
+<p><!--Start VisitorTrack Code 4.0--><br>
+<script type="text/javascript">// <![CDATA[
+imgsrc = location.protocol + '//www.visitortracklog.com/loghit.asp?id=107609&#038;vr=4.0&#038;rp=' + escape(document.referrer) + '&#038;pa=' + escape(document.URL);
+document.write('<img border="0" alt="" src="' + imgsrc + '">');
+// ]]&gt;</script><img border="0" alt="" src="https://www.visitortracklog.com/loghit.asp?id=107609&amp;vr=4.0&amp;rp=&amp;pa=https%3A//web.archive.org/web/20150423180909id_/https%3A//www.rewardsnetwork.com/business-solutions/privacy-policy/"><br>
+<!--End VisitorTrack Code--></p>
+						    </section> <!-- end article section -->
 						
-							<div class="pad_t10 f12 fontgreen bold pad_b10">No Use by Children</div>
-	
-<div class="pad_b10 b_b">The Rewards Network website may be used only by adults 
-  who have a credit card. In no event may our website be used by a child, including 
-  any child under the age of 13. </div>
-	<div class="pad_t10 f12 fontgray bold pad_b10">Our Privacy Officer</div>
-	<div class="pad_b10 b_b">
-		
-  <div class="pad_b10">We have appointed the following person to be responsible 
-    for ensuring that the protection of your Personal Information is carried out 
-    in accordance with our Privacy Policy:</div>
-		
-  <div>Ms. Laura J. Lazarczyk</div>
-		
-  <div>Chief Compliance Officer &amp; Assistant General Counsel</div>
-		<div>Two North Riverside Plaza, Suite 950</div>
-		<div>Chicago, Illinois 60606</div>
-		
-  <div>Phone: 312-521-6767</div>
-		
-  <div>Fax: 312-521-6768</div>
-		<div>Email: <a href="mailto:llazarczyk@rewardsnetwork.com">llazarczyk@rewardsnetwork.com</a></div>
-</div>
-<div class="pad_t10 f12 fontgreen bold pad_b10">Notice of Changes</div>
-	<div class="pad_b10">
-	
-  <div class="pad_b10">This Privacy Policy was last revised on June 22, 2008. 
-    We reserve the right to change, modify or add to this policy (a “Change”) 
-    at any time, and to apply any Change to Personal Information that we have 
-    already collected. We may provide you with notice of a Change by posting a 
-    notice or a revised Privacy Policy on our website. You agree to visit our 
-    website, from time to time, to review the current policy and any Changes. 
-  </div>
-	<div>AFFILIATES</div>
-		<div>Rewards Network Establishment Services Inc.</div>
-		
-  <div>Rewards Network Services LLC</div>
-		<div>Rewards Network International, Inc.</div>
-		<div>Rewards Network Canada GP Corp.</div>
-		<div>Rewards Network Canada LP</div>
-		<div>RTR Funding LLC</div>
-</div>
-						
-					</div>
-					<div class="clear"></div>
-		  		</div>
+						    <footer class="article-footer">
+			
+							    <p class="clearfix"></p>
+							
+						    </footer> <!-- end article footer -->
+					
+					    </article> <!-- end article -->
+					
+					    	
+					
+					    			
+				    </div> <!-- end #main -->
+				    
+				</div> <!-- end #inner-content -->
+    
+			</div> <!-- end #content -->
+
+			<footer class="footerRed" role="contentinfo">
+			
+				<div id="inner-footer" class="wrapLarge clearfix">
+					
+					<div class="footerLeft">© 2015 Rewards Network Establishment Services Inc. <br>All Rights Reserved.</div>
+					<div class="footerMiddle"><ul id="menu-footer-navigation" class="nav footer-nav clearfix"><li id="menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a href="https://www.rewardsnetwork.com/business-solutions/sitemap/">Sitemap</a></li>
+<li id="menu-item-5620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5620"><a href="http://www.rewardsnetwork.com/hr-jobvite/">Careers</a></li>
+<li id="menu-item-901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-901"><a href="https://www.rewardsnetwork.com/business-solutions/contact-us/">Contact</a></li>
+<li id="menu-item-898" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-323 current_page_item menu-item-898"><a href="https://www.rewardsnetwork.com/business-solutions/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1513"><a href="https://www.rewardsnetwork.com/business-solutions/terms-of-use/">Terms of Use</a></li>
+</ul></div>
+    	    <div class="footerRight">			<div class="textwidget"><a class="facebook" href="https://www.facebook.com/rewardsnetwork" target="_blank">Facebook</a>
+<a class="pinterest" href="http://pinterest.com/rewardsnetwork" target="_blank">Pinterest</a>
+<a class="twitter" href="https://twitter.com/RewardsNetwork" target="_blank">Twitter</a>
+<a class="rss" href="http://www.rewardsnetwork.com/business-solutions/blog/" target="_blank">RSS</a>
+<a class="linkedin" href="http://us.linkedin.com/company/rewards-network" target="_blank">LinkedIn</a>
+<a class="instagram" href="http://instagram.com/rewardsnetwork" target="_blank">Instagram</a>
+<a class="googleplus" href="https://plus.google.com/104437615788342691747" target="_blank">Google+</a></div>
 		</div>
-
-		<div id="footer">
 				
-
-
-
-
-
+				</div> <!-- end #inner-footer -->
 				
-				
-				
-				
-				
-								
-    			<div>
-					<ul>
-						<li><a class="nodec" href="http://www.reachdiners.com/" target="_blank"><strong>Restaurant, Bar &amp; Club Owners: Join Rewards Network</strong> | </a></li>
-<li><a class="nodec" href="http://www.facebook.com/pages/Rewards-Network/48851381120" target="_blank"><strong>Visit our Facebook Page</strong></a><br><br></li>
-<li><a class="nodec" href="/faqs.htm">FAQs |</a></li>
-<li><a class="nodec" href="/privacy.htm">Privacy Policy |</a></li>
-<li><a class="nodec" href="/terms.htm">Terms &amp; Conditions |</a></li>
-<li><a class="nodec" href="/contact.htm">Contact Us |</a></li>
-<li><a class="nodec" href="/about.htm">About Us |</a></li>
-						
-						
-						
-						   
-						           
-						           
-						           <li><a target="_blank" class="nodec" href="http://hotels.rewardsnetwork.com/?emailCampaignCd=RNVO" rel="nofollow">Hotels</a></li>
-						           
-						    
-						    
-				
-						<script type="text/javascript" charset="windows-1252">O_GoT('| Site Feedback? <img src="http://content.idine.com/m/i/sm_000_oo.gif" border="0" title="Feedback" style="margin-right:5px;">');</script>			
-					</ul>
-				</div>
-				
-				
-				<div>
-					<ul>
-						<li><a class="nodec" href="/restaurants/state/">Search By State |</a></li>
-						<li><a class="nodec" href="/restaurants/cuisine/">Search By Cuisine |</a></li>
-						<li><a class="nodec" href="http://investor.rewardsnetwork.com/phoenix.zhtml?c=63758&amp;p=irol-news&amp;nyo=0">Press Releases</a> |</li>   <li><a class="nodec" href="http://investor.rewardsnetwork.com/phoenix.zhtml?c=63758&amp;p=irol-IRHome">Investor Relations</a> |</li>   <li><a class="nodec" href="http://investor.rewardsnetwork.com/phoenix.zhtml?c=63758&amp;p=irol-stockquote">NASDAQ: DINE</a></li>
-					</ul>
-				</div>
-				<div>
-					<ul>
-						<li><a class="nodec" href="/corporate.htm">Corporate Dining Program</a></li>
-					</ul>				
-				</div>
-				
-				
-			<div class="pad5">© 2009 Rewards Network Inc. All Rights Reserved. | Email: <a class="nodec" href="mailto:info@rewardsnetwork.com">info@rewardsnetwork.com</a> </div>
-			<div class="bbb"><a href="http://www.bbbonline.org/cks.asp?id=10404291436041344" target="_blank" rel="nofollow"><img style="border: none;" src="http://content.idine.com/z/rn/d/i/bbb_logo1.gif" alt="We are a Better Business Bureau accredited business. Click here to check our BBB rating."></a></div>
-			<div class="site"><img class="noborder" src="http://content.idine.com/z/rn/d/i/subbrand.gif" alt="ENJOY THE REWARDS OF DINING OUT®"></div>
-
-		</div>
-
-</div>
-</div></div>
-	
+			</footer> <!-- end footer -->
+		
+		</div> <!-- end #container -->
+		
+		<!-- all js scripts are loaded in library/bones.php -->
+		<!-- Starting of Javascript Generated by Advanced Slideshow Manager -->
 <script type="text/javascript">
-function createManualPageView(destinationURL)
-{
-var clientInit = 'rn';
-var referringURL = document.URL;
-var pageId='1395';
-var categoryId=clientInit+pageId;
-var searchTerm='';
-cmCreateManualPageviewTag(pageId, categoryId, destinationURL, referringURL, searchTerm);
-}
+</script>
+<!-- Ending of Javascript Generated by Advanced Slideshow Manager -->	
+<!-- Lightbox Plus ColorBox v2.6/1.3.32 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8});
+});
+</script>
+<link rel="stylesheet" id="jcarouselresponsive-css" href="https://www.rewardsnetwork.com/wp-content/plugins/easy-logo-slider/css/jcarouselresponsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="style-admin-css" href="https://www.rewardsnetwork.com/wp-content/plugins/easy-logo-slider/css/style-admin.css" type="text/css" media="all">
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/www.rewardsnetwork.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/opacity-tags/js/opacity-tags-functions.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-includes/js/comment-reply.min.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/js/scripts.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/js/bootstrap.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/js/jquery.rounded.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/js/adtech.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/themes/rewardsnetwork/library/js/expand-code.js"></script>
+<script type="text/javascript" src="https://www.rewardsnetwork.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.3.32.js"></script>
+<script type="text/javascript">
+var slideDeck2URLPath = "https://www.rewardsnetwork.com/wp-content/plugins/slidedeck2-personal";
+var slideDeck2iframeByDefault = false;
 </script>
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-6133587-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
-
-
-
-
-
-
-
-
 	
-	
-		
-		
-		
-		
-	
+	<script type="text/javascript">  
 
+  			jQuery(function($){
 
+  				$("#mainNav").addClass("js").before('<div id="menu">☰</div>');
 
+  		    $("#menu").click(function(){
+          	$("#mainNav").toggle();
+          });
 
+          $(window).resize(function(){ if(window.innerWidth > 767) { $("#mainNav").removeAttr("style"); } });
+          
 
+          
+  		    });
 
+  </script>
+  <script type="text/javascript">
+  jQuery(document).ready(function($){
 
-	
-	
-		
-	
+    $( window ).load( function()
+    {
+        var columns    = 4,
+            setColumns = function() { columns = $( window ).width() > 940 ? 4 : $( window ).width() > 481 ? 2 : 1; };
 
+        setColumns();
+        $( window ).resize( setColumns );
 
+        $( '#blog_posts' ).masonry(
+        {
+            singleMode: 'true',
+            itemSelector: '.box',
+            columnWidth:  function( containerWidth ) { return containerWidth / columns; }
+        });
+    });
 
-
-
-
-
-
-
-	<script type="text/javascript" src="http://content.idine.com/m/js/cm/eluminate.js"></script>
-    <script type="text/javascript" src="http://content.idine.com/m/js/cm/cmdatatagutils.js"></script>
-    <script language="javascript1.1" type="text/javascript">
-		cm_ClientID ='90088895';
-	</script>
-
-
+  });
+  </script>
 	<script language="javascript1.1" type="text/javascript">
-	  cmSetProduction();
-	  cm_HOST ="counter.rewardsnetwork.com/eluminate?";
-	</script>
+  cm_ClientID ='90088621;90088895';
+  </script>
 
-
-<script language="javascript1.1" type="text/javascript">
-<!--
-var cmJv="1.1";
-//-->
-</script>
-<script language="javascript1.2" type="text/javascript">
-<!--
-var cmJv="1.2";
-//-->
-</script>
-<script language="javascript1.3" type="text/javascript">
-<!--
-var cmJv="1.3";
-//-->
-</script>
-<script language="javascript1.4" type="text/javascript">
-<!--
-var cmJv="1.4";
-//-->
-</script>
-<script language="javascript1.5" type="text/javascript">
-<!--
-var cmJv="1.5";
-//-->
-</script>
-<script type="text/javascript" src="http://content.idine.com/m/js/cm/techprops.js"></script>
-
-
-
-	
-	
-
-	
-	
-
-	
-	
-
-    
-	
-
-    
-	
-
-
-    
-	
-
-	
-	
-
-   
-
-   	
-
-   	
-
-	
-
-	
-
-	
-
-	
-	
-		<script language="javascript1.1" type="text/javascript">
-			cmCreatePageviewTag("PROGRAM-PRIVACYPOLICY","rn7500","","","","","");
-        </script>
-	
-
-
-
-
-
-
-
-
-
-</body></html>
+ <!-- end page. what a ride! --></body></html>
