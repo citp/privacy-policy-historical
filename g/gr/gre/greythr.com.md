@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greythr.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724080814id_/http%3A//www.greythr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greythr.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423082403id_/http%3A//www.greythr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greytip Software India
 
@@ -6,7 +6,7 @@ At Greytip Software Pvt. Ltd., we believe it is your right to know what informat
 
 Greytip Software adheres to the [US Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/) of: Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement.
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use.](https://web.archive.org/web/20140724080814id_/http%3A//www.greythr.com/terms-service)
+By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use.](https://web.archive.org/web/20150423082403id_/http%3A//www.greythr.com/terms-service)
 
 Greytip regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Greytip's treatment of personal information by contacting us through this web site or by writing to us at 
 
