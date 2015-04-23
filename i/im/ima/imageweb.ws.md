@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageweb.ws privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705140344id_/http%3A//www.imageweb.ws/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageweb.ws privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423075553id_/http%3A//www.imageweb.ws/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,12 +11,17 @@ imageweb.ws has created this privacy statement in order to demonstrate our firm 
 
 ## Third party Advertising
 
-We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Below are links to the privacy policies of the advertising networks used by imageweb.ws: \-   
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Below are links to the privacy policies of the advertising networks used by imageweb.ws:  
+\- [ExoClick](https://www.exoclick.com/privacy/)
+
+  
 
 
 ## Third Party Cookies
 
-Cookies are small files that contain information that a website uses to store user preferences and settings.   
+Cookies are small files that contain information that a website uses to store user preferences and settings.
+
+  
 
 
 ## External Links
