@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220044825id_/http%3A//www.pumpitupparty.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423194645id_/http%3A//www.pumpitupparty.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Pump It Up Privacy Policy
 
@@ -38,7 +38,7 @@ You may find that it is possible to "hot-link" from other web sites to this, the
 **Contact Us**  
 If you have any questions regarding our privacy practices, you can telephone or write to us at Pump It Up. Our contact information is:
 
-PIU Management, LLC  
+PIU Holdings, LLC  
 1860 W. University Dr., Suite 108  
 Tempe, AZ 85281  
 Phone: 480-371-1200
