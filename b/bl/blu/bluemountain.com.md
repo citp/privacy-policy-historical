@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222184801id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423180212id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Blue Mountain- Privacy Policy
 
@@ -180,8 +180,8 @@ Beware of scams in which persons unknown to you request your screen name, passwo
 
 As always, if you have any questions, please feel free to review our [help center](http://www.bluemountain.com/help/index.pd) where you can contact us with further questions.
 
-  * [Join](https://web.archive.org/fom.pd?purl=)
   * Sign In
+  * [Join](https://web.archive.org/fom.pd?purl=)
 
 
 
