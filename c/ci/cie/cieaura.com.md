@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cieaura.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921053431id_/http%3A//www.cieaura.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cieaura.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423073606id_/http%3A//cieaura.com/privacy.html) for the most accurate reproduction.*
 
 # CieAura, Life in Balance. | Privacy Policy
 
