@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internettrafficformula.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522184307id_/http%3A//www.empowernetwork.com/privacy%3Fid%3Dloveyourlifestyle) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internettrafficformula.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423220333id_/http%3A//www.empowernetwork.com/privacy%3Fid%3Ddavidwood) for the most accurate reproduction.*
 
-# Empower Network: Privacy Policy
+# Welcome to Empower Network - Privacy Policy
 
 This site (the "Site") is owned by Empower Network, LLC, a Florida limited liability company ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
 
@@ -39,5 +39,3 @@ This site is owned and operated by **Empower Network, LLC**
 St. Petersburg, Florida 33701  
 Suite 201  
 Effective Date: November 7, 2011 
-
-[Continue to signup page](https://web.archive.org/join?id=loveyourlifestyle)
