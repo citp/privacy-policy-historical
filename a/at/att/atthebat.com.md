@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atthebat.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220093744id_/http%3A//atthebat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atthebat.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423141212id_/http%3A//atthebat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - At The Bat
 
