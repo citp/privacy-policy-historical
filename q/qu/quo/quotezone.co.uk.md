@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220104135id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423163250id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Quotezone
+# Privacy Policy | Quotezone.co.uk
 
 Quotezone is a trading name of Seopa Limited. We respect the privacy of visitors to our website. Seopa is registered as a data controller in accordance with the Data Protection Act 1998.
 
