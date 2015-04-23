@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120200653id_/http%3A//www.funvblog.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423141033id_/http%3A//www.funvblog.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -60,7 +60,7 @@ This site has industry consistent security measures in place to protect the loss
 
 FunvBlog provides instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings.
 
-**Acceptance of Privacy Policy**
+ **Acceptance of Privacy Policy**
 
 By using FunvBlog, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
 
