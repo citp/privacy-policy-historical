@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the suncoastcreditunion.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703045512id_/http%3A//www.suncoastcreditunion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncoastcreditunion.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425003216id_/https%3A//www.suncoastcreditunion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Suncoast CU
+# Privacy Policy | Suncoast Credit Union
 
-At Suncoast Credit Union, trust has always been the foundation of our relationship with our members. Because you trust us with your financial and other personal information, and we believe that all personal and financial information specific to you that you provide through any channel constitutes personal information, we are committed to respect your privacy and safeguard that information. In order to preserve that trust, Suncoast Credit Union and its affiliates pledge to protect your privacy by following the practices outlined below. It is important for you to know that Suncoast Credit Union  **does not sell member information.**[See Privacy Notice](https://web.archive.org/web/20140703045512id_/http%3A//www.suncoastcreditunion.com/~/media/5e11252866374641ad62249fe40b7c56.ashx).
+At Suncoast Credit Union, trust has always been the foundation of our relationship with our members. Because you trust us with your financial and other personal information, and we believe that all personal and financial information specific to you that you provide through any channel constitutes personal information, we are committed to respect your privacy and safeguard that information. In order to preserve that trust, Suncoast Credit Union and its affiliates pledge to protect your privacy by following the practices outlined below. It is important for you to know that Suncoast Credit Union  **does not sell member information.**[See Privacy Notice.](https://web.archive.org/~/media/files/privacynotice.ashx)
 
 This policy covers member information, which means personally identifiable information about a member or a member's current or former relationship with Suncoast Credit Union. This policy is provided to you as required by the Federal Financial Privacy Law (Gramm-Leach-Bliley Act).* 
 
@@ -59,7 +59,7 @@ Your Credit Union is committed to protecting the privacy of its members. Members
 
 **KEEPING UP-TO-DATE WITH OUR PRIVACY POLICY**
 
-Suncoast Credit Union will provide notice of our privacy policy to all members annually. This policy may change from time to time, but you will always be able to view our current policy at our web site at [suncoastcreditunion.com](https://web.archive.org/web/20140703045512id_/http%3A//www.suncoastcreditunion.com/~/media/5e11252866374641ad62249fe40b7c56.ashx) or contact us for a copy at 1-800-999-5887.
+Suncoast Credit Union will provide notice of our privacy policy to all members annually. This policy may change from time to time, but you will always be able to view our current policy at our web site at [suncoastcreditunion.com](https://web.archive.org/~/media/files/120534_annualprivacynotice%20pdf.ashx) or contact us for a copy at 1-800-999-5887.
 
 **REDUCING DIRECT MARKETING FROM OTHER COMPANIES**
 
