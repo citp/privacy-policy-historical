@@ -1,33 +1,155 @@
-> *The following text is extracted and transformed from the cruiseamerica.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928001925id_/http%3A//www.cruiseamerica.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseamerica.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424115158id_/http%3A//www.cruiseamerica.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# RV Office - Motorhome Dealers - RV Inventories
+# Cruise America Privacy Policy
 
-###  Privacy Policy 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
-Cruise America has created this privacy policy to demonstrate our firm commitment to informing you about how we handle your online personal information. The following discloses our information gathering and dissemination practices for the CruiseAmerica.com web site (the "Site"). This privacy policy only applies to transactions made, and data gathered, on the Site and does not apply to any other web site or offline point of contact between Cruise America and consumers. We suggest that you review this privacy policy periodically as we may update it from time to time. This privacy policy was last revised on May 25, 2004. By visiting the Site, you are accepting the practices described in this privacy policy.
 
-#### Your IP Address
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-Each time you visit the Site, our web server automatically collects your IP address and the web page from which you came. Your IP address is used to help identify you and to gather broad demographic information about you. We also use your IP address to help diagnose problems with our servers, to administer the Site, and to better serve you while visiting the Site. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-#### Information We Collect From You
+ **When do we collect information?**
 
-While on the Site we may collect personal information from you. Personal information may include information you provide to us while making a reservation on the Site ("Reservation Information"), and may include your name, street address, zip code, phone number, and email address. Personal information may also include information we gather about you while on the Site such as your purchase or reservation history ("Purchase Information"). If you make a reservation through us our reservation forms require that you provide financial information (like your account or credit card numbers) as well ("Financial Information"), which we use to process your transaction.
+We collect information from you when you place an order, subscribe to a newsletter or enter information on our site.
 
-Please note that nowhere on the Site do we knowingly collect personal information from children under the age of 13. 
+ **How do we use your information?**
 
-#### How We Use Personal Information
+  
 
-Your personal information is used to help us efficiently perform various transactions, including contacting you when necessary in connection with transactions entered into by you on the Site (including reservation confirmations, changes and cancellations). Cruise America may also use your Registration Information and Purchase Information to send you information, offers and other promotional materials from Cruise America. These materials may include information from third parties selected by Cruise America. We carefully select the information we send to you and attempt to send you information and offers that are of value to you, such as discounts or exclusive offers. You have the option of declining to receive this information and these offers from Cruise America by "opting-out" of receipt of this information. You may opt-out by sending an email to [privacy@cruiseamerica.com](mailto:privacy@cruiseamerica.com). We will never send you communications on behalf of third parties unless our Cruise America brand is associated with those communications. 
 
-#### How We Use Financial Information
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Financial information is used to check your qualifications and bill you for products and services. By making a reservation on the Site, you consent to our providing your financial information to our service providers and to such other third parties as we determine is necessary to process your transactions. These third parties may include the credit card companies and banking institutions used to process the transaction and, depending on the circumstances of our arrangements, may include the applicable Reservation Partners, primarily for facilitating your reservation at the appropriate campsite or other location on the date of your reservation and to provide customer service. Any of these various third parties are authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control. 
+ **•** To quickly process your transactions.
 
-#### Our Security Precautions
+ **•** To send periodic emails regarding your order or other products and services.
 
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. 
+ **How do we protect visitor information?**
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [privacy@CruiseAmerica.com](mailto:privacy@CruiseAmerica.com).
+  
 
-You can also send us mail to: Privacy Officer, Cruise America, 11 W Hampton Ave, Mesa, AZ 85210.
+
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We use regular Malware Scanning.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
+
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+ **Do we use 'cookies'?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+ **•** Help remember and process the items in the shopping cart.
+
+ **•** Understand and save user's preferences for future visits.
+
+ **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+
+
+If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders .
+
+ **Third Party Disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+
+ **Third party links**
+
+We do not include or offer third party products or services on our website.
+
+ **California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
+
+
+ **According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+ **•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+ **•** By emailing us
+
+ **How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+**Does our site allow third party behavioral tracking?**
+
+It's also important to note that we allow third party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+ **CAN SPAM Act**
+
+  
+
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **•** Send information, respond to inquiries, and/or other requests or questions.
+
+ **•** Process orders and to send information and updates pertaining to orders
+
+ **•** We may also send you additional information related to your product and/or service.
+
+ **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+ **To be in accordance with CANSPAM we agree to the following:**
+
+ **•** NOT use false, or misleading subjects or email addresses
+
+ **•** Identify the message as an advertisement in some reasonable way
+
+ **•** Include the physical address of our business or site headquarters
+
+ **•** Honor opt-out/unsubscribe requests quickly
+
+ **•** Allow users to unsubscribe by using the link at the bottom of each email
+
+If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email.and we will promptly remove you from all correspondence.
+
+ **Contacting Us**
+
+  
+
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Cruise America, Inc.
+
+11 W. Hampton Ave.
+
+Mesa, AZ 85210
+
+United States
+
+privacy@cruiseamerica.com
+
+(480) 464-7300
+
+Last Edited on 2015-04-10
