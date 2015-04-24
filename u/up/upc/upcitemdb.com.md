@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upcitemdb.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223054907id_/http%3A//www.upcitemdb.com/term.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcitemdb.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424140420id_/http%3A//www.upcitemdb.com/term.php) for the most accurate reproduction.*
 
 # Term & Privacy Policy
 
@@ -20,7 +20,9 @@ The DoubleClick DART cookie is used by Google in the ads served on publisher web
 
 **DISCLAIMER:**
 
-CERTAIN CONTENT THAT APPEARS IN THIS SITE COMES FROM AMAZON SERVICES LLC, COMMISSION JUNCTION INC., LINKSHARE CORPORATION AND EBAY PARTNER NETWORK. THIS CONTENT IS PROVIDED 'AS IS' AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME. 
+CERTAIN CONTENT THAT APPEARS IN THIS SITE COMES FROM AMAZON SERVICES LLC, COMMISSION JUNCTION INC., LINKSHARE CORPORATION AND EBAY PARTNER NETWORK. THIS CONTENT IS PROVIDED 'AS IS' AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME.   
+UPCITEMDB.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com and myhabit.com.   
+UPCITEMDB.com uses [VigLink](http://viglink.com/?vgref=1715237) to monetize some of the links. 
 
 By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law. 
 
