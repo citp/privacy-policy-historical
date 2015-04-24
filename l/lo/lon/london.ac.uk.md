@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the london.ac.uk privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008050951id_/http%3A//www.london.ac.uk/privacyandcookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the london.ac.uk privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425010642id_/http%3A//www.london.ac.uk/privacyandcookies.html) for the most accurate reproduction.*
 
 # University of London: Privacy and Cookies
 
