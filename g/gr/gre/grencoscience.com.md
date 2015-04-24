@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grencoscience.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219225030id_/http%3A//www.grencoscience.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grencoscience.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424105812id_/http%3A//www.gpen.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Grenco Science
 
@@ -90,7 +90,7 @@ Grenco Science, Inc.
 
 Compliance Department
 
-PO Box 589, North Hollywood, CA 91601
+5209 Wilshire Blvd, Los Angeles, CA 90036
 
 Office: (800) 948-7480
 
