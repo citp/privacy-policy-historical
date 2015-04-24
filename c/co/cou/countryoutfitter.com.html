@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the countryoutfitter.com privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220221624id_/http%3A//www.countryoutfitter.com/page/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the countryoutfitter.com privacy policy that was archived on 2015-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150424160718id_/https%3A//www.countryoutfitter.com/page/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=158842137505394"></script><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZHHW"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"300d975dc5","applicationID":"346342","transactionName":"dg5fRkENVQoAFEsVAlIEQh1AClYR","queueTime":0,"applicationTime":44,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUPVEVQDAUDUFM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <meta charset="utf-8">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZHHW"></script><script>
+<script>
   //<![CDATA[
     window.enable_mobile_templates = true;
     window.request_device_type = "";
@@ -25,14 +27,15 @@
 <meta content="158842137505394" property="fb:app_id">
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="CELQOih9vmHyp8LsLalNgjNgDsTzhDKOz+nInovjECg=" name="csrf-token">
+<meta content="iSU96qXmjjXbCA3RGb4CajHbHIq3ppifcCix2ndawFE=" name="csrf-token">
 <script>
   //<![CDATA[
     var HE = HE ? HE : {};
     HE.Config = HE.Config || {};
   //]]>
 </script>
-<link href="/assets/countryoutfitter/application-e941a267ac1e31b5c738ee74279d3b85.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Montserrat" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/countryoutfitter/application-f7b1114b52d4c4cf33c7d91ca4b265b1.css" media="screen" rel="stylesheet" type="text/css">
 <!-- / IE Hacks -->
 <!--[if lte IE 8]>
 <link href="/assets/base/ie8-ddec9769091c329b4f9dfd61dcc9a97d.css" media="screen" rel="stylesheet" type="text/css" />
@@ -87,7 +90,7 @@
 <li class="order-status"><a href="/order-status">Order Status</a></li>
 <li class="my_account"><a href="http://www.countryoutfitter.com/account" rel="nofollow">My Account</a></li>
 </ul>
-<a href="/coupons?page_ref=topnav" id="utilityBlackFriday">Get our latest discounts all in one place!<mark>Save Now</mark></a>
+<a href="/corral/boots/sale?page_ref=topnav" id="utilityBlackFriday">CORRAL SALE! UP TO 30% OFF<mark>Save Now</mark></a>
 </div>
 </nav>
 
@@ -98,20 +101,18 @@
 </div>
 <div class="header-menu-top">
 <div class="clearfix">
-<form action="/search" id="top-search" method="get" role="search">
-<input name="q" placeholder="SEARCH FOR ALL THINGS COUNTRY..." tabindex="1" type="search">
-<button class="search" tabindex="2" type="submit">
+<form action="/search" id="top-search" method="get" role="search" autocomplete="off">
+<input name="q" placeholder="SEARCH FOR ALL THINGS COUNTRY..." tabindex="1" type="search" autocomplete="off">
+<button class="search with-arrow" tabindex="2" type="submit">
 <span>Search</span>
 </button>
-</form>
+<div id="swifgestions" style="display: none;"><h3>Recommended Products</h3><ul></ul></div></form>
 <div class="freeshipping">
 <p>Limited Time - Everything Ships Free</p>
+<img alt="Limited Time - Everything Ships Free" src="/assets/free-shipping-promo-a3c460c1ecb76eabb24ba04bc57ff160.png">
 </div>
 <div class="viewCart" id="view_cart_link">
-<a href="http://www.countryoutfitter.com/bag#viewcart" class=""><span class="cart-title">Cart</span>
-<span class="cart-items">
-<span data-cart="count">0</span>
-</span>
+<a href="http://www.countryoutfitter.com/bag#viewcart" data-cart-item-count="0"><span class="cart-title">Cart</span>
 </a></div>
 </div>
 </div>
@@ -141,7 +142,7 @@
 <a href="/boot-accessories"><strong>Boot Accessories</strong>
 </a></li>
 <li><a href="/boot-jewelry">Boot Jewelry</a></li>
-<li><a href="/boot-socks">Boot Socks</a></li>
+<li><a href="/fashion-boot-socks/womens">Boot Socks</a></li>
 <li><a href="/boot-cuffs">Boot Cuffs</a></li>
 <li>
 <a href="/boot-accessories">View All
@@ -272,7 +273,7 @@
 <ul class="dropdown-menu">
 <li>
 <ul class="dropdown-menu-column">
-<li><a href="/wedding-shop">Wedding Shop</a></li>
+<li><a href="/country-wedding">Wedding Shop</a></li>
 <li><a href="/apparel/plus-size/womens">Plus-Size Women's Apparel</a></li>
 <li><a href="/miranda">Miranda Lambert</a></li>
 <li><a href="/colt-ford-collection/cowboy-boots/womens">Colt Ford Collection for Women</a></li>
@@ -518,7 +519,6 @@
 </a></li>
 <li><a href="/boys/cowboy-hats">Cowboy Hats</a></li>
 <li><a href="/belts/boys">Belts</a></li>
-<li><a href="/boys/chaps">Chaps</a></li>
 <li>
 <a href="/accessories/boys">View All
 <i class="fa fa-angle-right"></i>
@@ -580,7 +580,7 @@
 <li><a href="/horseshoe-decor">Horseshoe Decor</a></li>
 <li><a href="/home-accents">Home Accents</a></li>
 <li><a href="/picture-frames">Picture Frames</a></li>
-<li><a href="/pillows">Pillows</a></li>
+<li><a href="/decorative-pillows">Pillows</a></li>
 <li><a href="/candles-and-candleholders">Candles &amp; Candle Holders</a></li>
 <li><a href="/seasonal-decor">Seasonal Decor</a></li>
 <li><a href="/kids-room-decor">Kid's Room Decor</a></li>
@@ -629,7 +629,7 @@
 <li>
 <a href="/home"><strong>More…</strong>
 </a></li>
-<li><a href="/wedding">Wedding</a></li>
+<li><a href="/country-wedding">Wedding</a></li>
 <li><a href="/furniture">Furniture</a></li>
 <li><a href="/lighting">Lighting</a></li>
 <li><a href="/outdoor">Outdoor Living</a></li>
@@ -653,8 +653,8 @@
 <li><a href="/metatarsal-guard/work-boots">Metatarsal Guard Boots</a></li>
 <li><a href="/electrical-hazard/work-boots">Electrical Hazard Boots</a></li>
 <li><a href="/waterproof/work-boots">Waterproof Boots</a></li>
-<li><a href="/logger-boots">Logger Boots</a></li>
-<li><a href="/wellington-boots">Wellingtons</a></li>
+<li><a href="/logger/work-boots">Logger Boots</a></li>
+<li><a href="/wellington-boots/work-boots">Wellingtons</a></li>
 <li><a href="/gore-tex/work-boots">GORE-TEX ®</a></li>
 <li><a href="/work-shoes">Work Shoes</a></li>
 <li>
@@ -670,7 +670,7 @@
 <li>
 <ul class="dropdown-menu-column">
 <li>
-<a href="/apparel/work"><strong>Work Clothing</strong>
+<a href="/work-wear"><strong>Work Clothing</strong>
 </a></li>
 <li><a href="/work-shirts">Shirts</a></li>
 <li><a href="/work-pants">Pants</a></li>
@@ -678,8 +678,8 @@
 <li><a href="/work-shorts">Shorts</a></li>
 <li><a href="/work-jackets">Jackets</a></li>
 <li><a href="/work-vests">Vests</a></li>
-<li><a href="/overalls">Overalls</a></li>
-<li><a href="/coveralls">Coveralls</a></li>
+<li><a href="/work-overalls">Overalls</a></li>
+<li><a href="/work-coveralls">Coveralls</a></li>
 <li>
 <a href="/work-wear">View All
 <i class="fa fa-angle-right"></i>
@@ -708,21 +708,25 @@
 <ul class="dropdown-menu">
 <li>
 <ul class="dropdown-menu-column">
-<li><a href="/ariat">Ariat</a></li>
-<li><a href="/arborwear">Arborwear</a></li>
-<li><a href="/bulwark">Bulwark</a></li>
+<li><a href="/justin-original-workboots/work-boots">Justin Original Workboots</a></li>
+<li><a href="/ariat/work-boots">Ariat</a></li>
 <li><a href="/carhartt">Carhartt</a></li>
-<li><a href="/chippewa">Chippewa</a></li>
-<li><a href="/danner-boots">Danner Boots</a></li>
 <li><a href="/dickies">Dickies</a></li>
-<li><a href="/georgia">Georgia Boots</a></li>
-<li><a href="/lacrosse/work-boots">Lacrosse</a></li>
+<li><a href="/chippewa">Chippewa</a></li>
+<li><a href="/danner-boots/work-boots">Danner Boots</a></li>
+<li><a href="/georgia/work-boots">Georgia Boots</a></li>
+<li><a href="/wolverine/work-boots">Wolverine</a></li>
+<li><a href="/twisted-x-boots/work-boots">Twisted X Boots</a></li>
+<li><a href="/timberland-pro/work-boots">Timberland Pro</a></li>
+<li><a href="/rocky/work-boots">Rocky</a></li>
+<li><a href="/john-deere/work">John Deere</a></li>
+<li><a href="/tony-lama/work-boots">Tony Lama</a></li>
+<li><a href="/carhartt-footwear/boots">Carhartt Boots</a></li>
+<li><a href="/caterpillar/work-boots">Caterpillar</a></li>
 <li><a href="/muck-boots">Muck Boot</a></li>
-<li><a href="/red-kap">Red Kap</a></li>
-<li><a href="/riggs">Riggs Workwear</a></li>
-<li><a href="/walls">Walls</a></li>
-<li><a href="/wells-lamont">Wells Lamont</a></li>
-<li><a href="/wolverine">Wolverine</a></li>
+<li><a href="/lacrosse/work-boots">Lacrosse</a></li>
+<li><a href="/riggs/mens">Riggs Workwear</a></li>
+<li><a href="/walls/apparel">Walls</a></li>
 </ul>
 </li>
 </ul>
@@ -748,7 +752,8 @@
 <ul class="dropdown-menu">
 <li>
 <ul class="dropdown-menu-column">
-<li><a href="/rebel/boots">American Rebel Boot Company</a></li>
+<li><a href="/rebel">American Rebel Boot Company</a></li>
+<li><a href="/american-west/handbags">American West Handbags</a></li>
 <li><a href="/ariat">Ariat</a></li>
 <li><a href="/carhartt">Carhartt</a></li>
 <li><a href="/colt-ford-collection">Colt Ford Collection</a></li>
@@ -764,9 +769,9 @@
 <li><a href="/frye">Frye</a></li>
 <li><a href="/independent-boot-company/boots">Independent Boot Company</a></li>
 <li><a href="/justin">Justin</a></li>
+<li><a href="/justin-original-workboots/work-boots">Justin Original Workboots</a></li>
 <li><a href="/laredo/boots">Laredo</a></li>
 <li><a href="/levis">Levi's</a></li>
-<li><a href="/liberty-black/boots">Liberty Black</a></li>
 <li><a href="/lucchese">Lucchese</a></li>
 <li><a href="/miranda">Miranda Lambert</a></li>
 <li><a href="/montana-silversmiths/accessories">Montana Silversmiths</a></li>
@@ -776,6 +781,7 @@
 <ul class="dropdown-menu-column">
 <li><a href="/nocona">Nocona</a></li>
 <li><a href="/old-gringo">Old Gringo</a></li>
+<li><a href="/stetson-boots">Stetson Boots</a></li>
 <li><a href="/redneck-riviera">Redneck Riviera</a></li>
 <li><a href="/tony-lama">Tony Lama</a></li>
 <li><a href="/twisted-x-boots">Twisted X</a></li>
@@ -794,9 +800,9 @@ All Brands
 </div>
 </div>
 </li>
-<li class="sale-link"><a href="/flash">Flash Sales</a></li>
+<li class="sale-link"><a href="/sale">Sale</a></li>
 <li><a href="/marketplace">Marketplace</a></li>
-<li class="bordered_sides"><a href="/style/">Style Blog</a></li>
+<li class="bordered_sides"><a href="http://www.countryoutfitter.com/style/fashion">Style Blog</a></li>
 <li class="navright boldchat-hide-while-offline">
 <a href="#chat" class="boldchat-chatlink">Chat with us</a>
 </li>
@@ -994,8 +1000,8 @@ in contiguous USA on all orders
 </ul>
 <ul class="storeLinks vertical ourcompany">
 <li class="header nolink">Our Company</li>
-<li><a href="/page/careers.html">Careers</a></li>
-<li><a href="/blog/">Blog</a></li>
+<li><a href="https://acumenholdings.recruiterbox.com/" target="_blank">Careers</a></li>
+<li><a href="/style/">Blog</a></li>
 <li><a href="/page/customer-service.html">Help</a></li>
 <li><a href="/products/3657-GIFTCARD">Gift Cards</a></li>
 <li><a href="/page/shipping.html">Shipping Information</a></li>
@@ -1023,9 +1029,8 @@ in contiguous USA on all orders
 </li>
 </ul>
 <div class="footerLinks clearfix">
-<p class="cert">
-</p>
-<div>
+<div class="guarantee"></div>
+<div class="footerGuarantee">
 <ul class="storeInfo horizontal" itemscope="" itemtype="http://schema.org/Organization">
 <li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
 <span itemprop="streetAddress">2041 R North Shiloh Dr &nbsp;</span>
@@ -1038,15 +1043,13 @@ in contiguous USA on all orders
 <a class="boldchat-chatlink iconic-chatbubble" href="#chat">
 Need help?
 <b>Chat with us</b>
-&gt;
+<i class="fa fa-angle-right"></i>
 </a>
 </li>
 </ul>
 <p class="copyright">
-© 2014 Country Outfitter - <a href="/">Cowboy Boots and Western Wear</a>
+© 2015 Country Outfitter - <a href="/">Cowboy Boots and Western Wear</a>
 </p>
-</div>
-<div class="footerGuarantee">
 <p>Country Outfitter is dedicated to giving our thousands of customers the best possible service when you order your products over the Internet. This includes safe and secure processing of your sensitive credit card information using the highest data encryption available today. We offer a 100% money back guarantee within 30 days. See our Shipping &amp; Returns page for details, including necessary exceptions.</p>
 </div>
 </div>
@@ -1100,7 +1103,12 @@ Your Cart
 <p>For best results, please set your browser to support Javascript.</p>
 </div>
 </noscript>
-<script src="/assets/base-2b6bfceec879fbb792d4694f3c73a52d.js" type="text/javascript"></script>
+<script>
+  //<![CDATA[
+    !function(){var a="data-cart-item-count",b="; "+document.cookie,c=b.split("; cic="),d="0",e=document.querySelectorAll("["+a+"]");2==c.length&&(d=c.pop().split(";").shift());for(var f=0,g=e.length;g>f;f++)e[f].setAttribute(a,d)}();
+  //]]>
+</script>
+<script src="/assets/base-75e9f0d5291c72bf0da4cda69a4f4fce.js" type="text/javascript"></script><div class="modal-wrapper-outer"><div class="modal-wrapper-middle"><div class="modal-wrapper-inner"><div class="modal"><div class="modal-content clearfix"></div><a class="closebox"></a><div style="display: none;"><div class="loading" id="modal-placeholder"></div></div></div></div></div></div><div class="notifications"></div>
 <a href="#livechat" class="boldchat-chatlink chatlink-window-edge">Live Chat</a>
 <script>
   //<![CDATA[
@@ -1234,7 +1242,7 @@ Your friend will save $20 and we will credit your account 30 days after their or
 <div class="account_login">
 <h1>Sign in to your account</h1>
 <p>If you do not have an account, one will be created for you.</p>
-<form accept-charset="UTF-8" action="/page/privacy-policy.html" class="signin sideBySide" id="referral_signin_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="CELQOih9vmHyp8LsLalNgjNgDsTzhDKOz+nInovjECg="></div><p id="referral_errors"></p>
+<form accept-charset="UTF-8" action="/page/privacy-policy.html" class="signin sideBySide" id="referral_signin_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="iSU96qXmjjXbCA3RGb4CajHbHIq3ppifcCix2ndawFE="></div><p id="referral_errors"></p>
 <p>
 <label for="email">Email</label>
 <input class="easyinput" id="email" name="email" placeholder="EMAIL" type="email">
@@ -1257,11 +1265,15 @@ Your friend will save $20 and we will credit your account 30 days after their or
 <dd id="personal_link"></dd>
 </dl>
 <ul id="referral_sharing">
-<li><a href="" class="facebook_referral facebook" target="blank">SHARE</a></li>
-<li><a href="" class="twitter_referral twitter" target="blank">TWEET</a></li>
+<li>
+<a href="" class="facebook_referral facebook" target="blank" title="SHARE"><i class="fa fa-facebook-square"></i></a>
+</li>
+<li>
+<a href="" class="twitter_referral twitter" target="blank" title="TWEET"><i class="fa fa-twitter-square"></i></a>
+</li>
 </ul>
 <p>Or, use this form to send invites via email:</p>
-<form accept-charset="UTF-8" action="/invite_links" id="referral_submission" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="CELQOih9vmHyp8LsLalNgjNgDsTzhDKOz+nInovjECg="></div>
+<form accept-charset="UTF-8" action="/invite_links" id="referral_submission" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="iSU96qXmjjXbCA3RGb4CajHbHIq3ppifcCix2ndawFE="></div>
 <fieldset>
 <p>List your name as you would like it to appear at the bottom of the referral email.</p>
 <p>
@@ -1312,9 +1324,8 @@ Separate email addresses with a comma, i.e. john.doe@domain.com, jessie@friend.c
 
 </div>
 
-<script src="/assets/referral-4499970aa5ed1cea6ca6fbd28da6a52e.js" type="text/javascript"></script>
 
 
 
 
-</body></html>
+<script async="" src="//cbi.boldchat.com/aid/455305447569541840/bc.cbhs?0&amp;wdid=4516763759623574222"></script></body></html>
