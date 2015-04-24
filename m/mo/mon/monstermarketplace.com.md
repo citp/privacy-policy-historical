@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstermarketplace.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043152id_/http%3A//www.monstermarketplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstermarketplace.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424063503id_/http%3A//www.monstermarketplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MonsterMarketplace.com
 
