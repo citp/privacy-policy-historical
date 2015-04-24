@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyyoutubviews.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230210322id_/http%3A//buyyoutubeviewscheapfast.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyyoutubviews.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424181640id_/http%3A//www.buyyoutubeviewscheapfast.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Buy Youtube Cheap Views - Privacy Policy
 
@@ -26,4 +26,4 @@ Buyyoutubviews.com may contain links to other websites. When you use these links
 
 Buyyoutubviews.com will not sell, lease or distribute personal information to third parties unless you provide your consent to do so or we are legally required to do so under laws and jurisdiction. Buyyoutubviews.com reserves the right to deploy your personal information to send promotional information about third parties that Buy YouTube Views may find interesting if you are wish to share and tell us. We will never divulge these details except for legal reasons if deemed necessary. 
 
-In case you find any information Buyyoutubviews.com is holding is incomplete or inaccurate please feel free to [contact us](https://web.archive.org/web/20141230210322id_/http%3A//buyyoutubeviewscheapfast.com/contact.html) and [email us](mailto:). We will instantly correct and update this information on the website as soon as possible. 
+In case you find any information Buyyoutubviews.com is holding is incomplete or inaccurate please feel free to [contact us](https://web.archive.org/web/20150424181640id_/http%3A//www.buyyoutubeviewscheapfast.com/contact.html) and [email us](mailto:). We will instantly correct and update this information on the website as soon as possible. 
