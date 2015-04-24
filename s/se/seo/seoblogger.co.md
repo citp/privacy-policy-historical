@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoblogger.co privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726065842id_/http%3A//seoblogger.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoblogger.co privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424052936id_/http%3A//seoblogger.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEOBlogger.co
 
