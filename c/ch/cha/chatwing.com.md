@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatwing.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207051732id_/http%3A//chatwing.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatwing.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424060528id_/http%3A//chatwing.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy of Web Services LLC
 
   
 Web Services LLC owns and operates Chatwing below is information about how information is used when using and operating Chatwing. 
