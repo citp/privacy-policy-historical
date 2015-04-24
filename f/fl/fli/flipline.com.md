@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flipline.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105136id_/http%3A//www.flipline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipline.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424044634id_/http%3A//www.flipline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Flipline Studios
 
 This Privacy Policy discloses the privacy practices for www.flipline.com and www.papalouie.com. This policy may be updated from time to time, and the revised policy will appear on this website.
 
-The Flipline Studios website located at [www.flipline.com](https://web.archive.org/web/20141120105136id_/http%3A//www.flipline.com/www.flipline.com) and the Papa Louie Arcade website located at [www.papalouie.com](https://web.archive.org/web/20141120105136id_/http%3A//www.flipline.com/www.papalouie.com) is run by Flipline IDS LLC under the trade name of Flipline Studios ([www.flipline.com](https://web.archive.org/web/20141120105136id_/http%3A//www.flipline.com/www.flipline.com)). 
+The Flipline Studios website located at [www.flipline.com](https://web.archive.org/web/20150424044634id_/http%3A//www.flipline.com/www.flipline.com) and the Papa Louie Arcade website located at [www.papalouie.com](https://web.archive.org/web/20150424044634id_/http%3A//www.flipline.com/www.papalouie.com) is run by Flipline IDS LLC under the trade name of Flipline Studios ([www.flipline.com](https://web.archive.org/web/20150424044634id_/http%3A//www.flipline.com/www.flipline.com)). 
 
 **Personal Information**    
 You can browse our website without providing any personal information. 
