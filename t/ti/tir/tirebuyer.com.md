@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220104143id_/http%3A//www.tirebuyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424155727id_/http%3A//www.tirebuyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TireBuyer.com
 
 #### 
 
-$30 off a set of 4 select winter tires: Code **[WINTER14](https://web.archive.org/tires/performance/winter/products) **  
- 
+$40 off orders $500+: Code **[CARCARE40](http://www.tirebuyer.com/products/NewYear) **  
+Excludes Kumho, Fuzion, and Michelin.
 
 #### Effective date: September 18, 2014
 
