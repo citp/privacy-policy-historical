@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220105710id_/http%3A//www.cupid.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupid.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424074941id_/http%3A//www.cupid.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Cupid.com
 
-### Privacy Policy
-
-(' **We** ') Castle Digital Services, Inc are committed to protecting and respecting your privacy.
+(' **We** ') Tradax IP Licensing and NSI (Holdings) Limited are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms and conditions of use](http://www.cupid.com/helptandc.asp?s=s) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. By ticking the acceptance box when signing up to use our Services, and by your continued use of the Services, you agree to bound by this policy as updated from time to time.
 
 **This policy will tell you about:**
+
+  
+
 
   * Who we are
   * Your rights to access and/or amend data held and opt out of consenting to uses of your data
@@ -23,9 +24,9 @@ This policy (together with our [terms and conditions of use](http://www.cupid.co
 
 
 **1\. WHO WE ARE**   
-Castle Digital Services, Inc is the data controller (for the purposes of the Data Protection Act 1998). We make an annual notification to the Information Commissioner (our registration number is Z2205182). We own and/or operate a large number of social, dating, lifestyle and entertainment sites (including mobile applications/apps) through our Group Companies and Partner Sites. We refer to our sites and apps as, collectively, the “Services” within this policy. Some of our terms will make reference to our Group Companies or Partner Sites and any reference in this policy to “us” or “we” or “our” will include our Group Companies and Partner Sites.  
+Castle Digital Services, Inc are the data controllers (for the purposes of the Data Protection Act 1998). We make an annual notification to the Information Commissioner . We own and/or operate a large number of social, dating, lifestyle and entertainment sites (including mobile applications/apps) through our Group Companies and Partner Sites. We refer to our sites and apps as, collectively, the “Services” within this policy. Some of our terms will make reference to our Group Companies or Partner Sites and any reference in this policy to “us” or “we” or “our” will include our Group Companies and Partner Sites.  
 **(a) ABOUT OUR GROUP COMPANIES**  
-As a large organisation we have a number of subsidiary companies (“Group Companies”) that operate some of our sites on our behalf or provide services to us to enable us to provide the Services to you. We have subsidiaries in the UK, France, Germany, Cyprus and USA and other locations as may be determined from time to time. For data protection purposes, these companies are called data processors. Our Group Companies are all wholly/majorly owned by us.   
+As a large organisation we have a number of subsidiary and sister companies (“Group Companies”) that operate some of our sites on our behalf or provide services to us to enable us to provide the Services to you. We have subsidiaries in the UK, France, Germany, Cyprus, BVI, Ukraine, Malta and USA and other locations as may be determined from time to time. For data protection purposes, these companies are called data processors. Our Group Companies are all wholly/majorly owned by us.   
 **(b) ABOUT OUR PARTNER SITES**  
 If you are reading this policy you are using one of our sites or apps. We have an extensive network of sites that we categorise as Traditional Sites (for traditional romantic relationships e.g. Cupid.com) and Niche Sites (for like-minded people to meet e.g. UniformDating.com). To find out more about our full network of sites please visit our company website Castle Digital Services, Inc. We want to offer you a full range of products and services and in order to do that we will share your details across our Partner Sites (See below Creation of duplicate profiles across our Partner Sites) and we will market our different products and services to you (See below Marketing). You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Partner Sites and our Group Companies for the purposes of delivering the Services to you.   
 **2\. YOUR RIGHTS TO ACCESS/AMEND THE DATA WE HOLD ON YOU & OPT OUT**   
@@ -33,12 +34,11 @@ If you are reading this policy you are using one of our sites or apps. We have a
 If you want to know what data we hold on you, you have a legal right to obtain this information from us. You can make a Subject Access Request at any time, in writing, by following this simple process. By law, we have up to 40 days to respond to you and reserve the right to make a small charge for this service.  
 To make a Subject Access Request please write to us enclosing a photocopy of a photographic ID (e.g. passport or driving licence) and utility bill (to provide proof of your address). This is to ensure we only send your data to you, or a third party that you expressly authorise in writing to deal with for you.  
 Our address for this purpose only is Legal Dept:  
-Cupid plc (CPD)  
-410 Park Avenue  
-15th Floor  
-New York  
-NY 10022  
-USA  
+NSI (Holdings) Ltd  
+19 Bolsover St,  
+London  
+W1W 5NA  
+United Kingdom  
 **(b) Amending/correcting the data we hold on you**  
 If you want to amend the data we hold that’s also very easy to do. We want to make sure we have everything right so please simply contact us at [datarequest@cupid.com](mailto:datarequest@cupid.com) to make any amendments to our records.  
 **(c) Changing your consent and opting out**  
@@ -49,7 +49,7 @@ We may collect and process different types of information about you. Some of thi
 **(a) Information we collect when you sign up to our Services**  
 We will collect your personal details including but not limited to your real name, user name, address, telephone, email address, date of birth, race, religion, sexual orientation and any other information you submit when you create a profile and sign up to our Services  
 **(b) Data we collect in respect of customer service and support**  
-If you contact customer support including Dating Advisers we will keep any information you provide to us including records of correspondence.  
+If you contact customer support we will keep any information you provide to us including records of correspondence.  
 If you provide feedback to us, or take part in any customer survey, or participate in competitions we, we will keep any information you provide.  
 **(c) Data we collect/you upload from your activity across our Services:**  
 When you use our Services to search for other users, explore our Services, or interact with other users, we will gather data related to these activities including:  
@@ -88,7 +88,7 @@ We may be required by law e.g. through potential or actual litigation, court ord
 **(a) When we market to you directly about our products and services**  
 We may share your information with our Partner Sites and Group Companies to develop and deliver targeted advertising to you of our Partner Sites and Group Companies’ products and services, or to help us to prepare marketing reports. We may send you information about our Partner Sites and Group Companies’ products and services, news and offers, and selected third party products and services that we think may be of interest to you. We may do this by contacting you through your email address or mobile phone number that you have provided. Any communication received from us, as consented to by you, will clearly state that it is being sent by us. You have the option to opt-out of our marketing communications at any time (see below).  
 **(b) When third parties market to you (Our “third party Partner Services”)**  
-If you have consented to receive marketing communications from third parties during our sign up process, referred to as Partner Services, your data may be passed on to such third parties as we enter into data sharing agreements with, from time to time, for marketing and analytical reporting purposes. We cannot be held liable for the content of the third party’s communications or products/services they are promoting. If you have provided this consent, but change your mind, you can opt-out at any time (see below). Please be advised that you will also require to contact the individual third parties who have been marketing to you if you wish to stop receiving their communications directly.  
+If you have consented to receive marketing communications from third parties, referred to as Partner Services, your data may be passed on to such third parties as we enter into data sharing agreements with, from time to time, for marketing and analytical reporting purposes. We cannot be held liable for the content of the third party’s communications or products/services they are promoting. If you have provided this consent, but change your mind, you can opt-out at any time (see below). Please be advised that you will also require to contact the individual third parties who have been marketing to you if you wish to stop receiving their communications directly.  
 **(c) Opting Out of Marketing**  
 If you change your mind about the marketing consent you have granted to us, you can amend your preferences under the “My Account” section of your chosen Site or emailing us at [unsubscribe@cupid.com](mailto:unsubscribe@cupid.com)  
 **6\. WHERE WE STORE YOUR DATA**  
@@ -107,30 +107,63 @@ If you are an Inactive User, you should be aware that we will continue to store 
 If you are a Cancelled User, we will delete all of your data 9 months after the date of cancellation. It is important that we retain your data for this short period after cancellation to ensure that we can answer any payment or other account related queries, or provide information to third parties in line with our disclosure provisions outlined in this policy e.g. assisting police investigations. Even after you remove information from your profile or delete your account, copies of that information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, or copied or stored by other users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies.  
 **(d) Storage of activity data**  
 Whilst we retain your Personal Data, Sensitive Personal Data and Anonymous Data as outlined at (a) to (c) above, there are some features of our Services that we store data in respect of, for different periods of time. For example, messages are only stored for 30 days, winks and other similar activities are stored for 10 days. All other profile and activity information including photographs, blocked list, search histories etc. are stored until 9 months after your account is cancelled.  
+**(e) Banned and terminated users**  
+If your account is ever terminated by us, or you are detected as a potential or actual scammer, or a potential or otherwise threat to our business or our users, your email address will be retained on our internal blacklist for as long as we deem necessary to protect the business and its users.  
 **8\. KEEPING YOUR DATA SECURE**  
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access. Where we have given you (or where you have chosen) a password or user ID code which enables you to access certain parts of the Site, you are responsible for keeping the password or user ID code confidential. We ask you not to share a password or user ID code with anyone.  
 **9\. OUR COOKIE POLICY**  
-We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here. Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but an tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends. They help us to improve the Services and to deliver a better and more personalised service. They enable us: 
+We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here. Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but an tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends and to share your non-personal information with carefully selected third parties for marketing purposes.   
+Cookies help us to improve the Services and to deliver a better and more personalised service. They enable us: 
 
   * To estimate our audience size and usage pattern;
   * To store information about your preferences, and so allow us to customise the Services according to your individual interests;
   * To speed up your searches; 
   * To recognise you when you return to any website or application;
-  * To provide annoymised statistical information: Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners. We use this non-personal information to help improve the services we provides to you. 
+  * To provide annoymised statistical information: Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners to help these selected third parties to deliver relevant advertisements to you. 
 
 
 
-When you visit the publicly available sections of the Services, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login in process faster and easier. You may set your browser to block cookies and local storage devices, but if you do so, you may not be able to access all of the features of the Services. This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
+We use this non-personal information to help improve the services we provide to you. When you visit the publicly available sections of the Services, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login in process faster and easier. 
+
+**_Controlling and deleting cookies_**
+
+You have the right to choose whether or not to accept cookies and we explain how you can exercise this right below. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of our Sites and the websites of other companies. You may block cookies in several ways: 
+
+  * by using the opt-outs provided below;
+  * by visiting <http://www.youronlinechoices.com/>; or 
+  * through your browser, as explained below.
+
+
+
+You can also block cookies by changing your browser settings so that cookies from this Site cannot be placed on your computer or mobile device. In order to do this follow the instructions provided by your browser (usually located within the "Help", "Tools" or "Edit" facility). Disabling a cookie or category of cookie does not delete the cookie from your browser, you will need to do this yourself from within your browser.   
+Further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).   
+**_What cookies are used for and why we use them on this Site_**
+
+This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
 
 **Cookie Functions** | **Cookie Purposes**  
 ---|---  
-Analytics and research | We use the information collected by Google Analytics to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+Analytics and research | We use the information collected by Google Analytics to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. You can opt-out of Google Analytics here [ https://tools.google.com/dlpage/gaoptout#sthash.1CRxgddB.dpuf](https://tools.google.com/dlpage/gaoptout#sthash.1CRxgddB.dpuf)  
 Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy all of the features without having to continually log in – our website “remembers” you and allows you full access without the need to keep entering your log in details.  
 Security and site integrity | We may use cookies and other devices, such as CAPTCHAs, to help keep the Site and our members safe and secure by protecting the Site from fraud and spam attacks to keep your data safe.  
 Site features and services | These cookies and local storage devices provide the functionality that our members enjoy, such as uploading of photographs, chats, instant messaging, your account settings etc. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between the website with your other favourite social networks. In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data you should always read their privacy policies. Third parties who place cookies on your device when you use the Site include Twitter and Facebook whose own privacy policies apply.   
 Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for our Services.  
+Ad Serving & Behavioural Advertising  |  We sell space on some of our websites to advertisers. We use several services to help us and advertisers understand what adverts you might be interested in. These cookies hold information about the computer - they don't hold personal information about you (ie it's not linked to you as an individual). But they might hold a record of what other websites you've looked at - so we could show you a car advert if you've previously visited a motoring website.   
+Advertisements on this Site and the other sites you visit are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites. In order to do this, our advertising partner may need to place a cookie on your computer.   
+For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and select your country.   
+These are some examples of the services we use and how you can control those cookies. This list is not exhaustive and is subject to change. Please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/) for active cookie management on your device.   
+Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
+
+
+  * OpenX (advertising) Privacy policy and opt-out via <http://www.openx.com/about/privacy-policy>
+  * VisualDNA (ad relevancy): Privacy policy at <http://www.visualdna.com/cookie-policy> and you can opt out via <http://my.visualdna.com/permissions/>
+  * Lotame (ad relevancy): Privacy policy at [ http://www.lotame.com/privacy](http://www.lotame.com/privacy) and opt out via <http://www.lotame.com/opt-out-preference-manager>
+  * Doubleclick (advertising): Privacy policy at <http://www.google.com/doubleclick/privacy/> and opt out via <http://www.youronlinechoices.com/>
+  * eXelate (ad relevancy): Privacy policy and opt out via <http://exelate.com/consumer-opt-out/>
+  * Google Adsense (ad partner). Privacy policy at [ https://support.google.com/adsense/bin/answer.py?hl=en-GB&utm_medium=link&gsessionid=DyXLmLB1J1MxXckh6tX6AQ&utm_campaign=ww-ww-et-asfe_&utm_source=aso&answer=48182](https://support.google.com/adsense/bin/answer.py?hl=en-GB&utm_medium=link&gsessionid=DyXLmLB1J1MxXckh6tX6AQ&utm_campaign=ww-ww-et-asfe_&utm_source=aso&answer=48182) and opt-out via <https://www.google.com/settings/ads/onweb/>. 
+
   
-For further information about cookies visit: [www.aboutcookies.org](http://www.aboutcookies.org/)  
+  
 **10\. OUR RIGHTS TO AMEND THIS POLICY**  
 We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties. We may also contact you from time to time to advise of any changes if we feel such notification is necessary depending on the extent of the changes.  
 **11\. LINKS TO OTHER THIRD PARTY WEBSITES**  
