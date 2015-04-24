@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118182843id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424141637id_/http%3A//mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure
 
@@ -61,4 +61,5 @@ All prices contained in the posts are current at the time of the post. Mojo Savi
 
 Unless otherwise expressly stated, you should assume that Mojo Savings has an affiliate relationship or other material connection to the providers of goods and services mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. In addition, you should assume that Mojo Savings may be compensated monetarily or non-monetarily when you visit, purchase goods or services from, or take any other action on a third-party website mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. You should always perform due diligence before buying any goods or services online or offline.
 
-[](http://www.printfriendly.com/ "Printer Friendly and PDF")
+Follow Us On: [Mojo's Facebook Group](https://www.facebook.com/groups/595224063894941/), [Instagram](https://instagram.com/mojosavings/), [Twitter](https://twitter.com/MoJoSavings) and [Pinterest](http://pinterest.com/mojosavings/) and catch all our deals!   
+
