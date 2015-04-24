@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the eye4software.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423120752id_/http%3A//www.eye4software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eye4software.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424053609id_/http%3A//www.eye4software.com/privacy) for the most accurate reproduction.*
 
-# GPS Software - Eye4Software B.V. - Privacy Policy
+# Privacy Policy
+
+[Download free demo](https://web.archive.org/download)
+
+* * *
+
+###  Privacy Policy 
 
 ### Collected Information
 
@@ -32,7 +38,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ### Accessing, Updating and Removing Personal Information
 
-Upon request we provide users with access to their personally identifiable information free of charge. Users may correct, update or remove any such personally identifiable information either through the users’ profile or by contacting Eye4Software Customer Support Services. Such changes may take up to 48 hours to take effect.
+Upon request we provide users with access to their personally identifiable information free of charge. Users may correct, update or remove any such personally identifiable information either through the usersâ€™ profile or by contacting Eye4Software Customer Support Services. Such changes may take up to 48 hours to take effect.
 
 ### Enforcement of Privacy Policy
 
@@ -44,4 +50,6 @@ Any changes to our privacy policy will be posted on our websites in order to kee
 
 ### END OF PRIVACY POLICY
 
-If you have any questions or concerns regarding this privacy policy, please contact us at info@eye4software.com. 
+If you have any questions or concerns regarding this privacy policy, please contact us at info@eye4software.com.
+
+* * *
