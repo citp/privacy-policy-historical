@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easportsfootball.co.uk privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913040347id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/UK/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easportsfootball.co.uk privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424160633id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/UK/en/PC) for the most accurate reproduction.*
 
 # 
 
