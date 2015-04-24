@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipbuilder.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025020id_/http%3A//www.flipbuilder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipbuilder.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424045034id_/http%3A//www.flipbuilder.com/privacy.html) for the most accurate reproduction.*
 
 # FlipBuilder Privacy Policy: we will not sell, share, or rent user information.[FlipBuilder.com]
 
@@ -19,7 +19,7 @@ Credit Card information provided by you customer is used by MyCommerce, which ha
 
 ## 2\. Newsletter Information
 
-If you subscribed our [FlipBuilder Newsletter](https://web.archive.org/web/20140626025020id_/http%3A//www.flipbuilder.com/newsletter/newsletter.html) (it will be used to inform you of our products news and promotion only), your information will  **not**  be sold, rented or leased to a third-party, and you can remove your name and email from the list at any time.
+If you subscribed our [FlipBuilder Newsletter](https://web.archive.org/web/20150424045034id_/http%3A//www.flipbuilder.com/newsletter/newsletter.html) (it will be used to inform you of our products news and promotion only), your information will  **not**  be sold, rented or leased to a third-party, and you can remove your name and email from the list at any time.
 
 3\. Contact Information
 
