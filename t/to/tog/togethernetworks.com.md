@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the togethernetworks.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222182106id_/http%3A//www.togethernetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togethernetworks.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424044632id_/http%3A//www.togethernetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Together Networks - Build real success together with us!
 
@@ -188,4 +188,4 @@ Your use of our Site, including any dispute concerning privacy, is subject to th
 
 Your continued use of any portion of our Site following posting of an updated Privacy Policy means you accept and agree to be bound by the Privacy Policy as modified.
 
-Copyright © 2013-2014 Together Networks Ltd. All Rights Reserved. TOGETHER and TOGETHER NETWORKS and other marks and images are registered and common law trademarks of Together Networks Ltd., or one of its affiliate companies. Other trademarks and brands are the property of their respective owners.
+© Copyright 2015, Together Networks Holdings Limited
