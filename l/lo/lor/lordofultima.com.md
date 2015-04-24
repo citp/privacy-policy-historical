@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lordofultima.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919201500id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lordofultima.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424151101id_/https%3A//www.origin.com/en-ca/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Origin Games
 
 ELECTRONIC ARTS PRIVACY AND COOKIE POLICY
 
@@ -8,7 +8,6 @@ Effective Date: June 28, 2013
 
 [](http://privacy.truste.com/privacy-seal/Electronic-Arts/validation?rid=1cc8e153-d5a9-45d1-b59d-5fe13b8709c5 "TRUSTe European SafeHarbor certification")
 
-  
 By registering for an Origin Account (formerly known as an EA Account) ( ** _"Account"_** ), using this site and/or any of EA's online or mobile products and services, you agree to EA's Privacy Policy and that we may transfer and store your information in the USA. By registering, you agree that EA may process your data in accordance with the following privacy policy and that you will abide by EA's Terms of Service.
 
 IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY EA SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our privacy policy, we will post those changes to this privacy statement, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material or significant changes to this policy or the way we use your child's information, we will notify you or the parent/guardian here, by email, or by means of a notice on our home page prior to the changes taking effect. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our online Privacy Policy.
@@ -146,7 +145,7 @@ If you sign up to play EA games through Microsoft's Xbox Live Service, Microsoft
 
 If you sign up to play EA games through a Nintendo Wii U console, your Nintendo account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA’s titles online. By signing up to play EA’s titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your Mii information, email address, Nintendo Network ID, friend list, country, language and date of birth but does not include credit card number or other financial account information.
 
-**4\. Other Information Collected From Third Parties**
+ **4\. Other Information Collected From Third Parties**
 
 EA may also receive other information from third parties, including in connection with the operation and distribution of our products and services as well as market and demographic studies that we use to supplement personal and anonymous information collected or provided directly by you. Some third party services such as Twitter and Facebook may also provide us with information from your accounts there with your permission.
 
