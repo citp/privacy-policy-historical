@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330184457id_/https%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424214448id_/https%3A//www.cotswoldoutdoor.com/us/index.cfm/fuseaction/pages.help/sub/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies
 
@@ -36,7 +36,7 @@ Our website contains links to third party websites operating their own terms and
 
 Our community, www.community.cotswoldoutdoor.com has it’s own privacy policy, which can be found on the tab "Community T&Cs" on the Terms and Conditions page [here](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/terms-conditions "View Terms & Conditions")
 
-**Cookies (...and not the round, edible ones!)**
+**Cookies**
 
 Cookies are tiny text files stored on your computer when you visit certain web pages. We use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
 
@@ -158,4 +158,4 @@ Social media tools on our website:
 
 **Find out more**
 
-If you have a general query, please check our [Frequently Asked Questions](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/FAQs "Frequently Asked Questions") section which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](http://www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/customer-service "contact us ").
+If you have a general query, please check our [Frequently Asked Questions](http://www.cotswoldoutdoor.com/us/index.cfm/fuseaction/pages.help/sub/FAQs "Frequently Asked Questions") section which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](http://www.cotswoldoutdoor.com/us/index.cfm/fuseaction/pages.help/sub/customer-service "contact us ").
