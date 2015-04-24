@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komen.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220005718id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komen.org privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424155704id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Susan G. Komen®
 
@@ -92,7 +92,7 @@ Komen has made available the public forums on the Sites so that you may have an 
 **How can I UPDATE or CHANGE my information?**  
 Komen wants your account (including without limitation, your Personal Information and preferences) to be accurate and complete. To update or change your Personal Information, visit our user login page and log on to your own account. You can update your Personal Information after logging in to your account. You also can send your updated Personal Information by mail (or a written request for a hard-copy of your Personal Information in your account) to:
 
- Susan G. Komen   
+Susan G. Komen   
 5005 LBJ Freeway, Suite 250   
 Dallas, Texas 75244   
 Attn: Privacy Manager, Donor Services
@@ -131,12 +131,12 @@ Komen implements these same policies and procedures to protect the privacy of an
 **Where can I get more information about the Privacy Policy?**  
 If you have any questions about this Privacy Policy, please contact us at:
 
- Susan G. Komen   
+Susan G. Komen   
 5005 LBJ Freeway, Suite 250  
 Dallas, Texas 75244  
 Attn: Privacy Manager, Donor Services
 
- Phone: 1-877 GO KOMEN (1.877.465.6636)  
+Phone: 1-877 GO KOMEN (1.877.465.6636)  
 Fax: (972) 855-4301
 
 Revised: 09/14/14
