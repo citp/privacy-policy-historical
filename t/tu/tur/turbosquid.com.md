@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbosquid.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011215908id_/http%3A//support.turbosquid.com/entries/173395-our-privacy-policy%3Flocale%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbosquid.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424142043id_/http%3A//support.turbosquid.com/entries/173395-our-privacy-policy%3Flocale%3D1) for the most accurate reproduction.*
 
 # Our Privacy Policy : TurboSquid Help & Support
 
@@ -32,7 +32,7 @@ If you have any questions, complaints, or comments regarding this Policy, please
 
 ##  I. The Web Sites and Services Covered by This Policy
 
-We currently operate the following web sites [turbosquid.com](http://www.turbosquid.com/), [fallingpixel.com](http://www.fallingpixel.com/), [exchange3d.com](http://www.exchange3d.com/) (the "Site" or "Sites") as well as certain ancillary services and applications collectively (“Services”):
+We currently operate the following web sites [turbosquid.com](http://www.turbosquid.com/), [pixelsquid.com](https://www.pixelsquid.com/), [squid.io](https://www.squid.io/), [fallingpixel.com](http://www.fallingpixel.com/), [exchange3d.com](http://www.exchange3d.com/) (the "Site" or "Sites") as well as certain ancillary services and applications collectively (“Services”):
 
 From time to time, we may add new Services that may not be listed above, but they will provide a link to this Policy and will be governed by its terms.
 
@@ -136,4 +136,4 @@ TurboSquid reserves the right to change this Policy at any time by notifying reg
 
 [back to the top](http://support.turbosquid.com/entries/173395-our-privacy-policy?locale=1#top)
 
-This Privacy Policy is Effective as of: November 18, 2013.
+This Privacy Policy is Effective as of: December 9, 2014.
