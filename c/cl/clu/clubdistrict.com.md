@@ -1,27 +1,12 @@
-> *The following text is extracted and transformed from the clubdistrict.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201035630id_/http%3A//www.clubdistrict.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubdistrict.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424055910id_/http%3A//clubdistrict.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### ClubDistrict Privacy Policy
+#### ClubDistrict.com Privacy Policy:
 
-| 
+CLUBDISTRICT.COM ensures its members and visitors retain their privacy while they take advantage of all ClubDistrict.com has to offer. We are committed to protecting your privacy and developing technology that gives you the most powerful, safe, online experience that you can get anywhere. If you have questions about this, please Contact Us.
 
-Version May 1, 2009  
-  
----|---  
-  
-Collection and Submission of PI and NON-PI on ClubDistrict  
-General  
-Cookies  
-Notice About its PI Collection Practices  
-Choices About the Use of Your PI  
-ClubDistrict's Use of PI  
-The Security of Your PI  
-How to Access, Correct or Change Your Preferences
-
-CLUBDISTRICT.COM ensures its members and visitors retain their privacy while they take advantage of all ClubDistrict.com has to offer. We are committed to protecting your privacy and developing technology that gives you the most powerful, safe, online experience that you can get anywhere. If you have questions about this, please [Contact Us](http://www.clubdistrict.com/contact).
-
-**Email:** If you feel you have received an unsolicited email from ClubDistrict.com, it may be due to the following reasons:
+Email: If you feel you have received an unsolicited email from ClubDistrict.com, it may be due to the following reasons:
 
   * You may have been referred to ClubDistrict.com by a friend of yours.
   * You may have been referred to ClubDistrict.com by another web site because you expressed an interest in a service we may offer.
@@ -31,7 +16,7 @@ CLUBDISTRICT.COM ensures its members and visitors retain their privacy while the
 
 ClubDistrict.com gives you the opportunity to unsubscribe from our email list by following the unsubscribe instruction on the bottom of the mailing.
 
-PubDistrict, Inc. (“ClubDistrict” or “we”) operates ClubDistrict.com. This Privacy Policy describes ClubDistrict’s use and sharing of personal information (“PI”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to ClubDistrict when they register (also known as “Registration PII”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by ClubDistrict, including any ClubDistrict-branded URL (the “ClubDistrict Website”), mobile technologies, and any other features, content, or applications offered from time to time by ClubDistrict in connection with the ClubDistrict Website (collectively, the “ClubDistrict Services”). The ClubDistrict Services are hosted in the United States.
+As of December 15, 2014, Trepster, LLC. (“ClubDistrict” or “we”) operates ClubDistrict.com. This Privacy Policy describes ClubDistrict’s use and sharing of personal information (“PI”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to ClubDistrict when they register (also known as “Registration PII”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by ClubDistrict, including any ClubDistrict-branded URL (the “ClubDistrict Website”), mobile technologies, and any other features, content, or applications offered from time to time by ClubDistrict in connection with the ClubDistrict Website (collectively, the “ClubDistrict Services”). The ClubDistrict Services are hosted in the United States.
 
 The ClubDistrict Website is a general audience site and does not knowingly collect PI from children under 13 years of age.
 
@@ -39,7 +24,7 @@ From time to time ClubDistrict may modify this Privacy Policy to reflect industr
 
 #### COLLECTION AND SUBMISSION OF PI AND NON-PI ON CLUBDISTRICT
 
-**General.** When ClubDistrict collects PI from you it is because you are voluntarily submitting Registration PI to us in order to register as a Member of ClubDistrict. ClubDistrict may also collect PI from you if you choose to participate in ClubDistrict Services activities like sweepstakes, contests, and surveys, because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to ClubDistrict for review.
+General. When ClubDistrict collects PI from you it is because you are voluntarily submitting Registration PI to us in order to register as a Member of ClubDistrict. ClubDistrict may also collect PI from you if you choose to participate in ClubDistrict Services activities like sweepstakes, contests, and surveys, because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to ClubDistrict for review.
 
 In addition, ClubDistrict collects other non-PI including IP address, aggregate user data, and browser type. This data is used to manage and improve the ClubDistrict Services, track usage, and for security purposes.
 
@@ -47,7 +32,7 @@ ClubDistrict Members may also choose to provide or store non-PI information in t
 
 ClubDistrict Members can change their Registration PI and Profile Information at any time and can control how Visitors, other Members and ClubDistrict communicate with them by controlling their account settings, available within the “Edit Profile” portion of their ClubDistrict profile. Link to Account Settings.
 
-**Cookies.** Cookies are small bits of information that ClubDistrict places on your computer. ClubDistrict uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the ClubDistrict Services. Data in cookies may be read to authenticate user sessions or provide services.
+Cookies. Cookies are small bits of information that ClubDistrict places on your computer. ClubDistrict uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the ClubDistrict Services. Data in cookies may be read to authenticate user sessions or provide services.
 
 Third party advertisements displayed on ClubDistrict Services may also contain cookies set by Internet advertising companies or advertisers (known as “third party cookies”). ClubDistrict does not control these third party cookies and Users of the ClubDistrict Services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the “Notice” section below for more information on customized advertising on ClubDistrict. A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. ClubDistrict may allow third party pixel tags to be present on ClubDistrict Services for purposes of advertising, providing services or data and statistics collection.
 
@@ -61,7 +46,7 @@ At the time you provide your PI, ClubDistrict will notify you of your options re
 
 ClubDistrict Services may be linked to Internet sites operated by other companies. ClubDistrict Services may also carry advertisements from other companies. ClubDistrict is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the ClubDistrict Services or for the privacy practices of third party Internet advertising companies. Once you leave ClubDistrict Services via such a link, access a third party application (such as widgets) or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PI they collect from you.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/intl/en/privacypolicy.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
 ClubDistrict Services may also be linked to sites operated by companies affiliated with. Users who visit those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
 
@@ -85,7 +70,7 @@ If you have consented to receive promotional materials (e.g., newsletters) or no
 
 ClubDistrict employees, agents and contractors must have a business reason to obtain access to your PI. ClubDistrict may share your PI with those who help us manage or provide ClubDistrict Services’ information activities (for example, message board administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes.
 
-These outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your PI to provide ClubDistrict with a specific service and not for any other purpose. ClubDistrict may also provide your PI to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PI. ClubDistrict also may share your PI with Affiliated Companies if it has a business reason to do so.
+These outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your PI to provide ClubDistrict with a specific service and not for any other purpose ClubDistrict may also provide your PI to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PI. ClubDistrict also may share your PI with Affiliated Companies if it has a business reason to do so.
 
 As described in “Notice” above, ClubDistrict may customize the advertising and marketing messages you receive on the ClubDistrict Website, or may work with outside companies to do so. Your non-PI and/or Profile Information may be shared with these companies so this customization can be accomplished. ClubDistrict prohibits these companies from sharing your non-PI and/or Profile Information with any third party or from using it for any other purpose. Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with ClubDistrict’s advertisers and business partners.
 
@@ -95,7 +80,7 @@ When a Member who is located in the European Union chooses to post Profile Infor
 
 #### SECURITY: CLUBDISTRICT PROTECTS THE SECURITY OF PI
 
-ClubDistrict uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PI and credit card information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, ClubDistrict uses reasonable methods to make sure that PI is accurate, up-to-date and appropriately complete.
+ClubDistrict uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PI and credit card information in its possession against loss, theft and unauthorized use, disclosure or modification In addition, ClubDistrict uses reasonable methods to make sure that PI is accurate, up-to-date and appropriately complete.
 
 #### ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PI AND HOW TO CONTACT CLUBDISTRICT ABOUT PRIVACY CONCERNS
 
@@ -103,8 +88,4 @@ Whenever possible, ClubDistrict Members may review the Registration PI we mainta
 
 If you ask ClubDistrict to stop using your PI, ClubDistrict will honor that request while retaining any record of your PI that is necessary to comply with applicable federal, state or local law.
 
-If you would like to communicate with us about this Privacy Policy or ClubDistrict’s collection and use of your PI please [Contact Us](http://www.clubdistrict.com/contact).
-
-**ClubDistrict**  
-4060 Campus Drive, Suite 130  
-Newport Beach, CA 92660
+If you would like to communicate with us about this Privacy Policy or ClubDistrict’s collection and use of your PI please contact us at feedback@clubdistrict.com.
