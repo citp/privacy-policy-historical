@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfauthoring.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101073157id_/http%3A//selfauthoring.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfauthoring.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424080432id_/http%3A//www.selfauthoring.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy<< Autobiographical writing software designed to stimulate psychological growth; Self Authoring
 
