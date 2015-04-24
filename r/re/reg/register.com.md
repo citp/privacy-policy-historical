@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the register.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628042013id_/http%3A//www.register.com/policy/privacy.rcmx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424044135id_/http%3A//www.register.com/policy/privacy.rcmx) for the most accurate reproduction.*
 
 # Register.com Privacy Policy - Business Web Hosting Provider, Domains Registration, Web Design
 
@@ -94,5 +94,5 @@ The Effective Date of this Privacy Policy is set forth below. Due to the constan
 
 For questions about this Privacy Policy please contact Customer Support.
 
-© 2014, Web.com Group, Inc.  
+© 2015, Web.com Group, Inc.  
 Effective Date: May 6, 2014
