@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223092940id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellingcity.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424163320id_/http%3A//www.spellingcity.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Legal
+# Privacy Policy
 
 Privacy Policy Updated: September 22, 2014
 
