@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the q1media.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108023657id_/http%3A//www.q1media.com/sites/default/files/q1media-privacy-policy-6-10-2013.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q1media.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424210912id_/http%3A//www.q1media.com/sites/default/files/q1media-privacy-policy-6-10-2013.pdf) for the most accurate reproduction.*
 
 # The type of information we gather with respect to a web user who is delivered advertising through our advertising technology versus someone who registers with our site is very different
 
