@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reset.me privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113150457id_/http%3A//reset.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reset.me privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424234742id_/http%3A//reset.me/privacy) for the most accurate reproduction.*
 
-# Privacy « Reset.me
+# Privacy - Reset.me
 
 Effective as of May 1, 2014 **                                                                 **Last Updated May 27, 2014
 
