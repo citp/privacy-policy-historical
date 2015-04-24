@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceintelligently.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223222540id_/http%3A//www.priceintelligently.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceintelligently.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424091636id_/http%3A//www.priceintelligently.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Price Intelligently
 
