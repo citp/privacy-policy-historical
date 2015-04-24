@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zotero.org privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106060119id_/https%3A//www.zotero.org/support/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zotero.org privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424131544id_/https%3A//www.zotero.org/support/terms/privacy) for the most accurate reproduction.*
 
 # terms:privacy [Zotero Documentation]
 
