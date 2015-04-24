@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illinoisstate.edu privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217162844id_/http%3A//illinoisstate.edu/downloads/web-privacy-statement-2010.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illinoisstate.edu privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424183507id_/http%3A//illinoisstate.edu/downloads/web-privacy-statement-2010.pdf) for the most accurate reproduction.*
 
 # 
 
