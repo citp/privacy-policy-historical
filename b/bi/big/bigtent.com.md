@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222174540id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424042730id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
 
 # How we collect and use member information | BigTent
 
@@ -125,4 +125,4 @@ Your use of the BigTent Site, and any disputes arising from it, is subject to th
 
 ### Contacting Us
 
-If you have any questions about this privacy policy, please contact us at careteam@care.com. You may also contact us by mail at Care.com, Inc., 201 Jones Road, Suite 500, Waltham, MA 02451. 
+If you have any questions about this privacy policy, please contact us at careteam@care.com. You may also contact us by mail at Care.com, Inc., 77 Fourth St, Suite 5 Waltham, MA 02451, United States. 
