@@ -1,31 +1,54 @@
-<!--The following is the downloaded HTML source of the smutty.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625051400id_/http%3A//smutty.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smutty.com privacy policy that was archived on 2015-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150425002956id_/http%3A//smutty.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><title>smutty.com privacy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUFUlZbGwAGUVhWAQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><link rel="shortcut icon" href="/favicos.ico">
+<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head><title>smutty.com privacy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script><link rel="shortcut icon" href="http://smutty.so.clients.cdn13.com//favicos.ico">
 
 <link rel="alternate" media="handheld" type="text/html" href="http://m.smutty.com/privacy.php">
 
 <link href="//fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=Bowlby+One" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=Days+One" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://smutty.so.clients.cdn13.com//javascript/css/screen.css?r=5" type="text/css" media="screen">
-<link rel="stylesheet" href="http://smutty.so.clients.cdn13.com//javascript/css/smutty.com.css?r=5" type="text/css" media="screen">
-<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/minified/jquery-ui.min.css?r=5" type="text/css" media="screen">
+<link rel="stylesheet" href="http://smutty.so.clients.cdn13.com//javascript/css/screen.css" type="text/css" media="screen">
+
+<link rel="stylesheet" href="http://smutty.so.clients.cdn13.com//javascript/css/smutty_3.com.css" type="text/css" media="screen">
+<!--<link rel="stylesheet" href="/javascript/css/smutty.com.css" type="text/css" media="screen">-->
+
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/minified/jquery-ui.min.css" type="text/css" media="screen">
 
 
 <!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="http://smutty.so.clients.cdn13.com//javascript/IE/ie.css?r=5" />
-<link rel="stylesheet" type="text/css" href="http://smutty.so.clients.cdn13.com//javascript/css/b.css?r=5" />
+<link rel="stylesheet" type="text/css" href="http://smutty.so.clients.cdn13.com//javascript/IE/ie.css" />
+<link rel="stylesheet" type="text/css" href="http://smutty.so.clients.cdn13.com//javascript/css/b.css" />
 <![endif]-->
 
 
+<script>
+(function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('send', 'pageview');
+ga('create', 'UA-30644223-1', 'auto');
+</script>
 
 </head>
 <body class="body_smutty" id="body">
 
 
+
+<div class="network-list">
+  <span class="list-head">Sites of our network:</span>
+  <span class="list-item"><a href="http://fantasti.cc/">fantasti.cc</a></span>
+  <span class="list-item"><a href="http://smutty.com/">smutty.com</a></span>
+  <span class="list-item"><a href="http://pornxs.com/">pornxs.com</a></span>
+  <span class="list-item"><a href="http://imagearn.com/">imagearn.com</a></span>
+</div>
+<div class="head-line"></div>
+
 <div class="menufixed">
+
     <div class="container">
         <div class="span-2 menu_zz">
             <a href="/" class="menu_logo_2011" title="Add Something Outstanding">
@@ -80,16 +103,16 @@
                         <div class="col_1">
                              <span style="color:gold;">Trending Hashtags</span>
                             <ul>
-                                <li><a class="hash_mentions" href="/h/gif/">#gif</a> </li>
-<li><a class="hash_mentions" href="/h/sexy/">#sexy</a> </li>
+                                <li><a class="hash_mentions" href="/h/Celebrity/">#Celebrity</a> </li>
+<li><a class="hash_mentions" href="/h/celebs/">#celebs</a> </li>
 <li><a class="hash_mentions" href="/h/hot/">#hot</a> </li>
-<li><a class="hash_mentions" href="/h/teen/">#teen</a> </li>
+<li><a class="hash_mentions" href="/h/sexy/">#sexy</a> </li>
+<li><a class="hash_mentions" href="/h/gif/">#gif</a> </li>
 <li><a class="hash_mentions" href="/h/tits/">#tits</a> </li>
-<li><a class="hash_mentions" href="/h/amateur/">#amateur</a> </li>
-<li><a class="hash_mentions" href="/h/ass/">#ass</a> </li>
-<li><a class="hash_mentions" href="/h/AmTrack33/">#AmTrack33</a> </li>
-<li><a class="hash_mentions" href="/h/brunette/">#brunette</a> </li>
 <li><a class="hash_mentions" href="/h/pussy/">#pussy</a> </li>
+<li><a class="hash_mentions" href="/h/shemale/">#shemale</a> </li>
+<li><a class="hash_mentions" href="/h/Teen/">#Teen</a> </li>
+<li><a class="hash_mentions" href="/h/Brazzers/">#Brazzers</a> </li>
 
                             </ul>
                         </div>
@@ -103,21 +126,43 @@
 
                 </li>
                 <li>
-                    <a href="http://smutty.com/revive/www/delivery/ck.php?oaparams=2__bannerid=6__zoneid=3__cb=917a6d0177__oadest=http%3A%2F%2Fwww.camtasti.cc%2F%3FAFNO%3D1-1000-smutty-tab" target="_blank">Live Girls!</a><div id="beacon_917a6d0177" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://smutty.com/revive/www/delivery/lg.php?bannerid=6&amp;campaignid=6&amp;zoneid=3&amp;loc=1&amp;referer=http%3A%2F%2Fsmutty.com%2Fprivacy.php&amp;cb=917a6d0177" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>
+                    <script type="text/javascript"><!--//<![CDATA[
+   var m3_u = 'http://109.201.135.76/revive-adserver-2015/www/delivery/ajs.php';
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=3");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="http://109.201.135.76/revive-adserver-2015/www/delivery/ajs.php?zoneid=3&amp;cb=57736995654&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150425002956id_/http%253A//smutty.com/privacy.php"></script>
                 </li>
                 <!--li><a href="/random.php?media=media" class="drop sbutton">Random</a>
                     <div class="dropdown_1column">
                         <div class="col_1"><span style="color:white;">Click or <b>Press R</b> on your keyboard to randomize</span></div>
                     </div>
                 </li-->
+
             </ul>
         </div>
 
-        <div class="span-9 menu_e last" style="color:#f1f1f1;margin-top:3px;">
+        <div class="span-2 " style="color:#f1f1f1;margin-top:10px;width:80px;">
 
 
 
-    </div>
+
+            <a href="https://twitter.com/yoursmutty" title="Follow us on Twitter" onclick="trackGAEvent('social', 'twitter_top');" target="_blank"><img src="http://smutty.so.clients.cdn13.com//javascript/css/images/twitter.png" width="20" height="20" alt="Follow us on Twitter" style="float:right;border:0;"></a>
+            &nbsp;
+         <a href="http://yoursmutty.tumblr.com/" title="Follow us on Tumblr" onclick="trackGAEvent('social', 'tumblr_top');" target="_blank"><img src="http://smutty.so.clients.cdn13.com//javascript/css/images/tumblr.png" width="20" height="20" alt="Follow us on Tumblr" style="border:0;float:right;margin-right:10px;"></a>
+
+
+        </div>
+        <div class="span-2 menu_e last" style="color:#f1f1f1;margin-top:3px;"></div>
 
 
 
@@ -186,52 +231,93 @@
 		<p>If you have any questions about this privacy policy, please contact us at: <script type="text/javascript">eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%70%72%69%76%61%63%79%40%73%6d%75%74%74%79%2e%63%6f%6d%22%20%3e%70%72%69%76%61%63%79%40%73%6d%75%74%74%79%2e%63%6f%6d%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:privacy@smutty.com">privacy@smutty.com</a></p>
 
 	</div>
-    <div class="span-24 small last"><div class="span-24 rounded footer">
-<footer>
+    <div class="span-24 small last"><div class="span-24">
+<footer style="text-align:center" class="white">
+
+ © 2014 Smutty.com All rights reserved.
+ <br>
 	<a href="/terms.php" class="white" rel="nofollow">Terms of service</a> |
 	<a href="/privacy.php" class="white" rel="nofollow">Privacy policy</a> |
 	<a href="/guidelines.php" class="white" rel="nofollow">Community guidelines</a> |
     <a href="/DMCA_notice.php" class="white" rel="nofollow">DMCA Info</a>
-	<!--a href="http://smutty.com/terms" class="white">Terms of Service</a> |
-	<a href="/?locale=en_EN" class="white">En</a> |
-	<a href="/?locale=es_ES" class="white">Es</a> |
-	<a href="/?locale=de_DE" class="white">De</a> |
-	<a href="/?locale=it_IT" class="white">It</a> |
-	<a href="/?locale=fr_FR" class="white">Fr</a-->
+ <br>
+
+
+ <a href="http://yoursmutty.tumblr.com/" title="Follow us on Tumblr" onclick="trackGAEvent('social', 'tumblr_footer');" target="_blank"><img src="http://smutty.so.clients.cdn13.com//javascript/css/images/tumblr.png" width="20" height="20" alt="Follow us on Twitter" style="border:0;margin-top:10px;margin-right:10px;"></a>
+
+
+ <a href="https://twitter.com/yoursmutty" title="Follow us on Twitter" onclick="trackGAEvent('social', 'twitter_footer');" target="_blank"><img src="http://smutty.so.clients.cdn13.com//javascript/css/images/twitter.png" width="20" height="20" alt="Follow us on Twitter" style="border:0;margin-top:10px;"></a>
+
+
 </footer>
 </div>
 </div>
 </div>
-<div id="mobi_test"></div>
-<script src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fd142770fcc4a1a"></script>
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+
+
+<script src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fd142770fcc4a1a"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
-<script src="http://smutty.so.clients.cdn13.com//javascript/pp.js?r=5"></script>
-<script src="http://smutty.so.clients.cdn13.com//javascript/m10.js?r=5"></script>
+<script src="http://smutty.so.clients.cdn13.com//javascript/Smp.js"></script>
 
-<script src="http://smutty.so.clients.cdn13.com/javascript/pop.js"></script>
 
+
+
+
+<script src="http://smutty.so.clients.cdn13.com//javascript/Sm2.js"></script>
+
+      <script type="text/javascript" src="http://service.clicksvenue.com/get_embed.php?sid=2537&amp;spid=2111&amp;scid=10"></script>
+  
 
 
 <!--[if lt IE 10]>
-<script src="http://smutty.so.clients.cdn13.com//javascript/IE/modernizr.js?r=5"></script>
+<script src="http://smutty.so.clients.cdn13.com//javascript/IE/modernizr.js"></script>
 <![endif]-->
 
 <script>
-var _sf_startpt=(new Date()).getTime();
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-30644223-1']);
-_gaq.push(['_setCustomVar', 1, 'is_logged_in', 'no', 2]);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+
+ga('send', 'event', 'is_logged_in', 'no');
+
+
+
 
 
 
   $(document).ready(function() {
+
+
+    
+
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 1) {
+            $('.network-list, .head-line').css({
+                'display': 'none'
+            });
+        }
+        if ($(this).scrollTop() == 0) {
+            $('.network-list, .head-line').css({
+                'display': 'block'
+            });
+        }
+    });
+
+    awn = false;
+
+    $(".webm").hover(function () {
+        $(this).children("video")[0].play();
+        var s = $(this).children("span");
+        $(s).hide();
+
+    }, function () {
+        var el = $(this).children("video")[0];
+        el.pause();
+        el.currentTime = 0;
+        var s = $(this).children("span");
+        $(s).show();
+    });
+
     
     _opts = {};
     _opts.min_text = 1;
@@ -271,6 +357,12 @@ $('html').keyboardShortcut({
     "l": function() {
       trackGAEvent('key', 'l');
       $('#likemealot').trigger('click');
+    },
+    "right": function(){
+      App.next();
+    },
+    "left": function(){
+      App.prev();
     }
   },
   except_in: "input,textarea"
@@ -278,33 +370,21 @@ $('html').keyboardShortcut({
 
 
 function trackGAEvent(category, action, label, value) {
-  _gaq = _gaq || [];
-  _gaq.push(['_trackEvent', category, action, label]);
-    virtual_page = '_event_';
+
+  ga('send', 'event', category, action, label);
+
+  virtual_page = '_event_';
   virtual_page += "/" + category;
+
   if(!action) action = '_';
     virtual_page+="/" + action;
+
   if(label) virtual_page+= "/" + label;
-  _gaq.push(['_trackPageview', virtual_page]);
+  ga('send', 'pageview', virtual_page);
+
 }
 
 
-var _sf_async_config={ uid:3306,domain:"smutty.com" };
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-       "js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
 </script>
 
 
@@ -318,5 +398,6 @@ if (typeof GSFN !== "undefined") { GSFN.loadWidget(394,{"containerId":"getsat-wi
 
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"e19f03ab22","applicationID":"3659461","transactionName":"YQNVYRQCCkoDBUJYCVhJYkcPTBRLCxBXUh8YFl9F","queueTime":0,"applicationTime":8,"ttGuid":"","agentToken":"","atts":"TURWF1wYGUQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9676e6917e","applicationID":"12451012","transactionName":"MVZQbEZTVkcEURdfWggcZ0pdHUhGDEQCVUxIQ1pI","queueTime":0,"applicationTime":4,"atts":"HRFTGg5JRUk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+</body></html>
