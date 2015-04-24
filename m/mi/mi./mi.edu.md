@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mi.edu privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017110412id_/http%3A//www.mi.edu/wp-content/uploads/2013/11/PrivacyPolicy_05-31-13.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi.edu privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425005716id_/http%3A//www.mi.edu/wp-content/uploads/2013/11/PrivacyPolicy_05-31-13.pdf) for the most accurate reproduction.*
 
 # MUSICIANS INSTITUTE
 
