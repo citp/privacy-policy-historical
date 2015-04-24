@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095316id_/http%3A//nearlygood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearlygood.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424121941id_/http%3A//www.nearlygood.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NearlyGood.com
 
