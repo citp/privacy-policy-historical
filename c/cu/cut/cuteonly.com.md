@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021043525id_/http%3A//www.cuteonly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424220445id_/https%3A//www.cuteonly.com/privacy.html) for the most accurate reproduction.*
 
 # CuteOnly Privacy Policy
 
@@ -27,7 +27,7 @@ Non-identifying information is used to help other users find your personal profi
 
 **5\. Financial Security**
 
-Credit card information is processed by [Paysite](https://billing.paysite-cash.biz/customers/?site=4763), one of the largest and most recognized credit card processing companies on the Web. Card numbers are transmitted directly to the banking network for authorization. Paysite does not record your card number and our staff has no access to this data. The sensitive information goes to the Paysite web server. Next, this information is encrypted with secure socket layer technology (SSL). SSL is what ensures complete security during the payment process. 
+Credit card information is processed by [Paymentwall](https://www.paymentwall.com/), one of the largest and most recognized credit card processing companies on the Web. Card numbers are transmitted directly to the banking network for authorization. Paysite does not record your card number and our staff has no access to this data. The sensitive information goes to the Paysite web server. Next, this information is encrypted with secure socket layer technology (SSL). SSL is what ensures complete security during the payment process. 
 
 **6\. Mailings**
 
@@ -44,7 +44,7 @@ Our payment provider, Paysite, uses your email address to notify you on operatio
 
 CuteOnly does not sell rent your email address and other personal information for any kind of promotional mailings to third parties.
 
-To access or manage your subscriptions, please visit [www.cuteonly.com/manage_subscriptions](http://www.cuteonly.com/manage_subscriptions)
+To access or manage your subscriptions, please visit [www.cuteonly.com/manage_subscriptions](https://web.archive.org/manage_subscriptions)
 
 The instructions to unsubscribe from our mailings are located in the bottom of the messages we send. Usually, these are both a link to unsubscribe with a single click and the email address to send an empty message to.
 
@@ -54,6 +54,6 @@ B. Novodmitrovskaya 14/2, office 226
 
   
 **What's Next:**
-* [**CuteOnly Knowledge Base**](http://support.cuteonly.com/) \- Still have questions? Check out our FAQ's
+* [**CuteOnly Knowledge Base**](https://web.archive.org/contacts.html) \- Still have questions? Check out our FAQ's
 * [About CuteOnly](https://web.archive.org/about.html)
 * [CuteOnly Front Page](https://web.archive.org/)
