@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supanet.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015084312id_/http%3A//www.supanet.com/live/pdf/supanet/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supanet.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424211948id_/http%3A//www.supanet.com/live/pdf/supanet/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
