@@ -1,0 +1,885 @@
+<!--The following is the downloaded HTML source of the premieramerica.com privacy policy that was archived on 2015-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150425014643id_/https%3A//www.premieramerica.com/home/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <title>			Privacy :: 		Premier America Credit Union</title>
+		<meta name="ifs_filter" content="premier">
+
+    <meta name="keywords" content="Premier America Credit Union, credit union, bank, internet banking, free checking, branches, debit card, atm card, ATMs, shared branches, savings, mortgage, home loan, home refinance, traditional IRA, roth ira, online services, business loan, personal loan, SBA secured loans, business consultants, credit card, travel mastercard, direct deposit, debit mastercard, visa card, investment, fixed and variable rate, conforming and jumbo loan, consumer loans, no cost home loans, homeowners insurance, auto insurance, life insurance, high yield money market, certificate, CD, Chatsworth, Simi Valley, Thousand Oaks, Valencia, Woodland Hills, youth, student, identity theft, e banking, unlimited check writing, free online bill pay, real estate loans, auto loans, vehicle loans, recreational vehicles, estatements, ATM locator, funds transfer, joint accounts, cashier's checks, gift cards, credit cards, local events, retirement planning, estate planning, invest in your future, www.iiyf.org, mutual funds, free seminar, free quote, join, overdraft protection, community marketplace, member discounts, line of credit, NCUA insurance, apply for a loan, ARM loans, real estate services, popmoney, mastercard savings, invest in america, cuonvacation, commercial property loans, share account, competitive dividends, fixed term, share insurance, merchant card, processing, apply online, federally insured, iphone apps, blackberry shortcut, android app, local community.">
+
+
+
+
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/mstinc/js/jquery-1_7_2.js">/* */</script>
+<script type="text/javascript">
+
+  function loadSignon() {
+    jQuery.ajax({
+      url: '/onlineserv/HB/Signon.cgi?remote=TRUE',
+      'cache': false,
+      dataType: 'script',
+      dataFilter: function(data){
+                    if (typeof data != 'undefined') {
+                      return data.substring(84);
+                    }
+      },
+      'complete': function() {
+                    loadedSignon()
+      }
+    });
+  }
+  /**
+   * @file: untethered_motd.js
+   * @use: on any page with an HB login form with untethered MOTD enabled.
+   */
+var motdContent = false;
+function showMOTD() {
+  if (window.motdContent) {
+    var seenIt = readCookie('shownMOTD');
+    if (!seenIt) {
+      var today = new Date();
+      var expire = new Date();
+      var cookieName="shownMOTD";
+      var cookieValue="true";
+      expire.setTime(today.getTime() + 1200000);
+      document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString();
+      document.getElementById('motdInner').innerHTML=window.motdContent;
+      document.getElementById('motdLayer').style.display='block';    
+    }
+  }
+}
+function showMotd() {
+  if (window.motdContent) {
+    var seenIt = readCookie('shownMOTD');
+    if (!seenIt) {
+      var today = new Date();
+      var expire = new Date();
+      var cookieName="shownMOTD";
+      var cookieValue="true";
+      expire.setTime(today.getTime() + 1200000);
+      document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString();
+      document.getElementById('motdInner').innerHTML=window.motdContent;
+      document.getElementById('motdLayer').style.display='block';    
+    }
+  }
+}
+function hideMOTD() {
+  document.getElementById("motdLayer").style.display="none";    
+}
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for(var i=0;i < ca.length;i++) {
+    var c = ca[i];
+    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+  }
+  return null;
+}
+var headID = document.getElementsByTagName("head")[0];
+function setMotdHandler() {
+  $('input[name="userNumber"], input[name="userid"]').focus(function(){showMotd()});
+}
+function loadedSignon() {
+  window.motdContent = getRemoteMOTD();
+  setMotdHandler();
+}
+
+if (typeof MstIncGlobal != "object") var MstIncGlobal = {};
+MstIncGlobal.USP = {
+"converted_to_usp": true, // do not change
+"ib_url": "https://www.premieramerica.com/onlineserv/HB", // only change if FI doesn't have $cfg_ib_url set in template_head.vm
+//format - https://www.fidomain.com/onlineserv/HB
+"demo_script_url": "/mstinc/web/usp/demo.js", // no need to change for WC sites
+"custom_callback": function(){
+// add code to swap out things like User ID label text / image
+$('.uspDemo,.noUsp').show();
+$('.usernameLabel').attr('src','/home/diFiles/skins/default/images/label_member_id.gif');
+loadSignon();
+} // end custom_callback()
+}; // End USP config object declaration
+</script>
+
+<!-- DI Global Include File please do not remove -->
+<script type="text/javascript" src="/mstinc/web/js/global.js">/* */</script>
+<!-- DI Global Include File please do not remove -->
+<script type="text/javascript" src="/mstinc/web/usp/usp_behavior.js">/* */</script>
+<script type="text/javascript">
+/*Adding velocity-based javascript variables*/
+var contextPath="/home";
+var fiImages="/home/fiFiles/static/images/";
+var fiDocs = "/home/fiFiles/static/documents"; 
+var templateimages = "/home/diFiles/skins/default/images"; 
+</script>
+
+
+    <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+    <meta content="text/css" http-equiv="Content-Style-Type">
+<script type="text/javascript">
+editMode = "live";
+/* dir variable still here for backward compatibility with older scripts */
+diDir = dir = "/home/diFiles/skins/default";
+fiDir = "/home/fiFiles/static";
+fiImages = "/home/fiFiles/static/images";
+fiDocs = "/home/fiFiles/static/documents";
+editmode = "live";         
+</script>
+
+<script type="text/javascript" src="/mstinc/js/jquery-1_7_2.js">/* */</script>
+<script src="/home/diFiles/skins/default/js/_script.js" type="text/javascript">
+ /*For IE*/ 
+</script>
+<script src="/home/diFiles/skins/default/js/rollovers.js" type="text/javascript">
+ /*For IE*/ 
+</script>
+
+
+<script src="/home/diFiles/skins/default/js/swfobject.js"></script>
+
+    <link href="/home/fiFiles/static/css/fi_styles.css" rel="stylesheet" type="text/css">
+    <link href="/home/diFiles/skins/default/css/_styles.css" rel="stylesheet" type="text/css">
+    <link href="/home/diFiles/skins/default/css/_dhtml.css" rel="stylesheet" type="text/css">
+    <link href="/home/diFiles/skins/default/css/printStyles.css" media="print" rel="stylesheet" type="text/css">
+
+
+
+<script type="text/javascript">
+                jQuery(document).ready(function(){
+                    jQuery("#related").appendTo("#rl_links")
+                        .show()
+                    ;
+				                });
+                
+</script>
+
+
+<script type="text/javascript" src="/mstinc/omniture/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+<script type="text/javascript" id="mboxConfigScript" src="/mstinc/omniture/mbox_config.js?group=2"></script><link type="text/css" href="/mstinc/omniture/omniture_styles_hidden.css" rel="stylesheet">
+
+<link rel="Shortcut Icon" href="https://www.premieramerica.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.premieramerica.com/favicon.ico" type="image/x-icon">
+
+
+
+
+
+</head>
+
+	<body id="privacy">
+
+<script src="/home/diFiles/skins/default/js/coolmenus.js" type="text/javascript">
+ /*For IE*/ 
+</script>
+
+    <div class="container">
+      <div class="minwidth">
+        <div class="minwidthContainer">
+          <div class="masthead">
+            <div class="logo"><a href="/home/home"><img src="/home/diFiles/skins/default/images/logo_premier_anim.gif" width="226" height="49" alt="Premier America Credit Union"></a>
+            </div>
+
+            <div class="utilityArea">
+              <div class="searchArea">
+                <form name="seek" method="get" action="https://www.premieramerica.com/home/search" class="searchForm">
+                  <input type="text" name="q" value="Search" onfocus="this.value=''" class="searchField">&nbsp;<input type="image" name="submit" alt="Go" src="/home/diFiles/skins/default/images/btn_go.gif">
+                </form>
+              </div>
+
+              <div class="utilityNav">
+                <ul>
+                  <li><a href="/home/become">Become A Member</a> |</li>
+					
+                 <li><a href="/home/about" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('about'); window.status='$page.getTitle()'; return true;"><img src="/home/diFiles/skins/default/images/clear.gif" name="about" border="0" height="1" width="1" alt="tips">About Us</a> |</li>
+				  <!--<li><a href="/home/about" onmouseout="window.status='';oM.mout();return true" onmouseover="showMenu('about');window.status='About Us'; return true"><img
+                  src="/home/diFiles/skins/default/images/about.gif" alt="" width="1" height="1" id="about" name="about" />About Us</a> |</li>-->
+
+                  <li><a href="/home/atmbranches">ATM/Branches</a> |</li>
+
+                  <li><a href="/home/contactus">Contact Us</a> |</li>
+
+                  <li><a href="/home/home">Home</a></li>
+                </ul>
+              </div>
+
+              <div class="clearfloat">
+                <!--clear-->
+              </div>
+            </div>
+
+            <div class="middleNavArea">
+              <div class="middleNav">
+                <ul>
+                  <li class="first"><a href="https://apply.premier.org/index.cfm?fiid=741403AD2CD74324AEE1F53599D4A172" target="_blank">Join Now</a></li>
+
+                  <li><a href="http://www.mortgage.premier.org/default.asp?siteId=6F14E45B-3330-46c1-A0EC-A558D49AC1F7" target="_blank">Apply for a Real Estate Loan</a></li>
+
+                  <li><a href="/home/misc/onlineap" target="_blank">Apply for a Loan or Credit Card</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="mainNav" style="width: 820px">
+            <ul>
+												<li><a href="/home/misc/formbrs" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('formembers'); window.status='For Members'; return true;"><img border="0" src="/home/diFiles/skins/default/images/nav_formembers_off.gif" alt="For Members" name="formembers"></a></li>
+											<li><a href="/home/rates" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('rates'); window.status='Rates'; return true;"><img border="0" src="/home/diFiles/skins/default/images/nav_rates_off.gif" alt="Rates" name="rates"></a></li>
+												<li><a href="#" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('checkingsavings'); window.status='Checking and Savings'; return true;"><img border="0" src="/home/diFiles/skins/default/images/nav_checkingsavings_off.gif" alt="Checking and Savings" name="checkingsavings"></a></li>
+												<li><a href="#" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('loans'); window.status='Loan Marketplace'; return true;"><img border="0" src="/home/diFiles/skins/default/images/nav_loans_off.gif" alt="Loan Marketplace" name="loans"></a></li>
+												<li><a href="#" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('insuranceinvestments'); window.status='Insurance and Investments'; return true;"><img border="0" src="/home/diFiles/skins/default/images/nav_insuranceinvestments_off.gif" alt="Insurance and Investments" name="insuranceinvestments"></a></li>
+												<li><a href="#" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('business'); window.status='Business Services'; return true;"><img border="0" src="/home/diFiles/skins/default/images/nav_business_off.gif" alt="Business Services" name="business"></a></li>
+																		              <!--comment-->
+            </ul>
+
+            <div class="clear0">
+              <!--clear-->
+            </div>
+          </div>
+<!-- back page content here -->
+
+          <div class="headingBg">
+            <div class="contentArea">
+              <div class="contentCols">
+                <div class="leftCol">
+                  <div class="loginPers">
+                    <img src="/home/diFiles/skins/default/images/label_login_pers.png" width="180" height="25" alt="Online Banking" class="blockImg">
+
+                    <div class="loginLink">
+                      <a href="/home/home"><img src="/home/diFiles/skins/default/images/btn_login.gif" width="48" height="19" alt="Login" class="loginBtn"></a><a href="/home/logintrouble">Login
+                      Help?</a>
+                    </div>
+                  </div>
+
+                 
+                  <div class="leftNav">
+                    <ul>
+																																																<li><a href="javascript:void(0);" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('online'); window.status='Online Services'; return true;"><img src="/home/diFiles/skins/default/images/clear.gif" name="online" border="0" height="1" width="1" alt="Online Services">Online Services</a></li>
+																													<li><a href="javascript:void(0);" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('tipstools'); window.status='Tips and Tools'; return true;"><img src="/home/diFiles/skins/default/images/clear.gif" name="tipstools" border="0" height="1" width="1" alt="Tips and Tools">Tips &amp; Tools</a></li>
+																													<li><a href="javascript:void(0);" class="rollover" onmouseout="window.status=''; oM.mout(); return true;" onmouseover="showMenu('webforms'); window.status='Forms'; return true;"><img src="/home/diFiles/skins/default/images/clear.gif" name="webforms" border="0" height="1" width="1" alt="Forms">Forms</a></li>
+																																																																																																																																																																																																																																																																																	                    </ul>
+
+                    <div class="clearfloat"><!--clear--></div>
+                    
+					<div class="locatorWrap">
+						<h1>ATM &amp; Branch Locator</h1>
+						<div class="locator">
+							<form name="locatorsearch" action="/home/atmbranches/locator" method="GET">
+								<input type="text" name="pagam4" value="Zip Code..." class="zipField" onfocus="this.value=''">
+								<input name="submit" type="image" class="zipBtn" src="/home/diFiles/skins/default/images/locator_btn.gif" alt="GO">
+							</form>
+						</div><!--locator-->
+					</div><!--locatorWrap-->                    
+                    <div class="clearfloat"><!--clear--></div>
+                    
+                    
+                  </div>
+
+                  <div id="rl_links">
+                    <!-- links -->
+                  </div>
+
+                  <div id="col22" class="column">
+                    <div class="row10">
+																																																																							                  <!--?xml version="1.0" encoding="utf-8"?-->
+<span>
+        <div class="editor">
+        <!-- Begin FI Editable Content -->
+        <div class="promoLeft"><script type="text/javascript" src="/home/diFiles/skins/default/js/promo_rotator.js">/*For IE*/</script><a onmouseout="left_column_promo.out()" onmouseover="left_column_promo.over()" href="/home/online/funds"><img alt="Transfer Funds" height="76" width="178" src="https://web.archive.org/home/fiFiles/static/images/TransferFunds.jpg" id="left_column_promo_img"></a><script type="text/javascript">/** * See home_promo.js for usage instructions */ var left_column_promo = new PromoRotator("left_column_promo_img",5,"left_column_promo"); left_column_promo.addPromo( "MakePayment.jpg", "online/billpay", "Make Payment" ); left_column_promo.addPromo( "RequestCopies.jpg", "", "Request Copies" ); left_column_promo.addPromo( "barleft-insurehome0612.jpg", "insuranceinvestments/insurance/auto", "Insurance" ); left_column_promo.addPromo( "TransferFunds.jpg", "online/funds", "Transfer Funds" ); left_column_promo.start();</script></div><!-- promoLeft -->
+    </div>
+</span>									</div>
+                  </div>
+                </div>
+
+                <div class="rightCol">
+                  <div class="heading">
+				  
+                    <h1>Privacy</h1>
+
+                    <div class="headingImg">
+				
+                      <img src="/home/diFiles/skins/default/images/hed_privacy.gif" alt="Privacy" class="blockImg">
+									
+                      <div class="breadCrumbs">
+                        			<a href="/home/">Home</a>&nbsp;&gt;&nbsp;
+	 								Privacy
+														<br> 
+                      </div>
+                    </div>
+                  </div>
+                  <div class="content">
+                    <div id="col12" class="column">
+                      <div class="row10">
+                      
+                                 
+			           		                  <div class="editor">
+<h3>PRIVACY POLICY</h3>
+Effective January 1, 2014&nbsp;
+<p>We have developed the following Privacy Policy to address our collection and disclosure of confidential or personally identifiable information. This policy applies to all persons and/or businesses who visit our websites as well as those who do business with us. Premier America Credit Union (and DBA TOP Premium Finance) are committed to protecting the privacy of our members, customers and website visitors. References to "we," "us," and "our" refer to Premier America Credit Union. References to "you," "your" and "yours" shall mean the members, customers and website visitors.<br>
+<br>
+What You Can Do to Help Protect Your Information - We are committed to protecting your privacy. We suggest you follow these guidelines:</p>
+<ul>
+    <li>Protect your account numbers, card numbers, personal identification numbers (PINs), and Passwords. Never keep your PIN with your debit or credit card which would provide free access to your accounts if your card is lost or stolen.</li>
+    <li>Use caution when disclosing your account numbers, social security numbers, etc., to other persons. If someone calls you, explains the call is on behalf of Premier America Credit Union and asks for your account number, you should beware. Official staff will have access to your information and will not need to ask for it.</li>
+    <li>It is important that we have your current information so we may reach you. If we detect potentially fraudulent or unauthorized activity or use of any account, we will attempt to contact you immediately. If your address, phone number or email changes, please let us know.</li>
+</ul>
+<p><strong>Your Online Privacy</strong></p>
+<p><strong>Links to Non-Premier America Websites</strong>- Premier America Credit Union offers links to other websites. Such sites are not within our control and may not follow the same privacy, security, or accessibility standards as ours. We neither endorse nor guarantee, nor are we responsible for the security, content or availability of their sites. You are encouraged to review the privacy policies of third parties before providing information on their sites.</p>
+<p><strong>Information We Gather Online</strong>- You may visit our website to find out about products and services and check rates, without giving us any personally identifiable information. Our website, internet and mobile banking sites do not honor the Do Not Track settings available in major internet browsers. We may use software tools and/or "cookies" to track and gather information about your browsing activities in order to analyze usage, target areas for improvement, and create marketing programs to benefit our members or potential members. Tracking includes the date and time of visits, pages viewed, time spent on our site, browser types, Internet service provider, and the site visited just before and just after our site. We may also track browsing activities of members who have accounts with Premier America Credit Union and who use online Online Banking services. As part of our security procedures for members using our Online Banking to conduct account inquiries and transactions, we require personally identifiable information such as a login identification (login ID) and password. We consider your login in to be your consent to track your activity in order to provide you with your banking information. We may use a cookie to authenticate your request.</p>
+<p><strong>About Cookies</strong> -</p>
+<p>Cookies are small text files on your system, used to keep track of settings or data for a particular site. Web sites can use cookies to identify a returning user or to pass information between web pages in a single visit. There are two types of cookies: temporary and permanent. Temporary cookies are deleted once the browser is shut down. Permanent cookies are stored on your system and can be accessed again for multiple visits. Permanent cookies usually have an expiration date and will be automatically deleted from your system at that time. Our online Online Banking service (IB) never passes personally identifiable information through cookies. Online IB also uses a temporary session cookie, a non-persistent cookie, or a pre-expired cookie. This cookie is used as part of stringent online security measures to make sure that each is not cached or saved on your computer (each page must be retrieved from the web server). This cookie is deleted when a user logs or times out of IB or if the browser window is closed and ensures that another user on the same computer cannot access the previous user's session or information. If you use Enhanced Login Security, then IB may place a secure permanent cookie on your computer. This secure cookie is unique, and when used in combination with your login information, creates a unique way to identify you to the system. For every login attempt after you add extra security to a computer, this secure cookie is validated along with the login identification you normally enter. This secure cookie is only used to validate your identity and does not contain any personal information. Mobile Online Banking and Bill Pay services may use permanent cookies to speedup identification of device type. This cookie does not contain any personal information.</p>
+<br>
+<p>IP Addresses - If you log on to IB, you pass through a "firewall" used for security purposes and the Internet Protocol (IP) address associated with the computer you are using may be identified. The IP address does not identify you personally. In certain instances, it may also obtain other information about your computer to better identify you as an online user. This information may be retained in case it is needed for security or protection of member information. How You Can Manage Your Information Online - If you are an IB user, you may access information and update some of your personal information quickly and easily online (e.g. change or reset your PIN, Password, phone number or postal address, including email address(es). Service Providers on the Internet - Occasionally you will notice on our website that services are "Powered by" or "Provided by" content providers or technology service partners. We contract with these vendors to help serve you better. We are highly selective in choosing these companies, and they are only allowed to use member information for the purpose of providing the services contracted.</p>
+<p><strong>Co-branded and Alliance Relationships</strong>&nbsp;- We have established relationships with other parties on the Internet. These other companies are accessed either through the use of, or by offering "co-branded" sites in which both Premier America Credit Union and the other company share the same URL, domain name or pages within a domain name on the Internet and the names or logos of both companies are displayed. Generally, we do not own the co-branded sites and therefore do not control how those companies use any information supplied to them. It's important that you review their privacy policy to understand how they manage any information you supply them. However, if you are providing us with information, we will always adhere to our Privacy Policy</p>
+<p>Online Applications and Forms - To protect the information you provide us online, we use multiple levels of security. All information sent using an online application or form is encrypted using security certificates issued by VeriSign. You may communicate with us using secure email forms on the website or within Online Banking.</p>
+<p><strong>Email to Premier America Credit Union</strong>- If you send an email outside of the website or Online Banking, that email is not necessarily secure against interception by unauthorized individuals. Therefore, we ask that you not send confidential account information through regular email. We will not transmit, through regular email, sensitive or personal information that can compromise or violate a user's privacy. When you send an email, your email address will be used to reply, and for a limited time your email address, your message, and response for quality assurance purposes may be stored. This may also be done to meet legal and regulatory requirements. If your email address is collected in this manner, it will not be used to notify you about our products and services unless you have provided prior permission.</p>
+<p><strong>Email from Premier America Credit Union and Your Preferences</strong>&nbsp;- Email is sometimes used to inform members about products, services or product enhancements that may be of interest if you have provided permission. When you provide your email address online you will have an opportunity to tell us if you do not wish to receive these messages. You will also have the opportunity to opt out of future messages on each marketing email you receive. There are some types of email, such as eStatement notifications and important disclosures where opting-out is not available.</p>
+<p><strong>Email from Other Sources</strong>&nbsp;We take your email marketing preference seriously and will not send marketing messages if you tell us you do not want to receive them. Additionally, we will send you email servicing messages only when necessary or at your initiation to quickly deliver important product enrollment, account or service information potentially requiring action on your part. Rest assured, when you receive such messages, they will be clearly marked as coming from us and will not request confidential information.</p>
+<p><strong>Suspicious Email</strong>&nbsp;- Should you receive a suspicious email that appears to be from Premier America Credit Union, please let us know by calling (800) 772-4000 or (818) 772-4000, email us using our secure email form at www.premieramerica.com, or forward the email to HBSecurity@premieramerica.com You may also wish to contact your Internet Service Provider for support in blocking emails or subscribing to a spam filter.</p>
+<p><strong>Account Aggregators</strong>&nbsp;- Many companies offer account aggregation services that collect information from your accounts and consolidate into one site. In order for this to happen, you have to provide the company with sensitive account information, personal identifiers and an access code, Password or PIN. By giving up your Password or PIN, you are authorizing that company to access your account. All transactions conducted by the account aggregator using an access code you provide to them are considered authorized by you.</p>
+<p><strong>Bill Pay</strong> - If you enroll in Bill Pay within our IB, you should be aware that Bill Pay requires you to provide information about your Payees and Billers including addresses and any corresponding account numbers. The Bill Pay service uses this information to send payments on your behalf to your Payees and Billers for further processing.</p>
+<p><strong>Funds Transfer and Popmoney</strong> - If you enroll in Funds Transfer or Popmoney within our IB, you should be aware that you will need to provide routing and account information of your external financial institutions and investment brokers. The Funds Transfer service uses this information to send money between your Premier America Credit Union accounts and your accounts held at other financial institutions or investment brokers. For the Popmoney service, you may need to provide routing or account information, email addresses or phone numbers of your contacts. The Popmoney service uses this information to send money on your behalf to your contacts for further processing.</p>
+<p><strong>FinanceWorks</strong> - If you enroll in the FinanceWorks personal financial management product within IB, you should be aware that FinanceWorks includes retrieval and aggregation of outside account information using credentials provided by you. The product will obtain the account information using your login ID and password for each outside account to enable aggregation and categorization of transactions to display to you, facilitating personal financial management.</p>
+<p><strong>Purchase Rewards </strong>- If you use IB, you should be aware and agree that you may receive targeted offers from our Purchase Rewards product. To present those offers, the Purchase Rewards product tracks and collects your debit card transaction activity. The product will obtain the merchant names and products purchased via debit card in order to generate targeted offers that will present you with an incentive (cash reward) to purchase the same or similar product from the same, different or similar type of merchant. You may opt-out of Purchase Rewards. To Opt-out from Purchase Rewards, please contact us by calling (800) 772-4000 or (818) 772-4000 or email us using our secure email form within IB.</p>
+<p><strong>Protecting Children's Privacy</strong> - We respect the privacy of children, and comply with the practices established under the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect or retain personally identifiable information from consumers under the age of thirteen. For more information about COPPA please visit the Federal Trade Commission website.</p>
+<p>&nbsp;</p>
+<h1><strong>Your General Privacy</strong></h1>
+<h1>WHAT DOES PREMIER AMERICA CREDIT UNION and/or TOP PREMIUM FINANCE DO WITH YOUR PERSONAL INFORMATION?</h1>
+<p><strong>Why?</strong> - Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</p>
+<p><strong>What?</strong> - The types of personal information we collect and share depend on the product or service you have with us. This information can include: Social Security number, account balances, assets and income, payment history, electronic bills, and billing, credit history and credit scores, credit card numbers and usage, checking account information, overdraft history, current and past employers and/or financial institutions, email address, consumer purchasing and census data, data transmitted through cell phones and other mobile devices and postal address. When you are no longer a member, we continue to share your information as described in this notice.</p>
+<p><strong>How? </strong>- All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Premier America Credit Union chooses to share; and whether you can limit this sharing.</p>
+<p><strong>Reasons We Can Share Your Personal Information</strong></p>
+<table border="0" cellspacing="1" cellpadding="1" width="600">
+    <tbody>
+        <tr>
+            <td style="text-align: center">Does Premier America share?</td>
+            <td style="text-align: center">&nbsp;Can you limit this sharing?</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Yes</td>
+            <td style="text-align: center">No</td>
+            <td><strong>For our everyday business purposes</strong> - such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Yes</td>
+            <td style="text-align: center">Yes</td>
+            <td><strong>For our marketing purposes </strong>- to offer our products and services to you</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Yes</td>
+            <td style="text-align: center">Yes</td>
+            <td><strong>For joint marketing with other financial companies&nbsp;</strong>&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">No</td>
+            <td style="text-align: center">No</td>
+            <td><strong>For non-affiliates to market to you </strong></td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>To limit our sharing</strong></p>
+<ul>
+    <li>Call 800-772-4000 or 818-772-4000, or</li>
+    <li>Send us a secure email by logging into Online Banking at www.premieramerica.com or</li>
+    <li>Mail your choices to us including your name address and account number(s) and let us know any/all you want to limit:</li>
+</ul>
+<p style="margin-left: 40px">o <strong>Do not share my personal information for marketing purposes - to offer our products and services</strong>.</p>
+<p style="margin-left: 40px">o<strong> Do not share my personal information for joint marketing with other financial companies. </strong></p>
+<p><strong>Please note:</strong> If you are a new member, we can begin sharing your information 30 days from the date we provide this notice. When you are no longer a member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.</p>
+<p><strong>Questions?</strong> - Call 800-772-4000 (or 818-772-4000) or send an email to notify@premieramerica.com.</p>
+<h3><u>What We Do </u></h3>
+<p><strong>How does Premier America protect my personal information?</strong> - To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.</p>
+<p><strong>How does Premier America collect my personal information?</strong> - We collect your personal information, for example, when you open an account, make deposits or withdrawals from your account, pay your bills, apply for a loan, use your credit or debit card, make a wire transfer, show your Driver's License, visit our web site, use our external funds transfer or bill payment services, and complete an application or form. We also collect your personal information from others such as credit bureaus, or other companies.</p>
+<p><strong>Why can't I limit all sharing?</strong></p>
+<ul>
+    <li>&nbsp;Federal law gives you the right to limit only: Sharing for affiliates "everyday business purposes" information about your creditworthiness&nbsp;</li>
+    <li>Affiliates from using your information to market to you</li>
+    <li>Sharing for non-affiliates to market to you</li>
+</ul>
+<p>State laws and individual companies may give you additional rights to limit sharing.</p>
+<p><strong>What happens when I limit sharing for an account I hold jointly with someone else?</strong> - Your choices will apply to everyone on your account.</p>
+<h3><u><strong>Definitions </strong></u></h3>
+<p><strong>Affiliates</strong> - Companies related by common ownership or control. They can be financial and nonfinancial companies. Premier America Credit Union does not have any affiliates.</p>
+<p><strong>Non-affiliates </strong>- Companies not related by common ownership or control. They can be financial and nonfinancial companies.</p>
+<p><strong>Joint marketing </strong>- A formal agreement between nonaffiliated financial companies that together market financial products or services to you.</p>
+</div>
+<p>&nbsp;</p>
+										
+			
+								 						
+			                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="clearfloat">
+                  <!--clear-->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="footArea">
+            <div class="foot">
+              <div class="footLeft">
+                <div class="dateStamp">
+<script language="javascript" type="text/javascript">
+day = new Array("Sunday" , "Monday" , "Tuesday" , "Wednesday" , "Thursday" , "Friday" , "Saturday");
+                                        month = new Array("January" , "February" , "March" , "April" , "May" , "June" , "July" , "August" , "September" , "October" , " November" , "December");
+                                        total = new Date; 
+                                        document.write(day[total.getDay()] + ", " + month[total.getMonth()] + " " + total.getDate() + ", " + total.getFullYear());
+</script>Saturday, February 1, 2020
+                </div>
+                               <a href="https://web.archive.org/web/20130304222852/http://ifs.intuit.com/" onclick="return displayThirdPartyAlert(1,this);"><img src="/mstinc/web/images/logo_91x22.png" width="91" height="22" border="0" alt="Intuit Financial Services" style="float: left"></a><a href="javascript:showWarning('http://www.hud.gov/', 1);"><img src="/home/diFiles/skins/default/images/logo_ehl.gif" width="40" height="35" alt="Equal Housing Lender" style="float: left"></a><br>
+                <!--[if lt IE 7]><script type="text/javascript" src="/mstinc/web/js/png.js">/* ie */</script><![endif]--><a href="javascript:showWarning('http://www.ncua.gov/', 1);"><img src="/mstinc/web/images/ncua_351x32_blue.png" width="351" height="32" border="0" alt="NCUA" style="margin-top: 1em;"></a>
+              </div>
+
+              <div class="footRight">
+                <ul>
+                  <li><a href="/home/sitemap">Site Map</a> |</li>
+
+                  <li><a href="/home/agreements">Agreements &amp; Disclosures</a> |</li>
+
+                  <li><a href="/home/privacy">Privacy</a> |</li>
+
+									<li><a onclick="displayThirdPartyAlert(1,this);return false;" href="javascript:wcInternalPopup('http://www.diproductsite.com/security_microsite/index.html',660,1100);">Security</a> | </li>
+
+
+                  <li><a href="/home/careers">Careers</a></li>
+                </ul>
+
+                <div style="width: 370px; text-align: left; margin-top: 1em; margin-bottom: 1em;">
+                  Premier America Credit Union is committed to providing exceptional service to individuals and small businesses. We offer consumer, business and youth checking and savings accounts; business loans; investment services; high yields on certificates and money market accounts; homeowner's and auto insurance; home mortgages and auto loans; as well as MasterCard and Visa credit cards. Our members enjoy free services including online banking, mobile banking, text banking, mobile apps and bill pay. We are proud to serve the communities of Chatsworth, Simi Valley, Thousand Oaks, Valencia, Santa Monica, Westlake Village, and Woodland Hills, California as well as Houston, Texas.  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+
+<script type="text/javascript">
+/*Adding fiName javascript */
+var fiName="Premier America Credit Union";
+/*Begin Standard Velocity DHTML Script */
+         var dropmenu = [];
+function showMenu(menu){
+	switch(menu){
+					 					 																									case "online":
+				var menu = "online";
+				dropmenu["online"] = new FindPosition("online");
+				oM.m["online"].b.moveIt(dropmenu["online"].xPos + 170,dropmenu["online"].yPos + -79);
+				break;
+			 																									case "tipstools":
+				var menu = "tipstools";
+				dropmenu["tipstools"] = new FindPosition("tipstools");
+				oM.m["tipstools"].b.moveIt(dropmenu["tipstools"].xPos + 170,dropmenu["tipstools"].yPos + -79);
+				break;
+			 																									case "webforms":
+				var menu = "webforms";
+				dropmenu["webforms"] = new FindPosition("webforms");
+				oM.m["webforms"].b.moveIt(dropmenu["webforms"].xPos + 170,dropmenu["webforms"].yPos + -79);
+				break;
+			 																									case "formembers":
+				var menu = "formembers";
+				dropmenu["formembers"] = new FindPosition("formembers");
+				oM.m["formembers"].b.moveIt(dropmenu["formembers"].xPos + 0,dropmenu["formembers"].yPos + 22);
+				break;
+			 																									case "rates":
+				var menu = "rates";
+				dropmenu["rates"] = new FindPosition("rates");
+				oM.m["rates"].b.moveIt(dropmenu["rates"].xPos + 0,dropmenu["rates"].yPos + 22);
+				break;
+			 																									case "checkingsavings":
+				var menu = "checkingsavings";
+				dropmenu["checkingsavings"] = new FindPosition("checkingsavings");
+				oM.m["checkingsavings"].b.moveIt(dropmenu["checkingsavings"].xPos + 0,dropmenu["checkingsavings"].yPos + 22);
+				break;
+			 																									case "loans":
+				var menu = "loans";
+				dropmenu["loans"] = new FindPosition("loans");
+				oM.m["loans"].b.moveIt(dropmenu["loans"].xPos + 0,dropmenu["loans"].yPos + 22);
+				break;
+			 																									case "insuranceinvestments":
+				var menu = "insuranceinvestments";
+				dropmenu["insuranceinvestments"] = new FindPosition("insuranceinvestments");
+				oM.m["insuranceinvestments"].b.moveIt(dropmenu["insuranceinvestments"].xPos + 0,dropmenu["insuranceinvestments"].yPos + 22);
+				break;
+			 																									case "business":
+				var menu = "business";
+				dropmenu["business"] = new FindPosition("business");
+				oM.m["business"].b.moveIt(dropmenu["business"].xPos + 0,dropmenu["business"].yPos + 22);
+				break;
+			 					 					 					 					 					 					 					 					 					 					 					 					 					 					 		 	}
+	oM.showsub(menu);
+}
+
+
+
+			oM.makeMenu("home", "", "", "", "", "", "");
+							oM.makeMenu("online", "", "", "", "", "", "");
+															oM.makeMenu("online_ibhp", "online", "Online Banking", "/home/online/ibhp", "", "");
+																	oM.makeMenu("online_ibhp_new_internet_banking_video", "online_ibhp", "Online Banking Home Page Video", "/home/online/ibhp/new_internet_banking_video", "", "");
+						
+													oM.makeMenu("online_ibhp_purchase_rewards", "online_ibhp", "Purchase Rewards", "/home/online/ibhp/purchase_rewards", "", "");
+						
+													oM.makeMenu("online_ibhp_fraudtextalerts", "online_ibhp", "Fraud Text Alerts", "/home/online/ibhp/fraudtextalerts", "", "");
+						
+													oM.makeMenu("online_ibhp_enhancedlogin", "online_ibhp", "Enhanced Login Security", "/home/online/ibhp/enhancedlogin", "", "");
+						
+													oM.makeMenu("online_ibhp_guarantee", "online_ibhp", "Online Banking Guarantee", "https://www.premieramerica.com/home/online/ibhp/guarantee", "", "");
+						
+													oM.makeMenu("online_ibhp_browsers", "online_ibhp", "Recommended Browsers & Settings", "https://www.premieramerica.com/home/online/ibhp/browsers", "", "");
+													
+									
+									
+									
+							
+													oM.makeMenu("online_ibhp_financeworks", "online_ibhp", "FinanceWorks", "/home/online/ibhp/financeworks", "", "");
+						
+													oM.makeMenu("online_ibhp_financeworks_video", "online_ibhp", "FinanceWorks Video", "/home/online/ibhp/financeworks_video", "", "");
+						
+							
+													oM.makeMenu("online_mobile", "online", "Mobile Banking & Apps", "/home/online/mobile", "", "");
+																	oM.makeMenu("online_mobile_mobilefaq", "online_mobile", "Mobile Banking FAQs", "/home/online/mobile/mobilefaq", "", "");
+						
+							
+													oM.makeMenu("online_mobilewallet", "online", "MobileWallet", "/home/online/mobilewallet", "", "");
+						
+													oM.makeMenu("online_textbanking", "online", "Text Banking", "https://www.premieramerica.com/home/online/textbanking", "", "");
+						
+													oM.makeMenu("online_coupons", "online", "Community Marketplace - Member Discounts", "/home/online/coupons", "", "", 37);
+						
+													oM.makeMenu("online_billpay", "online", "Bill Pay", "https://www.premieramerica.com/home/online/billpay", "", "");
+																	oM.makeMenu("online_billpay_demo", "online_billpay", "Bill Pay Demo", "javascript:target_blank('https://www.premieramerica.com/bridge/GRP/checkfree_flash_demo/index.html');", "", "");
+						
+													oM.makeMenu("online_billpay_terms", "online_billpay", "Bill Pay Service Terms and Conditions", "/home/online/billpay/terms", "", "", 37);
+						
+													oM.makeMenu("online_billpay_billpayfaqs", "online_billpay", "Bill Pay FAQs", "/home/online/billpay/billpayfaqs", "", "");
+						
+							
+													oM.makeMenu("online_estatements", "online", "eStatements", "/home/online/estatements", "", "");
+																	oM.makeMenu("online_estatements_estmtfaqs", "online_estatements", "eStatement FAQs", "/home/online/estatements/estmtfaqs", "", "");
+						
+							
+													oM.makeMenu("online_onlineprotection", "online", "Identity Protection Service", "/home/online/onlineprotection", "", "");
+																	oM.makeMenu("online_onlineprotection_secureshopping", "online_onlineprotection", "Secure Online Shopping", "/home/online/onlineprotection/secureshopping", "", "");
+						
+							
+													oM.makeMenu("online_funds", "online", "Funds Transfer Service", "/home/online/funds", "", "");
+						
+													oM.makeMenu("online_direct_connect", "online", "Direct Connect Enrollment", "javascript:target_blank('https://www.premieramerica.com/onlineserv/OFX/OFXRegister.cgi');", "", "");
+						
+									oM.makeMenu("tipstools", "", "", "", "", "", "");
+															oM.makeMenu("tipstools_traveltips", "tipstools", "Travel Tips", "/home/tipstools/traveltips", "", "");
+						
+													oM.makeMenu("tipstools_calcs", "tipstools", "Loan and Financial Calculators", "/home/tipstools/calcs", "", "");
+																	oM.makeMenu("tipstools_calcs_loan", "tipstools_calcs", "Loan Calculator", "/home/tipstools/calcs/loan", "", "");
+						
+													oM.makeMenu("tipstools_calcs_comp", "tipstools_calcs", "Loan Comparison Calculator", "/home/tipstools/calcs/comp", "", "");
+						
+													oM.makeMenu("tipstools_calcs_mort", "tipstools_calcs", "Mortgage Calculator", "javascript:target_blank('http://www.mortgage.premier.org/learn/homebuyingprocess2.asp?siteId=6F14E45B-3330-46c1-A0EC-A558D49AC1F7');", "", "");
+						
+													oM.makeMenu("tipstools_calcs_product", "tipstools_calcs", "Mortgage Comparison and Rate Quote Calculators", "javascript:target_blank('http://www.mortgage.premier.org/wizard/LoanConsultant.asp');", "", "", 37);
+						
+													oM.makeMenu("tipstools_calcs_ret", "tipstools_calcs", "Retirement Calculator", "/home/tipstools/calcs/ret", "", "");
+						
+							
+													oM.makeMenu("tipstools_share", "tipstools", "Share Insurance Estimator", "javascript:showWarning('http://webapps.ncua.gov/ins/', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_checkorders", "tipstools", "Check Orders", "/home/tipstools/checkorders", "", "");
+						
+													oM.makeMenu("tipstools_anytime", "tipstools", "Money Tutorials", "javascript:showWarning('http://anytime.cuna.org/11535/index.php', '', '_blank' ,1);", "", "");
+																	oM.makeMenu("tipstools_anytime_newcar", "tipstools_anytime", "New Car Buying", "javascript:showWarning('http://anytime.cuna.org/11535/new_car/pages/001_001_001.html', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_anytime_usedcar", "tipstools_anytime", "Used Car Buying", "javascript:showWarning('http://anytime.cuna.org/11535/used_car/pages/001_001_001.html', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_anytime_home", "tipstools_anytime", "Home Buying", "javascript:showWarning('http://anytime.cuna.org/11535/home_buying/pages/001_001_001.html', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_anytime_checking", "tipstools_anytime", "Checking Account", "javascript:showWarning('http://anytime.cuna.org/11535/checking/001_001_001.html', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_anytime_credit", "tipstools_anytime", "Credit Management", "javascript:showWarning('http://anytime.cuna.org/11535/credit/001_001_001.html', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_anytime_identity", "tipstools_anytime", "Identity Theft", "javascript:showWarning('http://anytime.cuna.org/11535/id_theft/001_001_001.html', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_anytime_couples", "tipstools_anytime", "Couples and Money", "javascript:showWarning('http://anytime.cuna.org/11535/couples_money/001_001_001.html', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_anytime_espanol", "tipstools_anytime", "Las versiones en espanol", "javascript:showWarning('http://anytime.cuna.org/11535/index_espanol.php','', '_blank', 1);", "", "");
+						
+							
+													oM.makeMenu("tipstools_homefamily", "tipstools", "Finance Resource Center", "javascript:showWarning('http://hffo.cuna.org/11535/front/11535/html', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_resourcelinks", "tipstools", "Resource Links", "/home/tipstools/resourcelinks", "", "");
+																	oM.makeMenu("tipstools_resourcelinks_california", "tipstools_resourcelinks", "California Credit Union League", "javascript:showWarning('http://www.ccul.org/', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_resourcelinks_texas", "tipstools_resourcelinks", "Texas Credit Union League", "javascript:showWarning('http://www.tcul.coop/', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_resourcelinks_connect", "tipstools_resourcelinks", "Connect for the Cause", "javascript:showWarning('http://www.connectforthecause.org/', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_resourcelinks_ncua", "tipstools_resourcelinks", "National Credit Union Association (NCUA)", "javascript:showWarning('http://www.ncua.gov/', '', '_blank', 1);", "", "", 37);
+						
+													oM.makeMenu("tipstools_resourcelinks_cuna", "tipstools_resourcelinks", "CUNA News Now", "javascript:showWarning('http://www.cuna.org/newsnow/newsnow.html', '', '_blank', 1);", "", "");
+						
+													oM.makeMenu("tipstools_resourcelinks_uscensus", "tipstools_resourcelinks", "U.S. Census Bureau", "javascript:showWarning('http://www.census.gov', '', '_blank', 1);", "", "");
+						
+							
+													oM.makeMenu("tipstools_turbotax", "tipstools", "TurboTax(R)", "javascript:showWarning('http://turbotax.intuit.com/affiliate/premie5', '', '_blank', 1);", "", "");
+						
+									oM.makeMenu("webforms", "", "", "", "", "", "");
+															oM.makeMenu("webforms_automated", "webforms", "Automated Loan Payment (ACH)", "javascript:openPDF('ach.pdf');", "", "");
+						
+													oM.makeMenu("webforms_autohome", "webforms", "Auto/Home Insurance Quote", "/home/insuranceinvestments/insurance/auto", "", "");
+						
+													oM.makeMenu("webforms_deposit", "webforms", "Deposit Slips", "javascript:openPDF('DEPOSIT_SLIPS.pdf');", "", "");
+						
+													oM.makeMenu("webforms_direct", "webforms", "Direct Deposit", "javascript:wcPopup('https://www.premieramerica.com/home/fiFiles/static/documents/Direct_Deposit.pdf',550,750);", "", "");
+						
+													oM.makeMenu("webforms_switch", "webforms", "Switch Kit", "javascript:openPDF('switch_kit.pdf');", "", "");
+						
+									oM.makeMenu("formembers", "", "", "", "", "", "");
+						oM.makeMenu("rates", "", "", "", "", "", "");
+						oM.makeMenu("checkingsavings", "", "", "", "", "", "");
+															oM.makeMenu("checkingsavings_checking", "checkingsavings", "Checking", "/home/checkingsavings/checking", "", "");
+																	oM.makeMenu("checkingsavings_checking_accounts", "checkingsavings_checking", "Checking Accounts", "/home/checkingsavings/checking/accounts", "", "");
+						
+													oM.makeMenu("checkingsavings_checking_debitatm", "checkingsavings_checking", "Debit/ATM Cards", "/home/checkingsavings/checking/debitatm", "", "");
+						
+													oM.makeMenu("checkingsavings_checking_changejar", "checkingsavings_checking", "Change Jar", "/home/checkingsavings/checking/changejar", "", "");
+						
+							
+													oM.makeMenu("checkingsavings_savings", "checkingsavings", "Savings", "/home/checkingsavings/savings", "", "");
+																	oM.makeMenu("checkingsavings_savings_accounts", "checkingsavings_savings", "Savings Accounts", "/home/checkingsavings/savings/accounts", "", "");
+						
+													oM.makeMenu("checkingsavings_savings_moneymarket", "checkingsavings_savings", "Money Market Accounts", "/home/checkingsavings/savings/moneymarket", "", "");
+						
+													oM.makeMenu("checkingsavings_savings_certificates", "checkingsavings_savings", "Certificates", "/home/checkingsavings/savings/certificates", "", "");
+						
+													oM.makeMenu("checkingsavings_savings_iras", "checkingsavings_savings", "IRAs", "/home/checkingsavings/savings/iras", "", "");
+						
+													oM.makeMenu("checkingsavings_savings_share", "checkingsavings_savings", "Share Insurance on Accounts", "/home/checkingsavings/savings/share", "", "");
+						
+							
+													oM.makeMenu("checkingsavings_youth", "checkingsavings", "Youth and Student", "/home/checkingsavings/youth", "", "");
+																	oM.makeMenu("checkingsavings_youth_newchecking", "checkingsavings_youth", "New Generation Checking", "/home/checkingsavings/youth/newchecking", "", "");
+						
+													oM.makeMenu("checkingsavings_youth_newsavings", "checkingsavings_youth", "Smart Savings", "/home/checkingsavings/youth/newsavings", "", "");
+						
+							
+													oM.makeMenu("checkingsavings_odprotection", "checkingsavings", "Overdraft Protection", "/home/checkingsavings/odprotection", "", "");
+						
+									oM.makeMenu("loans", "", "", "", "", "", "");
+															oM.makeMenu("loans_realestate", "loans", "Real Estate Loans", "/home/loans/realestate", "", "");
+																	oM.makeMenu("loans_realestate_home", "loans_realestate", "Home Loans", "/home/loans/realestate/home", "", "");
+						
+													oM.makeMenu("loans_realestate_homeequity", "loans_realestate", "Home Equity Loans and Lines of Credit", "/home/loans/realestate/homeequity", "", "", 37);
+						
+													oM.makeMenu("loans_realestate_realestate", "loans_realestate", "Real Estate Services", "http://www.mortgage.premier.org/RealEstateServices/RES_Home.asp", "", "");
+						
+							
+													oM.makeMenu("loans_autoservices", "loans", "Vehicle Marketplace", "/home/loans/autoservices", "", "");
+						
+													oM.makeMenu("loans_personal", "loans", "Other Loans & Lines", "/home/loans/personal", "", "");
+						
+													oM.makeMenu("loans_credit", "loans", "Credit Cards", "/home/loans/credit", "", "");
+						
+													oM.makeMenu("loans_convenient", "loans", "Convenient Loan Payment Options", "/home/loans/convenient", "", "");
+						
+													oM.makeMenu("loans_student", "loans", "Student Mastercard", "/home/loans/student", "", "");
+						
+									oM.makeMenu("insuranceinvestments", "", "", "", "", "", "");
+															oM.makeMenu("insuranceinvestments_insurance", "insuranceinvestments", "Insurance", "/home/insuranceinvestments/insurance", "", "");
+																	oM.makeMenu("insuranceinvestments_insurance_auto", "insuranceinvestments_insurance", "Auto and Homeowners", "/home/insuranceinvestments/insurance/auto", "", "");
+																	oM.makeMenu("insuranceinvestments_insurance_auto_homeinsurance", "insuranceinvestments_insurance_auto", "Home Insurance Quote", "javascript:target_blank('https://www.webfschome2.com/generalinfo.aspx?nAgentID=17665&sLanguage=English&bRating=1&sState=CA')", "", "");
+						
+													oM.makeMenu("insuranceinvestments_insurance_auto_autoinsurance", "insuranceinvestments_insurance_auto", "Auto Insurance Quote", "javascript:target_blank('https://www.webfscauto2.com/generalinfo.aspx?nAgentID=17665&sLanguage=English&bRating=11&sState=CA')", "", "");
+						
+							
+													oM.makeMenu("insuranceinvestments_insurance_enespanol", "insuranceinvestments_insurance", "  - En espanol", "/home/insuranceinvestments/insurance/enespanol", "", "");
+						
+													oM.makeMenu("insuranceinvestments_insurance_lifeinsuranceplans", "insuranceinvestments_insurance", "Life Insurance Plans", "/home/insuranceinvestments/insurance/lifeinsuranceplans", "", "");
+																	oM.makeMenu("insuranceinvestments_insurance_lifeinsuranceplans_lifeinsurancequote", "insuranceinvestments_insurance_lifeinsuranceplans", "Term Life Quote and Coverage", "/home/insuranceinvestments/insurance/lifeinsuranceplans/lifeinsurancequote", "", "");
+						
+							
+													oM.makeMenu("insuranceinvestments_insurance_accidentinsurance", "insuranceinvestments_insurance", "Accident Insurance (ADD)", "/home/insuranceinvestments/insurance/accidentinsurance", "", "");
+						
+													oM.makeMenu("insuranceinvestments_insurance_mechanical", "insuranceinvestments_insurance", "Mechanical Breakdown Protection (MBP)", "/home/insuranceinvestments/insurance/mechanical", "", "", 37);
+						
+													oM.makeMenu("insuranceinvestments_insurance_guaranteed", "insuranceinvestments_insurance", "Guaranteed Asset Protection (GAP)   ", "/home/insuranceinvestments/insurance/guaranteed", "", "");
+						
+													oM.makeMenu("insuranceinvestments_insurance_loan", "insuranceinvestments_insurance", "Loan Protection Plan (LPP)", "/home/insuranceinvestments/insurance/loan", "", "");
+						
+							
+													oM.makeMenu("insuranceinvestments_investments", "insuranceinvestments", "Investment Services", "/home/insuranceinvestments/investments", "", "");
+																	oM.makeMenu("insuranceinvestments_investments_speak", "insuranceinvestments_investments", "Meet Your Financial Consultants", "/home/insuranceinvestments/investments/speak", "", "");
+						
+													oM.makeMenu("insuranceinvestments_investments_iiyf", "insuranceinvestments_investments", "Online Investing (iiYf)", "/home/insuranceinvestments/investments/iiyf", "", "");
+						
+													oM.makeMenu("insuranceinvestments_investments_investor", "insuranceinvestments_investments", "Investor Alerts and Tips ", "javascript:showWarning('http://www.nasaa.org/', 1);", "", "");
+						
+													oM.makeMenu("insuranceinvestments_investments_inaccountview", "insuranceinvestments_investments", "Investment Account View", "/home/insuranceinvestments/investments/inaccountview", "", "");
+						
+													oM.makeMenu("insuranceinvestments_investments_educational_workshops", "insuranceinvestments_investments", "Educational Workshops", "/home/insuranceinvestments/investments/educational_workshops", "", "");
+						
+							
+									oM.makeMenu("business", "", "", "", "", "", "");
+															oM.makeMenu("business_bussrvs", "business", "Business Services", "/home/business/bussrvs", "", "");
+						
+													oM.makeMenu("business_internet_banking", "business", "Online Banking", "/home/business/internet_banking", "", "");
+						
+													oM.makeMenu("business_savings", "business", "Savings, Money Market and Certificates", "/home/business/savings", "", "", 37);
+						
+													oM.makeMenu("business_loans", "business", "Loans", "/home/business/loans", "", "");
+						
+													oM.makeMenu("business_checking", "business", "Checking Options", "/home/business/checking", "", "");
+						
+													oM.makeMenu("business_merchantservices", "business", "Merchant Services", "/home/business/merchantservices", "", "");
+						
+									oM.makeMenu("become", "", "", "", "", "", "");
+															oM.makeMenu("become_selectgroups", "become", "Select Employer Groups, Companies and Organizations List", "/home/become/selectgroups", "", "", 37);
+						
+													oM.makeMenu("become_selectmembership", "become", "Select Employer Group Membership", "/home/become/selectmembership", "", "");
+						
+									oM.makeMenu("about", "", "", "", "", "", "");
+															oM.makeMenu("about_whoweare", "about", "Who We Are", "/home/about/whoweare", "", "");
+						
+													oM.makeMenu("about_leadership", "about", "Leadership", "/home/about/leadership", "", "");
+						
+													oM.makeMenu("about_supcommittee", "about", "Supervisory Committee", "/home/about/supcommittee", "", "");
+						
+													oM.makeMenu("about_incommunity", "about", "In the Community", "/home/about/incommunity", "", "");
+						
+													oM.makeMenu("about_currentemails", "about", "Current Emails", "/home/about/currentemails", "", "");
+						
+													oM.makeMenu("about_faqs", "about", "FAQs", "/home/about/faqs", "", "");
+						
+													oM.makeMenu("about_holidayschedule", "about", "Holiday Schedule", "/home/about/holidayschedule", "", "");
+						
+													oM.makeMenu("about_newsletter", "about", "Products Update", "/home/about/newsletter", "", "");
+						
+													oM.makeMenu("about_workshops", "about", "Workshops", "/home/about/workshops", "", "");
+						
+									oM.makeMenu("atmbranches", "", "", "", "", "", "");
+															oM.makeMenu("atmbranches_nationwide", "atmbranches", "Nationwide ATM Access", "/home/atmbranches/nationwide", "", "");
+						
+													oM.makeMenu("atmbranches_branchlocations", "atmbranches", "Branch Locations", "/home/atmbranches/branchlocations", "", "");
+						
+									
+													oM.makeMenu("atmbranches_cucenters", "atmbranches", "CU Service Centers", "/home/atmbranches/cucenters", "", "");
+						
+									oM.makeMenu("contactus", "", "", "", "", "", "");
+															oM.makeMenu("contactus_app", "contactus", "", "https://www.premieramerica.com/home/contactus/app", "", "");
+						
+									oM.makeMenu("sitemap", "", "", "", "", "", "");
+						oM.makeMenu("agreements", "", "", "", "", "", "");
+						oM.makeMenu("privacy", "", "", "", "", "", "");
+						oM.makeMenu("security", "", "", "", "", "", "");
+						oM.makeMenu("careers", "", "", "", "", "", "");
+						oM.makeMenu("search", "", "", "", "", "", "");
+						oM.makeMenu("logintrouble", "", "", "", "", "", "");
+						
+oM.menuPlacement=new Array(0);
+oM.construct();
+/*End Standard Velocity DHTML Script */
+</script><div class="clB" id="oM_home_0" style="z-index: 402; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 0px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_home" style="z-index: 404; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_online_0" style="z-index: 403; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 3px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_online" style="z-index: 405; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_tipstools_0" style="z-index: 404; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 6px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_tipstools" style="z-index: 406; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_webforms_0" style="z-index: 405; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 9px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_webforms" style="z-index: 407; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_formembers_0" style="z-index: 406; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 12px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_formembers" style="z-index: 408; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_rates_0" style="z-index: 407; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 15px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_rates" style="z-index: 409; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_checkingsavings_0" style="z-index: 408; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 18px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_checkingsavings" style="z-index: 410; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_loans_0" style="z-index: 409; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 21px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_loans" style="z-index: 411; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_insuranceinvestments_0" style="z-index: 410; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 24px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_insuranceinvestments" style="z-index: 412; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_business_0" style="z-index: 411; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 27px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_business" style="z-index: 413; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_become_0" style="z-index: 412; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 30px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_become" style="z-index: 414; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_about_0" style="z-index: 413; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 33px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_about" style="z-index: 415; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_atmbranches_0" style="z-index: 414; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 36px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_atmbranches" style="z-index: 416; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_contactus_0" style="z-index: 415; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 39px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_contactus" style="z-index: 417; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_sitemap_0" style="z-index: 416; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 42px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_sitemap" style="z-index: 418; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_agreements_0" style="z-index: 417; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 45px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_agreements" style="z-index: 419; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_privacy_0" style="z-index: 418; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 48px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_privacy" style="z-index: 420; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_security_0" style="z-index: 419; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 51px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_security" style="z-index: 421; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_careers_0" style="z-index: 420; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 54px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_careers" style="z-index: 422; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_search_0" style="z-index: 421; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 57px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_search" style="z-index: 423; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="clB" id="oM_logintrouble_0" style="z-index: 422; clip: rect(0px, 3px, 3px, 0px); width: 3px; height: 3px; left: 60px; top: 0px; visibility: visible;"><div class="bordercolor" id="oM_logintrouble" style="z-index: 424; clip: rect(0px, 1px, 1px, 0px); width: 1px; height: 1px; left: 1px; top: 1px;"></div></div><div class="bordercolor" id="oM_1_0" style="z-index: 423; overflow: hidden;"><div class="item_off" id="oM_online_ibhp" style="z-index: 425; left: 0px; top: 0px;"></div><div class="clCMAbs" id="oM_a1_0" style="z-index: 453;"><img height="11" width="11" src="/home/diFiles/skins/default/images/tri.gif" alt=""></div><div class="item_off" id="oM_online_mobile" style="z-index: 426; left: 0px; top: 0px;"></div><div class="clCMAbs" id="oM_a1_1" style="z-index: 455;"><img height="11" width="11" src="/home/diFiles/skins/default/images/tri.gif" alt=""></div><div class="item_off" id="oM_online_mobilewallet" style="z-index: 427; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_textbanking" style="z-index: 428; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_coupons" style="z-index: 429; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_billpay" style="z-index: 430; left: 0px; top: 0px;"></div><div class="clCMAbs" id="oM_a1_2" style="z-index: 457;"><img height="11" width="11" src="/home/diFiles/skins/default/images/tri.gif" alt=""></div><div class="item_off" id="oM_online_estatements" style="z-index: 431; left: 0px; top: 0px;"></div><div class="clCMAbs" id="oM_a1_3" style="z-index: 459;"><img height="11" width="11" src="/home/diFiles/skins/default/images/tri.gif" alt=""></div><div class="item_off" id="oM_online_onlineprotection" style="z-index: 432; left: 0px; top: 0px;"></div><div class="clCMAbs" id="oM_a1_4" style="z-index: 461;"><img height="11" width="11" src="/home/diFiles/skins/default/images/tri.gif" alt=""></div><div class="item_off" id="oM_online_funds" style="z-index: 433; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_direct_connect" style="z-index: 434; left: 0px; top: 0px;"></div></div><div class="bordercolor" id="oM_2_0" style="z-index: 433; overflow: hidden;"><div class="item_off" id="oM_online_ibhp_new_internet_banking_video" style="z-index: 435; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_ibhp_purchase_rewards" style="z-index: 436; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_ibhp_fraudtextalerts" style="z-index: 437; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_ibhp_enhancedlogin" style="z-index: 438; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_ibhp_guarantee" style="z-index: 439; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_ibhp_browsers" style="z-index: 440; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_ibhp_financeworks" style="z-index: 441; left: 0px; top: 0px;"></div><div class="item_off" id="oM_online_ibhp_financeworks_video" style="z-index: 442; left: 0px; top: 0px;"></div><div class="clCMAbs" id="oM_a2_0" style="z-index: 463;"><img height="11" width="11" src="/home/diFiles/skins/default/images/tri.gif" alt=""></div><div class="clCMAbs" id="oM_a2_1" style="z-index: 465;"><img height="11" width="11" src="/home/diFiles/skins/default/images/tri.gif" alt=""></div></div><div class="bordercolor" id="oM_3_0" style="z-index: 441; overflow: hidden;"><div class="item_off" id="oM_insuranceinvestments_insurance_auto_homeinsurance" style="z-index: 443; left: 0px; top: 0px;"></div><div class="item_off" id="oM_insuranceinvestments_insurance_auto_autoinsurance" style="z-index: 444; left: 0px; top: 0px;"></div></div><div class="temp" id="MenuHidde_online_ibhp">Online Banking</div><div class="temp" id="MenuHidde_online_ibhp_new_internet_banking_video">Online Banking Home Page Video</div><div class="temp" id="MenuHidde_online_ibhp_purchase_rewards">Purchase Rewards</div><div class="temp" id="MenuHidde_online_ibhp_fraudtextalerts">Fraud Text Alerts</div><div class="temp" id="MenuHidde_online_ibhp_enhancedlogin">Enhanced Login Security</div><div class="temp" id="MenuHidde_online_ibhp_guarantee">Online Banking Guarantee</div><div class="temp" id="MenuHidde_online_ibhp_browsers">Recommended Browsers &amp; Settings</div><div class="temp" id="MenuHidde_online_ibhp_financeworks">FinanceWorks</div><div class="temp" id="MenuHidde_online_ibhp_financeworks_video">FinanceWorks Video</div><div class="temp" id="MenuHidde_online_mobile">Mobile Banking &amp; Apps</div><div class="temp" id="MenuHidde_online_mobile_mobilefaq">Mobile Banking FAQs</div><div class="temp" id="MenuHidde_online_mobilewallet">MobileWallet</div><div class="temp" id="MenuHidde_online_textbanking">Text Banking</div><div class="temp" id="MenuHidde_online_coupons">Community Marketplace - Member Discounts</div><div class="temp" id="MenuHidde_online_billpay">Bill Pay</div><div class="temp" id="MenuHidde_online_billpay_demo">Bill Pay Demo</div><div class="temp" id="MenuHidde_online_billpay_terms">Bill Pay Service Terms and Conditions</div><div class="temp" id="MenuHidde_online_billpay_billpayfaqs">Bill Pay FAQs</div><div class="temp" id="MenuHidde_online_estatements">eStatements</div><div class="temp" id="MenuHidde_online_estatements_estmtfaqs">eStatement FAQs</div><div class="temp" id="MenuHidde_online_onlineprotection">Identity Protection Service</div><div class="temp" id="MenuHidde_online_onlineprotection_secureshopping">Secure Online Shopping</div><div class="temp" id="MenuHidde_online_funds">Funds Transfer Service</div><div class="temp" id="MenuHidde_online_direct_connect">Direct Connect Enrollment</div><div class="temp" id="MenuHidde_tipstools_traveltips">Travel Tips</div><div class="temp" id="MenuHidde_tipstools_calcs">Loan and Financial Calculators</div><div class="temp" id="MenuHidde_tipstools_calcs_loan">Loan Calculator</div><div class="temp" id="MenuHidde_tipstools_calcs_comp">Loan Comparison Calculator</div><div class="temp" id="MenuHidde_tipstools_calcs_mort">Mortgage Calculator</div><div class="temp" id="MenuHidde_tipstools_calcs_product">Mortgage Comparison and Rate Quote Calculators</div><div class="temp" id="MenuHidde_tipstools_calcs_ret">Retirement Calculator</div><div class="temp" id="MenuHidde_tipstools_share">Share Insurance Estimator</div><div class="temp" id="MenuHidde_tipstools_checkorders">Check Orders</div><div class="temp" id="MenuHidde_tipstools_anytime">Money Tutorials</div><div class="temp" id="MenuHidde_tipstools_anytime_newcar">New Car Buying</div><div class="temp" id="MenuHidde_tipstools_anytime_usedcar">Used Car Buying</div><div class="temp" id="MenuHidde_tipstools_anytime_home">Home Buying</div><div class="temp" id="MenuHidde_tipstools_anytime_checking">Checking Account</div><div class="temp" id="MenuHidde_tipstools_anytime_credit">Credit Management</div><div class="temp" id="MenuHidde_tipstools_anytime_identity">Identity Theft</div><div class="temp" id="MenuHidde_tipstools_anytime_couples">Couples and Money</div><div class="temp" id="MenuHidde_tipstools_anytime_espanol">Las versiones en espanol</div><div class="temp" id="MenuHidde_tipstools_homefamily">Finance Resource Center</div><div class="temp" id="MenuHidde_tipstools_resourcelinks">Resource Links</div><div class="temp" id="MenuHidde_tipstools_resourcelinks_california">California Credit Union League</div><div class="temp" id="MenuHidde_tipstools_resourcelinks_texas">Texas Credit Union League</div><div class="temp" id="MenuHidde_tipstools_resourcelinks_connect">Connect for the Cause</div><div class="temp" id="MenuHidde_tipstools_resourcelinks_ncua">National Credit Union Association (NCUA)</div><div class="temp" id="MenuHidde_tipstools_resourcelinks_cuna">CUNA News Now</div><div class="temp" id="MenuHidde_tipstools_resourcelinks_uscensus">U.S. Census Bureau</div><div class="temp" id="MenuHidde_tipstools_turbotax">TurboTax®</div><div class="temp" id="MenuHidde_webforms_automated">Automated Loan Payment (ACH)</div><div class="temp" id="MenuHidde_webforms_autohome">Auto/Home Insurance Quote</div><div class="temp" id="MenuHidde_webforms_deposit">Deposit Slips</div><div class="temp" id="MenuHidde_webforms_direct">Direct Deposit</div><div class="temp" id="MenuHidde_webforms_switch">Switch Kit</div><div class="temp" id="MenuHidde_checkingsavings_checking">Checking</div><div class="temp" id="MenuHidde_checkingsavings_checking_accounts">Checking Accounts</div><div class="temp" id="MenuHidde_checkingsavings_checking_debitatm">Debit/ATM Cards</div><div class="temp" id="MenuHidde_checkingsavings_checking_changejar">Change Jar</div><div class="temp" id="MenuHidde_checkingsavings_savings">Savings</div><div class="temp" id="MenuHidde_checkingsavings_savings_accounts">Savings Accounts</div><div class="temp" id="MenuHidde_checkingsavings_savings_moneymarket">Money Market Accounts</div><div class="temp" id="MenuHidde_checkingsavings_savings_certificates">Certificates</div><div class="temp" id="MenuHidde_checkingsavings_savings_iras">IRAs</div><div class="temp" id="MenuHidde_checkingsavings_savings_share">Share Insurance on Accounts</div><div class="temp" id="MenuHidde_checkingsavings_youth">Youth and Student</div><div class="temp" id="MenuHidde_checkingsavings_youth_newchecking">New Generation Checking</div><div class="temp" id="MenuHidde_checkingsavings_youth_newsavings">Smart Savings</div><div class="temp" id="MenuHidde_checkingsavings_odprotection">Overdraft Protection</div><div class="temp" id="MenuHidde_loans_realestate">Real Estate Loans</div><div class="temp" id="MenuHidde_loans_realestate_home">Home Loans</div><div class="temp" id="MenuHidde_loans_realestate_homeequity">Home Equity Loans and Lines of Credit</div><div class="temp" id="MenuHidde_loans_realestate_realestate">Real Estate Services</div><div class="temp" id="MenuHidde_loans_autoservices">Vehicle Marketplace</div><div class="temp" id="MenuHidde_loans_personal">Other Loans &amp; Lines</div><div class="temp" id="MenuHidde_loans_credit">Credit Cards</div><div class="temp" id="MenuHidde_loans_convenient">Convenient Loan Payment Options</div><div class="temp" id="MenuHidde_loans_student">Student Mastercard</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance">Insurance</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_auto">Auto and Homeowners</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_auto_homeinsurance">Home Insurance Quote</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_auto_autoinsurance">Auto Insurance Quote</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_enespanol">  - En espanol</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_lifeinsuranceplans">Life Insurance Plans</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_lifeinsuranceplans_lifeinsurancequote">Term Life Quote and Coverage</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_accidentinsurance">Accident Insurance (ADD)</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_mechanical">Mechanical Breakdown Protection (MBP)</div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_guaranteed">Guaranteed Asset Protection (GAP)   </div><div class="temp" id="MenuHidde_insuranceinvestments_insurance_loan">Loan Protection Plan (LPP)</div><div class="temp" id="MenuHidde_insuranceinvestments_investments">Investment Services</div><div class="temp" id="MenuHidde_insuranceinvestments_investments_speak">Meet Your Financial Consultants</div><div class="temp" id="MenuHidde_insuranceinvestments_investments_iiyf">Online Investing (iiYf)</div><div class="temp" id="MenuHidde_insuranceinvestments_investments_investor">Investor Alerts and Tips </div><div class="temp" id="MenuHidde_insuranceinvestments_investments_inaccountview">Investment Account View</div><div class="temp" id="MenuHidde_insuranceinvestments_investments_educational_workshops">Educational Workshops</div><div class="temp" id="MenuHidde_business_bussrvs">Business Services</div><div class="temp" id="MenuHidde_business_internet_banking">Online Banking</div><div class="temp" id="MenuHidde_business_savings">Savings, Money Market and Certificates</div><div class="temp" id="MenuHidde_business_loans">Loans</div><div class="temp" id="MenuHidde_business_checking">Checking Options</div><div class="temp" id="MenuHidde_business_merchantservices">Merchant Services</div><div class="temp" id="MenuHidde_become_selectgroups">Select Employer Groups, Companies and Organizations List</div><div class="temp" id="MenuHidde_become_selectmembership">Select Employer Group Membership</div><div class="temp" id="MenuHidde_about_whoweare">Who We Are</div><div class="temp" id="MenuHidde_about_leadership">Leadership</div><div class="temp" id="MenuHidde_about_supcommittee">Supervisory Committee</div><div class="temp" id="MenuHidde_about_incommunity">In the Community</div><div class="temp" id="MenuHidde_about_currentemails">Current Emails</div><div class="temp" id="MenuHidde_about_faqs">FAQs</div><div class="temp" id="MenuHidde_about_holidayschedule">Holiday Schedule</div><div class="temp" id="MenuHidde_about_newsletter">Products Update</div><div class="temp" id="MenuHidde_about_workshops">Workshops</div><div class="temp" id="MenuHidde_atmbranches_nationwide">Nationwide ATM Access</div><div class="temp" id="MenuHidde_atmbranches_branchlocations">Branch Locations</div><div class="temp" id="MenuHidde_atmbranches_cucenters">CU Service Centers</div><div class="temp" id="MenuHidde_contactus_app"></div>
+
+<script src="/mstinc/turbotax/js/tt.js" type="text/javascript">
+/* for ie */
+</script><script type="text/javascript" src="https://web.archive.org/mstinc/turbotax/js/ttDomains.js"></script>
+<script type="text/javascript">
+if(typeof tt!='undefined')tt.show('premier.org',0);
+</script><script type="text/javascript" src="https://web.archive.org/mstinc/turbotax/js/ttDomains_p.js"></script>
+		
+
+    <div id="ex_dis" style="display:none">
+      blank
+    </div>
+	<!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript">
+      var wa = new Object();
+      wa.reportSuiteProd="intuit"+"08008";
+</script>
+<script type="text/javascript" src="/mstinc/js/s_code.js">/*comment*/</script>
+<script type="text/javascript" src="/mstinc/js/s_ifidConfig.js">/*comment*/</script>
+<script type="text/javascript">
+      ifidSiteCatalyst.init("/privacy","Privacy");
+      s.pageName=ifidSiteCatalyst.pageName;
+      s.channel=ifidSiteCatalyst.channel;
+      s.hier="";
+      s.pageType="";
+      s.prop7="";
+      s.prop8="";
+      /* Conversion Variables */
+      s.campaign="";
+      s.state=""; s.zip="";
+      s.events="";
+      s.products=""; s.purchaseID="";
+      s.eVar7="";
+      s.eVar8="";
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://intuit00001.122.2O7.net/b/ss/intuit00001/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34800098-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Facebook Conversion Code for Credit Builder -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6020880392201', {'value':'0.00','currency':'USD'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020880392201&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 964645469;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964645469/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+  
+
+
+</body></html>
