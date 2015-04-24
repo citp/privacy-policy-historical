@@ -1,0 +1,504 @@
+<!--The following is the downloaded HTML source of the thalamus.co privacy policy that was archived on 2015-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150424102209id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="csstransforms csstransforms3d csstransitions"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<title>Digital and Mobile Advertising Company Capabilities, Pricing, Contacts, Traffic, Reviews, Data, Creatives, and Marketing Collateral - Thalamus</title>
+<meta content="Digital and Mobile Advertising Company Capabilities, Pricing, Contacts, Reviews, Traffic &amp; Marketing Collateral for Ad Networks, Demand Side Platforms, Publishers, Websites, Blogs, and Social Networks." name="description">
+<link href="http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="/assets/mixpanel/mixpanel-2.2.min-95bfeff5cf4c8d6c0e626a331baa5e44.js"></script><script>
+  window.isMobileDevice = false
+  window.currentAccount = null || {};
+  window.currentUser = null;
+  window.loggedIn = window.currentUser && window.currentUser.account_id;
+  window.partiallyLoggedIn = window.currentUser && !window.loggedIn;
+  window.loggedOut = !(window.loggedIn || window.partiallyLoggedIn);
+  window.reviewNeedUpdate = new Event('update');
+</script>
+<link href="/assets/application-4032b164297f3d70758c0067ad8fe336.css" media="all" rel="stylesheet" type="text/css">
+<style>
+
+</style>
+<script src="/assets/application-c0fada18b6132551863e8660e2a249dd.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param">
+<meta content="7qljRNK6tWYYGf3f4kFBrO3yB5v1SIhkuJ/bzA3Ej4Q=" name="csrf-token">
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount','UA-40786645-2']);
+_gaq.push(['_setDomainName','auto']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<!-- The template to display files available for upload -->
+<script id="template-upload" type="text/x-tmpl">
+  {% for (var i=0, file; file=o.files[i]; i++) { %}
+  <tr class="template-upload fade">
+    {% if (o.options.showPreview) { %}
+      <td class="preview"><span class="fade"></span></td>
+    {% }%}
+    <td class="name"><span>{%=file.name%}</span></td>
+    {% if (o.options.uploadedAt) { %}
+      <td class="updated"><span>{%=moment(file.updated_at).format("MMM DD YYYY hh:mm a")%}</span></td>
+    {% }%}
+    {% if (o.options.showDimensions) { %}
+      <td class="dimensions"><span>{%=file.dimensions%}</span></td>
+    {% }%}
+    <td class="size"><span>{%=o.formatFileSize(file.size)%}</span></td>
+
+    {% if (file.error) { %}
+      <td class="error"><span class="label label-important">{%=locale.fileupload.error%}</span> {%=locale.fileupload.errors[file.error] || file.error%}</td>
+    {% } else if (o.files.valid && !i) { %}
+      <td>
+        <div class="progress progress-success progress-striped active"><div class="bar" style="width:0%;"></div></div>
+      </td>
+      {% if (!o.options.autoUpload) { %}
+        <td class="start">
+          <button class="btn btn-primary">
+            <i class="icon-upload icon-white"></i>
+            <span>{%=locale.fileupload.start%}</span>
+          </button>
+        </td>
+      {% } %}
+    {% } %}
+      <td class="cancel">{% if (!i) { %}
+        <button class="btn btn-mini btn-warning">
+          <i class="icon-ban-circle icon-white"></i>
+          <span>{%=locale.fileupload.cancel%}</span>
+        </button>
+        {% } %}
+      </td>
+    </tr>
+  {% } %}
+</script>
+<!-- The template to display files available for download -->
+<script id="template-download" type="text/x-tmpl">
+  {% for (var i=0, file; file=o.files[i]; i++) { %}
+    <tr class="template-download fade" data-id="{%=file.id%}">
+      {% if (file.error) { %}
+
+        {% if (o.options.showPreview) { %}
+          <td class="preview">
+              <span>
+                  {% if (file.thumbnail_url) { %}
+                      <a href="{%=file.url%}" title="{%=file.name%}" data-gallery="gallery" download="{%=file.name%}"><img src="{%=file.thumbnail_url%}"></a>
+                  {% } %}
+              </span>
+          </td>
+        {% }%}
+
+        <td class="name"><span>{%=file.name%}</span></td>
+
+        {% if (o.options.showCreatedBy) { %}
+          <td class="created"><span>{%=file.created_by%}</span></td>
+        {% }%}
+
+        <td class="updated"><span>{%=moment(file.updated_at + "+00:00").format("MMM DD YYYY hh:mm a")%}</span></td>
+
+        <td class="error"><span class="label label-important">{%=locale.fileupload.error%}</span> {%=locale.fileupload.errors[file.error] || file.error%}</td>
+      {% } else { %}
+
+        {% if (o.options.showPreview) { %}
+          <td class="preview">{% if (file.thumbnail_url) { %}
+            <a href="{%=file.url%}" title="{%=file.name%}" rel="gallery" download="{%=file.name%}"><img src="{%=file.thumbnail_url%}"></a>
+            {% } %}
+          </td>
+        {% } %}
+
+        <td class="name">
+          {% if (o.options.campaignStageKey == "rfp_sent" || o.options.campaignStageKey == "io_sent_to_ad_partner") { %}
+            <a href="{%=file.url + "&triggerDownload=true&cs=" + o.options.campaignStageKey + "&" + o.options.relationClass + "=" + o.options.relationId %}" title="{%=file.name%}" rel="{%=file.thumbnail_url&&'gallery'%}" download="{%=file.name%}">{%=file.name%}</a>
+          {% } else { %}
+            <a href="{%=file.url%}" title="{%=file.name%}" rel="{%=file.thumbnail_url&&'gallery'%}" download="{%=file.name%}">{%=file.name%}</a>
+          {% } %}
+        </td>
+
+        {% if (o.options.showCreatedBy) { %}
+          <td class="created"><span>{%=file.created_by%}</span></td>
+        {% }%}
+
+        {% if (o.options.showUploadedAt) { %}
+          <td class="updated"><span>{%=moment(file.updated_at + "+00:00").format("MMM DD YYYY hh:mm a")%}</span></td>
+        {% }%}
+
+        {% if (o.options.showDimensions) { %}
+          <td class="dimensions"><span>{%=file.dimensions%}</span></td>
+        {% }%}
+
+        <td class="size"><span>{%=o.formatFileSize(file.size)%}</span></td>
+
+        <td>
+          <button class="btn btn-mini action-btn delete-file" data-id="{%= file.id %}">
+            <i class="icon-trash icon-white"></i>
+            <span>Delete</span>
+          </button>
+        </td>
+
+        {% if (o.options.showCopyUrl) { %}
+          <td>
+            <button class="btn btn-mini copy-url" data-url="{%= file.url %}?{%= file.name %}">
+              Copy Url
+            </button>
+          </td>
+        {% } %}
+      {% } %}
+    </tr>
+    {% } %}
+</script>
+
+<script>
+  // Goal is to have every component fire events via a global dispatcher
+  window.dispatcher = _.clone(Backbone.Events);
+  
+  $(document).ready(function(e) {
+  
+  
+    var path = document.location.pathname,
+        contactsFormView = new Thalamus.Views.ContactForm();
+    //if(path === "/contributors" || path === "/privacy" || path === "/terms"){
+    if (path != '/') { // every path except :root (aka 'landing page')
+      $('.show-hide').removeClass('hidden-view');
+    }
+    if(window.isMobileDevice){
+      $('.navbar-inner').css({
+        'padding-left' : 0
+      })
+    }
+    if(path.match(/\/ad_partners\//) || window.hideLanding || window.isMobileDevice){
+      $('.js-wrapper').hide();
+      //if(path.match(/\/s\//)){
+      //$('.footer').show();
+      //}
+    }
+  
+      if(path.match(/\/users/) || path.match(/\/ad_partners/)){
+        $('.footer').hide();
+        $('.main-wrapper').addClass('footer-hidden');
+      }
+    if($('.redirect-form').length > 0){
+      $('.go-search-partner').on('click', searchRedirect);
+      $('.redirect-form').on('submit', searchRedirect);
+    }
+    if(!$('.footer').length){
+      $('.main-wrapper').addClass('footer-hidden')
+    }
+    ZeroClipboard.setDefaults( { moviePath: '/assets/zeroclipboard/ZeroClipboard.swf' } );
+  
+    var signupLoginModal;
+    $('.signup-trigger-modal-link').click(function(e) {
+      e.preventDefault();
+            if (window.isMobileDevice){
+                $('.message-to-signup').removeClass('transparent').removeClass('hidden');
+                return;
+            }
+  
+      if (!window.loggedIn && !window.partiallyLoggedIn) {
+        signupLoginModal = new Thalamus.Views.SignupLoginComponent({
+          mode: 'signup'
+        });
+        $('#signup-login-modal-container').empty().append(signupLoginModal.render().$el);
+        signupLoginModal.show();
+  
+      }
+      else{
+        //Thalamus.readyToAddPartner = true;
+        //discover._hideElementsOnSearchAdd();
+        //$('.padding-to-better-view').removeClass('hidden-view');
+        //discover._showNewPartnerForm();
+        //$('#search-input').focus();
+        //$('.js-show-hide').removeClass('hidden-view');
+        //$('.discover-component-container').removeClass('padding-to-better-view');
+        //alert('You are already logged in!');
+      }
+    });
+  
+    $('.login-trigger-modal-link').click(function(e) {
+      e.preventDefault();
+            if (window.isMobileDevice){
+                $('.message-to-signup').removeClass('transparent').removeClass('hidden');
+                return;
+            }
+  
+      if (!window.loggedIn && !window.partiallyLoggedIn) {
+        signupLoginModal = new Thalamus.Views.SignupLoginComponent({
+          mode: 'login'
+        });
+        $('#signup-login-modal-container').empty().append(signupLoginModal.render().$el);
+        signupLoginModal.show();
+      }
+      else{
+        alert('You are already logged in!');
+      }
+    });
+  
+    dispatcher.on('loggedIn', function(user) {
+      mixpanel.identify(user.email);
+    });
+  
+  
+    dispatcher.on('informDispatcherOfLogin', function(user) {
+      var path = document.location.pathname;
+      if (user.account_sd) {
+        // Route media planners / registered ad partners to their appropriate subdomain
+        var domain = window.location.host.replace(/^www\./, '');
+        return window.location = window.location.protocol + "//" + user.account_sd + "." + domain;
+      }
+  
+      $('.user-settings').show();
+      $('.user-settings .welcome-navbar-name').html('<span class="user-name">'+user.name+'</span>');
+      $('.welcome-navbar-logout').html('<a href="/logout">Logout</a>');
+  
+      $('footer .login-trigger-modal-link').parent().html('<a href="/logout">Logout</a>');
+      $('footer .signup-trigger-modal-link').parent().hide();
+      $('.template-message .signup-trigger-modal-link').hide();
+      $('.message-to-signup').hide();
+      //$('.discover-component-container').removeClass('hidden-view');
+      $('.discover-component-container').removeClass('hidden-view').removeClass('padding-to-better-view');
+      $('.zero-data-state-container').removeClass('hidden-view');
+      $('.section-welcome').addClass('section-welcome-hidden');
+      //.css({
+      //  "height" : '0',
+      //  "min-height" : 0
+      //});
+      $('.headline-wrapper').hide();
+      $('.js-navbar').hide();
+      $('.js-wrapper').hide();
+      $('.show-hide').removeClass('hidden-view').show();
+      $('.main-wrapper').addClass('footer-hidden');
+      $('.section-welcome').css({'padding-bottom' : '10px'});
+      window.currentUser = user;
+      window.partiallyLoggedIn = true;
+      window.loggedIn = user.id && user.account_id;
+      window.loggedOut = false;
+  
+  
+      //$('window').on('update', function(e){
+      //  console.log('logged in');
+      //});
+      //window.addEventListener('update', function (e) {console.log('logged in')}, false);
+      //$('window').trigger(window.reviewNeedUpdate);
+      window.dispatchEvent(window.reviewNeedUpdate);
+      this.trigger('loggedIn', user);
+      if(path.match(/\/ad_partners\//) || path.match(/\/reviews/)){
+          if(window.loggedIn || window.partiallyLoggedIn){
+            $('.footer').hide();
+          }
+        return;
+      }
+      discover._resetAdPartners(discover.adPartners, discover.$('.ad-partners-container'));
+    });
+    function searchRedirect(event){
+  
+        event.preventDefault();
+  
+        var searchValue = _.escape($('.go-to-search').val()),
+            queryString = window.location.origin + '?hide_landing=1&search=' + searchValue ;
+  
+        window.location.replace(queryString);
+        //window.location.replace = "/";
+        //window.location.search = '?hide_landing=1&search=' + searchValue ;
+  
+    }
+  });
+  Thalamus.Models.AdPartner = Thalamus.Models.AdPartner.extend({prettyNames: {"about":"About","company_name":"Company Name","channel":"Channel","parent_company_name":"Parent Company Name","logo":"Logo","website":"Website","link_to_media_kit":"Link to Media Kit / Ratecard / Ad Specs","link_to_ad_gallery":"Link to Ad Gallery / Creative Showcase","minimum_spend":"Minimum Spend","self_managed_service":"Self-Service / Managed Service","locations":"Location","ad_categories":"Categories","category":"Type","specific_category":"Headline","specialization":"Specialization","performance_branding":"Performance / Branding","owned_and_operated_properties":"Owned / Operated Properties","publishers":"Publisher List / Inventory Partners","targeting":"Targeting","key_differentiator":"Key Differentiator","pricing_models":"Pricing Model","linkedin_id":"Linkedin URL","industries":"Industries","mobile_platforms":"Platforms Supported","mobile_app_brand":"App/Game or Brand Centric","mobile_support_video":"Support Mobile Video","mobile_support_rich_media":"Support Mobile Rich Media (Including Interstitials \u0026 Expandables)","mobile_support_incentivized_traffic":"Support Incentivized Traffic ","mobile_support_tablet":"Has Tablet Offering","mobile_support_high_impact":"Support Publisher High-Impact","mobile_ad_features":"Ad Features / Call-to-Actions","mobile_install_tracking":"Mobile Install Tracking Partners","requires_sdk_integration":"Requires SDK Integration","dis_vid_data_partners":"Data Partners","dis_vid_ad_verification_partners":"Ad Verification / Brand Safety Partners","dis_vid_measurement_partners":"Brand / Campaign Measurement Partners","approved_third_party_ad_serving":"Approved 3rd Party Ad Serving / Rich Media Vendors","dis_vid_proprietary_inventory":"Access to Non-RTB / Proprietary Inventory","dis_vid_support_brand_integration":"Support Brand Integrations, Native Executions, Editorial Sponsorships","dis_vid_support_high_impact_executions":"Support High-Impact Executions (Takeovers, Billboards, Overlays, Sliders, Skins)","dis_support_creative_optimization":"Support Creative Optimization","dis_support_rich_media":"Support Rich Media (Expandable \u0026 Non-Expandable)","vid_support_pre_roll":"Support Pre-Roll","vid_support_mid_roll":"Support Mid-Roll","vid_support_post_roll":"Support Post-Roll","vid_support_in_banner_video":"Support In-Banner Video","vid_support_companion_ad":"Support Video Companion Ad","vid_support_custom_video_executions":"Support Custom Video Executions / Video Overlays"} });
+</script>
+
+</head>
+<body class="classy" style="">
+
+<div class="main-wrapper">
+
+<div id="mask"></div>
+<section class="text-center page-aqua use-theme-font">
+<div class="navbar navbar-static-top navbar-custom">
+<div class="navbar-inner">
+<!-- /.container -->
+<div class="nav-collapse collapse user-settings">
+<a class="brand" href="/">
+<img alt="Thalamus_logo_green" src="/assets/thalamus_logo_green-2a1368a8ee65c84e769e06dab2212bb9.png">
+</a>
+<ul class="nav nav-custom">
+<li class="welcome-navbar-logout pull-right">
+<a class="login-trigger-modal-link" href="#">Login</a>
+</li>
+<li class="welcome-navbar-name">
+<a class="signup-trigger-modal-link" href="#">Sign Up</a>
+</li>
+<li></li>
+</ul>
+</div>
+</div>
+</div>
+
+</section>
+<section class="bg-white page-aqua use-theme-font page-terms">
+<div class="container">
+<h1>Thalamus Privacy Policy</h1>
+<p>
+Thalamus, Inc (“us”, “we”, “our” or the “Service”) operates
+<a href="/">http://www.thalamus.co/</a>
+(the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of this site.
+</p>
+<p>
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at
+<a href="/terms">http://www.thalamus.co/terms</a>
+</p>
+<h2>WHAT INFORMATION DO WE COLLECT?</h2>
+<h3>Information Collection and Use</h3>
+<p>We collect information from you when you register on our site.</p>
+<p>When registering on our site, as appropriate, you may be asked to enter your: full name, email address, job role, and link to your personal website/LinkedIn profile (“Personal Information”). You may, however, visit our site anonymously.</p>
+<h3>Using the Service</h3>
+<p>Furthermore, we collect information about which keywords you type into the search bar for the Service, but store them only in aggregate. We also collect information about any interactions on the Service, including, but not limited to: ad partner opens, filtering, bookmarks, button clicks, and ad partner edits.</p>
+<h3>Log Data</h3>
+<p>We also collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+<h3>Cookies</h3>
+<p>Cookies are files with small amounts of data, which include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer’s hard drive.</p>
+<p>Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.</p>
+<h2>WHAT DO WE USE YOUR INFORMATION FOR?</h2>
+<p>Any of the information we collect from you may be used in one of the following ways:</p>
+<ul class="square-list">
+<li>
+To personalize your experience
+<br>
+(your information helps us to better respond to your individual needs)
+</li>
+<li>
+To improve our website
+<br>
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+</li>
+<li>
+To improve customer service
+<br>
+(your information helps us to more effectively respond to your customer service requests and support needs)
+</li>
+<li>To send periodic emails</li>
+</ul>
+<p>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</p>
+<h2>HOW DO WE PROTECT YOUR INFORMATION?</h2>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
+<p>With respect to any documents or data you choose to upload/add to Thalamus, we take the privacy and confidentiality of such documents and data seriously. We store all documents and data securely on our servers, and employ industry standard techniques to protect against unauthorized modifications of that data about you or your company, including personal information.</p>
+<h2>DO WE DISCLOSE ANY INFORMATION TO OUTSIDE PARTIES?</h2>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p>Thalamus shares anonymous data with Google Analytics, such as browser type, demographics, language settings, page views, time/date, and personal data with Mailchimp, specifically names and email addresses.</p>
+<h3>Displaying Your Data</h3>
+<p>If you are a registered Advertising Partner, any data entered or documents uploaded onto the Service may be displayed on the Service. You agree to have full knowledge that the Service is freely available to other Advertising Partners, who have access to your public information on the Service. We do not take responsibility for the privacy practices of other Advertising Partners or users who may use uploaded information and data for their own purposes.</p>
+<h3>Third party links</h3>
+<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+<h3>California Online Privacy Protection Act Compliance</h3>
+<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+<h3>Childrens Online Privacy Protection Act Compliance</h3>
+<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+<h3>Online Privacy Policy Only</h3>
+<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+<h3>International Users</h3>
+<p>By using this Service, you incontestably agree that your data shall be transferred to the United States of America.</p>
+<p>By choosing to become a registered member, or even an anonymous user of the Service, you agree that any dispute over privacy and our terms contained within this Privacy Policy will be governed by the law within the State of California, and the arbitration of any disputes arising in connection with Thalamus, Inc or the Service will be in accordance with our Terms of Service.</p>
+<p>If you are visiting the Service from the European Union or other regions in the world with different laws than the United States concerning data collection and use, you agree that you are aware of the transference of your information to the United States. By providing any information you consent to any transfer and processing of your data in accordance with this Privacy Policy.</p>
+<h3>In the event of a Merger, Sale, or other Asset Transfer</h3>
+<p>If Thalamus is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.</p>
+<h3>Terms and Conditions</h3>
+<p>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at
+<a href="/terms">http://www.thalamus.co/terms</a>
+</p>
+<h3>Your Consent</h3>
+<p>
+By using our site, you consent to our
+<a href="/privacy">websites' privacy policy</a>
+</p>
+<h3>Changes to our Privacy Policy</h3>
+<p>If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. We urge you to bookmark this Privacy Policy page and check it periodically if you are concerned about how your information is being used.</p>
+<p>This policy was last modified on July 26th, 2014</p>
+<h3>Contacting Us</h3>
+<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+<p class="address">
+<span>Thalamus, Inc</span>
+<span>2060 Sutter St #406</span>
+<span>San Francisco, CA 94115</span>
+<span>
+info [at]
+<a href="http://www.thalamus.co">thalamus.co</a>
+</span>
+</p>
+</div>
+</section>
+
+<div class="container">
+<ul class="alerts-list use-theme-fonts unstyled">
+<li class="check-email-block">
+<div class="alert text-center check-email-message transparent hidden">
+<button class="close" data-dismiss="alert" type="button">×</button>
+Please check your email to complete your registration process.
+</div>
+</li>
+<li class="check-email-block">
+<div class="alert text-center thank-for-review transparent hidden">
+<button class="close" data-dismiss="alert" type="button">×</button>
+Thank you for your review
+</div>
+</li>
+<li class="check-email-block">
+<div class="alert text-center thank-for-review-large transparent hidden">
+<button class="close" data-dismiss="alert" type="button">×</button>
+Thanks for your review. It will be posted once it has been verified by a Thalamus moderator.
+</div>
+</li>
+<li>
+<div class="alert text-center message-to-signup transparent hidden">
+<span>
+<a class="signup-trigger-modal-link" href="#">Sign Up</a>
+to write ad partner reviews, or to edit capabilities and key contacts.
+</span>
+</div>
+</li>
+</ul>
+</div>
+
+<div class="main">
+</div>
+</div>
+<div id="modal-container"></div>
+<div class="signup-login-modal-container" id="signup-login-modal-container"></div>
+<footer class="footer page-aqua js-wrapper">
+<div class="wrapper bg-colored">
+<div class="container text-center">
+<div class="row">
+<div class="span12">
+<a class="logo-footer" href="/">
+<img alt="Thalamus_logo_white" src="/assets/thalamus_logo_white-02dd028517ddb685de2f718e3b10de5e.png">
+</a>
+<ul class="unstyled inline mar-t10">
+<li>
+<a href="/privacy">Privacy Policy</a>
+</li>
+<li>
+<a href="/terms">Terms of Service</a>
+</li>
+<li class="user-name-bottom">
+<a href="#" class="signup-trigger-modal-link">Sign Up</a>
+</li>
+<li>
+<a href="#" class="login-trigger-modal-link">Login</a>
+</li>
+</ul>
+<p class="mar-t20">
+©
+2015 - Thalamus
+</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+
+
+
+</body></html>
