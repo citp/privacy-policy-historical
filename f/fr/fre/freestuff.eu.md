@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227221730id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424164905id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Stuff
 
@@ -44,6 +44,14 @@ Allgroove Limited uses the following cookies:
 3\. Functionality cookies. These are used to recognise you when you return to the Website. This enables Allgroove Limited to personalize content for you and remember your preferences (for example, your choice of language or region).
 
 4\. Targeting cookies. These cookies record your visit to the Website, the pages you have visited and the links you have followed. Allgroove Limited will use this information to make the Website and the advertising displayed on it more relevant to your interests. Allgroove Limited may also share this information with third parties for this purpose.
+
+5\. "Here you will find a list of suppliers who are authorized to place and read cookies on our properties (including websites and emails), as well as information on how to opt-out through their privacy policies."
+
+Category: Personalized advertising & email marketing
+
+Company: Criteo
+
+The purpose of Criteo's service is to find visitors of our advertising clients' properties and send them personalized emails or serve them personalized ads. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Display click [here](http://www.criteo.com/privacy/)
 
 **Other information**
 
