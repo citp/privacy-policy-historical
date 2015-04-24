@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804024317id_/https%3A//www.gossimer.com/guaranteed-and-effective-privacy-policy-of-gossimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424182922id_/https%3A//www.gossimer.com/guaranteed-and-effective-privacy-policy-of-gossimer) for the most accurate reproduction.*
 
-# Guaranteed and Effective Privacy Policy of Gossimer - Gossimer
+# Guaranteed and Effective Privacy Policy of Gossimer
 
 Personal identification information
 
@@ -18,7 +18,7 @@ How we use collected information
 
 The personal information collected by Gossimer from its users is used for given purposes:
 
-For personalization of user experience
+For personalizing user experience
 
 The information compiled can be used to gain a deeper understanding of the way the users utilize the resources and services provided on the site.
 
