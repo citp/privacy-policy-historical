@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointandpay.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062135id_/http%3A//www.pointandpay.net/%3Fq%3Dnode/29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointandpay.net privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424122404id_/http%3A//www.pointandpay.net/%3Fq%3Dnode/29) for the most accurate reproduction.*
 
 # Point & Pay, LLC ("Point & Pay") Privacy Policy | Point & Pay
 
