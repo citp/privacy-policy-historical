@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beupdated.org privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924021228id_/http%3A//beupdated.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beupdated.org privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424053422id_/http%3A//www.beupdated.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Be Updated
+# Privacy Policy
 
 This Privacy Policy governs the manner in which TechFabia collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://beupdated.org](http://beupdated.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechFabia.
 
