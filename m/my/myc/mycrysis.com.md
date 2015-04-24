@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mycrysis.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621195435id_/http%3A//www.mycrysis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycrysis.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424134115id_/http%3A//www.crysis.com/privacy) for the most accurate reproduction.*
 
-# MyCrysis - Privacy Policy
+# Crysis - Official Site
+
+### Your options
 
 **PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. WHEN YOU USE ANY ONLINE GAME, SERVICE or WEBSITE FROM CRYTEK YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.**
 
@@ -12,8 +14,7 @@ BY REGISTERING FOR A CRYTEK ACCOUNT, USING THIS SITE AND/OR ANY OF CRYTEK'S ONLI
 
 You will always have the option to require an overview including all collected data by sending a mail to [**privacy@crytek.com**](mailto:privacy@crytek.com "privacy@crytek.com").
 
-## **  
-**I.   Crytek Online Privacy Policy: Introduction
+## I.  Crytek Online Privacy Policy: Introduction
 
 Crytek GmbH and its subsidiary companies (Crytek) respect the privacy rights of consumers and recognize the importance of protecting the information collected about you. We have adopted this global Privacy Policy to explain how we store and use personal and non-personal information we collect online on our websites, during your use of our online products and/or services (including online game play) and on mobile platforms.
 
