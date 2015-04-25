@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the home-speech-home.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701062416id_/http%3A//www.home-speech-home.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-speech-home.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425044928id_/http%3A//www.home-speech-home.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
