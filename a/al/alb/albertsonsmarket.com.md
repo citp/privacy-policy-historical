@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albertsonsmarket.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125102715id_/http%3A//www.unitedtexas.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertsonsmarket.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426013923id_/http%3A//www.unitedtexas.com/privacypolicy) for the most accurate reproduction.*
 
 # United Texas, LLC
 
