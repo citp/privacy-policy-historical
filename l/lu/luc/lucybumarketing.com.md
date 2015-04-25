@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucybumarketing.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901034512id_/http%3A//www.lucybumarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucybumarketing.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425141957id_/http%3A//www.lucybumarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy with LucyBuMarketing - Get Targeted Visitors to your website today
 
@@ -45,7 +45,7 @@ As is true of most Web sites, we automatically gather information about your com
 
 **Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us by filling out the form on the [Contact Us](https://web.archive.org/web/20140901034512id_/http%3A//www.lucybumarketing.com/contact-us.html) page.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us by filling out the form on the [Contact Us](https://web.archive.org/web/20150425141957id_/http%3A//www.lucybumarketing.com/contact-us.html) page.
 
 **Sharing of your Information**
 
@@ -71,13 +71,13 @@ However, note that if you reject some or all cookies, your experience at our sit
 
 **Website Security**
 
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us by filling out the form on the [Contact Us](https://web.archive.org/web/20140901034512id_/http%3A//www.lucybumarketing.com/contact-us.html) page. 
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us by filling out the form on the [Contact Us](https://web.archive.org/web/20150425141957id_/http%3A//www.lucybumarketing.com/contact-us.html) page. 
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
 
 **Contact Information**
 
-You can contact us about this privacy statement by filling out the form on the [Contact Us](https://web.archive.org/web/20140901034512id_/http%3A//www.lucybumarketing.com/contact-us.html) page.
+You can contact us about this privacy statement by filling out the form on the [Contact Us](https://web.archive.org/web/20150425141957id_/http%3A//www.lucybumarketing.com/contact-us.html) page.
 
   
 
