@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocls.info privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210155119id_/http%3A//www.ocls.info/About/BOT/PDFs/Policies/PrivacyPolicyRevisedNov2006.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocls.info privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425230709id_/http%3A//www.ocls.info/About/BOT/PDFs/Policies/PrivacyPolicyRevisedNov2006.pdf) for the most accurate reproduction.*
 
 # Orange County Library System Privacy Policy The Orange County Library System is committed to protecting the privacy of your personal information as well as information regarding your individual use of the Library or its services. The policy outlined below addresses some specific privacy concerns.
 
