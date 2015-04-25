@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213072915id_/https%3A//www.accuquilt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426001717id_/http%3A//www.accuquilt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-This Privacy Statement discloses the privacy practices for the entire Web Site. Questions regarding this statement should be directed to AccuQuilt Customer Service by e-mail at [info@accuquilt.com](mailto:info@accucut.com) or by mail at 8843 South 137th Circle, Omaha, NE 68138.
+This Privacy Statement discloses the privacy practices for the entire Web Site. If you have questions regarding this statement, [Contact Customer Service by email](https://web.archive.org/contact-us) or by mail at 8843 South 137th Circle, Omaha, NE 68138.
 
 **AccuQuilt's Privacy Policy**  
 Your privacy on the Internet is important to us. Because we gather certain types of information about AccuQuilt users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
@@ -53,4 +53,4 @@ AccuQuilt reserves the right to change this policy at any time by notifying gues
 **Opt-Out Policy  
 ** You may terminate your subscription to our electronic newsletter at any time via e-mail by following the instructions contained at the end of every newsletter.
 
-Currently, AccuQuilt does not offer a means by which to completely delete personal information established at the time of registration for any site. If you have questions about your information, please contact us at [info@accuquilt.com](mailto:info@accucut.com).
+Currently, AccuQuilt does not offer a means by which to completely delete personal information established at the time of registration for any site. If you have questions about your information, please [contact us via email](https://web.archive.org/contact-us).
