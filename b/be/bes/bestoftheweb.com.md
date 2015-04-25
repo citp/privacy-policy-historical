@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestoftheweb.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920220525id_/http%3A//bestoftheweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestoftheweb.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425042937id_/http%3A//bestoftheweb.com/privacy) for the most accurate reproduction.*
 
 # Best of the Web Trust Seals - Privacy Policy
 
@@ -6,7 +6,7 @@
 
   * We have created this statement to communicate our commitment to privacy and to ensure that you are comfortable with the measures taken to enhance your experience with us. We are dedicated to providing a safe, secure and enjoyable environment for our users. This statement details our current information gathering procedures, which are subject to change without notice. In order to confirm your understanding of our Privacy Policy, it is suggested that you review this Privacy Policy from time to time. This Privacy Policy covers the following practices: 
 
-    * What personally identifiable information BOTW collects.
+    * What personally identifiable information Best of the Web (BOTW) collects.
     * How BOTW uses the information.
     * What choices are available to users regarding collection, use and distribution of the information.
     * What types of security procedures are in place to protect the loss, misuse or alteration of information under BOTW control.
@@ -16,7 +16,7 @@ Best of the Web is the sole owner of the information collected on BestoftheWeb.c
 
 #### Collection
 
-During the BOTW Verified service, we require information from the user on our order form. A user must provide contact information (such as name, email, and business address, phone number) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
+During the BOTW Trust Seal service, we require information from the user on our order form. A user must provide contact information (such as name, email, and business address, phone number) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
 #### Use
 
