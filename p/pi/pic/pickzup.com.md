@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickzup.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516152915id_/https%3A//www.pickzup.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickzup.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425024039id_/http%3A//www.pickzup.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # OUR PRIVACY POLICY www.pickzup.com Our Commitment to Your Privacy
 
