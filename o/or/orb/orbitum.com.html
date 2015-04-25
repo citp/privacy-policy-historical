@@ -1,17 +1,25 @@
-<!--The following is the downloaded HTML source of the orbitum.com privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216184016id_/http%3A//orbitum.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orbitum.com privacy policy that was archived on 2015-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150425093332id_/http%3A//orbitum.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru"><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
     <meta name="description" content="Орбитум — это быстрый, удобный и безопасный браузер с поддержкой популярных социальных сетей: ВКонтакте, Фейсбук и Одноклассники">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">    
     <meta name="wot-verification" content="124871036ea2e7d3af47">
     <meta name="google" content="notranslate">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>Orbitum - Privacy Policy</title>
-            <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="/js/zepto.min.js"></script>
-            <link href="/css/page.css?1" rel="stylesheet" type="text/css">
-            <link href="/css/en/main.css" rel="stylesheet" type="text/css">
-            <link rel="shortcut icon" href="/img/icon.png">
+             <link rel="shortcut icon" href="http://orbitum.com/icons/logo_32.png?2">        
+        <link href="http://orbitum.com/icons/logo_57.png" rel="apple-touch-icon">
+        <link href="http://orbitum.com/icons/logo_76.png" rel="apple-touch-icon" sizes="76x76">
+        <link href="http://orbitum.com/icons/logo_120.png" rel="apple-touch-icon" sizes="120x120">
+        <link href="http://orbitum.com/icons/logo_152x152.png" rel="apple-touch-icon" sizes="152x152">
+        <link href="http://orbitum.com/icons/logo_180x180.png" rel="apple-touch-icon" sizes="180x180">
+        <link href="http://orbitum.com/icons/logo_192.png" rel="icon" sizes="192x192">
+        <link href="http://orbitum.com/icons/logo_128.png" rel="icon" sizes="128x128">     
+     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="/js/zepto.min.js"></script>
+     <link href="/css/page.css?2" rel="stylesheet" type="text/css">
+     <link href="/css/en/main.css" rel="stylesheet" type="text/css">
 </head> 
     <body>
      <div class="wrap">   
@@ -22,7 +30,7 @@
               <div class="langmenu">
                   <div class="active">English</div>                  
                 <ul class="langmenu">
-                  <li class="lang"><a href="/ru/privacy/">Русский</a></li><li class="lang"><a href="/es/privacy/">Español </a></li><li class="lang"><a href="/fr/privacy/">Français</a></li><li class="lang"><a href="/pt/privacy/">Portugal</a></li><li class="lang"><a href="/th/privacy/">ภาษาไทย</a></li>                    </ul>                  
+                  <li class="lang"><a href="/ru/privacy/">Русский</a></li><li class="lang"><a href="/es/privacy/">Español </a></li><li class="lang"><a href="/fr/privacy/">Français</a></li><li class="lang"><a href="/ar/privacy/">العربية</a></li><li class="lang"><a href="/pt/privacy/">Portugal</a></li><li class="lang"><a href="/th/privacy/">ภาษาไทย</a></li>                    </ul>                  
                 </div>         
           <ul class="rmenu">              
               <li><a href="/">Download</a></li><li><a href="/faq/">About Orbitum</a></li><li><a href="/feedback/">Contacts</a></li>          </ul>
@@ -173,7 +181,7 @@
          
        <div class="footer">
            <div class="copyright">
-               © 2012 - 2014 Orbitum
+               © 2012 - 2015 Orbitum
            </div>
            <ul class="footer_menu">
                <li><a href="/terms/">Terms of use</a></li>  
@@ -215,6 +223,58 @@
 })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/17762011" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->         
+<!-- /Yandex.Metrika counter -->   
+
+<!-- GA counter -->   
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59718576-1', 'auto');
+  ga('send', 'pageview');
+
+
+ function sendStatLand(param){
+    var event = param.event;
+    var action = (param.action) ? param.action : 'click';
+    var label = (param.label) ? param.label : '';
+    var clb   = (typeof param.callback === "function") ? param.callback : false;
+    var tmr;
+    
+    function prepareSend(event, action, label){
+        ga('send', 'event', event, action, label, { "hitCallback" : done.bind(this, 'ok') });
+    }
+    
+    function done( result ){
+        if (result === 'ok') {
+         console.info('sended ga');
+        } else {
+         console.error('sended ga');
+        }
+        
+        clearTimeout(tmr);
+        if (clb) clb();
+    }
+    
+    tmr = setTimeout( done.bind(this, 'error'), 500 ); 
+    prepareSend( event, action, label );
+ }
+
+ function sendStat(e){
+    var event = e.getAttribute('data-event');
+    var href  = e.getAttribute('href');
+    var gotoUrl = function(url){
+        location.href = url;
+    }
+    
+    if (!event) return;
+    
+    ga('send', 'event', event, 'click', { "hitCallback" : gotoUrl.bind(this, href) });
+    
+    return ( href ) ? false : true;
+ }
+</script>      
     
     </div></body></html>
