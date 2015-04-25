@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thew3bindex.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927124955id_/http%3A//www.thew3bindex.com/privacy-note) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thew3bindex.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425140223id_/http%3A//www.thew3bindex.com/privacy-note) for the most accurate reproduction.*
 
 # Privacy Note | The W3B Index |Facts About Your Favorite Internet Sites
 
