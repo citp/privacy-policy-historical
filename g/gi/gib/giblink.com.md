@@ -1,54 +1,22 @@
-> *The following text is extracted and transformed from the giblink.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121004531id_/https%3A//www.lynxdigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giblink.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425164142id_/http%3A//giblink.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lynx Digital Web Solutions
+# Privacy Policy
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Lynx Digital Corp., (“Lynx”). The following discloses our Privacy Policy. 
+Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
 
-**What information are you collecting and how are you collecting it?**
+This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.
 
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer’s "Internet Protocol" [IP address ](http://webopedia.internet.com/TERM/I/IP_address.html). When a visitor requests a page from any Web site within the Lynx, our Web servers automatically recognize that visitor’s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the Lynx, its users, or to cooperate with law enforcement. See also Will you disclose the information you collect to outside third parties? We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
+gibLink is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.
 
-**What are cookies?**
+gibLink collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network.
 
-From time to time, Lynx or its advertisers may send a ["cookie ](http://webopedia.internet.com/TERM/c/cookie.html)" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer’s hard drive. A cookie can’t read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of Lynx’s Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you’ve seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+Like many other Web sites, gibLink uses a standard technology called “cookies.” Cookies are small pieces of information stored on your hard drive – not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use gibLink. Members who disable cookies will not be able to use gibLink.
 
-**What information do you collect when I register for something?**
+Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their gibLink list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of gibLink members are never displayed to other users on the system. Users within a Personal Network communicate on gibLink with each other through the gibLink service without disclosing their email addresses.  
+We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
 
-Lynx offers access to some services that require registration. We may use your registration contact information to send notification to you of Lynx products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See Will you disclose the information that you collect to outside third parties? 
+If you use our Invite feature to invite a friend to our service, we will ask you for your friend’s email address. We’ll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. gibLink does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. gibLink stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.
 
-**What information do you collect when I purchase something?**
+The gibLink site may contain links to other Web sites. Please be aware that gibLink is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than gibLink, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties.
 
-If you are purchasing something from Lynx, we and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
-
-Lynx uses 256 bit SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other Lynx media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
-
-Wherever Lynx collects personal information we make an effort to include a link to this Privacy Policy on that page. 
-
-**Will you disclose the information you collect to outside third parties?**
-
-Lynx will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:   
-     1)    Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on Lynx, 
-
-    2)   Protect and defend the rights or property of the Lynx of sites and related properties, or visitors to the Lynx of sites and related properties, 
-
-    3)   Identify persons who may be violating the law, the Lynx legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the Lynx or its related properties, 
-
-    4)   Fulfill a user’s order or request. 
-
-Lynx uses reasonable precautions to keep the information disclosed to us secure. Lynx reserves the right to transfer all such information in connection with the sale of all or part of Lynx’s capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users _See_ below, What else should I know about my privacy when online? See What information do you collect when I register for something. 
-
-**What else should I know about my privacy when online?**
-
-The Lynx site contains many hyperlinks to third party Web sites. The Lynx also contains advertisements of third parties. Lynx is not responsible for the privacy practices or the content of such third party Web sites or advertisers. Lynx does not share any of the individual personal information you provide Lynx with the third parties to which Lynx links, except as stated elsewhere within this Privacy Policy, although Lynx may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy. 
-
-Please keep in mind that whenever you voluntarily disclose personal information online – for example through e-mail, discussion lists, or elsewhere – that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
-
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you’re online. 
-
-**Your Consent To This Agreement**
-
-By using the Lynx, you consent to the collection and use of information by Lynx as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-Please send any questions about Lynx’s Privacy Policy to: [privacy@lynxdigital.com](mailto:privacy@lynxdigital.com). 
-
-Please note that your use of the Lynx of Web sites is governed by our [Terms of Use](https://web.archive.org/web/20141121004531id_/https%3A//www.lynxdigital.com/terms_of_use.php).
+Please be aware that whenever members voluntarily disclose personal information online – e.g., message boards, file uploads, events, and classifieds – that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.
