@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the streampornclips.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822142522id_/http%3A//www.streampornclips.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streampornclips.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425073051id_/http%3A//www.streampornclips.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.streampornclips.com](http://www.streampornclips.com/)  
-Effective Date: August 22, 2014  
+Effective Date: April 25, 2015  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.streampornclips.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
