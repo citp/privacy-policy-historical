@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704162113id_/http%3A//woodforest.com/About-Us/Privacy--Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426005233id_/http%3A//www.woodforest.com/About-Us/Privacy--Security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -8,7 +8,7 @@ Below are links to several important documents that you should review prior to u
 
 Please feel free to [contact us](https://web.archive.org/About-Us/Contact-Us) if you have any additional questions or concerns.
 
-  * [Your Privacy Rights](https://web.archive.org/Renderers/ShowMedia.ashx?id=773da9d7-d567-42f6-a41c-fc1a528e2a3a)
+  * [Your Privacy Rights](https://web.archive.org/Renderers/ShowMedia.ashx?id=9e70dd49-568c-4400-b5fd-08775476920e)
   * [Woodforest Security Center](https://web.archive.org/About-Us/Privacy--Security/Security-Center)
 
 
