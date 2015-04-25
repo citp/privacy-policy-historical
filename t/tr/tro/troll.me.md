@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the troll.me privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117084040id_/http%3A//www.troll.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troll.me privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425043138id_/http%3A//www.troll.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Troll Meme Generator
+
+## Privacy Policy
+
+* * *
 
 Privacy Policy for www.troll.me 
 
