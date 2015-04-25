@@ -1,107 +1,124 @@
-> *The following text is extracted and transformed from the groupon.ie privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826070133id_/http%3A//www.groupon.ie/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.ie privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425033526id_/http%3A//www.groupon.ie/privacy) for the most accurate reproduction.*
 
-# Groupon - Local Deals, Goods, and Getaways
+# GROUPON IRELAND PRIVACY STATEMENT
 
-Groupon IE: This privacy policy applies in respect of your use of the Groupon IE site and service, as well as your purchase of vouchers from Groupon IE.  
-Groupon Goods Global: This privacy policy applies in respect of your purchase of goods from Groupon Goods Global.
+**Effective Date: 13.06.2014**
 
- **  
-Effective Date: 13.06.2014  
-**
+This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon-Citydeal (Ireland) Limited, The Black Church, St Mary’s Place, Dublin 7, Ireland (“ **Groupon Ireland** ”, “ **us** ”, “ **our** ”, and “ **we** ”), collects, processes and uses information about you. We are the operator of this website, and a provider of a range of services thereto. We provide a platform where we may list offers for local services, goods and travel which are made available by us or other sellers (collectively: “ **Sellers** ”). This Privacy Statement applies to information we collect through our website, mobile application, electronic communications or services or other websites we offer and that link to or specifically reference the applicability of this PrivacyStatement (collectively, the “ **Site** ”). Throughout this document, we will refer to us and our affiliates as the “ **Groupon Group** ”.
 
-This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon-Citydeal (Ireland) Limited, The Black Church, St Mary’s Place, Dublin 7, Ireland (“ **Groupon Ireland** ”, “ **us** ”, “ **our** ”, and “ **we** ”), collects, processes and uses information about you. We are the operator of this website, and a provider of a range of services thereto. We provide a platform where we may list offers for local services, goods and travel which are made available by us or other sellers (collectively: “ **Sellers** ”). This Privacy Statement applies to information we collect through our website, mobile application, electronic communications or services or other websites we offer and that link to or specifically reference the applicability of this Privacy Statement (collectively, the “ **Site** ”). Throughout this document, we will refer to us and our affiliates as the “ **Groupon Group** ”.
+We will routinely update this Privacy Statement to clarify our practices and to reflect new or different privacy practices, such as when we add new services, functionality or features to the Site. If we make any material changes we will notify you, either by email (sent to the email address specified in your account), by means of notice on the Site or otherwise. You can determine when this version of the Privacy Statement was adopted by referring to the “Effective Date” above.
 
-We will routinely update this Privacy Statement to clarify our practices and to reflect new or different privacy practices, such as when we add new services, functionality or features to the Site. If we make any material changes we will notify you, either by email (sent to the email address specified in your account), by means of notice on the Site or otherwise. You can determine when this version of the Privacy Statement was adopted by referring to the “Effective Date” above. 
-
-## **1\. Situations in which We Collect Information**
+**1\. Situations in which We Collect Information**
 
 We may collect and retain the following information from and about you if you interact with us through the Site:
 
-  * your email address and Site password;
-  * your payment details, billing and delivery addresses;
-  * your phone numbers;
-  * your location, browser type and operating system, website browsing patterns (e.g., through cookies) and purchase history;
-  * other information you actively submit to us or we can determine about you based on your interactions with our Site and services.
+· your email address and Site password;
 
+· your payment details, billing and delivery addresses;
 
+· your phone numbers;
+
+· your location, browser type and operating system, website browsing patterns (e.g., through cookies) and purchase history;
+
+· other information you actively submit to us or we can determine about you based on your interactions with our Site and services.
 
 You may interact with us, for example, if you:
 
-  * register, subscribe, authorize the transfer of, or create an account with us;
-  * open or respond to emails;
-  * provide information to enroll or participate in programs provided on behalf of, or together with other Sellers, merchants, co-marketers, distributors, resellers and other business partners, with your consent or as necessary to provide services you have requested;
-  * visit any page online that displays our ads or content;
-  * purchase products or services on or through the Site;
-  * interact or connect with or link to the Site via integrated social networking tools; and
-  * post comments to the Site.
+· register, subscribe, authorize the transfer of, or create an account with us;
 
+· open or respond to emails;
 
+· provide information to enroll or participate in programs provided on behalf of, or together with other Sellers, merchants, co-marketers, distributors, resellers and other business partners, with your consent or as necessary to provide services you have requested;
 
-## **2\. Your Choices**
+· visit any page online that displays our ads or content;
 
-You can manage the types of personal data you provide to us and can limit how we communicate with you.  
+· purchase products or services on or through the Site;
 
-You can manage your email and notice preferences by logging into your account through the Site or by adjusting the settings in our mobile application.  You can also manage your subscriptions by following subscription management instructions contained in any commercial emails that we send you. You may choose to subscribe to some types of messages, and may choose not to subscribe to, or to unsubscribe from, others. You may update your subscription preferences at any time. Please note that even if you decide not to subscribe to, or to unsubscribe, from promotional email messages, we may still need to contact you with important transactional information related to your account and your purchases. For example, even if you have unsubscribed from our promotional email messages, we will still send you confirmations when you make purchases on the Site.
+· interact or connect with or link to the Site via integrated social networking tools; and
 
-You may manage how your browser handles cookies by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. Please refer to our [Cookies Policy](http://www.groupon.ie/cookie-policy) for more information.  You may also manage how your mobile device and mobile browser share information on and about your devices with us, as well as how your mobile browser handles cookies by adjusting the privacy and security settings on your mobile device. Please refer to instructions provided by your mobile service provider and the manufacturer of your device to learn how to adjust your settings.
+· post comments to the Site.
+
+**2\. Your Choices**
+
+You can manage the types of personal data you provide to us and can limit how we communicate with you.
+
+You can manage your email and notice preferences by logging into your account through the Site or by adjusting the settings in our mobile application. You can also manage your subscriptions by following subscription management instructions contained in any commercial emails that we send you. You may choose to subscribe to some types of messages, and may choose not to subscribe to, or to unsubscribe from, others. You may update your subscription preferences at any time. Please note that even if you decide not to subscribe to, or to unsubscribe, from promotional email messages, we may still need to contact you with important transactional information related to your account and your purchases. For example, even if you have unsubscribed from our promotional email messages, we will still send you confirmations when you make purchases on the Site.
+
+You may manage how your browser handles cookies by adjusting its privacy and security settings. Browsers are different, so refer to instructions relatedtoyour browser to learn about cookie-related and other privacy and security settings that may be available. Please refer to our [Cookies Policy](http://www.groupon.ie/cookies) for more information. You may also manage how your mobile device and mobile browser share information on and about your devices with us, as well as how your mobile browser handles cookies by adjusting the privacy and security settings on your mobile device. Please refer to instructions provided by your mobile service provider and the manufacturer of your device to learn how to adjust your settings.
 
 You may also manage the sharing of certain personal data with us when you connect with us through social networking platforms or applications. Please refer to Section 9 below and also the privacy policy and settings of the social networking website or application to determine how you may adjust our permissions and manage the interactivity between us and your social networking account or your mobile device.
 
-If you register for customized email newsletters containing offers for local services, goods and travel, we will work to make information more relevant for you and customize newsletters based on information you share with us, your location, website browsing preferences (for example, through cookies), purchase history or based on other attributes of your relationship with us.  You can reject and delete cookies and unsubscribe from newsletters at any time by clicking links in each newsletter that you wish to unsubscribe from.
+If you register for customized email newsletters containing offers for local services, goods and travel, we will work to make information more relevant for you and customize newsletters based on information you share with us, your location, website browsing preferences (for example, through cookies), purchase history or based on other attributes of your relationship with us. You can reject and delete cookies and unsubscribe from newsletters at any time by clicking links in each newsletter that you wish to unsubscribe from.
 
-## **3\. How We Use Information**
+**3\. How We Use Information**
 
 We process personal data for the following purposes:
 
-  * Operate, maintain and improve the Site;
-  * Provide you with personalized direct marketing initiatives via email and direct marketing offers;
-  * Facilitate and process orders – for example, for vouchers and other goods and services;
-  * Determine your eligibility for certain types of offers, products or services that may be of interest to you, and analyze advertising effectiveness;
-  * Answer your questions and respond to your requests;
-  * To establish and analyze individual and group profiles and customer behavior
-  * Communicate and provide additional information that may be of interest to you about us, the Sellers and our business partners;
-  * Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information, including on behalf of business partners;
-  * Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events;
-  * Manage our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and _Terms of Use_ or to comply with the law;
-  * Comply with our legal obligations, resolve disputes, and enforce our agreements:
-  * Allow you to apply for a job, post a video or sign up for special offers from merchants and other business partners through the Site; and to
-  * Enhance other information we have about you to help us better understand you, determine your interests and provide you with more relevant and compelling services.
+· Operate, maintain and improve the Site;
 
+· Provide you with personalized direct marketing initiatives via email and direct marketing offers;
 
+· Facilitate and process orders – for example, for vouchers and other goods and services;
 
-## **4\. When and Why We Disclose Information**
+· Determine your eligibility for certain types of offers, products or services that may be of interest to you, and analyse advertising effectiveness;
+
+· Answer your questions and respond to your requests;
+
+· To establish and analyse individual and group profiles and customer behaviour
+
+· Communicate and provide additional information that may be of interest to you about us, the Sellers and our business partners;
+
+· Send you reminders, technical notices, updates, security alerts, support and administrative messages, service bulletins, marketing messages, and requested information, including on behalf of business partners;
+
+· Administer rewards, surveys, sweepstakes, contests, or other promotional activities or events;
+
+· Manage our everyday business needs, such as administration of the Site, forum management, fulfilment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and Terms of Use or to comply with the law;
+
+· Comply with our legal obligations, resolve disputes, and enforce our agreements:
+
+· Allow you to apply for a job, post a video or sign up for special offers from merchants and other business partners through the Site; and to
+
+· Enhance other information we have about you to help us better understand you, determine your interests and provide you with more relevant and compelling services.
+
+**4\. When and Why We Disclose Information**
 
 We are not in the business of selling or renting personal data. We will not share your personal data, except as follows:
 
-  * with affiliated and unaffiliated service providers within and outside of the European Economic Area, including, without limitation, Groupon, Inc. (which is Safe Harbor certified see <http://export.gov/safeharbor/>), to provide services for us, subject to strict contractual obligations to protect your personal data and process it on our behalf and under our control only;
-  * with the Sellers, so they can sell and deliver to you;
-  * to report or collect on debts owed to Sellers, merchants or other business partners;
-  * as necessary to perform contractual obligations towards you with business partners to the extent you have purchased or redeemed a Groupon voucher, goods or services offered by a business partner or participated in an offer, rewards, contest or other activity or program sponsored or offered through us or the Sellers on behalf of a business partner;
-  * in case of a merger, acquisition or reorganization with a purchaser of our company or all or substantially all of our assets;
-  * to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions;
-  * to combat fraud or criminal activity, and to protect our rights or those of our affiliates, business partners and users, or as part of legal proceedings affecting the Groupon Group;
-  * in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts, or
-  * with your consent or as otherwise required or permitted by law.
+· with affiliated and unaffiliated service providers within and outside of the European Economic Area, including, without limitation, Groupon, Inc. (which is Safe Harbor certified see <http://export.gov/safeharbor/>), to provide services for us, subject to strict contractual obligations to protect your personal data and process it on our behalf and under our control only;
 
+· with the Sellers, so they can sell and deliver to you;
 
+· to report or collect on debts owed to Sellers, merchants or other business partners;
+
+· as necessary to perform contractual obligations towards you with business partners to the extent you have purchased or redeemed a Groupon voucher, goods or services offered by a business partner or participated in an offer, rewards, contest or other activity or program sponsored or offered through us or the Sellers on behalf of a business partner;
+
+· in case of a merger, acquisition or reorganization with a purchaser of our company or all or substantially all of our assets;
+
+· to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions;
+
+· to combat fraud or criminal activity, and to protect our rights or those of our affiliates, business partners and users, or as part of legal proceedings affecting the Groupon Group;
+
+· in response to a subpoena, or similar legal process, including to law enforcement agencies, regulators, and courts, or
+
+· with your consent or as otherwise required or permitted by law.
 
 We encourage business partners to adopt and post privacy policies. However, while we share personal data with business partners only for the above-mentioned purposes, their subsequent processing and use of personal data obtained through the Groupon Group is governed by their own privacy policies and practices and not subject to our control.
 
-## **5\. How We Collect Information**
+**5\. How We Collect Information**
 
 You provide us with personal data when you register, subscribe, create an account, make a purchase or redeem vouchers or otherwise contact us or communicate with us actively. For example, you provide personal data to us when you contact us online for customer service and other support using self-help tools, such as email, text, or by posting to online communities.
 
-You also provide personal data to us when you interact with the Site via cookies and other technologies as described in our [Cookies Policy](http://www.groupon.ie/cookie-policy).
+You also provide personal data to us when you interact with the Site via cookies and other technologies as described in our [Cookies Policy](http://www.groupon.ie/cookies).
 
 We also receive personal data and other online and offline information from our business partners who may report to us redemption, collection, or refund-return events. We will use such information in accordance with applicable laws and this Privacy Statement.
 
-## **6\. Security of Personal Data**
+**6\. Security of Personal Data**
 
 We have implemented an information security program that contains administrative, technical and physical controls that are designed to safeguard your personal data, including industry-standard encryption technology.
 
-## **7\. Your Rights in relation to Personal Data; Contact Us**
+**7\. Your Rights in relation to Personal Data; Contact Us**
 
-You can access, update, rectify, and delete your information you provided to us in your profile by logging into your account or contacting us at <http://www.groupon.ie/contact>.   Keeping your personal data current helps ensure that we can respect your preferences and offer you the goods and services that are most relevant to you.
+You can access, update, rectify, and delete your information you provided to us in your profile by logging into your account or contacting us at <http://www.groupon.ie/contact>. Keeping your personal data current helps ensure that we can respect your preferences and offer you the goods and services that are most relevant to you.
 
 In accordance with applicable law, you may (i) request access to any other personal data we hold about you and request that it be updated, rectified, deleted or blocked, (ii) request that we refrain from further use of any personal data we hold about you, and (iii) object to our creation of user profiles about you. If you have any questions or comments about our privacy practices or this Privacy Statement, if you want to make use of any of the above rights, or other rights that you may have in relation to your personal data if you wish to close your Groupon account or if you have other questions or requests, please contact us at <http://www.groupon.ie/contact>. You can also reach us via postal mail at the following address:
 
@@ -109,15 +126,15 @@ Groupon Ireland, The Black Church, St Mary‘s Place, Dublin 7, Ireland.
 
 While we are ready to assist you in managing your subscriptions, closing your account, and removing your active profile, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases on the Site for financial reporting and compliance reasons.
 
-## **8\. Retention of Personal Data**
+**8\. Retention of Personal Data**
 
 We will retain your personal data for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. We will also retain your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## **9\. Social Site Features**
+**9\. Social Site Features**
 
-The Site may contain connections to areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and otherwise submit your own original content. Prior to posting in these areas, please read our _Terms of Use_ carefully. All the information you post may be accessible to anyone with Internet access, and any information you include in your posting may be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages from other parties. 
+The Site may contain connections to areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and otherwise submit your own original content. Prior to posting in these areas, please read our Terms of Use carefully. All the information you post may be accessible to anyone with Internet access, and any information you include in your posting may be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages from other parties.
 
-## **Connecting through Social Networks**
+**Connecting through Social Networks**
 
 We offer social networking users the opportunity to interact with friends and to share on social networks. If you are logged into both the Site and a social network, when you use the Site’s social networking connection functions, you may connect your social network account with your Groupon account (this happens automatically, if the email addresses match). If the email addresses do not match, we ask you if you want to link them and you must validate that you control the accounts. If you are already logged into the Site but not logged into your social network site, when you use the Site’s social network connection functions, you will be prompted to enter your social network website credentials or to sign up for the social network.
 
@@ -125,71 +142,6 @@ If you are not currently registered as a Groupon user and you use the Site’s s
 
 By using the Site’s social network connection function, you will grant us permission to access all of the elements of your social network profile information that you have made available to be shared (as per the settings chosen by you in your social network profile) and to use it in accordance with the social network’s terms of use and this Privacy Statement.
 
-## **10\. Privacy Practices of Third Parties**
+**10\. Privacy Practices of Third Parties**
 
-This Privacy Statement only addresses the collection, processing and use (including disclosure) of information by us through your interaction with the Site. Other websites that may be accessible through links from the Site may have their own privacy statements and personal information collection, processing, use, and disclosure practices. Our business partners may also have their own privacy statements. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of a sponsored offer or promotion. 
-
-  
-***********************************************************************************************
-
-## **GROUPON GOODS GLOBAL PRIVACY STATEMENT**
-
-**Please note that this privacy statement only applies to you if you purchase a product from Groupon Goods Global GmbH.** ** **
-
-**Effective Date: 20.12.2013**
-
-**Last Updated: 20.12.2013**
-
-This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon Goods Global GmbH, with registered address at Freier Platz 10, 8200 Schaffhausen, Switzerland (“ **Groupon Goods** ”, “ **us** ”, “ **our** ”, and “ **we** ”), processes and uses information about you. This Privacy Statement applies only to information we process in order to facilitate your purchase of products sold by us on the Groupon IE website, featured on www.groupon.ie (the “ **Site”** ).  The Site is owned by Groupon-CityDeal (Ireland) Limited (trading as Groupon IE), an Irish company, with a registered address at The Black Church, St Mary’s Place, Dublin 7, Ireland (“ **Groupon IE** ”). The Site is operated by MyCityDeal Ltd (trading as Groupon UK), an English company with a registered address at Seal House, 1 Swan Lane, London EC4R 3TN (“ **Groupon UK** ”).
-
-This Privacy Statement was adopted as of the “Effective Date” above, and may be amended from time to time. In the event of a material change, we may notify you of such changes. You can determine when this version of the Privacy Statement was most recently adopted by referring to the date it was “Last Updated” above. ****
-
-  1. **Personal data collected**
-
-
-
-Groupon Goods is the data owner in respect of your personal data that is necessary to provide you with the products you purchased from us on the Site. This includes information such as your name and delivery address. Groupon Goods directly processes your data in accordance with the Swiss Federal Data Protection Act of 19 June 1992 and its ordinances (the “ **Privacy Law** ”). ****
-
-Please note that, as the Site operator, Groupon UK is the data owner in respect of all information you provide or is made available about you when you interact with the Site. This includes, for example, information necessary to create a Groupon account or to subscribe to email marketing. Although your customer relationship is with Groupon IE, it is Groupon UK which processes your personal in accordance with applicable privacy law and it’s _Privacy Statement_.
-
-  1. **How Groupon Goods uses information**
-
-
-
-Groupon Goods processes your personal data in order to fulfill your order. This consists of information related to:
-
-  * the delivery and shipment of the products you have purchased from us; and
-  * managing everyday business needs functional to sale and post-sale.
-
-
-
-Groupon Goods will also process your data in order to comply with laws, regulations and legislation, as well as enforcement of our judicial rights. Please note that if you purchase products for individuals other than yourself, it is your responsibility to ensure that you comply with the Privacy Law in respect of your submission to us of their personal information. ****
-
-  1. **When and Why Groupon Goods Discloses Information**
-
-
-
-We are not in the business of selling or renting personal data. When we process your personal data for the purposes set out in section 2 above, we may pass or share your personal data with the following third parties, as may be necessary from time to time:
-
-  * With affiliated and unaffiliated technical and organisational service providers relevant to our business. This includes Groupon IE, Groupon UK and Groupon, Inc. Groupon, Inc. has its registered offices at 600 West Chicago Avenue, Chicago, Illinois - 60610, USA Transfer of personal data to Groupon UK is authorised as it is within the EU. Transfer to the US is authorised under the Privacy Law since Groupon Inc. has adhered to the Safe Harbor Principles - <http://safeharbor.export.gov/companyinfo.aspx?id=15342>.
-  * To third parties to report or collect on debts owed to us or our suppliers or other business partners.
-  * To third parties in order for us to to perform contractual obligations toward you, combat fraud or criminal activity, or as part of legal proceedings affecting us..
-  * To law enforcement officers or other government officials, to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions.
-
-
-
-Please note that it is likely some recipients of your data may be located outside of Switzerland or the European Union, in countries with an inadequate level of data protection. You recognise and understand that when you purchase a product, we may pass your personal information to a service provider or business partner who supports delivery of your product to you and that this service provider or business partner may be located (or process your personal data) outside of Switzerland or the European Union.
-
-  1. **Security of Personal Data**
-
-
-
-We process data mainly in electronic form in line with the Privacy Law security requirements; Groupon Goods has implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard your personal data, including industry-standard encryption technology.
-
-  1. **Retention of Personal Data and Your Rights in relation to Personal Data**
-
-
-
-We will retain your personal data for as long as necessary to perform our contractual obligations to you and as required by applicable law. Should you wish to know more about the personal data we have about you, you can exercise your rights of access at any time. Should you wish to do so, please contact us online at www.groupon.ie/contact. You may also write to us us at: Groupon Goods Global GmbH, Freier Platz 10, Schaffhausen, Switzerland.
-
-Please note that while we are ready to assist you, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases for financial reporting and compliance reasons. ****
+This Privacy Statement only addresses the collection, processing and use (including disclosure) of information by us through your interaction with the Site. Other websites that may be accessible through links from the Site may have their own privacy statements and personal information collection, processing, use, and disclosure practices. Our business partners may also have their own privacy statements. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information or taking advantage of a sponsored offer or promotion.
