@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgs-soft.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203045645id_/http%3A//www.pgs-soft.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgs-soft.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425110906id_/http%3A//www.pgs-soft.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | PGS Software
 
