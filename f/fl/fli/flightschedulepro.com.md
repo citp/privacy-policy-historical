@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightschedulepro.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121140730id_/http%3A//www.flightschedulepro.com/front_endv2/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightschedulepro.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425211658id_/http%3A//www.flightschedulepro.com/front_endv2/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Schedule Pro
 
@@ -72,3 +72,6 @@ With your option you can receive the Flight Schedule Pro newsletter to stay up t
 **  
 Disclosure To Third-Parties**  
 We want to make your interaction with your Flying Organization a more enjoyable experience by giving you a secure and reliable place in which to store your pilot information and other personally identifiable information. The Flying Organization you register with has access to the information you store in Flight Schedule Pro. However for your security, your Flying Organization does not have access to your password. Other cases where your personally identifiable information is disclosed to third parties: 
+
+**V. Viewing And Updating Your Information** **  
+** You can always review information provided by visiting the My Account section and make changes to that information by logging into your account.
