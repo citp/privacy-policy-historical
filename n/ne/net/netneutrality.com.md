@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netneutrality.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219172148id_/https%3A//www.namecheap.com/legal/general/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netneutrality.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425091804id_/https%3A//www.namecheap.com/legal/general/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Namecheap.com - Privacy Policy
 
