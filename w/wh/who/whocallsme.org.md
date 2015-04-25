@@ -1,40 +1,37 @@
-> *The following text is extracted and transformed from the whocallsme.org privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410011917id_/http%3A//www.capitalbillpay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whocallsme.org privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425092429id_/http%3A//www.whocallsme.org/content/privacy-policy) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy | Who calls me?
 
-## Privacy Policy
+To better protect your privacy we provide this notice explaining our online information practices, including how we collect and use the information you may provide to us on the Web site, and the choices you can make about the way your information is collected and used.
 
-Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy and expressly consent to this policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+**Collected information**
 
-  
-Note: the privacy practices set forth in this privacy policy are for this web site only. When you link to other web sites, please review the privacy policies posted at those sites.
+When you submit information for publication on our Website, all information supplied will be available to the public. Please exercise caution when supplying personally identifying information. Avoid posting your own email address and phone number within the post message.
 
-  
-Collection of Information  
-We collect personally identifiable information, like your account number and the payment amount to be made, when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request.
+Like most other Internet sites, we use cookies to personalize and enhance your experience on our sites. No identifiable information is gathered via the cookies. We also use Internet traffic analysis software which tracks your visited pages.
 
-  
-Cookie/Tracking Technology  
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. However, nothing about your account or any account in our office, or any financial information whatsoever is ever shared with unauthorized third parties.
+**Information we collect:**
 
-  
-Distribution of Information  
-We may share certain cookie and tracking information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. Nothing about your account or any account in our office, or any financial information whatsoever is ever shared with unauthorized third parties.
-
-  
-Commitment to Data Security  
-Your personally identifiable information is kept secure. Only authorized employees, agents and other authorized persons have access to this information.
-
-  
-Privacy Contact Information  
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
-
-By Phone: 866-854-5359
-
-  
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.  
+  * IP address;
+  * Pages visited;
+  * About Computer / Device (type, operating system, browser etc.).
 
 
-  
-This is an attempt to collect a debt and any information obtained will be used for that purpose. This is a communication from a debt collector.  
 
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies are necessary to provide you with certain website features.
+
+**Links to third party Web sites**
+
+Our Website offers hyperlinks to other Web sites which may have information policies and practices different from ours. We do not control and are not responsible for the privacy policies, practices, or the content of any third party Web sites. Once you've left our Web sites via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any information they collect from you.
+
+**Third party advertising**
+
+We may use third-party advertising companies to serve ads on our Web sites. These companies may use cookies, pixel tags, or otherwise independently collect non-personally identifiable information from you and use this information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+
+**Privacy Policy Changes**
+
+This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected on this page.
+
+**Questions and comments**
+
+Questions regarding this privacy statement should be submitted via the [feedback form](http://www.whocallsme.org/help/contact-us).
