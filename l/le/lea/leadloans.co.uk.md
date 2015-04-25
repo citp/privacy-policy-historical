@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadloans.co.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208150620id_/http%3A//www.leadloans.co.uk/index.php/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadloans.co.uk privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425082910id_/http%3A//leadloans.co.uk/index.php/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy - Direct Pay Day Loans Lender In UK
 
