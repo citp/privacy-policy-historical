@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcentral.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115113704id_/http%3A//www.remedyhealthmedia.com/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcentral.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425132802id_/http%3A//www.remedyhealthmedia.com/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Remedy Health Media, LLC
 
