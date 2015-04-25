@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123142943id_/http%3A//jadootv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadootv.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425130007id_/http%3A//jadootv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – OFFICIAL JadooTV Website
+# Jadoo TV Privacy Policy | South Asian TV Channels Live
 
 ### Introduction
 
