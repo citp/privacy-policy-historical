@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerply.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060922id_/http%3A//zerply.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerply.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425081313id_/https%3A//zerply.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zerply
 
@@ -44,6 +44,8 @@ Zerply occasionally hires other companies to provide limited administrative and 
 
 In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Zerply, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Zerply may continue to use your Personal Information as set forth in this Privacy Policy.
 
+Pursuant to the license granted by you to Zerply under the Terms of Use, which can be accessed at zerply.com/about/terms, Zerply has the right to use any ideas, information, statements, files, photos, images, or links you post to the Zerply site. You hereby consent to Zerply’s disclosure and/or sublicense of such content by Zerply to third parties, including the use and disclosure by Zerply and any third party of your personal information for purposes of attributing such content to you.
+
 Zerply may access and/or disclose personal information about you or your account without your prior consent if Zerply has a good faith belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of Zerply (including the enforcement of our agreements); (iii) enforce the Terms of Use, which can be accessed at [zerply.com/about/terms](http://zerply.com/about/terms) (v) operate or conduct maintenance and repair of the Services or equipment as authorized by law; or (vi) act in urgent circumstances to protect the personal safety of users of Zerply Services or members of the public.
 
 **Security and Protection of Personal Information**
@@ -72,4 +74,4 @@ ZERPLY MAY MODIFY THIS PRIVACY NOTICE AT ANY TIME, IN ZERPLY’S SOLE DISCRETION
 
 **Effective Date of this Privacy Policy**
 
-This Privacy Policy is effective as of February 1, 2011.
+This Privacy Policy is effective as of January 19, 2015.
