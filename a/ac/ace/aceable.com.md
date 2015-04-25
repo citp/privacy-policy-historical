@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aceable.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016203543id_/http%3A//www.aceable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceable.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426004943id_/http%3A//www.aceable.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Aceable | The Drivers Ed App
+# Privacy Policy
 
 ### I. What information does Aceable collect?
 
@@ -42,4 +42,4 @@ While no method is absolutely secure, we can assure you we take every measure ne
 
 ### VIII. Contact
 
-We want to hear from you! Contact us at (512) 920-2235 with any questions concerning any of our policies. 
+We want to hear from you! Contact us at (512) 920-2236 with any questions concerning any of our policies. 
