@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onpointcu.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095844id_/https%3A//www.onpointcu.com/media/doc/Privacy_Policy_Current.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onpointcu.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425221144id_/http%3A//www.onpointcu.com/content/docs/Privacy_Policy_Current.pdf) for the most accurate reproduction.*
 
 # FACTS
 
