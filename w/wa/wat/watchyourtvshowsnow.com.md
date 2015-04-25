@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchyourtvshowsnow.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408100805id_/http%3A//www.watchyourtvshowsnow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchyourtvshowsnow.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425022532id_/http%3A//www.watchyourtvshowsnow.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | WatchYourTVShowsNow.com
 
@@ -17,6 +17,8 @@ We have implemented a number of security measures to help protect against the lo
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. If we make material changes to the manner in which we handle your personal information, we will notify you in advance of the new policy taking effect so that you have an opportunity to review and consent to the new terms.  
 This site is owned and operated by Aragon Advertising, Ltd., 35 Brisbane Road, Ilford, Essex, United Kingdom, IG1 4SP.  
 Effective Date: 12/1/2012
+
+This website uses remarketing service to advertise on third party websites to previous visitors to our site. It could mean that we advertiser to previous visitors who haven’t completed a task on our site, for example downloading and installing the toolbar on Firefox or Internet Explorer or the extension on Chrome. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including google use cookies to serve ads based on someone’s pas visits to the watchyourtvshowsnow.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
 **Contacting Us**   
 If there are any questions regarding this privacy policy you may contact us using the information below.
