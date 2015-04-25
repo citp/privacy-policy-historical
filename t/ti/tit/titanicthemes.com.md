@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanicthemes.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231060445id_/http%3A//themeforest.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanicthemes.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426002329id_/http%3A//themeforest.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ThemeForest
 
