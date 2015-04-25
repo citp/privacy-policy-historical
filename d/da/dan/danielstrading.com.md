@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201083853id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425045831id_/https%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daniels Trading
 
@@ -46,7 +46,7 @@ We endeavor to keep our customer files complete and accurate. We will give you r
 
 You may opt-out of promotional communications via the following methods:
 
-  * Visit <http://www.danielstrading.com/subscription/unsubscribe/> to unsubscribe from E-mail lists.
+  * Visit <http://www.danielstrading.com/unsubscribe/> to unsubscribe from E-mail lists.
   * Send an E-mail to: [optout@danielstrading.com](mailto:optout@danielstrading.com)
   * Send a letter to:  
 Daniels Trading – OPT-OUT  
