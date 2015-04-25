@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicriver.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230232318id_/http%3A//graphicriver.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicriver.net privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425145948id_/http%3A//graphicriver.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GraphicRiver
 
