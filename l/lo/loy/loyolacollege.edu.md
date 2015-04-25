@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyolacollege.edu privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227090840id_/http%3A//www.loyolacollege.edu/Terms%26Conditions/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyolacollege.edu privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425210445id_/http%3A//www.loyolacollege.edu/Terms%26Conditions/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Loyola College
 
