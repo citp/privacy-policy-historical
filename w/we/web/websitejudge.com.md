@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitejudge.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711113953id_/http%3A//www.avbit.nl/privacy-pm-9.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitejudge.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425123049id_/http%3A//www.avbit.nl/privacy) for the most accurate reproduction.*
 
 # AVBIT | Pro-AV and Pro-IT products for your business
 
@@ -74,5 +74,5 @@ www.avbit.nl
 Wickenburgstraat 31  
 Rotterdam, Zuid-Holland 3077 TJ  
 The Netherlands  
-info@avbit.nl  
+info@www.avbit.nl  
 +31643119443
