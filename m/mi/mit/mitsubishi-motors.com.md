@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitsubishi-motors.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116225504id_/http%3A//www.mitsubishi-motors.com/en/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishi-motors.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425094048id_/http%3A//www.mitsubishi-motors.com/en/privacy/index.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | MITSUBISHI MOTORS
 
