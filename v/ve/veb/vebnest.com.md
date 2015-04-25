@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vebnest.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227154802id_/http%3A//vebnest.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vebnest.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425161611id_/http%3A//www.vebnest.com/privacy-policy) for the most accurate reproduction.*
 
-# Master Reseller Hosting | Alpha Reseller Host | Unlimited Reseller Hosting | Cheap | VPS | Dedicated Servers
+# Privacy Policy
 
 By accessing or using the VEBNEST web site, you agree to the terms of the VEBNEST Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. VEBNEST reserves the right to change its Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Privacy Policy at the time of such use.
 
