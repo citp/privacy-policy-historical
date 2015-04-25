@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702235006id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425043855id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -124,7 +124,7 @@ We may amend this Privacy Policy at any time by posting the amended terms on thi
 
 ### » Contact Us
 
-If you have any questions regarding this privacy policy you may contact us at [support@beezid.com](mailto:support@beezid.com) or 361 Montpellier Blvd., Saint-Laurent, Quebec. H4N 2G6.
+If you have any questions regarding this privacy policy you may contact us at [support@beezid.com](mailto:support@beezid.com) or 10500 Ch. de la Cote de Liesse, Suite 208, Montreal, QC, H8T 1A4, Canada.
 
   
 
