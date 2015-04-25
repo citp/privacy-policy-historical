@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the my100bank.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002013514id_/https%3A//www.my100bank.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my100bank.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426004901id_/https%3A//www.my100bank.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Centennial Bank
 
 [Learn More About Our **Home Loans** »](http://applyonline.my100bank.com/Default.aspx "Learn More About Our Home Loans")
 
-To download a copy of the Privacy Policy, [click here](https://web.archive.org/public/userfiles/files/2014_Privacy_Stmt.pdf). 
+To download a copy of the Privacy Policy, [click here](https://web.archive.org/public/userfiles/Jan_2015_Privacy_Stmt.doc). 
 
-Rev 09/2014
+Rev 01/2015
 
 **FACTS**
 
 | 
 
-**WHAT DOES Home bancShares, inc.  DO  
+**WHAT DOES HOME BANCSHARES, INC.  DO  
 WITH YOUR PERSONAL INFORMATION?**  
   
 ---|---  
@@ -133,8 +133,6 @@ We don’t share.
 
 Call 1-888-372-9788 or go to www.my100bank.com  
   
-  |    |    |     
-  
 **Page 2**
 
 |   
@@ -183,9 +181,9 @@ We also collect your personal information from others, such as credit bureaus, a
 
 Federal law gives you the right to limit only
 
-  * sharing for affiliates’ everyday business purposes—information about your creditworthiness
-  * affiliates from using your information to market to you
-  * sharing for nonaffiliates to market to you
+  1. sharing for affiliates’ everyday business purposes—information about your creditworthiness
+  2. affiliates from using your information to market to you
+  3. sharing for nonaffiliates to market to you
 
 
 
@@ -201,7 +199,7 @@ State laws and individual companies may give you additional rights to limit shar
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _Home BancShares, Inc. does not share with our affiliates._
+  1. _Home BancShares, Inc. does not share with our affiliates._
 
   
   
@@ -211,7 +209,7 @@ Companies related by common ownership or control. They can be financial and nonf
 
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-  1. _  Home BancShares, Inc. does not share with nonaffiliates so they can market to you._
+  * _  Nonaffiliates we share with can include companies that perform marketing services on our behalf to offer our products and services._
 
   
   
@@ -221,7 +219,7 @@ Companies not related by common ownership or control. They can be financial and 
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
-  * _Our joint marketing partners include investment companies and insurance companies._
+  1. _Our joint marketing partners include investment companies and insurance companies._
 
   
 |   
@@ -235,7 +233,6 @@ A formal agreement between nonaffiliated financial companies that together marke
   * Grand Prairie Title Company
 
   
-  |    |    |     
   
 ## Bank Owned Real Estate
 
@@ -252,10 +249,10 @@ Student Loans®
 
 ## Today’s Stocks
 
-HOMB | $28.99 | -0.42 | [Link](http://finance.yahoo.com/q?s=HOMB&ql=1)  
+HOMB | $33.62 | -0.31 | [Link](http://finance.yahoo.com/q?s=HOMB&ql=1)  
 ---|---|---|---  
-DOW | $16,804.71 | -238.19 | [Link](http://finance.yahoo.com/q?s=%5EDJI&ql=1)  
-NASDAQ | $4422.085 | -71.305 | [Link](http://finance.yahoo.com/q?s=%5EIXIC&ql=1)  
-S&P 500 | $1946.16 | -26.13 | [Link](http://finance.yahoo.com/q?s=%5EGSPC&ql=1)  
+DOW | $18,080.14 | +21.45 | [Link](http://finance.yahoo.com/q?s=%5EDJI&ql=1)  
+NASDAQ | $5092.08 | +36.02 | [Link](http://finance.yahoo.com/q?s=%5EIXIC&ql=1)  
+S&P 500 | $2117.69 | +4.76 | [Link](http://finance.yahoo.com/q?s=%5EGSPC&ql=1)  
   
 DISCLAIMER: These products are not a deposit, not FDIC insured, not guaranteed by the Bank, may lose value, including loss of principal.
