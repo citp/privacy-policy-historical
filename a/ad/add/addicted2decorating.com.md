@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addicted2decorating.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222204945id_/http%3A//www.addicted2decorating.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addicted2decorating.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426071745id_/http%3A//www.addicted2decorating.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Addicted 2 Decorating®
 
