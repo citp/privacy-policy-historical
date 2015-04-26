@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddyimg.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906110346id_/http%3A//www.daddyimg.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddyimg.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426064657id_/http%3A//daddyimg.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
