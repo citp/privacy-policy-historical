@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponraja.in privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209223438id_/http%3A//www.couponraja.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponraja.in privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426172109id_/http%3A//www.couponraja.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Couponraja
 
 We are committed to protecting and respecting your privacy. This policy (together with our website terms and conditions that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
