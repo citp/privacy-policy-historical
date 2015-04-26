@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icemachinesplus.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731165756id_/http%3A//www.icemachinesplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icemachinesplus.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426093830id_/http%3A//www.icemachinesplus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Ice Machines Plus
 
