@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911015741id_/http%3A//www.jstor.org/page/info/about/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426193730id_/http%3A//www.jstor.org/page/info/about/policies/privacy.jsp) for the most accurate reproduction.*
 
 # JSTOR: Privacy Policy
 
-This privacy statement describes how ITHAKA collects and uses the personal information you provide on our Web sites: [www.ithaka.org](http://www.ithaka.org/), [www.jstor.org](http://www.jstor.org/) and [www.portico.org](http://www.portico.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. ITHAKA is committed to protecting the privacy of users of its website and services, including users of JSTOR and JSTOR-branded services (Current Scholarship Program, Individual Access, Publisher Sales Service), Ithaka S+R, JSTOR Global Plants and Portico (collectively, "ITHAKA Websites"). To better inform you of our policy concerning user privacy, we have adopted the following terms, which adhere to the Safe Harbor Principles issued by the U.S. Department of Commerce.
+This privacy statement describes how ITHAKA collects and uses the personal information you provide on our websites: [www.ithaka.org](http://www.ithaka.org/), [www.jstor.org](http://www.jstor.org/) and [www.portico.org](http://www.portico.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. ITHAKA is committed to protecting the privacy of users of its website and services, including users of JSTOR and JSTOR-branded services (Current Scholarship Program, Individual Access, Publisher Sales Service), Ithaka S+R, JSTOR Global Plants and Portico (collectively, "ITHAKA Websites"). To better inform you of our policy concerning user privacy, we have adopted the following terms, which adhere to the Safe Harbor Principles issued by the U.S. Department of Commerce.
 
 ITHAKA has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through these Web sites, [www.ithaka.org](http://www.ithaka.org/), [www.jstor.org](http://www.jstor.org/) and [www.portico.org](http://www.portico.org/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@ithaka.org](mailto:privacy@ithaka.org). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
@@ -51,7 +51,7 @@ ITHAKA does not sell or share personal information about or the purchasing histo
   * with service providers with whom we have entered into agreements to assist us with our business operations;
   *   
 
-  * if ITHAKA is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;
+  * if ITHAKA is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;
   *   
 
   * If Ithaka S+R is contracted to provide services to third parties that involve collecting your personally identifiable information, the privacy policy governing the collection of your personally identifiable information shall be as set forth in such third parties' privacy policies; and
@@ -110,7 +110,7 @@ If you have any inquiries about this Privacy Policy or its implementation, you m
 
 ### ITHAKA
 
-151 East 61st Street   
-New York, New York 10065 
+2 Rector Street,18th Floor    
+New York, New York 10006 
 
-Last updated on August 28, 2014
+Last updated on April 7, 2015
