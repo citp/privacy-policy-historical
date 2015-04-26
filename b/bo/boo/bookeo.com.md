@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701204321id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426114705id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | appointments | Bookeo.com
+# Privacy Policy | tours and activities | Bookeo.com
 
-**Effective date: October 25, 2012**
+**Effective date: December 1st, 2014**
 
 Bookeo Pty Ltd (referred to here as "Bookeo", "us", "we") provides its Service (as defined below) to you through its web site located at bookeo.com and any of the internet subdomains of bookeo.com (the "Site"). The "Service" includes (a) the Site, (b) the system, tools and services provided by Bookeo through the Site, and (c) all software, data, text, images, sounds, video, and content made available through the Site or Service (collectively referred to as the "Content"). Any new features added to or augmenting the Service are also subject to this Privacy Policy. 
 
 By using the service and / or accessing the Site, you agree to the Privacy Policy which is set out in this document. The Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the Site and /or through your use of the Service. 
 
-Bookeo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site bookeo.com and does not cover information that may be collected behind the login. 
+Bookeo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site bookeo.com and does not cover information that may be collected behind the login. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.bookeo.com/appointments/contact.html "Contact us") . If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.bookeo.com/tours/contact.html "Contact us") . If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 In this Privacy Policy, we use the following terms to describe different types of visitors to the Site. Our customers are called "Businesses" and our Businesses' customers are called "Customers". We use the word "staff" to describe persons to whom Businesses give a user account to access the Business data on the Site. These people are collectively described in this Privacy Policy as "Users" of the Site. 
 
@@ -54,11 +54,11 @@ If Bookeo is involved in a merger, acquisition, or sale of all or a portion of i
 
 ## 6\. Security
 
-We strive to ensure the security, integrity and privacy of personal information submitted to our sites, and we review and update our security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. However, we will endeavour to take all reasonable steps to protect the personal information you may transmit to us or from our online products and services. Once we do receive your transmission, we will also make our best efforts to ensure its security on our systems.
+We strive to ensure the security, integrity and privacy of personal information submitted to our sites, and we review and update our security measures in light of current technologies. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. Therefore, we cannot guarantee its absolute security. However, we will endeavour to take all reasonable steps to protect the personal information you may transmit to us or from our online products and services. Once we do receive your transmission, we will also make our best efforts to ensure its security on our systems.
 
 In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we will not be held responsible for events arising from unauthorised access to your personal information.
 
-For your safety and protection, we never store credit card numbers on our servers. Where necessary, credit card numbers are stored by our payment gateway provider ("Eway"), or by one of the payment gateways preselected by us and chosen by our Businesses with the use of encryption during transmission.
+For your safety and protection, we never store credit card numbers on our servers. Where necessary, credit card numbers are stored by our payment gateway provider ("Eway"), or by one of the payment gateways preselected by us and chosen by our Businesses with the use of encryption during transmission. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
 ## 7\. Email addresses
 
@@ -68,17 +68,17 @@ We may send periodic company news, updates, and/or related product or service in
 
 Businesses may send marketing emails to their Customers at their discretion. If Businesses send marketing emails through the Service, Customers can always opt-out an any time by simply clicking on the link provided at the bottom of the email.
 
-## 8\. IP Addresses
+## 8\. Log files
 
-Our web servers gather your IP address to assist with the diagnosis of problems or support issues with our services, or to provide you with customized services.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, referring/exit pages, operating system, date/time stamp, and clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you.
 
-## 9\. Cookies
+## 9\. Tracking Technologies
 
-We use cookies to provide you with a better experience. These cookies allow us to increase your security by storing your session ID and are a way of monitoring single user access. 
+Technologies such as: cookies, beacons, tags and scripts are used by Bookeo and our marketing partners, affiliates, or analytics or online customer support providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site. 
+We use cookies for our booking system, to remember users’ settings and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information. 
+**Behavioral Targeting/Re-Targeting** \- We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) . Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 ## 10\. Access to Information
 
@@ -90,9 +90,11 @@ We will retain your information for as long as your account is active or as need
 
 We provide links to Web sites outside of our web sites, as well as to third party Web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that Web site and its privacy policy.
 
-Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+Our web site offers publicly accessible blogs or community forums. 
 
 Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at help@bookeo.com. 
 
 ## 12\. Problems or questions
 
