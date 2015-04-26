@@ -1,33 +1,43 @@
-> *The following text is extracted and transformed from the curiousconcept.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907155816id_/http%3A//curiousconcept.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curiousconcept.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426182656id_/http%3A//curiousconcept.com/privacy) for the most accurate reproduction.*
 
-# Curious Concept - Privacy Policy
+# Curious Concept | Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us.
+_Last updated: October 26, 2014_.
 
-At curiousconcept.com, the privacy of visitors is important to us. This privacy policy attempts to outline the types of personal information is received, collected and used by curiousconcept.com.
+This privacy policy attempts to outline how Curious Concept websites collect and use information from their users.
 
-## Log Files
+### Logs
 
-Like most other sites, curiousconcept.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information.
+Like most other websites, Curious Concept websites collect non-personal information about users whenever they access them. These logs may include the browser name, the type of computer and technical information about the means of connection to the site, such as the operating system, the Internet service providers utilized and other similar information.
 
-This information is used to assit in the building and maintenance of curiousconcept.com. For instance, taking the site down for maintenace, when the log shows that few people should be affected.
+### Cookies
 
-IP addresses, and other such information are not linked to any information that is personally identifiable.
+Cookies are files with small amount of data which are sent to your browser from a website and stored on your computer's hard drive. They can be used for tracking purposes, however Curious Concept websites specifically uses them to enhance user experiences by remembering preferences. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
 
-## Cookies and Web Beacons
+### Forms
 
-While curiousconcept.com does not set any cookies, some of our advertising partners may use cookies and web beacons on our site. Our advertising partner is currently Google Adsense.
+With the exception of contact forms, Curious Concept websites do not collect any information submitted to forms. Any information submitted to a contact form will be kept confidential.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on curiousconcept.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+### Third Party
 
-curiousconcept.com has no access to or control over these cookies that are used by third-party advertisers.
+Curious Concept websites use reputable third party vendors to provide traffic analytics, security, and advertising services.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. curiousconcept.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+### Traffic Analytics
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+Traffic analysis and monitoring of Curious Concept websites is provided by Google Analytics and Clicky Web Analtyics. This information is used to direct resources, plan maintenance windows and improve usability. Both Google and Clicky use cookies, in addition Google may use the data it collects to contextualize and personalize the ads of its own advertising network.
 
-## JSON Formatter & Validator
+### Security
 
-While infomration submitted to the [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/) is not collected by curiousconcept.com, JSON Data URL's may be recorded in the logs.
+Additional security measures on Curious Concept websites are enabled by CloudFlare. To achieve this CloudFlare, like Curious Concept websites, collects non-personal information about users whenever they access Curious Concept websites and/or other sites on the Internet. These logs may include the browser name, the type of computer and technical information about the means of connection to the site, such as the operating system, the Internet service providers utilized and other similar information.
 
-Based on the results from serprank.com's [Privacy Policy Generator](http://www.serprank.com/privacy-policy-generator/)
+### Advertising
+
+Ads appearing on Curious Concept websites are delivered to you by Google Adsense and VigLink. Through it's DoubleClick cookie, Google and its partners are able recognize user's computers and serve targeted advertisements based on their prior visitation to Curious Concept websites and/or other sites on the Internet. For more information about Google Advertising, cookies, and how to opt-out, please visit [Google's Advertising Privacy & Terms](http://www.google.com/policies/technologies/ads/). For more information about VigLink, including how to opt-out, please visit [What’s VigLink](http://www.viglink.com/legal/disclosures/for-users/).
+
+### Changes
+
+This privacy policy may be revised at any time without notice. We encourage users to frequently check this page for any changes. Your continued use Curious Concept websites after any changes or revisions to this policy shall indicate your agreement with the revised privacy policy.
+
+### Questions?
+
+If you have any questions about this Privacy Policy, or anything else related to Curious Concept web sites, please [contact us](https://web.archive.org/#contact).
