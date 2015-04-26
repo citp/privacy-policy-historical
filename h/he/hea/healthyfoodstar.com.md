@@ -1,19 +1,61 @@
-> *The following text is extracted and transformed from the healthyfoodstar.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117020707id_/http%3A//www.healthyfoodstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyfoodstar.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426081943id_/http%3A//www.healthyfoodstar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Healthy Food Star
+# Privacy Policy | Healthy Food Star
 
-Privacy Policy for [Healthy Food Star](http://www.healthyfoodstar.com/ "Healthy Food Star").
+### 1\. INTRODUCTION
 
-We recognize the importance of our visitor's privacy and we aim to preserve the Privacy by all means. The information furnished herewith will inform you on the types of personal information we receive and collect when you use (operate) and visit [Healthy Food Star](http://www.healthyfoodstar.com/ "Healthy Food Star"), and how we safeguard your information. You can be assured that your personal information is never leaked or sold to the third parties and they are well protected by us.
+ **1.1. PURPOSE OF POLICY.** Healthy Food Star (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of Healthy Food Star (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
-**Log Files** As with most other websites, we also collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser used by you to visit our site (such as Internet Explorer or Firefox), your site visit time and the pages browsed by you throughout our site. 
+ **1.2. NOTICE CONCERNING CHILDREN**
 
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include showing a popup only once during your visit, or the ability to login to some of our key features, such as forums. 
+PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children’s Online Privacy Protection Act of 1998.
 
-We also visualize third party advertisements on [Healthy Food Star](http://www.healthyfoodstar.com/ "Healthy Food Star") to support our site. Few of these advertisers may use technology such as cookies and web beacons when they advertise on our site that also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser used by you to visit our site, and in some cases, whether you have installed Flash. Such application is generally applied for geotargeting purposes, e.g., (showing New York real estate ads to someone in New York) or showing certain ads, based on specific visited sites (such as showing cooking ads to someone who frequents cooking sites). 
+### 2\. INFORMATION COLLECTION PRACTICES
 
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google's DoubleClick, The DART cookies may also be used by us for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). The cookie is used to serve your specific ads and your interests ("interest based targeting"). The ads served are to be targeted on the basis of your previous browsing history (For example, if you are viewing sites for visiting Las Vegas, you may also see Las Vegas hotel advertisements when viewing a non-related site, such as a hockey site). DART uses "non personally identifiable information", which does NOT track your personal information, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You have the option to opt-out of this ad serving on all sites, using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
+ **2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, it can affect your ability to interact with our site as well as other websites and it may include the inability to login to services or programs, such as logging into forums or accounts. 
+In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless, you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+ **2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
+
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+
+(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
+
+(c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us.
+
+### 3\. USE AND SHARING OF INFORMATION
+
+ **3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
+
+(a) PERSONAL INFORMATION. We do not disclose the personally identifiable information to any third parties other than those that we use to facilitate the functioning of the site such as a hosting company and email program for mailings.
+
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+
+(c) USE OF COOKIES. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose any information we have for you if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of the Site or our company, including the information collected through this Site. If Company or substantially all of its assets are acquired by a third party, user information will be one of the assets transferred to the acquirer.
+
+### 4\. SECURITY
+
+The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
+
+### 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
+
+ **5.1. THIRD PARTY WEBSITES**
+
+From time-to-time, the Site may contain links to other websites. If you choose to visit those websites, it is important to understand our privacy practices and terms of use do not extend to those sites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
+
+### 6\. CONTACT INFORMATION AND POLICY UPDATES
+
+ **6.1. CONTACTING US**
+
+If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site.
+
+ **6.2. UPDATES AND CHANGES**
+
+We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+(a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well.
