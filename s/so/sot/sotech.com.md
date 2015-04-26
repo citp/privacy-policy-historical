@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sotech.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701174453id_/http%3A//www.sotech.com/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sotech.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426172813id_/http%3A//sotech.com/site/privacy.asp) for the most accurate reproduction.*
 
 # Socratic Technologies, Inc.
 
   
 
 
-Socratic Technologies, Inc. is a voluntary member of the [DOC Safe Harbor program](http://export.gov/safeharbor/).
+Socratic Technologies, Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Socratic Technologies, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Socratic Technologies, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>
 
 ## Code of Ethics
 
