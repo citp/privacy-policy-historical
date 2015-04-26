@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234728id_/http%3A//loveme.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveme.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426063718id_/http%3A//www.loveme.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,17 +40,14 @@ Privacy Policy Coordinator
 AFA   
 7227 N. 16th Street Suite 240  
 Phoenix AZ 85020  
-_Page last updated April 23rd 2009_  
+_Page last updated December 23rd 2014_  
 
 
 A Foreign Affair
 
-7227 North 16th Street, Suite 240  
+7320 N Dreamy Draw Drive  
 Phoenix, Arizona 85020  
 (602) 553-8178  
 fax (602) 468-1119  
-[Contact Us](https://web.archive.org/invar/sendmess/index.php)
-
-* * *
-
-Copyright © 2014
+[Contact Us](https://web.archive.org/invar/sendmess/index.php)  
+Copyright © 2015
