@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housecarers.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701040925id_/http%3A//www.housecarers.com/house_sitting_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housecarers.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426044226id_/http%3A//www.housecarers.com/house_sitting_privacy_policy.html) for the most accurate reproduction.*
 
 # HouseCarers House Sitting privacy policy
 
@@ -86,7 +86,7 @@ PO Box 404 Belmont
 NSW 2280  
  Australia
 
-[Click here to contact housecarers ](https://web.archive.org/web/20140701040925id_/http%3A//www.housecarers.com/feedback_members.cfm)
+[Click here to contact housecarers ](https://web.archive.org/web/20150426044226id_/http%3A//www.housecarers.com/feedback_members.cfm)
 
 Top  
  
