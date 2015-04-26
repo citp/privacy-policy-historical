@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704042314id_/http%3A//www.silkfred.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkfred.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426180223id_/http%3A//www.silkfred.com/privacy) for the most accurate reproduction.*
 
-# SilkFred - The Online Destination for Emerging Designers
-
-  * [](https://web.archive.org/)
-  * [](https://web.archive.org/products/on_sale)
-    *       * [Women __](https://web.archive.org/womenswear?on_sale=true)
-    *       * [Men __](https://web.archive.org/menswear?on_sale=true)
-  * [](https://web.archive.org/account)
-    * [Log in](https://web.archive.org/sessions/login)
-
-
-
-Like Bag
-
-Your bag is empty. Browse our designer boutiques and hunt for something new [here](https://web.archive.org/boutiques).
+# SilkFred - Unique fashion from the best independent brands
 
 ### May 2012 1.1
 
