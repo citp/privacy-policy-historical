@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linjust.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201004156id_/http%3A//www.linjust.com/2013/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linjust.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427014253id_/http%3A//www.linjust.com/2013/04/privacy-policy.html) for the most accurate reproduction.*
 
-# Breaking News and Latest Nigeria Celebrity Gossip
+# 
 
   
 
