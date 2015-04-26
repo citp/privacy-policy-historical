@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumer-healthreports.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108071243id_/http%3A//consumer-healthreports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumer-healthreports.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426060532id_/http%3A//consumer-healthreports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consumer Health Reports -
 
