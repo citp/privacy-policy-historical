@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121073232id_/http%3A//www.careers.govt.nz/about-career-services/about-this-site/website-policies/%23c22459) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426194015id_/http%3A//www.careers.govt.nz/about-careers-nz/about-this-site/website-policies/%23c22459) for the most accurate reproduction.*
 
 # Website policies
-
-Details of Careers New Zealand's legal disclaimer, as well as our privacy, security and copyright policies.
 
 ## Using our website – legal disclaimer
 
@@ -20,9 +18,9 @@ Careers New Zealand may change, suspend or discontinue any aspect of the websit
 
 ## Copyright
 
-Careers New Zealand's publications and the material on our website are protected by New Zealand copyright. Unless otherwise indicated, copyright material on this website is owned by Careers New Zealand. 
+Careers New Zealand's publications and the material on our website are protected by New Zealand copyright. Unless otherwise indicated, copyright material on this website is owned by Careers New Zealand.
 
-Where copyright material is owned by a third party, it will be indicated. 
+Where copyright material is owned by a third party, it will be indicated.
 
 ### Content for personal use
 
@@ -36,9 +34,9 @@ You may reproduce this material in any format or media solely for your personal 
 
 ### Publishing content
 
-The content on this website is continuously updated to ensure that our information and advice reflects current careers and employment practices and trends. For this reason, we recommend that you link to our website to ensure you are getting the most up-to-date version of our content. 
+The content on this website is continuously updated to ensure that our information and advice reflects current careers and employment practices and trends. For this reason, we recommend that you link to our website to ensure you are getting the most up-to-date version of our content.
 
-If you do wish to publish or issue material from our publications or website for commercial use, you must first obtain written permission from Careers New Zealand. 
+If you do wish to publish or issue material from our publications or website for commercial use, you must first obtain written permission from Careers New Zealand.
 
 Please contact our marketing and communications department with your copyright request. You can do this by phoning 0800 222 733, or emailing [marketing@careers.govt.nz](mailto:marketing@careers.govt.nz).
 
@@ -161,7 +159,7 @@ Sources we use may include:
 
 #### Chances gauge
 
-The chances gauge shows our estimate of the demand for staff in a particular occupation, as at the last updated date – indicated by the information in the outlook sources section. 
+The chances gauge shows our estimate of the demand for staff in a particular occupation, as at the last updated date – indicated by the information in the outlook sources section.
 
 We consider:
 
