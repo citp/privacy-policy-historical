@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingfromhome.com privacy policy that was archived on 2014-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140102084317id_/http%3A//www.workingfromhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingfromhome.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426171450id_/http%3A//www.workingfromhome.com/privacy-policy) for the most accurate reproduction.*
 
 # WorkingFromHome.com Privacy Policy | Working From Home
 
