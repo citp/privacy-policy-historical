@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copypastetraffic.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920212527id_/http%3A//copypastetraffic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copypastetraffic.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426115636id_/http%3A//copypastetraffic.com/privacy.html) for the most accurate reproduction.*
 
 # WinCore Marketing PRIVACY POLICY
 
