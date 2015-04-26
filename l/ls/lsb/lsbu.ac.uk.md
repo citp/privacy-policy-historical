@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213031442id_/http%3A//www.lsbu.ac.uk/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427012245id_/http%3A//www.lsbu.ac.uk/footer/privacy) for the most accurate reproduction.*
 
 # Privacy | London South Bank University
 
