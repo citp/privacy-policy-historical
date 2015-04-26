@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208144915id_/http%3A//www.royalroads.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalroads.ca privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427005242id_/http%3A//www.royalroads.ca/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Roads University | Victoria, BC
+
+**Royal Roads is delighted to launch our 75th Anniversary celebrations! We wish to advise our neighbours that the sound of cannons will be audible during Saturday’s Sunset Ceremony between 10 a.m. and noon and 6:45 and 8:30 p.m.**
 
 Royal Roads University captures identification data from visitors to our website only for security, statistical and reporting purposes.
 
