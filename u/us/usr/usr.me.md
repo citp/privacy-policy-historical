@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usr.me privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813181518id_/http%3A//usr.me/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usr.me privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426153156id_/http%3A//usr.me/go/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Web Hosting Help Desk
 
