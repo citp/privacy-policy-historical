@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theyoump3.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924012330id_/http%3A//www.theyoump3.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyoump3.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426105303id_/http%3A//www.theyoump3.com/pp.html) for the most accurate reproduction.*
 
-# Privacy Policy - YouTube To Mp3 Converter High Quality
+# Privacy Policy - YouTube to Mp3 Converter
 
 We, TheYouMp3, know that protecting your private information is our priority. This Statement of Privacy applies to the www.theyoump3.com and TheYouMp3 and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to TheYouMp3 include www.theyoump3.com. By using TheYouMp3 website, you consent to the data practices described in this statement. 
 
@@ -18,7 +18,7 @@ TheYouMp3 may also use your personally identifiable information to inform you of
 
 TheYouMp3 does not sell, rent, lease its customer lists to third parties. 
 
-TheYouMp3 may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services TheYouMp3, and they are required to maintain confidentiality of your information. 
+TheYouMp3 may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries.  
 
 TheYouMp3 may keep track of the websites and pages our users visit within TheYouMp3, in order to determine what TheYouMp3 services are the most popular. This data is used to deliver customized content and advertising within TheYouMp3 to customers whose behavior indicates that they are interested in particular subject area. 
 
@@ -28,6 +28,8 @@ TheYouMp3 will disclose your personal information, without notice, only if requi
 TheYouMp3 website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or to deliver viruses to your computer. Cookies are uniquely assigned to you, and only be read by a web server in the domain that used the cookie to you. 
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize TheYouMp3 pages, or register with TheYouMp3 site or services, or cookie helps TheYouMp3 to recall your specific information on subsequent visits, this simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same TheYouMp3 website, the information you previously provided can be retrieved, so you can easily use TheYouMp3 features that you customized. 
+
+Cookies maybe stored by third parties such as Google or DoubleClick, via third party content displayed on our website such as advertisments etc. By using our service, you consent to the use by these third parties of your personal information. 
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of TheYouMp3 services or websites you visit. 
 
@@ -50,4 +52,4 @@ TheYouMp3
   
 
 
-Copyright © 2014 TheYouMp3. All Rights Reserved.
+Copyright © 2015 TheYouMp3. All Rights Reserved.
