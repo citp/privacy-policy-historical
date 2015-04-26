@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appstrm.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227092854id_/http%3A//appstrm.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appstrm.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426065008id_/http%3A//appstrm.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AppStream
 
