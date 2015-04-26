@@ -1,729 +1,685 @@
-<!--The following is the downloaded HTML source of the permissionresearch.com privacy policy that was archived on 2014-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140220022840id_/https%3A//www.permissionresearch.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the permissionresearch.com privacy policy that was archived on 2015-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150426215353id_/https%3A//permissionresearch.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-    <title>
-        Privacy Policy - PermissionResearch
-    </title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"><link id="stylesheet" type="text/css" rel="stylesheet" href="http://www.permissionresearch.com/Common/PR3_Styles.css">
+
+    <!-- JQuery is used to solve the Hover over problem in IE -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <!--  IEHack.js : This provides a solution to the IE hover over problem-->
+    <script src="https://www.permissionresearch.com/Common/IEHack.js" type="text/javascript"></script>
+    
+    <!-- Jquery UI -->
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+    
+    <script type="text/javascript" src="Scripts/ContentManagement.js"></script>
+    
+    <script type="text/javascript">
+        function init()
+        { }
+
+        var previousLang;
+        var previousCountry;
+
+        var allowable_language = new Array();
+        function AddCountryLanguage(allowable_languages) {
+            allowable_language[allowable_language.length] = allowable_languages;
+        }
+
+        var language = new Array();
+        function AddLanguage(language_name, language_id) {
+            language[language_id] = language_name;
+        }
+
+        function ProcessCountryLanguage() {
+            if ($('#ddlCountry') != null) {
+                var sPath = window.location.pathname;
+                var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+
+                var countrySelect = $('#ddlCountry');
+                var countrySelectedIndex = $("#ddlCountry option:selected").index();
+
+                var langSelect = $('#ddlLanguage');
+                var langSelectedIndex = $("#ddlLanguage option:selected").index();
+
+                var allowable_lang = allowable_language[countrySelectedIndex];
+                var selected_lang = langSelect[0][langSelectedIndex].value;
+
+                langSelect.empty();
+                var split_allowable = allowable_lang.split(',');
+
+                for (var i = 0; i < split_allowable.length; i++) {
+                    if (split_allowable[i] == selected_lang) {
+                        langSelect.append(
+                            $('<option selected = "selected"></option>').val(split_allowable[i]).html(language[split_allowable[i]])
+                        );
+                    } else {
+                        langSelect.append(
+                            $('<option></option>').val(split_allowable[i]).html(language[split_allowable[i]])
+                        );
+                    }
+                }
+
+                countrySelectedIndex = $("#ddlCountry option:selected").index();
+                langSelectedIndex = $("#ddlLanguage option:selected").index();
+
+                if ((typeof (previousLang) != 'undefined' &&
+                        previousLang != langSelect[0][langSelectedIndex].value) ||
+                    (typeof (previousCountry) != 'undefined' &&
+                        previousCountry != countrySelect[0][countrySelectedIndex].value)) {
+
+                    previousCountry = countrySelect[0][countrySelectedIndex].value;
+                    previousLang = langSelect[0][langSelectedIndex].value;
+
+                    ProcessHomePage(sPage, previousCountry, previousLang);
+                }
+
+                previousCountry = countrySelect[0][countrySelectedIndex].value;
+                previousLang = langSelect[0][langSelectedIndex].value;
+            }
+        }
+
+        function ProcessHomePage(nextPage, newCountry, newLanguage) {
+            if (newLanguage == '' || newLanguage == null) {
+                allowable_language[allowable_language.length] = allowable_languages;
+            }
+
+            document.location = nextPage + '?newCountry=' + newCountry + '&newLanguage=' + newLanguage;
+        }
+
+        function ProcessLoginRequest(loginURL, userNameField, passwordField) {
+            document.forms[0].action = loginURL;
+            document.forms[0].tb_HouseholdId.value = document.forms[0][userNameField].value;
+            document.forms[0].tb_Password.value = document.forms[0][passwordField].value;
+            document.forms[0].submit();
+        }
+
+        
+
+    </script>
+
+    <script type="text/javascript">
+
+        function createCookie(name, value, days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                var expires = "; expires=" + date.toGMTString();
+            }
+            else {
+                var expires = "";
+            }
+
+            if ('5' == '5') {
+                var domain = "; domain=.permissionresearch.com";
+            }
+            else {
+                var domain = "";
+            }
+
+            document.cookie = name + "=" + value + expires + domain + "; path=/";
+        }
+
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+
+        function ParseLanguageTags(langtags) {
+            return langtags.substring(langtags.indexOf("x-ns1") + 5, langtags.indexOf(",")) + langtags.substring(langtags.indexOf("x-ns2") + 5, langtags.length);
+        }
+
+        function ConfigCheck() {
+            if (typeof ossLang == 'undefined') {
+            }
+            else {
+                var machineid = ParseLanguageTags(ossLang);
+
+                var currentCookie = readCookie('csregwebv2Session');
+                var newCookie = currentCookie.replace('MachineId=', 'MachineId=' + machineid);
+
+                createCookie('csregwebv2Session', newCookie, null);
+            }
+
+            createCookie('machine_id_set_cookie', 'true', null);
+        }
+
+
+        var machine_id_set = readCookie('machine_id_set_cookie');
+        if (machine_id_set) {
+        }
+        else {
+            if ('False' == 'True') {
+                document.write(unescape("%3Cscript src='http://localhost:8254/config.oss.ossproxy/status.js' %3E%3C/script%3E"));
+
+                window.onload = ConfigCheck;
+            }
+        }
+
+
+        function GetQueryStringByName(name) {
+            name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+            return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            // Initialize the language dropdown list
+            $('#ddlLanguage > option').each(function() {
+                var languageName = $(this).text();
+                var languageID = $(this).attr('value');
+
+                AddLanguage(languageName, languageID);
+            });
+
+            // Initialize the country dropdown list
+            $('#ddlCountry > option').each(function() {
+                var languages = $(this).attr('languages');
+
+                AddCountryLanguage(languages);
+            });
+
+            $('#ddlCountry').on('change', function() {
+                ProcessCountryLanguage();
+            });
+
+            $('#ddlLanguage').on('change', function() {
+                var currentPage = document.location.pathname.match(/[^\/]+$/)[0];
+                var countryCode = $('#ddlCountry').val();
+                var languageID = $('#ddlLanguage').val();
+
+                ProcessHomePage(currentPage, countryCode, languageID);
+            });
+
+            ProcessCountryLanguage();
+
+            // Help link 
+            if ('1' == '1' && 'US'.toUpperCase() == 'US') {
+                $('li[id=2_1_6] a').attr('href', 'PRParatureSupportRDT.aspx');
+            } else {
+                $('li[id=2_1_6] a').attr('href', 'http://www.permissionresearch.com/contact.aspx');
+            }
+
+           
+            $(document).keypress(function (e) {
+                if (e.ctrlKey && e.altKey) {
+                    if (String.fromCharCode(e.charCode || e.keyCode) == "m") {
+                        modifyContent();
+                    }
+                    else if (String.fromCharCode(e.charCode || e.keyCode) == "p") {
+                        showContentPlaceholders();
+                    }
+                    
+                }
+            });            
+
+        });
+
+
+    </script>
+
+    
+    <title>Privacy Policy - PermissionResearch</title>
+
     <meta name="robots" content="index,follow"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="Author" content="PermissionResearch.com"><meta name="Description" content="PermissionResearch is part of Internet market research community with over 2 million members worldwide. Panel members are recognized with a donation of a tree through the Trees for Knowledge program."><meta name="Keywords" content="online consumer research, internet market research, sweepstakes, research panel, private internet surfing, survey online free"><script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-2377028-3";urchinTracker();</script>
-    <meta content="C#" name="CODE_LANGUAGE">
-    <meta content="JavaScript" name="vs_defaultClientScript">
-    <link href="http://www.permissionresearch.com/Common/PR2_Styles.css" type="text/css" rel="stylesheet">
 
-    <script type="text/javascript" language="javascript" src="Common\sitecommon.js"></script>
+    <script type="text/javascript" src="Common\sitecommon.js"></script>
 
-    <script language="JavaScript">
-		function init() 
-		{}
-		</script>
-	</head>
-	<body class="Normal" lang="EN-US" leftmargin="0" topmargin="0" onload="init()" marginheight="0" marginwidth="0">
-	<table align="center">
+    <script src="https://seal.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        function open_tg_cert(link) { var nonwin = navigator.appName != 'Microsoft Internet Explorer' ? 'yes' : 'no'; window.open(link.href.replace('http', 'https'), 'welcome', 'location=' + nonwin + ',scrollbars=yes,width=517,height=' + screen.availHeight + ',menubar=no,toolbar=no'); return false; }
+        function tg_context() { var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 ' + d.getFullYear() + '.'); return false; }
+        function tg_image_load(img) { var src = (document.location.protocol == 'http:') ? 'http://seals.trust-guard.com/' : 'https://secure.trust-guard.com/secureseals/'; img.onload = null; img.onabort = null; img.src = src + img.name; img.name = 'trustseal'; }
+    </script>
+    
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.C_H1').css("margin-top", "20px");
+            $('.C_TD').css("margin-bottom", "14px");
+        })
+    </script>
+
+
+<title>
+
+</title></head>
+<body>
+    <form method="post" action="privacy.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE1ODUwNjA0Mg9kFgJmD2QWBAIBD2QWAgIBDxYCHgRocmVmBTdodHRwOi8vd3d3LnBlcm1pc3Npb25yZXNlYXJjaC5jb20vQ29tbW9uL1BSM19TdHlsZXMuY3NzZAIDD2QWBAIBDxAPFgIeB0VuYWJsZWRoZBAV0AENVW5pdGVkIFN0YXRlcwtBZmdoYW5pc3RhbgdBbGJhbmlhB0FsZ2VyaWEOQW1lcmljYW4gU2Ftb2EHQW5kb3JyYQZBbmdvbGEIQW5ndWlsbGETQW50aWd1YSBhbmQgQmFyYnVkYQlBcmdlbnRpbmEHQXJtZW5pYQVBcnViYQlBdXN0cmFsaWEHQXVzdHJpYQpBemVyYmFpamFuC1RoZSBCYWhhbWFzB0JhaHJhaW4KQmFuZ2xhZGVzaAhCYXJiYWRvcwdCZWxhcnVzB0JlbGdpdW0GQmVsaXplBUJlbmluB0Jlcm11ZGEGQmh1dGFuB0JvbGl2aWEWQm9zbmlhIGFuZCBIZXJ6ZWdvdmluYQhCb3Rzd2FuYQZCcmF6aWwGQnJ1bmVpCEJ1bGdhcmlhDEJ1cmtpbmEgRmFzbwdCdXJ1bmRpCENhbWJvZGlhCENhbWVyb29uBkNhbmFkYQpDYXBlIFZlcmRlDkNheW1hbiBJc2xhbmRzGENlbnRyYWwgQWZyaWNhbiBSZXB1YmxpYwRDaGFkBUNoaWxlBUNoaW5hCENvbG9tYmlhB0NvbW9yb3MRQ29uZ28tQnJhenphdmlsbGUgRGVtb2NyYXRpYyBSZXB1YmxpYyBvZiB0aGUgQ29uZ28KQ29zdGEgUmljYQ5Dw7R0ZSBkJ0l2b2lyZQdDcm9hdGlhBEN1YmEGQ3lwcnVzDkN6ZWNoIFJlcHVibGljB0Rlbm1hcmsIRGppYm91dGkIRG9taW5pY2ESRG9taW5pY2FuIFJlcHVibGljB0VjdWFkb3IFRWd5cHQLRWwgU2FsdmFkb3IRRXF1YXRvcmlhbCBHdWluZWEHRXJpdHJlYQdFc3RvbmlhCEV0aGlvcGlhDkZhZXJvZSBJc2xhbmRzBEZpamkHRmlubGFuZAZGcmFuY2UNRnJlbmNoIEd1aWFuYRBGcmVuY2ggUG9seW5lc2lhBUdhYm9uClRoZSBHYW1iaWEHR2VvcmdpYQdHZXJtYW55BUdoYW5hCUdpYnJhbHRhcgZHcmVlY2UJR3JlZW5sYW5kB0dyZW5hZGEKR3VhZGVsb3VwZQRHdWFtCUd1YXRlbWFsYQZHdWluZWENR3VpbmVhLUJpc3NhdQZHdXlhbmEFSGFpdGkISG9uZHVyYXMJSG9uZyBLb25nB0h1bmdhcnkHSWNlbGFuZAVJbmRpYQlJbmRvbmVzaWEESXJhbgRJcmFxB0lyZWxhbmQGSXNyYWVsBUl0YWx5B0phbWFpY2EFSmFwYW4GSm9yZGFuCkthemFraHN0YW4FS2VueWEIS2lyaWJhdGkLTm9ydGggS29yZWELU291dGggS29yZWEGS3V3YWl0Ckt5cmd5enN0YW4ETGFvcwZMYXR2aWEHTGViYW5vbgdMZXNvdGhvB0xpYmVyaWEFTGlieWEJTGl0aHVhbmlhCkx1eGVtYm91cmcFTWFjYXUJTWFjZWRvbmlhCk1hZGFnYXNjYXIGTWFsYXdpCE1hbGF5c2lhCE1hbGRpdmVzBE1hbGkFTWFsdGEQTWFyc2hhbGwgSXNsYW5kcwpNYXJ0aW5pcXVlCk1hdXJpdGFuaWEJTWF1cml0aXVzB01heW90dGUGTWV4aWNvCk1pY3JvbmVzaWEHTW9sZG92YQhNb25nb2xpYQdNb3JvY2NvCk1vemFtYmlxdWUHTXlhbm1hcgdOYW1pYmlhBU5lcGFsC05ldGhlcmxhbmRzFE5ldGhlcmxhbmRzIEFudGlsbGVzDU5ldyBDYWxlZG9uaWELTmV3IFplYWxhbmQJTmljYXJhZ3VhBU5pZ2VyB05pZ2VyaWERTm9ydGhlcm4gTWFyaWFuYXMGTm9yd2F5BE9tYW4IUGFraXN0YW4GUGFuYW1hEFBhcHVhIE5ldyBHdWluZWEIUGFyYWd1YXkEUGVydQtQaGlsaXBwaW5lcwZQb2xhbmQIUG9ydHVnYWwLUHVlcnRvIFJpY28FUWF0YXIIUsOpdW5pb24HUm9tYW5pYQZSdXNzaWEGUndhbmRhFVNhaW50IEtpdHRzIGFuZCBOZXZpcwtTYWludCBMdWNpYSBTYWludCBWaW5jZW50IGFuZCB0aGUgR3JlbmFkaW5lcwVTYW1vYRhTw6NvIFRvbcOpIGFuZCBQcsOtbmNpcGUMU2F1ZGkgQXJhYmlhB1NlbmVnYWwKU2V5Y2hlbGxlcwxTaWVycmEgTGVvbmUJU2luZ2Fwb3JlCFNsb3Zha2lhCFNsb3ZlbmlhD1NvbG9tb24gSXNsYW5kcwdTb21hbGlhDFNvdXRoIEFmcmljYQVTcGFpbglTcmkgTGFua2EFU3VkYW4IU3VyaW5hbWUJU3dhemlsYW5kBlN3ZWRlbgtTd2l0emVybGFuZAVTeXJpYQZUYWl3YW4KVGFqaWtpc3RhbghUYW56YW5pYQhUaGFpbGFuZARUb2dvBVRvbmdhE1RyaW5pZGFkIGFuZCBUb2JhZ28HVHVuaXNpYQZUdXJrZXkMVHVya21lbmlzdGFuBlVnYW5kYQdVa3JhaW5lFFVuaXRlZCBBcmFiIEVtaXJhdGVzDlVuaXRlZCBLaW5nZG9tB1VydWd1YXkKVXpiZWtpc3RhbgdWYW51YXR1CVZlbmV6dWVsYQdWaWV0bmFtFkJyaXRpc2ggVmlyZ2luIElzbGFuZHMRVVMgVmlyZ2luIElzbGFuZHMFWWVtZW4KWXVnb3NsYXZpYQZaYW1iaWEIWmltYmFid2UV0AECVVMCQUYCQUwCRFoCQVMCQUQCQU8CQUkCQUcCQVICQU0CQVcCQVUCQVQCQVoCQlMCQkgCQkQCQkICQlkCQkUCQloCQkoCQk0CQlQCQk8CQkECQlcCQlICQk4CQkcCQkYCQkkCS0gCQ00CQ0ECQ1YCS1kCQ0YCVEQCQ0wCQ04CQ08CS00CQ0cCQ0QCQ1ICQ0kCSFICQ1UCQ1kCQ1oCREsCREoCRE0CRE8CRUMCRUcCU1YCR1ECRVICRUUCRVQCRk8CRkoCRkkCRlICR0YCUEYCR0ECR00CR0UCREUCR0gCR0kCR1ICR0wCR0QCR1ACR1UCR1QCR04CR1cCR1kCSFQCSE4CSEsCSFUCSVMCSU4CSUQCSVICSVECSUUCSUwCSVQCSk0CSlACSk8CS1oCS0UCS0kCS1ACS1ICS1cCS0cCTEECTFYCTEICTFMCTFICTFkCTFQCTFUCTU8CTUsCTUcCTVcCTVkCTVYCTUwCTVQCTUgCTVECTVICTVUCWVQCTVgCRk0CTUQCTU4CTUECTVoCTU0CTkECTlACTkwCQU4CTkMCTloCTkkCTkUCTkcCTVACTk8CT00CUEsCUEECUEcCUFkCUEUCUEgCUEwCUFQCUFICUUECUkUCUk8CUlUCUlcCS04CTEMCVkMCV1MCU1QCU0ECU04CU0MCU0wCU0cCU0sCU0kCU0ICU08CWkECRVMCTEsCU0QCU1ICU1oCU0UCQ0gCU1kCVFcCVEoCVFoCVEgCVEcCVE8CVFQCVE4CVFICVE0CVUcCVUECQUUCR0ICVVkCVVoCVlUCVkUCVk4CVkcCVkkCWUUCWVUCWk0CWlcUKwPQAWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAgIPEGQQFRgHRW5nbGlzaAdFbmdsaXNoB0VuZ2xpc2gHRW5nbGlzaAdTcGFuaXNoB1NwYW5pc2gHU3BhbmlzaAZGcmVuY2gGRnJlbmNoBkdlcm1hbgpQb3J0dWd1ZXNlClBvcnR1Z3Vlc2UHSXRhbGlhbgZLb3JlYW4ISmFwYW5lc2UGRGFuaXNoB0NoaW5lc2UHQ2hpbmVzZQVEdXRjaAdSdXNzaWFuB0VuZ2xpc2gHRW5nbGlzaAVDemVjaAdFbmdsaXNoFRgBMQIxMAIxMQIxNQE0AjE0AjE2ATICMTMBMwE1AjEyATcBOAE5AjE3AjE5AjIwAjE4AjI0AjI2AjI3AjI4AjIyFCsDGGdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkZG8ngSu41I7m/3N/oquW6obfRUhS">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAOkBdEvtxKNelwkjt84pcYucXxOxIkDSSwx65tuk+wqg6I9H1IsCrZDKJCYawF7KIbunfbFWq0wmSnrS+8RR2EsFkHUw4C1y45sNud1kmRMph8bz14qxVONVgnpO8yiF4WX8QiTAvzPo/bj2iSfOoG6sbJGZ6aNxy4hyALLIfSPdpFGmuQnSdpdtorGeH8yatgO4a8tYLkAM6z9SmUKPa+h3u0nnbDK5UtbT/LIHwhsaW0UX2p8l1Q36QJliGqanIzsGySPJd00e0H+D4ji66BbBOgo7k7vnUWubdDaacVORLAsk10RvEEcM4L4ld+xH6UFYsb/08ApImSdwoFOTdYptzfqMfTL0tZjRIxhveOFQp0aimGbReRHzd6noI7reZYHi5zQywvLvkVQmeXi6s7PVNGVLEuNfx0KqD/S3hajlumhdRzwItSVfyx66NSRGN/yc0C0dCSmtUjhpl10ylBW8ED9lyAeOTxlayWVrSFYlUNm6sx6gAsO4SwFey7r978ZhRyyMJyVsxQ0OZlQ3IK1QK0DgSy3uaX6B5VFQHz6y5Uas16bl+x5AgpcOf1WTqe40bZ0H4wouFAEKbHmVuI22lZwgxVPXAFOfagS09DWMDKGtQDlGuI8md0Js5E8Hy9XUdMD2Jy5CAOxl5d4iX4SLHFGUog2SGn2EPhjzvY2Gt3cElzUF9b26APEau54Rz0rUkyGr5deH4MhCgOceYE1o5KG/ULi6IeXRVy2DjdJocsTr0YDSIGusj5Jya/MarzVM85jglMSHglLr1bcWXrQgs2amEMuxaSxxVaJGZR7NLbM0nG5Htaiu+kHZdOnJicmF9IBjP5Wu/Z0i4urMrVOkpVXI2Sq+aas//5m6kxjyED3txUgR4i9Ljc3jUSvL/qLAdh25rSw1BtLbFHA4c3nIWsSEgcg1kSPQroPm4S6Z72bVFaIWinMAZCjxPzj3NdHwfMjmZMXmQsDT6bKPg9njOrKXA8Ta43YroQPpFzwqAvww7ieZlqz/osLvYllHprB4PS1OjlmzCIw/6sBJwDvaCCzPS4CS5nhzhx5/3qaVEb6sddRTuxNj/MeXZGCDeAphcws3gJgKS48C4le0QiBavcXPe9s0c2i/zFfRx3DP+ITWzB5ZV7ByO+PwFK/SfgHCLwrOEd37RjV+9kgi3Mq8vrAsyfzb+TwqAL1ct3cSiw3NfBdwcx7CQr/yLf2TUe0NpA6nYTh5yuHwAZpqcxD69Wmq2v970s0Sj/o23VaoyzjyBKJ0o7d2zUBotewhKxo8RZIm/nzPNx7u9ONNpAsqSKour5pCb9khyesBASw9oCwwpFo+dCyP2qoxXMVwHgTGBL/sVxPj2tIbksPb12sL1ISluCWYTiOAXWlh1REoe1YH2TdHlSPeaY3fkzfgeSSEqd/uAEEapxf+mNfIe17CPif41eGmYSUycbXczkjrWeXFfDte77lJTIIjYmxZm8GzborvSX/5CzM75vAHxWxx5O597UkQSDRJTiqHHXuBK2IeqJhypjV8Zm3TwY3flGrh8vcdnI/ZxVAJBBHDuOPOMDnFMlkB3zAYPD9nZergs8GHVXUPi7gVx64Cffd1aY3L4PxvYx3eXeudwOvv7ejZNlfqc4BGqCh9l1sxOilaSPopZKYc/TKIBgehXVPF7qx+teKpAlNbK9O1FAfNEg3gZpoIqbb0cN7PqLmgnPEvtz86E5MKPjr02b/UYKCWXFm2uwiXjZVy5lnGv75nJ/KoTWkuGYukBNx41NrwJDtKpTP1SjjXXkGakuRYtLRCUZ70FzTLFXMhY4SWOWVJegnGXbEeF4yNS+qHmYGCp2rcBbasMSN5YOSK9Bgm/PTbxqy/mHEGc3Vzi3hjBgjuoqtes9TdLiHFClHCO+6uJh9eWI0pZfV54xdCJNBnJyw0jFd3DoZfFonl6V4nio4dnCXV48ydr9RDb4pkU1JuzAuLXOkQTeJBrN/KoeAW9ihJ8RQAm9o7zTaDUKIJXdamOkEttW5zXRrFPm0lZfZCiiqXTIBjgku4CXx4+Oe+sO2hxJ+Ati4t+grwRJ24SFSKupGs2aoYIxXrIL9dvApdwOrZT0p/brshQ3VH2y6C4o4TL0EjLSSRpPU7IfkxIW3yZ7XO/os286NhoK+HdtOnrHgnEZqqpjkkaBmFGPtbZAQQAGdJDGJfelVZTuww7oiL+waRIyzKbICqyWM8aijO2sRqnYJZKw00suoB2YfYReZ2IOsJTH45h88wR5WfR+sqCuZXf3C3VIVCbLa6RyR1xNJMTZyUi+zFp4uJKhv8WlcFv5jNZsRrYuQPSMLAYuqxA+p/TfAaYUXq/DaX4UN5MH4naiLOxYYsubZwxRONRSg3b00sPOsDPjIXz3wh6VGX2JoBNpPR97WdmCB+CJmby6MnODmSLkuvNKLpPDc+ESCcp0CP4cM7JiCFN012HHZnTEPKyWGwKn4ZYrB969kAJg9D7npWAvsnBofisLOeqanc1XtDW03jlhMqavifQ0d2wiMC6Ea8xGuqSnHl/RDzfTkmRpsVZFuG7dC0ShTIUbW8rHp8+dj+Gr2+k+040HMlw3auGgZs7+XDbEmjuMfKVmirk0xpnjxZGgclA+urrWMVwHARHFob1ceo/hZ+V1uLPLtJ3VdlGwZaNygrRRd6jnmJmy6UtKdZNJAZUbacCCWgmKDcbi/UmKvqBzdZzyG8yCAniwjmKCiuUbUXVXnVTAaGvjQWQajD01S5oZqbx6PFT9uu3yKrgr9Gvl6PIW50kfkALuHCjv2KNkDTKb71TMiGBIelisWFVLDBepnJNwhXbHluklF+akPGkz9ePm44T00psqJVMFjcFuNfUdc8B3+3wtHP9bEoVYnd7TZvt1+QI9vWcL9Hhx0Kg2Eb0FZ312BqrnvPafIH9DYomf5zGuEJMsa65ZjOHhGKP6YqZMp7+Aw/n9IZWwodzvgWhbIQ0f5GCMqIPP2HVzgeCISYQpOvdqNSG/uorUIxQBqPyFSW/X6w/47daRX20ry2zA+f1Fn34IQl84rFrUMWtK9v+ZziAf14Pe4E2MbBdrMNxQuv95RxasigFWRfHtPIdHrGWLjViD7Hrd/ttheIm0y285ky4X4D3Wvh18VggZC2UcUUFQKy8ldVriQGHXj21zU9jwwbPkxXhWMH4PTP/5IUP9lMCoX3UAnNQmLNAMUwtWzWgYgUEpvPUSw3UWQ7MD8eAQtEQj3yJYuc4BYcDZnDq1uWhUuqiAqmN9uF3jM7FNbYsWYfWyRYN3Fxacu6Sx6LYePYCG3hSapmIjtJqdmimsS5rorJXa0PgAQf2Ts39cJQO9CLnTtMCdkkANurR3zv79XYNrQd7kzNMBS/1D/3ePJQXuhSaRpoRY1d0IIDBj4OPn+lNh2sCtUWQBM3dwj1CATkuwHdNv0UcEvFt6DbeTeJeTFtCUee23RlJkcyi3qr8H3w+2/LJFuwVS08e0MTv6iit/FrRjzNMJmHcXdN0ir/YoHjDa9hWwH4JkXTV8LPVpOgfLrHZ8VuqvypLmNApfEpBdHFCDBNyC3qycb3w0vO7gei94817zV4x/npgdW17e8wv7nkzhGTUlyLR2JN/3ysACprCALclPDDFIaRE6idLfwMnbNFNlv+3KkTllNA2wtDOyqeSHHYM6aUQL/wzppKuMCzjI7OxYM+o0lV+tiFNJLpoWOX/vRAkL3F5r6kzusNMMz3FH2ssjvoQNC7v8uVSjRgUoQ4c/hTb+cc5OCsWwBHrrWowKKNlBa6ISTwJ/fuQSvhDQ49Iji6Uhlrg1CvXpCRQL3ueOr4Yccoh1Gc7J9XxUSVy0GQClwbWvvG1dnbb1trKP38C9mDfNkohuik9FlxvSCqg+B3SEnd4GsBRtZglFSC1TY2Z9nTRFFrz+KuwspSBkEdPx2417+KareZkK+D/ejxhLJgot+79tyGBkEBudTNG4b4Jwwb7S8lO37emVc+5P2Q6tqeBiDUYmtOMrIFbmIwTv1xx2RaJcvodu3PMCONXmgG+WyyDKxDfVb9vopMFqrclmWI0und4EYTIhtEoGh6NuTF4plwZ9iuGSSNvvpP0zkR60stccRSPTxobzJilnxylmyOlfuNot93BQoMMIQXk9I5a4PnCVLbtJauwJvZNMhg6qHqkSAR3jj6172EsBRbi02ffytm1EdsM99c6AIfpk/fXjTpoXxIEDpJnzkfRXJVcPmwfy1CwrgJUvmziFmDiaeDFIJI/teZEekJcHbk8gYSGU9NqFt+Q8zQL21D3C8M33BSf2PCn3VGCnW2PMsvSjNvE/A3yoQiEel3Grnn1nc3g3FF87Dp5MzIQFegOWTbk58gch5US3O+ugpemQmx3zIZgIDT88LUbLdmtEBNCGxlK/0vZmXFsow7ttKva+a7H3lBQ653TysAW2RUha5otORy8+NkEy+TfdK89hWldxHn66CeRUHHs9SPbO7Dd/uEQzNueBXqXUaN1tcUJgBMtWnWFq+OXVQbzoCVPADYSu18mhiEp+RXlPcWuoMiiPZPbQjs6QeTIwbISbLOmKhJcB08aIZSjHoQrE+YS6ObQRJIVRMP6yeziS5UIMNJJ8Y+SMvc6VaI4/YrclNDxZ0Vi9u8NOneXeNRnXrpn8nG/XnELBdLBScVbZhswP1gOYPyfBIfT5LcfnwFN9kDye2rUyVe3a9rdH1HMmKSe9arqVjQ3l4eUGgFzNFiMuuAIBrnxQeWbmgQnoA9TJD6iOBAWD33Ug2eKS4S8JIp9M3i23fklhZmWdq2QJe8kGwSJ/tX867KU1KTVvK2FGYAAsaITSs7wSCLGWL8+f3hm3y4PnDSAd10luxLMY98aM2QsYjc+lqOw6xzKJCL+Zuq53QF365F8v8mkiJFwRDkPPx1pHRm9xR+jRBckHf1rcMreBfm70t7LeAUUx5YuwCRDTowY3vJ+BaA4IfAQNqT9uW9QLwMttVGzcekkGL+wudsTT/1KvTNOVmjfHajZVpAMA==">
+        <div id="mainContent" style="width: 1000px; margin: 0px auto;">
+
+            <div id="header">
+                <table border="0" width="110%" cellspacing="0" cellpadding="0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <table border="0" width="91%" cellspacing="0" cellpadding="0">
+                                    <tbody><tr>
+                                        <td width="377">
+                                            <a href="http://www.permissionresearch.com/Home.aspx">
+                                                <img src="Images/PR/logo.gif" style="height: 62px;display:inline-block;" data-contentkey="LogoImage" data-page="9001" data-siteid="5001" data-languageid="1">
+                                            </a>
+                                        </td>
+                                        <td width="55"></td>
+                                        <td align="right" valign="bottom">
+                                            <div class="lang">
+                                                <fieldset>
+                                                    <select name="ctl00$ddlCountry" id="ddlCountry" disabled="disabled" class="aspNetDisabled">
+	<option selected="selected" value="US" languages="1,4">United States</option>
+	<option value="AF" languages="11">Afghanistan</option>
+	<option value="AL" languages="11">Albania</option>
+	<option value="DZ" languages="11">Algeria</option>
+	<option value="AS" languages="11">American Samoa</option>
+	<option value="AD" languages="11">Andorra</option>
+	<option value="AO" languages="11">Angola</option>
+	<option value="AI" languages="11">Anguilla</option>
+	<option value="AG" languages="11">Antigua and Barbuda</option>
+	<option value="AR" languages="14">Argentina</option>
+	<option value="AM" languages="11">Armenia</option>
+	<option value="AW" languages="11">Aruba</option>
+	<option value="AU" languages="27">Australia</option>
+	<option value="AT" languages="3">Austria</option>
+	<option value="AZ" languages="11">Azerbaijan</option>
+	<option value="BS" languages="11">The Bahamas</option>
+	<option value="BH" languages="11">Bahrain</option>
+	<option value="BD" languages="11">Bangladesh</option>
+	<option value="BB" languages="11">Barbados</option>
+	<option value="BY" languages="11">Belarus</option>
+	<option value="BE" languages="2,18">Belgium</option>
+	<option value="BZ" languages="11">Belize</option>
+	<option value="BJ" languages="11">Benin</option>
+	<option value="BM" languages="11">Bermuda</option>
+	<option value="BT" languages="11">Bhutan</option>
+	<option value="BO" languages="14">Bolivia</option>
+	<option value="BA" languages="11">Bosnia and Herzegovina</option>
+	<option value="BW" languages="11">Botswana</option>
+	<option value="BR" languages="5">Brazil</option>
+	<option value="BN" languages="11">Brunei</option>
+	<option value="BG" languages="11">Bulgaria</option>
+	<option value="BF" languages="11">Burkina Faso</option>
+	<option value="BI" languages="11">Burundi</option>
+	<option value="KH" languages="11">Cambodia</option>
+	<option value="CM" languages="11">Cameroon</option>
+	<option value="CA" languages="15,13">Canada</option>
+	<option value="CV" languages="11">Cape Verde</option>
+	<option value="KY" languages="11">Cayman Islands</option>
+	<option value="CF" languages="11">Central African Republic</option>
+	<option value="TD" languages="11">Chad</option>
+	<option value="CL" languages="14">Chile</option>
+	<option value="CN" languages="19">China</option>
+	<option value="CO" languages="14">Colombia</option>
+	<option value="KM" languages="11">Comoros</option>
+	<option value="CG" languages="11">Congo-Brazzaville</option>
+	<option value="CD" languages="11">Democratic Republic of the Congo</option>
+	<option value="CR" languages="11">Costa Rica</option>
+	<option value="CI" languages="11">Côte d'Ivoire</option>
+	<option value="HR" languages="11">Croatia</option>
+	<option value="CU" languages="11">Cuba</option>
+	<option value="CY" languages="11">Cyprus</option>
+	<option value="CZ" languages="28">Czech Republic</option>
+	<option value="DK" languages="17">Denmark</option>
+	<option value="DJ" languages="11">Djibouti</option>
+	<option value="DM" languages="11">Dominica</option>
+	<option value="DO" languages="11">Dominican Republic</option>
+	<option value="EC" languages="14">Ecuador</option>
+	<option value="EG" languages="11">Egypt</option>
+	<option value="SV" languages="11">El Salvador</option>
+	<option value="GQ" languages="11">Equatorial Guinea</option>
+	<option value="ER" languages="11">Eritrea</option>
+	<option value="EE" languages="11">Estonia</option>
+	<option value="ET" languages="11">Ethiopia</option>
+	<option value="FO" languages="11">Faeroe Islands</option>
+	<option value="FJ" languages="11">Fiji</option>
+	<option value="FI" languages="11">Finland</option>
+	<option value="FR" languages="2">France</option>
+	<option value="GF" languages="11">French Guiana</option>
+	<option value="PF" languages="11">French Polynesia</option>
+	<option value="GA" languages="11">Gabon</option>
+	<option value="GM" languages="11">The Gambia</option>
+	<option value="GE" languages="11">Georgia</option>
+	<option value="DE" languages="3">Germany</option>
+	<option value="GH" languages="11">Ghana</option>
+	<option value="GI" languages="11">Gibraltar</option>
+	<option value="GR" languages="11">Greece</option>
+	<option value="GL" languages="11">Greenland</option>
+	<option value="GD" languages="11">Grenada</option>
+	<option value="GP" languages="11">Guadeloupe</option>
+	<option value="GU" languages="11">Guam</option>
+	<option value="GT" languages="11">Guatemala</option>
+	<option value="GN" languages="11">Guinea</option>
+	<option value="GW" languages="11">Guinea-Bissau</option>
+	<option value="GY" languages="11">Guyana</option>
+	<option value="HT" languages="11">Haiti</option>
+	<option value="HN" languages="11">Honduras</option>
+	<option value="HK" languages="20">Hong Kong</option>
+	<option value="HU" languages="11">Hungary</option>
+	<option value="IS" languages="11">Iceland</option>
+	<option value="IN" languages="11">India</option>
+	<option value="ID" languages="11">Indonesia</option>
+	<option value="IR" languages="11">Iran</option>
+	<option value="IQ" languages="11">Iraq</option>
+	<option value="IE" languages="26">Ireland</option>
+	<option value="IL" languages="11">Israel</option>
+	<option value="IT" languages="7">Italy</option>
+	<option value="JM" languages="11">Jamaica</option>
+	<option value="JP" languages="9">Japan</option>
+	<option value="JO" languages="11">Jordan</option>
+	<option value="KZ" languages="11">Kazakhstan</option>
+	<option value="KE" languages="11">Kenya</option>
+	<option value="KI" languages="11">Kiribati</option>
+	<option value="KP" languages="11">North Korea</option>
+	<option value="KR" languages="8">South Korea</option>
+	<option value="KW" languages="11">Kuwait</option>
+	<option value="KG" languages="11">Kyrgyzstan</option>
+	<option value="LA" languages="11">Laos</option>
+	<option value="LV" languages="11">Latvia</option>
+	<option value="LB" languages="11">Lebanon</option>
+	<option value="LS" languages="11">Lesotho</option>
+	<option value="LR" languages="11">Liberia</option>
+	<option value="LY" languages="11">Libya</option>
+	<option value="LT" languages="11">Lithuania</option>
+	<option value="LU" languages="11">Luxembourg</option>
+	<option value="MO" languages="11">Macau</option>
+	<option value="MK" languages="11">Macedonia</option>
+	<option value="MG" languages="11">Madagascar</option>
+	<option value="MW" languages="11">Malawi</option>
+	<option value="MY" languages="11">Malaysia</option>
+	<option value="MV" languages="11">Maldives</option>
+	<option value="ML" languages="11">Mali</option>
+	<option value="MT" languages="11">Malta</option>
+	<option value="MH" languages="11">Marshall Islands</option>
+	<option value="MQ" languages="11">Martinique</option>
+	<option value="MR" languages="11">Mauritania</option>
+	<option value="MU" languages="11">Mauritius</option>
+	<option value="YT" languages="11">Mayotte</option>
+	<option value="MX" languages="14">Mexico</option>
+	<option value="FM" languages="11">Micronesia</option>
+	<option value="MD" languages="11">Moldova</option>
+	<option value="MN" languages="11">Mongolia</option>
+	<option value="MA" languages="11">Morocco</option>
+	<option value="MZ" languages="11">Mozambique</option>
+	<option value="MM" languages="11">Myanmar</option>
+	<option value="NA" languages="11">Namibia</option>
+	<option value="NP" languages="11">Nepal</option>
+	<option value="NL" languages="18">Netherlands</option>
+	<option value="AN" languages="11">Netherlands Antilles</option>
+	<option value="NC" languages="11">New Caledonia</option>
+	<option value="NZ" languages="11">New Zealand</option>
+	<option value="NI" languages="11">Nicaragua</option>
+	<option value="NE" languages="11">Niger</option>
+	<option value="NG" languages="11">Nigeria</option>
+	<option value="MP" languages="11">Northern Marianas</option>
+	<option value="NO" languages="22">Norway</option>
+	<option value="OM" languages="11">Oman</option>
+	<option value="PK" languages="11">Pakistan</option>
+	<option value="PA" languages="11">Panama</option>
+	<option value="PG" languages="11">Papua New Guinea</option>
+	<option value="PY" languages="14">Paraguay</option>
+	<option value="PE" languages="14">Peru</option>
+	<option value="PH" languages="11">Philippines</option>
+	<option value="PL" languages="11">Poland</option>
+	<option value="PT" languages="12">Portugal</option>
+	<option value="PR" languages="11,14">Puerto Rico</option>
+	<option value="QA" languages="11">Qatar</option>
+	<option value="RE" languages="11">Réunion</option>
+	<option value="RO" languages="11">Romania</option>
+	<option value="RU" languages="24">Russia</option>
+	<option value="RW" languages="11">Rwanda</option>
+	<option value="KN" languages="11">Saint Kitts and Nevis</option>
+	<option value="LC" languages="11">Saint Lucia</option>
+	<option value="VC" languages="11">Saint Vincent and the Grenadines</option>
+	<option value="WS" languages="11">Samoa</option>
+	<option value="ST" languages="11">São Tomé and Príncipe</option>
+	<option value="SA" languages="11">Saudi Arabia</option>
+	<option value="SN" languages="11">Senegal</option>
+	<option value="SC" languages="11">Seychelles</option>
+	<option value="SL" languages="11">Sierra Leone</option>
+	<option value="SG" languages="11,19">Singapore</option>
+	<option value="SK" languages="11">Slovakia</option>
+	<option value="SI" languages="11">Slovenia</option>
+	<option value="SB" languages="11">Solomon Islands</option>
+	<option value="SO" languages="11">Somalia</option>
+	<option value="ZA" languages="11">South Africa</option>
+	<option value="ES" languages="16">Spain</option>
+	<option value="LK" languages="11">Sri Lanka</option>
+	<option value="SD" languages="11">Sudan</option>
+	<option value="SR" languages="11">Suriname</option>
+	<option value="SZ" languages="11">Swaziland</option>
+	<option value="SE" languages="11">Sweden</option>
+	<option value="CH" languages="3,2,7">Switzerland</option>
+	<option value="SY" languages="11">Syria</option>
+	<option value="TW" languages="20">Taiwan</option>
+	<option value="TJ" languages="11">Tajikistan</option>
+	<option value="TZ" languages="11">Tanzania</option>
+	<option value="TH" languages="11">Thailand</option>
+	<option value="TG" languages="11">Togo</option>
+	<option value="TO" languages="11">Tonga</option>
+	<option value="TT" languages="11">Trinidad and Tobago</option>
+	<option value="TN" languages="11">Tunisia</option>
+	<option value="TR" languages="11">Turkey</option>
+	<option value="TM" languages="11">Turkmenistan</option>
+	<option value="UG" languages="11">Uganda</option>
+	<option value="UA" languages="11">Ukraine</option>
+	<option value="AE" languages="11">United Arab Emirates</option>
+	<option value="GB" languages="10">United Kingdom</option>
+	<option value="UY" languages="14">Uruguay</option>
+	<option value="UZ" languages="11">Uzbekistan</option>
+	<option value="VU" languages="11">Vanuatu</option>
+	<option value="VE" languages="14">Venezuela</option>
+	<option value="VN" languages="11">Vietnam</option>
+	<option value="VG" languages="11">British Virgin Islands</option>
+	<option value="VI" languages="11">US Virgin Islands</option>
+	<option value="YE" languages="11">Yemen</option>
+	<option value="YU" languages="11">Yugoslavia</option>
+	<option value="ZM" languages="11">Zambia</option>
+	<option value="ZW" languages="11">Zimbabwe</option>
+
+</select>
+
+                                                    <select name="ctl00$ddlLanguage" id="ddlLanguage">
+	<option selected="selected" value="1">English</option>
+	<option value="10">English</option>
+	<option value="11">English</option>
+	<option value="15">English</option>
+	<option value="4">Spanish</option>
+	<option value="14">Spanish</option>
+	<option value="16">Spanish</option>
+	<option value="2">French</option>
+	<option value="13">French</option>
+	<option value="3">German</option>
+	<option value="5">Portuguese</option>
+	<option value="12">Portuguese</option>
+	<option value="7">Italian</option>
+	<option value="8">Korean</option>
+	<option value="9">Japanese</option>
+	<option value="17">Danish</option>
+	<option value="19">Chinese</option>
+	<option value="20">Chinese</option>
+	<option value="18">Dutch</option>
+	<option value="24">Russian</option>
+	<option value="26">English</option>
+	<option value="27">English</option>
+	<option value="28">Czech</option>
+	<option value="22">English</option>
+
+</select>
+                                                </fieldset>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <ul id="nav">
+                                    <li id="2_1_1" style="background-image: none;"><a href="http://www.permissionresearch.com/home.aspx">
+                                        <div data-contentkey="HomeMenuLabel" data-page="9001" data-siteid="5001" data-languageid="1" style="display:inline;">home</div>
+                                    </a></li>
+                                    <li id="2_1_2"><a href="http://www.permissionresearch.com/about.aspx">
+                                        <div data-contentkey="OverViewMenuLabel" data-page="9001" data-siteid="5001" data-languageid="1" style="display:inline;">overview</div>
+                                    </a></li>
+                                    <li id="2_1_3"><a href="http://www.permissionresearch.com/abouttrees.aspx">
+                                        <div data-contentkey="AboutTreesMenuLabel" data-page="9001" data-siteid="5001" data-languageid="1" style="display:inline;">trees for knowledge</div>
+                                    </a></li>
+                                    <li id="2_1_4"><a href="http://www.permissionresearch.com/benefits.aspx">
+                                        <div data-contentkey="BenefitsMenuLabel" data-page="9001" data-siteid="5001" data-languageid="1" style="display:inline;">member benefits</div>
+                                    </a></li>
+                                    <li id="2_1_5"><a href="http://www.permissionresearch.com/members.aspx">
+                                        <div data-contentkey="MembersMenuLabel" data-page="9001" data-siteid="5001" data-languageid="1" style="display:inline;">members</div>
+                                    </a></li>
+                                    <li id="2_1_6"><a href="http://www.permissionresearch.com/contact.aspx">
+                                        <div data-contentkey="HelpMenuLabel" data-page="9001" data-siteid="5001" data-languageid="1" style="display:inline;">help</div>
+                                    </a></li>
+                                    <li id="2_1_7"><a href="http://www.permissionresearch.com/privacy.aspx">
+                                        <div data-contentkey="PrivacyMenuLabel" data-page="9001" data-siteid="5001" data-languageid="1" style="display:inline;">privacy policy and ula</div>
+                                    </a></li>
+                                    
+                                    <li id="Li1"><a href="http://www.permissionresearch.com/faq.aspx">
+                                        <div data-contentkey="FaqMenuLabel" data-page="9001" data-siteid="5001" data-languageid="1" style="display:inline;">faqs</div>
+                                    </a></li>
+                                    
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+
+            </div>
+
+            <div id="bodyContent" style="height: auto !important; height: 600px;">
+                
+    <table align="center" cellpadding="0" width="100%" border="0">
         <tbody><tr>
             <td>
                 <div id="wrapper">
                     <div class="w1">
-		            <form name="ctl00" method="post" action="privacy.aspx?action=cookieTest&amp;trackid=406415800&amp;sitegroup=5&amp;siteid=5001&amp;languageid=1" id="ctl00">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUHLTcyNjEwMGRk">
+                        <table cellspacing="0" cellpadding="0" width="100%">
+                            <tbody><tr valign="top">
 
-		<table align="center">
-		    <tbody><tr>
-		        <td>
-		    <table cellspacing="0" cellpadding="0" width="100%" border="0">
-				<tbody><tr>
-					<td colspan="3">
+                                <td align="center">
+                                    <div id="main" align="center">
+                                        <div class="main-holder">
+                                            <div class="main-frame">
 
- 
- <!-- JQuery is used to solve the Hover over problem in IE -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+                                                  <table width="96%" border="0" bgcolor="white" class="C_TD" align="center" cellpadding="10" cellspacing="10"><tbody><tr><td><table class="C_TD" width="100%" valign="top" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><div data-contentkey="SafeHarborComplianceLink" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline"><a href="https://safeharbor.export.gov/list.aspx">We self-certify compliance with</a></div></td></tr><tr><td align="right"><div data-contentkey="SafeHarborLink" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline"><a href="http://export.gov/safeharbor/"><img style="width: 155px; height: 63px;" src="Images/PR/SafeHarborLogo.jpg"></a>
+		<br><img style="width:100px;height:120px;" src="Images/pr/2014-Honor-Roll-200.gif"></div></td></tr></tbody></table><div class="C_H1"><div data-contentkey="PrivacyHeading" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Your Privacy Matters</div></div><a href="#Section0"><div data-contentkey="AboutTreesLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">About Our Trees for Knowledge Campaign</div></a><br><a href="#Section0"><div data-contentkey="ULALabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">PRIVACY POLICY, USER LICENSE AGREEMENT, AND PATENT NOTICE</div></a><br><a href="#Section2"><div data-contentkey="QuestionOneLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What information is collected?</div></a><br><a href="#Section3"><div data-contentkey="QuestionTwoLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">How is the information collected?</div></a><br><a href="#Section4"><div data-contentkey="QuestionThreeLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">How is the collected information used?</div></a><br><a href="#Section5"><div data-contentkey="QuestionFourLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">How is the information secured?</div></a><br><a href="#Section6"><div data-contentkey="QuestionFiveLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Does the application use cookies?</div></a><br><a href="#Section7"><div data-contentkey="QuestionSixLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What privacy commitments are made relating to specific participant benefits?</div></a><br><a href="#Section8"><div data-contentkey="QuestionSevenLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What if I wish to stop participating in this program?</div></a><br><a href="#Section9"><div data-contentkey="QuestionEightLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What is the policy regarding children?</div></a><br><a href="#Section10"><div data-contentkey="QuestionNineLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">How will I be notified of changes to this Agreement?</div></a><br><a href="#Section11"><div data-contentkey="QuestionTenLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What are my obligations as a participant?</div></a><br><a href="#Section12"><div data-contentkey="QuestionElevenLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What is our commitment to participants?</div></a><br><a href="#Section13"><div data-contentkey="QuestionTwelveLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What are the other legal terms and conditions of participating in this program?</div></a><br><a href="#Section23"><div data-contentkey="QuestionThirteenLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Whom can I contact if I have additional questions?</div></a><br><br><p></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="AboutUsHeaderLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">About Us</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="AboutUsDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Our online market research community has millions of participants who are interested in voicing their opinions through surveys and in influencing which products and services are offered on the Internet. Panelists allow their online browsing, hardware and application usage, and purchasing behavior (including content of visited web pages) to be passively collected and used as part of anonymous research reports that pinpoint what is popular with consumers. The information you contribute is used by comScore, Inc., a globally-recognized market research authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNN. The data are extensively relied upon by the largest Internet services companies and scores of Fortune 500 companies to improve their online offerings.</div><br><br><div data-contentkey="AboutUsDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">The protection of your privacy is one of our top priorities. While voluntary participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, <u>the personally identifiable information you provide to us will NOT be used by us, or anyone with whom we do business, to advertise or market products or services to you!</u></div><br></div><p><a name="Section0"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="AboutTreesLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">About Our Trees for Knowledge Campaign</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="AboutTreesDescLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Worldwide carbon dioxide emissions have more than doubled over the last 10 years, and too much carbon dioxide in the atmosphere may be one of the major causes of global warming. But planting trees can help reduce the effects of carbon dioxide. That’s why comScore has partnered with Trees for the Future to establish our Trees for Knowledge campaign. Since 1988, Trees for the Future has helped thousands of communities in Central America, Africa, and Asia improve their livelihoods and their environment by planting nearly 50 million trees. Working with Trees for the Future, we have donated millions of trees on behalf of members of our research community, so that we are not only improving the Internet, we’re improving the environment as well.
+</div></div><p><a name="Section0"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="ULALabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">PRIVACY POLICY, USER LICENSE AGREEMENT, AND PATENT NOTICE</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="ULADescLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Before joining our program, enjoying the benefits of this program, and installing our application, you must review and agree to the terms and conditions below and provide and obtain consent to this agreement from anyone who will be using the computers on which you install this application. By installing our application, you agree to be bound by this privacy policy &amp; user license agreement, including the storage of the market research information provided by you on our computer systems in the United States.</div></div><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="ReqParticipationLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Requirements for participation</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="ReqParticipationDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">In order to participate in this program, you must:</div> <br><ul class="C_TD" style="margin-top: 4px; margin-bottom: 14px;"><div data-contentkey="ReqParticipationDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline"><li>Be at least 18 years of age and capable of entering into a binding agreement;</li>
+<li>Be the parent or legal guardian of anyone under 18 having access to such computer;</li>
+<li>Own or control the computers that you allow to be configured to use this system;</li>
+<li>If your household subscribes to a TV service, be the TV service subscriber for your household, or be authorized to enter into this agreement on behalf of that TV service subscriber;</li>
+<li>Not be employed or related to an individual employed by an unaffiliated market research company or online publisher; and</li>
+<li>Acknowledge and agree to allow the software to operate as described herein, including allowing the software to automatically upgrade provided that any such upgrades do not change the functionality of the software beyond what is described in this privacy policy and user license agreement.</li></div></ul><div data-contentkey="ReqParticipationDesc3Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Please note: many companies restrict the installation of software onto work computers. Before you install this software onto a work computer, please check your company’s software installation policy.</div></div><p><a name="Section2"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionOneLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What information is collected?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionOneDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Basic Demographic Information: When you sign up for this program, we may obtain your contact information and some basic demographic information about you using a questionnaire, information from companies through which you obtained or inquired about this program, or the application that you install onto your computer and allow to track your Internet usage.</div><br><br><div data-contentkey="QuestionOneDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Survey response information: Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website.</div><br><br><div data-contentkey="QuestionOneDesc3Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Computer hardware, software, and other configuration information: Our application may collect general hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer and your network, such as the type of printer or router you may be using.</div><br><br><div data-contentkey="QuestionOneDesc4Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">TV and Mobility Data: Your TV Data includes items such as the channels and programs you watch and record, when the TV and set-top box are turned on and off, the on-demand programming you order, the interactive TV applications you use and other similar information. Your Mobility Data includes information about your use of your mobile device, such as the type and configuration of your mobile phone, the websites you visit on your device, the date and time of those visits and use, as well as other similar information.</div><br><br><div data-contentkey="QuestionOneDesc5Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Your agreement to participate on this panel includes your agreement that we may collect your TV Data and Mobility Data directly from your TV and Mobility service providers and you expressly authorize those service providers to supply that information to us on your behalf. You also agree that we may integrate that information with the other data you provide us and that we obtain about you as part of this research community.</div><br><br><div data-contentkey="QuestionOneDesc6Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Internet usage information: Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. Our application may also collect information regarding the cookies that exist on your computer. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information.</div><br><br><div data-contentkey="QuestionOneDesc7Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Our application will review the content of all web pages you visit and select e-mail header information from web based emails. We may provide our clients with information allowing them to verify the context and location in which their content was displayed on individual web pages. In addition to information collected through our application, we may also collect data about your Internet use from third-parties, including search engines, email providers, social networks and other application service providers whose Internet sites you visit. We will keep the information that our software collects for as long as there is a business need, and we will then dispose of it.</div></div><p><a name="Section3"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionTwoLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">How is the information collected?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwoDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">This application monitors your Internet usage by transmitting to our servers information about the web pages that you visit and the actions that you take while online.</div><br><br><div data-contentkey="QuestionTwoDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Consequently, the software may communicate with our servers while you are connected to but not browsing the Internet. Such communications could include the transmission of collected data as outlined in this privacy policy, or it could include incoming instructions for our software. For example, our servers need to tell our software about survey opportunities, so that we can provide you with invitations where you can take a survey in exchange for sweepstake entries, cash, or other prizes.</div><br><br><div data-contentkey="QuestionTwoDesc3Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">In addition, we may ask for information about you using surveys, for which participation is completely voluntary. We may also combine the information that you provide us with information obtained from other sources (such as consumer preference reporting companies, credit reporting agencies and companies that collect TV viewing information) using confidential matching procedures. In these cases, we will: (i) provide a data match processor with only the personal information necessary to perform a match and, infrequently, to assist us performing statistical analyses; (ii) establish procedures and legal obligations that prohibit use of the information received for any other purpose or disclosure of this information to anyone else; and (iii) require destruction of the received information after completion of the match and analysis. You also agree that we may use the information we have collected from you to identify your use of search engines, email providers, social networks and other application service providers whose Internet sites you visit. Your agreement to this policy shall serve as your consent to allow us to request data about your online activities from these third-parties and to combine that information with the information that you provide us directly or through the software.</div><br><br><div data-contentkey="QuestionTwoDesc4Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">You further agree that we may use third party service providers, including your TV or mobile service provider to obtain other on-line data, TV viewing, or mobile usage information and that we may integrate such data with the data that you provide us as part of this research community, provided that the acquisition and processing of such information adheres to the privacy principles included in this privacy policy and user license agreement.</div><br><br><div data-contentkey="QuestionTwoDesc5Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">The software will collect information on the types of applications you use and general statistics on how you use them. So, for instance, you may open a word processor, and our software would collect information on what type of word processing software that you are using, and how long the word processor was open, but it would not have any knowledge of what was typed in the word processor.
+</div> <br><br><div data-contentkey="QuestionTwoDesc6Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Your information is stored in the United States where our central database is operated. The data protection and other laws of other countries may differ from those of the United States. Your information may be processed outside of the United States, provided that the data protection laws of such processing location affords similar if not more protections than those afforded in the United States for the processed data.</div></div><p><a name="Section4"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionThreeLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">How is the collected information used?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionThreeDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Market Research Reports: Applying concepts similar to those used by television-rating services, we use the information collected through our application and your survey responses, combined with information from other sources, to make statistically-based projections about current and future Internet user behavior and, more generally, to extrapolate data about potential economic trends. For certain commercial customers, we may provide individual-level information. We make this data available so that these customers may enhance their own understanding of Internet usage and online commercial trends. In all cases when providing these market research reports, we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers from the data being provided.</div><br><br><div data-contentkey="QuestionThreeDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Our customers use our market research reports to: (i) modify online services and offerings; (ii) make more effective use of online data to understand both online and offline commercial behavior; and (iii) discern general economic trends and the business performance of specific entities for a wide range of business purposes including, but not limited to, identifying financial investment opportunities and understanding the value and interest in certain business enterprises.</div><br><br><div data-contentkey="QuestionThreeDesc3Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">By Service Providers: From time to time, we may share your contact information with those third parties who help us deliver this program to you (for example, companies that administer incentive programs). We may also share information with Service Providers who &nbsp;help us enhance our data, such as providing additional demographic information. &nbsp;In either of these cases, we provide only the necessary information for the service provider to perform its assigned function, and we contractually prohibit the use or disclosure of this information to anyone else unless you authorize it.</div><br><br><div data-contentkey="QuestionThreeDesc4Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">As Required by Law: In rare cases, and as is done by any other business, if we are compelled to disclose certain information through a valid legal process, such as a court order, subpoena, or a search warrant, we would do so. However, we would comply by providing only the minimum information necessary.</div></div><p><a name="Section5"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionFourLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">How is the information secured?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionFourDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Safeguards: We have implemented a variety of safeguards (including physical, digital, and legal protections) focused on ensuring that the information collected through this program is protected from unauthorized use, modification, or disclosure. For example, any secure information collected by our application is encrypted before it is sent to our servers. Moreover, our employees are subjected to periodic evaluation and investigation, are contractually restricted on their use and access to personally identifiable information, and are educated and retrained as needed on internal security policies and procedures.</div><br><br><div data-contentkey="QuestionFourDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">If you would like to access, modify, and/or request deletion of the personally identifiable profile information submitted by you as part of this program, you may complete a support form on our website, or e-mail our support staff at the e-mail address provided below.</div></div><p><a name="Section6"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionFiveLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Does the application use cookies?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionFiveDescLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">We do not use our cookies to store or acquire data about you; however, we do use cookies to assist us in conducting occasional diagnostic tests to ensure that our system is functioning correctly.</div></div><p><a name="Section7"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionSixLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What privacy commitments are made relating to specific participant benefits?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionSixDescLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Please refer to our program’s web site, which lays out the privacy commitments that we make for the various participant benefits we offer. The terms of these commitments are incorporated into this agreement. Please note that each incentive program may have its own set of rules applicable to that particular offering; these rules are made available to you before you choose to participate.</div></div><p><a name="Section8"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionSevenLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What if I wish to stop participating in this program?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionSevenDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “ <a href="Remove.aspx?terminate_services=y">Terminate all PermissionResearch Services</a>” link from the Members section on your panel’s web page (where applicable).</div><br><br><div data-contentkey="QuestionSevenDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated.</div><br><br><div data-contentkey="QuestionSevenDesc3Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Use of Third Party Programs to Remove our Software: Please note that use of third party programs to remove this application may cause instability in your system and to your Internet connection. We reserve the right to repair any of its settings that are partially removed, to minimize potential instability. In fact, our software will inspect itself and make repairs when necessary. This action is not done to try and stop you from uninstalling our software, it is only done to assure that our software is operating properly on your computer and does not cause technical problems. This ability to upgrade or repair corrupted files in no way impedes your ability to delete the program. Once the program has been has been uninstalled through the Windows Add/Remove Programs function, the application will be removed, so that no updates or repairs may be made. So, should you wish to resign, we ask that you use the instructions provided above.</div> <br><br><div data-contentkey="QuestionSevenDesc4Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Stop Participating in Surveys: You may contact us at the support address listed below to alter how you receive, or to completely stop receiving, surveys, or you can edit your survey preferences at the Members section on your panel’s web page (where applicable).</div> <br><br><div data-contentkey="QuestionSevenDesc5Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Please note: we may continue to use information collected prior to resignation, but all such information remains fully subject to, and governed by, the agreement effective at the time of your resignation.</div></div><p><a name="Section9"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionEightLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What is the policy regarding children?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionEightDescLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">All persons installing this application must be at least 18 years old and must be the parent or legal guardian of any minor that may use a computer with this application installed. However, all household Internet behavior may be used by us in developing the statistical projections. This program complies with all applicable U.S. data gathering rules, including the Children's Online Privacy Protection Act (COPPA).</div></div><p><a name="Section10"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionNineLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">How will I be notified of changes to this Agreement?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionNineDescLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">If we change our practices in how we handle personally identifiable information, or if we materially change other aspects of our program, including but not limited to any changes to the scope or nature of incentives provided, we will post these changes on our website, and the changes will be effective immediately upon such posting. If you do not agree with any of the changes, you may remove our application as described above.</div></div><div class="C_TD" style="margin-bottom: 14px;"><a name="Section11"></a><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionTenLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What are my obligations as a participant?</div></div><div data-contentkey="QuestionTenDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">As a participant, you agree to: </div><br><ul class="C_TD" style="margin-top: 4px; margin-bottom: 14px;"><div data-contentkey="QuestionTenDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline"><li>Allow this program to collect and use information obtained from you and related to you and your household's Internet use as described in this agreement;</li>
+<li>Make reasonable efforts to ensure that any other person who uses such computers and uses the TV services available to your household is aware of and agrees to the terms of this agreement;</li>
+<li>Accept automatic changes to your system settings that are made solely to ensure compatibility between your computer system and this program, and periodic software upgrades;</li>
+<li>Receive administrative e-mails, including e-mails sent to: (i) inform you about upgrades, or issues related to basic program/application functions or disruptions; (ii) provide notification about awards and special participant opportunities; (iii) request updated demographic information or information regarding usage of the application; and</li>
+<li>Regularly visit and review the agreement posted on this website, so that you are aware of any changes made to this agreement.</li></div></ul><div data-contentkey="QuestionTenDesc3Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">As a participant, you agree not to: </div><br><ul class="C_TD" style="margin-top: 4px; margin-bottom: 14px;"><div data-contentkey="QuestionTenDesc4Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline"><li>Use this program in any way that: (i) harms or harasses others; (ii) violates any federal, state or local laws or ordinances; (iii) violates or infringes on the rights of any third parties including, but not limited to, copyright, trademark, patent, trade secret, rights of privacy or publicity or other proprietary right; or (iv) interferes with or disrupts this program;</li>
+<li>Attempt to reverse engineer, decompile, or disassemble the program;</li>
+<li>Sign up for more than one account; and</li>
+<li>Attempt to defeat or circumvent our application, it being your responsibility to remove this application as instructed in this agreement or expressly by an authorized service representative.</li></div></ul></div><div class="C_TD" style="margin-bottom: 14px;"><a name="Section12"></a><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionElevenLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What is our commitment to participants?</div></div><div data-contentkey="QuestionElevenDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">We commit to making commercially reasonable efforts to do the following:</div><br><ul class="C_TD" style="margin-top: 4px; margin-bottom: 14px;"><div data-contentkey="QuestionElevenDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline"><li>Only use information obtained from or about you as described in this agreement;</li>
+<li>From time to time, commission the services of third parties to verify that this program is keeping its privacy commitments to you; and</li>
+<li>Provide customer support when you experience problems with this program, on the condition that you provide requested information about the problems experienced and the conditions of your computer environment, and agree to take reasonable efforts to follow the instructions supplied by our support staff.</li></div></ul></div><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="PatentNoticeLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Patent Notice</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="PatentNoticeDescLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Our application incorporates and implements patented technologies. For more information visit <a href="http://www.comscore.com/patents">http://www.comscore.com/patents</a>.</div></div><p><a name="Section13"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionTwelveLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">What are the other legal terms and conditions of participating in this program?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwelveDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Governing Law: You agree that any dispute or claim arising out of this program or agreement shall be settled by binding arbitration in Fairfax County, Virginia under the American Arbitration Association Rules. The proceedings shall be conducted and all evidence shall be offered in the English language. Regardless of any law to the contrary, any claim against us must be filed within one year of the time such claim arose, otherwise such claim will be barred forever. We agree that regardless of any law to the contrary, that the arbitrator shall have no authority to award, punitive or exemplary damages against any party to this agreement.</div><br><br><div data-contentkey="QuestionTwelveDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Notwithstanding the above, we may apply to any court of competent jurisdiction for a temporary restraining order or other interim relief, as necessary without breach of this agreement and without abridgment of the powers of the arbitrator.</div><br><br><div data-contentkey="QuestionTwelveDesc3Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA, WITHOUT REGARD TO CONFLICTS OF LAWS PROVISIONS AND SUCH LAW SHALL BE APPLIED BY THE ARBITRATOR TO THE MERITS OF ANY DISPUTE OR CLAIM. FOR ANY NON-ARBITRAL ACTION OR PROCEEDING ARISING OUT OF OR RELATED TO THIS PROGRAM OR THIS AGREEMENT, SOLE AND EXCLUSIVE JURISDICTION SHALL RESIDE WITH THE APPROPRIATE STATE COURT LOCATED IN FAIRFAX COUNTY, VIRGINIA OR FEDERAL COURT LOCATED IN ALEXANDRIA, VIRGINIA.</div><br><br><div data-contentkey="QuestionTwelveDesc4Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">While this program is available on the Internet to international users, the program is and remains a U.S. offering and all use of the information collected is and shall remain subject to U.S. law and practice. International users must take this into account and should consult their local laws and independently determine whether participation is desired given these facts.</div><br><br><div data-contentkey="QuestionTwelveDesc5Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">TMRG, Inc., complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TMRG, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TMRG, Inc.’s certification, please visit <a href="http://export.gov/safeharbor/">http://export.gov/safeharbor/</a>.</div><br><br><div data-contentkey="QuestionTwelveDesc6Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law. Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwelveDesc7Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Third Party Rights: This agreement shall not create any rights or remedies in any parties other than the parties to the agreement and no person shall assert any rights as a third party beneficiary under this agreement.</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwelveDesc8Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Assignment: You may not assign this agreement or any rights or obligations under this agreement without our prior written approval.</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwelveDesc9Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Waiver: The failure of us to exercise or enforce any right or provision of the Agreement shall not constitute a waiver of such right or provision.</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwelveDesc10Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Severability: If any provision of this agreement is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. In any event, the remaining provisions shall be enforced.</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwelveDesc11Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Indemnity: You agree to defend, indemnify and hold our company and our affiliates, officers, directors, and employees harmless from and against any and all claims, losses, damages, liabilities and costs including without limitation, reasonable attorney’s fees, arising out of or relating to your breach of this Agreement or misuse of this program.</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwelveDesc12Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Disclaimers of Warranty: YOU ACKNOWLEDGE THAT THIS PROGRAM AND ALL SOFTWARE, CHANGES TO YOUR COMPUTER, FUNCTIONS, MATERIALS AND INFORMATION MADE AVAILABLE AS PART OF THIS PROGRAM ARE PROVIDED ‘AS IS.' OUR COMPANY, ITS SERVICE PROVIDERS, AND AFFILIATES DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.</div><br><br><div data-contentkey="QuestionTwelveDesc13Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">UNDER NO CIRCUMSTANCES WILL OUR COMPANY, ITS SERVICE PROVIDERS OR AFFILIATES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THE PROGRAM, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES RESULTING IN ANY WAY FROM THIS PROGRAM. THE TERMS OF THIS SECTION WILL SURVIVE ANY TERMINATION OF THIS AGREEMENT. IN JURISDICTIONS WHICH RESTRICT LIMITATION OF LIABILITY OR DISCLAIMER OF WARRANTY PROVISIONS, OUR COMPANY’S LIABILITY WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW. THIS LIMITATION WILL APPLY REGARDLESS OF THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwelveDesc14Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Third Party Products and Services: We neither endorse nor accept responsibility for any third party materials accessed through the Internet.</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionTwelveDesc15Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.</div><br><br><div data-contentkey="QuestionTwelveDesc16Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">PermissionResearch does not react to Do Not Track signals because there is no standard for how those signals are sent. This site may employ the ScorecardResearch service, and you may control your level of participation in ScorecardResearch’s market research programs by visiting here: <a href="http://www.scorecardresearch.com/preferences.aspx">http://www.scorecardresearch.com/preferences.aspx</a></div><br><br><div data-contentkey="QuestionTwelveDesc17Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">This Agreement is effective as of September 23, 2014</div></div><p><a name="Section23"></a></p><div class="C_H1" style="margin-top: 20px;"><div data-contentkey="QuestionThirteenLabel" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Whom can I contact if I have additional questions?</div></div><div class="C_TD" style="margin-bottom: 14px;"><div data-contentkey="QuestionThirteenDesc1Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">The program sponsor is TMRG, Inc., a Delaware, U.S.A. corporation. If you have any questions about the above Privacy Statement &amp; User License Agreement, our practices or your interactions with this site and this program, you may contact the program sponsor at: </div><br><br><div data-contentkey="QuestionThirteenDesc2Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">privacy@tmrginc.com</div><br><div data-contentkey="QuestionThirteenDesc3Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Privacy Office</div><br><div data-contentkey="QuestionThirteenDesc4Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">11950 Democracy Drive</div><br><div data-contentkey="QuestionThirteenDesc5Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Suite 600</div><br><div data-contentkey="QuestionThirteenDesc6Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">Reston, VA 20190<br>
+USA</div><br><br><div data-contentkey="QuestionThirteenDesc7Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">For any support issues, please contact: support@tmrginc.com.</div><br><br><div data-contentkey="QuestionThirteenDesc8Label" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline">LP 1509</div></div></td></tr><tr><td><div data-contentkey="FooterSeals" data-page="16" data-siteid="5001" data-languageid="1" style="display:inline"><table width="100%">
+<tbody>
+<tr>
+<td align="right"><a oncontextmenu="return tg_context();" onclick="return open_tg_cert(this);" href="http://secure.trust-guard.com/certificates/4734" target="_blank" name="trustlink"> <img style="border: 0px currentColor;" src="http://seals.trust-guard.com/privacy-4734-small-gray.gif" alt="Privacy Verified" name="trustseal"> </a></td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td align="right"><img src="images/PR/pr2_ReliabilitySeal.gif" alt=""></td>
+</tr>
+</tbody>
+</table>
+</div></td></tr></tbody></table> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
 
-<!--  IEHack.js : This provides a solution to the IE hover over problem-->
-<script src="https://www.permissionresearch.com/Common/IEHack.js" type="text/javascript"></script> 
-
-
-<script language="JavaScript">
-    var previousLang;
-    var previousCountry;
-
-    var allowable_language = new Array();
-    function AddCountryLanguage(allowable_languages) {
-        allowable_language[allowable_language.length] = allowable_languages;
-    }
-
-    var language = new Array();
-    function AddLanguage(language_name, language_id) {
-        language[language_id] = language_name;
-    }
-
-    function ProcessCountryLanguage() {
-
-        if (document.forms[0].country != null) {
-            var sPath = window.location.pathname;
-            var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
-            var countrySelect = document.forms[0].country;
-            var langSelect = document.forms[0].language;
-            var allowable_lang = allowable_language[countrySelect.selectedIndex];
-            var selected_lang = langSelect[langSelect.selectedIndex].value;
-
-            langSelect.length = 0;
-            var split_allowable = allowable_lang.split(',');
-
-            for (var i = 0; i < split_allowable.length; i++) {
-                langSelect.options[langSelect.options.length] = new Option(language[split_allowable[i]], split_allowable[i]);
-                if (split_allowable[i] == selected_lang) {
-                    langSelect.selectedIndex = langSelect.options.length - 1;
-                }
-            }
-
-            if ((typeof (previousLang) != 'undefined' && previousLang != langSelect[langSelect.selectedIndex].value) ||
-				     (typeof (previousCountry) != 'undefined' && previousCountry != countrySelect[countrySelect.selectedIndex].value)) {
-                previousCountry = countrySelect[countrySelect.selectedIndex].value;
-                previousLang = langSelect[langSelect.selectedIndex].value;
-              
-                ProcessHomePage(sPage, countrySelect[countrySelect.selectedIndex].value, langSelect[langSelect.selectedIndex].value);
-            }
-            previousCountry = countrySelect[countrySelect.selectedIndex].value;
-            previousLang = langSelect[langSelect.selectedIndex].value;
-        }
-    }
-
-    function ProcessHomePage(nextPage, newCountry, newLanguage) {
-        
-        if (newLanguage == '' || newLanguage == null) {
-            allowable_language[allowable_language.length] = allowable_languages;
-        }
-        
-        document.location = nextPage + '?newCountry=' + newCountry + '&newLanguage=' + newLanguage;
-    }
-
-    function ProcessLoginRequest(loginURL, userNameField, passwordField) {
-        document.forms[0].action = loginURL;
-        document.forms[0].tb_HouseholdId.value = document.forms[0][userNameField].value;
-        document.forms[0].tb_Password.value = document.forms[0][passwordField].value;
-        document.forms[0].submit();
-    }
-		</script>
-	
-<script language="javascript" type="text/javascript">
-
-     function createCookie(name, value, days) {
-         if (days) {
-             var date = new Date();
-             date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-             var expires = "; expires=" + date.toGMTString();
-         }
-         else {
-             var expires = "";
-         }
-
-         if ('5' == '5') {
-             var domain = "; domain=.permissionresearch.com";
-         }
-         else {
-             var domain = "";
-         }
-
-         document.cookie = name + "=" + value + expires + domain + "; path=/";
-     }
-
-     function readCookie(name) {
-         var nameEQ = name + "=";
-         var ca = document.cookie.split(';');
-         for (var i = 0; i < ca.length; i++) {
-             var c = ca[i];
-             while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-             if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-         }
-         return null;
-     }
-
-     function ParseLanguageTags(langtags) {
-         return langtags.substring(langtags.indexOf("x-ns1") + 5, langtags.indexOf(",")) + langtags.substring(langtags.indexOf("x-ns2") + 5, langtags.length);
-     }
-
-     function ConfigCheck() {
-         if (typeof ossLang == 'undefined') {
-         }
-         else {
-             var machineid = ParseLanguageTags(ossLang);
-
-             var currentCookie = readCookie('csregwebv2Session');
-             var newCookie = currentCookie.replace('MachineId=', 'MachineId=' + machineid);
-
-             createCookie('csregwebv2Session', newCookie, null);
-         }
-
-         createCookie('machine_id_set_cookie', 'true', null);
-     }
-
-
-     var machine_id_set = readCookie('machine_id_set_cookie');
-     if (machine_id_set) {
-     }
-     else {
-         if ('False' == 'True') {
-             document.write(unescape("%3Cscript src='http://localhost:8254/config.oss.ossproxy/status.js' %3E%3C/script%3E"));
-
-             window.onload = ConfigCheck;
-         }
-     }
-
-    
-</script>
-
-<div id="header"><table border="0" width="110%" cellspacing="0" cellpadding="0"><tbody><tr><td><table border="0" width="91%" cellspacing="0" cellpadding="0"><tbody><tr><td width="377"><a href="Home.aspx"><img width="377" height="62" src="Images/PR/logo.gif"></a></td><td width="55"></td><td align="right" valign="bottom"><div class="lang"><fieldset><select name="country" class="" width="120" onchange="javascript:ProcessCountryLanguage();"><option selected="true" value="US">United States</option><script language="javascript">
-							AddCountryLanguage('1,4');							
-						</script><option value="AF">Afghanistan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AL">Albania</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="DZ">Algeria</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AS">American Samoa</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AD">Andorra</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AO">Angola</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AI">Anguilla</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AG">Antigua and Barbuda</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AR">Argentina</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="AM">Armenia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AW">Aruba</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AU">Australia</option><script language="javascript">
-							AddCountryLanguage('27');							
-						</script><option value="AT">Austria</option><script language="javascript">
-							AddCountryLanguage('3');							
-						</script><option value="AZ">Azerbaijan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BS">The Bahamas</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BH">Bahrain</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BD">Bangladesh</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BB">Barbados</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BY">Belarus</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BE">Belgium</option><script language="javascript">
-							AddCountryLanguage('2,18');							
-						</script><option value="BZ">Belize</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BJ">Benin</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BM">Bermuda</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BT">Bhutan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BO">Bolivia</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="BA">Bosnia and Herzegovina</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BW">Botswana</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BR">Brazil</option><script language="javascript">
-							AddCountryLanguage('5');							
-						</script><option value="BN">Brunei</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BG">Bulgaria</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BF">Burkina Faso</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="BI">Burundi</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="KH">Cambodia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CM">Cameroon</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CA">Canada</option><script language="javascript">
-							AddCountryLanguage('15,13');							
-						</script><option value="CV">Cape Verde</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="KY">Cayman Islands</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CF">Central African Republic</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TD">Chad</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CL">Chile</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="CN">China</option><script language="javascript">
-							AddCountryLanguage('19');							
-						</script><option value="CO">Colombia</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="KM">Comoros</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CG">Congo-Brazzaville</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CD">Democratic Republic of the Congo</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CR">Costa Rica</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CI">Côte d'Ivoire</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="HR">Croatia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CU">Cuba</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CY">Cyprus</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CZ">Czech Republic</option><script language="javascript">
-							AddCountryLanguage('28');							
-						</script><option value="DK">Denmark</option><script language="javascript">
-							AddCountryLanguage('17');							
-						</script><option value="DJ">Djibouti</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="DM">Dominica</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="DO">Dominican Republic</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="EC">Ecuador</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="EG">Egypt</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SV">El Salvador</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GQ">Equatorial Guinea</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="ER">Eritrea</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="EE">Estonia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="ET">Ethiopia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="FO">Faeroe Islands</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="FJ">Fiji</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="FI">Finland</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="FR">France</option><script language="javascript">
-							AddCountryLanguage('2');							
-						</script><option value="GF">French Guiana</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="PF">French Polynesia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GA">Gabon</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GM">The Gambia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GE">Georgia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="DE">Germany</option><script language="javascript">
-							AddCountryLanguage('3');							
-						</script><option value="GH">Ghana</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GI">Gibraltar</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GR">Greece</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GL">Greenland</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GD">Grenada</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GP">Guadeloupe</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GU">Guam</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GT">Guatemala</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GN">Guinea</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GW">Guinea-Bissau</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GY">Guyana</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="HT">Haiti</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="HN">Honduras</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="HK">Hong Kong</option><script language="javascript">
-							AddCountryLanguage('20');							
-						</script><option value="HU">Hungary</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="IS">Iceland</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="IN">India</option><script language="javascript">
-							AddCountryLanguage('11');							
-						</script><option value="ID">Indonesia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="IR">Iran</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="IQ">Iraq</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="IE">Ireland</option><script language="javascript">
-							AddCountryLanguage('26');							
-						</script><option value="IL">Israel</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="IT">Italy</option><script language="javascript">
-							AddCountryLanguage('7');							
-						</script><option value="JM">Jamaica</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="JP">Japan</option><script language="javascript">
-							AddCountryLanguage('9');							
-						</script><option value="JO">Jordan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="KZ">Kazakhstan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="KE">Kenya</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="KI">Kiribati</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="KP">North Korea</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="KR">South Korea</option><script language="javascript">
-							AddCountryLanguage('8');							
-						</script><option value="KW">Kuwait</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="KG">Kyrgyzstan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="LA">Laos</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="LV">Latvia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="LB">Lebanon</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="LS">Lesotho</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="LR">Liberia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="LY">Libya</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="LT">Lithuania</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="LU">Luxembourg</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MO">Macau</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MK">Macedonia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MG">Madagascar</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MW">Malawi</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MY">Malaysia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MV">Maldives</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="ML">Mali</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MT">Malta</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MH">Marshall Islands</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MQ">Martinique</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MR">Mauritania</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MU">Mauritius</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="YT">Mayotte</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MX">Mexico</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="FM">Micronesia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MD">Moldova</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MN">Mongolia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MA">Morocco</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MZ">Mozambique</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MM">Myanmar</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="NA">Namibia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="NP">Nepal</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="NL">Netherlands</option><script language="javascript">
-							AddCountryLanguage('18');							
-						</script><option value="AN">Netherlands Antilles</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="NC">New Caledonia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="NZ">New Zealand</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="NI">Nicaragua</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="NE">Niger</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="NG">Nigeria</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="MP">Northern Marianas</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="NO">Norway</option><script language="javascript">
-							AddCountryLanguage('22');							
-						</script><option value="OM">Oman</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="PK">Pakistan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="PA">Panama</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="PG">Papua New Guinea</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="PY">Paraguay</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="PE">Peru</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="PH">Philippines</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="PL">Poland</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="PT">Portugal</option><script language="javascript">
-							AddCountryLanguage('12');							
-						</script><option value="PR">Puerto Rico</option><script language="javascript">
-							AddCountryLanguage('11,14');							
-						</script><option value="QA">Qatar</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="RE">Réunion</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="RO">Romania</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="RU">Russia</option><script language="javascript">
-							AddCountryLanguage('24');							
-						</script><option value="RW">Rwanda</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="KN">Saint Kitts and Nevis</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="LC">Saint Lucia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="VC">Saint Vincent and the Grenadines</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="WS">Samoa</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="ST">São Tomé and Príncipe</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SA">Saudi Arabia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SN">Senegal</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SC">Seychelles</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SL">Sierra Leone</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SG">Singapore</option><script language="javascript">
-							AddCountryLanguage('11,19');							
-						</script><option value="SK">Slovakia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SI">Slovenia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SB">Solomon Islands</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SO">Somalia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="ZA">South Africa</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="ES">Spain</option><script language="javascript">
-							AddCountryLanguage('16');							
-						</script><option value="LK">Sri Lanka</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SD">Sudan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SR">Suriname</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SZ">Swaziland</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="SE">Sweden</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="CH">Switzerland</option><script language="javascript">
-							AddCountryLanguage('3,2,7');							
-						</script><option value="SY">Syria</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TW">Taiwan</option><script language="javascript">
-							AddCountryLanguage('20');							
-						</script><option value="TJ">Tajikistan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TZ">Tanzania</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TH">Thailand</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TG">Togo</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TO">Tonga</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TT">Trinidad and Tobago</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TN">Tunisia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TR">Turkey</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="TM">Turkmenistan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="UG">Uganda</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="UA">Ukraine</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="AE">United Arab Emirates</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="GB">United Kingdom</option><script language="javascript">
-							AddCountryLanguage('10');							
-						</script><option value="UY">Uruguay</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="UZ">Uzbekistan</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="VU">Vanuatu</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="VE">Venezuela</option><script language="javascript">
-							AddCountryLanguage('14');							
-						</script><option value="VN">Vietnam</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="VG">British Virgin Islands</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="VI">US Virgin Islands</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="YE">Yemen</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="YU">Yugoslavia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="ZM">Zambia</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script><option value="ZW">Zimbabwe</option><script language="javascript">
-							AddCountryLanguage('11');	
-						</script></select><select name="language" class="" width="120" onchange="javascript:ProcessHomePage('privacy.aspx', document.forms[0].country.value, document.forms[0].language.value);"><script language="javascript">
-						AddLanguage('English',1);
-				</script><script language="javascript">
-						AddLanguage('English',10);
-				</script><script language="javascript">
-						AddLanguage('English',11);
-				</script><script language="javascript">
-						AddLanguage('English',15);
-				</script><script language="javascript">
-						AddLanguage('Spanish',4);
-				</script><script language="javascript">
-						AddLanguage('Spanish',14);
-				</script><script language="javascript">
-						AddLanguage('Spanish',16);
-				</script><script language="javascript">
-						AddLanguage('French',2);
-				</script><script language="javascript">
-						AddLanguage('French',13);
-				</script><script language="javascript">
-						AddLanguage('German',3);
-				</script><script language="javascript">
-						AddLanguage('Portuguese',5);
-				</script><script language="javascript">
-						AddLanguage('Portuguese',12);
-				</script><script language="javascript">
-						AddLanguage('Italian',7);
-				</script><script language="javascript">
-						AddLanguage('Korean',8);
-				</script><script language="javascript">
-						AddLanguage('Japanese',9);
-				</script><script language="javascript">
-						AddLanguage('Danish',17);
-				</script><script language="javascript">
-						AddLanguage('Chinese',19);
-				</script><script language="javascript">
-						AddLanguage('Chinese',20);
-				</script><script language="javascript">
-						AddLanguage('Dutch',18);
-				</script><script language="javascript">
-						AddLanguage('Russian',24);
-				</script><script language="javascript">
-						AddLanguage('English',26);
-				</script><script language="javascript">
-						AddLanguage('English',27);
-				</script><script language="javascript">
-						AddLanguage('Czech',28);
-				</script><script language="javascript">
-						AddLanguage('English',22);
-				</script><option value="1">English</option><option value="4">Spanish</option></select></fieldset></div></td></tr></tbody></table></td></tr><tr><td colspan="2"><ul id="nav"><li id="2_1_1"><a href="home.aspx">home</a></li><li id="2_1_2"><a href="about.aspx">overview</a></li><li id="2_1_3"><a href="abouttrees.aspx">trees for knowledge</a></li><li id="2_1_4"><a href="benefits.aspx">member benefits</a></li><li id="2_1_5"><a href="members.aspx">members</a></li><li id="2_1_6"><a href="PRParatureSupportRDT.aspx">help</a></li><li id="2_1_7"><a href="privacy.aspx">privacy policy and ula</a></li><li id="2_1_7"><a href="faq.aspx">faqs</a></li></ul></td></tr></tbody></table><script type="text/javascript">
-                        $(document).ready(function() {
-                        $("li#2_1_1").css("background-image", "none");
-                        $("li#22_1_1").css("background-image", "none");
-                        });
-                      </script><script language="javascript">
-                    ProcessCountryLanguage();
-                  </script></div>
-
-
-</td>
-				</tr>
-				<tr valign="top">
-					<!--?xml version="1.0" encoding="utf-8"?--><td>
-      </td>
-
-					<td align="center"><div id="main" align="center"><div class="main-holder"><div class="main-frame"><table width="100%" border="0" bgcolor="white" class="C_TD" align="center" cellpadding="10" cellspacing="10"><tbody><tr><td><table class="C_TD" width="100%" valign="top" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><a href="https://safeharbor.export.gov/list.aspx">We self-certify compliance with</a></td></tr><tr><td align="right"><a href="http://export.gov/safeharbor/"><img style="width:155px;height:63px" src="Images/PR/SafeHarborLogo.jpg"></a></td></tr></tbody></table><div class="C_H1">Your Privacy Matters</div><a href="#Section0">About Our Trees for Knowledge Campaign</a><br><a href="#Section0">PRIVACY POLICY, USER LICENSE AGREEMENT, AND PATENT NOTICE</a><br><a href="#Section2">What information is collected?</a><br><a href="#Section3">How is the information collected?</a><br><a href="#Section4">How is the collected information used?</a><br><a href="#Section5">How is the information secured?</a><br><a href="#Section6">Does the application use cookies?</a><br><a href="#Section7">What privacy commitments are made relating to specific participant benefits?</a><br><a href="#Section8">What if I wish to stop participating in this program?</a><br><a href="#Section9">What is the policy regarding children?</a><br><a href="#Section10">How will I be notified of changes to this Agreement?</a><br><a href="#Section11">What are my obligations as a participant?</a><br><a href="#Section12">What is our commitment to participants?</a><br><a href="#Section13">What are the other legal terms and conditions of participating in this program?</a><br><a href="#Section23">Whom can I contact if I have additional questions?</a><br><br><div class="C_H1">About Us</div><div class="C_TD">Our online market research community has millions of participants who are interested in voicing their opinions through surveys and in influencing which products and services are offered on the Internet.  Panelists allow their online browsing, hardware and application usage, and purchasing behavior (including content of visited web pages) to be passively collected and used as part of anonymous research reports that pinpoint what is popular with consumers.  The information you contribute is used by comScore, Inc., a globally-recognized market research authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNN.  The data are extensively relied upon by the largest Internet services companies and scores of Fortune 500 companies to improve their online offerings.<br><br>The protection of your privacy is one of our top priorities. While voluntary participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, <u>the personally identifiable information you provide to us will NOT be used by us, or anyone with whom we do business, to advertise or market products or services to you!</u><br><br></div><a name="Section0"></a><div class="C_H1">About Our Trees for Knowledge Campaign</div><div class="C_TD">Worldwide carbon dioxide emissions have more than doubled over the last 10 years, and too much carbon dioxide in the atmosphere may be one of the major causes of global warming. But planting trees can help reduce the effects of carbon dioxide. That’s why comScore has partnered with Trees for the Future to establish our Trees for Knowledge campaign. Since 1988, Trees for the Future has helped thousands of communities in Central America, Africa, and Asia improve their livelihoods and their environment by planting nearly 50 million trees. Working with Trees for the Future, we have donated millions of trees on behalf of members of our research community, so that we are not only improving the Internet, we’re improving the environment as well.<br><br></div><a name="Section0"></a><div class="C_H1">PRIVACY POLICY, USER LICENSE AGREEMENT, AND PATENT NOTICE</div><div class="C_TD">Before joining our program, enjoying the benefits of this program, and installing our application, you must review and agree to the terms and conditions below and provide and obtain consent to this agreement from anyone who will be using the computers on which you install this application. By installing our application, you agree to be bound by this privacy policy &amp; user license agreement, including the storage of the market research information provided by you on our computer systems in the United States.<br><br></div><div><a href="#top">Return to Top</a><br><br></div><div class="C_H1">Requirements for participation</div><div class="C_TD">In order to participate in this program, you must:<br><ul style="margin-top:4px;margin-bottom:4px;" class="C_TD"><li>Be at least 18 years of age and capable of entering into a binding agreement;</li><li>Be the parent or legal guardian of anyone under 18 having access to such computer;</li><li>Own or control the computers that you allow to be configured to use this system;</li><li>If your household subscribes to a TV service, be the TV service subscriber for your household, or be authorized to enter into this agreement on behalf of that TV service subscriber;</li><li>Not be employed or related to an individual employed by an unaffiliated market research company or online publisher; and</li><li>Acknowledge and agree to allow the software to operate as described herein, including allowing the software to automatically upgrade provided that any such upgrades do not change the functionality of the software beyond what is described in this privacy policy and user license agreement.</li></ul><br>Please note: many companies restrict the installation of software onto work computers. Before you install this software onto a work computer, please check your company’s software installation policy.
-            <br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section2"></a><div class="C_H1">What information is collected?</div><div class="C_TD">Basic Demographic Information: When you sign up for this program, we may obtain your contact information and some basic demographic information about you using a questionnaire, information from companies through which you obtained or inquired about this program, or the application that you install onto your computer and allow to track your Internet usage.<br><br>
-              Survey response information: Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website.
-            <br><br>
-              Computer hardware, software, and other configuration information: Our application may collect general hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer and your network, such as the type of printer or router you may be using.
-            <br><br>TV and Mobility Data: Your TV Data includes items such as the channels and programs you watch and record, when the TV and set-top box are turned on and off, the on-demand programming you order, the interactive TV applications you use and other similar information.  Your Mobility Data includes information about your use of your mobile device, such as the type and configuration of your mobile phone, the websites you visit on your device, the date and time of those visits and use, as well as other similar information.<br><br>Your agreement to participate on this panel includes your agreement that we may collect your TV Data and Mobility Data directly from your TV and Mobility service providers and you expressly authorize those service providers to supply that information to us on your behalf.  You also agree that we may integrate that information with the other data you provide us and that we obtain about you as part of this research community.<br><br>Internet usage information: Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. Our application may also collect information regarding the cookies that exist on your computer.  We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information.<br><br>
-              Our application will review the content of all web pages you visit and select e-mail header information from web based emails.  We may provide our clients with information allowing them to verify the context and location in which their content was displayed on individual web pages.  In addition to information collected through our application, we may also collect data about your Internet use from third-parties, including search engines, email providers, social networks and other application service providers whose Internet sites you visit. <br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section3"></a><div class="C_H1">How is the information collected?</div><div class="C_TD">This application monitors your Internet usage by transmitting to our servers information about the web pages that you visit and the actions that you take while online.<br><br>Consequently, the software may communicate with our servers while you are connected to but not browsing the Internet.  Such communications could include the transmission of collected data as outlined in this privacy policy, or it could include incoming instructions for our software.  For example, our servers need to tell our software about survey opportunities, so that we can provide you with invitations where you can take a survey in exchange for sweepstake entries, cash, or other prizes. <br><br>In addition, we may ask for information about you using surveys, for which participation is completely voluntary. We may also combine the information that you provide us with information obtained from other sources (such as consumer preference reporting companies, credit reporting agencies and companies that collect TV viewing information) using confidential matching procedures. In these cases, we will: (i) provide a data match processor with only the personal information necessary to perform a match and, infrequently, to assist us performing statistical analyses; (ii) establish procedures and legal obligations that prohibit use of the information received for any other purpose or disclosure of this information to anyone else; and (iii) require destruction of the received information after completion of the match and analysis.  You also agree that we may use the information we have collected from you to identify your use of search engines, email providers, social networks and other application service providers whose Internet sites you visit. Your agreement to this policy shall serve as your consent to allow us to request data about your online activities from these third-parties and to combine that information with the information that you provide us directly or through the software.<br><br>You further agree that we may use third party service providers, including your TV or mobile service provider to obtain other on-line data, TV viewing, or mobile usage information and that we may integrate such data with the data that you provide us as part of this research community, provided that the acquisition and processing of such information adheres to the privacy principles included in this privacy policy and user license agreement.<br><br>The software will collect information on the types of applications you use and general statistics on how you use them. So, for instance, you may open a word processor, and our software would collect information on what type of word processing software that you are using, and how long the word processor was open, but it would not have any knowledge of what was typed in the word processor.<br><br>Your information is stored in the United States where our central database is operated. The data protection and other laws of other countries may differ from those of the United States. Your information may be processed outside of the United States, provided that the data protection laws of such processing location affords similar if not more protections than those afforded in the United States for the processed data.<br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section4"></a><div class="C_H1">How is the collected information used?</div><div class="C_TD">Market Research Reports: Applying concepts similar to those used by television-rating services, we use the information collected through our application and your survey responses, combined with information from other sources, to make statistically-based projections about current and future Internet user behavior and, more generally, to extrapolate data about potential economic trends.  For certain commercial customers, we may provide individual-level information. We make this data available so that these customers may enhance their own understanding of Internet usage and online commercial trends.  In all cases, we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers from the data being provided.<br><br>Our customers use our market research reports to: (i) modify online services and offerings; (ii) make more effective use of online data to understand both online and offline commercial behavior; and (iii) discern general economic trends and the business performance of specific entities for a wide range of business purposes including, but not limited to, identifying financial investment opportunities and understanding the value and interest in certain business enterprises.<br><br>By Service Providers: From time to time, we may share your contact information with those third parties who help us deliver this program to you (for example, companies that administer incentive programs). When we do this, we provide only the necessary information for the service provider to perform its assigned function, and we contractually prohibit the use or disclosure of this information to anyone else unless you authorize it.<br><br>As Required by Law: In rare cases, and as is done by any other business, if we are compelled to disclose certain information through a valid legal process, such as a court order, subpoena, or a search warrant, we would do so. However, we would comply by providing only the minimum information necessary.<br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section5"></a><div class="C_H1">How is the information secured?</div><div class="C_TD">Safeguards: We have implemented a variety of safeguards (including physical, digital, and legal protections) focused on ensuring that the information collected through this program is protected from unauthorized use, modification, or disclosure. For example, any secure information collected by our application is encrypted before it is sent to our servers. Moreover, our employees are subjected to periodic evaluation and investigation, are contractually restricted on their use and access to personally identifiable information, and are educated and retrained as needed on internal security policies and procedures.<br><br>If you would like to access, modify, and/or request deletion of the personally identifiable profile information submitted by you as part of this program, you may complete a support form on our website, or e-mail our support staff at the e-mail address provided below.<br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section6"></a><div class="C_H1">Does the application use cookies?</div><div class="C_TD">We do not use our cookies to store or acquire data about you; however, we do use cookies to assist us in conducting occasional diagnostic tests to ensure that our system is functioning correctly.<br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section7"></a><div class="C_H1">What privacy commitments are made relating to specific participant benefits?</div><div class="C_TD">Please refer to our program’s web site, which lays out the privacy commitments that we make for the various participant benefits we offer. The terms of these commitments are incorporated into this agreement. Please note that each incentive program may have its own set of rules applicable to that particular offering; these rules are made available to you before you choose to participate.<br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section8"></a><div class="C_H1">What if I wish to stop participating in this program?</div><div class="C_TD">
-              Resignation:  You may resign at any time by contacting us at the support address listed below or by selecting the “<a href="Remove.aspx?terminate_services=y">Terminate all PermissionResearch Services</a>” link from the Members section on your panel’s web page (where applicable).
-            <br><br>Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application.  Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities.  After you remove our application from a computer, all settings we have made to your computer will be deactivated.<br><br>Use of Third Party Programs to Remove our Software: Please note that use of third party programs to remove this application may cause instability in your system and to your Internet connection. We reserve the right to repair any of its settings that are partially removed, to minimize potential instability. In fact, our software will inspect itself and make repairs when necessary.  This action is not done to try and stop you from uninstalling our software, it is only done to assure that our software is operating properly on your computer and does not cause technical problems.  This ability to upgrade or repair corrupted files in no way impedes your ability to delete the program.  Once the program has been has been uninstalled through the Windows Add/Remove Programs function, the application will be removed, so that no updates or repairs may be made. So, should you wish to resign, we ask that you use the instructions provided above.<br><br>Stop Participating in Surveys: You may contact us at the support address listed below to alter how you receive, or to completely stop receiving, surveys, or you can edit your survey preferences at the Members section on your panel’s web page (where applicable).<br><br>Please note: we may continue to use information collected prior to resignation, but all such information remains fully subject to, and governed by, the agreement effective at the time of your resignation.<br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section9"></a><div class="C_H1">What is the policy regarding children?</div><div class="C_TD">All persons installing this application must be at least 18 years old and must be the parent or legal guardian of any minor that may use a computer with this application installed. However, all household Internet behavior may be used by us in developing the statistical projections. This program complies with all applicable U.S. data gathering rules, including the Children's Online Privacy Protection Act (COPPA).<br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section10"></a><div class="C_H1">How will I be notified of changes to this Agreement?</div><div class="C_TD">If we change our practices in how we handle personally identifiable information, or if we materially change other aspects of our program, including but not limited to any changes to the scope or nature of incentives provided, we will post these changes on our website, and the changes will be effective immediately upon such posting. If you do not agree with any of the changes, you may remove our application as described above.<br><br></div><div><a href="#top">Return to Top</a><br><br></div><div class="C_TD"><a name="Section11"></a><div class="C_H1">What are my obligations as a participant?</div>As a participant, you agree to:<br><ul style="margin-top:4px;margin-bottom:4px;" class="C_TD"><li>Allow this program to collect and use information obtained from you and related to you and your household's Internet use as described in this agreement;</li><li>Make reasonable efforts to ensure that any other person who uses such computers and uses the TV services available to your household is aware of and agrees to the terms of this agreement; </li><li>Accept automatic changes to your system settings that are made solely to ensure compatibility between your computer system and this program, and periodic software upgrades;</li><li>Receive administrative e-mails, including e-mails sent to: (i) inform you about upgrades, or issues related to basic program/application functions or disruptions; (ii) provide notification about awards and special participant opportunities; (iii) request updated demographic information or information regarding usage of the application; and</li><li>Regularly visit and review the agreement posted on this website, so that you are aware of any changes made to this agreement.</li></ul><br>As a participant, you agree not to:<br><ul style="margin-top:4px;margin-bottom:4px;" class="C_TD"><li>Use this program in any way that: (i) harms or harasses others; (ii) violates any federal, state or local laws or ordinances; (iii) violates or infringes on the rights of any third parties including, but not limited to, copyright, trademark, patent, trade secret, rights of privacy or publicity or other proprietary right; or (iv) interferes with or disrupts this program;</li><li>Attempt to reverse engineer, decompile, or disassemble the program;</li><li>Sign up for more than one account; and </li><li>Attempt to defeat or circumvent our application, it being your responsibility to remove this application as instructed in this agreement or expressly by an authorized service representative.</li></ul><br></div><div><a href="#top">Return to Top</a><br><br></div><div class="C_TD"><a name="Section12"></a><div class="C_H1">What is our commitment to participants?</div>We commit to making commercially reasonable efforts to do the following:<br><ul style="margin-top:4px;margin-bottom:4px;" class="C_TD"><li>Only use information obtained from or about you as described in this agreement;</li><li>From time to time, commission the services of third parties to verify that this program is keeping its privacy commitments to you; and</li><li>Provide customer support when you experience problems with this program, on the condition that you provide requested information about the problems experienced and the conditions of your computer environment, and agree to take reasonable efforts to follow the instructions supplied by our support staff.</li></ul><br></div><div><a href="#top">Return to Top</a><br><br></div><div class="C_H1">Patent Notice<br><br></div><div class="C_TD">
-              Our application incorporates and implements patented technologies.  For more information visit <a href="http://www.comscore.com/patents">http://www.comscore.com/patents</a>.
-            <br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section13"></a><div class="C_H1">What are the other legal terms and conditions of participating in this program?</div><div class="C_TD">Governing Law: You agree that any dispute or claim arising out of this program or agreement shall be settled by binding arbitration in Fairfax County, Virginia under the American Arbitration Association Rules. The proceedings shall be conducted and all evidence shall be offered in the English language. Regardless of any law to the contrary, any claim against us must be filed within one year of the time such claim arose, otherwise such claim will be barred forever. We agree that regardless of any law to the contrary, that the arbitrator shall have no authority to award, punitive or exemplary damages against any party to this agreement.<br><br>Notwithstanding the above, we may apply to any court of competent jurisdiction for a temporary restraining order or other interim relief, as necessary without breach of this agreement and without abridgment of the powers of the arbitrator.<br><br>THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA, WITHOUT REGARD TO CONFLICTS OF LAWS PROVISIONS AND SUCH LAW SHALL BE APPLIED BY THE ARBITRATOR TO THE MERITS OF ANY DISPUTE OR CLAIM. FOR ANY NON-ARBITRAL ACTION OR PROCEEDING ARISING OUT OF OR RELATED TO THIS PROGRAM OR THIS AGREEMENT, SOLE AND EXCLUSIVE JURISDICTION SHALL RESIDE WITH THE APPROPRIATE STATE COURT LOCATED IN FAIRFAX COUNTY, VIRGINIA OR FEDERAL COURT LOCATED IN ALEXANDRIA, VIRGINIA.<br><br>While this program is available on the Internet to international users, the program is and remains a U.S. offering and all use of the information collected is and shall remain subject to U.S. law and practice. International users must take this into account and should consult their local laws and independently determine whether participation is desired given these facts.<br><br>
-              TMRG, Inc., complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  TMRG, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view TMRG, Inc.’s certification, please visit <a href="http://export.gov/safeharbor/">http://export.gov/safeharbor/</a>.
-            <br><br>Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law.  Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.<br><br></div><div class="C_TD">Third Party Rights: This agreement shall not create any rights or remedies in any parties other than the parties to the agreement and no person shall assert any rights as a third party beneficiary under this agreement.<br><br></div><div class="C_TD">Assignment: You may not assign this agreement or any rights or obligations under this agreement without our prior written approval.<br><br></div><div class="C_TD">Waiver: The failure of us to exercise or enforce any right or provision of the Agreement shall not constitute a waiver of such right or provision.<br><br></div><div class="C_TD">Severability: If any provision of this agreement is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. In any event, the remaining provisions shall be enforced.<br><br></div><div class="C_TD">Indemnity: You agree to defend, indemnify and hold our company and our affiliates, officers, directors, and employees harmless from and against any and all claims, losses, damages, liabilities and costs including without limitation, reasonable attorney’s fees, arising out of or relating to your breach of this Agreement or misuse of this program.<br><br></div><div class="C_TD">Disclaimers of Warranty: YOU ACKNOWLEDGE THAT THIS PROGRAM AND ALL SOFTWARE, CHANGES TO YOUR COMPUTER, FUNCTIONS, MATERIALS AND INFORMATION MADE AVAILABLE AS PART OF THIS PROGRAM ARE PROVIDED ‘AS IS.' OUR COMPANY, ITS SERVICE PROVIDERS, AND AFFILIATES DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.<br><br>UNDER NO CIRCUMSTANCES WILL OUR COMPANY, ITS SERVICE PROVIDERS OR AFFILIATES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THE PROGRAM, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES RESULTING IN ANY WAY FROM THIS PROGRAM. THE TERMS OF THIS SECTION WILL SURVIVE ANY TERMINATION OF THIS AGREEMENT. IN JURISDICTIONS WHICH RESTRICT LIMITATION OF LIABILITY OR DISCLAIMER OF WARRANTY PROVISIONS, OUR COMPANY’S LIABILITY WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW. THIS LIMITATION WILL APPLY REGARDLESS OF THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.<br><br></div><div class="C_TD">Third Party Products and Services: We neither endorse nor accept responsibility for any third party materials accessed through the Internet.<br><br></div><div class="C_TD">ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.<br><br>PermissionResearch does not react to Do Not Track signals because there is no standard for how those signals are sent. This site may employ the ScorecardResearch service, and you may control your level of participation in ScorecardResearch’s market research programs by visiting here: <a href="http://www.scorecardresearch.com/preferences.aspx">http://www.scorecardresearch.com/preferences.aspx</a><br><br>This Agreement is effective as of December 19, 2013<br><br></div><div><a href="#top">Return to Top</a><br><br></div><a name="Section23"></a><div class="C_H1">Whom can I contact if I have additional questions?</div><div class="C_TD">The program sponsor is TMRG, Inc., a Delaware, U.S.A. corporation. If you have any questions about the above Privacy Statement &amp; User License Agreement, our practices or your interactions with this site and this program, you may contact the program sponsor at:<br><br>privacy@tmrginc.com<br>Privacy Office<br>11950 Democracy Drive<br>Suite 600<br>Reston, VA  20190<br><br>For any support issues, please contact: support@tmrginc.com.<br><br>LP 1350<br><br></div><div><a href="#top">Return to Top</a><br><br></div><table width="100%"><tbody><tr><td align="right"><script type="text/javascript">
-                function open_tg_cert(link) { var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(link.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false; }
-                function tg_context() { var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false; }
-                function tg_image_load(img) { var src = (document.location.protocol == 'http:') ? 'http://seals.trust-guard.com/' : 'https://secure.trust-guard.com/secureseals/'; img.onload = null; img.onabort = null; img.src = src + img.name; img.name = 'trustseal'; }
-              </script><a name="trustlink" href="http://secure.trust-guard.com/certificates/4734" target="_blank" onclick="return open_tg_cert(this);" oncontextmenu="return tg_context();"><img onload="tg_image_load(this);" onabort="tg_image_load(this);" name="privacy-4734-small-gray.gif" alt="Privacy Verified" style="border: 0;" src="https://secure.trust-guard.com/secureseals/privacy-4734-small-gray.gif"></a></td></tr></tbody></table><table width="100%"><tbody><tr><td align="right"><img src="images/PR/pr2_ReliabilitySeal.gif"></td></tr></tbody></table><div align="right"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.permissionresearch.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.permissionresearch.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of McAfee, Inc.'); return false;"></a></div></td></tr></tbody></table></div></div></div></td>
-					<!--?xml version="1.0" encoding="utf-8"?--><td>
-      </td>
-
-				</tr>
-				<tr>
-					<td colspan="3"><!--?xml version="1.0" encoding="utf-8"?--><div id="footer"><ul class="footer-nav">
-          
-            <li style="display:inline;background:url(images/pr/separator2.gif) no-repeat 0 3px;padding:0 4px 0 12px;" id="22_1_1">
-              <a href="sweeps.aspx">Sweepstakes</a>
-            </li>
-            <li style="display:inline;background:url(images/pr/separator2.gif) no-repeat 0 3px;padding:0 4px 0 12px;" id="2_1_2">
-              <a href="Affiliate.aspx">Affiliates</a>
-            </li>
-            <li style="display:inline;background:url(images/pr/separator2.gif) no-repeat 0 3px;padding:0 4px 0 12px;" id="2_1_3">
-              <a href="Contact.aspx">Contact Us</a>
-            </li>
-          
-        </ul><span class="footer-nav">
-          
-            © 2014 TMRG, Inc. All rights reserved
-          
-        </span><a class="hidden" href="#wrapper">Back to top</a></div>
-
-
-
-
-<!-- Begin comScore Inline Tag 1.1111.15 --> 
-<script type="text/javascript">
-    // <![CDATA[
-    function udm_(a) { var b = "comScore=", c = document, d = c.cookie, e = "", f = "indexOf", g = "substring", h = "length", i = 2048, j, k = "&ns_", l = "&", m, n, o, p, q = window, r = q.encodeURIComponent || escape; if (d[f](b) + 1) for (o = 0, n = d.split(";"), p = n[h]; o < p; o++) m = n[o][f](b), m + 1 && (e = l + unescape(n[o][g](m + b[h]))); a += k + "_t=" + +(new Date) + k + "c=" + (c.characterSet || c.defaultCharset || "") + "&c8=" + r(c.title) + e + "&c7=" + r(c.URL) + "&c9=" + r(c.referrer), a[h] > i && a[f](l) > 0 && (j = a[g](0, i - 8).lastIndexOf(l), a = (a[g](0, j) + k + "cut=" + r(a[g](j + 1)))[g](0, i)), c.images ? (m = new Image, q.ns_p || (ns_p = m), m.src = a) : c.write("<", "p", "><", 'img src="', a, '" height="1" width="1" alt="*"', "><", "/p", ">") }
-    udm_('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/r?d.c=none&c1=2&c2=15080875&c3=new&c5=Market%20Research');
-    // ]]>
-</script>
-<noscript><p><img src="http://b.scorecardresearch.com/r?c1=2&c2=15080875&c3=new&c5=Market%20Research" height="1" width="1" alt="*"></p></noscript> 
-<!-- End comScore Inline Tag -->
-
-
-
-
-<script language="Javascript">
-
-</script>
-
-</td>
-				</tr>
-			</tbody></table>    
-		        </td>
-		    </tr>
-		</tbody></table>
-			
-		</form>
-		            </div>
+                            </tr>
+                        </tbody></table>
+                    </div>
                 </div>
             </td>
         </tr>
     </tbody></table>
-	
+
+
+
+            </div>
+
+            <div id="footer">
+                <div data-contentkey="Footer" data-page="9001" data-siteid="5001" data-languageid="1" style="display:inline;"><ul class="footer-nav">
+<li id="22_1_1" style="padding: 0px 4px 0px 4px; display: inline;"><a href="/sweeps.aspx">Sweepstakes</a></li>
+|
+<li id="2_1_2" style="padding: 0px 4px 0px 4px; display: inline;"><a href="/Affiliate.aspx">Affiliates</a></li>
+|
+<li id="2_1_3" style="padding: 0px 4px 0px 4px; display: inline;"><a href="/Contact.aspx">Contact Us</a></li>
+</ul>
+<span class="footer-nav"> © 2015 TMRG, Inc. All rights reserved </span></div>
+            </div>
+
+
+
+        </div>
+        
+        
+        
+        
+     <div id="textContentEditorDialog" style="display:none;padding:8px;width:984px;height: 300px;border-width: 4px;background-color: aliceblue;">
+        <div id="textContentEditorDialogHeader" style="width: 984px;height:50px;background-color: white;">
+            <table>
+                <tbody><tr>
+                    <td align="right">
+                        <span style="font-weight: bold">Content Key:</span>
+                    </td>
+                    <td>
+                        <label id="lblContentKey"></label>
+                    </td>                    
+                </tr>
+                <tr>
+                    <td align="right">
+                        <span style="font-weight: bold">Page ID:</span>
+                    </td>
+                    <td>
+                        <label id="lblPageID"></label>
+                    </td>
+                </tr>
+            </tbody></table>
+            <br>
+            <div>
+                <textarea id="contentEditorTextArea" cols="80" rows="40"></textarea>
+            </div>
+
+        </div>
+    </div>
+
+    </form>
+    
+   
+    
+    
+
+
 
 </body></html>
