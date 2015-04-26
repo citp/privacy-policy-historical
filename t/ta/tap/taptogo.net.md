@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taptogo.net privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122082026id_/http%3A//www.taptogo.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taptogo.net privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427003239id_/http%3A//www.taptogo.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
