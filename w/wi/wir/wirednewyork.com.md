@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205140808id_/http%3A//wirednewyork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426033025id_/http%3A//wirednewyork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wired New York
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwirednewyork.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 ## How we gather information from users
 
@@ -47,5 +45,3 @@ You may contact us if you have any questions regarding the content and material 
 ## Changes to this policy
 
 Wired New York reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwirednewyork.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
