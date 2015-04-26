@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rehabmart.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123229id_/http%3A//www.rehabmart.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rehabmart.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426092942id_/http%3A//www.rehabmart.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Rehabmart.com
 
