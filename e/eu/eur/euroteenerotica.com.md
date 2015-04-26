@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroteenerotica.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123173601id_/http%3A//euroteenerotica.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroteenerotica.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426061006id_/http%3A//euroteenerotica.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Euro Teen Erotica - Privacy Policy
 
