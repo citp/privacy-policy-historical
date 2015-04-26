@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefwoosh.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220195055id_/http%3A//thefwoosh.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefwoosh.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426043749id_/http%3A//thefwoosh.com/about) for the most accurate reproduction.*
 
 # About | The Fwoosh
 
@@ -60,7 +60,8 @@ Please direct all advertising-related inquiries to [promotions@thefwoosh.com](m
 **fireball13z** (Matt Stein) | Writer  
 **snowman** | Writer  
 **JKL-MD ReFugee** (Jeffery K. Lyles) | Writer  
-**PantherCult** (Jordan Davis) | Writer  
+**BCR Duke  **(Brian Charles Rooney) | Writer  
+**DisThunder** (Dustin Downey) | Writer  
   
 ### Fwooshcast Members
 
@@ -68,7 +69,13 @@ Please direct all advertising-related inquiries to [promotions@thefwoosh.com](m
 ---|---  
  VeeBee (Nic Wood) |  Co-Host and windbag  
 |   
-|   
+  
+### FwooshTube
+
+ Robokillah (Brian Rutherford) |  Reviewer  
+---|---  
+ VeeBee (Nic Wood) |  Reviewer  
+canonball (Timothy Pittz) | Reviewer  
   
 * * *
 
