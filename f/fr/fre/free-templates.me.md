@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-templates.me privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025235655id_/http%3A//www.free-templates.me/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-templates.me privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426204811id_/http%3A//www.free-templates.me/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
