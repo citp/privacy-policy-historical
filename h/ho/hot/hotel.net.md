@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel.net privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703191333id_/https%3A//www.hotel.net/Corporate/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel.net privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426073420id_/https%3A//www.hotel.net/Corporate/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Corporate | Privacy Policy | Hotel.net
 
