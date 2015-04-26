@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the familystylefood.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218105411id_/http%3A//familystylefood.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familystylefood.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426052246id_/http%3A//familystylefood.com/about/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy |familystylefood |recipe
+# privacy policy | familystyle food
 
 Familystyle Food is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website and how we use that information. By using the Familystyle Food website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
 
