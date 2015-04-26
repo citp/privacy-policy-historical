@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youlicense.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607092735id_/http%3A//www.youlicense.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlicense.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426111114id_/http%3A//www.youlicense.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - YouLicense.com
 
