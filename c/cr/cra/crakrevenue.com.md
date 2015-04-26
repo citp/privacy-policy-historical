@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crakrevenue.com privacy policy that was archived on 2014-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140122135513id_/http%3A//www.crakrevenue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crakrevenue.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426130416id_/http%3A//www.crakrevenue.com/privacy) for the most accurate reproduction.*
 
 # CrakRevenue
 
