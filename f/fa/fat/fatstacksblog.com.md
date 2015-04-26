@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fatstacksblog.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223053830id_/http%3A//fatstacksblog.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatstacksblog.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426074019id_/http%3A//fatstacksblog.com//privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — FAT Stacks
+# Privacy Policy — FAT Stacks Entrepreneur
 
 This privacy policy details how JGD Holding Company Ltd.. (dba “FatStacksBlog.com”) uses and protects any information that you give FatStacks.com when you use this website. FatStacksBlog.com is committed to ensuring that your privacy is protected.  If we ask you to provide certain information, so that we can identify you, when using this website, you can be assured that it will only be used in accordance with this privacy policy.  FatStacksBlog.com may change this policy from time to time by updating this page. You should check this page from time to time if you would like to stay up to date on any change made to this privacy policy. This policy is effective from September 16, 2013.
 
