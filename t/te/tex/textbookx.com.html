@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the textbookx.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120092152id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the textbookx.com privacy policy that was archived on 2015-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150427162904id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="not-ie"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class="not-ie inst"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="keywords" content="textbook, textbooks, used textbook, used textbooks, buy textbooks, sell textbooks, textbook buyback, cheap textbooks, textbook marketplace, used books, buy textbooks, sell textbooks, text books, college books, college textbooks, texts, new textbooks, discount textbooks, used text books, cheap textbooks, textbookx, textbookx.com, school books, buyback, bookstore">
 <meta name="google-site-verification" content="OQz1jnddg1mHB3Af6QIMXD43j5vDUfMoXAWLxDfgS1A">
@@ -26,22 +26,23 @@
 	</script>
 	
 	<![endif]-->
-<style type="text/css">#header-wrap{background:url('/skins/img/default/header_footer/header-bg-tile.png') left top repeat-x;}#header-v2 #search-box{display:block;}#header-wrap #dashes{visibility:visible;}</style>
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="apple-touch-icon" href="/img/apple-icon.png">
-<link href="/tools/less/less_compiler.php?design=main&amp;mtime=1416326640" type="text/css" rel="stylesheet">
+<link href="/tools/less/less_compiler.php?design=main&amp;mtime=1429193864&amp;domain=bridgewater" type="text/css" rel="stylesheet">
 <script type="text/javascript" src="/version/1323379439/lib/js/jquery.min.js"></script>
 <script type="text/javascript" src="/version/1411999204/lib/js/error_handler.js"></script>
 <script type="text/javascript" src="/version/1343337725/lib/js/jquery-ui-1.8.17.custom.min.js"></script>
+<script type="text/javascript" src="/version/1343329765/lib/js/jquery.tools.min.js"></script>
 <link href="/version/1415911088/skins/css/default.css" type="text/css" rel="stylesheet">
 <link href="/version/1405939184/skins/css/default_table.css" type="text/css" rel="stylesheet">
 <link href="/version/1405939184/skins/css/default_bookinfo.css" type="text/css" rel="stylesheet">
 <link href="/version/1405939184/skins/css/default_addon.css" type="text/css" rel="stylesheet">
-<link href="/version/1406126627/skins/css/default_main.css" type="text/css" rel="stylesheet">
-<script src="/version/1415215505/skins/css/default_main.js"></script>
+<link href="/version/1424809587/skins/css/default_main.css" type="text/css" rel="stylesheet">
+<link href="/version/1413234523/skins/css/bridgewater_spec.css" type="text/css" rel="stylesheet">
+<script src="/version/1425662409/skins/css/default_main.js"></script>
  
 <script type="text/javascript">
-	var is_inst = 'false', true_domain = 'textbookx', is_moodle = 'false';
+	var is_inst = '1', true_domain = 'bridgewater', is_moodle = 'false';
 	var logout_link = '/account/logout.php';
 	var is_logged_in = false;
 
@@ -92,16 +93,29 @@
 			if (typeof(form[0].checkValidity) !== 'undefined' && !form[0].checkValidity()) return false;
 			form.submit();
 		});
+        $('#loginForm').bind('submit',function(){
+            $(this).find('input:hidden[name="return_url"]')
+                    .val(document.location.pathname + document.location.search + '#' + document.location.hash.replace('#', ''));
+        });
+		var login_tooltip = $('#asi-login-unavailable-tooltip');
+		$(".asi_login_unavailable").tooltip({
+			effect: 'slide',
+			tip: login_tooltip,
+			delay: 100
+		}).dynamic({
+			bottom: {
+				direction: 'down',
+				bounce: true
+			}
+		});
 	})
 </script>
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic" rel="stylesheet" type="text/css">
-<link href="/tools/less/less_compiler.php?design=header_2014&amp;mtime=1416326640" type="text/css" rel="stylesheet">
-<link href="/tools/less/less_compiler.php?design=header_2014_mobile&amp;mtime=1416326617" media="screen and (min-device-width : 320px) and (max-device-width : 480px)" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="/version/1323379439/lib/js/jquery.min.js"></script>
-<script type="text/javascript" src="/version/1343337725/lib/js/jquery-ui-1.8.17.custom.min.js"></script>
-<script type="text/javascript" src="/version/1415911843/skins/common.js"></script>
+<link href="/tools/less/less_compiler.php?design=header_2014&amp;mtime=1429193866&amp;domain=bridgewater" type="text/css" rel="stylesheet">
+<link href="/tools/less/less_compiler.php?design=header_2014_mobile&amp;mtime=1429193864&amp;domain=bridgewater" media="screen and (min-device-width : 320px) and (max-device-width : 480px)" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="/version/1425662409/skins/common.js"></script>
 </head>
-<body class="inst-student-mode">
+<body class="inst-student-mode desktop-device">
 <div id="textbookx-page-wrapper" class="">
 <header id="header-wrap-2014">
 <div id="tbx-device-width"></div>
@@ -109,76 +123,8 @@
 <span class="margin-bug-fix">&nbsp;</span>
 <div id="h-main-menu-block">
 <div id="h-user-block">
-<div id="hub-username-block-template" class="hub-toggle-popup header-mode" data-gaaction="header-username-block" style="display:none;">
-<div class="hub-toggle-popup-static-part">
-<span class="hub-username-span"></span>
-</div>
-<div id="hub-account-shortcuts-template" class="hub-popup">
-<ul>
-<li><a href="/account/new_purchases.php">Purchases</a></li>
-<li><a href="/track_order.php">Track Order</a></li>
-<li><a href="/account/new_sales.php">Book Sales</a></li>
-<li><a href="/account/elibrary.php">eLibrary</a></li>
-<li><a href="/account/new_messages.php">Messages</a></li>
-<li><a href="/account/">Settings</a></li>
-<li class="hub-li-with-border"><a href="">Log Out</a></li>
-</ul>
-</div>
-</div>
-<div id="hub-username-block" class="hub-toggle-popup header-mode" data-gaaction="header-username-block">
-<div class="hub-toggle-popup-static-part" data-gaaction="header-toggle-loginbox">
-<span class="hub-username-span">Log In</span>
-</div>
-<div id="login-box" class="hub-popup header-mode">
-<div class="hfa-please-log-in">
-<h4>Login</h4>
-<a href="#" onclick="return tbx_header.hideLoginToSaveCourse();">✖</a>
-</div>
-<div class="hfa-you-must-be-logged-in">
-<h4>Log in to your account to save courses</h4>
-</div>
-<div class="hfa-header">
-<form action="https://www.textbookx.com/account/login.php" method="post" id="loginForm">
-<button type="submit"></button>  
-<input id="username" name="username" type="text" required="required" placeholder="Email or Username">
-<input id="password" name="password" type="password" required="required" placeholder="Password">
-<div class="controls">
-<label id="login-save-password-checkbox">
-<input type="checkbox" name="saveCookie">Remember Me
-</label>
-<span class="tbx-button-auto-submit tbx-button-big-1">Log In</span>
-</div>
-<input type="hidden" class="login-form-return-url" name="return_url" value="/service/privacy.php">
-</form>
-</div>
-<div class="hfa-body">
-No account? <a href="https://www.textbookx.com/account/register.php" class="create-account">Create one now</a>
-</div>
-<div class="hfa-footer">
-<a href="http://www.lesya.textbookx.loc/account/register.php" class="tbx-button-big-2" onclick="tbx_header.hideLoginToSaveCourse(); return true;">
-Or See Course Items
-</a>
-</div>
-</div>
-</div>
-<div id="hub-financial-aid-block-template" class="hub-toggle-popup header-mode" data-gaaction="header-toggle-financial-aid" style="display:none;">
-<div class="hub-toggle-popup-static-part">
-<span class="hfa-balance_name"></span><br>
-<span class="hfa-amount"></span>
-</div>
-<div id="hub-financial-aid-modal-template" class="hub-popup">
-<div class="hfa-header">
-<div class="hfa-header-name"><span class="hfa-balance_name"></span></div>
-Your <span class="hfa-balance_name"></span> Credit:
-<span class="hfa-amount"></span>
-<div class="clearboth"></div>
-</div>
-<div class="hfa-body">
-<span class="hub-icon">J</span> <strong><span class="hfa-balance_name"></span>:</strong>
-<span id="non-domain-text">This is the current balance of gift cards and/or gift certificates that have been saved to your account. You can apply these discounts, and any additional gift cards/certificates, during the checkout process.</span>
-<span id="domain-text">If your school assigned you a voucher,or if you were issued a gift certificate or store credit code by TextbookX.com,you can use this code during checkout to pay for your order.</span>
-</div>
-</div>
+<div id="hub-login-integrated-block" class="integrated_homepage_login_form">
+<div class="login_3rd_party"><input type="hidden" name="service" value=""><a class="tbx-button-big-1" href="http://bridgewater.textbookx.com/account/login.php?ticket=institute_bridgewater">Log in<span>E</span></a></div>
 </div>
 <div id="hub-in-cart-block" class="hub-toggle-popup header-mode" data-gaaction="header-toggle-scart">
 <div class="hub-toggle-popup-static-part">Cart<span class="hub-icon">B</span><span class="cart_items_count">0</span></div>
@@ -243,34 +189,54 @@ You still need <strong id="neededCourseItems">0 Item</strong> for all of your co
 </div>
 <nav id="h-main-menu">
 <div class="" id="tbx-main-home"><a href="http://www.textbookx.com/">Home</a></div>
-<div class="" id="tbx-main-ebooks"><a href="http://www.textbookx.com/ebooks">Ebooks</a></div> <div class="" id="tbx-main-schools"><a href="http://www.textbookx.com/college_bookstore.html">Schools</a></div> <div class="" id="tbx-main-sell"><a href="http://www.textbookx.com/sell-your-textbooks">Sell Books</a></div>
+<div class="" id="tbx-main-faculty"><a href="/account/login.php" onclick="return tbx_header.showFacultyLogin(true);">Faculty</a></div> <div class="" id="tbx-main-sell"><a href="http://www.textbookx.com/sell-your-textbooks">Sell</a></div>
+<div class="" id="tbx-main-returns"><a href="http://www.textbookx.com/returns">Returns</a></div>
+<div class="" id="tbx-main-track"><a href="http://www.textbookx.com/track">Track</a></div>
 <div class="" id="tbx-main-help"><a href="http://www.textbookx.com/help">Help</a></div>
 <div id="tbx-main-mobile-version"><a href="http://www.textbookx.com/?disable_mobile=0">Mobile version</a></div>
 </nav>
 </div>
 </section>
 <section id="h-logo-line">
-<div id="hll-search-box">
-<form id="search-by-isbn" action="http://www.textbookx.com/fastsearch2.php" method="get" onsubmit="return checkSearchInput(this.elements['s'])">
+<div id="hll-search-box" class="fixed-with-main-menu mobile-menu-popup">
 <div id="ih-search-by-header" class="search-by-class">
 <div>
-<input type="text" class="input-box" name="s" value="Enter ISBN, Title, Author or Keyword" title="Enter ISBN, Title, Author or Keyword" onfocus="doPlaceholder(this, false)" onblur="doPlaceholder(this, true)">
+<input type="text" name="s" id="search-by-class" class="tbx-auto-placeholder ui-autocomplete-input" title="Enter a course name or code, e.g. Accounting 101" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" placeholder="Enter a course name or code, e.g. Accounting 101">
+<input type="text" name="s" id="search-by-instructor" class="tbx-auto-placeholder ui-autocomplete-input" title="Enter instructor's last name" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" placeholder="Enter instructor's last name">
 </div>
 <span id="h-search-icon">C</span>
 </div>
-<input type="hidden" name="product" value="book">
-<input type="hidden" name="action" value="new">
-</form>
+<div id="search_box_outer">
+<div id="search-box2" style="z-index:10;display:none;" class="auto-hide-on-click-outside">
+<div id="sb-body">
+<div class="search-results-list-viewport"><ul class="search-results-list" role="listbox" aria-activedescendant="ui-active-menuitem" style=""></ul><ul class="search-results-list" role="listbox" aria-activedescendant="ui-active-menuitem" style=""></ul></div>
+</div>
+<div id="sb-bottom">
+<div id="num-of-results">Results in subjects (0 matches)</div>
+</div>
+</div>
+</div>
+<div id="hll-search-by-selector" class="tbx-checkbox hll-search-checkbox">
+<div class="tbx-tick"></div> Search by instructor
+</div>
 </div>
 <a href="/" id="hll-logo">
-<img src="/skins/img/default/header_footer/logo.png" alt="School Logo">
+<img src="http://textbookx.com/img/logos/bridgewater_college.jpg" alt="School Logo">
 </a>
 </section>
 </header>
+<div id="asi-login-unavailable-tooltip">
+<div class="tooltip-border-wrapper">
+Due to planned maintenance, your school has disabled school system log-ins at this time.<hr>
+You may continue shopping as a guest, or by creating a bookstore-only account.
+</div>
+</div>
 <nav id="mobile-main-menu">
 <div id="mm-menu">
 <div class="" id="tbx-main-home"><a href="http://www.textbookx.com/">Home</a></div>
 <div class="" id="tbx-mob-main-ebooks"><a href="http://www.textbookx.com/ebooks">Ebooks</a></div> <div class="" id="tbx-mob-main-sell"><a href="http://www.textbookx.com/sell-your-textbooks">Sell Books</a></div>
+<div class="" id="tbx-mob-main-faculty"><a href="http://www.textbookx.com//account/login.php">Faculty</a></div> <div class="" id="tbx-mob-main-returns"><a href="http://www.textbookx.com/returns">Returns</a></div>
+<div class="" id="tbx-mob-main-track"><a href="http://www.textbookx.com/track">Track</a></div>
 <div class="" id="tbx-mob-main-help"><a href="http://www.textbookx.com/help">Help</a></div>
 <div class="special-option" id="tbx-mob-main-account" style="display:none;"><a href="https://www.textbookx.com/account/new_purchases.php">My Account</a></div>
 <div class="special-option" id="tbx-mob-main-logout" style="display:none;"><a href="http://www.textbookx.com/account/logout.php">Log Out</a></div>
@@ -278,7 +244,6 @@ You still need <strong id="neededCourseItems">0 Item</strong> for all of your co
 <div id="tbx-mob-main-mobile-version"><a href="http://www.textbookx.com/?disable_mobile=1">Full Version</a></div>
 </div>
 </nav>
- 
  
 <table width="90%" border="0" align="center">
 <tbody><tr>
@@ -332,6 +297,15 @@ while on our site. Once the user closes their browser, the cookie simply termina
 the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie,
 they may still use our site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no
 access to or control over these cookies.
+</p><p class="text">
+Akademos.com and TextbookX.com use 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie.
+This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always
+we respect your privacy and are not collecting any identifiable information through the use of Google's or any other 3rd party
+remarketing system. The third-party vendors, including Google, whose services we use - will place cookies on web browsers in order
+to serve ads based on past visits to our website.<br>
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. This allows us
+to make special offers and continue to market our services to those who have shown interest in our service. You can opt out of
+Google's use of cookies by visiting Google's Ads Settings (<a href="https://www.google.com/settings/ads">https://www.google.com/settings/ads</a>) at any time.
 </p><h2>Log Files </h2>
 <p class="text">
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for
@@ -458,7 +432,7 @@ Akademos, Inc.<br>200 Connecticut Avenue<br>Norwalk, CT 06854<br>Fax: 203 866 01
 </div>
 <div class="f-link-block">
 <ul>
-<li>Copyright © 2014 Akademos Inc. </li>
+<li>Copyright © 2015 Akademos Inc. </li>
 <li>All right reserved.</li>
 <li>
 <div id="mcafee">
@@ -491,5 +465,6 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072703649/?value=0&amp;label=2ONLCLPrpwMQodHA_wM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
 
 </body></html>
