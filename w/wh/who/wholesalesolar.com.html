@@ -1,362 +1,726 @@
-<!--The following is the downloaded HTML source of the wholesalesolar.com privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604072404id_/http%3A//myhosting.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wholesalesolar.com privacy policy that was archived on 2015-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150427235017id_/http%3A//www.wholesalesolar.com/privacy.html) for the most accurate reproduction.-->
 
-<html><!-- #BeginTemplate "/Templates/template_aboutus.dwt" --><head>
-<!-- #BeginEditable "doctitle" --> 
-<title>myhosting.com: About us: Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="myhosting.com™  Privacy Policy">
-<meta name="keywords" content="web, web hosting, hosting, internet, domain, domain name, domain registration, domain transfer, hosting, solutions, web solutions, hosting plans">
-<!-- #EndEditable -->
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=0.35">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=270351112985420&amp;version=v2.0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WH9BTZ"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript">
 
-<script language="JavaScript">
-<!--
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+//Google phone tracking
+//(function(a,e,c,f,g,b,d){var h={ak:"1072443540",cl:"OP6SCIeVtloQlOGw_wM"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[f]||(a[f]=h.ak);b=e.createElement(g);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(g)[0];d.parentNode.insertBefore(b,d);a._googWcmGet=function(b,d,e){a[c](2,b,h,d,null,new Date,e)}})(window,document,"_googWcmImpl","_googWcmAk","script");
+
+
+//Linkify phone number
+$(function() { // when dom ready
+
+
+	if ($.cookie('gwcm') != null) {
+		//_googWcmGet('our-phone-number', '1-800-472-1142');
+		$('.our-phone-number').addClass('google-phone-number-disabled');
+	}
+
+	else {
+		$('.our-phone-number').addClass('lmc-phone-number-disabled');
+
+//		$.getScript("https://dni.logmycalls.com/dni.js");
+//
+//		function dniLoadingTimer() {
+//			if (typeof(getDNIRecord) == "function") {
+//				getDNIRecord("10ccbc807a1cb01c8137c26e0dcfe6d8", "dni.logmycalls.com");
+//			} else {
+//				setTimeout(dniLoadingTimer, 100);
+//			}
+//		}
+//		setTimeout(dniLoadingTimer, 100);
+	}
+
+	// Add tel: link
+	$('.our-phone-number').not(".noclick").each(function(){
+			$(this).wrap('<a class="plainlink" href="tel:+' + $(this).text() + '"></a>');
+	});
+
+	// Add tel: link to stragglers after ajax DNI is done
+	var trackChecker = setInterval(function () {
+
+		if (! /800.*472.*1142/.test($('.our-phone-number').first().text() ) ) {
+			$('.our-phone-number').not('.noclick').parents('a').each(function(){
+				$(this).attr('href','tel:+' + $(this).text());
+			});
+
+			clearInterval(trackChecker);
+		}
+
+	}, 100);
+
+
+});
+</script><link rel="shortcut icon" href="//www.wholesalesolar.com/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/css/all.css?version=7" media="screen">
+<!--<link rel="stylesheet" type="text/css" href="/css/product-print.css" media="print"/>-->
+<title>Wholesale Solar Privacy Policy</title>
+<meta name="description" content="What information we collect and how we use it">
+
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Organization",
+"url": "http://www.wholesalesolar.com",
+"logo": "http://ww3.wholesalesolar.com/wss-logo-small.png",
+"contactPoint": [
+{
+"@type": "ContactPoint",
+"telephone": "+1-800-472-1142",
+"contactType": "sales",
+"contactOption": "TollFree"
+}
+],
+"sameAs": [
+"http://www.facebook.com/WholesaleSolarInc",
+"http://www.twitter.com/wholesalesolar",
+"http://plus.google.com/117801857904210967967",
+"http://www.youtube.com/user/wholesalesolar"
+]
 }
 
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
 </script>
 </head>
+<body>
+	
+<!-- Google Tag Manager -->
+<script>
+  dataLayer = [];
+</script>
 
-<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="5" marginwidth="0" marginheight="5" link="#76900E" vlink="#808080" alink="#FF6600" onload="MM_preloadImages('images/menu/packages2.gif','images/menu/support2.gif','images/menu/order2.gif','images/menu/resellers2.gif','images/menu/contact2.gif','images/menu/sitemap2.gif','images/checkav2.gif','images/login2.gif')">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WH9BTZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WH9BTZ');</script>
+<!-- End Google Tag Manager -->
+
+<center>
+			<div style="width:100%; height:92px; position:absolute; left:0px; top:0px; background:url(http://ww3.wholesalesolar.com/img/mini-banner-no-phone.jpg) no-repeat #083972;">
+		<div class="our-phone-number noclick mini-phone-header">1-800-472-1142</div>	<div style="cursor: pointer;" title="Wholesale Solar's home - click here" onclick="location.href='http://www.wholesalesolar.com';" id="logoClick2">
+
+	</div>
+	</div>
+		<div id="container2"></div>
+
+	<!-- HUD includes both "user tabs" (top right corner of screen) -->
+	<!-- Panel -->
+<div id="toppanel" class="printHide">
+    <!-- The tab on top -->	
+	<div class="tab">
+		<ul class="login">
+			<li class="left">&nbsp;</li>
+			<li><a href="http://www.wholesalesolar.com/Wholesale-Solar-Employment-Opportunity.html" title="Solar Job Opportunities at Wholesale Solar">Job Opportunities</a></li>
+			<li class="sep">|</li>
+			<li><a href="https://www.wholesalesolar.com/dealers/DealerPortal/" title="Dealers login">Dealers</a></li>
+     	<li class="sep">|</li>
+     	<li class="uc">
+<a href="https://secure.wholesalesolar.com/cgi-bin/UCEditor?merchantId=WSS12">
+<table class="uc-cart-summary" border="0">
+<tbody><tr class="uc-cart-summary-details">
+<td><img src="http://ww3.wholesalesolar.com/ico/shopping-cart-image.png" name="Shopping Cart" width="25%">
+</td>
+<td class="uc-cart-item-count-label" style="text-decoration:underline">
+<script type="text/javascript" src="https://secure.wholesalesolar.com/cgi-bin/UCJavaScript?merchantid=WSS12&amp;type=count"></script>
+</td>
+</tr>
+</tbody></table>
+</a>
+			</li><li class="sep">|</li>
+			<li><a href="https://secure.wholesalesolar.com/cgi-bin/UCMyAccount?merchantId=WSS12&amp;themeCode=DFLT">My Account</a></li>
+			<li>&nbsp;&nbsp;&nbsp;</li>
+		</ul>
+	</div> <!-- / top -->
+</div> <!--panel -->
+<div class="mobileMenu" style="white-space:nowrap; width:auto; padding: 10px 15px;">
+  <div class="mobileSearch" style="position: relative; display: inline-block;">
+    <form action="http://www.wholesalesolar.com/Solarsearch.html" id="cse-search-box">
+      <input type="image" src="//ww3.wholesalesolar.com/ico/search_box_icon.png" class="searchsubmit" title="search">   
+      <input type="text" name="q" class="search" size="55">
+      <input type="hidden" name="cx" value="006435196072562829002:57yxrli0cuq">
+      <input type="hidden" name="cof" value="FORID:11;NB:1">
+      <input type="hidden" name="ie" value="UTF-8">
+    </form>
+  </div>
+  <div class="mobile" id="mobileCart" style="position: relative; display: inline-block; width:30%">
+      
+
+	<form method="post" action="https://secure.wholesalesolar.com/cgi-bin/UCEditor">
+	<input type="hidden" name="merchantId" value="WSS12">
+	<div class="uc-cart-summary">
+		<div class="uc-cart-summary-details cart-icon"><img src="http://ww3.wholesalesolar.com/ico/mobile-shopping-cart-image.gif" name="Shopping Cart"></div>
+		<div class="uc-cart-mobile-text">
+			<a href="https://secure.wholesalesolar.com/cgi-bin/UCEditor?merchantId=WSS12"><span class="uc-cart-item-count-label"><script type="text/javascript" src="https://secure.wholesalesolar.com/cgi-bin/UCJavaScript?merchantid=WSS12&amp;type=count"></script></span></a>
+			<a href="https://secure.wholesalesolar.com/cgi-bin/UCMyAccount?merchantId=WSS12&amp;themeCode=DFLT">My Account</a>
+		</div>
+	</div>
+	</form>
+  </div>
+</div>
+<div class="menu-btn-bg"></div>	
+<button id="mobile-menu-toggle">Menu</button>
+
+
+
+
+
+
+
+	<!-- This includes the navigation menu under the header.  -->
+	<table class="navbar" width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td width="2%"></td>
+        <td width="12%" valign="middle" nowrap="nowrap"><div align="center"><img src="http://ww3.wholesalesolar.com/ico/bullet.gif" alt="home" width="11" height="11"> <a href="http://www.wholesalesolar.com" class="mainLink">Wholesale Solar</a></div></td>
+        <td width="12%" valign="middle" nowrap="nowrap"><div align="center"><img src="http://ww3.wholesalesolar.com/ico/bullet.gif" alt="solar panels" width="11" height="11"> <a href="http://www.wholesalesolar.com/solar-panels" class="mainLink">Solar Panels</a></div></td>
+        <td width="12%" valign="middle" nowrap="nowrap" class="mobileHide hidden-sm"><div align="center"><img src="http://ww3.wholesalesolar.com/ico/bullet.gif" alt="complete systems" width="11" height="11"> <a href="http://www.wholesalesolar.com/complete-systems" class="mainLink"> Complete Systems</a></div></td>
+        <td width="12%" valign="middle" nowrap="nowrap"><div align="center"><img src="http://ww3.wholesalesolar.com/ico/bullet.gif" alt="Grid tie packages" width="11" height="11"><a href="http://www.wholesalesolar.com/grid-tie-packages" class="mainLink"> Grid Tie Solar</a></div></td>
+        <td width="12%" valign="middle" nowrap="nowrap"><div align="center"><img src="http://ww3.wholesalesolar.com/ico/bullet.gif" alt="Off grid packages" width="11" height="11"> <a href="http://www.wholesalesolar.com/off-grid-packages" class="mainLink"> Off Grid Solar</a></div></td>
+        <td width="12%" valign="middle" nowrap="nowrap"><div align="center"><img src="http://ww3.wholesalesolar.com/ico/bullet.gif" alt="Stuff on sale" width="11" height="11"> <a href="http://www.wholesalesolar.com/specials" class="mainLink">Specials</a></div></td>
+        <td width="12%" valign="middle" nowrap="nowrap">
+            <div align="center" class="dropDownNav">
+                <ul id="nav" class="dropdown dropdown-horizontal">
+                    <li class="dir"><img class="mainArrow" src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://www.wholesalesolar.com/solar-information/information-center" class="mainLink"> Solar Information</a>
+                        <ul id="subNav">
+                            <li><img src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://www.wholesalesolar.com/solartech-tv" class="mainLink"> Solar Tech TV</a></li>
+                            <li><img src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://www.wholesalesolar.com/solar-information/information-center" class="mainLink"> Information Center</a></li>
+                            <li><img src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://www.wholesalesolar.com/solar-information/start-here/getting-started" class="mainLink"> Getting Started</a></li>
+                            <li><img src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://blog.wholesalesolar.com" class="mainLink"> Blog</a></li>
+                            <li><img src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://community.wholesalesolar.com" class="mainLink"> Forum</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <select class="selectNav">
+                    <option value="#">Resources</option>
+                    <option value="http://www.wholesalesolar.com/solar-information/information-center">Information</option>
+                    <option value="http://www.wholesalesolar.com/solartech-tv">Solar Tech TV</option>
+                    <option value="http://www.wholesalesolar.com/solar-information/start-here/getting-started">Getting Started</option>
+                    <option value="http://blog.wholesalesolar.com">Blog</option>
+                    <option value="http://community.wholesalesolar.com">Forum</option>
+                </select>
+             </div>
+        </td>
+        <td width="12%" valign="middle" nowrap="nowrap">
+            <div align="center" class="dropDownNav">
+                <ul id="nav" class="dropdown dropdown-horizontal">
+                    <li class="dir"><img class="mainArrow" src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://www.wholesalesolar.com/about" class="mainLink"> About Us</a>
+                        <ul id="subNav">
+                            <li><img src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://www.wholesalesolar.com/team-videos" class="mainLink"> Team Videos</a></li>
+                            <li><img src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://www.wholesalesolar.com/company-culture" class="mainLink"> Company Culture</a></li>
+                            <li><img src="http://ww3.wholesalesolar.com/ico/bullet.gif"><a href="http://www.wholesalesolar.com/contact" class="mainLink"> Contact Us</a></li>
+
+                        </ul>
+                    </li>
+                </ul>
+                <select class="selectNav">
+                    <option value="#">About/Contact</option>
+                    <option value="http://www.wholesalesolar.com/about">About Us</option>
+                    <option value="http://www.wholesalesolar.com/contact">Contact Us</option>
+                    <option value="http://www.wholesalesolar.com/team-videos">Team Videos</option>
+                    <option value="http://www.wholesalesolar.com/company-culture">Company Culture</option>
+                </select>
+             </div>
+        </td>
+        <td width="2%"></td>
+    </tr>
+  </tbody></table>	<br>
+
+	<div style="width:100%; clear:both; margin:auto"><div align="center" class="call mobileHide" style="margin-bottom:10px;">
+			<a href="http://www.wholesalesolar.com/why-wholesale-solar.html#quality"><b>
+			Concerned about quality?</b></a>&nbsp;&nbsp;Call <span class="our-phone-number">1-800-472-1142</span> M-F 8 am to 5 pm PST, email us at <a href="mailto:sales@wholesalesolar.com">sales@wholesalesolar.com</a>, or <a href="http://www.wholesalesolar.com/request-a-quote.html">Request a Quote</a></div>
+ 			<div align="center" class="mobileMessage mobile">
+ 			Call <span class="our-phone-number">1-800-472-1142</span> M-F 8 to 5 PST, <br>email <a href="mailto:sales@wholesalesolar.com">sales@wholesalesolar.com</a>, or <a href="http://www.wholesalesolar.com/request-a-quote.html">Request a Quote</a></div></div>
+
+	<div style="margin-left:0; text-align:left"></div>
+
+<table class="plainText" width="90%" border="0" cellspacing="4" cellpadding="4"> 
   <tbody><tr> 
-    <td width="100%"> 
-      <table width="740" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td width="297" height="75"> 
-            <div align="left">&nbsp;&nbsp;<a href="index.htm"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/logo.gif" width="201" height="62" border="0" alt="Back to Home page"></a></div>
-          </td>
-          <td width="443"> 
-            <div align="right"><a name="top"></a> 
-              <table width="220" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr> 
-                  <td width="64%"> 
-                    <div align="center"><font face="Arial, Helvetica, sans-serif" size="1">Manage 
-                      your account</font></div>
-                  </td>
-                  <td width="36%"> 
-                    <div align="center"><font face="Arial, Helvetica, sans-serif" size="1">Check 
-                      your email</font></div>
-                  </td>
-                </tr>
-                <tr> 
-                  <td width="64%"> 
-                    <div align="center"><a href="https://support.myhosting.com/" onmouseout="MM_swapImgRestore()" onmousedown="MM_swapImage('Image8','','images/login2a.gif',1)" target="_blank"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/login1a.gif" width="104" height="23" border="0" name="Image8"></a></div>
-                  </td>
-                  <td width="36%"><a href="http://www.mail2web.com/" target="_blank"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/mail2web_logo_top.gif" width="95" height="30" border="0" alt="Check your mail at mail2web.com"></a></td>
-                </tr>
-              </tbody></table>
-            </div>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
+    <td width="160" align="center" valign="top">
+ <!-- START OF LEFT COLUMN ************************************************************************************* -->
+    		<span class="social-buttons">
+    <div class="fb-like" data-href="https://www.facebook.com/WholesaleSolarInc" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div>
+  <br><br>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=270351112985420&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+
+          <div class="g-plusone" data-size="medium" data-href="https://plus.google.com/117801857904210967967"></div>
+          <!-- Place this tag after the last +1 button tag. -->
+          <script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+      </script>
+</span>
+
+<table width="160" cellpadding="0" cellspacing="1" bgcolor="#083972" class="mobileHide search">
+  <tbody><tr>
+    <th height="15" align="left"><span class="plainWht"><strong><img src="http://ww3.wholesalesolar.com/test/images/bullet2.gif" alt="" width="11" height="11">Search Site for Anything</strong></span></th>
   </tr>
-  <tr> 
-    <td height="22"> 
-      <form name="formSearch" method="post" action="cgi-bin/search.asp">
-        <table width="740" border="0" cellspacing="0" cellpadding="0" height="24" bgcolor="#999999">
-          <tbody><tr> 
-            <td width="482" bgcolor="#999999"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/menu_left.gif" width="15" height="24"><a href="plans.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/menu/packages2.gif',1)"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/packages1.gif" width="74" height="22" border="0" name="Image2"></a><a href="support.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/menu/support2.gif',1)"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/support1.gif" width="70" height="22" border="0" name="Image3"></a><a href="resellers.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/menu/resellers2.gif',1)"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/resellers1.gif" width="72" height="22" border="0" name="Image5"></a><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/about2.gif" width="58" height="22" border="0" name="Image1"><a href="cgi-bin/contact.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/menu/contact2.gif',1)"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/contact1.gif" width="70" height="22" border="0" name="Image6"></a><a href="sitemap.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/menu/sitemap2.gif',1)"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/sitemap1.gif" width="68" height="22" border="0" name="Image7"></a><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/search.gif" width="55" height="22"></td>
-            <td bgcolor="#999999" valign="middle" width="154" height="24"> 
-              <input type="text" name="search" style="font-type: arial; font-size: 8pt" size="12" maxlength="100">
-              <input type="image" border="0" name="Submit" src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/go.gif" align="absmiddle" width="27" height="19" alt="Search">
-            </td>
-            <td width="104"> 
-              <div align="right"><a href="signup/step1.asp"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/signup_anim.gif" width="84" height="22" border="0" alt="Sign up for hosting services"></a><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/menu/menu_right.gif" width="20" height="24"></div>
-            </td>
-          </tr>
-        </tbody></table>
+  <tr>
+    <td bgcolor="#ffffff">
+      <form action="http://www.wholesalesolar.com/Solarsearch.html" id="cse-search-box">
+        <input type="hidden" name="cx" value="006435196072562829002:57yxrli0cuq"> <!--006435196072562829002:57yxrli0cuq  -->
+        <input type="hidden" name="cof" value="FORID:11;NB:1">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="text" name="q" class="search" style="margin:5px; width: 150px;">
+        <input type="submit" name="sa" class="searchsubmit ucAddToCartDefault" value="Search">
       </form>
     </td>
   </tr>
-  <tr> 
-    <td> 
-      <div align="left"> 
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td valign="top"> 
-              <div align="left"> 
-                <table width="740" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr> 
-                    <td valign="top" width="188"> 
-                      <div align="center"><!-- #BeginEditable "LeftMenu" --> 
-                        <form name="formDomainCheck" method="post" action="cgi-bin/checkdomain.asp">
-                          <table width="188" border="0" cellspacing="0" cellpadding="0">
-                            <tbody><tr width="188"> 
-                              <td valign="top" background="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/bg_leftmenu.gif"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/domain.gif" width="188" height="38"></td>
-                            </tr>
-                            <tr width="188"> 
-                              <td height="30" background="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/bg_leftmenu.gif"> 
-                                &nbsp; 
-                                <input type="text" name="domainname" size="10" maxlength="67">
-                                <select name="tld" size="1">
-                                  <option selected="">.com</option>
-                                  <option>.net</option>
-                                  <option>.org</option>
-                                  <option>.ca</option><option>.us</option>
-                                  <option>.biz</option>
-                                  <option>.info</option>
-                                  <option>.co.uk</option>
-                                  <option>.org.uk</option>
-                                  <option>.cc</option>
-                                  
-                                  
-                                  
-                                </select>
-                              </td>
-                            </tr>
-                            <tr width="188"> 
-                              <td background="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/bg_leftmenu.gif"> 
-                                 <div align="center"><input type="image" border="0" name="Submit" src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/checkav1.gif" width="133" height="23" alt="Check if this domain name is available">
-                                        <br>
-                                        <input type="image" name="parkdomain" src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/parkdomain.gif" width="133" height="23" border="0" alt="Park your domain now"> </div>
-                              </td>
-                            </tr>
-                            <tr> 
-                              <td valign="top" background="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/bg_leftmenu.gif"> 
-                                <div align="center">
-                                  <table border="0" cellspacing="0" width="155">
-                                    <tbody><tr> 
-                                      <td height="20" colspan="3"> 
-                                        <hr width="155" size="1" noshade="" align="left">
-                                      </td>
-                                    </tr>
-                                    <tr> 
-                                      <td height="20" colspan="3"><a href="aboutus.htm"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000" style="text-decoration: none"><b>ABOUT</b></font></a></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td height="20" colspan="2"><a href="history.htm"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000" style="text-decoration: none"><b>History</b></font></a></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td bgcolor="#FFFFFF" height="20" colspan="2"><a href="partners.htm"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000" style="text-decoration: none"><b>Partners 
-                                        </b> </font></a></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td bgcolor="#FFFFFF" height="20" colspan="2"><a href="news.htm"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000" style="text-decoration: none"><b>News</b></font></a></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td bgcolor="#FFFFFF" height="20" colspan="2"><a href="articles.htm"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000" style="text-decoration: none"><b>Articles</b></font></a></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20"> 
-                                        <div align="right"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/10x10spacer.gif" width="10" height="10"></div>
-                                      </td>
-                                      <td bgcolor="#FFFFFF" height="20" colspan="2"><a href="policy.htm"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000" style="text-decoration: none"><b>Policies</b></font></a></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td colspan="2" bgcolor="#FFFFFF" height="20"><font face="Arial, Helvetica, sans-serif" size="-1" color="#999999"><b><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/bullet_squaregray.gif" width="14" height="10">myhosting.com</b></font></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td width="11" bgcolor="#FFFFFF" height="20"> 
-                                        <div align="right"></div>
-                                      </td>
-                                      <td width="133" bgcolor="#FFFFFF" height="20"><a href="aup.htm"><font face="Arial, Helvetica, sans-serif" size="-1" color="#000000" style="text-decoration: none"><b>AUP</b></font></a></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td width="11" bgcolor="#FFFFFF" height="20">
-                                        <div align="right"><font face="Arial, Helvetica, sans-serif" size="-1" color="#000000" style="text-decoration: none"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/arrow_orange.gif" width="10" height="10"></font></div>
-                                      </td>
-                                      <td width="133" bgcolor="#FFFFFF" height="20"><font face="Arial, Helvetica, sans-serif" size="-1" color="#FF6600" style="text-decoration: none"><b>Privacy 
-                                        Policy</b></font></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td colspan="2" bgcolor="#FFFFFF" height="20"><font face="Arial, Helvetica, sans-serif" size="-1"><b><font color="#FF6600"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/bullet_squaregray.gif" width="14" height="10" border="0"></font></b></font><font face="Arial, Helvetica, sans-serif" size="-1" color="#999999" style="text-decoration: none"><b>Registrars</b></font></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td width="133" bgcolor="#FFFFFF" height="20"><a href="NSI-Agreement.htm"><font face="Arial, Helvetica, sans-serif" size="-1" color="#000000" style="text-decoration: none"><b>Network 
-                                        Solutions</b></font></a></td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td width="133" bgcolor="#FFFFFF" height="20"><a href="OpenSRS-Agreement.htm"><font face="Arial, Helvetica, sans-serif" size="-1" color="#000000" style="text-decoration: none"><b>OpenSRS 
-                                        (Tucows)</b></font></a> </td>
-                                    </tr>
-                                    <tr> 
-                                      <td width="11" bgcolor="#FFFFFF" height="20">&nbsp;</td>
-                                      <td bgcolor="#FFFFFF" height="20" colspan="2"><a href="cgi-bin/contact.asp"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000" style="text-decoration: none"><b>Contact</b></font></a></td>
-                                    </tr>
-                                  </tbody></table>
-                                </div>
-                              </td>
-                            </tr>
-                            <tr> 
-                              <td height="30" background="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/bg_leftmenu.gif"> 
-                                <div align="center">&nbsp;</div>
-                              </td>
-                            </tr>
-                            <tr> 
-                              <td height="30"> <img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/bg_bottomleft.gif" width="188" height="30"> 
-                              </td>
-                            </tr>
-                          </tbody></table>
-                        </form>
-                        <!-- #EndEditable --> </div>
-                    </td>
-                    <td colspan="2" valign="top"> 
-                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr> 
-                          <td valign="top" width="552"> 
-                            <div align="right"> <!-- #BeginEditable "ContentArea" --> 
-                              <table width="540" border="0" cellspacing="0" cellpadding="0">
-                                <tbody><tr> 
-                                  <td><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/title_about.gif" width="540" height="28"></td>
-                                </tr>
-                                <tr> 
-                                  <td valign="top"> 
-                                    <p><font face="Arial, Helvetica, sans-serif" size="-1" color="#FF6600"><b><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/title_privacypolicy.gif" width="299" height="43"><br>
-                                      Version 1.0 - October, 2001 </b></font></p>
-                                    <p><font face="Arial, Helvetica, sans-serif" size="-1">This 
-                                      Privacy Policy governs all aspects of how 
-                                      myhosting.com™ collects, uses, maintains 
-                                      and discloses information collected from 
-                                      all users ("Users") of this Website.</font></p>
-                                    <p><font face="Arial, Helvetica, sans-serif" size="-1"><b>Myhosting.com™ 
-                                      values the privacy of their customers.</b> 
-                                      <br>
-                                      Since being founded in 1997, Users' privacy 
-                                      is very important to myhosting.com. Myhosting.com 
-                                      is fully committed to taking every possible 
-                                      step necessary to ensure the confidentially 
-                                      of all information entrusted to myhosting.com 
-                                      by a User. All content contained on the 
-                                      myhosting.com website is intended only for 
-                                      people 18 years of age and over.</font></p>
-                                    <p><font face="Arial, Helvetica, sans-serif" size="-1"><b>The 
-                                      information myhosting.com™ collects.</b><br>
-                                      Myhosting.com, from time-to-time, may collect 
-                                      personally identifiable information from 
-                                      Users of this website in a variety of ways, 
-                                      including but not limited to, online forms 
-                                      for ordering products and services, and 
-                                      other instances where Users are invited 
-                                      to volunteer such information. Myhosting.com 
-                                      may also collect information about how Users 
-                                      use our website, an example being by tracking 
-                                      the number of unique pageviews received 
-                                      by the pages of the website, or the domains 
-                                      from which Users originate. The use of cookies 
-                                      may be used from time-to-time to track how 
-                                      Users use our website. A cookie is a piece 
-                                      of software that a Web server can store 
-                                      locally on a Users' PC (or PDA, WAP-enabled 
-                                      phone, etc…) that can be used to identify 
-                                      the User should they visit the website again. 
-                                      While not all of the information that we 
-                                      collect from Users is personally identifiable, 
-                                      it may be associated with personally identifiable 
-                                      information that Users provide myhosting.com 
-                                      through our website from time-to-time.</font> 
-                                    </p>
-                                    <p><font face="Arial, Helvetica, sans-serif" size="-1"><b>How 
-                                      myhosting.com™ uses Information</b><br>
-                                      Myhosting.com may, from time-to-time, use 
-                                      personally identifiable information collected 
-                                      through this website to contact Users directly 
-                                      regarding products and services offered 
-                                      by myhosting.com and their trusted affiliates, 
-                                      independent contractors and business partners, 
-                                      and otherwise to enhance Users' experience 
-                                      with myhosting.com and such affiliates, 
-                                      independent contractors and business partners. 
-                                      Myhosting.com may also use information collected 
-                                      through this website for research regarding 
-                                      the effectiveness of the website and the 
-                                      marketing, advertising and sales efforts 
-                                      of myhosting.com, its trusted affiliates, 
-                                      independent contractors and business partners.</font> 
-                                      <br>
-                                    </p>
-                                    <p><font face="Arial, Helvetica, sans-serif" size="-1"><b>Disclosure 
-                                      of Information </b><br>
-                                      Myhosting.com will use all information collected 
-                                      from their customers for internal purposes 
-                                      only. The only exception is the information 
-                                      disclosed for the purpose of registering 
-                                      a domain name. Only contract information 
-                                      for a domain name will be provided to the 
-                                      registrar partner(s) in order to complete 
-                                      the registration process. </font></p>
-                                    <p><font face="Arial, Helvetica, sans-serif" size="-1">Some 
-                                      anonymous data based on information collected 
-                                      from Users may be disclosed to potential 
-                                      and existing business partners, and investors. 
-                                      In situations whereby myhosting.com is subpoenaed 
-                                      by a legitimate legal authority to disclose 
-                                      information, myhosting.com will cooperate 
-                                      fully to provide only the information subpoenaed. 
-                                      </font></p>
-                                    <p><font face="Arial, Helvetica, sans-serif" size="-1"><b>Maintenance 
-                                      of Information </b><br>
-                                      Information about Users that is maintained 
-                                      on our systems is protected using industry 
-                                      standard security measures. However, we 
-                                      cannot guarantee that the information submitted 
-                                      to, maintained on, or transmitted from our 
-                                      systems will be completely secure.</font></p>
-                                    <p>&nbsp;</p>
-                                  </td>
-                                </tr>
-                              </tbody></table>
-                              <!-- #EndEditable --></div>
-                          </td>
-                        </tr>
-                        <tr valign="middle"> 
-                          <td height="60" width="552"> 
-                            <div align="center"><img src="http://a1176.g.akamai.net/7/1176/5697/v005/myhosting.com/images/copyright.gif" width="345" height="41" border="0" usemap="#Map" target="_blank" href="http://www.alloterra.net"><br>
-                              <a href="privacypolicy.htm"><font face="Arial, Helvetica, sans-serif" size="1">Privacy 
-                              Policy</font></a></div>
-                          </td>
-                        </tr>
-                      </tbody></table>
-                    </td>
-                  </tr>
-                </tbody></table>
-              </div>
-            </td>
-          </tr>
-        </tbody></table>
-      </div>
+</tbody></table><br>
+<b class="clearfix"></b>
+<a href="http://www.wholesalesolar.com/about.php" class="center-block"><img src="http://ww3.wholesalesolar.com/EMPLOYEE-OWNED-BTTN-1.png" alt="100 percent employee owned" class="img-responsive"></a>
+<br>
+<br>
+<a href="http://www.wholesalesolar.com/StartHere/StartHere.html" class="center-block">
+<img src="http://ww3.wholesalesolar.com/4-STEPS-BUTTON-160.png" class="img-responsive" alt="">
+</a>
+<br>
+<br>
+
+<table width="160" border="0" cellspacing="1" cellpadding="0" bgcolor="#083972" class="testimonials">
+  <tbody><tr> 
+    <th height="20" align="left">
+      <img src="http://ww3.wholesalesolar.com/ico/bullet2.gif" alt="" width="11" height="11"><span class="plainWht">Testimonials</span>
+    </th>
+  </tr>
+  <tr bgcolor="#ffffff">
+    <td>
+      <img src="http://ww3.wholesalesolar.com/ico/bullet2.gif" alt="" width="11" height="11"><a href="http://www.wholesalesolar.com/reviews-comments-testimonials.html" class="sublink3">See What Our Clients<br><span style="padding-left: 11px;">Have to Say</span></a>
     </td>
   </tr>
-</tbody></table>
-<map name="Map"> 
-  <area shape="rect" coords="2,2,72,28" href="http://www.mail2web.com/" target="_blank" alt="Go to mail2web.com" title="Go to mail2web.com">
-  <area shape="rect" coords="88,2,166,28" href="http://www.news2web.com/" target="_blank" alt="Go to news2web.com" title="Go to news2web.com">
-  <area shape="rect" coords="186,2,254,28" href="http://www.alloterra.net/" target="_blank" alt="Go to alloterra.com" title="Go to alloterra.com">
-</map>
+  <tr bgcolor="#ffffff">
+    <td>
+      <img src="http://ww3.wholesalesolar.com/ico/bullet2.gif" alt="" width="11" height="11"><a href="http://www.wholesalesolar.com/customer-projects/" class="sublink3">Customer Gallery</a>
+    </td>
+  </tr>
+</tbody></table>      		
+      <br>
+      <table width="160" border="0" cellspacing="1" cellpadding="4" bgcolor="#083972">
+        <tbody><tr>
+          <td height="20" bgcolor="#FFFFFF"><span class="style01"><a href="http://www.wholesalesolar.com/why-wholesale-solar.html">Why buy from Wholesale Solar?</a></span></td>
+        </tr>
+        <tr bgcolor="#ffffff">
+          <td bgcolor="#ffffff"><div align="left"><span class="style3"><span class="style02"><a href="http://www.wholesalesolar.com/solar-cost.html">Cost &amp; Incentives</a></span></span><br>
+            <span class="style1">What you should know</span></div></td>
+        </tr>
+        <tr bgcolor="#ffffff">
+          <td><div align="left"><span class="style03"><a href="http://www.wholesalesolar.com/financing-solar.html">Financing Solar</a></span><br>
+            <span class="style1">Best options </span></div></td>
+        </tr>
+        <tr bgcolor="#ffffff">
+          <td><div align="left"><span class="style04"><a href="http://www.wholesalesolar.com/solar-leasing-option.html">Leasing Options</a></span><br>
+            <span class="style1">Pro's and con's</span></div></td>
+        </tr>
+      </tbody></table>
+      <br>
 
-<!-- #EndTemplate -->
+      <a href="http://www.wholesalesolar.com/enphase-enlighten-demonstration.html"><img src="http://ww3.wholesalesolar.com/enphase-enlighten.jpg" width="160" height="98" border="0"></a><br>
+      <br><a href="http://www.wholesalesolar.com/solaredge-demonstration.html"><img src="http://ww3.wholesalesolar.com/SE-Online-Monitor-160.jpg" width="160" height="104" border="0"></a><br>
+      <br>
+
+      <a href="http://www.wholesalesolar.com/states.html"> <img src="http://ico.wholesalesolar.com/stateincentives.png" alt="Solar Panels Tax Credit" width="160" height="104" border="0"></a><br>
+      
+</td>
+ <!-- END OF LEFT COLUMN ************************************************************************************* -->
+
+ <!-- Start of Center COLUMN ************************************************************************************* -->
+<td valign="top" style="vertical-align: top"><h1>Wholesale Solar Privacy Policy</h1>
+    <p style="text-align: center">Last Updated: Feb 23, 2015</p>
+	<p>Wholesale Solar respects your privacy. In short, we collect only the minimal information we need to 1) fulfill your requests, such as an order, a request for quote, or a newsletter signup and to 2) better understand who is using our website and how we can better serve them.	</p>
+	<p>We share this information only with the companies we use to handle transactions, such as our shopping cart and order processor (Ultracart), our newsletter handler (Mailchimp), and our web analysis processor (Google). We do not share your information with third parties not directly involved in helping us fulfill your requests.</p>
+    <div class="hintbox">Examples: We send anonymous browsing information to Google when you visit our website. If you sign up for our newsletter, we send your email address to Mailchimp. If you place an order, we send your order details to Ultracart for payment processing.</div>
+	<p>We never sell your information.</p>
+	<h2>What information do we collect, and why?</h2>
+	
+	<h3>Visits to our website</h3>
+	<p>We use Google Analytics to measure our visitors’ activities on our website. This tells us basic, non-personally-identifiable information such as the kind of device and web browser you’re using, the page(s) you visit, the search terms you found us with, etc.<br>
+		<br>
+		We use this data to better understand how visitors use our website and to respond to their needs accordingly.<br>
+		<br>
+		</p><div class="hintbox">Example: We see that a website visitor found us through a search for “American-made solar panels” and spent the next fifteen minutes browsing our website, looking for the right products to purchase.</div><p></p>
+	<h3>Personal information you voluntarily supply</h3>
+	<p>If you engage in a transaction on our website such as placing an order, requesting a quote, or signing up for our newsletter, we use the information you provided to fulfill that request.<br>
+		<br>
+		Where necessary, our online order processing company uses your billing information to process your payment, our shippers use your shipping address to deliver goods to you, and our newsletter system uses your email address to send you new issues.<br>
+		<br>
+		</p><div class="hintbox">Example: We receive an order for a off-grid solar package, so we use that customer’s billing and shipping information to process payment and ship their goods. That same customer decides to also sign up for our newsletter, so we store their email address for future mailings.</div><p></p>
+	<h3>A combination of the above</h3>
+	<p>We may combine the above information to better understand the flow of our shoppers’ experiences on our website. We do not collect additional data for this, but we may correlate and cross-reference our existing data.<br>
+		<br>
+		We do this to better understand the effectiveness of our website and advertising in matching the needs of our customers, and to more efficiently provide visitors with the information or products they’re looking for.<br>
+		<br>
+		</p><div class="hintbox">Example: We determine that a visitor who searched for “US-made solar panels” eventually purchased a specific type of solar panel, and that several other customers made the same purchase decision. We then use this combined knowledge to tailor our ads to mention this particular product, having learned that it’s a good match for customers who search for those keywords. This results in a easier, quicker experience for future customers.</div><p></p>
+	
+	<h2>I don’t like this. How do I opt out?</h2>
+	<p>While these practices are standard and common to most online retailers, we understand that not all visitors want to be a part of this process. You may completely opt out of Google Analytics by following <a href="https://support.google.com/analytics/answer/181881?hl=en">Google’s instructions on their opt-out page</a>. This will prevent us, and other Google Analytics-enabled sites, from collecting browsing information about you.</p>
+	If you opt out of Google Analytics, the only information we collect about you is what you voluntarily and explicitly provide us during a transaction. And as above, we will only use this information to fulfill your requests.
+	<h2>How to contact us</h2>
+	If you have any questions or concerns about our Privacy Policy, please email us at <a href="mailto:webmaster@wholesalesolar.com">webmaster@wholesalesolar.com</a>. Thank you.
+</td>
+<!-- END OF CENTER COLUMN ************************************************************************************* -->
+
+<!-- START OF RIGHT COLUMN & FOOTER ************************************************************************************* -->         
+<td width="160" valign="top">
+<table width="160" cellpadding="0" cellspacing="1">
+    <tbody><tr> 
+        <td align="center" class="title2"><span class="our-phone-number">1-800-472-1142</span><br>Monday to Friday<br>8 am to 5 pm PST</td>
+    </tr>
+</tbody></table>
+
+<table class="prodnav">
+  <tbody><tr style="background-color: #083972">
+    <th class="background-bullet-img"><a href="/products.html" class="sublink2">All Products Index</a></th>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/specials" class="sublink3 red" style="text-decoration: none">Sales &amp; Specials</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/back-up-power.html" class="sublink3">Back-up Power</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/deep-cycle-solar-batteries" class="sublink3">Batteries</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/battery-banks.html" class="sublink3">Battery Banks</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/products.folder/battery-folder/battery.boxes.html" class="sublink3">Battery Racks </a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/cables.html" class="sublink3">Cables<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;-Wiring<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;-MC Connectors </a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/charge-controllers" class="sublink3">Charge Controllers </a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/solar-information/commercial-solar" class="sublink3">Commercial Solar </a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/disconnects.html" class="sublink3">Disconnects<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;- Breakers<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;- Fuses</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/power-inverters" class="sublink3">Inverters</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/inverter-repair.html" class="sublink3">Inverter Repair</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/meters.html" class="sublink3">Meters</a></td>
+  </tr>
+  <tr>
+  <td class="background-bullet-img"><a href="/complete-systems" class="sublink3">Complete Systems</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <a href="/grid-tie-packages" class="sublink3">Grid-Tied</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <a href="/off-grid-packages" class="sublink3">Off Grid</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <a href="/ac-coupling" class="sublink3">Micro-Grid AC <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coupling</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <a href="/grid-assist.html" class="sublink3">Grid-Assist</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;- <a href="/grid-tie-battery-backup.html" class="sublink3">Grid-Tied Battery <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backup</a> </td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/inverter_systems.html" class="sublink3">Pre-Wired Power Centers</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/solar-panel-racking" class="sublink3">Racking and Mounts</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/rv-marine" class="sublink3">RV &amp; Marine Power</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/solar-lights.html" class="sublink3">Solar Lights </a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/solar-panels" class="sublink3">Solar Panels </a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/bulk-solar-panels-by-the-pallet.html" class="sublink3">Solar Panels by the Pallet</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/trackers.html" class="sublink3">Solar Panel Trackers</a></td>
+  </tr>
+  <tr>
+    <td class="background-bullet-img"><a href="/wind-generator-turbines" class="sublink3">Wind Generators/<br>
+      &nbsp;&nbsp;&nbsp;&nbsp; -Wind Turbines </a></td>
+  </tr>
+</tbody></table>
+  
+
+<table width="160px" border="0" cellspacing="1" cellpadding="0" bgcolor="#083972" class="termsTable">
+    <tbody><tr>
+    	<th align="left" height="20"><img src="http://ww3.wholesalesolar.com/ico/bullet2.gif" alt="" width="11" height="11"><span class="plainWht">Read our Terms</span></th>
+    </tr>
+    <tr bgcolor="#ffffff">
+    	<td bgcolor="#ffffff"><img src="http://ww3.wholesalesolar.com/ico/bullet2.gif" alt="" width="11" height="11"><a href="http://www.wholesalesolar.com/terms&amp;conditions.html" class="sublink3">Terms &amp; Conditions</a></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+        <td bgcolor="#ffffff"><img src="http://ww3.wholesalesolar.com/ico/bullet2.gif" alt="" width="11" height="11"><a href="http://www.wholesalesolar.com/privacy.html" class="sublink3">Privacy Policy</a></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+    	<td><img src="http://ww3.wholesalesolar.com/ico/bullet2.gif" alt="" width="11" height="11"><a href="http://www.wholesalesolar.com/terms&amp;conditions.html#shipping" class="sublink3">Shipping Policy</a></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td><img src="http://ww3.wholesalesolar.com/ico/bullet2.gif" alt="" width="11" height="11"><a href="http://www.wholesalesolar.com/freight" class="sublink3">Freight Delivery Tips</a></td>
+    </tr>
+
+</tbody></table>
+<br>
+<div id="SignUp">
+  <table class="signupframe" cellspacing="0" cellpadding="4">
+    <tbody><tr>
+     <th>Newsletter Signup</th>
+    </tr>
+    <tr>
+     <td>
+
+
+         <!-- Begin MailChimp Signup Form -->
+         <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+         <style type="text/css">
+             #mc_embed_signup{background:#fff; clear:left;}
+             /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+         </style>
+         <div id="mc_embed_signup">
+             <form action="//wholesalesolar.us7.list-manage.com/subscribe/post?u=6d468c2d3c73c2b4939d139c1&amp;id=6c3bce618e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                 <div id="mc_embed_signup_scroll">
+
+                     <div class="mc-field-group">
+                         <label for="mce-EMAIL" style="font-weight: bold">Email Address </label>
+                         <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                     </div>
+                     <div class="mc-field-group input-group">
+                         Which emails would you like to get?
+                         <ul><li><input type="checkbox" value="64" name="group[11829][64]" id="mce-group[11829]-11829-0"><label for="mce-group[11829]-11829-0">&nbsp; Specials &amp; Deals</label></li>
+                             <li><input type="checkbox" value="128" name="group[11829][128]" id="mce-group[11829]-11829-1"><label for="mce-group[11829]-11829-1">&nbsp; Solar Education</label></li>
+                         </ul>
+                     </div>
+                     <div id="mce-responses" class="clear">
+                         <div class="response" id="mce-error-response" style="display:none"></div>
+                         <div class="response" id="mce-success-response" style="display:none"></div>
+                     </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                     <div style="position: absolute; left: -5000px;"><input type="text" name="b_6d468c2d3c73c2b4939d139c1_6c3bce618e" tabindex="-1" value=""></div>
+                     <div style="text-align:center;"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button ucAddToCartDefault"></div>
+                 </div>
+             </form>
+			 View <a href="http://us7.campaign-archive2.com/home/?u=6d468c2d3c73c2b4939d139c1&amp;id=6c3bce618e">recent newsletters</a>.
+         </div>
+
+         <!--End mc_embed_signup-->
+
+
+      </td> 
+    </tr> 
+    <tr> 
+      <td>We will never sell your email or share it with unaffiliated 3rd parties (<a href="http://www.wholesalesolar.com/privacy.html">Privacy Policy</a>).</td>
+    </tr>
+  </tbody></table>
+</div>                       
+<br>
+<div align="center">
+  <a href="http://www.wholesalesolar.com/terms#terms">
+    <img src="http://ww3.wholesalesolar.com/Payment-Options-PPMCVD-1.png" alt="we accecpt all major credit cards and also paypal" class="img-responsive">
+  </a>
+</div>
+<br>
+ 
+<a id="whatsonsale" href="http://www.wholesalesolar.com/specials.html" title="What's on sale?"></a>
+<br>
+                     
+
+</td>
+</tr>
+</tbody></table>
+
+<div align="center" class="title2">
+    Call Wholesale Solar<br>
+    to order:<br>
+    <span class="our-phone-number">1-800-472-1142</span></div>
+
+
+   </center>
+<div style="clear:both; width:100%;  background-color:#083972; text-align:center;padding: 10px 0 10px 0;" class="copyright">
+ &nbsp;&nbsp;&nbsp; © 2015 Wholesale Solar
+</div>
+<div id="sidr" style="display: none;">
+    <button class="close-menu" id="mobile-menu-toggler">Close Menu</button>
+<table class="mobile-prodnav" width="100%">
+    <tbody><tr>
+        <td><a href="http://www.wholesalesolar.com/back-up-power.html" class="sublink3">Back-up Power</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/batteries.html" class="sublink3">Batteries</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/battery-banks.html" class="sublink3">Battery Banks</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/products.folder/battery-folder/battery.boxes.html" class="sublink3">Battery Racks </a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/cables.html" class="sublink3">Cables<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;-Wiring<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;-MC Connectors </a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/controllers.html" class="sublink3">Charge Controllers </a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/commercial-solar.html" class="sublink3">Commercial Solar </a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/disconnects.html" class="sublink3">Disconnects<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;- Breakers<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;- Fuses</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/inverters.html" class="sublink3">Inverters</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/inverter-repair.html" class="sublink3">Inverter Repair</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/meters.html" class="sublink3">Meters</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/complete-systems.html" class="sublink3">Package Systems</a><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="http://www.wholesalesolar.com/gridtie.html" class="sublink3">Grid-Tied</a><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="http://www.wholesalesolar.com/products.folder/systems-folder/OffGridPackages.html" class="sublink3">Off Grid</a><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="http://www.wholesalesolar.com/AC-coupling.html" class="sublink3">Micro-Grid AC <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coupling</a><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="http://www.wholesalesolar.com/grid-assist.html" class="sublink3">Grid-Assist</a><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="http://www.wholesalesolar.com/grid-tie-battery-backup.html" class="sublink3">Grid-Tied Battery <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backup</a> </td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/inverter_systems.html" class="sublink3">Pre-Wired Power Centers</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/mounts.html" class="sublink3">Racking and Mounts</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/RV.html" class="sublink3">RV &amp; Marine Power</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/solar-lights.html" class="sublink3">Solar Lights </a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/solar-panels.html" class="sublink3">Solar Panels </a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/bulk-solar-panels-by-the-pallet.html" class="sublink3">Solar Panels by the Pallet</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/trackers.html" class="sublink3">Solar Panel Trackers</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/wind.html" class="sublink3">Wind Generators/<br>
+                &nbsp;&nbsp;&nbsp;&nbsp; -Wind Turbines </a></td>
+    </tr>
+    <tr><td style="border-bottom: 1px solid #083972; padding-bottom: 10px"></td></tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/about" class="sublink3">About Us</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/terms&amp;conditions.html" class="sublink3">Terms &amp; Conditions</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/terms#terms" class="sublink3">Credit Card Authorization</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/contact" class="sublink3">Contact Us</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/team-videos" class="sublink3">Team Videos</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/company-culture" class="sublink3">Company Culture</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/Wholesale-Solar-Employment-Opportunity.html" class="sublink3">Employment</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/solartech-tv" class="sublink3">Solar Tech TV</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/information.html" class="sublink3">Information Center</a></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.wholesalesolar.com/StartHere/StartHere.html" class="sublink3">Getting Started</a></td>
+    </tr>
+</tbody></table>
+</div>
+<script type="text/javascript" src="/js/jquery.touchwipe.js"></script>
+<script type="text/javascript" src="/js/jquery.sidr.min.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/modal.js"></script>
+<script type="text/javascript" src="/js/ultracart-scripts.min.js"></script>
+
+<div id="add-to-cart-success" style="display:none">
+  <span class="title2 center added-items"></span>
+  <table>
+    <tbody><tr>
+      <td><img src="http://ww3.wholesalesolar.com/coming_soon_product.gif" height="125" style="max-width: 200px;" class="item-pic"></td>
+      <td style="padding-left: 15px" align="left">
+        <a href="#" class="item-link">
+          <span class="center item-name" style="text-align: left; padding-bottom: 10px"></span>
+        </a>
+        <span class="Redsmal center item-price" style="display: inline; padding-top:10px;"></span>
+      </td>
+    </tr>
+  </tbody></table> 
+  <span class="Redsmal center total-items"></span>
+  <span class="Redsmal center cart-total"></span>
+  <a href="#" id="close" class="b-close mainLink" style="position: absolute; top:10px;">Close X</a>
+  <span id="loading">
+    <div class="loading-container">
+      <div id="loader"></div>
+      <div class="bar bar1"></div>
+      <div class="bar bar2"></div>
+      <div class="bar bar3"></div>
+      <div class="bar bar4"></div>
+      <div class="bar bar5"></div>
+      <div class="bar bar6"></div>
+      <div class="bar bar7"></div>
+    </div> 
+  </span>
+  <span class="popup-buttons center">
+    <a href="#" id="continue-shopping" class="center b-close mainLink">Continue Shopping</a>
+    <a href="https://secure.wholesalesolar.com/cgi-bin/UCEditor?merchantId=WSS12" id="view-cart-modal" class="mainLink">View Cart / Checkout</a>
+  </span>
+</div>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="../../../../../cart/user/login_panel/css/slide-new.css" media="screen">
+<script src="../../../../../cart/user/login_panel/js/slide-new.js" type="text/javascript"></script>
+
+
+
+
 </body></html>
