@@ -1,97 +1,53 @@
-> *The following text is extracted and transformed from the fanatix.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124023937id_/http%3A//www.fanatix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanatix.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427023550id_/http%3A//www.fanatix.com/privacy-policy.php) for the most accurate reproduction.*
 
-# fanatix
+# fanatix - Privacy Policy & Cookies
 
-Fanatix takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [www.fanatix.com](http://www.fanatix.com/) website and domain name (collectively, the "Website"), and/or using any other linked pages, features, content, or application services offered from time to time by Fanatix in connection therewith (collectively the "Service"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+This Privacy Policy describes how and when fanatix collects, uses, and shares your information when you use fanatix, including our mobile applications and websites (the "Services"). fanatix receives your information through our mobile applications, websites, email notifications, and other interactions with our Services. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize fanatix to use your information in the United Kingdom and any other country where fanatix operates.
 
-**1\. WHAT DOES THIS PRIVACY POLICY COVER?**
+Information Collection and Use
 
-This Privacy Policy covers Fanatix's treatment of personally identifiable information ("Personal Information") that Fanatix gathers when you access the Website and/or use some other features of the Service. This policy does not apply to the practices of companies that Fanatix does not own or control, or to individuals that Fanatix does not employ or manage.
+**Creating a fanatix Account and Profile Information:** When you create a fanatix account, you must provide access credentials either in the form of an email address and password or by authentication using another service, such as Facebook. You may optionally provide us with additional profile information, including a short bio, location, and profile picture. If you create your fanatix account by connecting through another service, we may use public information from that connected account to help complete your fanatix profile. You may update or modify your profile information and contact information at any time. Profile information may be available publicly on our Services, such as on your profile page.
 
-**2\. WHAT PERSONAL INFORMATION DOES FANATIX COLLECT?**
+**Contact Information:** In addition to using your contact information to create your account, we may use this information to send you information about our Services, respond to your requests and facilitate your use of the Services. We may use the contact information (such as your phone number or email address) to help connect you with other fanatix users, even if that information is not publicly displayed. Some contact information may be required in order to use certain Services.
 
-The information we gather enables us to personalize and improve our services. We collect the following types of information from our users:
+**Finding Friends and Connecting to Other Services:** Our Services include several features to help connect you to the accounts of people you already know. For example, you may upload information from your address book or connect your Fanatix account to your account on another service such as Facebook. fanatix will match the information you provide with the contact information of other fanatix users in order to provide and improve the Services, for example by making recommendations and routing fanatix messages. You may remove address book data from Fanatix at any time through the settings in your fanatix app. When you connect your Fanatix account to other services, you are able to post your Content to those services as well. You may disconnect your fanatix account from your account on the other services at any time. Disconnecting your fanatix account will immediately revoke our authorization to cross-post on your behalf or otherwise access that account and we will delete information obtained from that connection (other than information that was publicly posted on fanatix, such as profile information), which may take some time.
 
-**i. Personal Information You Provide to Us**
+**Content, Following, and other Public Information:** fanatix is a social network that enables video sharing, so most of the information you provide us is information that you choose to be made public. This includes not only the Content that you post and data provided with such Content, such as when it was posted, but also the accounts you follow, the Content that you Huddle or comment on, and other public interactions on the Services. Your public information is broadly and instantly disseminated. For instance, your profile information and public Content are immediately delivered to a wide range of users and other services that access fanatix. When you share information or Content via the Services, you should think carefully about what you are making public.
 
-We receive and store any information you enter on the Website or provide to us in any other way, including by connecting your Facebook Account. The types of Personal Information collected include your full name, email address, IP address, browser information, username, password and any other information necessary for us to provide the Service, including the usernames and passwords for your accounts and profiles on third-party sites with which the Service interoperates. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Fanatix's products and services, including specials and new features.
+**Location Information:** In addition to profile information, you may also tell us your exact location if you choose to enable your computer or mobile device to send us location information. We may use and store information about your location to provide features of our Services, such as tagging a video with a location, and to improve and customize the Services, for example, with Content that has been tagged near your location.
 
-**ii. Personal Information Collected Automatically**
+**Links:** We may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, for example to provide relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
 
-a. We receive and store certain types of information whenever you interact with our Website or use another feature of our Service. Fanatix automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested.
+**Cookies:** Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as viewing public videos. A cookie is a small data file that is transferred to your computer's hard disk. fanatix may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. If you do not want cookies from fanatix or other websites, you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.
 
-b. More generally, our Service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components. Fanatix only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or another feature of the Service so that we can make the Website appealing to as many customers as possible, and improve the Service. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Service. We share this type of statistical data so that our partners also understand how often people use our Service, so that they, too, may provide you with an optimal online experience. Again, Fanatix never discloses aggregate information to a partner in a manner that would identify you personally.
+**Log Data:** Our servers automatically record information (" **Log Data** ") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, view videos hosted by Fanatix, or interact with our email notifications. fanatix uses Log Data to provide our Services and to measure, customize, and improve them. If not already done earlier, we will either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months.
 
-**iii. E-mail Communications**
+**Third-Party Services:** fanatix uses a variety of third-party services to help provide our Services, including to host our various blogs and wikis and to help us understand the use of our Services. These third-party service providers may use cookies and other technologies to collect information about your use of our Services and other websites and services, including your IP address, device ID, pages viewed, and links clicked.
 
-We often receive a confirmation when you open an email from Fanatix if your computer supports this type of program. Fanatix uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.
+Information Sharing and Disclosure
 
-**3\. WHAT ABOUT COOKIES?**
+**Your Consent:** We may share or disclose your information at your direction, such as when you choose to publicly post a video or update your profile information.
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors. experiences, to learn more about their use of the Website and to improve quality.
+**Service Providers:** We engage service providers to perform functions and provide services to us in the United Kingdom and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Website's most attractive features.
+**Law and Harm:** Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect fanatix’s rights or property. However, nothing in this Privacy Policy is intended to limit any legal defences or objections that you may have to a third party's, including a government's, request to disclose your information.
 
-Ads appearing on the Website or in other features of the Service may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Fanatix and does not cover the use of cookies by any advertisers.
+**Business Transfers:** In the event that Fanatix is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
 
-**4\. WILL FANATIX SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?**
+**Non-Private or Non-Personal Information:** We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public posts, the people you follow or that follow you, or the number of users who clicked on a particular link (even if only one did).
 
-Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
+**Modifying Your Personal Information >**
 
-**i. Affiliated Businesses We Do Not Control**
+If you are a registered user of our Services, we provide you with tools and account settings to access or modify the profile information you provided to us and associated with your account.
 
-We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website and/or via email communications. In other situations, Fanatix may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.
+You can also permanently delete your Fanatix account by emailing [deleteaccount@fanatix.com](mailto:deleteaccount@fanatix.com)
 
-**ii. Agents**
+**Our Policy Towards Children**
 
-We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Fanatix's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please email [help@fanatix.com](mailto:help@fanatix.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
-**iii. User profiles and other information you post**
+**Changes to this Policy**
 
-User profile information including users. name, email address, and other information you enter ("User Submissions") may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Users. email addresses will not be directly revealed to other users by Fanatix, except, when the user is "connected" to another user via a shared group membership, or an invitation, or if the user has chosen to include their email address in their User Profile. Any Personal Information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your display name may be displayed to other users when you upload images or videos or send messages through the Website and other users can contact you through messages and comments. Any images, captions, physical descriptions, personal interests or other content that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [www.fanatix.com/privacy-policy](http://www.fanatix.com/privacy-policy). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-**iv. Communication in response to User Submissions**
-
-As part of the Service, you will receive from Fanatix email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Fanatix may send you email and other communication that it determines in its sole discretion relate to your User Submissions.
-
-**v. Promotional Offers**
-
-We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. All email controls that allow you to choose whether or not to receive these offers can be found in the Account Settings section of the Website.
-
-**vi. Business Transfers**
-
-In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Fanatix, or substantially all of its assets were acquired, or in the unlikely event that Fanatix goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Fanatix may continue to use your Personal Information as set forth in this policy.
-
-**vii. Protection of Fanatix and Others**
-
-We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Fanatix, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-
-**viii. With Your Consent**
-
-Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
-
-**5\. IS PERSONAL INFORMATION ABOUT ME SECURE?**
-
-Your Fanatix account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
-
-Fanatix endeavours to protect user information to ensure that user account information is kept private. However, Fanatix cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
-
-The Website contains links to other sites. Fanatix is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website.
-
-Please be aware that whenever you voluntarily post information to public areas on the Website or any other public forums, such information can be accessed by the public.
-
-**6\. WHAT CHOICES DO I HAVE?**
-
-As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of the Website or other features of the Service.
-
-You may request deletion of your Fanatix account by following the instructions at the Account Settings section of the Website. Please note that some information may remain in our records after deletion of your account.
-
-When you register for an account at our Website, you consent to receive email or other communications from us or, if you have registered through an Affiliated Business, the Affiliated Business; if you do not wish to receive such communications, you should not register for an account at our Website or through our Affiliated Businesses. Please note that if you choose not to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
-
-**7\. CHANGES TO THIS PRIVACY POLICY**
-
-Fanatix may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
-
-**8\. QUESTIONS OR CONCERNS**
-
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [privacy@Fanatix.com](mailto:privacy@Fanatix.com).
+**Effective: 17th February 2015**
