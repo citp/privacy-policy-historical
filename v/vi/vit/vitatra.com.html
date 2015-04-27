@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vitatra.com privacy policy that was archived on 2014-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141209062844id_/http%3A//vitatra.com/main/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitatra.com privacy policy that was archived on 2015-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150427114608id_/http%3A//www.vitatra.com/main/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -11,8 +11,9 @@
     <link rel="stylesheet" href="/shop_assets/css/normalize.css">
     <link rel="stylesheet" href="/shop_assets/css/base.css">
     <link rel="stylesheet" href="/shop_assets/css/idangerous.swiper.css">
-    <link rel="stylesheet" href="/shop_assets/css/override.css?v=2">
+    <link rel="stylesheet" href="/shop_assets/css/override.css?v=4">
     <link rel="stylesheet" href="/shop_assets/css/SmartNotification.css">
+    <link rel="stylesheet" href="/shop_assets/css/common.css">
 
 	<!-- FAVICONS -->
 	<link rel="shortcut icon" href="/shop_assets/img/favicon/favicon.ico" type="image/x-icon">
@@ -25,7 +26,7 @@
     <script src="/shop_assets/js/vendor/jquery.vticker-min.js"></script>
     <script src="/shop_assets/js/vendor/jquery.placeholder.js"></script>
     <script src="/shop_assets/js/plugins.js"></script>
-    <script src="/shop_assets/js/common.js?v=2"></script>
+    <script src="/shop_assets/js/common.js?v=3"></script>
     <script src="/shop_assets/js/SmartNotification.js"></script>
     <!--[if lt IE 9]>
         <script src="/shop_assets/js/vendor/respond.js"></script>
@@ -42,18 +43,22 @@
 
 ga('create', 'UA-53730566-1', 'auto');
 ga('send', 'pageview');
+
+var HTTP_SHOP_URL = 'http://www.vitatra.com';  
+var HTTPS_SHOP_URL = 'https://www.vitatra.com';
 </script>
     <div id="wrap">
         <!-- header -->
         <div id="header">
             <div class="header">
-                <h1><a href="/"><img src="/shop_assets/img/common/logo.gif" alt="Vitatra"></a></h1>
+				                <h1><a href="/"><img src="/shop_assets/img/common/logo_trans.png" alt="Vitatra"></a></h1>
                 <div class="utill">
-                    <p><strong>Best Quality! Low Prices!</strong>Smart Shopping, VITATRA<em></em></p>
+                    <p><strong>Best Quality! Lowest Price!</strong>Smart Shopping, VITATRA<em></em></p>
                                         <ul>
                                                 <li><a href="/account/login">Sign in</a></li>
                                                 <li><a href="/account/dashboard">My account</a></li>
                         <li><a href="/account/wishlists">Wishlists</a></li>
+                        <li class="reorder"><a href="/product/reorder">Reorder</a></li>
 						                        <li class="cart"><a href="/cart/item_list">Cart</a></li>
 						                    </ul>
                     <div id="layer_cart_add" class="layer_wrap" style="display:none;">
@@ -79,7 +84,7 @@ ga('send', 'pageview');
                 </div>
                 <div class="h_search">
                     <div class="search">
-						<form name="search" action="/product/search" method="get">
+						<form name="search" action="http://www.vitatra.com/product/search" method="get">
                         <input type="text" id="top_search" autocomplete="off" name="top_search" value="" onblur="setTimeout(function(){$('#search_result').hide();},300);" maxlength="60">
                         <a href="#" class="btn_sch" onclick="do_search();"><img src="/shop_assets/img/btn/btn_h_sch.gif" alt="search"></a>
 						</form>
@@ -186,11 +191,11 @@ ga('send', 'pageview');
 					</script>
                     <div class="word">
                         <p style="width: 440px;">
-						                            <span><a href="/product/search?top_search=godiva">godiva</a></span>
-						                            <span><a href="/product/search?top_search=stonewall">stonewall</a></span>
-						                            <span><a href="/product/search?top_search=Babo Botanical">Babo Botanical</a></span>
-						                            <span><a href="/product/search?top_search=nutella">nutella</a></span>
-						                            <span><a href="/product/search?top_search=zyliss">zyliss</a></span>
+						                            <span><a href="/product/search?top_search=Casmara">Casmara</a></span>
+						                            <span><a href="/product/search?top_search=Kikkerland">Kikkerland</a></span>
+						                            <span><a href="/product/search?top_search=Oogaa">Oogaa</a></span>
+						                            <span><a href="/product/search?top_search=Nature's Baby">Nature's Baby</a></span>
+						                            <span><a href="/product/search?top_search=Progressive">Progressive</a></span>
 						                        </p>
                     </div>
                 </div>
@@ -222,7 +227,7 @@ ga('send', 'pageview');
 
                 <!-- library -->
                 <div id="gnb">
-                    <div class="category"><div class="menu"><a href="javascript:void(0)"><span>CATEGORY</span></a></div><div class="category_open" style="display:none;"><ul><li><a href="/product/category/368"><span>VITAMIN</span></a></li><li><a href="/product/category/370"><span>BABY</span></a></li><li><a href="/product/category/371"><span>GROCERY</span></a></li><li><a href="/product/category/372"><span>HOUSE</span></a></li><li><a href="/product/category/373"><span>BEAUTY</span></a></li><li><a href="/product/category/374"><span>FOOD</span></a></li><li><a href="/product/category/530"><span>★ EVENT ★</span></a></li></ul></div></div>					
+                    <div class="category"><div class="menu"><a href="javascript:void(0)"><span>CATEGORY</span></a></div><div class="category_open" style="display:none;"><ul><li><a href="/product/category/368" class="big-cate"><span>VITAMIN</span></a><div id="gnb_sub" class="sub_vitamin"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/368-607">Baby &amp; Children</a></li><li class="noline"><a href="/product/category/368-613">Senior</a></li><li class=""><a href="/product/category/368-621">Maternity</a></li><li class="noline"><a href="/product/category/368-628">Women</a></li><li class=""><a href="/product/category/368-637">Men</a></li><li class="noline"><a href="/product/category/368-385">Multi Vitamins</a></li><li class=""><a href="/product/category/368-392">Vitamin A-Z</a></li><li class="noline "><a href="/product/category/368">ALL</a></li></ul></div><div><a href="/product/brand/516"><img src="/webdata/display/nav_category_368.jpg" alt="vitamin shop now"></a></div></div></li><li><a href="/product/category/370" class="big-cate"><span>BABY</span></a><div id="gnb_sub" class="sub_baby"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/370-398">Accessories</a></li><li class="noline"><a href="/product/category/370-399">Bath &amp; Skincare</a></li><li class=""><a href="/product/category/370-400">Blanket</a></li><li class="noline"><a href="/product/category/370-401">Bottle</a></li><li class=""><a href="/product/category/370-402">Diapering</a></li><li class="noline"><a href="/product/category/370-403">Feeding</a></li><li class=""><a href="/product/category/370-405">Juice &amp; Drinks</a></li><li class="noline "><a href="/product/category/370">ALL</a></li></ul></div><div><a href="/product/brand/471"><img src="/webdata/display/nav_category_370.jpg" alt="baby shop now"></a></div></div></li><li><a href="/product/category/371" class="big-cate"><span>GROCERY</span></a><div id="gnb_sub" class="sub_grocery"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/371-415">Baking &amp; mixes</a></li><li class="noline"><a href="/product/category/371-418">Coffee &amp; Tea</a></li><li class=""><a href="/product/category/371-419">Cookies</a></li><li class="noline"><a href="/product/category/371-604">Chocolate &amp; Candies</a></li><li class=""><a href="/product/category/371-422">Dried fruit</a></li><li class="noline"><a href="/product/category/371-423">Drink mix</a></li><li class=""><a href="/product/category/371-425">Gummy</a></li><li class="noline "><a href="/product/category/371">ALL</a></li></ul></div><div><a href="/product/brand/518"><img src="/webdata/display/nav_category_371.jpg" alt="grocery shop now"></a></div></div></li><li><a href="/product/category/372" class="big-cate"><span>HOUSE</span></a><div id="gnb_sub" class="sub_house"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/372-656">Accessories</a></li><li class="noline"><a href="/product/category/372-439">Apron</a></li><li class=""><a href="/product/category/372-434">Bath &amp; Shower</a></li><li class="noline"><a href="/product/category/372-435">Candle</a></li><li class=""><a href="/product/category/372-436">Dish Detergent </a></li><li class="noline"><a href="/product/category/372-438">Kitchen &amp; Dining</a></li><li class=""><a href="/product/category/372-440">Laundry</a></li><li class="noline "><a href="/product/category/372">ALL</a></li></ul></div><div><a href="/product/brand/535"><img src="/webdata/display/nav_category_372.jpg" alt="house shop now"></a></div></div></li><li><a href="/product/category/373" class="big-cate"><span>BEAUTY</span></a><div id="gnb_sub" class="sub_beauty"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/373-445">Bath &amp; Shower</a></li><li class="noline"><a href="/product/category/373-447">Cosmetics</a></li><li class=""><a href="/product/category/373-448">Deodorant</a></li><li class="noline"><a href="/product/category/373-450">Foot Care</a></li><li class=""><a href="/product/category/373-451">Lip Care</a></li><li class="noline"><a href="/product/category/373-452">Massage Oil</a></li><li class=""><a href="/product/category/373-444">Skin care</a></li><li class="noline "><a href="/product/category/373">ALL</a></li></ul></div><div><a href="/product/brand/603"><img src="/webdata/display/nav_category_373.jpg" alt="beauty shop now"></a></div></div></li><li><a href="/product/category/374" class="big-cate"><span>FOOD</span></a><div id="gnb_sub" class="sub_food"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/374-453">Berry</a></li><li class="noline"><a href="/product/category/374-454">Dried fruit</a></li><li class=""><a href="/product/category/374-458">Gummy</a></li><li class="noline"><a href="/product/category/374-460">Honey</a></li><li class=""><a href="/product/category/374-457">Jam</a></li><li class="noline"><a href="/product/category/374-456">Nuts</a></li><li class=""><a href="/product/category/374-461">Pancake mix</a></li><li class="noline "><a href="/product/category/374">ALL</a></li></ul></div><div><a href="/product/brand/586"><img src="/webdata/display/nav_category_374.jpg" alt="food shop now"></a></div></div></li><li><a href="/product/category/530" class="big-cate"><span>★ EVENT ★</span></a></li></ul></div></div>					
                     <div class="gnb">
                         <ul>
 							                                                                <li class=""><a href="/product/brand_main">BRAND</a></li>
@@ -252,7 +257,7 @@ ga('send', 'pageview');
         The organization collecting the information.<br>
         How the information is used.<br>
         With whom the information may be shared.<br>
-        What choices are available to you regarding collection, use and distribution of the information.<br>v
+        What choices are available to you regarding collection, use and distribution of the information.<br>
         The kind of security procedures that are in place to protect the loss, misuse or alteration of information under vitatra.com control.<br>
         How you can correct any inaccuracies in the information.<br>
         If you have questions or concerns regarding these statements, you should contact&nbsp;by help@vitatra.com.<br>
@@ -268,27 +273,6 @@ ga('send', 'pageview');
         <dl>
             <dt>When you visit our website, we collect non-personal information about your visit:</dt>
             <dd>We collect your IP address, browser type, domain name, and we log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits. We use this information to gather aggregate demographic information about our visitors, and we use it to personalize the information you see on our website and the emails you receive from us (should you grant us permission to send to you). We keep this information for our internal use; we do not share it with others. This information is in no way tied to your personal information, including your email address.</dd>
-        </dl>
-        <dl>
-            <dt>Vitatra.com uses tracking technologies</dt>
-            <dd>We use tracking technologies to send anonymous information about your browsing habits to a third party company.</dd>
-        </dl>
-        <dl>
-            <dt>When you subscribe to our newsletters, Vitatra Inc. asks you for contact information</dt>
-            <dd>When you sign up for our newsletters we use your name and email address to send you our health newsletters and to inform you of sales and special offers. When you submit a product review on our website, you are required to log into your customer account. Your comments, first name, city, and state will be displayed. However, no information that would allow others to contact you will be disclosed by Vitatra.com. Your information will be used for no other purpose than to allow you to submit product reviews.</dd>
-        </dl>
-        <dl>
-            <dt>Recommend a product to a friend</dt>
-            <dd>The information collected (friend's name and email address) is used to send a one-time only email to the friend letting them know about the product that the user recommends.<br>
-            If you place an online order, our secure order form requests contact, billing, and financial information&nbsp;(such as your credit card numbers for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and information about our company to you. Your contact information, including email address, is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. The credit card information we collect is used to bill you for products you purchase, and if you provide prior consent, this information may also be shared with a third party partner. For your convenience, your information including credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You may also place a Set &amp; Save order that will allow you to receive products on a regular basis without the need to reenter that order every time. You may cancel this order at any time by sending an email to&nbsp;help@vitatra.com&nbsp;or calling 1-213-765-0400.</dd>
-        </dl>
-        <dl>
-            <dt>We have several types of third-party relationships</dt>
-            <dd>We use third-party intermediaries. When you purchase from us, we send your credit card information, name, and billing address to credit card companies for verification and to authorize your purchase.<br>
-            We use outside shipping companies to fulfill orders. These companies do not retain, share, store or use personally identifiable information, including email address, for any other purposes.<br>
-            We provide certain third-party offers for your consideration. Should you choose to place an order with one of these partners, we may share certain information, including email address, necessary to facilitate your transaction with them. We will always ask for your consent prior to sharing your information with anyone.<br>
-            Vitatra.com handles the sending of order related and customer service related messages internally, as well as advertising related emails. Vitatra.com service providers do not retain nor use your personal information, including your email address for any other purpose except to provide the service on our behalf.<br>
-            We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.</dd>
         </dl>
         <dl>
             <dt>Vitatra.com uses tracking technologies</dt>
@@ -370,14 +354,17 @@ ga('send', 'pageview');
         <!-- footer -->
         <div id="footer">
             <div class="footer">
-                <ul>
+                <div style="text-align:center; border-bottom:1px solid #dfe1e3;">
+                <ul style="display:inline-block; border-bottom:none; margin-bottom:-5px;">
                     <li><a href="/main/about">About Vitatra</a></li>
                     <li><a href="/main/policy">Privacy Policy</a></li>
                     <li><a href="/main/shipping_and_return">Shipping &amp; Return</a></li>
                     <li><a href="/main/terms">Terms of Use</a></li>
+                    <li><a href="/main/referral_rewards">Referral Rewards</a></li>
                     <li><a href="/main/contact">Contact Us</a></li>
                     <li><a href="/main/faq">FAQ</a></li>
                 </ul>
+                </div>
                 <span class="logo"><img src="/shop_assets/img/common/logo_footer.gif" alt="Vitatra"></span>
                 <address>
 The products and information found on www.vitatra.com are not intended to replace professional medical advice or treatment.<br>
@@ -390,7 +377,11 @@ information pertaining to your health and well-being, including the use of suppl
             </div>
         </div>
         <!--// footer -->
-    </div>
+		    </div>
+
+
+    
+
     <script type="text/javascript">
         function history_preview(){
             var now_tab = $("#history_panel ul.on");
@@ -464,8 +455,11 @@ information pertaining to your health and well-being, including the use of suppl
 				}
 			}
 		}
-
-
+        
+        function showVcodePopup() {
+            $("#vcodePopupLayer").show();
+            $("#vcodePopupLayer").popup_layer_center();
+        }
 
     </script>
 
