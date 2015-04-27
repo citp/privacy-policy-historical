@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interoperabilitybridges.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929222541id_/http%3A//www.interoperabilitybridges.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interoperabilitybridges.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427033130id_/http%3A//www.interoperabilitybridges.com/PrivacyStatement) for the most accurate reproduction.*
 
 # Interoperability Bridges and Labs Center
 
