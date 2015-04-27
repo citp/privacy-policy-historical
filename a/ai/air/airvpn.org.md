@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airvpn.org privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014155750id_/https%3A//airvpn.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airvpn.org privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427215403id_/https%3A//airvpn.org/privacy) for the most accurate reproduction.*
 
 # Privacy - AirVPN
 
@@ -28,7 +28,7 @@ Data transmission is performed between Air servers network exclusively in order 
 
 Data are aggregated in anonymous form for statistical reports on servers usage, CPU stress, technical issues, in order to improve the service, fix bugs and as a countermeasure against net attacks.
 
-When users connect to AirVPN Virtual Private Network, no cookies are stored on their system. On the contrary, when users access AirVPN website (for example to enter the forum) cookies are stored on their systems in order to make possible the access to such additional services. Cookies are temporary; what's more, they can be deleted by the users whenever they wish. Under no circumstance Air uses cookies to track users or to collect any other data.
+When users connect to AirVPN Virtual Private Network, no cookies are stored on their system. On the contrary, when users access AirVPN website (for example to enter the forum) cookies are stored on their systems in order to make access to such additional services possible. Cookies are stored only for technical reasons and can be deleted anytime by the user. Cookies are specifically meant for technical help. Under no circumstance does Air use cookies to track and/or profile users.
 
 Users are free to send their personal information to the intermediary societies (e.g. PayPal, Moneybookers) which perform physical payment in order to access AirVPN services. Failure to do so might prevent access to AirVPN commercial services; however, those information are not under Air control.
 
