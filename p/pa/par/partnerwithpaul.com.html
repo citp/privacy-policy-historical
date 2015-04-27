@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the partnerwithpaul.com privacy policy that was archived on 2014-08-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140801051847id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the partnerwithpaul.com privacy policy that was archived on 2015-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150427125921id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -22,27 +22,156 @@ a:link, a:visited, a:hover, a:active {
 	
 }
 
-body,td,p {
+@media only screen and (max-width: 1026px) {
 
-	font-family: Georgia, Verdana, Arial, Helvetica;
-	font-size: 16px;
-	color: #000000;
+	body,td,p {
+
+		font-family: Georgia, Verdana, Arial, Helvetica;
+		font-size: 32px;
+		color: #000000;
 	
+	}
+	
+	font.subhead,td.subhead {
+
+		font-family: Georgia, Verdana, Arial, Helvetica;
+		font-size: 28px;
+
+	}
+
+  #headerimage {
+		display: none;
+   }
+	#maintable {
+		max-width:320px;
+	}
+	#papertop {
+		display: none;
+	}
+	#paperbot {
+		display: none;
+	}
+	#maintable {
+		max-width:320px;
+	}
+	
+	#hlinks {
+		display: none;	
+	}
+	
+	#hlinks2m {
+		display: block;	
+	}
+
+	#hlinksm {
+		display:block;
+	}
+
+	#cancel {
+		display:none;
+	}
+	
+	#cancelm {
+		display:block;
+	}
+	
+	#cancel2 {
+		display:none;
+	}
+	
+	#cancel2m {
+		display:block;
+	}
+
+	#tguard {
+		display:none;
+	}
+	
+	#tguardm {
+		display:block;
+	}
+	
+	font.footer {
+
+		font-family: Georgia, Verdana, Arial, Helvetica;
+		font-size: 24px;
+		color: #cccccc;
+	
+	}
+
+
+
 }
 
-font.subhead,td.subhead {
+@media screen and (min-width: 1026px) {
 
-	font-family: Georgia, Verdana, Arial, Helvetica;
-	font-size: 20px;
+	body,td,p {
+
+		font-family: Georgia, Verdana, Arial, Helvetica;
+		font-size: 16px;
+		color: #000000;
+	
+	}
+
+	font.subhead,td.subhead {
+
+		font-family: Georgia, Verdana, Arial, Helvetica;
+		font-size: 20px;
+
+	}
+
+	font.footer {
+
+		font-family: Georgia, Verdana, Arial, Helvetica;
+		font-size: 12px;
+		color: #cccccc;
+	
+	}
+	
+	#hlinks {
+		display: block;	
+	}
+	
+	#hlinksm {
+		display:none;
+	}
+	
+	#hlinks2m {
+		display: none;	
+	}
+
+	#cancel {
+		display:block;
+	}
+	
+	#cancelm {
+		display:none;
+	}
+	
+	#cancel2 {
+		display:block;
+	}
+	
+	#cancel2m {
+		display:none;
+	}
+
+	#tguard {
+		display:block;
+	}
+	
+	#tguardm {
+		display:none;
+	}
 
 }
 
-font.footer {
+font.fine,td.fine {
 
 	font-family: Georgia, Verdana, Arial, Helvetica;
 	font-size: 12px;
-	color: #cccccc;
-	
+	color: #000000;
+
 }
 
 a.footerlink:link    { color: #cccccc; }
@@ -58,21 +187,32 @@ a.footerlink:active  { color: #cccccc; }
 <body bgcolor="#ffffff" background="/images/bg.jpg"><center>
 
 
+<div id="headerimage">
 <img src="/images/header.jpg" width="750" height="253"><br>
+</div>
 
-
+<div id="papertop">
 <img src="/images/papertop.gif" width="750" height="7"><br>
+</div>
 
-<table width="750" bgcolor="#ffffff" border="0" cellpadding="25" cellspacing="0"><tbody><tr><td background="/images/paperbg.jpg">
-
+<table style="max-width:750px" bgcolor="#ffffff" border="0" cellpadding="25" cellspacing="0"><tbody><tr><td background="/images/paperbg.jpg">
 
 	<table border="0" width="100%" cellpadding="0" cellspacing="0">
 
-	<tbody><tr>
-		<td align="left"><font color="#990000"><b>Privacy Policy</b></font></td>
-		<td align="right"><a href="javascript: history.go(-1)">Return to the Previous Page</a> • <a href="/index.cgi">Home</a></td>
+<!-- Normal view -->
+	<tbody><tr id="hlinks">
+		<td align="left" width="375"><font color="#990000"><b>Privacy Policy</b></font></td>
+		<td align="right" width="375"><a href="javascript: history.go(-1)">Return to the Previous Page</a> • <a href="/index.cgi">Home</a></td>
 	</tr>
-
+<!-- End Normal View -->
+	<!-- Mobile View -->
+	<tr id="hlinksm">
+		<td align="left" colspan="2"><font color="#990000"><b>Privacy Policy</b></font></td>
+	</tr>
+	<tr id="hlinks2m">
+		<td align="right" colspan="2" style="padding-top:18px"><a href="javascript: history.go(-1)">Previous Page</a> • <a href="/index.cgi">Home</a></td>
+	</tr>
+	<!-- End Mobile View -->
 	<tr>
 		<td colspan="2"><br>
 
@@ -83,12 +223,23 @@ a.footerlink:active  { color: #cccccc; }
 			If you want to opt-out of email communications from PartnerWithPaul.com, cancel your account, 
 			or need to contact us for any other privacy related issue you may do so in the following ways:<br><br>
 			
+	<div id="cancel">
 			1. Email: <a href="mailto:contact@partnerwithpaul.com">contact@partnerwithpaul.com</a><br><img src="/images/transdot.gif" height="5" width="1"><br>
+
 			2. Website: <a href="/cancel.cgi">http://www.partnerwithpaul.com/cancel.cgi</a><br><img src="/images/transdot.gif" height="5" width="1"><br>
+</div>
+	<div id="cancelm">
+			1. Email: <a href="mailto:contact@partnerwithpaul.com">Click here</a><br><img src="/images/transdot.gif" height="5" width="1"><br>
+
+			2. Website: <a href="/cancel.cgi">Click here</a><br><img src="/images/transdot.gif" height="5" width="1"><br>
+</div>
+
 			3. Postal Mail: PartnerWithPaul.com LLC, 1675 Larimer St. Suite 640, Denver, CO 80202<br><img src="/images/transdot.gif" height="5" width="1"><br>
 			4. Telephone: (347)562-1179<br><br><br>
 
 
+	<!-- Begin Normal Version -->
+	<div id="tguard">
 			<center><table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
 
 		<td><div align="center">
@@ -126,7 +277,57 @@ function tg_image_load(img) { var src = (document.location.protocol == 'http:') 
 </script>
 <a name="trustlink" href="http://secure.trust-guard.com/certificates/808" target="_blank" onclick="return open_tg_cert(this);" oncontextmenu="return tg_context();"><img onload="tg_image_load(this);" name="trustseal" alt="Trust Guard Certified" style="border: 0;" src="https://secure.trust-guard.com/secureseals/certified-808-small-gray.gif"></a></div></td>
 
-			</tr></tbody></table></center><br><br>
+			</tr></tbody></table></center>
+			</div>
+			<!-- End Normal Version -->
+			
+			<!-- Begin Mobile -->
+				<div id="tguardm">
+			<center><table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+
+		<td><div align="center">
+		<script type="text/javascript">
+function open_tg_cert(link) { var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(link.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=150,height='+screen.availHeight+',menubar=no,toolbar=no'); return false; }
+function tg_context() { var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard © '+d.getFullYear()+'.'); return false; }
+function tg_image_load(img) { var src = (document.location.protocol == 'http:') ? 'http://seals.trust-guard.com/' : 'https://secure.trust-guard.com/secureseals/'; img.onload = null; img.src = src + img.name; img.name = 'trustseal'; }
+</script>
+<a name="trustlink" href="http://secure.trust-guard.com/certificates/808" target="_blank" onclick="return open_tg_cert(this);" oncontextmenu="return tg_context();"><img onload="tg_image_load(this);" name="trustseal" alt="Business Verified" style="border: 0;" src="https://secure.trust-guard.com/secureseals/business-808-small-gray.gif"></a></div></td>
+
+	<td>&nbsp;</td>
+
+		<td><div align="center"><script type="text/javascript">
+function open_tg_cert(link) { var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(link.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=150,height='+screen.availHeight+',menubar=no,toolbar=no'); return false; }
+function tg_context() { var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard © '+d.getFullYear()+'.'); return false; }
+function tg_image_load(img) { var src = (document.location.protocol == 'http:') ? 'http://seals.trust-guard.com/' : 'https://secure.trust-guard.com/secureseals/'; img.onload = null; img.src = src + img.name; img.name = 'trustseal'; }
+</script>
+<a name="trustlink" href="http://secure.trust-guard.com/certificates/808" target="_blank" onclick="return open_tg_cert(this);" oncontextmenu="return tg_context();"><img onload="tg_image_load(this);" name="trustseal" alt="Privacy Verified" style="border: 0;" src="https://secure.trust-guard.com/secureseals/privacy-808-small-gray.gif"></a></div></td>
+
+		</tr>
+		<tr>
+
+		<td><div align="center"><script type="text/javascript">
+function open_tg_cert(link) { var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(link.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=150,height='+screen.availHeight+',menubar=no,toolbar=no'); return false; }
+function tg_context() { var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard © '+d.getFullYear()+'.'); return false; }
+function tg_image_load(img) { var src = (document.location.protocol == 'http:') ? 'http://seals.trust-guard.com/' : 'https://secure.trust-guard.com/secureseals/'; img.onload = null; img.src = src + img.name; img.name = 'trustseal'; }
+</script>
+<a name="trustlink" href="http://secure.trust-guard.com/certificates/808" target="_blank" onclick="return open_tg_cert(this);" oncontextmenu="return tg_context();"><img onload="tg_image_load(this);" name="trustseal" alt="Security Seal" style="border: 0;" src="https://secure.trust-guard.com/secureseals/security-808-small-gray.gif"></a></div></td>
+
+	<td>&nbsp;</td>
+				
+					<td><div align="center"><script type="text/javascript">
+function open_tg_cert(link) { var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(link.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=150,height='+screen.availHeight+',menubar=no,toolbar=no'); return false; }
+function tg_context() { var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard © '+d.getFullYear()+'.'); return false; }
+function tg_image_load(img) { var src = (document.location.protocol == 'http:') ? 'http://seals.trust-guard.com/' : 'https://secure.trust-guard.com/secureseals/'; img.onload = null; img.src = src + img.name; img.name = 'trustseal'; }
+</script>
+<a name="trustlink" href="http://secure.trust-guard.com/certificates/808" target="_blank" onclick="return open_tg_cert(this);" oncontextmenu="return tg_context();"><img onload="tg_image_load(this);" name="trustseal" alt="Trust Guard Certified" style="border: 0;" src="https://secure.trust-guard.com/secureseals/certified-808-small-gray.gif"></a></div></td>
+</tr>
+
+			</tbody></table></center>
+			</div>
+
+			<!-- End Mobile -->
+			
+			<br><br>
 
 
 			<b><u>What information does PartnerWithPaul.com collect from visitors?</u></b><br><br>
@@ -243,8 +444,17 @@ If you register as an affiliate, we will collect personally identifiable informa
 			Please note however that even if you opt-out, you may still receive important announcements or 
 			updates regarding your PartnerWithPaul.com account unless you cancel your account.<br><br>
 
+	<div id="cancel2">
 			1. Email: <a href="mailto:contact@partnerwithpaul.com">contact@partnerwithpaul.com</a><br><img src="/images/transdot.gif" height="5" width="1"><br>
+
 			2. Website: <a href="/cancel.cgi">http://www.partnerwithpaul.com/cancel.cgi</a><br><img src="/images/transdot.gif" height="5" width="1"><br>
+</div>
+	<div id="cancel2m">
+			1. Email: <a href="mailto:contact@partnerwithpaul.com">Click here</a><br><img src="/images/transdot.gif" height="5" width="1"><br>
+
+			2. Website: <a href="/cancel.cgi">Click here</a><br><img src="/images/transdot.gif" height="5" width="1"><br>
+</div>
+
 			3. Postal Mail: PartnerWithPaul.com LLC, 1675 Larimer St. Suite 640, Denver, CO 80202<br><img src="/images/transdot.gif" height="5" width="1"><br>
 			4. Telephone: (347) 562-1179<br><br><br>
 
@@ -294,7 +504,9 @@ If you register as an affiliate, we will collect personally identifiable informa
 
 </td></tr></tbody></table>
 
+<div id="paperbot">
 <img src="/images/paperbot.gif" width="750" height="7"><br><br>
+</div>
 
 
 <center><font class="footer">
@@ -309,7 +521,7 @@ If you register as an affiliate, we will collect personally identifiable informa
 
 	<b>This offer is not available in the state of South Dakota.</b><br><br>
 
-	© 2014 PartnerWithPaul.com. All Rights Reserved.<br>
+	© 2015 PartnerWithPaul.com. All Rights Reserved.<br>
 
 </font></center>
 
