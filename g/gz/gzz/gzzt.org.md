@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gzzt.org privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127051301id_/http%3A//gzzt.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gzzt.org privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427033205id_/http%3A//gzzt.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
