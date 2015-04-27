@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitatra.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209062844id_/http%3A//vitatra.com/main/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitatra.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427114608id_/http%3A//www.vitatra.com/main/policy) for the most accurate reproduction.*
 
 # Vitatra
 
@@ -10,7 +10,7 @@ The organization collecting the information.
 How the information is used.  
 With whom the information may be shared.  
 What choices are available to you regarding collection, use and distribution of the information.  
-v The kind of security procedures that are in place to protect the loss, misuse or alteration of information under vitatra.com control.  
+The kind of security procedures that are in place to protect the loss, misuse or alteration of information under vitatra.com control.  
 How you can correct any inaccuracies in the information.  
 If you have questions or concerns regarding these statements, you should contact by help@vitatra.com.  
 At Vitatra.com we protect your privacy as if it were our own. We use the information you provide to us for six purposes only: 1) to process your order(s), 2) to reply to your questions, 3) provide our newsletter via email, 4) to provide our print catalog via postal mail, 5) to facilitate a transaction you chose to enter into with our third party partner(s) and 6) to incorporate your feedback into improvements to our Web site. We will not give, sell, or rent your personal information, including email address, or specific account activity to anyone for any reason without your prior consent except as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
@@ -23,23 +23,6 @@ Information We Collect
 
 When you visit our website, we collect non-personal information about your visit:
     We collect your IP address, browser type, domain name, and we log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits. We use this information to gather aggregate demographic information about our visitors, and we use it to personalize the information you see on our website and the emails you receive from us (should you grant us permission to send to you). We keep this information for our internal use; we do not share it with others. This information is in no way tied to your personal information, including your email address.
-
-Vitatra.com uses tracking technologies
-    We use tracking technologies to send anonymous information about your browsing habits to a third party company.
-
-When you subscribe to our newsletters, Vitatra Inc. asks you for contact information
-    When you sign up for our newsletters we use your name and email address to send you our health newsletters and to inform you of sales and special offers. When you submit a product review on our website, you are required to log into your customer account. Your comments, first name, city, and state will be displayed. However, no information that would allow others to contact you will be disclosed by Vitatra.com. Your information will be used for no other purpose than to allow you to submit product reviews.
-
-Recommend a product to a friend
-    The information collected (friend's name and email address) is used to send a one-time only email to the friend letting them know about the product that the user recommends.  
-If you place an online order, our secure order form requests contact, billing, and financial information (such as your credit card numbers for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send orders and information about our company to you. Your contact information, including email address, is also used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. The credit card information we collect is used to bill you for products you purchase, and if you provide prior consent, this information may also be shared with a third party partner. For your convenience, your information including credit card and order history is stored on a secure server that allows you to reorder by entering your email address and password. You may also place a Set & Save order that will allow you to receive products on a regular basis without the need to reenter that order every time. You may cancel this order at any time by sending an email to help@vitatra.com or calling 1-213-765-0400.
-
-We have several types of third-party relationships
-    We use third-party intermediaries. When you purchase from us, we send your credit card information, name, and billing address to credit card companies for verification and to authorize your purchase.  
-We use outside shipping companies to fulfill orders. These companies do not retain, share, store or use personally identifiable information, including email address, for any other purposes.  
-We provide certain third-party offers for your consideration. Should you choose to place an order with one of these partners, we may share certain information, including email address, necessary to facilitate your transaction with them. We will always ask for your consent prior to sharing your information with anyone.  
-Vitatra.com handles the sending of order related and customer service related messages internally, as well as advertising related emails. Vitatra.com service providers do not retain nor use your personal information, including your email address for any other purpose except to provide the service on our behalf.  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
 
 Vitatra.com uses tracking technologies
     We use tracking technologies to send anonymous information about your browsing habits to a third party company.
