@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120092152id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427162904id_/http%3A//www.textbookx.com/service/privacy.php) for the most accurate reproduction.*
 
 # Buy and Sell New and Used College Textbooks
 
@@ -27,6 +27,9 @@ We request information from the user on our order form. Here a user must provide
 
 We use cookies in our system for order processing and other tracking capabilities. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
 
+Akademos.com and TextbookX.com use 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google's or any other 3rd party remarketing system. The third-party vendors, including Google, whose services we use - will place cookies on web browsers in order to serve ads based on past visits to our website.  
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service. You can opt out of Google's use of cookies by visiting Google's Ads Settings (<https://www.google.com/settings/ads>) at any time. 
+
 ## Log Files 
 
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
@@ -53,7 +56,7 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When you place an order with us, you are using our secure e-commerce server and secure server software (SSL). This means that all of the information you enter is encrypted before we receive it. 
 
-If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20141120092152id_/http%3A//www.textbookx.com/emailus.php)
+If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20150427162904id_/http%3A//www.textbookx.com/emailus.php)
 
 ## Administrative Type Emails
 
