@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702080942id_/https%3A//www.thereadingroom.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428014334id_/https%3A//www.thereadingroom.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy | TheReadingRoom
+# Privacy Policy | The Reading Room
 
 ## Introduction
 
-TheReadingRoom.com (Site) is owned by Reading Room Inc. (“TRR”) (referred to as "We", "us" and "our"). This statement sets out TRR’s policies relating to the collection and use of information about you ("personal information"). These policies are in addition to TRR’s Terms & Conditions governing TRR and should be read in conjunction with the [Terms & Conditions.](http://www.thereadingroom.com/terms_conditions)
+TheReadingRoom.com (Site) is owned by Reading Room Inc. ('TRR') (referred to as "We", "us" and "our"). This statement sets out TRR's policies relating to the collection and use of information about you ("personal information"). These policies are in addition to TRR's Terms & Conditions governing TRR and should be read in conjunction with the [Terms & Conditions.](http://www.thereadingroom.com/terms_conditions)
 
 The following policies set out how we protect your personal information and safeguard your privacy.
 
@@ -48,7 +48,7 @@ We may use any information we collect through the Site including your personal i
 
 In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies, and events, sponsored by us and others, that we think might interest you. You may opt-out of receiving such notices from us by following the instructions in the Settings section of the Site.
 
-We may share non-personally identifiable information, such as aggregated user statistics, with third parties. We do not provide your personal information to third parties for those third parties’ marketing purposes unless you consent to such sharing at the time you provide your personal information. We may use your personal information for promotional and marketing purposes with companies with whom we enter into marketing and promotional arrangements. 
+We may share non-personally identifiable information, such as aggregated user statistics, with third parties. We do not provide your personal information to third parties for those third parties' marketing purposes unless you consent to such sharing at the time you provide your personal information. We may use your personal information for promotional and marketing purposes with companies with whom we enter into marketing and promotional arrangements. 
 
 We may also share the information we have collected about you in the following circumstances.
 
