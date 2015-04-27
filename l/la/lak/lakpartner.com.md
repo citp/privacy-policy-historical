@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lakpartner.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527062558id_/http%3A//www.lakpartner.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakpartner.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427024208id_/http%3A//www.lakpartner.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# lakpartner.com: Privacy policy
+# Privacy policy | Gossip lanka news Actress lanka magazine cover paper article col3 tharunaya lakpartner
 
-This Privacy Policy governs the manner in which Lakpartner.com collects, uses, maintains and discloses information collected from users (each, a "User") of the lakpartner.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Lakpartner.com.
+This Privacy Policy governs the manner in which lakpartner.com collects, uses, maintains and discloses information collected from users (each, a "User") of the lakpartner.com website ("Site"). This privacy policy applies to the Site and all products and services offered by lakpartner.com
 
 Personal identification information
 
