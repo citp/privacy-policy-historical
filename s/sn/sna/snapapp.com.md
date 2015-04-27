@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427033508id_/http%3A//www.snapapp.com/privacy) for the most accurate reproduction.*
 
 # SnapApp Privacy Policy | SnapApp
 
@@ -13,12 +13,12 @@ We regularly review our compliance with this Policy. SnapApp may edit this Polic
   
 
 
-  * [I. Collected Information](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#collected_information)
-  * [II. Use Of Collected Information](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#use_of_collected_information)
-  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#information_sharing_and_disclosure)
-  * [IV. Access to Information and Preferences/Opt-Out](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#access_to_information)
-  * [V. Security](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#security)
-  * [VI. Children](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#children)
+  * [I. Collected Information](https://web.archive.org/web/20150427033508id_/http%3A//www.snapapp.com/privacy#collected_information)
+  * [II. Use Of Collected Information](https://web.archive.org/web/20150427033508id_/http%3A//www.snapapp.com/privacy#use_of_collected_information)
+  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20150427033508id_/http%3A//www.snapapp.com/privacy#information_sharing_and_disclosure)
+  * [IV. Access to Information and Preferences/Opt-Out](https://web.archive.org/web/20150427033508id_/http%3A//www.snapapp.com/privacy#access_to_information)
+  * [V. Security](https://web.archive.org/web/20150427033508id_/http%3A//www.snapapp.com/privacy#security)
+  * [VI. Children](https://web.archive.org/web/20150427033508id_/http%3A//www.snapapp.com/privacy#children)
 
   
 
