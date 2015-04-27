@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessoriesfreeads.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221103220id_/http%3A//www.accessoriesfreeads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessoriesfreeads.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427040724id_/http%3A//www.accessoriesfreeads.com/privacy.php) for the most accurate reproduction.*
 
 # Qtellwholesale Limited Private Policy and Cookie Policy Ireland for all webdesign, eCommerce plus all classifieds web sites
 
