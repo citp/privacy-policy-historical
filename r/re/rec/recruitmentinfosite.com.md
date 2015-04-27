@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recruitmentinfosite.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704184741id_/http%3A//www.recruitmentinfosite.com/2013/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmentinfosite.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427021219id_/http%3A//www.recruitmentinfosite.com/2013/10/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Recruitment 2014-15 Notification
+# Privacy Policy ~ Recruitment 2015-16 Notification
 
 In general, you can visit Recruitmentinfosite.com Internet sites without telling us who you are or revealing any information about yourself. Our Internet servers collect the domain names and ip addresses of visitors and keeps for one month. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed and similar information.
 
