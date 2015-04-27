@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528021508id_/http%3A//www.innovation.gov.au/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovation.gov.au privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427153633id_/http%3A//www.industry.gov.au/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-As an Australian Government Agency, the Department of Industry ( **we, our, us, the Department** ) is bound by the Australian Privacy Principles (APPs) in the ** __**[**_Privacy Act 1988  _**](http://www.comlaw.gov.au/Details/C2012C00903 "External Site - Comlaw - Privacy Act 1988") (the Privacy Act), which regulates how agencies collect, use, disclose and store personal information, including sensitive information, and how individuals may access and correct records containing their personal information. 
+As an Australian Government Agency, the Department of Industry and Science ( **we, our, us, the Department** ) is bound by the Australian Privacy Principles (APPs) in the __[_Privacy Act 1988  _](http://www.comlaw.gov.au/Details/C2012C00903 "External Site - Comlaw - Privacy Act 1988") (the Privacy Act), which regulates how agencies collect, use, disclose and store personal information, including sensitive information, and how individuals may access and correct records containing their personal information. 
 
 The Department respects the right to privacy under the Privacy Act and complies with Privacy Act requirements in relation to the collection and management of personal information. 
 
-The following provides a general overview of the Department’s Privacy Policy. **** Please refer to the [Department’s Privacy Policy](https://web.archive.org/Documents/TheDepartmentofIndustryPrivacyPolicy.pdf) |[](https://web.archive.org/Documents/TheDepartmentofIndustryPrivacyPolicy.docx "Department's Privacy Policy") for detailed information about how the Department handles personal information. 
+The following provides a general overview of the Department’s Privacy Policy. Please refer to the[Department’s Privacy Policy](https://web.archive.org/Documents/TheDepartmentofIndustryPrivacyPolicy.pdf) |[](https://web.archive.org/Documents/TheDepartmentofIndustryPrivacyPolicy.docx) for detailed information about how the Department handles personal information. 
 
 ## Collection of personal information 
 
@@ -32,13 +32,13 @@ In limited circumstances, the Department may receive ‘unsolicited personal inf
 
 We understand that from time to time an individual may not want to provide the Department with personal information. That is fine, however, it may mean that we are not able to provide that individual with the products and services they require, or a high level of service. Accordingly, the Department will ordinarily request that an individual identify themselves for the Department to appropriately carry out its functions and activities. 
 
-**Dealing with personal information**
+### **Dealing with personal information**
 
 The Department only uses and discloses personal information for the purposes for which it was provided to us, being purposes which are directly related to one of our functions or activities, unless the use and disclosure is otherwise authorised by the Privacy Act (for example, where the secondary purpose is related to the primary purpose or where an individual consents to the use or disclosure). 
 
 Personal information may be disclosed to third parties, including third party suppliers and service providers located overseas, for purposes related to the Department’s functions or activities. Where necessary the Department will take reasonable steps to ensure that overseas recipients do not breach privacy obligations relating to personal information under the Privacy Act. However, in some circumstances personal information may be subject to local legislation instead of the Privacy Act. 
 
-**Integrity of personal information**
+### **Integrity of personal information**
 
 Once the Department receives personal information, the information is maintained in a secure environment. Personal information will not be released by the Department unless in accordance with the Privacy Act or where consent is provided. 
 
@@ -46,7 +46,7 @@ We take all reasonable steps to ensure that the personal information we hold is 
 
 We also take all reasonable steps to ensure that personal information collected by us is accurate, up to date, complete and relevant. These measures include updating and maintaining personal information when we are advised by individuals that information is incorrect or has changed. 
 
-**Access to, and correction of, personal information**
+### **Access to, and correction of, personal information**
 
 Individuals may request access to any personal information we hold about them by contacting us. In addition, where individuals believe that personal information we hold about them is incorrect, incomplete or inaccurate, then they may request to have it amended. 
 
@@ -56,7 +56,7 @@ In the unlikely event that access to, or correction of, personal information is 
 
 For more information about access and correction of personal information refer to the Department’s Privacy Policy. 
 
-**Contacting us**
+### **Contacting us**
 
 All general enquiries, complaints about the Department's compliance with the Privacy Act, or requests for access or correction, should be directed to the Department's Privacy Contact Officer. 
 
@@ -64,15 +64,15 @@ Email: [privacy@industry.gov.au](mailto:privacy@industry.gov.au "Privacy Team In
 
 Post: Privacy Contact Officer   
 Legal Branch   
-Department of Industry   
+Department of Industry and Science  
 GPO Box 9839   
 Canberra ACT 2601 
 
-**Our Website**
+### **Our Website**
 
 The Department's website contains links to other websites. The Department is not responsible for the content and the privacy practices of other websites. The Department encourages individuals to examine each website's privacy policy. 
 
-For information on the Department's policy relating to copyright, external websites, clickstream data, cookies, email addresses and security, please refer to the information published on the [**Department's Website Legal notices page** ](https://web.archive.org/AboutUs/LegalandLegislativeReporting/Pages/LegalNotices.aspx "Department's internet Legal Notices Page")
+For information on the Department's policy relating to copyright, external websites, clickstream data, cookies, email addresses and security, please refer to the information published on the [Department's Website Legal notices page](https://web.archive.org/AboutUs/LegalandLegislativeReporting/Pages/LegalNotices.aspx "Department's internet Legal Notices Page").
 
 ## Google Analytics
 
