@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emo-corner.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829145120id_/http%3A//www.emo-corner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emo-corner.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427093525id_/http%3A//www.emo-corner.com/privacy.html) for the most accurate reproduction.*
 
 # Emo Corner Privacy Statement
 
