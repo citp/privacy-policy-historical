@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tupalo.co privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222213935id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupalo.co privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427053716id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Tupalo - Stuff In Your Neighborhood
 
