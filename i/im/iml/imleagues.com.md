@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613034050id_/http%3A//www.imleagues.com/Portal.aspx%3FPortal%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427200226id_/http%3A//www.imleagues.com/Portal.aspx%3FPortal%3Dprivacy) for the most accurate reproduction.*
 
-# IMLeagues
-
-## Privacy Policy
+# IMLeagues Privacy Policy
 
 How we keep your information safe: Effective January 20, 2008
 
