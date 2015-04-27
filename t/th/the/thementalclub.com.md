@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thementalclub.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228053517id_/http%3A//thementalclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thementalclub.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427232130id_/http%3A//thementalclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Policy - The Mental Club
 
@@ -25,11 +25,11 @@ Any of the information we collect from you may be used in one of the following w
 Your information, whether public or private, will not be sold, exchanged, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 **To send periodic emails**  
-The email address you provide for order processing, will only be used to send you information and updates of latest posts.
+The email address you provide for order processing, will only be used to send you information and updates of the latest posts.
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service provider’s systems to recognize your browser and capture and remember certain information.
 
 **Do we disclose any information to the outside parties?**
 
