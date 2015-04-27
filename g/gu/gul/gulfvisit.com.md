@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gulfvisit.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920234915id_/http%3A//www.gulfvisit.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfvisit.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427234557id_/http%3A//gulfvisit.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Gulf Visit: Privacy Policy
+# Gulf Visit
 
 The privacy of our Jobs Seekers and Jobs Advertisers is important to us.  
 At [http://www.gulfvist.com](http://www.gulfvist.com/) we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our site, and how we safeguard your information. We never sell your personal information to third parties.
@@ -15,4 +15,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 We are in compliance with the requirements of COPPA (Children Online Privacy Protection Act), our policy is located at.  
+We enabled advertiser features for Demographics and Interest reporting, Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration.  
 The contents of this statement may be altered at any time, at our discretion and you can find the altered content on this page.
+
+Please fill atleast keywords or location.
