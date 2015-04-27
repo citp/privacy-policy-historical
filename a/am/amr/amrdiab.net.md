@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amrdiab.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120155337id_/http%3A//amrdiab.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amrdiab.net privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427183848id_/http%3A//www.amrdiab.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
