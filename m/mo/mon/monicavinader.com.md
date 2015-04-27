@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228092117id_/http%3A//www.monicavinader.com/us/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427041743id_/http%3A//www.monicavinader.com/us/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
 
 # Privacy Policy
 
