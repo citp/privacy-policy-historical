@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the busters.co.za privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120115758id_/http%3A//www.busters.co.za/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the busters.co.za privacy policy that was archived on 2015-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150427190256id_/http%3A//www.busters.co.za/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Privacy Policy | Busters</title>
+  <title>Privacy Policy | Busters Discount Vouchers</title>
   <meta name="description" content="View our Privacy policy for Busters.co.za usage.">  
   <meta name="viewport" content="width=device-width">
   <link rel="shortcut icon" href="http://www.busters.co.za/favicon.ico">
@@ -12,8 +12,8 @@
         <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>-->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://www.busters.co.za/assets/base/js/jquery-1.10.2.js"></script>
   <script type="text/javascript" src="http://www.busters.co.za/assets/base/js/scripts.js"></script>
   <script type="text/javascript">
 var googletag = googletag || {};
@@ -46,8 +46,34 @@ googletag.enableServices();
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-48380016-1', 'busters.co.za');
+  ga('require', 'displayfeatures');
   ga('send', 'pageview');
 
+function setCookie(cname, cvalue, exdays)
+{
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+function getCookie(cname)
+{
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++)
+	{
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+    }
+    return "";
+}
+function closeShopperNoticePanel()
+{
+	$("#shopperNotice").fadeOut(1000);
+	document.cookie="disabledShopperNotice=1";
+	setCookie("disabledShopperNotice","1",30);	
+}
 </script>
 
   </head>
@@ -63,8 +89,8 @@ googletag.enableServices();
 		<div id="div-gpt-ad-1393344032818-0" style="width:728px; height:90px;">
 		<script type="text/javascript">
 		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1393344032818-0'); });
-		</script>
-		</div>
+		</script>		
+		</div>		
 	</div>
 	
     <div id="menu">
@@ -76,14 +102,37 @@ googletag.enableServices();
                                 <li><a href="http://www.busters.co.za/merchant/create_account" title="">Create Coupon</a></li>
 								<li><a href="http://www.busters.co.za/login" title="">Login</a></li>
                             </ul>
-                        <form action="http://www.busters.co.za/coupons/search" method="post" accept-charset="utf-8" id="menu_search_form"><input type="text" name="search" value="" id="search" maxlength="30" placeholder="Search..."><input type="submit" name="submit" value="Submit"></form>    </div>
+                        <form action="http://www.busters.co.za/coupons/search" method="post" accept-charset="utf-8" id="menu_search_form" class="menu_search_form"><input type="text" name="search" value="" id="search" maxlength="30" placeholder="Search..."><input type="submit" name="submit" value="Submit"></form>  <!--<script src="http://www.busters.co.za/assets/base/js/jquery-1.10.2.js"></script>-->
+  <link rel="stylesheet" href="http://www.busters.co.za/assets/base/css/jquery-ui.css">
+  <script src="http://www.busters.co.za/assets/base/js/jquery-ui.js"></script>
+  <script type="text/javascript">
+	$(function() {
+		var availableTags = ["Groserries","Cut & Free Blow Wave","Eyebrow Shape","Chevrolet Captiva 24 Fwd A/T Lt","Holistix Garcinia - 60 Caps - Weightloss","Brand Fragrances","Cocktails All Day and All Night Monday","All Skin treatment","Perfumes & Colognes","Dell Latitude E6410 Core i5 Laptop (Demo Model)","Printer Toner & Ink Cartridges For Sale","Vinyl Wall Art & Decals","Everything at Wantitall","4CH full D1 H264 DVR CCTV System","Cape Town holiday cottages and Cabanas","Handbags & accessories","European Designer shoes","Tissue Oil Gel","Assassins Creed Hoodie","Elba 12 Place Setting Metallic Dishwasher","Free Muffin with cuppachino or tea","Cosmetics","Wall decor","12 popular kids products + extras","Tuesdays and Wednesdays all pizza and Pasta","Chevrolet Cruze 14T Ls 5Dr Hatch","Sex Toys & Sexy Lingerie - Adult Content","Sleep Reprogram your child to be a Genius","Couples Massage","Birthday Picture Cakes","Classic and Modern Cakes","Management Platter- Lobster 2 Sole and Calamari","Saturday's Two Seafood Platters + House Wine","Free fax to email number","Kissed Perfume for Him","Microgreen growing kits","Elba 8KG Metallic Washing Machine Front Loader","All Fashion shoes & accessories","DELL Optiplex GX745 Towers+17 LCD Intel Dual Core","ADT Rental Alarm System","Betterlife Garcinia Cambogia","Refill your printer cartridge","Prepaid Water Meter","First call for setup and basic training","Electricity Meter For a Home Or Office","Chevrolet Trailblazer 25 Lt 4X2 M/T","Lingerie","Nail Ultraviolet UV Lamps 36w 4 Bulb","Superstore Pets shop","All Beauty Products","Bedding online","2 GoldFish","Windscreen Chip Repairs","Printed Paisley Pashmina","Mother's Day Gift on Hair Treatments etc","Free Shipping","Fashion shoes and Accessories","Go-Souvlaki","2 Free Cocktails For Ladies","Sunday Lunch","Ladies Clothing Shoes & Accessories","Group Accomodation 5 Rooms Booking Package","Bathroom Ware & Accessories","30 Day Free Remote IT Support","Karoo Lamb Whole or Half Lamb","delicious prawns on wednesday nights","Everything at MassBuy","Character Fleece blanket","Get your First Month Free on Web Hosting","Create Your Own 3d Arts & Crafts","Fashion items shoes and Bags","Sunglasses","Luggage leather goods briefcases and Handbags","Stunning Fashion Jewellery","60 Min Massage","Italian Designer suits and clothing","Designer Shoes","Monday Meals","Save R 150 on Property listing","events planning and decoration","AOC E2070SWN Professional 195 inch Widescreen LCD","Manicure and Pedicure","Libido Booster for Him & Her","best painting","Unlimited Yoga for 10 Days","Full lamb on the spit with 3 veg","Nextbook 8 Windows 8.1 Tablet PC- Intel Atom","Sleep Reprogram yourself to lose weight","Paul Mitchell Full Head Highlights and treatment","Organic Aloe Vera Juice 1L - 100% Pure","White Water Rafting adventure","Elba 7KG Metallic Condenser Tumble Dryer","Luxury Bath Beauty & Bedroom Products","Luggage and leather handbags","Vodacom Smart Tab Tablet PC with 3G 03Mp","Full lamb on the spit","Soft serve ice cream","Gas CoC Required for the transfer of your property","Windscreen Repairs And Headlight Polishing","Breakfast Monday to Friday","Skills Development & Training for Office Staff","Apple iPhone 6 16Gb 47 Display Screen","Heart Necklace Photo Frame","Self catering and Large group Accomodation","Acer K137 Portable Home Theatre ProjectorDlp","The Manhattan Universal Projector Ceiling Mount","Custom made tracksuits and sports gear","Shiatsu Massage & Thai Massage","Persian Carpets","Buy two Mens-wear & get one free","Apex Teaching you Communication Skills","Visit visas service - UK USA Schengen","LED Colour Changing Pool Light Fully Installed","Get the Apple Iphone 6","Clothing","Hypnosis Sessions - Complete Life changer Package","Major Car Service","Tarring and paving specialists","Fashion in a Box","PrintShop CD Label Creator PC","Body support for prem & new born babies","Heirloom Seed Slabs","Men Fashion Shirts","Kids Party","Garcinia Cambogia + Spirulina combo","Children's photo on Stone clock or tile","Guided Tour with Cheetah Encounter","Computer Repairs - Capped (R500) Home User","Gas Installations For all Gas Appliances","Spend R500 on Travel & Win R6000","Pet Store","Hotel blankets","Dent repairs","Mongolian Braai","Just For Our Men","Designer Printed Clothing","Orchid Wedding Planning Package","Essentials - Create Your Own Website v2","Home Furniture","Quotation","Tax Returns - Individual and Company","Modern Kitchens","Two scarfs","Handyman Services For Your Home or Office","Dance as Much as you Can","Black Dog Clipcord","Wedding Invitation Cards","Pest Control & Cleaning Service","Steak egg and chips with Milo","Assorted Seed Slabs","Pool Clean/Repairs/Service Contracts","Spectacular Hair Anytime","Overalls and protective clothing","E Cigarettes and Liquid Vapour","Learn to Belly Dance","Brazilian Blow wave","Nextbook 101 Windows 8.1 Tablet PC with Pogo","All Silver Jewellery","Microgreen growing kits","Biltong Dryer","Churches- Audio and Visual Installations","Chinese Massages and Beauty Treatments","Travel Membership Program","Apex Your 3D Garden Encyclopedia","Promate Pocketi5 iPhone 5 Shock Proof rubberized","Custom Website Design","Monday to Thursdays Breakfasts","Exclusive Women Photography & Make Up","Acer Aspire E1-510 Series Notebook","Kguard Set of 4 Night Vision & Waterproof Ccd","Air Purifiers with led lights and ionizers","New Nokia 520 Touch Screen","Paint Shop SA","Wi-Fi baby monitor - free delivery","ADATA DashDrive External 25” 1TB USB 30","Web Design","Clutch Replacements - Labour Only","Custom Design Logo - 5 Concepts","Geco Glow Ring for All Existing Light Fittings","Forever Clean 9 - detoxing","3D Cad Drawings for your building and DIY","4 seater patio set","Car Service - Labour Only","Google Nexus 4 Tablet Phone 16Gb-Colour:White","Lenovo G5030 Series -Celeron Dual Core N2830 216G","Promate Gritty-i5 iPhone 5 Anti-Slip Sandy","Toilet Odour Removal System - installed","Green Coffee Bean Extract","Top up Tuesdays","Selected Jewellery pieces & sets","Branded Gazebo - 3m X 3m ","Arctic Alpine 11 GT Rev 2 Intel CPU Cooler 75W","PC Fitness - Your Personal Trainer","Ink Jet Cartridge","Horse Racing Tipster","Trade like a Pro with Forex-E-Learn Pro","Create your own Business Cards Second","Picture frames Mirrors and custom frames","Buy for R1000 and receive 2 Free Pillows","Polished Concrete Tables","Personalised Bracelets and Jewellery","Mavis Beacon Teaches Typing Deluxe V16 PC","Instant Lawn Landscaping etc Services","Casa Carla Home Decor","Business Cards Design Double Sided","Create your own Model Railway Deluxe","Flower order","Assorted DIY Micro-green trays in Crate Box","Lenovo Thinkcentre Edge 62Z-185”-All-in-one","DIY Sprouting Kit","Personal Training","Arctic F9 TC 92mm case fan with temp ctrl","Healthy Breakfast Kit","Tracksuits made to order","Debt collection","Framing","Fooke Brush and Shampoo","Maroemba School Tours - All Schools welcome","Engraved Tags","UIF Registration","Wimpey Side Chair","Haircut Including Mens Shampoo and Gel","Laptop Service for overheating and aging laptops","Wimpey Ultra Arm Chair","Loans Investment & Insurance","Choose between free typing lessons or a tablette","Indoor and Outdoor Braai/ Entertainment Area's","Accepted Quotations","Business Coaching via Skype","Xbox One-Stand Alone Console-500GB HDD 8GB Ram","CONTI SUITS OVERALLS","Council Solutions-Municipal Investigations","Hair Extensions 7 Piece Clip In Set 24","Professionally Typed Resumes","3 Months Free on CanDoBiz Solutions","Chip Repairs","Samsung Galaxy Tab4 T231-3G and Wi-Fi Tablet PC- 7","Sell your property online","Construction Renovations Alterations","Printer Repair and Printer Fault Finding","New Wedding Dresses","Promate Storm10 Portable Back-up Battery","Auto Spray Painters","ClassicRange Gift 30ml Perfume 200ml lotion & wash","Maths And Science Tuition","Toys","Website domain and hosting","Speed of light connectivity-Neotel Fibre","All Fashion shoes & Accessories","anti smash and grab","Flagstone 440 (Paver)","Training Session","Promate Storm15 Portable Back-up Battery","Promate Lankoi5 iPhone 5 Hand-Crafted Leather","Manicure & Pedicure Skills Course","Tours Rack","Cut Color 9 Foils & Free Blow Wave","Online Wedding and Event Stationery Course","Kitchens built in cupboards vanities wardrobes etc","SAP ERP Introduction Course","Wordpress CMS Website","Geeko Black Box Realtime GPS Vehicle Car Tracking","Promate Pancy iPhone 5 Multi-Colored Protective","Home Security","Personalised Exercise That Suites You","Repairs and Services to vehicles","X9 – 800 Lumen Underwater Photography Torch","Sony Playstation 4 500GB Console","Promate Rocha iPhone 5 Slim-line pouch leather","Wimpey Arm Chair","Website Design","Everything at Beauty Girls","3 Pg Website with Hosting & Designing","Christmas Decor - Father Christmas pendant","JVC Picsio Mini-Pocket HD Camcorder4x Digital Zoom","Anti-Slip Floor Treatment For Pregnant Ladies","Advertise available vacancies on our job portal","Caravan Sites - Pensioners Monthly Rate","Supreme Auto offer many other services in addition","Website design and hosting","Yale Gate Remotes","Yale Security","Promotional Clothing and Embroidery","Graphic Design 3D house plans Office floor plans","siphonal smart phone and cellular repairs","Classifieds - Welcome Points","Agfa Photo Wild View Action Camera","Graphic Design Services","Bliss Air purifiers","ultrasonic liposuction treatment - lose centimetres","Mens Suits and exclusive wear","Overnight stay","Airport shuttle service","Real Deal Bargains","Mornin Movin - Fun excercise","Scuba Diving","Wedding Dance Package","Grey Charity Blanket","Solar and Safety Film","X6 – 1500 Lumen Diving Torch","IT Support for all businesses","CCTV Systems","Regal High Back Chair","Apex Teaching you Organisational Skills","Models Portfolio","X7 – 3000 Lumen Dive Torch","home removal discount","Handyman Callout","Casey UV (ultraviolet)X2 Currency Bil Detector","Supporter Rainbow Scarf fan wear","Dive Glove","Casey Torch and UV (ultraviolet) Bill Detector","Infolife-Biometric Fingerprint Scanning","Agfa Photo Wild Top Action Camera","Start your Own Social Network Similar to Facebook","Managed IT Support","Managed IT Support Contract","Alarms Electric Fencing CCTV","Casey UV (ultraviolet) Currency Bill Detector","100ml Refill Sublimation Ink","Esquire Hand held metal detector.","Point of sale hardware online","Stok Styf in die Onderlyf - Mens Libido Enhancer","Container Security Lock C200","With It BizBundle Corporate Identity","Voice over for radio and television adverts","Esquire USB Linear Imaging Scanner 68mm","CCTV Ip Camera with Canon (Ti DaVinci) Chipset HD","Kids Scuba","Lowering device complete with stands and drapes","Sound and DJ Hire","Manhattan Universal Flat-Panel TV Tilting Wall","Pirate Play","Fun with Blue Gloop","Marula Hand Cream","Sticky Bath","Slushy Colour","Lotsa Fun","hiring earthmoving Machines","Dive Mask Torch","300 Lumen Secondary or Backup Dive Light","SAP Material Management 1","SAP Customer Relationship Management(TCRM10)","SAP Navigation Course","Overview of SAP for Banking","QR Code Social Media Advertising Poster Design","Desktop PC's and website development","Garage Door Automation","Oztrail Breezeway Chalet 4 Plus Tent","Maroemba Team Buildings","Palm Readings","Ultrasound Lipo Laser Machine","Website Design 1year Free Hosting and Domain","Hair loss treatment for balding or thinning hair","Air Freshner","Guesthouse Accomodation","Mens Formal Shirts - South Africa","Sculptures & Murals of all sizes & shapes","Blinds","Sage Pastel Basic Workshop - 20 Seats - Book Today","Christmas Post Cards","Flying Safaris in Hoedspruit","Isuzu Kb250 Leed","Isuzu Kb250 Leed Fleetside","Isuzu Kb250 D-Teq Extended Cab","Chevrolet Captiva 24 Fwd Mt Lt","Chevrolet Cruze 16 Ls 4Dr Sedan","Chevrolet Cruze 14T Ls 4Dr Sedan","Chevrolet Cruze 14T Ls A/T Sedan","Chevrolet Cruze 16 Ls 5Dr Hatch","Chevrolet Sonic 16 Ls 5Dr Hatch","Chevrolet Sonic 14T Rs","Chevrolet Utility 14","Chevrolet Utility 14 + A/C","Chevrolet Utility 14 Club","Chevrolet Utility 14 Sport","Chevrolet Spark 12","Chevrolet Spark 12 Ls","Chevrolet Spark 12 Lt","Chevrolet Aveo 16 L A/C 5Dr Hatch","Virus Cleanup and Maintenance","Free IT needs assessment","Car Headlight Buff","Web Design for Small Businesses","Secure Payments anywhere anytime","Inverter Solution for Loadshedding","Henna Tattoos","Office Household repairs & maintenance","Company name reservation & registration","Wedding Aisle Runner","Permanent Make-up *Eyeliner (Top or Bottom)*","Permanent Make-up *Eyeliner (Top & Bottom)*","Permanent Make-up - Eyebrows & Eyeliner","Permanent Make-up - Eyebrows","A custom-made Website for you","Car Service Or Brakes - Labour Only","Vw Polo Vivo Major Service","Clutch Kit Replacements - Labour only","Make-up trio combo course","Permanent Make Up Training","Permanent make-up duel combo course","Permanent Make-up double training","Major service on Airconditioning","Airconditioning midwall split units","All IT Certification Courses","Platters"];
+		$("#search").autocomplete({
+			source: availableTags,
+			minLength: 3,
+			select: function (event, ui) {				
+				$('input[name=\'submit\']').trigger('click');				
+			}
+		});
+	});  
+  </script>
+      </div>
 	
   </header>
-  
+  <div id="fb-root"></div>
+  <input type="hidden" name="baseurl" value="http://www.busters.co.za/" id="baseurl">
 
     <!-- Site body:start -->
     <div id="body_wrapper">
-	      <!-- content:start -->
+	<script type="text/javascript">
+var disabledShopperNotice	=	getCookie("disabledShopperNotice");
+if(disabledShopperNotice)
+{
+	$("#shopperNotice").hide();
+}
+</script>
+      <!-- content:start -->
       <div id="content">
 <div class="fullpage">
 <div id="current_home"><h2>Privacy Policy</h2></div>
@@ -145,7 +194,7 @@ googletag.enableServices();
                             </ul>
                                                 			</div>
     			<div id="copyright">
-    				<p>Terms and condtions apply. © 2014</p>
+    				<p>Terms and condtions apply. © 2015</p>
     			</div>	
 				
 				
