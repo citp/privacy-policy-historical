@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3rocket.me privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224052240id_/http%3A//www.mp3rocket.me/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3rocket.me privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427084543id_/http%3A//www.mp3rocket.me/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
