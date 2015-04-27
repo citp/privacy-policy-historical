@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showingtime.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120230913id_/http%3A//www.showingtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showingtime.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427060424id_/http%3A//www.showingtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShowingTime
 
