@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgoblog.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008102456id_/http%3A//mgoblog.com/content/mgoblog-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgoblog.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427235007id_/http%3A//mgoblog.com/content/mgoblog-privacy-policy) for the most accurate reproduction.*
 
 # MGoBlog Privacy Policy | mgoblog
 
