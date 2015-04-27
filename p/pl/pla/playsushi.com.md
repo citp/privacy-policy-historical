@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playsushi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061016id_/http%3A//www.playsushi.com/SushiClientPrivacyPolicy.ps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playsushi.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428005224id_/http%3A//www.playsushi.com/SushiClientPrivacyPolicy.ps) for the most accurate reproduction.*
 
 # PlaySushi™ - Fresh FREE Games. | PlaySushi Client Privacy Policy
 
