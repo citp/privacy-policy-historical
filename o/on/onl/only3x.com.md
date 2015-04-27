@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the only3x.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130040102id_/http%3A//only3x.com/Privacy-Policy/%3Fnats%3DMC4wLjUuNy4wLjAuMC4wLjA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only3x.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427093802id_/http%3A//www.only3x.com/Privacy-Policy/%3Fnats%3DMC4wLjUuNy4wLjAuMC4wLjA) for the most accurate reproduction.*
 
 # Only3X Privacy Policy
 
