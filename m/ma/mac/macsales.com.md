@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macsales.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106075714id_/http%3A//eshop.macsales.com/Service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macsales.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428004257id_/http%3A//eshop.macsales.com/Service/privacy) for the most accurate reproduction.*
 
 # OWC Terms & Policies
 
@@ -120,7 +120,7 @@ OWC will make good-faith efforts to provide you with reasonable access to your p
 
 New Concepts Development Corporation  
 Attn: Executive Management  
-2650 Bridge Lane  
+8 Galaxy Way  
 Woodstock, IL 60098
 
 Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/Service/contact/).
