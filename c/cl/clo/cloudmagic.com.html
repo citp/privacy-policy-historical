@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cloudmagic.com privacy policy that was archived on 2014-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141011081808id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cloudmagic.com privacy policy that was archived on 2015-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150427103551id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Privacy Policy | CloudMagic</title>
@@ -7,24 +7,24 @@
         <meta name="HandheldFriendly" content="True">
         <meta name="description" content="CloudMagic is an award winning email app for iPhone, iPad and Android">
         <meta name="keywords" content="privacy, security">
-        <link rel="icon" href="https://static.cloudmagic.com/liger/v5/web/favicon.ico?iv=71.04" type="image/x-icon">
+        <link rel="icon" href="https://static.cloudmagic.com/liger/v6/web/favicon.ico?iv=71.53" type="image/x-icon">
         <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">document.createElement('footer');</script>
         <!--[if lt IE 9]>
             <script type="text/javascript">
                     is_stupid_ie = true;
             </script>
-            <link rel="stylesheet" href="https://static.cloudmagic.com/liger/v5/min/g=css_framework_desktop?iv=71.04" />
+            <link rel="stylesheet" href="https://static.cloudmagic.com/liger/v6/min/g=css_framework_desktop?iv=71.53" />
         <![endif]-->
-        <link rel="stylesheet" media="(min-width: 603px) and (min-height: 400px)" href="https://static.cloudmagic.com/liger/v5/min/g=css_framework_desktop?iv=71.04">
+        <link rel="stylesheet" media="(min-width: 603px) and (min-height: 400px)" href="https://static.cloudmagic.com/liger/v6/min/g=css_framework_desktop?iv=71.53">
 
-        <link rel="stylesheet" media="(max-width: 602px), (orientation: landscape) and (max-height: 400px)" href="https://static.cloudmagic.com/liger/v5/min/g=css_framework_handheld?iv=71.04">
-        <script type="text/javascript" src="https://static.cloudmagic.com/liger/v5/min/g=js_common_desktop?iv=71.04"></script>
+        <link rel="stylesheet" media="(max-width: 602px), (orientation: landscape) and (max-height: 400px)" href="https://static.cloudmagic.com/liger/v6/min/g=css_framework_handheld?iv=71.53">
+        <script type="text/javascript" src="https://static.cloudmagic.com/liger/v6/min/g=js_common_desktop?iv=71.53"></script>
     </head>
     <body>
         <div class="footer-push-wrapper">
         <header>
-            <div class="header_area header-color-2" data-animate-class="header-color-0">
+            <div class="header_area header-color-0" data-animate-class="header-color-1">
                 <div class="container_large">
                     <div class="nav_area">
                         <div class="logo_area">
@@ -52,12 +52,12 @@
                             <div class="front-page-sprite callout-image"></div>
                             <ul>
                                 <li><a href="https://blog.cloudmagic.com" traget="_blank">Blog</a></li>
-                                <!--<li class="hide-medium-screens hide-smallest-screen"><a href="#" id="developers-link" class="and-more">Developers</a></li>-->
                                 <li><a href="http://help.cloudmagic.com">FAQs</a></li>
                                 <li><a href="https://cloudmagic.com/k/aboutus">About Us</a></li>
                                 <li><a href="https://cloudmagic.com/k/careers">Careers</a></li>
                                 <li><a href="https://cloudmagic.com/k/privacypolicy">Privacy</a></li>
                                 <li><a href="https://cloudmagic.com/k/presskit">Press Kit</a></li>
+                                <li><a href="https://cloudmagic.com/k/device/manage" id="remote-wipe-button" class="magnific-popup" data-mfp-src="#remote-wipe-overlay">Remote Wipe</a></li>
                                 <div class="support-text">SUPPORT</div>
                                 <li><a href="mailto:hello@cloudmagic.com" target="_top">hello@cloudmagic.com</a></li>
                             </ul>
@@ -74,7 +74,145 @@ Privacy Policy                    </div>
             </div>
         </header>
         <div class="container_large">
+
+            <!--Remote wipe popup-->
+            <div id="remote-wipe-overlay" class="remote-wipe-overlay mfp-hide">
+                <script type="text/javascript"> var api_domain = 'https://api.cloudmagic.com/k/v6';</script>
+<script type="text/javascript" src="https://static.cloudmagic.com/liger/v6/min/g=js_remote_wipe_overlay?iv=71.53"></script>
+<script id="device-details-template" type="text/x-handlebars-template">
+    {{#if is_disabled}}
+        <div class="device-details faded">
+    {{else}}
+        <div class="device-details">
+    {{/if}}
+    <div class="device-details-container">
+    {{#if is_tablet}}
+        <div class="remote-wipe-sprite tablet"></div>
+    {{else}}
+        <div class="remote-wipe-sprite phone"></div>
+    {{/if}}
+
+    <div class="details-wrapper">
+    <div class="device-name">{{device_model}}</div>
+    {{#if has_ts_created}}
+        <div class="device-time">Since {{ts_created}}</div>
+    {{/if}}
+    </div>
+    </div>
+    <div class="logout-button-small-container">
+        {{#if is_disabled}}
+            <a href="#" class="logout-button" style="pointer-events:none;" data-device-udi="{{udi}}">{{wipe_state}}</a>
+        {{else}}
+            <a href="#" class="logout-button" data-device-udi="{{udi}}">{{wipe_state}}</a>
+        {{/if}}
+        
+    </div>
+    <div class="device-details-loader">
+        <div class="loader dark">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+        <div class='wipe-success-text'></div>
+        <a class="dismiss-button" href="#"></a>
+    </div>
+    </div>
+</script>
+<script id="user-details-template" type="text/x-handlebars-template">
+    <div class="user-profile-container">
+        {{#if is_img}}
+            <img class="profile-image" src="{{profile_pic}}">
+        {{else}}
+            <div class="generated-profile-img">
+                <div class="initials-text font-light">{{profile_pic}}</div>
+            </div>
+        {{/if}}
+
+    <span class="user-name font-light">{{nickname}}</span>
+<!--    <span class="sub-text">{{pro_since}}</span>-->
+    </div>
+</script>
+<div class="super-container">
+        <div class="loader-container main-container">
+        </div>
+        <div class="loader active vertical-center">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    <div class="login-form-container main-container" id="login-form-container">
+        <div class="padding-inner">
+            <div class="overlay-heading font-white">
+                Remote Wipe
+            </div>
+            <div class="error_message">&nbsp;</div>
+            <form class="login-form font-light" id="login-form" action="https://api.cloudmagic.com/k/user/session_create?ct=web">
+                <input class="login-form-input bottom-margin" type="email" name="email" id="email" placeholder="Username (email)" autocomplete="off">
+                <input class="login-form-input" type="password" name="password" id="password" placeholder="Password">
+                <button class="login-button" type="submit">
+                    <span class="button-text">Log In</span>
+                    <div class="loader">
+                        <div class="bounce1"></div>
+                        <div class="bounce2"></div>
+                        <div class="bounce3"></div>
+                    </div>
+            
+        </button></form></div>
+        <div class="bottom-element">
+            <div id="forgot-password-button">Forgot your password?</div>
+        </div>
+    </div>
+    <div class="remote-wipe-container main-container">
+        <div class="device-list-container" id="device-list-container">
+            <div class="top-seperator">your devices</div>
+            <div class="loader dark center-align device-list">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+        </div>
+        <div class="logout-button-container">
+            <a class="master-logout button-text" href="#">
+                LOGOUT FROM ALL DEVICES
+            </a>
+            <div class="loader dark center-align">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+        </div>
+    </div>
+    <div class="forgot-password-form-container main-container" id="forgot-password-form-container">
+        <div class="padding-inner">
+            <div class="overlay-heading font-white">
+                Forgot Password?
+            </div>
+            <div class="error_message">&nbsp;</div>
+            <div class="content-wrapper">
+                <form class="password-reset-request-form font-light" id="password-reset-request-form" action="https://api.cloudmagic.com/k/user/password/reset_request">
+                    <input class="login-form-input bottom-margin" type="email" name="email" id="email" placeholder="email address" autocomplete="off">
+                    <button class="login-button forgot-password-button" type="submit">
+                        <span class="button-text">Send me the password</span>
+                        <div class="loader">
+                            <div class="bounce1"></div>
+                            <div class="bounce2"></div>
+                            <div class="bounce3"></div>
+                        </div>
+                    </button>
+                </form>
+                <div class="forgot-password-success-container">
+                    <div class="forgot-password-success-message"></div>
+                    <button id="back-to-login-button" class="login-button forgot-password-button">Take me back to Log in</button>
+                </div>
+            </div>
+        </div>
+        <div class="bottom-element" id="bottom-login">Log In</div>
+    </div>
+</div>
+            </div>
+
             <div class="web_content">
+
 
 <div class="privacy_column_left">
     <span class="heading_2">In a nutshell
@@ -222,12 +360,12 @@ Privacy Policy                    </div>
             <h3>
                 &nbsp;
                 <a id="widget-popup-close" href="#">
-                    <img src="https://static.cloudmagic.com/liger/v5/web/common/images/popup-close.png">
+                    <img src="https://static.cloudmagic.com/liger/v6/web/common/images/popup-close.png">
                 </a>
             </h3>
             <div class="clear"></div>
             <div id="widget-add-more-content">
-                <img src="https://static.cloudmagic.com/liger/v5/web/common/images/cm_cards.png">
+                <img src="https://static.cloudmagic.com/liger/v6/web/common/images/cm_cards.png">
                 <p>&nbsp;</p>
                 <p>If you have an idea for a Card you'd like to see, or</p>
                 <p>If you are a developer who wants to make a Card let us know!</p>
