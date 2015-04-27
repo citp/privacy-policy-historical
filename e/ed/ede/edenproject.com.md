@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edenproject.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227095130id_/http%3A//www.edenproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edenproject.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427065800id_/http%3A//www.edenproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Eden Project privacy policy
 
@@ -48,7 +48,7 @@ If you do not wish to receive our mailings, you can unsubscribe at any time by c
 
 ## 7\. How can you access, update or delete your information?
 
-You may change any or all of your information by contacting Eden’s Information Manager at [Infomanager@edenproject.com](mailto:Infomanager@edenproject.com) or by logging on to your personal profile if you have an account on [www.edenbookings.com](http://www.edenbookings.com/) (Tickets) or [www.edenproject.com/shop](http://www.edenproject.com/shop) (online shop)
+You may change any or all of your information by contacting Eden’s Information Manager at [Infomanager@edenproject.com](mailto:Infomanager@edenproject.com) or by logging on to your personal profile if you have an account on [https://booking.edenproject.com](https://booking.edenproject.com/) (Tickets) or [www.edenproject.com/shop](http://www.edenproject.com/shop) (online shop)
 
 ## 8\. What security procedures are in place to protect the loss, misuse or alteration of the information?
 
@@ -62,4 +62,4 @@ Please note that whenever you voluntarily disclose personal information online, 
 
 ## 10\. Data Protection Act
 
-The Eden Project is registered with the Data Protection Act 1998, registration number Z4959152. You may visit the [Data Protection Act](http://www.ico.gov.uk/for_organisations/data_protection.aspx) website to see under what purposes the Eden Project is registered.
+The Eden Project is registered with the Data Protection Act 1998, registration number Z4959152. You may visit the [Data Protection Act](https://ico.org.uk/) website to see under what purposes the Eden Project is registered.
