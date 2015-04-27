@@ -1,1338 +1,432 @@
-<!--The following is the downloaded HTML source of the hibu.com privacy policy that was archived on 2014-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140612141008id_/http%3A//business.hibu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hibu.com privacy policy that was archived on 2015-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150427182908id_/https%3A//hibu.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-touch textshadow cssanimations csstransforms csstransforms3d csstransitions generatedcontent video audio" lang="en-US" style=""><!--<![endif]--><head><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="//cdn.optimizely.com/js/233315519.js"></script> <meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"15f18c54fc","applicationID":"1648998","transactionName":"NVBaNhNTXEcEABFfXgwaeTExHV5VHAwQQkJNTF0ODR1WUQMCEFpFDlRBDRRGHFUWEx0=","queueTime":15,"applicationTime":935,"ttGuid":"E530BDD374D9DD99","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYFWV9ACQUEXFhbDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><link rel="stylesheet" href="/css/reset.css"><link rel="stylesheet" href="/css/sitecore.css"><link id="ctl00_stylesheetLink" rel="stylesheet" href="/css/compiled.min.css?v=20140610"><link id="ctl00_stylesheetLink2" rel="stylesheet" href="/css/compiled2.min.css?v=20140610">
-
-<meta name="viewport" content="width=996">
-<meta name="last-modified" content="20140303T114700">
-
-<meta name="description" content="">
-
-<meta name="robots" content="index,follow,noodp,noydir">
-
-<meta property="og:image" content="http://business.hibu.com/img/hibu-logo-lg.jpg">
-<link rel="canonical" href="http://business.hibu.com/privacy/">
-
-<link rel="apple-touch-icon" href="/HIBU-APPLE.jpg">
-
-
-
-
-
-<script>
-    Yell = {};
-    Yell.Constants = {
-        siteName: 'HibuUs',
-        fileUpload : {
-            uploadSuccessful: 'Upload successful',
-            description : 'Description',
-            addAnImage: 'Upload files',
-            cancel : 'Cancel',
-            failedToUpload: 'Failed to upload'
-        }
-    };
-	
-    var scdomain = 'business.hibu.com';
-	var domainCode = 'US';
-		domainCode = domainCode.toLowerCase();
-		
-	if (typeof(lpUnit)=='undefined') var lpUnit='support-' + domainCode;
-	
-    var pluckConstants = {
-        "Comment": "slSiteContentCommentCreation",
-        "Registration": "bioRegistrationComplete",
-        "Review": "bioSiteContentReviewCreation",
-        "Rating": "bioSiteContentRatingCreation",
-        "Question": "bioSiteContentQuestionCreation",
-        "Answer": "bioSiteContentAnswerCreation",
-        "BuyManagedService": "bioBuyManagedService",
-        "BuyProduct": "bioBuyProduct"
-    };
-
-    if(!Array.prototype.indexOf) {
-        Array.prototype.indexOf = function(obj, start) {
-             for (var i = (start || 0), j = this.length; i < j; i++) {
-                 if (this[i] === obj) { return i; }
-             }
-             return -1;
-        }
-    }
-</script>
-<script type="text/javascript" src="/js/lib/modernizr.js"></script>
-<script type="text/javascript">
-if(window.chrome) {
-    document.getElementsByTagName('html')[0].className += ' chrome';
-} else if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Mac') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
-    document.getElementsByTagName('html')[0].className += ' safari-mac';
-}
-if((navigator.userAgent.indexOf("Windows NT 6.2") > 0) && (navigator.userAgent.indexOf("Windows Phone 8.0") < 0)) {
-    document.getElementsByTagName('html')[0].className += ' windows-8';
-}
-if ((navigator.userAgent.indexOf("Windows NT 5.1") > 0)) {
-    document.getElementsByTagName('html')[0].className += ' windows-xp';
-}
-if(navigator.userAgent.indexOf("Windows Phone 8.0") > 0) {
-    document.getElementsByTagName('html')[0].className = document.getElementsByTagName('html')[0].className.replace('no-touch','touch');
-}
-</script>
-<script src="/js/liveperson/mtagconfig.js" type="text/javascript"></script>
-<script type="text/javascript" src="//nexus.ensighten.com/hibu/hbsprod/Bootstrap.js"></script>
-<script src="//d3c3cq33003psk.cloudfront.net/opentag-66231-458193.js" async="" defer=""></script>
-<meta name="ResultType" content="Exclude"><title>
-	Privacy | hibu
-</title><script type="text/javascript" charset="iso-8859-1" src="https://server.lon.liveperson.net/visitor/addons/deploy.asp?site=72780557&amp;d_id=support-us"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/js/build/main-combined.js?v=20140610" src="/js/build/main-combined.js?v=20140610"></script></head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    <title>Privacy Policy</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="Stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"><link rel="Stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:600"><link rel="Stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400"><link rel="Stylesheet" type="text/css" href="/Static/Css/output/global.v1.min.css"><!-- Eloqua Tracking -->
+    <script type="text/javascript" async="" src="/Static/Js/output/global.v1.min.js"></script><script type="text/javascript" async="" src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script><script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+		var _elqQ = _elqQ || [];
+		_elqQ.push(['elqSetSiteId', '868446402']);
+		_elqQ.push(['elqTrackPageView']);
+		(function () {
+			function async_load() {
+				var s = document.createElement('script'); 
+				s.type = 'text/javascript';
+				s.async = true; 
+				s.src = '//img.en25.com/i/elqCfg.min.js';
+				var x = document.getElementsByTagName('script')[0]; 
+				x.parentNode.insertBefore (s, x);
+		}
+		if (window.addEventListener) window.addEventListener('DOMContentLoaded',async_load, false);
+		else if (window.attachEvent) window.attachEvent('onload', async_load);
+		})();
+	</script>
+    <script type="text/javascript" src="//assets.adobedtm.com/cb491518e52445b90c24c7819ea8430e66cb2dbd/satelliteLib-1fee8f8fb649965192a3314d8b7e7e6ae33a3d27.js"></script>
+    <link rel="Stylesheet" type="text/css" href="/Static/Css/output/privacy-policy.v1.min.css"><link rel="canonical" href="https://hibu.com/privacy-policy/">
+    <script type="text/javascript" charset="iso-8859-1" src="https://server.lon.liveperson.net/visitor/addons/deploy.asp?site=72780557&amp;d_id=support-us"></script></head>
 <body>
-  
-<!-- SiteCatalyst code version: H.24.4.
-Copyright 1996-2012 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-
-<script type="text/javascript">
-
-    // Base omniture object
-    var omniture = function () {
-
-        var readCookie = function (name) {
-            var nameEq = name + "=";
-            var ca = document.cookie.split(';');
-            for (var i = 0; i < ca.length; i++) {
-                var c = ca[i];
-                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-                if (c.indexOf(nameEq) == 0) return c.substring(nameEq.length, c.length);
-            }
-            return null;
-        };
-
-        var isAnalyticsEnabled = function () {
-            var cookieValue = readCookie("hibu-analytics-cookie");
-            return (cookieValue == null || cookieValue == 'yes');
-        };
-
-        var getAccount = function () {
-            return s_gi("yellhibub2b");
-        };
-
-        return {
-            isAnalyticsEnabled: function () {
-                return isAnalyticsEnabled();
-            },
-            getAccount: function () {
-                return getAccount();
-            }
-        };
-    } ();
-
-    function BindOmnitureControl() {
-
-        if (omniture.isAnalyticsEnabled()) {
-            var s_account= "yellhibub2b"; 
-            s.pageName = "Privacy";
-
-            // Commerce Lines
-            s.cookieDomainPeriods = "2";
-            s.currencyCode = "USD";
-            s.server = "business.hibu.com";
-            s.channel = "Privacy";
-            s.pageType = "";
-            s.prop1 = "";
-            s.prop2 = "";
-            s.prop3 = "";
-            s.prop4 = "";
-            s.prop5 = "Footer Pages";
-            s.prop6 = "Home";
-            s.prop7 = "";
-            s.prop8 = s.getPreviousValue(s.pageName, 'gpv_pn');
-            s.prop11 = "";
-            s.prop12 = "";
-            s.prop13 = "";
-            s.prop15 = "User not logged in";
-            s.prop16 = "";
-            s.prop38 = "Privacy";
-
-            /* Conversion Variables */
-            s.campaign = s.getQueryParam("cam");
-            s.state = "";
-            s.zip = "";
-            s.events = "";
-            s.eVar4 = "User not logged in";
-            s.products = "";
-            s.purchaseID = "";
-            
-
-            /************************** CONFIG SECTION **************************/
-
-            /* You may add or alter any code config here. */
-            s.charSet = "ISO-8859-1";
-
-            /* Conversion Config */
-
-            /* Link Tracking Config */
-            s.trackDownloadLinks = true;
-            s.trackExternalLinks = true;
-            s.trackInlineStats = true;
-            s.linkDownloadFileTypes = "exe,zip,wav,mp3,mov,mpg,avi,wmv,pdf,doc,docx,xls,xlsx,ppt,pptx,ashx";
-            s.linkInternalFilters = "javascript:," + scdomain;
-            s.linkLeaveQueryString = false;
-            s.linkTrackVars = "None";
-            s.linkTrackEvents = "None";
-
-            /* Hierarchy Variables */
-            s.hier1 = "HibuUs, Privacy";
-
-            /* WARNING: Changing any of the below variables will cause drastic
-        changes to how your visitor data is collected.  Changes should only be
-        made when instructed to do so by your account manager.*/
-            s.trackingServer = "yellgroup.122.2o7.net";
-
-            //s.debugTracking = true;
-            s.trackLocal = true;
-
-            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-            var s_code = s.t();
-            if (s_code) document.write(s_code);
-        }
-    }
-
-</script>
-<script language="JavaScript" type="text/javascript">
-<!--    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');//-->
-</script>
-<noscript>
-    <img src="https://yellgroup.122.2o7.net/b/ss/yellhibub2b/1/H.24.4--NS/0" height="1" width="1" border="0" alt="" />
-</noscript>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.24.4. -->
-
-  <form name="aspnetForm" method="post" action="/privacy/" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMjU0OTM5NDkPZBYCZg9kFgRmD2QWBmYPFgIeBFRleHQFPTxzY3JpcHQgc3JjPSIvL2Nkbi5vcHRpbWl6ZWx5LmNvbS9qcy8yMzMzMTU1MTkuanMiPjwvc2NyaXB0PiBkAgUPFgIeBGhyZWYFIC9jc3MvY29tcGlsZWQubWluLmNzcz92PTIwMTQwNjEwZAIGDxYCHwEFIS9jc3MvY29tcGlsZWQyLm1pbi5jc3M/dj0yMDE0MDYxMGQCAhBkZBYEAgMPZBYEZg9kFgJmD2QWAmYPZBYGAgIPZBYEAgEPFCsAAg8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAIDZGQWAmYPZBYGAgEPZBYCZg8VBBgvbXktYWNjb3VudC9teS1wcm9kdWN0cy8AAAtNeSBQcm9kdWN0c2QCAg9kFgJmDxUECy9kYXNoYm9hcmQvAAAKTXkgUHJvZmlsZWQCAw9kFgJmDxUEIS9kYXNoYm9hcmQvcXVlc3Rpb25zLWFuZC1hbnN3ZXJzLwAADE15IFF1ZXN0aW9uc2QCAg8PFgIfAAUVU2lnbiBPdXQ8c3Bhbj48L3NwYW4+ZGQCAw8WAh4HVmlzaWJsZWcWBGYPZBYCZg9kFhBmDw8WBB4PVmFsaWRhdGlvbkdyb3VwBRVsb2dpbi1pcy1jb21wYWN0LXRydWUeC1Nob3dTdW1tYXJ5aGRkAgIPD2QWAh4LcGxhY2Vob2xkZXIFBUVtYWlsZAIDDw8WCB4IQ3NzQ2xhc3MFIXZhbGlkYXRpb25lcnJvciBjb21wYWN0LXZhbGlkYXRvch8FBRVsb2dpbi1pcy1jb21wYWN0LXRydWUeDEVycm9yTWVzc2FnZQUiUGxlYXNlIGVudGVyIGEgdmFsaWQgZW1haWwgYWRkcmVzcx4EXyFTQgICZGQCBA8PFgwfCAUSIGNvbXBhY3QtdmFsaWRhdG9yHwUFFWxvZ2luLWlzLWNvbXBhY3QtdHJ1ZR4HRGlzcGxheQsqKlN5c3RlbS5XZWIuVUkuV2ViQ29udHJvbHMuVmFsaWRhdG9yRGlzcGxheQIfCQUiUGxlYXNlIGVudGVyIGEgdmFsaWQgZW1haWwgYWRkcmVzcx4UVmFsaWRhdGlvbkV4cHJlc3Npb24Fd15bXHdcLVwrXH5cJ1wmXC9cPVw/XF5ce1x9XSsoXC5bXHdcLVwrXH5cJ1wmXC9cPVw/XF5ce1x9XSspKlxAW1x3XC1cK1x+XSsoKFwuKFtcd1wtXCtcfl0rKSk/KSooXC4oW2EtekEtWl0pezIsNn0pezEsMn0kHwoCAmRkAgUPD2QWAh8HBQhQYXNzd29yZGQCBg8PFggfCAUhdmFsaWRhdGlvbmVycm9yIGNvbXBhY3QtdmFsaWRhdG9yHwUFFWxvZ2luLWlzLWNvbXBhY3QtdHJ1ZR8JBRpQbGVhc2UgZW50ZXIgeW91ciBwYXNzd29yZB8KAgJkZAIHDw8WCh8FBRVsb2dpbi1pcy1jb21wYWN0LXRydWUfCAUNY3RhLWNvbW11bml0eR8ABQdTaWduIGluHgtQb3N0QmFja1VybAUiaHR0cHM6Ly9idXNpbmVzcy5oaWJ1LmNvbS9wcml2YWN5Lx8KAgJkZAIIDw8WAh4LTmF2aWdhdGVVcmwFxgFodHRwczovL3VhdHBpbmdmZWQudGVzdGluZ25ldC5jb20vaWRwL3N0YXJ0U1NPLnBpbmc/UGFydG5lclNwSWQ9aHR0cHM6Ly91YXRwaW5nZmVkLnRlc3RpbmduZXQuY29tJklkcEFkYXB0ZXJJZD1FR25vbWVQb3J0YWxHb29nbGVPcGVuSUQmVGFyZ2V0UmVzb3VyY2U9aHR0cDovL2J1c2luZXNzLmhpYnUuY29tL1BpbmdTU08uc3NvP3JldHVyblVybD1kZAIBD2QWAmYPZBYqZg8PFgQfBQUYcmVnaXN0ZXItaXMtY29tcGFjdC10cnVlHwZoZGQCAQ8PZBYCHwcFBUVtYWlsZAICDw8WCh8FBRhyZWdpc3Rlci1pcy1jb21wYWN0LXRydWUfCwsrBAIfCAURY29tcGFjdC12YWxpZGF0b3IfCQUiUGxlYXNlIGVudGVyIGEgdmFsaWQgZW1haWwgYWRkcmVzcx8KAgJkZAIDDw8WDB8FBRhyZWdpc3Rlci1pcy1jb21wYWN0LXRydWUfCwsrBAIfCAURY29tcGFjdC12YWxpZGF0b3IfCQUiUGxlYXNlIGVudGVyIGEgdmFsaWQgZW1haWwgYWRkcmVzcx8MBXdeW1x3XC1cK1x+XCdcJlwvXD1cP1xeXHtcfV0rKFwuW1x3XC1cK1x+XCdcJlwvXD1cP1xeXHtcfV0rKSpcQFtcd1wtXCtcfl0rKChcLihbXHdcLVwrXH5dKykpPykqKFwuKFthLXpBLVpdKXsyLDZ9KXsxLDJ9JB8KAgJkZAIEDw8WCB8FBRhyZWdpc3Rlci1pcy1jb21wYWN0LXRydWUfCwsrBAIfCAURY29tcGFjdC12YWxpZGF0b3IfCgICZGQCBQ8PZBYCHwcFDUNvbmZpcm0gRW1haWxkAgYPDxYKHwUFGHJlZ2lzdGVyLWlzLWNvbXBhY3QtdHJ1ZR8LCysEAh8IBRFjb21wYWN0LXZhbGlkYXRvch8JBSpQbGVhc2UgZW50ZXIgYSB2YWxpZCBjb25maXJtIGVtYWlsIGFkZHJlc3MfCgICZGQCBw8PFgofBQUYcmVnaXN0ZXItaXMtY29tcGFjdC10cnVlHwsLKwQCHwgFEWNvbXBhY3QtdmFsaWRhdG9yHwkFIVlvdXIgZW1haWwgYWRkcmVzc2VzIGRvIG5vdCBtYXRjaB8KAgJkZAIIDw9kFgIfBwUIUGFzc3dvcmRkAgkPDxYKHwUFGHJlZ2lzdGVyLWlzLWNvbXBhY3QtdHJ1ZR8LCysEAh8IBRFjb21wYWN0LXZhbGlkYXRvch8JBRpQbGVhc2UgZW50ZXIgeW91ciBwYXNzd29yZB8KAgJkZAIKDw8WDB8FBRhyZWdpc3Rlci1pcy1jb21wYWN0LXRydWUfCwsrBAIfCAURY29tcGFjdC12YWxpZGF0b3IfCQVbWW91ciBwYXNzd29yZCBtdXN0IGJlIGF0IGxlYXN0IDggY2hhcmFjdGVycyBsb25nIGFuZCBjb250YWluIGxldHRlcnMgYW5kIGF0IGxlYXN0IDEgbnVtYmVyLh8MBSBeKD89LipbMC05XSkoPz0uKlthLXpBLVpdKS57OCx9JB8KAgJkZAILDw9kFgIfBwUMUGhvbmUgTnVtYmVyZAIMDw8WDh4RQ29udHJvbFRvVmFsaWRhdGUFCHR4dFBob25lHwUFGHJlZ2lzdGVyLWlzLWNvbXBhY3QtdHJ1ZR8LCysEAh8IBRFjb21wYWN0LXZhbGlkYXRvch8JBR5QbGVhc2UgZW50ZXIgeW91ciBwaG9uZSBudW1iZXIfCgICHwRnFgIeB2RhdGEtaWQFBVBob25lZAINDw8WDB8IBRFjb21wYWN0LXZhbGlkYXRvch8PBQh0eHRQaG9uZR8FBRhyZWdpc3Rlci1pcy1jb21wYWN0LXRydWUfCwsrBAIfCQUhUGxlYXNlIGVudGVyIGEgdmFsaWQgUGhvbmUgTnVtYmVyHwoCAhYCHxAFBVBob25lZAIODw9kFgIfBwUMUGhvbmUgTnVtYmVyZAIPDw9kFgIfBwUMRGlzcGxheSBuYW1lZAIQDw8WDB8FBRhyZWdpc3Rlci1pcy1jb21wYWN0LXRydWUfCwsrBAIfCAURY29tcGFjdC12YWxpZGF0b3IfCQVqWW91ciBkaXNwbGF5IG5hbWUgc2hvdWxkIG9ubHkgY29uc2lzdCBvZiBsZXR0ZXJzLCBudW1iZXJzIGFuZCBoeXBoZW5zLCBhbmQgYmUgYmV0d2VlbiA1IGFuZCAyMCBjaGFyYWN0ZXJzLh8MBRVeW2EtekEtWjAtOVwtXXs1LDIwfSQfCgICZGQCEQ8PFgofBQUYcmVnaXN0ZXItaXMtY29tcGFjdC10cnVlHwsLKwQCHwgFEWNvbXBhY3QtdmFsaWRhdG9yHwkFallvdXIgZGlzcGxheSBuYW1lIHNob3VsZCBvbmx5IGNvbnNpc3Qgb2YgbGV0dGVycywgbnVtYmVycyBhbmQgaHlwaGVucywgYW5kIGJlIGJldHdlZW4gNSBhbmQgMjAgY2hhcmFjdGVycy4fCgICZGQCEg8PFgofBQUYcmVnaXN0ZXItaXMtY29tcGFjdC10cnVlHwsLKwQCHwgFEWNvbXBhY3QtdmFsaWRhdG9yHwkFUFRoZSBkaXNwbGF5IG5hbWUgeW91IGhhdmUgY2hvc2VuIGlzIGFscmVhZHkgaW4gdXNlLiBQbGVhc2UgdHJ5IGEgZGlmZmVyZW50IG5hbWUuHwoCAmRkAhMPDxYCHwRoZGQCFQ8PFgofCAUNY3RhLWNvbW11bml0eR8FBRhyZWdpc3Rlci1pcy1jb21wYWN0LXRydWUfAAUMUmVnaXN0ZXIgbm93Hw0FImh0dHBzOi8vYnVzaW5lc3MuaGlidS5jb20vcHJpdmFjeS8fCgICZGQCBg9kFgJmD2QWAmYPFCsAAmRkZAIED2QWAmYPZBYCZg9kFgQCAQ9kFgICAQ8QZA8WAmYCARYCEAUNVW5pdGVkIFN0YXRlcwUZaHR0cDovL2J1c2luZXNzLmhpYnUuY29tL2cQBQ5Vbml0ZWQgS2luZ2RvbQUbaHR0cDovL2J1c2luZXNzLmhpYnUuY28udWsvZxYBZmQCAg8UKwACDxYEHwJnHwMCA2RkFgJmD2QWBgIBD2QWBmYPFQEAZAIBD2QWAmYPFQIKL3Byb2R1Y3RzLwhQcm9kdWN0c2QCAw8UKwACDxYEHwJnHwMCBmRkFgJmD2QWDAIBD2QWAmYPFQQKL3dlYnNpdGVzLwAACFdlYnNpdGVzZAICD2QWAmYPFQQmL2Z1bGwtc2VydmljZS9zZWFyY2gtZW5naW5lLW1hcmtldGluZy8AABdTZWFyY2ggRW5naW5lIE1hcmtldGluZ2QCAw9kFgJmDxUEIi9mdWxsLXNlcnZpY2UvZGlzcGxheS1hZHZlcnRpc2luZy8AABNEaXNwbGF5IEFkdmVydGlzaW5nZAIED2QWAmYPFQQaL2Z1bGwtc2VydmljZS9zZW8tc2VydmljZS8AAANTRU9kAgUPZBYCZg8VBBkvZnVsbC1zZXJ2aWNlL3llbGxvd2Jvb2svAAAKWWVsbG93Ym9va2QCBg9kFgJmDxUEL2h0dHA6Ly9tYXJrZXRpbmcuaGlidS5jb20vaW50ZXJuZXQteWVsbG93LXBhZ2VzDlllbGxvd2Jvb2suY29tBl9ibGFuaw5ZZWxsb3dib29rLmNvbWQCAg9kFgZmDxUBAGQCAQ9kFgJmDxUCCy9rbm93bGVkZ2UvEEtub3dsZWRnZSBDZW50ZXJkAgMPFCsAAg8WBB8CZx8DAgNkZBYCZg9kFgYCAQ9kFgJmDxUEFC9rbm93bGVkZ2UvYXJ0aWNsZXMvAAAIQXJ0aWNsZXNkAgIPZBYCZg8VBBIva25vd2xlZGdlL3ZpZGVvcy8AAAZWaWRlb3NkAgMPZBYCZg8VBB0va25vd2xlZGdlL3Byb2R1Y3QtdHV0b3JpYWxzLwAAEVByb2R1Y3QgVHV0b3JpYWxzZAIDD2QWBmYPFQEMZ2xvYmFsLWxpbmtzZAIBDxYCHwRoFgJmDxUCAABkAgMPFCsAAg8WBB8CZx8DAgxkZBYCZg9kFhgCAQ9kFgJmDxUECy9jb250YWN0dXMvAAAKQ29udGFjdCB1c2QCAg9kFgJmDxUEGmh0dHA6Ly9jb3Jwb3JhdGUuaGlidS5jb20vAAZfYmxhbmsIQWJvdXQgdXNkAgMPZBYCZg8VBCFodHRwOi8vY29ycG9yYXRlLmhpYnUuY29tL2NhcmVlcnMABl9ibGFuawRKb2JzZAIED2QWAmYPFQQHL2xlZ2FsLwAABUxlZ2FsZAIFD2QWAmYPFQQJL3ByaXZhY3kvAAAOUHJpdmFjeSBwb2xpY3lkAgYPZBYCZg8VBBMvY29uZGl0aW9ucy1vZi11c2UvAAARQ29uZGl0aW9ucyBvZiB1c2VkAgcPZBYCZg8VBA4vY29va2llcG9saWN5LwAADUNvb2tpZSBwb2xpY3lkAggPZBYCZg8VBBEvY29tbXVuaXR5LXJ1bGVzLwAAEENvbW11bml0eSBydWxlcyBkAgkPZBYCZg8VBB4vcmVwb3J0LWluYXBwcm9wcmlhdGUtY29udGVudC8AABxSZXBvcnQgaW5hcHByb3ByaWF0ZSBjb250ZW50ZAIKD2QWAmYPFQQpIGh0dHBzOi8vYnVzaW5lc3MueWVsbG93Ym9vazM2MC5jb20vc2l0ZS8AABNoaWJ1IFNlcnZpY2UgQ2VudGVyZAILD2QWAmYPFQQiaHR0cDovL21hcmtldGluZy5oaWJ1LmNvbS9jb250cmFjdAAGX2JsYW5rLmhpYnUgSW5jLiBDdXN0b21lciBDb250cmFjdCBUZXJtcyAmIENvbmRpdGlvbnNkAgwPZBYCZg8VBAkvc2l0ZW1hcC8AAAdTaXRlbWFwZAIFD2QWBgIBDxYCHwRoZAIDDxYCHwRoZAIFDxYCHwRoZBgGBTRjdGwwMCRNYWluQ29udGVudFBsYWNlSG9sZGVyJGhlYWRlcl8wJGx2U3VwcG9ydExpbmtzDxQrAA5kZGRkZGRkFCsAA2RkZAIDZGRkZgL/////D2QFQmN0bDAwJE1haW5Db250ZW50UGxhY2VIb2xkZXIkZm9vdGVyXzAkZm9vdGVyTGlzdCRjdHJsMCRmb290ZXJMaW5rcw8UKwAOZGRkZGRkZDwrAAYAAgZkZGRmAv////8PZAVCY3RsMDAkTWFpbkNvbnRlbnRQbGFjZUhvbGRlciRmb290ZXJfMCRmb290ZXJMaXN0JGN0cmwxJGZvb3RlckxpbmtzDxQrAA5kZGRkZGRkFCsAA2RkZAIDZGRkZgL/////D2QFMGN0bDAwJE1haW5Db250ZW50UGxhY2VIb2xkZXIkZm9vdGVyXzAkZm9vdGVyTGlzdA8UKwAOZGRkZGRkZBQrAANkZGQCA2RkZGYC/////w9kBUJjdGwwMCRNYWluQ29udGVudFBsYWNlSG9sZGVyJGZvb3Rlcl8wJGZvb3Rlckxpc3QkY3RybDIkZm9vdGVyTGlua3MPFCsADmRkZGRkZGQ8KwAMAAIMZGRkZgL/////D2QFSWN0bDAwJE1haW5Db250ZW50UGxhY2VIb2xkZXIkaGVhZGVyXzAkdWNNaW5pQmFza2V0JG1pbmlCYXNrZXQkbHZMaW5lSXRlbXMPZ2SVsRUpV5Jo6S/j6ilYSKAYozj/RCwIYhk5e1RyhFf0kA==">
-</div>
-
-
-<script src="/ScriptResource.axd?d=K893y-ogMZBcCVQSdbrshvFzo0GPmwUvVwHCYW7MxZGqB8C_bPZiXPY-gSl0j8kaJMjtms9aTj7EBGRhICW-QwwhRd8RFdY-bh8M89KroHZV_AsvXy0QQYXC5xfradNdhnbUon4hAn3HBz4QWMWCHRNWw18vdKSG5yIlu92567Tcpu9l9kUdSKQsK5xkRQKpd9HUY-Gur6hOQjVSzBg5Z-NimT-GSoTnKJWYCw_SgtnMiJdfODJ-c0465CKWlrNxA9mRPt7KcC3kfM1PEu2rDc1c94LODz6_DSPCk6v_v66gs9MvZKeWLJW6WxxyUp9MOiFbEsdGfFVoj3wcp3xAw-TG0pTTz9e57AA9OE8fL4KR3Q6zATRqqGfR1os4P9pk_KtNU8x5zUgFEdEpCpMUw9q8z7dvAovZLr4CfXK4wB191FhSThgTSIDhRNZFWE6t6cSidQWt8CKfFHWLIzoaTA2" type="text/javascript"></script>
-<div>
-
-	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="_E7F2Z0PDUESIjILlco-VS3slueUVcly53rv6V_VDpNLoW6JR_r-x6j9uu2gCSeCi4GxT0DCbQShu9ru9xfllUvtsYqgi0QvVL1OdXjibqw1">
-</div>
-    
-    
-    <!-- header wrapper -->
-    <div id="wrapper-header" class="header-static fixed">
-        
-
-<div id="location-notice-container"></div>
-<script id="location-notice-country-template" type="text/html">
-    <div id="location-notice-<?=code ?>" class="location-notice">
-        <div>
-            <p><?=noticeCopy ?></p>
-            <a href="#" class="location-<?=code ?>-ignore location-ignore"><?=continueCopy ?><span class="icon"></span></a>
-            <a href="<?=url ?>" class="location-<?=code ?>-accept location-accept"><span class="flag"></span><?=actionCopy ?><span class="icon"></span></a>
-        </div>
-    </div>
-</script>
-
-
-
-<header id="masthead">
-<style>
-    .callus-container {
-    top:0;
-    left:0;
-    width:100%;
-    height:40px;
-    background:#EBEBEB;
-    border-top:1px #D7D7D7 solid;
-    border-bottom:1px #D7D7D7 solid;
-
-    }
-
-    .callus {
-    margin:0 auto;
-    width:960px;
-    }
-
-    .callus p {
-    margin:0;
-    padding:12px;
-    float:right;
-    font-family:"HibuBold";
-    font-size:15px;
-    color:#7C7C7C;
-    }
-
-    .callus p a, .callus p a:hover, .callus p a:active, .callus p a:visited, .callus p a:focus {
-    color:#7C7C7C;
-    text-decoration:none;
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-    }
-
-    #user-nav>nav>ul { clear:both;}
-    
-    #main.order-signin.checkout-form, #main.create-account.checkout-form {
-    margin: 118px 0 0;
-    }
-  </style><div class="callus-container"><div class="callus"><p>
-        Buy Online or Call  
-        <a href="tel:1-877-237-6120">1-877-237-6120</a></p></div></div>
-    <section id="user-nav">
-        <div id="logo" itemscope="" itemtype="http://schema.org/Organization"><a title="hibu" itemprop="url" href="http://business.hibu.com/"><img itemprop="logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAAAnCAYAAAASGVaVAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAK6wAACusBgosNWgAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAWdEVYdENyZWF0aW9uIFRpbWUAMTAvMDIvMTP4bE+OAAAG7UlEQVRoge2bX2gURxzHv0Ztmksy1aZGoys2tpXeGv9Lby3og5gzRLRgjpA0fUhOUXwwOcQgJSqiTSWNtJfzodRK7Iso9iJUMS2XtJRacM8XBXUjlFokEzRBrU7qiYpJH+KmSfbP7F1273LFDwhm/v5uvjszv/nt7KTBwcFBpJA+9gzRWw/x+OkLFL6VhSIhF9mZk1Npki5Pb9xG7FIXBlgMmeI8uD50I4O4LNe/E+vFlfvXcPdJH2Zl5WNZ3iIUuGaa1pkyXqMT5fHTFwh13kb0z4eavApPASo8BSmwSsvz7nvo3XUMsUtdo9IziAv5Bz4BKV/NbSN041uc+esHTXp54UfwL/gYOVOzdetNGjtzorI8qoBHkridJ8Les3/gOu03zN+4NB9b1giO9G2VARbD7fUNeN59z7DM7OMB5JSsMMw3EkZlWd4iHF11WDcvQ/1PWziM5YuXoKqictS/5YuXoC0ctvJbLPNL131TYQDg/NU+9LFntvYbL38f/8lUGAC4u+uYYd6dWK+pMABw5f41tHd36uZlAABjDI0HD4ExpinAGEMPpaYdxEv01iOL5bRLXjJh31/klhlgMc2Sp/Ij/dlSP1cfXNdNnwIAXYqiK4xTPH76IuFybeEwzobbhpdfQRDgFkVs9pWh2Ou11U7erLGLO7Fe3fSUOQSJEAoGEQq2jEqjlIJSCsaY7eJkEBcGWMzWNvUwcggydFMdxjP/DYvlpo36uyPS4YQ5hpht9CN5feE83fT3yHxL9ZflLdJNT4k4a9153LNMkZCLwhlZo9K6FMVJszRM37KeX2ZrieF5Z/UsyXDgVQpcM1EqrNPNS4k42ZmT8dnmBcgnr+nmFwm5+HSDtafOSTIXzsOsL7cZDj4pX40ZB6pM2zi8cq/hDCpwzcTnKxsMl7WU7TmFM7LwVaUb0VsPcZ3+g77+Z0MRgjk58Lwzjd9AkiDlq5FTsgKPzvyGJ/JNDDyKIXPhPGSvXw7XKje3fs7UbJxYE0J7dyeuPriOO7FeFLhmYumbRSidqz9jVFLqEGRnTsZadx7WuvNSaQaXDOLC9K0lmL61JOE2Sueu44qh6Tfh3l7hOHHNHMYYOiIR9FCKqBwdThdFEbOFOSj2eiEIqQ25AEN2RmUZXYqCHtoDSilEUUQuyYVHkhwLSdmNJXH6WT9CwSC+az2he1hVD4SNBw/BI0moDdRZGoAuRUEo2IKOSGQ4zS2KkCQJOwN1IIRY/R0AhkT5rrVV187/YoYtIISg2l+Dar/fUh/jtZNSiqMv66t2CYIAjySh2l8DtygiKsuYIwgQBAGMMRBChgKfUVlGVUVlXAPBozZQh9pAwNTgTaUbDCMTJ0+f0gj87tuFhu2pM5bGEWoihKDpSLPp4TURO8eyfPESw/rqOEVlGYyx4VnukSTn9pxQsAUnWlsN80c+RXagRgrigTGGHdu2mwZ2x2unOug8CCEQBAGiKA7PREe9tcaDhwz3of4kxvJ47NldD0KI7gxKlp1uUdSkOe6tHR0TC5uo7Nldn9TgrxUcF8fud0FOob42mUjEtawJgoBirxe5JBcA0EN7LA1+VJaT6r6qdq7zFoMxhstyFG3hMHdmtIXDaNi/L24v0Sksi1Ps9aLpSLPG8Gp/DTaWbjCtqyhK0sQp8/k0A1zs9WJnoA5VFZXc4GlHJIIyn89pMy1haVlTXU69J8otitwfk6xN1SNJhnYSQnDy9CnuIbkzya8lzLAkjkeSTKf6Om+xbQaNh9pAnWk+IQQ7OWXidcedxJI4btE8+joR1mj1xM2DN8uT/c7IjP9N4HPOBIjp2U1aiZMuAUu7SCtxzBh7GdII3p5id1RdGccymVbiiDohjpFYOXPxIhbxLo887+6mon+nTUUvbKOSVuK8z3FMGg8eMt3Q28JhroBjPU+eWGaHW0rpqNcMepg5U2klDm/PYYyhqqISoWBw1PJFKcWe3fXYs7ue28fY4CdvtjLGsKl0g0aEjkjE9FWDipn4aXWpUA3LmD2NjDGEgi2ay4dW8EiSZs9xvwzhmw0ypRQ7tm2Puz/h5cs1I9Jq5gBD4SKnaDrSnNQ+eQfitBPHI0mo8fttb7fpSLPhU1zt99vuxVkJe6WdOADQsH+frcHJMp/PtD1CCL4+9o1tkRBCCL4wmKUjSUtxgKEnnRdL46EGdI2Ws5G4RREnT58at0CCIODk6VOmLrRK2ooDALWBAM63X0jo64Iynw/n2i/ENQPdoohff7+IGou3dkZCCEFtoA7n2i9YEgZ4+dkhpRRnTfx/3l2vROpHZdn0VL/Z54trnVfPFJflKLoURRMJUL/j+UDy2HK/Tr3Dd1mOQlEU3fOVWxQhjugzXkE134S+YuLwLwYJvz/m1dgQAAAAAElFTkSuQmCC" title="hibu" alt="hibu"><span itemprop="name">hibu</span></a></div>
-        <nav id="user">
-            <ul>
-                
-
-                <li id="accessibility">
-                    <a href="#main">Skip navigation</a>
-                </li>
-                
-
-                
-
-
-
-                
-
-                
-                    <li id="account" class="dropdown logged-out">
-                        <a href="#" title="Sign in/Register">Sign in/Register<span></span></a>
-                        <ul>
-                            
-                            <li id="account-form">
-                                <ul>
-                                    <li class="heading sign-in open">
-                                        <a href="#sign-in">Sign In</a>
-                                    </li>
-                                    <li class="form" id="sign-in">
-                                        <div>
-	
-
-
-<div class="form-key">
-  <p class="req right">* Required</p>
-</div>
-<div class="control-group">
-  
-  <div class="controls">
-    <input name="ctl00$MainContentPlaceHolder$header_0$ctlLogin$txtEmail" type="text" id="txtEmail" placeholder="Email"><br>
-    
-    
-  </div>
-</div>
-<div class="control-group password-control">
-  
-  <div class="controls">
-    <input name="ctl00$MainContentPlaceHolder$header_0$ctlLogin$txtPassword" type="password" id="txtPassword" autocomplete="off" placeholder="Password"><br>
-    
-  </div>
-</div>
-<div class="control-group checks">
-  <a href="/forgottendetails" title="Forgotten your details?">Forgotten your details?</a>
-</div>
-<p class="submit-signin form-submit-btn">
-  <input type="submit" name="ctl00$MainContentPlaceHolder$header_0$ctlLogin$btnSignIn" value="Sign in" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContentPlaceHolder$header_0$ctlLogin$btnSignIn&quot;, &quot;&quot;, true, &quot;login-is-compact-true&quot;, &quot;https://business.hibu.com/privacy/&quot;, false, false))" id="ctl00_MainContentPlaceHolder_header_0_ctlLogin_btnSignIn" class="cta-community">
-</p>
-<p class="t-c">By signing in, you agree to the <a href="/legal/">terms and conditions</a></p>
-
-
-</div>
-
-                                    </li>
-                                    <li class="heading register">
-                                        <a href="#register">Register</a>
-                                    </li>
-                                    <li class="form" id="register">
-                                        <div>
-	
-    
-    
-    <div class="form-key">
-        <p>You need to be registered or signed in to complete your new purchase.  If you don’t have an account then, you register here.</p>
-    </div>
-    
-    <div class="control-group email-group">
-     
-      <div class="controls">
-        <input name="ctl00$MainContentPlaceHolder$header_0$ucCreateAccount$txtEmail" type="text" id="ctl00_MainContentPlaceHolder_header_0_ucCreateAccount_txtEmail" tabindex="1" placeholder="Email">
-        
-        
-        
-      </div>
-    </div>
-
- 
-
-     <div class="control-group confirm-email">
-     
-      <div class="controls">
-        <input name="ctl00$MainContentPlaceHolder$header_0$ucCreateAccount$txtConfirmEmail" type="text" id="ctl00_MainContentPlaceHolder_header_0_ucCreateAccount_txtConfirmEmail" tabindex="2" placeholder="Confirm Email">
-        
-        
-      </div>
-    </div>
-    <div class="control-group">
-     
-      <div class="controls">
-        <input name="ctl00$MainContentPlaceHolder$header_0$ucCreateAccount$txtPassword" type="password" id="ctl00_MainContentPlaceHolder_header_0_ucCreateAccount_txtPassword" tabindex="3" autocomplete="off" placeholder="Password"> 
-        
-        
-      
-      </div>
-    </div>
-
-     
-
-
-    <div class="control-group">
-            
-      <div class="controls">
-          <input name="ctl00$MainContentPlaceHolder$header_0$ucCreateAccount$txtPhone" type="text" id="ctl00_MainContentPlaceHolder_header_0_ucCreateAccount_txtPhone" tabindex="4" placeholder="Phone Number"><a href="#" tabindex="6" class="info-tooltip"><span><p>Please enter a phone number using numbers.</p></span></a>
-        
-          
-          
-           </div>
-    </div>
-
-
-    <div class="control-group">
-      
-      <div class="controls">
-        <input name="ctl00$MainContentPlaceHolder$header_0$ucCreateAccount$txtDisplayName" type="text" id="ctl00_MainContentPlaceHolder_header_0_ucCreateAccount_txtDisplayName" tabindex="5" autocomplete="off" placeholder="Display name"><a href="#" tabindex="7" class="info-tooltip"><span><p>Display name is used as a temporary placeholder domain name for your website template </p></span></a>
-        
-        
-              
-      </div>
-    </div>
-    <fieldset class="disclaimers small-font">
-      
-      <div class="control-group">
-      <span>By clicking "Register now" you agree to the <a href="/legal/">terms and conditions</a>,&nbsp;<a href="/conditions-of-use/">conditions of use</a>, <a href="/privacy/">privacy policy</a> and <a href="/cookiepolicy/">cookie policy</a>.</span>        
-      </div>
-    </fieldset>
-    <div class="control-group">
-      <div class="controls form-submit-btn">
-        <input type="submit" name="ctl00$MainContentPlaceHolder$header_0$ucCreateAccount$cmdCreateAccount" value="Register now" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContentPlaceHolder$header_0$ucCreateAccount$cmdCreateAccount&quot;, &quot;&quot;, true, &quot;register-is-compact-true&quot;, &quot;https://business.hibu.com/privacy/&quot;, false, false))" id="ctl00_MainContentPlaceHolder_header_0_ucCreateAccount_cmdCreateAccount" class="cta-community">
-      </div>
-    </div>
-
-</div>
-                                    </li>
-                                </ul>
-
-                            <p class="full-service-login">
-                             Do you own a Yellowbook product? <br>
-                                <a target="_blank" href="http://service.hibu.com">Sign in to your account here</a>
-                            </p>
-
-                            </li>
-                        </ul>
-                    </li>
-                
-                
-
-
-                
-
-                <li id="help" class="dropdown">
-                    <a href="#">Support<span></span></a>
-                    
-<!-- help and support -->
-
-        <dl>
-            
-        <li><dt><a href="/faqs/" target="">FAQs</a></dt><dd>All the most common questions - and the answers too</dd></li>
-    
-        <li><dt><a href="/knowledge/" target="">Knowledge Center</a></dt><dd>Articles, videos and tutorials to help your business grow</dd></li>
-    
-        <li id="lpbutton-header"><dt><a href="#chat" target="#">Chat</a></dt><dd>Chat live to a hibu advisor now</dd></li>
-    
-        <li><dt><a href="/contactus/" target="">Contact us</a></dt><dd><p>Call, email or send us a message </p></dd></li>
-    
-        </dl>
-    
-
-                </li>
-                
-
-
-                
-
-                <li id="chat" class="dropdown">
-                    <a href="#">About<span></span></a>
-                     
-<!-- help and support -->
-
-        <dl>
-            
-        <li><dt><a href="http://corporate.hibu.com/en/about-us" target="_blank">About hibu</a></dt><dd><p>Find out about our strategy, products, services, partnerships and alliances</p></dd></li>
-    
-        </dl>
-    
-
-                </li>
-
-
-                
-
-                <li id="basket" class="dropdown">
-                    
-
-
-<a href="#">Cart <span class="cart-indicator">0</span></a>
-<ul>
-    
-
-    
-    <li>
-
-        <div id="mini-cart-items">
-
-            <div class="no-items">
-                <h2>Your cart is currently empty</h2>
-                <p>Please continue shopping to see which products are best suited to your needs.</p> 
+    <!-- topHeaderSection -->
+    <div id="in-header">
+    <div class="topHeaderSection">
+        <div class="header">
+            <div class="container">
+                <div class="row-fluid">
+                    <ul class="loginbar">
+                        <li><a href="javascript:void(0)" class="login-btn omn_Contact">Contact Us</a></li>
+                        <span> | </span>
+                        <li><a href="https://account.hibu.com/my-account/my-products/" data-omclick="{key:'OMT_1'}" target="_blank" class="login-btn omn_SignIn">My Account</a></li>
+                    </ul>
+                </div>
             </div>
-
         </div>
 
-    </li>
+        <div id="contactPanel">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2">
 
+                    </div>
+                    <div class="col-md-2">
+                        <h6>Call Us Today</h6>
+                        <h5>877-237-6120</h5>
+                    </div>
+                    <div class="col-md-2">
+                        <h6>Contact us</h6>
+                        <h5><a href="/contact-us/">Send us a message</a></h5>
+                    </div>
+                    <div class="col-md-2">
+                        <h6>Chat with us now</h6>
+                        <div id="lpbutton-confirmation" style="display:none"></div>
+                        <h5><a onclick="javascript:lpMTagConfig.dynButton0.actionHook();" data-omclick="{key:'OMT_3'}" href="javascript:void(0)" class="omn_Chat">Start Live Chat</a></h5>
+                    </div>
+                    <div class="col-md-2">
+                        <h6>Learn about our products</h6>
+                        <h5><a href="/become-a-customer/">Become a customer</a></h5>
+                    </div>
+                    <div class="col-md-2">
 
-
-<li id="mini-cart-loader"></li>
-</ul>
-
-                </li>
-
-
-
-            </ul>
-        </nav>
-    </section>
-
-    <section id="site-nav">
-        
-        
-        <nav id="taxonomy">
-            
-<!-- main menu -->
-
-        <ul>
-            
-        <li class="dropdown"><a href="#">
-            Websites
-        </a>
-            <div>
-                
-                        
-                        <h2>
-                            </h2>
-                        <p>
-                            </p>
-                        <ul>
-                            
-                                    
-                                    <li><a title="" href="/websites/" target="">
-                                        Websites
-                                    </a></li>
-                                
-                                    <li><a title="" href="/websites/options/choosetrialtemplate/" target="">
-                                        Website Free Trial
-                                    </a></li>
-                                
-                                
-                             </ul>
-                            
-                    
-                    
-               
+                    </div>
+                </div>
             </div>
-        </li>
+            <!---lal---->
     
-        <li class="dropdown"><a href="#">
-            Marketing Services
-        </a>
-            <div>
-                
-                        
-                        <h2>
-                            </h2>
-                        <p>
-                            </p>
-                        <ul>
-                            
-                                    
-                                    <li><a title="" href="/full-service/search-engine-marketing/" target="">
-                                        Search Engine Marketing
-                                    </a></li>
-                                
-                                    <li><a title="" href="/full-service/display-advertising/" target="">
-                                        Display Advertising
-                                    </a></li>
-                                
-                                    <li><a title="" href="/full-service/seo-service/" target="">
-                                        SEO Service
-                                    </a></li>
-                                
-                                    <li><a title="" href="http://marketing.hibu.com/internet-yellow-pages" target="_blank">
-                                        Yellowbook.com
-                                    </a></li>
-                                
-                                    <li><a title="" href="/full-service/yellowbook/" target="">
-                                        Yellowbook
-                                    </a></li>
-                                
-                                
-                             </ul>
-                            
-                    
-                    
-               
+        </div>
+        <div class="header">
+            <!------------------------menu---------------------------->
+            <div class="container">
+                <div class="row top-menu">
+                    <div class="col-md-2 logo-container">
+                        <div class="hibulogo">
+                            <a href="/" class="hibulogo"></a>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <br>
+
+                        <!-----------ifo------------->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        <div class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav">
+                                <li><a href="/websites/">WEBSITES</a></li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">MARKETING <span class="caret"></span></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="grid-demo">
+                                            <div class="menu-row">
+
+                                                <div class="col-sm-3">
+                                                    <h6><a href="/search-engine-marketing/">Search Marketing</a></h6>
+                                                    <h5><a href="/search-engine-marketing/">Get found on  Google and more</a></h5>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <h6><a href="/display-advertising/">Display Advertising</a></h6>
+                                                    <h5><a href="/display-advertising/">Advertise on the web's top sites</a></h5>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <h6><a href="/seo-service/">Search Optimization</a></h6>
+                                                    <h5><a href="/seo-service/">Improve your site's search rankings</a></h5>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <h6><a href="/directory-listings/">Directory Services</a></h6>
+                                                    <h5><a href="/directory-listings/">Start driving leads today</a></h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+
+                                </li><li><a href="/why-hibu/">WHY HIBU</a></li>
+                                <li><a href="/success-stories/">SUCCESS STORIES</a></li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">KNOWLEDGE CENTER <span class="caret"></span></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li class="grid-demo">
+                                            <div class="menu-row">
+                                                <div class="col-sm-3">
+                                                    <h6><a href="/knowledge/product-tutorials/">Tutorials</a></h6>
+                                                    <h5><a href="/knowledge/product-tutorials/">Product support and guides</a></h5>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <h6><a href="/knowledge/articles/">Articles</a></h6>
+                                                    <h5><a href="/knowledge/articles/">Digital marketing tips &amp; insights</a></h5>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <h6><a href="/knowledge/videos/">Videos</a></h6>
+                                                    <h5><a href="/knowledge/videos/">Inspiration for content &amp; design</a></h5>
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <h6><a href="/faq/">FAQs</a></h6>
+                                                    <h5><a href="/faq/">Answers to common questions</a></h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                            </li></ul>
+                        </div>
+                    </div>
+                    <div class="col-md-2  contact-us-container">
+                        <div id="callusno" class="callusbanner">
+                            <div class="call-us-title">CALL US TODAY</div>
+                            <div class="call-us-number">877.237.6120</div>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </li>
-    
-        <li class="dropdown"><a href="#">
-            Knowledge Center
-        </a>
-            <div>
-                
-                        
-                        <h2>
-                            </h2>
-                        <p>
-                            </p>
-                        <ul>
-                            
-                                    
-                                    <li><a title="" href="/knowledge/product-tutorials/" target="">
-                                        Tutorials
-                                    </a></li>
-                                
-                                    <li><a title="" href="/knowledge/videos/" target="">
-                                        Videos
-                                    </a></li>
-                                
-                                    <li><a title="" href="/knowledge/articles/" target="">
-                                        Articles
-                                    </a></li>
-                                
-                                
-                             </ul>
-                            
-                    
-                    
-               
-            </div>
-        </li>
-    
-        </ul>
-    
-
-        </nav>
-        
-        
-        <nav id="search">
-            <div>
-	
-    <section class="header-search right" id="search-header">
-        <fieldset class="search">
-            <input name="ctl00$MainContentPlaceHolder$header_0$search$txtSearch" type="text" id="txtSearch" autocomplete="off" placeholder="Search site">
-            <input type="submit" name="ctl00$MainContentPlaceHolder$header_0$search$btnSearch" value="Search" id="ctl00_MainContentPlaceHolder_header_0_search_btnSearch">
-        </fieldset>
-    </section>
-
-</div>
-
-        </nav>
-        
-    </section>
-
-</header>
-
+        </div>
     </div>
-    <!-- / header wrapper -->
-    <!-- content wrapper -->
-    <div id="wrapper-main">
-        <!-- content -->
-        <section id="main" tabindex="-1" role="main" class="HibuUs static">
-            
-            
-<!-- content -->
-
-    <div class="page-wrapper">
-        <!-- CONTENT BEGINS HERE -->
-        <article>
-            <h1>Our Global Privacy Policy</h1>
-<p>This global privacy policy (the <strong>"Privacy Policy"</strong>) describes our practices in connection with the personal data that you provide to any company in our Group (a <strong>"Group Company"</strong>) or allow a Group Company to access through:
-(i) a website which is operated (as indicated in its conditions of use) by a Group Company (the <strong>"Website"</strong>); and/or
-(ii) any other means, such as during a telephone call or by email - which includes whilst contracting with us for, or using, our goods and/or services, etc (the <strong>"Personal Data"</strong>). An updated list of our Group Companies is available <a href="http://corporate.hibu.com/en/about-us/trading-entities">here</a>.</p>
-<p>Our products and service may have particular privacy terms and conditions attaching to them, which will prevail in the event of any discrepancy with this Privacy Policy (the <strong>"Particular Privacy Terms"</strong>). Any Particular Privacy Terms applicable to a product or service you wish to purchase or use will be highlighted to you at the time you request such product or service.</p>
-<p>The third parties' websites you access through the Website fall outside of our control and are not covered by this Privacy Policy but governed by the privacy policies of these third parties' websites that are neither reviewed nor endorsed by us.</p>
-<ol>
-    <li><!-- Item 1 -->
-    <section>
-    <h2>Updates to this Privacy Policy</h2>
-    <p>We may change this Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page. Please take a look at the "Last updated" legend at the bottom of this page to see when this Privacy Policy was last revised. The processing of your Personal Data will be governed by the Privacy Policy in force at the time your Personal Data are collected unless otherwise agreed by you or allowed under applicable law. </p>
-    </section>
-    </li>
-    <li><!-- Item 2 -->
-    <section>
-    <h2>What categories of Personal Data are collected?</h2>
-    <p>When you register with us, we will collect Personal Data such as your name, street address, email address, telephone number.  If you contract to purchase goods or services from us or through this Website, we will collect Personal Data such as payment information, including credit card data.  In addition, we collect certain information through cookies and similar electronic devices, as further described in the <a <a="" href="#cookies"> Cookies </a> section below. We will ask for your consent if we wish to use your data for a purpose materially different than that for which it was collected.</p>
-    </section>
-    </li>
-    <li><!-- Item 3 -->
-    <section>
-    <h2>Who determines which Personal Data are collected, how and for which purposes (the data controller)?</h2>
-    <p>The data controller (<strong>"us", "we",</strong> and <strong>"our"</strong>) will be:</p>
-    <ul>
-        <li>For products or services contracted offline: the Group Company that contracts with you, as identified in the terms and conditions applicable to the purchase or use of the relevant product or service. </li>
-        <li>For products and services contracted online:
+    <div class="container111" id="page"></div>
+    </div><div class="container">
+    <article class="privacy">
+        <h1>Our Global Privacy Policy</h1>
+        <br>
+        <p>This global privacy policy (the <strong>"Privacy Policy"</strong>) describes our practices in connection with the personal data that you provide to any company in our Group (a <strong>"Group Company"</strong>) or allow a Group Company to access through:
+            (i) a website which is operated (as indicated in its conditions of use) by a Group Company (the <strong>"Website"</strong>); and/or
+            (ii) any other means, such as during a telephone call or by email - which includes whilst contracting with us for, or using, our goods and/or services, etc (the <strong>"Personal Data"</strong>). An updated list of our Group Companies is available <a href="http://corporate.hibu.com/en/about-us/trading-entities">here</a>.</p>
+        <p>Our products and service may have particular privacy terms and conditions attaching to them, which will prevail in the event of any discrepancy with this Privacy Policy (the <strong>"Particular Privacy Terms"</strong>). Any Particular Privacy Terms applicable to a product or service you wish to purchase or use will be highlighted to you at the time you request such product or service.</p>
+        <p>The third parties' websites you access through the Website fall outside of our control and are not covered by this Privacy Policy but governed by the privacy policies of these third parties' websites that are neither reviewed nor endorsed by us.</p>
         <ol>
-            <li>in all events, the Group Company that operates the relevant Website, as identified in its conditions of use; and </li>
-            <li>if you are interested in a specific online product or service (other than mere browsing), the Group Company that contracts with you, as identified in the relevant terms and conditions applicable to the purchase or use of the relevant product or service.</li>
+            <li><!-- Item 1 -->
+                <section>
+                    <h2>Updates to this Privacy Policy</h2>
+                    <p>We may change this Privacy Policy. If we decide to change our privacy policy, we will post those changes on this page. Please take a look at the "Last updated" legend at the bottom of this page to see when this Privacy Policy was last revised. The processing of your Personal Data will be governed by the Privacy Policy in force at the time your Personal Data are collected unless otherwise agreed by you or allowed under applicable law. </p>
+                </section>
+            </li>
+            <li><!-- Item 2 -->
+                <section>
+                    <h2>What categories of Personal Data are collected?</h2>
+                    <p>When you register with us, we will collect Personal Data such as your name, street address, email address, telephone number.  If you contract to purchase goods or services from us or through this Website, we will collect Personal Data such as payment information, including credit card data.  In addition, we collect certain information through cookies and similar electronic devices, as further described in the <a href="#cookies"> Cookies </a> section below. We will ask for your consent if we wish to use your data for a purpose materially different than that for which it was collected.</p>
+                </section>
+            </li>
+            <li><!-- Item 3 -->
+                <section>
+                    <h2>Who determines which Personal Data are collected, how and for which purposes (the data controller)?</h2>
+                    <p>The data controller (<strong>"us", "we",</strong> and <strong>"our"</strong>) will be:</p>
+                    <ul>
+                        <li>For products or services contracted offline: the Group Company that contracts with you, as identified in the terms and conditions applicable to the purchase or use of the relevant product or service. </li>
+                        <li>For products and services contracted online:<br>
+                            <br>
+                            <ol>
+                                <li>in all events, the Group Company that operates the relevant Website, as identified in its conditions of use; and </li>
+                                <li>if you are interested in a specific online product or service (other than mere browsing), the Group Company that contracts with you, as identified in the relevant terms and conditions applicable to the purchase or use of the relevant product or service.</li>
+                            </ol>
+                        </li>
+                    </ul>
+                    <p>All terms and conditions of our products and service (unless expressly provided for therein), including this Privacy Policy, may be assigned to any third party.</p>
+                    <p>Note: The Group companies include, among others, the US company hibu Inc. hibu Inc. in the US complies with the US-EU Safe Harbor Framework and has certified that it adheres to EU/U.S. Safe Harbor Principles (notice, choice, onward transfer, security, data integrity, access and enforcement) with respect to Personal Data transferred from the European Union by Yellowbook Inc.'s clients, customers and affiliates. More information about the Safe Harbor program can be found at <a target="_blank" href="http://export.gov/safeharbor" rel="nofollow">http://export.gov/safeharbor</a></p>
+                </section>
+            </li>
+            <li><!-- Item 4 -->
+                <section>
+                    <h2>How is your Personal Data collected?</h2>
+                    <ul>
+                        <li>Directly from you, when you are interacting with a Group Company, <em>for example information you give us as requested by phone, email or detailed in the forms you may be asked to complete and also information we collect from your use of our products and services such as online searches you conduct or your interaction with adverts that we place on websites or other media.</em> </li>
+                        <li>Directly from third parties: if allowed by law, for example, if you are in the process of contracting for a product or service for which we need to evaluate your financial solvency (e.g., contracts that entail a deferred payment of the price or the provision of a service involving periodic billing), we may check your credit rating or credit score by consulting financial solvency files held by third parties, we may also be passed your data by third parties for one of the purposes specified below.
+                            If you reside in the United States, please review the following: <a href="http://www.consumer.ftc.gov/articles/pdf-0096-fair-credit-reporting-act.pdf" target="_blank" rel="nofollow">A Summary of Your Rights Under the Fair Credit and Reporting Act.</a></li>
+                    </ul>
+                </section>
+            </li>
+            <li><!-- Item 5 -->
+                <section>
+                    <h2>Which Personal Data and for which purposes are they used by us?</h2>
+                    <p>We collect Personal Data (as detailed in the forms you will be asked to complete) as required to perform the following purposes:</p>
+                    <ol>
+                        <li>
+                            <p><strong>To evaluate an application regarding the contracting of our products or services.</strong> For example, depending on the product or service, this may include verifying whether you are eligible to enter into a competition or to check your credit rating or credit score in credit and solvency files managed by third parties, etc.</p>
+                        </li>
+                        <li>
+                            <p><strong>To provide you with a product or service you have requested.</strong> For example, to answer your questions or respond to comments submitted to us; to send you information you have requested; to perform and enforce the terms and conditions that govern the product or service (which may include, depending on the product or service, the recording of calls between us and you to evidence the rendering of the product or service or the identification of activities that are prohibited under the terms and conditions that govern the product or service, for accounting, billing and payment verification purposes, to collect debts, to serve notice of unpaid, due and enforceable debts to solvency files which payment has been requested from you); to award a prize if you are the winner of a competition, to post content you have submitted for publication, such as ratings and reviews; to share your Personal Data with payment processing organizations, etc.</p>
+                            <p>If the product or service rendered by us requires us to access or otherwise process on your behalf (e.g, developing, testing, hosting and providing maintenance services for your website) personal data controlled by you (e.g. via your online store or advertising website that we create for you), please refer to its <strong>Particular Privacy Terms</strong> regarding your and our specific responsibilities.</p>
+                        </li>
+                        <li>
+                            <p><strong>To comply with our legal obligations or defend our interests in judicial or administrative proceedings.</strong> For example, this includes responding to the requests of governmental and judicial orders of any competent jurisdiction or sharing the Personal Data with other enforcement agencies regarding any mandatory requirement.</p>
+                        </li>
+                        <li>
+                            <p><strong>To carry out any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock.</strong> For example, this includes a sale of our assets such as our databases, in connection with a bankruptcy proceeding or an intra-group corporate or business reorganization. </p>
+                        </li>
+                        <li>
+                            <p><strong>To analyse how our products and service are used by our customers and to improve our business.</strong> For example, this includes the analysis of statistical information on the use of our websites by visitors as well as of any feedback on our business or testimonials that you may provide. We may (but we are not obliged to) publish any feedback or testimonials (online or offline) and your name in order to promote our business (your user ID may be published, but your e-mail address and other contact details will not be). </p>
+                        </li>
+                        <li>
+                            <p><strong>To honour your preferences on direct marketing and for advert targeting purposes.</strong> We (or other third parties, including our affiliates) may send you direct marketing communications in accordance with applicable privacy laws, which may or may not be personalised for you (i.e., tailored to your profile), by any means (e.g., post, phone call, email, text message or other electronic means) and carry out advert targeting. For example, whenever you provide us with any Personal Data (e.g., when you ask for our products or services), we will ask you for your preferences in this respect and provide you with information on the kind of direct marketing available and on whether third party data controllers may send you such direct marketing or carry out the advert targeting. We will not share any Personal Data with affiliates or other third parties for these purposes without meeting the requirements of privacy laws. To discontinue direct marketing or advert targeting, you may send a request as explained in section 9. Furthermore, and regarding direct marketing by electronic means, we will inform you in each of our communications how to unsubscribe in a straightforward way and at no cost (save that related to transmission of your request). We will answer your request as soon as reasonably practicable, and in any case, within the term legally determined (if there is one). </p>
+                            <p>Please note that if you do opt-out of receiving marketing-related messages from us, we will still send messages as necessary to fulfill other purposes (such as administrative messages relating to the operation of the product or service).</p>
+                        </li>
+                    </ol>
+                </section>
+            </li>
+            <li><!-- Item 6 -->
+                <section>
+                    <h2>Which Personal Data and for which purposes are they shared with third parties?</h2>
+                    <p>Personal Data may be used or shared with third parties (including Group Companies) if:</p>
+                    <ol class="lower-roman">
+                        <li>it is necessary for the following purposes mentioned in section 5 above: (1) to evaluate an application regarding the contracting of our products or services, (2) to provide you with a product or service you have requested, (3) to comply with our legal obligations or defend our interests in judicial or administrative proceedings; (4) to carry out any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock; <strong>and</strong> (5) to analyse how our products or services are used by our customers and to improve our business;</li>
+                        <li>it is necessary (6) to honour your preferences on direct marketing and for advert targeting purposes (mentioned in section 5 above), i.e., if you have agreed to receiving marketing and targeted adverts from us and/or certain third parties; or </li>
+                        <li>these third parties are service providers and work on our behalf to support us in performing any of the abovementioned purposes (e.g., cloud services providers that provide IT infrastructure used by us to provide you with a product or service).</li>
+                    </ol>
+                    <p>The third party recipients under (i), (ii) or (iii) may be located world-wide, including outside of the European Economic Area (EEA) (such as the US) these countries may provide personal data protection standards that are not necessarily equivalent to those applicable in the EEA (in which case, specific safeguards are adopted by us for Personal Data originating in the EEA, such as ensuring the third party complies with the Safe Harbor Principles, is subject to another adequacy finding or enters into a written agreement with us requiring that the third party provide at least the same level of privacy protection as is required within the EEA.</p>
+                </section>
+            </li>
+            <li><!-- Item 7 -->
+                <section>
+                    <h2>How we keep your Personal Data secure</h2>
+                    <p>We take the security of your Personal Data very seriously. We have put in place technology and security policies which are designed to protect the personal information that we hold about you. These cover storing, using and releasing any Personal Data you have provided, and preventing unauthorized access or use. We have put in place technical and organizational measures designed to prevent unauthorized or unlawful processing of Personal Data and designed to prevent accidental access, disclosure, alteration, loss or destruction of, or damage to, Personal Data. These include internal reviews or our data collection, storage, processing and destruction practices. We take steps designed to ensure the reliability of our personnel and subcontractors.<br>
+                        We use an internal self-assessment program to verify that this Privacy Policy is accurate, comprehensive, prominently displayed, implemented and accessible. The self-assessment program is also used to indicate whether or not this Privacy Policy adheres to the Safe Harbor Principles and aims to ensure that we have in place procedures for training employees regarding implementation and discipline for failure to comply, as well as and periodically conducting objective reviews of compliance with the foregoing.</p>
+                </section>
+            </li>
+            <li><!-- Item 8 -->
+                <section>
+                    <h2 class="tnc-anchor-point">Cookies
+                        <a name="cookies"></a></h2>
+                    <p>We and our business partners collect information about your use of our Websites through cookies. Cookies are information files stored on your computer that help websites remember who you are and information about your visit. In those Websites where cookies are used, you will find a cookie policy which provides detailed information on which cookies are used therein (our cookies and/or third parties' cookies . Without prejudice to other deactivation means that might be made available in each Website, if any, if you do not want a website to create a cookie on your computer, the option to disable it may be activated in your browser (some browsers just completely allow or disallow cookies so you either benefit from them or not; others can also be set to prompt you for a YES or NO response whenever a site tries to send a cookie and newer browsers give more control in selecting which sites can or cannot send cookies). If you want to know more about how cookies work and how to manage or delete them, visit the <a target="_blank" href="http://www.allaboutcookies.org/manage-cookies/" rel="nofollow">All About Cookies website</a> or the <a target="_blank" href="http://www.youronlinechoices.com" rel="nofollow">Interactive Advertising Bureau's website.</a></p>
+                </section>
+            </li>
+            <li><!-- Item 9 -->
+                <section>
+                    <h2>Your responsibilities when you provide us with or allow us access to your Personal Data</h2>
+                    <p>You must provide accurate Personal Data and do so only when you are 18 years of age or over and you agree to keep such data up-to-date. You must comply with any data protection and privacy legal requirements applicable to you. You must comply with and not disable any security measure of a Website. If you are acting as a (legal or de facto) representative of any legal entity, you must only provide your professional contact details in respect of that legal entity (and never your private contact details).</p>
+                </section>
+            </li>
+            <li><!-- Item 10 -->
+                <section>
+                    <h2>Use of the Website by Minors</h2>
+                    <p>The Website is not directed to individuals under the age of eighteen (18), and we request that these individuals do not provide Personal Data through the Website.</p>
+                </section>
+            </li>
+            <li><!-- Item 11 -->
+                <section>
+                    <h2>Managing your rights regarding your Personal Data held by us as data controller</h2>
+                    <p>You may contact us at <a href="mailto:privacy.officer@hibu.com">privacy.officer@hibu.com</a> with written proof of your identity, such as a copy of your photo ID, with signature) (i) to request a copy of your Personal Data; or (ii) to request that your Personal Data be corrected, amended, rectified or deleted if they are inaccurate or incomplete; or (iii) to object to the processing of your Personal Data for certain purposes (such as direct marketing). If you are a registered user of one or more of our Websites, (i) and (ii) may also be managed directly by you in your account management/your profile section. We will answer your request as soon as reasonably practicable, and in any case, within the term legally determined (if there is one) and will comply except where the burden or expense of providing access would be disproportionate to the risk to you, or compliance could result in someone else's rights being violated.</p>
+                </section>
+            </li>
+            <li><!-- Item 12 -->
+                <section>
+                    <h2>What to do if you have a complaint or concern</h2>
+                    <p>We are committed to resolving any privacy concerns that you may have. If you have any concerns or complaints about the way we’ve handled your personal information, please contact us at <a href="mailto:privacy.officer@hibu.com">privacy.officer@hibu.com</a>. Should you have a complaint against our US Group Company, we’ll try to resolve the complaint directly with you; however, if we are unable to resolve your dispute and you reside in the US, our US Group Company has selected the International Dispute Resolution Center as the independent recourse mechanism to resolve the dispute via arbitration.  Additionally, our US Group Company is also subject to the jurisdiction of the U.S. Federal Trade Commission. Individuals who are unable to resolve a US Group Company-related complaint through the aforementioned complaint process may contact the Federal Trade Commission:</p>
+                    <p>Federal Trade Commission <br>
+                        Attn: Consumer Response Center <br>
+                        600 Pennsylvania Avenue NW <br>
+                        Washington, DC 20580&nbsp;<br>
+                        <a href="mailto:consumerline@ftc.gov">consumerline@ftc.gov</a><br>
+                        <a href="http://www.ftc.gov" target="_blank" rel="nofollow">www.ftc.gov</a>
+                    </p>
+                </section>
+            </li>
         </ol>
-        </li>
-    </ul>
-    <p>All terms and conditions of our products and service (unless expressly provided for therein), including this Privacy Policy, may be assigned to any third party.</p>
-    <p>Note: The Group companies include, among others, the US company hibu Inc. hibu Inc. in the US complies with the US-EU Safe Harbor Framework and has certified that it adheres to EU/U.S. Safe Harbor Principles (notice, choice, onward transfer, security, data integrity, access and enforcement) with respect to Personal Data transferred from the European Union by Yellowbook Inc.'s clients, customers and affiliates. More information about the Safe Harbor program can be found at <a target="_blank" href="http://export.gov/safeharbor" rel="nofollow">http://export.gov/safeharbor</a></p>
-    </section>
-    </li>
-    <li><!-- Item 4 -->
-    <section>
-    <h2>How is your Personal Data collected?</h2>
-    <ul>
-        <li>Directly from you, when you are interacting with a Group Company, <em>for example information you give us as requested by phone, email or detailed in the forms you may be asked to complete and also information we collect from your use of our products and services such as online searches you conduct or your interaction with adverts that we place on websites or other media.</em> </li>
-        <li>Directly from third parties: if allowed by law, for example, if you are in the process of contracting for a product or service for which we need to evaluate your financial solvency (e.g., contracts that entail a deferred payment of the price or the provision of a service involving periodic billing), we may check your credit rating or credit score by consulting financial solvency files held by third parties, we may also be passed your data by third parties for one of the purposes specified below.
-If you reside in the United States, please review the following: <a href="http://www.consumer.ftc.gov/articles/pdf-0096-fair-credit-reporting-act.pdf" target="_blank" rel="nofollow">A Summary of Your Rights Under the Fair Credit and Reporting Act.</a></li>
-    </ul>
-    </section>
-    </li>
-    <li><!-- Item 5 -->
-    <section>
-    <h2>Which Personal Data and for which purposes are they used by us?</h2>
-    <p>We collect Personal Data (as detailed in the forms you will be asked to complete) as required to perform the following purposes:</p>
-    <ol>
-        <li>
-        <p><strong>To evaluate an application regarding the contracting of our products or services.</strong> For example, depending on the product or service, this may include verifying whether you are eligible to enter into a competition or to check your credit rating or credit score in credit and solvency files managed by third parties, etc.</p>
-        </li>
-        <li>
-        <p><strong>To provide you with a product or service you have requested.</strong> For example, to answer your questions or respond to comments submitted to us; to send you information you have requested; to perform and enforce the terms and conditions that govern the product or service (which may include, depending on the product or service, the recording of calls between us and you to evidence the rendering of the product or service or the identification of activities that are prohibited under the terms and conditions that govern the product or service, for accounting, billing and payment verification purposes, to collect debts, to serve notice of unpaid, due and enforceable debts to solvency files which payment has been requested from you); to award a prize if you are the winner of a competition, to post content you have submitted for publication, such as ratings and reviews; to share your Personal Data with payment processing organizations, etc.</p>
-        <p>If the product or service rendered by us requires us to access or otherwise process on your behalf (e.g, developing, testing, hosting and providing maintenance services for your website) personal data controlled by you (e.g. via your online store or advertising website that we create for you), please refer to its <strong>Particular Privacy Terms</strong> regarding your and our specific responsibilities.</p>
-        </li>
-        <li>
-        <p><strong>To comply with our legal obligations or defend our interests in judicial or administrative proceedings.</strong> For example, this includes responding to the requests of governmental and judicial orders of any competent jurisdiction or sharing the Personal Data with other enforcement agencies regarding any mandatory requirement.</p>
-        </li>
-        <li>
-        <p><strong>To carry out any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock.</strong> For example, this includes a sale of our assets such as our databases, in connection with a bankruptcy proceeding or an intra-group corporate or business reorganization. </p>
-        </li>
-        <li>
-        <p><strong>To analyse how our products and service are used by our customers and to improve our business.</strong> For example, this includes the analysis of statistical information on the use of our websites by visitors as well as of any feedback on our business or testimonials that you may provide. We may (but we are not obliged to) publish any feedback or testimonials (online or offline) and your name in order to promote our business (your user ID may be published, but your e-mail address and other contact details will not be). </p>
-        </li>
-        <li>
-        <p><strong>To honour your preferences on direct marketing and for advert targeting purposes.</strong> We (or other third parties, including our affiliates) may send you direct marketing communications in accordance with applicable privacy laws, which may or may not be personalised for you (i.e., tailored to your profile), by any means (e.g., post, phone call, email, text message or other electronic means) and carry out advert targeting. For example, whenever you provide us with any Personal Data (e.g., when you ask for our products or services), we will ask you for your preferences in this respect and provide you with information on the kind of direct marketing available and on whether third party data controllers may send you such direct marketing or carry out the advert targeting. We will not share any Personal Data with affiliates or other third parties for these purposes without meeting the requirements of privacy laws. To discontinue direct marketing or advert targeting, you may send a request as explained in section 9. Furthermore, and regarding direct marketing by electronic means, we will inform you in each of our communications how to unsubscribe in a straightforward way and at no cost (save that related to transmission of your request). We will answer your request as soon as reasonably practicable, and in any case, within the term legally determined (if there is one). </p>
-        <p>Please note that if you do opt-out of receiving marketing-related messages from us, we will still send messages as necessary to fulfill other purposes (such as administrative messages relating to the operation of the product or service).</p>
-        </li>
-    </ol>
-    </section>
-    </li>
-    <li><!-- Item 6 -->
-    <section>
-    <h2>Which Personal Data and for which purposes are they shared with third parties?</h2>
-    <p>Personal Data may be used or shared with third parties (including Group Companies) if:</p>
-    <ol class="lower-roman">
-        <li>it is necessary for the following purposes mentioned in section 5 above: (1) to evaluate an application regarding the contracting of our products or services, (2) to provide you with a product or service you have requested, (3) to comply with our legal obligations or defend our interests in judicial or administrative proceedings; (4) to carry out any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock; <strong>and</strong> (5) to analyse how our products or services are used by our customers and to improve our business;</li>
-        <li>it is necessary (6) to honour your preferences on direct marketing and for advert targeting purposes (mentioned in section 5 above), i.e., if you have agreed to receiving marketing and targeted adverts from us and/or certain third parties; or </li>
-        <li>these third parties are service providers and work on our behalf to support us in performing any of the abovementioned purposes (e.g., cloud services providers that provide IT infrastructure used by us to provide you with a product or service).</li>
-    </ol>
-    <p>The third party recipients under (i), (ii) or (iii) may be located world-wide, including outside of the European Economic Area (EEA) (such as the US) these countries may provide personal data protection standards that are not necessarily equivalent to those applicable in the EEA (in which case, specific safeguards are adopted by us for Personal Data originating in the EEA, such as ensuring the third party complies with the Safe Harbor Principles, is subject to another adequacy finding or enters into a written agreement with us requiring that the third party provide at least the same level of privacy protection as is required within the EEA.</p>
-    </section>
-    </li>
-    <li><!-- Item 7 -->
-    <section>
-    <h2>How we keep your Personal Data secure</h2>
-    <p>We take the security of your Personal Data very seriously. We have put in place technology and security policies which are designed to protect the personal information that we hold about you. These cover storing, using and releasing any Personal Data you have provided, and preventing unauthorized access or use. We have put in place technical and organizational measures designed to prevent unauthorized or unlawful processing of Personal Data and designed to prevent accidental access, disclosure, alteration, loss or destruction of, or damage to, Personal Data. These include internal reviews or our data collection, storage, processing and destruction practices. We take steps designed to ensure the reliability of our personnel and subcontractors.<br>
-    We use an internal self-assessment program to verify that this Privacy Policy is accurate, comprehensive, prominently displayed, implemented and accessible. The self-assessment program is also used to indicate whether or not this Privacy Policy adheres to the Safe Harbor Principles and aims to ensure that we have in place procedures for training employees regarding implementation and discipline for failure to comply, as well as and periodically conducting objective reviews of compliance with the foregoing.</p>
-    </section>
-    </li>
-    <li><!-- Item 8 -->
-    <section>
-    <h2 class="tnc-anchor-point">Cookies
-	<a name="cookies"></a></h2>
-    <p>We and our business partners collect information about your use of our Websites through cookies. Cookies are information files stored on your computer that help websites remember who you are and information about your visit. In those Websites where cookies are used, you will find a cookie policy which provides detailed information on which cookies are used therein (our cookies and/or third parties' cookies . Without prejudice to other deactivation means that might be made available in each Website, if any, if you do not want a website to create a cookie on your computer, the option to disable it may be activated in your browser (some browsers just completely allow or disallow cookies so you either benefit from them or not; others can also be set to prompt you for a YES or NO response whenever a site tries to send a cookie and newer browsers give more control in selecting which sites can or cannot send cookies). If you want to know more about how cookies work and how to manage or delete them, visit the <a target="_blank" href="http://www.allaboutcookies.org/manage-cookies/" rel="nofollow">All About Cookies website</a> or the <a target="_blank" href="http://www.youronlinechoices.com" rel="nofollow">Interactive Advertising Bureau's website.</a></p>
-    </section>
-    </li>
-    <li><!-- Item 9 -->
-    <section>
-    <h2>Your responsibilities when you provide us with or allow us access to your Personal Data</h2>
-    <p>You must provide accurate Personal Data and do so only when you are 18 years of age or over and you agree to keep such data up-to-date. You must comply with any data protection and privacy legal requirements applicable to you. You must comply with and not disable any security measure of a Website. If you are acting as a (legal or de facto) representative of any legal entity, you must only provide your professional contact details in respect of that legal entity (and never your private contact details).</p>
-    </section>
-    </li>
-    <li><!-- Item 10 -->
-    <section>
-    <h2>Use of the Website by Minors</h2>
-    <p>The Website is not directed to individuals under the age of eighteen (18), and we request that these individuals do not provide Personal Data through the Website.</p>
-    </section>
-    </li>
-    <li><!-- Item 11 -->
-    <section>
-    <h2>Managing your rights regarding your Personal Data held by us as data controller</h2>
-    <p>You may contact us at <a href="mailto:privacy.officer@hibu.com">privacy.officer@hibu.com</a> with written proof of your identity, such as a copy of your photo ID, with signature) (i) to request a copy of your Personal Data; or (ii) to request that your Personal Data be corrected, amended, rectified or deleted if they are inaccurate or incomplete; or (iii) to object to the processing of your Personal Data for certain purposes (such as direct marketing). If you are a registered user of one or more of our Websites, (i) and (ii) may also be managed directly by you in your account management/your profile section. We will answer your request as soon as reasonably practicable, and in any case, within the term legally determined (if there is one) and will comply except where the burden or expense of providing access would be disproportionate to the risk to you, or compliance could result in someone else's rights being violated.</p>
-    </section>
-    </li>
-    <li><!-- Item 12 -->
-    <section>
-    <h2>What to do if you have a complaint or concern</h2>
-    <p>We are committed to resolving any privacy concerns that you may have. If you have any concerns or complaints about the way we’ve handled your personal information, please contact us at <a href="mailto:privacy.officer@hibu.com">privacy.officer@hibu.com</a>. Should you have a complaint against our US Group Company, we’ll try to resolve the complaint directly with you; however, if we are unable to resolve your dispute and you reside in the US, our US Group Company has selected the International Dispute Resolution Center as the independent recourse mechanism to resolve the dispute via arbitration.  Additionally, our US Group Company is also subject to the jurisdiction of the U.S. Federal Trade Commission. Individuals who are unable to resolve a US Group Company-related complaint through the aforementioned complaint process may contact the Federal Trade Commission:</p>
-    <p>Federal Trade Commission <br>
-    Attn: Consumer Response Center <br>
-    600 Pennsylvania Avenue NW <br>
-    Washington, DC 20580&nbsp;<br>
-   <a href="mailto:consumerline@ftc.gov">consumerline@ftc.gov</a><br>
-    <a href="http://www.ftc.gov" target="_blank" rel="nofollow">www.ftc.gov</a>
-    </p>
-    </section>
-    </li>
-</ol>
-<ul class="static-options">
-    <li><a class="print" title="print" href="javascript:window.print()">Print</a></li>
-    <li><a target="_blank" href="/~/media/Files/Shared/Footer/hibu_GlobalPrivacyPolicy.pdf" title="download" class="download"><span class="download">Download</span></a></li>
-</ul>
-<p>
-Last updated 7 March 2013<br>
-©  hibu (UK) Limited, March 2013</p>
-        </article>
-        <!-- CONTENT ENDS HERE -->
+        <div class="static-options">
+            <a target="_blank" href="/Static/i/v1/pdf/hibu_GlobalPrivacyPolicy.pdf" title="download"><span class="glyphicon glyphicon-download-alt"></span></a>
+        </div>
+        <p>Last updated 7 March 2013</p>
+    </article>
+    <br><br>
+</div>
+<div id="in-footer">
+    <div class="footerTopSection">
+        <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <h3>Company</h3>
+                        <p>
+                            <a href="/why-hibu/">Why hibu?</a><br>
+                            <a href="/success-stories/">Success stories</a><br>
+                            <a href="http://careers.hibu.com/" target="_blank">Careers</a><br>
+                            <a href="/contact-us/">Contact us</a><br>
+                            <a href="/become-a-customer/">Become a customer</a><br>
+                            <a href="/corporate-information/">Corporate information</a><br>
+                      </p>
+
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Services</h3>
+                        <p>
+                            <a href="/websites/">Websites</a><br>
+                            <a href="/search-engine-marketing/">Search engine marketing</a><br>
+                            <a href="/display-advertising/">Display advertising</a><br>
+                            <a href="/seo-service/">SEO service</a><br>
+                            <a href="/directory-listings/">Directory listings</a><br>
+                      </p>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Knowledge Center </h3>
+                        <p>
+                            <a href="/knowledge/product-tutorials/">Tutorials</a><br>
+                            <a href="/knowledge/videos/">Videos</a><br>
+                            <a href="/knowledge/articles/">Articles</a><br>
+                            <a href="/faq/">FAQs</a><br>
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="row">
+                    <div class="col-md pull-right">
+                        <a href="https://www.facebook.com/hibuUS" target="_blank">
+                            <img alt="Follow hibu on Facebook" src="/Static/i/v1/Facebook.png" name="facebook" border="0" id="facebook">
+                        </a>
+                        <a href="https://twitter.com/hibuus" target="_blank">
+                            <img alt="Follow hibu on Twitter" src="/Static/i/v1/Twitter.png" name="twitter" border="0" id="twitter">
+                        </a>
+                        <a href="https://www.linkedin.com/company/hibu" target="_blank">
+                            <img alt="Follow hibu on LinkedIn" src="/Static/i/v1/Linkdin.png" name="linkiden" border="0" id="linkiden">
+                        </a>
+                        <a href="https://plus.google.com/115195563293334556732/posts" target="_blank">
+                            <img alt="Follow hibu on Google+" src="/Static/i/v1/Google.png" name="google" border="0" id="google">
+                        </a>
+                        <a href="https://vine.co/u/1172222394493276160" target="_blank">
+                            <img alt="Follow hibu on Vine" src="/Static/i/v1/vine_footer.png" name="google" border="0" id="vine">
+                        </a>
+                        <a href="https://instagram.com/hibuusa/" target="_blank">
+                            <img alt="Follow hibu on Instagram" src="/Static/i/v1/instagram_footer.png" name="instagram" border="0" id="instagram">
+                        </a>
+                        </div>
+                </div>
+            </div>
     </div>
+    <hr>
+        <!-- footerBottomSection -->
+    <div class="footerBottomSection">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 Hibu-Logobottom"></div>
+                    <div class="col-md-9">
+                        <br><a href="/privacy-policy/">Privacy policy</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="/cookie-policy/">Cookie policy</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="/conditions-of-use/">Conditions of use </a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="/legal/">Legal</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="/terms-conditions/">hibu Inc Customer T&amp;Cs</a> <br>
+                        <span class="footCopyRight">© hibu Inc 2014. 'hibu' is a trademark of hibu (UK) Limited or its licensors. All rights reserved.</span>
+                    </div>
+                </div>
 
-<!-- / content -->
-
-        </section>
-        
-    </div>
-    <!-- / content wrapper -->
-    
-
-
-<!-- footer wrapper -->
-<div id="wrapper-footer">
-  <!-- footer -->
-  <footer class="clearfix">
-    <div id="wrapper-social-location">
-      <div id="social-location" class="wrpr-ftr-elms">
-				<div class="hibu-logo"></div>
-					<!-- social links - tbc -->
-          
-<!-- social links - tbc -->
-<section class="social-links">
-    <h4>Share hibu:</h4>
-    <ul>
-        
-                    
-                <li>
-                <div id="ctl00_MainContentPlaceHolder_footer_0_ucSocialLinks_lvSocialLinks_ctrl0_pnlLinks">
-	
-                 <a href="http://www.facebook.com/sharer.php?s= 100&amp;p[title]=hibu business&amp;p[summary]=Discover the products, services and support to keep your business ahead of the competition and to help you thrive online.&amp;p[images][0]=http://business.hibu.com/img/hibu-logo.jpg&amp;p[url]=http://business.hibu.com/" class="sprite-facebook" target="_blank" title="Facebook" rel="nofollow">
-                        Facebook
-                    </a>
-                 
-                
-             
+            </div>
+        </div>
 </div>
-                    
-                </li>
-            
-                <li>
-                <div id="ctl00_MainContentPlaceHolder_footer_0_ucSocialLinks_lvSocialLinks_ctrl1_pnlLinks">
-	
-                 <a href="https://twitter.com/intent/tweet?text=Products, services and support to help businesses thrive online – get a free trial.&amp;hashtags=hibubusiness&amp;counturl=https://twitter.com/hibuBusinessUS&amp;url=http://business.hibu.com/" class="sprite-twitter" target="_blank" title="Twitter" rel="nofollow">
-                        Twitter
-                    </a>
-                 
-                
-             
-</div>
-                    
-                </li>
-            
-                <li>
-                <div id="ctl00_MainContentPlaceHolder_footer_0_ucSocialLinks_lvSocialLinks_ctrl2_pnlLinks">
-	
-                 <a href="http://www.linkedin.com/shareArticle?mini=true&amp;title=hibu business&amp;summary=Discover the products, services and support to help keep your business ahead of the competition and to help you thrive online &amp;url=http://business.hibu.com/" class="sprite-linkedin" target="_blank" title="Linkedin" rel="nofollow">
-                        Linkedin
-                    </a>
-                 
-                
-             
-</div>
-                    
-                </li>
-            
-                <li>
-                <div id="ctl00_MainContentPlaceHolder_footer_0_ucSocialLinks_lvSocialLinks_ctrl3_pnlLinks">
-	
-                 <a href="http://pinterest.com/pin/create/button/?description=Discover the products, services and support to help keep your business ahead of the competition and thrive online&amp;url=http://business.hibu.com/&amp;media=business.hibu.com/~/media/Images/Shared/Social Links/hibu_Pinterest.jpg" class="sprite-pinterest" target="_blank" title="Pinterest" rel="nofollow">
-                        Pinterest
-                    </a>
-                 
-                
-             
-</div>
-                    
-                </li>
-            
-                <li>
-                <div id="ctl00_MainContentPlaceHolder_footer_0_ucSocialLinks_lvSocialLinks_ctrl4_pnlLinks">
-	
-                 <a href="mailto: ?subject=Check out hibu and help your business grow online&amp;body=I've just discovered hibu and their products, services and support to help businesses like mine thrive online.%0D%0A%0D%0ATry their selected products for free to see which might be right for you.%0D%0A%0D%0Ahttp://business.hibu.com/" class="sprite-email" target="" title="Refer a friend to hibu" rel="nofollow">
-                        Refer a friend to hibu
-                    </a>
-                 
-                
-             
-</div>
-                    
-                </li>
-            
-                <li>
-                <div id="ctl00_MainContentPlaceHolder_footer_0_ucSocialLinks_lvSocialLinks_ctrl5_pnlGoogle">
-	
-                   <a href="https://plus.google.com/115195563293334556732/" class="sprite-google-plus" target="_blank" title="Google +" rel="publisher,nofollow">
-                        Google +
-                    </a>
-                    
-</div>
-                    
-                </li>
-            
-                <li>
-                
-                    <!-- Place this tag where you want the +1 button to render. -->
-<g:plusone size="standard"></g:plusone>
-<!-- Place this tag after the last +1 button tag. -->
 <script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-1656750-34', 'jsbin.com');
+    ga('require', 'linkid', 'linkid.js');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
 </script>
-                </li>
-            
-            
-            
-    </ul>
-</section>
-
-          <!-- / social links -->
-          <!-- site location -->
-          
-<!-- site location -->
-<section class="site-location">
-  <select name="ctl00$MainContentPlaceHolder$footer_0$ucLocations$ddlCountries" id="ctl00_MainContentPlaceHolder_footer_0_ucLocations_ddlCountries">
-	<option selected="selected" value="http://business.hibu.com/" data-country-name="the US" data-country-code="US">United States</option>
-	<option value="http://business.hibu.co.uk/" data-country-name="the UK" data-country-code="GB">United Kingdom</option>
-
-</select>
-</section>
-<!-- / site location -->
-
-          <!-- / site location -->
-        </div>
-      </div>
-      <!-- footer menu - each <section> occupies a column -->
-      <div id="wrapper-footer-menu">
-        <div class="wrpr-ftr-elms">
-          <nav id="footer-menu" class="clearfix">
-            
-                
-            <section class="">
-              <h4>
-                <a href="/products/">Products</a>
-              </h4>
-              <ul>
-                
-                    
-                <li>
-                  <a href="/websites/" title="" target="">
-                    Websites
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/full-service/search-engine-marketing/" title="" target="">
-                    Search Engine Marketing
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/full-service/display-advertising/" title="" target="">
-                    Display Advertising
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/full-service/seo-service/" title="" target="">
-                    SEO
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/full-service/yellowbook/" title="" target="">
-                    Yellowbook
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="http://marketing.hibu.com/internet-yellow-pages" title="Yellowbook.com" target="_blank">
-                    Yellowbook.com
-                  </a>
-                </li>
-                  
-                  
-              </ul>
-            </section>
-              
-            <section class="">
-              <h4>
-                <a href="/knowledge/">Knowledge Center</a>
-              </h4>
-              <ul>
-                
-                    
-                <li>
-                  <a href="/knowledge/articles/" title="" target="">
-                    Articles
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/knowledge/videos/" title="" target="">
-                    Videos
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/knowledge/product-tutorials/" title="" target="">
-                    Product Tutorials
-                  </a>
-                </li>
-                  
-                  
-              </ul>
-            </section>
-              
-            <section class="global-links">
-              
-              <ul>
-                
-                    
-                <li>
-                  <a href="/contactus/" title="" target="">
-                    Contact us
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="http://corporate.hibu.com/" title="" target="_blank">
-                    About us
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="http://corporate.hibu.com/careers" title="" target="_blank">
-                    Jobs
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/legal/" title="" target="">
-                    Legal
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/privacy/" title="" target="">
-                    Privacy policy
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/conditions-of-use/" title="" target="">
-                    Conditions of use
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/cookiepolicy/" title="" target="">
-                    Cookie policy
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/community-rules/" title="" target="">
-                    Community rules 
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/report-inappropriate-content/" title="" target="">
-                    Report inappropriate content
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href=" https://business.yellowbook360.com/site/" title="" target="">
-                    hibu Service Center
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="http://marketing.hibu.com/contract" title="" target="_blank">
-                    hibu Inc. Customer Contract Terms &amp; Conditions
-                  </a>
-                </li>
-                  
-                <li>
-                  <a href="/sitemap/" title="" target="">
-                    Sitemap
-                  </a>
-                </li>
-                  
-                  
-              </ul>
-            </section>
-              
-                       
-          </nav>
-        </div>
-        <!-- copyright notice -->
-        <section id="copyright">
-          <p><strong>Price is exclusive of tax. Rates are indicative only and do not constitute an offer.</strong><br>
-<small>© hibu (UK) Limited 2014. All rights reserved. hibu and other™ are trademarks of hibu (UK) Limited or its licensors.</small></p>
-<p><sup id="footer2"> <a href="/general-terms/">*Terms and Conditions apply.</a></sup></p>
-          <span class="hidden superscript_1">Fair usage rules apply</span>
-          <span class="hidden superscript_2">terms and conditions apply</span>
-          <span class="hidden superscript_3">Design Services timeframes are in 24 hour increments on working days only</span>
-        </section>
-        <!-- / copyright notice -->
-      </div>
-      
-
-      <!-- / footer menu -->
-    </footer>
-        <!-- / footer -->
-  </div>
-	<div id="page-obscure"></div>
-<!-- / footer wrapper -->
-<a id="btt-button" href="#" class="back-to-top"><span><span class="top-arrow"></span>Scroll to top</span></a>
-
-<div id="browser-upgrade">
-    
-    <div class="content">
-           <h2>It appears you are using an outdated browser that is incompatible with current web standards.</h2>
-	    <p>Please consider upgrading to a modern browser to improve your web experience and enhance your online security and privacy.</p>
-	    <p>A list of the most popular web browsers can be found below.</p>
-
-	    <ul id="browser-icons-container">
-
-		    <li>
-			    <a class="firefox" href="http://www.mozilla.com/firefox/" rel="nofollow">Firefox</a>
-		    </li>
-
-		    <li>
-			    <a class="safari" href="http://www.apple.com/safari/download/" rel="nofollow">Safari</a>
-		    </li>
-
-		    <li>
-			    <a class="chrome" href="http://www.google.com/chrome/" rel="nofollow">Google Chrome</a>
-		    </li>
-
-		    <li>
-			    <a class="opera" href="http://www.opera.com/download/" rel="nofollow">Opera</a>
-		    </li>
-
-		    <li>
-			    <a class="explorer" href="http://www.microsoft.com/windows/Internet-explorer/default.aspx" rel="nofollow">Internet Explorer</a>
-		    </li>
-
-	    </ul>
-
-	    <p>Thank you</p>
-
-        <button class="cboxClose" type="button" onclick="document.getElementById('browser-upgrade').style.display = 'none';">close</button>
-
-    </div>
-
-    <div class="overlay"></div>
-</div>
-
-
-    <div id="redirected">
-	    <div id="redirected-wrapper">
-	        <h2>We've changed</h2>
-	        <p>Welcome to hibu. We can help your business grow with our easy-to-use and great value digital solutions.</p>
-<ul>
-    <li><a href="/"><span class="sitecore-cta-text">Discover hibu </span><span></span></a></li>
-    <li><a href="https://business.yellowbook360.com/site/" target="_blank"><span class="sitecore-cta-text">Need your account? </span><span></span></a></li>
-</ul>
-	    </div>
-    </div>
-
-   
-
-    
-    
-    
-<!-- / footer wrapper -->
-<script type="text/ecmascript">
-  var error_strings = [{"type":"error","key":"basket_add","title":"Sorry","content":"\u003cp\u003eWe can\u0027t add your product at the moment because of a technical issue.\u003c/p\u003e\u003caside\u003eHelp us solve the problem\u003c/aside\u003e","clickoff":true,"buttons":"\u003ca href=\"/contactus/\"\u003eReport this to hibu\u003c/a\u003e"},{"type":"error","key":"basket_service_add","title":"Sorry","content":"\u003cp\u003eWe can\u0027t remove your product at the moment because of a technical issue.\u003c/p\u003e\u003caside\u003eHelp us solve the problem\u003c/aside\u003e","clickoff":true,"buttons":"\u003ca href=\"/contactus/\"\u003eReport this to hibu\u003c/a\u003e"},{"type":"error","key":"basket_service_remove","title":"Sorry","content":"\u003cp\u003eWe can\u0027t remove your design service at the moment because of a technical issue.\u003c/p\u003e\u003caside\u003eHelp us solve the problem\u003c/aside\u003e","clickoff":true,"buttons":"\u003ca href=\"/contactus/\"\u003eReport this to hibu\u003c/a\u003e"},{"type":"error","key":"bazaarvoice","title":"Sorry","content":"\u003cp\u003eThere seems to be a technical problem, so we didn\u0027t receive your feedback.\u003c/p\u003e\u003cp\u003ePlease try again later.\u003c/p\u003e\u003caside\u003eHelp us solve the problem\u003c/aside\u003e","clickoff":true,"buttons":"\u003ca href=\"/contactus/\"\u003eReport this to hibu\u003c/a\u003e"},{"type":"error","key":"change_product","title":"Sorry","content":"\u003cp\u003eWe can\u0027t change your product at the moment due to a technical issue.\u003c/p\u003e\u003caside\u003eHelp us solve the problem\u003c/aside\u003e","clickoff":true,"buttons":"\u003ca href=\"/contactus/\"\u003eReport this to hibu\u003c/a\u003e"},{"type":"error","key":"domains","title":"Sorry","content":"\u003cp\u003eThere\u0027s been a technical problem and we couldn\u0027t complete your domain search.\u003c/p\u003e","clickoff":true,"buttons":"\u003ca href=\"javascript:window.location.reload();\"\u003eTry searching again\u003c/a\u003e"},{"type":"error","key":"domains_taken","title":"Sorry","content":"\u003cp\u003eThe domains you\u0027ve asked for aren\u0027t available to buy.\u003c/p\u003e\u003cp\u003ePlease search again for alternatives.\u003c/p\u003e","clickoff":true,"buttons":"\u003ca href=\"/products/domains/\"\u003eTry searching again\u003c/a\u003e"},{"type":"error","key":"generic_error","title":"uh-oh","content":"\u003ch4\u003ehibu is experiencing difficulties\u003c/h4\u003e\n\u003cp\u003ePlease try again later\u003c/p\u003e\n\n","clickoff":true,"buttons":"\u003ca  href=\"/\"\u003eTake me home\u003cspan\u003e\u003c/span\u003e\u003c/a\u003e"},{"type":"error","key":"kill_site","title":"Delete Site Failure","content":"\u003cp\u003eWe are temporarily unable to delete your site\u003c/p\u003e\u003cp\u003ePlease try again later.\u003c/p\u003e\u003caside\u003eHelp us solve the problem\u003c/aside\u003e","clickoff":true,"buttons":"\u003ca href=\"/contactus/\"\u003eReport this to hibu\u003c/a\u003e"},{"type":"error","key":"ADDR.CITY_ZIP_RELAY_ERROR","title":"Error occurred getting cities for zip code","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ADDR.CITY_ZIP_RELAY_NO_CITIES","title":"No citites found with zip code","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ADDR.CITY_ZIP_RELAY_ZIP_REQUIRED","title":"Parameter zipCode is required","content":"","clickoff":false,"buttons":""},{"type":"error","key":"CUSTOMER.CHANGE.MISSING.REQUIRED","title":"Missing required parameter.  Must provide customer, payment, or both.","content":"","clickoff":false,"buttons":""},{"type":"error","key":"DOMAIN.AVAIL_SERVICE_ERROR","title":"Error checking domain availability","content":"","clickoff":false,"buttons":""},{"type":"error","key":"DOMAIN.SUGGEST_SERVICE_ERROR","title":"Error suggesting domains","content":"","clickoff":false,"buttons":""},{"type":"error","key":"DOMAIN.TAKEN","title":"taken","content":"","clickoff":false,"buttons":""},{"type":"error","key":"DOMAIN.VALUE_IS_NULL_EMPTY","title":"Domain value is Null/Empty","content":"","clickoff":false,"buttons":""},{"type":"error","key":"DOMAIN.VALUE_MORE_THAN_67_CHARS","title":"Domain URL must not exceed more than 67 characters","content":"","clickoff":false,"buttons":""},{"type":"error","key":"DOMAIN.VALUE_NOT_BE_EMPTY","title":"Keywords must not be empty","content":"","clickoff":false,"buttons":""},{"type":"error","key":"DOMAIN.VALUE_WITHOUT_WWW","title":"Domain URL must not start with \u0027www.\u0027","content":"","clickoff":false,"buttons":""},{"type":"error","key":"EMKT_Invalid_TRIAL_SKU","title":"Invalid Trial SKU","content":"","clickoff":false,"buttons":""},{"type":"error","key":"GenToken_2","title":"Unable to locate your administrator email account","content":"","clickoff":false,"buttons":""},{"type":"error","key":"GenToken_9","title":"Your domain is not managed by hibu","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.ALLOCATE_REQUEST_NULL","title":"Order Allocate Search Request Must Have Contents","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.ALREADY_APPROVED","title":"Order is already approved","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.ALREADY_PROCESSED","title":"Order already processed","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.ALREADY_REJECTED","title":"Order is already rejected","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.CUSTOMER_EMAIL_MISSING","title":"Customer Email is required in the Order","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.CUSTOMER_MISSING","title":"Customer is required in the Order","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.HAS_BOTH_ORDER_NUMBER_AND_GUID","title":"Please don\u0027t provide both the order number AND the proposal GUID","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.IN_PROGRESS","title":"Order is in progress","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.INVALID_INTEGRAION_ID","title":"Parameter Integration ID cannot be null or empty","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.INVALID_ORDER_NUMBER","title":"Order number must contain a value","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.INVALID_PARAM","title":"Parameter cannot be null","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.INVALID_PARAM_COUNTRY","title":"Parameter Country cannot be null or empty","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.INVALID_PARAM_CUSTOMER","title":"Parameter Customer cannot be null","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.INVALID_PARAM_LINE","title":"Parameter Line cannot be null","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.INVALID_PARAM_ORDER","title":"Parameter Order cannot be null","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.INVALID_PARAM_TOTAL_PRICE","title":"Parameter Total Price cannot be null","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.LINE_ITEMS_MISSING","title":"Line Items are Required","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.MISSING_ORDER_NUMBER_OR_GUID","title":"Please provide with the order number or the proposal GUID","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.NOT_ECONTRACTING","title":"Order is not e-contracting order","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.NOT_FOUND","title":"Order not found by order number","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.PENDING_ORDER_NOT_FOUND","title":"Order not found","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.REQUEST_NULL","title":"Order Request Must Have Contents","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.SEND_EMAIL_FAILED","title":"Sending email failed, the order now is in the Orderhub error tank","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.STANDARD_ORDER_MISSING","title":"Standard Order is Required","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.SYSTEM_NAME_REQUIRED","title":"Order System Name is Required","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.TRIAL_SKU_USED","title":"You have already started a trial for this product","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDER.ZIPCODE_EMPTY","title":"Zip/Postal code is empty","content":"","clickoff":false,"buttons":""},{"type":"error","key":"SYSTEM.DB_INVALID_JPA_QUERY","title":"Hibu System Exception, Customer Query is Invalid, please contact support.","content":"","clickoff":false,"buttons":""},{"type":"error","key":"SYSTEM.DB_MULTI_ROWS_EXPECTED_SINGLE","title":"Hibu System Exception. Expected Single Customer, but found multiple, please contact support.","content":"","clickoff":false,"buttons":""},{"type":"error","key":"SYSTEM.DB_NO_RECORDS_FOUND","title":"No Customers Found","content":"","clickoff":false,"buttons":""},{"type":"error","key":"SYSTEM.INVALID_PAGINATION_VALUE","title":"Invalid pagination parameters","content":"","clickoff":false,"buttons":""},{"type":"error","key":"SYSTEM.INVALID_REQUEST","title":"Request was null, please provide request with required elements.","content":"","clickoff":false,"buttons":""},{"type":"error","key":"ORDERHUB.LOCALIZATION_KEY_UNAVAILABLE","title":"Localized message unavailable. Please contact support.","content":"","clickoff":false,"buttons":""},{"type":"error","key":"SYSTEM.TOO_BIG_PAGINATION_VALUE","title":"Can not show more than 100 results per page","content":"","clickoff":false,"buttons":""},{"type":"error","key":"SYSTEM.UNKNOWN_EXCEPTION","title":"Hibu System Exception, please contact support","content":"","clickoff":false,"buttons":""},{"type":"error","key":"template_failure","title":"Sorry","content":"\u003cp\u003eWe are temporarily unable to create your site with this template.\u003c/p\u003e\u003cp\u003ePlease try again later.\u003c/p\u003e\u003caside\u003eHelp us solve the problem\u003c/aside\u003e","clickoff":true,"buttons":"\u003ca href=\"/contactus/\"\u003eReport this to hibu\u003c/a\u003e"},{"type":"error","key":"template_range","title":"Sorry","content":"\u003cp\u003eWe are temporarily unable to display templates.\u003c/p\u003e\u003cp\u003ePlease try again later.\u003c/p\u003e\u003caside\u003eHelp us solve the problem\u003c/aside\u003e","clickoff":true,"buttons":"\u003ca href=\"/contactus/\"\u003eReport this to hibu\u003c/a\u003e"},{"type":"error","key":"united_login","title":"","content":"\u003cp\u003ePlease log into your account \u003c/p\u003e","clickoff":true,"buttons":"\u003ca href=\"http://www.united.com/web/en-US/content/mileageplus/default.aspx\" rel=\"nofollow\"\u003eBack to United MileagePlus&reg;\u003c/a\u003e"}];
-  var success_strings = [{"type":"success","key":"bv_report_abuse","title":"Report Abuse","content":"Abuse reported","clickoff":true,"buttons":""},{"type":"email","key":"forgot_password","title":"Check your email","content":"If we have #emailaddress# in our records, a temporary password is on its way to that address.\n\u003cbr /\u003eIn the meantime, have a look at our digital solutions for your business.","clickoff":true,"buttons":"\u003ca href=\"/\"\u003eSee our solutions\u003c/a\u003e"},{"type":"confirm","key":"killsite_confirm","title":"Are you sure you want to choose a new template?","content":"This will delete your old site and all content that existed within it. This cannot be undone.","clickoff":false,"buttons":"[{\"type\":\"a\",\"href\":\"#\",\"text\":\"No, cancel\",\"class\":\"cta close-popup\"},{\"type\":\"a\",\"href\":\"#\",\"text\":\"Yes, I\\u0027m sure\",\"class\":\"cta really-sure\"}]"},{"type":"confirm really","key":"killsite_confirm2","title":"Are you absolutely sure you want to do this?","content":"Changing your template will result in you losing any work you have done so far. This includes all copy, images, logos, pages, tags and measurement etc.","clickoff":false,"buttons":"[{\"type\":\"a\",\"href\":\"#\",\"text\":\"No, cancel\",\"class\":\"cta close-popup\"},{\"type\":\"a\",\"href\":\"#\",\"text\":\"Yes, I\\u0027m sure\",\"class\":\"cta delete-template\"}]"},{"type":"success","key":"location-notice-action-copy","title":"Location Notice Action","content":"Take me to [country-name] website","clickoff":false,"buttons":""},{"type":"success","key":"location-notice-continue-copy","title":"Location Notice Continue","content":"I\u0027d like to continue","clickoff":false,"buttons":""},{"type":"success","key":"location-notice-copy","title":"Location Notice","content":"Hi, we\u0027ve detected that you\u0027re in [country-name]","clickoff":false,"buttons":""},{"type":"success","key":"DOMAIN.AVAILABLE","title":"available","content":"","clickoff":false,"buttons":""},{"type":"email","key":"password_changed","title":"Password changed","content":"To change your password in the future, \u003cbr /\u003e go to the profile section in My Account","clickoff":true,"buttons":"\u003ca href=\"/dashboard/\"\u003eGo to my account\u003c/a\u003e"}];
-  var sslReg = "false";
+<script type="text/javascript">
+	(function() {
+		var _fbq = window._fbq || (window._fbq = []);
+		if (!_fbq.loaded) {
+			var fbds = document.createElement('script');
+			fbds.async = true;
+			fbds.src = '//connect.facebook.net/en_US/fbds.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(fbds, s);
+			_fbq.loaded = true;
+		}	
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', '6022093479475', {'value':'0.00','currency':'USD'}]);
 </script>
-
-<!-- scriptmanager combining aspnetcdn js. Jquery, jqueryui, plugins and omniture js added in code behind. -->
-
-
-<script>window.jQuery || document.write('<script src="/js/jquery-combined.js"><\/script>')</script><script src="/js/jquery-combined.js"></script>
-
-
-    <script type="text/javascript" src="http://pluck.hibu.com/ver1.0/Direct/JavascriptSDKProxy"></script>
-
-<!-- minify and combine -->
-
-<input type="hidden" name="ctl00$MainContentPlaceHolder$FooterScript$SecurityKey" id="SecurityKey" value="c1dbfeo1u4oci1szp5mtjqnc">
-<script src="/js/hibu.js?v=20140610"></script>
-<script src="/js/lib/require.js" data-main="/js/build/main-combined.js?v=20140610"></script>
-<!-- bazaarvoice -->
-<!-- Needs to be loaded AFTER jQuery -->
-
-<script>
-  // Set BazaarVoice script URL
-  var bvapiUrl = window.location.protocol + "//hibuonlinechannel.ugc.bazaarvoice.com/static/8661-en_us/bvapi.js";
-  // Get BazaarVoice lest it not be loaded
-  window.loadBazaarvoiceApi = function (callback) {
-      if (window.$BV) {
-          callback();
-      } else {
-          $.ajax({
-              url: bvapiUrl,
-              cache: true,
-              dataType: "script",
-              success: function () {
-                  $($BV.docReady);
-                  callback();
-              }
-          });
-      }
-  };
-  // BazaarVoice asynchronous callback
-  loadBazaarvoiceApi(function () {
-
-      $BV.configure("global", {
-          allowSamePageSubmission: true,
-          doLogin: function (successCallback, successUrl) {
-              window.location = "/Register/?returnUrl=" + encodeURIComponent(successUrl);
-          },
-          userToken: "" // Empty string or omit if not present
-      });
-
-      if ($('#product[data-product]').length) {
-          // Get product SKU
-          var product_sku = $('#product').attr('data-product'); //'(test0)'
-
-
-          // BazaarVoice Q & A calls
-          $BV.ui("qa", "show_questions", {
-              submissionContainerDiv: "BVQAContainer",
-              subjectType: "product",
-              doScrollSubmission: function () { return false; },
-              productId: product_sku,
-              doShowContent: function () {
-                  $('.tabs').tabs('select', 'q-and-a');
-              },
-              onEvent: function (json) {
-			  
-				  if(json.eventTarget == "Question" && json.eType == "Write") {
-				    var oTop = $('#footer-tabs').offset().top - $('#wrapper-header').height();
-					$('body, html').animate({
-					  scrollTop: oTop
-					}, 1000);
-				  }
-				  
-                  if (json.eventTarget == "Question" && json.eventSource == "Display" && json.eType == "Write" && json.pageType == "Confirm") {
-                      AddPointsEvent(pluckConstants.Question);
-                  }
-                  if (json.eventTarget == "Answer" && json.eventSource == "Display" && json.eType == "Write" && json.pageType == "Confirm") {
-                      AddPointsEvent(pluckConstants.Answer);
-                  }
-
-                  if (json.eventSource == 'Action' && json.eType == 'Write' && json.pageType == "Preview") {
-                      
-                      var event = 'event28';
-                      var title = 'Ask a Question';
-                      var summary = escape($(".BVQAQuestionSummary").text());
-                      if (json.eventTarget == "Answer") {
-                          event = 'event29';
-                          title = 'Answer Question';
-                          //summary = $('input[name$="answertext"]').val();
-                      }
-                      
-                      s = tracking.trackEventBazaarVoice(this, event, 'eVar15,events');
-                      s.eVar15 = summary;
-                      s.tl(this, 'o', title);
-                  }
-              }
-          });
-          
-          // BazaarVoice Ratings & Reviews calls
-          $BV.ui("rr", "show_reviews", {
-              submissionContainerDiv: "BVRRContainer",
-              productId: product_sku,
-              doShowContent: function () {
-                  $('.tabs').tabs('select', 'ratings-reviews');
-              },
-              onEvent: function (json) {
-                  if (json.eventSource == "Display" && json.eType == "Write" && json.pageType == "Confirm") {
-                      AddPointsEvent(pluckConstants.Review);
-                  }
-                  if (json.eventSource == 'Action' && json.eType == 'Write' && json.pageType == "Preview") {
-                      var s = tracking.trackEventBazaarVoice(this, 'event25', 'eVar16,eVar17,eVar18,eVar19,eVar20,eVar21,eVar22,eVar23,eVar24,events');
-                      s.eVar16 = $("#BVRRRatingOverall_ span.BVRRRatingNumber").text();
-                      s.eVar17 = $("#BVRRRatingEaseOfUse_ span.BVRRRatingNumber").text();
-                      s.eVar18 = $("#BVRRRatingGoalsNeeds_ span.BVRRRatingNumber").text();
-                      s.eVar19 = $(".BVRRValue.BVRRRecommended").text();
-                      s.eVar20 = escape($(".BVRRReviewText").text());
-                      s.eVar21 = $(".BVRRValue.BVRRUserLocation").text();
-                      s.eVar22 = $(".BVRRValue.BVRRContextDataValue.BVRRContextDataValueLengthOfOwnership").text();
-                      s.eVar23 = $(".BVRRValue.BVRRContextDataValue.BVRRContextDataValueSizeOfCompany").text();
-                      s.eVar24 = $(".BVRRValue.BVRRContextDataValue.BVRRContextDataValueTypeOfBusiness").text();
-                      s.tl(this, 'o', 'Submit a product review');
-                  }
-              }
-          });
-      }
-      
-  });
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6022093479475&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+<script type="text/javascript">
+    var SiteInfo = {OmAccount:"yellhibubusinessus",ImageUrl:"/Static/i/v1/"};
+    
+    _satellite.pageBottom();
+    function globalInit(){
+        if(hibuGlobal)hibuGlobal();
+        //new FBTracking();
+        new EloquaTracking();
+        //load page js
+        
+    }
 </script>
+<script type="text/javascript">$loadJS=function(e,i){if(!e){return;}var h=document;var g=0;var c=window.navigator.userAgent.toLowerCase().indexOf("msie")>=0;function f(){if(c){if(this.readyState=="loaded"||this.readyState=="complete"){g++;this.onreadystatechange=null;b();}}else{g++;this.onload=this.onerror=null;b();}}function b(){if(g==e.length){if(i){i();}}else{a(e[g]);}}function a(d){var k=h.createElement("script");k.type="text/javascript";k.async=true;k.src=d;if(c){k.onreadystatechange=f;}else{k.onload=k.onerror=f;}var j=h.getElementsByTagName("script")[0];j.parentNode.insertBefore(k,j);}a(e[g]);};
+</script><script language="javascript"> $loadJS(["//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js","//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js","/Static/Js/output/global.v1.min.js"],function(){globalInit();});</script>
 
-
-<!-- / bazaarvoice -->  
-
-    
-
-<!-- Start Quantcast Tag -->
-
-<!-- End Quantcast tag -->
-
-<!-- Google Media tags -->
-
-<!-- End Google Media tags -->
-
-<!-- Bing Media tags -->
-
-<!-- End Bing Media tags -->
-
-      
-  </form>
-    
-
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
