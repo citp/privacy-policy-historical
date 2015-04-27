@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getitbazaar.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050041id_/http%3A//www.askmebazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitbazaar.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427191651id_/http%3A//www.askmebazaar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Online Shopping India, Search and Buy Product Deals for Cheap Price. Open Shops Online for Free
 
@@ -38,7 +38,7 @@ Your personal information may be used by us to:
 
 (iii)             process and deal with any complaints or enquiries made by or about you; and
 
-(iv)             investigate any suspected breach of the [Terms and Conditions ](http://www.itv.com/Termsandconditions/default.html) or the breach of other terms and conditions otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the Site.
+(iv)             investigate any suspected breach of the [Terms and Conditions ](https://web.archive.org/web/20150427191651id_/http%3A//www.askmebazaar.com/termsconditions.php) or the breach of other terms and conditions otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the Site.
 
 Where and only where requested/agreed by you, we will:
 
@@ -146,4 +146,4 @@ Thank you for reading our Privacy Policy and thank you for choosing our Site as 
 
 **14.               ****Disputes**
 
-Any disputes over inter alia collection, storage and handling of Personal Information will be governed by this Privacy Policy, Terms and Conditions and by the laws of India and courts of New Delhi shall have exclusive jurisdiction. For any communication under this Privacy Policy please contact Getit Stores on [help@getibazaar.com](mailto:help@getibazaar.com)
+Any disputes over inter alia collection, storage and handling of Personal Information will be governed by this Privacy Policy, Terms and Conditions and by the laws of India and courts of New Delhi shall have exclusive jurisdiction. For any communication under this Privacy Policy please contact Getit Stores on [help@askmebazaar.com](mailto:help@askmebazaar.com)
