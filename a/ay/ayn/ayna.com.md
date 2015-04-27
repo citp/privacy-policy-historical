@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ayna.com privacy policy that was archived on 2014-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140905103348id_/http%3A//ayna.com/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayna.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427130059id_/http%3A//www.ayna.com/s/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Omni-Channel Marketing Software
+# Privacy Policy | Omni-Channel Marketing Solution
 
 **What information do we collect?**
 
@@ -82,4 +82,4 @@ Nashua, New Hampshire 03060
 USA   
 policies (at) aynacorp (dot) com 
 
-Let Ayna Take Your Business to the Next Level with Plans Starting at $49.99/month  [Sign Up Today! __](http://client.ayna.com/?/cart/business-solutions/)
+All plans include a 30 days RISK FREE* period.    [ Select Plan __](https://web.archive.org/s/plans/)
