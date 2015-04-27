@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgtoday.in privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221062518id_/http%3A//tgtoday.in/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgtoday.in privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427130211id_/http%3A//tgtoday.in/home/privacy_policy) for the most accurate reproduction.*
 
 # .: TGtoday | No.1 Telangana Breaking News Portal :.
 
