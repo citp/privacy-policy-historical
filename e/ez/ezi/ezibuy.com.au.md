@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050553id_/http%3A//www.ezibuy.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427205837id_/http%3A//www.ezibuy.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EziBuy Australia
 
@@ -32,7 +32,7 @@ We do not sell, trade or rent your personal information to others without your c
 
 However, we do use other companies and individuals to perform services on our behalf, such as delivering packages, sending mail and emails, credit checking and processing payments. They will have access to your personal information needed to perform and provide these services, but we will not authorise them to use your personal information for other purposes. 
 
-We also disclose (including by transfer to another country) your personal information to our related companies and business partners, such as financial services or insurance companies, for them to offer products and services to you. This information may include scrambled credit card details, although these will only be used with your consent for any transactions with them. If you do not wish your personal information to be disclosed, call us on 0508 500 500 or email us at [mail@ezibuy.com.au](mailto:mail@ezibuy.co.nz).
+We also disclose (including by transfer to another country) your personal information to our related companies and business partners, such as financial services or insurance companies, for them to offer products and services to you. This information may include scrambled credit card details, although these will only be used with your consent for any transactions with them. If you do not wish your personal information to be disclosed, call us on 1800 148 148 or email us at [mail@ezibuy.com.au](mailto:mail@ezibuy.co.nz).
 
 In addition, we may provide statistics with personal identifiers removed about our customers, readers, sales, traffic patterns and related site functions to reputable third parties. We may use service providers to assist us to aggregate and anonymise such information, so that it does not include any information from which an individual can be identified. We do not consider such aggregated and anonymised information to be personal information and its use is not subject to this policy.
 
