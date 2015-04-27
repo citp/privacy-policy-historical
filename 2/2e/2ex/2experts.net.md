@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2experts.net privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414234943id_/http%3A//2experts.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2experts.net privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427193516id_/http%3A//2experts.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – 2experts Web Blog
+# Privacy Policy - 2experts Web Blog
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at using the contact form.
 
