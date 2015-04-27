@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardrates.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823155859id_/http%3A//www.cardrates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardrates.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428011638id_/http%3A//www.cardrates.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Our Privacy Guarantee
 
@@ -34,7 +34,7 @@ All email correspondence from CardRates.com are fully CAN-SPAM compliant and wil
 
 #### Privacy Policy Updates
 
-This Privacy Policy was last updated on: Friday, November 22, 2014. For for information, contact us anytime at:
+This Privacy Policy was last updated on: Friday, November 22, 2015. For for information, contact us anytime at:
 
 CardRates.com  
 c/o Digital Brands Inc.  
