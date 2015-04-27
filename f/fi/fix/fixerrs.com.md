@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixerrs.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124172844id_/http%3A//www.fixerrs.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixerrs.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427023731id_/http%3A//www.fixerrs.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fix Errors
 
