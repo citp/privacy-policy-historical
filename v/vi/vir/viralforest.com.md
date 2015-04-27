@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralforest.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907215003id_/http%3A//www.viralforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralforest.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427155952id_/http%3A//www.viralforest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Viral Forest
+# Privacy Policy - Viral Forest
 
 This privacy policy sets out how Viral Forest uses and protects any information that you give us when you use this website.
 
