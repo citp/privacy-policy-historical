@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhawknetwork.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227102732id_/http%3A//blackhawknetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhawknetwork.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427165728id_/http%3A//blackhawknetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Blackhawk Network | Privacy Policy
 
