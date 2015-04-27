@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jammyporn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625224930id_/http%3A//www.jammyporn.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jammyporn.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427070633id_/http%3A//www.jammyporn.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.jammyporn.com](http://www.jammyporn.com/)  
-Effective Date: June 26, 2014  
+Effective Date: April 27, 2015  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.jammyporn.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
