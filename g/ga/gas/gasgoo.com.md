@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gasgoo.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114092909id_/http%3A//www.gasgoo.com/about-gasgoo/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasgoo.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427065704id_/http%3A//www.gasgoo.com/about-gasgoo/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Global Auto Sources
 
 Privacy statement
 
-  * This is the Terms and Policy governing your use of the Gasgoo.com Site. By using this Site, you consent to our Terms and Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Use ](https://web.archive.org/web/20141114092909id_/http%3A//www.gasgoo.com/about-gasgoo/TermsAndPolicies.aspx)Agreement between you and Gasgoo.com which by use of this Site you agree to accept. 
+  * This is the Terms and Policy governing your use of the Gasgoo.com Site. By using this Site, you consent to our Terms and Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Use ](https://web.archive.org/web/20150427065704id_/http%3A//www.gasgoo.com/about-gasgoo/TermsAndPolicies.aspx)Agreement between you and Gasgoo.com which by use of this Site you agree to accept. 
   * 1) Which Information we may Collect
   * Registration Information:
   * At the time you register to become a Registered User of the Site, you will be asked to complete a registration form which requires you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business.
@@ -44,7 +44,7 @@ In case there is any inconsistency between the Chinese version and the English v
   
 
   * We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.   
-If we have reason to believe that a User is in breach of the [Terms of Use Agreement](https://web.archive.org/web/20141114092909id_/http%3A//www.gasgoo.com/about-gasgoo/TermsAndPolicies.aspx) or any other agreement with us, then we reserve the right to make public or otherwise disclose such User's Collected Information in order to pursue our claim or prevent further injury to Gasgoo or others.
+If we have reason to believe that a User is in breach of the [Terms of Use Agreement](https://web.archive.org/web/20150427065704id_/http%3A//www.gasgoo.com/about-gasgoo/TermsAndPolicies.aspx) or any other agreement with us, then we reserve the right to make public or otherwise disclose such User's Collected Information in order to pursue our claim or prevent further injury to Gasgoo or others.
   * 5) Cookies
   * We use "cookies" to store specific information about you and track your visits to our Site. It is not uncommon for websites to use cookies to enhance identification of their users. A "cookie" is a small amount of data that is sent to your browser and stored on your computer's hard drive. A cookie can be sent to your computer's hard drive only if you access our Site using the computer. If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we may have knowledge of your visit and the pattern of your usage.   
 This privacy statement covers the use of cookies by Gasgoo.com at http://www.Gasgoo.com only and does not cover the use of cookies by any third parties.  
