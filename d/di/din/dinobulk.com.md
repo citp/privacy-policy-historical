@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinobulk.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326053256id_/http%3A//www.dinobulk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinobulk.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427154055id_/http%3A//www.dinobulk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DinoBulk Wholesale Center
 
