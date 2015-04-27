@@ -1,31 +1,31 @@
-<!--The following is the downloaded HTML source of the nyfa.com privacy policy that was archived on 2014-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141025005204id_/https%3A//www.nyfa.edu/about/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nyfa.com privacy policy that was archived on 2015-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150428000642id_/https%3A//www.nyfa.edu/about/policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+<!DOCTYPE html><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" dir="ltr" id="main-style-page"><!--<![endif]--><head>
 <title>New York Film Academy - Privacy Policy</title>
 <meta name="description" content="We are committed to keeping all personal information we have about you confidential and secure.This policy describes how we protect your privacy.">
 <meta name="keywords" content="new york film academy, privacy policy, film school, best film schools, security measures, cookies">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-<link href="https://www.nyfa.edu/include/css/style.css" rel="stylesheet" type="text/css" media="screen">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- head.php -->
+<link href="https://www.nyfa.edu/include/css/reset.css" rel="stylesheet" type="text/css" media="screen">
+<link href="https://www.nyfa.edu/include/css/style-responsive.css" rel="stylesheet" type="text/css" media="screen">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M4H99T"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript" src="https://www.nyfa.edu/include/js/ddlevelsmenu.js"></script>
 <script language="javascript" src="https://www.nyfa.edu/include/js/jquery-1.4.4.min.js"></script>
 <script src="https://www.nyfa.edu/include/js/jquery.tools.min.js"></script>
+<script src="https://www.nyfa.edu/include/js/modernizr.js"></script>
+
+<link href="https://www.nyfa.edu/include/css/slider-responsive.css" rel="stylesheet" type="text/css" media="screen">
+<script language="JavaScript" src="https://www.nyfa.edu/scripts-new/jquery.slider.pack-responsive.js"></script>
 
 <link rel="stylesheet" type="text/css" href="https://www.nyfa.edu/scripts-new/overlay/inforequest.css">
 <script type="text/javascript" src="https://www.nyfa.edu/scripts-new/overlay/shadowbox.js"></script>
+
 
 <script language="javascript">
 $(function() {
   $(".css-tabs:first").tabs(".css-panes:first > div", { history: true });
 });
-
-$(function() {
-  $(".workshop-tabs:first").tabs(".workshop-panes:first > div", { history: true });
-});
-
-
-
 $(function() {
   $(".classtabs:first").tabs(".classdes:first > div", { history: false });
 });
@@ -44,6 +44,63 @@ $(function() {
 </script>
 
 <script language="javascript">
+$('.courseList').find('li').live('click', function() {
+	var isOpen = $(this).hasClass('open'),
+		textHeight = $(this).find('.courseDesInner').innerHeight() + 43;
+	
+	if(isOpen) {
+		$(this).removeClass('open')
+		
+$(this).find('hr').fadeOut(500)
+		$(this).find('.courseDes').css('height', '10px')
+
+	} else {
+		$(this).addClass('open')
+		
+$(this).find('hr').fadeIn(500)
+		$(this).find('.courseDes').css('height', textHeight)
+
+	}
+})
+
+$('.projectList').find('li').live('click', function() {
+	var isOpen = $(this).hasClass('open'),
+		textHeight = $(this).find('.projectDesInner').innerHeight() + 43;
+	
+	if(isOpen) {
+		$(this).removeClass('open')
+		
+$(this).find('hr').fadeOut(500)
+		$(this).find('.projectDes').css('height', '10px')
+
+	} else {
+		$(this).addClass('open')
+		
+$(this).find('hr').fadeIn(500)
+		$(this).find('.projectDes').css('height', textHeight)
+
+	}
+})
+
+$('.facultyList').find('li').live('click', function() {
+	var isOpen = $(this).hasClass('open'),
+		textHeight = $(this).find('.facultyDesInner').innerHeight() + 43;
+	
+	if(isOpen) {
+		$(this).removeClass('open')
+		
+$(this).find('hr').fadeOut(500)
+		$(this).find('.facultyDes').css('height', '10px')
+
+	} else {
+		$(this).addClass('open')
+		
+$(this).find('hr').fadeIn(500)
+		$(this).find('.facultyDes').css('height', textHeight)
+
+	}
+})
+
 $('.pgList').find('li').live('click', function() {
 	var isOpen = $(this).hasClass('open'),
 		textHeight = $(this).find('.pgContentInner').innerHeight() + 43;
@@ -62,9 +119,39 @@ $(this).find('hr').fadeIn(500)
 
 	}
 })
+</script>
+<!-- head.php -->
+
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#slider').nivoSlider({
+			effect:'boxRain',
+			animSpeed: 500,                 // Slide transition speed
+			pauseTime: 5000,                // How long each slide will show
+			startSlide: 0,                  // Set starting Slide (0 index)
+			directionNav: false,             // Next & Prev navigation
+			controlNav: false,               // 1,2,3... navigation
+			controlNavThumbs: false,        // Use thumbnails for Control Nav
+			pauseOnHover: false,             // Stop animation while hovering
+			manualAdvance: false,           // Force manual transitions
+			prevText: 'Prev',               // Prev directionNav text
+			nextText: 'Next',               // Next directionNav text
+			randomStart: false,             // Start on a random slide
+			beforeChange: function(){},     // Triggers before a slide transition
+			afterChange: function(){},      // Triggers after a slide transition
+			slideshowEnd: function(){},     // Triggers after all slides have been shown
+			lastSlide: function(){},        // Triggers when last slide is shown
+			afterLoad: function(){}   
+		});
+		
+		$(".mobile-nav img").click(function(){
+			$("#nvc ul").slideToggle();
+		});
+
+	});
 </script></head>
 <body>
-
 <div class="mobile-nav">
 	<img src="https://www.nyfa.edu/img/info/menu.png" height="20" alt="">
     <a href="https://www.nyfa.edu/applications/request-info.php"><img src="https://www.nyfa.edu/img/info/top-red-arrow.png" height="10" alt=""> REQUEST INFO</a>
@@ -77,6 +164,14 @@ $(this).find('hr').fadeIn(500)
 	<div class="sitename">
 		<div class="sitenametop">
         	<a href="https://www.nyfa.edu/" target="_self" title="Film School And Acting School Of New York Film Academy"><img src="https://www.nyfa.edu/img/info/new-york-film-academy.gif" alt="New York Film Academy"></a>
+            <div class="phoneno">
+            	<img src="../../img/info/photono.png" alt="">1-800-611-FILM &nbsp;|&nbsp; 1-212-674-4300            </div>
+            <div class="searchbox">
+            	<form id="search" name="search" action="https://www.nyfa.edu/search/result.php" method="post">
+					<input type="text" name="searchterms" class="searchfield" id="searchterms" onblur="if (this.value == '') {this.value = 'Search...';}" onfocus="if (this.value = '') {this.value = '';}" value="Search...">
+                    <input type="submit" class="submitbtn" value="">
+				</form>
+            </div>
         </div>
 		<div class="sitenamebottom">
         	<div class="pageimg">
@@ -127,13 +222,16 @@ $(this).find('hr').fadeIn(500)
                         <a href="https://www.nyfa.edu/digital-editing/">Digital Editing</a><br>
                         <a href="https://www.nyfa.edu/cinematography-school/">Cinematography</a><br>
                         <a href="https://www.nyfa.edu/screenwriting-school/">Screenwriting</a><br>
+                        <a href="https://www.nyfa.edu/directing/">Directing</a><br>
                         <a href="https://www.nyfa.edu/online-screenwriting/">Online Screenwriting</a><br>
                         <a href="https://www.nyfa.edu/broadcast-journalism-school/">Broadcast Journalism</a><br>
                         <a href="https://www.nyfa.edu/documentary-school/">Documentary Filmmaking</a><br>
-                        <a href="https://www.nyfa.edu/digital-filmmaking/1weekmusicvideo.php">Music Video</a><br><br>
+                        <a href="https://www.nyfa.edu/filmmaking/1weekmusicvideo.php">Music Video</a><br><br>
                         <a href="https://www.nyfa.edu/visual-arts-school/" class="navprotitle">VISUAL ARTS SCHOOL</a><br>
                         <a href="https://www.nyfa.edu/photography-school/">Photography</a><br>
-                        <a href="https://www.nyfa.edu/animation-school/">3D Animation</a><br>
+                        <a href="https://www.nyfa.edu/graphic-design/">Graphic Design</a><br>
+                        <a href="https://www.nyfa.edu/illustration/">Illustration</a><br>
+                        <a href="https://www.nyfa.edu/animation-school/">3D Animation &amp; Visual Effects</a><br>
                         <a href="https://www.nyfa.edu/game-design-school/">Game Design</a>
                     </td>
                     <td valign="top" width="190px">
@@ -144,8 +242,8 @@ $(this).find('hr').fadeIn(500)
                         <a href="https://www.nyfa.edu/musical-theatre/">Musical Theatre</a><br><br>
                         
                         <a href="https://www.nyfa.edu/special-projects/" class="navprotitle">SPECIAL PROJECTS</a><br>
-                        <a href="https://www.nyfa.edu/digital-filmmaking/reducation.php">REDucation Workshops</a><br>
-                        <a href="https://www.nyfa.edu/digital-filmmaking/music-video-school.php">Rolling Stone Magazine</a><br>
+                        <a href="https://www.nyfa.edu/filmmaking/reducation.php">REDucation Workshops</a><br>
+                        <a href="https://www.nyfa.edu/filmmaking/music-video-school.php">Rolling Stone Magazine</a><br>
                         <a href="https://www.nyfa.edu/special-projects/met.php">Metropolitan Museum of Art</a><br>
                         <a href="https://www.nyfa.edu/special-projects/lincoln-center.php">Lincoln Center</a><br>
                         <a href="https://www.nyfa.edu/about/training.php">Private and Corporate Training</a><br>
@@ -155,7 +253,7 @@ $(this).find('hr').fadeIn(500)
                         <a href="https://www.nyfa.edu/summer_camp/programs/teen-camp.php">High School Teen Camps</a><br>
                         <a href="https://www.nyfa.edu/summer_camp/programs/kids-camp.php">Kids Camps</a><br>
                         
-                        <a href="https://www.nyfa.edu/esl/">ESL</a><br>
+                        <a href="https://www.nyfa.edu/esl/">ESL</a><br><br>
                     </td>
                 </tr>
             </tbody></table>
@@ -164,7 +262,7 @@ $(this).find('hr').fadeIn(500)
         	<table border="0">
             	<tbody><tr>
                 	<td align="left" colspan="2">
-                    	<em>Degree Programs at the Los Angeles Campus:</em>
+                    	<em><a href="https://www.nyfa.edu/degrees/">Degree Programs</a> at the Los Angeles Campus:</em>
                     </td>
                 </tr>
             	<tr>
@@ -175,7 +273,9 @@ $(this).find('hr').fadeIn(500)
                         <a href="https://www.nyfa.edu/bfa/photography.php">Photography</a><br>
                         <a href="https://www.nyfa.edu/bfa/producing.php">Producing</a><br>
                         <a href="https://www.nyfa.edu/bfa/screenwriting.php">Screenwriting</a><br>
-                        <a href="https://www.nyfa.edu/bfa/animation.php">Animation</a><br>
+                        <a href="https://www.nyfa.edu/graphic-design/degree/bfa.php">Graphic Design</a><br>
+                        <a href="https://www.nyfa.edu/illustration/degree/bfa.php">Illustration</a><br>
+                        <a href="https://www.nyfa.edu/bfa/animation.php">3D Animation &amp; Visual Effects</a><br>
                         <a href="https://www.nyfa.edu/bfa/game-design.php">Game Design</a><br><br>
                         
                         
@@ -184,7 +284,7 @@ $(this).find('hr').fadeIn(500)
                         <a href="https://www.nyfa.edu/afa/acting.php">Acting for Film</a><br>
                         <a href="https://www.nyfa.edu/afa/producing.php">Producing</a><br>
                         <a href="https://www.nyfa.edu/afa/screenwriting.php">Screenwriting</a><br>
-                        <a href="https://www.nyfa.edu/afa/game-design.php">Game Design</a><br><br><br><br><br><br><br>
+                        <a href="https://www.nyfa.edu/afa/game-design.php">Game Design</a><br><br>
                     </td>
                     <td valign="top" width="200px">
                     	<a href="https://www.nyfa.edu/mfa/" class="navprotitle">MASTER OF FINE ARTS</a><br>
@@ -201,7 +301,26 @@ $(this).find('hr').fadeIn(500)
                         <a href="https://www.nyfa.edu/ma/film-media-production.php">Film &amp; Media Production</a><br><br>
                         
                         <a href="https://www.nyfa.edu/ba/media-studies.php" class="navprotitle">BACHELOR OF ARTS</a><br>
-                        <a href="https://www.nyfa.edu/ba/media-studies.php">Media Studies</a>
+                        <a href="https://www.nyfa.edu/ba/media-studies.php">Media Studies</a><br><br>
+                    </td>
+                </tr>
+                <tr>
+                	<td align="left" colspan="2">
+                    	<em><a href="https://miami.nyfa.edu/degrees/" target="_blank">Degree Programs</a> at the South Beach Campus:</em>
+                    </td>
+                </tr>
+            	<tr>
+                	<td valign="top" width="230px">
+                    	<a href="https://miami.nyfa.edu/bfa/" class="navprotitle" target="_blank">BACHELOR OF FINE ARTS</a><br>
+                        <a href="https://miami.nyfa.edu/film/degrees/bfa.php" target="_blank">Filmmaking</a><br>
+                        <a href="https://miami.nyfa.edu/acting/degrees/bfa.php" target="_blank">Acting for Film</a><br>
+                        <a href="https://miami.nyfa.edu/photography/degrees/bfa.php" target="_blank">Photography</a><br><br>
+                    </td>
+                    <td valign="top" width="200px">
+                    	<a href="https://miami.nyfa.edu/mfa/" class="navprotitle" target="_blank">MASTER OF FINE ARTS</a><br>
+                        <a href="https://miami.nyfa.edu/film/degrees/mfa.php" target="_blank">Filmmaking</a><br>
+                        <a href="https://miami.nyfa.edu/acting/degrees/mfa.php" target="_blank">Acting for Film</a><br>
+                        <a href="https://miami.nyfa.edu/photography/degrees/mfa.php" target="_blank">Photography</a><br><br>
                     </td>
                 </tr>
             </tbody></table>
@@ -209,17 +328,21 @@ $(this).find('hr').fadeIn(500)
         </div>
     </div>
     <div id="about" class="ddsubmenunormalhome">
+    	<a href="https://www.nyfa.edu/about/">Overview</a><br>
     	<a href="https://www.nyfa.edu/about/contact.php">Contact Us</a><br>
         <a href="https://www.nyfa.edu/about/visit-us.php">Visit Us</a><br>
         <a href="https://www.nyfa.edu/about/open_house.php">Open House</a><br>
         <a href="https://www.nyfa.edu/about/faculty/nyc-academic.php">Faculty</a><br>
         <a href="https://www.nyfa.edu/about/accreditation.php">Accreditation</a><br>
+        <a href="http://catalogs.nyfa.edu" target="_blank">NYFA Catalog-Los Angeles</a><br>
+        <a href="https://www.nyfa.edu/about/articulation.php">Articulation</a><br>
         <a href="https://www.nyfa.edu/about/mission-purpose.php">Mission &amp; Purpose</a><br>
         <a href="https://www.nyfa.edu/reviews.php">Testimonials</a><br>
         <a href="https://www.nyfa.edu/about/faq.php">FAQ</a><br>
         <a href="https://www.nyfa.edu/online-bro/">Online Brochure</a>
     </div>
     <div id="admissions" class="ddsubmenunormalhome">
+    	<a href="https://www.nyfa.edu/admissions/">Overview</a><br>
         <a href="https://www.nyfa.edu/admissions/dates_tuition/">Tuition &amp; Dates</a><br>
         <a href="https://www.nyfa.edu/admissions/school-calendar/">Semester Dates</a><br>
         <a href="https://www.nyfa.edu/admissions/admissions-requirements.php">Admissions Requirements</a><br>
@@ -234,6 +357,7 @@ $(this).find('hr').fadeIn(500)
     	<a href="https://www.nyfa.edu/admissions/international_student_financial_aid.php">Financial Aid for International Students</a><br>
 	</div>
     <div id="nyfanews" class="ddsubmenunormalhome">
+    	<a href="https://www.nyfa.edu/nyfa-news/">Overview</a><br>
     	<a href="https://www.nyfa.edu/nyfa-news/headlines.php">Headlines</a><br>
     	<a href="https://www.nyfa.edu/film-school-blog/">NYFA Blog</a><br>
         <a href="https://www.nyfa.edu/nyfa-news/nyfa-in-the-news.php">NYFA in the News</a><br>
@@ -245,7 +369,7 @@ $(this).find('hr').fadeIn(500)
         	<span>NORTH AMERICA</span><br>
             <a href="https://www.nyfa.edu/new-york/">New York City – <i style="font-weight:bold !important;">Campus</i></a><br>
             <a href="https://www.nyfa.edu/los-angeles/">Los Angeles – <i style="font-weight:bold !important;">Campus</i></a><br>
-            <a href="https://www.nyfa.edu/south-beach/">South Beach, Florida</a><br>
+            <a href="https://miami.nyfa.edu/">South Beach, Florida – <i style="font-weight:bold !important;">Campus</i></a><br>
             <a href="https://www.nyfa.edu/disney-florida/">Disney Studios, Florida</a><br>
             <a href="https://www.nyfa.edu/harvard/">Harvard University</a><br><br>
             
@@ -258,14 +382,16 @@ $(this).find('hr').fadeIn(500)
         </div>
         <div class="dropright">
             <span>EUROPE</span><br>
+            <a href="https://www.nyfa.edu/florence/">Florence, Italy</a><br>
             <a href="https://www.nyfa.edu/paris/">Paris, France</a><br>
             <a href="https://www.nyfa.edu/moscow/">Moscow, Russia</a><br>
-            <a href="https://www.nyfa.edu/florence/">Florence, Italy</a><br>
-            <a href="https://www.nyfa.edu/amsterdam/">Amsterdam, Netherlands</a><br><br>
+            <a href="https://www.nyfa.edu/barcelona/">Barcelona, Spain</a><br>
+            <a href="https://www.nyfa.edu/amsterdam/">Amsterdam, Netherlands</a><br>
+            <a href="https://www.nyfa.edu/turkey/">Istanbul, Turkey</a><br><br>
             
             <span>ASIA-PACIFIC</span><br>
+            <a href="http://www.nyfa.edu.au/locations/gold-coast.php" target="_blank">Gold Coast, Australia – <i style="font-weight:bold !important;">Campus</i></a><br>
             <a href="http://www.nyfa.edu.au/locations/sydney.php" target="_blank">Sydney, Australia</a><br>
-            <a href="http://www.nyfa.edu.au/locations/gold-coast.php" target="_blank">Gold Coast, Australia</a><br>
             <a href="https://www.nyfa.edu/beijing/">Beijing, China</a><br>
             <a href="https://www.nyfa.edu/shanghai/">Shanghai, China</a><br>
             <a href="https://www.nyfa.edu/kyoto/">Kyoto, Japan</a><br>
@@ -276,13 +402,14 @@ $(this).find('hr').fadeIn(500)
     </div>
 </div>
 <div class="contentwrapper">
+	<div class="innercon">
 	<!-- start of program tab -->
     <div class="programbarwrapper">
         <div class="programtitle">
             <h1>PRIVACY POLICY</h1>
             <div class="tuitionbox" style="border:0px;">
             </div>
-            <div style="float:left; margin:-18px 15px 0 0 !important; padding-right:20px;">
+            <div class="breadcrumb">
             <a href="https://www.nyfa.edu/" style="color:#C00;">Home</a> &gt; <a href="https://www.nyfa.edu/about/" style="color:#C00;">About Us</a> &gt; Privacy Policy
             </div>
         </div>
@@ -291,7 +418,7 @@ $(this).find('hr').fadeIn(500)
     <!-- start of content -->
 	<div class="content">
 		<div class="contentlanding" style="margin-top:20px;">
-            <strong>What information do we collect?</strong><br>
+        	<strong>What information do we collect?</strong><br>
             We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.<br><br>
             
             When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or social security number. You may, however, visit our site anonymously.<br><br>
@@ -357,153 +484,112 @@ $(this).find('hr').fadeIn(500)
     	</div>
 	</div>
 	<!-- end of content -->
+    </div>
 </div>
-<div class="footernote"><center><span>* All MFA, BFA, BA, MA, and AFA degree programs are offered only at the <a href="https://www.nyfa.edu/los-angeles/" style="color:#C00; text-decoration:none;">New York Film Academy Los Angeles</a> campus.</span></center></div>
-<div class="footertopnew" style="height:18px;"></div>
+<!-- Footer Start -->
+<div class="footernote"><center><span><img src="https://www.nyfa.edu/img/info/nyfa-disclaimer.png" alt="New York Film Academy Disclaimer"></span></center></div>
+<div class="footertopnew">
+	<div class="footerloc">
+    	<div class="footerlocNY">
+        	<a href="https://www.nyfa.edu/new-york/"><strong>NEW YORK CAMPUS</strong></a>
+          	<ul class="ulLeft">
+           		<li><a href="https://www.nyfa.edu/acting-school/">Acting</a></li>
+           		<li><a href="https://www.nyfa.edu/animation-school/">3D Animation &amp; Visual Effects</a></li>
+            	<li><a href="https://www.nyfa.edu/broadcast-journalism-school/">Broadcast Journalism</a></li>
+           		<li><a href="https://www.nyfa.edu/cinematography-school/">Cinematography</a></li>
+           		<li><a href="https://www.nyfa.edu/digital-editing/">Digital Editing</a></li>
+             	<li><a href="https://www.nyfa.edu/directing/">Directing</a></li>
+            	<li><a href="https://www.nyfa.edu/documentary-school/">Documentary</a></li>
+         		<li><a href="https://www.nyfa.edu/game-design-school/">Game Design</a></li>
+            	<li><a href="https://www.nyfa.edu/graphic-design/">Graphic Design</a></li>
+        	</ul>
+          	<ul class="ulRight">
+            	<li><a href="https://www.nyfa.edu/film-school/">Film</a></li>
+              	<li><a href="https://www.nyfa.edu/illustration/">Illustration</a></li>
+           		<li><a href="https://www.nyfa.edu/musical-theatre/">Musical Theatre</a></li>
+            	<li><a href="https://www.nyfa.edu/performing-arts-school/">Performing Arts</a></li>
+            	<li><a href="https://www.nyfa.edu/photography-school/">Photography</a></li>
+           		<li><a href="https://www.nyfa.edu/producing-school/">Producing</a></li>
+            	<li><a href="https://www.nyfa.edu/screenwriting-school/">Screenwriting</a></li>
+           		<li><a href="https://www.nyfa.edu/visual-arts-school/">Visual Arts</a></li>
+        	</ul>
+        </div>
+        <img src="https://www.nyfa.edu/img/info/location-LA-NY-FL.png" alt="">
+        <div class="footerlocLAFL">
+        	<div class="footerlocLA">
+                <a href="https://www.nyfa.edu/los-angeles/"><strong>LOS ANGELES CAMPUS</strong></a>
+                <ul class="ulLeft">
+                    <li><a href="https://www.nyfa.edu/los-angeles/acting-school/">Acting</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/animation-school/">3D Animation &amp; Visual Effects</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/cinematography-school/">Cinematography</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/digital-editing/">Digital Editing</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/directing/">Directing</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/documentary-school/">Documentary</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/game-design-school/">Game Design</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/graphic-design/">Graphic Design</a></li>
+                </ul>
+                <ul class="ulRight">
+                    <li><a href="https://www.nyfa.edu/los-angeles/film-school/">Film</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/illustration/">Illustration</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/performing-arts-school/">Performing Arts</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/photography-school/">Photography</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/producing-school/">Producing</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/screenwriting-school/">Screenwriting</a></li>
+                    <li><a href="https://www.nyfa.edu/los-angeles/visual-arts-school/">Visual Arts</a></li>
+                </ul>
+            </div>
+            
+            <div class="footerlocFL">
+                <a href="http://miami.nyfa.edu/" target="_blank"><strong>SOUTH BEACH CAMPUS</strong></a>
+                <ul class="ulLeft">
+                    <li><a href="https://miami.nyfa.edu/acting/" target="_blank">Acting</a></li>
+                    <li><a href="https://miami.nyfa.edu/photography/" target="_blank">Photography</a></li>
+                </ul>
+                <ul class="ulRight">
+                    <li><a href="https://miami.nyfa.edu/film/" target="_blank">Film</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="footerwrappernew">
-	<center>
-	<table width="912px" border="0" cellpadding="0" cellspacing="0">
-    	<tbody><tr>
-        	<td align="left" valign="top" width="630px">
-            	<table width="100%" border="0" cellpadding="0" cellspacing="0">
-                	<tbody><tr>
-                    	<td align="left" valign="top" width="196px">
-                        <a href="https://www.nyfa.edu/programs/"><b>PROGRAMS</b></a>
-                        <ul>
-                            <li><a href="https://www.nyfa.edu/mfa/">Master of Fine Arts</a></li>
-                            <li><a href="https://www.nyfa.edu/ma/film-media-production.php">Master of Arts</a></li>
-                            <li><a href="https://www.nyfa.edu/bfa/">Bachelor of Fine Arts</a></li>
-                            <li><a href="https://www.nyfa.edu/ba/media-studies.php">Bachelor of Arts</a></li>
-                            <li><a href="https://www.nyfa.edu/afa/">Associate of Fine Arts</a></li>
-                            <li><a href="https://www.nyfa.edu/conservatory/">Conservatory</a></li>
-                            <li><a href="https://www.nyfa.edu/admissions/dates_tuition/prog_loc.php?course=Evening%20Workshops">Evening Workshops</a></li>
-                            <li><a href="https://www.nyfa.edu/short-term-workshops.php">Short-term Workshops</a></li>
-                            <li><a href="https://www.nyfa.edu/online-screenwriting/">Online Workshops</a></li>
-                            <li><a href="https://www.nyfa.edu/summer-workshops.php">Summer Workshops</a></li>
-                            <li><a href="https://www.nyfa.edu/summer_camp/">Summer Camps</a></li>
-                        </ul>
-                        <br><br>
-                        </td>
-                        <td align="left" valign="top" width="200px">
-                        <a href="https://www.nyfa.edu/new-york/"><b>AREAS of STUDY - NYC</b></a>
-                        <ul>
-                        		<li><a href="https://www.nyfa.edu/filmmaking/">Film</a></li>
-                                <li><a href="https://www.nyfa.edu/acting-school/">Acting</a></li>
-                                <li><a href="https://www.nyfa.edu/animation-school/">Animation</a></li>
-                                <li><a href="https://www.nyfa.edu/broadcast-journalism-school/">Broadcast Journalism</a></li>
-                                <li><a href="https://www.nyfa.edu/cinematography-school/">Cinematography</a></li>
-                                <li><a href="https://www.nyfa.edu/digital-editing/">Digital Editing</a></li>
-                                <li><a href="https://www.nyfa.edu/documentary-school/">Documentary</a></li>
-                                <li><a href="https://www.nyfa.edu/game-design-school/">Game Design</a></li>
-                                <li><a href="https://www.nyfa.edu/musical-theatre/">Musical Theatre</a></li>
-                                <li><a href="https://www.nyfa.edu/performing-arts-school/">Performing Arts</a></li>
-                                <li><a href="https://www.nyfa.edu/photography-school/">Photography</a></li>
-                                <li><a href="https://www.nyfa.edu/producing-school/">Producing</a></li>
-                                <li><a href="https://www.nyfa.edu/screenwriting-school/">Screenwriting</a></li>
-                                <li><a href="https://www.nyfa.edu/visual-arts-school/">Visual Arts</a></li>
-                            </ul>
-                        </td>
-                        <td align="left" valign="top" width="200px">
-                        	<a href="https://www.nyfa.edu/los-angeles/"><b>AREAS of STUDY - LA</b></a>
-                              <ul>
-                              		<li><a href="https://www.nyfa.edu/los-angeles/film-school/">Film</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/acting-school/">Acting</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/animation-school/">Animation</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/cinematography-school/">Cinematography</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/digital-editing/">Digital Editing</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/documentary-school/">Documentary</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/game-design-school/">Game Design</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/performing-arts-school/">Performing Arts</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/photography-school/">Photography</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/producing-school/">Producing</a></li>
-                                    <li><a href="https://www.nyfa.edu/los-angeles/screenwriting-school/">Screenwriting</a></li>
-                                </ul>
-                        </td>
-                        <td align="left" valign="top" width="220px">
-                        <a href="https://www.nyfa.edu/admissions/"><b>ADMISSIONS</b></a>
-                        <ul>
-                        	<li><a href="https://www.nyfa.edu/admissions/dates_tuition/">Tuition &amp; Dates</a></li>
-                            <li><a href="https://www.nyfa.edu/admissions/school-calendar/">Semester Dates</a></li>
-                            <li><a href="https://www.nyfa.edu/admissions/admissions-requirements.php">Admissions<br>Requirements</a></li>
-                            <li><a href="https://www.nyfa.edu/federal-financial-aid/scholarships-grants.php">Scholarships</a></li>
-                            <li><a href="https://www.nyfa.edu/admissions/financial_aid.php">Financial Aid</a></li>
-                            <li><a href="https://www.nyfa.edu/veterans/">Veterans &amp; Military</a></li>
-                            <li><a href="https://www.nyfa.edu/admissions/housing.php">Housing Information</a></li>
-                        </ul><br>
-                        <a href="https://www.nyfa.edu/about/"><b>ABOUT NYFA</b></a>
-                        <ul>
-                        	<li><a href="https://www.nyfa.edu/about/contact.php">Contact Us</a></li>
-                            <li><a href="https://www.nyfa.edu/about/visit-us.php">Visit Us</a></li>
-                            <li><a href="https://www.nyfa.edu/about/open_house.php">Open House</a></li>
-                            <li><a href="https://www.nyfa.edu/about/faculty/nyc-academic.php">Faculty</a></li>
-                            <li><a href="https://www.nyfa.edu/reviews.php">Testimonials</a></li>
-                            <li><a href="https://www.nyfa.edu/about/faq.php">FAQ</a></li>
-                            <li><a href="https://www.nyfa.edu/online-bro/">Online Brochure</a></li>
-                        </ul><br>
-                        
-                        </td>
-                    </tr>
-                    <tr>
-                    	<td colspan="4" align="left" valign="top" style="color:#999;">
-                        	&nbsp;• <a href="https://www.nyfa.edu/">Home</a> • <a href="https://www.nyfa.edu/about/policy.php">Privacy Policy</a> • <a href="https://www.nyfa.edu/about/sitemap.php">Site Map</a><br>
-                            <hr style="width:570px; margin-top:6px; margin-bottom:5px;">
-                            100 East 17th Street New York, New York 10003 United States<br>
-                            Copyright © 2014 New York Film Academy<br><br>
-                            
-                            All programs and workshops are solely owned and operated by the New York Film Academy and<br>are not affiliated with Universal Studios, Harvard University, or Disney Studios.<br><br><br>
-                        </td>
-                    </tr>
-                </tbody></table>
-            </td>
-            <td align="left" valign="top" width="240px">
-            	<a href="https://www.nyfa.edu/locations/"><b>SCHOOL LOCATIONS</b></a>
-                <ul>
-                    <li><a href="https://www.nyfa.edu/new-york/">New York City</a></li>
-                    <li><a href="https://www.nyfa.edu/los-angeles/">Los Angeles, CA</a></li>
-                    <li><a href="https://www.nyfa.edu/abu-dhabi/">Abu Dhabi, UAE</a></li>
-                    <li><a href="http://www.nyfa.edu.au/locations/sydney.php" target="_blank">Sydney, Australia</a></li>
-                    <li><a href="http://www.nyfa.edu.au/locations/gold-coast.php" target="_blank">Gold Coast, Australia</a></li>
-                    <li><a href="https://www.nyfa.edu/south-beach/">South Beach, Florida</a></li>
-                    <li><a href="https://www.nyfa.edu/florence/">Florence, Italy</a></li>
-                </ul>
-                <br>
-                <a href="https://www.nyfa.edu/locations/"><b>WORKSHOP LOCATIONS</b></a>
-                <ul>
-                    <li><a href="https://www.nyfa.edu/harvard/">Harvard University</a></li>
-                    <li><a href="https://www.nyfa.edu/disney-florida/">Disney Studios, Florida</a></li>
-                    <li><a href="https://www.nyfa.edu/paris/">Paris, France</a></li>
-            		<li><a href="https://www.nyfa.edu/amsterdam/">Amsterdam, Netherlands</a></li>
-                    <li><a href="https://www.nyfa.edu/beijing/">Beijing, China</a></li>
-                    <li><a href="https://www.nyfa.edu/shanghai/">Shanghai, China</a></li>
-                    <li><a href="https://www.nyfa.edu/doha/">Doha, Qatar</a></li>
-                    <li><a href="https://www.nyfa.edu/kyoto/">Kyoto, Japan</a></li>
-                    <li><a href="https://www.nyfa.edu/mumbai/">Mumbai, India</a></li>
-                    <li><a href="https://www.nyfa.edu/jakarta/">Jakarta, Indonesia</a></li>
-                    <li><a href="https://www.nyfa.edu/moscow/">Moscow, Russia</a></li>
-                    <li><a href="https://www.nyfa.edu/seoul/">Seoul, Korea</a></li>
-                </ul>
-            </td>
-            <td align="left" valign="top" width="180px">
-            	<strong>CONNECT WITH NYFA</strong><br>
-                <ul class="socialul">
-                <a href="https://www.nyfa.edu/film-school-blog/" target="_blank"><li class="liblog">Blog</li></a>
-                <a href="https://www.facebook.com/NewYorkFilmAcademy" target="_blank"><li class="lifacebook">Facebook</li></a>
-                <a href="https://twitter.com/NYFA" target="_blank"><li class="litwitter">Twitter</li></a>
-                <a href="http://nyfa.tumblr.com/" target="_blank"><li class="litumblr">Tumblr</li></a>
-                <a href="http://instagram.com/newyorkfilmacademy" target="_blank"><li class="liinstagram">Instagram</li></a>
-                <a href="https://plus.google.com/+newyorkfilmacademy/posts" target="_blank"><li class="ligoogleplus">Google+</li></a>
-                <a href="http://www.youtube.com/user/newyorkfilmacademy" target="_blank"><li class="liyoutube">Youtube</li></a>
-                <a href="http://vimeo.com/newyorkfilmacademy" target="_blank"><li class="livimeo">Vimeo</li></a>
-                <a href="http://www.linkedin.com/company/new-york-film-academy" target="_blank"><li class="lilinkedin">LinkedIn</li></a>
-                <a href="https://foursquare.com/nyfa" target="_blank"><li class="lifoursquare">FourSquare</li></a>
-                <a href="http://www.pinterest.com/nyfilmacademy/" target="_blank"><li class="lipinterest">Pinterest</li></a>
-                <a href="http://www.flickr.com/people/newyorkfilmacademy/" target="_blank"><li class="liflickr">Flickr</li></a>
-                </ul>
-            </td>
-        </tr>
-    </tbody></table>
-	</center>
+	<div class="footercontent">
+    	<div class="connetnyfa"><img src="https://www.nyfa.edu/img/info/connet-with-nyfa.png" alt=""></div>
+		<div class="footersc">
+        	<a href="https://www.nyfa.edu/film-school-blog/" target="_blank"><div class="blogbtn"></div></a>
+            <a href="https://www.youtube.com/subscription_center?add_user=newyorkfilmacademy" target="_blank"><div class="youtubebtn"></div></a>
+        </div>
+        <div class="footersc">
+        	<a href="https://www.facebook.com/NewYorkFilmAcademy" target="_blank"><div class="facebookbtn"></div></a>
+            <a href="http://vimeo.com/newyorkfilmacademy" target="_blank"><div class="vimeobtn"></div></a>
+        </div>
+        <div class="footersc">
+        	<a href="https://twitter.com/NYFA" target="_blank"><div class="twitterbtn"></div></a>
+            <a href="http://www.linkedin.com/company/new-york-film-academy" target="_blank"><div class="linkedinbtn"></div></a>
+        </div>
+        <div class="footersc">
+        	<a href="http://nyfa.tumblr.com/" target="_blank"><div class="tumblrbtn"></div></a>
+            <a href="https://foursquare.com/nyfa" target="_blank"><div class="foursquarebtn"></div></a>
+        </div>
+        <div class="footersc">
+        	<a href="http://instagram.com/newyorkfilmacademy/" target="_blank"><div class="instagrambtn"></div></a>
+            <a href="http://www.pinterest.com/nyfilmacademy/" target="_blank"><div class="pinterestbtn"></div></a>
+        </div>
+        <div class="footersc">
+        	<a href="https://plus.google.com/+newyorkfilmacademy" rel="publisher" target="_blank"><div class="googleplusbtn"></div></a>
+            <a href="http://www.flickr.com/people/newyorkfilmacademy/" target="_blank"><div class="flickrbtn"></div></a>
+        </div>
+		
+        <div class="footertext">
+        	&nbsp;• <a href="https://www.nyfa.edu/">Home</a> • <a href="https://www.nyfa.edu/about/policy.php">Privacy Policy</a> • <a href="https://www.nyfa.edu/about/sitemap.php">Site Map</a><br>
+         	<hr style="margin:5px 0px;">
+                
+         	Copyright © 2015 New York Film Academy<br><br>
+           	All programs and workshops are solely owned and operated by the New York Film Academy and<br>are not affiliated with Universal Studios, Harvard University, or Disney Studios.<br><br><br>
+        </div>
+	</div>
 </div>
+<!-- Footer End -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -512,6 +598,7 @@ $(this).find('hr').fadeIn(500)
 
   ga('create', 'UA-30929-16', 'nyfa.edu');
   ga('send', 'pageview');
+
 </script>
 
 <!-- Google Tag Manager -->
@@ -523,8 +610,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-M4H99T');</script>
 <!-- End Google Tag Manager -->
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 970316996;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/970316996/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 970316996;
