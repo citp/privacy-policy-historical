@@ -1,100 +1,37 @@
-> *The following text is extracted and transformed from the sitaphal.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitaphal.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427071530id_/http%3A//www.sitaphal.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Sitaphal Privacy Policy | Sitaphal.com
 
-**Go Daddy Respects Your Privacy**
+We at Sitaphal.com care about our Customers and think their Privacy and the Trust they keep on us are very important. So as a responsible organisation, we do our best to protect User privacy, Personal information and their data. We encourage you to read and understand below information related to Users Privacy and how the data is maintained in our systems.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+You can visit our site and browse without having to login or provide any personal details. While you visit the site, you remain anonymous and at no time can we identify you unless you log in. However, for a successful expedition of the best discount deals available on our site and to avail additional Cashback, you require to get logged in by using either your existing Facebook or Google account.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+When you log in to Sitaphal.com using Facebook or Google, only with your consent, we will collect your email id and basic profile information to complete the Registration process. Apart from that no other information, whether personal or non-personal, if any, associated with the account are captured. Except your email ID (which is kept confidential), the information collected by the website is solely at users’ choice and can be updated by the user anytime after logging in from their Dashboard. No private information like Purchases made or Credits earned etc will be shown to public. The users have the ability to access and edit their personal/ public profile information that they want to display on our website.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We collect some information like user favorite stores, categories etc. to make our service and user experience better. But we assure you that the information collected from you is exclusively related to our dealings with you. And will only keep your information for as long as we are either required to by the law of the land or as is relevant for the purposes for which it was collected.
 
-**Information Collection and Use**
+At Sitaphal.com, we respect your Privacy and under no circumstances do we rent, trade or share any of your information that we have collected from you to third parties for any purposes without your consent.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## IP Addresses and Cookies
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We store the user IP Addresses, to analyse trends to make better service and also it can be used in any legal activity (In case any Abuse).
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We use cookies to store certain types of information each time you visit any page on our website. These are used to keep track of keyword searches you do while using Sitaphal.com, as well as your surfing behaviour on this website and other websites you may visit. This information is used to show you the Deals, Cashback offers, Advertisements tailored to your interests on this website, and/or to maintain track of your response to each Ad. No personal information about you is gathered or stored in the cookies placed by our website and, as a result; none can be passed to any third party.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Whether you want your web browser to accept cookies or not is up to you. You may refuse to accept cookies by changing the setting on your browser which allows you to refuse the cookies and in case if you haven't changed your computer's settings, your browser automatically allows them. However, if you prefer to refuse cookies or delete your browser cookies or disable them entirely, you may not be able to fully experience all features of the website. This may also significantly impact your experience with our website and may make parts of our website non-functional or inaccessible. Therefore, we recommend that you leave them turned on.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## Data Protection
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We're committed to protecting your personal information. The access to your personal information is limited to only to selected personnel and is stored on secure servers. Therefore, we ensure that your information is safe after it is transmitted to us. However, no such transmission over the Internet can be guaranteed to be completely secure and Sitaphal.com assumes no liability whatsoever for any such data loss.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+It is advisable to adhere to the following measures:
 
-**Security**
+• Keep your password or other access to your information secret.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+• Ensure no-one else uses your Computer or Mobile Device when you "signed in" to the Sitaphal.com site.
 
-**Updating Your Information**
+• Always sign out from your Account when not using Sitaphal.com in case if you are using others computer or mobile device to browse.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We will review our Privacy Policy when necessary and may make periodic changes to the policy in connection with that review. The revisions made will be effective immediately upon being posted on the Website and provide a notification alert. It is advisable that you visit this page on receiving the notification to make yourself aware of the latest version of the Privacy Policy. Your continued use of the Website once the effectiveness of such revisions will be considered your acknowledgment and acceptance of the terms of the revised Privacy Policy.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have queries regarding Sitaphal.com Privacy Policy, please write us [support@sitaphal.com](mailto:support@sitaphal.com) or Fill the [Contact Us Form](http://www.sitaphal.com/contact).
