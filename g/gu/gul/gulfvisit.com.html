@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gulfvisit.com privacy policy that was archived on 2014-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140920234915id_/http%3A//www.gulfvisit.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gulfvisit.com privacy policy that was archived on 2015-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150427234557id_/http%3A//gulfvisit.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -7,150 +7,88 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-15">
 <meta http-equiv="Content-Language" content="en-GB">
-<title>Gulf Visit: Privacy Policy</title>
+<title>Gulf Visit</title>
+
 <link type="text/css" rel="stylesheet" href="includes/bootstrap/css/bootstrap.min.css">
-<link type="text/css" rel="stylesheet" href="includes/bootstrap/css/nav.css">
-<link type="text/css" rel="stylesheet" href="includes/bootstrap/js/bootstrap.min.js">
+<link type="text/css" rel="stylesheet" href="includes/bootstrap/css/style.css">
+<link rel="stylesheet" href="includes/font-awesome/css/font-awesome.min.css">
+<link type="text/css" rel="stylesheet" href="includes/select2/select2.css">
+<link rel="icon" type="image/png" href="includes/bootstrap/favico.png">
+<!--<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>-->
+<link href="http://fonts.googleapis.com/css?family=Oswald:300" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Dosis" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Noticia+Text" rel="stylesheet" type="text/css">
+<script src="includes/jquery.js"></script>
+<script src="includes/include.js"></script>
+<script href="includes/bootstrap/js/bootstrap.min.js"></script>
+
 </head><body><input type="hidden" name="url" id="url" value="">
 
 <script type="text/javascript">
-if(screen.width <=699){
-	
+url1=document.getElementById('url').value.split("=");
+
+if(screen.width <=699 && url1.length==1){
 	var url = document.getElementById('url').value;
-	document.location.href="mobile/privacy_policy.php";
+	document.location.href="mobile/";
+}else if(screen.width <=699 && url1.length>1){
+	var url = document.getElementById('url').value.split("=");
+	if(url.length>1){ 
+		if(url[0].trim()=="location"&&url[1]!=""){ 
+			document.location.href="mobile/index.php?location="+url[1];	
+		}
+	}
+	
+}
+function goto(){
+		document.location.href="dir";
+}
+ var RecaptchaOptions = {
+    theme : 'custom',
+    custom_theme_widget: 'recaptcha_widget'
+ };
 
-}
-</script>
-<script language="javascript">
-<!--
-
-var state = 'none';
-
-function showhide(layer_ref) {
-
-if (state == 'block') {
-state = 'none';
-}
-else {
-state = 'block';
-}
-if (document.all) { //IS IE 4 or 5 (or 6 beta)
-eval( "document.all." + layer_ref + ".style.display = state");
-}
-if (document.layers) { //IS NETSCAPE 4 or below
-document.layers[layer_ref].display = state;
-}
-if (document.getElementById &&!document.all) {
-hza = document.getElementById(layer_ref);
-hza.style.display = state;
-}
-}
-//-->
-function check_reply() {
-	if((document.applyForm.txt_replyName.value) == 0) 
-	{
-	alert("Name is a Required Field");
-	document.applyForm.txt_replyName.focus();
-	return false;	
-	}
-	if((document.applyForm.txt_replyEmail.value) == 0) 
-	{
-	alert("Email is a Required Field");
-	document.applyForm.txt_replyEmail.focus();
-	return false;	
-	}
-	if((document.applyForm.txt_replyEmail.value)!='')
-		{	
-	var emailfilter=/^\w+[\+\.\w-]*@([\w-]+\.)*\w+[\w-]*\.([a-z]{2,4}|\d+)$/;
-	var returnval=emailfilter.test(document.applyForm.txt_replyEmail.value);
-	if (returnval==false)
-	{
-	alert("Please enter a valid email address.");
-	document.applyForm.txt_replyEmail.focus();
-	return false;
-	}
-	}
-	if((document.applyForm.Service.value) == 0) 
-	{
-	alert("Please enter the Verification Code");
-	document.applyForm.Service.focus();
-	return false;	
-	}
-}
 </script>
 
 
-<nav class="navbar navbar-default " role="navigation">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="http://gulfvisit.com/">Gulf Visit</a>
-    </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav ">
-        <li class=""><a href="index.php">All Jobs</a></li>
-        		
-        <li>
-            <a href="index.php?location=Al Ain">Al Ain</a>
-        </li>
-				
-        <li>
-            <a href="index.php?location=Sharjah">Sharjah</a>
-        </li>
-				
-        <li>
-            <a href="index.php?location=Dubai">Dubai</a>
-        </li>
-				
-        <li>
-            <a href="index.php?location=Abu Dhabi">Abu Dhabi</a>
-        </li>
-				
-        <li>
-            <a href="index.php?location=Ras Al Khaimah">Ras Al Khaimah</a>
-        </li>
-				
-        <li>
-            <a href="index.php?location=Ajman">Ajman</a>
-        </li>
-				
-        <li>
-            <a href="index.php?location=Fujairah">Fujairah</a>
-        </li>
-				
-        <li>
-            <a href="index.php?location=Doha">Doha</a>
-        </li>
-		        <li><button class="btn btn-success" onclick="goto()" id="btn-business" style="position:relative;top:7px;">Business Directory</button></li>
-        
-      </ul>
-      
-      
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
-<div class="container"> 
-    
-     <table class="table table-container">
-        <tbody><tr>
-        <td width="75%">
-			<div class="panel panel-default">
-            	 <div class="panel-heading"> <h1>Privacy Policy </h1></div>
-                  <div class="panel-body">
-           
-                <div style="float:left;padding-left:5px;">
-    	<p>The privacy of our Jobs Seekers and Jobs Advertisers is important to us.<br>
+
+		
+        		<div class="wrapper">
+                		<div class="container"> 
+                				<nav id="navigation" class="navbar navbar-default " role="navigation">
+			<div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="http://gulfvisit.com/"><span class="icon-stack"></span><img width="230" src="includes/bootstrap/gulfvisit.png"></a>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="navbar-collapse collapse" id="bs-navbar-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li class=""><a href="http://gulfvisit.com/" class="smoothScroll " style="color:#e6559f !important; ">Jobs</a></li>
+						<li class=""><a href="http://gulfvisit.com/dir" class="smoothScroll">Business Directory</a></li>
+						<li><a href="http://gulfvisit.com/quotes" class=" smoothScroll">Quotes</a></li>
+						<li><a href="http://gulfvisit.com/education" class=" smoothScroll">Education</a></li>
+					</ul>
+				</div><!--/nav-collapse -->
+			</div><!-- /container -->
+		</nav>
+                               <div class="col-xs-13 ">	
+                                        <div class="col-xs-8 content  mrt pull-left ">	
+		                                <div class="col-xs-8 content">
+	<h1>Privacy Policy </h1>
+
+	<div style="float:left;padding-left:5px;">
+    	<p class="fsxl">The privacy of our Jobs Seekers and Jobs Advertisers is important to us.<br>
       At <a href="http://www.gulfvist.com/">http://www.gulfvist.com</a> we  recognize that privacy of your personal information is important. Here is  information on what types of personal information we receive and collect when  you use and visit our site, and how we safeguard your information. We never  sell your personal information to third parties.</p>
-      <p><strong>Cookies</strong></p>
-      <p>We use cookies to understand and save your preferences for  future visits, keep track of advertisements and compile aggregate data about  site traffic and site interaction so that we can offer better site experiences  and tools in the future. We may contract with third-party service providers to  assist us in better understanding our site visitors. These service providers  are not permitted to use the information collected on our behalf except to help  us conduct and improve our business.<br>
+      <p class="fsxl"><strong>Cookies</strong></p>
+      <p class="fsxl">We use cookies to understand and save your preferences for  future visits, keep track of advertisements and compile aggregate data about  site traffic and site interaction so that we can offer better site experiences  and tools in the future. We may contract with third-party service providers to  assist us in better understanding our site visitors. These service providers  are not permitted to use the information collected on our behalf except to help  us conduct and improve our business.<br>
           <strong><br>
             DoubleClick DART cookies</strong><br>
         We also may use DART cookies for ad serving through Google's DoubleClick, which  places a cookie on your computer when you are browsing the web and visit a site  using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests ("interest  based targeting"). The ads served will be targeted based on your previous  browsing history (For example, if you have been viewing sites about visiting  Las Vegas, you may see Las Vegas hotel advertisements when viewing a  non-related site, such as on a site about hockey). DART uses "non personally  identifiable information". It does NOT track personal information about you,  such as your name, email address, physical address, telephone number, social  security numbers, bank account numbers or credit card numbers. You can opt-out  of this ad serving on all sites using this advertising by visiting <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">http://www.doubleclick.com/privacy/dart_adserving.aspx </a><br>
@@ -158,28 +96,173 @@ function check_reply() {
         Deleting cookies does not mean you are permanently opted out of any  advertising program. Unless you have settings that disallow cookies, the next  time you visit a site running the advertisements, a new cookie will be added.<br>
   <br>
         We are in compliance with the requirements of COPPA (Children Online Privacy  Protection Act), our policy is located at.<br>
+		We enabled advertiser features for Demographics and Interest reporting, Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration.<br>
         The contents of this statement may be altered at any time, at our discretion  and you can find the altered content on this page.</p>
     </div>
-    </div>
-    </div>
-		</td>
-         <td width="25%">
- 			              <div>
-                <img width="280" style="margin-left:5px;" src="images/job_alerts.png" class="img-thumbnail">
+    
+</div>                                </div>
+                                <div class="col-xs-3 prf">
+                               			<style>
+#recaptcha_image { width: 94% !important; border-radius: 0px; }
+</style>
+<script src="includes/select2/select2.js"></script>
+<script src="includes/subscribe.js"></script>
+<div class="content ">
+		<div class="page-header">
+            	  <h2> Get the next <span class="pink"> Job </span>Openings here</h2>
+        	</div>
+            
+       
+        <div class="alert alert-danger hidden" id="alert-danger">Please fill atleast keywords or location.</div>
+            <form class="form-horizontal" role="form" action="subscribe.php" method="post" id="subscriptionFrom">
+            <div class=" col-xs-12 form-group setPadding sub-box-input-w " id="form-group-email">
+                <input id="email" type="text" class="form-control rdz" placeholder="Email Address" name="email">
+                    <span id="glyphicon-inline-email" class="glyph glyphicon form-control-feedback"></span>
+                    <span id="help-inline-email" class="help-block"></span>
             </div>
-              
-         </td>
-        </tr>
-        </tbody></table>
-    	<hr>
+           
+            <div class="col-xs-12 form-group setPadding sub-box-input-w" id="form-group-keywords">
+                <textarea id="keywords" type="text" class="form-control rdz" rows="1" placeholder="e.g. Assistant,Driver etc" name="keywords"></textarea>
+                    <span id="glyphicon-inline-keywords" class="glyph glyphicon form-control-feedback"></span>
+                    <span id="help-inline-keywords" class="help-block"></span>
+            </div> 
+           
+            <div class="col-xs-12 form-group setPadding sub-box-input-w" id="form-group-loc"> 
+                            <div class="select2-container select2-container-multi" id="s2id_loc" style="width: 100%;"><ul class="select2-choices">  <li class="select2-search-field">    <label for="s2id_autogen1" class="select2-offscreen"></label>    <input type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="select2-input select2-default" id="s2id_autogen1" placeholder="" style="width: 198px;">  </li></ul><div class="select2-drop select2-drop-multi select2-display-none">   <ul class="select2-results">   <li class="select2-no-results">No matches found</li></ul></div></div><select multiple="multiple" id="loc" name="loc[]" tabindex="-1" class="select2-offscreen">
+								                                <option value="Abu Dhabi">Abu Dhabi</option>
+                                                                <option value="Ajman">Ajman</option>
+                                                                <option value="Al Ain">Al Ain</option>
+                                                                <option value="Beaverlodge, AB">Beaverlodge, AB</option>
+                                                                <option value="Borden-Carleton, EPI">Borden-Carleton, EPI</option>
+                                                                <option value="Boyle, AB">Boyle, AB</option>
+                                                                <option value="Burnaby, BC">Burnaby, BC</option>
+                                                                <option value="Calgary, AB">Calgary, AB</option>
+                                                                <option value="Cambridge, ON">Cambridge, ON</option>
+                                                                <option value="Charlottetown, PEI">Charlottetown, PEI</option>
+                                                                <option value="Chemainus, BC">Chemainus, BC</option>
+                                                                <option value="Chesterfield Inlet, NU">Chesterfield Inlet, NU</option>
+                                                                <option value="Chetwynd, BC">Chetwynd, BC</option>
+                                                                <option value="City of Brandon, MB">City of Brandon, MB</option>
+                                                                <option value="Clyde River">Clyde River</option>
+                                                                <option value="Cumberland, BC">Cumberland, BC</option>
+                                                                <option value="Dieppe, NB">Dieppe, NB</option>
+                                                                <option value="Doha">Doha</option>
+                                                                <option value="Dubai">Dubai</option>
+                                                                <option value="Edmonton, AB">Edmonton, AB</option>
+                                                                <option value="Fort St James, BC">Fort St James, BC</option>
+                                                                <option value="Fort St John, BC">Fort St John, BC</option>
+                                                                <option value="Fujairah">Fujairah</option>
+                                                                <option value="Gibsons, BC">Gibsons, BC</option>
+                                                                <option value="Halfmoon Bay, BC">Halfmoon Bay, BC</option>
+                                                                <option value="Halifax, ON">Halifax, ON</option>
+                                                                <option value="Hinton, AB">Hinton, AB</option>
+                                                                <option value="Langley, BC">Langley, BC</option>
+                                                                <option value="London, ON">London, ON</option>
+                                                                <option value="Mackenzie, BC">Mackenzie, BC</option>
+                                                                <option value="Manama">Manama</option>
+                                                                <option value="Melfort, SK">Melfort, SK</option>
+                                                                <option value="Mississauga, ON">Mississauga, ON</option>
+                                                                <option value="Moncton, NB">Moncton, NB</option>
+                                                                <option value="Moncton, NB">Moncton, NB</option>
+                                                                <option value="Montréal, QC">Montréal, QC</option>
+                                                                <option value="Mount Currie, BC">Mount Currie, BC</option>
+                                                                <option value="Nanaimo, BC">Nanaimo, BC</option>
+                                                                <option value="Nisku, AB">Nisku, AB</option>
+                                                                <option value="North Vancouver, BC">North Vancouver, BC</option>
+                                                                <option value="Ontario">Ontario</option>
+                                                                <option value="Pemberton, BC">Pemberton, BC</option>
+                                                                <option value="Pitt Meadows, BC">Pitt Meadows, BC</option>
+                                                                <option value="Port Alberni, BC">Port Alberni, BC</option>
+                                                                <option value="Prince George, BC">Prince George, BC</option>
+                                                                <option value="Ras Al Khaimah">Ras Al Khaimah</option>
+                                                                <option value="Regina, SK">Regina, SK</option>
+                                                                <option value="Richmond, BC">Richmond, BC</option>
+                                                                <option value="Rumaithya">Rumaithya</option>
+                                                                <option value="Sechelt, BC">Sechelt, BC</option>
+                                                                <option value="Sharjah">Sharjah</option>
+                                                                <option value="Squamish, BC">Squamish, BC</option>
+                                                                <option value="Stanley Mission, SK">Stanley Mission, SK</option>
+                                                                <option value="Summerside, PEI">Summerside, PEI</option>
+                                                                <option value="Surrey, BC">Surrey, BC</option>
+                                                                <option value="Swift Current, SK">Swift Current, SK</option>
+                                                                <option value="Toronto, ON">Toronto, ON</option>
+                                                                <option value="Ucluelet, BC">Ucluelet, BC</option>
+                                                                <option value="Umm Al Quwain">Umm Al Quwain</option>
+                                                                <option value="Vancouver, BC">Vancouver, BC</option>
+                                                                <option value="Vanderhoof, BC">Vanderhoof, BC</option>
+                                                                <option value="Victoria, BC">Victoria, BC</option>
+                                                                <option value="Whistler, BC">Whistler, BC</option>
+                                                                <option value="Whitehorse, YT">Whitehorse, YT</option>
+                                                                <option value="Winnipeg, MB">Winnipeg, MB</option>
+                                                            </select>
+                            <span id="glyphicon-inline-locss" class="glyph glyphicon form-control-feedback"></span>
+                   			 <span id="help-inline-locss" class="help-block"></span>
+            </div> 
+                <div class="row">&nbsp;</div>
+                         <div class="col-xs-12 plz ">
+                                                        <div id="recaptcha_widget" style="display:none">
+
+   
+	   <div class="thumbnail set-Padding-captcha" id="recaptcha_image"></div>
+   
+   <div class="recaptcha_only_if_incorrect_sol" style="color:red">Incorrect please try again</div>
+
+ 	<div class=" col-xs-12 form-group set-Padding-captcha sub-box-input-w " id="form-group-loc">
+   		<input class="form-control rdz" style="width:107%" type="text" id="recaptcha_response_field" placeholder="Enter the words above" name="recaptcha_response_field">
+	</div>
+    <div class="col-xs-12 plz">
+       <div class="col-xs-3 pz"><a class="btn btn-default btn-xs rdz" href="javascript:Recaptcha.reload()"><i class="fa fa-refresh"></i>&nbsp;Reload</a></div>
+       <div class="col-xs-5 pz mls recaptcha_only_if_image"><a class="btn btn-default btn-xs rdz" id="audioBtn" href="javascript:Recaptcha.switch_type('audio')"><i class="fa fa-volume-up"></i>&nbsp;Audio Captcha</a></div>
+       <div class="col-xs-5 pz mls recaptcha_only_if_audio"><a class="btn btn-default btn-xs rdz" id="textBtn" href="javascript:Recaptcha.switch_type('image')"><i class="fa fa-text-width"></i>&nbsp;Text Captcha</a></div>
+       <div class="col-xs-2 pz mls"><a class="btn btn-default btn-xs rdz" href="javascript:Recaptcha.showhelp()"><i class="fa fa-question-circle"></i>&nbsp;Help</a></div>
+    </div>
+ </div>
+<div class="col-xs-12">&nbsp;</div>
+ <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LeyTPgSAAAAAGtksJS3vy5awV82SpkOM_poiuTQ">
+ </script>
+ <noscript>
+   <iframe src="http://www.google.com/recaptcha/api/noscript?k=6LeyTPgSAAAAAGtksJS3vy5awV82SpkOM_poiuTQ"
+        height="300" width="500" frameborder="0"></iframe><br>
+   <textarea name="recaptcha_challenge_field" rows="3" cols="40">
+   </textarea>
+   <input type="hidden" name="recaptcha_response_field"
+        value="manual_challenge">
+ </noscript>
+                            
+                            
+                            
+                            
+                         </div>
+                         <div class="row">&nbsp;</div>
+            <input id="submitBtn" type="submit" class="btn btn-success rdz" value="Subscribe">
+            <div>&nbsp;</div>
+            </form>
+        
+
+
+
+</div>                                </div>
+                              	<div class=" col-xs-11 content">&nbsp;
+							 		
 <div class="footer">
     <div align="left">
-        <div style="float:left; display:block;"><small>Copyrights Gulfvisit © 2014</small></div>
-        <div class="pull-right"><a href="aboutus.php">About Us</a> | <a href="contact_us.php">Contact Us</a> | <a href="privacy_policy.php">Privacy Policy</a></div>
+        <div class="fsl" style="float:left; display:block;">Copyrights Gulfvisit © 2015</div>
+        <div class="pull-right"><!--<a href="http://gulfvisit.com">Jobs</a> | <a href="http://gulfvisit.com/dir">Business Directory</a> | <a href="http://gulfvisit.com/education">Education</a> |<a href="http://gulfvisit.com/quotes">Quotes</a> |--> <a class="fsl" href="aboutus.php">About Us</a> | <a class="fsl" href="contact_us.php">Contact Us</a> | <a class="fsl" href="privacy_policy.php">Privacy Policy</a></div>
     </div>
 </div>
 <div class="row">&nbsp;</div>
-<div class="row">&nbsp;</div>      </div>
+<div class="row">&nbsp;</div>                            	</div>   
+                           		
+                    </div>
+                    
+                    
+                    
+                    
+                </div>    
+                   
+                
+        			
+        
 
 
-</body></html>
+</div><span role="status" aria-live="polite" class="select2-hidden-accessible"></span></body></html>
