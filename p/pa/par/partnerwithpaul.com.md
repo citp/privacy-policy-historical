@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801051847id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427125921id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
@@ -7,32 +7,10 @@ We take your privacy very seriously, and we've created this Privacy Policy in or
 
 If you want to opt-out of email communications from PartnerWithPaul.com, cancel your account, or need to contact us for any other privacy related issue you may do so in the following ways:
 
-1\. Email: [contact@partnerwithpaul.com](mailto:contact@partnerwithpaul.com)  
-  
-2\. Website: [http://www.partnerwithpaul.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
-  
 3\. Postal Mail: PartnerWithPaul.com LLC, 1675 Larimer St. Suite 640, Denver, CO 80202  
   
 4\. Telephone: (347)562-1179
 
-| 
-
-[](http://secure.trust-guard.com/certificates/808)
-
-|   | 
-
-[](http://secure.trust-guard.com/certificates/808)
-
-|   | 
-
-[](http://secure.trust-guard.com/certificates/808)
-
-|   | 
-
-[](http://secure.trust-guard.com/certificates/808)  
-  
----|---|---|---|---|---|---  
-  
 **_What information does PartnerWithPaul.com collect from visitors?_**
 
 PartnerWithPaul.com collects information from our visitors and users of our website and uses the information for marketing and administration purposes, in the fulfillment of our service commitment to you, or as required under the law.
@@ -96,10 +74,6 @@ PartnerWithPaul.com provides every user with the opportunity to opt-out of recei
 
 Please note however that even if you opt-out, you may still receive important announcements or updates regarding your PartnerWithPaul.com account unless you cancel your account.
 
-1\. Email: [contact@partnerwithpaul.com](mailto:contact@partnerwithpaul.com)  
-  
-2\. Website: [http://www.partnerwithpaul.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
-  
 3\. Postal Mail: PartnerWithPaul.com LLC, 1675 Larimer St. Suite 640, Denver, CO 80202  
   
 4\. Telephone: (347) 562-1179
