@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mashinmedia.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227103316id_/http%3A//www.mashinmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashinmedia.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428224313id_/http%3A//www.mashinmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MashinMedia
+# Privacy Policy - MashinMediaMashinMedia
 
 MashinMedia Guarantees to protect your privacy. We ask information in order to complete the Logo design, business card design or other graphic designing services. All the information we ask is strictly used for MashinMedia to complete the orders.
 
