@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gym-pact.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008222801id_/http%3A//www.gym-pact.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gym-pact.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428071732id_/http%3A//www.gym-pact.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pact
 
