@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the prestigeportraits.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224051205id_/http%3A//www.lifetouch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigeportraits.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428122833id_/http%3A//www.lifetouch.com/privacy) for the most accurate reproduction.*
 
 # Lifetouch Photography Services - Privacy & Terms
 
-### **US Privacy Statement  ** ([Canadian customers click here](http://www.lifetouch.ca/privacy.aspx)) (Your California Privacy Rights)
+**US Privacy Statement  ** ([Canadian customers click here](http://www.lifetouch.ca/privacy.aspx)) (Your California Privacy Rights)
 
-This website (the “Lifetouch Site”) is owned and operated by Lifetouch Inc. (“Lifetouch”) along with its wholly-owned subsidiaries Lifetouch National School Studios Inc., Lifetouch Portrait Studios Inc., Lifetouch Church Directories and Portraits Inc. (U.S. and Canada), Lifetouch Canada Inc., Lifetouch Services Inc. and their divisions doing business as JCPenney Portraits, Target Studios, Olan Mills, Prestige Portraits, Sportography, Flash Digital Portraits and Cilento Photography, (“the Lifetouch Companies”). Lifetouch is a trusted provider of photographic products and services to communities, schools, churches, day care centers and families throughout the United States and Canada. At Lifetouch, we are sensitive to the privacy concerns of visitors to our websites. Though we do not obtain any personal information that individually identifies you (e.g., your name, address, phone number, e-mail address, etc.) unless you affirmatively provide it to us, many visitors do choose to provide us with such information. This policy explains our online information practices pertaining to this website and the choices you, as a visitor to this site, can make about the collection and use of your information.
+This website (the “Lifetouch Site”) is owned and operated by Lifetouch Inc. (“Lifetouch”) along with its wholly-owned subsidiaries Lifetouch National School Studios Inc., Lifetouch Portrait Studios Inc., Lifetouch Church Directories and Portraits Inc. (U.S. and Canada), Lifetouch Canada Inc., Lifetouch Services Inc. and their divisions doing business as JCPenney Portraits, Target Studios,  Prestige Portraits, Sportography, Flash Digital Portraits and Cilento Photography, (“the Lifetouch Companies”). Lifetouch is a trusted provider of photographic products and services to communities, schools, churches, day care centers and families throughout the United States and Canada. At Lifetouch, we are sensitive to the privacy concerns of visitors to our websites. 
+
+This policy explains our online information practices pertaining to this website and the choices you, as a visitor to this site, can make about the collection and use of your information.  Information regarding how Lifetouch National School Studios Inc. uses limited school data to conduct Picture Day at schools is available as follows:
+
+         [FAQ for Parents (pdf)](https://web.archive.org/files/files/Data%20Privacy_Parent%20FAQ_071114.pdf)
+
+         [FAQ for School Records Custodians (pdf)](https://web.archive.org/files/files/Data%20Privacy_School%20FAQ_071114.pdf)
+
+Lifetouch is proud to be among the initial signatories of the [_K-12 School Service Provider Pledge to Safeguard Student Privacy_](http://studentprivacypledge.org/)
 
 #### What personal information is collected at Lifetouch.com? How is it used?
 
@@ -35,9 +43,6 @@ In addition to personal information you provide us through this website, the Lif
 
 A "cookie" is a small data file stored by your web browser on your computer's hard drive. Cookies are necessary to use the site. A cookie allows our web server to balance customer traffic on our website to enhance performance of the service. After you end your session the cookie from the web server will remain on your computer until you manually delete it. No personal information is stored on this cookie. Accepting cookies through your web browser is your personal choice. However, if you choose not to accept cookies, you may not be able to take full advantage of some of this website's features.
 
-With respect to customers of Prestige Portraits, we also partner with Google to deliver advertisements about our products and services when you visit other websites across the Internet. These vendors place third party cookies which help us provide you with advertisements that are customized to your particular product preferences and improve the effectiveness of our marketing efforts. You may opt out of Google cookies by going to the [Google Opt-Out Page](http://www.google.com/ads/preferences/html/opt-out.html) and following the directions indicated on that site.   
-
-
 #### If you do not wish to receive promotional information as a result of using the Lifetouch.com website, what should you do?
 
 Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information or contacts, use the means by which you were contacted to indicate you do not want further promotional information or contacts from them. If contacted by mail, return the mail to sender. If contacted by e-mail, reply to the e-mail sender. If telephoned, notify the person telephoning you that you do not want additional contacts from them.
@@ -46,8 +51,12 @@ We will act promptly to honor your request and remove your name from the sender�
 
 #### Your California Privacy Rights
 
-Under California law, a California resident with whom a Lifetouch Company has an established relationship has the right to request certain information with respect to the types of personal information the company has shared with third parties for their direct marketing purposes, if any, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent by mail or email to our Privacy Office at the address indicated below (“For Further Information”).  
+Under California law, a California resident with whom a Lifetouch Company has an established relationship has the right to request certain information with respect to the types of personal information the company has shared with third parties for their direct marketing purposes, if any, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in sent by email to [privacyoffice@lifetouch.com](mailto:privacyoffice@lifetouch.com).
 
+   
+
+
+Additionally, California residents under 18 who are registered users of a website can remove, or request and obtain removal of, content or information posted by the user on this Site by emailing registered users of a website can remove, or request and obtain removal of, content or information posted by the user on this Site by emailing [privacyoffice@lifetouch.com](mailto:privacyoffice@lifetouch.com) with "California Minor Content Removal Request" on the subject line and in the body of your message. Please specify in your request the URL of the website to which your request relates and the specific information or content you posted for which you are requesting removal.
 
 #### Children
 
@@ -66,4 +75,4 @@ By using the the Lifetouch Site, you consent to our use of your information as d
 
 For further information regarding this website privacy statement or related Lifetouch policies and procedures, please contact: Privacy Office, Lifetouch Inc., 11000 Viking Drive, Eden Prairie, MN 55344; e-mail: [privacyoffice@lifetouch.com](mailto:privacyoffice@lifetouch.com)
 
-Revised August 2012
+Revised February 2015
