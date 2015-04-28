@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallpaperhdfree.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110021938id_/http%3A//wallpaperhdfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperhdfree.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428131122id_/http%3A//wallpaperhdfree.com/privacy-policy) for the most accurate reproduction.*
 
-# PrivacyPolicyHD Wallpapers Free Download
+# PrivacyPolicy
 
 The owners and operators of wallpaperhdfree.com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.  
 **User Accounts**
