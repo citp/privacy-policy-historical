@@ -1,33 +1,564 @@
-<!--The following is the downloaded HTML source of the cheapflightsfares.com privacy policy that was archived on 2014-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141004171910id_/http%3A//www.cheapflightsfares.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheapflightsfares.com privacy policy that was archived on 2015-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150428033256id_/http%3A//www.cheapflightsfares.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy: CheapFlightsFares Best Of Best Privacy Policy </title>
-<meta name="keyword" content="personal information,privacy protection,secure information, privacy policy ">
+<!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js"><head>
+         <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+         <title>Privacy Policy</title>
+         <meta name="keyword" content="cheap cruises, discount cruise packages, cruise vacations, Cruise Ships, Cruises, Cruise Lines ">
+         <meta name="description" content="Find and book cheap flights fares, hotel rooms, car rental and holidays for the US travellers. Using our website you will be agreeing to the website Terms and Conditions, the Privacy Policy.">
+         <link rel="stylesheet" href="css/style.css" type="text/css" media="screen,projection,print">
+         <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen">
+         <link rel="shortcut icon" href="images/txt/favicon.png">
+         <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0027/3156.js?439589" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+         <link rel="stylesheet" href="js/autocomplete/jquery-ui.css">
+         <script src="js/autocomplete/jquery-1.10.2.js"></script>
+         <script src="js/autocomplete/jquery-ui.js"></script>
+         <script>
+       function ObjSelection(clickedObjID) {
+           if (clickedObjID == "ddladt") {
+               document.getElementById("ddlcnn").size = document.getElementById("ddlcnn").options.length;
+               document.getElementById("ddlcnn").style.position = 'absolute';
+               document.getElementById("ddlcnn").style.height = '300px';
+               document.getElementById("ddlcnn").focus();
+           }
+           else if (clickedObjID == "ddlcnn") {
+               document.getElementById("ddlinf").style.height = document.getElementById("ddlinf").style.height;
+               document.getElementById("ddlinf").size = 1;
+               document.getElementById("ddlinf").style.position = 'static';
+               //               document.getElementById("FlightSearch1_calDpt").click();
+           }
+           //           else if (clickedObjID == "FDDate" && (objFlag == 0 || objFlag == 2)) {
+           //               document.getElementById("FlightSearch1_calRtn").click();
+           //           }
+           //           else if (clickedObjID == "FDestTo") {
+           //               document.getElementById("FlightSearch1_calRtn").click();
+           //           }
+       }
 
-<meta name="description" content="Our Customer Privacy policy outlines the way, Cheapflightsfares customers personal information is safe and secure!">
+    
+    </script>
+         <script type="text/javascript">
+                $(document).ready(function () {
+                    $("#txtdep").autocomplete({ source: 'datafromdb.ashx' });
+                });
+         </script>
+         <script type="text/javascript">
+             $(document).ready(function () {
+                 $("#txtret").autocomplete({ source: 'datafromdb.ashx' });
+             });
+         </script>
+         <script type="text/javascript">
+             function validateFlight() {
+                 if (document.getElementById("txtdep").value == "City, region, district or specific airport" || document.getElementById("txtdep").value == "") {
+                     document.getElementById("txtdep").focus();
+                     alert("Please enter departure airport name.");
+                     return false;
+                 }
+                 else if (document.getElementById("txtret").value == "City, region, district or specific airport" || document.getElementById("txtret").value == "") {
+                     document.getElementById("txtret").focus();
+                     alert("Please enter arrival airport name.");
+                     return false;
+                 }
+                 else if (document.getElementById("dptdate").value == "") {
+                     document.getElementById("dptdate").focus();
+                     alert("Please enter departure date.");
+                     return false;
+                 }
+                 else if (document.getElementById("ddladt").value == "" || document.getElementById("ddladt").value == "0" || document.getElementById("ddladt").value == "-1" || document.getElementById("ddladt").value == "-2") {
+                     document.getElementById("ddladt").focus();
+                     alert("Please select number of adult passengers.");
+                     return false;
+                 }
+                 else if (document.getElementById("ddlinf").selectedIndex > 0 && document.getElementById("inftype").selectedIndex == 0) {
+                     document.getElementById("ddlinf").focus();
+                     alert("Please select infant type.");
+                     return false;
+                 }
+                 else if (document.getElementById("retdate").style.display != "none") {
+                     if (CompareDate() == false && document.getElementById("retdate").value != "") {
+                         document.getElementById("retdate").focus();
+                         alert("departure date can not be greather then arrival date.");
+                         return false;
+                     }
 
-<link href="style.css" rel="stylesheet" type="text/css">
+                 }
+                 //             else if (CompareDate() == false && document.getElementById("retdate").value != "" && document.getElementById("retdate").style.display != "none") {
+                 //                     document.getElementById("retdate").focus();
+                 //                     alert("departure date can not be greather then arrival date.");
+                 //                     return false;
+                 //                 }                
+             }
+             function funJrnType(jrnval) {
+                 if (jrnval == '1' || jrnval == 1) {
+                     document.getElementById("jrnType").value = "ONEWAY";
+                     document.getElementById("retdate").style.display = "none";
+                 }
+                 else {
+                     document.getElementById("jrnType").value = "RETURN";
+                     document.getElementById("retdate").style.display = "block";
+                 }
+             }
+             function CompareDate() {
+                 //Note: 00 is month i.e. January
+                 var str = document.getElementById("dptdate").value;
+                 var res = str.split("/");
+
+                 var str2 = document.getElementById("retdate").value;
+                 var res2 = str2.split("/");
+
+                 if (res.length > 0) {
+                     var monthval1 = MonthVal(res[0]);
+                     var monthval2 = MonthVal(res2[0]);
+                     var dateOne = new Date(res[2], monthval1, res[1]); //Year, Month, Date
+                     var dateTwo = new Date(res2[2], monthval2, res2[1]); //Year, Month, Date
+                     if (dateOne > dateTwo) {
+                         return false;
+                     }
+                     return true;
+
+                 }
+                 //else { alert("Date Two is greather then Date One.");}
+             }
+
+             function MonthVal(mthval) {
+                 var monthval;
+                 if (mthval == 0) {
+                     monthval = "00";
+                 }
+                 else if (mthval == 1) {
+                     monthval = "00";
+                 }
+                 else if (mthval == 2) {
+                     monthval = "01";
+                 }
+                 else if (mthval == 3) {
+                     monthval = "02";
+                 }
+                 else if (mthval == 4) {
+                     monthval = "03";
+                 }
+                 else if (mthval == 5) {
+                     monthval = "04";
+                 }
+                 else if (mthval == 6) {
+                     monthval = "05";
+                 }
+                 else if (mthval == 7) {
+                     monthval = "06";
+                 }
+                 else if (mthval == 8) {
+                     monthval = "07";
+                 }
+                 else if (mthval == 9) {
+                     monthval = "08";
+                 }
+                 else if (mthval == 10) {
+                     monthval = "09";
+                 }
+                 else if (mthval == 11) {
+                     monthval = "10";
+                 }
+                 else if (mthval == 12) {
+                     monthval = "11";
+                 }
+                 else {
+                     monthval = mthval;
+                 }
+                 return monthval;
+             }
+         </script>
+         <script type="text/javascript">
+           /* $(function () {
+                $("#dptdate").datepicker({ dateFormat: 'mm/dd/yy' });
+            });
+
+            $(function () {
+                $("#retdate").datepicker({ dateFormat: 'mm/dd/yy' });
+            });*/
+			 $(function () {
+                var dates = $("#dptdate , #retdate").datepicker({
+                    defaultDate: "+1w",
+                    //changeMonth: true,
+                    numberOfMonths: 1,
+                    minDate: 0,
+                    maxDate: "+3Y",
+                    onSelect: function (selectedDate) {
+                        var option = this.id == "dptdate" ? "minDate" : "maxDate",
+                        instance = $(this).data("datepicker");
+                        date = $.datepicker.parseDate(instance.settings.dateFormat || $.datepicker._defaults.dateFormat, selectedDate, instance.settings);
+                        dates.not(this).datepicker("option", option, date);
+                    }
+                });
+            });
+        </script>
+         <script type="text/javascript">
+              function appendInfType(noOfInf) {
+                  if (noOfInf == 1) {
+                      $("#inftype")
+                     .find('option')
+                     .remove()
+                     .end();
+                      var o = new Option("Select", "Select");
+                      $(o).html("Select");
+                      $("#inftype").append(o);
+                      var o = new Option("Infant(in lap)", "1INL");
+                      $(o).html("Infant in lap");
+                      $("#inftype").append(o);
+
+                      var o = new Option("Infant(in Seat)", "1INF");
+                      $(o).html("Infant(in Seat)");
+                      $("#inftype").append(o);
+                      $("#inftype").val("Select").change();
+                  }
+                  else if (noOfInf == 2) {
+                      $("#inftype")
+                     .find('option')
+                     .remove()
+                     .end();
+                      var o = new Option("Select", "Select");
+                      $(o).html("Select");
+                      $("#inftype").append(o);
+
+                      var o = new Option("1 Infant in lap and 1 Infant in seat", "1INL-1INF");
+                      $(o).html("1 Infant in lap and 1 Infant in seat");
+                      $("#inftype").append(o);
+                      if (document.getElementById("ddladt").value > 1) {
+                          var o = new Option("Both infant in lap", "2INL");
+                          $(o).html("Both infant in lap");
+                          $("#inftype").append(o);
+                      }
+                      var o = new Option("Both infant in Seat", "2INF");
+                      $(o).html("Both infant in Seat");
+                      $("#inftype").append(o);
+                      $("#inftype").val("Select").change();
+                  }
+                  else if (noOfInf == 3) {
+                      $("#inftype")
+                     .find('option')
+                     .remove()
+                     .end();
+                      var o = new Option("Select", "Select");
+                      $(o).html("Select");
+                      $("#inftype").append(o);
+
+                      var o = new Option("1 Infant in lap and 2 Infant in seat", "1INL-2INF");
+                      $(o).html("1 Infant in lap and 2 Infant in seat");
+                      $("#inftype").append(o);
+                      if (document.getElementById("ddladt").value > 1) {
+                          var o = new Option("2 Infant in lap and 1 Infant in seat", "2INL-1INF");
+                          $(o).html("2 Infant in lap and 1 Infant in seat");
+                          $("#inftype").append(o);
+                      }
+                      if (document.getElementById("ddladt").value > 2) {
+                          var o = new Option("All infant in lap", "3INL");
+                          $(o).html("All infant in lap");
+                          $("#inftype").append(o);
+                      }
+                      var o = new Option("All infant in Seat", "3INF");
+                      $(o).html("All infant in Seat");
+                      $("#inftype").append(o);
+                      $("#inftype").val("Select").change();
+                  }
+                  else if (noOfInf == 4) {
+                      $("#inftype")
+                     .find('option')
+                     .remove()
+                     .end();
+                      var o = new Option("Select", "Select");
+                      $(o).html("Select");
+                      $("#inftype").append(o);
+
+                      var o = new Option("1 Infant in lap and 3 Infant in seat", "1INL-3INF");
+                      $(o).html("1 Infant in lap and 3 Infant in seat");
+                      $("#inftype").append(o);
+
+                      if (document.getElementById("ddladt").value > 2) {
+                          var o = new Option("3 Infant in lap and 1 Infant in seat", "3INL-1INF");
+                          $(o).html("3 Infant in lap and 1 Infant in seat");
+                          $("#inftype").append(o);
+                      }
+                      if (document.getElementById("ddladt").value > 1) {
+                          var o = new Option("2 Infant in lap and 2 Infant in seat", "2INL-2INF");
+                          $(o).html("2 Infant in lap and 2 Infant in seat");
+                          $("#inftype").append(o);
+                      }
+                      if (document.getElementById("ddladt").value > 3) {
+                          var o = new Option("All infant in lap", "4INL");
+                          $(o).html("All infant in lap");
+                          $("#inftype").append(o);
+                      }
+                      var o = new Option("All infant in Seat", "4INF");
+                      $(o).html("All infant in Seat");
+                      $("#inftype").append(o);
+                      $("#inftype").val("Select").change();
+                  }
+              }
+         
+         </script>
+         <script type="text/javascript">
+             function setinfdefault() {
+                 $("#inftype").val("Select").change();
+             }
 
 
-<!-- Google Code for Analytics Tag -->
-<!--- Start Google Analytics -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
-Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-48461786-1', 'cheapflightsfares.com'); ga('send',
-'pageview');
+             function ObjSelection(clickedObjID) {
+                 if (clickedObjID == "ddladt") {
+                     document.getElementById("ddlcnn").size = document.getElementById("ddlcnn").options.length;
+                     document.getElementById("ddlcnn").style.position = 'absolute';
+                     document.getElementById("ddlcnn").style.height = '300px';
+                     document.getElementById("ddlcnn").focus();
+                 }
+                 else if (clickedObjID == "ddlcnn") {
+                     document.getElementById("ddlinf").style.height = document.getElementById("ddlcnn").style.height;
+                     document.getElementById("ddlinf").size = 1;
+                     document.getElementById("ddlinf").style.position = 'static';
+                     //document.getElementById("FlightSearch1_calDpt").click();
+                 }
+                 else if (clickedObjID == "ddlinf") {
+                     document.getElementById("inftype").style.height = document.getElementById("ddlinf").style.height;
+                     document.getElementById("inftype").size = 1;
+                     document.getElementById("inftype").style.position = 'static';
+                     //document.getElementById("FlightSearch1_calDpt").click();
+                 }
+                 //else if (clickedObjID == "FDDate" && (objFlag == 0 || objFlag == 2)) {
+                    // document.getElementById("FlightSearch1_calRtn").click();
+                 //}
+                // else if (clickedObjID == "FDestTo") {
+                    // document.getElementById("FlightSearch1_calRtn").click();
+                // }
+             }
+         </script>
+         </head>
+         <body style="">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-</script>
-<!-- Google Code for Analytics Tag -->
+  ga('create', 'UA-59197684-1', 'auto');
+  ga('send', 'pageview');
 
+</script> 
+<!--header-->
+<header>
+    <div class="wrap clearfix"> 
+		<!--logo-->
+		<h1 class="logo"><a href="http://www.cheapflightsfares.com/" title="CheapFlightsFares - home"><img src="images/txt/logo.png" alt="CheapFlightsFares"></a></h1>
+		<!--//logo--> 
+    
+		<!--contact-->
+		<div class="contact"> <span class="chat">Live Chat!</span> <span class="number"><a href="tel:1-866-854-8607">1-866-854-8607</a></span> </div>
+		<!--//contact--> 
+	</div>
+           <!--main navigation-->
+    <nav class="main-nav" role="navigation">
+		<ul class="wrap" id="nav">
+               <li style="float:right; text-transform:capitalize; font-weight:lighter;"><a href="contact">Customer Support</a></li>
+               <li style="float:right; border-right:1px solid ccc; text-transform:capitalize; font-weight:lighter;"><a href="https://classic.checkmytrip.com/plnext/XCMTXITN/CleanUpSessionPui.action?LANGUAGE=GB&amp;SITE=XCMTXITN" target="_blank">My Booking</a></li>
+               <li><a href="http://www.cheapflightsfares.com/" title="Home">Home</a></li>
+               <li><a href="flights" title="Flights">Flights</a></li>
+               <li><a href="hotels" title="Hotels">Hotels</a></li>
+               
+               <li><a href="car-rental" title="Car rental">Car rental</a></li>
+               <li><a href="vacations" title="Vacations">Vacations</a></li>
+               <li><a href="cruise" title="Cruises">Cruises</a></li>
+               <li><a href="business-class">Business Class</a></li>
+		</ul><div class="selector" id="uniform-selectnav1" style="width: 244.25px;"><span style="width: 135px; user-select: none;">- Navigation -</span><select class="selectnav" id="selectnav1" style=""><option value="">- Navigation -</option><option value="https://web.archive.org/web/20150428033256id_/http%3A//www.cheapflightsfares.com/contact">Customer Support</option><option value="https://classic.checkmytrip.com/plnext/XCMTXITN/CleanUpSessionPui.action?LANGUAGE=GB&amp;SITE=XCMTXITN">My Booking</option><option value="http://www.cheapflightsfares.com/">HOME</option><option value="https://web.archive.org/web/20150428033256id_/http%3A//www.cheapflightsfares.com/flights">FLIGHTS</option><option value="https://web.archive.org/web/20150428033256id_/http%3A//www.cheapflightsfares.com/hotels">HOTELS</option><option value="https://web.archive.org/web/20150428033256id_/http%3A//www.cheapflightsfares.com/car-rental">CAR RENTAL</option><option value="https://web.archive.org/web/20150428033256id_/http%3A//www.cheapflightsfares.com/vacations">VACATIONS</option><option value="https://web.archive.org/web/20150428033256id_/http%3A//www.cheapflightsfares.com/cruise">CRUISES</option><option value="https://web.archive.org/web/20150428033256id_/http%3A//www.cheapflightsfares.com/business-class">BUSINESS CLASS</option></select></div>
+	</nav>
+    <div class="clearfix"></div>
+	<!--//main navigation--> 
+</header>
+<!--//header-->
+<div class="clearfix"></div>
+
+<!--main-->
+<div class="main" role="main">
+	<div class="wrap clearfix"> 
+		<!--main content-->
+		<div class="content clearfix"> 
+            <!--breadcrumbs-->
+             <nav role="navigation" class="breadcrumbs clearfix"> 
+				<!--crumbs-->
+				<ul class="crumbs">
+                   <li><a href="index.aspx" title="Home">Home</a></li>
+                   <li>Privacy Policy</li>
+                </ul>
+				<!--//crumbs--> 
+			</nav>
+            <!--//breadcrumbs--> 
+               
+            <!--three-fourth content-->
+            <section class="one-full">
+				<h1>Privacy Policy</h1>
+				<h2>Your Privacy is our Key Concern </h2>
+				<article style="font-size:1.4em; text-transform:capitalize;">
+                   <p>Cheap Flights Fares stands tall with its commitment to protecting your privacy. Our policies are compliant to privacy requirements including transparency, responsibility and relevant use of your personal information so as to take along satisfied clientele through our journey to success. 
+				   </p>
+                   
+					<p></p><h3>Protecting Your Personal Information </h3>
+					   We adopt the highest level of privacy when it comes to protecting your private and personal information. Whenever you buy any kind of travel products from our website including cheap flights, discounted hotel packages, competitive vacation packages or cheap car rentals, we ensure that your filled personal details are in a safe online reservoir. Whatever details you fill in, your name, contact details and date of birth, it is sure to stay private throughout.<br>
+					   Furthermore, the most sensitive information that is your credit card details is also safe with our website. We use the most trusted payment gateway so that such sensitive information does not get leaked out and is used for only the specified transaction. We do not sell, share, or trade any of your personal details or credit details to third parties and if required for some pertinent use, your prior consent is our top most priority.<br>
+					   The complete process of registering a new account, signing up to an existing account or buying a travel product is all taken care with ease and convenience in a safe environment.<p></p>
+                   <p><strong>Wise Use of Your Personal Information </strong> As and now we do use your personal details like your email id, mobile number and your contact address but only to get in touch with you so as to keep you updated with our latest promotional offer, discount packages, or flight deals. We do get in touch with you to introduce our special offers that may fall into your interest wishlist. We also contact you to listen to your complaints and understand your issues so as to keep ourselves ongoing with what satisfies our clients. At any point of time you feel you need not be updated with such special offers and promotional packages, do get in touch with us at <a href="mailto:support@cheapflightsfares.com">support@cheapflightsfares.com</a> and make a request for the same. You may also opt for the unsubscribe instructions mentioned on our email if you don’t wish to receive our emails or newsletters anymore.
+					
+					<br>
+					<br>
+						Furthermore, we are compelled to use your personal details with corporate services that work in conjunction with our operations. The third parties coined under this kind of corporate services include credit card processing company, finance management firm, call centre services, marketing personnel, customer care department, fraud prevention corporate services and content organizations. They too follow the same privacy policies as we do in compliance with all the legal regulations.<br>
+						Rest all your personal details are not used without your permission.</p> 
+					
+					
+					<p></p><h3>Highest Level of Security </h3>
+					   When it comes to security of your private and personal information, we are committed to providing the highest level of security. The trusted and verified payment gateway is the backbone to our promise of security.<br>
+					   When you enter your credit card details for payments on our website we encrypt the sensitive information on a secure server using a high-grade data encryption key. However, if you get any warning message during the payment process there is a possibility that you are switching over from a secure server or there maybe some web issue. In that case do follow the warning instructions or get in touch us with immediate response.<br>
+					   Further to that, we also use third-party tracking system that keeps away all the fraudulent entries to the websites and information that is non-personally identifiable.<br>
+					   However, your privacy and security of your private and personal information is our foremost duty and responsibility as well, we cannot guarantee 100% safety. This is because any mode of transmission or any communication over the internet can never be 100% secure. Although we maintain the highest degree of security we do recommend you to change your password on and often and maintain passwords that are difficult to hack. Passwords like your name or birth date are most dangerous while complicated passwords with a mix of alphabets and numbers are secure enough to maintain your privacy.<p></p>
+					
+					
+					<p></p><h3>Legal Obligations </h3>
+						Although maintain the privacy of your private information is our key concern we are bounded to disclose the same under legal issues. We do reserve the right to disclose the information if in case it is required for any kind of judicial proceedings or legal process so as to maintain the dignity and standard of our website on the world wide web.<p></p>
+					
+					
+					<p></p><h3>Amendments in the Privacy Policy </h3>
+					   At any point of time, we may and we can amend the privacy policy of our operations. Time and again it is important to alter the policies to ensure that the website operations and all the business activities are carrying out seamlessly. We strive to move on with client’s satisfaction in a way that we are able to serve the global travel needs under one umbrella.
+					   For all your queries and issues, trust we are always here. You can get in touch with Cheap Flights Fares at: <br>
+					   <br><p></p>
+					
+                   <p>Customer Care Number: <a href="tel:1-877-400-7559">1-(877) 400 7559</a></p>
+                   <p>Email Id: <a href="mailto:support@cheapflightsfares.com">support@cheapflightsfares.com</a></p>
+                   
+                   <br>
+                   <br>
+                   <h4>3100 E 45th St #310,<br>
+            Cleveland, OH 44127, USA</h4>
+                 </article>
+      </section>
+               <!--three-fourth content--> 
+               
+               <!--//sidebar--> 
+             </div>
+    <!--//main content--> 
+  </div>
+         </div>
+
+<!--footer-->
+<footer>
+           <div class="wrap clearfix"> 
+    <!--column-->
+    <article class="one-fourth">
+               <h3>CHEAP FLIGHTS FARES LLC</h3>
+               <p><strong>HEADQUARTER:</strong> 39 O'shea Crescent, Ajax, ON, L1T 4W7, CANADA</p>
+               <p><strong>USA:</strong> 3100 E 45th St #310,Cleveland, OH 44127, USA</p>
+               <p><em>P:</em> Call for reservation: <a href="tel:1-866-854-8607">1-866-854-8607</a></p>
+               <p><em>E:</em> <a href="mailto:support@cheapflightsfares.com" title="support@cheapflightsfares.com">support@cheapflightsfares.com </a></p>
+             </article>
+    <!--//column--> 
+    
+    <!--column--> 
+    
+    <!--//column--> 
+    
+    <!--column-->
+    <article class="one-fourth last" style="float:right;">
+               <h3>Follow us</h3>
+               <ul class="social">
+        <li class="facebook"><a href="https://www.facebook.com/cheapflightsfares" title="facebook">facebook</a></li>
+        <li class="youtube"><a href="https://www.youtube.com/user/cheapflightsfares" title="youtube">youtube</a></li>
+        <!--  <li class="rss"><a href="#" title="rss">rss</a></li>
+        <li class="linkedin"><a href="#" title="linkedin">linkedin</a></li>-->
+        <li class="googleplus"><a href="https://plus.google.com/+Cheapflightsfares/posts" title="googleplus">googleplus</a></li>
+        <li class="twitter"><a href="https://twitter.com/cheapflightsfrs" title="twitter">twitter</a></li>
+        <li class="pinterest last"><a href="http://www.pinterest.com/cheapflightsfrs/" title="pinterest">pinterest</a></li>
+      </ul>
+             </article>
+    <!--//column-->
+    
+    <section class="bottom">
+               <nav>
+        <ul>
+                   <li class="first"><a href="about-us" title="About us">About us</a></li>
+                   <li><a href="contact" title="Contact">Contact</a></li>
+                   <li><a href="http://www.cheapflightsfares.com/blogs/" target="_blank" title="Blog">Blog</a></li>
+                   <li><a href="faq.html" title="FAQ">FAQ</a></li>
+                   <li><a href="taxes-fees" title="Taxes &amp; Fees">Taxes &amp; Fees</a></li>
+                   <li><a href="privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+                   <li><a href="terms-conditions" title="terms &amp; conditions">Terms &amp; Conditions</a></li>
+                   <li><a href="sitemap" title="sitemap">Sitemap</a></li>
+                 </ul>
+      </nav>
+               <p class="copy">Copyright 2015 Cheap Flights Fares llc. All rights reserved</p>
+             </section>
+    
+    <!--column--> 
+  </div>
+           <!-- Policy -->
+           <div class="policy">
+    <div class="wrap">
+               <div style="text-align:center;"><img src="images/uploads/icons_icons.jpg" alt=""></div>
+               <br>
+               <p>* Cheap Flights Fares solely act as agent creating a bridge between travelers and suppliers of travel services including tour companies, airlines, hotels and cab services. We do not own or manage <br>
+        &nbsp;&nbsp;&nbsp;any kind of travel services, therefore it is very important to know our disclaimer and accept the same.</p>
+               <ul>
+        <li>→ Cheap Flights Fares will not be responsible for any kind of delays and cancellations.</li>
+        <li>→ Cheap Flights Fares will not be responsible for any kind of delays and cancellations.</li>
+        <li>→ You can attain a discount up to 80% on the actual fare but that discounted price will always stay non-refundable in case of cancellation.</li>
+        <li>→ The discounts are available based on travel dates, blackout dates, off-season period and advance bookings. However, the same discounts will not be available for last minute travel bookings or <br>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bookings made at a later stage</li>
+        <li>→ Displayed fares are subject to change without prior notice. We are not liable to answer any query or justify for the same.</li>
+        <li>→ All displayed fares are inclusive of fuel surcharge, service tax and actual flight fare. We you proceed with your travel bookings, you confirm to pay the specified amount.</li>
+        <li>→ We do provide promotional offers and schemes on the go. You can use the promo code and other offers till the date indicated. However, we hold the authority to withdraw the scheme at any <br>
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;period of time.</li>
+        <li>→ For excess savings, you do not hold the right to combine two promotional offers or discount schemes. </li>
+        <li>→ Fluctuations in flight fares, hotel rates, fuel surcharge and other price differentials for travel deals is solely the choice of suppliers. We are not to be held responsible for the same.</li>
+      </ul>
+               <p style="margin-top:15px;">Cheap Flights Fares is here to make your travel easier and better through a convenient mode and that’s what we do with full dedication.</p>
+             </div>
+  </div>
+           <!-- End Policy --> 
+           <!--//column--> 
+           <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0027/3156.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
+         </footer>
+<!--//footer--> 
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script> 
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> 
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script> 
+<script type="text/javascript" src="js/modernizr.js"></script> 
+<script type="text/javascript" src="js/sequence.jquery-min.js"></script> 
+<script type="text/javascript" src="js/jquery.uniform.min.js"></script> 
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script> 
+<script type="text/javascript" src="js/sequence.js"></script> 
+<script type="text/javascript" src="js/selectnav.js"></script> 
+<script type="text/javascript" src="js/scripts.js"></script> 
+<script type="text/javascript">	
+		$(document).ready(function(){
+			$(".form").hide();
+			$("#form4").show();
+			$(".f-item:nth-child(5)").addClass("active");
+			$(".f-item:nth-child(5) span").addClass("checked");
+		});
+	</script> 
+<script>selectnav('nav'); </script> 
 
 <!-- Google Code for Remarketing Tag -->
 
+<script type="text/javascript">
+var google_tag_params = {
+travel_destid: 'REPLACE_WITH_VALUE',
+travel_originid: 'REPLACE_WITH_VALUE',
+travel_startdate: 'REPLACE_WITH_VALUE',
+travel_enddate: 'REPLACE_WITH_VALUE',
+travel_pagetype: 'REPLACE_WITH_VALUE',
+travel_totalvalue: 'REPLACE_WITH_VALUE',
+};
+</script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 971782997;
@@ -39,3020 +570,9 @@ var google_remarketing_only = true;
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt=""
-src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/971782997/?value=0&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/971782997/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-
 <!-- Google Code for Remarketing Tag -->
-
-
-
-
-
-</head>
-
-<body style="">
-
-
-
-
-
-
-
-
-<div id="container_head"> <!-- START container_head-->
-
-<div id="header"><!-- START Header-->
-
-<div id="logo">
-
-<a href="index.html"><img src="images/logo.png"></a>
-
-</div>
-
-
-
-
-
-
-
-
-
-<div id="divheaderright">
-
-
-
-
-
-
-
-
-
-
-
-<table>
-
-
-
-<tbody><tr>
-
-<td class="tollfree"> <img src="images/livechat.png"> <a href="javascript:void(window.open('http://www.cheapflightsfares.com/livezillaRe/chat.php?a=8f414','','width=590,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_cbl"> Live chat </a></td> <td>&nbsp;&nbsp;&nbsp;<img src="images/call1.png"> </td> <td class="sms">1-(866) 854 8607</td> <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/flag.jpg"> </td>
-
-</tr>
-
-</tbody></table>
-
-
-
-
-
-<!--
-
-<table>
-
-<tr>
-
-<td>&nbsp;</td> <td class="sms"> <a href="#" style="font-size:16px; font-weight:lighter;">Call Us Toll Free For Cheapest Fares</a></td>
-
-</tr>
-
-</table>
-
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-<table align="right"cellspacing="8">
-
-
-
-<tr>
-
-<td class="Balance">Available Balance: 00,000 &nbsp;&nbsp;<img src="images/line.jpg"/></td>
-
-<td class="Balance">Due: 0&nbsp;&nbsp;<img src="images/line.jpg"/></td>
-
-<td class="Balance">Credit Limit: 00,000</td>
-
-</tr>
-
-
-
-</table>
-
-
-
--->
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="menu">
-
-
-
-<div id="nav">
-
-
-
-<ul id="nav">
-
-	<li><a href="index.html" class="current"><img src="images/home-icon.png" width="19px"></a></li>
-
-	<li><a href="flights.html">Flights</a></li>
-
-	
-
-		
-
-	
-
-	<li><a href="hotels.html">Hotels</a></li>
-
-	
-
-	   
-
-    
-
-	<li><a href="cars.html">Cars</a></li>	
-
-	
-
-         
-
-	<li><a href="cruise-deals.html">Cruises</a></li>
-
-	
-
-	<li><a href="vacations.html">Vacations</a></li>
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	<li><a href="#">More<img src="images/drop.PNG"></a>
-
-
-
-<ul>
-
-<li><a href="business-class.html">Business Class</a></li>
-
-<!--
-
-<li><a href="#">Group Travel</a></li>-->
-
-<li><a href="https://classic.checkmytrip.com/plnext/XCMTXITN/CleanUpSessionPui.action?LANGUAGE=GB&amp;SITE=XCMTXITN" target="_blank">My Booking</a></li>
-
-</ul>
-
-
-
-</li>
-
-
-
-	
-
-
-
-</ul>
-
-</div>
-
-
-
-
-
-</div>
-
-
-
-
-
-
-</div><!-- and Header-->
-
-</div><!-- and container_head-->
-
-
-
-
-<!--
-<div id="container_menu">
-
-
-</div>
--->
-
-
-
-
-<div id="container_webbody"> <!-- start container_webbody-->
-<div id="webbody"><!-- START webbody-->
-
-
-
-<div id="leftdivcontactus"><!-- START leftdivcontactus-->
-<p class="contact">PRIVACY POLICY</p>
-
-</div><!-- and leftdivcontactus-->
-
-
-
-
-<div id="map" class="aboutteax"><!-- START map-->
-
-<p> <samp class="orr">Your Privacy is our Key Concern</samp> <br>
-Cheap Flights Fares stands tall with its commitment to protecting your privacy. Our policies are compliant to privacy requirements including transparency, responsibility and relevant use of your personal information so as to take along satisfied clientele through our journey to success.
-<br><br>
-
-
-
-<samp class="orrorr">Protecting Your Personal Information</samp> <br>
-We adopt the highest level of privacy when it comes to protecting your private and personal information. Whenever you buy any kind of travel products from our website including cheap flights, discounted hotel packages, competitive vacation packages or cheap car rentals, we ensure that your filled personal details are in a safe online reservoir. Whatever details you fill in, your name, contact details and date of birth, it is sure to stay private throughout.<br><br>
-
-
-Furthermore, the most sensitive information that is your credit card details is also safe with our website. We use the most trusted payment gateway so that such sensitive information does not get leaked out and is used for only the specified transaction. We do not sell, share, or trade any of your personal details or credit details to third parties and if required for some pertinent use, your prior consent is our top most priority.<br><br>
-
-
-The complete process of registering a new account, signing up to an existing account or buying a travel product is all taken care with ease and convenience in a safe environment.
-
-
-<br><br>
-
-
-
-<samp class="orrorr">Wise Use of Your Personal Information</samp> <br>
-As and now we do use your personal details like your email id, mobile number and your contact address but only to get in touch with you so as to keep you updated with our latest promotional offer, discount packages, or flight deals. We do get in touch with you to introduce our special offers that may fall into your interest wishlist. We also contact you to listen to your complaints and understand your issues so as to keep ourselves ongoing with what satisfies our clients. At any point of time you feel you need not be updated with such special offers and promotional packages, do get in touch with us at ____ (email id) and make a request for the same. You may also opt for the unsubscribe instructions mentioned on our email if you don’t wish to receive our emails or newsletters anymore.
-<br><br>
-
-Furthermore, we are compelled to use your personal details with corporate services that work in conjunction with our operations. The third parties coined under this kind of corporate services include credit card processing company, finance management firm, call centre services, marketing personnel, customer care department, fraud prevention corporate services and content organizations. They too follow the same privacy policies as we do in compliance with all the legal regulations.<br><br>
-
-
-Rest all your personal details are not used without your permission. 
- 
-<br><br>
-
-
-
-<samp class="orrorr">Highest Level of Security</samp> <br>
-When it comes to security of your private and personal information, we are committed to providing the highest level of security. The trusted and verified payment gateway is the backbone to our promise of security. <br><br>
-
-When you enter your credit card details for payments on our website we encrypt the sensitive information on a secure server using a high-grade data encryption key. However, if you get any warning message during the payment process there is a possibility that you are switching over from a secure server or there maybe some web issue. In that case do follow the warning instructions or get in touch us with immediate response.<br><br>
-Further to that, we also use third-party tracking system that keeps away all the fraudulent entries to the websites and information that is non-personally identifiable. 
-<br><br>
-However, your privacy and security of your private and personal information is our foremost duty and responsibility as well, we cannot guarantee 100% safety. This is because any mode of transmission or any communication over the internet can never be 100% secure. Although we maintain the highest degree of security we do recommend you to change your password on and often and maintain passwords that are difficult to hack. Passwords like your name or birth date are most dangerous while complicated passwords with a mix of alphabets and numbers are secure enough to maintain your privacy. 
-
-<br><br>
-
-
-<samp class="orrorr">Legal Obligations</samp> <br>
-Although maintain the privacy of your private information is our key concern we are bounded to disclose the same under legal issues. We do reserve the right to disclose the information if in case it is required for any kind of judicial proceedings or legal process so as to maintain the dignity and standard of our website on the world wide web.
-<br><br>
-
-<samp class="orrorr">Amendments in the Privacy Policy</samp> <br>
-At any point of time, we may and we can amend the privacy policy of our operations. Time and again it is important to alter the policies to ensure that the website operations and all the business activities are carrying out seamlessly. We strive to move on with client’s satisfaction in a way that we are able to serve the global travel needs under one umbrella.<br>
-
-For all your queries and issues, trust we are always here. You can get in touch with Cheap Flights Fares at:
-
-
-<br><br>
-
-</p><p> <samp class="orr">Customer Care Number:  ____________</samp> <br>
-<samp class="orr">Email Id: ______________</samp></p><br>
-
-
-<samp class="orr">Corporate Headquarters: <br>
-39 O'Shea Crescent, Ajax<br>
-Ontario, L1T4W7, Canada</samp> <br>
-
-
-<p></p>
-
-
-</div><!-- and map-->
-
-
-
-
-
-
-</div><!-- and webbody-->
-</div><!-- and container_webbody-->
-
-
-
-
-
-
-
-
-
-<div id="container_footer_up"><!-- START container_footer_up-->
-
-<div id="footer_up"><!-- START footer_up-->
-
-<script language="javascript">
-function getXMLHTTP() { //fuction to return the xml http object
-    	var xmlhttp=false;	
-		try{
-			xmlhttp=new XMLHttpRequest();
-		}
-		catch(e)	{		
-			try{			
-				xmlhttp= new ActiveXObject("Microsoft.XMLHTTP");
-			}
-			catch(e){
-				try{
-				xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
-				}
-				catch(e1){
-					xmlhttp=false;
-				}
-			}
-		}
-		 	
-		return xmlhttp;
-    }
-
-function showPreviousNews(id) {	
-//alert('dfdf');
-	
-	//alert(id);
-		var strURL="operation.php?action="+id;
-		//alert(strURL);
-		var req = getXMLHTTP();
-		
-		if (req) {
-			
-			req.onreadystatechange = function() {
-				if (req.readyState == 4) {
-					// only if "OK"
-					if (req.status == 200) {	
-//alert(req.responseText);					
-						document.getElementById('abc').innerHTML=req.responseText;						
-					} else {
-						alert("There was a problem while using XMLHTTP:\n" + req.statusText);
-					}
-				}				
-			}			
-			req.open("GET", strURL, true);
-			req.send(null);
-		}		
-	}
-    
-//showNextNews    
-    
-</script>
-
-<!--<div id="our">
-
-<table align="left"cellspacing="8">
-
-<tr>
-<td class="our"><a href="#"><img src="images/eroiconl.png"/>&nbsp;&nbsp;Our global sites &nbsp;&nbsp;</a></td>
-<td class="our"><a href="#"><img src="images/eroiconl.png"/>&nbsp;&nbsp;Top hotel destinations &nbsp;&nbsp;</a></td>
-<td class="our"><a href="#"><img src="images/eroiconl.png"/>&nbsp;&nbsp;Top vacation spots</a></td>
-
-
-</tr>
-
-</table>
-
-</div> -->
-
-
-
-
-
-<div id="footerdiv4">
-
-
-<div id="Travel1">
-
-
-
-</div>
-
-
-<div id="Travel4">
-
-
-
-
-
-
-
-
-
-</div>
-
-<div id="latest_news">
-
-
-<table>
-<tbody><tr>
-<td class="iconnn"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Latest News</td>
-</tr>
-
-</tbody></table>
-
-
-<div id="latest" class="newsss">
- 
-<!-- 
- 
-<marquee behavior="scroll" scrollamount="3" direction="up" height="150px">
-<p class="newsss">  
- </p></marquee> -->
-
-
-<!--<table  cellpadding="8">
-<tr id='abc'>
-<td> <img src="images/move_icon_left.png" onclick="showPreviousNews(-1);"/> </td>     
-<td height='50' style="text-align:left;" ></td>       
-<td> <img src="images/move_icon_right.png" onclick="showPreviousNews(1);"/> </td>   
-</tr>
-</table> -->
-
-
-
-<!-- Let's create simple text-slider for testimonials -->
-
-<style>
-/* this is our container. Lets imagine, that it is our sidebar where we want to put testimonials */
-.container {
-    width:450px;
-	margin:20px;
-   overflow:hidden;
-}
-
-
-/* testimonials slider geometry */
-.tsl {
-	
-	padding: 5px;
-height: 60px;
-margin-top: -20px;
-}
-.tsl-list {
-	list-style-type:none;
-	margin:0;
-	padding:0;
-	position:relative;
-     font-size:20px;
-    font-family:arial;
-	
-}
-.tsl-item {
-	position:relative;
-	top:0;
-	left:100%;
-	margin-left:-100%;
-	width:100%;
-	float:left;
-	animation: tsl-fade-in-out 25s infinite;
-	animation-play-state:running;
-   
-}
-
-/* lets hide all items from second */
-.tsl-item + .tsl-item {
-	opacity:0;
-}
-
-/* animation */
-
-/* animation shift */
-/* negative delay needed to pause works correctly on hover */
-.tsl-item:nth-child(2) {
-	animation-delay: -20s;
-}
-.tsl-item:nth-child(3) {
-	animation-delay: -15s;
-}
-.tsl-item:nth-child(4) {
-	animation-delay: -10s;
-}
-.tsl-item:nth-child(5) {
-	animation-delay: -5s;
-}
-/*
-we have 5 items.
-we want each slide plays ≈5s
-
-each slide will play 1/5 of animation = 20%
-1% of animation is for transitions (fading)
-*/
-
-@keyframes tsl-fade-in-out {
-	0% {
-		opacity:0;
-		z-index:2;
-	}
-	1% {
-		opacity:1;
-		z-index:2;
-	}
-	20% {
-		opacity:1;
-	}
-	21% {
-		opacity:0;
-		z-index:1;
-	}
-	100% {
-		opacity:0;
-	}
-}
-
-/* pause on hover */
-.tsl-list:hover .tsl-item {
-	animation-play-state:paused;
-}
-
-/* testimonials theme */
-.tsl-content {
-	font: 12px/1.4 Arial;
-}
-.tsl-content p {
-	margin-top:0;
-}
-.tsl-meta {
-	font: 11px/1.4 Arial;
-	text-align:right;
-}
-.tsl-meta p {
-	margin-bottom:0;
-}
-
-/* thats all */
-
-
-</style>
-<div class="container">
-    
-	<!-- testimonials begin -->
-	<div class="tsl">
-	  <ul class="tsl-list">
-      	    <li class="tsl-item">
-	      <article class="tsl-content">
-					<p></p><p>Best Spa Hotels and Resorts at Thailand’s Key Destinations<br><br>&nbsp;&nbsp; &nbsp;<br>&nbsp;&nbsp;</p><p></p>
-				</article>
-	     <aside class="tsl-meta">
-					<p><a href="#"></a><br>
-				 </p>
-				</aside>
-	    </li>
-		    <li class="tsl-item">
-	      <article class="tsl-content">
-					<p></p><p>Best Spa Hotels and Resorts at Thailand’s Key Destinations!<br>Jan 24, 2014<br><br><br></p><p></p>
-				</article>
-	     <aside class="tsl-meta">
-					<p><a href="#"></a><br>
-				 </p>
-				</aside>
-	    </li>
-		    <li class="tsl-item">
-	      <article class="tsl-content">
-					<p></p><p><br>Best Spa Hotels and Resorts at Thailand’s Key Destinations<br>Thailand is home to some of the<br><br></p><p></p>
-				</article>
-	     <aside class="tsl-meta">
-					<p><a href="#"></a><br>
-				 </p>
-				</aside>
-	    </li>
-		    <li class="tsl-item">
-	      <article class="tsl-content">
-					<p></p><p>Best Spa Hotels and Resorts at Thailand’s Key Destinations!<br>Jan 24, 2014</p><p></p>
-				</article>
-	     <aside class="tsl-meta">
-					<p><a href="#"></a><br>
-				 </p>
-				</aside>
-	    </li>
-		    <li class="tsl-item">
-	      <article class="tsl-content">
-					<p></p><p>Thailand is home to some of the finest spa hotels. Its key</p><p></p>
-				</article>
-	     <aside class="tsl-meta">
-					<p><a href="#"></a><br>
-				 </p>
-				</aside>
-	    </li>
-	 
- 
-    
-	  </ul>
-	</div>
-	<!-- testimonials end -->
-	
-
-	<div id="tfheader">
-    
-    
-    <div class="boxxx">
-Sign up now and Book today Deals 
-
-</div>
-    
-    
-    
-		<form id="tfnewsearch" method="post" action="news.php">
-		        <input type="text" class="tftextinput" name="email" size="25" maxlength="50"><input type="submit" value="Sign up" class="tfbutton">
-		</form>
-	<div class="tfclear"></div>
-	</div>
-</div>
-
-
-
-
-</div>
-
-
-
-
-</div>
-
-
-
-
-
-
-<div id="Travel2">
-
-
-<div id="iconftl">
-
-<table>
-<tbody><tr>
-<td class="iconnn">Connect with Us</td>
-</tr>
-
-</tbody></table>
-
-<br>
-
-
-<a href="https://www.facebook.com/cheapflightsfares" target="_blank"><img src="images/f2.png" onmouseover="this.src='images/f.png'" onmouseout="this.src='images/f2.png'"></a>
-
-
-<a href="https://plus.google.com/+Cheapflightsfares/posts" target="_blank"><img src="images/g2.png" onmouseover="this.src='images/g.png'" onmouseout="this.src='images/g2.png'"></a>
-
-<a href="https://twitter.com/cheapflightsfrs" target="_blank"><img src="images/t2.png" onmouseover="this.src='images/t.png'" onmouseout="this.src='images/t2.png'"></a>
-
-
-
-
-
-
-<a href="https://www.youtube.com/user/cheapflightsfares" target="_blank"><img src="images/in2.png" onmouseover="this.src='images/in.png'" onmouseout="this.src='images/in2.png'"></a>
-
-
-<a href="http://cheapflightsfrs.blogspot.com" target="_blank"><img src="images/sk2.png" onmouseover="this.src='images/sk.png'" onmouseout="this.src='images/sk2.png'"></a>
-
-<a href="http://www.pinterest.com/cheapflightsfrs/" target="_blank"><img src="images/pin2.png" onmouseover="this.src='images/pin.png'" onmouseout="this.src='images/pin2.png'"></a>
-
-
-
-
-
-
-
-
-</div>
-
-
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-<!--
-<div id="Travel2"><table>
-
-<tr>
-<td class="Travelwith">Get to know CFF</td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">How Hotwire works</a></td>
-</tr>
-
-
-<tr>
-<td class="Travelwith2"><a href="#">Careers</a></td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">Help center</a></td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">Press room</a></td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">Affiliates</a></td>
-</tr>
-
-
-<tr>
-<td class="Travelwith2"><a href="#">Suppliers</a></td>
-</tr>
-
-
-<tr>
-<td class="Travelwith2"><a href="#">Developers</a></td>
-</tr>
-
-
-<tr>
-<td class="Travelwith2"><a href="#">Advertisers</a></td>
-</tr>
-
-
-
-</table>
-</div>
--->
-
-
-
-
-
-
-<!--
-<div id="Travel3"><table>
-
-<tr>
-<td class="Travelwith">CFF</td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">Car Rentals</a></td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">Travel Partners</a></td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">Expedia</a></td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">Vacations</a></td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">Activities</a></td>
-</tr>
-
-<tr>
-<td class="Travelwith2"><a href="#">Classic Vacations</a></td>
-</tr>
-
-
-<tr>
-<td class="Travelwith2"><a href="#">Trip Advisor</a></td>
-</tr>
-
-
-<tr>
-<td class="Travelwith2"><a href="#">Egencia</a></td>
-</tr>
-
-
-</table>
-</div> -->
-
-
-
-
-</div>
-
-
-
-
-
-
-
-</div><!-- and footer_up-->
-
-</div><!-- and container_footer_up-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="container_footer"><!-- START container_footer-->
-
-<div id="footer"><!-- START footer-->
-
-<!--<div id="our">
-
-
-
-<table align="left"cellspacing="8">
-
-
-
-<tr>
-
-<td class="our"><a href="#"><img src="images/eroiconl.png"/>&nbsp;&nbsp;Our global sites &nbsp;&nbsp;</a></td>
-
-<td class="our"><a href="#"><img src="images/eroiconl.png"/>&nbsp;&nbsp;Top hotel destinations &nbsp;&nbsp;</a></td>
-
-<td class="our"><a href="#"><img src="images/eroiconl.png"/>&nbsp;&nbsp;Top vacation spots</a></td>
-
-
-
-
-
-</tr>
-
-
-
-</table>
-
-
-
-</div> -->
-
-
-
-
-
-
-
-<link rel="stylesheet" type="text/css" media="all" href="css/stylesff.css">
-
-  <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
-
-
-
-
-
-<div id="footerdiv4">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="Travel1">
-
-
-
-<table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn">Easy Access</td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td> </td>
-
-</tr>
-
-
-
-</tbody></table>
-
-
-
-  <div id="w" class="clearfix">
-
-    <ul id="sidemenu">
-
-      <li>
-
-        <a href="#home-contentt" class="open"><strong>Quick Links</strong></a>
-
-      </li>
-
-
-
-<!--      <li>
-
-        <a href="#about-contentt"></i><strong>Popular Airlines</strong></a>
-
-      </li>
--->
-      
-
-      <li>
-
-        <a href="#ideas-contentt"><strong>Popular Flight Routes</strong></a>
-
-      </li>
-
-      
-
-      <li>
-
-        <a href="#contact-contentt"><strong>Site Directories</strong></a>
-
-      </li>
-
-      
-
-     
-
-           
-
-    </ul>
-
-    
-
-        
-
- <div id="contentt">
-
- 
-
- 
-
- 
-
-<div id="home-contentt" class="contenttblock">
-
-
-
-
-
-          <div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="stay_connected">BOOK</td>
-
-</tr>
-
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights.html" target="_blank">Flights</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="hotels.html" target="_blank">Hotels</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="cars.html" target="_blank">Cars</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="cruise-deals.html" target="_blank">Cruises</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="vacations.html" target="_blank">Vacations</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="http://www.cheapflightsfares.com/business-class.html" target="_blank">Business Class</a></td>
-
-</tr>
-
-<!--
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#" target="_blank">Group Travel</a></td>
-
-</tr>-->
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="https://classic.checkmytrip.com/plnext/XCMTXITN/CleanUpSessionPui.action?LANGUAGE=GB&amp;SITE=XCMTXITN" target="_blank">My Booking</a></td>
-
-</tr>
-
-
-
-
-
-</tbody></table>
-
-          </div>
-
-          
-
-          
-
-          
-
-          
-
- <div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="stay_connected">TRAVELER TOOLS</td>
-
-</tr>
-
-
-
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="https://classic.checkmytrip.com/plnext/XCMTXITN/CleanUpSessionPui.action?LANGUAGE=GB&amp;SITE=XCMTXITN" target="_blank">My Booking</a></td>
-
-</tr>
-
-
-
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="guides.php" target="_blank">Guides</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="airport.html" target="_blank">Airports</a></td>
-
-</tr>
-
-
-
-
-
-<!--<tr>
-
-<td class="Travelwith2_new"><a href="airlines.html" target="_blank">Airlines</a></td>
-
-</tr>
--->
-
-
-<!--<tr>
-
-<td class="Travelwith2_new"><a href="#" target="_blank">Support</a></td>
-
-</tr>-->
-
-
-
-
-
-
-
-</tbody></table>
-
-          </div>
-
-          
-
-          
-
-          
-
-          
-
-          
-
-          
-
-          
-
-<div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="stay_connected">STAY CONNECTED</td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="https://www.facebook.com/pages/Cheap-Flights-Fares/732878673397640" target="_blank">Facebook</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="https://plus.google.com/u/0/115142856728761667418/posts" target="_blank">Google+</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="https://twitter.com/cheapflightsfrs" target="_blank">Twitter</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="http://www.youtube.com/channel/UCnqP4YLgVrVXl3kszCB1yKQ" target="_blank">YouTube</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="http://www.cheapflightsfares.com/blogs/" target="_blank">Blog</a></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="http://www.pinterest.com/cheapflightsfrs/" target="_blank">Pinterest</a></td>
-
-</tr>
-
-
-
-
-
-</tbody></table>
-
-          </div>   
-
-          
-
-          
-
-                          
-
-          
-
-</div><!-- @end #Quick Links-content -->
-
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-
-<div id="about-contentt" class="contenttblock hidden">
-
-          <div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="airlines/Aer Lingus.html">Aer Lingus</a></td>
-
-</tr>
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="airlines/Aeromexico.html">Aeromexico</a></td>
-
-</tr>
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="airlines/Air Berlin.html">Air Berlin</a></td>
-
-</tr>
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="airlines/Air Canada.html">Air Canada</a></td>
-
-</tr>
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="airlines/Cathay Pacific Airways.html">Cathay Pacific Airways</a></td>
-
-</tr>
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="airlines/Emirates.html">Emirates</a></td>
-
-</tr>
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="airlines/Etihad Airways.html">Etihad Airways</a></td>
-
-</tr>
-
-
-
-
-
-
-
-
-</tbody></table>
-
-          </div>
-
-		  
-
-		  
-
-   <div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-
-
-
-<!--<tr>
-
-<td class="Travelwith2_new"><a href="airlines/<//?php echo $Airl_row['airlines_name'];  ?>.html"><//?php echo $Airl_row['airlines_name'];  ?></a></td>
-
-</tr>
--->
-
-
-
-
-
-<!--<tr>
-
-<td class="Travelwith2_new"><a href="airlines/<//?php echo $Airl_row['airlines_name'];  ?>.html"><//?php echo $Airl_row['airlines_name'];  ?></a></td>
-
-</tr>
--->
-
-
-
-
-
-<!--<tr>
-
-<td class="Travelwith2_new"><a href="airlines/<//?php echo $Airl_row['airlines_name'];  ?>.html"><//?php echo $Airl_row['airlines_name'];  ?></a></td>
-
-</tr>
--->
-
-
-
-
-
-<!--<tr>
-
-<td class="Travelwith2_new"><a href="airlines/<//?php echo $Airl_row['airlines_name'];  ?>.html"><//?php echo $Airl_row['airlines_name'];  ?></a></td>
-
-</tr>
--->
-
-
-
-
-
-<!--<tr>
-
-<td class="Travelwith2_new"><a href="airlines/<//?php echo $Airl_row['airlines_name'];  ?>.html"><//?php echo $Airl_row['airlines_name'];  ?></a></td>
-
-</tr>
--->
-
-
-
-
-
-
-
-</tbody></table>
-
-          </div>
-
-          
-
-          
-
-  <div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-
-
-
-
-
-</tbody></table>
-
-          </div>                
-
-          
-
-          
-
-          
-
- 
-
-
-
-</div><!-- @end #Popular Airlines-content -->
-
-        
-
-        
-
-        
-
-        
-
-        
-
-        
-
-<div id="ideas-contentt" class="contenttblock hidden">
-
-          <div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-New York-to-Orlando.html" target="_blank">New York to Orlando</a></td>
-
-</tr>
-
-
-
-<!-- 
-
-
-
-roots_details.php?from=New York&&to=Orlando
--->
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-Atlanta-to-Lauderdale.html" target="_blank">Atlanta to Lauderdale</a></td>
-
-</tr>
-
-
-
-<!-- 
-
-
-
-roots_details.php?from=Atlanta&&to=Lauderdale
--->
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-Las Vegas-to-Chicago.html" target="_blank">Las Vegas to Chicago</a></td>
-
-</tr>
-
-
-
-<!-- 
-
-
-
-roots_details.php?from=Las Vegas&&to=Chicago
--->
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-Lauderdale-to-New York.html" target="_blank">Lauderdale to New York</a></td>
-
-</tr>
-
-
-
-<!-- 
-
-
-
-roots_details.php?from=Lauderdale&&to=New York
--->
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-Los Angeles-to-Las Vegas.html" target="_blank">Los Angeles to Las Vegas</a></td>
-
-</tr>
-
-
-
-<!-- 
-
-
-
-roots_details.php?from=Los Angeles&&to=Las Vegas
--->
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-New York-to-Lauderdale.html" target="_blank">New York to Lauderdale</a></td>
-
-</tr>
-
-
-
-<!-- 
-
-
-
-roots_details.php?from=New York&&to=Lauderdale
--->
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-New York-to-Los Angeles.html" target="_blank">New York to Los Angeles</a></td>
-
-</tr>
-
-
-
-<!-- 
-
-
-
-roots_details.php?from=New York&&to=Los Angeles
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</tbody></table>
-
-          </div>
-
-		  
-
-  <div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-New York-to-Miami.html" target="_blank">New York to Miami</a></td>
-
-</tr>
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-Philadelphia-to-Orlando.html" target="_blank">Philadelphia to Orlando</a></td>
-
-</tr>
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights/cheap-flights-Los Angeles-to-San Francisco.html" target="_blank">Los Angeles to San Francisco</a></td>
-
-</tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</tbody></table>
-
-          </div>         
-
-
-
-
-
-  <div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</tbody></table>
-
-          </div>
-
-          
-
-          
-
-           
-
-</div><!-- @end #Popular Flight Routes-content -->
-
-
-
-
-
-
-
-
-
-
-
-        
-
-<div id="contact-contentt" class="contenttblock hidden">
-
-          <div id="Travel1_new">
-
-          <table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-
-
-<tr>
-
-<td class="stay_connected">DIRECTORIES</td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="flights.html" target="_blank">Flights</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="hotels.html" target="_blank">Hotels</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="cars.html" target="_blank">Cars</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="vacations.html" target="_blank">Vacations</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="airport.html" target="_blank">Airports</a></td>
-
-</tr>
-
-
-
-
-
-<!--<tr>
-
-<td class="Travelwith2_new"><a href="airlines.html" target="_blank">Airlines</a></td>
-
-</tr>
--->
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="sitemap.html" target="_blank">Sitemap</a></td>
-
-</tr>
-
-
-
-
-
-</tbody></table>
-
-          </div>
-
-          
-
-          
-
-          
-
-          
-
- <!--<div id="Travel1_new">
-
-          <table>
-
-
-
-<tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">Iberia Airlines</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">JetBlue Airways</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">Korean Air</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">LAN Airlines</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">Spirit Airlines</a></td>
-
-</tr>
-
-
-
-
-
-</table>
-
-          </div>
-
-          
-
-          
-
-          
-
-          
-
-          
-
-          
-
-          
-
-<div id="Travel1_new">
-
-          <table>
-
-
-
-<tr>
-
-<td class="iconnn_new"></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">Iberia Airlines</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">JetBlue Airways</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">Korean Air</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">LAN Airlines</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="#">Spirit Airlines</a></td>
-
-</tr>
-
-
-
-
-
-</table>
-
-          </div> -->
-
-          <br><br>
-
-          
-
-</div><!-- @end #Top U.S. Destinations-content -->
-
-        
-
-        
-
-        
-
-</div><!-- @end #content -->
-
-
-
-
-
-
-
-
-
-
-
-  </div><!-- @end #w -->
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="Travel4">
-
-
-
-
-
-<table>
-
-
-
-<tbody><tr>
-
-<td class="iconnn">Customer service</td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td> </td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="about-us.html">About us</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="contact-us.html">Contact Us</a></td>
-
-</tr>
-
-
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="privacy-policy.html">Privacy policy</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="terms-conditions.html">Terms and Conditions</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="faq.html">FAQs</a></td>
-
-</tr>
-
-
-<tr>
-
-<td class="Travelwith2_new"><a href="taxes-fees.html" target="_new">Taxes &amp; Fees </a></td>
-
-</tr>
-
-
-
-
-
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-<div id="Travel2"><table>
-
-
-
-<tr>
-
-<td class="Travelwith">Get to know CFF</td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">How Hotwire works</a></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Careers</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Help center</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Press room</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Affiliates</a></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Suppliers</a></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Developers</a></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Advertisers</a></td>
-
-</tr>
-
-
-
-
-
-
-
-</table>
-
-</div>
-
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-<div id="Travel3"><table>
-
-
-
-<tr>
-
-<td class="Travelwith">CFF</td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Car Rentals</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Travel Partners</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Expedia</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Vacations</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Activities</a></td>
-
-</tr>
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Classic Vacations</a></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Trip Advisor</a></td>
-
-</tr>
-
-
-
-
-
-<tr>
-
-<td class="Travelwith2"><a href="#">Egencia</a></td>
-
-</tr>
-
-
-
-
-
-</table>
-
-</div> -->
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-<div id="flag">
-
-
-
-
-
-<table align="left" cellspacing="8">
-
-
-
-<tbody><tr>
-
-<td class="our"><a href="#"> Global &nbsp;&nbsp;<img src="images/allflag.jpg"></a></td>
-
-
-
-
-
-</tr>
-
-
-
-</tbody></table>
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-<div id="copy">
-
-
-
-
-
-<table align="left" cellspacing="8">
-
-
-
-<tbody><tr>
-
-<td class="ycc"><a href="#">© 2013 CHEAP FLIGHTS FARES  All rights reserved.  </a></td>
-
-
-
-
-
-</tr>
-
-
-
-</tbody></table>
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-
-$(function(){
-
-  $('#sidemenu a').on('click', function(e){
-
-    e.preventDefault();
-
-
-
-    if($(this).hasClass('open')) {
-
-      // do nothing because the link is already open
-
-    } else {
-
-      var oldcontentt = $('#sidemenu a.open').attr('href');
-
-      var newcontentt = $(this).attr('href');
-
-      
-
-      $(oldcontentt).fadeOut('fast', function(){
-
-        $(newcontentt).fadeIn().removeClass('hidden');
-
-        $(oldcontentt).addClass('hidden');
-
-      });
-
-      
-
-     
-
-      $('#sidemenu a').removeClass('open');
-
-      $(this).addClass('open');
-
-    }
-
-  });
-
-});
-
-</script>
-
-
-
-
-
-<table class="live_chat" style="position:fixed; bottom:-5px; right:100px;">
-
-<tbody><tr>
-
-<td><div style="text-align:center;width:179px;"><!-- LiveZilla Chat Button Link Code (ALWAYS PLACE IN BODY ELEMENT) --><!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) --><div id="livezilla_tracking" style="display:none"><script async="" type="text/javascript" src="http://www.cheapflightsfares.com/livezillaRe/server.php?a=c7e4b&amp;request=track&amp;output=jcrpt&amp;nse=0.9732294217227462"></script></div><script type="text/javascript">
-
-var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "http://www.cheapflightsfares.com/livezillaRe/server.php?a=c7e4b&request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="http://www.cheapflightsfares.com/livezillaRe/server.php?a=c7e4b&amp;request=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><!-- http://www.LiveZilla.net Tracking Code --><a href="javascript:void(window.open('http://www.cheapflightsfares.com/livezillaRe/chat.php?a=8f414','','width=590,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_cbl"><!--<img src="http://www.cheapflightsfares.com/livezillaRe/image.php?a=26a52&amp;id=4&amp;type=inlay" width="179" height="51" style="border:0px;" alt="LiveZilla Live Chat Software"></a><!-- http://www.LiveZilla.net Chat Button Link Code --></a><div style="margin-top:2px;"><a href="javascript:void(window.open('http://www.cheapflightsfares.com/livezillaRe/chat.php?a=8f414','','width=590,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_cbl"></a><a href="http://www.livezilla.net" target="_blank" title="LiveZilla  Live Chat Software" style="font-size:11px;color:#b7b7b7;text-decoration:none;font-family:verdana,arial,tahoma;"></a></div></div>
-
-</td>
-
-</tr>
-
-</tbody></table>
-</div><!-- and footer-->
-
-</div><!-- and container_footer-->
-
-
-
-
-<div id="container_footer_dun"><!-- START container_footer-->
-
-<div id="footer_dun"><!-- START footer-->
-
-<!--<div id="our">
-
-
-
-<table align="left"cellspacing="8">
-
-
-
-<tr>
-
-<td class="our"><a href="#"><img src="images/eroiconl.png"/>&nbsp;&nbsp;Our global sites &nbsp;&nbsp;</a></td>
-
-<td class="our"><a href="#"><img src="images/eroiconl.png"/>&nbsp;&nbsp;Top hotel destinations &nbsp;&nbsp;</a></td>
-
-<td class="our"><a href="#"><img src="images/eroiconl.png"/>&nbsp;&nbsp;Top vacation spots</a></td>
-
-
-
-
-
-</tr>
-
-
-
-</table>
-
-
-
-</div> -->
-
-
-
-
-
-
-
-<link rel="stylesheet" type="text/css" media="all" href="css/stylesff.css">
-
-  <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
-
-
-
-
-
-<div id="flag">
-
-  
-
-  
-
-   <table align="left" cellspacing="8" style="margin:0 auto; width:88%">
-
-
-
-<tbody><tr>
-
-<td class="our"><a href="#"><img src="images/icons_icons.jpg"></a></td>
-</tr>
-<tr>
-<td><div style="width:96%; clear:both; color:#666; text-align:justify; margin:0 auto; font-size:11px; padding-top:10px; padding-bottom:10px;">
-<b>*</b> Cheap Flights Fares solely act as agent creating a bridge between travelers and suppliers of travel services including tour companies, airlines, hotels and cab services. We do not own or manage any kind of travel services, therefore it is very important to know our disclaimer and accept the same.
-<ul>
-<li style="margin-left:5px;">Cheap Flights Fares will not be responsible for any kind of delays and cancellations.</li>
-<li style="margin-left:5px;">You can attain a discount up to 80% on the actual fare but that discounted price will always stay non-refundable in case of cancellation.</li>
-<li style="margin-left:5px;">The discounts are available based on travel dates, blackout dates, off-season period and advance bookings. However, the same discounts will not be available for last minute travel bookings or bookings made at a later stage</li>	
-<li style="margin-left:5px;">Displayed fares are subject to change without prior notice. We are not liable to answer any query or justify for the same.</li>	
-<li style="margin-left:5px;">All displayed fares are inclusive of fuel surcharge, service tax and actual flight fare. We you proceed with your travel bookings, you confirm to pay the specified amount.</li>
-<li style="margin-left:5px;">We do provide promotional offers and schemes on the go. You can use the promo code and other offers till the date indicated. However, we hold the authority to withdraw the scheme at any period of time.</li>
-<li style="margin-left:5px;">For excess savings, you do not hold the right to combine two promotional offers or discount schemes. </li>
-<li style="margin-left:5px;">Fluctuations in flight fares, hotel rates, fuel surcharge and other price differentials for travel deals is solely the choice of suppliers. We are not to be held responsible for the same.</li>
-</ul>
-<p>Cheap Flights Fares is here to make your travel easier and better through a convenient mode and that’s what we do with full dedication. </p>
-</div>
-</td>
-</tr>
-
-</tbody></table>
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-
-$(function(){
-
-  $('#sidemenu a').on('click', function(e){
-
-    e.preventDefault();
-
-
-
-    if($(this).hasClass('open')) {
-
-      // do nothing because the link is already open
-
-    } else {
-
-      var oldcontentt = $('#sidemenu a.open').attr('href');
-
-      var newcontentt = $(this).attr('href');
-
-      
-
-      $(oldcontentt).fadeOut('fast', function(){
-
-        $(newcontentt).fadeIn().removeClass('hidden');
-
-        $(oldcontentt).addClass('hidden');
-
-      });
-
-      
-
-     
-
-      $('#sidemenu a').removeClass('open');
-
-      $(this).addClass('open');
-
-    }
-
-  });
-
-});
-
-</script>
-
-
-
-<!--
-
-<table class="live_chat" style="position:fixed; bottom:-5px; right:100px;">
-
-<tr>
-
-<td><div style="text-align:center;width:179px;"><div id="livezilla_tracking" style="display:none"></div><script type="text/javascript">
-
-var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "http://www.cheapflightsfares.com/livezillaRe/server.php?a=c7e4b&request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="http://www.cheapflightsfares.com/livezillaRe/server.php?a=c7e4b&amp;request=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><a href="javascript:void(window.open('http://www.cheapflightsfares.com/livezillaRe/chat.php?a=8f414','','width=590,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_cbl"><img src="http://www.cheapflightsfares.com/livezillaRe/image.php?a=26a52&amp;id=4&amp;type=inlay" width="179" height="51" style="border:0px;" alt="LiveZilla Live Chat Software"></a><div style="margin-top:2px;"><a href="http://www.livezilla.net" target="_blank" title="LiveZilla  Live Chat Software" style="font-size:11px;color:#b7b7b7;text-decoration:none;font-family:verdana,arial,tahoma;"></a></div></div>
-
-</td>
-
-</tr>
-
-</table>-->
-</div><!-- and footer-->
-
-</div><!-- and container_footer-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--- Start Google Analytics -->
-<script>
-
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
-Date();a=s.createElement(o),
-
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-48461786-1', 'cheapflightsfares.com');
-ga('send', 'pageview');
-
-</script>
-<!--- End Google Analytics -->
-
-
 
 </body></html>
