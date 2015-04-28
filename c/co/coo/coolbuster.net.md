@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120212655id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428205422id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 This post confirms our ownership of the site and that this site adheres to Google AdSense program policies and Terms and Conditions." - COOLBUSTER.net
 
 **Privacy Policy for www.coolbuster.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [CONTACT US](http://www.coolbuster.net/p/blog-page.html).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact the admin](http://www.coolbuster.net/p/contact.html).
 
 At www.coolbuster.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.coolbuster.net and how it is used.
 
@@ -47,8 +44,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
   * Google Adsense
   * Ambient Philippines
-  * Infolinks
-  * Disqus
+  * [Infolinks](http://www.infolinks.com/join-us?aid=8933)
 
 
 
