@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d-a-l.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202045835id_/http%3A//www.techie7.com/kb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d-a-l.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428090801id_/http%3A//www.techie7.com/kb/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techie7
 
