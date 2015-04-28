@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasteddysclicks.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129223921id_/http%3A//fasteddysclicks.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasteddysclicks.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428065657id_/http%3A//www.fasteddysclicks.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # fasteddysclicks.com
 
