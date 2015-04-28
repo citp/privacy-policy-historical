@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessground.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129052851id_/http%3A//www.wirelessground.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessground.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428051849id_/http%3A//www.wirelessground.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
