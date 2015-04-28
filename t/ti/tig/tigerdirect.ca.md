@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010102010id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428065135id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.ca
 
