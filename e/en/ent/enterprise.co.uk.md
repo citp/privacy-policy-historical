@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprise.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061202id_/http%3A//www.enterprise.co.uk/about/privacy_policy_UK_IE.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprise.co.uk privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428201737id_/http%3A//www.enterprise.co.uk/about/privacy_policy_UK_IE.html) for the most accurate reproduction.*
 
 # Rent a car here - The Enterprise Rent-A-Car Online Reservation System
 
@@ -119,7 +119,7 @@ To opt out of receiving further promotional communications from our third party 
 
 **CORRECTING OR CHANGING YOUR INFORMATION/CONTACTING ENTERPRISE**
 
-We are very concerned about the accuracy, currency and completeness of the information we collect and make efforts we deem appropriate to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update or delete personally identifiable information we have collected about you online contact us at the information provided below. Please also contact us if you have any questions about privacy on our Web site or Mobile site. You may contact us via email at [customerservice@erac.com](https://web.archive.org/web/20140626061202id_/http%3A//www.enterprise.co.uk/about/customerservice@erac.com), and we will attend to your request and make any necessary revisions. If you prefer, country specific contact information is listed below. We will respond to your access request within 30 days.
+We are very concerned about the accuracy, currency and completeness of the information we collect and make efforts we deem appropriate to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update or delete personally identifiable information we have collected about you online contact us at the information provided below. Please also contact us if you have any questions about privacy on our Web site or Mobile site. You may contact us via email at [customerservice@erac.com](https://web.archive.org/web/20150428201737id_/http%3A//www.enterprise.co.uk/about/customerservice@erac.com), and we will attend to your request and make any necessary revisions. If you prefer, country specific contact information is listed below. We will respond to your access request within 30 days.
 
 We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
