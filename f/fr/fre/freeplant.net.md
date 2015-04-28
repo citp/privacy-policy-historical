@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeplant.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123032211id_/http%3A//www.freeplant.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeplant.net privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428120955id_/http%3A//www.freeplant.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Free Fruit Seeds - Totally Free
 
