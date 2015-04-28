@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intacct.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030084617id_/http%3A//us.intacct.com/privacy_policy_website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intacct.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428052848id_/http%3A//us.intacct.com/privacy_policy_website) for the most accurate reproduction.*
 
 # Website Privacy Policy | Intacct
 
@@ -78,7 +78,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 ### Contact us
 
-You may direct questions regarding our Website Privacy Policy to [info@intacct.com](mailto:info@intacct.com) or, by telephone, to Intacct's customer support staff at 877-704-3700 or via postal mail at 150 Almaden Boulevard, Suite 1500, San Jose, CA, 95113.
+You may direct questions regarding our Website Privacy Policy to [info@intacct.com](mailto:info@intacct.com) or, by telephone, to Intacct's customer support staff at 877-704-3700 or via postal mail at 300 Park Avenue, Suite 1400, San Jose, CA, 95110.
 
 [](https://privacy.truste.com/privacy-seal/Intacct-Corporation/validation?rid=ebfec26e-354a-43d9-adf9-ee7d4ed15fa6 "TRUSTe European Safe Harbor certification")
 
