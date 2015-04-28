@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbkonline.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123211008id_/http%3A//www.bbkonline.com/PrivacyandSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbkonline.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429003444id_/http%3A//www.bbkonline.com/PrivacyandSecurity) for the most accurate reproduction.*
 
 # Privacy & Security - Welcome to BBK
 
