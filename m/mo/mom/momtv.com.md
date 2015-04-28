@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momtv.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031225031id_/http%3A//momtv.com/pages/view/id/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momtv.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428022025id_/http%3A//momtv.com/index.php/pages/view/id/2) for the most accurate reproduction.*
 
 # MomTV
 
