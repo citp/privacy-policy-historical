@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1to1chat.net privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001123846id_/http%3A//www.1to1chat.net/chat/legal-terms.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1to1chat.net privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428135406id_/http%3A//www.1to1chat.net/chat/legal-terms.xhtml) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy
 
