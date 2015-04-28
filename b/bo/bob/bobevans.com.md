@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218070417id_/http%3A//bobevans.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428075309id_/http%3A//www.bobevans.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Bob Evans, Discover Farm-Fresh Goodness | Privacy Policy
 
