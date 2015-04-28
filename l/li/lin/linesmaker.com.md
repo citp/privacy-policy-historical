@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105060818id_/http%3A//betlm.ag/support/kb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428161514id_/http%3A//betlm.ag/support/kb/privacy) for the most accurate reproduction.*
 
 # Linesmaker Privacy Policy
 
@@ -56,7 +56,7 @@ Protecting your privacy is very important to us. We use the information we colle
 
 This function only provides members/visitors the opportunity to opt-out of receiving communications from us.
 
-You can visit the following URL: http://betlm.ag/list/ and enter the e-mail address you want to remove from our list.
+You can visit the following URL: https://betlm.ag/support/contact/ to indicate the e-mail address you want to remove from our list.
 
 You may request the closure of your wagering account at any time as long as there is no balance and no pending wagers.
 
