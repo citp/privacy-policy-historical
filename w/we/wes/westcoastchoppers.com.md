@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westcoastchoppers.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206212918id_/http%3A//www.westcoastchoppers.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastchoppers.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428060301id_/http%3A//www.westcoastchoppers.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – West Coast Choppers
 
