@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiddenvalley.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124174508id_/http%3A//www.thecloroxcompany.com/legal/privacy/en-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiddenvalley.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428104612id_/http%3A//www.thecloroxcompany.com/legal/privacy/en-us) for the most accurate reproduction.*
 
 # The Clorox Company | Legal | Privacy
 
