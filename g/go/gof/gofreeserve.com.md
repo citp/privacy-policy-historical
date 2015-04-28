@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofreeserve.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221094227id_/http%3A//gofreeserve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofreeserve.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428123848id_/https%3A//gofreeserve.com/privacy-policy) for the most accurate reproduction.*
 
 # GoFreeserve - Privacy Policy
 
@@ -34,4 +34,4 @@ GoFreeserve.com gives users the following options for changing and modifying inf
 
 #### CONTACTING THE WEBSITE
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at the support system in your control panel.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this websitsite, please use the form provided on the [ticket submission](https://gofreeserve.com/contact/abuse) page.
