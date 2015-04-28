@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planisware.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230225213id_/http%3A//www.planisware.com/planisware-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planisware.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428054810id_/http%3A//www.planisware.com/planisware-privacy-policy) for the most accurate reproduction.*
 
 # Planisware Privacy Policy | Planisware
 
@@ -32,4 +32,4 @@ Planisware provides you the opportunity to exercise an opt-out choice if you do 
 
 ## Contact Us
 
-If you have any questions or concerns about our privacy policy or its implementation, you may contact through [our web formular](https://web.archive.org/web/20141230225213id_/http%3A//www.planisware.com/planisware-information-request) or by phone at your nearest Planisware location. See our [contact page](https://web.archive.org/web/20141230225213id_/http%3A//www.planisware.com/contact).
+If you have any questions or concerns about our privacy policy or its implementation, you may contact through [our web formular](https://web.archive.org/web/20150428054810id_/http%3A//www.planisware.com/planisware-information-request) or by phone at your nearest Planisware location. See our [contact page](https://web.archive.org/web/20150428054810id_/http%3A//www.planisware.com/contact).
