@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cronometer.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008162853id_/http%3A//cronometer.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cronometer.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428173131id_/http%3A//cronometer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,9 +35,9 @@ The email address you provide may be used to send you information, respond to in
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+After a transaction, your private information (credit cards) will not be stored on our servers.
 
 **Do we use cookies?**
 
@@ -78,6 +78,6 @@ This policy was last modified on 14-April-2012
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 cronometer.com  
-admin@cronometer.com
+support@cronometer.com
 
 This policy is powered by Free Privacy Policy 
