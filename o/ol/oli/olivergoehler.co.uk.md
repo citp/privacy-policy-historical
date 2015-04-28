@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olivergoehler.co.uk privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205215153id_/http%3A//www.olivergoehler.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivergoehler.co.uk privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428131326id_/http%3A//www.olivergoehler.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Oliver Goehler - The Auction Kommando's Site
 
@@ -125,4 +125,4 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 This "Privacy Policy" is copyrighted © 2003-2006 by Mining Gold Corporation Nevada Processing Center, Inc (888) 214-3349, and is fully licensed for use by this website. If you wish to lawfully use this Terms of Use on your website, contact [support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or visit [legal documents website](http://www.internet-law-compliance.com/)
 
-[Home](https://web.archive.org/web/20141205215153id_/http%3A//www.olivergoehler.co.uk/index.html) | [Privacy Policy](https://web.archive.org/web/20141205215153id_/http%3A//www.olivergoehler.co.uk/privacypolicy.html) | [Terms of Use](https://web.archive.org/web/20141205215153id_/http%3A//www.olivergoehler.co.uk/termofuse.html) | [Content](https://web.archive.org/web/20141205215153id_/http%3A//www.olivergoehler.co.uk/welcome.html) | [Site Map](https://web.archive.org/web/20141205215153id_/http%3A//www.olivergoehler.co.uk/sitemap.html)
+[Home](https://web.archive.org/web/20150428131326id_/http%3A//www.olivergoehler.co.uk/index.html) | [Privacy Policy](https://web.archive.org/web/20150428131326id_/http%3A//www.olivergoehler.co.uk/privacypolicy.html) | [Terms of Use](https://web.archive.org/web/20150428131326id_/http%3A//www.olivergoehler.co.uk/termofuse.html) | [Content](https://web.archive.org/web/20150428131326id_/http%3A//www.olivergoehler.co.uk/welcome.html) | [Site Map](https://web.archive.org/web/20150428131326id_/http%3A//www.olivergoehler.co.uk/sitemap.html)
