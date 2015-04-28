@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printallover.me privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072658id_/http%3A//printallover.me/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printallover.me privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428111653id_/http%3A//printallover.me/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Print All Over Me
 
