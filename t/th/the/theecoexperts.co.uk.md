@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theecoexperts.co.uk privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116143558id_/http%3A//www2.mvfglobal.com/privacy_policy_en_v02/c203b/d15d7%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26width%3D970) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theecoexperts.co.uk privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428213940id_/http%3A//www2.mvfglobal.com/privacy-policy/c203b/d15d7) for the most accurate reproduction.*
 
 # The Eco Experts
 
 The Eco Experts ("We", "our" and/or "us") are committed to protecting and respecting your privacy. We treat with the utmost care the personal information you may supply to us on http://www.mvfglobal.com.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20141116143558id_/http%3A//www2.mvfglobal.com/privacy_policy_en_v02/c203b/$termsofuselink$) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/web/20150428213940id_/http%3A//www2.mvfglobal.com/privacy-policy/c203b/$termsofuselink$) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is MVF Global Ltd which is a trading name of ours with our registered address being Ryland House, 24a Ryland Road, London, NW5 3EH, UK. We are a company registered in England and Wales under company number 06951544. Marketing VF Ltd is registered under the Act, ref PZ1995728.
 
@@ -25,7 +25,7 @@ We may collect information about your computer, including where available your I
 
 #### COOKIES
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/web/20141116143558id_/http%3A//www2.mvfglobal.com/privacy_policy_en_v02/c203b/$cookieslink$)
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://web.archive.org/web/20150428213940id_/http%3A//www2.mvfglobal.com/privacy-policy/c203b/$cookieslink$)
 
 We use interest-based advertising tools provided by Google - these include but are not limited to 'remarketing', 'interest categories', 'similar audiences' and other types of interest-based advertising. To determine your interests, Google will track your behaviour across the web using cookies. We may remarket your information. Remarketing is a way for us to connect with users, based upon your past interactions with the Marketing VF Limited website. Third-party marketing vendors may be hired by Marketing VF Limited to perform remarketing services. As a result, third-party vendors, including Google, may show Marketing VF Limited ads on sites on the internet. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to Marketing VF Limited’s website.
 
@@ -67,7 +67,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Marketing VF Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20141116143558id_/http%3A//www2.mvfglobal.com/privacy_policy_en_v02/c203b/$termsofuselink$) and other agreements; or to protect the rights, property, or safety of Marketing VF Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20150428213940id_/http%3A//www2.mvfglobal.com/privacy-policy/c203b/$termsofuselink$) and other agreements; or to protect the rights, property, or safety of Marketing VF Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
