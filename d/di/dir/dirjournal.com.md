@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dirjournal.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221050734id_/http%3A//www.dirjournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirjournal.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428181302id_/http%3A//www.dirjournal.com/privacy.php) for the most accurate reproduction.*
 
-# DirJournal Web Directory - Privacy Policy
+# DirJournal Local Search - Privacy Policy
 
 The Directory Journal feels strongly that your information and rights must be protected. To this end, we have prepared the following privacy policy to ensure all measures are taken to protect the interests of our visitors and provide a more pleasant site experience.
 
