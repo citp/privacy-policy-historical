@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebikeinsurance.co.uk privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817063614id_/http%3A//www.ebikeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebikeinsurance.co.uk privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428225545id_/http%3A//www.ebikeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eBike Insurance - Privacy and Security
 
@@ -18,7 +18,7 @@
 
 ## 1\. Introduction
 
-eBike are committed to both respecting your privacy and providing a secure website so your personal information is protected. You can be assured any information you provide to us will be used strictly in accordance with the terms laid out in this statement.
+eInsurance Group is committed to both respecting your privacy and providing a secure website so your personal information is protected. You can be assured any information you provide to us will be used strictly in accordance with the terms laid out in this statement.
 
 back to top
 
@@ -49,13 +49,19 @@ back to top
 
 How we protect your personal information from misuse and abuse is of great importance to us. We are constantly reviewing and enhancing our technical and physical security procedures to protect your personal data from unauthorised access.
 
-You will only be able to access your policy by inputting your unique policy number and your email address. The eBike site also uses 128-bit secure socket layer (SSL) encryption technology to encrypt sensitive information such as your financial information. When you request a quote from us, we will process the data on a secure server.
+You will only be able to access your policy by inputting your unique policy number and your email address. The eInsurance Group site also uses 128-bit secure socket layer (SSL) encryption technology to encrypt sensitive information such as your financial information. When you request a quote from us, we will process the data on a secure server.
 
 back to top
 
 ## 5\. How Your Information Will Be Used
 
-Your information will be used for a number of purposes which include automatically processing your quotation, managing and administering your policy, claims handling and responding to complaints or policy enquiries. eBike and carefully selected third parties may use your information to keep you informed by post, telephone or email of products or services which maybe of interest to you. We will also contact you to remind you your insurance is due for renewal.
+Your information will be used for a number of purposes which include automatically processing your quotation, managing and administering your policy, claims handling and responding to complaints or policy enquiries. We will contact you to remind you your insurance is due for renewal.
+
+From time to time, we'd like to get in touch with you by phone, email, SMS or post to tell you about the other products, services and special offers available from Brightside Group.
+
+Your details are safe with us because we won't share your details with anyone else for marketing purposes.
+
+If you don't want to hear from us, simply opt out of receiving marketing communications by writing to our Marketing Department at: eGroup Insurance, Brightside Park, Aust, Bristol, BS35 4BL or email them at [marketing@egroupltd.co.uk ](mailto:marketing@egroupltd.co.uk "marketing@egroupltd.co.uk").
 
 back to top
 
@@ -65,15 +71,19 @@ You can write to us at any time to obtain details of the information we hold abo
     
     
       Data Protection Officer
-      eBike
-      MMT Centre
+      eGroup Insurance
+      Brightside Park
       Severn Bridge
       Aust
       Bristol
       BS35 4BL
       
 
-Please quote your name, postal address and email address along with the details of your requirement. We will take reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. Therefore we would be grateful if you could provide two forms of identification such as a copy of a passport or driving licence and a copy of a utility bill to confirm address. In accordance with the Data Protection Act, 1998 we are entitled to charge £10 to cover the administration costs involved with this process. Please make cheques payable to “Brightside Insurance Services Limited”.
+Please quote your name, postal address and email address along with the details of your requirement. We will take reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. Therefore we would be grateful if you could provide two forms of identification such as a copy of a passport or driving licence and a copy of a utility bill to confirm address. 
+
+In accordance with the Data Protection Act, 1998 we are entitled to charge £10 to cover the administration costs involved with this process. Please make cheques payable to “Brightside Insurance Services Limited”.
+
+Please see [**www.ico.gov.uk**](http://www.ico.gov.uk/ "www.ico.gov.uk") for our entry in the Information Commissioner's register of data controllers. Our registration number is Z5268008.
 
 back to top
 
