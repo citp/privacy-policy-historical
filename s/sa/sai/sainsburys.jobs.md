@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburys.jobs privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224121943id_/http%3A//sainsburys.jobs/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburys.jobs privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428125044id_/http%3A//sainsburys.jobs/information/privacy) for the most accurate reproduction.*
 
 # Privacy - Sainsbury's Jobs
 
