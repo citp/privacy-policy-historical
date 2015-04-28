@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000551id_/http%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429015827id_/http%3A//www.devpinpointe.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Pinpointe's Email Marketing Privacy Policy. We Respect Your Privacy Pinpointe – Email Marketing Automation for Businesses
+# Pinpointe's Email Marketing Privacy Policy. We Respect Your Privacy
 
 We respect and are committed to protecting your privacy. This privacy policy lets you know how your personal information is collected and used, both by Pinpointe and our clients who use our hosted application. We have created this privacy policy so that you can understand the care with which we intend to treat your personal information. If you have any questions about our privacy policy, please contact us.
 
