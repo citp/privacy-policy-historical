@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the myrelatives.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222212958id_/http%3A//www.myrelatives.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrelatives.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428114240id_/http%3A//www.myrelatives.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-**October 1, 2014**
+**March 23, 2015**
 
 This Privacy Policy is applicable to all site users, including new and returning visitors. By using this site, you agree to abide by our Terms of Use and the policies stated in this Privacy Policy. MyRelatives (“site”, “us”, “our” or “we”) owns this website and has developed this Privacy Policy to provide details about the collection, use and disclosure of information collected on the site or interactive properties owned by us, including but not limited to mobile applications and mobile websites. By using the site or registering an account, you agree to accept and abide by the terms of this Privacy Policy and our Terms of Use. 
+
+MyRelatives has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through.myrelatives.com and does not cover information that may be collected through our mobile applications and mobile websites. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 **_PERSONAL INFORMATION YOU SHARE WITH US:_**
 
@@ -50,6 +52,12 @@ In addition to any information collected through the means described above, MyRe
 
 The information we collect that is not Personally Identifiable Information may be used for any purpose we deem appropriate. We reserve the right to share such non-personal information with third parties. At times, third party service providers may also collect information about you during your visit to MyRelatives.com. We do not have any access to or control over the tracking technologies owned and operated by these service providers. You may choose to disable cookies or take other steps so that these types of information may not be collected, but then certain features of this site may not function properly. 
 
+Technologies such as: cookies, beacons, tags and scripts are used by MyRelatives and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+
+We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+
+We use Local Storage Objects (LSOs) such as Flash to store information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>. 
+
 **_INFORMATION COLLECTED FROM THIRD PARTY SOURCES:_**
 
 At times we may collect information from trusted third party service providers. This is done to supplement the information you provided. For example, it may be used to update your address or billing information or to obtain relevant demographic information. This information is used to help us maintain accurate information, to help us tailor any communications that we send to you, and for internal analysis or other business related purposes. 
@@ -67,7 +75,6 @@ The MyRelatives site may provide links to various social media platforms. If you
   * For internal business purposes (analyzing data, enhancing existing products, etc.) 
   * To improve our services 
   * To make suggestions that may enable you to expand your family tree 
-  * To customize your experience on this website 
   * To customize your experience on this website 
   * To verify your identity
   * To improve our services 
@@ -126,13 +133,21 @@ Additionally, if third parties have already collected information about you in c
 
 **_OPTING OUT RECORDS FROM THIS SITE_**
 
-MyRelatives.com gives you the ability to block records from being shown on this site. We only have the ability to block records that are under our control. Opting records out on this site will not opt them out from any other site that is not under our control. We reserve the right to require verification of your validity to opt out certain records, and may reject opt out requests at our sole discretion. To opt records out of this site, please fill out the form here. The changes you request may not be effective immediately, but we will comply with your request as quickly as is reasonably possible. Despite any opt out request we receive and honor, we may need to retain the information for recordkeeping purposes. There may also be information that remains in our database and other records, and that information will not be changed or removed 
+MyRelatives.com gives you the ability to block records from being shown on this site. You can request for your personal information to be blocked from being searched by using our opt out form (see the link below). We only have the ability to block records that are under our control. Opting records out on this site will not opt them out from any other site that is not under our control. We reserve the right to require verification of your validity to opt out certain records, and may reject opt out requests at our sole discretion. To opt records out of this site, please fill out the form [here](https://web.archive.org/optout-form.pdf). The changes you request may not be effective immediately, but we will comply with your request as quickly as is reasonably possible. Despite any opt out request we receive and honor, we may need to retain the information for recordkeeping purposes. There may also be information that remains in our database and other records, and that information will not be changed or removed 
 
 **_COMPANY PRACTICES AND DISCLOSURES_**
 
 **Links to other sites**
 
 MyRelatives may contain links to third party sites and communities. Please note that these external, third party sites are not under our control, and are therefore not subject to any part of this Privacy Policy. If you visit these or any other sites, we recommend that you read their Privacy Policies thoroughly. 
+
+**Testimonials**
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us here: [http://www.myrelatives.com/contact](https://web.archive.org/contact). 
+
+**Public Directory**
+
+We may list you in a publicly accessible member directory. If you wish to request removal of your information from our directory, you can opt out of our site [here](https://web.archive.org/optout-form.pdf). 
 
 **Security**
 
@@ -165,4 +180,4 @@ Saturday - Sunday: 7:00am - 11:30am PST
 and 12:30PM - 3:30PM, Closed 11:30AM - 12:30PM   
 Thank you for visiting the MyRelatives Privacy Policy. 
 
-Copyright ©2014 MyRelatives.com. All rights reserved.
+Copyright ©2015 MyRelatives.com. All rights reserved.
