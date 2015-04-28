@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the philo.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119225710id_/http%3A//philo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philo.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428084133id_/http%3A//philo.com/privacy) for the most accurate reproduction.*
 
-# Philo
+# Privacy Policy | Philo
 
 **Last Updated: January 10, 2014**
 
