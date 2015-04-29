@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nakednews.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223185556id_/http%3A//www.nakednews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakednews.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429052616id_/http%3A//www.nakednews.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Naked News
 
 Our Commitment
 
-Naked News® takes your privacy seriously. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about your personal information.
+Naked News takes your privacy seriously. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about your personal information.
 
 What this Privacy Policy Covers
 
@@ -26,7 +26,7 @@ For reasons such as improving member experience and providing customized communi
 
 We maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from our active database. We maintain archives for disaster recovery, legal and other non-marketing purposes.
 
-We use information for three general purposes: (i) to customize the advertising and content you see, (ii) to fulfill your requests for certain products and services, and (iii) to contact you about Naked News® specials and new products and services.
+We use information for three general purposes: (i) to customize the advertising and content you see, (ii) to fulfill your requests for certain products and services, and (iii) to contact you about Naked News specials and new products and services.
 
 We may contract with a third party to manage NakedNews.com and provide them access to your information solely for the purpose of managing the website. Such third party will be fully bound by an obligation of confidentiality to us and may not use any personally-identifiable information provided through NakedNews.com other than as expressly instructed by us and in strict compliance with the terms of this Privacy Policy.
 
@@ -40,11 +40,11 @@ We have your consent to share the information;
 
 We need to share your information to provide the product or service you have requested;
 
-We need to send the information to companies who work on behalf of Naked News® to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);
+We need to send the information to companies who work on behalf of Naked News to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);
 
 We respond to subpoenas, court orders or legal process; or
 
-We find that your actions on our web sites violate the Naked News® Terms and Conditions, or any of our usage guidelines for specific products or services.
+We find that your actions on our web sites violate the Naked News Terms and Conditions, or any of our usage guidelines for specific products or services.
 
 We may also share aggregate user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services. We do not provide any personally identifiable information to third-party advertising companies. Note, however, that if an advertiser asks us to show an advertisement to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the third-party advertising company may conclude that you have the characteristics of the audience that they are trying to reach. Due to our contractual obligations with these third parties and the need to share information to deliver and support our service, we cannot provide you with the opportunity to opt-out of sharing information with these third parties.
 
@@ -58,7 +58,7 @@ What information do parties other than us collect?
 
 Some entities that have links on our site may collect personally identifying information about you when you access or utilize those links. We do not control the collection or use of such information, and the practices of those advertisers and websites are not covered by this Privacy Policy.
 
-It is important to note that those entities may not follow the same privacy policies as us. For instance, if you click on an advertisement on NakedNews.com, you may be taken away to an entirely different site. These links can also be from advertisers, content providers and/or partners who may use NakedNews.com’s logo and/or style as a result of a co-branding agreement yet they may still not follow the same privacy policies as NakedNews.com.
+It is important to note that those entities may not follow the same privacy policies as us. For instance, if you click on an advertisement on NakedNews.com, you may be taken away to an entirely different site. These links can also be from advertisers, content providers and/or partners who may use NakedNews.com's logo and/or style as a result of a co-branding agreement yet they may still not follow the same privacy policies as NakedNews.com.
 
 Email Opt-out
 
@@ -80,7 +80,7 @@ We believe that parents should supervise their children’s online activities an
 
 California User Consumer Rights
 
-In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. Under California law, California residents who have an established business relationship with us or one of our subsidiaries may choose to opt out of NkedNews.com’s disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt out at any time after granting approval, email Membership@NakedNews.com.
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. Under California law, California residents who have an established business relationship with us or one of our subsidiaries may choose to opt out of NkedNews.com’s disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt out at any time after granting approval, email [customer service.](https://web.archive.org/contact)
 
 **Users Located Outside of Canada**
 
@@ -94,7 +94,7 @@ This policy does not apply to the practices of companies that we do not own or c
 
 Transferability of Data Under Disposition of Business and/or Business Assets
 
-Please take notice that in the course of developing our business or in the event of any insolvency, receivership (by court order or otherwise) or winding-up, we or a receiver may dispose of various tangible or intangible business assets. In any such dispositions, customer data and your personal information may be included and transferred, in whole or in part, to a third party without your consent. Moreover, in the unlikely event that Naked News®, or all or substantially all of its assets are acquired by a third party, customer data and personal information may be included among the list of transferred assets without your consent.
+Please take notice that in the course of developing our business or in the event of any insolvency, receivership (by court order or otherwise) or winding-up, we or a receiver may dispose of various tangible or intangible business assets. In any such dispositions, customer data and your personal information may be included and transferred, in whole or in part, to a third party without your consent. Moreover, in the unlikely event that Naked News, or all or substantially all of its assets are acquired by a third party, customer data and personal information may be included among the list of transferred assets without your consent.
 
 Our Commitment to Data Security
 
@@ -106,4 +106,4 @@ You can correct factual errors in your personally identifiable information by se
 
 How To Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please send us an email at [Membership@NakedNews.com.](https://web.archive.org/contact)
+Should you have other questions or concerns about this Privacy Policy, please send us an email on [our form.](https://web.archive.org/contact)
