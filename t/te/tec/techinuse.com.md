@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techinuse.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223064130id_/http%3A//techinuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techinuse.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429085901id_/http%3A//techinuse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech InUse
+# Privacy Policy - Tech InUse
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
