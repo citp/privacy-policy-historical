@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrahome.org privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921190455id_/http%3A//www.ultrahome.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrahome.org privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429162741id_/http%3A//www.ultrahome.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ultra Home
 
@@ -17,4 +17,4 @@ External Links
 This site contains links to other sites. Ultra Home is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.ultrahome.org/contact-us/ "contact us").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.ultrahome.org/contact-us/).
