@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saintclassified.pk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702142048id_/http%3A//www.saintclassified.pk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saintclassified.pk privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429085446id_/http%3A//www.saintclassified.pk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SaintClassified.pk
 
