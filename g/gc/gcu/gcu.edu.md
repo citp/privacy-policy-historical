@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231053943id_/http%3A//www.gcu.edu/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429095355id_/http%3A//www.gcu.edu/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Grand Canyon University
 
@@ -12,9 +12,9 @@ Type & Use of Information Collected
 
 Grand Canyon University collects both personal and non-personal identifying information from its visitors. The information collected is used to help us identify our target market and improve the products and services we offer our customers. The collected information is primarily used for marketing purposes and visitors may expect to receive future communication from the University.
 
- Non-personal information is mainly collected automatically through cookies and other web technology. We also collect certain non-personally identifying information when you visit our website, such as such as the type of browser you are using (e.g., Firefox, Chrome, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), the domain name from which you receive Internet access, your IP address, and aggregate information regarding what pages consumers access or visit.
+Non-personal information is mainly collected automatically through cookies and other web technology. We also collect certain non-personally identifying information when you visit our website, such as such as the type of browser you are using (e.g., Firefox, Chrome, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), the domain name from which you receive Internet access, your IP address, and aggregate information regarding what pages consumers access or visit.
 
- Personal information is collected when a visitor fills out a form or otherwise provides such information on our website. Examples of personal information that may be collected are listed below.
+Personal information is collected when a visitor fills out a form or otherwise provides such information on our website. Examples of personal information that may be collected are listed below.
 
 To receive additional information on the University, you can fill out our "Information Request" form by submitting personal information including name, address, phone number, email address, etc. This information is collected so that a university representative can contact you. A phone number is also supplied for those who wish to contact the University by phone.
 
@@ -26,7 +26,7 @@ Security
 
 Our Sites have reasonable security measures in place designed to protect against the loss, misuse, unauthorized access, disclosure, alteration and destruction of the information under our control.
 
-We will take reasonable steps to ensure the data is reliable, accurate, complete and current for its intended use. Personal information collected from visitors is protected in transmission to our websites with Secure Sockets Layer (SSL) protocol encryption. Grand Canyon University, one of the top online Christian schools,  abides by all laws concerning the release of personal information and does not sell or rent any personal information to third parties, except as described below.
+We will take reasonable steps to ensure the data is reliable, accurate, complete and current for its intended use. Personal information collected from visitors is protected in transmission to our websites with Secure Sockets Layer (SSL) protocol encryption. Grand Canyon University, one of the top online Christian schools, abides by all laws concerning the release of personal information and does not sell or rent any personal information to third parties, except as described below.
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
@@ -52,9 +52,17 @@ Grand Canyon University, one of the top online Christian schools, may provide li
 
 This privacy policy only applies to information collected on www.gcu.edu, www.grand-canyon.edu, http://my.gcu.edu and gcu.edu sub-domains. We strongly encourage you to review the privacy policy of each website you visit.
 
+Google Analytics Advertising
+
+Grand Canyon University has Google Analytics Advertising features including Google advertising cookie tracking implemented on [www.gcu.edu](http://www.gcu.edu/ "http://www.gcu.edu"). These features allow Grand Canyon University to track impressions on our website, track demographic and interests of visitors, collect data for remarketing purposes, and track rich media assisted conversions. If you wish to opt out of these Google Analytics features you may follow the instructions on this page: <https://tools.google.com/dlpage/gaoptout/>.
+
+Facebook Tracking 
+
+Grand Canyon University has Facebook tracking features implemented on [www.gcu.edu](http://www.gcu.edu/ "http://www.gcu.edu"), including some, or all of the following; Facebook cookie tracking, web beacons, or similar technologies to collect or receive visitor information. These features provide Grand Canyon University information to measure services and target advertising. If you wish to opt out of these features please visit: <https://www.facebook.com/settings/?tab=ads>.
+
 Changes in Privacy Policy
 
-This privacy policy is current as of the effective date set forth above.  Grand Canyon University reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles.
+This privacy policy is current as of the effective date set forth above. Grand Canyon University reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles.
 
 More information
 
