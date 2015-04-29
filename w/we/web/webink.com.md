@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webink.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201084257id_/http%3A//www.webink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webink.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429043647id_/http%3A//www.webink.com/privacy) for the most accurate reproduction.*
 
 # WebINK and Your Privacy | WebINK Home
 
