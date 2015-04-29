@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companionlink.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029091643id_/http%3A//www.companionlink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companionlink.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429151713id_/http%3A//www.companionlink.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy -- CompanionLink
 
