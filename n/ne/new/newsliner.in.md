@@ -1,82 +1,52 @@
-> *The following text is extracted and transformed from the newsliner.in privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226085631id_/http%3A//www.newsliner.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsliner.in privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429111425id_/http%3A//newsliner.in/privacy-policy) for the most accurate reproduction.*
 
-# NEWSLINER
+# Newsliner- The New journalism
 
-## Privacy Policy
+Privacy Policy
 
-  
+Last updated: March 05, 2015
 
+Newsliner ("us", "we", or "our") operates the http://newsliner.in website (the "Service").
 
-NEWS LINER INDIA MEDIA AND ENTERTAINMENT PVT LTD
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-SOCIAL MEDIA
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Last Updated: December 12  2013
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://newsliner.in
 
-NEWSLINER ("NL") respects the privacy rights of our users and is strongly committed to protecting your privacy. This Privacy Policy applies to this Web site, any newsletters subscribed to via this Web site, information collected and provided to NLP when you subscribe to the digital edition of NL at third-party websites and applications, and information collected offline when you subscribe to the print edition of NEWSLINER, but does not apply to any other products or services or to information collected in any other way (whether offline or online) by NL, its general and limited partners, and its subsidiaries, and their respective general partners and affiliates (collectively "NEWSLINER"), unless expressly indicated by NEWSLINER (such as by including a link to this Privacy Policy on other NEWSLINER websites or on NEWSLINER mobile applications).
+Information Collection And Use  
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, phone number, postal address and other information ("Personal Information").  
+Log Data  
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Collection and Use of Personal Information
+Cookies  
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
 
-NL or a designated service provider collects personal information that you voluntarily provide on this Web site, on third-party websites and applications when subscribing to the digital edition of NEWSLINER, or offline in connection with your NEWSLINER print edition subscription, which may include your name, address, e-mail address, credit card number, billing information, etc. For example, NL or a designated service provider collects personal information when you register on this Web site, request certain NEWSLINER services or products, or submit the information to enter a sweepstakes, contest, or other promotion. This information is used to provide you your requested service or product and to communicate with you. We use any credit card or payment information we acquire from you to fulfill your order. Consistent with the choice you make when providing personal information, NEWSLINER may use your personal information to provide you with information, special offers, and promotions via various means including e-mail. You may instruct NL at any time not to use your personal information covered by this Privacy Policy to provide you with information, special offers, and promotions by clicking here. You can also update your settings for receiving offers and promotions by email by clicking here. Please note that if you exercise choice in this manner, you will continue to receive communications concerning your account and products and services you requested, and in response to any requests for information by you. Your choice does not apply to any other NEWSLINER products or services to which you may subscribe or purchase. Please also note that this opt-out process may take some time to complete, consistent with applicable law.
+We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-Use of Cookies and Other Electronic Tools
+Service Providers  
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.  
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-NL and the parties with whom we work (e.g., service providers, business partners) may place, view, and/or use "cookies," Web server logs, Web beacons, or other electronic tools to collect statistical and other information about your use of this Web site and other websites. This information may include information about the IP address of your computer, browser type, language, operating system, your mobile device, geo-location data, the state or country from which you accessed this Web site, the Web pages visited, the date and the time of a visit, and the websites you visited immediately before and after visiting this Web site.
+Security  
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-NL and the parties with whom we work may use the information collected for various reasons, either on behalf of NEWSLINER or for the other parties own purposes, including research, analysis, to better serve visitors to this Web site (such as by enabling log-in, providing access to certain sections of this Web site, providing customized content, or presenting online advertising on this Web site or other websites tailored to your interests as described further below), to compile aggregate and anonymous information about usage of this Web site and other websites, other statistics, etc. However, if you have deleted and disabled cookies, these uses will not be possible to the extent they are based on cookie information.
+Links To Other Sites  
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-To assist us with the uses described in this Privacy Policy, information collected about your use of this Web site or other websites may be combined with personal or other information about you from other online or offline sources. If you prefer that we not combine non-personal information that has been collected, through cookies, about your use of this Web site or other websites with personal or other information about you, then please delete and disable cookies for each browser, on each computer you use to surf the Web.
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Most browsers are set to accept cookies by default. If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. Likewise, most mobile devices allow you to disable the ability for geo-location information to be collected from your mobile device. The help function on most browsers and mobile devices contains instructions on how to set your browser to notify you before accepting cookies, disable cookies entirely, or disable the collection of geo-location data. You need to set each browser, on each device you use to surf the Web. Thus, if you use multiple browsers (e.g., AOL, Safari, Internet Explorer, Firefox, etc.), you should repeat this procedure with each one. Similarly, if you connect to the Web from multiple devices (e.g., work and home), you need to set each browser on each device. However, if you disable cookies or refuse to accept a request to place a cookie, it is possible that some parts of this Web site, such as the polls, surveys, contests, and product sales, and certain areas of the Web site for which you need to log in, will not function properly, and the advertising you receive when you visit this Web site may not be advertisements tailored to your interests.
+Children's Privacy  
+Our Service does not address anyone under the age of 13 ("Children").
 
-Advertisements
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
 
-NL, its designated service providers, or third-party advertisers or their advertising servers may also place or recognize unique cookies on your computer or use other electronic tools in order to help display advertisements that you see on this Web site or on other websites. Information about your visits to, and activity on, this Web site and other websites, an IP address, the number of times you have viewed an advertisement, and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising and product performance. Web beacons enable us to recognize a browsers cookie when a browser visits this Web site, and to learn which banner ads bring users to this Web site. The use and collection of your information by these third-party service providers, and third-party advertisers and their advertising servers is not covered by this Privacy Policy.
+Changes To This Privacy Policy  
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-NL adheres to the industrys Self-Regulatory Principles for Online Behavioral Advertising located here. To "opt out" of advertising cookies placed by participating companies in the Self-Regulatory Program for Online Behavioral Advertising, and thereby limit the tracking of your online activity and the targeted advertising you receive, please click here. To "opt out" of advertising cookies placed by the Network Advertising Initiatives ("NAI") online behavioral advertising member networks, and thereby limit the tracking of your online activity and the targeted advertising you receive, please click here. Note that even if you opt out of cookies placed by such member networks and participating companies, you will still receive online advertising.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-NLs designated service providers assist NL with advertisement display functions and related analytics for this Web site. For a list of these designated service providers and more information about their anonymous information collection and use practices, please click here.
+Our Privacy Policy agreement was generated by TermsFeed.
 
-Disclosure of Personal Information and Other Information
-
-NL may share your personal and other information with our affiliates (including affiliated websites under common ownership or control) and designated service providers. NL may share with other third parties information about our Web site users, such as your use of this Web site or other websites, and the services provided on this Web site or other websites, but only on an anonymous and aggregate basis. Consistent with the choice you make when providing personal information, NL may also share your personal information with a sponsor or other third party ("Third-Party Provider") that provides you with special offers or promotions that may be of interest to you. You may instruct NL at any time not to share your personal information covered by this Privacy Policy with such Third-Party Providers by clicking here. Please note that (i) this opt-out process may take some time to complete, consistent with applicable law; and (ii) even after such opt-out process is completed, your personal and other information may continue to be shared with our affiliates (including affiliated websites under common ownership or control) and designated service providers.
-
-If you participate in certain features of this Web site (e.g., sharing news stories of interest), please note that any information you or others voluntarily disclose through use of these features, becomes available to the public and/or other users whom you have designated. If you choose to provide access to designated individuals, please be aware that any information you post will be visible to such individuals for their use. NEWSLINER is not responsible for the information that you or others choose to disclose publicly on this Web site, and neither NEWSLINERs nor others use of such information is subject to this Privacy Policy.
-
-NL may also disclose your personal and other information to unaffiliated third parties if we believe in good faith that such disclosure is necessary: (a) to comply with the law or in response to a subpoena, court order, government request, or other legal process; (b) to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings; (c) to protect the interests, rights, safety, or property of NEWSLINER or others; (d) to enforce any terms of service on this Web site; (e) to provide you and other users of this Web site with the services or products requested by you and/or the other users (including allowing a purchaser of NL or a NL division to continue to serve you), and to perform other activities related to such services and products, including billing and collection; (f) to provide you with special offers or promotions from NEWSLINER that may be of interest to you; or (g) to operate NEWSLINER's systems properly.
-
-The collection, further use, and/or disclosure of your information by Third-Party Providers or by other third parties is not the responsibility of NEWSLINER. Rather, such collection, use, and/or disclosure is governed by the third parties' privacy policies.
-
-Accuracy and Security of Personal Information
-
-Any personal information you provide to NL is kept on secure servers. NL uses reasonable administrative, technical, personnel, and physical measures (a) to safeguard personal information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the personal information. To help us protect your privacy, you should maintain the secrecy of the logon ID and password you may have set up in connection with your participation in this Web site's service.
-
-Accessing and Updating Your Personal Information
-
-To access, review, rectify, or delete your personal information covered by this Privacy Policy, please contact us by clicking here and choosing the Other Category. All requests must include the following information: first name, last name, and e-mail address and "Privacy" in the Subject line. While NL will make reasonable efforts to accommodate your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.
-
-Transfer of Personal Information To Other Countries
-
-Some of the uses and disclosures mentioned in this Privacy Policy may involve the transfer of your personal information to various countries around the world that may have different levels of privacy protection than your country. By submitting your personal information, you consent to such transfers.
-
-Links To Third-Party Websites
-
-NL may provide links to third-party websites, including social networking websites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those websites before providing any of your information on such sites.
-
-Questions Regarding This Privacy Policy
-
-If you have questions regarding this Privacy Policy, please contact us by clicking here and choosing the Other Category. Please include "Privacy" in the Subject line of your inquiry.
-
-Your I Privacy Rights
-
-Please send an email with your first name, last name, mailing address, email address and telephone number to privacy@NEWSLINER.com. Please include (Privacy Rights) in the Subject line of your email. You may also make such a request by writing to us at:
-
-NEWSLINER
-
-Attn: Legal Department
-
- MUMBAI
-
-Modifications To This Privacy Policy
-
-NL reserves the right to change this Privacy Policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
+Contact Us  
+If you have any questions about this Privacy Policy, please contact us.
