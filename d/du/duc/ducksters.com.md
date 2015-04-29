@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130004838id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ducksters.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429030855id_/http%3A//www.ducksters.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Ducksters: Privacy Policy
 
@@ -22,15 +22,11 @@ Give the ability to children under 13 to publicly post or otherwise distribute p
 
 Entice a child under 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in such activity. 
 
-If www.ducksters.com ever requests personally identifiable information, we will also place prominent notice where personally identifiable information is collected, requesting the child to ask a parent for permission to answer the questions. 
-
 **Privacy Policy Regarding Adults**
 
 **www.ducksters.com does not:**
 
 Collect personally identifiable information on the website. 
-
-If it does begin collecting such information, prior consent will be obtained from the users of the site, options will be provided to not provide such information, and the uses of the information will be specified. If information will be divulged to third parties, users will be notified prior to collecting the information. 
 
 **Privacy Policy Regarding Google Adsense as a third party vendor:**
 
@@ -42,7 +38,9 @@ Google Adsense may use online behavioral advertising (OBA) and/or multisite adve
 
 **Privacy Policy Regarding Media.net as a third party vendor:** www.ducksters.com may also use the [Media.net](http://www.media.net/) ad network to serve ads on the site. Media.net may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://www.media.net/privacy-policy). You can opt out of their cookies [here](http://www.aboutads.info/choices/). 
 
-**Privacy Policy Regarding Q1media as a third party vendor:** www.ducksters.com may also use the [Q1media](http://www.q1media.com/) ad network to serve ads on the site. Q1media may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://q1media.com/sites/default/files/q1media-privacy-policy-6-10-2013.pdf). You can opt out of cookies [here](http://www.aboutads.info/choices/). Q1media treats www.ducksters.com as a COPPA site when serving ads. 
+**Privacy Policy Regarding SuperAwesome as a third party vendor:** www.ducksters.com may also use the [SuperAweseom](http://www.superawesome.tv/home/) ad network to serve ads on the site. SuperAwesome may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://www.superawesome.tv/privacy_policy/). SuperAwesome treats www.ducksters.com as a COPPA site when serving ads. 
+
+**Privacy Policy Regarding Matomy media as a third party vendor:** www.ducksters.com may also use the [Matomy Media](http://www.matomy.com/) ad network to serve ads on the site. Matomy Media may use cookies to gather some non-personally identifiable information. You can read their privacy policy [here](http://www.matomy.com/assets/global-privacy-policy). Matomy media treats www.ducksters.com as a COPPA site when serving ads. 
 
 **Privacy Policy Regarding Analytics:**
 
@@ -52,7 +50,7 @@ Ducksters currently uses a program called Google Analytics to track various webs
 
 If you have any questions or concerns regarding our privacy policy please contact us at mail@ducksters.com. 
 
-**Last Updated: 10/22/14**
+**Last Updated: 2/19/15**
 
 Back to [**Ducksters**](http://www.ducksters.com/) Home Page
 
