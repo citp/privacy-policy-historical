@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareazaweb.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922004827id_/http%3A//www.shareaza.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareazaweb.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429155117id_/http%3A//www.shareaza.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Official Home of Shareaza
 
