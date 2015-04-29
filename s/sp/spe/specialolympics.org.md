@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217044349id_/http%3A//www.specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429041352id_/http%3A//www.specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Special Olympics: Privacy Policy
 
@@ -20,6 +20,8 @@ Special Olympics understands the importance of protecting your personal informat
 
   
 **SPECIAL OLYMPICS MAY SHARE YOUR PERSONAL INFORMATION:** Special Olympics  may use your information to: complete your donations; contact you about our on-going work; discuss employment opportunities and ways that you can further support our efforts to support our mission; fulfill your requests for products, programs, and services; communicate with you and respond to your inquiries; conduct research about Special Olympics programs, services and Network; help offer you other  programs or services that may be of interest.   We may also share your information with other Special Olympics Accredited Programs so that we may provide any requested services or information at the local level.  For example, if you are requesting a calendar of events in your area, we may share your e-mail information with the local Special Olympics Accredited Program so that it can provide you with that information.  Your personal information will also be used to provide you access to the various sections of our website that have been personalized for your needs. Special Olympics  may share, rent or exchange donor names and postal addresses with third parties. Except in the limited circumstances outlined below, Special Olympics will never intentionally share your e-mail addresses, phone numbers or financial information. 
+
+We occasionally exchange our donor name and address list with other reputable nonprofit organizations to keep our costs down. If shared, the other nonprofit organization is only permitted to use such information for a one-time mailing and cannot use it for telemarketing purposes. You can opt out of this exchange at any time by contacting us at DonorServices@SpecialOlympics.org and providing your complete name and address. 
 
 **EXCEPTIONS:** Special Olympics reserves the right to share your personal information in certain situations:
 
