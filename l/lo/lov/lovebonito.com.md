@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovebonito.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223220616id_/http%3A//www.lovebonito.com/content/7-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovebonito.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430014547id_/http%3A//www.lovebonito.com/content/7-policies) for the most accurate reproduction.*
 
 # Policies - Love, Bonito | Empowering Confidence Through Style
 
