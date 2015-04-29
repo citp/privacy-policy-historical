@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203001934id_/http%3A//aitsl.edu.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430001828id_/http%3A//www.aitsl.edu.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Institute for Teaching and School Leadership
 
