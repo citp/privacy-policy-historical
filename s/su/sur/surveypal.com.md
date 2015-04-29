@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveypal.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701161710id_/http%3A//www.surveypal.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypal.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429032308id_/http%3A//www.surveypal.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Surveypal Feedback Automation
 
@@ -17,17 +17,17 @@ Surveypal complies with the U.S. – E.U. Safe Harbor Framework as set forth by 
 
 When you contact us requesting a demo of our service, ask us questions regarding services or signing up for one of our Academy programs we will ask you for information such as your name, phone number and email address.
 
-**Newsletters**
+ **Newsletters**
 
 When you sign up for our services, we will send you newsletter(s) or communications regarding products which may be of interest to you. If you no longer wish to receive these communications you can follow the unsubscribe instructions contained in each of the email communications you receive or by contacting us at [helpdesk@surveypal.com](mailto:helpdesk@surveypal.com).
 
-**Service-related Announcements**
+ **Service-related Announcements**
 
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
-**Service Providers**
+ **Service Providers**
 
 We use other third parties such as an email service provider to send out emails on our behalf. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service.
 
@@ -42,7 +42,7 @@ Surveypal has no direct relationship with the individuals whose personal data it
 
 ### Additional Information
 
-**Sharing Personal Information**
+ **Sharing Personal Information**
 
 We will not share your personal information only as outlined within this privacy statement.  
 – We may disclose your personal information  
@@ -51,17 +51,17 @@ We will not share your personal information only as outlined within this privacy
 – if Surveypal is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,  
 – to any other third party with your prior consent to do so.
 
-**Access to Personal Information**
+ **Access to Personal Information**
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by logging into your account and making the appropriate changes or by emailing us at [helpdesk@surveypal.com](mailto:helpdesk@surveypal.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
 We will retain personal data we process on behalf of our Clients as well as your personal information for as long as your account is active or as needed to provide you with our services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Security**
+ **Security**
 
 The security of your personal information and our clients’ information is important to us. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact [helpdesk@surveypal.com](mailto:helpdesk@surveypal.com).
 
-**Tracking Technologies**
+ **Tracking Technologies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site and within our service. We may link the information stored in cookies to personal information you submit on our site.
 
@@ -71,19 +71,19 @@ As is true of most Web sites, we and our third party tracking-utility partner to
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
-**Social Media Features**
+ **Social Media Features**
 
 Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-**Links to Other Web Sites**
+ **Links to Other Web Sites**
 
 This Web site contains links to other sites that are not owned or controlled by Surveypal. Please be aware that we, Surveypal, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
-**Changes to This Privacy Statement**
+ **Changes to This Privacy Statement**
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**Contact Us**
+ **Contact Us**
 
 If you have any questions regarding our privacy statement you may contact us at [helpdesk@surveypal.com](mailto:helpdesk@surveypal.com) or via postal mail at  
 225 Bush St San Francisco, CA 94104
