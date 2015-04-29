@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardpay.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120213316id_/http%3A//www.cardpay.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardpay.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429104814id_/http%3A//www.cardpay.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -47,7 +47,7 @@ We do not sell or rent your personal information to third-parties for their mark
 
 ## How we share personal information with other CardPay Inc. users
 
-To process your payments, we need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of payments you have received from verified CardPay Inc. users, and whether you have verified control of a bank account are provided to other CardPay Inc. users who you transact with through CardPay Inc.. In addition, this and other information may also be shared with third parties when you use these third parties to access CardPay Inc. services. Unless you agreed to it, these third parties are not allowed to use this information for any other purpose other than to enable the CardPay Inc. Services.
+To process your payments, we need to share some of your personal information with the person or company that you are paying or who is paying you. Your contact information, date of sign-up, the number of payments you have received from verified CardPay Inc. users, and whether you have verified control of a bank account are provided to other CardPay Inc. users whom you transact with through CardPay Inc.. In addition, this and other information may also be shared with third parties when you use these third parties to access CardPay Inc. services. Unless you agreed to it, these third parties are not allowed to use this information for any other purpose other than to enable the CardPay Inc. Services.
 
 If you are buying goods or services and pay through CardPay Inc., we may also provide the seller with your confirmed credit card billing address to help complete your transaction with the seller. The seller is not allowed to use this information to market their services to you unless you have agreed to it.
 
@@ -58,7 +58,7 @@ Regardless, we will not disclose your credit card number or bank account number 
 ## How we share personal information with other parties
 
   * Service providers under contract who help with parts of our business operations; (fraud prevention, collection activities, marketing, technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
-  * Companies that we plan to merge with or be acquired by. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice). 
+  * Companies that we plan to merge with or may be acquired by. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice). 
   * Law enforcement, government officials, or other third parties when: 
     * we are compelled to do so by a subpoena, court order or similar legal procedure,
     * we need to do so to comply with law or credit card association rules
