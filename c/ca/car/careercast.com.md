@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212163733id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429081130id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CareerCast.com
 
-Adicio, Inc. and its website: CareerCast.com (“CareerCast.com Site”) are committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the CareerCast.com Site and does not apply to information we collect in any other fashion.
+Adicio, Inc. and its website: CareerCast.com ("CareerCast.com Site”) are committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the CareerCast.com Site and does not apply to information we collect in any other fashion.
 
 Your data will be stored and processed in whole or in part in the United States. The information we gather on the CareerCast.com Site may be shared within the Adicio-affiliated companies on a worldwide basis in order to deliver the products and services we offer to employers such as searches for job seekers or in order to undertake analysis of our database such as aggregate profiling of our registered users. "Affiliated companies" means entities that control, are controlled by or are under common control with Adicio, Inc.
 
@@ -36,7 +36,7 @@ Choices Regarding the Disclosure of Personal Information to Others
 
 We do not disclose your personal information to third parties, or your combined personal and demographic information or information about your use of CareerCast.com (such as the areas you visit or the services you access), except as set forth below:
 
-  1. We disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the opportunities, products or services of third parties at the time you register for an account, we supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. If you do not want us to share your personal information with these companies, contact us at. We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third-party.
+  1. We disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the opportunities, products or services of third parties at the time you register for an account, we supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. If you do not want us to share your personal information with these companies, contact us at [careercastsupport@adicio.com](mailto:careercastsupport@adicio.com). We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third-party.
   2. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
   3. We disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
   4. We disclose and transfer information to a third party who acquires all or a substantial portion of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of a bankruptcy proceeding, whether voluntary or involuntary, we or our trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court. You will be notified of sale of all or a substantial portion of our business to a third party via email or through a prominent notice posted on the CareerCast.com Site.
@@ -115,7 +115,7 @@ Please note this does not opt you out of being served ads.  You will continue t
 
 **Use of Cookies and Other Tracking Technologies**
 
-Technologies such as: cookies, beacons, tags and scripts are used by ADICIO, Inc. and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers  [specify type e.g. online customer support provider, etc].
+Technologies such as: cookies, beacons, tags and scripts are used by ADICIO, Inc., affiliates, or analytics or service providers (3rd-party analytics applications).
 
 These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
@@ -125,7 +125,7 @@ We do not link the information we store in cookies to any personal information y
 
 If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on CareerCast.com.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.]
+We use Local Storage Objects (LSOs) such as HTML5 to store user preferences.
 
 Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
@@ -189,4 +189,4 @@ Adicio, Inc. is the legal entity, which determines the purposes and means of pro
 
 Thank you for using CareerCast.com.
 
-Update Effective November 18, 2014
+Update Effective December 15, 2014
