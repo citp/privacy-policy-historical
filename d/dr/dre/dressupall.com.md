@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupall.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226131644id_/http%3A//www.dressupall.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupall.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429062651id_/http%3A//www.dressupall.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Dress up games - Free online games for Girls
 
