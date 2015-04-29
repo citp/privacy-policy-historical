@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awardspace.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223055620id_/http%3A//www.awardspace.com/information/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardspace.net privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429064859id_/http%3A//www.awardspace.com/information/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 We care deeply about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:  
 We will NOT collect, use, or distribute personally identifiable information to third parties without prior verifiable parental consent.  
-We will NOT grant children access to unmonitored chat rooms, message boards, email accounts, or other services that could give the them the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent.
+We will NOT grant children access to unmonitored chat rooms, message boards, email accounts, or other services that could give them the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent.
 
   10. **News Letter Notification Policy**
 
