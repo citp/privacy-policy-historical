@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217125230id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429045816id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Playrix
 
@@ -31,9 +31,11 @@ We do not store any credit card information (name on credit card, credit card nu
 
 This site contains links to other sites. We are not responsible for the privacy practices or the content of such websites.
 
-By using the Playrix website, products, or services, you signify your understanding of and assent to the Playrix Privacy Policy. If you do not agree to this policy, we strongly urge that you do not use the Playrix website, products, or services.
-
 When you use or connect to a Playrix website or download a Playrix mobile application by or through a Third Party Platform—including Facebook—you allow us to access and/or collect certain information from your Third Party Platform profile/account. You additionally allow us to access information contained in cookies placed on your device by the Third Party Platform as permitted by the terms of your agreement and privacy settings with the Third Party Platform. We may share this information with the Third Party Platform for their use as permitted by the terms of your agreement and privacy settings with the Third Party Platform.
+
+Our games may contain third party tracking tools from our service providers, for example, Google Analytics. Such third parties may use SDKs, APIs, and cookies in our games to enable them to collect and analyze user information on our behalf. In order to provide their services, the third parties may have access to information such as your IP address, MAC address, geo-location information, IMEI, device identifier. For more information about Google Analytics privacy policy and opt-out opportunities, please, visit this [link](http://www.mobileapptracking.com/privacy-policy/).
+
+By using the Playrix website, products, or services, you signify your understanding of and assent to the Playrix Privacy Policy. If you do not agree to this policy, we strongly urge that you do not use the Playrix website, products, or services.
 
 If, for any reason, you are concerned with the way that we may be using your personal information, you have questions about the privacy aspects of our products or services, or you wish to file a complaint, please contact us at [contact@playrix.com](mailto:contact@playrix.com?subject=Privacy%20Policy).
 
@@ -53,5 +55,5 @@ Press
   
 ---|---  
   
-©2004-2014 Playrix®. 22 Puteiskaya St, Vologda 160000, Russia. All rights reserved.  
+©2004-2015 Playrix®. 22 Puteiskaya St, Vologda 160000, Russia. All rights reserved.  
 All names are trademarks or registered trademarks of Playrix or their respective owners. 
