@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hcgdietinfo.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012061550id_/http%3A//hcgdietinfo.com/diet-hcg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcgdietinfo.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429150130id_/http%3A//hcgdietinfo.com/diet-hcg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
+
+[](http://hcgdietpacks.com/)
 
 **What information do we collect?**
 
