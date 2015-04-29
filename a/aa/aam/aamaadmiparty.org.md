@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aamaadmiparty.org privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224175359id_/http%3A//www.aamaadmiparty.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamaadmiparty.org privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429110416id_/http%3A//www.aamaadmiparty.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aam Aadmi Party
 
@@ -65,5 +65,8 @@ Aam Aadmi Party, Ground Floor, A-119, Kaushambi, Ghaziabad - 201010
 contact@aamaadmiparty.org
 
 This document was last updated on January 11, 2014
+
+  
+ 
 
 When expressing your views in the comments, please use clean and dignified language, even when you are expressing disagreement. Also, we encourage you to **Flag** any abusive or highly irrelevant comments. Thank you.
