@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mtviggy.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123131338id_/http%3A//www.mtviggy.com/legal/mtviggy-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtviggy.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429065021id_/http%3A//www.mtviggy.com/legal/mtviggy-com-privacy-policy) for the most accurate reproduction.*
 
 # 
 
-**Last Modified:  January 27, 2014  **
+**Last Modified:  January 12, 2015  **
 
-**_Go to_**[ **Terms of Use Agreement**](http://www.mtviggy.com/legal/mtviggy-com-terms-of-use/) ****
+[**Go To Terms of Use Agreement**](http://www.mtviggy.com/legal/mtviggy-com-terms-of-use/) ****
 
 **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -12,27 +12,27 @@ This is the privacy policy ( _Privacy Policy_ ) for mtviggy.com, mtvk.com, mtvde
 
 This Privacy Policy is intended to explain our privacy practices and covers the following areas: ** **
 
-1.    [**When This Privacy Policy Applies**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#WhenThisPrivacyPolicyApplies) **.**  
+1.    **When This Privacy Policy Applies** **.**  
 
-2.    [**U.S. Governing Law; Safe Harbor**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#USGoverningLaw) **.**  
+2.    **U.S. Governing Law; Safe Harbor** **.**  
 
 3.    **Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)** **.  **
 
-4.     [ **Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#OptingOutCertainUsesPersonalInformationOtherInformation) **.**  
+4.      **Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)** **.**  
 
-5.    [**Wireless Marketing Services and Associated Promotional Opportunities**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#wireless) **.**  
+5.    **Wireless Marketing Services and Associated Promotional Opportunities** **.**  
 
-6.    [**Sharing and Disclosure of Personal Information and Other Information**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#SharingDisclosurePersonalInformationOtherInformation) **.**  
+6.    **Sharing and Disclosure of Personal Information and Other Information** **.**  
 
-7.    [**Reviewing, Updating or Deleting Certain Information**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#ReviewingUpdatingDeletingCertainInformation) **.**  
+7.    **Reviewing, Updating or Deleting Certain Information** **.**  
 
-8.    [**Protection of Information**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#ProtectionInformation) **.  **
+8.    **Protection of Information** **.  **
 
-9.    [**Your California Privacy Rights**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#CaliforniaPrivacyRights) **.**
+9.    **Your California Privacy Rights** **.**
 
-10. [**Changes to this Privacy Policy and Notice**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#ChangesPrivacyPolicyNotice) **.**  
+10. **Changes to this Privacy Policy and Notice** **.**  
 
-11. [**Miscellaneous**](http://www.mtviggy.com/legal/mtviggy-com-privacy-policy/#Miscellaneous) **.**  
+11. **Miscellaneous** **.**  
 
 **1.          When This Privacy Policy Applies. **
 
@@ -46,7 +46,7 @@ The Site is designed and targeted to U.S. audiences and is governed by and opera
 
 If you are located in the European Economic Area ( _EEA_ ) and Switzerland, for detailed information on our privacy policy and practices with respect to personal information transferred from the EEA and Switzerland, please see our Safe Harbor Privacy Policy located at [http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf). 
 
-If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with ** ** this Privacy Policy and the  ** _Flux Privacy Policy_**  and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
+If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with ** ** this Privacy Policy and the  ** _[Flux Privacy Policy](http://www.socialproject.com/PrivacyPolicy.html)_**  and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
 
 **3.          Collection** **and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).  **
 
@@ -234,7 +234,7 @@ Generally, we do not sell, rent, lease or disclose your Personal Information to 
 
 **7.          Reviewing, Updating or Deleting Certain Information.** 
 
-Generally, you may review, update or delete certain Information collected by the Site by, if you are a registered user of the Site and logged into the Site, by clicking Profile or your display name at the top of the Site and then selecting Edit Profile. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID. Certain Information collected for certain entries into Promotions are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user s request, unless the entrant is a child under the age of 13 years old. ** ** If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries.   
+Generally, you may review, update or delete certain Information collected by the Site by, if you are a registered user of the Site and logged into the Site, by clicking Profile or your display name at the top of the Site and then selecting Edit Profile. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID. Certain Information collected for certain entries into Promotions are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user s request, unless the entrant is a child under the age of 13 years old. ** ** If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries. See Section 9 of the **[Terms of Use Agreement](http://www.mtviggy.com/legal/mtviggy-com-terms-of-use/)** for how registered users of this Site who are California residents and are under 18 years of age may request removal of content or Information in Postings.    
   
 
 
@@ -271,4 +271,4 @@ Further, if you use any of the Communities features and functions made available
 
 **d. Other**.   Please review ** ** our [ **Terms of Use Agreement**](http://www.mtviggy.com/legal/mtviggy-com-terms-of-use/)  which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. 
 
-This Privacy Policy was last modified on the date indicated above and is effective immediately. Copyright 2014 Viacom Media Networks, a division of Viacom International Inc. All Rights Reserved.  
+This Privacy Policy was last modified on the date indicated above and is effective immediately. Copyright 2015 Viacom Media Networks, a division of Viacom International Inc. All Rights Reserved.  
