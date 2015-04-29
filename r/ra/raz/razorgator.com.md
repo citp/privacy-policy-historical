@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the razorgator.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208085053id_/http%3A//www.razorgator.com/tickets/about-us/privacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorgator.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429060849id_/http%3A//www.razorgator.com/tickets/about-us/privacysecurity) for the most accurate reproduction.*
 
 # Razorgator Tickets Privacy Policy & Security | Live Event Tickets
 
@@ -10,13 +10,10 @@ That's why we've provided this Privacy Policy which sets forth our policies rega
 
 We encourage you to review and familiarize yourself with our Privacy Policy, but be assured that we do not sell or rent our customers' personal information to third parties. If you have any further questions or concerns, please contact us at 310.481.3400. 
 
-Razorgator is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.razorgator.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. This privacy statement covers sites ending in Razorgator.com, which includes versions of our site that are accessed through our partner sites.   
-[](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.razorgator.com&ctv_group=US)
-
 Some of our marketing partners use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.razorgator.com only and does not cover the use of cookies by any advertisers. 
 
 Razorgator   
-If you have questions or concerns regarding this statement, you should first contact the Privacy Team at 4094 Glencoe Ave. Suite A, Marina del Rey, CA 90292. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact the Privacy Team at 4094 Glencoe Ave. Suite A, Marina del Rey, CA 90292.
 
 Special note about children   
 This site is targeted primarily for use by adults. We do not currently market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information, nor do we knowingly collect any personal information from children under the age of 13 years. However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any personal information on our site. In the event that we discover that a child under the age of 13 has provided personal information to us, in accordance with the Children’s Online Privacy Protection Act (please see the Federal Trade Commission’s website at www.ftc.gov/kidzprivacy for more information about this Act), we will delete the child’s Personal Information from our files to the extent technologically possible. 
