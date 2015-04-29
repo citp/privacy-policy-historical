@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filegoat.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101052435id_/http%3A//filegoat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filegoat.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429114557id_/http%3A//filegoat.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - filegoat.com
 
@@ -7,10 +7,6 @@ www.download-safe.net protects and guarantees security in the collection and pro
 Through this website personal data will be collected with the purposes of managing and providing our services, sending internal commercial promotions and providing information of interest for users, related the services of the site.
 
 These data are stored in a archive of personal data whose www.download-safe.net is holder, properly registered at the Agency of Data Protection. Nevertheless, the data holder may communicate his/her intention not to be sent any more information at any moment, by sending an email using [our contact form.](http://filegoat.com/contact "contact")
-
-**Identification and contact data of the Company.**
-
-www.download-safe.net is a product of Immobilien AG Bergurag. It is a Swiss company based in 8588 Bottighofen, Hauptstrasse 34. Telephone: 0041 767 28-45
 
 **Terms of use and Privacy Policy.  
 ** Should users wish to file any complaints, they can contact the company through the support form available in the site or sending a message using [our contact form.](http://filegoat.com/contact "contact")
