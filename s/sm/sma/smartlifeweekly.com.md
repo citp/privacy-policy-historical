@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the smartlifeweekly.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231323id_/http%3A//www.smartlifeweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlifeweekly.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429104321id_/http%3A//www.smartlifeweekly.com/uncategorised/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Smart Life Weekly
+# Privacy Policy
 
-    Last Updated on 12 November 2013
-
-## [Privacy Policy](http://www.smartlifeweekly.com/uncategorised/privacy-policy)
+    Last Updated on 13 March 2015
 
  **SmartLifeWeekly.com    \- Privacy Policy**
 
@@ -66,4 +64,5 @@ Furthermore, California Law requires us to allow you to control who you would li
 
  **Revisions and Contact Information**  
 We reserve the right to make changes and modifications to this privacy policy at any time we feel that it is appropriate to do so. Please check back often to be aware of our modifications.  
-Legal Inquiries: [legal@smartlifeweekly](mailto:legal@smartlifeweekly.com)
+Legal Inquiries: [smartlifeweekly@gmail.com](mailto:smartlifeweekly@gmail.com) [  
+](mailto:legal@smartlifeweekly.com)
