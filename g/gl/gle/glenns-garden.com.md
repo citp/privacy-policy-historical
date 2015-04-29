@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the glenns-garden.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804115227id_/http%3A//www.glenns-garden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glenns-garden.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429235815id_/http%3A//www.glenns-garden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glenns Garden Gardening Blog
+
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.glenns-garden.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 At www.glenns-garden.com, the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by www.glenns-garden.com and how it is used.
 
@@ -24,10 +26,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**
-
-#### Did Not Find What You Were Looking For Search Our Site
-
-**
-
-Custom Search 
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.glenns-garden.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
