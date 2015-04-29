@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ragic.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701175629id_/http%3A//www.ragic.com/sims/reg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragic.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429091324id_/http%3A//www.ragic.com/sims/reg/privacy.html) for the most accurate reproduction.*
 
 # Ragic - Privacy Policy
 
-At Ragic Corporation, we respect your privacy and protect the privacy of your information in an appropriate manner. This policy covers the ways that Ragic Inc. (referred to as â€œRagicâ€, â€œweâ€, â€œusâ€, â€œourâ€) and the services offered on the Ragic.com website (referred to as â€œServicesâ€, â€œServiceâ€) collect, use, disclose, transfer, and store your information.
+At Ragic Corporation, we respect your privacy and protect the privacy of your information in an appropriate manner. This policy covers the ways that Ragic Inc. (referred to as “Ragic”, “we”, “us”, “our”) and the services offered on the Ragic.com website (referred to as “Services”, “Service”) collect, use, disclose, transfer, and store your information.
 
 **Information Collection and Use**
 
@@ -14,7 +14,7 @@ Your usage details such as time, frequency, duration and pattern of use, feature
 
 **Cookies and Other Technologies**
 
-We use temporary and permanent cookies to enhance your experience of our Ragic Services. Temporary cookies will be removed from your computer each time you close your browser. By selecting â€œRemember me on this computer.â€ option in Ragic Services, a permanent cookie will be stored in your computer and you will not be required to sign-in by providing complete login information each time you return to our website. You can choose to decline cookies while at our Web site, however, this may limit your usage of the Service and your ability to access certain areas of the Web site. We may from time to time employ the use of pixel tags on the website and in emails. Pixel tags such as web beacons are 1x1 images that are embedded onto a web page to document traffic and for website analytics without collecting any Personal Information.
+We use temporary and permanent cookies to enhance your experience of our Ragic Services. Temporary cookies will be removed from your computer each time you close your browser. By selecting “Remember me on this computer.” option in Ragic Services, a permanent cookie will be stored in your computer and you will not be required to sign-in by providing complete login information each time you return to our website. You can choose to decline cookies while at our Web site, however, this may limit your usage of the Service and your ability to access certain areas of the Web site. We may from time to time employ the use of pixel tags on the website and in emails. Pixel tags such as web beacons are 1x1 images that are embedded onto a web page to document traffic and for website analytics without collecting any Personal Information.
 
 We may from time to time employ the services of a third party agent to analyze statistical and aggregate data about our website content and user base. This aggregated information is not personally identifiable and is employed in improving website functionality and offerings. To this end, these third parties may employ the use of cookies and, or pixel tags in providing their services. While these third party cookies are not tied to your Personal Information, Ragic does not have access to these cookies nor are we responsible for them.
 
@@ -34,7 +34,7 @@ We have physical, electronic, and procedural safeguards to protect personal info
 
 **Ragic Builder Database Access**
 
-Any content you submit to a Ragic Builder database will not be publicly available unless you voluntarily choose to give permission to other users, or to the general public for that database. Ragic personnel will not review, share, use, or distribute the content of any of your databases without your prior permission or the express permission of the database owner, except as provided in the Terms of Service or as may be required by law. Ragic may access your databases only for the purpose of providing the Services, preventing or addressing service or technical problems, at a customerâ€™s request in connection with customer support matters, or as may be required by law.
+Any content you submit to a Ragic Builder database will not be publicly available unless you voluntarily choose to give permission to other users, or to the general public for that database. Ragic personnel will not review, share, use, or distribute the content of any of your databases without your prior permission or the express permission of the database owner, except as provided in the Terms of Service or as may be required by law. Ragic may access your databases only for the purpose of providing the Services, preventing or addressing service or technical problems, at a customer’s request in connection with customer support matters, or as may be required by law.
 
 **Changes to this Privacy Policy**
 
