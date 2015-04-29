@@ -1,103 +1,112 @@
-> *The following text is extracted and transformed from the dvd.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603113426id_/http%3A//www.express.com/custservice/cs_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvd.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429232941id_/http%3A//dvd.netflix.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Express.com
+# Rent Movies & TV Shows - Netflix DVD
 
-|    
-Search By: Title   Keyword |  |  |   
----|---|---|---  
-   |  |  |   
-|    |  |  |   
-  
-**[EXPRESS](https://web.archive.org/default.asp) >** **[CUSTOMER SERVICE](https://web.archive.org/custservice/default.asp) >** **PRIVACY POLICY** **Our Promise to You, Our Customer**
+This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information by Netflix, Inc. and its affiliated entities ("Netflix"). As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our website or otherwise using our service, you consent to our information practices. 
 
-Express.com is firmly committed to protecting your privacy. Under no circumstances will we use your personal information to send you promotional materials you have not requested nor will we release it to other companies without your explicit consent. At Express.com, privacy _is_ our policy.
+Please note that this Privacy Policy includes embedded hyperlinks that may only be accessed through our website, so if you are reviewing this Privacy Policy through certain Netflix ready devices (for example game consoles or Internet enabled televisions), you may need to visit the website to review these additional hyperlinked terms.
 
-Because the information we gather from you is personal, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. 
-
-**TRUSTe Licensee**
-
-* * *
-
-Express.com, Inc., is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the Express.com Web site. 
-
-When you visit a Web site displaying the TRUSTe trust mark, you can expect to be notified of:   
-[](https://www.truste.org/validate/2867)
-
-  * what personally identifiable information of yours is collected 
-  * what organization is collecting the information 
-  * how the information is used 
-  * with whom the information may be shared 
-  * what choices are available to you regarding collection, use and distribution of the information 
-  * what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control 
-  * how you can correct any inaccuracies in the information. 
-
-Questions regarding this statement should be directed to the Express.com Customer Service Department at [general@express.com](mailto:general@express.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/users/watchdog.html>. **Use of Information**
-
-* * *
-
-When you shop at Express.com, we will occasionally ask you to provide us with some personal information. We need this information to fill your orders, send you important messages, and personalize your shopping experience.
-
-Here is the information we collect at Express.com and how we use it: 
-
-  * When you create an account with Express.com, we will ask for your name, mailing address, phone number, email address and password. With your consent, we will occasionally use this information to contact you about new releases, bargains and special giveaways. You have the option of removing yourself from our mailing list at any time. 
-  * When you purchase an item, we will ask for your shipping address, billing address and your credit card number/expiration date. This information allows us to process and fulfill your order, and to notify you of your order's status. 
-  * If you wish to send a product link to a friend, we will ask for your friend's email address in order to fulfill your request. Express.com will not disclose this email address to other parties or send promotional emails to this address. 
-  * When you enter an Express.com contest or play a promotional game, we will ask for your name, mailing address, email address or other relevant personal information so that we can administer the contest and notify winners. 
-  * If you email Express.com with questions, suggestions or comments, we will collect your email address so that we may respond. 
-  * While you are shopping at Express.com, you may store items you would like to purchase later in a personalized Wish List. If you would like to send this Wish List to a friend or family member, we will ask for that person's email address. 
-  * If your order is to be shipped to another address as a gift, you will need to submit the recipient's name, mailing address and phone number (optional) as the shipping address. 
-  * We also offer Express.com Gift Certificates that can be sent electronically or through the mail. If you purchase one, you must submit the recipient's email or mailing address. Again, Express.com will not disclose this information or use it to send promotional messages. 
-
-**Protecting Your Information**
-
-* * *
-
-Express.com uses a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind secured networks and is accessible only by a limited number of employees who have agreed to comply with all of our privacy and security policies. Passwords and credit card numbers are encrypted in Express.com's secure database, which is also located behind secured networks and certified by Verisign, Inc. All credit card information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in Express.com's databases as stated above. 
-
-Please be sure that your browser is SSL-enabled - we recommend Netscape Navigator version 3.0 or higher, or Microsoft Internet Explorer version 3.0 or higher. You should always upgrade browser software to the latest versions for optimum security.
-
- **AOL Certified Merchant Guarantee**
-
-* * *
-
-Express.com is an AOL Certified Merchant. This means that for all AOL customers, Express.com will abide by AOL's Privacy Policy with regard to any information you submit to us. Also, in the unlikely event of credit card fraud, AOL guarantees to cover the full $50 liability not covered by your credit card company for any unauthorized charges. **Cookies and IP Addresses**
-
-* * *
-
-Express.com uses a feature of your Internet browser called a "cookie" to assign a unique identity to your computer. Cookies are files that your Web browser places on your computer's hard drive. Our cookies enable us to provide features such as welcoming you by name, saving your Wish List, storing items in your Shopping Cart between visits, and setting up other preferences you establish during each visit to Express.com.
-
-Express.com also uses cookies to help determine whether you came to Express.com from a particular Internet link or banner advertisement. Cookies can be used to help save and retrieve usernames used on the Express.com site and provide information on past purchases. This is done for convenience and saves you the trouble of reentering information on every visit to Express.com. Cookies cannot be used by Express.com to retrieve any personal information about you unless you have previously purchased from or registered with Express.com. Express.com does not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you.
-
-Most Web browsers automatically accept cookies, but you can usually change your browser's settings to block them. Even without cookies, you can still use most of the features on our site, including placing items in your shopping cart and purchasing them.
-
-Every computer on the Internet is identified by a unique number called an IP address. If you have a static IP address, you get the same number each time you connect. If you have a dynamic IP address, a number is assigned from a pool of addresses maintained by your ISP (Internet Service Provider) on a first-come basis. Express.com only uses your IP address to help diagnose problems with our server and to administer our Web site.
-
- **Links to Other Sites**
-
-* * *
-
-Express.com contains links to partners, advertisers and third-party Internet sites and services that may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of Express.com. Express.com has no responsibility or liability for these independent policies or actions, and is not responsible for the privacy practices or the content of such Web sites. **Change and Modify Your Account**
-
-* * *
-
-Express.com gives users the following options for altering their information in our database or having it removed and stopping our service: 
-
-  * [Click here](https://web.archive.org/myaccount/change_nep.asp) to change your name, email address or password. 
-  * Send an email message to [orders@express.com](mailto:orders@express.com). 
-  * Send a letter to the following postal address:  
+  * Collection and Use of Information
+  * Disclosure of Information
+  * Links to Other Sites
+  * Children
+  * Accessing and Altering Your Information 
+  * Cookies and Other Technologies
+  * Security
+  * Changes to This Policy
+  * Transfer of Information
+  * Contacting Us
 
 
-> Express.com Customer Service  
->  5890 West Jefferson Boulevard  
->  Los Angeles, CA 90016-3194
 
+### Collection and Use of Information
 
-**Changes to Personally Identifiable Information**
+Personal information means information that uniquely identifies you as an individual, specifically your name, postal delivery address, e-mail address, payment method (e.g., credit card, debit card, or other payment method accepted by Netflix). Non-personal information means any information that is not personal information.
 
-* * *
+When you interact with us, we may ask you to supply us with personal information so that we can provide, enhance and personalize our services and marketing efforts. For similar reasons, we may supplement the personal information you provide with publicly available information about you as well as information from other sources, as permitted by law. We use this personal information, for example, to process your registration, your orders and your payments, and to communicate with you on these and other topics. We also use your e-mail address to send you newsletters, as well as messages about new Netflix features, Netflix special offers, promotional announcements, consumer surveys and other correspondence concerning our service. Occasionally, we may send these materials to you via postal mail. If you no longer want to receive the newsletters, other announcements, simply access the "Manage mailing preferences" link on the "Your Account" page and uncheck those items to unsubscribe. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your account transactions.
 
-If at some point in the future we change information usage practices that directly affect your Personally Identifiable Information, we will notify you by email of the relevant changes. At the time of this message, you will be able to opt-out of this information usage by sending a message to the following email: [help@express.com](mailto:help@express.com). **Your Consent**
+We keep track of your interactions with us and collect information related to your use of our service, including but not limited to your online activity, title selections and ratings, payment history and correspondence as well as Internet protocol addresses, device types, unique device data, such as device identifiers, operating systems, any instant watching of movies, TV shows and related activity. We use this information for such purposes as determining in which country you are located so that we may provide localized content, enforcing our terms (such as using device identifiers to determine your eligibility for a free trial), providing recommendations on movies & TV shows we think will be enjoyable, personalizing the service to better reflect particular interests, tracking your instant-watching hours, determining your Internet service provider, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing or administering our service offering. We also provide analysis of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, movie & TV show ratings, consumption habits, commentary, reviews and other non-personal information. For example, we use movie & TV show ratings and consumption behavior to improve our recommendations to you as well as other users.
 
-* * *
+While using the Netflix service, you will have opportunities to post reviews or other personal information in public forums. Please understand that when you post such information, it is made public and is not subject to this policy. We are not responsible for any third party's use of personal information you publicly disclose through our service.
 
-By using the Express.com Web site, you consent to the collection and use of this information by Express.com. If we make any changes to our privacy policy, we will post the changes on this page so that you are always aware of our policies. Express.com reserves the right to modify, alter or update these policies at any time, and you agree to be bound by such modifications, alterations or updates. |   | 
+From time to time, we may partner with companies whose products we believe will interest our members. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements on their behalf, as permitted by law. You can go to the "Manage mailing preferences" link on the "Your Account" page and request that your name be excluded from marketing emails or postal mail. 
+
+Facebook: For members located in certain countries, if you connect your Netflix account to Facebook, we may access information about you and your friends who are registered on Facebook. We may import, use, disclose and retain this information to, among other things, customize and improve the Netflix service for you, your friends and others. In addition, by connecting your Netflix account to Facebook, your friends and others who have access to view information about you on Facebook will also be able to see (on Facebook and on Netflix) that you're a Netflix member as well as what you've watched, rated, and other information about your use of the Netflix service. Please note that Facebook will import, use and retain this information. See Facebook's privacy policy for details. You'll also be able to see similar information about your Facebook friends who are connect with Netflix. You can disconnect from sharing future information by visiting "Your Account." You may also control how certain information is shared with Netflix in your Privacy Settings on Facebook. 
+
+Back to top
+
+### Disclosure of Information
+
+Set forth below is a list of our affiliated entities we share information with: 
+
+Netflix, Inc., 100 Winchester Circle, Los Gatos, California, 95032, U.S.A. 
+
+NGS Services, LLC, 3175 N.W. Aloclek Drive, Hillsboro, Oregon, 97124, U.S.A. 
+
+This list may change from time to time. 
+
+In addition, we use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies, to provide infrastructure and IT services, personalize and optimize our web pages, process credit card transactions, provide customer service, collect debts, analyze and enhance data, including users' interaction with our website, and process consumer surveys. In the course of providing such services, these other companies may have access to your personal information. We do not authorize these companies to use or disclose your personal information except for the purpose of providing the services we request of them. 
+
+We may offer joint promotions or programs that, in order for participation, will require personal information be shared with third parties. For example, we may partner with companies that offer incentives, such as frequent flyer mileage awards, if you sign up or otherwise utilize our service. In fulfilling these types of promotions, we may share your name and other personal information in connection with fulfilling the incentive. By participating in such joint promotions or programs, you consent to our sharing of your personal information. 
+
+Netflix also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to protect, establish or exercise legal rights, or in situations involving potential threats to physical safety. In connection with any reorganization, restructuring, merger or sale, or other transferring of assets we reserve the right to transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our privacy policy. 
+
+Back to top
+
+### Links to Other Sites
+
+The Netflix website contains links to sites operated by third parties whose policies regarding the handling of personal information may differ from ours. While we endeavor to associate with reputable websites, Netflix cannot be responsible for the information handling practices of these other websites. These linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully.
+
+Back to top
+
+### Children
+
+You must be 18 years of age or older to subscribe to the Netflix service. In certain jurisdictions, the age of majority may be older than 18, in which case, you must satisfy that age in order to become a member. While individuals under the age of 18 may utilize the service, they may do so only with the involvement, supervision, and approval of a parent or legal guardian, and subject to our [Terms of Use](http://dvd.netflix.com/TermsOfUse). 
+
+Back to top
+
+### Accessing and Altering Your Information
+
+We give you access to a broad range of information about your account and your interactions with us in the "Your Account" portion of the website. You are responsible for updating and maintaining the truth and accuracy of the personal information you provide to us relating to your account. If you want to access or alter your contact information or change your payment method, you should do so by visiting the "Your Account" section of our website. You must be signed in to access "Your Account." You can also make changes to marketing subscriptions preferences by going to the "Your Account" page. With respect to your personal information, you can request access and that we correct or delete this data by emailing your request to privacy@netflix.com. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, impede the provision or enhancement of or payment for the service, or for which access or alternation is not otherwise required by local law. 
+
+Back to top
+
+### Cookies and Other Technologies
+
+To Enhance our Service
+
+As you interact with our service, we and our service providers may place cookies on your system. Cookies are small pieces of data that are sent to your browser from a web server and stored on your system for record keeping purposes. In general, cookies can make the Internet more useful by storing information about your preferences on a particular system. 
+
+In addition to cookies, we and our service providers use a variety of other technologies, including pixel tags (web beacons), clear gifs, or other technologies built into our application software or your Netflix ready device, to gather information on how users interact with our service. These technologies can help personalize the service for you and help associate your interactions with our service to other information within your account. They can show us, for example, popular pages, conversion rates, viewing patterns, click-through and other information that can be used to improve, operate and monitor our website and other aspects of our service. If your browser is set to not accept cookies, you will not be able to use the Netflix service or website. 
+
+Ads Displayed on Third Party Sites
+
+We use third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies [click here](http://dvd.netflix.com//PrivacyPolicy?id=7687). 
+
+Back to top
+
+### Security
+
+Netflix takes information security very seriously and uses reasonable administrative, technical, physical and managerial measures to protect your personal information from unauthorized access. For example, we utilize Secure Sockets Layering, an industry-standard protocol for certain of your transmissions to us, in order to encrypt the personal information that you send to us through the registration and sign up process.
+
+Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using our service, including our website and user interfaces, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Netflix service. 
+
+In order to provide you with ease of access to your account and to help administer the Netflix service, Netflix implements technology that enables us to recognize you as the account holder and provide you with direct access to your account without requiring you to retype any password or other user identification when you revisit the Netflix service. You can choose not to take advantage of this feature on your computer by unchecking the box "Remember me on this computer" when you login on the website. Netflix ready devices do not have this feature. To remove access to your Netflix account from a device, go to the "Manage Netflix ready devices and computers" link on the "Your Account" page and remove that device from your account. You are responsible for maintaining the confidentiality of your account information and for restricting access to your computer or device through which you access your Netflix account. If you disclose your password to anyone or share your account and/or devices with other people, you take full responsibility for their actions. Where possible, users of public or shared devices should log out at the completion of each visit. If you sell or return a computer or Netflix ready device, you should log-out and deactivate the device before doing so. If you fail to log out and deactivate your device, subsequent users may be able to access certain of your account information. To deactivate a device, go to "[Manage Netflix ready devices and computers.](http://dvd.netflix.com/Player)"
+
+Back to top
+
+### Changes to This Policy
+
+As we update and expand our services, we may make changes to this policy. You should check back for updates to this policy from time to time. You acknowledge that your assent to the [Terms of Use](http://dvd.netflix.com/TermsOfUse) and Privacy Policy subsequent to any changes made following your initial consent as well as, your use of the Netflix website or continued use of our service after our posting of changes to this policy, means that you agree to be bound by such changes. The most current version of this Privacy Policy can be reviewed by visiting our website and clicking on "Privacy Policy" located at the bottom of the pages of the Netflix website. The most current version of the Privacy Policy will supersede all previous versions. We will post prior version(s) on our website when the Privacy Policy is updated. You can see changes from previous versions of the Privacy Policy by visiting our website and [clicking here](http://dvd.netflix.com/PrivacyPolicy?id=7523)
+
+### Transfer of Information
+
+If you use or submit personal information to Netflix, you consent to the transfer of your personal information outside your country of residence to any country where we have facilities or engage third parties, including the United States. You understand that the countries to which we may transfer information may have different level of data protection than your country. 
+
+Back to top
+
+### Contacting Us
+
+If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of the personal information associated with your account, please contact: privacy@netflix.com. Our address is 100 Winchester Circle, Los Gatos, CA 95032, U.S.A. Attention: General Counsel. 
+
+Back to top
