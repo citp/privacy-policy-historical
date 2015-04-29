@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ratedapartments.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018213643id_/http%3A//www.ratedapartments.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedapartments.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429042027id_/http%3A//www.ratedapartments.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - RatedApartments.com
+
+Real reviews, quality guaranteed. 
 
 Rated Interactive Media and its associated websites is strongly committed to your right to privacy and to keeping your personal and financial information secure. The Personal Information that RatedApartments.com collects from you shall be obtained, processed and transmitted in compliance with applicable data protection legislation. We take full responsibility for ensuring that proper security measures are in place to protect your information and store the information in secure databases at secure addresses to prevent unauthorized access. Rated Apartments reserves the right to update information published on the site at any time including (but not exclusive to): rates, descriptions and photographs. Rated Apartments does not guarantee condition or suitability of any product or service as advertised on its website. 
 
