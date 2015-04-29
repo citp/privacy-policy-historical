@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000338id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429130824id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz Articles
 
@@ -21,7 +21,7 @@ ExplorOz recognises that your privacy is very important to you and that you have
   
 
 
-## Go to top 2\. ExplorOz Visitor & Membership systems
+## Go to top 2\. Visitor & Membership systems
 
 ExplorOz utilises a system of user registration (free service) and Membership (annual subscription fee) with various features that are designed to offer a more rewarding and personalised online experience. However, in order to protect these Site features from unscrupulous attack by software programs, we restrict the non-registered user from accessing these Site features.
 
@@ -38,13 +38,13 @@ You can learn more about enhancing your online experience through Membership by 
 
 There are two main ways we collect information about you: 
 
-### i. If you do not log in to ExplorOz using a registered profile
+### i. If you do not log in to using a registered profile
 
 Whenever you visit our site, our servers automatically record information about your usage of the Site such as the time of the visit, its duration and the pages which you visit. This is intended to help us to understand what parts of our Site our users enjoy the most, and to help us to ensure that any advertising is most directly relevant to your interests. The information we collect about you remains anonymous, and we do not link it to any other personal information. 
 
 If you do not want us to retain any information at all, even in an anonymous form, you can use the Preferences on your browser program to remove all cookies and set the browser not to accept cookies in the future. For more information on disabling cookies, [click here](http://www.microsoft.com/info/cookies.htm). 
 
-### ii. If you log in to ExplorOz using a registered profile
+### ii. If you log in to using a registered profile
 
 Once you have registered, you have provided your email address to us. We require the use of your email account in order to verify that your visits to the Site are from a verified individual rather than a spam account or software program. This allows us to open a level of Site access that allows you to utilise the interactive sections on the Site where you may add content (publish) to the Site.
 
@@ -76,7 +76,7 @@ Cookies in and of themselves do not personally identify users, although they do 
 
 ### Your Browsing History
 
-Telstra’s digital advertising network is responsible for placing some of the advertising on this site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer on sites within Telstra’s network is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. You can learn more about the interest based advertising conducted by Telstra here [www.telstra.com.au/privacy/interest-based-advertising](http://www.telstra.com.au/privacy/interest-based-advertising). General information about interest based advertising is available from the industry website www.youronlinechoices.com.au, and you can also opt out of some or all interest based advertising here [www.youronlinechoices.com.au/opt-out](http://www.youronlinechoices.com.au/opt-out).  
+Google’s digital advertising network is responsible for placing some of the advertising on this site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer on sites within Google’s network is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. General information about interest based advertising is available from the industry website www.youronlinechoices.com.au, and you can also opt out of some or all interest based advertising here [www.youronlinechoices.com.au/opt-out](http://www.youronlinechoices.com.au/opt-out).  
 
 
   
@@ -108,13 +108,6 @@ We will not give any of your personal information to Advertisers or any other or
   
 
 
-[ ](http://www.exploroz.com/Shop/Membership/Default.aspx)
-
-Get the full ExplorOz experience when you become a Member. You are currently missing out on so much! Join the ExplorOz community from just $49.95 (12 month Personal subscription).
-
-[www.exploroz.com/Shop/Membership/Default.aspx](http://www.exploroz.com/Shop/Membership/Default.aspx)  
-
-
 We will not send you "spam" (advertising information) without first asking you whether you wish to have promotional information sent to you. If you are receiving promotional information about ExplorOz or its affiliates and do not wish to receive this information any longer, you may remove your name from our list either by visiting the website from which the communication was sent and following the instructions on how to withdraw your information from that site (where that facility is available), or emailing us at info@ExplorOz.com and asking to be removed from our mailing list. Please allow two days for this request to be processed.   
 
 
@@ -125,7 +118,7 @@ We will not send you "spam" (advertising information) without first asking you w
 
 ExplorOz will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Your information is stored on secure servers that are protected in controlled facilities. 
 
-In addition, our employees and the contractors who provide [services](https://web.archive.org/Places/Services.aspx) related to our information systems are obliged to respect the confidentiality of any personal information held by ExplorOz and I.T. Beyond Pty Ltd. However, neither ExplorOz nor I.T. Beyond Pty Ltd. will not be held responsible for [events](https://web.archive.org/Events/Default.aspx) arising from unauthorised access to your personal information. 
+In addition, our employees and the contractors who provide [services](https://web.archive.org/Places/Services.aspx) related to our information systems are obliged to respect the confidentiality of any personal information held by I.T. Beyond Pty Ltd. However, I.T. Beyond Pty Ltd. will not be held responsible for [events](https://web.archive.org/Events/Default.aspx) arising from unauthorised access to your personal information. 
 
 You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the ExplorOz website. Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security. 
 
@@ -140,7 +133,7 @@ As indicated above in section 3, if you do not log on using a registered profile
   
 
 
-## Go to top 10\. ExplorOz and links to other websites
+## Go to top 10\. Links to other websites
 
 ExplorOz provides links to websites outside of the Site. These linked sites are not under the control of ExplorOz, and we cannot accept responsibility for the conduct of companies, organisations or individuals linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using their websites.  
 
@@ -158,7 +151,7 @@ If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we 
 
 ## Go to top 12\. Future changes
 
-Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. ExplorOz [reserves](https://web.archive.org/Places/Reserves.aspx) the right to change its privacy policy at any time and notify you by posting an updated version of the policy on its website.  
+Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. ExplorOz [reserves](https://web.archive.org/Places/Reserves/.aspx) the right to change its privacy policy at any time and notify you by posting an updated version of the policy on its website.  
 
 
   
@@ -184,3 +177,10 @@ You must be registered and logged in to post here.
 Registration is free and takes only seconds to complete!
 
 Loading...
+
+Find us on Facebook
+
+New/Updated
+
+  
+
