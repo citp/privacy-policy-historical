@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngmodels.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205080505id_/http%3A//youngmodels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngmodels.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429064819id_/http%3A//youngmodels.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
