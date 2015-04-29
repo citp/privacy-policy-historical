@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applause.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224041623id_/http%3A//www.applause.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applause.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429100955id_/http%3A//www.applause.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | uTest
 
@@ -32,7 +32,7 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, Applause commi
 
   * For Applause customers: please contact your assigned Project Manager directly and report the incident via email to [support@applause.com](mailto:support@applause.com)
   * For uTest testers: please contact your assigned Community Manager and report the incident via email to [testers@utest.com](mailto:testers@utest.com)
-  * For all others: please contact Applause Information Security at [infosec@applause.com](mailto:infosec@applause.com), 100 Pennsylvania Ave., Framingham, MA 01701
+  * For all others: please contact your primary contact at Applause or [info@applause.com](mailto:info@applause.com), 100 Pennsylvania Ave., Framingham, MA 01701
 
 Applause has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Applause, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints/> for more information and to file a complaint.
 
