@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limeroad.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224040432id_/http%3A//www.limeroad.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limeroad.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430011924id_/http%3A//www.limeroad.com/privacypolicy) for the most accurate reproduction.*
 
 # Love.Create.Share.Shop @ Limeroad!
 
