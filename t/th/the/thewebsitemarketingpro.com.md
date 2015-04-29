@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewebsitemarketingpro.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226031049id_/http%3A//www.thewebsitemarketingpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewebsitemarketingpro.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429123430id_/http%3A//www.thewebsitemarketingpro.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -93,4 +93,4 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 **Policy Modifications  
 ** We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
-[GO BACK](https://web.archive.org/web/20140226031049id_/http%3A//www.thewebsitemarketingpro.com/index.html)
+[GO BACK](https://web.archive.org/web/20150429123430id_/http%3A//www.thewebsitemarketingpro.com/index.html)
