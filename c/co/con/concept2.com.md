@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concept2.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701041443id_/http%3A//www.concept2.com/company/internet-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concept2.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430004857id_/http%3A//www.concept2.com/company/internet-policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Concept2
 
