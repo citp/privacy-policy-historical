@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612001759id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429102726id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
 
 # Security & Privacy at Neiman Marcus Last Call
 
@@ -10,7 +10,7 @@ This website ("website") is operated by The Neiman Marcus Group, Inc., which inc
 
 Personal information provided on the website and online credit card transactions are transmitted through a secure server using Secure Socket Layering (SSL) encryption technology. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area.
 
-You may purchase online merchandise by calling toll-free 1.888.888.4757—24 hours a day, seven days a week. One of our customer service associates will gladly take your order.
+You may purchase online merchandise by calling toll-free 1.800.888.4757—24 hours a day, seven days a week. One of our customer service associates will gladly take your order.
 
 We are committed to handling your personal information with high standards of information security. We take appropriate physical, electronic, and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Our website uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address, and credit card number. Our Customer Care center and stores also operate over a private, secure network. Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information.
 
@@ -24,11 +24,11 @@ As we continue to develop our website and take advantage of advances in technolo
 
 This Privacy Policy was last updated on October 12, 2012. 
 
-The Information We Collect 
+#### The Information We Collect
 
 Generally, you may browse the website without providing any personally identifiable information. However, we may ask you to provide personally identifiable information at various times and places on this website. In some cases, if you choose not to provide us with the requested information, you may not be able to access all of this website or participate in all of its features.
 
-We receive and store any personally identifiable information you enter on the website, whenever you shop with Neiman Marcus?online, through our catalogs, or in our stores, or information you give us in any other way, such as by subscribing to our catalogs, email, or mobile messaging. For example, we may collect the following personally identifiable information: your name, address, telephone number, mobile telephone number, driver's license number, birth date, and email address. If you use a credit or debit card or pay by check, we will also include your account number.
+We receive and store any personally identifiable information you enter on the website, whenever you shop with Last Call online, through our catalogs, or in our stores, or information you give us in any other way, such as by subscribing to our catalogs, email, or mobile messaging. For example, we may collect the following personally identifiable information: your name, address, telephone number, mobile telephone number, driver's license number, birth date, and email address. If you use a credit or debit card or pay by check, we will also include your account number.
 
 When you register with us as an online customer, we may ask for additional information, such as your favorite designers.
 
@@ -38,15 +38,13 @@ From your purchases and other interactions with us, we obtain information concer
 
 When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses, and may collect general information concerning your location. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions. 
 
-When you visit one of our stores, if your mobile device accesses one of our wireless networks we may also automatically collect information about your geo-location based, in part, upon which wireless network has been accessed. When this happens we attempt to de-identify the information, which means that we remove or change (e.g., hash) certain pieces of information that might be used to link the data to you, or to your device. We will not attempt to re-identify geo-location information (i.e., link it to you or your device) unless you affirmatively give us permission to collect geo-location information about you. If you give us such permission, you can later decide to opt-out of geo-location tracking by sending an email to [geo_optout@neimanmarcus.com](mailto:geo_optout@neimanmarcus.com) with your MAC address (which can be found on most mobile devices under the "settings" menu).
-
-The Information We Collect was last updated on April 1, 2013.
+When you visit one of our stores, if your mobile device accesses one of our wireless networks we may also automatically collect information about your geo-location based, in part, upon which wireless network has been accessed. When this happens we attempt to de-identify the information, which means that we remove or change (e.g., hash) certain pieces of information that might be used to link the data to you, or to your device. We will not attempt to re-identify geo-location information (i.e., link it to you or your device) unless you affirmatively give us permission to collect geo-location information about you. If you give us such permission, you can later decide to opt-out via the mobile app you used to opt-in. To disable geo-location on your mobile device, open your Settings app, and tap Privacy. Then, tap on Location Services. Scroll down until you see the "NM" app and tap on the toggle on the right hand side so that the toggle is no longer green.
 
 Our mobile applications will not transmit geo-location information about you to us unless you give them permission to do so.
 
 Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
 
-The Information We Collect was last updated December 16, 2013. 
+The Information We Collect was last updated December 5, 2014. 
 
 #### How We Use the Information We Collect
 
@@ -82,7 +80,7 @@ We provide you with a number of choices regarding our handling of your nonpublic
 Direct Mail or Telephone Marketing: If you shop at the Neiman Marcus or Bergdorf Goodman stores and wish to be removed from the list of customers that receive direct mail or telemarketing calls, please either: 
 
   * Write to: Neiman Marcus Customer Care at P.O. Box 650589, Dallas, Texas, 75265-0589
-  * or call toll-free 1.888-456-5488
+  * or call toll-free 1.800-456-5488
 
 
 
@@ -146,7 +144,7 @@ By using this website, you accept the policies set forth in this Privacy Policy.
 
 We'll be happy to provide additional information or answer any questions. Please: 
 
-**Call toll-free** 1.888.456.5488
+**Call toll-free** 1.800.456.5488
 
 **Write:**
 
