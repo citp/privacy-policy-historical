@@ -1,15 +1,41 @@
-> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2014-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140721152449id_/http%3A//alibabahost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429125216id_/http%3A//alibabahost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Offshore provider | Offshore hosting | Offshore vps | Offshore dedicated
 
-## Privacy Policy 
+## Private Policy
 
-This is the web site of alibabahost Limited. (alibabahost.com)   
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect only the domain name, but not the e-mail address of visitors to our Web page, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor. 
+We are committed to protecting any data collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Statement.
 
-**With respect to cookies:** we use cookies to ensure that visitors are not repeatedly sent the same banner ads.   
-If you do not want to receive e-mail from us in the future, please let us know by contacting us at **support@alibabahost.com.** If you supply us with your postal address on-line you will only receive the information for which you provided us your address. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mail us at the above address. 
+## We are committed to protecting your privacy.
 
-**With respect to security:** We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
+We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.
 
-If you feel that this site is not following its stated information policy, you may contacting us at **info@alibabahost.com.**
+## Information Collected
+
+We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website.
+
+## Information Use
+
+We use the information collected primarily to process the task for which you visited the website. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. Layerservers Inc may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.
+
+## Cookies
+
+Your Internet browser has the in-built facility for storing small files - "cookies" - that hold information which allows a website to recognise your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.
+
+## Disclosing Information
+
+We do not disclose any personal information obtained about you from this website to third parties. We may use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent.
+
+We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals.
+
+## Disclosure to Law Enforcement
+
+Layerservers Inc may disclose any subscriber information to law enforcement agencies without further consent or notification to the subscriber upon lawful request from such agencies. We will cooperate fully with law enforcement agencies.
+
+Changes to this Policy
+
+Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
+
+## Contacting Us
+
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us here. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
