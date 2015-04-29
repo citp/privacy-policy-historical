@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onescrappymom.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223061246id_/http%3A//thinktalkblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onescrappymom.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429105656id_/http%3A//thinktalkblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Think. Talk. Blog.
 
