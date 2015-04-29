@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the hockeystreams.com privacy policy that was archived on 2014-07-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140730231555id_/http%3A//www4.hockeystreams.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hockeystreams.com privacy policy that was archived on 2015-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150429164603id_/http%3A//www6.hockeystreams.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Watch live and on-demand Hockey Streams from the NHL, AHL, OHL, QMJHL, WHL and more!">
 <meta name="keywords" content="hockey streams, hockey archives, NHL, AHL, WHL, CHL, QMJHL, OHL, watch live hockey, live hockey, live nhl">
 <title>Hockey Streams - Privacy Policy</title>
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=397494226937587"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dokv=97fb4d042e/cloudflare.min.js"></script><script type="text/javascript">
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=397494226937587"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dokv=88e434a982/"},atok:"7e30f055fc1b9e7398d861cdae6466d0",petok:"1139c0c0932b95b5e98a443dd01a00cac5cba26c-1406762155-1800",zone:"hockeystreams.com",rocket:"0",apps:{"ga_key":{"ua":"UA-37076625-1","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dokv=97fb4d042e/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"1273527731d22b6a8b8dd58fd49791e2",petok:"2b58924bc7e73329bee039f5bd06c63f7e48e94e-1430325963-1800",zone:"hockeystreams.com",rocket:"0",apps:{"ga_key":{"ua":"UA-37076625-1","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
 <link rel="StyleSheet" href="/css/ui.css" media="screen" type="text/css">
@@ -19,6 +19,7 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
 <script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/jquery-ui.js"></script>
 <script type="text/javascript" src="/js/jquery-timepicker.js"></script>
+<script src="/js/md.js">
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -147,7 +148,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div id="dialog" class="web_dialog" style="display: none;">
 <div class="web_dialog_content" id="dialog_content"></div>
 </div>
-<form method="post" style="display: none;" class="redirectForm" action="https://www6.hockeystreams.com/register/verify"><input type="hidden" name="membership" value="premium"><input type="hidden" name="action" value="new_pay"><input type="hidden" name="username" class="usernameFormFB"> <input type="hidden" name="pay_method" value="CC" style="margin: 0px;"><input type="hidden" name="renew" value="1"><input type="submit" value="Subscribe"></form>
+<form method="post" style="display: none;" class="redirectForm" action="https://www5.hockeystreams.com/register/verify"><input type="hidden" name="membership" value="premium"><input type="hidden" name="action" value="new_pay"><input type="hidden" name="username" class="usernameFormFB"> <input type="hidden" name="pay_method" value="CC" style="margin: 0px;"><input type="hidden" name="renew" value="1"><input type="submit" value="Subscribe"></form>
 <div id="overlay" style="display: none;"></div>
 <script type="text/javascript">
 $().ready(function() {
@@ -351,7 +352,8 @@ $('.header_box').load('/scripts/login_form.php');
 
 $('.loginFormButton').live("click", function() {
 	var username = $('#username').val();
-	var password = $('#password').val();
+	var password = $.md5($('#password').val());
+
 	$.post("/scripts/login.php", { username: username, password: password, random: Math.random }, function(data) {
 		$.trim(data);
 		var d = data.split("banned|");
@@ -376,7 +378,7 @@ $('.multiview').live("click", function() {
 	var id = $(this).data("index");
 	$('#overlay').show();
 	$('#dialog').show().css("width", "900px").css("marginLeft", "-450px");
-	$('#dialog_content').load("/scripts/multiview.php?id="+ id +"&random=1373984614");
+	$('#dialog_content').load("/scripts/multiview.php?id="+ id +"&random=394233059");
 });
 
 $('.logout').live("click", function(e) {
@@ -436,7 +438,7 @@ $(function() {
 <div style="float: left; height: 50px;">
 <a style="display: block;  margin-left: 15px; margin-top: 62px; cursor: pointer;" class="facebook_join">Login with Facebook</a>
 </div>
-<div class="header_box" style="float: right;"><form method="post" action="/verify/login" class="loginForm"><input type="text" class="input" id="username" placeholder="Enter Your Username..."> <input type="password" id="password" class="input hsPass" placeholder="Enter Your 
+<div class="header_box" style="float: right;"><form method="post" action="https://www5.hockeystreams.com/verify/login" class="loginForm"><input type="text" class="input" id="username" placeholder="Enter Your Username..."> <input type="password" id="password" class="input hsPass" placeholder="Enter Your 
 Password..."> <input type="submit" class="button loginFormButton" value="Sign in" style="float: left;"></form>
 <div style="float: right; margin-top: 15px; font-size: 11px;"><a href="/register">Create an account</a></div>
 <div style="float: right; margin-right: 10px; margin-top: 15px; font-size: 11px;"><a href="/forgot_password">Forgot Password</a></div>
@@ -461,6 +463,7 @@ Password..."> <input type="submit" class="button loginFormButton" value="Sign in
 	<li style="padding-left: 15px; padding-right: 15px;"><a href="/devices">EXTERNAL DEVICES</a>
 	<ul>
 		<li><a href="/devices#roku">ROKU</a></li>
+		<li><a href="/devices#chromecast">CHROMECAST</a></li>
 		<li><a href="/devices#boxee">BOXEE</a></li>
 		<li><a href="/devices#xbmc">XBMC</a></li>
 		<li><a href="/devices#plex">PLEX</a></li>
@@ -494,61 +497,266 @@ Password..."> <input type="submit" class="button loginFormButton" value="Sign in
 		<li><a href="/contact_us/faq">F.A.Q</a></li>
 	</ul>
 	</li>
-	<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/support">HELP CENTER</a></li>
+	<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/assist">HELP CENTER</a></li>
 </ul>
 </div>
 <hr>
 <div class="teamDisplay">
 <div id="team_display">
 <input type="hidden" value="" class="show_leagues">
-<div class="contain"><a class="scrollLeft" data-index="0">«</a>
+<div class="contain"><a class="scrollLeft" data-index="100">«</a>
 <div style="float: left;">
 <div class="heading" style="height: 29px; line-height: 27px; border: 0px; margin: 0px; padding: 0px; width: 983px; border-bottom: 1px solid #e2e2e2;">
 <div style="float: left; font-weight: bold; color: #513B9B;"><a href="/calendar">
-Wednesday, July 30th, 2014</a></div>
+Wednesday, April 29th, 2015</a></div>
 <div style="float: left; margin-left: 10px;"><span style="font-weight: normal;">Scores</span>  <a style="cursor: pointer;" class="scores_on">On</a>   <a style="cursor: pointer; color: #000;" class="scores_off">[Off]</a> </div>
 <div style="float: left;">
 <select class="league_picker input" style="padding-top: 3px; width: 120px; margin-top: 0px; text-indent: 0px; padding-left: 5px; margin-left: 20px;">
 	<option value="">Filter league</option>
+		<option value="ahl">AHL</option>
+		<option value="nhl">NHL</option>
+		<option value="ohl">OHL</option>
+		<option value="qmjhl">QMJHL</option>
+		<option value="whl">WHL</option>
 	</select>
 </div>
-<div style="float: right; margin-right: 10px; font-weight: bold; color: #513B9B;">7:15 PM EST</div>
-<div style="float: right; margin-left: 50px;"><div style="clear: both;"></div>
+<div style="float: right; margin-right: 10px; font-weight: bold; color: #513B9B;">12:46 PM EDT</div>
+<div style="float: right; margin-left: 50px;"><div style="float: left; color: #000; margin-right: 5px; font-size: 10px; font-weight: normal;">11 Streams</div>
+	 <a class="section section_active" id="section_1" data-index="0">&nbsp;</a>  <a class="section " id="section_2" data-index="120">&nbsp;</a>  <a class="section " id="section_3" data-index="240">&nbsp;</a> <div style="clear: both;"></div>
 </div>
 <div style="clear: both;"></div>
 </div>
-<div style="width: 984px; white-space: nowrap; overflow: hidden; height: 100px;" id="display_teams"><div style="color: #000; float: left; width: 1004px; line-height: 100px; font-size: 16px; font-weight: bold; font-family: Tahoma; color: #a1a1a1; text-align: center;">There are no games scheduled for today...</div></div>
+<div style="width: 984px; white-space: nowrap; overflow: hidden; height: 100px;" id="display_teams"><div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:00 PM EDT </span> <span class="game_period" style="display: none;">
+		7:30 PM </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/nhl">NHL</a></span>
+<div style="clear: both;"></div>
 </div>
-<a class="scrollRight " data-index="0">»</a>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Detroit Red Wings">Detroit Red Wings</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Tampa Bay Lightning">Tampa Bay Lightning</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/tampa+bay+lightning-vs-detroit+red+wings-04-29-2015/36353" class="soon">7:00 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:00 PM EDT </span> <span class="game_period" style="display: none;">
+		7:00 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ohl">OHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Oshawa Generals">Oshawa Generals</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="North Bay Battalion">North Bay Battalion</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/north+bay+battalion-vs-oshawa+generals-04-29-2015/36390" class="soon">7:00 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:00 PM EDT </span> <span class="game_period" style="display: none;">
+		7:00 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ahl">AHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Worcester Sharks">Worcester Sharks</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Hershey Bears">Hershey Bears</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/hershey+bears-vs-worcester+sharks-04-29-2015/37575" class="soon">7:00 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:00 PM EDT </span> <span class="game_period" style="display: none;">
+		7:00 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ahl">AHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Wilkes-Barre Scranton Penguins">Wilkes-Barre Scranton Penguins</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Syracuse Crunch">Syracuse Crunch</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/syracuse+crunch-vs-wilkes-barre+scranton+penguins-04-29-2015/37576" class="soon">7:00 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:00 PM EDT </span> <span class="game_period" style="display: none;">
+		7:00 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ahl">AHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Chicago Wolves">Chicago Wolves</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Utica Comets">Utica Comets</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/utica+comets-vs-chicago+wolves-04-29-2015/37577" class="soon">7:00 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:00 PM EDT </span> <span class="game_period" style="display: none;">
+		7:00 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ahl">AHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Toronto Marlies">Toronto Marlies</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Grand Rapids Griffins">Grand Rapids Griffins</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/grand+rapids+griffins-vs-toronto+marlies-04-29-2015/37578" class="soon">7:00 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:30 PM EDT </span> <span class="game_period" style="display: none;">
+		7:30 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/qmjhl">QMJHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Rimouski Oceanic">Rimouski Oceanic</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Val-dOr Foreurs">Val-dOr Foreurs</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/val-dor+foreurs-vs-rimouski+oceanic-04-29-2015/37605" class="soon">7:30 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 8:00 PM EDT </span> <span class="game_period" style="display: none;">
+		8:00 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ahl">AHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Oklahoma City Barons">Oklahoma City Barons</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="San Antonio Rampage">San Antonio Rampage</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/san+antonio+rampage-vs-oklahoma+city+barons-04-29-2015/37579" class="soon">8:00 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 8:00 PM EDT </span> <span class="game_period" style="display: none;">
+		8:00 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ahl">AHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Texas Stars">Texas Stars</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Rockford IceHogs">Rockford IceHogs</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/rockford+icehogs-vs-texas+stars-04-29-2015/37580" class="soon">8:00 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 9:00 PM EDT </span> <span class="game_period" style="display: none;">
+		9:00 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/whl">WHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Brandon Wheat Kings">Brandon Wheat Kings</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Calgary Hitmen">Calgary Hitmen</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/calgary+hitmen-vs-brandon+wheat+kings-04-29-2015/36407" class="soon">9:00 PM Start</a> 
+	</div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 10:00 PM EDT </span> <span class="game_period" style="display: none;">
+		10:00 PM EDT </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/whl">WHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Kelowna Rockets">Kelowna Rockets</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px;  height: 17px; text-overflow: ellipsis; overflow: hidden;" title="Portland Winterhawks">Portland Winterhawks</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  
+	<a href="/live-streams/portland+winterhawks-vs-kelowna+rockets-04-29-2015/36408" class="soon">10:00 PM Start</a> 
+	</div>
+		</div>
+</div>
+<a class="scrollRight activeScrollRight" data-index="240">»</a>
 <div style="clear: both;"></div>
 </div>
 </div>
 </div>
 <hr>
 <div id="contain">
+
 <div style="float: left; width: 250px;">
 <div class="heading">Announcements</div>
 <hr>
 <div class="heading_body" style="padding: 0px;">
 <div class="support_entry" style="background: none; padding: 10px; width: 228px;">
-<a title="2014 Playoff Special" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/8034/2014+Playoff+Special">2014 Playoff Special</a>
-<div style="margin-top: 5px; color: #87878a;">Posted 4 months ago</div>
+<a title="2015 Playoff Special" style="text-overflow: hidden; width: 230px;" class="title" href="/assist/categories/1/announcements/11878/2015+Playoff+Special">2015 Playoff Special</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 1 month ago</div>
 </div>
 		<div class="support_entry" style="background: none; padding: 10px; width: 228px;">
-<a title="TrueLive VLC Player (Windows)" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/7520/TrueLive+VLC+Player+Windows">TrueLive VLC Player (Windows)</a>
+<a title="Updated Help Center" style="text-overflow: hidden; width: 230px;" class="title" href="/assist/categories/1/announcements/11109/Updated+Help+Center">Updated Help Center</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 5 months ago</div>
+</div>
+		<div class="support_entry" style="background: none; padding: 10px; width: 228px;">
+<a title="Minor On-demand changes" style="text-overflow: hidden; width: 230px;" class="title" href="/assist/categories/1/announcements/10822/Minor+Ondemand+changes">Minor On-demand changes</a>
 <div style="margin-top: 5px; color: #87878a;">Posted 6 months ago</div>
 </div>
 		<div class="support_entry" style="background: none; padding: 10px; width: 228px;">
-<a title="Public Registration Closed" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/6748/Public+Registration+Closed">Public Registration Closed</a>
+<a title="2014-2015 Season" style="text-overflow: hidden; width: 230px;" class="title" href="/assist/categories/1/announcements/8453/20142015+Season">2014-2015 Season</a>
 <div style="margin-top: 5px; color: #87878a;">Posted 9 months ago</div>
 </div>
 		<div class="support_entry" style="background: none; padding: 10px; width: 228px;">
-<a title="Changing Default Server Locations" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/6189/Changing+Default+Server+Locations">Changing Default Server Locations</a>
-<div style="margin-top: 5px; color: #87878a;">Posted 10 months ago</div>
-</div>
-		<div class="support_entry" style="background: none; padding: 10px; width: 228px;">
-<a title="Changes to On-Demand" style="text-overflow: hidden; width: 230px;" class="title" href="/support/categories/1/announcements/6026/Changes+to+OnDemand">Changes to On-Demand</a>
-<div style="margin-top: 5px; color: #87878a;">Posted 10 months ago</div>
+<a title="2014 Playoff Special" style="text-overflow: hidden; width: 230px;" class="title" href="/assist/categories/1/announcements/8034/2014+Playoff+Special">2014 Playoff Special</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 1 year ago</div>
 </div>
 		<div style="clear: both;"></div>
 </div>
@@ -727,7 +935,7 @@ of any major changes for at least 30 days following the change. </div>
 </div>
 </div>
 <div style="clear: both;">
-<div style="font-weight: bold; text-align: center; font-family: Tahoma; font-size: 12px; position: relative; top: 15px;">Copyright © 2014 HockeyStreams. All Rights Reserved.</div>
+<div style="font-weight: bold; text-align: center; font-family: Tahoma; font-size: 12px; position: relative; top: 15px;">Copyright © 2015 HockeyStreams. All Rights Reserved.</div>
 </div>
 </div>
 </div>
