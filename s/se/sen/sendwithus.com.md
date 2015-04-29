@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the sendwithus.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916122325id_/https%3A//www.sendwithus.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendwithus.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429222558id_/https%3A//www.sendwithus.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy · sendwithus
 
-##### Last Updated: January 27, 2014
+##### Last Updated: February 13, 2015
 
-Thanks for using sendwithus. sendwithus is owned and operated by Techdrop Labs Inc. ("Techdrop Labs"). 
+Thanks for using Sendwithus, and taking the time to read through this =] 
 
-Techdrop Labs is committed to protecting the privacy of your information. This Privacy Statement describes Techdrop Labs' privacy practices. 
+Sendwithus is owned and operated by Techdrop Labs Inc. ("Techdrop Labs").   
+Techdrop Labs is committed to protecting the privacy of your information. 
 
-  1. #### Web Site Covered
+  * #### Web Site Covered
 
-This Privacy Statement covers the information practices of [ http://sendwithus.com ](http://sendwithus.com/). 
+This Privacy Policy covers the information practices of [sendwithus.com](http://sendwithus.com/). 
 
-  2. #### Information Collected
+  * #### Information Collected
 
 Techdrop Labs offers a service under of the name sendwithus (the "Service"). Techdrop Labs collects information from individuals who visit the Company’s Web site (“Visitors”) and individuals who register to use the Service (“Customers”). 
 
@@ -26,7 +27,7 @@ Required Contact Information, Billing Information, and Optional Information are 
 
     * As you navigate the Company’s Web site, Techdrop Labs may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web site (such as the Web pages viewed and the links clicked). 
 
-  3. #### Use of Information Collected
+  * #### Use of Information Collected
 
 The Company uses Data About Techdrop Labs Customers to perform the services requested. 
 
@@ -40,7 +41,7 @@ The Company uses Data About Techdrop Labs Customers to perform the services requ
 
     * Techdrop Labs uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Techdrop Labs Customers to provide personalized information about the Company. 
 
-  4. ##### Web Site Navigational Information
+  * ##### Web Site Navigational Information
 
 Techdrop Labs uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web site (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information that may be collected on the Company’s Web site and how this information may be used. 
 
@@ -70,13 +71,13 @@ From time-to-time, Techdrop Labs engages third parties to track and analyze usag
 
 Techdrop Labs may also contract with third-party advertising networks that collect IP addresses and other Web Site Navigational Information on the Company’s Web site and emails and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts. 
 
-  5. #### Public Forums, Refer a Friend, and Customer Testimonials
+  * #### Public Forums, Refer a Friend, and Customer Testimonials
 
 Techdrop Labs may provide bulletin boards, blogs, or chat rooms on the Company’s Web site directly or via third-party services. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Techdrop Labs is not responsible for the personal information you choose to submit in these forums. 
 
 Techdrop Labs may post a list of Customers and testimonials on the Company’s Web site that contain information such as Customer names and titles. Techdrop Labs obtains the consent of each Customer prior to posting any information on such a list or posting testimonials. 
 
-  6. #### Sharing of Information Collected
+  * #### Sharing of Information Collected
 
 Techdrop Labs may share Data About Techdrop Labs Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Techdrop Labs may also share Data About Techdrop Labs Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this privacy statement, Techdrop Labs does not share, sell, rent, or trade any information provided with third parties for their promotional purposes. 
 
@@ -86,11 +87,7 @@ Techdrop Labs uses a third-party service provider to manage credit card processi
 
 Techdrop Labs reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process. 
 
-  7. #### Privacy Complaints (inc. EU and Swiss Citizens)
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles and in adherence to generally accepted privacy practices, Techdrop Labs commits to resolve complaints about your privacy and our collection or use of your personal information. European Union, Swiss citizens, or others with inquiries or complaints regarding this privacy policy should first contact Techdrop Labs at the email address or physical address below. 
-
-  8. #### International Data Collection and Transfer
+  * #### International Data Collection and Transfer
 
 The Company’s Web site and Services are hosted in the United States. If you are accessing the Web site and/or Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use and disclosure that differ from United States laws, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and other regions. By providing your personal data you consent to: 
 
@@ -100,23 +97,31 @@ The Company’s Web site and Services are hosted in the United States. If you ar
 
 To facilitate Techdrop Labs global operations, the Company may transfer and access Data About Techdrop Labs Customers from around the world, including the United States. This Privacy Statement shall apply even if Techdrop Labs transfers Data About Techdrop Labs Customers to other countries. 
 
-  9. #### Communications Preferences
+  * #### European Union Data Protection
 
-Techdrop Labs offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [ support@sendwithus.com](https://web.archive.org/web/20140916122325id_/https%3A//www.sendwithus.com/legal/support@sendwithus.com). Customers cannot opt out of receiving transactional emails related to their account with Techdrop Labs or the Services. 
+To the extent that we store data in the United States, we comply with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. 
 
-  10. #### Correcting and Updating Your Information
+If you reside in the European Union, upon registration for any applicable Techdrop Labs service or offering you consent that the personal information you have provided may be transferred and stored in countries outside the EU. 
+
+To learn more about the Safe Harbor program, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor). 
+
+  * #### Communications Preferences
+
+Techdrop Labs offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [ support@sendwithus.com](mailto:support@sendwithus.com). Customers cannot opt out of receiving transactional emails related to their account with Techdrop Labs or the Services. 
+
+  * #### Correcting and Updating Your Information
 
 Customers may update or change their registration information by logging in to their accounts at [http://sendwithus.com/login](https://web.archive.org/login). Requests to Techdrop Labs to modify or delete your information will be handled within 30 days once customer account ownership has been verified. 
 
-  11. #### Security
+  * #### Security
 
 Techdrop Labs uses appropriate administrative, technical, and physical security measures to protect Data About Techdrop Labs Customers. 
 
-  12. #### Changes to this Privacy Statement
+  * #### Changes to this Privacy Statement
 
 Techdrop Labs reserves the right to change this Privacy Statement. Techdrop Labs will provide notification of the material changes to this Privacy Statement through the Company’s Web Site at least thirty (30) business days prior to the change taking effect. 
 
-  13. #### Contacting Us
+  * #### Contacting Us
 
 Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to [legal@sendwithus.com](mailto:legal@sendwithus.com) or by mailing
 
@@ -128,3 +133,7 @@ Canada
 
 
 
+
+Congratulations, you made it all the way to the bottom!
+
+Enjoy a cupcake, on the house!
