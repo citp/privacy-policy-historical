@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myflfamilies.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724000354id_/http%3A//www.myflfamilies.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflfamilies.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429144358id_/http%3A//www.myflfamilies.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Florida Department of Children and Families
 
@@ -10,4 +10,4 @@ In addition, information is only gathered regarding the volume and timing of acc
 
 If you choose to share personal information, such as by subscribing to an e-newsletter, sending a message, or filling out an electronic form with personal information, the information will be saved for a designated period of time in order to comply with the state of Florida's archiving policies. However, information will not be disclosed to third parties or other government agencies, unless required by state or federal law. Please note that Florida's public records law requires that all information received in connection with state business be made available to anyone upon request, unless the information is subject to a specific statutory exemption.
 
-If you have other questions about this privacy policy, or have suggestions on how it may be improved, please feel free to e-mail us at [webmaster@dcf.state.fl.us](mailto:webmaster@dcf.state.fl.us)
+If you have other questions about this privacy policy, or have suggestions on how it may be improved, please feel free to e-mail us at [webmaster@myflfamilies.com](mailto:webmaster@myflfamilies.com)
