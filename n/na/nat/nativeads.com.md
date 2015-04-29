@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nativeads.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013033110id_/http%3A//www.nativeads.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeads.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429095909id_/http%3A//nativeads.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Native Ads - Content Worth Viewing - Privacy Policy
+# Native Ads - Native Advertising for Publishers, Advertisers and Agencies | Privacy Policy
 
   
 
@@ -44,7 +44,7 @@ As part of our ad delivery and reporting, we log page views and collect informat
 
 We use Cookies to serve advertisements to users. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors. 
 
-If you are concerned about cookies, most browsers permit individuals to decline cookies. For details of our cookies please refer to [our user cookies](https://web.archive.org/web/20141013033110id_/http%3A//www.nativeads.com/cookie-policy.php).
+If you are concerned about cookies, most browsers permit individuals to decline cookies. For details of our cookies please refer to [our user cookies](https://web.archive.org/web/20150429095909id_/http%3A//nativeads.com/cookie-policy.php).
 
 In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems. 
 
