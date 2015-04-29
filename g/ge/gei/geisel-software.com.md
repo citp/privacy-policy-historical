@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geisel-software.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225180934id_/http%3A//www.geisel-software.com/node/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geisel-software.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429043323id_/http%3A//geisel-software.com/node/8) for the most accurate reproduction.*
 
 # Privacy policy | Geisel Software, Inc.
 
