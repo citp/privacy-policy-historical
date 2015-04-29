@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126030714id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429155708id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Chartbeat
 
