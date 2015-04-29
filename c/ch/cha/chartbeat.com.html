@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chartbeat.com privacy policy that was archived on 2014-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141126030714id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chartbeat.com privacy policy that was archived on 2015-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150429155708id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   
@@ -23,14 +23,14 @@
   
   
     
-      <link rel="stylesheet" type="text/css" href="https://static2.chartbeat.com/css/marketing/secondary-75761de7d6368df649b4b8e8a6a0cbde.css">
+      <link rel="stylesheet" type="text/css" href="https://static2.chartbeat.com/css/marketing/secondary-b762fed0e9cb7d537f7122fbd61e3f4e.css">
     
   
 
 
   
 
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+  <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <script type="text/javascript">
 	var googletag = googletag || {};
 	googletag.cmd = googletag.cmd || [];
@@ -79,16 +79,16 @@
   
 
   
+  
   <script type="text/javascript">
   
-
     (function(){
       function loadChartbeat() {
         window._sf_endpt=(new Date()).getTime();
         var e = document.createElement('script');
         e.setAttribute('language', 'javascript');
         e.setAttribute('type', 'text/javascript');
-        e.setAttribute('src', '//static2.chartbeat.com/js/chartbeat_pubdev.js');
+        e.setAttribute('src', '//static2.chartbeat.com/js/chartbeat_addev.js');
         document.body.appendChild(e);
       };
       document.addEventListener('DOMContentLoaded', function(event) {
@@ -97,7 +97,8 @@
     })();
   
   </script>
-<script type="text/javascript" async="" src="https://munchkin.marketo.net/munchkin.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+  
+<script type="text/javascript" async="" src="https://munchkin.marketo.net/munchkin.js"></script></head>
 
 <body>
     
@@ -209,6 +210,7 @@
                       <li><a href="http://ads.chartbeat.com/signin/">Sign in</a></li>
                       <li><a href="/publishing/for-adsales/display">Display Ads Tools</a></li>
                       <li><a href="/publishing/for-adsales/paid-content">Paid Content Solution</a></li>
+                      <li><a href="/publishing/for-adsales/how-we-measure/">How We Measure</a></li>
                       <li><a href="http://ads.chartbeat.com/paidcontent/demo">Paid Content Demo</a></li>
                       <li><a href="http://lp.chartbeat.com/chartbeat-publishing-for-ad-sales-contact-us.html" class="primary-cta"><span></span>Request More Info</a></li>
                     </ul>
@@ -413,15 +415,19 @@ $(function() {
             valid = false;
         }
 
-        // Fire Adroll member event
-        if (valid && typeof __adroll !== 'undefined') {
-            try {
-                __adroll.record_user({"adroll_segments": "member"});
-            } catch (err) {}
-        }
+        
 
         return valid;
     });
+
+    // Disable sign in button if cookies are disabled
+    if (window.navigator && window.navigator.cookieEnabled === false) {
+        var errorP = document.querySelector('p.message.error.cookiesDisabled');
+        errorP.style.display = 'inline';
+        errorP.innerHTML = 'Please enable cookies before attempting to log in';
+        var signInButton = document.querySelector('.signinButton.red');
+        signInButton.disabled = true;
+    }
   });
 </script>
 
@@ -734,7 +740,29 @@ _gaq.push(['_setDomainName', '.chartbeat.com']);
     
     
     
-    <!-- marketo -->
+    
+    
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" :"http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0]; scpt.parentNode.insertBefore(elem, scpt);})();
+_qevents.push({ qacct:"p-GyLTxUN8wnXSp" });
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-GyLTxUN8wnXSp.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+    
+    
+    
+<!-- marketo -->
 <script type="text/javascript">
 (function() {
   var didInit = false;
@@ -759,6 +787,8 @@ _gaq.push(['_setDomainName', '.chartbeat.com']);
 </script>
 <!-- end marketo -->
 
+
+    
     
     
 
@@ -783,25 +813,8 @@ _gaq.push(['_setDomainName', '.chartbeat.com']);
     
     win._sf_async_config = config;
   }(window));
-
-  
-  var adroll_adv_id = "OSAMX3WOPRBFJG46N4SKCZ";
-  var adroll_pix_id = "36WCEFFOAJBMNPLDLHLIIR";
-  (function () {
-    window.onload = function(){
-      __adroll_loaded=true;
-      var scr = document.createElement("script");
-      var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-      scr.setAttribute('async', 'true');
-      scr.type = "text/javascript";
-      scr.src = host + "/j/roundtrip.js";
-      ((document.getElementsByTagName('head') || [null])[0] ||
-      document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-      };
-    }());
-  
 </script>
 
 
 
-<script language="javascript" type="text/javascript" src="//static2.chartbeat.com/js/chartbeat_pubdev.js"></script></body></html>
+<script language="javascript" type="text/javascript" src="//static2.chartbeat.com/js/chartbeat_addev.js"></script></body></html>
