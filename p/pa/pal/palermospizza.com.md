@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palermospizza.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201035606id_/http%3A//www.palermospizza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palermospizza.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429044325id_/http%3A//www.palermospizza.com/privacy-policy) for the most accurate reproduction.*
 
-# Palermo's Pizza - Privacy Policy
+# Palermo's Pizza - Palermo's Pizza - Privacy Policy
 
 This privacy policy identifies the type of information Palermo Villa, Inc., its affiliates and subsidiaries (collectively, "Palermo's") may collect from visitors of the Palermo's website (the "Website") and how Palermo's uses this information. If you have any questions about this policy, or the manner in which Palermo's uses personal information, we encourage you to contact us. Your use of the Website is also governed by the Terms & Conditions. Use of Customer Information
 
@@ -40,6 +40,6 @@ Palermo's
 Attn: Customer Service   
 3301 West Canal Street   
 Milwaukee, WI 53208   
-(414) 571-7181
+(888) 571-7181
 
 Effective Date: July 23rd, 2012
