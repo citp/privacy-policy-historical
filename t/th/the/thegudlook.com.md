@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thegudlook.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216210733id_/http%3A//thegudlook.com/content/11-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegudlook.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429173608id_/http%3A//thegudlook.com/content/11-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - thegudlook
+
+### Privacy Policy
 
 We are thegudlook.com, a service provided by RGL Fashion Pvt. Ltd. from, Gurgaon, Haryana, India. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
 
