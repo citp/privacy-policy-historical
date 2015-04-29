@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223083103id_/http%3A//www.omaze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429171924id_/http%3A//www.omaze.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Omaze
 
@@ -78,4 +78,4 @@ We reserve the right to modify or amend this policy at any time by posting the r
 
 **How Do We Communicate With you?**
 
-If you have any questions or concerns regarding this Policy, please contact us at **service@omaze.com** , or **** Omaze, LLC, PO Box 3190, 1217 Wilshire Blvd, Santa Monica, CA 90408. If we need, or are required, to contact you concerning any event that involves your information we may decide to do so by email, telephone, or mail.
+If you have any questions or concerns regarding this Policy, please contact us at **service@omaze.com** , or **** Omaze, LLC, P.O. Box 866, 9942 Culver Blvd, Culver City, CA 90232. If we need, or are required, to contact you concerning any event that involves your information we may decide to do so by email, telephone, or mail.
