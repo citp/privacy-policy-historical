@@ -1,41 +1,103 @@
-> *The following text is extracted and transformed from the mychurch.org privacy policy that was archived on 2007-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071228232839id_/http%3A//www.mychurch.org/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychurch.org privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429024637id_/http%3A//www.faithstreet.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | FaithStreet
 
-**MyChurch.org does not spam or sell email addresses.**
+## Privacy Policy
 
-**About MyChurch.org**
+At FaithStreet we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by FaithStreet, Inc. collectively, FaithStreet’s “services.”
 
-Mychurch.org is an online service that allows our members to set up unique personal profiles that can be linked together through networks of friends. MyChurch members can view each others' profiles, communicate with old friends and meet new friends on the service, share photos, post journals and comments, and describe their interests. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and expand their network of friends. MyChurch members can change their profile information at any time and can control how other members and the service communicates with them. 
+If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:   
+Privacy Matters   
+FaithStreet, Inc.   
+460 Park Ave. South, 12th Floor   
+New York, NY 10016 
 
-Mychurch.org cares deeply about online privacy If you have any questions concerning this privacy policy, please email us at support@mychurch.org 
+### Information we collect and how we use it
 
-**Information Collection and Use by MyChurch.org**
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as FaithStreet Search. In order to provide our full range of services, we may collect the following types of information:
 
-Mychurch.org collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the Mychurch.org service. Mychurch.org also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist users in finding and communicating with each other.
+**Information you provide** – When you sign up for a FaithStreet Account or other FaithStreet service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs and church subscription services, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other FaithStreet services or third parties in order to provide you with a better experience and to improve the quality of our services. 
 
-As a matter of policy, except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your membership. However, MyChurch.org may share profile information and aggregate usage information in a non-personally identifiable manner to third parties in the future in order to present to members targeted advertising, products and services. In such situations we will never disclose information that will be used to personally identify you.
+**Cookies** – When you visit FaithStreet, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. FaithStreet also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web. We may set one or more cookies in your browser when you visit a website, including FaithStreet sites that use our advertising cookies, and view or click on an ad supported by FaithStreet’s advertising services. 
 
-User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the Mychurch.org social networking community. Email addresses are used for the purposes of inviting new friends to join MyChurch, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on Mychurch.org with each other through the Mychurch.org service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, Mychurch.org allows users to search for other members using first and last name, email address, and schools/churches and/or companies where users may have attended or worked. 
+**Log information** – When you access FaithStreet services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
 
-**Invitations to non-members**
+**User communications** – When you send email or other communications to FaithStreet, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
 
-MyChurch members can invite friends to join the service by sending invitation emails via our automated invitation system. MyChurch.org does NOT store the member’s login information to any of the 3rd party email clients or social networks available through our automated invitation system.
+**Affiliated FaithStreet Services on other sites** – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to FaithStreet in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies. 
 
-Mychurch.org stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send a reminder of the invitations. Mychurch.org does not sell these email addresses or use them to send any other communication besides invitations. Recipients of invitations from Mychurch.org may contact Mychurch.org to request the removal of their information from our database. 
+**Gadgets** – FaithStreet may make available third party applications through its services. The information collected by FaithStreet when you enable a gadget or other application is processed under this Privacy Policy. Information collected by the application or gadget 
 
-**Use of Cookies**
+**Links** – FaithStreet may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Cookies are used to manage sessions on our site. We do not and will not use cookies to collect private information from any user which they did not intentionally submit to us. 
+**Other sites** – This Privacy Policy applies to FaithStreet services only. We do not exercise control over sites that include FaithStreet applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
-**Email preference**
+FaithStreet only processes personal information for the purposes described in this Privacy Policy.In addition to the above, such purposes include:
 
-Members who no longer wish to receive updates or notifications may choose not to by disabling notification emails in the user profile 'Account Settings'. 
+  * Providing our services, including the display of customized content and advertising;
+  * Auditing, research and analysis in order to maintain, protect and improve our services;
+  * Ensuring the technical functioning of our network;
+  * Protecting the rights or property of FaithStreet or our users; and
+  * Developing new services.
 
-**Changes in our Privacy Policy**
 
-From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days 
 
-**Privacy Tips**
+### Choices for personal information
 
-Please be aware that whenever you voluntarily post public information WebLogs, Bulletin Boards, Sharing or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Please report unsolicited communications to abuse@mychurch.org 
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+
+If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes.
+
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some FaithStreet features and services may not function properly if your cookies are disabled.
+
+You can decline to submit personal information to any of our services, in which case FaithStreet may not be able to provide those services to you.
+
+### Information sharing
+
+FaithStreet only shares personal information with other companies or individuals outside of FaithStreet in the following limited circumstances:
+
+  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of FaithStreet, its users or the public as required or permitted by law.
+  * If FaithStreet becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+
+
+
+Please contact us at the address below for any additional questions about the management or use of personal data.
+
+### Information security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to FaithStreet employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+### Data integrity
+
+FaithStreet processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+### Accessing and updating personal information
+
+When you use FaithStreet services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+
+### Enforcement
+
+FaithStreet regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or FaithStreet’s treatment of personal information by contacting us through this web site or by writing to us at:   
+Privacy Matters   
+FaithStreet, Inc.   
+460 Park Ave. South, 12th Floor   
+New York, NY 10016 
+
+When we receive formal written complaints at this address, it is FaithStreet’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between FaithStreet and an individual.
+
+### Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the bottom of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at:   
+Privacy Matters   
+FaithStreet, Inc.   
+460 Park Ave. South, 12th Floor   
+New York, NY 10016 
+
+Last updated July 18, 2014
