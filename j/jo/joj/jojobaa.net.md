@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jojobaa.net privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112142545id_/http%3A//www.jojobaa.net/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jojobaa.net privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429090915id_/http%3A//www.jojobaa.net/service/privacy) for the most accurate reproduction.*
 
 # Privacy - JoJoBaa.net
 
