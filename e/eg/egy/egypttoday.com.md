@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egypttoday.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211121955id_/http%3A//egypttoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egypttoday.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429051041id_/http%3A//egypttoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Egypt Today
 
