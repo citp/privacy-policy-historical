@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foundrmag.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221184719id_/http%3A//foundrmag.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundrmag.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429233031id_/http%3A//foundrmag.com/our-privacy-policy) for the most accurate reproduction.*
 
-# Foundr | Our Privacy Policy
+# Our Privacy Policy - Foundr
 
 Foundrmag.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.”You” or “Your” means you as a participant in or as a user of the Foundrmag.com website. “We” or “Our” or “Us” means Foundrmag.com “Our site” means Foundrmag.com.
 
@@ -25,7 +25,7 @@ considering you for a Foundrmag.com product; as required by law; and for marketi
 
 ###### 4\. Your opt-out rights
 
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to [support@foundrmag.com](mailto:support@foundrmag.com).
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to [support@foundrmag.com](mailto:support@old.foundrmag.com).
 
 ###### 5\. We do not intend to collect data from children
 
@@ -41,7 +41,7 @@ We reserve the right to change this policy at any time by notifying you of the e
 
 ###### 8\. Our contact information
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to [support@foundrmag.com](mailto:support@foundrmag.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to [support@foundrmag.com](mailto:support@old.foundrmag.com).
 
 ###### 9\. Anti spam policy / Can-Spam Act compliance
 
@@ -81,4 +81,4 @@ Foundrmag.com email messages sent always include information about the origin of
 
 From time to time, Foundrmag.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things, that the data was collected voluntarily from individuals on website registrations and co-registrations, that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and that Foundrmag.com has the right to send marketing offers to the individuals.
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of Foundrmag.com. If you have additional questions or wish to discuss this matter further, please contact us at [support@foundrmag.com](mailto:support@foundrmag.com).
+We hope this information satisfies any questions or concerns you may have regarding the email practices of Foundrmag.com. If you have additional questions or wish to discuss this matter further, please contact us at [support@foundrmag.com](mailto:support@old.foundrmag.com).
