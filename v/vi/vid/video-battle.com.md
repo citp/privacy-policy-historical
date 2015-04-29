@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the video-battle.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113002658id_/http%3A//video-battle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the video-battle.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429074331id_/http%3A//video-battle.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Video Battle
+# Privacy | Video Battle
 
 Privacy
 
