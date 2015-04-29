@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the datapine.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702065034id_/http%3A//www.datapine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datapine.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429032248id_/http%3A//www.datapine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | datapine
 
-## Privacy Policy - Effective as of April 01, 2014
+## Privacy Policy - Effective as of April 20, 2015
 
-## datapine GmbH, Oranienstrasse 185, 10999 Berlin
+## datapine GmbH, SKALITZER STRASSE 33, 10999 Berlin
 
 datapine considers the protection of internet user data privacy to be of utmost priority and adheres strictly to the Data Privacy laws of the European Union and Germany. In this document we outline, which data of website visitors’ datapine collects and processes and how datapine adheres to data security standards with regards to user data.
 
