@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sykescottages.co.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227005942id_/http%3A//www.sykescottages.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sykescottages.co.uk privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429084347id_/http%3A//www.sykescottages.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | Sykes Cottages
 
 Sykes Cottages is sensitive to privacy issues on the Internet. We believe that it is important you know how we treat the information we receive about you on the Internet and how the information is collected.
 
