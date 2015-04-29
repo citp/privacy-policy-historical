@@ -1,30 +1,28 @@
-> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011043248id_/http%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430010545id_/http%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Alienware Arena
 
-Effective Date: March 3, 2013
+Effective Date: March 20, 2015
 
 [](https://privacy.truste.com/privacy-seal/iGames,Inc/validation?rid=920c047d-ef4b-4877-aa39-d9bd6c03fd9f)
 
-This privacy policy describes how we collect and use the personal information you provide on our website: [www.alienwarearena.com](http://www.alienwarearena.com/) (the "Site").
+This privacy policy applies to [www.alienwarearena.com](http://www.alienwarearena.com/) and our service platform owned and operated by iGames, Inc.  It describes how we collect and use the personal information you provide on our website: [www.alienwarearena.com](http://www.alienwarearena.com/) (the "Site").
 
 It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. iGames, Inc. ("iGames") acts as a data processor, collecting and processing the personal information from this Site on behalf of Dell, Inc. ("Dell"). For more information on how Dell controls the personal information submitted, please see their privacy policy on their corporate website located at [www.dell.com](http://www.dell.com/).
 
 iGames has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website www.alienwarearena.com and our service platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the users have engaged iGames. ****  
+The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website www.alienwarearena.com and our service platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the users have engaged iGames. The TRUSTe program does not cover information that may be collected through software downloaded from the Site.  
  
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. ~~~~
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 iGames complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. iGames has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view iGames’ certification, please visit <http://www.export.gov/safeharbor/>
 
 iGames provides services globally and the computer systems on which iGames collects, stores, and uses the information it collects or receives are based in the United States. Your personal information may be transferred to, used, processed or held by iGames in the United States for the purposes set out in this privacy policy.
 
-The TRUSTe program covers only information that is collected through this Site, and does not cover information that may be collected through software downloaded from the Site.
-
 **Collection and Use of Personal Information**  
-We collect the following personal information from you: a) Contact information such as name, email address, mailing address, phone number, and b) Unique identifiers such as user name, account number, password. We also collect from you, demographic information such as age, education, gender, interests and zip code. As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to
+We collect the following personal information from you: a) Contact information such as name, email address, mailing address, phone number, and b) Unique identifiers such as user name, account number, password. We also collect from you, demographic information such as age, education, gender, interests and zip code. We use this information to
 
   * Send you marketing communications on behalf of Dell.
   * Administer contests and sweepstakes you entered, and notify you if you won.
@@ -62,26 +60,30 @@ We may also disclose your personal information:
 
 
 
-**Cookies and Other Tracking Technologies**  
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies and navigational data like Uniform Resource Locators (URL) and IP address to gather information on this Site. We do link the information we store in cookies to any personal information you submit while on our Site.
+**Cookies and Other Tracking Technologies**
 
-Some of our business partners use cookies and other tracking technologies on our Site. We have no access to or control over these cookies. Data collected through these third parties is only collected in the aggregate.
+As is true of most websites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you.  We do this to improve the services we offer you, for analytics and site functionality. 
 
-**Clear Gifs**  
-We employ a software technology called clear gifs (a.k.a. web beacons/web bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information.
+Technologies such as cookies, beacons, tags and scripts are used by iGames, marketing partners, web service providers and affiliates.  These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+We use cookies to remember users' settings, customizing the users' experience and for site authentication.  Users can control the use of cookies at the individual browser level.  If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as Flash to collect and store information.  To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
 **Behavioral Targeting / Re-Targeting**
 
-We partner with a third party ad network to either display advertising on our Site or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites.  Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you internet-based ads, you may opt-out by clicking here: [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/) or if you are in the European Union click here: [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).  Please note this does not opt you out of being served ads.  You will continue to receive generic ads. 
 
 **Social Media Features**
 
-Our Site includes social media features, such as the Facebook Like button and widgets, such as the Share t button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+Our Site includes social media features, such as the Facebook Like button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+**Single Sign-On**
+
+You can log into our website using sign-in services such as Facebook Connect or an Open ID provider.  These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network. 
 
 **Regarding Children**  
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register on the Site or send any information about yourself to us, including your name, address, telephone number, or email address. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [contact@alienwarearena.com](mailto:contact@alienwarearena.com).
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register on the Site or send any information about yourself to us, including your name, address, telephone number, or email address. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [contact@alienwarearena.com](mailto:contact@alienwarearena.com).
 
 We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
