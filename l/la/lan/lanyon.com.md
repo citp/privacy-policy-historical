@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanyon.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224053525id_/http%3A//www.lanyon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanyon.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429095210id_/http%3A//www.lanyon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lanyon
 
