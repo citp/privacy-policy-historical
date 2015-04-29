@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataplugs.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221073107id_/http%3A//www.dataplugs.com/company/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataplugs.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430012506id_/http%3A//www.dataplugs.com/company/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dataplugs
 
@@ -86,4 +86,4 @@ Note that key-loggers, viruses, or other surveillance devices can intercept logi
 
 ## Questions
 
-If you have any questions concerning this Privacy Policy please contact us at [](https://web.archive.org/web/20141221073107id_/http://www.dataplugs.com/company/policies/privacy-policy/cs@dataplugs.com)[cs@dataplugs.com](mailto:cs@dataplugs.com)
+If you have any questions concerning this Privacy Policy please contact us at [cs@dataplugs.com](mailto:cs@dataplugs.com)
