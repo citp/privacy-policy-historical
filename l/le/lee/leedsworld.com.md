@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leedsworld.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801132354id_/http%3A//www.leedsworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsworld.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430022629id_/http%3A//www7.leedsworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Leed's Promotional Products
 
