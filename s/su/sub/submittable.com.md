@@ -1,13 +1,24 @@
-> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221062524id_/http%3A//submittable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430093649id_/http%3A//www.submittable.com/privacy) for the most accurate reproduction.*
 
 # Submission Manager powered by Submittable: accept and manage content, applications, contest entries and resumes
 
   
 
 
+  * We don’t and won't ever share your personal information or data with anyone.
+  * We only access your information if it's necessary for fixing a problem or making the software work better.
+
+  
+
+
+## Long Version
+
+  
+
+
 ## Your privacy is critically important to us. At Submittable we have a few fundamental principles:
 
-  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t ask you for personal information unless we truly need it. 
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
   * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
   * In all our products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
