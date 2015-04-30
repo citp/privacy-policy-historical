@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addshoppers.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218050648id_/http%3A//www.addshoppers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addshoppers.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430072225id_/http%3A//www.addshoppers.com/privacy) for the most accurate reproduction.*
 
 # AddShoppers Privacy
 
