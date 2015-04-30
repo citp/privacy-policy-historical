@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226112526id_/http%3A//www.dogspot.in/shop-policy.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430030233id_/http%3A//www.dogspot.in/shop-policy.php%23privacy) for the most accurate reproduction.*
 
-# DogSpot Shop Policy | DogSpot
+# DogSpot Shop Policy | Cancellation |Refund and Return | Privacy Policy
 
   
 
