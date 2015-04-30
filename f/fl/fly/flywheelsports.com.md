@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flywheelsports.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926013858id_/http%3A//www.flywheelsports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flywheelsports.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430054658id_/http%3A//www.flywheelsports.com/privacy) for the most accurate reproduction.*
 
 # Flywheel Sports Privacy Policy | Flywheel Sports
 
