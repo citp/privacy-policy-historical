@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701071358id_/http%3A//www.slimming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430071749id_/http%3A//www.slimming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slimming.com
 
@@ -42,22 +42,21 @@ Slimming.com Ltd. has established this Privacy Policy to explain how it protects
 
 ### Accuracy of personal information
 
-6\. Slimming.com Ltd. will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing Slimming.com Ltd. about changes to their personal information. You can do this by calling UK: 0115 933 8320 & US: +44 115 933 8320. Slimming.com Ltd. will use new or updated personal information it receives from customers to update its own records.
+6\. Slimming.com Ltd. will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing Slimming.com Ltd. about changes to their personal information. You can do this by calling UK: 01159 34 99 34 & US: +4401159 34 99 34. Slimming.com Ltd. will use new or updated personal information it receives from customers to update its own records.
 
 ### Security
 
-7\. Slimming.com Ltd. will use reasonable efforts to protect customers' personal information.
+7\. Slimming.com Ltd. will use reasonable efforts to protect customers' personal information. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input on Slimming.com wherever you see the secure padlock symbol.
 
 ### Access to personal information
 
-8\. Slimming.com Ltd. will afford you a reasonable opportunity to review the personal information in your file, if you so request by calling UK: 0115 933 8320 & US: +44 115 933 8320 or writing to: 
+8\. Slimming.com Ltd. will afford you a reasonable opportunity to review the personal information in your file, if you so request by calling UK: 01159 34 99 34 & US: +44 1159 34 99 34 or writing to 
 
 Slimming.com Ltd.   
-Lace Market House   
-54-56 High Pavement   
-Lace Market   
+11 Castle Quay   
+Castle Boulevard   
 Nottingham   
-NG1 1HW   
+NG7 1FW   
 England
 
 If Slimming.com Ltd. is not able to provide access to some aspect of a customer's personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney-client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
