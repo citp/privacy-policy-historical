@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentmystay.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927222250id_/http%3A//www.rentmystay.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentmystay.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430194750id_/http%3A//www.rentmystay.com/info/privacy-policy) for the most accurate reproduction.*
 
-# RentMyStay.com: Find Apartment, BnB, Short term rentals
+# Privacy Policy - RentMyStay.com
 
 Please read this Privacy Policy (the "Policy") carefully before using RentMyStay.com (the "Site"). By accessing, browsing and using the Website, you acknowledge that you have read and understand this Policy. This Policy applies to your use of this Website only; should you follow a link on this Website to another Website, you are no longer covered by this Policy.
 
