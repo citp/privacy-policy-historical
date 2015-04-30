@@ -1,33 +1,45 @@
-> *The following text is extracted and transformed from the gamestrue.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125185657id_/http%3A//www.gamestrue.com/%3Fpage_id%3D1703) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestrue.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430153154id_/http%3A//www.gamestrue.com/privacy-policy) for the most accurate reproduction.*
 
-# Games » Privacy Policy
+# Privacy Policy | The Pogg
 
-### **About this Notice**
+By using any of the features or services you find on GameSTrue.com you are agreeing to all of the below.
 
-We are committed to protecting your privacy and earning your trust every day. This notice describes the personal information we collect about you and how we use and protect it. It applies to our current and former customers and replaces earlier versions that we may have given to you.
+**General Policy**
 
-### **What information do you collect about me?**
+  1. GameSTrue.com does collect personal information as you engage with our site.
+  2. This information is used for several purposes; contacting you, researching visitor trends and improving our service.
+  3. Collected information will not be shared with any 3rd parties –including online casinos – without your prior consent.
+  4. Please be aware that by utilising our dispute mediation process you are giving us permission to share your personal information with the involved casino.
+  5. To use the services at GameSTrue.com you must be 18 years of age or older.
+  6. If you no longer wish to be contacted by GameSTrue.com, please contact us at accounts@gamestrue.com to deactivate your account.
+  7. Once an account is deactivated you will no longer receive communications from us, however we will hold your account information in out archives.
 
-We consider the information you give us to quote and service your insurance policy to be “Nonpublic Personal Information” if it identifies you and is not available to the public.
 
-### **Who do we share your information with?**
 
-We will share information about you only as permitted by law. We will not share your Nonpublic Personal Information with other companies.
+**Disclosure of your details**
 
-Disclosures include those that we feel are required to provide insurance claims and customer service, prevent fraud, perform research or comply with the law. Recipients include, our family of insurance companies, their claims representatives, service providers, consumer reporting agencies, law enforcement, courts and government agencies. These parties may disclose the information to others as permitted by law. For example, consumer reporting agencies may disclose transaction information received from us to other insurance companies with which you do business.
+  1. GameSTrue.com will not disclose your personal details (i.e. name, email address, contact details) to any 3rd party except for the following exceptions; Legal proceedings that require this information or during the dispute resolution process when engaging with a casino.
+  2. In the event that GameSTrue.com is taken over by another company user information will be transferred to the new owners. Prior to this happening, an email will be sent informing you of the take over and offering you the option to remove your details from our database.
 
-Where permitted by law, we may also disclose application or transaction information to service providers that help us market our products.
 
-### **Do you protect my information?**
 
-We restrict access to your Nonpublic Personal Information to our employees and others who we feel must use it to provide our products and services. Their use of the information is limited by law, our employee code of conduct, and written agreements where appropriate. We also maintain physical, electronic and procedural safeguards to protect your information.
+**Confidentiality**
 
-### **Why do you collect my email address?**
+  1. Only employees of GameSTrue.com who have a reasonable need to access your personal information to adequately fulfil their employment obligations will be allowed access to said details.
+  2. All account information is password protected at both the user end and the administrative end.
 
-We collect your e-mail address so that we can send you e-mails concerning your transactions with us, and other useful information.
 
-To ensure you get our e-mails, our service provider or we may receive confirmations when you open them or click through the e-mail links. These confirmations may also show whether your e-mail system supports graphics, so we can tailor our messages to you. We will not share your e-mail address with other companies for their marketing purposes.
 
-### **Is there additional information for Website visitors?**
+**Content Integrity**
 
-When you visit our site, we may use information we collect to provide services to you. We use web site information to help understand what you want so that we can enhance your online experience
+  1. GameSTrue.com cannot guarantee the accuracy of the information found on this site and it is considered the obligation of the user to ensure all relevant details are still accurate before they act upon them.
+
+
+
+**Dispute Mediation**
+
+  1. GameSTrue.com Dispute Mediation service is free to use for player and casinos. 
+  2. GameSTrue.com will not under any circumstance engage in financial transactions – or any other transaction that may otherwise be seen to have unduly influenced the outcome – with either party in any dispute.
+  3. It is our aim to resolve all dispute and do so in a timely a fashion as possible. However due to the back and forward nature of dispute mediation it is impossible to provide an exact time frame and if one of the parties becomes non-responsive a resolution is unlikely to be reached.
+
+
