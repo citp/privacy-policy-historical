@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupalace.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926033408id_/http%3A//www.menupalace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupalace.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430051718id_/http%3A//www.menupalace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Restaurant Guide | MenuPalace | Toronto
 
@@ -45,8 +45,8 @@ MenuPalace.com's Commitment to Data Security. Services and Web sites we sponsor 
 
 ###  Customer Service  
 MenuPalace.com  
-82 Peter Street, 3rd Floor  
-Toronto, Ontario M2N 2T4  
+670 Caledonia Rd, 2nd Floor  
+Toronto, Ontario, M6E 4V9  
 Canada 
 
   
