@@ -1,48 +1,59 @@
-> *The following text is extracted and transformed from the boards2go.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126025822id_/http%3A//www.boards2go.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards2go.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430100254id_/http%3A//www.boards2go.com/privacy.html) for the most accurate reproduction.*
 
 # Boards2Go.com - Free Message Board Hosting
 
-**What information do we collect?**
+Your privacy is critically important to us. Our website (hereinafter referred to as We, Us or Our) is committed to maintaining your confidence and trust with respect to any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail, mailing address, and telephone number and other information incidental to providing the services offered on our Site (Personal Information). Individuals accessing the Site shall be referred to as You Your or Users. Services offered to Users are collectively referred to herein as the âService or Services. We intend to protect the Personal Information stored on the Site and this privacy statement describes how we intend to do that. **BY SUBMITTING PERSONAL INFORMATION TO US, BY USING OUR SITE, AND BY USING OUR SERVICES, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.** If you do not agree with these terms, do not provide any Personal Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personal Information, we may not be able to provide you with products or services that can be offered on our Site. The following privacy statement explains our general policy and practices on safeguarding the data collected, processed, provided or transferred directly or indirectly by our clients in any form or manner. 
 
-We collect information from you when you register on our site or fill out a form. 
+**1\. INFORMATION WE COLLECT:**   
+1.1 You provide us information about yourself, such as your name and e-mail address, when you register with or use the website. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.   
+1.2 Your login and password details, in connection with the account sign-in process;   
+1.3 Details of any requests or usage of any service you make through the Service;   
+1.4 Information about your activity on and interaction with the Site and Services, such as your IP address and the device or browser you use;   
+1.5 Communications you send to us (for example, when you ask for support, send us questions or comments, or report a problem); and   
+1.6 Information that you submit to the Site in the form of comments, contributions to discussions, or messages to other users. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+**2\. NON-PERSONAL INFORMATION:** In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+**3\. HOW WE USE YOUR INFORMATION:**   
+3.1 We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.   
+3.2 By providing us your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You may not opt out of some Service-related communications. We may also use your email address to send you other messages, including changes to features of the Service and special offers. If you do not want to receive such email messages, you may opt out at any time by clicking Unsubscribe in any e-mail we send you. If you e-mail us directly, we may e-mail you back and keep records of all of our correspondence.   
+3.3 Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.   
+3.4 We may use certain information about you and/or your User Content. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions. 
 
- **Do we use cookies?**
+**4\. USES OF YOUR PERSONAL INFORMATION:** 4.1 We will use the personal information you provide to: a) Identify you when you sign in to your account; b) Enable us to provide you with the Services; c) Send you information we think you may find useful or which you have requested from us; d) Present ads to you when you use the Service which we believe will be of interest based on your geographic location and previous use of the Service; e) Administer your account with us; f) Enable us to contact you regarding any question you make through the Service; g) Analyze the use of the Service and the people visiting to improve our content and Services; and h) Use for other purposes that we may disclose to you when we request your information. 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**5\. DISCLOSURE OF YOUR INFORMATION:**   
+5.1 We may share your personally identifiable information with third parties for the purpose of providing services to you. We may store personal information in locations outside our direct control (for instance, on servers or databases co-located with hosting providers).   
+5.2 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.   
+5.3 We may share your personal information with business partners who assist us by performing services such as hosting, fulfillment, or data storage and security related to our operation of the Site. Those business partners have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy and they will only use your information to carry out their specific business obligations to us.   
+5.4 We may be required to disclose personal information by law or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect our rights, property, or personal safety, our officers, users or others.   
+5.5 We may allow other companies, called third-party ad servers or ad networks, to serve advertisements or services on the website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on our website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. However, we do not control or take any responsibility for the actions of any such service providers, including without limitation if those service providers use your personal information in any inappropriate manner. We are not responsible for the privacy practices or the content of any other websites. We may share your personal information with unaffiliated businesses that you request to learn more information about or that you request to provide you with services.   
+5.6 You should consult the respective privacy policies of these third-party ad servers or ad networks. Our privacy policy does not apply to, and we cannot control the activities of, such advertisers. 
 
-We use cookies to understand and save your preferences for future visits.
+**6\. HOW YOU CAN CORRECT OR REMOVE INFORMATION:**   
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, use our Contact Us page or Support forum. 
 
- **Do we disclose any information to outside parties?**
+**7\. CHANGES, UPDATES AND EFFECTIVE DATE:**   
+7.1 If we change this Privacy Policy in ways that affect the personally identifying information we have collected through Our Site, we will post those changes in this space and advise you of choices you may have as a result of those changes. We will also post a notice on our home page that this Privacy Policy has changed.   
+7.2 We may update this Privacy Policy from time to time as reasonably necessary to maintain standards predicated by the industry. Accordingly, users are responsible for reviewing our Privacy Policy for periodic updates. By using this website, users consent to our websites then currently existing Privacy Policy as of the date of a users use. A users continued use of this site following the posting of any changes to this Privacy Policy means such user has accepted and agrees to be bound by any such changes. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**8\. USE OF COOKIES AND WEB BEACONS:**   
+8.1 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables us to recall your specific information on subsequent visits.   
+8.2 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.   
+8.3 A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.   
+8.4 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.   
+8.5 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.   
+8.6 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
 
- **Online Privacy Policy Only**
+**9\. SECURITY MEASURES:**   
+9.1 We have implemented physical, electronic and procedural security features that are designed to prevent the unauthorized release of or access to personal information. Despite our efforts to protect your personal information, the confidentiality of any communication or material transmitted to or from our website via this Site or via e-mail cannot be and is not guaranteed. You acknowledge that the technical processing and transmission of the Site content may be transferred unencrypted and involve (a) transmissions over various networks and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Accordingly, we are not responsible for the security of information transmitted via the Internet.   
+9.2 In addition, to protect your personal information, never share your password with anyone, and if you feel that your password has been discovered, you should change it immediately by logging on to the Site and accessing your profile to change your password or by contacting us at management@boards2go.com 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**10\. AGE:**   
+People under 13 (or the legal age in your jurisdiction) are not permitted to use our site, and so this privacy policy makes no provision for their use of the site. 
 
- **Terms and Conditions**
+**11\. LINKS TO OTHER WEBSITES:**   
+The Site has links to other websites whose privacy practices may differ from Our Privacy Policy. If you allow another website to access your information and to store a copy of your personal information, that copy will be governed by that websites privacy policy. If you submit personal information to any of those sites, the privacy and security of your personal information is subject to their privacy statements. We are not responsible for the content, performance, or privacy policies of third-party websites. We encourage you to carefully read the privacy statement of any other website you visit. 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://boards2go.com/tos.html>
-
-**Your Consent**
-
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://boards2go.com  
-25 Avenue at Port Imperial  
-Unit #1120  
-West New York, NJ 07093  
-joseph.shin@boards2go.com  
-
+**12\. CONTACT US:**   
+If you submit Personal Information, such as your email address, to us by following the Contact Us link located throughout Our Site, we will use that Personal Information to respond to your question or request for information. We will not share your personal information with third parties without your explicit permission. If you have any questions or concerns about (a) access to personal information, (b) the collection, use, management or disclosure of personal information, (c) this privacy policy, or (d) with whom your personal information is shared, or if you need further assistance with respect to our privacy policy, you may follow the contact us section provided on the website. We will attempt to respond to your questions or concerns promptly. 
