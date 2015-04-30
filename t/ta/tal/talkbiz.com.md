@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkbiz.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126012213id_/http%3A//talkbiz.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkbiz.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430020430id_/http%3A//talkbiz.com/legal/privacy.html) for the most accurate reproduction.*
 
 # TalkBiz Digital, LLC - Privacy Policy
 
@@ -70,6 +70,6 @@ These policies may be amended by us at any time and without notice, but will be 
 
 You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment. 
 
-You may contact us via email at [paul@talkbiz.com](https://web.archive.org/web/20141126012213id_/http%3A//talkbiz.com/legal/paul@talkbiz.com?Subject=Privacy_Policy), or at the address below.   
+You may contact us via email at [paul@talkbiz.com](https://web.archive.org/web/20150430020430id_/http%3A//talkbiz.com/legal/paul@talkbiz.com?Subject=Privacy_Policy), or at the address below.   
   
 
