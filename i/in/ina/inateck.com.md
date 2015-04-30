@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inateck.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221152835id_/http%3A//www.inateck.com/policy-9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inateck.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430142317id_/http%3A//www.inateck.com/policy-9) for the most accurate reproduction.*
 
 # Policy-9 - Inateck
 
@@ -57,4 +57,4 @@ SUBSCRIBE
 
 Submit your email address here to subscribe the latest information regularly about our promotion activities and new products.
 
-Back To Top [](http://www.twitter.com/inateckofficial "Twitter") [](http://www.facebook.com/inateckofficial "FaceBook") [](http://www.youtube.com/user/inateckofficial "YouTube") [](http://www.pinterest.com/inateck/ "Pinterest") [](https://plus.google.com/106597665571230491038 "Google+") [](javasrcipt:void\(0\) "Contact us") [](javasrcipt:void\(0\) "Subscript")
+Back To Top [](http://www.twitter.com/inateckofficial "Twitter") [](http://www.facebook.com/inateckofficial "FaceBook") [](http://www.youtube.com/user/inateckofficial "YouTube") [](http://www.pinterest.com/inateck/ "Pinterest") [](https://plus.google.com/106597665571230491038 "Google+") [](javasrcipt:void\(0\) "Contact us") [](javasrcipt:void\(0\) "Subscribe")
