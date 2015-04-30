@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundersandfounders.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027035022id_/http%3A//fundersandfounders.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundersandfounders.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430041448id_/http%3A//fundersandfounders.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of www.fundersandfounders.com - Funders and Founders
 
