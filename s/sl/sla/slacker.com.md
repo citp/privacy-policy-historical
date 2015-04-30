@@ -1,78 +1,143 @@
-> *The following text is extracted and transformed from the slacker.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924194611id_/http%3A//www.slacker.com/company/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slacker.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430020708id_/http%3A//www.slacker.com/privacy) for the most accurate reproduction.*
 
-# Slacker Personal Radio - Privacy Policy
+# Slacker Radio | Privacy Policy
 
-Slacker is committed to protecting and safeguarding your privacy over the Internet. This privacy policy explains how your personal information and other information will be treated as you use our Website. 
+Slacker, Inc. (“Slacker”) understands that it is a privilege to have you as a customer and is committed to protecting your Personal Information and safeguarding your privacy over the Internet.
 
-Our privacy policy can be summarized as follows: 
+This Privacy Policy explains how we may collect, use, and disclose your Personal Information and other information through the Slacker Products and Services. 
 
-> We do not share your personally identifiable information unless we have your permission or as stated in this Privacy Policy. 
-> 
-> Aggregate demographic or statistical information that is not personally identifiable may be collected and shared at the discretion of Slacker. 
-> 
-> Aggregate demographic or statistical information that is not personally identifiable may be collected and shared at the discretion of Slacker. 
+The “Slacker Products and Services” is defined as Slacker.com, associated mobile applications, software, and Internet services under our control, whether partial or otherwise, in connection with providing a platform for Slacker's services. 
 
-## What kind of information do we collect?
+We consider “Personal Information” to include information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
-We collect a variety of information for a variety of purposes. We collect personal information, such as your name and email address during your visit to the Slacker Website, in connection with various events such as, but not limited to, sweepstakes or contest entry, or subscribing to receive a Slacker newsletter. Submission of personal information through the Website is voluntary in most cases and will be collected once you submit it to the Website. If you download software, your name and email information will be required. However, to use any aspect of the Slacker Service, you may be required to register and provide certain information including a member or user name, a password, a valid email address (together the “Account Information”) or a credit card. We do not collect personal information from children who we know to be under the age of 13. We also collect demographic information by a number of ways. We keep track of the domains from which people visit our Website. For legal and business reasons, we may track the country or zip code of the visitor. We analyze this data for trends and statistics, and for federal export law compliance when required. This information is analyzed at an aggregate level. Finally, we collect statistical browser information on the anonymous users of our Website, including: (1) the Internet Protocol (IP) address of the user's computer, (2) the referring URL, if any, or (3) the browser software identification (this provides the brand and version of the browser software used by the anonymous user while viewing our Website). This is not personally identifiable information. 
+Other Websites and Pages. When you navigate away from the Slacker Products and Services to websites or apps controlled by third parties, you leave the Slacker Products and Services, at which point this Privacy Policy no longer applies. You will not receive a notice warning when you leave the Slacker Products and Services. Please visit the privacy policies of these third-party websites and apps to learn their privacy policies and data collection practices.
 
-## How do we use the information collected?
+### Our Privacy Policy can be summarized as follows:
 
-Slacker uses the information collected to:
+We may collect and share aggregate demographic or statistical information that is not personally identifiable at our discretion.
 
-  * Deliver to you and bill you for Slacker products and services, and communicate with you concerning your account and customer service issues. This may include verifying authorization of credit card usage before any subscription to services or purchase of products;
-  * Verify access rights to access-restricted services, including for the purpose of supporting digital rights management software;
-  * Improve our software and services by providing personalized content recommendations, language and location customization, and/or personalized help and instructions;
-  * Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability to you; 
-  * Track content accesses, downloads and burns for the purpose of paying royalties and license fees to third party providers, such as record labels and other copyright holders and content distributors; 
-  * Ask you to participate in surveys about products, services, news and events; 
-  * Offer you product upgrades, content, services and games for you to purchase; 
-  * Provide you with content, services, instructions, and a more personalized experience based on personal information, such as your language preferences, zip/postal code, country locations, and any content or other preferences you provide; 
-  * Auto-update downloaded Slacker products; 
-  * Provide you with news, free newsletters, updates, targeted advertising, promotions, and special offers; and
-  * Better understand how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services.
-  * Share anonymous site usage information about visitors to the Slacker for the purpose of measuring the effectiveness of affiliate programs. None of such information shared is personally identifiable.
-  * If you have opted in to receive emails and want us to communicate with you, generally, we send e-mail to your about our products, content and special offers. During registration, you may opt out of receiving our marketing e-mails and/or newsletters for the relevant product or service, or you can change your settings at any time through the other methods set forth in this Privacy Policy. However, we may continue to send you e-mail about products or services you have previously purchased, your account status or other information concerning functions, features and status of your Slacker products and services, or to inform you about critical technical service issues relating to a Slacker product or service. 
+We do not collect Personal Information from children we know to be under the age of 13, and no part of our Website is directed to children under the age of 13.
+
+If you access Slacker Products and Services directly from a partner website, we may share your information with that partner. Other than this use, we do not share your Personal Information unless we have your permission or as otherwise stated in this Privacy Policy.
+
+### What kind of information do we collect?
+
+**Personal Information.** We collect Personal Information when you create an account to use the Slacker Products and Services, such as your name, email address, username, password, and billing and credit card information. 
+
+You may also register by using your Facebook log-in credentials. When you log in with your Facebook credentials, we collect the Personal Information you have made publicly available in Facebook, such as your name and profile picture and use that information to register with Slacker. We may also obtain other information with your permission, such as your gender and date of birth. You control what information is shared from your Facebook profile by adjusting your Facebook privacy settings. 
+
+We may collect Personal Information when you subscribe to the Slacker newsletter, participate in forum discussions, or when you enter events, such as sweepstakes or contests. 
+
+The Slacker Products and Services may collect and store your location information if you enable your computer or mobile device to send it to us. Changing the settings on your computer or mobile device may prevent this data collection. 
+
+We do not collect Personal Information from children we know to be under the age of 13. 
+
+**Non-Personal Information.** We may collect Non-Personal Information when you create an account, such as year of birth, gender, and postal code. We also collect demographic information, such as your country, in several other ways. We also collect anonymous statistical user and browser information through the Slacker Products and Services users, including: (1) the Internet Protocol (IP) address of the user's computer, (2) the websites from which people visit the Slacker Products and Services, if any, and/or (3) the brand and version of the user's browser software. 
+
+### How do we collect information?
+
+We collect the information you enter into the Slacker Products and Services. 
+
+When you use Slacker Products and Services, we and our third-party service providers also receive and record information on our server logs from your browser, including your IP address, and from cookies, web beacons, and similar technology. Cookies are small text files that we place in visitors' computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you block our cookies, the Slacker Products and Services may not work properly. 
+
+### How do we use the information collected?
+
+Slacker uses the information collected to: 
+
+  * Process transactions for Slacker Products Services. We may verify authorization of credit card usage before you may access Slacker Products and Services;
+  * Communicate with you concerning your account and any customer service issues;
+  * Verify access rights to restricted services, including for the purpose of supporting digital-rights management software;
+  * Improve Slacker Products and Services by providing personalized content recommendations, language and location customization, and personalized help and instructions;
+  * Determine if you meet the minimum computer system compatibility requirements to use the Slacker Products and Services and provide to you information to improve compatibility;
+  * Track when you access and download content for the purpose of paying royalties and license fees to third-party providers, such as record labels and other copyright holders and content distributors;
+  * Ask you to participate in surveys about Slacker Products and Services, news, and events;
+  * Offer you Slacker Products and Services for you to purchase;
+  * Automatically update downloaded Slacker Products and Services;
+  * Provide you with news, newsletters, updates, targeted advertising, promotions, and special offers;
+  * Better understand how Slacker Products and Services are used, including Web-traffic patterns and content-preference analysis; and
+  * Analyze trends and statistics, and for federal export law compliance, when required.
 
 
 
-## How do we keep your information secure?
+**Direct Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for direct marketing purposes. We may allow access to other data collected by the Slacker Products and Services to enable the delivery of direct marketing and offers that will be of greatest utility, relevance, value, and interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
-Slacker, Inc. understands that it is a privilege to have you as a customer and is committed to protecting your personal information. We use the following controls to protect your personal information: 
+**Communications.** If you have chosen to receive emails, we generally send emails to you about Slacker Products and Services, content, and special offers. During registration, you may opt-out of receiving our marketing emails and/or newsletters, or you can change your settings at any time through the other methods set forth in this Privacy Policy. However, we may continue to send you emails about: 
 
-  * Use of secure connections using SSL to safeguard information when transmitted from your Web browser to Slacker;
-  * Use of security controls to restrict access to databases housing personally identifying information; 
-  * Use of encryption for sensitive personal information, such as credit card numbers and user names; 
-  * Restrict employee access to databases containing personal information and impose confidentiality requirements upon employees who do; and 
-  * Bind subcontractors with contractual, technical and organizational measures to protect your personal information.
+  * Slacker Products and Services you have previously purchased;
+  * Your account status or other information concerning functions, features and status of your Slacker Products and Services; or
+  * Critical technical-service issues relating to the Slacker Products and Services.
 
 
 
-## What do we share with third parties?
+### What information do we share with third parties?
 
-Slacker does not use your personal information for purposes incompatible with those listed above. Slacker does not sell, rent, or share your personal information to a third party unless you consent to provide such information to a third party partner or content service. Slacker may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties. In such cases, Slacker may provide content usage, access, demographic and other information without your personally identifiable information (your name, billing information, email address) to the content provider. Slacker may disclose relevant information about our customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for Slacker, and to better serve our customers. Slacker' contractors are bound by strict contractual requirements to keep all personal information they process strictly confidential and to use such information solely on behalf of Slacker. Also, Slacker may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law; (b) comply with the order of a competent judicial authority in any jurisdiction; (c) comply with legal process served on Slacker; (d) protect and defend the rights or property of Slacker; or (e) act in urgent circumstances to protect the personal safety of users of Slacker products or the public at large. Slacker Websites and products contain links to other Websites and products. Slacker is not responsible for the privacy practices or the content of such Websites or products. Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices. 
+Unless otherwise provided for in this Privacy Policy, Slacker does not sell, rent, or share your Personal Information with third party partners or content services without your consent. 
 
-## What are some ways information is collected?
+**Content Providers.** Slacker may be required to provide specific access and usage information to content providers and rights holders as a condition of content licensing and royalty agreements. In such cases, Slacker may provide content access and usage, user demographic, and other information that does not include your Personal Information to the content provider. 
 
-We collect information a few ways. For example, we use IP addresses to analyze trends, administer the site, track users' movement through the site, and gather broad demographic information for aggregate use. IP addresses do not provide us with personally identifiable information such as your name, physical address, email address or telephone number. Cookies are pieces of data that are stored on your hard drive containing personal information. We use cookies to identify an installation of Slacker software, as well as to identify the version of the software you are currently using. Cookies may also be used to auto-sign you into your account, as well as store and authenticate your username and password. Cookies are linked to your personal information so you may not have to sign in and enter a password more than once, thereby saving time while on our site. If you reject the cookie, you may still use our site; however, you will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Rejecting cookies is done through your browser settings on your personal computer. Finally, Web pages may contain an electronic file called a web beacon, which allows a web site to count users who have visited that page or to access certain cookies. We research certain usage and activities on its and our website. Slacker uses web beacons to conduct this research, including on the Slacker website. The information collected through these web beacons is used to find out more about our users, for more accurate reporting, and to improve the effectiveness of our marketing. Information recorded through the use of these web beacons is aggregated. No personally identifiable information about you is shared by us with any person or entity as a result of this research. If you prefer that Slacker not use information collected from you by these web beacons on our website, please opt out using the methods described in this Privacy Policy. 
+**Social Networking and Other Websites.** When you use the Slacker Products and Services, you may share Personal Information with social networking websites, such as Facebook. We do not share information with them unless you direct the Slacker Products and Services to share it. Their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites. 
 
-## Changes to our Privacy Policy
+**Anonymous Statistics.** We may share anonymous Slacker Products and Services usage information for the purpose of measuring the effectiveness of affiliate programs. None of such information shared is Personal Information. 
 
-We may make changes to our privacy policy from time to time. When we do, changes will be reflected directly and immediately in this document so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, at any point, we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice of whether or not we use their information in this different manner. If you do not consent at that time, we will use information in accordance with the privacy policy under which the information was collected. We encourage you to review our privacy policy whenever you visit the Slacker Website. 
+**Vendors and Suppliers.** The Slacker Products and Services use Personal Information for internal and service-related purposes only and may provide it to third parties to allow Slacker to offer the Slacker Products and Services, including credit card processing. Slacker vendors and suppliers are bound by strict contractual requirements to keep all Personal Information they receive strictly confidential and to use and process such information solely on behalf of Slacker. 
 
-## How you can access and update your personal information.
+**As Required By Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required by law or if those actions are reasonably necessary to: 
 
-To access your account information and preferences, select "Manage Account" from a link or menus on either the web at www.slacker.com or the Slacker software. Sign in to your account and modify your information and preferences as needed. When you access your account by signing in, you can update and/or make sure that your account information is accurate. You can also manage your preferences concerning receipt of newsletters and promotional emails. If you have forgotten a username or password, you can use our online support resources at www.slacker.com/support/. 
+  * comply with legal process, such as a court order or subpoena;
+  * enforce this Privacy Policy or our Terms of Use;
+  * respond to claims that any content violates the rights of third parties;
+  * respond to your requests for customer service;
+  * respond to law enforcement;
+  * investigate and prevent unauthorized transactions or other illegal activities; or
+  * protect our or others' rights, property, or personal safety.
 
-## What if you have questions or comments about this Privacy Policy?
 
-If you have questions about the privacy aspects of our products or services or would like to make a complaint, please contact: 
+
+**Merger, Sale, or Other Asset Transfers.** We may disclose information we possess about you as part of a merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your Personal Information would be transferred as one of the business assets of the company. We do not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this Privacy Policy. 
+
+### How do we keep your information secure?
+
+Slacker understands that it is a privilege to have you as a customer and takes steps to protect your Personal Information. We use the following controls to protect your Personal Information: 
+
+  * Use SSL to safeguard information when transmitted from your Web browser to Slacker;
+  * Encrypt sensitive Personal Information, such as credit card numbers and user names;
+  * Restrict employee access to databases containing Personal Information and impose confidentiality requirements upon employees who do; and
+  * Bind third-party vendors and suppliers with contractual, technical, and organizational measures to protect your Personal Information.
+
+
+
+Although we do take (and require our third-party providers to take) security precautions regarding your Personal Information, due to the open nature of the Internet, we cannot guarantee that any of your Personal Information stored on our servers, or transmitted to or from a user, will be free from unauthorized access. We disclaim any liability for any theft or loss of, unauthorized access or damage to, or interception of any data or communications. By using the Slacker Products and Services, you acknowledge that you understand and agree to assume these risks. 
+
+### How can you access and update your personal information? 
+
+To access your account information and preferences, select Manage Account from a link or menus on either the Internet at www.slacker.com or the Slacker software. When you access your account, you can update your account information to make it accurate. You can also manage your preferences for receiving newsletters and promotional emails. If you have forgotten your username or password, you can use our online support resources here: [Slacker Support](http://support.slacker.com/). 
+
+### What if you are located in a different country?
+
+By choosing to use the Slacker Products and Services or otherwise provide information to us, you agree that any dispute over privacy or this Privacy Policy will be governed by California law. 
+
+**Slacker may process Personal Information on computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. We will use our best efforts to use and process your information in accordance with this Privacy Policy and applicable law. If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your Personal Information to the United States to us. By providing your Personal Information you consent to any transfer and processing in accordance with this Privacy Policy.**
+
+You also consent to the adjudication of any disputes arising in connection with us or the Slacker Products and Services in accordance with the [Terms of Use](https://web.archive.org/terms "view our Terms of Use"). 
+
+### What if you do not agree to this Privacy Policy?
+
+If you do not agree to this Privacy Policy, please do not use the Slacker Website or the Slacker Services. 
+
+### What if you have questions or comments about this Privacy Policy?
+
+If you have questions about the privacy aspects of the Slacker Products and Services or would like to make a complaint, please contact 
 
 Slacker, Inc.  
+Attn: Chief Legal Officer  
 16935 W. Bernardo Drive, Suite 270  
 San Diego, CA 92127  
 858.943-5000  
 858.943.5001 (fax)  
 
 
-Last modified: September 10, 2008 
+### Changes to our Privacy Policy.
+
+We may change this Privacy Policy from time to time. When we do, changes will be reflected in this document so you are always aware of how we may collect, use, or disclose your information. If we decide to use Personal Information different from that stated at the time we collected it, we will notify you by email. You may decide whether or not we may use your information in this different manner. If you do not consent to this different use, we will use the information in accordance with the privacy policy in place when we collected the information. We encourage you to review our Privacy Policy when you visit the Slacker Website. 
+
+Last modified: May 25, 2012 
