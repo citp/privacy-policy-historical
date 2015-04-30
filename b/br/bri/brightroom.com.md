@@ -1,41 +1,61 @@
-> *The following text is extracted and transformed from the brightroom.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802083921id_/http%3A//www2.brightroom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightroom.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430033623id_/http%3A//www2.backprint.com/home/privacy) for the most accurate reproduction.*
 
-# brightroom, Inc. - privacy
+# Privacy Policy | Backprint
 
-**Information Collection and Use**
+Backprint.com® knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy describes how Backprint.com gathers and disseminates information it obtains from you. By visiting Backprint.com, you are accepting the practices described in this Privacy Policy.
 
- **brightroom** holds the customer's trust in the highest regard. In order to use the **brightroom** service, visitors are asked to supply contact and billing information. We use this information to contact users regarding order status and to bill for our services. **brightroom** will never sell or provide personally identifiable information from [www.brightroom.com](http://www.brightroom.com/) to its partners or any third party. Providing this information on our Web site will never result in unsolicited email or contact. 
+**What this Privacy Policy Covers**
 
-**brightroom** is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. **brightroom** collects information from our users at several different points on our website. 
+This Privacy Policy covers treatment by Backprint.com® of personally-identifiable information that Backprint.com collects when you visit the site and that you provide when you purchase photos and/or photo-related products. This policy also covers treatment by Backprint.com of any personally-identifiable information that Backprint.com partners share with Backprint.com and which Backprint.com shares with its business partners. This policy does not apply to the practices of companies that Backprint.com does not own or control, or to people that Backprint.com does not employ or manage.
 
-**Order**
+**Information Gathered When You Visit Backprint.com®**
 
-We request information from the user on our order form. Here a user must provide contact information (like name, shipping address, and email address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Email addresses will be used exclusively for communication regarding your order including confirmation that it has been placed and notification that it has been shipped. You will never receive unsolicited email as a consequence of providing your email address during the checkout process. During check out, customers may opt in to receive notification of upcoming events **brightroom** will be photographing – signing up for this service is not required to complete an order, and customers who wish to remove themselves from this list may do so at any time by notifying **brightroom** by phone, email, in writing, or by simply replying to any email we send with a request to unsubscribe in the message. 
+Backprint.com® employs web browser cookies. A “cookie” is a small text file that a web site, when visited by a user, sends to that user’s browser which, in turn, may store some data on the user’s hard drive or memory. Backprint.com uses cookies to identify your visit session for customizing your user experience, for generating web site analytical data, and for Google Display Advertising and Remarketing with Google AdWords on third party websites.
 
-**Send to a Friend Feature**
+Backprint.com’s “session cookies” are set to expire when the user closes the web browser. These session cookies are used to identify your visit session for e-commerce purposes and for maintaining your language choice from page to page. Backprint.com uses a persistent cookie to enhance your return visits to Backprint.com®.
 
- **brightroom** offers a “Send to a Friend” feature where users to the site can email links to specific photos around the Internet. **brightroom** uses the email addresses supplied for this purpose – both the referral and return email address – only to complete this service a single time. These email addresses are not stored, shared, or otherwise used for any purpose. 
+Google Analytics uses persistent cookies to aggregate data about user visits to Backprint.com®. Backprint.com® will track your use of the site in order to gain aggregate data that may be analyzed for trends and statistics. Subject to the provisions of this Privacy Policy, Backprint.com® may use accumulated aggregate data for purposes including, but not limited to, marketing analysis, evaluation of services provided by Backprint.com®, and business planning.
 
-**Links**
+Google Display Advertising and Remarketing with Google AdWords uses persistent cookies set by Google and DoubleClick to inform, optimize, and serve ads based on someone’s past visits to Backprint.com®. The website visitor may use features of their web browser to block or delete Backprint.com cookies, cookies used for Google AdWords, and / or cookies used for Google Display Advertising and Remarketing with Google AdWords from the user’s hard drive or memory. However, by disabling cookies, certain site features and functionality may no longer work properly or at all and the user may not see advertising on third part websites with reminders and special offers. You can opt-out of Google Display Advertising and Remarketing with Google AdWords ad by following Google’s instructions.
 
-This web site contains links to other sites. Please be aware that **brightroom** is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+As you browse Backprint.com®, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Backprint.com®. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page to opt out of AdRoll and their partners’ targeted advertising.
 
-**Legal Disclaimer**
+Backprint.com uses the Gigya social networking management suite to enable some of the Backprint features and benefits tracking. When you login to the Gigya, Backprint will place cookies on your computer. If you do not allow third party cookies you may not be able to access and use features and benefits that require this tool.
 
-Though we make every effort to preserve user privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+Backprint.com may conduct surveys or other studies of its user base and use the results for marketing and planning purposes. Participation in such surveys is at the user’s option. Backprint.com reserves the right to disclose information provided by any user through such a survey, provided that no personal information identifying that user is disclosed. Circumstances under which Backprint.com would publicly disclose aggregate information include, but are not limited to, sharing survey results with partners and/or the site users, providing data to advertisers on user preferences and/or demographics, business planning, and publicizing overall usage data in press communications.
 
-**Notification of Changes**
+Disclosure of Personal Information
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+Backprint.com® may utilize user-provided email addresses to contact users on an individual basis. At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will Backprint.com disclose individual user personal information to unrelated third parties that is not publicly available.
 
-**Use of Cookies**
+Information Provided by Backprint.com® Partners
 
-Certain aspects of our site are not accessible to users with cookies disabled. Our site uses cookies to keep track of your shopping cart. Additionally, we use cookies to store your identity while browsing our site. 
+Backprint.com® may receive information from partners that you provided to them during your event registration as covered by your event registration agreement. Backprint.com may also receive information from partners related to your participation in the event, such as your timing and finish information. Backprint.com uses this information for marketing purposes as well as to customize certain products by including information specific to a particular participant.
+
+Backprint.com will not provide any personally-identifiable information received from its partners to any third party. Partner-provided data may be aggregated demographically for use by Backprint.com and may be shared with partners.
+
+**Links with other sites**
+
+The Backprint.com® site contain links to other websites, whether owned or controlled by Backprint.com partners, or unrelated third parties. Please note that the privacy policies of those sites may differ from those of Backprint.com. Backprint.com is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy policy of any website you may visit.
+
+**Choice “Opt-in” Emails**
+
+From time to time users may be given the opportunity to “opt-in” to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an “opt-in” list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions.
 
 **Security**
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as a credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, [Click Here](http://webopedia.internet.com/TERM/S/SSL.html). 
+To secure site integrity, Backprint.com® employs measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
+Backprint.com will not request or store a user’s Social Security Number. When Backprint.com offers items or services for sale where credit card information is required, Backprint.com will transmit and store that information in an encrypted format and in accordance with general industry practices, as deemed appropriate by Backprint.com.
 
-If you have any questions about the security at our website, you can [contact us here](http://www2.brightroom.com/contact). 
+Internal access to users’ private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis.
+
+**Enforcement**
+
+In the event that Backprint.com® becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, Backprint.com shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Policy.
+
+If Backprint.com becomes aware that a user’s personal information provided to Backprint.com has been disclosed in a manner not in accordance with this Privacy Policy, Backprint.com shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that Backprint.com knows this information.
+
+**No Guarantees For Factors Beyond the Control of Backprint.com®**
+
+While this Privacy Policy expresses the standards of Backprint.com® for maintenance of private data, Backprint.com is not in a position to guarantee that the standards will always be met. There may be factors beyond the control of Backprint.com (e.g., “script kiddies”, “crackers and other malcontents”) that may result in disclosure of data. As a consequence, Backprint.com disclaims any warranties or representations relating to maintenance or nondisclosure of private information.
