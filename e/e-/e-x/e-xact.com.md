@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-xact.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004221427id_/http%3A//www.e-xact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-xact.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430040643id_/http%3A//www.e-xact.com/privacy-policy) for the most accurate reproduction.*
 
 # E-xact Transactions - Privacy Policy
 
