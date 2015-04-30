@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229204432id_/http%3A//www.clickwebinar.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430034052id_/http%3A//www.clickwebinar.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Video Conferencing, Web Conference - Privacy Policy - ClickMeeting
 
@@ -106,7 +106,7 @@ Service in-meeting information is encrypted from the beginning till the end and 
 
   * ### \- Blog/Forum
 
-Our Web site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_[support@implix.com](mailto:support@implix.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_[support@clickmeeting.com](mailto:support@clickmeeting.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
   * ### \- Public Webpage
 
@@ -122,7 +122,7 @@ Our web site offers you the opportunity to import your contacts via a CSV file i
 
   * ### \- Testimonials
 
-With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [_support@implix.com_](mailto:support@implix.com).
+With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [_support@clickmeeting.com_](mailto:support@clickmeeting.com).
 
   * ### \- Social Media Widgets
 
@@ -143,7 +143,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 We need the User's help in keeping the Personal Information they have shared with us accurate and up-to-date.
 
-For additional inquiries about the privacy of the User's information, they can always contact GetResponse via email at [support@clickmeeting.com](https://web.archive.org/web/20141218182138id_/http://www.clickmeeting.com/support@clickmeeting.com), by calling 1-877-725-425-2.
+For additional inquiries about the privacy of the User's information, they can always contact GetResponse via email at [support@clickmeeting.com](https://web.archive.org/web/20150419073857id_/http://www.clickmeeting.com/support@clickmeeting.com), by calling 1-877-725-425-2.
 
  **GETRESPONSE Sp. z o.o.**  
 ul.Arkonska 6, A3   
