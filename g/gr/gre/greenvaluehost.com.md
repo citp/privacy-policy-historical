@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenvaluehost.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224073749id_/http%3A//www.greenvaluehost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenvaluehost.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430021600id_/http%3A//www.greenvaluehost.com/privacy.html) for the most accurate reproduction.*
 
 # GreenValueHost: Privacy Policy
 
