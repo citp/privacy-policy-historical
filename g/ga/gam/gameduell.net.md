@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameduell.net privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120175639id_/http%3A//www.gameduell.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.net privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430064523id_/http%3A//www.gameduell.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
@@ -8,9 +8,15 @@ We value Your patronage and respect Your privacy rights. As part of the normal o
 
 This Privacy Policy is governed by Our Terms and Conditions. GameDuell reserves the right to change this Privacy Policy. In such an event, GameDuell will send You an email containing the revised terms or a notification containing a link to where the revised terms can be viewed on the Website at least two (2) weeks before they go into effect. GameDuell may also send notice of the revisions to You using the GameDuell messaging service. If You do not expressly object to the validity of the new terms and conditions via e-mail within this two (2) week period, then the newly revised Privacy Policy will be considered agreed upon. If You reject the newly revised Privacy Policy, then GameDuell may terminate its relationship with You. If You believe We have not adhered to this Privacy Policy or if You have any other questions regarding this Privacy Policy, please contact Us at **privacypolicy@gameduell.com**.
 
+  
+
+
 ### 1\. Special note about children
 
 This Website is targeted primarily for use by adults. We do not currently market to or create special areas for use by children. Accordingly, We do not knowingly collect age identifying information, nor do We knowingly collect any Personal Information from children under the age of 13 years. However, We hereby advise all visitors to Our site under the age of 13 not to disclose or provide any Personal Information on Our Website. In the event that We discover that a child under the age of 13 has provided Personal Information to Us, in accordance with the Children's Online Privacy Protection Act (please see the Federal Trade Commission's Website at www.ftc.gov/kidzprivacy for more information about this Act), We will delete the child's Personal Information from Our files to the extent technologically possible.
+
+  
+
 
 ### 2\. What personal information do we collect from You and why?
 
@@ -98,29 +104,45 @@ My GameDuell > Facebook Login > Disconnect
 We will update the Terms & Conditions when there are further developments or any additional "Social Plugins" are available.
 
 
+  
 
 
 ### 3\. What general information do we collect from You and why?
 
 "General Information" is information about You or Your activities on Our Website that do not identify You personally. When You use the Internet, Your Web browser or software may communicate certain information to the host Website You visit. This information may include the unique number assigned to Your server or Internet connection, the capabilities and features of Your computer, You geographic location, and Your movement and activity within a particular Website. We collect the same information on Our Website. We use this General Information to generate statistics about visitors to Our Website.
 
+  
+
+
 ### 4\. How we use Your information
 
 The information We collect is used to (i) to respond to Your inquiries; (ii) provide customer services and resolve any complaints; (iii) improve the Website and service and resolve any technical problems; (iv) communicate with You concerning the services offered on the Website by Us or any of Our Partners; (v) cross-reference with other Personal Information that We have acquired about You or may acquire about You through other sources; (vi) create aggregate data; (vii) ensure compliance with the Website Terms of use; and (viii) comply with any applicable laws and regulations. We may provide Your information to government officials and agencies as required by law, and Partners as part of business operations, transaction processing, and marketing efforts, as identified below. For purposes of this Privacy Policy, "Partner" shall mean any person or entity with whom We enter into any kind of business transaction who is under an obligation to Us to use reasonable care to keep Personal Information confidential.
+
+  
+
 
 ### 5\. Disclosure of information we collect
 
 Except as provided in this Privacy Policy, We will not sell, trade, or disclose to third parties any Personal Information obtained by Us through this Website or from Our Partners about You, without Your consent. We may disclose Personal Information (i) to companies that help process the transactions You request, in order to protect Your transactions from fraud and verify Your identity; (ii) that We in good faith believe is necessary or appropriate to cooperate in investigations of fraud, intellectual property infringements or other activity that is illegal or may expose Us or You to legal liability, or to conduct investigations of violations of the Website Terms of use; (iii) when required by law or to comply with a court order, subpoena, search warrant or other legal process; (iv) to comply with legal, regulatory or administrative requirements of governmental authorities (including, without limitation, requests from the governmental agency authorities to view Your Personal Information); (v) to protect and defend Us, Our subsidiaries and affiliates and any of their officers, directors, employees, attorneys, agents, contractors and partners, in connection with any legal action, claim or dispute; (vi) to prevent imminent physical harm; (vii) to share aggregated statistical or demographic data with Our affiliates, business partners or for public relations (this aggregated information is not tied to Personal Information); (viii) to provide data, including Personal Information about You, with Our parent, affiliates, subsidiaries and Partners; (ix) to sell or otherwise provide to third parties in the event of a bankruptcy or liquidation; and (x) to sell or otherwise provide to third parties in the event of a future merge or acquisition by another company. In the event We merge or are acquired by another company, the successor company will have access to Your Personal Information in order to continue to provide services, but would continue to be bound by this Privacy Policy unless and until it is amended as described in the subsection labeled "Changes to this Privacy Policy" below.
 
+  
+
+
 ### 6\. How we protect information we collect
 
 We offer secure Web pages to collect certain kinds of user information and We store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on Our system. Although no computer system is completely secure, We believe the measures implemented on Our Website reduce the likelihood of security problems to a level appropriate to the type of data involved.
+
+  
+
 
 ### 7\. How long we keep user information
 
 We generally keep user data on Our server or in Our archives for as long as We reasonably need it. We may alter this practice according to changing requirements. For example, We may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely. 
 
 Data management requests are administered in an orderly manner to the extent feasible and within Our direct control. Please note that We have greater control over recently collected data than over archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, Our general data retention policy applies.
+
+  
+
 
 ### 8\. Personal choice in the disclosure of Your information
 
@@ -132,9 +154,15 @@ GameDuell INC
 
 San Francisco CA 94102
 
+  
+
+
 ### 9\. Changes to this privacy policy
 
 By Using this Website, You agree to this Privacy Policy. We reserve the right to change, modify or amend this Privacy Policy at any time. When this Privacy Policy is changed, modified or amended, the revised Privacy Policy will be posted on this Website as identified above. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy.
+
+  
+
 
 ### 10\. If You have a privacy question
 
@@ -148,3 +176,6 @@ GameDuell INC
 San Francisco CA 94110 
 
 **Date Last Modified: July 04, 2013.**
+
+  
+
