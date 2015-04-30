@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kmall24.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108132403id_/http%3A//www.kmall24.com/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmall24.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430054051id_/http%3A//www.kmall24.com/member/privacy.html) for the most accurate reproduction.*
 
-# Kmall24, your only true Korean online shopping mall.
+# 
 
 ' **Kmall24**  ' (hereinafter referred to as the 'Company' takes care of the personal information of our customers and complies with the Law related to the ‘Stimulation of Use of Information and Communication Network & Information Protection”. The Company notifies our customers how the personal information provided by them in terms of the purpose and the way of use, and which measures are taken for the protection of the personal information through our Privacy Policy. In the event of any modification on the Privacy Policy, the Company will announce it through the notice on our Website (or individual notification).
 
