@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finallylegal.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022003230id_/http%3A//www.finallylegal.com/legal.php%3Fpg%3Dprivacy%26l%3D0%26t%3D0%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finallylegal.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501001252id_/http%3A//www.finallylegal.com/legal.php%3Fpg%3Dprivacy%26l%3D0%26t%3D0%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
