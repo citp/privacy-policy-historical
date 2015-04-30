@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spreebird.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128092207id_/http%3A//www.spreebird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreebird.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430025422id_/http%3A//www.ncrowd.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Spreebird.com
+# Privacy - nCrowd.com
 
 **Last Updated:** _March 29, 2013_
 
