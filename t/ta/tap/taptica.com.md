@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taptica.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119233250id_/http%3A//www.taptica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taptica.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430125635id_/http%3A//www.taptica.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Taptica
 
@@ -40,6 +40,14 @@ We use the Internet to collect and process personal data. It necessarily involve
 
 Because we do not collect PII, and the information we obtain is automatic through tracking technologies, We cannot provide You the ability to edit or update Your non-PII information after it is collected. You can always opt-out though. If You opt-out from tracking technologies, any information that We already have collected or stored may remain in back-up storage for some period of time after Your deletion request. This may be the case even though no more information remains in our active databases.
 
+**Ability to disable mobile interest-based or use of mobile device for advertising (in-app advertisements “Opt-Out” )**
+
+You can always opt out of interest-based ads by companies providing in app advertisements by adjusting your device settings. Note that each operating system offers an opt-out option in your device settings. For more information please contact your device manufacturer or refer to the links below.
+
+Android users – [https://developer.android.com/google/play-services/id.html#get_started](https://developer.android.com/google/play-services/id.html#get_started%20 "https://developer.android.com/google/play-services/id.html#get_started ")
+
+iOS users – <http://support.apple.com/kb/HT4228>
+
 **Your Ability to disable Tracking Technologies (“Opt-Out”)**
 
 You may disable tracking technologies by sending an e-mail request to [operations@taptica.com](mailto:operations@taptica.com).  Within 24 hours after receiving your e-mail we will no longer collect non-PII information from You or Your users.
@@ -78,4 +86,4 @@ From time to time We may make changes to this Policy and publish the same promin
 
 While using the Service You may be linked from or to third parties sites. We are not responsible for information, content, terms, offers or any other use of privacy policy at these sites. When You use a link to go from our Website or Service to another website, our Privacy Policy is no longer in effect. By Your browsing and interaction on any other website, including websites which have a link on the Website, is subject to that website’s own rules and policies.
 
-**Last Update: April2014**
+_**Last Update: January 2015**_
