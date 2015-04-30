@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nettuts.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411104339id_/http%3A//hub.tutsplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettuts.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430083414id_/http%3A//tutsplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Tuts+ Privacy Policy
 
@@ -7,24 +7,22 @@
   1. Hi, we're Envato. Welcome to the Tuts+ privacy policy for Envato's network of educational online and mobile sites. Your privacy is very important to us so we want to make it clear how we manage it.
   2. When we talk about our **sites** we're referring to our Tuts+ network of sites (including any apps). When we mention **Envato** it's because that's who we are and because we own and run the sites. If we say **policy** we're talking about this privacy policy. If we say **terms** we're talking about the rules for using each site. These are set out in the relevant terms and conditions on each site. Phew! Now that's out of the way, let's get on with the privacy information!
   3. This policy explains how we use any information about you that you provide to us (which might identify you), or that we collect from you when you use the sites (which is unlikely to identify you). So please take the time to read it because it forms part of the terms for each site and you accept it when you use our sites.
-
-Tuts+ sites currently include:
-
-    * [hub.tutsplus.com](http://hub.tutsplus.com/),
-    * [psd.tutsplus.com](http://psd.tutsplus.com/),
-    * [net.tutsplus.com](http://net.tutsplus.com/),
-    * [vector.tutsplus.com](http://vector.tutsplus.com/),
-    * [ae.tutsplus.com](http://ae.tutsplus.com/),
-    * [cg.tutsplus.com](http://cg.tutsplus.com/),
-    * [mobile.tutsplus.com](http://mobile.tutsplus.com/),
-    * [webdesign.tutsplus.com](http://webdesign.tutsplus.com/),
-    * [wp.tutsplus.com](http://wp.tutsplus.com/),
+  4. Tuts+ sites currently include:
     * [tutsplus.com](http://tutsplus.com/),
-    * [premium.tutsplus.com](http://premium.tutsplus.com/), and
-    * [courses.tutsplus.com](http://courses.tutsplus.com/).
-
-Our list of Tuts+ sites might change or expand as we continue to grow, and this list may be updated from time to time without notice, but you'll know from the Tuts+ trademark what's part of our network.
-
+      * [design.tutsplus.com](http://design.tutsplus.com/),
+      * [code.tutsplus.com](http://code.tutsplus.com/),
+      * [webdesign.tutsplus.com](http://webdesign.tutsplus.com/),
+      * [music.tutsplus.com](http://music.tutsplus.com/),
+      * [photography.tutsplus.com](http://photography.tutsplus.com/),
+      * [cgi.tutsplus.com](http://cgi.tutsplus.com/),
+      * [gamedevelopment.tutsplus.com](http://gamedevelopment.tutsplus.com/),
+      * [computers.tutsplus.com](http://computers.tutsplus.com/),
+      * [crafts.tutsplus.com](http://crafts.tutsplus.com/),
+      * [business.tutsplus.com](http://business.tutsplus.com/),
+    * [courses.tutsplus.com](http://courses.tutsplus.com/),
+    * [jobs.tutsplus.com](http://jobs.tutsplus.com/),
+    * [blog.tutsplus.com](http://blog.tutsplus.com/).
+  5. Our list of Tuts+ sites might change or expand as we continue to grow, and this list may be updated from time to time without notice, but you'll know from the Tuts+ trademark what's part of our network.
 
 
 
@@ -49,9 +47,9 @@ Our list of Tuts+ sites might change or expand as we continue to grow, and this 
 
 
 
-## 4\. Anonymous data
+## 4\. Web data
 
-  1. When you visit our sites we, and our support services providers like web analytics services, can record certain anonymous information in relation to your visit such as:
+  1. When you visit our sites we, and our support services providers like web analytics services, can record certain information in relation to your visit such as:
     * Your IP or proxy server IP;
     * Basic domain information;
     * Your Internet service provider is sometimes captured depending on the configuration of your ISP connection;
@@ -62,13 +60,13 @@ Our list of Tuts+ sites might change or expand as we continue to grow, and this 
     * The size of file you look at;
     * The website which referred you to Tuts+;
     * The operating system which your computer uses.
-  2. We only use this information for statistical and website development purposes and to improve our services to you. It does not tell us who you are.
+  2. We only use this information for statistical and website development purposes and to improve our services to you.
 
 
 
 ## 5\. Access to and/or changing your personal information
 
-You may request access to your personal information and can ask us to correct your personal information [by contacting support](http://support.envato.com/)
+You may request access to your personal information and can ask us to correct your personal information [by contacting support](https://support.tutsplus.com/hc/en-us/requests/new)
 
 ## 6\. Security
 
