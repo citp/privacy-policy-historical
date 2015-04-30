@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 68kmla.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014185645id_/http%3A//www.68kmla.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 68kmla.net privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430151340id_/http%3A//www.68kmla.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Affordable Home Insurance Quotes
+# Privacy Policy | Home Improvement Tips
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
