@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116091617id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430042735id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # UnityPoint Health | Privacy Policy
 
@@ -51,9 +51,6 @@ From time to time our website may provide links to other websites, not owned or 
 ## Changes to This Statement 
 
 UnityPoint Health may change this statement from time to time without notice. We plan to post notice on our home page for no less than a week if any significant changes occur. This privacy statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party. 
-
-  
-
 
 Privacy Officer  
 UnityPoint Health  
