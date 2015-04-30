@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808165454id_/http%3A//www.arcserve.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430101927id_/http%3A//www.arcserve.com/us/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Notice | arcserve
+# Privacy Notice | Arcserve
 
 ## Arcserve Privacy Notice
 
@@ -8,12 +8,7 @@ Arcserve is committed to respecting and protecting your privacy and wants you to
 
 We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all Arcserve websites that display or link to this Privacy Notice. You should also note that Arcserve maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use.
 
-For personal information of individuals that Arcserve receives from the European Economic Area (EEA), Arcserve has committed to handling such personal information in accordance with the US Department of Commerce Safe Harbor Principles for transfer of personal information outside of the EEA. Arcserve's Safe Harbor certification can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webpages/safe+harbor+list>
-
-**We self-certify compliance with **
-
-  
-[www.export.gov/safeharbor](http://www.export.gov/safeharbor%20)
+For personal information of individuals that Arcserve receives from the European Economic Area (EEA), Arcserve has committed to handling such personal information in accordance with the US Department of Commerce Safe Harbor Principles for transfer of personal information outside of the EEA. 
 
 **What information do we gather?**
 
@@ -44,7 +39,7 @@ In certain instances, we may make your information available to third parties wi
 
 We may also disclose the information to our business partners, for marketing and other purposes which we believe may be beneficial to you.
 
-Arcserve is a global company with customers and partners in over 140 countries worldwide. Accordingly, the information we collect may be used, stored and processed in the United States or in any other country in which Arcserve does business. By providing the information via the website, you are consenting to the transfer of the information outside of your country to any country (including countries which may not have adequate levels of protection).
+Arcserve is a global company with customers and partners worldwide. Accordingly, the information we collect may be used, stored and processed in the United States or in any other country in which Arcserve does business. By providing the information via the website, you are consenting to the transfer of the information outside of your country to any country (including countries which may not have adequate levels of protection).
 
 Arcserve may disclose information it has collected about you on the website if required to do so by law or when necessary in order to protect the rights of Arcserve or its employees.
 
@@ -66,7 +61,7 @@ Arcserve uses pixels, transparent GIF files and other methods to help manage onl
 
 **Cookies and Web Beacons**
 
-Arcserve uses third party advertising companies to serve ads on our behalf across the Internet. These third party companies employ cookie and web beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. Cookies are also used to help us track usage patterns in order to improve or manage our site, to ensure the integrity of the registration process, and to help provide personalized service and deliver content specific to your interests. A "cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. By using cookies, the information you previously provided can be retrieved on your next visit to the website so that your navigation time is reduced and your use of the website is simplified. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie. Web beacons may be used to deliver the cookie and to compile statistics about our website, such as how many people visited a particular page or clicked on certain links. While your particular use of the site will not be revealed and no personally identifying information will be collected, this anonymous information may be used for online preference marketing purposes, and Arcserve's third party advertising companies may use the information about your visit to the website(s) in order to provide ads about goods and services of interest to you. This information can include: date/time of banner ad shown, related cookie, and the first three octets of the IP address. Arcserve may share aggregated statistics about the use of the website with third parties.
+Arcserve uses third party advertising companies to serve ads on our behalf across the Internet. These third party companies employ cookie and web beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. Cookies are also used to help us track usage patterns in order to improve or manage our site, to ensure the integrity of the registration process, and to help provide personalized service and deliver content specific to your interests. A "cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. By using cookies, the information you previously provided can be retrieved on your next visit to the website so that your navigation time is reduced and your use of the website is simplified. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie. Web beacons may be used to deliver the cookie and to compile statistics about our website, such as how many people visited a particular page or clicked on certain links. While your particular use of the site will not be revealed and no personally identifying information will be collected, this anonymous information may be used for online preference marketing purposes, and Arcserve's third party advertising companies may use the information about your visit to the website(s) in order to provide ads about goods and services of interest to you. This information can include: date/time of banner ad shown, related cookie, and the first three octets of the IP address. Arcserve may share aggregated statistics about the use of the website with third parties. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices.](http://www.networkadvertising.org/choices)
 
 You can set your browser to decline cookies if you prefer. If you do so, you may not be able to get the benefit of some of the features of this website or other websites that you visit.
 
@@ -76,8 +71,8 @@ Portions of this website make chat rooms, forums, blogs, message boards, and/or 
 
 **Contacting Us**
 
-If you have any questions or comments about our privacy notice or practices, please contact us via email at [PrivacyHelpLine@ca.com](mailto:privacyhelpline@ca.com) with the words "PRIVACY POLICY" in the subject line. 
+If you have any questions or comments about our privacy notice or practices, please contact us. 
 
-Arcsedrve may modify or update this privacy notice from time to time at any time without prior notice. You can check the “Last Updated” date below to see when the notice was last changed. We encourage you to check this notice often so that you can continue to be aware of how we are protecting your personal information. Your continued use of the website constitutes your consent to the contents of this privacy notice, as it may be modified from time to time.
+Arcserve may modify or update this privacy notice from time to time at any time without prior notice. You can check the “Last Updated” date below to see when the notice was last changed. We encourage you to check this notice often so that you can continue to be aware of how we are protecting your personal information. Your continued use of the website constitutes your consent to the contents of this privacy notice, as it may be modified from time to time.
 
-_Last Updated 8/1/14_
+_Last Updated 8/20/14_
