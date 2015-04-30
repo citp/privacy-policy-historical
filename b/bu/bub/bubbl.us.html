@@ -1,0 +1,241 @@
+<!--The following is the downloaded HTML source of the bubbl.us privacy policy that was archived on 2015-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150430110814id_/https%3A//bubbl.us/help/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+        <title>Bubbl.us Help</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/basepage.css?v=3.32">
+		<link href="help.css?v=3.3" rel="stylesheet" type="text/css">
+        <meta name="viewport" content="initial-scale=1.0, maximum-scale=2.0, user-scalable=1">
+        <style type="text/css">
+            #loading_message
+            {
+                margin-top: 25px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 18px;
+                color: #999999;
+                text-align:center;
+            }
+            #loading_message img
+            {
+                display: inline;
+            }
+        </style>
+		 
+		<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=1461634097383350&amp;version=v2.0"></script><script async="" charset="utf-8" src="//v2.zopim.com/?2MHl0VissrzE0rxvI1fOeYI51As3mrGx" type="text/javascript"></script><script src="jquery.min.js" type="text/javascript"> </script>
+		<script type="text/javascript">
+
+            var nu = navigator.userAgent.toLowerCase();
+            isMac = (nu.indexOf('mac') != -1);
+
+		
+			var topic = 'privacy';
+
+			if(topic != undefined && topic !== '')
+			{
+                var mac = isMac ? 'y' : 'n';
+
+				$.get(topic + ".htm?mac="+mac, function(data) {
+                    $("#loading_message").hide();
+					appendHTMLToBody(data);
+				}).error(function()	{
+					$.get(topic + ".php?mac="+mac, function(data) { $("#loading_message").hide(); appendHTMLToBody(data);}).success(function(){ setTimeout("fixLinks();", 1000); } );
+			    }).success(function(){ setTimeout("fixLinks();", 1000); } );
+			}
+			
+			function appendHTMLToBody(html)
+			{
+				var body = html.replace(/^[\S\s]*<body[^>]*?>/i, "").replace(/<\/body[\S\s]*$/i, "");
+				$("#content").append(body);
+			}
+			
+			
+			function fixLinks()
+			{
+				$.each($('a', $("#content")), function(index, value)
+					{
+                        if($(value).is("[external]") == false)
+                        {
+                            var href = $(value).attr("href");
+                            $(value).attr("href", getWithoutExtension(href));
+                        }
+					}
+				);
+			}
+			
+			function getWithoutExtension(href)
+			{
+				var suffixStart = href.indexOf(".");
+				
+				if(suffixStart >= 0)
+				{
+					return href.substring(0, suffixStart);
+				}
+				
+				return '';
+			}
+		</script>
+        <!--Start of Zopim Live Chat Script-->
+        <script type="text/javascript">
+            window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+                d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+                _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+                $.src='//v2.zopim.com/?2MHl0VissrzE0rxvI1fOeYI51As3mrGx';z.t=+new Date;$.
+                    type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+        </script>
+        <!--End of Zopim Live Chat Script-->
+	</head>
+	<body>
+        <div id="page_container">
+            <div id="header">
+                <table id="help_header">
+                    <tbody><tr>
+                        <td style="width:70%;paddin:0px;text-align: left;">
+                        <span style="color:#4E7193;text-align:center;font-size:30px;">
+                             <a class="link_to_help" href="/help/topics">
+                                 <img id="info_logo" src="images/info.png">
+                                 Help
+                             </a>
+                        </span>
+                        </td>
+                        <td style="width:10%;">
+                        </td>
+                        <td style="width:20%;">
+                            <a class="logo" href="https://bubbl.us">
+                                <img alt="bubbl.us" title="bubbl.us" src="/images/logoBig.png">
+                            </a>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+            <div class="separator"></div>
+            <div id="loading_message" style="display: none;">
+                Loading...
+                <br>
+                <img id="loadingImg" src="../images/loader.gif">
+            </div>
+            <div id="content">
+            
+<h1>Our Commitment to Privacy</h1>
+<br>
+At LKCollab, LLC ("bubbl.us", "we", or "us") we respect the privacy of your information.
+By using bubbl.us (the "Site"), or the services provided through the Site, we may collect information about you, and use and disclose such information,
+as described in this privacy policy. Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us,
+and to assist you in making informed decisions when using our Site.
+
+
+<h3>The Information We Collect</h3>
+We collect Personal Information and Anonymous Information about you.
+<br>
+<br>
+Personal Information is information you knowingly provide to us. When you create an account on bubbl.us, you are asked
+to provide us with a username, email, password and your name (optional). This information is sent over a secure SSL
+connection. All of this data, except for your password (which is stored in encrypted form), is stored in our databases.
+No third party has access to this information directly or indirectly.
+<br>
+<br>
+Anonymous Information is information collected via technology that is not linked to Personal Information and does not
+enable contact with any identifiable person. As you use the Site or services, certain Anonymous Information may also be
+passively collected and stored, such as your Internet protocol address, browser type, and access times. We may also use
+Cookies (as defined below) and navigational data like Uniform Resource Locators (URLs) to gather information regarding
+the date and time of your visit. "Cookies" are small pieces of information that a website sends to your browser while
+you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent
+Cookies (which stay on your browser until you delete them) to improve your experience on the Site (e.g., by keeping you
+logged in). Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to
+disable Cookies, you may be logged out of certain portions of the Site.
+
+
+<br>
+<br>
+
+<h3>The Ways We Use Information</h3>
+We use Personal Information that you submit to us to administer your account, control access to the Site, communicate
+with you (i.e., send account related notifications), respond to your requests (i.e.,change or reset of username and/or
+password), and improve the quality of the Site and services.
+<br><br>
+Other bubbl.us users may be able to add you to their contacts by searching for your name or email. Your email address is
+never shown to them in full.
+<br><br>
+We may also use your Personal Information to create Anonymous Information records by excluding information (such as your
+name or email address) that makes the information personally identifiable to you. We may use these records, and other
+Anonymous Information, to analyze usage patterns so that we may enhance the Site or services.
+
+
+<br>
+
+<h3>The Ways We Disclose Information</h3>
+Your saved mind maps are stored in our databases and transmitted to you via SSL encrypted connection. Any third party
+that may intercept such traffic will not be able to read it. It is however your responsibility to keep your account and
+your data secure. bubbl.us will not be held liable (see our <a href="/save/https://bubbl.us/help/terms.htm">Terms Of Service</a>) for any data
+corruption that may occur.
+
+<h3>Billing Information</h3>
+We use the services of <a href="/save/https://stripe.com/" external="">Stripe.com</a> to process your payments. We do not store any of your billing information on our
+servers. All information is encrypted and passed directly to Stripe using a secure HTTPS connection. Stripe has been
+audited by a PCI-certified auditor, and is certified to PCI Service Provider Level 1. This is the most stringent level
+of certification available.
+
+<h3>How You Can Update, Correct or Delete Your Information</h3>
+You may update your username or password by emailing us at support@bubbl.us from your email address on record, or if you
+are a Registered User, by editing your profile (Account -&gt; Update my information).
+<br><br>
+If you wish to have your Personal Information removed from our databases, you may contact us at support@bubbl.us from
+your email address on record and let us know what Personal Information you want deleted. You may request deletion of
+your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information
+and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion
+request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from
+the active database, but may remain in our archives.
+
+<h3>Changes to Our Policy</h3>
+This Privacy Policy is subject to revision from time to time. We will post any revised version of the Privacy Policy on
+this Site. If we make any material changes to it, we will also send you an e-mail to the last e-mail address you
+provided to us (if any). Any amended Privacy Policy will be effective as of the date stated in the revised policy.
+
+<h3>Contact us</h3>
+If you have any questions or suggestions regarding our Privacy Policy, please contact us at support@bubbl.us
+</div>
+        </div>
+
+        <div id="page_footer_container">
+            <div class="container">
+    <div class="site-footer">
+        <ul class="site-footer-links">
+            <li><!--Copyright -->©2014 <span title="">LKCollab</span>, LLC.</li>
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/help/topics">Help</a></li>
+            <li><a href="/help/terms" target="_blank">Terms</a></li>
+            <li><a href="/help/privacy" target="_blank">Privacy</a></li>
+            <li>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://bubbl.us" data-text="Create colorful mind maps using bubbl.us" data-via="bubbl_us" data-count="none" data-hashtags="mindmap">Tweet</a>
+            </li>
+            <li>
+                <div class="fb-like" data-href="https://www.facebook.com/pages/bubblus/155915794433710" data-layout="button" data-action="like" data-show-faces="true" data-share="false"></div>
+            </li>
+            <li>
+                <div class="g-plusone" data-size="medium" data-annotation="none" data-href="https://plus.google.com/+bubblus"></div>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1461634097383350&version=v2.0";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+
+        </div>
+	
+
+</body></html>
