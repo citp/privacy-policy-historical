@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fijourney.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927165403id_/http%3A//fijourney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fijourney.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430032038id_/http%3A//fijourney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FI Journey
 
