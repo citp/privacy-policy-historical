@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themortgagereports.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225144611id_/http%3A//themortgagereports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themortgagereports.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430161904id_/http%3A//themortgagereports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mortgage Rates & News from The Mortgage Reports
 
@@ -77,7 +77,7 @@ The Site is not structured to attract children. Accordingly, we do not intend to
 
 **CONTACTING US**
 
-If you have any questions or concerns about this Privacy Policy, you may [contact us](http://www.fullbeaker.com/page-contact) via email or you can call us at the following number: 1-888-987-6607
+If you have any questions or concerns about this Privacy Policy, you may [contact us](http://themortgagereports.com/contact-us/) via email or you can call us at the following number: 1-888-987-6607
 
   **UPDATES TO THIS PRIVACY POLICY**
 
