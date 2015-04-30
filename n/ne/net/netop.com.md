@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netop.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230154718id_/http%3A//www.netop.com/company/privacy-policy/cookies-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netop.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430191310id_/http%3A//www.netop.com/company/privacy-policy/cookies-policy.htm) for the most accurate reproduction.*
 
 # Cookies Policy
 
