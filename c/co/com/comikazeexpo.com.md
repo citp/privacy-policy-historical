@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comikazeexpo.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220025546id_/http%3A//www.advanstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comikazeexpo.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430041736id_/http%3A//www.advanstar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ADVANSTAR
+# Privacy Policy | UBM ADVANSTAR
 
 **Effective date: December 19, 2014**
 
