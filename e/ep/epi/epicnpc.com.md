@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epicnpc.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230092836id_/http%3A//www.epicnpc.com/privatepolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicnpc.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430041545id_/http%3A//www.epicnpc.com/privatepolicy.php) for the most accurate reproduction.*
 
-# Trade WoW Accounts Buy Sell - EpicNPC - Privacy Policy
+# EpicNPC - Privacy Policy
 
 EpicNPC respects your privacy. This page explains our policy relating to the personal data that is received by us.
 
