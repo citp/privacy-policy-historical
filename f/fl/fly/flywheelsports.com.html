@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the flywheelsports.com privacy policy that was archived on 2014-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140926013858id_/http%3A//www.flywheelsports.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flywheelsports.com privacy policy that was archived on 2015-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150430054658id_/http%3A//www.flywheelsports.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUHWV9RGwIBU1lVBgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,o){t&&t(e,n,o),o||(o={});for(var a=i(e),s=a.length,c=o[r]||(o[r]={}),f=0;s>f;f++)a[f].apply(c,n);return c}function o(t,e){s[t]=i(t).concat(e)}function i(t){return s[t]||[]}function a(){return n(e)}var s={};return{on:o,emit:e,create:a,listeners:i,_events:s}}var r="nr@context";e.exports=n()},{}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:15,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o);if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var a=document;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&n(a);for(var s=XMLHttpRequest.prototype;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=i(e,"fn-",null,e.name||"anonymous"):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:16,ee:"QJf3ax"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:16,2:15,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:16,2:15,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",r)}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:16,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(1),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(2);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:9,2:12,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],12:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],15:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],16:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper";e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,f,u;try{i=this,n=o(arguments),f=r&&r(n,i)||{}}catch(d){c([d,"",[n,i,a],f])}s(e+"start",[n,i,a],f);try{return u=t.apply(i,n)}catch(p){throw s(e+"err",[n,i,p],f),p}finally{s(e+"end",[n,i,u],f)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,nrWrapper)}function a(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function s(e,n,r){try{t.emit(e,n,r)}catch(o){c([o,e,n,r])}}function c(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=a,e.flag=i,e}},{1:15,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUHWV9RGwIBU1lVBgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(3),t(4),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:6,4:5,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:21,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],10:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:19,2:20,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:19,2:10,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],19:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 
 
   <title>Flywheel Sports Privacy Policy | Flywheel Sports</title>
@@ -10,9 +10,11 @@
 
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//dcq4nbq5ixuxf.cloudfront.net">
-<link rel="shortcut icon" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/favicon.ico?9t3Xf" type="image/x-icon">
+<link rel="shortcut icon" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/favicon.ico?gCbxX" type="image/x-icon">
 
-  <meta name="copyright" content="© 2014">
+  <meta name="copyright" content="© 2015">
+
+  <meta name="apple-itunes-app" content="app-id=826147249">
 
 
   <link rel="apple-touch-icon" href="/sites/all/themes/fw_amm/images/ios_icons/apple-touch-icon-57x57.png">
@@ -39,57 +41,57 @@
     jQuery.noConflict(true);
   </script>
 
-  <link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/modules/user/user.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/cck/theme/content-module.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ctools/css/ctools.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/date/date.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/date/date_popup/themes/datepicker.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/filefield/filefield.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/nice_menus/nice_menus.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/nice_menus/nice_menus_default.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_attribute/uc_attribute.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_order/uc_order.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_product/uc_product.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_roles/uc_roles.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_store/uc_store.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/misc/farbtastic/farbtastic.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/calendar/calendar.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/views/css/views.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/css/screen.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/css/jquery.ui.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/css/jquery.dropdown.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/css/jquery.carousel.css?9t3Xf?9">
-<link type="text/css" rel="stylesheet" media="print" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/fw_amm-internals/css/print.css?9t3Xf?9">
+  <link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/modules/user/user.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/cck/theme/content-module.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ctools/css/ctools.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/date/date.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/date/date_popup/themes/datepicker.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/filefield/filefield.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/nice_menus/nice_menus.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/nice_menus/nice_menus_default.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_attribute/uc_attribute.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_order/uc_order.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_product/uc_product.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_roles/uc_roles.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/ubercart/uc_store/uc_store.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/misc/farbtastic/farbtastic.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/calendar/calendar.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/modules/views/css/views.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/css/screen.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/css/jquery.ui.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/css/jquery.dropdown.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="all" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/css/jquery.carousel.css?gCbxX?g">
+<link type="text/css" rel="stylesheet" media="print" href="//dcq4nbq5ixuxf.cloudfront.net/sites/all/themes/fw_amm/fw_amm-internals/css/print.css?gCbxX?g">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fw_amm/css/ie.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fw_amm/css/ie.css?g" />
 <![endif]-->
 <!--[if lte IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fw_amm/css/ie8.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fw_amm/css/ie8.css?g" />
 <![endif]-->
 <!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fw_amm/css/ie7.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fw_amm/css/ie7.css?g" />
 <![endif]-->
-  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.js?9"></script>
-<script type="text/javascript" src="/misc/drupal.js?9"></script>
-<script type="text/javascript" src="/sites/all/modules/ajax_load/ajax_load.js?9"></script>
-<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/superfish.js?9"></script>
-<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/jquery.bgiframe.min.js?9"></script>
-<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/jquery.hoverIntent.minified.js?9"></script>
-<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?9"></script>
-<script type="text/javascript" src="/sites/all/modules/ubercart/uc_roles/uc_roles.js?9"></script>
-<script type="text/javascript" src="/sites/all/modules/fw_core/fw_core.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.dropdown.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.backstretch.min.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/password_input.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.blockUI.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/scrollTo.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.carousel.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/tipped.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.tooltip.min.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.cookie.js?9"></script>
-<script type="text/javascript" src="/sites/all/themes/fw_amm/js/screen.js?9"></script>
+  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.js?g"></script>
+<script type="text/javascript" src="/misc/drupal.js?g"></script>
+<script type="text/javascript" src="/sites/all/modules/ajax_load/ajax_load.js?g"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/superfish.js?g"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/jquery.bgiframe.min.js?g"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/superfish/js/jquery.hoverIntent.minified.js?g"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?g"></script>
+<script type="text/javascript" src="/sites/all/modules/ubercart/uc_roles/uc_roles.js?g"></script>
+<script type="text/javascript" src="/sites/all/modules/fw_core/fw_core.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.dropdown.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.backstretch.min.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/password_input.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.blockUI.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/scrollTo.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.carousel.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/tipped.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.tooltip.min.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/jquery.cookie.js?g"></script>
+<script type="text/javascript" src="/sites/all/themes/fw_amm/js/screen.js?g"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","nice_menus_options":{"delay":800,"speed":1}});
@@ -97,7 +99,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","nice_menus_options":{"delay":80
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/flybarre-schedule\/millburn","\/flybarre-schedule\/flatiron","\/flybarre-schedule\/east-hampton","\/reserve\/upper-east-side","\/reserve\/flatiron","\/reserve\/millburn","\/reserve\/upper-west-side","\/reserve\/east-hampton","\/reserve\/sag-harbor","\/reserve\/englewood","\/flybarre-schedule\/englewood","\/englewood-open-house","\/reserve\/tribeca","\/flybarre-schedule\/upper-east-side","\/reserve\/scarsdale","\/flybarre-schedule\/scarsdale","\/reserve\/lincoln-square","\/flybarre-schedule\/lincoln-square","\/reserve\/chelsea","\/locations","\/","\/instructors","\/locations\/upper-east-side","\/locations\/east-hampton","http:\/\/www.flywheelsports.com\/locations","\/locations\/millburn","\/locations\/upper-west-side","\/locations\/sag-harbor","\/locations\/flatiron","\/locations\/stamford","\/locations\/englewood","\/locations\/tribeca","\/locations\/scarsdale","\/locations\/lincoln-square","\/locations\/chelsea","\/locations","\/faqs","\/experience\/media","\/contact-us","\/getting-started","\/why-flywheel","\/why-flybarre","\/torqboard","\/fly-with-friends","https:\/\/new-york.flywheelsports.com\/sites\/all\/documents\/PARENTAL_CONSENT_RELEASE.pdf","\/careers","\/cruise","\/flybarre-challenge","\/power-up","\/if-the-shoe-fits","\/retail","http:\/\/blog.flywheelsports.com","\/more-flywheel","\/buy\/new-york","\/gift-cards\/new-york","\/flybride\/new-york","\/buy\/englewood","\/buy\/scarsdale","\/student-specials\/new-york","\/buy\/millburn","\/jp-morgan\/new-york","\/espn","\/nbcu-comcast\/new-york","\/price-waterhouse-cooper\/new-york","\/fox-sports\/new-york","\/goldman-sachs\/new-york","\/loreal\/new-york","\/coach\/new-york","\/deloitte\/new-york","\/hearst","\/conde-nast","\/fab","\/blackstone","\/HSS","\/amex","\/Citibank","\/clinton","\/ps234","\/jcp","\/wms","\/financial-times","\/Soho-House","\/t-mobile","\/starbucks","\/NBA","\/microsoft\/new-york","\/bloomingdales\/new-york","\/rebecca-minkoff\/new-york","\/buy\/new-york","\/gift-cards\/atlanta","\/gift-cards\/boston","\/gift-cards\/chicago","\/gift-cards\/florida","\/gift-cards\/north-carolina","\/gift-cards\/philadelphia","\/gift-cards\/seattle","\/gift-cards\/texas","\/gift-cards\/los-angeles"]
+var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/englewood-open-house","\/reserve\/back-bay","\/flybarre-schedule\/back-bay","\/locations","\/","\/instructors","http:\/\/www.flywheelsports.com\/locations","\/locations\/back-bay","\/locations","\/faqs","\/experience\/media","\/contact-us","\/getting-started","\/why-flywheel","\/why-flybarre","\/torqboard","\/fly-with-friends","https:\/\/new-york.flywheelsports.com\/sites\/all\/documents\/PARENTAL_CONSENT_RELEASE.pdf","\/careers","\/cruise","\/flybarre-challenge","\/power-up","\/if-the-shoe-fits","\/retail","http:\/\/blog.flywheelsports.com","\/charity-events","\/private-events","\/more-flywheel","\/gift-cards\/new-york","\/FlyBride","\/FlyBride","\/gift-cards\/atlanta","\/buy\/boston","\/student-specials\/boston","\/deloitte\/boston","\/t-mobile\/boston","\/starbucks\/boston","\/soho-house\/boston","\/microsoft\/boston","\/gift-cards\/boston","\/hill-holiday\/boston","\/google\/boston","\/reebok\/boston","\/new-balance\/boston","\/flywheel-challenge\/spring-2015\/boston","\/wework\/boston","\/FlyBride","\/state-street-corp\/boston","\/friends-and-family\/boston","\/buy\/boston","\/FlyBride","\/gift-cards\/chicago","\/FlyBride","\/gift-cards\/florida","\/FlyBride","\/gift-cards\/north-carolina","\/gift-cards\/philadelphia","\/FlyBride","\/gift-cards\/seattle","\/gift-cards\/texas","\/FlyBride","\/gift-cards\/los-angeles","\/FlyBride","\/gift-cards\/sunnyvale","\/FlyBride"]
 //--><!]]>
 </script>
 
@@ -107,7 +109,7 @@ var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/flybar
             <div id="fw-gradient-overlay">
                 <div class="container">
                     <div class="header clearfix">
-    <a href="/"><img src="/sites/all/themes/fw_amm/images/region_logo/new-york.png" height="60" border="0" class="logo_home"></a>
+    <a href="/"><img src="/sites/all/themes/fw_amm/images/region_logo/boston.png" height="60" border="0" class="logo_home"></a>
         
     <div class="hd_login">
         <!-- auto output START -->
@@ -122,7 +124,7 @@ var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/flybar
  <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required">
 </div>
 <input type="submit" name="op" id="edit-submit" value="Sign In" class="form-submit">
-<input type="hidden" name="form_build_id" id="form-da9f585d3c7efce476bcef2650de8cb3" value="form-da9f585d3c7efce476bcef2650de8cb3">
+<input type="hidden" name="form_build_id" id="form-0d808b3bc1d988f13ddee3630aa78bc5" value="form-0d808b3bc1d988f13ddee3630aa78bc5">
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block">
 </div>
 </div></form>
@@ -157,6 +159,10 @@ var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/flybar
       </li>
           <li><a href="https://texas.flywheelsports.com" data-region-subdomain="texas">Texas</a>
       </li>
+          <li><a href="https://northern-california.flywheelsports.com" data-region-subdomain="northern-california">Northern California</a>
+      </li>
+          <li><a href="https://washington-dc.flywheelsports.com" data-region-subdomain="washington-dc">Washington DC</a>
+      </li>
           <li><a href="https://dubai.flywheelsports.com" data-region-subdomain="dubai">Dubai</a>
       </li>
       </ul>
@@ -180,87 +186,108 @@ var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/flybar
 <li class="leaf"><a href="/locations/raleigh" title="Raleigh">Raleigh</a></li>
 <li class="leaf"><a href="/locations/gold-coast" title="">Gold Coast</a></li>
 <li class="leaf"><a href="/locations/larchmont" title="Larchmont">Larchmont</a></li>
+<li class="leaf"><a href="/locations/old-town" title="Old Town">Old Town</a></li>
 <li class="leaf"><a href="/locations/miami-beach" title="">Miami Beach</a></li>
 <li class="leaf"><a href="/locations/midtown" title="Midtown">Midtown</a></li>
 <li class="leaf"><a href="/locations/highland-park-tx" title="">Highland Park</a></li>
 <li class="leaf"><a href="/locations/plano" title="Plano">Plano</a></li>
 <li class="leaf"><a href="/locations/west-hollywood" title="West Hollywood">West Hollywood</a></li>
 <li class="leaf"><a href="/locations/upper-west-side" title="Upper West Side">Upper West Side</a></li>
+<li class="leaf"><a href="/locations/alpharetta" title="Alpharetta">Alpharetta</a></li>
 <li class="leaf"><a href="/locations/upper-east-side" title="Upper East Side">Upper East Side</a></li>
 <li class="leaf"><a href="/locations/lincoln-square" title="">Lincoln Square</a></li>
 <li class="leaf"><a href="/locations/tribeca" title="Tribeca">Tribeca</a></li>
 <li class="leaf"><a href="/locations/chelsea" title="Chelsea">Chelsea</a></li>
+<li class="leaf"><a href="/locations/east-60th" title="">East 60th</a></li>
 <li class="leaf"><a href="/locations/east-hampton" title="East Hampton">East Hampton</a></li>
 <li class="leaf"><a href="/locations/sag-harbor" title="Sag Harbor">Sag Harbor</a></li>
 <li class="leaf"><a href="/locations/millburn" title="Millburn">Millburn</a></li>
 <li class="leaf"><a href="/locations/englewood" title="">Englewood</a></li>
+<li class="leaf"><a href="/locations/dupont" title="Dupont">Dupont</a></li>
 <li class="leaf"><a href="/locations/scarsdale" title="">Scarsdale</a></li>
+<li class="leaf"><a href="/locations/sunnyvale" title="">Sunnyvale</a></li>
+<li class="leaf"><a href="/locations/north-miami" title="">North Miami</a></li>
 <li class="leaf last"><a href="http://www.flywheelsports.com/locations" title="">All Locations</a></li>
 </ul></li>
 <li class="leaf"><a href="/instructors" title="Flywheel Sports Instructors">Instructors</a></li>
 <li class="expanded"><a href="/buy/atlanta" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/atlanta" title="">Buy Atlanta</a></li>
+<li class="leaf"><a href="/alpharetta/atlanta" title="">Buy Alpharetta</a></li>
 <li class="leaf"><a href="/midtown/atlanta" title="">Buy Midtown</a></li>
 <li class="leaf"><a href="/gift-cards/atlanta" title="">Gift Cards</a></li>
-<li class="leaf last"><a href="/flybride/atlanta" title="">FlyBride</a></li>
+<li class="leaf last"><a href="/FlyBride" title="">FlyBride</a></li>
 </ul></li>
 <li class="expanded"><a href="/buy/boston" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/boston" title="">Buy Boston</a></li>
-<li class="leaf last"><a href="/gift-cards/boston" title="">Gift Cards</a></li>
+<li class="leaf"><a href="/gift-cards/boston" title="">Gift Cards</a></li>
+<li class="leaf last"><a href="/FlyBride" title="">FlyBride</a></li>
 </ul></li>
 <li class="expanded"><a href="/buy/chicago" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/chicago" title="">Buy Chicago</a></li>
 <li class="leaf"><a href="/gift-cards/chicago" title="">Gift Cards</a></li>
-<li class="leaf last"><a href="/flybride/chicago" title="">FlyBride</a></li>
+<li class="leaf last"><a href="/FlyBride" title="">FlyBride</a></li>
 </ul></li>
 <li class="expanded"><a href="/buy/florida" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/florida" title="">Buy Florida</a></li>
 <li class="leaf"><a href="/gift-cards/florida" title="">Gift Cards</a></li>
-<li class="leaf last"><a href="/flybride/florida" title="">FlyBride</a></li>
+<li class="leaf last"><a href="/FlyBride" title="">FlyBride</a></li>
 </ul></li>
 <li class="expanded"><a href="/buy/north-carolina" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/north-carolina" title="">Buy North Carolina</a></li>
 <li class="leaf"><a href="/gift-cards/north-carolina" title="">Gift Cards</a></li>
-<li class="leaf last"><a href="/flybride/north-carolina" title="">FlyBride</a></li>
+<li class="leaf last"><a href="/FlyBride" title="">FlyBride</a></li>
 </ul></li>
 <li class="expanded"><a href="/buy/philadelphia" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/philadelphia" title="">Buy Philadelphia</a></li>
-<li class="leaf last"><a href="/gift-cards/philadelphia" title="">Gift Cards</a></li>
+<li class="leaf last"><a href="/gift-cards/philadelphia#gift_cards" title="">Gift Cards</a></li>
 </ul></li>
 <li class="expanded"><a href="/buy/texas" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/texas" title="">Buy Texas</a></li>
 <li class="leaf"><a href="/buy/plano" title="">Buy Plano</a></li>
-<li class="leaf last"><a href="/gift-cards/texas" title="">Gift Cards</a></li>
+<li class="leaf"><a href="/gift-cards/texas" title="">Gift Cards</a></li>
+<li class="leaf last"><a href="/FlyBride" title="">FlyBride</a></li>
 </ul></li>
 <li class="expanded"><a href="/buy/seattle" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/seattle" title="">Buy Seattle</a></li>
 <li class="leaf"><a href="/gift-cards/seattle" title="">Gift Cards</a></li>
-<li class="leaf last"><a href="/flybride/seattle" title="">FlyBride</a></li>
+<li class="leaf last"><a href="/FlyBride" title="">FlyBride</a></li>
 </ul></li>
 <li class="expanded"><a href="/buy/los-angeles" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/los-angeles" title="">Buy Los Angeles</a></li>
-<li class="leaf last"><a href="/gift-cards/los-angeles" title="">Gift Cards</a></li>
+<li class="leaf"><a href="/gift-cards/los-angeles" title="">Gift Cards</a></li>
+<li class="leaf last"><a href="/FlyBride" title="">FlyBride</a></li>
 </ul></li>
 <li class="expanded"><a href="/buy/new-york" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/new-york" title="">Buy New York</a></li>
 <li class="leaf"><a href="/buy/millburn" title="Buy Millburn">Buy Millburn</a></li>
 <li class="leaf"><a href="/buy/englewood" title="">Buy Englewood</a></li>
 <li class="leaf"><a href="/buy/scarsdale" title="">Buy Scarsdale</a></li>
-<li class="leaf"><a href="/flybride/new-york" title="">FlyBride</a></li>
+<li class="leaf"><a href="/FlyBride" title="">FlyBride</a></li>
 <li class="leaf last"><a href="/gift-cards/new-york" title="">Gift Cards</a></li>
+</ul></li>
+<li class="expanded"><a href="/buy/sunnyvale" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/sunnyvale" title="">Buy Sunnyvale</a></li>
+<li class="leaf last"><a href="/gift-cards/sunnyvale" title="Gift Cards">Gift Cards</a></li>
+</ul></li>
+<li class="expanded"><a href="/buy/washington-dc" title="">Buy</a><ul class="menu"><li class="leaf first"><a href="/buy/washington-dc" title="">Buy Washington DC</a></li>
+<li class="leaf"><a href="/buy/washington-dc#gift_cards" title="">Gift Cards</a></li>
+<li class="leaf last"><a href="/FlyBride" title="">FlyBride</a></li>
 </ul></li>
 <li class="expanded"><a href="/locations" title="Reserve">Reserve</a><ul class="menu"><li class="leaf first"><a href="/reserve/back-bay" title="">Back Bay</a></li>
 <li class="leaf"><a href="/reserve/charlotte" title="">Charlotte</a></li>
+<li class="leaf"><a href="/flybarre-schedule/back-bay" title="">FlyBarre Back Bay</a></li>
 <li class="leaf"><a href="/reserve/south-lake-union" title="">South Lake Union</a></li>
 <li class="leaf"><a href="/reserve/bellevue" title="">Bellevue</a></li>
 <li class="leaf"><a href="/reserve/miami-beach" title="">Miami Beach</a></li>
 <li class="leaf"><a href="/reserve/boca" title="">Boca Raton</a></li>
 <li class="leaf"><a href="/reserve/buckhead" title="">Buckhead</a></li>
+<li class="leaf"><a href="/reserve/north-miami" title="">North Miami</a></li>
 <li class="leaf"><a href="/reserve/center-city" title="">Center City</a></li>
 <li class="leaf"><a href="/reserve/bryn-mawr" title="">Bryn Mawr</a></li>
 <li class="leaf"><a href="/reserve/raleigh" title="">Raleigh</a></li>
 <li class="leaf"><a href="/reserve/flatiron" title="">Flatiron</a></li>
 <li class="leaf"><a href="/flybarre-schedule/south-lake-union" title="">FlyBarre South Lake Union</a></li>
 <li class="leaf"><a href="/flybarre-schedule/bellevue" title="">FlyBarre Bellevue</a></li>
+<li class="leaf"><a href="/reserve/midtown" title="">Midtown</a></li>
+<li class="leaf"><a href="/reserve/alpharetta" title="">Alpharetta</a></li>
 <li class="leaf"><a href="/flybarre-schedule/buckhead" title="">FlyBarre Buckhead</a></li>
 <li class="leaf"><a href="/flybarre-schedule/charlotte" title="">FlyBarre Charlotte</a></li>
 <li class="leaf"><a href="/flybarre-schedule/miami-beach" title="">FlyBarre Miami Beach</a></li>
 <li class="leaf"><a href="/flybarre-schedule/boca" title="">FlyBarre Boca</a></li>
 <li class="leaf"><a href="/flybarre-schedule/raleigh" title="">FlyBarre Raleigh</a></li>
 <li class="leaf"><a href="/flybarre-schedule/midtown" title="">FlyBarre Midtown</a></li>
+<li class="leaf"><a href="/flybarre-schedule/north-miami" title="">FlyBarre North Miami</a></li>
 <li class="leaf"><a href="/reserve/highland-park-tx" title="">Highland Park</a></li>
 <li class="leaf"><a href="/reserve/gold-coast" title="">Gold Coast</a></li>
-<li class="leaf"><a href="/reserve/midtown" title="">Midtown</a></li>
 <li class="leaf"><a href="/reserve/plano" title="">Plano</a></li>
 <li class="leaf"><a href="/flybarre-schedule/plano" title="">FlyBarre Plano</a></li>
 <li class="leaf"><a href="/reserve/west-hollywood" title="">West Hollywood</a></li>
@@ -270,8 +297,10 @@ var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/flybar
 <li class="leaf"><a href="/reserve/lincoln-square" title="">Lincoln Square</a></li>
 <li class="leaf"><a href="/reserve/tribeca" title="">Tribeca</a></li>
 <li class="leaf"><a href="/reserve/chelsea" title="">Chelsea</a></li>
+<li class="leaf"><a href="/reserve/east-60th" title="">East 60th</a></li>
 <li class="leaf"><a href="/reserve/east-hampton" title="
 ">East Hampton</a></li>
+<li class="leaf"><a href="/reserve/dupont" title="">Dupont</a></li>
 <li class="leaf"><a href="/reserve/sag-harbor" title="">Sag Harbor</a></li>
 <li class="leaf"><a href="/reserve/millburn" title="">Millburn</a></li>
 <li class="leaf"><a href="/reserve/englewood" title="">Englewood</a></li>
@@ -279,21 +308,28 @@ var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/flybar
 <li class="leaf"><a href="/flybarre-schedule/flatiron" title="">FlyBarre Flatiron</a></li>
 <li class="leaf"><a href="/flybarre-schedule/upper-east-side" title="">FlyBarre Upper East Side</a></li>
 <li class="leaf"><a href="/flybarre-schedule/lincoln-square" title="">FlyBarre Lincoln Square</a></li>
+<li class="leaf"><a href="/flybarre-schedule/east-60th" title="">FlyBarre East 60th</a></li>
 <li class="leaf"><a href="/flybarre-schedule/east-hampton" title="
 
 ">FlyBarre East Hampton</a></li>
 <li class="leaf"><a href="/flybarre-schedule/millburn" title="">FlyBarre Millburn</a></li>
+<li class="leaf"><a href="/flybarre-schedule/dupont" title="">FlyBarre Dupont</a></li>
 <li class="leaf"><a href="/flybarre-schedule/englewood" title="">FlyBarre Englewood</a></li>
 <li class="leaf"><a href="/flybarre-schedule/scarsdale" title="">FlyBarre Scarsdale</a></li>
-<li class="leaf last"><a href="/flybarre-schedule/west-hollywood" title="">FlyBarre West Hollywood</a></li>
+<li class="leaf"><a href="/flybarre-schedule/west-hollywood" title="">FlyBarre West Hollywood</a></li>
+<li class="leaf"><a href="/flybarre-schedule/alpharetta" title="">FlyBarre Alpharetta</a></li>
+<li class="leaf"><a href="/reserve/sunnyvale" title="">Sunnyvale</a></li>
+<li class="leaf"><a href="/reserve/old-town" title="">Old Town</a></li>
+<li class="leaf last"><a href="/flybarre-schedule/old-town" title="">FlyBarre Old Town</a></li>
 </ul></li>
 <li class="leaf"><a href="/user" title="">My Account</a></li>
 <li class="expanded last"><a href="/more-flywheel" title="">More+</a><ul class="menu"><li class="leaf first"><a href="/getting-started" title="">Getting Started</a></li>
 <li class="leaf"><a href="http://blog.flywheelsports.com" title="">Blog</a></li>
 <li class="leaf"><a href="/why-flywheel" title="">Why Flywheel</a></li>
 <li class="leaf"><a href="/why-flybarre" title="">Why FlyBarre</a></li>
+<li class="leaf"><a href="/charity-events" title="">Charity Events</a></li>
+<li class="leaf"><a href="/private-events" title="">Private Events</a></li>
 <li class="leaf"><a href="/retail" title="">Retail</a></li>
-<li class="leaf"><a href="/flybarre-challenge" title="FlyBarre Challenge">FlyBarre Challenge</a></li>
 <li class="leaf"><a href="/faqs" title="">FAQ</a></li>
 <li class="leaf"><a href="/torqboard" title="">TorqBoard</a></li>
 <li class="leaf"><a href="/fly-with-friends" title="">Refer a Friend</a></li>
@@ -389,7 +425,7 @@ var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/flybar
     <div class="container">
         <div class="ft_l">
             <a href="/" class="ft_logo"><img src="/sites/all/themes/fw_amm/images/footer_logo.png" width="30" height="30" border="0" alt="FlyWheelSports"></a>
-            <a href="/about">About Us</a>            <a href="/faqs">FAQ</a>            <a href="/privacy">Privacy Policy</a>            <a href="/terms">Terms of Service</a>            <a href="/experience/media">Press</a>            <a href="/contact-us">Contact Us</a>            <span>Copyright © 2014 Flywheel. All Rights Reserved.</span>
+            <a href="/about">About Us</a>            <a href="/faqs">FAQ</a>            <a href="/privacy">Privacy Policy</a>            <a href="/terms">Terms of Service</a>            <a href="/experience/media">Press</a>            <a href="/contact-us">Contact Us</a>            <span>Copyright © 2015 Flywheel. All Rights Reserved.</span>
         </div>
         <div class="ft_r">
             <span>Follow us:</span>
@@ -401,7 +437,7 @@ var region_links_filter = ["\/classes","\/user","\/pickabike\/classes","\/flybar
                 
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-18681591-1"]);_gaq.push(["_trackPageview"]);_gaq.push(['_setDomainName', 'flywheelsports.com']);
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-18681591-4"]);_gaq.push(["_trackPageview"]);_gaq.push(['_setDomainName', 'flywheelsports.com']);
 _gaq.push(['_addIgnoredRef', 'flywheelsports.com']);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
 //--><!]]>
 </script>
@@ -410,5 +446,5 @@ _gaq.push(['_addIgnoredRef', 'flywheelsports.com']);(function() {var ga = docume
             </div>
         </div>
 
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"0af6b632d7","applicationID":"1178719","transactionName":"Ml1TZktVWUtVARAMVwsXckdKQFhVGwwLAV06SFBVXGtBUVEVOxFBFV0LElBaUVc=","queueTime":0,"applicationTime":334,"ttGuid":"","agentToken":"","atts":"HhpQEANPSkU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-460.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-460.min.js"></script></body></html>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0af6b632d7","applicationID":"1178719","transactionName":"Ml1TZktVWUtVARAMVwsXckdKQFhVGwwLAV06SFBVXGtBUVEVOxFBFV0LElBaUVc=","queueTime":0,"applicationTime":251,"atts":"HhpQEANPSkU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-536.min.js"></script></body></html>
