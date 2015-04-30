@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrope.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120121524id_/http%3A//www.adrope.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrope.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430142553id_/http%3A//www.adrope.com/privacy.aspx) for the most accurate reproduction.*
 
 # Ad Rope Privacy Policy
 
@@ -26,4 +26,4 @@ Ad rope is not responsible for the privacy policies of our network advertisers a
 Ad rope provides advertising links to many websites. Ad rope is only responsible for the content of the advertisements delivered through our system. Ad rope accepts no responsibility for the content of those websites outside of their network advertising campaigns. 
 
 **Contact:**  
-You may contact us by e-mail at [support@adrope.com](mailto:support@adrope.com)
+You may contact us by e-mail at [info@adrope.com](mailto:info@adrope.com)
