@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funkypickens.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050348id_/http%3A//funkypickens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkypickens.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501205309id_/http%3A//funkypickens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funky Pickens
 
@@ -49,14 +49,14 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 You may choose to restrict the collection or use of your personal information in the following ways.
 
-  1. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at info@funkypickens.com[  
+  1. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at cliffstr@hotmail.com [  
 ](mailto:Rats-FunnyBone@hotmail.com)
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email info@funkypickens.com
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email cliffstr@hotmail.com
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
 
@@ -78,7 +78,7 @@ Google’s use of the DART cookie enables it to serve ads to visitors based on t
 
 **Questions or Concerns**
 
-Any information used or collected on this site is strictly for entertainment purposes only. We will not be liable or responsible for the misuse of third party sharing or any visitors of the site who choose to copy any material and use it for their own personal entertainment.  Questions or concerns may be addressed via email at info@funkypickens.com .  If a response or reply is requested, we ask that a reasonable amount of time is given for us to comply with the request.
+Any information used or collected on this site is strictly for entertainment purposes only. We will not be liable or responsible for the misuse of third party sharing or any visitors of the site who choose to copy any material and use it for their own personal entertainment.  Questions or concerns may be addressed via email at cliffstr@hotmail.com.  If a response or reply is requested, we ask that a reasonable amount of time is given for us to comply with the request.
 
 **Copyright notice: November 1, 2012  
 **
