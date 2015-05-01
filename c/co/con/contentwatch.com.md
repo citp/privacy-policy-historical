@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentwatch.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715125151id_/http%3A//www.contentwatch.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwatch.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501233049id_/http%3A//www.contentwatch.com/support/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ContentWatch
 
@@ -20,7 +20,7 @@ We will never disclose your credit card information or your personal identity in
 
 We may use or allow reputable third parties to present or serve the advertisements that you may see on our Web pages. In addition, some business advertisements are managed and placed on our Web pages by third party companies. This Privacy Statement does not cover any use of information that a third party ad server or network advertiser may collect from you.
 
-**4\. OPT OUT POLICY.** You may request at any time that ContentWatch Inc. not send any future email to you by unsubscribing from the communication within [My Account](http://www.contentwatch.com/account/unsubscribe).
+**4\. OPT OUT POLICY.** You may request at any time that ContentWatch Inc. not send any future email to you by unsubscribing from the communication within [My Account](https://www.contentwatch.com/account/unsubscribe).
 
 **5\. SECURITY WE PROVIDE.** We have attempted to place appropriate physical, electronic and managerial procedures to safeguard and help protect against unauthorized access, maintain data security and correctly use the information we collect. Agents and contractors of ContentWatch Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement. Although we take appropriate measures to safeguard against unauthorized disclosures of personally identifiable information, we cannot assure you that your personally identifiable information will never be disclosed in a manner that is inconsistent with this Privacy Statement. We protect the security of your credit card information using secure socket layer (SSL) encryption.
 
