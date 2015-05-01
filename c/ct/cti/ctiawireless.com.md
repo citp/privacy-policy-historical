@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ctiawireless.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122190708id_/http%3A//www.supermobilityweek.com/site/index.cfm/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctiawireless.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501111416id_/http%3A//www.ctiasupermobility2015.com/site/index.cfm/privacy-statement) for the most accurate reproduction.*
 
-# Super Mobility Week powered by CTIA
+# CTIA Super Mobility 2015
 
   * Introduction
   * How Your Information is Collected
