@@ -1,78 +1,78 @@
-> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715074530id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501174955id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.*
 
 # Live Chat, Chat Software, Live Chat Software, Website Live Chat | WebsiteAlive
-
-## Privacy Policy
-
-### We are committed to your privacy.
 
 This Privacy Policy details how we use your personal information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. Our Privacy Policy is our commitment to you that we provide not only the highest quality services and products, but that we understand that you expect us to safeguard the personal and business information that we collect. To this end, our Privacy Policy allows you to make an informed decision regarding your usage of the tools and services that we provide. As technology and circumstances change, we will continue to update, modify and enhance this Privacy Policy for your benefit as part of our commitment to you to provide the best possible services and security according to our high standards of business practices and ethics.
 
 By using our the tools and services we provide, and visiting our web site such activities become your express indication to us that you consent to our collection and use of your personal information as described herein.
 
-AYU Technology Solutions, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@websitealive.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program does not cover information that may be collected through software downloaded from the site.
+AYU Technology Solutions, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@websitealive.com](mailto:privacy@websitealive.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program does not cover information that may be collected through software downloaded from the site. The TRUSTe program covers only our collection, use and disclosure of information we collect through our website www.websitealive.com and our service AliveChat, AliveDial. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged AYU Technology Solutions LLC.
 
 This privacy policy applies to data collected at the corporate website and client log in section of www.websitealive.com as well as the data collected from our Active Chat application on our client’s sites. Please be aware that we act as a data processor in regards to the data collected on our client’s site, and process the data on behalf of our clients.
 
+AYU Technology Solutions, LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AYU Technology Solutions, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AYU Technology Solutions, LLC’s certification, please visit <http://www.export.gov/safeharbor/>
+
 ### I. Pertains to Data collection on www.websitealive.com
 
-### Personal Information Collected
+#### Personal Information Collected
 
-In order to access certain subscriber services and restricted areas (the "Restricted Services") within the WebsiteAlive site (the "Site"), AYU Technology Solutions, LLC ("WebsiteAlive") requires that you provide certain identifying information (the "Registration Data") listed in the online registration form. This information may include your legal name, address, telephone number(s), e-mail address, subscriber name or "screen name," areas of interest, password used to access Pay services, method of payment, and, if applicable, credit card number. While using WebsiteAlive as a client, third party personal information may be entered, such as name and email address. This information is only used for the purpose it was collected for.
+In order to access certain subscriber services and restricted areas (the "Restricted Services") within the WebsiteAlive site (the "Site"), AYU Technology Solutions, LLC ("WebsiteAlive", "We", "Us", or "Our") requires that you provide certain identifying information (the "Registration Data") listed in the online registration form. This information may include your legal name, address, telephone number(s), e-mail address, subscriber name or "screen name," areas of interest, password used to access Pay services, method of payment, and, if applicable, credit card number. While using WebsiteAlive as a client, third party personal information may be entered, such as name and email address. This information is only used for the purpose it was collected for.
 
 WebsiteAlive reserves the right to request any additional information necessary to establish and maintain your account for use of the Pay Services.
 
-### Confidentiality
+#### Confidentiality
 
 Registration Data is the property of WebsiteAlive, subject to and protected by the Electronic Communications Privacy Act. WebsiteAlive will not sell, rent, swap, or otherwise disclose your Registration Data to any third party for promotional purposes. WebsiteAlive maintains a secured area on the Site for transmission of Registration Data, and stores all Registration Data in a private database which is not connected to the Internet.
 
-### Uses of Registration Data
+#### Uses of Registration Data
 
 Unless you select the "Opt-Out" option as described herein, WebsiteAlive reserves the right to use your Registration Data to send you information about WebsiteAlive, the Site, WebsiteAlive products and services, and other topics in which you have indicated an interest.
 
-### Opt-Out Right
+#### Opt-Out Right
 
-If you do not wish to receive any special offers or other communications from WebsiteAlive, you have the right to select the "opt out" option during the registration process or at any time afterwards. You may "opt out" by clicking on the box marked "I DO NOT WISH TO RECEIVE SPECIAL COMMUNICATIONS FROM WebsiteAlive" when you register for an account or at any time afterwards by going to the "Special Offers" area of the Site.
+If you do not wish to receive any special offers or other communications from WebsiteAlive, you have the right to select the "opt out" option during the registration process or at any time afterwards. You may "opt out" by clicking on the box marked "I DO NOT WISH TO RECEIVE SPECIAL COMMUNICATIONS FROM WebsiteAlive" when you register for an account or at any time afterwards by going to the "Special Offers" area of the Site. Or you may simply choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails.
 
-### User Access to Information Collected
+#### User Access to Information Collected
 
 To review and update your personal information to ensure it is accurate, you may access your Registration Data at any time through the Subscriber services section of the Site. This area is password-restricted for your protection. You may also contact us at the information listed below.
 
-### Testimonials on our Site
+#### Testimonials on our Site
 
 With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at the information listed below.
 
-### Links to Third Party Web Sites
+#### Links to Third Party Web Sites
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided as a courtesy to you. Always review the Privacy Policies of such web sites.
 
-### General Information
+Our Site includes Social Media Features, such as the Facebook and Twitter buttons or interactive mini-programs that run on our Site. These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+#### General Information
 
 It is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us. We may, from time to time, contact you to discuss business relevant to your membership and, naturally, we will contact you to respond to inquiries that you may send to us.
 
-We do not knowingly collect personal data or information from minors.
+We do not knowingly collect personal information or information from minors.
 
-### How Can You Access and Correct Your Information?
+#### How Can You Access and Correct Your Information?
 
-You may request access to all your personal information that we collect online and maintain in our database by emailing techsupport@websitealive.com.
+You may request access to correct, update or delete all your personal information that we collect online and maintain in our database by emailing [techsupport@websitealive.com](mailto:techsupport@websitealive.com). We will respond to your request to access within 30 days.
 
-### Credit Card Usage, Aggregated Data and More
+#### Credit Card Usage, Aggregated Data and More
 
 We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is collected by us.
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number or login credentials) on our order forms or platform login page, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@websitealive.com.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@websitealive.com](mailto:privacy@websitealive.com).
 
 We maintain your credit card related information once your purchase has been verified and processed via your credit card service provider for future usage, within a secured system. In the event of a charge back, the credit card service provider will provide us with such information for the purpose of our evaluation of the charge back request, including any protestations and or feedback issued by our company if we determine fraud has taken place. In the event of credit card fraud and similar defaulted payments, the credit card related information shall be used for collection related purposes.
 
 Credit card information sent to use via our web site is transferred and transmitted via secure server software that provides industry standard encryption. Other information that you send via standard email will not be subjected to this high level of encryption so we advise you accordingly that you should never submit sensitive personal information such as credit card numbers and so forth via standard email to us.
 
-### Cancellation
+#### Cancellation
 
-You may cancel your account at any time by sending an e-mail to billing@websitealive.com. Once WebsiteAlive has finished processing the cancellation, WebsiteAlive will delete all your Registration Data from its database.
+You may cancel your account at any time by sending an e-mail to [billing@websitealive.com](mailto:billing@websitealive.com). Once WebsiteAlive has finished processing the cancellation, WebsiteAlive will delete all your Registration Data from its database.
 
-### Communications
+#### Communications
 
 If you communicate with us, via email or telephone or even via surface mail, we will maintain such communications and the information contained within them for the purpose and providing customer services to you. We employ industry standard protections for all such communications.
 
@@ -84,41 +84,45 @@ We use other third parties to provide services on our website such as for credit
 
 These third parties are prohibited from using your personal information for any other purpose.
 
-### No Liability for Acts of Third Parties
+#### No Liability for Acts of Third Parties
 
 Although WebsiteAlive will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be made absolutely secure. WebsiteAlive will have no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties.
 
 ### II. Pertains to Active Chat application
 
-Our clients implement our Active Chat application on their website. We may collect personal information about their users “End Users” on behalf of our clients such as email, phone number and first and last name. We do not use this data for any other purposes than as defined in our relationship with our clients.
+Our clients implement our Active Chat application on their website. We may collect personal information about their users “End Users” on behalf of our clients such as email, phone number and first and last name. AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that you interact with directly. We do not use this data for any other purposes than as defined in our relationship with our clients.
 
-We use other third parties to provide screen sharing and click to call services via our Active Chat application. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service.
+We use other third parties to provide screen sharing and click to call services via our Active Chat application. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-### Confidentiality of Your Data
+AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate information should direct his query to the AYU Technology Solutions, LLC’s client (the data controller). If requested to remove data we will respond within 30 days.
+
+We will retain personal information we process on behalf of our clients for as long as needed to provide services to our client. AYU Technology Solutions, LLC will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+#### Confidentiality of Your Data
 
 We will not sell or share with any third party or entity the personal, business or corporate data or personal information that we collect based on a commitment shared by our hosting company. All such information shall be confidentially maintained by our hosting community pursuant to our contractual relationship with our hosting company and we shall also maintain strict confidentiality of such information and data. We shall use such information strictly for the purpose of providing services to you, our user, and our hosting company shall house such data and information strictly for the purpose of providing services to us for your direct benefit.
 
 These third parties are prohibited from using your personal information for any other purpose.
 
-If you would like to inquire about personal data collected in a chat window on a separate site, please refer to the privacy policy on the site in question.
+If you would like to inquire about personal information collected in a chat window on a separate site, please refer to the privacy policy on the site in question.
 
 ### III. Pertains to www.websitealive.com and Active Chat application.
 
-### General Information
+#### General Information
 
-We have implemented security policies, rules and technical measure to protect the personal data that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss.
+We have implemented security policies, rules and technical measure to protect the personal information that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss.
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitor’s and members’ personal data.
+All our employees and data processors, who have access to, and are associated with the processing of personal information, are obliged to respect the confidentiality of our visitor’s and members’ personal information.
 
 We use your personal information, in a general sense, to operate our business; that means that we use the information to provide customer service and to provide tools and services to our user base, including, individually, you or your business. We may also use the information we collect for the purpose of alerting you about changes to our business, web site or special offers we think you will find to be important. All emails sent to you are done so pursuant to standard industry security approaches and standards. You will be given the opportunity, on at least an annual basis, to notify us that you desire not to receive special offers, however, we do reserve the right to communicate with you regarding any direct business or customer account concerns relevant to your account and of course, to respond to any inquiries or comments that you forward to us regarding your account of the activities of our business or any other user of our tools and services.
 
 Your password is protected by us from unauthorized access and usage via standard security approaches. However, no such process is 100% secured. Also, we advise you to never share your password and other sensitive information with any third party and to always verify by examining the address placed into your browser’s URL section that you are actually present at our web site before you enter in your user ID and password information.
 
-### Use of Aggregated Information
+#### Use of Aggregated Information
 
 WebsiteAlive reserves the right to disclose to third parties information about Subscriber usage of the WebsiteAlive Web site and any related services, including information gathered during your use of the Site. Any information disclosed will be in the form of aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user.
 
-### Cookies
+#### Cookies
 
 Please note that we employ the use of cookies. Currently we employ cookies when users create user accounts, but we may further employ cookies to assist the functionality of other tools, services and functions in the future.
 
@@ -136,11 +140,17 @@ Other possible uses for the information that we collect includes internal tracki
 
 Cookies are used as an important element of our Alive Chat application to help us determine return users and to collect important user data and information which is useful to the user of the Alive Chat application.
 
-We use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by AYU Technology Solutions, LLC only and does not cover the use of cookies by any third-party.
+We use Google Analytics, a third-party tracking service, which uses cookies to track non-personal information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy policy covers the use of cookies by AYU Technology Solutions, LLC only and does not cover the use of cookies by any third-party.
 
-### Exceptions to our Privacy Policy
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
-Possible exceptions to our policy include the rare following circumstances, and as indicated herein:
+We employ and our third party partner AdRoll employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), tags and scripts that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information.
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+#### Exceptions to our Privacy Policy
+
+Possible exceptions to our policy include the rare following circumstances which may require AYU Technology Solutions, LLC to disclose your personal information, and as indicated herein:
 
   * as required by law, such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
@@ -149,18 +159,18 @@ Possible exceptions to our policy include the rare following circumstances, and 
 
 
 
-### Data Retention
+#### Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@websitealive.com](mailto:privacy@websitealive.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Notification of Privacy Statement Changes
+#### Notification of Privacy Policy Changes
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-### Contacting Us
+#### Contacting Us
 
 AYU Technology Solutions, LLC ATTN: Legal Department  
 2100 West Loop South, Suite 900  
 Houston, Texas 77027  
-Email: privacy@websitealive.com  
-Effective Date: 2/15/2011
+Email: [privacy@websitealive.com](mailto:privacy@websitealive.com)  
+Effective Date: 11/15/2014
