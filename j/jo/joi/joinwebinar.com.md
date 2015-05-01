@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinwebinar.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216170012id_/http%3A//www.citrixonline.com/collaboration/privacy_overview_popup%3Fpopup%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinwebinar.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501083256id_/http%3A//www.citrixonline.com/collaboration/privacy_overview_popup%3Fpopup%3Dtrue) for the most accurate reproduction.*
 
 # Citrix Online Privacy Policy Overview - Citrix
 
