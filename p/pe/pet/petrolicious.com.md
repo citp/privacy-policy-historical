@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petrolicious.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019023628id_/http%3A//www.petrolicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrolicious.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501141209id_/http%3A//www.petrolicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
