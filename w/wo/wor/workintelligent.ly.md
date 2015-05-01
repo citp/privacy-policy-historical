@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workintelligent.ly privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030823id_/http%3A//ricoh-usa.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workintelligent.ly privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501032922id_/http%3A//ricoh-usa.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # About Ricoh | Ricoh-USA
 
@@ -33,6 +33,8 @@ Ricoh and its parent company, Ricoh Company Ltd of Japan, represent a global org
 Circumstances may arise where, whether for strategic or other business reasons, Ricoh decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of Personal Information to prospective or actual purchasers, or receiving it from sellers. It is Ricoh’s practice to seek appropriate protection for information in these types of transactions. 
 
 Except as provided in this Policy, Ricoh will not sell, rent or lease your Personal Information to any other third parties without your permission. Ricoh may, however, use your Personal Information to: (i) respond to duly authorized information requests of governmental authorities; (ii) comply with any law, regulation, subpoena, or court order or (iii) help prevent fraud or (iv) to enforce or protect the rights and properties of Ricoh or its affiliates. 
+
+This site makes use of Google Analytics. See "How Google uses data when you use our partners' sites or apps" [here](http://www.google.com/policies/privacy/partners/ "Google Analytics") for more information. 
 
 ##  Accuracy & Access
 
