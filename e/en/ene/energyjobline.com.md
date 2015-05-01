@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyjobline.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925185840id_/http%3A//www.energyjobline.com/cm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyjobline.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501232924id_/http%3A//www.energyjobline.com/cm/privacy) for the most accurate reproduction.*
 
 # Energy Jobline | Privacy Policy | Energy Guidelines
 
