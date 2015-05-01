@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestyleliberationblueprint.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918010206id_/http%3A//lifestyleliberationblueprint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestyleliberationblueprint.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501175645id_/http%3A//lifestyleliberationblueprint.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
