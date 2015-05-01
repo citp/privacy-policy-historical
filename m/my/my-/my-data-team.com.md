@@ -1,59 +1,39 @@
-> *The following text is extracted and transformed from the my-data-team.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201033132id_/https%3A//global-data-entry.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-data-team.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501224408id_/http%3A//www.my-data-team.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | My-Data-Team
 
-**Privacy Policy  For The My-Data-Team.com, MyDataTeam.net and Global-Data-Entry.com Website**   
-  
-This Privacy Policy Notice governs the use of the web pages at Global-Data-Entry.com and its associated services, web pages, domains and sub-domains, which are owned and operated by My-Data-Team ("Owner"). Wherever this Notice refers to "users" it means "you", while "we" or "our" refer to My-Data-Team and "Web Site" refers to My-Data-Team.com. 
+The privacy of our visitors is of extreme importance to us. This privacy policy document is designed to advise you about how we collect, use, and protect the Personally Identifiable Information (hereinafter defined) that you provide to us through our website. By visiting this website, you are accepting the practices described in this Privacy Policy.
 
-Welcome to My-Data-Team (the "Site").
+**1.) INFORMATION WE GATHERS AND TRACKS**
 
-We understand that privacy online is important to users of our Site, especially when conducting business.   
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by My-Data-Team (collectively, "Services") ("Authorized Customers").
+(a) Log Files Like many other Web sites, our site makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, and email address Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
-or demographic information not connected to an identified individual.
+(b) Cookies and Web Beacons We do use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers..
+(c) ADVERTISING PARTNERS – Visitor Information and Cookies: This website may accept forms of cash advertising, sponsorship, paid insertions or other forms of compensation. The compensation received may influence the advertising content, topics or posts made in this website. That content, advertising space or post may not always be identified as paid or sponsored content. The owner(s) of this website may be compensated to provide opinions on products, services, websites and various other topics. Even though the owner(s) of this website receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this website are purely the author. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question. DoubleClick DART Cookie Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html.
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service pay processors and payroll accounts. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. 
+**2.) USE OF INFORMATION**
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+Any of the information we collect from you may be used in, but not limited to, the following ways: – To personalize your experience – To improve our website
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other members of our staff for evaluation or support of our product. My-Data-Team does not sell, rent, or share your personal information with any third party.
+(a) Identification of Purchasers If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions. We may use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes. You are also agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting.
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by My-Data-Team is securely stored and is not accessible to third parties or employees of My-Data-Team except for use as indicated above.
+**3.) HOW WE PROTECT YOUR INFORMATION**
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+We implement a variety of security measures to maintain the safety of your personal information. We will not sell, provide, or transfer you email address to others.
 
-**How does My-Data-Team** **use login information?**  
-My-Data-Team uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information to better our services for our members. Login information is never shared, sold, rented to any third parties.
+**4.) CHILDREN PRIVACY PROTECTION**
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-My-Data-Team has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.   
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+This website does not provide services or sell products to children under the age of 18. If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below.
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Any information to be determined as sensitive is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+**5.) THIRD PARTY LINKS**
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [mydatateam@yahoo.com](mailto:mydatateam@yahoo.com)
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [mydatateam@yahoo.com](mailto:mydatateam@yahoo.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+**6) POLICY CHANGES**
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+These policies may be amended by us at any time and without notice, but will be posted at this page. You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+**7.) CONTACT INFORMATION**
+
+If there are any questions regarding this privacy policy you may contact us at the following e-mail address: [info@My-Data-Team.com](mailto:info@My-Data-Team.com)
