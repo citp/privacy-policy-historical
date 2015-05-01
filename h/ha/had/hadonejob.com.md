@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hadonejob.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108204506id_/http%3A//hadonejob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hadonejob.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501060608id_/http%3A//hadonejob.com/privacy) for the most accurate reproduction.*
 
 # You Had One Job
 
