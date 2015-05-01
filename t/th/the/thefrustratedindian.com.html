@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thefrustratedindian.com privacy policy that was archived on 2014-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140926001755id_/http%3A//www.thefrustratedindian.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefrustratedindian.com privacy policy that was archived on 2015-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150501210706id_/http%3A//thefrustratedindian.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# thefrustratedindian: http://ogp.me/ns/fb/thefrustratedindian#" xml:lang="en-gb" lang="en-gb"><head prefix="og: http://ogp.me/ns#">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,6 +13,7 @@
   <link href="http://www.thefrustratedindian.com/privacy-policy.html" rel="canonical">
   <link href="/templates/rt_afterburner2/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   <link rel="stylesheet" href="/media/sourcecoast/css/sc_bootstrap.css" type="text/css">
+  <link rel="stylesheet" href="/media/sourcecoast/css/common.css" type="text/css">
   <link rel="stylesheet" href="/templates/rt_afterburner2/css-compiled/menu-10c69c9e3642fb858cc336c2f4d10fea.css" type="text/css">
   <link rel="stylesheet" href="/templates/rt_afterburner2/css-compiled/menu-responsive-10c69c9e3642fb858cc336c2f4d10fea.css" type="text/css">
   <link rel="stylesheet" href="/libraries/gantry/css/grid-responsive.css" type="text/css">
@@ -69,7 +70,7 @@ jfbc.login.show_modal = '1';
 jfbc.login.use_popup = true;
 jfbc.login.auto = '0';
 jfbc.login.logged_in = false;
-jfbc.token = '6e340b6563885b76f54917b20466ec61';
+jfbc.token = '5451390ebec5d5c22076d7e2f798189e';
 jfbc.init();
 </script>
   <meta name="twitter:title" content="Privacy Policy">
@@ -83,24 +84,26 @@ jfbc.init();
 <meta property="og:locale" content="en_gb">
 <meta property="og:site_name" content="The Frustrated Indian">
   
+  
 </head>
 <body class="logo-type-custom headerstyle-dark menustyle-light footerstyle-dark font-family-helvetica font-size-is-default menu-type-dropdownmenu layout-mode-responsive col12"><div id="fb-root"></div>
 <script type="text/javascript">
-    
-
-    window.fbAsyncInit = function() {
+  
+  window.fbAsyncInit = function() {
     FB.init({version: 'v1.0',appId: '359038814176026', status: false, cookie: true, xfbml: false});
-FB.Event.subscribe('comment.create', jfbc.social.comment.create);
-FB.Event.subscribe('edge.create', jfbc.social.like.create);
-    };
-     (function(d, s, id){
+FB.Event.subscribe('comment.create', jfbc.social.facebook.comment.create);
+FB.Event.subscribe('comment.remove', jfbc.social.facebook.comment.remove);
+FB.Event.subscribe('edge.create', jfbc.social.facebook.like.create);
+FB.Event.subscribe('edge.remove', jfbc.social.facebook.like.remove);
+  };
+  (function(d, s, id){
      var js, fjs = d.getElementsByTagName(s)[0];
      if (d.getElementById(id)) {return;}
      js = d.createElement(s); js.id = id;
      js.src = "//connect.facebook.net/en_GB/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
-    </script>
+</script>
         <header id="rt-top-surround">
 				<div id="rt-top">
 			<div class="rt-container">
@@ -191,7 +194,7 @@ FB.Event.subscribe('edge.create', jfbc.social.like.create);
 					<input type="hidden" name="option" value="com_users">
 					<input type="hidden" name="task" value="user.login"> 
 					<input type="hidden" name="return" id="btl-return" value="aW5kZXgucGhwP2Zvcm1hdD1odG1sJm9wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MyZJdGVtaWQ9MTQ2">
-					<input type="hidden" name="6e340b6563885b76f54917b20466ec61" value="1">
+					<input type="hidden" name="5451390ebec5d5c22076d7e2f798189e" value="1">
 									<div class="btl-input" id="btl-input-remember">
 						<input id="btl-checkbox-remember" type="checkbox" name="remember" value="yes">
 							Remember Me					</div>	
@@ -279,7 +282,7 @@ Or, Login with<span class="sourcecoast login"><div class="row-fluid"><div class=
 							Register							
 						</button>
 						<input type="hidden" name="task" value="register"> 
-						<input type="hidden" name="6e340b6563885b76f54917b20466ec61" value="1">					</div>
+						<input type="hidden" name="5451390ebec5d5c22076d7e2f798189e" value="1">					</div>
 <div class="tfi-social-register">
 Or, Register with<span class="sourcecoast login"><div class="row-fluid"><div class="social-login facebook jfbcLogin pull-left">
         <a id="sc_fblogin" href="javascript:void(0)" onclick="jfbc.login.provider('facebook');">
@@ -347,7 +350,7 @@ BTLJ("#btl .btl-panel > span").css({"color":btlOpt.TEXT_COLOR,"background-color"
 <meta itemprop="inLanguage" content="en-GB">
 	<h2 itemprop="name">
 					Privacy Policy					</h2>
-<span itemprop="articleBody">
+<div itemprop="articleBody">
 	<p>Your privacy is very important to us.<br>Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.<br>The following outlines our privacy policy.</p>
 <ul>
 <li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
@@ -358,7 +361,7 @@ BTLJ("#btl .btl-panel > span").css({"color":btlOpt.TEXT_COLOR,"background-color"
 <li>We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.</li>
 <li>We will make readily available to customers information about our policies and practices relating to the management of personal information.</li>
 </ul>
-<p>We are committed to operating thefrustratedindian.com in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p> </span>
+<p>We are committed to operating thefrustratedindian.com in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p> </div>
 	</article>
 								</div>
 	                        </div>
@@ -422,7 +425,7 @@ BTLJ("#btl .btl-panel > span").css({"color":btlOpt.TEXT_COLOR,"background-color"
 			<div class="rt-grid-6 rt-alpha">
     	<div class="clear"></div>
 	<div class="rt-block rt-copyright-block">
-2012 - 2014 © thefrustratedindian.com<br><a class="hasTooltip" title="Mayurdhwaj Singh" href="https://facebook.com/mayurdhwaj.singh" target="_blank" style="font-size: 11px;"><i>Designed by</i> <b>Mayurdhwaj Singh</b></a>
+2012 - 2015 © thefrustratedindian.com<br><a class="hasTooltip" title="Mayurdhwaj Singh" href="https://facebook.com/mayurdhwaj.singh" target="_blank" style="font-size: 11px;"><i>Designed by</i> <b>Mayurdhwaj Singh</b></a>
 	</div>
 	<div class="rt-block social-links">
 <a href="https://www.facebook.com/TheFrustratedIndian" title="TFI on Facebook" class="hasTooltip rt-blue rt-mini-icon icon-facebook" target="_blank"></a>
