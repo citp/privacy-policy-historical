@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2brightsparks.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724191849id_/http%3A//www.2brightsparks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2brightsparks.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502012954id_/http%3A//www.2brightsparks.com/privacy.html) for the most accurate reproduction.*
 
 # 2BrightSparks | Privacy
 
@@ -8,7 +8,7 @@
 2BrightSparks Pte Ltd:   
 Privacy Statement
 
-You may also download our Privacy Statement as a [PDF Document](https://web.archive.org/web/20140724191849id_/http%3A//www.2brightsparks.com/assets/pdf/2BrightSparksPrivacy.pdf) [opens new window].  
+You may also download our Privacy Statement as a [PDF Document](https://web.archive.org/web/20150502012954id_/http%3A//www.2brightsparks.com/assets/pdf/2BrightSparksPrivacy.pdf) [opens new window].  
 
 
 |   | 
