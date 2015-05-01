@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rangde.org privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407155713id_/http%3A//www.rangde.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangde.org privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501232514id_/http%3A//www.rangde.org/privacy) for the most accurate reproduction.*
 
 # Rang De - Privacy Policy
 
@@ -20,7 +20,7 @@ Simply put, we do not and will not sell or rent your personal information to any
   * Or market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity;
   * To third-party contractors that provide services to Rang De and are bound by these same privacy restrictions;
   * To third-party contractors that provide services to Rang De and are bound by these same privacy restrictions;
-  * To enforce Rang De?s Terms of Use; and
+  * To enforce Rang De's Terms of Use; and
   * As otherwise set forth in this Privacy and Security Policy.
 
 
