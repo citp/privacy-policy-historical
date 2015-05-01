@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomladesigns.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120060533id_/http%3A//www.joomladesigns.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomladesigns.co.uk privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501133039id_/http%3A//www.energizethemes.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Energize Themes Privacy Policy
 
 All Information collected at this web site is is strictly confidential and will never be disclosed, sold, distributed or leased to any third parties.
 
@@ -55,4 +55,4 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 ### Contact Us
 
-If you have any questions about this privacy policy outlined in this document please [contact us](http://www.joomladesigns.co.uk/contactus.html)
+If you have any questions about this privacy policy outlined in this document please [contact us](http://www.energizethemes.com/contactus.html)
