@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny10.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229055846id_/http%3A//www.funny10.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny10.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501220900id_/http%3A//www.funny10.com/privacy.html) for the most accurate reproduction.*
 
 # Funny10 - Funny Images and Memes
 
