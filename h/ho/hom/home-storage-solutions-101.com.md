@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the home-storage-solutions-101.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702103451id_/http%3A//www.home-storage-solutions-101.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-storage-solutions-101.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501160656id_/http%3A//www.home-storage-solutions-101.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy For Home-Storage-Solutions-101.com
-
-  
-
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Home-Storage-Solutions-101.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
