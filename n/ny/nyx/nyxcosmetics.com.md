@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyxcosmetics.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731170558id_/http%3A//www.nyxcosmetics.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyxcosmetics.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501070231id_/http%3A//www.nyxcosmetics.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
