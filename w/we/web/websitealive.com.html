@@ -1,1950 +1,830 @@
-<!--The following is the downloaded HTML source of the websitealive.com privacy policy that was archived on 2014-07-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140715074530id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websitealive.com privacy policy that was archived on 2015-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150501174955id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Live Chat, Chat Software, Live Chat Software, Website Live Chat | WebsiteAlive</title>
-<meta name="description" content="Alive Chat, the world's favorite live chat solution, gives your website live chat software. WebsiteAlive - Alive chat anywhere.">
-<meta name="keywords" content="Live Chat, Chat Software, Live Chat Software, Website Live Chat">
-<meta name="alt" content="Live Chat">
-<link rel="icon" type="image/ico" href="/favicon.ico">
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Alive Chat, the world's favorite live chat solution, gives your website live chat software. WebsiteAlive - Alive chat anywhere.">
+    <meta name="keywords" content="Live Chat, Chat Software, Live Chat Software, Website Live Chat">
+    <meta name="author" content="">
+    <meta name="alt" content="Live Chat">
 
-<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="/css/global.css">
-<link rel="stylesheet" type="text/css" href="/css/alivePanel.css">
+    <link rel="icon" href="">
 
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css" /><![endif]-->
+    <title>Live Chat, Chat Software, Live Chat Software, Website Live Chat | WebsiteAlive</title>
 
-<!--Login Panel - Alive Panel -->
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/be40248f3590f26f55c7f0018b4ae1dcf5601dda.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="/js/alivechat.js"></script>
-<!--END Login Panel - Alive Panel -->
+    <!-- Bootstrap core CSS -->
+    <link href="/css/bootstrap.css" rel="stylesheet"> 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-<script type="text/javascript">
-	$(document).ready(function() {
-		// Expand Panel
-		$("#open").click(function(){
-			$("div#panel").slideDown("slow");
-		});
-		// Collapse Panel
-		$("#close").click(function(){
-			$("div#panel").slideUp("slow");	
-		});
-		// Switch buttons from "Log In | Register" to "Close Panel" on click
-		$(".toggle a").click(function () {
-			$(".toggle a").toggle();
-		});
-	});
-</script>
-<script type="text/javascript">var _kmq = _kmq || [];
-var _kmk = _kmk || 'be40248f3590f26f55c7f0018b4ae1dcf5601dda';
-function _kms(u){
-  setTimeout(function(){
-    var d = document, f = d.getElementsByTagName('script')[0],
-    s = d.createElement('script');
-    s.type = 'text/javascript'; s.async = true; s.src = u;
-    f.parentNode.insertBefore(s, f);
-  }, 1);
-}
-_kms('//i.kissmetrics.com/i.js');
-_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-</script>
-
-<style type="text/css"></style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
-<body><a name="top"></a>
-<!-- V2 -->
-
-
-
-
-
-
-<!-- Login Panel ASP code on page load -->
-
-<!-- END Login Panel ASP code -->
-
-
-<!-- Start Javascript for Registration -->
-<script type="text/javascript">
-
-	var serverIP = '10.0.1.37';
-
-	var reg_password;
-	var reg_server_url;
-	var reg_objectref;
-	var reg_groupid;
-	
-	/*
-	$('#panelLogin').hide();
-	$('#panelRegister').show();
-	
-	setTimeout("$('#div_signup1').hide();$('#div_signup2').hide();$('#div_signup3').show();",2000);
-	*/
-	
-	function checkEnterLogin(e){
-
-		//e is event object passed from function invocation
-		var characterCode //literal character code will be stored in this variable
-	
-		if(e && e.which){ //if which property of event object is supported (NN4)
-			e = e
-			characterCode = e.which //character code is contained in NN4's which property
-		}
-		else{
-			e = event
-			characterCode = e.keyCode //character code is contained in IE's keyCode property
-		}
-	
-		if((e.shiftKey) && (characterCode == 13)){ //if generated character code is equal to shift + ascii 13 (if enter key)
-			//do nothing, let user type if SHIFT + ENTER
-		}
-	
-		if((!e.shiftKey) && (characterCode == 13)){ //if generated character code is equal to ascii 13 (if enter key)
-	
-			loginsubmit();
-			return false;
-		}else{
-			return true;
-		}
-	
-	
-	}
-	
-	function checkEnterRegister(e){
-
-		//e is event object passed from function invocation
-		var characterCode //literal character code will be stored in this variable
-	
-		if(e && e.which){ //if which property of event object is supported (NN4)
-			e = e
-			characterCode = e.which //character code is contained in NN4's which property
-		}
-		else{
-			e = event
-			characterCode = e.keyCode //character code is contained in IE's keyCode property
-		}
-	
-		if((e.shiftKey) && (characterCode == 13)){ //if generated character code is equal to shift + ascii 13 (if enter key)
-			//do nothing, let user type if SHIFT + ENTER
-		}
-	
-		if((!e.shiftKey) && (characterCode == 13)){ //if generated character code is equal to ascii 13 (if enter key)
-	
-			register_validateUser();
-			return false;
-		}else{
-			return true;
-		}
-	
-	
-	}
-	
-	
-	
-	
-	
-
-	function isValidEmailAddress(emailAddress) {
-		var pattern = new RegExp(/^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i);
-		return pattern.test(emailAddress);
-	};
-
-	function checkEnter(e){
-
-		//e is event object passed from function invocation
-		var characterCode //literal character code will be stored in this variable
-
-		if(e && e.which){ //if which property of event object is supported (NN4)
-			e = e
-			characterCode = e.which //character code is contained in NN4's which property
-		}
-		else{
-			e = event
-			characterCode = e.keyCode //character code is contained in IE's keyCode property
-		}
-
-		if((e.shiftKey) && (characterCode == 13)){ //if generated character code is equal to shift + ascii 13 (if enter key)
-			//do nothing, let user type if SHIFT + ENTER
-		}
-
-		if((!e.shiftKey) && (characterCode == 13)){ //if generated character code is equal to ascii 13 (if enter key)
-
-			postRegister();
-			return false
-		}else{
-			return true
-		}
-
-
-	}
-	
-	function focusloginbox(){
-	
-		if ($("#username").val() == ''){
-			$("#username").focus();
-		}else{
-			$("#password").focus();
-		}
-	}
-	
-	function opencloseClientLogin(mode,panel){
-	
-		if (mode == 'open'){
-				
-			$("#alivepanel").animate({
-				height: "423px"
-			})
-			.animate({
-				height: "423px"
-			}, "fast");
-			$(".panel-button").toggle();
-			
-			focusloginbox();
-			
-		}else{
-		
-		   $("#alivepanel").animate({
-					height: "0px"
-				}, "fast");
-		   
-		   $(".panel-button").toggle();
-		   
-		}
-		
-		if (panel != undefined){
-			if (panel == 'register'){
-				$('#panelRegister').show();
-				$('#panelLogin').hide();
-			}else{
-				$('#panelRegister').hide();
-				$('#panelLogin').show();
-			}
-		}
-		   
-		  
-	   
-	}
-	
-	
-	
-	
-	
-				
-	function animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart){
-		
-		$('#panelLoginForm').hide()
-		$('#panelLoginButtons').hide();
-		$('#panelLoginLoading').fadeIn('fast');	
-		
-		if (trial_days_remaining != undefined){
-			
-			//default
-						
-			if (promocode != undefined && promocode != ''){	//there is a promocode
-				
-				//get promo-specific details.
-				
-				var x_url = 'https://api-v1.websitealive.com/auth/main/?action=getpromodetails&promo_code=' +encodeURIComponent(promocode)  + '&user_name=' + encodeURIComponent($('#login_user_name').val());
-				
-				
-				$.ajax({
-					
-					type: 'GET',
-					url: x_url,
-					contentType: "application/json",
-					dataType: 'jsonp',
-					
-					success:
-					
-						function (data){
-							
-							var button_text					= data.button_text;
-							var console_url_shopping_cart 	= data.console_url_shopping_cart;
-							var end_date					= data.end_date;
-							
-							if (button_text != ''){
-					
-								panel_html = 'You have <b>' + trial_days_remaining + '</b> days remaining in your <b>' + trial_days + '</b> day trial.<br><br><a href="#" class="green-btn" onclick="document.location.href = \'' + console_url_shopping_cart + '\'">' + button_text + '</a><br>(expires ' + end_date + ')';
-								
-							}else{
-								
-								var panel_html = 'You have <b>' + trial_days_remaining + '</b> days remaining in your <b>'+trial_days+'</b> day trial.<br><br><a href="#" class="green-btn" onclick="document.location.href = \'' + console_url_shopping_cart + '\'">Buy License Now</a><br><br>or just wait until your console loads...';	
-							
-							}
-							
-							
-							
-							$('#p_loading_trial').fadeIn('fast');
-							$('#p_loading_trial').html(panel_html);
-				
-						}
-				});
-
-				
-			}else{
-				
-				//IF trial, look for promocode, and then if promocode is valid, show text and link to promo shopping cart
-				var panel_html = 'You have <b>' + trial_days_remaining + '</b> days remaining in your <b>'+trial_days+'</b> day trial.<br><br><a href="#" class="green-btn" onclick="document.location.href = \'' + console_url_shopping_cart + '\'">Buy License Now</a><br><br>or just wait until your console loads...';
-			
-				$('#p_loading_trial').fadeIn('fast');
-				$('#p_loading_trial').html(panel_html);
-				
-			}
-			
-		}
-	}
-	
-	function saveSubmitForm(){
-		document.form1.submit();
-	}
-	
-	function loginsubmit(){
-		
-			if ($('#login_user_name').val() == '' || $('#login_password').val() == ''){
-				
-				writeErrorLogin('Username and Password Incorrect.',false);
-				
-			}else{
-				
-				//writeErrorLogin('',true);
-					
-				//Ajax Call
-				
-				var x_url = 'https://api-v1.websitealive.com/auth/main/?action=validatelogin&user_name=' + encodeURIComponent($('#login_user_name').val()) + '&password=' + encodeURIComponent($('#login_password').val());
-				
-				
-				
-				$.ajax({
-					
-					type: 'GET',
-					url: x_url,
-					contentType: "application/json",
-					dataType: 'jsonp',
-					
-					success: 
-					
-					
-						function (data){
-										
-										
-										var is_admin 							= data[0].is_admin;
-										var enabled_admin						= data[0].enabled_admin;
-										
-										var is_operator							= data[0].is_operator;
-										var is_operator_adminrights				= data[0].is_operator_adminrights;
-										
-										var enabled_operator					= data[0].enabled_operator;
-										var operator_license_exceeded			= data[0].operator_license_exceeded;
-										var operator_restricted_by_ip 			= data[0].operator_restricted_by_ip;
-										
-										var console_url_admin					= data[0].console_url_admin;
-										var console_url_operator				= data[0].console_url_operator;
-										var console_url_operator_adminrights 	= data[0].console_url_operator_adminrights;
-										var console_url_shopping_cart			= data[0].console_url_shopping_cart;
-										
-										var trial_over							= data[0].trial_over;
-										var alivechat_registration_date			= data[0].alivechat_registration_date;
-										var trial_days							= data[0].trial_days;
-										var trial_days_remaining				= data[0].trial_days_remaining;
-										var is_trial							= data[0].is_trial;
-										
-										var trial_redirect = false;
-										
-										
-										if (is_admin == true || is_operator == true || is_operator_adminrights == true){
-											
-											$('#panelLoginButtons').fadeIn();
-											$('#panelLoginForm').hide();
-												
-											writeErrorLogin(' ',true);
-											
-											//ADMIN
-											if (is_admin == true){
-												
-												$('#button_admin').fadeIn();
-												
-												
-												if (enabled_admin == false || (is_trial == true && trial_over == true)){
-													
-													$('#button_admin').fadeTo(500,0.5);
-													
-													if (enabled_admin == false){
-														$('#button_admin').click(function(){
-																writeErrorLogin('Error: This Account is past due. You will now be redirected to the shopping cart to update your subscription.',false);
-																setTimeout("document.location.href='" + console_url_shopping_cart + "'",7000); 
-																});
-															
-																
-													}else{
-													
-														if (is_trial == true && trial_over == true){
-															trial_redirect = true;
-														}
-														
-													}
-													
-												}else{
-													//OK TO GO
-													//if trial.
-													
-													$('#p_error_login').hide();
-													
-													if (is_trial){
-														
-														$('#button_admin').click(function(){
-															setTimeout("document.location.href='" + console_url_admin + "'",12000); animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart); saveSubmitForm(); register_kissmetrics('', 'Login Trial');
-															});
-													}else{
-													
-														//$('#button_admin').click(function(){document.location.href=console_url_admin; animateLoad(); saveSubmitForm();});
-														
-														$('#button_admin').click(function(){setTimeout("document.location.href='" + console_url_admin + "'",1); animateLoad(); saveSubmitForm(); register_kissmetrics('', 'Login Paid'); });
-														
-														
-													}
-												}
-											
-											}
-											
-											
-											// OPERATOR ////////////////////////////////////////////////////////////////
-											if (is_operator){
-												
-												
-												$('#button_operator').fadeIn();
-												
-												
-												//has issues
-												if (enabled_operator == false || operator_restricted_by_ip == true || operator_license_exceeded == true || enabled_admin == false || (is_trial == true && trial_over == true)){
-													
-													//alert('enabled_operator=' + enabled_operator + ',operator_restricted_by_ip=' + operator_restricted_by_ip + ',operator_license_exceeded=' + operator_license_exceeded + ',enabled_admin=' + enabled_admin + ',is_trial=' + is_trial + ',trial_over=' + trial_over);
-													
-													$('#button_operator').fadeTo(500,0.5);
-													
-													if (enabled_admin == false || (is_trial == true && trial_over == true)){
-														
-														if (enabled_admin == false){
-															$('#button_operator').click(function(){
-																writeErrorLogin('Error: This Account has been disabled. Please contact the Administrator to re-enable.',false);});
-														}
-														
-														if (is_trial == true && trial_over == true){
-															trial_redirect = true;
-
-														}
-														
-													}else{
-														
-														if (enabled_operator == false){
-															//disabled Operator
-															
-															$('#button_operator').click(function(){
-																writeErrorLogin('Error: This Operator account has been disabled by the Administrator.',false);});
-															
-															
-														}else{
-															if (operator_license_exceeded == true){
-																
-																$('#button_operator').click(function(){
-																	writeErrorLogin('<span style="font-size:12px">Error: You have exceeded the number of concurrent licenses for this account. Please log out from another accounts or purchase more licenses.</span>',false);});
-															
-															}else{
-																if (operator_restricted_by_ip == true){
-																	
-																	$('#button_operator').click(function(){
-																		writeErrorLogin('Error: IP Restrictions does not allow this <br>Operator account to log in.',false);});
-																}
-															}
-														}														
-													}
-													
-													
-													
-													
-												}else{
-													
-													
-													$('#p_error_login').hide();
-													
-													if (is_trial){
-														
-														$('#button_operator').click(function(){
-															setTimeout("document.location.href='" + console_url_operator + "'",12000); animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart); saveSubmitForm(); register_kissmetrics('', 'Login Trial');
-															});
-													}else{
-														//adding time out here, due to chrome update.
-														$('#button_operator').click(function(){setTimeout("document.location.href='" + console_url_operator + "'",1);animateLoad(); saveSubmitForm(); register_kissmetrics('', 'Login Paid') });
-													}
-													
-													
-													
-													
-												}
-											}
-											
-											// OPERATOR WITH ADMIN RIGHTS ////////////////////////////////////////////////
-											
-											if (is_operator_adminrights){
-												
-												
-												//HAS ERROR
-												if (enabled_operator == false || enabled_admin == false || (is_trial == true && trial_over == true)){
-													
-												//if (enabled_operator == false || operator_restricted_by_ip == true || operator_license_exceeded == true || enabled_admin == false || (is_trial == true && trial_over == true)){
-													
-														//show dimmed
-														$('#button_operatoradmin').fadeTo(500,0.5);
-														
-														if (enabled_admin == false || (is_trial == true && trial_over == true)){
-															
-															if (enabled_admin == false){
-																$('#button_operatoradmin').click(function(){
-																	writeErrorLogin('Error: This Account has been disabled. Please contact the Administrator to re-enable.',false);});
-															}
-															
-															if (is_trial == true && trial_over == true){
-																trial_redirect = true;
-															}
-															
-														}else{
-															
-															if (enabled_operator == false){
-																
-																//operator disabled
-																$('#button_operatoradmin').click(function(){
-																	writeErrorLogin('Error: This Operator account has been disabled by the Administrator.',false);});
-																	
-															}else{
-																if (operator_license_exceeded == true){
-																	
-																	$('#button_operatoradmin').click(function(){
-																		writeErrorLogin('<span style="font-size:12px">Error: You have exceeded the number of concurrent licenses for this account. Please log out from another accounts or purchase more licenses.</span>',false);});
-																	
-																}else{
-																	if (operator_restricted_by_ip == true){
-																		
-																		$('#button_operatoradmin').click(function(){
-																			writeErrorLogin('Error: IP Restrictions does not allow this <br>Operator account to log in.',false);});
-																	}
-																}
-															}														
-														}
-													
-													
-												}else{
-													
-													
-													//OK TO GO
-														$('#p_error_login').hide();
-														
-														$('#button_operatoradmin').fadeIn();
-														
-														if (is_trial){
-															
-															$('#button_operatoradmin').click(function(){
-																setTimeout("document.location.href='" + console_url_operator_adminrights + "'",12000); animateLoad(trial_days_remaining, trial_days, console_url_shopping_cart); saveSubmitForm(); register_kissmetrics('', 'Login Trial');
-																});
-														}else{
-														
-															//$('#button_operatoradmin').click(function(){document.location.href=console_url_operator_adminrights; animateLoad(); saveSubmitForm();});
-															$('#button_operatoradmin').click(function(){setTimeout("document.location.href='" + console_url_operator_adminrights + "'",1); animateLoad(); saveSubmitForm(); register_kissmetrics('', 'Login Trial'); });
-														}
-																									
-													
-											
-												}
-												
-												
-													//TRIAL REDIRECT
-												
-												
-												
-													
-											}
-											// END if (is_admin == true || is_operator == true || is_operator_adminrights == true)
-											
-											
-											if (trial_redirect && is_admin == true){
-													
-												writeErrorLogin('Thank you for using our 30 day trial! Your trial has expired and we will now redirect you to view license options...',true);
-												animateLoad();
-												setTimeout("document.location.href = '" + console_url_shopping_cart + "'",10000); 
-												register_kissmetrics('', 'Trial Ended - View Shopping Cart');
-													
-											}else{
-											
-												if (trial_redirect && (is_operator || is_operator_adminrights)){
-													writeErrorLogin('Thank you for using our 30 day trial! Your trial has ended. Please log in as Administrator to view license options.',true);
-													$('#panelLoginButtons').hide();
-												}
-											}
-											
-											
-										}else{
-											writeErrorLogin('Username and Password Incorrect.',false); 
-										}
-										
-										
-	
-									}// END FUNCTION
-									
-									
-									
-									
-									,
-					error: function(e) {
-					
-					}
-				});
-				
-				
-
-				
-				
-								
-			}// END IF 
-	}
-	
-	
-	
-	
-	
-	function postRegister(){
-	
-		var useremail = $('#UserEmail').val();
-		useremail = $.trim(useremail);
-		
-		$('#UserEmail').val(useremail);
-		
-		if (isValidEmailAddress(useremail) && (useremail != 'yourEmail@address.com')){
-			
-			$('#div_enteremail').html('Enter Your Email To Get Started.');
-			//document.forms['form1'].submit();	
-			
-			$('#reg_emailadmin').val(useremail);
-			opencloseClientLogin('open','register');
-			$('#panelLogin').hide();
-			$('#panelRegister').show();
-			//$('#reg_username').select();
-			
-			
-		}else{
-			$('#div_enteremail').hide().fadeIn('fast').html('<b>Please enter a valid email address.</b>');
-		}
-	}
-	
-	
-	
-	function validateEmail(email) {
-		var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-		if( !emailReg.test( email ) ) {
-			return false;
-		} else {
-			return true;
-		}
-	}
-	
-	function validateText(text,minlength){
-	
-		var alNumRegex = /^([a-zA-Z0-9]+)$/; //only letters and numbers
-		
-		if(alNumRegex.test(text) && text.length >= minlength) {
-			//alert(1);
-			return true;
-			
-		}else{
-			//alert(0);
-			return false;
-			
-		}
-		
-	}
-	
-	function ajaxFunc(x_url, parameters, callback){
-		
-		if (parameters == ''){
-		}else{
-			x_url += '?' + $.param(parameters)
-		}
-		
-		
-		if ($.browser.msie && window.XDomainRequest) {
-			
-			var xdr = new XDomainRequest();
-			
-			
-			
-			xdr.open('get', x_url);
-	
-			xdr.onload = function () {
-				
-				var data = $.parseJSON(xdr.responseText);
-				if (data == null || typeof (data) == 'undefined') {
-					data = $.parseJSON(data.firstChild.textContent);
-				}
-				
-				callback(data);
-				
-				
-			};
-			
-			xdr.send();
-			
-			
-			
-		} else {
-			
-			/*alert(x_url  + parameters);
-			$.ajax({	
-					url: x_url,
-					data: parameters,
-					type: type,
-					//async: false,
-					success: function (data) {
-						
-						callback(data);
-						
-					},
-				
-				  error: function (e) { 
-					   callback('error in ajax call');
-				  } 
-			 }); 
-			 
-			 
-			 */
-	
-			 
-			 $.getJSON(x_url, function(data) {
-					 
-					callback(data);
-					 
-				});
-			 
-			 
-			 
-			
-		//end else	
-			
-		}
-		
-			
-	}
-	
-	function getCookie(name) {
-
-	  var regexp = new RegExp("(?:^" + name + "|;\\s*"+ name + ")=(.*?)(?:;|$)", "g");
-	  var result = regexp.exec(document.cookie);
-	
-	  return (result === null) ? null : result[1];
-	}
-
-	
-
-	function goBack(){
-			$('#div_signup1').fadeIn();
-			$('#div_signup2').hide();
-			$('#p_error').html('');
-	}
-	
-	var promocode = getCookie('promocode') 
-
-	if (promocode == '' || promocode == null){
-		//promocode = 'promosales-103';
-		promocode = '';
-	}
-	
-	function register_validateUser(){
-		
-		if (    $('#reg_emailadmin').val() == ''   ||    !(validateEmail($('#reg_emailadmin').val()))  ||    !(validateText($('#reg_username').val(),6))    ){ 
-		
-			if ($('#reg_emailadmin').val() == ''){
-				
-				writeError('Please enter a valid email address.');
-			
-			}else{
-			
-				if (    !(validateEmail($('#reg_emailadmin').val()))  ){
-					
-					writeError('Please enter a valid email address.');
-					
-				}else{
-					
-					if (   !(validateText($('#reg_username').val(),6))  ){
-						writeError('Error: Usernames can only be letters and numbers, no spaces, and at least 6 characters in length. Please try another username.');
-					}
-				}
-				
-			}
-			
-			
-			
-		}else{
-		   
-		   	$('#p_error').html('');
-			
-			var x_url = 'https://secure.websitealive.com//apps/signup/signup_api.asp?format=json&action=checkuseronly&username=' + $('#reg_username').val() + '&emailadmin=' + $('#reg_emailadmin').val() + '&promocode=' + promocode + '&confirmemail=Y&version=pro2';
-			
-			
-			
-			ajaxFunc(x_url, '', 
-			
-				function(data){
-					
-					 if (data[0].responseType == 'error'){
-						writeError(data[0].errorMessage);
-					}else{
-						
-						$('#p_error').html('');
-						$('#div_signup1').hide();
-						$('#div_signup2').fadeIn();
-					}
-						
-				}
-			);
-			
-			
-			
-			/*
-			
-			if ($.browser.msie && window.XDomainRequest) {
-			
-				var xdr = new XDomainRequest();
-								
-				xdr.open('post', x_url);
-		
-				xdr.onload = function () {
-					
-					var data = $.parseJSON(xdr.responseText);
-					if (data == null || typeof (data) == 'undefined') {
-						data = $.parseJSON(data.firstChild.textContent);
-					}
-					
-					callback(data);
-					
-					
-				};
-				
-				xdr.send();
-				
-				
-				
-			} else {
-				
-				
-				
-				
-				
-				$.getJSON(x_url, function(data) {
-					 
-					
-					 if (data[0].responseType == 'error'){
-						writeError(data[0].errorMessage);
-					}else{
-						
-						$('#p_error').html('');
-						$('#div_signup1').hide();
-						$('#div_signup2').fadeIn();
-					}
-					 
-				});
-					
-				 
-				
-			//end else	
-				
-			}
-			*/
-			
-		
-			
-				
-		}
-	
-		
-	}
-	
-	
-	
-	
-	function register_sendEmail(){
-		
-		var x_url = 'https://api-v1.websitealive.com/email/';
-			
-			
-		ajaxFunc(x_url, {action: 'sendemail_registration',
-					objectref: 		reg_objectref,
-					groupid:		reg_groupid,
-					first_name: 	$('#reg_first_name').val(), 
-					username: 		$('#reg_username').val(),
-					password: 		reg_password,
-					trial_days: 	30,
-					email_to:		$('#reg_emailadmin').val(),
-					email_from: 	"outbox@websitealive.com",
-					email_replyto:	"vip@websitealive.com",
-					format:			'json'}, 
-					function(data){} );
-
-		
-	}
-	
-	
-	
-	
-	
-	
-	
-	function register_createAccount(){
-		
-		var reg_recieve_promotions;
-		
-		if ($('#reg_recieve_promotions').attr('checked') == 'checked'){
-			reg_recieve_promotions = '1';
-		}else{
-			reg_recieve_promotions = '0';
-		}
-		
-		if ($('#reg_first_name').val() == 'First Name' || $('#reg_last_name').val() == 'Last Name' || $('#reg_url').val() == 'Website URL' || $('#reg_phone').val() == 'Phone Number'){
-			writeError('Please complete all fields to proceed.');
-		}else{
-		
-			$('#button_agree').html('Creating Account...');
-			
-			
-			
-			
-			
-			//Ajax Call
-			
-			var x_url = 'https://secure.websitealive.com//apps/signup/signup_api.asp';
-			
-			
-			ajaxFunc(x_url, {
-				
-					format:					'json',
-					action:					'signup_with_user_data',
-					username:				$('#reg_username').val(),
-					emailadmin:				$('#reg_emailadmin').val(),
-					promocode: 				promocode,
-					confirmemail:			'Y',
-					version:				'pro2',				
-					url: 					$('#reg_url').val(), 
-					first_name: 			$('#reg_first_name').val(), 
-					last_name: 				$('#reg_last_name').val(), 
-					company_name: 			$('#reg_company_name').val(), 
-					company_title: 			$('#reg_company_title').val(), 
-					phone: 					$('#reg_phone').val(), 
-					company_type: 			$('#reg_company_type').val(), 
-					recieve_promotions: 	reg_recieve_promotions,
-					found_us: 				$('#reg_found_us').val()}, 
-					
-					function (data){
-						 
-						
-						 
-						if (data[0].responseType == 'error'){
-							
-							writeError(data[0].errorMessage);
-							$('#button_agree').html('Agree to Terms & Sign Up');
-						
-						}else{
-							
-							reg_password	 = data[0].password;
-							reg_server_url	 = data[0].server_url;
-							reg_objectref	 = data[0].objectref;
-							reg_groupid		 = data[0].groupid;
-							
-							$('#div_sitelock_reg').hide();
-							
-							$('#p_error').html('').hide();
-							$('#div_signup2').hide();
-							$('#div_signup3').fadeIn();
-							
-							$('#panel_title1').html('Registration Complete!');
-							$('#panel_title2').html('Add Code to Your Web Page (before your &lt;/body&gt;):');
-							
-							$('#login_user_name').val($('#reg_username').val());
-							$('#login_password').val(reg_password);
-							
-							
-							
-							var code_snippet = 
-			
-								'<!-- Start WebsiteAlive Embedded Icon/AliveTracker Code -->\n'
-								+ '<scr' + 'ipt type="text/javascript">\n'
-								+ 'function wsa_include_js(){\n'
-								+ 'var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");\n'
-								+ 'var js = document.createElement("script");\n'
-								+ 'js.setAttribute("language", "javascript");\n'
-								+ 'js.setAttribute("type", "text/javascript");\n'
-								+ 'js.setAttribute("src",wsa_host + "tracking.websitealive.com/vTracker_v2.asp?objectref=' + reg_objectref + '&groupid=' + reg_groupid + '&websiteid=0");\n'
-								+ 'document.getElementsByTagName("head").item(0).appendChild(js);\n'
-								+ '}\n'
-								+ 'if (window.attachEvent) {window.attachEvent("onload", wsa_include_js);}\n'
-								+ 'else if (window.addEventListener) {window.addEventListener("load", wsa_include_js, false);}\n'
-								+ 'else {document.addEventListener("load", wsa_include_js, false);}\n'
-								+ '</scri' + 'pt>\n'
-								+ '<!-- End WebsiteAlive Embedded Icon/AliveTracker Code -->';
-								
-								
-								
-							
-							$('#textarea_lsm_code').val(code_snippet);
-								
-								
-							register_sendEmail();
-							
-							register_adroll();
-							
-							register_kissmetrics($('#reg_username').val(), 'Trial Signup Complete');
-							
-						}
-					});//end ajax
-			
-			
-		}
-	}
-	
-	
-	
-	
-	
-	function register_kissmetrics(reg_username, event_label){
-		
-		if (reg_username != ''){
-			_kmq.push(['identify', reg_username]);
-		}
-		
-		_kmq.push(['record', event_label]);
-		
-	}
-	
-	
-	
-	
-	
-	
-	
-	function register_adroll(){
-		
-		//$('#iframe_adroll').attr('src','/adroll.html');	
-		
-		trackExternalLink('trial');
-		
-		
-	}
-	
-	
-	
-	
-	
-	function writeError(msg){
-		
-			$('#p_error').hide().fadeIn('fast');
-			$('#p_error').html(msg);
-	}
-	
-	function writeErrorLogin(msg, resetToDefault){
-		
-		$('#p_error_login').hide();
-		$('#p_error_login').fadeIn('fast');
-		
-		if (resetToDefault){
-			if (msg == ''){
-				$('#p_error_login').html('Enter your Administrator or Operator<br>credentials to log in.');
-			}else{
-				$('#p_error_login').html(msg);
-			}
-			$('#p_error_login').css('color','#e7e7e7');
-		}else{
-			$('#p_error_login').html(msg);
-			$('#p_error_login').css('color','#FF0000');
-		}
-	}
-
-	
-	function register_laststep(){
-		$('#div_signup3').hide();
-		$('#div_signup4').fadeIn();
-		
-		$('#panel_title1').html('Tips Before You Start:');
-		$('#panel_title2').html('');
-		$('#p_error').hide();
-		
-	}
-	
-	function register_login(){
-		
-		$('#panelRegister').hide();
-		$('#panelLogin').fadeIn();
-		
-		$('#reg_username').val()
-		
-	}
-	
-	
-	
-	function forgotpw(){
-		
-		writeErrorLogin('<h3 class="white">Recover Account Information</h3><p class="white">Please enter the email you used to register your account:</p>',true);
-		
-		$('#panelLoginForm').hide();
-		$('#panelForgotPW').fadeIn();
-		
-	}
-	function forgotpw_submit(){
-		
-		if (! (validateEmail($('#forgotpw_email').val())) || $('#forgotpw_email').val() == ''){
-			
-			alert('Please enter a valid email address.');
-			
-		}else{
-		
-			var x_url = 'https://api-v1.websitealive.com/auth/forgotpw/?action=forgotpw&email_admin=' + encodeURIComponent($('#forgotpw_email').val());			
-			
-			$.ajax({
-				type: 'GET',
-				url: x_url,
-				contentType: "application/json",
-				dataType: 'jsonp',
-				success: 
-				
-					function(data){
-						if (data[0].result == 'success'){
-							alert('Success! Please check your email to continue with account reset.');
-							writeErrorLogin('',true);
-							$('#panelLoginForm').fadeIn();
-							$('#panelForgotPW').hide();
-						}else{
-							alert('Error: Please contact our support team to assist you further with account reset.');	
-						}
-					}
-							
-							,
-				error: function(e) {
-				
-				}
-			});
-			
-			
-		}
-		
-	}
-	
-	
-							
-							
-	
-</script>
-<!-- End Javascript for Registration -->
-
-
-<div id="alivepanel">
-<!--<div id="sitelock_shield_logo" style="position:absolute; top:25px; right:25px;"><a href="https://www.sitelock.com/verify.php?site=www.websitealive.com" onclick="window.open('https://www.sitelock.com/verify.php?site=www.websitealive.com','SiteLock','width=600,height=600,left=160,top=170');return false;" ><img alt="malware removal and website security" title="SiteLock"  src="//shield.sitelock.com/shield/www.websitealive.com"/></a></div>-->
-    <div class="wrapper">
+    <!-- Custom styles for framework -->
+    <link href="/css/theme-websitealive-2015.css" rel="stylesheet">
     
+    <link href="//fonts.googleapis.com/css?family=Droid+Serif:400,700|Open+Sans:400italic,600,300,400" rel="stylesheet" type="text/css">
     
-    	<!-- Start panelRegister -->
-        <div id="panelRegister" style="display:none">
-        
-        	<div style="width:475px; margin:0px auto;">
-                
-                    <h2 class="thin white mB10 mT20 align-center" style="margin-bottom:0px;" id="panel_title1">Try It Free For 30 Days, On Us!</h2>
-                    <h3 class="thin white align-center" id="panel_title2">Fully Functional, No Credit Card Required.</h3>
-                
-                
-                <!--
-                <div id="div_sitelock_reg" class="left" style="margin:30px 0px 0px 25px;">
-                    <a href="https://www.sitelock.com/verify.php?site=www.websitealive.com" onclick="window.open('https://www.sitelock.com/verify.php?site=www.websitealive.com','SiteLock','width=600,height=600,left=160,top=170');return false;" >
-                        <img alt="malware removal and website security" border="0" title="SiteLock"  src="//shield.sitelock.com/shield/www.websitealive.com"/>
-                    </a>
-                </div>
-                -->
-                <div class="clear"></div>
-            </div>
-            
-            
-            <p class="align-center mB10 mT10" style="color:#F00; height:15px;" id="p_error"></p>
-            
-            <!-- div_signup1 -->
-            <div id="div_signup1">
-                <div style="width:275px; margin:15px auto;">
-                <input id="reg_emailadmin" name="reg_emailadmin" type="text" value="Your Email" onblur="if(this.value == '') { this.value='Your Email'}" onfocus="if (this.value == 'Your Email') {this.value=''}" class="align-center">
-                
-                <input id="reg_username" name="reg_username" type="text" value="Choose a Username" data-val="true" data-val-length="Username invalid length. Must be longer than 6 and shorter than 50 characters" data-val-length-max="50" data-val-length-min="6" data-val-regex="Username contains invalid characters. Must be letters and numbers, no spaces" data-val-regex-pattern="^[A-Za-z0-9]*$" data-val-required="Field &amp;#39;Username&amp;#39; is required" class="mT5 align-center" onblur="if(this.value == '') { this.value='Choose a Username'}" onfocus="if (this.value == 'Choose a Username') {this.value=''}" onkeydown="return checkEnterRegister(event)">
-                        <!--<span class="field-validation-valid" data-valmsg-for="Username" data-valmsg-replace="true"></span>-->
-                    
-                </div>
-                
-            	<div class="signup-divider"></div>
-            	<a href="#" class="green-btn" style="margin-left:450px;" onclick="register_validateUser()">Next Step</a>
-               
-                <p class="align-center fs12 mT20"><a href="#" onclick="$('#panelLogin').fadeIn(); $('#panelRegister').hide(); ">Existing Users Log In Here</a></p>
-                
-            </div>
-            <!-- END div_signup1 --> 
-            
-            
-            <!-- div_signup2 -->  
-            <div id="div_signup2" style="display:none;">
-                <div class="grid300 left mT15" style="margin-left:180px;">
-                    <div class="forms">
-                        <input id="reg_first_name" name="reg_first_name" type="text" value="First Name" data-val="true" data-val-length="First name invalid length. Must be less 
-
-than 255 characters" data-val-length-max="255" data-val-required="Field &amp;#39;First Name&amp;#39; is required" onblur="if(this.value == '') { this.value='First Name'}" onfocus="if (this.value == 'First Name') {this.value=''}" class="align-center left"><p class="left white mL10">*</p>
-                        <!--<span class="field-validation-valid" data-valmsg-for="FirstName" data-valmsg-replace="true"></span>-->
-                    </div>
-                    <div class="forms">
-                        <input id="reg_last_name" name="reg_last_name" type="text" value="Last Name" data-val="true" data-val-length="Last name invalid length. Must be less than 
-
-255 characters" data-val-length-max="255" data-val-required="Field &amp;#39;Last Name&amp;#39; is required" onblur="if(this.value == '') { this.value='Last Name'}" onfocus="if (this.value == 'Last Name') {this.value=''}" class="align-center left"><p class="left mL10 white">*</p>
-                        <!--<span class="field-validation-valid" data-valmsg-for="LastName" data-valmsg-replace="true"></span>-->
-                    </div>
-                    <div class="forms">
-                        <input id="reg_url" name="reg_url" type="text" value="Website URL" onblur="if(this.value == '') { this.value='Website URL'}" onfocus="if (this.value == 'Website URL') {this.value=''}" class="align-center left"><p class="left white mL10">*</p>
-                    </div>
-                    <div class="forms">
-                        <input id="reg_phone" name="reg_phone" type="text" value="Phone Number" data-val="true" data-val-required="Field &amp;#39;Contact Phone&amp;#39; is 
-
-required" onblur="if(this.value == '') { this.value='Phone Number'}" onfocus="if (this.value == 'Phone Number') {this.value=''}" class="align-center left"><p class="left white mL10">*</p>
-                    </div>
-                    <p class="white">* denotes requried fields</p>
-                </div>
-                <div class="grid300 left mT15 mL45">
-                    <select id="reg_company_type" name="reg_company_type" data-val="true" data-val-required="Field &amp;#39;Your Industry&amp;#39; is required" class="right" style="margin-right:25px;"> 
-                        <option value="" selected="selected">- Your Industry -</option>
-                        <option value="e_commerce">E-commerce</option>
-                        <option value="education">Education</option>
-                        <option value="finance">Finance</option>
-                        <option value="government">Government</option>
-                        <option value="non_profit">Non-Profit</option>
-                        <option value="real_estate">Real Estate</option>
-                        <option value="software">Software</option>
-                        <option value="sports_and_entertainment">Sports and Entertainment</option>
-                        <option value="travel">Travel</option>
-                        <option value="other">Other</option>
-                    </select>
-                    
-                    <select id="reg_found_us" name="reg_found_us" data-val="true" data-val-required="Field &amp;#39;How did you find us&amp;#39; is required" style="margin-top:10px; margin-right:25px; margin-bottom:10px;" class="right">
-                        <option selected="selected" value="">- How Did You Find Us? -</option>
-                        <option value="internet_search">Internet Search</option>
-                        <option value="word_of_mouth">Word of Mouth</option>
-                        <option value="advertisement">Advertisement</option>
-                        <option value="social_network">Social Network (Facebook, Twitter, Blogs)</option>
-                        <option value="internet_websites">Seeing/Using on other Websites</option>
-                        <option value="conference_show">Conference/Show</option>
-                        <option value="industry_shows">Industry Shows/Exhibit/Article</option>
-                        <option value="referred_by_sales_person">Spoke with a Sales Representative</option>
-                        <option value="other">Other</option>
-                    </select>
-                    
-                    <div class="mT10">
-                    
-                        <div class="right" style="margin-right:25px;">
-                            <input checked="checked" id="reg_recieve_promotions" name="reg_recieve_promotions" type="checkbox" value="true" class="left" style="width:auto; margin-top:5px;">
-                            <p class="white left mL10 mB10">Receive Email Updates?</p>
-                        </div>
-                        <div style="clear:left;"></div>
-                        <div class="right" style="margin-right:10px;"><a href="#" class="green-btn" onclick="register_createAccount()" id="button_agree">Agree To Terms &amp; Sign 
-
-Up</a></div>
-                        <div class="clear"></div>
-                        <p class="white mT10 right" style="margin-right:28px;"><a href="#" onclick="goBack();">« Back</a> | <a href="/legal" target="_blank">Terms of 
-
-Service</a></p>
-                    </div>
-                    
-                    
-                </div>
-                <div class="clear"></div>
-                
-            </div>
-            <!-- END div_signup2 --> 
-            
-            
-            
-            
-            <!-- div_signup3-->
-            <div id="div_signup3" style="display:none;">
-            	<div style="width:600px; margin:25px auto;">
-                
-                <textarea rows="8" style="-webkit-border-radius:0px; border-radius: 0px; border:1px solid #e7e7e7; background-color:#FFC; width:600px; font-size:10px; font-family:'Courier New', Courier, monospace;" id="textarea_lsm_code" onclick="this.select()"></textarea>
-                
-                </div>
-                <p class="white align-center mB10">
-                Not sure what to do? We're also sending you a copy of this Code to your email so you can forward to your Webmaster.</p>
-                <div class="clear"></div>
-                <a href="#" class="green-btn" onclick="register_laststep()" style="margin-left:365px; margin-top:15px;">Next: Some Tips Before You Start</a>
-            
-            </div>
-            <!-- END div_signup3 -->
-            
-            
-            
-            
-            <!-- div_signup4 --> 
-            <div id="div_signup4" style="display:none;">
-            
-                <div style="width:500px; margin:0px auto;">
-                    <h3 class="white align-center">There are 2 types of WebsiteAlive accounts:</h3>
-                    <ul>
-                        <li class="white"><strong>Administrators</strong> - There is only 1 main Administrator who can make global setting changes such as adding Operators, 
-
-Departments, Customization, and run Reports.</li>
-                        <li class="white"><strong>Operators</strong> - can only chat, receive click-to-call requests, but cannot make global setting changes.</li>
-                        <li class="white">Your user has both <strong>Administrator</strong> and <strong>Operator</strong> access.</li>
-                        <li class="white">After you add the Code to your website, you must log in as an Operator. This will then allow an icon to appear.</li>
-                    </ul>
-                </div>
-                <a href="#" class="green-btn" style="margin-left:410px; margin-top:20px;" onclick="register_login()">I'm Ready, Log Me In!</a>
-            
-            </div>
-        	<!-- END div_signup4 --> 
-            
-            
-            
-            
-            
- 
- 
- 
- 
-        </div>
-        <!-- End panelRegister -->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
     
-    
-    
-    
+    <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=3"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> 
+		var _gaq = _gaq || []; 
+		_gaq.push(['_setAccount', 'UA-425476-1']); 
+		_gaq.push(['_trackPageview']); 
+		(function() { 
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+	
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+		})(); 
+	</script>
+<style type="text/css"></style></head>
 
+<body>
 
-		<!-- Login -->
-        
-        
-		<div id="panelLogin" style="width:800px; margin:25px auto;">
-        
-            <div class="app-download" style="width:300px;">
-                <h3 class="white thin mL15">Downloads &amp; Apps</h3>
-                <div class="app-download-divider"></div>
-                
-               	<div class="app-download-entry">
-                	<div class="app-download-icon-chrome"><a href="https://chrome.google.com/webstore/detail/alivechat/lfkhejbklkddgfmandfilejdinegdpik"></a></div>
-                    <p class="white fs12 left" style="margin:18px 0px 0px 4px;"><a href="https://chrome.google.com/webstore/detail/alivechat/lfkhejbklkddgfmandfilejdinegdpik">Chrome Extension</a></p>
-                </div>
-                <div class="app-download-divider"></div>
-                
-                <div class="app-download-entry">
-                	<div class="app-download-icon-windows"><!--<a href="https://go.websitealive.com/downloads/apps/windows/AliveChat_for_Windows.zip"></a>-->
-                    	<a href="http://go.websitealive.com/downloads/apps/windows/wsa_desktop.exe"></a>
-                    </div>
-                    <p class="white fs12 left" style="margin:19px 0px 0px 2px;"><a href="http://go.websitealive.com/downloads/apps/windows/wsa_desktop.exe">Windows Desktop</a></p>
-                </div>
-                <div class="app-download-divider"></div>
-                
-                <div class="app-download-entry">
-                	<div class="app-download-icon-mac"><a href="https://go.websitealive.com/downloads/apps/mac/AliveChat_for_Mac.zip"></a></div>
-                    <p class="white fs12 left" style="margin:22px 0px 0px 4px;"><a href="https://go.websitealive.com/downloads/apps/mac/AliveChat_for_Mac.zip">Mac 
-
-Desktop</a></p>
-                </div>
-                
-                 <!-- Holiday Message -->
-                <p class="white fs14 left" style="margin:22px 0px 0px 4px;"></p>
-                <!-- END Holiday Message -->
-            </div>
-            
-            
-            <div style="width:400px; margin:0px 0px 0px 0px; float:right;">
-            
-            	<h3 class="white thin mL15 align-center">Client Login</h3>
-            	<div class="login-divider"></div>
-
-                <!-- Login Form -->
-                <p class="align-center mT10 fs14" style="color:#e7e7e7; height:40px; margin-bottom:20px;" id="p_error_login">
-                Please enter your Administrator or Operator<br>credentials to log in.
-                </p>
-                
-                <div id="panelLoginForm">
-                	
-                    <form name="form1" id="form1" method="post" target="form_iframe_submit">
-                    
-                        <div class="left">
-                            <p class="align-right fs14" style="margin:11px 10px 0px 0px; color:#ccc">Username</p>
-                            <p class="align-right fs14" style="margin:27px 10px 0px 0px; color:#ccc">Password</p>
-                        </div>
-                        
-                        <div class="left">
-                            <div class="forms">
-                                <input id="login_user_name" name="login_user_name" type="text" value="" onkeydown="return checkEnterLogin(event)">
-                            </div>
-                            <div class="forms" style="margin-top:8px;">
-                                <input id="login_password" name="login_password" type="password" value="" onkeydown="return checkEnterLogin(event)">
-                            </div>
-                        </div>
-                        
-                        <div class="clear"></div>
-                        
-                        <div class="mT10 right mB10" style="margin-right:12px;">
-                            
-                            <p class="left mR10 fs12" style="margin-top:12px; margin-right:30px;"><a href="#" onclick="forgotpw()">forgot password?</a></p>
-                            
-                            <a href="#" class="green-btn left" onclick="loginsubmit()" style="padding-top:4px; padding-bottom:4px; padding-right:30px; padding-left:30px; margin-right:35px;">Log In</a>
-                        </div>
-                        
-                        <div class="clear"></div>
-                        
-                    </form>
-                    
-                    <div class="login-divider"></div>
-            
-                	<p class="align-center fs16"><a href="#" onclick="$('#panelLogin').hide(); $('#panelRegister').show(); ">New To WebsiteAlive? Sign Up Now!</a></p>
-                
-                
-                </div>
-               
-        		<!-- End Login Form-->
-                
-                
-                
-                
-                <!-- Login Buttons -->
-                <div id="panelLoginButtons" style="display:none">
-                
-               	 	<h3 class="white">Log In Successful!</h3>
-                    <p class="white">You have access to the following Role(s):</p>
-                    
-                    <div style="margin-top:20px">
-                    
-               		<input type="button" id="button_operator" class="operatorButton" style="margin-left:-10px; display:none"><input type="button" id="button_admin" class="adminButton" style="margin-left:-10px; display:none">
-                    
-                    <input type="button" id="button_operatoradmin" class="opadminButton" style="margin-left:-10px; display:none">
-                    </div>
-                    
-                    <div class="clear"></div>
-                </div>
-                <!-- End Login Buttons -->
-                
-                <!-- Login Loading -->
-                <div id="panelLoginLoading" style="display:none; text-align:center;">
-                	
-            
-                    
-                    <h3 class="white">Logging In, Please Wait...</h3>
-                    <p class="white" id="p_loading_trial"></p>
-                    
-               		
-                    
-                	<!--<img src="/images/loading_login.gif" style="padding-top:20px; padding-bottom:30px;">-->
-                    
-                    
-<div id="progress-indicator" style="height:130px;"><div class="spinner" style="position: relative; width: 0px; z-index: 2000000000; left: 198px; top: 53px;" aria-role="progressbar"><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-0-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(0deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-1-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(36deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-2-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(72deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-3-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(108deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-4-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(144deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-5-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(180deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-6-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(216deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-7-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(252deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-8-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(288deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-9-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(324deg) translate(25px, 0px); border-radius: 4px;"></div></div></div></div>
+<script type="text/javascript" src="/js/wsa.js"></script>
 <script type="text/javascript" src="/js/spin.min.js"></script>
 
-<script type="text/javascript">
-
-	var opts = {
-	  lines: 10, // The number of lines to draw
-	  length: 10, // The length of each line
-	  width: 8, // The line thickness
-	  radius: 25, // The radius of the inner circle
-	  corners: 1, // Corner roundness (0..1)
-	  rotate: 0, // The rotation offset
-	  direction: 1, // 1: clockwise, -1: counterclockwise
-	  color: '#ccc', // #rgb or #rrggbb
-	  speed: 1, // Rounds per second
-	  trail: 60, // Afterglow percentage
-	  shadow: false, // Whether to render a shadow
-	  hwaccel: false, // Whether to use hardware acceleration
-	  className: 'spinner', // The CSS class to assign to the spinner
-	  zIndex: 2e9, // The z-index (defaults to 2000000000)
-	  top: 10, // Top position relative to parent in px
-	  left: 155 // Left position relative to parent in px
-	};
-	
-	var target = document.getElementById('progress-indicator');
-	var spinner = new Spinner(opts).spin(target);
-	
-	/*
-	var isRunning = true;
-	
-	
-	document.getElementById('toggleSpinner').addEventListener('click', function(event){
-		if(isRunning){
-			spinner.stop();
-		}else{
-			spinner.spin(target);
-		}
-		isRunning = !isRunning;
-	});
-	*/
-
-</script>
-
-
-                    
-                </div>
-                <!-- End Login Loading -->
-                
-                
-                <!-- forgotPW -->
-                
-                <div id="panelForgotPW" style="display:none; text-align:center">
-                
-                    <div class="forms" style="margin-left:70px; margin-top:30px; margin-bottom:30px;">
-                    <input id="forgotpw_email" name="forgotpw_email" type="text">
-                    </div>
-                    
-                    <div class="clear"></div>
-                    
-                    <p class="left fs12" style="margin-top:12px; margin-left:100px;"><a href="#" onclick="$('#panelLoginForm').fadeIn();$('#panelForgotPW').hide();writeErrorLogin('',true);">Cancel</a></p>
-                    
-                    <a href="#" class="green-btn" onclick="forgotpw_submit()" style="padding-top:4px; padding-bottom:4px; padding-right:30px; padding-left:30px; margin-right:0px;">Submit</a>
-                   
-                   
-                   
-                        
-        		</div>
-                <!-- END forgotPW -->
-                
-                
-                <div class="login-divider"></div>
-
-                
-                
-                
-                
-            </div>
-            
-            
-            <div class="clear"></div>
+<!-- Menu/Navigation ================================================== -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container nav-container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        <a class="navbar-brand logo" href="/"></a>
         </div>
-        <!-- End Login -->
-
-       
-
-	</div><!-- End wrapper -->
-</div><!-- End AlivePanel -->
-
-
-
-
-<div class="panel-button" id="hide-button" style="display:none;  position:absolute; top:347px; right:0px; background:url('../images/loginClose.png') no-repeat; width:137px; height:40px;" onclick="opencloseClientLogin('close');"><a href="javascript://"></a></div>
-
-
-
-<iframe src="/dummy.htm" id="form_iframe_submit" name="form_iframe_submit" style="display:none"></iframe>
- 
- 
- 
- 
- 
- 
- 
-<!-- Start Alexa Certify Javascript -->
-<script type="text/javascript">
-_atrk_opts = { atrk_acct:"b/Koh1aMQV00Mx", domain:"websitealive.com",dynamic: true};
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = 
-
-document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-</script>
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=b/Koh1aMQV00Mx" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
-
-
-
-
-
-
-<!-- Adroll Pixel -->
-<script type="text/javascript"> 
-
-	function trackExternalLink(segment) {
-	  try {
-	  __adroll.record_user({"adroll_segments": segment});
-	  setTimeout('document.location = "' + document.location.href + '"', 250)
-	  } catch(err){}
-	}
-
-	adroll_adv_id = "QUSJ4EKDXNG5HPGACSOJFB"; 
-	adroll_pix_id = "6RDGIFAZSNCQ3FHDQYIJHM"; 
-	(function () { 
-	var oldonload = window.onload; 
-	window.onload = function(){ 
-	   __adroll_loaded=true; 
-	   var scr = document.createElement("script"); 
-	   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); 
-	   scr.setAttribute('async', 'true'); 
-	   scr.type = "text/javascript"; 
-	   scr.src = host + "/j/roundtrip.js"; 
-	   ((document.getElementsByTagName('head') || [null])[0] || 
-		document.getElementsByTagName('script')[0].parentNode).appendChild(scr); 
-	   if(oldonload){oldonload()}}; 
-	}()); 
-</script> 
-<!-- End Adroll Pixel -->
-
-
-<!-- START CTA Buttons JS (Demo/Phone/Chat) -->
-<script type="text/javascript">
-
-function toggleCTA(cta_app){
-	
-	if ($('#span_' + cta_app).is( ':hidden' )){
-		$('#div_' + cta_app).css('padding-right',10);
-		$('#span_' + cta_app).fadeIn();
-	}
-	
-	switch(cta_app){
-		
-		case 'cta_demo':
-	
-			//hide others
-			$('#div_cta_phone').css('padding-right',0);
-			$('#span_cta_phone').hide();
-			$('#div_cta_chat').css('padding-right',0);
-			$('#span_cta_chat').hide();
-		break;
-		
-		
-		case 'cta_phone':
-		
-			//hide others
-			$('#div_cta_demo').css('padding-right',0);
-			$('#span_cta_demo').hide();
-			$('#div_cta_chat').css('padding-right',0);
-			$('#span_cta_chat').hide();
-			
-		break;
-		
-		case 'cta_chat':
-		
-			//hide others
-			$('#div_cta_demo').css('padding-right',0);
-			$('#span_cta_demo').hide();
-			$('#div_cta_phone').css('padding-right',0);
-			$('#span_cta_phone').hide();
-			
-		break;
-		
-		
-	}
-	
-}
-
-</script>
-<!-- END CTA Buttons JS (Demo/Phone/Chat) -->
-
-
-
-
-<div id="headerGray">	
-	<div class="wrapper websiteAliveGray">
-    	
-        <div id="headerMenu">
-    		<div id="websiteAliveLogo" class="left"><a href="/"></a></div>
-        	<div id="nav"><a href="/alivechat/">Live Chat</a> <a href="/alivedial/">Click-to-Call</a> <a href="/aliveconcierge/">Concierge</a> <a href="/live-chat-pricing/">Pricing</a> <a href="/howtos/" style="margin-right:20px;">Support</a><a href="javascript://" class="open" id="open" onclick="opencloseClientLogin('open');" style="margin-left:5px;">Log In<img src="../images/siteLock-secure-custom.png" width="88" height="27" alt="SiteLock Secure" style="float:right; margin-top:0px; margin-right:0px; margin-left:10px;"></a></div>
-			<div class="clear"></div>
-    	</div>
-        
-        <div class="headerTitle" style="margin-top:30px;"><h1 style="font-size:30px;">Privacy Policy</h1></div>
-        <div class="header-communications-2">
-        	
-<a href="#" class="demoInt-home" onclick="toggleCTA('cta_demo');document.location.href='/demo-scheduling/';"><div class="icon-demoInt" id="div_cta_demo"></div><span id="span_cta_demo" onclick="document.location.href='/demo-scheduling/'">Schedule a Demo</span></a>
-        
-        
-        <a href="#" class="clicktocallInt-home" onclick="toggleCTA('cta_phone');window.open('https://www.websitealive3.com/9/visitor/window/?code_id=2974&amp;dl='+escape(document.location.href),'wsa_9_740','height=400,width=400');"><div class="icon-clicktocallInt" id="div_cta_phone" style="padding-right:0px"></div><span id="span_cta_phone" style="display:none" onclick="window.open('https://www.websitealive3.com/9/visitor/window/?code_id=2974&amp;dl='+escape(document.location.href),'wsa_9_740','height=400,width=400');">We'll Call You!</span></a>
-        
-        <a href="#" class="liveChatInt-home"><div class="icon-liveChatInt" id="div_cta_chat" style="padding-right:0px" onclick="toggleCTA('cta_chat');window.open('https://www.websitealive3.com/9/rRouter.asp?groupid=9&amp;websiteid=10&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');"></div><span id="span_cta_chat" style="display:none" onclick="window.open('https://www.websitealive3.com/9/rRouter.asp?groupid=9&amp;websiteid=10&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');">Chat Now</span></a>
-
-        </div>
-        <div class="clear">
+        <div class="navbar-collapse collapse">
+        <!--<ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+        <li><a href="#">Action</a></li>
+        <li><a href="#">Another action</a></li>
+        <li><a href="#">Something else here</a></li>
+        <li class="divider"></li>
+        <li class="dropdown-header">Nav header</li>
+        <li><a href="#">Separated link</a></li>
+        <li><a href="#">One more separated link</a></li>
+        </ul>
+        </li>
+        </ul>-->
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="/">Home</a></li>
+            <li><a href="/alivechat/">Live Chat Software</a></li>
+            <li><a href="/aliveconcierge/">Concierge</a></li>
+            <li><a href="/live-chat-pricing/">Pricing</a></li>
+            <li><a href="/support/">Support</a></li>
+            <li><a href="javascript:void();" class="btn-login-signup" data-toggle="modal" data-target="#loginDialog">Sign Up / Login</a></li>
+            <li id="sitelock_shield_logo" class="sitelock-nav"><a href="https://www.sitelock.com/verify.php?site=www.websitealive.com" onclick="window.open('https://www.sitelock.com/verify.php?site=www.websitealive.com','SiteLock','width=600,height=600,left=160,top=170');return false;"><img alt="web chat software" title="SiteLock" src="//shield.sitelock.com/shield/www.websitealive.com"></a></li>
+        </ul>
+        </div><!--/.nav-collapse -->
     </div>
 </div>
-<div id="content">
-	<div class="contentTop"></div>
-	<div class="content">
-    	<div class="grid700 right">
-        	<h2 class="darkgray">Privacy Policy</h2>
-            <h3 class="orange pB10">We are committed to your privacy.</h3>
-            <p class="lh18 fs12 pB10">This Privacy Policy details how we use your personal information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. Our Privacy Policy is our commitment to you that we provide not only the highest quality services and products, but that we understand that you expect us to safeguard the personal and business information that we collect. To this end, our Privacy Policy allows you to make an informed decision regarding your usage of the tools and services that we provide. As technology and circumstances change, we will continue to update, modify and enhance this Privacy Policy for your benefit as part of our commitment to you to provide the best possible services and security according to our high standards of business practices and ethics.<br><br>
-    
-    By using our the tools and services we provide, and visiting our web site such activities become your express indication to us that you consent to our collection and use of your personal information as described herein.<br><br>
-    
-    AYU Technology Solutions, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@websitealive.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program does not cover information that may be collected through software downloaded from the site.<br><br>
-    
-    This privacy policy applies to data collected at the corporate website and client log in section of www.websitealive.com as well as the data collected from our Active Chat application on our client’s sites. Please be aware that we act as a data processor in regards to the data collected on our client’s site, and process the data on behalf of our clients.</p>
-    		
-            <a name="personalInfo"></a>
-    		<h3 class="darkgray">I.	Pertains to Data collection on www.websitealive.com</h3>
-    		<h3 class="orange pB10">Personal Information Collected</h3>
-        	<p class="lh18 fs12">In order to access certain subscriber services and restricted areas (the "Restricted Services") within the WebsiteAlive site (the "Site"), AYU Technology Solutions, LLC ("WebsiteAlive") requires that you provide certain identifying information (the "Registration Data") listed in the online registration form. This information may include your legal name, address, telephone number(s), e-mail address, subscriber name or "screen name," areas of interest, password used to access Pay services, method of payment, and, if applicable, credit card number. While using WebsiteAlive as a client, third party personal information may be entered, such as name and email address. This information is only used for the purpose it was collected for.<br><br>
 
-WebsiteAlive reserves the right to request any additional information necessary to establish and maintain your account for use of the Pay Services.</p>
-    		
-            <a name="confidentiality"></a>
-            <h3 class="orange pB10">Confidentiality</h3>
-        	<p class="lh18 fs12 pB10">Registration Data is the property of WebsiteAlive, subject to and protected by the Electronic Communications Privacy Act. WebsiteAlive will not sell, rent, swap, or otherwise disclose your Registration Data to any third party for promotional purposes. WebsiteAlive maintains a secured area on the Site for transmission of Registration Data, and stores all Registration Data in a private database which is not connected to the Internet.</p>
-            
-            <a name="usesRegistration"></a>
-            <h3 class="orange pB10">Uses of Registration Data</h3>
-        	<p class="lh18 fs12 pB10">Unless you select the "Opt-Out" option as described herein, WebsiteAlive reserves the right to use your Registration Data to send you information about WebsiteAlive, the Site, WebsiteAlive products and services, and other topics in which you have indicated an interest.</p>
-            
-            <a name="optOut"></a>
-            <h3 class="orange pB10">Opt-Out Right</h3>
-        	<p class="lh18 fs12 pB10">If you do not wish to receive any special offers or other communications from WebsiteAlive, you have the right to select the "opt out" option during the registration process or at any time afterwards. You may "opt out" by clicking on the box marked "I DO NOT WISH TO RECEIVE SPECIAL COMMUNICATIONS FROM WebsiteAlive" when you register for an account or at any time afterwards by going to the "Special Offers" area of the Site.</p>
-            
-            <a name="userAccess"></a>
-            <h3 class="orange pB10">User Access to Information Collected</h3>
-        	<p class="lh18 fs12 pB10">To review and update your personal information to ensure it is accurate, you may access your Registration Data at any time through the Subscriber services section of the Site. This area is password-restricted for your protection. You may also contact us at the information listed below.</p>
-            
-            <a name="testimonials"></a>
-            <h3 class="orange pB10">Testimonials on our Site</h3>
-        	<p class="lh18 fs12 pB10">With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at the information listed below.</p>
-            
-            <a name="thirdPartyLinks"></a>
-            <h3 class="orange pB10">Links to Third Party Web Sites</h3>
-        	<p class="lh18 fs12 pB10">We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided as a courtesy to you. Always review the Privacy Policies of such web sites.</p>
-            
-            <a name="generalInfo"></a>
-            <h3 class="orange pB10">General Information</h3>
-        	<p class="lh18 fs12 pB10">It is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us. We may, from time to time, contact you to discuss business relevant to your membership and, naturally, we will contact you to respond to inquiries that you may send to us.<br><br>
 
-We do not knowingly collect personal data or information from minors.</p>
 
-			<a name="correctInfo"></a>
-			<h3 class="orange pB10">How Can You Access and Correct Your Information?</h3>
-        	<p class="lh18 fs12 pB10">You may request access to all your personal information that we collect online and maintain in our database by emailing techsupport@websitealive.com.</p>
-            
-            <a name="aggregatedData"></a>
-            <h3 class="orange pB10">Credit Card Usage, Aggregated Data and More</h3>
-        	<p class="lh18 fs12 pB10">We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is collected by us.<br><br>
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).<br><br>
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@websitealive.com.<br><br>
-
-We maintain your credit card related information once your purchase has been verified and processed via your credit card service provider for future usage, within a secured system. In the event of a charge back, the credit card service provider will provide us with such information for the purpose of our evaluation of the charge back request, including any protestations and or feedback issued by our company if we determine fraud has taken place. In the event of credit card fraud and similar defaulted payments, the credit card related information shall be used for collection related purposes.<br><br>
-
-Credit card information sent to use via our web site is transferred and transmitted via secure server software that provides industry standard encryption. Other information that you send via standard email will not be subjected to this high level of encryption so we advise you accordingly that you should never submit sensitive personal information such as credit card numbers and so forth via standard email to us.</p>
-
-			<a name="cancel"></a>
-			<h3 class="orange pB10">Cancellation</h3>
-        	<p class="lh18 fs12 pB10">You may cancel your account at any time by sending an e-mail to billing@websitealive.com. Once WebsiteAlive has finished processing the cancellation, WebsiteAlive will delete all your Registration Data from its database.</p>
-            
-            <a name="communications"></a>
-            <h3 class="orange pB10">Communications</h3>
-        	<p class="lh18 fs12 pB10">If you communicate with us, via email or telephone or even via surface mail, we will maintain such communications and the information contained within them for the purpose and providing customer services to you. We employ industry standard protections for all such communications.<br><br>
-
-You may be required to complete online registration forms that provide us with contact information (such as your name and street address), your email address, and your phone numbers.<br><br>
-
-We may, from time to time, send you emails regarding our service so that we can directly communicate with you regarding issues we determine to be relevant.<br><br>
-
-We use other third parties to provide services on our website such as for credit card processing. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service.<br><br>
-
-These third parties are prohibited from using your personal information for any other purpose.</p>
-
-            <a name="thirdPartyLibability"></a>
-            <h3 class="orange pB10">No Liability for Acts of Third Parties</h3>
-        	<p class="lh18 fs12 pB10">Although WebsiteAlive will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be made absolutely secure. WebsiteAlive will have no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties.</p>
-            
-            <a name="dataConfidentiality"></a>
-            <h3 class="darkgray">II. Pertains to Active Chat application</h3>
-        	<p class="lh18 fs12">Our clients implement our Active Chat application on their website. We may collect personal information about their users “End Users” on behalf of our clients such as email, phone number and first and last name. We do not use this data for any other purposes than as defined in our relationship with our clients.<br><br>
-
-We use other third parties to provide screen sharing and click to call services via our Active Chat application. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service.</p>
-
-			<h3 class="orange pB10">Confidentiality of Your Data</h3>
-        	<p class="lh18 fs12 pB10">We will not sell or share with any third party or entity the personal, business or corporate data or personal information that we collect based on a commitment shared by our hosting company. All such information shall be confidentially maintained by our hosting community pursuant to our contractual relationship with our hosting company and we shall also maintain strict confidentiality of such information and data. We shall use such information strictly for the purpose of providing services to you, our user, and our hosting company shall house such data and information strictly for the purpose of providing services to us for your direct benefit.<br><br>
-
-These third parties are prohibited from using your personal information for any other purpose.<br><br>
-
-If you would like to inquire about personal data collected in a chat window on a separate site, please refer to the privacy policy on the site in question.</p>
-
-			<a name="generalInfo2"></a>
-			<h3 class="darkgray">III. Pertains to www.websitealive.com and Active Chat application.</h3>
-            <h3 class="orange pB10">General Information</h3>
-        	<p class="lh18 fs12">We have implemented security policies, rules and technical measure to protect the personal data that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss.<br><br>
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitor’s and members’ personal data.<br><br>
-
-We use your personal information, in a general sense, to operate our business; that means that we use the information to provide customer service and to provide tools and services to our user base, including, individually, you or your business. We may also use the information we collect for the purpose of alerting you about changes to our business, web site or special offers we think you will find to be important. All emails sent to you are done so pursuant to standard industry security approaches and standards. You will be given the opportunity, on at least an annual basis, to notify us that you desire not to receive special offers, however, we do reserve the right to communicate with you regarding any direct business or customer account concerns relevant to your account and of course, to respond to any inquiries or comments that you forward to us regarding your account of the activities of our business or any other user of our tools and services.<br><br>
-
-Your password is protected by us from unauthorized access and usage via standard security approaches. However, no such process is 100% secured. Also, we advise you to never share your password and other sensitive information with any third party and to always verify by examining the address placed into your browser’s URL section that you are actually present at our web site before you enter in your user ID and password information.</p>
-
-			<a name="aggregatedInfo"></a>
-			<h3 class="orange pB10">Use of Aggregated Information</h3>
-        	<p class="lh18 fs12 pB10">WebsiteAlive reserves the right to disclose to third parties information about Subscriber usage of the WebsiteAlive Web site and any related services, including information gathered during your use of the Site. Any information disclosed will be in the form of aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user.</p>
-            
-            <a name="cookies"></a>
-            <h3 class="orange pB10">Cookies</h3>
-        	<p class="lh18 fs12 pB10">Please note that we employ the use of cookies. Currently we employ cookies when users create user accounts, but we may further employ cookies to assist the functionality of other tools, services and functions in the future.<br><br>
-
-Cookies are small programs that enhance your use of the Internet, in general, and specifically we use cookies to enhance your usage of our functions.<br><br>
-
-The information gathered is not shared with third parties. You may turn off your cookies by adjusting the appropriate setting on your browser.<br><br>
-
-Please consult the HELP menu of your browser to learn how to turn your cookies off. Cookies do not reveal personal information and if you turn off your cookies you may find your enjoyment of the Internet, and our site, to be reduced or impaired.<br><br>
-
-In order to seek out and repair functionality issues with our servers and related programming, we may use your email and IP addresses for evaluation and diagnostic purposes.<br><br>
-
-Cookies may provide Recording Session information, show us visitor preferences regarding return visits to our website, help us to mange subscription or private areas on our website, record user specific tracking or aggregate tracking information of visitors and deliver user customized content based on user specific information, such as browser type, screen type and resolution and so forth. None of the information gathered is shared with third parties.<br><br>
-
-Other possible uses for the information that we collect includes internal tracking, review, or is used for contacting purposes and then is archived by us for future usage. We also use the information we collect to provide custom content for our user base. Technical and business statistics are also collected via cookies: which allows us to tract the various paths users trace through web site as they move from one web page to another. Cookies also account for the number of users who visit our site and to calculate the visitor capacity and scalable architecture of our web site. We do not use cookie technology to gather personal information about you although such technology may allow us to serve up focused banner advertisements and other Internet published advertising content which appears on one or more pages of our web site.<br><br>
-
-Cookies are used as an important element of our Alive Chat application to help us determine return users and to collect important user data and information which is useful to the user of the Alive Chat application.<br><br>
-
-We use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by AYU Technology Solutions, LLC only and does not cover the use of cookies by any third-party.</p>
-
-			<a name="exceptions"></a>
-			<h3 class="orange pB10">Exceptions to our Privacy Policy</h3>
-        	<p class="lh18 fs12 pB10">Possible exceptions to our policy include the rare following circumstances, and as indicated herein:</p>
-            <ul class="pageUnordered pageList pB10">
-            	<li>as required by law, such as to comply with a subpoena, or similar legal process</li>
-				<li>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,</li>
-				<li>if AYU Technology Solutions, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,</li>
-				<li>to any other third party with your prior consent to do so.</li>
-            </ul>
-            
-            <a name="dataRetention"></a>
-            <h3 class="orange pB10">Data Retention</h3>
-        	<p class="lh18 fs12 pB10">We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-            
-            <a name="changes"></a>
-            <h3 class="orange pB10">Notification of Privacy Statement Changes</h3>
-        	<p class="lh18 fs12 pB10">We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
-            
-            <a name="contactUs"></a>
-            <h3 class="orange pB10">Contacting Us</h3>
-        	<p class="lh18 fs12 pB10">AYU Technology Solutions, LLC
-            ATTN: Legal Department<br>
-            2100 West Loop South, Suite 900<br>
-            Houston, Texas 77027<br>
-            Email: privacy@websitealive.com<br>
-            Effective Date: 2/15/2011</p>
-		</div>
+<!-- Modal:login -->
+<div class="modal fade" id="loginDialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog loginDialog">
+    	<div class="modal-content loginContent" style="background:#eee;">
+        	<div class="modal-header" style="background:#23afe6; color:#fff;">
+            	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="glyphicon glyphicon-remove" style="margin-top:3px;"></span></button>
+            	<h4 class="modal-title white" id="myModalLabel">Client Login / Sign Up</h4>
+            </div>
+        	<div class="row">
+            	<div class="col-md-3"></div>
+                <div class="col-md-6">
+                
+                
+                
+                
+                		<!-- start tabpanel-->
+                        <div role="tabpanel" style="margin-top:64px;">
+                        
+                        
+                        
+                        
+                            <!-- Nav tabs -->
+                            <ul class="nav nav-tabs nav-justified" role="tablist">
+                                <li role="presentation" class="active"><a href="#panelLogin" aria-controls="panelLogin" role="tab" data-toggle="tab"><strong>Client Login</strong></a></li>
+                                <li role="presentation"><a href="#panelRegister" aria-controls="panelRegister" role="tab" data-toggle="tab"><strong>Need an Account?</strong></a></li>
+                            </ul>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <!-- START tab-content -->
+                            <div class="tab-content" style="background:#fff; padding:24px; border-right:1px solid #ddd; border-left:1px solid #ddd; border-bottom:1px solid #ddd; margin-right:1px;">
+                            
+                            
+                            	
+                            
+                    			<!-- Start MAIN panelLogin -->
+                    			<div role="tabpanel" class="tab-pane active" id="panelLogin">
+                                
+                                	<div class="modal-body">
+                                    
+                                    	<!-- Start SUB panelLogin_form -->
+                                    	<div id="panelLogin_form">
+                                        
+                                            <h3 class="droid text-center">Client Login</h3>
+                                            <p class="text-center" style="margin-bottom:48px;">Log in with your Administrator or Operator credentials.</p>
+                                            
+                                            
+                                            <p id="p_error_login" class="text-danger"></p>
+                                            
+                                            <form name="form1" id="form1" method="post" target="form_iframe_submit">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control input-lg" id="login_user_name" placeholder="Username" value="" onkeydown="return checkEnterLogin(event)" onblur="if(this.value == '') { this.value='Username'}" onfocus="if (this.value == 'Username') {this.value=''}">
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="password" class="form-control input-lg" id="login_password" placeholder="Password" value="" onkeydown="return checkEnterLogin(event)" onblur="if(this.value == '') { this.value='Password'}" onfocus="if (this.value == 'Password') {this.value=''}">
+                                            </div>
+                                            <button type="submit" class="btn btn-success btn-lg" onclick="loginsubmit()">Log In</button>
+                                            
+                                            
+                                            <!--<button type="button" class="btn btn-default btn-lg" data-dismiss="modal">Cancel</button>-->
+                                            <span style="margin-left:10px;">Forgot User/Password? <a href="javascript:void(0)" onclick="$('#panelLogin_forgotpw').show(); $('#panelLogin_form').hide()">Reset it.</a></span>
+                                            
+                                            <!--<a style="margin-left:10px;" href="https://www.sitelock.com/verify.php?site=www.websitealive.com" onclick="window.open('https://www.sitelock.com/verify.php?site=www.websitealive.com','SiteLock','width=600,height=600,left=160,top=170');return false;" ><img alt="web chat software" title="SiteLock"  src="//shield.sitelock.com/shield/www.websitealive.com"/></a>-->
+                                            
+                                            </form>
+                                            <iframe src="/dummy.htm" id="form_iframe_submit" name="form_iframe_submit" style="display:none"></iframe>
+                                            
+                                            
+                                            <!-- Start Desktop App Pane -->
+                                            <p class="text-center" style="margin:40px">Also, try logging in as an Operator with our Desktop Apps:</p>
+                                            
+                                            <div class="row text-center">
+                                                <div class="col-xs-4 app-chrome">
+                                                    <a href="https://chrome.google.com/webstore/detail/alivechat/lfkhejbklkddgfmandfilejdinegdpik" target="_blank"><img src="/images/app-chrome.png" width="84" height="85" alt=""></a>
+                                                </div>
+                                                <div class="col-xs-4 app-win">
+                                                    <a href="http://go.websitealive.com/downloads/apps/windows/wsa_desktop.exe" target="_blank"><img src="/images/app-windows.png" width="77" height="78" alt=""></a>
+                                                </div>
+                                                <div class="col-xs-4 app-mac">
+                                                    <a href="https://go.websitealive.com/downloads/apps/mac/AliveChat_for_Mac.zip" target="_blank"><img src="/images/app-mac.png" width="69" height="85" alt=""></a>
+                                                </div>
+                                            </div>
+                                            <!-- End Desktop App Pane -->
+                                    	</div>
+                                        <!-- END SUB panelLogin_form -->
+                                        
+                                        
+                                        <!-- Start SUB panelLogin_spinner -->
+                                        <div id="panelLogin_spinner" style="display:none; text-align:center; height:380px; padding-top:110px">
+                            
+                                            <div id="progress-indicator" style="height:130px; float:left; width:40%"><div class="spinner" aria-role="progressbar" style="position: relative; width: 0px; z-index: 2000000000; left: 198px; top: 53px;"><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-0-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(0deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-1-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(36deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-2-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(72deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-3-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(108deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-4-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(144deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-5-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(180deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-6-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(216deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-7-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(252deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-8-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(288deg) translate(25px, 0px); border-radius: 4px;"></div></div><div style="position: absolute; top: -4px; opacity: 0.25; animation: opacity-60-25-9-10 1s linear 0s infinite normal none running;"><div style="position: absolute; width: 18px; height: 8px; background: rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px; transform-origin: left center 0px; transform: rotate(324deg) translate(25px, 0px); border-radius: 4px;"></div></div></div></div>
+                                            <div style="float:left; width:40%; text-align:left; margin-top:20px; margin-left:20px;"><h3>Logging In...</h3></div>
+                                            <br clear="all">
+                                            
+                                            <p id="p_loading_trial"></p>
+                                            
+                                            
+                                            <script type="text/javascript">
         
-        <div class="grid200 pL25 left">
-        <a href="http://privacy.truste.com/ctv/validation?url=www.websitealive.com&amp;sealid=101"><img src="../images/truste-seal.jpg" width="200" height="71" alt="TRUSTe Certified Privacy" class="mT10" border="none"></a>
-        <ul>
-            <li><a href="#personalInfo">Personal Information Collected</a></li>
-            <li><a href="#confidentiality">Confidentiality</a></li>
-            <li><a href="#usesRegistration">Uses of Registration Data</a></li>
-            <li><a href="#optOut">Opt-Out Right</a></li>
-            <li><a href="#userAccess">User Access to Information Collected</a></li>
-            <li><a href="#testimonials">Testimonials on our Site</a></li>
-            <li><a href="#thirdPartyLinks">Links to Third Party Web Sites</a></li>
-            <li><a href="#generalInfo">General Information</a></li>
-            <li><a href="#correctInfo">How Can You Access and Correct Your Information?</a></li>
-            <li><a href="#cancel">Cancellation</a></li>
-            <li><a href="#communications">Communications</a></li>
-            <li><a href="#thirdPartyLibability">No Liability for Acts of Third Parties</a></li>
-            <li><a href="#dataConfidentiality">Confidentiality of Your Data</a></li>
-            <li><a href="#generalInfo2">General Information</a></li>
-            <li><a href="#aggregatedInfo">Use of Aggregated Information</a></li>
-            <li><a href="#cookies">Cookies</a></li>
-            <li><a href="#exceptions">Exceptions to our Privacy Policy</a></li>
-            <li><a href="#dataRetention">Data Retention</a></li>
-            <li><a href="#changes">Notification of Privacy Statement Changes</a></li>
-            <li><a href="#contactUs">Contacting Us</a></li>
-        </ul>
-		</div>
-        <div class="clear"></div>
-	</div><!-- class="content" close -->
-    <div class="contentBottom mB40"></div>
-</div><!-- id="content" close -->
-<!-- Footer Include -->
-<!-- Footer -->
-<div id="footer">
-	<div id="footerContent">
-    	<div class="menuSection">
-        	<h6 class="white">Main Menu</h6>
+												var opts = {
+												  lines: 10, // The number of lines to draw
+												  length: 10, // The length of each line
+												  width: 8, // The line thickness
+												  radius: 25, // The radius of the inner circle
+												  corners: 1, // Corner roundness (0..1)
+												  rotate: 0, // The rotation offset
+												  direction: 1, // 1: clockwise, -1: counterclockwise
+												  color: '#ccc', // #rgb or #rrggbb
+												  speed: 1, // Rounds per second
+												  trail: 60, // Afterglow percentage
+												  shadow: false, // Whether to render a shadow
+												  hwaccel: false, // Whether to use hardware acceleration
+												  className: 'spinner', // The CSS class to assign to the spinner
+												  zIndex: 2e9, // The z-index (defaults to 2000000000)
+												  top: 10, // Top position relative to parent in px
+												  left: 155 // Left position relative to parent in px
+												};
+												
+												var target = document.getElementById('progress-indicator');
+												var spinner = new Spinner(opts).spin(target);
+												
+											</script>
+											
+                                            
+                                        </div>
+                                        <!-- End SUB panelLogin_spinner -->
+                                        
+                                        <!-- START SUB panelLogin_forgotpw -->
+                                        <div id="panelLogin_forgotpw" style="display:none">
+                                        	<h3 class="droid text-center">Reset Administrator User/Password?</h3>
+                                        	<p class="text-center" style="margin-bottom:30px;">Please enter the email you used to sign up to recover your account. To <strong>reset Operator passwords</strong>, please contact your Administrator.</p>
+                                            
+                                            <div class="form-group">
+                                            <input type="email" class="form-control input-lg" id="forgotpw_email" aria-describedby="inputDefault2Status" placeholder="Email Address" value=""></div>
+                                        	<button type="submit" class="btn btn-success btn-lg" onclick="forgotpw_next()" id="button_forgotpw">Next Step</button>
+                                            
+                                            <a href="javascript:void(0)" onclick="forgotpw_backtologin()" style="margin-left:20px">« Back</a>
+                                        
+                                        </div>
+                                        <!-- END SUB panelLogin_forgotpw -->
+                                       
+                                        <!-- START SUB panelLogin_forgotpw_final -->
+                                        <div id="panelLogin_forgotpw_final" style="display:none">
+                                        	<h3 class="droid text-center">Please Check Your Email</h3>
+                                        	<p class="text-center" style="margin-bottom:30px;">If your email address was found in our system, you'll receive an email with further instructions. If you did not receive an email, please check your SPAM box, or try again.</p>
+                                            
+                                            <div class="text-center">
+                                            	<a href="javascript:void(0)" onclick="forgotpw_backtologin()">Back to Login</a>
+                                            </div>
+                                        
+                                        
+                                    	</div>
+                                    	<!-- END SUB panelLogin_forgotpw_final -->                                    
+                                    
+                                    
+                                        <!-- Start SUB panelLogin_buttons -->
+                                        <div id="panelLogin_buttons" style="display:none; text-align:center; height:275px;">
+                                            <h3 style="margin-bottom:60px; margin-top:110px">You're Logged In As:</h3>
+                                            
+                                            <button type="button" class="btn btn-success btn-lg" id="button_operator" style="display:none; margin-right:10px;">Operator</button>
+                                         
+                                            <button type="button" class="btn btn-success btn-lg" id="button_operatoradmin" style="display:none;margin-right:10px;">Operator w/ Admin Rights</button>
+                                            
+                                            <button type="button" class="btn btn-lg" id="button_admin" style="display:none">Administrator</button>
+                                        </div>
+                                        <!-- End panelLogin_buttons -->
+                                    
+                                    
+                                	</div>
+                               
+                    				<!-- End modal-body -->
+								
+                                
+                                
+                                
+                                
+                                </div>
+                                <!-- END MAIN panelLogin -->
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <!-- Start MAIN panelRegister -->
+                                <div role="tabpanel" class="tab-pane" id="panelRegister">
+                                
+                                	<div class="modal-body">
+                                    
+                                    
+                                    
+                                    
+                                    	<!-- Start SUB panelRegister_step1 -->
+                                    	<div id="panelRegister_step1">
+                                            <h3 class="droid text-center" style="color:black">Sign up for your 30-day Free trial</h3>
+                                            <p class="text-center" style="margin-bottom:48px; margin-top:10px">Try the full version of AliveChat+ on your web site right now.</p>
+                                            
+                                            
+                                            <p id="p_error_register1" class="text-danger"></p>
+                                            
+                                            <div class="form-group has-default has-feedback">
+                                                <input type="email" class="form-control input-lg" id="reg_emailadmin" aria-describedby="inputDefault2Status" placeholder="Email Address" onblur="if(this.value == '') { this.value='Email Address'}" onfocus="if (this.value == 'Email Address') {this.value=''}" value="Email Address">
+                                                <span class="glyphicon glyphicon-asterisk form-control-feedback" aria-hidden="true"></span>
+                                                <span id="inputDefault2Status" class="sr-only">(success)</span>
+                                            </div>
+                                            
+                                            <div class="form-group">
+                                                <input type="text" class="form-control input-lg" id="reg_username" placeholder="Choose a Username" onkeydown="return checkEnterRegister(event)" onblur="if(this.value == '') { this.value='Choose a Username'}" onfocus="if (this.value == 'Choose a Username') {this.value=''}" value="Choose a Username">
+                                            </div>
+                                            
+                                            
+                                            <br clear="all">
+                                            <button type="submit" class="btn btn-success btn-lg" onclick="register_validateUser()">Next Step</button>
+                                            
+                                            <a href="//privacy.truste.com/privacy-seal/AYU-Technology-Solutions-LLC/validation?rid=3430ec57-446f-46a0-a8e4-c1938ac7df8e" title="TRUSTe European Safe Harbor certification" target="_blank" style="margin-left:10px;">
+                    	<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/AYU-Technology-Solutions-LLC/seal?rid=bcea64f0-5d86-4b63-9b2a-32170ddc5834" alt="TRUSTe European Safe Harbor certification">
+                        </a>
+
+                                            <!--
+                                            <button type="button" class="btn btn-default btn-lg " data-dismiss="modal">Cancel</button>
+                                            -->
+                                            <br clear="all"><br clear="all">
+                                		</div>
+                                    	<!-- END SUB panelRegister_step1 -->
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        <!-- Start SUB panelRegister_step2 -->
+                                        <div id="panelRegister_step2" style="display:none">
+                                        
+                                                <h3 class="droid text-center" style="margin-bottom:20px;">Tell Us About Your Organization</h3>
+                                                
+                                                <p id="p_error_register2" class="text-danger"></p>
+                                                
+                                                <div class="form-group has-default has-feedback">
+                                                    <input id="reg_first_name" name="reg_first_name" type="text" aria-describedby="inputRequired" class="form-control input-lg" value="First Name" data-val="true" data-val-length="First name invalid length. Must be less than 255 characters" data-val-length-max="255" data-val-required="Field &amp;#39;First Name&amp;#39; is required" onblur="if(this.value == '') { this.value='First Name'}" onfocus="if (this.value == 'First Name') {this.value=''}">
+                                                    <span class="glyphicon glyphicon-asterisk form-control-feedback" aria-hidden="true"></span>
+                                                    <span id="inputRequired" class="sr-only">(success)</span>
+                                                    <!--<span class="field-validation-valid" data-valmsg-for="FirstName" data-valmsg-replace="true"></span>-->
+                                                </div>
+                                                
+                                                <div class="form-group has-default has-feedback">
+                                                    <input id="reg_last_name" name="reg_last_name" type="text" aria-describedby="inputRequired" class="form-control input-lg" value="Last Name" data-val="true" data-val-length="Last name invalid length. Must be less than 255 characters" data-val-length-max="255" data-val-required="Field &amp;#39;Last Name&amp;#39; is required" onblur="if(this.value == '') { this.value='Last Name'}" onfocus="if (this.value == 'Last Name') {this.value=''}">
+                                                    <span class="glyphicon glyphicon-asterisk form-control-feedback" aria-hidden="true"></span>
+                                                    <span id="inputRequired" class="sr-only">(success)</span>
+                                                    <!--<span class="field-validation-valid" data-valmsg-for="LastName" data-valmsg-replace="true"></span>-->
+                                                </div>
+                                                
+                                                <div class="form-group has-default has-feedback">
+                                                    <input id="reg_url" name="reg_url" type="text" aria-describedby="inputRequired" class="form-control input-lg" value="Website URL" onblur="if(this.value == '') { this.value='Website URL'}" onfocus="if (this.value == 'Website URL') {this.value=''}">
+                                                    <span class="glyphicon glyphicon-asterisk form-control-feedback" aria-hidden="true"></span>
+                                                    <span id="inputRequired" class="sr-only">(success)</span>
+                                                </div>
+                                                
+                                                <div class="form-group has-default has-feedback">
+                                                    <input id="reg_phone" name="reg_phone" type="text" aria-describedby="inputRequired" class="form-control input-lg" value="Phone Number" data-val="true" data-val-required="Field &amp;#39;Contact Phone&amp;#39; is required" onblur="if(this.value == '') { this.value='Phone Number'}" onfocus="if (this.value == 'Phone Number') {this.value=''}">
+                                                    <span class="glyphicon glyphicon-asterisk form-control-feedback" aria-hidden="true"></span>
+                                                    <span id="inputRequired" class="sr-only">(success)</span>
+                                                </div>
+                                                <p>* denotes requried fields</p>
+                                                
+                                                <div class="form-group">
+                                                    <select id="reg_company_type" name="reg_company_type" data-val="true" data-val-required="Field &amp;#39;Your Industry&amp;#39; is required" class="form-control input-lg"> 
+                                                        <option value="" selected="selected">- Your Industry -</option>
+                                                        <option value="e_commerce">E-commerce</option>
+                                                        <option value="education">Education</option>
+                                                        <option value="finance">Finance</option>
+                                                        <option value="government">Government</option>
+                                                        <option value="non_profit">Non-Profit</option>
+                                                        <option value="real_estate">Real Estate</option>
+                                                        <option value="software">Software</option>
+                                                        <option value="sports_and_entertainment">Sports and Entertainment</option>
+                                                        <option value="travel">Travel</option>
+                                                        <option value="other">Other</option>
+                                                    </select>
+                                                </div>
+                                                
+                                                <div class="form-group">
+                                                    <select id="reg_found_us" name="reg_found_us" data-val="true" data-val-required="Field &amp;#39;How did you find us&amp;#39; is required" class="form-control input-lg">
+                                                        <option selected="selected" value="">- How Did You Find Us? -</option>
+                                                        <option value="internet_search">Internet Search</option>
+                                                        <option value="word_of_mouth">Word of Mouth</option>
+                                                        <option value="advertisement">Advertisement</option>
+                                                        <option value="social_network">Social Network (Facebook, Twitter, Blogs)</option>
+                                                        <option value="internet_websites">Seeing/Using on other Websites</option>
+                                                        <option value="conference_show">Conference/Show</option>
+                                                        <option value="industry_shows">Industry Shows/Exhibit/Article</option>
+                                                        <option value="referred_by_sales_person">Spoke with a Sales Representative</option>
+                                                        <option value="other">Other</option>
+                                                    </select>
+                                                </div>
+                                                
+                                                <div class="form-group checkbox" style="margin-left:22px;" "="">
+                                                    <label><input checked="checked" type="checkbox"> Receive Email Updates?</label>
+                                                </div>
+                                                <br clear="all">
+                                                <button id="button_agree" type="button" class="btn btn-success btn-lg" onclick="register_createAccount()">Agree To Terms &amp; Sign Up</button>
+                                               <a style="margin-left:20px;" href="javascript:void()" onclick="goBack();">« Back</a> | <a href="/legal" target="_blank">Terms of Service</a>
+                                               
+                                               <br clear="all">
+                                               <br clear="all">
+                                               <a href="//privacy.truste.com/privacy-seal/AYU-Technology-Solutions-LLC/validation?rid=3430ec57-446f-46a0-a8e4-c1938ac7df8e" title="TRUSTe European Safe Harbor certification" target="_blank">
+                    	<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/AYU-Technology-Solutions-LLC/seal?rid=bcea64f0-5d86-4b63-9b2a-32170ddc5834" alt="TRUSTe European Safe Harbor certification">
+                        </a>
+                                                
+                                               
+                                            </div>
+                                        
+                                        <!-- END SUB panelRegister_step2 -->
+                                        
+                                        
+                                        <!-- START SUB panelRegister_step3-->
+                                        <div id="panelRegister_step3" style="display:none">
+                                            <div class="modal-body text-center">	
+                                                <h3 class="droid text-center" style="color:black">Registration Complete!</h3>
+                                                <p class="text-center" style="margin-bottom:30px;">Add Code to Your Web Page (before your &lt;/body&gt;):</p>
+                                                
+                                                <div class="form-group">
+                                                    <textarea rows="8" class="form-control input-lg" placeholder="Textarea" id="textarea_lsm_code" onclick="this.select()" style="font-size:10px; font-family:'Courier New', Courier, monospace;"></textarea>
+                                                </div>
+                                                
+                                                <p class="text-center">Not sure what to do? We're also sending you a copy of this Code to your email so you can forward to your Webmaster.</p>
+                                                <div class="form-group" style="margin-top:20px">
+                                                    <a href="#" class="btn btn-success btn-lg" onclick="register_laststep()">Next: Some Tips Before You Start</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- END SUB panelRegister_step3  -->
+                                        
+                                        
+                                        
+                                        
+                                        <!-- START SUB panelRegister_step4 --> 
+                                        <div id="panelRegister_step4" style="display:none">
+                                            <div class="modal-body">	
+                                            <h3 class="droid text-center" style="color:black">Things To Know Before You Start</h3>
+                                            
+                                            <div class="row" style="padding-top:24px;">
+                                                <div class="col-md-6">
+                                                	<h4><strong>There's 2 types of WebsiteAlive accounts</strong></h4>
+                                                    <p><strong>Administrators</strong> - There is only 1 main Administrator who can make global setting changes such as adding Operators, Departments, Customization, and run Reports. Administrators <strong>can't chat</strong>.</p>
+                                                    <p><strong>Operators</strong> - can only chat, receive click-to-call requests, but cannot make global setting changes.</p>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <ul>
+                                                        <li>Your user has both <strong>Administrator</strong> and <strong>Operator</strong> access.</li>
+                                                        <li>After you add the Code <strong>to your website</strong>, you must <strong>log in</strong> as an Operator. This will then trigger a <strong>chat icon</strong> to appear on your site.</li>
+                                                        <li>All versions include 2 Operator accounts. You can create <strong>as many accounts</strong> as you need, your license is based on <strong>concurrent</strong> log ins.</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                                <div class="form-group text-center" style="margin-top:20px">
+                                                    <a href="#" class="btn btn-success btn-lg" onclick="register_login()">I'm Ready, Log Me In!</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- END SUB panelRegister_step4 --> 
+                                        
+                                        
+                                    
+                                    </div>
+                                    <!-- End modal-body -->
+                                </div>
+                                <!-- End panelRegister -->
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                </div>
+                                <!-- END tab-content -->
+                                
+                            </div>
+                            <!-- END tabpanel-->
+                            
+                            
+                            
+                            
+                        </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                	</div>
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+        </div>
+    
+
+
+<div class="section bg-lightgray int-product-header">
+    <div class="container">
+    	<div class="row">
+            <div class="col-md-6 int-product-headline">
+                <h1>Privacy Policy<span class="sup"></span></h1>
+                <h2>We are committed to your privacy</h2>
+            </div>
+            <div class="col-md-6">
+            	<div class="header-com">
+                    <a href="" class="btn btn-white-outline btn-lg" role="button" data-toggle="modal" data-target="#demoScheduling"><i class="glyphicon glyphicon-user"></i> <span class="text-b-gone">Schedule Demo</span></a>
+                    <a href="" class="btn btn-white-outline btn-lg" onclick="pop_alivedial()"><i class="glyphicon glyphicon-earphone"></i></a>
+					<a href="" class="btn btn-white-outline btn-lg" onclick="pop_alivechat()"><i class="glyphicon glyphicon-comment"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Content ================================================== -->
+
+<div class="section text-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <p>This Privacy Policy details how we use your personal information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. Our Privacy Policy is our commitment to you that we provide not only the highest quality services and products, but that we understand that you expect us to safeguard the personal and business information that we collect. To this end, our Privacy Policy allows you to make an informed decision regarding your usage of the tools and services that we provide. As technology and circumstances change, we will continue to update, modify and enhance this Privacy Policy for your benefit as part of our commitment to you to provide the best possible services and security according to our high standards of business practices and ethics.</p>
+
+				<p>By using our the tools and services we provide, and visiting our web site such activities become your express indication to us that you consent to our collection and use of your personal information as described herein.</p>
+
+				<p>AYU Technology Solutions, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe’s program requirements</a> and <a href="http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/" target="_blank">TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@websitealive.com">privacy@websitealive.com</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here</a>. The TRUSTe program does not cover information that may be collected through software downloaded from the site. The TRUSTe program covers only our collection, use and disclosure of information we collect through our website www.websitealive.com and our service AliveChat, AliveDial. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged AYU Technology Solutions LLC.</p>
+
+				<p>This privacy policy applies to data collected at the corporate website and client log in section of www.websitealive.com as well as the data collected from our Active Chat application on our client’s sites. Please be aware that we act as a data processor in regards to the data collected on our client’s site, and process the data on behalf of our clients.</p>
+
+				<p>AYU Technology Solutions, LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AYU Technology Solutions, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AYU Technology Solutions, LLC’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a></p>
+                
+				<h3 class="dark-gray">I.	Pertains to Data collection on www.websitealive.com</h3>
+				<h4 id="personalInfo">Personal Information Collected</h4>
+				<p>In order to access certain subscriber services and restricted areas (the "Restricted Services") within the WebsiteAlive site (the "Site"), AYU Technology Solutions, LLC ("WebsiteAlive", "We", "Us", or "Our") requires that you provide certain identifying information (the "Registration Data") listed in the online registration form. This information may include your legal name, address, telephone number(s), e-mail address, subscriber name or "screen name," areas of interest, password used to access Pay services, method of payment, and, if applicable, credit card number. While using WebsiteAlive as a client, third party personal information may be entered, such as name and email address. This information is only used for the purpose it was collected for.</p>
+
+				<p>WebsiteAlive reserves the right to request any additional information necessary to establish and maintain your account for use of the Pay Services.</p>
+
+				<h4 id="confidentiality">Confidentiality</h4>
+				<p>Registration Data is the property of WebsiteAlive, subject to and protected by the Electronic Communications Privacy Act. WebsiteAlive will not sell, rent, swap, or otherwise disclose your Registration Data to any third party for promotional purposes. WebsiteAlive maintains a secured area on the Site for transmission of Registration Data, and stores all Registration Data in a private database which is not connected to the Internet.</p>
+
+				<h4 id="usesRegistration">Uses of Registration Data</h4>
+				<p>Unless you select the "Opt-Out" option as described herein, WebsiteAlive reserves the right to use your Registration Data to send you information about WebsiteAlive, the Site, WebsiteAlive products and services, and other topics in which you have indicated an interest.</p>
+
+                <h4 id="optOut">Opt-Out Right</h4>
+                <p>If you do not wish to receive any special offers or other communications from WebsiteAlive, you have the right to select the "opt out" option during the registration process or at any time afterwards. You may "opt out" by clicking on the box marked "I DO NOT WISH TO RECEIVE SPECIAL COMMUNICATIONS FROM WebsiteAlive" when you register for an account or at any time afterwards by going to the "Special Offers" area of the Site. Or you may simply choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails.</p>
+                
+                <h4 id="userAccess">User Access to Information Collected</h4>
+                <p>To review and update your personal information to ensure it is accurate, you may access your Registration Data at any time through the Subscriber services section of the Site. This area is password-restricted for your protection. You may also contact us at the information listed below.</p>
+                
+                <h4 id="testimonials">Testimonials on our Site</h4>
+                <p>With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at the information listed below.</p>
+                
+                <h4 id="thirdPartyLinks">Links to Third Party Web Sites</h4>
+                <p>We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided as a courtesy to you. Always review the Privacy Policies of such web sites.</p>
+                
+                <h4 id="socialWidgets">Social Media Widgets</h4>
+                <p>Our Site includes Social Media Features, such as the Facebook and Twitter buttons or interactive mini-programs that run on our Site. These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+                
+                <h4 id="generalInfo">General Information</h4>
+                <p>It is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us. We may, from time to time, contact you to discuss business relevant to your membership and, naturally, we will contact you to respond to inquiries that you may send to us.</p>
+                
+                <p>We do not knowingly collect personal information or information from minors.</p>
+                
+                <h4 id="correctInfo">How Can You Access and Correct Your Information?</h4>
+                <p>You may request access to correct, update or delete all your personal information that we collect online and maintain in our database by emailing <a href="mailto:techsupport@websitealive.com">techsupport@websitealive.com</a>. We will respond to your request to access within 30 days.</p>
+                
+                <h4 id="ccUsage">Credit Card Usage, Aggregated Data and More</h4>
+                <p>We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is collected by us.</p>
+                
+                <p>The security of your personal information is important to us. When you enter sensitive information (such as a credit card number or login credentials) on our order forms or platform login page, we encrypt the transmission of that information using secure socket layer technology (SSL).</p>
+                
+                <p>We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at <a href="mailto:privacy@websitealive.com">privacy@websitealive.com</a>.</p>
+                
+                <p>We maintain your credit card related information once your purchase has been verified and processed via your credit card service provider for future usage, within a secured system. In the event of a charge back, the credit card service provider will provide us with such information for the purpose of our evaluation of the charge back request, including any protestations and or feedback issued by our company if we determine fraud has taken place. In the event of credit card fraud and similar defaulted payments, the credit card related information shall be used for collection related purposes.</p>
+                
+                <p>Credit card information sent to use via our web site is transferred and transmitted via secure server software that provides industry standard encryption. Other information that you send via standard email will not be subjected to this high level of encryption so we advise you accordingly that you should never submit sensitive personal information such as credit card numbers and so forth via standard email to us.</p>
+                
+                <h4 id="cancel">Cancellation</h4>
+                <p>You may cancel your account at any time by sending an e-mail to <a href="mailto:billing@websitealive.com">billing@websitealive.com</a>. Once WebsiteAlive has finished processing the cancellation, WebsiteAlive will delete all your Registration Data from its database.</p>
+                
+                <h4 id="communications">Communications</h4>
+                <p>If you communicate with us, via email or telephone or even via surface mail, we will maintain such communications and the information contained within them for the purpose and providing customer services to you. We employ industry standard protections for all such communications.</p>
+                
+                <p>You may be required to complete online registration forms that provide us with contact information (such as your name and street address), your email address, and your phone numbers.</p>
+                
+                <p>We may, from time to time, send you emails regarding our service so that we can directly communicate with you regarding issues we determine to be relevant.</p>
+                
+                <p>We use other third parties to provide services on our website such as for credit card processing. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service.</p>
+                
+                <p>These third parties are prohibited from using your personal information for any other purpose.</p>
+                
+                <h4 id="thirdPartyLibability">No Liability for Acts of Third Parties</h4>
+                <p>Although WebsiteAlive will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be made absolutely secure. WebsiteAlive will have no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties.</p>
+                
+                <h3 class="dark-gray">II. Pertains to Active Chat application</h3>
+                <p>Our clients implement our Active Chat application on their website. We may collect personal information about their users “End Users” on behalf of our clients such as email, phone number and first and last name. AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that you interact with directly. We do not use this data for any other purposes than as defined in our relationship with our clients.</p>
+                
+                <p>We use other third parties to provide screen sharing and click to call services via our Active Chat application. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service. Transfers to subsequent third parties are covered by the service agreements with our Clients.</p>
+                
+                <p>AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate information should direct his query to the AYU Technology Solutions, LLC’s client (the data controller). If requested to remove data we will respond within 30 days.</p>
+                
+                <p>We will retain personal information we process on behalf of our clients for as long as needed to provide services to our client. AYU Technology Solutions, LLC will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+                
+                <h4 id="dataConfidentiality">Confidentiality of Your Data</h4>
+                <p>We will not sell or share with any third party or entity the personal, business or corporate data or personal information that we collect based on a commitment shared by our hosting company. All such information shall be confidentially maintained by our hosting community pursuant to our contractual relationship with our hosting company and we shall also maintain strict confidentiality of such information and data. We shall use such information strictly for the purpose of providing services to you, our user, and our hosting company shall house such data and information strictly for the purpose of providing services to us for your direct benefit.</p>
+                
+                <p>These third parties are prohibited from using your personal information for any other purpose.</p>
+                
+                <p>If you would like to inquire about personal information collected in a chat window on a separate site, please refer to the privacy policy on the site in question.</p>
+                
+                <h3 class="dark-gray">III. Pertains to www.websitealive.com and Active Chat application.</h3>
+                <h4 id="generalInfo2">General Information</h4>
+                <p>We have implemented security policies, rules and technical measure to protect the personal information that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss.</p>
+                
+                <p>All our employees and data processors, who have access to, and are associated with the processing of personal information, are obliged to respect the confidentiality of our visitor’s and members’ personal information.</p>
+                
+                <p>We use your personal information, in a general sense, to operate our business; that means that we use the information to provide customer service and to provide tools and services to our user base, including, individually, you or your business. We may also use the information we collect for the purpose of alerting you about changes to our business, web site or special offers we think you will find to be important. All emails sent to you are done so pursuant to standard industry security approaches and standards. You will be given the opportunity, on at least an annual basis, to notify us that you desire not to receive special offers, however, we do reserve the right to communicate with you regarding any direct business or customer account concerns relevant to your account and of course, to respond to any inquiries or comments that you forward to us regarding your account of the activities of our business or any other user of our tools and services.</p>
+                
+                <p>Your password is protected by us from unauthorized access and usage via standard security approaches. However, no such process is 100% secured. Also, we advise you to never share your password and other sensitive information with any third party and to always verify by examining the address placed into your browser’s URL section that you are actually present at our web site before you enter in your user ID and password information.</p>
+                
+                <h4 id="aggregatedInfo">Use of Aggregated Information</h4>
+                <p>WebsiteAlive reserves the right to disclose to third parties information about Subscriber usage of the WebsiteAlive Web site and any related services, including information gathered during your use of the Site. Any information disclosed will be in the form of aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user.</p>
+                
+                <h4 id="cookies">Cookies</h4>
+                <p>Please note that we employ the use of cookies. Currently we employ cookies when users create user accounts, but we may further employ cookies to assist the functionality of other tools, services and functions in the future.</p>
+                
+                <p>Cookies are small programs that enhance your use of the Internet, in general, and specifically we use cookies to enhance your usage of our functions.</p>
+                
+                <p>The information gathered is not shared with third parties. You may turn off your cookies by adjusting the appropriate setting on your browser.</p>
+                
+                <p>Please consult the HELP menu of your browser to learn how to turn your cookies off. Cookies do not reveal personal information and if you turn off your cookies you may find your enjoyment of the Internet, and our site, to be reduced or impaired.</p>
+                
+                <p>In order to seek out and repair functionality issues with our servers and related programming, we may use your email and IP addresses for evaluation and diagnostic purposes.</p>
+                
+                <p>Cookies may provide Recording Session information, show us visitor preferences regarding return visits to our website, help us to mange subscription or private areas on our website, record user specific tracking or aggregate tracking information of visitors and deliver user customized content based on user specific information, such as browser type, screen type and resolution and so forth. None of the information gathered is shared with third parties.</p>
+                
+                <p>Other possible uses for the information that we collect includes internal tracking, review, or is used for contacting purposes and then is archived by us for future usage. We also use the information we collect to provide custom content for our user base. Technical and business statistics are also collected via cookies: which allows us to tract the various paths users trace through web site as they move from one web page to another. Cookies also account for the number of users who visit our site and to calculate the visitor capacity and scalable architecture of our web site. We do not use cookie technology to gather personal information about you although such technology may allow us to serve up focused banner advertisements and other Internet published advertising content which appears on one or more pages of our web site.</p>
+                
+                <p>Cookies are used as an important element of our Alive Chat application to help us determine return users and to collect important user data and information which is useful to the user of the Alive Chat application.</p>
+                
+                <p>We use Google Analytics, a third-party tracking service, which uses cookies to track non-personal information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy policy covers the use of cookies by AYU Technology Solutions, LLC only and does not cover the use of cookies by any third-party.</p>
+                
+               	<p>As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.</p>
+                
+               	<p>We employ and our third party partner AdRoll employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), tags and scripts that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information.</p>
+                
+                <p>We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" target="_blank">here</a> (or if located in the European Union click <a href="http://www.youronlinechoices.eu/" target="_blank">here</a>). Please note this does not opt you out of being served ads. You will continue to receive generic ads.</p>
+                
+                <h4 id="exceptions">Exceptions to our Privacy Policy</h4>
+                <p>Possible exceptions to our policy include the rare following circumstances which may require AYU Technology Solutions, LLC to disclose your personal information, and as indicated herein:</p>
+                <ul>
+                	<li>as required by law, such as to comply with a subpoena, or similar legal process</li>
+                	<li>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,</li>
+                	<li>if AYU Technology Solutions, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,</li>
+                	<li>to any other third party with your prior consent to do so.</li>
+                </ul>
+                
+                <h4 id="dataRetention">Data Retention</h4>
+                <p>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:privacy@websitealive.com">privacy@websitealive.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+                
+                <h4 id="changes">Notification of Privacy Policy Changes</h4>
+                <p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+                
+                <h4 id="contactUs">Contacting Us</h4>
+                <p>AYU Technology Solutions, LLC ATTN: Legal Department<br>
+                2100 West Loop South, Suite 900<br>
+                Houston, Texas 77027<br>
+                Email: <a href="mailto:privacy@websitealive.com">privacy@websitealive.com</a><br>
+                Effective Date: 11/15/2014</p>
+            </div>
+            <div class="col-md-3">
+            	<div id="f7ea1742-2d3b-4a86-a70e-e7d4facea67a" style="margin-top:24px;"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/AYU-Technology-Solutions-LLC/asc?rid=f7ea1742-2d3b-4a86-a70e-e7d4facea67a"></script><a href="//privacy.truste.com/privacy-seal/AYU-Technology-Solutions-LLC/validation?rid=3430ec57-446f-46a0-a8e4-c1938ac7df8e" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/AYU-Technology-Solutions-LLC/seal?rid=bcea64f0-5d86-4b63-9b2a-32170ddc5834" alt="TRUSTe European Safe Harbor certification"></a></div>
+                <nav class="" style="width:220px; font-size:12px; margin-top:24px;">
+                	<p><a href="#personalInfo">Personal Information Collected</a></p>
+                    <p><a href="#confidentiality">Confidentiality</a></p>
+                    <p><a href="#usesRegistration">Uses of Registration Data</a></p>
+                    <p><a href="#optOut">Opt-Out Right</a></p>
+                    <p><a href="#userAccess">User Access to Information Collected</a></p>
+                    <p><a href="#testimonials">Testimonials on our Site</a></p>
+                    <p><a href="#thirdPartyLinks">Links to Third Party Web Sites</a></p>
+                    <p><a href="#socialWidgets">Social Media Widgets</a></p>
+                    <p><a href="#generalInfo">General Information</a></p>
+                    <p><a href="#correctInfo">How Can You Access and Correct Your Information?</a></p>
+                    <p><a href="#ccUsage">Credit Card Usage, Aggregated Data and More</a></p>
+                    <p><a href="#cancel">Cancellation</a></p>
+                    <p><a href="#communications">Communications</a></p>
+                    <p><a href="#thirdPartyLibability">No Liability for Acts of Third Parties</a></p>
+                    <p><a href="#dataConfidentiality">Confidentiality of Your Data</a></p>
+                    <p><a href="#generalInfo2">General Information</a></p>
+                    <p><a href="#aggregatedInfo">Use of Aggregated Information</a></p>
+                    <p><a href="#cookies">Cookies</a></p>
+                    <p><a href="#exceptions">Exceptions to our Privacy Policy</a></p>
+                    <p><a href="#dataRetention">Data Retention</a></p>
+                    <p><a href="#changes">Notification of Privacy Statement Changes</a></p>
+                    <p><a href="#contactUs">Contacting Us</a></p>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section footer">	
+<div class="container">     
+    <div class="row footer-navigation">
+        <div class="col-md-3">
+            <h4>WebsiteAlive</h4>
             <ul>
-            	<li><a href="/">Home</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/aboutus/">About Us</a></li>
+                <li><a href="/chat-software-for-websites/">Client Success</a></li>
+                <li><a href="/partner-company-chat/">Our Partners</a></li>	
+                <!--<li><a href="http://www.alivesales.com/" target="_blank">Affiliate Program</a></li>-->
+                <li><a href="/government-certified-live-chat-software-for-websites/">Government</a></li>
+            </ul>
+        </div>
+        <div class="col-md-3">
+            <h4>Products</h4>
+            <ul>
+                <li><a href="/live-chat-pricing/">Pricing</a></li>
                 <li><a href="/alivechat/">Live Chat</a></li>
                 <li><a href="/alivedial/">Click-to-Call</a></li>
-                <li><a href="/aliveconcierge/">Concierge</a></li>
-                <li><a href="/live-chat-pricing/">Pricing</a></li>
-                <li><a href="http://buzz.websitealive.com/">Buzz</a></li>
-                <li><a href="http://go.websitealive.com/downloads/pdf/websitealive.pdf">Brochure</a></li>
+                <li><a href="/aliveconcierge/">Concierge</a></li>	
+                <!--<li><a href="/alivesecure/">Secure Data</a></li>-->
+                <li><a href="/alivesocial/">Social</a></li>
             </ul>
         </div>
-        <div class="menuSection">
-        	<h6 class="white">Useful Links</h6>
+        <div class="col-md-3">
+            <h4>Support</h4>
             <ul>
-                <li><a href="/chat-software-for-websites/">Client Success</a></li>
-                <li><a href="/partner-company-chat/">Partners</a></li>
-                <li><a href="/affiliate-chat-program/">Affiliate Program</a></li>
-                <li><a href="/government-certified-live-chat-software-for-website/">Government</a></li>
+                <li><a href="/support/">Documentation</a></li>
+                <li><a href="/support/">Knowledgebase</a></li>
+                <li><a href="/support/">Apps &amp; Downloads</a></li>
                 <li><a href="/web-chat-security/">Security Overview</a></li>
-                <li><a href="/aboutus/">About Us</a></li>
-            </ul>
-        </div>
-        <div class="menuSection">
-        	<h6 class="white">Support Links</h6>
-            <ul>
-            	<li><a href="/howtos/">Support &amp; Apps</a></li>
-                <li><a href="http://buzz.websitealive.com/service-status/">Service Status</a></li>
+                <li><a href="http://buzz.websitealive.com/service-status/">Service Status</a></li>	
                 <li><a href="http://buzz.websitealive.com/category/release/">Release Notes</a></li>
-                <li><a href="/contact/">Contact Us</a></li>
-                <li><a href="/legal/">Legal</a></li>
-                <li><a href="/privacy/">Privacy Policy</a></li>
             </ul>
         </div>
-        <div class="menuSection">
-        	<h6 class="white">WebsiteAlive</h6>
-            <p>2100 West Loop South<br>
-            Suite 900<br>
-            Houston, TX 77027 - US<br><br>
-            <!--1.888.696.4513<br /><br />-->
-            <a href="/career-opportunities/">Career Opportunities</a></p>
+        <div class="col-md-3">
+            <h4>Useful Links</h4>
+            <ul>
+            	<li><a href="/career-opportunities/">Career Opportunities</a></li>
+                <li><a href="/contact/">Contact Us</a></li>
+                <li><a href="/sitemap/">Sitemap</a></li>
+                <li><a href="/privacy/">Privacy Policy</a></li>
+                <li><a href="/legal/">Legal</a></li>
+                <li><a href="http://buzz.websitealive.com/">Buzz</a></li>
+            </ul>
         </div>
-        <div class="menuSection" style="width:250px;">
-        	<h6 class="white">Connect With Us</h6>
-            <div class="facebook" style="margin-left:15px;"><a href="https://www.facebook.com/websitealive" target="_blank"></a></div>
-            <div class="twitter"><a href="https://twitter.com/websitealive" target="_blank"></a></div>
-            <div class="youtube"><a href="http://www.youtube.com/user/websitealive777?feature=mhee" target="_blank"></a></div>
-            <div class="vimeo"><a href="https://vimeo.com/websitealive" target="_blank"></a></div>
-            <div class="linkedin"><a href="http://www.linkedin.com/company/websitealive" target="_blank"></a></div>
-            <div class="clear"></div>
-        </div>
-        
-        
+	</div>
 </div>
-</div>
-<div id="subFooter">
-	<div id="subFooterContent">
-    	<div class="copyright">© 2014 AYU Technology Solutions LLC, All Rights Reserved. All trademarks held by their respective owners.</div>
-    </div>
-</div>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-425476-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+</div> 
 
+<div class="sub-footer" style="margin-bottom:-20px;">	
+<div class="container"> 
+    <div class="row">
+    	<div class="col-md-3">
+        	<h4>Connect With Us</h4>
+            <div class="connect-with-us">
+            	<div class="facebook social-icon"><a href="https://www.facebook.com/websitealive" target="_blank"></a></div>
+                <div class="twitter social-icon"><a href="https://twitter.com/websitealive" target="_blank"></a></div>
+                <div class="vimeo social-icon"><a href="https://vimeo.com/websitealive" target="_blank"></a></div>
+                <div class="youtube social-icon"><a href="http://www.youtube.com/user/websitealive777?feature=mhee" target="_blank"></a></div>
+                <div class="linkedin social-icon"><a href="http://www.linkedin.com/company/websitealive" target="_blank"></a></div>
+            </div>
+        </div>
+        <div class="col-md-3">
+        	<h4>Mail Us</h4>
+            <p class="address">2100 West Loop South - Suite 900<br>Houston, TX 77027 - US</p>
+        </div>
+        <div class="col-md-3">
+        	<h4>Call Us</h4>
+            <p class="address">1-888-696-4513</p>
+        </div>
+        <div class="col-md-3">
+            <p class="copyright">© AYU Technology Solutions LLC, All Rights Reserved. All trademarks held by their respective owners.</p>
+        </div>
+    </div>
+</div> 
+</div>
 <script type="text/javascript">
-adroll_adv_id = "QUSJ4EKDXNG5HPGACSOJFB";
-adroll_pix_id = "6RDGIFAZSNCQ3FHDQYIJHM";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
+/* <![CDATA[ */
+var google_conversion_id = 1066765798;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
 </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1066765798/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 <script type="text/javascript">
 //<![CDATA[
 (function() {
@@ -1954,5 +834,64 @@ var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_ele
 })();
 // ]]>
 </script>
+<!-- Demo Scheduling Modal -->
+<div class="modal fade" id="demoScheduling" tabindex="-1" role="dialog" aria-labelledby="demoScheduling" aria-hidden="true">
+  	<div class="modal-dialog demoScheduling">
+        <div class="modal-content demoSchedulingContent">
+          	<div class="modal-header">
+            	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="glyphicon glyphicon-remove" style="margin-top:3px;"></span></button>
+            	<h4 class="modal-title" id="myModalLabel">Schedule a Demo</h4>
+          	</div>
+          	<div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5">
+                        	<h3 class="droid text-center">Request a Personal Demo of WebsiteAlive</h3>
+                            
+                            
+                            <iframe src="https://www.websitealive3.com/9/operator/guest/gDefault_v2.asp?cframe=offline&amp;groupid=9&amp;websiteid=875&amp;departmentid=15223&amp;iniframe=true" frameborder="0" style="width:100%; height:530px;"></iframe>
+                            
+                        </div>
+                        <div class="col-md-1"></div>
+                        <div class="col-md-6">
+                        <h2>Want to see how WebsiteAlive works?</h2>
+                        <h3>We'd love to show you.</h3>
+                        <p>Once you've filled out the the form on the left, we'll reach out in the next couple of days and schedule a 1-on-1 demo with you.</p>
+                        <p>We'll Show You:</p>
+                        <ul>
+                            <li>A walk through of how chats work for your web site.</li>
+                            <li>How WebsiteAlive can help build a better experience for your customers.</li>
+                            <li>Better ways to engage your customers, and answer any questions you may have.</li>
+                        </ul>
+                        <p>Talk soon!</p>
+                        	<div class="row" style="padding-top:24px;">
+                            	<div class="col-md-2">
+                                	<img src="/images/jt-inthehouse.png" width="100" height="100" alt="">
+                                </div>
+                                <div class="col-md-10">
+                                	<p><strong>Jarrell Liner</strong><br>Director of Client<br>Happiness WebsiteAlive</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+  	</div>
+</div>
 
-</div></body></html>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script src="/js/bootstrap.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=3';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
+
+</body></html>
