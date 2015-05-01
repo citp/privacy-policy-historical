@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makelovenotporn.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022181906id_/http%3A//makelovenotporn.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makelovenotporn.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501203837id_/http%3A//makelovenotporn.com/pages/policies) for the most accurate reproduction.*
 
 # Make Love Not Porn :: Porn World vs. Real World
 
