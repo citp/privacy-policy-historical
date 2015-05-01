@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefrustratedindian.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926001755id_/http%3A//www.thefrustratedindian.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrustratedindian.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501210706id_/http%3A//thefrustratedindian.com/privacy-policy.html) for the most accurate reproduction.*
 
 # The Frustrated Indian - Privacy Policy
 
