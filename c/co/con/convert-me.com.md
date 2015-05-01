@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert-me.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022041105id_/http%3A//www.convert-me.com/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert-me.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501130757id_/http%3A//www.convert-me.com/en/privacy_policy.html) for the most accurate reproduction.*
 
 # Convert-me.com Privacy Policy
 
