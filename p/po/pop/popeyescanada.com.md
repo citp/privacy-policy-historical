@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popeyescanada.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501090953id_/http%3A//www.popeyescanada.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popeyescanada.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501221930id_/http%3A//www.popeyescanada.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement - www.popeyescanada.com
+# Popeye's Supplements Canada ~ Over 100 Locations Across Canada! - Privacy Statement
 
 > ## PRIVACY STATEMENT
 > 
@@ -44,14 +44,3 @@
 >  Edmonton, AB T5S 1R5
 > 
 > We will use commercially reasonable efforts to promptly determine and remedy the problem.
-
-|   
----  
-  
-#### †Not all products are available in all locations. Visit your [local Popeye's](https://web.archive.org/web/20130501090953id_/http%3A//www.popeyescanada.com/storelocator.php) for details.  
-  
-[](https://web.archive.org/web/20130501090953id_/http%3A//www.popeyescanada.com/couponsheet.php)  
-  
-**Any Coupon cannot be combined with other specials.**. Popeye's® Supplements Canada locations are independent licensed locations. All products, prices, and all offers may vary from location to location. All products, prices, and offers are subject to change without notice. Any coupons/rebates must be redeemed at time of purchase, one coupon/rebate per product.   
-  
-[](https://web.archive.org/web/20130501090953id_/http%3A//www.popeyescanada.com/storelocator.php)
