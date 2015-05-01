@@ -1,0 +1,618 @@
+<!--The following is the downloaded HTML source of the playbuzz.com privacy policy that was archived on 2015-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150501083038id_/http%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en"><head>
+    
+    <meta name="robots" content="noindex, nofollow">
+
+
+
+
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"57583e158c","applicationID":"13430521,13430522","transactionName":"ZlUBNxBXXhJUUU1cCV8fIgAWX18PGmJYUgNCcwwNFkRfDVlXSxo2Q1kVAgFPYA5ZW1pM","queueTime":0,"applicationTime":8,"ttGuid":"B7E668A55688693C","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQQPVlBQGwIDUFJSAgMG"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <meta name="viewport" content="width=device-width">
+    
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="//cdn.playbuzz.com/content/images/favicon.ico">
+
+    <!--Favicon for apple touch device-->
+    <link rel="apple-touch-icon-precomposed" href="//cdn.playbuzz.com/content/images/apple-touch-icon-precomposed.png">
+    
+<link href="//cdn.playbuzz.com/content/bundles/8371696/libs/css" rel="stylesheet">
+<link href="//cdn.playbuzz.com/content/bundles/8371696/pages/privacypolicy/css" rel="stylesheet">
+
+    
+
+    
+
+<script src="//cdn.playbuzz.com/content/bundles/8371696/libs/infra/js"></script>
+    
+    
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="//cdn.playbuzz.com/content/images/favicon.ico">
+
+    <!--Favicon for apple touch device-->
+    <link rel="apple-touch-icon-precomposed" href="//cdn.playbuzz.com/content/images/apple-touch-icon-precomposed.png">
+
+    
+
+    <meta property="og:site_name" content="PlayBuzz">
+    
+
+    <meta property="fb:app_id" content="527957123932456">
+    <meta property="fb:admins" content="709648557">
+    <meta property="fb:admins" content="100004994733705">
+    <meta property="fb:admins" content="506025859">
+    <meta property="fb:admins" content="1033186164">
+    <meta property="fb:admins" content="727908807">
+    <meta property="fb:admins" content="549695877">
+    <meta property="fb:admins" content="740606389">
+    <meta property="fb:admins" content="678760697">
+    <meta property="fb:admins" content="656403766">
+    <meta property="fb:admins" content="1074031497">
+    <meta property="fb:admins" content="775038834">
+    
+
+    <meta name="twitter:domain" content="www.playbuzz.com">
+    <meta name="twitter:site" content="@play_buzz">
+    
+
+    <title>Privacy Policy</title>
+    
+    <!--[if lt IE 10]>
+    <script>
+        document.createElement('header');
+        document.createElement('nav');
+        document.createElement('section');
+        document.createElement('article');
+        document.createElement('aside');
+        document.createElement('footer');
+        document.createElement('hgroup');
+    </script>
+    <![endif]-->
+
+    <style>
+        body { min-width: 720px; }
+    </style>
+
+    <!-- end Mixpanel -->
+    <!-- Cooladata starts here -->
+
+<script type="text/javascript">    
+    (window.createPBCookie = function () {
+        var steps = [];
+        var isFeed, cookie, cookieVersion, isMobileApp, mobileUserId;
+
+        function createGUID() { steps.push("2.1.1"); var e = []; var t = "0123456789abcdef"; for (var n = 0; n < 36; n++) { e[n] = t.substr(Math.floor(Math.random() * 16), 1) } e[14] = "4"; e[19] = t.substr(e[19] & 3 | 8, 1); e[8] = e[13] = e[18] = e[23] = "-"; var r = e.join(""); steps.push("2.1.2"); return r }
+        function getURLParam(_e) { var e = _e; if (e) e = e.toLowerCase(); var t = document.location.toString(); var n = t.split("?"); if (n.length <= 1) return null; var r = n[0]; var i = t.substr(r.length + 1); if (i.search("#") >= 0) { i = i.split("#")[0] } var s = {}; if (i) { var o = i.split("&"); try { for (var u = 0; u < o.length; u++) { var a = o[u].split("="); if (a.length > 1) { var f = a[0]; var l = a[1].toLowerCase(); if (e == f.toLowerCase()) return l; s[f] = l } } } catch (c) { } } else return null; return e == undefined ? s : null }
+
+        try {
+            isFeed = document.location.toString().toLowerCase().search("feed=true") >= 0;
+            isMobileApp = document.location.toString().toLowerCase().search("frommobileapp=true");
+
+            cookie = $.cookie("playbuzz");
+            cookieVersion = 3.0;
+            steps.push(0);
+
+            
+            mobileUserId = getURLParam("deviceId");
+
+            steps.push(1);
+
+            var uid = cookie ? cookie.userId : createGUID();
+            var sid = cookie ? cookie.session : createGUID();
+            var nick = cookie ? cookie.nickname : "Anonymous_user";
+            var origin = cookie ? cookie.origin : "Anonymous";
+            var hasAccount = cookie ? cookie.hasAccount == "true" : "false";
+            
+            // remove empty values which existed in previous versions
+            if (uid == "") uid = createGUID();
+            if (sid == "") sid = createGUID();
+            if (nick == "") nick = "Anonymous_user";
+
+            if (cookie && (!cookie.version || cookie.version < cookieVersion)) {
+                steps.push(0.1);
+                //$.removeCookie("playbuzz");   needed for previous versions, no need to remove cookie now, just update some fields
+                cookie.userId = uid;
+                cookie.session = sid;
+                cookie.nickname = nick;
+                cookie.origin = origin;
+                cookie.hasAccount = hasAccount;
+                cookie.version = cookieVersion;
+                $.cookie("playbuzz", cookie, { expires: 365 });
+
+                //cookie = null;
+                steps.push(0.2);
+            }
+
+            steps.push(2);
+
+            if (isMobileApp && mobileUserId) {
+                nick = "iOS_app_user";
+                origin = "iOS_app";
+            } else {
+                if (/^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$/.test(uid) == false) {
+                    steps.push(2.1);
+                    $.removeCookie("playbuzz");
+
+                    uid = createGUID();
+                    steps.push(2.2);
+                }
+            }
+
+            steps.push(3);
+            if (!cookie) {
+                steps.push(3.1);
+                $.cookie("playbuzz", {
+                    created: (new Date()).getTime(),
+                    nickname: nick,
+                    origin: origin || "Anonymous",
+                    session: sid,
+                    userId: uid,
+                    hasAccount: hasAccount,
+                    version: cookieVersion
+                }, { expires: 365 });
+                
+                steps.push(3.2);
+            }
+
+            var cooladataUserId = mobileUserId || uid;
+
+                try {
+                    // Start Cooladata
+                    (function (f, b) { if (!b.__SV) { var a, e, i, g; window.cooladata = b; b._i = []; b.init = function (a, e, d) { function f(b, h) { var a = h.split("."); 2 == a.length && (b = b[a[0]], h = a[1]); b[h] = function () { b.push([h].concat(Array.prototype.slice.call(arguments, 0))) } } var c = b; "undefined" !== typeof d ? c = b[d] = [] : d = "cooladata"; i = "track_event track_event_later track_pageload flush set_config".split(" "); for (g = 0; g < i.length; g++) f(c, i[g]); b._i.push([a, e, d]) }; b.__SV = 1.2; a = f.createElement("script"); a.type = "text/javascript"; a.async = !0; a.src = "//cdn.cooladata.com/tracking/cooladata-2.1.9.min.js"; e = f.getElementsByTagName("script")[0]; e.parentNode.insertBefore(a, e) } })(document, window.cooladata || []);
+                    cooladata.init({
+                        "app_key": "8c0035b9c563467eb37d67e071791c02", // sample app key, to be replaced
+                        "user_id": cooladataUserId
+                    }); 
+                } catch (e) {
+                    Analytics.sendAnalyticsError("SDK load desktop", { line: "layout_111", error: e });
+                }
+
+            steps.push(4);
+            try {
+                if (!window._cdtracker) {
+                    steps.push(4.1);
+                    
+                    steps.push(4.2);
+                    $(document).ready(function () {
+                        if (window.CDBridge) {
+
+                            switch ('') {
+                                case "hpLoaded":
+                                    CDBridge.hpLoaded && CDBridge.hpLoaded();
+                                    break;
+                                case "tagLoaded":
+                                    CDBridge.tagLoaded && CDBridge.tagLoaded();
+                                    break;
+                                case "patternPageLoaded":
+                                    CDBridge.patternPageLoaded && CDBridge.patternPageLoaded();
+                                    break;
+                                case "codeGenPageLoaded":
+                                    CDBridge.codeGenPageLoaded && CDBridge.codeGenPageLoaded();
+                                    break;
+                                case "searchResultsloaded":
+                                    CDBridge.searchResultsloaded && CDBridge.searchResultsloaded();
+                                    break;
+                                case "articleEdited":
+                                    CDBridge.articleEdited && CDBridge.articleEdited();
+                                    break;
+                                case "externalFeedLoaded":
+                                    CDBridge.externalFeedLoaded && CDBridge.externalFeedLoaded();
+                                    break;
+                                default:
+                                    if ('' != 'false') {
+                                        CDBridge.pageLoaded && CDBridge.pageLoaded();
+                                    }
+                                    break;
+                            }
+                        }
+                    });
+
+                }
+            } catch (err) {
+                console.error("Couldn't set up cooladata:", err);
+                Analytics.sendAnalyticsError("SDK load desktop", { line: "layout_169", error: err, steps: steps });
+            }
+        } catch (e) {
+            try {
+                console.error("Couldn't generate cookie: ", e);
+                Analytics.sendAnalyticsError("SDK load desktop", { line: "layout_173", error: e, steps: steps });
+            } catch (e) { }
+            cookie = {};
+
+            cookie.userId = createGUID();
+            cookie.session = createGUID();
+            cookie.nickname = "Anonymous_user";
+            cookie.origin = origin || "Anonymous";
+            cookie.hasAccount = "false";
+            cookie.version = cookieVersion;
+            cookie.created = (new Date()).getTime();
+
+            $.cookie("playbuzz", cookie, { expires: 365 });
+        }
+
+        steps.push(5);
+        if (!uid) {
+            
+            steps.push(5.1);
+            Analytics.sendAnalyticsError("SDK load desktop", {
+                line: "layout_176",
+                error: "uid wasn't generated",
+                steps: steps,
+                jQuery: window.jQuery != undefined,
+                hasCookieAPI: window.jQuery != undefined && $.cookie != undefined,
+                cookie: cookie,
+                isFeed: isFeed,
+            });
+        }
+    })();
+</script>
+
+
+    <script type="text/javascript">
+    window.useFacebookFeedAPI = "true" == "true";
+    // google
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-34510589-6']);
+
+            _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+
+    
+    (function () {
+        function initAnalytics() {
+            if (window.Analytics) {
+                Analytics.init();
+            } else {
+                setTimeout(initAnalytics, 250);
+            }
+        }
+
+        initAnalytics();
+    })();
+    </script>
+
+
+
+
+    
+
+
+    <script>
+        window.pageType = { type: "externalBrowser", url: document.location.toString() };
+    </script>
+
+
+    
+
+    
+
+
+    <!-- Quantcast Tag, part 1 -->
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+                        + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+    </script>
+    <script src="https://apis.google.com/js/client:platform.js" async="" defer=""></script>
+    
+    
+    
+        
+
+</head>
+
+
+<body class="">
+    
+    <div id="fb_pixel_pinterest"></div>
+    <div id="fb_pixel_facebook"></div>
+
+    
+
+            <header role="banner">
+
+
+<div class="top_bar">
+
+    <div class="top_bar_inner">
+
+        <div class="logo">
+            <a href="/"><span>PlayBuzz</span></a>
+        </div>
+
+        <nav role="navigation" aria-label="Primary Navigation">
+
+            <ul class="primary_navigation">
+                <li class="header_create">
+                    <a href="/create" class="create_button_wrapper">
+                        <span class="create_button_icon"></span>
+                        <span class="create_button_text">Create</span>
+                    </a>
+                </li>
+                <li class="header_user">
+                    
+
+<div class="userProfileWidget">
+    <a class="profile_link">
+        <div id="fb-root"></div>
+        <div id="profile_login_image"><div id="logged_user_image"></div></div>
+        <div class="logged_user_name">Me</div>
+    </a>
+    <ul>
+        <li><a class="profile_link">Profile</a></li>        
+        <li class="websites_insight"><a class="websites_insight_link">Insight</a></li>
+        <li class="user_websites"><a class="user_websites_link">Domains</a></li>        
+        <li class="user_accounts"><a class="user_accounts_link" onclick="UserProfileWidget.redirectToBackstage();">Backstage</a></li>
+        <li><a class="profile_logout" onclick="UserProfileWidget.logout();">Logout</a></li>
+    </ul>
+</div>
+
+                </li>
+                <li class="header_search">
+                    <div class="searchbox_container hideSearchBar">
+                        <form class="searchbox_form" autocomplete="off" role="search">
+                            <label for="search_box_text">Search</label>
+                            <input type="text" id="search_box_text" placeholder="Search...">
+                        </form>
+                    </div>
+                </li>
+                <li class="header_first_tag">
+                    <a href="/Pop">Pop</a>
+                    <ul>
+                        <li><a href="/Celebrities">Celebrities</a></li>
+                        <li><a href="/Tv">Tv</a></li>
+                        <li><a href="/Film">Film</a></li>
+                        <li><a href="/Music">Music</a></li>
+                        <li><a href="/Style">Style</a></li>
+                        <li><a href="/Sexy">Sexy</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Fun">Fun</a>
+                    <ul>
+                        <li><a href="/Cute">Cute</a></li>
+                        <li><a href="/Funny">Funny</a></li>
+                        <li><a href="/Retro">Retro</a></li>
+                        <li><a href="/Food">Food</a></li>
+                        <li><a href="/Love">Love</a></li>
+                        <li><a href="/Animals">Animals</a></li>
+                        <li><a href="/Holidays">Holidays</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Geek">Geek</a>
+                    <ul>
+                        <li><a href="/Art">Art</a></li>
+                        <li><a href="/Books">Books</a></li>
+                        <li><a href="/Games">Games</a></li>
+                        <li><a href="/Tech">Tech</a></li>
+                        <li><a href="/Internet">Internet</a></li>
+                        <li><a href="/World">World</a></li>
+                        <li><a href="/Sports">Sports</a></li>
+                        <li><a href="/Politics">Politics</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Latest">Latest</a>
+                </li>
+                
+            </ul>
+
+        </nav>
+
+    </div>
+
+</div>
+
+<div class="bottom_bar">
+
+    <div class="bottom_bar_inner">
+
+        <nav role="navigation" aria-label="Secondary Navigation">
+
+            <ul class="secondary_navigation">
+                
+                <li><a href="/TestYourself">Personality Quiz</a></li>
+                <li><a href="/List">List</a></li>
+                <li><a href="/MultipleChoice">Trivia Quiz</a></li>
+                <li><a href="/Poll">Poll</a></li>
+            </ul>
+
+        </nav>
+
+        
+
+
+<div class="follow_us_wrapper">
+    <div class="social_arrow_down_wrapper">
+        <div class="social_arrow_down"></div>
+    </div>
+    <div class="follow_us_links_wrapper">
+        
+            <div class="menu_socail_item_wrapper">
+                <div class="menu_socail_item">
+                    <!--<div class="like_us_text">Like Playbuzz on Facebook</div>-->
+                    <div class="fb-like-wrapper">
+                        <div class="fb-like" data-href="//www.facebook.com/playbuzz" data-width="45px" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                    </div>
+                </div>
+            </div>
+
+    </div>
+    <div class="social_nav">
+        <ul>
+            <li><a href="//www.facebook.com/playbuzz" class="facebook_link" target="_blank"><div class="inner_image_facebook"></div>Facebook</a></li>
+            <li><a href="//twitter.com/play_buzz" class="twitter_link" target="_blank"><div class="inner_image_twitter"></div>Twitter</a></li>
+            <li><a href="//plus.google.com/+Playbuzz" class="google_link" target="_blank"><div class="inner_image_google"></div>Google+</a></li>
+            <!--tumblr sucks! dosen't suppot https-->
+            <li><a href="http://play-buzz.tumblr.com/" class="thumblr_link" target="_blank"><div class="inner_image_thumblr"></div>Tumblr</a></li>
+            <li><a href="//www.pinterest.com/playbuzz/" class="pinterest_link" target="_blank"><div class="inner_image_pinterest"></div>Pinterest</a></li>
+            <li><a href="//instagram.com/play_buzz" class="instegram_link" target="_blank"><div class="inner_image_instegram"></div>Instagram</a></li>
+            <li><a href="//twitter.com/play_buzz" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a></li>
+            <li><div class="g-follow" data-annotation="none" data-height="20" data-width="140" data-href="//plus.google.com/+Playbuzz"></div></li>
+        </ul>
+    </div>
+
+</div>
+
+    <div class="header_partner">
+        <a href="//publishers.playbuzz.com?utm_source=playbuzz.com&amp;utm_medium=main-site&amp;utm_campaign=b2b-link_main-site" target="_blank" class="header_partner">Playbuzz for business</a>
+    </div>
+
+<script type="text/javascript">
+    (function () {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>
+
+    </div>
+
+</div>
+            </header>
+
+    
+    
+
+    <section class="main_section playbuzz_main_section multiple_items_display">
+        
+<h1>Privacy Policy</h1>
+
+<div class="page_wrapper" role="main">
+
+    <h2>General</h2>
+    <p>Playbuzz Ltd. (referenced below as "<strong>Playbuzz</strong>" or "<strong>We</strong>") is committed to protecting your privacy. This Privacy Policy explains our information-gathering and dissemination practices for our service. This Privacy Policy is part of our <a href="//www.playbuzz.com/EULA">End-User License Agreement</a> ("<strong>EULA</strong>"). By using Our services, you acknowledge that you have reviewed both our EULA and this Privacy Policy and agree to be bound by their terms and conditions.</p>
+    <p>Please be aware that this Privacy Policy does not apply to the practices of entities playbuzz does not own or control, or to individuals whom playbuzz does not employ or manage, including any third parties to whom playbuzz may disclose Personal Information (as defined below) pursuant to the terms and conditions of this Privacy Policy.</p>
+
+    <h2>DATA AND PERSONAL INFORMATION</h2>
+    <ol>
+        <li>
+            <h3>Registration Information</h3>
+            <p>With respect to users who voluntary register to our services (by logging in to their Facebook account, or registering for a playbuzz account), playbuzz may collect personally-identifying information that is unique to such users (such as their name, profile picture, gender, birthday, internet protocol (IP) address and such other personal information as set forth in our EULA) ("<strong>Personal Information</strong>").</p>
+        </li>
+        <li>
+            <h3>Other information</h3>
+            <p>We also receive and/or collect other types of data and information about users via our services, as follows:</p>
+            <ul>
+                <li><p>We regularly receive non-personally-identifying information about you or about the device you use to enhance our services, such as your browser type, language preference referring site and any other information automatically sent to playbuzz by the user's browser.</p></li>
+                <li><p>We receive data about you whenever you use or interact with playbuzz, such as how and when you view, use or otherwise interact with content and materials in our WebSite. For example, we may infer data from your replies and answers to the quizzes in this WebSite or the results thereof, as further delineated below.</p></li>
+                <li><p>When you post or create content on playbuzz, such as feedbacks, quizzes or other games, we may receive additional related data (or metadata), such as the time, date, and place you posted or created such content.</p></li>
+                <li><p>Sometimes we get data from our partners, publishers, commercial customers and other third parties that helps us (or them) deliver ads, understand our users' online activities, provide with insight into what our users are interested in, maximize the effectiveness of ads, and generally make our services better.</p></li>
+                <li><p>We receive data whenever you visit another website that uses our platform or which has embedded our content into its own website, blog or application. Such data includes the other websites you have visited and the type of data we receive about you while you use this Website as delineated hereunder</p></li>
+            </ul>
+           
+
+        </li>
+    </ol>
+    <p>We store data for as long as it is necessary to provide products and services to you and others (including those described hereunder), but some information may remain in backup copies and logs for longer periods. However, you acknowledge and agree that We may continue to use any non-personally-identifying information in accordance with this Privacy Policy (e.g., for the purpose of analysis, statistics and the like) also after the termination of your membership to this WebSite and\or use of our services, for any reason whatsoever.</p>
+
+    <h2>HOW WE USE YOUR INFORMATION</h2>
+    <p>We use the information and data We collect in connection with operation, maintenance and enhancement of our services and features, and for other administrative purposes or internal operations, such as communicating with our users, data analysis, testing and research.</p>
+    <p>In addition, We may use the information and data we collect about you in order to measure and understand the effectiveness of our ads and other content and offer you tailored content, like giving you more relevant ads. For example, your birthday, gender and other demographic characteristics allow us to show you age-appropriate and gender-related content and advertisements. We may also examine and analyze your feedback and answers to the quizzes in our WebSite to serve ads that you may enjoy or find interesting. For example, if a user participates in content around new model cars, We may infer that this user is planning to purchase a new vehicle or that he/she recently purchased a new vehicle. Alternatively, if a user indicates in a quiz that he/she enjoys baseball, We may infer this user is a sport fan. Advertisers of either automotive or sports products may ask us to display advertisements to individuals that have an affinity towards their products.</p>
+    <p>Playbuzz processes Personal Information on its servers in many countries around the world. Such information may be stored on any of our servers, at any location.</p>
+
+    <h2>SHARING OF INFORMATION</h2>
+    <p>Except as described hereunder, We do not share your Personal Information with third parties unless We have received your permission to do so, or given you notice thereof (such as by telling you about it in this Privacy Policy), or removed your name and any other personally identifying information from it. For example, We may inform our advertisers and publishers how their ads perform or how many users viewed or clicked on their ads. We will ask for your consent before using information for a purpose other than those set out in this Privacy Policy.</p>
+    <ol>
+        <li>
+            <h3>Sharing of Personal Information in the WebSite</h3>
+            <p>Some features of the services allow users to post contents and materials in, and create quizzes and other games through, the Website, as further delineated in our EULA. Any contents, materials and games which you have publicly posted or published on the WebSite or otherwise through our services shall be publicly available by default, and you may appear in the WebSite as the creator thereof. In addition, the username, the full name and the profile picture of any user who shall voluntary register to our services, as well as the list of recently played games by such user, shall be publicly available in the WebSite.</p>
+        </li>
+        <li>
+            <h3>Compliance with Laws and Law Enforcement</h3>
+            <p>Playbuzz may identify a user to third parties and/or share your information (including your Personal Information) if required to do so by law, or in the good-faith belief that disclosing such information is necessary to comply with any law, regulation or other governmental authority, or respond to any court order, subpoena, search warrant or equivalent, or where in our reasonable belief an action is needed in order to protect the safety or security of any personal or property. Playbuzz also reserves the right to disclose any information in case it believes, in good faith, that such disclosure is appropriate or necessary in order to enforce our EULA, take precautions against liabilities, investigate and defend itself against any third party claims or allegations, assist government enforcement agencies, protect the security or integrity of the WebSite and our servers and protect the rights and property, of playbuzz, its users and\or others.</p>
+        </li>
+        <li>
+            <h3>Agents and Service Providers</h3>
+            <p>Playbuzz may share your information (including your Personal Information) with its affiliates, partners, and other trusted business and individuals that provide playbuzz, or to which playbuzz provides, with a variety of services, such as publishers and advertisers that work with playbuzz, developers that create the quizzes and other content is this WebSite, and service providers who process such information for us, so they can help us provide and improve our services. Such third parties are using your information in compliance with our Privacy Policy and any other appropriate confidentiality and security measures, and by accessing this WebSite and\or using our services, you acknowledge and agree that these trusted third parties may have access to your Personal Information, to the extent it is reasonably necessary for them in order to perform their tasks pertaining to their engagement with playbuzz.</p>
+        </li>
+        <li>
+            <h3>Non-Personal Aggregate Information</h3>
+            <p>Playbuzz may publish or share with third parties aggregate information for the purpose of analysis and statistics. Such disclosure is done anonymously and is non-personally identifiable. For example, we may share information publicly to show trends about the general use of our services.</p>
+        </li>
+        <li>
+            <h3>Cookies</h3>
+            <p>A cookie is a string of information that can be stored on your computer (if your web browser is set to permit storage of cookies). We may use such cookies to help us learn about how you use this WebSite and enhance your online experience.</p>
+        </li>
+        <li>
+            <h3>Reorganization or Insolvency</h3>
+            <p>Playbuzz may also transfer Personal Information to a successor entity upon a merger, consolidation, change of control or other corporate reorganization in which playbuzz participates, or to a purchaser of all or substantially all of playbuzz's shares or assets to which the WebSite relates. In the event of a bankruptcy, insolvency or equivalents, playbuzz may not be able to control how your Personal Information is handled, shared or used. However, in all such events, We will use commercially reasonable efforts to prevent such third parties from disclosing your Personal Information.</p>
+        </li>
+    </ol>
+    <h2>OTHER WEBSITES AND SERVICES</h2>
+    <p>We are not responsible for the practices employed by any websites or services linked to or from playbuzz, including the information or content contained within them. Please be aware that if you choose to use a link to go from playbuzz to any third party's website or service, such third party's own rules and privacy policy (and not our Privacy Policy) will apply and govern your activities and any information you disclose while interacting with such third parties. Therefore, We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your Personal Information, and you acknowledge and agree that We are not responsible for any wrongful use or disclosure made by such third parties, and that We do not have control over such third-parties. If you are using a third-party's website or service and you allow them to access your Personal Information and user content you do so at your own risk.</p>
+    <h2>E-MAIL COMMUNICATIONS</h2>
+    <p>If you are a registered user of playbuzz and have supplied us your email address, you may occasionally receive emails from us relating to your account, or with respect to updates on new features or other changes in the WebSite, or for customer service purposes, or otherwise as shall be required in order to enable your use of our services.</p>
+    <h2>SECURITY</h2>
+    <p>All information described above may be stored on database servers. We will take commercially reasonable measures in providing secure transmission of your Personal Information before it is transferred across the internet from your system to our servers and in securing such Personal Information stored on our systems. However, you should be aware that there is always some risk involved in transmitting information over the internet and that there is also some risk that others could find a way to thwart our security systems. As a result, while We strive to protect your Personal Information, We cannot ensure or warrant the security and privacy of your Personal Information or other content you transmit using playbuzz, and you do so at your own risk. Thus, We encourage you to exercise discretion regarding the Personal Information you choose to disclose.</p>
+    <h2>PRIVACY POLICY UPDATES</h2>
+    <p>Playbuzz reserves the right to update this Privacy Policy from time to time, with or without notice. If so, playbuzz will post its updated Privacy Policy on its WebSite. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of our services will be subject to the then-current privacy policy. If any modification is unacceptable to you, you may cease using our services. If you do not cease using our services, you will be deemed to have accepted those modifications.</p>
+    <h2>Q&amp;A</h2>
+    <p>If you have any questions or queries about this Privacy Policy or our Services in general, please do not hesitate to contact us at: <a href="mailto:admin@plabuzz.com">admin@playbuzz.com</a></p>
+    
+</div>
+
+    </section>
+
+<script src="//cdn.playbuzz.com/content/bundles/8371696/libs/js"></script>
+<script src="/bundles/Pages/PrivacyPolicy/js"></script>
+
+   
+    <!-- Quantcast Tag, part 2 -->
+    <script type="text/javascript">
+        _qevents.push({ qacct: "p-CpsJA1RVGY0Bm" });
+    </script>
+
+    <noscript>
+        <div style="display: none;">
+            <img src="//pixel.quantserve.com/pixel/p-CpsJA1RVGY0Bm.gif" height="1" width="1" alt="Quantcast" />
+        </div>
+    </noscript>
+
+    
+
+    
+<script src="//cdn.playbuzz.com/content/bundles/8371696/abtest"></script>
+
+    <script type="text/javascript">
+    (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+        _fbq.push(['addPixelId', '568445403278652']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>    
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=568445403278652&amp;ev=PixelInitialized" /></noscript>
+
+
+
+
+</body></html>
