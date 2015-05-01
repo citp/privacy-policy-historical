@@ -1,13 +1,19 @@
-<!--The following is the downloaded HTML source of the price-comparer.com privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325080514id_/http%3A//www.price-comparer.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the price-comparer.com privacy policy that was archived on 2015-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150501130526id_/http%3A//www.price-comparer.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<base href="http://www.price-comparer.com/">
+<!-- WGCCxxx -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy policy - price-comparer.com</title>
- 
 
-<meta name="Description" content="Privacy policy - price-comparer.com">
+
+
+		<title>Privacy Policy | price-comparer.com</title>
+		<meta name="Keywords" content="">
+		<meta name="Description" content="">
+		<meta name="viewport" content="width=device-width">
+
+
+
 <link href="style.css" rel="stylesheet" type="text/css" media="screen">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/JavaScript" src="round/curvycorners.src.js"></script>
 <script type="text/javascript" src="js/jquery.min.js"></script>
@@ -82,9 +88,9 @@ function compaer_product( prod_id )
 
 		
 
-		if( "Search for your product"!=""  &&  "Search for your product"!="What are you searching for?"  )
+		if( ""!=""  &&  ""!="What are you searching for?"  )
 
-			s="&search_data=Search for your product";
+			s="&search_data=";
 
 
 
@@ -136,10 +142,9 @@ function search_product()
 
 }
 
- 
+
 
 </script>
-
 
 
 
@@ -156,26 +161,21 @@ function search_product()
   })();
 
 </script>
-
 </head>
 <body>
+
 <div id="container">
 		
 		
+
 <div id="header">
         		<div id="section1">
                 		<div id="logo"><a href="http://www.price-comparer.com/"><img src="images/spacer.png" width="100%" height="100%"></a></div>
                         
-                        
+ 						 
 						 
 						 
-						 
-						  
-						 
-						 
-						 
-						 
-						 		<form id="form2" name="form2" method="post" action="http://www.price-comparer.com/search/" onsubmit="search_product();">	
+						 		<form id="frm_srch_top" name="frm_srch_top" method="post" action="http://www.price-comparer.com/search/" onsubmit="return chk_top1();">	
                         		 
                          
 						 
@@ -185,7 +185,7 @@ function search_product()
                                 		<div class="sear_round_left"></div>
                                         <div class="sear_round_bg">
                                 
-                                                        <input type="text" onfocus="set_search( this)" onblur="set_blank( this )" name="search_data" id="search_data" value="Search for your product">
+                                                        <input type="text" name="search_data" onclick="blank_box1( )" id="search_data" value="Find your product...">
                                                  
 												
 												
@@ -209,36 +209,49 @@ function search_product()
                 
         </div>
 
+<script>
 
+function chk_top1()
+{
+	if(this.document.getElementById('search_data').value==""  || this.document.getElementById('search_data').value=="Find your product..."  || this.document.getElementById('search_data').value=="Find your product"   || this.document.getElementById('search_data').value=="Find your product.."   || this.document.getElementById('search_data').value=="Find your product.")
+	{
+		alert("Please enter the search string");
+		return false;
+	}
+	var param=this.document.getElementById('search_data').value;
+	
+	param = param.replace(/^\s+/,"")
+	
+	document.frm_srch_top.action='http://www.price-comparer.com/'+'search/'+param+'/'; 
+
+//document.frm_srch_top.action='http://search.price-comparer.com/results.php?q='+param; 
+}
+
+
+function blank_box1( )
+{
+	if(this.document.getElementById('search_data').value==""  || this.document.getElementById('search_data').value=="Find your product..."  || this.document.getElementById('search_data').value=="Find your product"   || this.document.getElementById('search_data').value=="Find your product.."   || this.document.getElementById('search_data').value=="Find your product.")
+		this.document.getElementById('search_data').value="";
+ 
+ 
+ 
+  //  Obj.style.padding-left = '5px';
+}
+
+
+
+</script>
 		
 		
 		
 		
 		
-        <div class="space"></div> 
+        <div class="space"></div>
        
         
-       
-		
-		
- 		
-		
-		<div id="container2">
-        
-        <div id="bred_group">
-                                        <div class="bredkrumb">
-                                                <ul style="display:none">
-                                                        <li><a href="#"><span>Home</span></a></li>
-                                                        <li><a href="#"><span>Shop</span></a></li>
-                                                        <li><span>Clothing</span></li>
-                                                </ul>
-												
-												<a class="text_bradcurm" href="http://www.price-comparer.com/">Home</a> » <a class="text_bradcurm" href="index.php?act=view_privacy_policys">Privacy Policy</a> 
-                                        </div>
-                                </div>
-                                
-			<div class="fulldiv">
-        		<div id="leftside">
+        <div id="container2">
+        		
+				<div id="leftside">
                 		<div class="leftmenu">
                         		<h1>Department</h1>
                                 <ul class="departments">
@@ -441,12 +454,9 @@ function chk_web()
 						<br>
 <!-- Search the web ends -->
                         
-                <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- price-comparer -->
-<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-3716562343214515" data-ad-slot="9436293910"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+                <!--START MERCHANT:merchant name CompSource (US) from affiliatewindow.com.-->
+                                            <a href="http://www.awin1.com/cread.php?s=303542&amp;v=4021&amp;q=143139&amp;r=75684" target="_blank"><img src="http://www.awin1.com/cshow.php?s=303542&amp;v=4021&amp;q=143139&amp;r=75684" border="0"></a>
+                                            <!--END MERCHANT:merchant name CompSource (US) from affiliatewindow.com-->
 						</div>
                 </div>
 				
@@ -458,8 +468,24 @@ function chk_web()
 				}
 				
 				</style>
-                
-              	
+				
+				
+				
+						 
+						 
+						 
+						 
+						 
+						 
+						 
+						 
+						 
+						  
+				
+				
+				
+				
+				
  <div id="rightside">   
                 		<div class="right_div">
                         		 
@@ -532,44 +558,23 @@ As a result, please remember to refer back to this Privacy Policy regularly to r
                         </tbody></table>
 						
 						</div></div>
-            </div>            
-                        
-                        
+				
+                
+                
         </div>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
    		
         <div id="footer">            		
                     		<div class="foot2">
                                 <div class="foot_menu">
-                            		<ul>	
-                                    		<li><a href="http://www.price-comparer.com/contactus/">Contact us</a></li>
-                                            <li><a href="http://www.price-comparer.com/disclaimer/">Disclaimer</a></li>
-                                            <li><a href="http://www.price-comparer.com/privacypolicy/">Privacy Policy</a></li>
+                            		
+									<ul>	
+                                    		<li><a href="http://www.price-comparer.com/contact-us.html">Contact us</a></li>
+                                            <li><a href="http://www.price-comparer.com/disclaimer.html">Disclaimer</a></li>
+                                            <li><a href="http://www.price-comparer.com/privacy-policy.html">Privacy Policy</a></li>
                                     </ul>
+									
+									
+									 
                             	</div>
                                 
                                 <div class="foot_details"><p>© 2013&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.price-comparer.com/">price-comparer.com</a>&nbsp;&nbsp;&nbsp;&nbsp;All Rights Reserved.</p></div>
@@ -578,6 +583,10 @@ As a result, please remember to refer back to this Privacy Policy regularly to r
         
              
 </div>	
+
+
+
+
 
 <script>
 
@@ -612,8 +621,8 @@ function set_blank(   obj )
 function compaer_product( prod_id )
 {
 		var s="";
-		if( "Search for your product"!=""  &&  "Search for your product"!="What are you searching for?"  )
-			s="&search_data=Search for your product";
+		if( ""!=""  &&  ""!="What are you searching for?"  )
+			s="&search_data=";
 	document.location.href="http://www.price-comparer.com/index.php?act=view_compare&prod_id="+prod_id + s;
 
 }
@@ -642,26 +651,4 @@ function search_product()
 
 </script>
 	
-	
-	
-	<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=9356751;
-var sc_invisible=1;
-var sc_security="eb8f02e7";
-var sc_https=1;
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><a title="website
-statistics" href="http://statcounter.com/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/9356751/0/eb8f02e7/1/"
-alt="website statistics"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
-	
-
 </body></html>
