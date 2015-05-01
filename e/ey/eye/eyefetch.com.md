@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyefetch.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219071231id_/http%3A//eyefetch.com/docs/privacy-en-us.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefetch.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501144019id_/http%3A//eyefetch.com/docs/privacy-en-us.aspx) for the most accurate reproduction.*
 
 # 
 
