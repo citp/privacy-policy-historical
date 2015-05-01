@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autel.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212041255id_/http%3A//www.autel.com/autelcms/privacy/532.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autel.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501151956id_/http%3A//www.autel.com/autelcms/privacy/532.jhtml) for the most accurate reproduction.*
 
 # Autel
 
