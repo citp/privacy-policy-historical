@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112183629id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkatrade.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501080709id_/http%3A//www.checkatrade.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Checkatrade: Privacy policy
 
-When you use **Checkatrade** you may need to provide us with personal information about yourself or perhaps other people. When you provide such information, you consent to the use by us of such information in accordance with the following privacy policy. If you send us information about another person, you confirm that you do so in good faith and with full accuracy to the best of your knowledge. 
+When you use **Checkatrade** you may need to provide us with personal information about yourself and perhaps other people. When you provide such information, you consent to the use by us of such information in accordance with the following privacy policy. If you send us information about another person, you confirm that you do so in good faith and with full accuracy to the best of your knowledge. 
+
+Checkatrade have formed a partnership with a number of local authorities trading standards department (“ **Partners** ”) 
 
 ## Your Information
 
-Unless we specifically notify you otherwise or you have elected otherwise, any information you provide to **Checkatrade** will only be used within **Checkatrade** and for the delivery of **Checkatrade** ’s services to you and/or your nominated acquaintances. **Checkatrade** will use the information for administration purposes and for the provision to you of any information and services that you have requested. We will only disclose your personal information without notice to you when we believe such disclosure to be required by law or regulation, or to be necessary to protect or defend the rights or property of **Checkatrade** or the safety of the public. 
+Unless we specifically notify you otherwise or you have elected otherwise, any information you provide (including any content you upload) to **Checkatrade** will only be used by **Checkatrade** or Partners to view, conduct vetting procedures and for the delivery of **Checkatrade** ’s services to you and/or your nominated acquaintances. **Checkatrade** will use the information for administration purposes and for the provision to you of any information and services that you have requested. We will only disclose your personal information without notice to you when we believe such disclosure to be required by law or regulation, or to be necessary to protect or defend the rights or property of **Checkatrade** or the safety of the public. 
 
-Members of the public submitting feedback about Checkatrade members will not have their details made public. However, the respective Checkatrade members will be made aware of the details privately where appropriate. 
+Members of the public submitting feedback about Checkatrade members will not have their details made public, but please note Partners may view this feedback and any content submitted. Furthermore, the respective Checkatrade members will be made aware of the details privately where appropriate. 
 
 We will only keep a record of your information for as long as is necessary for the purposes it was provided: for example, we will only hold your personal information on our systems for as long as you use the service that you have requested. We will ensure that all personal information supplied is held securely. 
 
@@ -64,18 +66,21 @@ We use these cookies to:
   * ASP.NET_SessionId
   * .ASPXAUTH
   * showFeedbackMap
+  * NoMobileRedirect
+  * LastSearch
+  * RecentlyViewedCompanies
 
   
   
 ### Sharing cookies
 
-We use sharing tools for _Facebook_ and _Twitter_ (such as the "like" button). These services may send you cookies from their websites. We don't directly control the setting of these cookies, but you can find out more about how they use and set cookies on their websites. 
+We use sharing tools for Facebook and Twitter (such as the "like" button). These services may send you cookies from their websites. We don't directly control the setting of these cookies, but you can find out more about how they use and set cookies on their websites. 
 
 ## Data Protection Compliance
 
-**Checkatrade** is a trading name of **Vetted Ltd**.
+**Checkatrade** is a trading name of **Vetted Ltd**. 
 
-Vetted Ltd is a company registered in England and Wales no. 04285394. Registered office: Unit 6 Sherrington Mews, Ellis Square, Selsey, Chichester, West Sussex, PO20 0FJ
+Vetted Ltd is a company registered in England and Wales no. 04285394. Registered office: Unit 6 Sherrington Mews, Ellis Square, Selsey, Chichester, West Sussex, PO20 0FJ. 
 
 In accordance with the Data Protection Act 1998, Vetted Ltd is registered as a data controller with the Information Commissioner's office. Registration number Z6851067. 
 
@@ -88,3 +93,5 @@ In order to provide you with the products and services you require, we may need 
 You have the right to receive a copy of the personal information that we hold about you. Access can be granted by means of a specific link and ID number which we can send to you upon request. We may charge a small fee towards the cost of administering any request you make. 
 
 If you wish to correct any information you have provided to us or if you have any questions about this privacy statement, the practices of this site, or your dealings with the site, [please contact us](https://web.archive.org/Contact/). 
+
+**(Revised: 2 January 2015)**
