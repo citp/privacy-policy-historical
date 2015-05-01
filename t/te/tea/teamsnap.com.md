@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121104102id_/http%3A//www.teamsnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502002907id_/https%3A//www.teamsnap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TeamSnap | Manage Your Team Online with TeamSnap's Free Sports Team Websites
 
@@ -100,7 +100,9 @@ Our Sites and Services may integrate with or contain links to other websites and
 
 #### Your California Privacy Rights
 
-S.B. 27, California Civil Code Section 1798.83, allows users who have provided personal information to us to request information about our disclosures of personal information to certain types of third parties. To request that information, please contact us at TeamSnap, 1401 Pearl St., Boulder, CO 80302.
+S.B. 27, California Civil Code Section 1798.83, allows users who have provided personal information to us to request information about our disclosures of personal information to certain types of third parties. To request that information, please contact us at TeamSnap, 1401 Pearl St., Boulder, CO 80302. 
+
+S.B. 568, titled “Privacy Rights for California Minors in the Digital World” allows California minors a right to delete content that they posted to a website, social media profile, or online service while under the age of 18. To request removal of any such content, please contact us at support@teamsnap.com.
 
 #### Changes
 
