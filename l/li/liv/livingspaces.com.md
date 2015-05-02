@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125621id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502093310id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Shop Furniture - Online Furniture Store - Same Day Delivery
 
-**Privacy Statement**
-
 Welcome to www.livingspaces.com and www.mylivingspaces.com. Please take a few minutes to review our Privacy Statements for these sites.
 
-This Statement of Privacy applies only to the websites of Living Spaces Furniture, located on the internet at www.livingspaces.com/www.mylivingspaces.com and governs data collection and usage. By using the Living Spaces Furniture website, you consent to the data practices described in this statement.   
+This Statement of Privacy applies only to the websites of Living Spaces Furniture, located on the internet at www.livingspaces.com/www.mylivingspaces.com and governs data collection and usage. By using the Living Spaces Furniture website, you consent to the data practices described in this statement. 
+
 Our postal address is:  
 Living Spaces Furniture  
 14501 Artesia Boulevard  
 La Mirada, CA 90638
 
-Email address: custservice@livingspaces.com  
-Telephones: (877) 266-7300 
+Telephone: (877) 266-7300 
 
   
 
