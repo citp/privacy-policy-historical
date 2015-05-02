@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycen.com.my privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234855id_/http%3A//www.mycen.com.my/centralegal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycen.com.my privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502110833id_/http%3A//www.mycen.com.my/centralegal.html) for the most accurate reproduction.*
 
 # MALAYSIA CENTRAL: Terms Of Use & Privacy Policy
 
