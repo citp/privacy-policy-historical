@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the putdrive.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620224014id_/http%3A//putdrive.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the putdrive.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502122349id_/http%3A//www.putdrive.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Free movies, your favorite music, cool software & games stored in your Dropbox, Googledrive, Skydrive!
 
