@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026235055id_/http%3A//www.coachhire.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502030451id_/http%3A//www.coachhire.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Coach Hire.com
 
@@ -60,6 +60,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to  **Coachhire.com**  , 83 Desford Way, Ashford, Middlesex. TW15 3AS
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to  **Coachhire.com  **551 Fairlie Road, Slough, Berkshire, SL1 4PY.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
