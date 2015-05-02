@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820234706id_/http%3A//www.fsb.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503015904id_/http%3A//www.fsb.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -13,13 +13,22 @@ The Federation of Small Businesses is the trading name of the National Federatio
 
 We have two associated companies, FSB (Member Services) Limited (company number 02875304 and Data Protection Act registration number Z7356601) and NFSE Sales Limited (company number 01222258 and Data Protection Act registration number Z7315310).
 
+  
+
+
 #### Contacting the FSB
 
-Questions about our Privacy Statement can be addressed to the "Data Protection Controller" at the above address. 
+Questions about our Privacy Statement can be addressed to the "Data Protection Controller" at the above address.
+
+  
+
 
 #### What we do
 
-The FSB exists to serve the interests of its Members and our core objectives are set out in our Memorandum and Articles of Association. FSB (Member Services) Ltd contracts with Service Providers, FSB Publications produces the FSB's journal, First Voice, and also acts as reseller or selected merchandise and FSB Recruitment provided Recruitment services. NFSE Sales Limited also acts as a reseller of selected merchandise and products.
+The FSB exists to serve the interests of its Members and our core objectives are set out in our Memorandum and Articles of Association.FSB (Member Services) Ltd contracts with Service Providers, FSB Publications produces the FSB's journal, First Voice, and also acts as reseller or selected merchandise and FSB Recruitment provided Recruitment services. NFSE Sales Limited also acts as a reseller of selected merchandise and products.
+
+  
+
 
 #### The Data Protection Act 1998
 
@@ -29,9 +38,12 @@ Personal data are defined as any information relating to a living individual fro
 
 The personal data that we collect consists mainly of Members' names, addresses and contact details and any other information necessary for us to be of service to our Members, including the necessary financial information required to maintain subscriptions and provide the facilities that our Members require.
 
+  
+
+
 #### Data processing
 
-Personal information is held on our database, in back-up form and in archive form. Hard copies of information on our database are occasionally made where necessary to provide our services. Photocopies may occasionally be made of manual records. 
+Personal information is held on our database, in back-up form and in archive form. Hard copies of information on our database are occasionally made where necessary to provide our services. Photocopies may occasionally be made of manual records.
 
 Access to our database is restricted through the use of passwords. Records may be retrieved, consulted, adapted, modified, copied or deleted from time to time. We will endeavour to take all reasonable steps to keep all data accurate and up to date but we rely upon our Members to inform us of any material changes
 
@@ -41,9 +53,27 @@ Information may be disclosed to approved third parties for marketing purposes. I
 
 We will maintain confidentiality in your information even after your Membership has ceased and aside from the categories already mentioned your information will not be disclosed to anyone else except where we are legally compelled to do so, where there is a duty to the public to disclose, where disclosure is necessary to protect the FSB's interests or where the disclosure is made with your consent or at your request.
 
+Information we may collect from you
+
+We may collect and process the following data about you:
+
+Information that you provide in order to purchase any other services via this Site Information you provide in order to enter a competition or promotion via this Site, complete a survey, or if you report a problem with this Site.
+
+Details of your visits to this Site (including, but not limited to, traffic data and location data) whether this is required for our own purposes or otherwise, and the resources that you access.
+
+If you contact us, we may keep a record of your email or other correspondence IP addresses
+
+We may collect information about your computer including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+
+  
+
+
 #### Access Rights
 
 On payment of a statutory fee of 10 pounds, you have the right to be informed of the information that we hold on you within 40 days. You also have the right to request that all inaccuracies be amended. All enquiries should be addressed to the "Data Protection Controller" at our Blackpool address.
+
+  
+
 
 #### Cookies
 
@@ -51,7 +81,7 @@ Cookies are small text files that are placed on your computer by websites that y
 
 The FSB requires cookies in order to operate fully. We also work with advertisers who place cookies on your computer to serve and target adverts more effectively when you visit the site.
 
-Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
+Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 Further information about the cookies used by the FSB is provided below.
 
@@ -63,8 +93,7 @@ Category 1: Strictly necessary cookies. These cookies are essential to allow us 
 
 Category 1 cookies used by the FSB:
 
-  * Login status - To identify you as being logged in to our website.  
-
+  * Login status - To identify you as being logged in to our website.
 
 
 
@@ -86,5 +115,4 @@ Category 3 cookies used by the FSB:
 
 
 
-The legislation in place as of 25th of May 2012 makes opt-in for non-essential cookies a requirement but the government has already backed off on issuing fines for now. Join the discussion on the [cookie directive](http://forum.fsb.org.uk/showthread.php?903-Important-EU-Rules-on-COOKIES).  
-
+The legislation in place as of 25th of May 2012 makes opt-in for non-essential cookies a requirement but the government has already backed off on issuing fines for now. Join the discussion on the [cookie directive](http://forum.fsb.org.uk/showthread.php?903-Important-EU-Rules-on-COOKIES).
