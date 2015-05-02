@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928000203id_/https%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502192234id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
