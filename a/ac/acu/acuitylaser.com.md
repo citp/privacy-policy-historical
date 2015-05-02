@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701235524id_/http%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502193140id_/http%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
 
 # Acuity Laser's Privacy Policy | Learn About Laser Measuring Devices
 
@@ -70,16 +70,8 @@ Should you have other questions or concerns about these privacy policies, please
 
 NEW PRODUCT
 
-NEW DEVICE:AR500 Laser Position Sensor
+NEW DEVICE:AR2000 Laser Distance Meter
 
-The AccuRange 500 Laser Position Sensors are fast and accurate measurement devices for integrated industrial measurement systems.
+The AR2000 specializes in measurement of hot surfaces, including hot, glowing steel. It is also excellent at measuring outdoors and in bright light conditions.
 
-[Learn More](https://web.archive.org/products/item/ar500-laser-position-sensor)
-
-[Blog & News](https://web.archive.org/blog)
-
-[Acuity White Light Confocal Medical Scans](https://web.archive.org/blog/post/acuity-white-light-confocal-medical-scans)
-
-June 20, 2014
-
-An Acuity medical customer is using the Initial 4.0 model to create a 3D scan of medical samples to measure the change in the surface features. The Initial 4.0 model uses a CL4 MG35 probe that has a standoff of 16 mm with a 4 mm measurement span and a resolution of 130 nanometers and a linearity of +/- 300 nanometers at up to 2,000 samples per second.
+[Learn More](https://web.archive.org/products/item/ar2000-laser-distance-meter)
