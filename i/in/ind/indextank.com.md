@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indextank.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702235852id_/http%3A//www.searchify.com/documentation/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indextank.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502082957id_/http%3A//www.searchify.com/documentation/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Searchify
 
