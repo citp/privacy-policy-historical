@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insurance21.in privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216004004id_/http%3A//www.insurance21.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance21.in privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502070242id_/http%3A//www.insurance21.in/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - www.insurance21.in
+# Privacy Policy :: www.insurance21.in
 
 Privacy Policy for www.insurance21.in 
 
