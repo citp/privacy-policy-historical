@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daikin.eu privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119124920id_/http%3A//www.daikin.eu/data-privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daikin.eu privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502135841id_/http%3A//www.daikin.eu/data-privacy-policy.jsp) for the most accurate reproduction.*
 
 # Data Privacy Policy | Daikin
 
