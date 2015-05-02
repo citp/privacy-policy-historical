@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadex.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002215720id_/http%3A//theadex.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadex.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502094629id_/http%3A//theadex.com/company/privacy) for the most accurate reproduction.*
 
 # The ADEX - Privacy Statement
 
@@ -46,4 +46,6 @@ We use administrated technology to perform our services via our clients, service
 
 To protect the retention and transferal of information from unauthorized access, we comply with generally recognized industry standards. This encompasses necessary physical, electronic and administrative measures which are required to protect data integrity, data access and data use. Each and every data saved on our server is treated as confidential. One must, however, take into account that our protective measures notwithstanding, a secure data transfer over the Internet cannot be guaranteed. Although we always strive to protect your data, we cannot promise absolute security.
 
-Should you have any questions regarding this statement, please feel free to contact us via mail or email.
+Should you have any questions regarding this statement, please feel free to contact us via mail or email:
+
+Mail@TheADEX.com
