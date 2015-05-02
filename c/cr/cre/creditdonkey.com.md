@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123072038id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502142433id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditDonkey
 
@@ -46,6 +46,7 @@
 | Resources |   
 | 
 
+  * [Hot Deals](http://www.creditdonkey.com/deals.html)
   * [Money Tips](http://www.creditdonkey.com/tip.html)
   * [Reviews and Ratings](http://www.creditdonkey.com/review.html)
   * [Like us on Facebook](https://www.facebook.com/CreditDonkey)
