@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosurefreesearch.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707152739id_/http%3A//www.foreclosurefreesearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosurefreesearch.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502234259id_/http%3A//www.foreclosurefreesearch.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Security Statement
 
