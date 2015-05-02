@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202161335id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/en_US/Experience-BEGlobalPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502112242id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/en_US/Experience-BEGlobalPolicy) for the most accurate reproduction.*
 
 # Global Privacy Policy
 
@@ -46,7 +46,7 @@ Back to top
 
 * Data collected from other sources
 
-Occasionally, we may obtain information about you from other sources. For example, we may hire a third party data aggregator to provide us additional information about our existing customers (this is known as “data appending”). We may also receive information from third party co-sponsors who we may partner with occasionally to run special promotions or giveaways. We may also receive information about customers in the event we acquire other companies. 
+Occasionally, we may obtain information about you from other sources. For example, we may hire a third party data aggregator or vendor to provide us additional information about our existing customers (this is known as “data appending”), including information from your profile or postings on a third party social network. We may also receive information from third party co-sponsors who we may partner with occasionally to run special promotions or giveaways. We may also receive information about customers in the event we acquire other companies. 
 
 Back to top
 
@@ -104,7 +104,7 @@ Back to top
 
 * Social network information
 
-This refers to any information that is part of your profile on a third party social network (such as Facebook) and that you allow the third party social network to share with us. Examples may include your basic account information (e.g., name, email address, profile picture, gender, birthday, current city, user ID, list of friends, etc.) and any other additional information or activities that you permit the third party social network to share with application developers. For example, we may receive your social network information (or parts of it) when you download or interact with a BE application on a social networking site (such as Facebook) or use a third party social networking feature that is integrated within a BE site (such as Facebook Connect). To learn more about how your social network information may be obtained by BE (or other application developers), please visit the website of the relevant third party social network. 
+This refers to any information that is part of your profile on a third party social network (such as Facebook) and that you allow the third party social network to share with us or that you post publicly. Examples may include your basic account information (e.g., name, email address, profile picture, gender, birthday, current city, user ID, list of friends, etc.) and any other additional information or activities that you permit the third party social network to share with application developers or that you post publicly on a BE social networking page. For example, we may receive your social network information (or parts of it) when you download or interact with a BE application on a social networking site (such as Facebook) or use a third party social networking feature that is integrated within a BE site (such as Facebook Connect). To learn more about how your social network information may be obtained by BE (or other application developers), please visit the website of the relevant third party social network. 
 
 Back to top
 
@@ -198,7 +198,7 @@ Back to top
 
 * Other general purposes (e.g., website security, internal research)
 
-We may collect and use your information for other general business purposes, such as to maintain the day-to-day operation and security of our websites and applications and to conduct internal marketing and demographic studies. These activities mostly require the collection and use of certain demographic information, technical computer information, website usage information, and customer feedback. 
+We may collect and use your information for other general business purposes, such as to maintain the day-to-day operation and security of our websites and applications and to conduct internal marketing and demographic studies. These activities mostly require the collection and use of certain personal information, demographic information, technical computer information, website usage information, and customer feedback. 
 
 Back to top
 
@@ -216,7 +216,7 @@ We may share your information with the types of companies or in the situations d
 
 Third party vendors
 
-These are outside vendors, agencies, or contractors we hire to help us run our business (e.g., fulfill orders, operate our websites, run promotions, operate our call center, etc.). The information shared with our vendors could include personal contact information, payment information, demographic information, or other types of information depending on the service being provided by the vendor. For some vendors, we may need to transfer your information to locations outside the United States. Our vendors are only allowed to use your information for the specific tasks we’ve hired them to do, and for no other purpose. They’re also required to keep your information confidential and secure.
+These are outside vendors, agencies, or contractors we hire to help us run our business (e.g., fulfill orders, operate our websites, run promotions and marketing campaigns, operate our call center, etc.). The information shared with our vendors could include personal contact information, payment information, demographic information, or other types of information depending on the service being provided by the vendor. For some vendors, we may need to transfer your information to locations outside the United States. Our vendors are only allowed to use your information for the specific tasks we’ve hired them to do, and for no other purpose. They’re also required to keep your information confidential and secure.
 
 Back to top
 
