@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govmint.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117145548id_/http%3A//www.govmint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govmint.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502091942id_/http%3A//www.govmint.com/privacy) for the most accurate reproduction.*
 
 # Privacy-Policy
 
