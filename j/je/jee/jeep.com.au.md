@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jeep.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701101302id_/http%3A//www.jeep.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeep.com.au privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502202452id_/http%3A//www.jeep.com.au/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 ## CHRYSLER AUSTRALIA PTY LTD trading as FIAT CHRYSLER GROUP  
 (Chrysler, Jeep, Dodge, Fiat, Alfa Romeo, Fiat Professional, Abarth, Mopar and SRT)  
@@ -255,7 +255,6 @@ At all times, CA strives to ensure your Personal Information is treated confiden
 
 For security reasons, we require that requests for Personal Information are provided in writing. Please provide as much detail as possible in relation to your question, concern or complaint to help us assist you. CA will endeavour to provide you with this access unless CA is required or authorised to refuse such access by the laws of Australia. All such enquiries should be directed to:
 
-Nick Ignatenko  
 Chief Security Officer  
 Chrysler Australia Pty Ltd  
 437 Plummer Street, Port Melbourne, VIC 3207. Australia  
