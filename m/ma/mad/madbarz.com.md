@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madbarz.com privacy policy that was archived on 2014-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140912152000id_/http%3A//madbarz.com/Terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madbarz.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502160457id_/http%3A//madbarz.com/Terms/Privacy) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our Service.
 
 When using the Service, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. 
 
-As a part of the Service we also might collect personal information about your excersise routines, diet, fitness and health status. The information is used as an essential part of the Service. 
+As a part of the Service we also might collect personal information about your exercise routines, diet, fitness and health status. The information is used as an essential part of the Service. 
 
 ## What do we use your information for?
 
@@ -22,6 +22,8 @@ Any of the information we collect from you may be used in one of the following w
 
 
 
+Note that when you share and communicate using our products and/or services (i.e. participate in discussions, respect and comment on other users’ workouts, etc.), the information you provide in that manner on our site and app will be publicly available to all other users of our services. In some cases, people you share and communicate with may download and/or re-share this content with others on and off our services. 
+
 ##  How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
@@ -30,11 +32,11 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 ##  Do we use cookies? 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to help us remember that you’ve logged into Tictiq, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to help us remember that you’ve logged into Madbarz, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
 ## Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to help us remember that you’ve logged into Madbarz, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 ## Third party links
 
@@ -42,7 +44,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ## Your Consent
 
-By using our site, you consent to our privacy policy. 
+By using our services and/or products, you consent to our privacy policy. 
 
 ##  Changes to our Privacy Policy
 
