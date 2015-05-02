@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024162732id_/http%3A//www.bikebandit.com/help/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502191810id_/http%3A//www.bikebandit.com/help/security) for the most accurate reproduction.*
 
 # BikeBandit.com Help and Customer Service
 
