@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrabulizer.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007224243id_/http%3A//www.scrabulizer.com/static/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrabulizer.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502063550id_/http%3A//www.scrabulizer.com/static/policy) for the most accurate reproduction.*
 
 # Disclaimer, Privacy and Cookies Policy - Scrabulizer
 
@@ -42,12 +42,10 @@ It is necessary to have cookies enabled in order to register an account or login
 
 Please see the links below for instructions on enabling, disabling and deleting cookies in your web browser: 
 
-  * [Chrome](https://support.google.com/chrome/bin/answer.py?answer=95647)
-  * [Firefox](http://support.mozilla.org/kb/Cookies)
-  * [Internet Explorer 6](http://support.microsoft.com/kb/283185)
-  * [Internet Explorer 7 and 8](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)
-  * [Internet Explorer 9](http://windows.microsoft.com/en-GB/windows7/How-to-manage-cookies-in-Internet-Explorer-9)
-  * [Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)
+  * [Chrome](https://support.google.com/chrome/answer/95647)
+  * [Firefox](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer)
+  * [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies)
+  * [Safari](https://support.apple.com/kb/PH19214)
 
 
 
@@ -59,8 +57,8 @@ The following cookies may be set by us when you visit scrabulizer.com:
 
 Name | Purpose | Expires  
 ---|---|---  
-Session Identifier |  Authentication information used to remember who you are logged in as within a single browser session.  |  Expires when you close your browser.   
-Remember Me |  This cookie will be set if you tick the remember me option when you log in. It enables you to be automatically logged back in when you return to the site.  |  Expires one year after it was set. Automatically deleted if you click logout.   
+`_scrabulizer_session` |  Used to store information about your interaction with the Scrabulizer website during a single browser session (primarily used to remember who you are when you log in).  |  Expires when you close your browser.   
+`remember_me` |  This cookie will be set if you tick the remember me option when you log in. It enables you to be automatically logged back in when you return to the site.  |  Expires one year after it was set. Automatically deleted if you click logout.   
   
 #### Third-Party Cookies
 
@@ -72,11 +70,11 @@ Google Analytics |  Cookies set by Google Analytics are used to collect informat
 
 [Google Analytics Privacy](https://www.google.com/analytics/learn/privacy.html)
 
-[Cookies set by Google Analytics](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet)  
+[Cookies set by Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage#gajs)  
   
 AddThis |  Scrabulizer includes links provided by AddThis. Cookie set by AddThis are used to store your preferences relating to the AddThis service and to collect information about links shared on social network sites.  |  [AddThis Privacy Information](http://www.addthis.com/privacy)  
 Twitter |  Scrabulizer includes widgets from Twitter. Twitter widgets use cookies to tailor content to you and to collect aggregated statistics relating to the use of Twitter services.  |  [Twitter Privacy Policy](https://twitter.com/privacy)  
-Third-Party Advertisers |  Scrabulizer shows advertising provided by third-party advertising companies. These companies may use cookies to track your preferences and usage patterns in order to tailor advertising to your interests.  |  [Network Advertising Initiative - Managing Your Privacy](http://www.networkadvertising.org/managing/)  
+Third-Party Advertisers |  Scrabulizer shows advertising provided by third-party advertising companies. These companies may use cookies to track your preferences and usage patterns in order to tailor advertising to your interests.  |  [Digital Advertising Alliance - Understanding Online Advertising](http://www.aboutads.info/consumers)  
   
 ### Third-Party Advertising
 
