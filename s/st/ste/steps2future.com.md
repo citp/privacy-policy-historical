@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steps2future.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108223656id_/http%3A//www.steps2future.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steps2future.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503002002id_/http%3A//www.steps2future.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Steps2Future
 
