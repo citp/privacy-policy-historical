@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperseries.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221074202id_/http%3A//www.wallpaperseries.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperseries.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502160743id_/http%3A//www.wallpaperseries.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wallpaper Series
 
