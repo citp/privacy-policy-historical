@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kissusa.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217131509id_/http%3A//www.kissusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissusa.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502223556id_/http%3A//www.kissusa.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Kiss
+# Privacy Policy
 
 This is the web site of Kiss Products, Inc. Kiss Products, Inc. has adopted this Privacy Statement in order to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Statement and your consent to the practices it describes.
 
@@ -72,9 +72,6 @@ Kissusa.com allows you to change, update, or delete the information you may prov
 
 If you have questions about this privacy statement, the information practices of kissusa.com or your dealings with kissusa.com, please contact:
 
-Kiss Products, Inc.  
-Customer Service  
-57 Seaview Boulevard  
-Port Washington, NY 11050
+Kiss Products, Inc. Customer Service 57 Seaview Boulevard Port Washington, NY 11050
 
 We can also be reached via e-mail at [customerservice@kissusa.com](mailto:%20customerservice@kissusa.com)
