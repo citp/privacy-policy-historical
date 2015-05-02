@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizfreak.co.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224103827id_/http%3A//www.quizfreak.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizfreak.co.uk privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502165943id_/http%3A//www.quizfreak.co.uk/privacy) for the most accurate reproduction.*
 
 # Quizfreak
 
@@ -65,8 +65,3 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **Your Consent**
 
 By using our site, you consent to our privacy policy.
-
-  
-
-
-[**Quizfreak.co.uk**](http://www.quizfreak.co.uk/) © 2014 - All rights reserved. 
