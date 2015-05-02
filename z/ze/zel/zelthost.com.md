@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zelthost.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318193328id_/http%3A//www.zelthost.com/privecy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zelthost.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502070604id_/http%3A//www.zelthost.com/privecy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Information by ZeltHost Network™
+# Privacy Policy Information by ZeltHost™ Network
 
 ## Introduction
 
