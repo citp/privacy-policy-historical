@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redoute.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055443id_/http%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redoute.co.uk privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502200529id_/http%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # La Redoute, French Style Made Easy: | La Redoute
 
@@ -65,16 +65,15 @@ We will send you our seasonal catalogue whilst you have an active account with u
   We may also use your information, including shopping habits, for marketing as set out below. If you do not wish to be contacted for marketing purposes, please see the section below headed “How to unsubscribe from marketing”.
 
   * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as La Redoute or as other brands we operate, e.g. Daxon.
-  * We may contact you by mail, telephone, email or any other reasonable method to introduce products offered for sale by other La Redoute Group members and carefully selected third parties.
+  * We may contact you by mail, telephone, email or any other reasonable method to introduce products offered for sale by other La Redoute Group members.
   * We may share your details with other members of the La Redoute Group and those members may contact you by mail, telephone, email or any other reasonable method.
   * We may share your detail with our former sister companies, Vertbaudet and Daxon.
-  * We may share your details with carefully selected third parties and those organisations may contact you by mail. We will not allow such organisations to contact you by email or telephone unless you have given us express permission for us to do so.
 
 
 
 **How to unsubscribe from marketing**
 
-  If you decide at any time that you do not wish to be contacted for marketing purposes by La Redoute or you decide that you do not wish La Redoute to share information for marketing purposes with other brands we operate from time to time, with other members of the La Redoute Group , with Vertbaudet and Daxon, or with carefully selected third parties, you can unsubscribe easily by following the instructions below.
+  If you decide at any time that you do not wish to be contacted for marketing purposes by La Redoute or you decide that you do not wish La Redoute to share information for marketing purposes with other brands we operate from time to time, with other members of the La Redoute Group , with Vertbaudet and Daxon, you can unsubscribe easily by following the instructions below.
 
   **Marketing from La Redoute, our other brands or other La Redoute Group members**
 
@@ -89,7 +88,7 @@ You will also have the opportunity to unsubscribe via each marketing email sent 
 
   Note: If you unsubscribe from mail from a brand, you may no longer receive a catalogue from that brand, e.g. unsubscribing from mail from La Redoute may mean you no longer receive a La Redoute catalogue.
 
-  **Marketing from Vertbaudet, Daxon and other carefully selected third parties**
+  **Marketing from Vertbaudet or Daxon**
 
   Please write to us, telephone our Customer Care Team or email us with “no third party marketing” as the subject heading and your name and customer reference number in the message box. Please state as follows:- 
 
@@ -115,6 +114,8 @@ You can obtain further information about cookies from [www.aboutcookies.org](htt
 All the information above is transmitted securely using SSL encryption. This means that the information is sent in such a way that, in the extremely unlikely event that someone is somehow able to obtain this information, only we can decode the information to obtain your details. This is done by encrypting the data between your computer and our server. We encrypt the data using a certificate provided by a trusted third party, Verisign. For more details, click on the Verisign logo.
 
 You can tell that the data is encrypted as the address in your browser will change from http:// to https:// and a small padlock icon will appear at the bottom of your browser window. This is your guarantee that you can send your details to us with confidence.
+
+We use Criteo’s service to find visitors of our advertising clients’ properties and send them personalized emails or serve them personalized ads. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Display [click here.](http://privacy.criteoemail.com/gb/privacy-policy.html)
 
 We are required by the Data Protection Act 1998 to follow strict security procedures in how we store and disclose information. You may be assured that we will adhere to these procedures with your personal details.
 
