@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012180834id_/http%3A//www.etc.in/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502090358id_/http%3A//www.etc.in/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: ETC Channel Official Website: Bollywood, Bollywood News, Movie Reviews, Latest Trailers, Actors, Actress, Latest Posters, Komal Nahta
 
