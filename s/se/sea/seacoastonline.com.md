@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seacoastonline.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230105258id_/http%3A//www.localmediagroupinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seacoastonline.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502193548id_/http%3A//www.localmediagroupinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Local Media Group, Inc.
 
