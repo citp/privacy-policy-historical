@@ -1,264 +1,95 @@
-<!--The following is the downloaded HTML source of the filemarkets.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627192344id_/http%3A//www.yunfile.com/user/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filemarkets.com privacy policy that was archived on 2015-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150502172522id_/http%3A//www.yunfile.com/user/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Yunfile.com - Free File Hosting and Sharing, Permanently Save </title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="description" content="File Hosting, Free File Hosting, Forever Profit Share, Free Storage, Permanently Save, Downloading Earn, Unlimited Downloading Speed and Bandwith ">
-	<meta name="keywords" content="File Hosting | Free File Hosting | Permanently Save | Unlimited Downloading Speed and Bandwidth | Netdrive | Internet Drive | Earn from Internet Dive | Internet Earn | Download and Earn | Forever Profit Share ">
-	<style type="text/css">@import url( http://img.yfdisk.com/templates/yunfile/skin/style1/css/main.css?version=20140408a );</style>
-	<script type="text/javascript" src="http://img.yfdisk.com/templates/yunfile/js/jquery.js?version=20140408a"></script>
+<meta property="qc:admins" content="25103324276156614563757">
+	
+			<title>Yunfile.com - Free File Hosting and Sharing, Permanently Save </title>
+			<meta name="description" content="File Hosting, Free File Hosting, Forever Profit Share, Free Storage, Permanently Save, Downloading Earn, Unlimited Downloading Speed and Bandwith ">
+			<meta name="keywords" content="File Hosting | Free File Hosting | Permanently Save | Unlimited Downloading Speed and Bandwidth | Netdrive | Internet Drive | Earn from Internet Dive | Internet Earn | Download and Earn | Forever Profit Share ">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link href="http://img.yfdisk.com/templates/yunfile/skyblue/css/skyblue.css?version=0428" rel="stylesheet">
+	<script type="text/javascript" src="http://img.yfdisk.com/templates/yunfile/classic/js/jquery.js?version=0428"></script>
+	<script type="text/javascript" src="http://img.yfdisk.com/templates/yunfile/skyblue/js/skyblue.js?version=0428"></script>
 </head>
 
-<body class="body">
+<body id="skyblue_body">
+	<div id="skyblue_header">
 
-<div id="header">
-	<a href="http://www.yunfile.com/"><img src="http://img.yfdisk.com/images/logo1.jpg" class="logo" alt="YunFile.com"></a> 
-	<div id="login_box">
-		<!--form action="http://www.yunfile.com/view?module=member&action=validateLogin&returnPath=/" class="login" method="post" id="login_form"-->
-		<form action="/view" class="login" method="post" id="login_form" onsubmit="return check_login();">
-		<input type="hidden" name="module" value="member">
-		<input type="hidden" name="action" value="validateLogin">
+	<style>
+	.third_party_login_div{float:left;background:url(http://img.yfdisk.com/templates/default/images/foreign_login.png?version=0428);height:30px;width:170px;background-repeat:no-repeat;}
+	.login_right{padding-left:22px;margin-left: 164px;}
+	</style>
+	<div id="skyblue_dlg"></div>
+	<div id="login_registBox">
+        <div id="dialog_title">
+			<span id="ui_dialog_title">Login</span>
+			<span id="ui_dialog_close" class="ui_dialog_close" onclick="dialog_Close()" style="font-size: 24px; font-weight: bold">×</span>
+        </div>
 
-
-			<table class="tform">
+       <!--登录窗口区域-->
+        <div id="loginBox">
+            <form id="login_form" action="/view" method="post" onsubmit="return check_login();">
+			<input type="hidden" name="module" value="member">
+			<input type="hidden" name="action" value="validateLogin">
+		    <!--  keep at this page ,after logined. -->
+			<input type="hidden" id="returnPath1" name="returnPath" value="">
+			<div class="login_left" style="float:left;margin-left:-16px;_margin-left:0px;">
+			other login
+			<div style="margin-top:20px;">
+			<a id="third_party_login_facebook" href="http://www.yunfile.com/socialauth/login.html?return_url=https://web.archive.org/web/20150502172522id_/http%3A//www.yunfile.com/user/privacy.html&amp;id=facebook">
+			<div class="third_party_login_div" style="background-position:0 -53px;"></div><br><br><br>
+			</a>
+			<a id="third_party_login_yahoo" href="http://www.yunfile.com/socialauth/login.html?return_url=https://web.archive.org/web/20150502172522id_/http%3A//www.yunfile.com/user/privacy.html&amp;id=yahoo" style="margin-top:20px;">
+			<div class="third_party_login_div" style="background-position:0 -137px;"></div><br><br><br>
+			</a>
+			<a id="third_party_login_twitter" href="http://www.yunfile.com/socialauth/login.html?return_url=https://web.archive.org/web/20150502172522id_/http%3A//www.yunfile.com/user/privacy.html&amp;id=twitter" style="margin-top: 20px; display: none;">
+			<div class="third_party_login_div" style="background-position:0 -7px;"></div><br><br><br>
+			</a>
+			<a id="third_party_login_google" href="http://www.yunfile.com/socialauth/login.html?return_url=https://web.archive.org/web/20150502172522id_/http%3A//www.yunfile.com/user/privacy.html&amp;id=google" style="margin-top: 20px; display: none;">
+			<div class="third_party_login_div" style="background-position:0 -223px;"></div><br><br><br>
+			</a>
+			</div>
+			<div style="clear:both"></div>
+			</div>
+			<div class="login_right">
+			<table id="loginBoxTb">
 				<tbody><tr>
-					<td class="tright"><label>
-					User:
-					</label></td>
-					<td colspan="2"><div class="pre_input"><input type="text" class="text" name="username" id="login_userid"></div></td>
+					<td class="login_username"><label style="line-height: 25px;">User Name:</label></td>
+					<td><input type="text" class="LoginText" name="username" id="login_userid" tabindex="10"></td>
 				</tr>
 				<tr>
-					<td class="tright" style="padding-bottom:3px; padding-top:0px;"><label>Password:</label></td>
-					<td colspan="2" style="padding-bottom:3px; padding-top:0px;"><div class="pre_input"><input type="password" class="text" name="password" id="login_password"></div></td>
-			  </tr>
-                <tr>
-						<td style="padding-bottom:3px; padding-top:0px;line-height:15px;"></td>
-						<td style="padding-bottom:3px; padding-top:0px; line-height:15px;">
-							<input name="remember" id="remember_checkbox" type="checkbox" class="check" checked="checked" style="margin-top: 2px;"> Keep me signed in &nbsp;&nbsp;
-						</td>
-						<td style="padding-bottom:3px; padding-top:0px; line-height:15px;">
-							<a href="http://www.yunfile.com/user/lostPassword.html" target="_blank" style="padding-bottom:4px;">forget Password</a>
-						</td>
-                </tr>
-				<tr>
-					<td></td>
-					<td><button type="button" onclick="javascript:window.location.href='http://www.yunfile.com/member/insert/.html'">Register </button></td>
-					<td class="tright"><button type="submit">Sign in </button></td>
+					<td><label style="line-height: 25px;">Password:</label></td>
+					<td><input type="password" class="LoginText" name="password" id="login_password" tabindex="11"></td>
 				</tr>
 			</tbody></table>
-	  </form>
-	</div>
-	
-	<div id="menu">
-		<ul>
-					<li><a href="http://www.yunfile.com/" class="current">Home </a></li>
-			<li><a href="http://www.yunfile.com/user/premiumMembership.html">Premium Membership</a></li>
-			<li><a href="http://www.yunfile.com/member/insert.html">Register</a></li>
-			<li>
-				<a href="http://www.moreforum.com" target="_blank" title="Free create forum of yourself">Create Forum
-				</a>
-			</li>
-		</ul>
-	</div>
-	<div class="menu" id="submenu">
-		<div>
-		<div class="lang" id="lang">
-			<img id="language_img" onclick="language_img_onclick();" alt="" class="lngen" src="http://img.yunfile.com/templates/yunfile/images/blank.gif" style="background-position: -1px 0px;">
-			<div id="lang_list">			
-			<p onclick="change_language(true, 'en_us')" class="lngen"></p>
-			<p onclick="change_language(true, 'zh_cn')" class="lngcn"></p>
-			<p onclick="change_language(true, 'zh_tw')" class="lngtw"></p>
-			<p onclick="change_language(true, 'ja_jp')" class="lngjp"></p>
+			<div style="height: 46px;">
+				<div style="float:left"><input type="submit" name="LoginButton" id="LoginButton" value="Login">
+				</div>	
+				<div style="float:left;margin:6px 0 0 16px">
+					<input name="remember" type="checkbox" checked="checked">
+				</div>
+				<div style="float:left;margin-top:6px;" class="rememberme">
+					<label>remember me</label>
+					 
+				</div>
+			<div style="clear:both;"></div>
 			</div>
-		</div>
+			<div><a href="http://www.yunfile.com/user/lostPassword.html" target="_blank">Forgot password</a><a href="http://www.yunfile.com/member/insert.html" target="_blank" style="margin-left:12px;">Registration</a></div>
+			</div>
+            </form>
+        </div>
+    </div>
+<script type="text/javascript">
+		var returnPath = document.getElementById("login_returnPath");
+		var LoginHref = "http://www.yunfile.com/socialauth/login.html";
+			document.getElementById("third_party_login_facebook").href=LoginHref+"?return_url="+window.location.href+"&id=facebook";
+			document.getElementById("third_party_login_twitter").href=LoginHref+"?return_url="+window.location.href+"&id=twitter";
+			document.getElementById("third_party_login_yahoo").href=LoginHref+"?return_url="+window.location.href+"&id=yahoo";
+			document.getElementById("third_party_login_google").href=LoginHref+"?return_url="+window.location.href+"&id=google";
 
-
-		</div>
-	</div><script language="javascript">
-var oldActiveMenu;
-
-function active_menu(url){
-	var mainMenu = document.getElementById("menu");
-	var menus = mainMenu.getElementsByTagName("a");
-	var menu;
-	if(!url) url = window.location.href;
-	var currUrl = url;
-	oldActiveMenu = menus[0];
-	for (var i=0; i<menus.length; i++) {
-		menu = menus[i];
-		if(currUrl==menu.href){
-			menu.className = "current";
-			if(menu!=oldActiveMenu){
-				oldActiveMenu.className = "";
-			}
-			oldActiveMenu = menu;
-			break;
-		}
-	}
-}
-var oldActiveSubMenu;
-function active_submenu(){
-	var subMenu = document.getElementById("sub_menu");
-	if(!subMenu) return;
-	var menus = subMenu.getElementsByTagName("a");
-	var menu;
-	var menuUrl;
-	var newMenuUrl;
-	var currUrl = window.location.href;
-	var arr;
-	var newCurrUrl;
-	if(currUrl.indexOf("module")!=-1 && currUrl.indexOf("action")!=-1){
-		arr=currUrl.split("&");
-		newCurrUrl=arr[1];
-	}
-	oldActiveSubMenu = menus[0];
-	for (var i=0; i<menus.length; i++) {
-		menu = menus[i];
-		menuUrl = menu.href;
-		if(menuUrl.indexOf("module")!=-1 && menuUrl.indexOf("action")!=-1){
-			arr=menuUrl.split("&");
-			newMenuUrl=arr[1];
-			if(newMenuUrl==newCurrUrl){
-				menu.parentNode.className = "active";
-				if(i==0) 
-					menu.parentNode.className = "active first";
-				if(menu!=oldActiveSubMenu){
-					oldActiveSubMenu.parentNode.className = "";
-					if(oldActiveSubMenu==menus[0])
-						oldActiveSubMenu.parentNode.className = "first";
-				}
-				oldActiveSubMenu = menu;
-				break;
-			}
-		}
-		else{
-			if(currUrl==menuUrl){
-			menu.parentNode.className = "active";
-			if(i==0) 
-				menu.parentNode.className = "active first";
-			if(menu!=oldActiveSubMenu){
-				oldActiveSubMenu.parentNode.className = "";
-				if(oldActiveSubMenu==menus[0])
-					oldActiveSubMenu.parentNode.className = "first";
-			}
-			oldActiveSubMenu = menu;
-			break;
-		}
-		}
-	}
-
-	oldActiveSubMenu = menus[0];
-	for (var i=0; i<menus.length; i++) {
-		menu = menus[i];
-		if(currUrl==menu.href){
-			menu.parentNode.className = "active";
-			if(i==0) 
-				menu.parentNode.className = "active first";
-			if(menu!=oldActiveSubMenu){
-				oldActiveSubMenu.parentNode.className = "";
-				if(oldActiveSubMenu==menus[0])
-					oldActiveSubMenu.parentNode.className = "first";
-			}
-			oldActiveSubMenu = menu;
-			break;
-		}
-	}
-}
-active_menu();
-</script>
-
-<script language="javascript">
-
-	function change_language(refresh, lang)
-	{
-		var lang_idx = langlist[lang];
-		if(!lang_idx) {
-			lang_idx = 1;
-			lang = "en_us";
-		}		
-		var pos = (lang_idx-1)*21;
-		document.getElementById("language_img").style.backgroundPosition="-1px -" + pos + "px";
-		if(refresh){
-			setCookie("language", lang);
-			window.location.reload();			
-		}
-	
-	}
-
-function getRealLeft(el){
-	var L=0;
-	var tempEl = document.getElementById(el);
-	while(tempEl.parentNode){
-		L+= ( tempEl .offsetLeft)? tempEl .offsetLeft: 0;
-		if(tempEl == document.body) break;
-		tempEl = tempEl .parentNode;
-	}
-	return L;
-}
-
-function language_img_onclick (){
-	var lang = document.getElementById('lang');
-	if (lang.className!="lang")
-		lang.className = "lang";
-	else
-		lang.className += ' show_lang';
-
-	document.onmouseup = function (e)
-	{
-			var lang = document.getElementById('lang');
-			lang.className = "lang";
-	}
-/*	这句会造成IE左边的像素有好几千，所以在IE下，语言选项卡在右边看不到
-
-	document.getElementById('lang_list').style.left = getRealLeft("lang");*/
-
-}
-
-function setCookie(name, value, times)
-{
-    var Days = 30*24*60*60*1000;
-	var exp  = new Date();
-	if(!times) times = Days;
-    exp.setTime(exp.getTime() + times);
-    document.cookie = name + "="+ escape (value) + ";path=/;domain=.yunfile.com;expires=" + exp.toGMTString();
-	
-
-}
-
-function getCookie(name)
-{
-    var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
-     if(arr != null) return unescape(arr[2]); return null;
-
-}
-function delCookie(name)
-{
-    var exp = new Date();
-	var Days = 90;
-    exp.setTime(exp.getTime() - Days*24*60*60*1000);
-    var cval=getCookie(name);
-    if(cval!=null) document.cookie= name + "="+cval+";expires="+exp.toGMTString();
-}
-var langlist = {"en_us": 1, "de_de": 2, "fr_fr": 3, "es_es": 4, "pt_pt": 5, "nl_nl": 6, "it_it": 7, "zh_cn": 8, "zh_tw": 9, "ja_jp": 10, "ko_kr": 11, "ru_ru": 12, "": 13, "": 14, "": 15, "tr_tr": 16, "": 17, "": 18, "pl_pl": 19, "cz_cz": 20, "hr_hr": 25, "bg_bg": 26, "hu_hu": 27, "ro_ro": 28, "sr_yu": 29};
-
-function loadUserLanguage(){
-	var language =  "en_us";
-	change_language(false, language);
-}
-loadUserLanguage();
-</script>
-
-<!--
-<div class="gonggao">
-	<p   class="dongtai">
-	Message:
-	</p>
-</div>
-<br>
--->
-
-<script>
+			document.getElementById("third_party_login_twitter").style.display="none";
+			document.getElementById("third_party_login_google").style.display="none";
 function check_login(){
 	var userName =document.getElementById("login_userid");
 	var passWord =document.getElementById("login_password");
@@ -275,10 +106,166 @@ function check_login(){
 	}
 	return true;
 }
-</script><!--zhu ti -->
-</div>
-<div id="main">
-	<div class="bb"><div class="lt"><div class="rb"><div class="rt"><div class="lb"><div class="page">
+</script>
+
+	<div id="membersDiv">
+		<div id="LoGoDiv" style="background: url('http://img.yfdisk.com/images/logo2.png');" onclick="location.href='http://www.yunfile.com/';"></div>
+			<div id="LoginDiv" class="logindiv">
+				<a href="javascript:void(0)" onclick="redirectToReg('http://www.yunfile.com/')" style="font-size: 18px; cursor:pointer">
+				Sign up</a>&nbsp;
+				or&nbsp;	
+				<a onclick="dialog_Open();" style="font-size: 14px; cursor:pointer">
+				Log in</a>
+			</div>
+	<div class="menu" id="submenu">
+		<div>
+		<div class="lang" id="lang" onmouseover="showhlist('lang_list')" onmouseout="hidelist('lang_list')">
+			<img id="language_img" onclick="language_img_onclick();" alt="" class="lngen" src="http://img.yfdisk.com/templates/yunfile/skyblue/images/blank.gif" style="background-position: 0px -1px;">
+			<div id="lang_list">			
+			<p onclick="change_language(true, 'en_us')" class="lngen"></p>
+			<p onclick="change_language(true, 'zh_cn')" class="lngcn"></p>
+			<p onclick="change_language(true, 'zh_tw')" class="lngtw"></p>
+			<p onclick="change_language(true, 'ja_jp')" class="lngjp"></p>
+			</div>
+		</div>
+
+
+		</div>
+	</div>
+<script>
+	function showhlist(id){
+		document.getElementById(id).style.display ='block';
+	}
+	function hidelist(id){
+		document.getElementById(id).style.display ='none';
+	}
+	var pos ="0";
+	document.getElementById("language_img").style.backgroundPosition="0px -" + pos + "px";
+</script><script type="text/javascript">
+
+function change_language(refresh, lang){
+	var lang_idx = langlist[lang];
+	if(!lang_idx) {
+		lang_idx = 1;
+		lang = "en_us";
+	}		
+	var pos = (lang_idx-1)*21+1;
+	document.getElementById("language_img").style.backgroundPosition="0px -" + pos + "px";
+	if(refresh){
+		setCookie("language", lang);
+		window.location.reload();			
+	}
+}
+
+/*function getRealLeft(el){
+	var L=0;
+	var tempEl = document.getElementById(el);
+	while(tempEl.parentNode){
+		L+= ( tempEl .offsetLeft)? tempEl .offsetLeft: 0;
+		if(tempEl == document.body) break;
+		tempEl = tempEl .parentNode;
+	}
+	return L;
+}*/
+
+function language_img_onclick (){
+	var lang = document.getElementById('lang');
+	if (lang.className!="lang"){
+		lang.className = "lang";
+	}
+	else{
+		lang.className += " show_lang";
+	}
+	document.onmouseup = function (e){
+		var lang = document.getElementById('lang');
+		lang.className = "lang";
+	}
+/*	zhe yi ju hui rang IE left px>jiqian��zai ie xia jiang kanbudao qiehuan yuyan xuan xiang
+	document.getElementById('lang_list').style.left = getRealLeft("lang");*/
+}
+
+function setCookie(name, value, times){
+    var Days = 30*24*60*60*1000;
+	var exp  = new Date();
+	if(!times) times = Days;
+    exp.setTime(exp.getTime() + times);
+    document.cookie = name + "="+ escape (value) + ";path=/;domain=.yunfile.com;expires=" + exp.toGMTString();
+}
+
+function getCookie(name){
+     var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+     if(arr != null) return unescape(arr[2]); return null;
+}
+
+function delCookie(name){
+    var exp = new Date();
+	var Days = 90;
+    exp.setTime(exp.getTime() - Days*24*60*60*1000);
+    var cval=getCookie(name);
+    if(cval!=null) document.cookie= name + "="+cval+";expires="+exp.toGMTString();
+}
+
+var langlist = {"en_us": 1, "zh_cn": 2, "zh_tw": 3, "ja_jp": 4};
+
+function loadUserLanguage(){
+	var language =  "en_us";
+	change_language(false, language);
+}
+
+loadUserLanguage();
+
+
+function lang_hover(obj, num){
+	if(obj){
+		var pxSize = (parseInt(num) ==1 ?  "0" : "-1")+"px"; 
+		obj.style.marginTop = pxSize;
+	}
+}
+</script>
+	</div>
+	<style>
+			.menudiv .msgTips {margin-left: 20px;}
+			.menudiv .msgTips {margin-left: 75px\0;}
+		#yunweibo{float:right;margin-top:14px;}
+	</style>
+	<div id="MenuDiv">
+		<div id="MenuDiv_">
+			<div class="menudiv" id="menudiv1">
+				<a href="http://www.yunfile.com/">Upload</a> 
+			</div>
+				<div class="menudiv">
+					<a href="http://www.yunfile.com/member/insert.html">Registration</a>
+				</div>
+				<div class="menudiv">
+					<a href="http://www.yunfile.com/user/premiumMembership.html">Premium</a>
+				</div>
+			<div class="menudiv">
+				<a href="http://www.yunfile.com/user/forPartners.html">Earn</a>
+			</div>
+					<div class="menudiv">
+						<a href="http://www.moreforum.com" target="_blank" title="Free create forum of yourself">Create Forum
+						</a>
+					</div>
+				<div class="menudiv">
+					<a href="http://www.yunfile.com/lasted/files/all.html">New Files</a>
+				</div>
+				<div id="SkypeDiv">
+					<a target="_blank" href="skype:yunfile.com?chat"><img style="" src="http://img.yfdisk.com/templates/default/images/social_skype2.png"></a>
+				</div>
+		</div>
+	</div>
+
+
+
+
+
+	</div>
+		<div id="skyblue_content">
+<!--zhu ti -->
+
+<div>
+	<center><a href="http://www.yunfile.com/user/forPartners.html" target="_blank"><img src="http://i5.howbbs.net/bbspic/storeReal/1c/56/1c5697bed1ce1bf08f22a670c4fb070b.png"></a></center>
+</div><div class="page">
 
 <h2>YunFile.com Privacy policy </h2>
 <br>
@@ -317,26 +304,27 @@ If any part of the YunFile.com website links you to other websites, those websit
 
 <h3>Contact information</h3>
 Should you have any questions or concerns regarding this Privacy Policy, please contact us. </div>
-	</div></div></div></div></div>
-</div>
+		</div>		<div id="skyblue_bottom">
+			<span class="copy">Copyright © 2010-2015 YunFile.com.</span>
+			<span class="copy" id="bottomspan">
+				<a href="http://www.yunfile.com/user/terms.html">Terms &amp; Conditions</a>&nbsp;&nbsp;
+				<a href="http://www.yunfile.com/user/privacy.html">Privacy Policy</a>&nbsp;&nbsp;
+				<a href="http://www.yunfile.com/user/copyright.html">Copyright</a>&nbsp;&nbsp;
+				<a href="http://www.yunfile.com/user/faq.html">F&amp;Q</a>&nbsp;&nbsp;
+				<a href="http://www.yunfile.com/user/support.html">Support</a>&nbsp;&nbsp;
+					<a href="http://www.yunfile.com/member/fileCheck.html">Link Checker</a>
+			</span>
+			<div style="clear:both;"></div>
 
-<!--zhu ye di bu  -->
-<div id="footer">
-	<span class="copy">Copyright © 2010-2014 YunFile.com. </span>
-	<ul>
-		<li><a href="http://www.yunfile.com/user/terms.html">Terms &amp; Conditions</a></li>
-		<li><a href="http://www.yunfile.com/user/privacy.html">Privacy Policy</a></li>
-<!--		<li><a href="http://www.yunfile.com/user/sla.html">SLA</a></li>-->
-		<li><a href="http://www.yunfile.com/user/copyright.html">Copyright</a></li>
-		<li><a href="http://www.yunfile.com/user/faq.html">F&amp;Q</a></li>
-		<li><a href="http://www.yunfile.com/user/support.html">Support</a></li>
-	</ul>
-</div>
+				<div class="social" style="float:right;margin-top:10px;">
+					<div style="float:right;">
+						<a href="https://twitter.com/YunFilefree" class="twitter" target="_blank"></a>&nbsp;
+						<a href="https://www.facebook.com/pages/Yunfile%E7%B6%B2%E8%B3%BA%E7%B6%B2%E7%9B%A4/546226775464959" class="fb" target="_blank" style="margin:-14px 0px 0px 5px"></a>
+					</div>
+					<div class="copy" style="float:right;margin-top:10px;">Follow Us:&nbsp;</div>
+				</div>
+				<div style="clear:both;"></div>
+		</div>
 
-
-
-<script>
-	active_submenu();
-</script>
 
 </body></html>
