@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the gymshark.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165440id_/http%3A//www.gymshark.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gymshark.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502115322id_/http%3A//www.gymshark.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GymShark International | Innovation In Fitness Wear
 
-* ##  WHAT INFORMATION WE COLLECT
+### Privacy Policy
 
+  * ##  WHAT INFORMATION WE COLLECT
+
+  
 The information we collect via this website may include:
 
 1\. Any personal details you type in and submit, such as name, address, email address, etc.
@@ -15,9 +18,6 @@ The information we collect via this website may include:
 4\. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
 
 ### WHAT WE DO WITH YOUR INFORMATION
-
-  
-
 
 Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:-
 
@@ -32,9 +32,6 @@ We would also like to inform you of various promotions, goods and services that 
 
 ### YOUR RIGHTS
 
-  
-
-
 1\. You can ask us to update your personal information by emailing precise details of your request to us here. Please ensure you type "update" in the subject line of your email.
 
 2\. You can ask us not to send you future marketing communications. To do this, simply email us here. Type "No Marketing" in the subject line and then the following in the main text:-  
@@ -47,7 +44,15 @@ Alternatively, you can post your request to the address in (3) below.
 3\. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to GymShark.co.uk to cover our administration costs:-
 
 GymShark.co.uk  
-St Nicholas Villa,  
-15 Ombersley Street West,  
-Droitwich  
-WR9 8HZ
+Unit F2-4 Sapphire Court
+
+George Road
+
+Bromsgrove 
+
+Worcestershire
+
+B60 3ET
+
+
+
