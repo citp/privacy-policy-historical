@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wallbuilders.com privacy policy that was archived on 2014-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141018220118id_/http%3A//wallbuilders.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallbuilders.com privacy policy that was archived on 2015-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150502181528id_/http%3A//wallbuilders.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<title>WallBuilders - Privacy Policy</title>
@@ -377,6 +377,31 @@
 		}
 	}
 	
+	function validateDate(dt) {
+		
+		/**--------------------------
+		//* Validate Date Field script- By JavaScriptKit.com
+		//* For this script and 100s more, visit http://www.javascriptkit.com
+		//* This notice must stay intact for usage
+		---------------------------**/
+		var validformat=/^\d{2}\/\d{2}\/\d{4}$/ //Basic check for format validity
+		var returnval=false
+		if (!validformat.test(dt.value))
+		alert("Invalid Date Format. Please correct and submit again.")
+		else{ //Detailed check for valid date ranges
+		var monthfield=dt.value.split("/")[0]
+		var dayfield=dt.value.split("/")[1]
+		var yearfield=dt.value.split("/")[2]
+		var dayobj = new Date(yearfield, monthfield-1, dayfield)
+		if ((dayobj.getMonth()+1!=monthfield)||(dayobj.getDate()!=dayfield)||(dayobj.getFullYear()!=yearfield))
+		alert("Invalid Day, Month, or Year range detected. Please correct and submit again.")
+		else
+		returnval=true
+		}
+		if (returnval==false) dt.select()
+		return returnval
+	}
+	
   </script><link rel="stylesheet" href="sIFR/all.css" type="text/css" media="all">
 <link rel="stylesheet" href="sIFR/sIFR-screen.css" type="text/css" media="screen">
 <link rel="stylesheet" href="sIFR/sIFR-print.css" type="text/css" media="print">
@@ -483,6 +508,10 @@
 	
 	<a href="/LIBissuesArticles.asp?id=142673">Abigail Adams' Letter</a>
 	
+	<a href="/LIBissuesArticles.asp?id=164949">Abraham Lincoln General Order</a>
+	
+	<a href="/LIBissuesArticles.asp?id=164950">Abraham Lincoln Portrait &amp; Emancipation Proclamation</a>
+	
 	<a href="/LIBissuesArticles.asp?id=46">Aitken Bible </a>
 	
 	<a href="/LIBissuesArticles.asp?id=47">American Bible Society Certificate Signed by John Jay </a>
@@ -547,7 +576,11 @@
 	
 	<a href="/LIBissuesArticles.asp?id=144469">Noah Webster's "The Peculiar Doctrines of the Gospel Explained and Defended"</a>
 	
+	<a href="/LIBissuesArticles.asp?id=163029">Official White House Christmas Ornaments</a>
+	
 	<a href="/LIBissuesArticles.asp?id=146444">Paying Off the Barbary Pirates</a>
+	
+	<a href="/LIBissuesArticles.asp?id=163027">Presidential Christmas Cards</a>
 	
 	<a href="/LIBissuesArticles.asp?id=3595">Proclamation - Lincoln Day - 1919, Massachusetts</a>
 	
@@ -556,6 +589,8 @@
 	<a href="/LIBissuesArticles.asp?id=22348">Samuel Chase Document</a>
 	
 	<a href="/LIBissuesArticles.asp?id=22345">Thomas Jefferson Document</a>
+	
+	<a href="/LIBissuesArticles.asp?id=163018">Truman Christmas Card 1950</a>
 	
 	<a href="/LIBissuesArticles.asp?id=144579">War Bond Posters</a>
 	
@@ -611,6 +646,8 @@
 	
 	<a href="/LIBissuesArticles.asp?id=158412">Oration - Anniversary of Continental Congress - 1874</a>
 	
+	<a href="/LIBissuesArticles.asp?id=168051">Oration - Eulogy - 1832</a>
+	
 	<a href="/LIBissuesArticles.asp?id=151836">Oration - July 4th - 1787, New York</a>
 	
 	<a href="/LIBissuesArticles.asp?id=151801">Oration - July 4th - 1796, Massachusetts</a>
@@ -653,11 +690,15 @@
 	
 	<a href="/LIBissuesArticles.asp?id=158414">Sermon - American Institutions &amp; the Bible - 1876</a>
 	
-	<a href="/LIBissuesArticles.asp?id=57">Sermon - Artillery - Boston, 1809</a>
+	<a href="/LIBissuesArticles.asp?id=157441">Sermon - Artillery Election - 1792</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162780">Sermon - Artillery Election - 1798</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162781">Sermon - Artillery Election - 1803</a>
 	
 	<a href="/LIBissuesArticles.asp?id=160530">Sermon - Artillery Election - 1808</a>
 	
-	<a href="/LIBissuesArticles.asp?id=157441">Sermon - Artillery-Election - 1792</a>
+	<a href="/LIBissuesArticles.asp?id=57">Sermon - Artillery Election - 1809</a>
 	
 	<a href="/LIBissuesArticles.asp?id=158407">Sermon - Atlantic Telegraph - 1858</a>
 	
@@ -687,6 +728,8 @@
 	
 	<a href="/LIBissuesArticles.asp?id=154401">Sermon - Christmas - 1788</a>
 	
+	<a href="/LIBissuesArticles.asp?id=162791">Sermon - Christmas - 1818</a>
+	
 	<a href="/LIBissuesArticles.asp?id=156118">Sermon - Christmas - 1838</a>
 	
 	<a href="/LIBissuesArticles.asp?id=150867">Sermon - Christmas - 1841</a>
@@ -713,81 +756,169 @@
 	
 	<a href="/LIBissuesArticles.asp?id=7488">Sermon - Easter - 1910</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160446">Sermon - Election - 1769</a>
+	<a href="/LIBissuesArticles.asp?id=160446">Sermon - Election - 1769, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160398">Sermon - Election - 1771</a>
+	<a href="/LIBissuesArticles.asp?id=160398">Sermon - Election - 1771, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=118514">Sermon - Election - 1775</a>
+	<a href="/LIBissuesArticles.asp?id=118514">Sermon - Election - 1775, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160403">Sermon - Election - 1778</a>
+	<a href="/LIBissuesArticles.asp?id=160403">Sermon - Election - 1778, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=4139">Sermon - Election - 1783</a>
+	<a href="/LIBissuesArticles.asp?id=4139">Sermon - Election - 1783, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160405">Sermon - Election - 1784</a>
+	<a href="/LIBissuesArticles.asp?id=160405">Sermon - Election - 1784, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160401">Sermon - Election - 1785</a>
+	<a href="/LIBissuesArticles.asp?id=160401">Sermon - Election - 1785, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160428">Sermon - Election - 1786</a>
+	<a href="/LIBissuesArticles.asp?id=160428">Sermon - Election - 1786, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160431">Sermon - Election - 1787</a>
+	<a href="/LIBissuesArticles.asp?id=160431">Sermon - Election - 1787, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160433">Sermon - Election - 1788</a>
+	<a href="/LIBissuesArticles.asp?id=160433">Sermon - Election - 1788, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=59">Sermon - Election - 1788</a>
+	<a href="/LIBissuesArticles.asp?id=59">Sermon - Election - 1788, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160435">Sermon - Election - 1789</a>
+	<a href="/LIBissuesArticles.asp?id=160435">Sermon - Election - 1789, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=60">Sermon - Election - 1790 </a>
+	<a href="/LIBissuesArticles.asp?id=162977">Sermon - Election - 1790, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=4157">Sermon - Election - 1791</a>
+	<a href="/LIBissuesArticles.asp?id=60">Sermon - Election - 1790, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160651">Sermon - Election - 1791</a>
+	<a href="/LIBissuesArticles.asp?id=162980">Sermon - Election - 1790, New Hampshire</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160653">Sermon - Election - 1791</a>
+	<a href="/LIBissuesArticles.asp?id=160651">Sermon - Election - 1791, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=96972">Sermon - Election - 1792</a>
+	<a href="/LIBissuesArticles.asp?id=4157">Sermon - Election - 1791, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=13044">Sermon - Election - 1792</a>
+	<a href="/LIBissuesArticles.asp?id=160653">Sermon - Election - 1791, New Hampshire</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160527">Sermon - Election - 1793</a>
+	<a href="/LIBissuesArticles.asp?id=13044">Sermon - Election - 1792, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160528">Sermon - Election - 1794</a>
+	<a href="/LIBissuesArticles.asp?id=96972">Sermon - Election - 1792, New Hampshire</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160655">Sermon - Election - 1796</a>
+	<a href="/LIBissuesArticles.asp?id=160527">Sermon - Election - 1793, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160448">Sermon - Election - 1796</a>
+	<a href="/LIBissuesArticles.asp?id=160528">Sermon - Election - 1794, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=4149">Sermon - Election - 1796</a>
+	<a href="/LIBissuesArticles.asp?id=165603">Sermon - Election - 1794, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160657">Sermon - Election - 1797</a>
+	<a href="/LIBissuesArticles.asp?id=4149">Sermon - Election - 1796, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160660">Sermon - Election - 1798</a>
+	<a href="/LIBissuesArticles.asp?id=160448">Sermon - Election - 1796, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160662">Sermon - Election - 1799</a>
+	<a href="/LIBissuesArticles.asp?id=160655">Sermon - Election - 1796, New Hampshire</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160664">Sermon - Election - 1800</a>
+	<a href="/LIBissuesArticles.asp?id=160657">Sermon - Election - 1797, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=4153">Sermon - Election - 1800</a>
+	<a href="/LIBissuesArticles.asp?id=164864">Sermon - Election - 1797, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160665">Sermon - Election - 1801</a>
+	<a href="/LIBissuesArticles.asp?id=160660">Sermon - Election - 1798, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160677">Sermon - Election - 1802</a>
+	<a href="/LIBissuesArticles.asp?id=164880">Sermon - Election - 1798, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=4133">Sermon - Election - 1803</a>
+	<a href="/LIBissuesArticles.asp?id=160662">Sermon - Election - 1799, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=160680">Sermon - Election - 1804</a>
+	<a href="/LIBissuesArticles.asp?id=160664">Sermon - Election - 1800, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=116594">Sermon - Election - 1805</a>
+	<a href="/LIBissuesArticles.asp?id=4153">Sermon - Election - 1800, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=61">Sermon - Election - 1812 </a>
+	<a href="/LIBissuesArticles.asp?id=160665">Sermon - Election - 1801, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=4128">Sermon - Election - 1814</a>
+	<a href="/LIBissuesArticles.asp?id=167417">Sermon - Election - 1801, Massachusetts</a>
 	
-	<a href="/LIBissuesArticles.asp?id=4145">Sermon - Election - 1816</a>
+	<a href="/LIBissuesArticles.asp?id=160677">Sermon - Election - 1802, Connecticut</a>
 	
-	<a href="/LIBissuesArticles.asp?id=118504">Sermon - Election - 1818 </a>
+	<a href="/LIBissuesArticles.asp?id=164883">Sermon - Election - 1802, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=4133">Sermon - Election - 1803, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=164939">Sermon - Election - 1803, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=160680">Sermon - Election - 1804, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=164941">Sermon - Election - 1804, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=116594">Sermon - Election - 1805, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=164948">Sermon - Election - 1805, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162893">Sermon - Election - 1806, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=164958">Sermon - Election - 1806, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162895">Sermon - Election - 1807, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=165020">Sermon - Election - 1807, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162899">Sermon - Election - 1808, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=165022">Sermon - Election - 1808, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162897">Sermon - Election - 1808, New Hampshire</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162901">Sermon - Election - 1809, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=165598">Sermon - Election - 1809, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162902">Sermon - Election - 1809, New Hampshire</a>
+	
+	<a href="/LIBissuesArticles.asp?id=163796">Sermon - Election - 1810, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=163798">Sermon - Election - 1811, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=163800">Sermon - Election - 1811, New Hampshire</a>
+	
+	<a href="/LIBissuesArticles.asp?id=163802">Sermon - Election - 1812, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=163804">Sermon - Election - 1812, New Hampshire</a>
+	
+	<a href="/LIBissuesArticles.asp?id=61">Sermon - Election - 1812, Vermont</a>
+	
+	<a href="/LIBissuesArticles.asp?id=163808">Sermon - Election - 1813, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167644">Sermon - Election - 1814, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=4128">Sermon - Election - 1814, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=165057">Sermon - Election - 1815, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162783">Sermon - Election - 1815, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167621">Sermon - Election - 1815, Vermont</a>
+	
+	<a href="/LIBissuesArticles.asp?id=163031">Sermon - Election - 1816, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=4145">Sermon - Election - 1816, New Hampshire</a>
+	
+	<a href="/LIBissuesArticles.asp?id=165024">Sermon - Election - 1816, Vermont</a>
+	
+	<a href="/LIBissuesArticles.asp?id=165031">Sermon - Election - 1817, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162785">Sermon - Election - 1817, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=118504">Sermon - Election - 1818, Connecticut </a>
+	
+	<a href="/LIBissuesArticles.asp?id=162787">Sermon - Election - 1818, Massachusetts</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167419">Sermon - Election - 1820, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167484">Sermon - Election - 1822, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167486">Sermon - Election - 1823, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167498">Sermon - Election - 1826, New Hampshire</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167506">Sermon - Election - 1829, Vermont</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167508">Sermon - Election - 1830, Connecticut</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167534">Sermon - Election - 1856, Vermont</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167627">Sermon - Election - 1861, New Hampshire</a>
 	
 	<a href="/LIBissuesArticles.asp?id=159944">Sermon - Establishing Public Happiness - 1795</a>
+	
+	<a href="/LIBissuesArticles.asp?id=168052">Sermon - Eulogy - 1776</a>
 	
 	<a href="/LIBissuesArticles.asp?id=157057">Sermon - Eulogy - 1854</a>
 	
@@ -798,6 +929,8 @@
 	<a href="/LIBissuesArticles.asp?id=76">Sermon - Execution - 1797 </a>
 	
 	<a href="/LIBissuesArticles.asp?id=154062">Sermon - Execution - 1848</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162976">Sermon - Fast Day - 1798</a>
 	
 	<a href="/LIBissuesArticles.asp?id=160804">Sermon - Fasting - 1783, Massachusetts </a>
 	
@@ -825,6 +958,8 @@
 	
 	<a href="/LIBissuesArticles.asp?id=160835">Sermon - Fasting - 1808, Massachusetts</a>
 	
+	<a href="/LIBissuesArticles.asp?id=167503">Sermon - Fasting - 1808, New York</a>
+	
 	<a href="/LIBissuesArticles.asp?id=160869">Sermon - Fasting - 1809, Massachusetts</a>
 	
 	<a href="/LIBissuesArticles.asp?id=160870">Sermon - Fasting - 1810, Massachusetts</a>
@@ -851,11 +986,15 @@
 	
 	<a href="/LIBissuesArticles.asp?id=160877">Sermon - Fasting - 1815</a>
 	
+	<a href="/LIBissuesArticles.asp?id=167422">Sermon - Fasting - 1818, Massachusetts</a>
+	
 	<a href="/LIBissuesArticles.asp?id=157046">Sermon - Fasting - 1832, MA</a>
 	
 	<a href="/LIBissuesArticles.asp?id=157048">Sermon - Fire - 1840</a>
 	
 	<a href="/LIBissuesArticles.asp?id=157049">Sermon - Fire - 1840</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162795">Sermon - Fugitive Slave Bill - 1850</a>
 	
 	<a href="/LIBissuesArticles.asp?id=158403">Sermon - Fugitive Slave Bill - 1851</a>
 	
@@ -907,6 +1046,8 @@
 	
 	<a href="/LIBissuesArticles.asp?id=158401">Sermon - Mexican War - 1848</a>
 	
+	<a href="/LIBissuesArticles.asp?id=164960">Sermon - Military - 1755</a>
+	
 	<a href="/LIBissuesArticles.asp?id=153200">Sermon - Modern Emigrant - 1832</a>
 	
 	<a href="/LIBissuesArticles.asp?id=156123">Sermon - Moral Uses of the Sea - 1845</a>
@@ -922,6 +1063,8 @@
 	<a href="/LIBissuesArticles.asp?id=157042">Sermon - Old Age Improved - 1811</a>
 	
 	<a href="/LIBissuesArticles.asp?id=154381">Sermon - Ordination - 1779</a>
+	
+	<a href="/LIBissuesArticles.asp?id=162891">Sermon - Ordination - 1789</a>
 	
 	<a href="/LIBissuesArticles.asp?id=154406">Sermon - Ordination - 1790</a>
 	
@@ -963,6 +1106,8 @@
 	
 	<a href="/LIBissuesArticles.asp?id=160113">Sermon - Succes Failure in Life - 1833</a>
 	
+	<a href="/LIBissuesArticles.asp?id=168403">Sermon - Thanksgiving - 1774</a>
+	
 	<a href="/LIBissuesArticles.asp?id=149003">Sermon - Thanksgiving - 1783 Massachusetts</a>
 	
 	<a href="/LIBissuesArticles.asp?id=160703">Sermon - Thanksgiving - 1785</a>
@@ -972,6 +1117,8 @@
 	<a href="/LIBissuesArticles.asp?id=160708">Sermon - Thanksgiving - 1795</a>
 	
 	<a href="/LIBissuesArticles.asp?id=160710">Sermon - Thanksgiving - 1795</a>
+	
+	<a href="/LIBissuesArticles.asp?id=168381">Sermon - Thanksgiving - 1795</a>
 	
 	<a href="/LIBissuesArticles.asp?id=18263">Sermon - Thanksgiving - 1795 Massachusetts</a>
 	
@@ -997,6 +1144,8 @@
 	
 	<a href="/LIBissuesArticles.asp?id=160737">Sermon - Thanksgiving - 1815</a>
 	
+	<a href="/LIBissuesArticles.asp?id=168379">Sermon - Thanksgiving - 1825 Massachusetts</a>
+	
 	<a href="/LIBissuesArticles.asp?id=133275">Sermon - Thanksgiving - 1850 New York</a>
 	
 	<a href="/LIBissuesArticles.asp?id=148965">Sermon - Thanksgiving - 1852 Massachusetts</a>
@@ -1018,6 +1167,10 @@
 	<a href="/LIBissuesArticles.asp?id=157473"> Thomas Jefferson, Andrew Carnegie &amp; the US Congress </a>
 	
 	<a href="/LIBissuesArticles.asp?id=157453">A Look at the Spiritual History Surrounding D-Day</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167633">Presidential Christmas Cards</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167638">State of the Union</a>
 	
 </div>
 <div onmouseover="menuOverTabSub('Library','LibrarySUBia',5)" onmouseout="menuOutTabSub('Library','LibrarySUBia',4);"><a id="LibrarySUBiaA" href="/LIBissuesArticles.asp?cat=IA">Issues &amp; Articles</a></div>
@@ -1071,6 +1224,8 @@
 	
 	<a href="/LIBissuesArticles.asp?id=91">Churches And Elections - What Is The Law? </a>
 	
+	<a href="/LIBissuesArticles.asp?id=165503">Civic Ignorance on Display</a>
+	
 	<a href="/LIBissuesArticles.asp?id=92">Confronting Civil War Revisionism: Why The South Went To War </a>
 	
 	<a href="/LIBissuesArticles.asp?id=3930">Congress, the Culture, and Christian Voting</a>
@@ -1098,6 +1253,8 @@
 	<a href="/LIBissuesArticles.asp?id=96">Ensuring Judicial Accountability For State Judges </a>
 	
 	<a href="/LIBissuesArticles.asp?id=97">Evolution and the Law: “A Death Struggle Between Two Civilizations” </a>
+	
+	<a href="/LIBissuesArticles.asp?id=165556">Federal Judges: Demigods?</a>
 	
 	<a href="/LIBissuesArticles.asp?id=1464">Five Judicial Myths</a>
 	
@@ -1168,6 +1325,8 @@
 	<a href="/LIBissuesArticles.asp?id=109">Political Parties and Morality </a>
 	
 	<a href="/LIBissuesArticles.asp?id=46096">Potential Constitutional Problems With H.R. 3590</a>
+	
+	<a href="/LIBissuesArticles.asp?id=165169">President Obama’s Misguided Sense of Moral Equivalency</a>
 	
 	<a href="/LIBissuesArticles.asp?id=1099">Private Property Rights Resolution</a>
 	
@@ -1333,6 +1492,8 @@
 	
 	<a href="/LIBissuesArticles.asp?id=105435">2011 ProFamily Legislators Conference</a>
 	
+	<a href="/LIBissuesArticles.asp?id=168076">Abraham Lincoln</a>
+	
 	<a href="/LIBissuesArticles.asp?id=136629">Addressing Mass Murder and Violent Crime</a>
 	
 	<a href="/LIBissuesArticles.asp?id=104947">American History: Bachmann v. Stephanopoulos</a>
@@ -1356,6 +1517,8 @@
 	<a href="/LIBissuesArticles.asp?id=138809">Celebrating Black History Month: The Rev. Francis J. Grimke</a>
 	
 	<a href="/LIBissuesArticles.asp?id=105603">Christmas Resolutions (2007)</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167634">Christmas with the Presidents</a>
 	
 	<a href="/LIBissuesArticles.asp?id=104948">Congressional Prayer Caucus</a>
 	
@@ -1403,17 +1566,25 @@
 	
 	<a href="/LIBissuesArticles.asp?id=153220">Happy Thanksgiving!</a>
 	
+	<a href="/LIBissuesArticles.asp?id=162093">The Heart Shield Bibles of World War II</a>
+	
 	<a href="/LIBissuesArticles.asp?id=105606">An Historic Look at Easter</a>
 	
 	<a href="/LIBissuesArticles.asp?id=102284">Honor a Veteran!</a>
 	
 	<a href="/LIBissuesArticles.asp?id=160918">How much do you know about the Constitution?</a>
 	
+	<a href="/LIBissuesArticles.asp?id=167632">It Happened in March</a>
+	
 	<a href="/LIBissuesArticles.asp?id=105531">The Jefferson Lies</a>
+	
+	<a href="/LIBissuesArticles.asp?id=165039">John Quincy Adams - Abolitionist, President, &amp; Father</a>
 	
 	<a href="/LIBissuesArticles.asp?id=105213">Join the Black Robe Regiment today!</a>
 	
 	<a href="/LIBissuesArticles.asp?id=147519">The Lesser Known Boudinot</a>
+	
+	<a href="/LIBissuesArticles.asp?id=165721">Martin Luther King, Jr.</a>
 	
 	<a href="/LIBissuesArticles.asp?id=133494">The Mayflower and Presidents - What do they have in common?</a>
 	
@@ -1433,6 +1604,8 @@
 	
 	<a href="/LIBissuesArticles.asp?id=105532">Register Congregations to Vote!</a>
 	
+	<a href="/LIBissuesArticles.asp?id=164497">Religious Freedom Sunday</a>
+	
 	<a href="/LIBissuesArticles.asp?id=134012">Remember the "date which will live in infamy" this Christmas Season</a>
 	
 	<a href="/LIBissuesArticles.asp?id=153218">Remembering Pearl Harbor</a>
@@ -1445,13 +1618,19 @@
 	
 	<a href="/LIBissuesArticles.asp?id=105144">Restoring Courage: Standing in Solidarity With Israel</a>
 	
+	<a href="/LIBissuesArticles.asp?id=166497">Sam Houston</a>
+	
 	<a href="/LIBissuesArticles.asp?id=105614">Sanctity of Human Life Day</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167825">Science and the Glory of God</a>
 	
 	<a href="/LIBissuesArticles.asp?id=160649">Secretary of the Continental Congress Charles Thomson</a>
 	
 	<a href="/LIBissuesArticles.asp?id=105536">A Secular Oath?</a>
 	
 	<a href="/LIBissuesArticles.asp?id=152089">A Southern View of Black History?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=164838">The State of the Union</a>
 	
 	<a href="/LIBissuesArticles.asp?id=105597">Thanksgiving 2007</a>
 	
@@ -1467,9 +1646,13 @@
 	
 	<a href="/LIBissuesArticles.asp?id=146318">Which President earned the nickname "Old Man Eloquent"?</a>
 	
+	<a href="/LIBissuesArticles.asp?id=162585">Who Led the Plymouth Pilgrims?</a>
+	
 	<a href="/LIBissuesArticles.asp?id=161521">Who was the "Father of the Revolution"?</a>
 	
 	<a href="/LIBissuesArticles.asp?id=147911">Who was known as “First in war, First in peace, First in the hearts of his countrymen”?</a>
+	
+	<a href="/LIBissuesArticles.asp?id=167504">Women Who Shaped History</a>
 	
 	<a href="/LIBissuesArticles.asp?id=105191">World Trade Center Cross</a>
 	
@@ -1532,7 +1715,6 @@
 					<div id="SchedulingSUB" class="subDivTab" onmouseover="menuOverTab('Scheduling');" onmouseout="menuOutTab('Scheduling');">
 						<div class="subDivTabNew">
 	<a href="/SCHbios.asp">Speaker Bios</a>
-	<a href="/SCHcalendar.asp">Events Calendar</a>
 	<a href="/PBOverview.asp">Pastors' Briefings</a>
 	<a href="/SCHrequest.asp">Schedule an Event</a>
 </div>
