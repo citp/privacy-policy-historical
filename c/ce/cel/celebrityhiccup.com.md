@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrityhiccup.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219093453id_/http%3A//celebrityhiccup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityhiccup.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502023322id_/http%3A//celebrityhiccup.com/privacy-policy) for the most accurate reproduction.*
 
 # Latest Celebrity Gossip, News, & Pictures – CelebrityHiccup.com | Privacy Policy
 
