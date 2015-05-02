@@ -1,70 +1,39 @@
-> *The following text is extracted and transformed from the onelittlemister.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109141226id_/http%3A//www.onelittlemister.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelittlemister.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502201620id_/http%3A//www.onelittlemister.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy One Little Mister
+# Privacy Policy | One Little Mister
 
-**What information do we collect?**
+When we talk about ’us’, ’our’ or ’we’, it means [http://www.onelittlemister.com](http://www.onelittlemister.com/). The words ’you’ or ’your’ means you, the visitor to our website.
 
-We collect information from you when you subscribe to our newsletter, fill out a form or enter a contest or promotion.
+Personal information is information that would identify you, or from which you can be identified. It is important to us to protect your personal information. We don’t give it away or sell it and we have systems in place to protect it.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+## COLLECTION
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+We collect personal information about you when you give it to us, usually when you complete an online form. We don’t collect your information from anywhere or anyone else.
 
-**What do we use your information for?**
+We may also use ‘cookies’ so that you can customize our web pages or so that you do not have to keep filling in your details repeatedly. Cookies may also track the information that you access online and affect the display of any advertisements on our website to reflect your preferences. Cookies do not necessarily collect information that can identify who you are, more about what you like. You can change your browser settings, or use anti-virus software to limit the ability of cookies to track your internet use. If you want to find out more about ‘cookies’ and how they work, we suggest you look up [Wikipedia](http://wikipedia.com/)
 
-Any of the information we collect from you may be used in one of the following ways:
+## USE
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
+We use your personal information in an effort to tailor your experience of our products and services specifically for you. We want to offer you products and information you want, not stuff you have no interest in.
 
+## DISCLOSURE
 
+We don’t give away or sell your personal information. We will disclose your personal information if we are legally compelled to do so or need to provide instruction to our professional advisors.
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+We might use another provider to deliver our products or services to you. If they need your personal information to complete that delivery we will require them to use your information only for that purpose and then destroy it.
 
-**How do we protect your information?**
+## STORAGE OVERSEAS
 
-We implement a variety of security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our site.
+We may change the host of this website from time to time in accordance with our business requirements. This may mean that the information collected through our website is hosted overseas. We do our best to use reputable companies that have appropriate information protection to host our website.
 
-**Do we use cookies?**
+## LINKS and PUBLIC FORUMS
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+We have no control over the information accessed through links from our site. You use links at your own risk.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+If you post your personal information in a public forum, we have no control over how it is used and no responsibility to protect it for you.
 
-**Do we disclose any information to outside parties?**
+## FEEDBACK
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information without first obtaining permission from you. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Any feedback or concerns regarding the way we manage your personal information should be directed to [admin@onelittlemister.com](mailto:admin@onelittlemister.com). We will take action to fix any problems, within reason. We will update this policy from time to time to meet our legal obligations.
 
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.onelittlemister.com/>
-
-**Your Consent**
-
-By using our site, you consent to our website’s privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on June 29, 2011
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact the blog owner, at admin@onelittlemister.com.
+Last Updated 13/03/2014
