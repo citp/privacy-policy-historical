@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersadvocate.org privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103160754id_/http%3A//www.consumersadvocate.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersadvocate.org privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502121633id_/http%3A//www.consumersadvocate.org/privacy) for the most accurate reproduction.*
 
 # Consumer's Advocate - Educated Decisions Make Informed Consumers.
 
