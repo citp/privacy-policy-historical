@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websummit.net privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214084958id_/http%3A//terms.websummit.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websummit.net privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502113231id_/http%3A//terms.websummit.net) for the most accurate reproduction.*
 
 # Web Summit Terms of Service
 
