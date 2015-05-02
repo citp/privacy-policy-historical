@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficsupplier.net privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417005341id_/http%3A//www.trafficsupplier.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficsupplier.net privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502060122id_/http%3A//www.trafficsupplier.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TrafficSupplier.net - Buy Traffic | Buy Web Site Traffic | Targeted Traffic
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.trafficsupplier.net/terms.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.trafficsupplier.net/terms.php](http://www.trafficsupplier.net/terms.html)
 
 **Your Consent**
 
@@ -77,6 +77,6 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 03/03/10
+This policy was last modified on 03/02/15
 
-http://www.trafficsupplier.net/contact.html
+http://www.trafficsupplier.net/contact.php
