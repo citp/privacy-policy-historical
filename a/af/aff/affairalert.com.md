@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affairalert.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013946id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affairalert.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502171434id_/http%3A//www.affairalert.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds5) for the most accurate reproduction.*
 
 # Affair Alert - Married Dating and Secret Affairs
 
