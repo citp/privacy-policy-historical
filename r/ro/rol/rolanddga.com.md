@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105936id_/http%3A//rolanddga.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolanddga.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502120323id_/http%3A//www.rolanddga.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Roland DGA
 
@@ -15,6 +15,8 @@
 > **Applicability.**
 > 
 > If you visit other regional websites for Roland affiliates, or link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy. If you are a user from outside the United States (an "International User"), you are also subject to the applicable privacy policy of our affiliates that service your geographic location and we suggest that you consult such privacy policy.  For a list of our international affiliates, please check out the following link: http://www.rolanddga.com/internationalPartners.asp. 
+> 
+> This Privacy Statement is originally written in English.  However, this Privacy Statement may be translated into other languages either by Roland DGA or through a variety of external means.  In the event of any conflict between the English and other language versions, the English version shall prevail. Roland DGA shall have no liability for any incorrect or inaccurate translation of this Agreement, nor for any damage incurred as a result of the mistranslation.
 
 ### Data Collection 
 
@@ -146,4 +148,4 @@
 > **Date.**  
 > 
 > 
-> This Privacy Statement was last amended on March 12, 2013.
+> This Privacy Statement was last amended on February 13, 2015.
