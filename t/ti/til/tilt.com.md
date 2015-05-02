@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tilt.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008223626id_/https%3A//www.tilt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tilt.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502120838id_/https%3A//www.tilt.com/privacy) for the most accurate reproduction.*
 
 # Tilt: Make Amazing Things Happen
 
