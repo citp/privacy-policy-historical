@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccgals.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222153323id_/http%3A//www.vixenx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccgals.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503010807id_/http%3A//www.vixenx.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
