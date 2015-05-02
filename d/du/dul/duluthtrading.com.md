@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819114646id_/http%3A//www.duluthtrading.com/store/dtc-shared/customer-service/privacy-and-security/privacy-security-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502082738id_/http%3A//www.duluthtrading.com/store/dtc-shared/customer-service/privacy-and-security/privacy-security-policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security - Duluth Trading
 
@@ -40,7 +40,7 @@ Other data that does not qualify as Personal Data because it cannot be used to c
 
 ### 3rd Party Advertising
 
-We may use third party advertising companies to serve ads for us, using Non-Personal Data. These third parties may employ cookies and action tags (also known as single pixel gifs) to measure advertising effectiveness. They may also use this technology to serve specialized or relevant advertising content and/or recommendations to you on the Site or on a third party's website. Any information that these third parties collect via cookies and action tags is completely anonymous and does not contain any personal contact information. If you would like more information about this practice and your choices, including how to opt-out, click here.
+We may use third party advertising companies to serve ads for us, using Non-Personal Data. These third parties may employ cookies and action tags (also known as single pixel gifs) to measure advertising effectiveness. They may also use this technology to serve specialized or relevant advertising content and/or recommendations to you on the Site or on a third party's website. Any information that these third parties collect via cookies and action tags is completely anonymous and does not contain any personal contact information. 
 
 ### What is a "3rd party ad network?"
 
