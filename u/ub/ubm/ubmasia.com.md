@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubmasia.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209162236id_/http%3A//www.ubmasia.com/PrivacyPolicyStatement/tabid/119/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubmasia.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502154326id_/http%3A//www.ubmasia.com/en-us/Privacy-Policy) for the most accurate reproduction.*
 
-# UBM Asia > Privacy Policy Statement
+# UBM Asia > Home > Privacy Policy Statement
 
 We, UBM Asia Ltd, take individual privacy seriously. This Statement explains our policies and practices.  
 We respect your privacy and we will use our reasonable endeavour to:
@@ -29,7 +29,7 @@ The purposes for which information may be used by us include:
 
 
 
-**_Direct markerting_**
+**Direct markerting**
 
 We may use your personal data, including your name, email address and physical address to conduct direct marketing in relation to the promotion of and invitation to our trade fairs in Hong Kong and around the world, and events or trade fairs organised by our affiliates and joint venture partners, as well as the promotion of our services via fax, email, direct mail, telephone and other means of communication, or send e-newsletters to you. We will not so use your personal data unless we have received your consent to the said intended use. You may choose not to receive promotional materials by simply telling us through the below contact details, and we will cease to do so, without charge.
 
@@ -43,7 +43,7 @@ We will keep the personal data we hold confidential but may provide or transfer 
 
 
 
-**_Provision of data for direct marketing_**
+**Provision of data for direct marketing**
 
 Please note that we intend to provide the personal data we collected, including your name, email address and physical address to our overseas offices, affiliates, joint venture partners, which are also exhibition organisers, for use in direct marketing in relation to the promotion of and invitation to their trade fairs and events. We will not so provide your personal data for the said purposes unless we have received your written consent to the aforesaid intended provision.
 
