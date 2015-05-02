@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestrealincome.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122133929id_/http%3A//www.bestrealincome.com/contact-brian/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestrealincome.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502203638id_/http%3A//www.bestrealincome.com/contact-brian/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Based Business Opportunity
 
