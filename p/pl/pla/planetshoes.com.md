@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetshoes.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803065300id_/http%3A//www.planetshoes.com/helpcenter/policies/privacy-policy/596) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetshoes.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502131753id_/http%3A//www.planetshoes.com/helpcenter/policies/privacy-policy/596) for the most accurate reproduction.*
 
 # PLANET SHOES - Privacy Policy - Help Center
 
