@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonak.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401035006id_/http%3A//lonak.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonak.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502102720id_/http%3A//www.lonak.com/privacy.asp) for the most accurate reproduction.*
 
 # Lonak - Privacy
 
