@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220043943id_/http%3A//www.adppayroll.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503014502id_/http%3A//www.adppayroll.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | ADP Payroll Solutions
 
