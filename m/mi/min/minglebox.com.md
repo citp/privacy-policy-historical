@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minglebox.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225003949id_/http%3A//www.minglebox.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minglebox.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502231524id_/http%3A//www.minglebox.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Minglebox
 
