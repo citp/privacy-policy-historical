@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the love2meet.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101190713id_/http%3A//uk.love2meet.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love2meet.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502043419id_/http%3A//uk.love2meet.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # Love2Meet :: Love2Meet Member Privacy Policy
 
-_Last updated on Monday 1st September, 2014_
+_Last updated on Monday 5th January, 2015_
 
 ### Data Controller
 
@@ -35,7 +35,7 @@ The primary purpose for which we collect information about you is to provide you
   * process your communications, your membership of and subscription to the Website and to enable your use of the Website and the Services;
   * provide you with an up to date, efficient and reliable Service;
   * help prevent fraudulent activity, including on your account (for example, if we collect your card details we will check these details with credit agencies and reserve the right to refuse to make available the Website and/or our Services if, for example, the card details provided are reported to be fraudulent or credit agencies report the activities as being fraudulent); 
-  * provide customer care services. For the avoidance of doubt, we will only store limited Credit Card or Debit Card information for the purpose of assisting with customer care enquires;
+  * provide customer care services. For the avoidance of doubt, we will only store limited Credit Card or Debit Card information for the purpose of assisting with customer care enquiries;
   * open and run your account;
   * administer prize draws, competitions or promotions;
   * for statistical and demographic analysis; 
