@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smile.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702205324id_/http%3A//www.smile.co.uk/global/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smile.co.uk privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502170300id_/http%3A//www.smile.co.uk/global/privacy-and-cookies) for the most accurate reproduction.*
 
-# privacy & cookies
+# cookie policy
 
 The privacy of customers is very important to us, and how we deal with personal information is outlined in our terms and conditions. We hope the way in which we gather and use your personal information addresses and respects any concerns you may have.
 
