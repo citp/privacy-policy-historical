@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithtap.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220200259id_/http%3A//faithtap.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithtap.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502072109id_/http%3A//faithtap.com/privacypolicy.html) for the most accurate reproduction.*
 
 # FaithTap: Privacy Policy
 
@@ -8,9 +8,13 @@ FaithTap.com uses cookies for visitor preferences, customize advertising content
 
 FaithTap.com may contain links to other websites. Once you leave the website we do not have any control over the linked website and are not responsible over the protection and privacy on the linked website. For the linked website rules on privacy please refer to their site's particular privacy agreement. 
 
-Advertisers on FaithTap.com may use cookies on our site. Our partners include: Google Adsense  
+Advertisers on FaithTap.com may use cookies on our site. Our partners include: Google Adsense.  
 Google Adsense, and as a 3rd party advertising vendor, uses cookies to aid in serving targeted ads on FaithTap.com. Google's use of the DoubleClick cookie enables it to serve ads to users based on other sites as well as information from FaithTap.com.  
 You are able to opt out of the use of the DoubleClick cookie by visiting the [AddSettings](http://www.google.com/settings/ads) or [aboutads.info](http://www.aboutads.info/). The advertising servers use a specific technology and algorithms for the advertisements and links that appear on FaithTap.com send directly to your browsers. FaithTap.com does not access or control cookies that are used by Google Adsense. 
+
+Please Note: Policy Section Updated February 25, 2015
+
+Google Analytics collects data via Google advertising cookies and anonymous identifiers which, like the DoubleClick cookie, aid in serving targeted ads on FaithTap.com. Google Analytics Advertiser Features implemented on Faithtap.com may include Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, Google Analytics Demographics and Interest Reporting. Options for opting out are included at the following link [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). The installation button on this page will link to the add-on installation for the specific browser you are using. 
 
 1\. When you submit to our site, you give us permission to post it.
 
