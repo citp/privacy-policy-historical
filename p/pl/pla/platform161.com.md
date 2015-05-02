@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523102445id_/http%3A//platform161.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502073245id_/http%3A//platform161.com/cookie-and-privacy-policy) for the most accurate reproduction.*
 
-# Cookie and privacy policy - Platform161
+# Cookie and Privacy Policy | Platform161
 
 ### **We take privacy seriously and so should you!**
 
@@ -18,15 +18,15 @@ This policy explains
 
 
 
-### **Details about the ad serving technology **
+### **Details about the ad serving technology**
 
 Platform161 offers ad serving technology which enables its clients to engage in online advertising. Our clients are all kinds of businesses engaged in online advertising: advertisers, ad networks, media agencies, and publishers. These clients buy online ad space. When ad space is sold to a client of Platform161, Platform161’s technology fulfils this transaction by delivering the ad of an advertiser (on behalf of the client) on that site.
 
-In practice, you come into contact with Platform161 when you by means of e.g. your computer, tablet or smart phone - view an ad that has been served by Platform161 on website.
+In practice, you come into contact with Platform161 when you by means of e.g. your computer, tablet or smart phone – view an ad that has been served by Platform161 on website.
 
 The ads sent by Platform161 are sent from the domain ads.creativeserving.com and/or ads.p161.net.
 
-### **Platform161’s Technology Platform **
+### **Platform161’s Technology**
 
 #### **_Introduction_**
 
@@ -64,8 +64,6 @@ Platform 161 drops cookies through every ad it serves for the following purposes
 
 Platform161 uses the following types of cookies:
 
-[](http://platform161.com/wp-content/uploads/Screen-shot-2013-03-22-at-2.53.24-PM.png)
-
 Next to the data that are being gathered by Platform161 through dropping our own cookies, third party data can also be used to optimize our campaigns. These third party data come from third party data providers that live up to current law and industry standards.
 
 Platform161’s cookies will be stored for 2 years after being dropped on a device.
@@ -87,7 +85,7 @@ To opt-out or opt-in, please click on the corresponding link below:
 
 
 
-#### **Data Controller, Data Collected, Purpose: **
+#### **Data Controller, Data Collected, Purpose:**
 
 * * *
 
