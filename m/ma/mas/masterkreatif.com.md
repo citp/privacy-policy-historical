@@ -1,56 +1,47 @@
-> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005218id_/http%3A//www.masterkreatif.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502133710id_/http%3A//www.masterkreatif.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Policy - MASTERkreatif
+# Privacy & Policy | MASTERkreatif
 
-The following is the Privacy Statement for web masterkreatif.com 
+HERE IS THE PRIVACY & POLICY STATEMENT FOR [MASTERkreatif](http://www.masterkreatif.com/) or [masterkreatif.com](http://www.masterkreatif.com/) or [http://masterkreatif.com](http://masterkreatif.com/) or [http://www.masterkreatif.com](http://www.masterkreatif.com/)
 
-Please read the following statement carefully. If you have any questions please ask us via the [](http://www.masterkreatif.com/p/contact-us.html). 
+PLEASE READ THE FOLLOWING STATEMENTS CAREFULLY. IF YOU HAVE ANY QUESTIONS PLEASE ASK US [[HERE](http://www.masterkreatif.com/contact-us)].
 
-**Email address**
+**EMAIL ADDRESS**
 
-You can choose to add your email address to our contact list via the forms on our site. We agree that there will never share your email with third parties and will remove your email at your request. We do not currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email address to them. If you have any problem removing your email address please contact us via our contact form. 
+You can choose to add your email address to our contact list via the forms on our site. We agree that there will never share your email address with third parties and will remove your email at your request. Currently we do not send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us [[HERE](http://www.masterkreatif.com/contact-us)].
 
-**Ownership Information**
+**COMMENTS OR MESSAGE BOARDS**
 
-masterkreatif.com is the sole owner of all information collected at our site except when we mengkutif from a website or blog, then we will include the source site. 
+masterkreatif.com provide comment box. We do not always actively monitor all incoming comments and the information on them is for entertainment purposes only. If, at any time in case of problems that are considered inappropriate, then by any means, masterkreatif.com will delete it.
 
-**Comments or Message Boards**
+**COOKIES**
 
-Web masterkreatif.com provide commentary box. We do not always actively monitoring all incoming comments and information about them is for entertainment purposes only. If, for one moment there are issues that are considered inappropriate, then by any means, we will to remove them. 
+Currently we assign cookies to readers in order to save their preferences. This data is not shared with third parties. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you prefer.
 
-**Cookie**
+**THIRD PARTY COOKIES**
 
-Currently we assign cookies for readers to save their preferences. This data is not shared with third parties. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you prefer. 
+Many of our advertisers use cookies to determine how many times you’ve seen an advertisement. This is done to limit the number of the same ad will be displayed. who did not have access to this data.
 
-**Third Party Cookies**
+**TRAFFIC REPORTS**
 
-Many of our advertisers use cookies to determine how many times you've seen the ads. This is done to limit the amount of the same ad will be displayed. who did not have access to this data. 
+masterkreatif.com will records IP addresses, Internet service provider information, referrer strings, browser types and the date and time the page is loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
 
-**Traffic Report**
+**THE LEGAL PROCESS**
 
-Masterkreatif.com industry standard record IP addresses, Internet service provider information, referrer strings, browser types and the date and time the page is loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular. 
+We will make every effort to preserve user privacy, but if necessary with a legitimate reason, masterkreatif.com may need to disclose information.
 
-**Legal Proceedings**
+**BUSINESS TRANSITIONS**
 
-We will make every effort to preserve user privacy, but if necessary by a legally valid reason masterkreatif.com may need to disclose information. 
+If masterkreatif.com acquired by or merged with another company, our web assets, including personal information, will likely be transferred to the new company.
 
-**Business Transitions**  
-**  
-**
+**LINKS**
 
-If masterkreatif.com acquired by or merged with another company, our web assets, including personal information, will likely be moved to a new company. 
+masterkreatif.com often guided directions to other sites. We are not responsible for the content or business practices of these sites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by masterkreatif.com.
 
-**Links**
+**NOTIFICATION OF CHANGES**
 
-Web masterkreatif.com often lead direction to other sites. We are not responsible for the content or business practices of this site. When you leave our websites we encourage you to read the destination site's privacy policy. This privacy statement applies solely to information collected by masterkreatif.com. 
+The Privacy and Policy Statement for masterkreatif.com may change without prior notice.
 
-**Notification of Changes**
+**CONTACT INFORMATION**
 
-Masterkreatif.com Privacy Statement at any time subject to change without prior notice. 
-
-**Contact Information**
-
-If you have any questions about this privacy policy masterkreatif.com, Information, Share, please [](http://www.masterkreatif.com/p/contact-us.html)
-
-  
-
+If you have any questions regarding the privacy policy of masterkreatif.com, Information, Share, please contact us [[HERE](http://www.masterkreatif.com/contact-us)].
