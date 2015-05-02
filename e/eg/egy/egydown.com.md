@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egydown.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214175648id_/http%3A//www.egydown.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egydown.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502122246id_/http%3A//www.egydown.me/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Megaupload Rapidshare Download Crack Serial
 
