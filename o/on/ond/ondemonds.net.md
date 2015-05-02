@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ondemonds.net privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214141625id_/http%3A//ondemonds.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondemonds.net privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502122620id_/http%3A//ondemonds.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnDemonds.net
 
