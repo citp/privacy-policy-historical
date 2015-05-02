@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the golfballs.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222192120id_/http%3A//www.golfballs.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfballs.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502133220id_/http%3A//www.golfballs.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Golfballs.com - Golf Balls, Golf Shoes, Golf Bags, Golf Club, Used Golfballs, Golf Equipment, Personalized Golf Balls.
 
-Last Modifed: Wednesday, September 10th 2014
+Last Modifed: Friday, December 26th 2014
 
   1. **Our Commitment to Privacy and Security**
 
@@ -12,7 +12,7 @@ Protecting your privacy and security is of the utmost important to Golfballs.com
 
 This notice applies to all information collected or submitted on the Golfballs.com website. On some pages, you can order products, make requests and register to receive promotional or other materials. Golfballs.com can only collect the information you provide.
 
-In order to provide you with an efficient, expedient and customized buying experience, we may collect various forms of personally identifiable information and non-personally identifiable information while you use our website.
+In order to provide you with an efficient, expedient and customized buying experience, we may collect various forms of personally identifiable information and non-personally identifiable information through the use of website pixels, cookies, or other technologies while you use our website.
 
 In some instances, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. This information is kept only for the express purpose of shipping and order fulfillment and kept only in your records. Also, information provided about other people for personal notification is only used in conjunction with your particular order.
 
