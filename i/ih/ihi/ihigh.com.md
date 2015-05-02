@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227104000id_/http%3A//pt.volarvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502155249id_/http%3A//pt.volarvideo.com/privacy) for the most accurate reproduction.*
 
 # Volar Video Help - Privacy
 
