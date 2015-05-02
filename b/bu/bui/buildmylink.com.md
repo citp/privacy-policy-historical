@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildmylink.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109081433id_/http%3A//buildmylink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildmylink.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502022100id_/http%3A//buildmylink.com/privacy.php) for the most accurate reproduction.*
 
 # Link Submission Manager - Web Site Promotions
 
