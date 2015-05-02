@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pciservices.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207051730id_/http%3A//pciservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pciservices.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502180509id_/http%3A//pciservices.com/privacy-policy) for the most accurate reproduction.*
 
 # pciservices.com - privacy policy | PCI services
 
