@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukincorp.co.uk privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208015151id_/http%3A//www.ukincorp.co.uk/s-F1-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukincorp.co.uk privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503045408id_/http%3A//www.ukincorp.co.uk/s-F1-privacy-policy.html) for the most accurate reproduction.*
 
 # Coddan CPM LTD: Standard Privacy Policy | Conditions Of Business
 
