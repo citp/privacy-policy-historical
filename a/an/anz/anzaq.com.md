@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anzaq.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929201858id_/http%3A//anzaq.com/p/if-you-require-any-more-information-or.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anzaq.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504003537id_/http%3A//anzaq.com/p/if-you-require-any-more-information-or.html) for the most accurate reproduction.*
 
 # Privacy Policy | ALL YOU NEED
 
