@@ -1,79 +1,143 @@
-> *The following text is extracted and transformed from the cevalogistics.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330081232id_/http%3A//www.cevalogistics.com/AboutCEVA/Resources/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cevalogistics.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503210256id_/http%3A//www.cevalogistics.com/privacy-policy) for the most accurate reproduction.*
 
-# CEVA Logistics - Privacy Policy
+# Privacy Policy | CEVA Logistics
 
-Information Collection and Use  
-"Personal information" means any information that relates to a living individual who can be identified from that information or from that information and other information that is held by or is likely to be held by us. It is our policy to take all necessary steps to ensure that all personal information held by us is processed fairly and lawfully. We will take all necessary steps to implement this policy. All our employees and data processors who have access to Personal information are obliged to respect the confidentiality of your Personal information. We will monitor on an ongoing basis compliance with the provisions of the applicable local legislation and regulations by third party processors, such as suppliers and contractors, of personal information held by us.
+CEVA Group Plc and its affiliated companies (together herein referred to as “CEVA”, the “Company”, “we”, or “us”) are firmly committed to protecting your privacy. CEVA has created this Global Privacy Policy (“Privacy Policy”) to demonstrate our commitment to keeping Personal Information private and secure.
 
-You can access the CEVA Logistics' web site and browse the web site without us capturing and storing Personal information, other than logging user IP address and session information such as the duration of the visit and the type of browser used. We may collect additional Personal information that you volunteer while using the web site and/or the services. Where we collect such additional information, we make clear the nature of the information and the specific purpose[s] for which it is used or may be used and we offer you the choice to opt out of providing such information. 
+Personal Information means any information that relates to an individual to the extent that any individual is or can be identified from that information. Personal Information can be in any form (e.g., paper, electronic, video, audio). It is CEVA’s policy to take all necessary steps to ensure that all Personal Information processed by us is processed fairly and lawfully. All of our employees, data processors and Third Party Service Providers who have access to Personal Information are obliged to respect the confidentiality of Personal Information and comply with this Privacy Policy.  
+The following topics are covered in this Privacy Policy:
 
-Any communication or material you post or transmit to CEVA Logistics over the Internet is, and will be treated as, confidential and non-proprietary. By transmitting or posting any communication of material to this site, you agree that CEVA Logistics may use your communication as material for any purpose, including reproduction, transmission, publication, broadcasting and posting. We will not hold this information for any longer than is legally permissible. 
+  * scope
+  * information collection and use
+  * disclosure
+  * website links
+  * use of cookies
+  * security measures
+  * data retention
+  * children’s privacy
+  * choice
+  * access and data integrity
+  * enforcement
+  * policy changes
+  * contact information
 
-Back to Top
 
-Disclosure  
-We only disclose your Personal Information to third parties when you submit your information with authorization. This may include, but is not limited to, third parties that provide pre-employment or pre-contract type services. We will not disclose your information to any other third parties without your authorization, unless required by law enforcement action or if required by a judicial or governmental order or subpoena.
 
-Back to Top
+## Scope
 
-Web Site Links  
-CEVA Logistics web site contains links to other web sites. CEVA Logistics is not responsible for the privacy practices, the content of such web sites or for Personal information, which such web sites may collect or place on your computer. Occasionally we give our registered users the opportunity to participate in online surveys. These surveys may ask visitors for contact information (such as their e-mail address.) We may use contact data from our surveys to send the user information about our company. Users may opt-out of receiving future mailings; refer to the “Choices/Options” section of this Privacy Statement regarding opt-out. 
+  
+This Privacy Policy applies to all non-public, online and offline, collected, stored, processed, transferred and used Personal Information of CEVA’s customers, vendors, employees, agents, contractors and others who share their Personal Information with us. A copy of this Privacy Policy is located on CEVA’s website at [www.cevalogistics.com](http://www.cevalogistics.com/).
 
-Back to Top
+### Information collection and use
 
-Use of Cookies  
-A “cookie” refers to a piece of data that is placed and stored by your browser on your computer’s hard drive. On certain CEVA Logistics’ web site pages CEVA Logistics utilizes “cookies” as a means of identifying returning users in order to customize the user’s experience and to select specific information for display based on the user’s registration information. When someone visits the CEVA Logistics web site, a cookie is either placed on the user’s computer or is read if the user has visited the site previously (if the computer is configured to accept cookies). You can choose to not have your browser accept cookies from the CEVA Logistics web site. If you do not allow the cookie to be saved, you will be able to view the text and graphics on the screens, however you will not have a customized experience, nor will you be able to make full use of the tools and applications as would registered users who accept cookies from our web site.
+#### A. General sources
 
-Back to Top
+There are several methods by which CEVA collects Personal Information. We may collect Personal Information from individuals as voluntarily disclosed via our websites, in person, over the phone, through the postal mail service or electronic email. In addition, we automatically capture the user Internet Protocol address of anyone who visits our website.  
+Where we collect Personal Information, we make clear the nature of the information and the specific purpose(s) for which it is used or may be used and we offer individuals the choice to opt-out of providing such information.
 
-Security Measures  
-CEVA Logistics takes reasonable security measures to protect your Personal information against loss and misuse, as well as unauthorized access, disclosure, destruction or alteration of the information that is under our control.
+#### B. Sensitive information
 
-If you have a user Login ID and password for any of the features on our web site, you have the responsibility of keeping your password secret. You should not reveal your password to anyone. We will not ask you in an unsolicited telephone call or e-mail for your password. 
+While recognizing that all Personal Information deserves to be protected, CEVA exercises special precautions and safeguards for any Sensitive Information we may collect. Sensitive Information includes Personal Information specifying medical or health data, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual or details of a conviction or criminal offense.  
+CEVA does not collect Sensitive Information regarding its customers or vendors, unless it is required or authorized by law or unless the customer or vendor has provided its express consent. However, CEVA may collect Sensitive Information regarding its employees.
 
-We recognize the importance of security for all Personal information collected by our web site. We exercise care in providing secure transmission of your information from your computer to our servers. We strictly limit worker (i.e., employees, agents, or contractors) access to Personal information by giving our workers only the necessary access to carry out their job responsibilities. CEVA Logistics periodically audits for compliance and updates its security measures in an effort to provide appropriate security for all information held by CEVA Logistics.
+#### C. Notice
 
-Back to Top
+CEVA provides a specific detailed “Privacy Notice” to its customers, vendors and employees describing what Personal Information we may collect, how we use it, when it may be shared with others, choices of what Personal Information an individual may provide, and how we safeguard its confidentiality. Where a legal requirement exists, we will request consent from individuals to the collection and use of that information as set forth in the Privacy Notice. A copy of the Privacy Notice may be obtained by written request to:
 
-Data Retention  
-We attempt to retain information we collect for reasonable periods of time or in accordance with specific policies or as required by law. Information collected for a specified purpose will only be used for that purpose and, after a reasonable period of time, will no longer be actively stored when that purpose has been fulfilled. 
+CEVA Group Plc  
+Attention: Privacy Compliance Committee  
+15350 Vickery Dr  
+Houston, TX 77032  
+Email: [CEVA.Compliance@CEVAlogistics.com](mailto:CEVA.Compliance@CEVAlogistics.com)
 
-Back to Top
+We collect Personal Information that is knowingly and voluntarily provided to us related to the following:
 
-Children’s Privacy  
-This site is not intended for children under 13 and we will not knowingly collect any information from children below this age.
+  
+**CUSTOMER** : CEVA collects and processes Personal Information about our customers in order to efficiently provide the services necessary for an entire supply chain, and other services that involve the transport and storage of goods.
 
-Back to Top
+  
+**VENDOR** : CEVA collects and processes Personal Information about any vendor we retain in order to ensure that we are able to contact our vendors when necessary and to ensure that CEVA’s standards of service/care are met.
 
-Choices/Options  
-Personal information may be transferred to countries outside the European Economic Area in order to perform our services. In using our services you consent to such a transfer. In addition, if you put personal information on publicly available parts of the web site, this may be accessed by persons in countries outside the European Union or the European Economic Area, which may not have data protection laws as comprehensive as those that exist in the European Union or the European Economic Area. If you do not agree with this Privacy Statement, you have the choice to cease use of our web site. 
+**EMPLOYEE** : CEVA collects and processes Personal Information about its employees to carry out human resources management and to provide benefits for employees.
 
-We may collect sensitive information about you through your use of our job application form web site of which you have the choice to explicitly (opt-out) consent to the disclosure of sensitive information you provide to us. Some laws and regulations define sensitive information as Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information pertaining to personal or intimate details of an individual’s life. 
+### Disclosure
 
-Our web site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. CEVA Logistics gives registered users the option to remove their information from our database or to inform us when they do not wish to receive future communications. To invoke either of these options, send us an e-mail to [info@cevalogistics.com](mailto:info@cevalogistics.com).
+CEVA may contract with other companies or individuals (“Third Party Service Providers”) to perform certain duties on our behalf concerning the collection and processing of Personal Information. In so doing, it may be necessary that we provide Third Party Service Providers with access to Personal Information. Our Third Party Service Providers are required to maintain the confidentiality of the Personal Information and are restricted from using the information for any other purpose than the purposes defined by CEVA. Examples of duties performed by Third Party Service Providers include transporting shipments, unloading or assembling freight, delivering packages, sending postal mail, auditing or analyzing data, processing credit card and online bill payments, processing payments, processing payroll, administrating benefits, and recruiting employees, agents, or contractors.
 
-Back to Top
+We take appropriate measures, by contract or otherwise, to provide adequate protection for Personal Information that is disclosed to our Third Party Service Providers and we take reasonable measures to ensure that our Third Party Service Providers have sufficient legal, organizational and technical procedures in place to protect Personal Information in accordance with applicable data protection law.
 
-Access and Corrections  
-CEVA Logistics welcomes corrections and updates from registered users regarding their Personal information in our database. This provision applies only to Personal information collected via our web site and not to information that is not personally identifiable that may be gathered by cookies or from IP addresses.  
-We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.   
-If you wish to correct, update, delete, modify or review your Personal information previously submitted, you may contact us via e-mail at [info@cevalogistics.com](mailto:info@cevalogistics.com). Your request will be reviewed and handled as appropriate.
+We also provide Personal Information to government agencies and regulatory and legal authorities as required by law or regulation.
 
-Back to Top
+Personal Information collected and used by CEVA may reside in or be transferred to any country where CEVA conducts business. CEVA has or will enter into corresponding data protection agreements in accordance with applicable European Union and Swiss standards with respect to any such transfers. We do not disclose Personal Information for personal gain nor do we sell any Personal Information entrusted to us.
 
-Privacy Statement Changes  
-CEVA Logistics may update this privacy statement from time to time. When we do, we will revise the “Last Updated” date at the bottom of this privacy statement.  Please check our Privacy Statement on a regular basis.
+### Enforcement
 
-Back to Top
+CEVA is committed to complying with all local and worldwide privacy laws, and with the “safe harbor” frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland (collectively, the “Safe Harbor Framework”). For more information, visit: [www.export.gov/safeharbor](http://www.export.gov/safeharbor)
 
-Contact Information  
-If you have any questions or comments about this privacy statement, the use of your information, the content of our web site, or its functionality, please contact us via e-mail at [info@cevalogistics.com](mailto:info@cevalogistics.com).
+### Website links
 
-Back to Top
+CEVA’s internal and external websites may provide links to third party websites. Upon accessing these links, the CEVA website is automatically exited. CEVA controls neither the websites nor the privacy practices of third parties. The privacy practices of third parties may differ from CEVA’s. We do not endorse or make any representations about third party websites.
 
-Terms of Use  
-By using our web site, you are consenting to the terms of use. For information about the Terms of Use while using our web site, please see the “Terms of Use” section on our web site.
+### Use of cookies
 
-Back to Top
+A “cookie” refers to a portion of data that is placed and stored by one’s browser on one’s computer’s hard drive. CEVA utilizes cookies as a means of identifying returning users in order to customize the user’s experience and to select specific information for display based on the user’s registration information. Any user may choose to decline to accept cookies from a website. However, any user who declines to accept cookies will not experience a customized view of the website, nor will such user be able to make full use of the tools and applications as would registered users who accept cookies. To find out more about cookies within the browser you’re using, please consult the “Help” menu of your browser. The “Help” menu will typically explain how to change how your browser handles cookies – including whether it accepts cookies, notifies you of cookies, or totally rejects cookies.
 
-Last Updated:  November 2007
+### Security measures
+
+CEVA is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. Therefore, our privacy practices are designed to provide protection for Personal Information all over the world. CEVA takes the appropriate legal, organizational, and technical measures to protect Personal Information consistent with applicable data protection law.
+
+It is CEVA’s policy to give access to Personal Information only to those authorized employees, agents, contractors, entities and Third Party Service Providers that CEVA determines have a legitimate need to know the information. To carry out their responsibilities, each of whom is held to CEVA’s standards of privacy. We also maintain physical, electronic and procedural safeguards to protect Personal Information against loss, misuse, damage, modification and unauthorized access or disclosure.
+
+### Data retention
+
+CEVA retains Personal Information we collect for reasonable periods of time, in accordance with specific policies or as required by law. Personal Information collected for a specified purpose will only be used for that purpose and, after a reasonable period of time, will no longer be actively stored when that purpose has been fulfilled.
+
+### Children's privacy
+
+CEVA’s website is not intended for children under 13 and we will not knowingly collect any information from children below this age, except as permitted under applicable law.
+
+### Choice
+
+Any individual who objects to CEVA’s collection of certain Personal Information may refuse to provide such information at the time requested.  
+We use Personal Information only for purposes consistent with the reason(s) such Personal Information was provided. We offer customers who provide us with Personal Information choices about receiving further communications from us. Our electronic marketing messages all have a link to use to opt out of receiving further messages. In addition, customers who wish to opt-out of receipt of our marketing messages may do so by providing written notice to:
+
+CEVA Group Plc  
+Attention: Privacy Compliance Committee  
+15350 Vickery Dr  
+Houston, TX 77032  
+Email: [CEVA.Compliance@CEVAlogistics.com](mailto:CEVA.Compliance@CEVAlogistics.com)
+
+### Access and data integrity
+
+CEVA welcomes amendments and updates from individuals regarding their Personal Information.
+
+If CEVA is provided with the appropriate supporting documentation to amend Personal Information, then the appropriate CEVA entity will either amend the information or direct the person to the source of the information for amendment. Individuals may amend, update, delete, or review their Personal Information by written request directly to the employee, agent or contractor with whom the individual conducts business or to:
+
+CEVA Group Plc  
+Attention: Privacy Compliance Committee  
+15350 Vickery Dr  
+Houston, TX 77032  
+Email: [CEVA.Compliance@CEVAlogistics.com](mailto:CEVA.Compliance@CEVAlogistics.com)
+
+### Enforcement
+
+CEVA is committed to complying with all local and worldwide privacy laws, including the European Union’s Data Protection Directive and the United States Department of Commerce Safe Harbor framework (“Safe Harbor Framework”). For more information, visit: [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+
+Enforcement measures that CEVA undertakes include:
+
+  * Periodical compliance audits and modifications/updates of security measures.
+  * Training employees who have access to Personal Information regarding this Privacy Policy, privacy laws and the purposes and relevance of CEVA’s privacy practices.
+  * Holding employees, agents or contractors accountable for violations of this Privacy Policy, privacy laws or CEVA’s privacy practices.
+  * Providing resources to address questions/concerns regarding CEVA’s privacy practices and to investigate complaints regarding conduct inconsistent with this Privacy Policy or related obligations.
+
+
+
+It is a violation of this Privacy Policy for any employee, agent or contractor to disclose Personal Information except as provided in this Privacy Policy or by privacy laws. Any such violation will be classified as misconduct and dealt with in accordance with the Company's disciplinary procedures.
+
+### Policy changes
+
+CEVA reserves the right to modify this Privacy Policy at any time. A current version of this Privacy Policy will always be located on CEVA’s website at [www.CEVAlogistics.com](http://www.cevalogistics.com/).
+
+### Contact information
+
+For any questions or comments about this Privacy Policy or CEVA’s privacy practices, please contact us via e-mail at: [CEVA.Compliance@CEVAlogistics.com](mailto:CEVA.Compliance@CEVAlogistics.com) 
