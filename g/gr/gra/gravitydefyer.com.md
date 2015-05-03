@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gravitydefyer.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626155914id_/http%3A//gravitydefyer.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gravitydefyer.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503093937id_/http%3A//gravitydefyer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gravity Defyer
+# Privacy Policy
 
-**Secure Shopping**
+## Privacy Statement
 
 At GravityDefyer.com, protecting your information is a priority. We use 128-bit Extended Validation Secure Sockets Layer (Green address bar EV-SSL) to encrypt your credit card number, name and address, so only GravityDefyer.com is able to decode your information and recognize you as a repeat customer. This enables us to retrieve certain information that you previously provided so that you do not need to re-enter this information every time you shop with us. 
 
@@ -53,5 +53,4 @@ We occasionally share our mailing lists (names and addresses) and general shoppi
 
 The companies must meet the privacy standards set in place by the Direct Marketing Association.
 
-If you would like to opt-out of being included in our mailing list sharing, please log-in to your account at GravityDefyer.com and submit a CASE to customer support.  
-
+If you would like to opt-out of being included in our mailing list sharing, please log-in to your account at GravityDefyer.com and submit a CASE to customer support.
