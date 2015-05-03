@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223031943id_/http%3A//www.woozworld.com/community/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503220724id_/http%3A//www.woozworld.com/community/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Woozworld News
 
-Document revised: July 29th, 2014
+Document revised: January 28th, 2015
 
-Revised document #12
+Revised document #13
 
 ## **1.**   **Introduction**
 
@@ -24,7 +24,7 @@ Woozworld complies with the U.S. [Children’s Online Privacy Protection Act](ht
 
 Woozworld is certified under the [PRIVO-Cert® – PRIVO’s Privacy Assurance Certification](http://www.privo.com/) (the “ ** **Certification**** ”). In accordance with the Certification, Woozworld adheres to the strict information collection, use and disclosure requirements. PRIVO is an independent, third party organization committed to safeguarding children’s PII collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The Certification seal posted on this page indicates that Woozworld has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about this Policy, please contact us at [privacypolicy@woozworld.com](mailto:privacypolicy@woozworld.com) or at (514) 281-8999. If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
 
-  [](http://privo.com/privo-site-validation/?company=333)
+[](http://privo.com/privo-site-validation/?company=333)
 
 ## **3.**   **Collection and Use of Information**
 
@@ -34,7 +34,7 @@ The age and gender are used as aggregate statistical data to gain insight within
 
 Your email can be used to identify your account if you contact Woozworld for any questions or assistance. The child’s email address will never be publicly visible in the advanced features and the Parent’s email address is never visible anywhere. Within the scope of the advanced features, Woozworld will send directly to you communications such as updates, notifications, promotional invitations and news concerning the Website, which can be sent, without limitation, through the games messaging system or through emails. If you no longer wish to participate in such communications you can (i) click the unsubscribe link at the end of each email received, (ii) sign-in to your account and change your communication preferences in the account settings or (iii) send an email to [customerservice@woozworld.com](mailto:customerservice@woozworld.com).
 
-The text entered in the WoozIn, as well as in-game chat and in private messages is filtered through [Crisp Thinking™](http://www.crispthinking.com/) smart filtering system, which aims to prevent, amongst other things, the user from exchanging PII such as phone numbers or email addresses with other users.
+The text entered in the WoozIn, as well as in-game chat and in private messages is filtered through [CommunitySift](http://communitysift.com/) smart filtering system, which aims to prevent, amongst other things, the user from exchanging PII such as phone numbers or email addresses with other users.
 
 Depending on the user’s method of payment in our online stores, some additional PII will be requested as described below. We use Secure Sockets Layer technology to protect credit card data during transmission and our transaction operators adopt strict internal procedures to safeguard this information in their system. Our payment solution providers are also under contract to safeguard your PII and not to share it under any circumstances.
 
@@ -44,19 +44,16 @@ Depending on the user’s method of payment in our online stores, some additiona
 
 As explained above, Woozworld may send you updates, notifications, promotional invitations or news concerning the Website. If the user did not validate his email address upon registration, Woozworld will not send to the user any communication.
 
-   
 **Contests and surveys**
 
 If you participate in our contests and surveys no PII will be required to do so. If you win a prize within a contest, which needs to be awarded outside the Website, we will communicate with you through the validated email address provided when you created your account and will agree with you how to award your prize. If you are under the age of 13, these arrangements will be taken care of with your Parent and your Parent’s full verifiable consent will be required in order to provide us your ****_mailing address_**** and other PII needed to award your prize.
 
-   
 **Online Stores**
 
 We offer the opportunity to purchase products in our online stores. When a user places an order, our third party’s transaction processor will require the following PII for a payment:
 
 \- by credit card: username, ****_full name of card holder_**** , ****_email address_**** , ****_mailing address_**** and ****_credit card information_**** ; or  
-\- by cell phone (SMS): username, ****_cell phone number_**** and ****_email address_****.  
- 
+\- by cell phone (SMS): username, ****_cell phone number_**** and ****_email address_****.
 
 After an order online is placed, we send a confirming email message and/or a SMS depending on the payment method. We may also send an occasional email featuring a special promotion or product that may be of interest to you. Any user who prefers not to receive promotional emails can indicate this preference in the account settings. Please note that, for legal reasons and for your protection, it is not possible to unsubscribe from transaction confirmation notifications when buying from the Website.
 
