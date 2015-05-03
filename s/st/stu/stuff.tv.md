@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stuff.tv privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065003id_/http%3A//www.stuff.tv/haymarket-media-group-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuff.tv privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Haymarket Media Group Privacy Notice | Stuff
+# - Privacy Policy | Haymarket Media Group
+
+##  Privacy Notice 
 
 **HAYMARKET PRIVACY POLICY**
 
@@ -8,17 +10,17 @@
 
 [Haymarket Media Group Limited (“Haymarket”], “Us”, “We”, “Our”) registered in England and Wales under company number 00267189 is the data controller of your Information for the purposes of the Data Protection Act 1998 (the “Act”). We respect your privacy and we are committed to protecting your personal information as that term is defined in the Act (“Information”). We comply with the principles of the Act and aim to maintain consistently high levels of best practice in our processing of your Information.
 
-Please read in conjunction with our [Terms and Conditions](http://www.stuff.tv/legal) and our [Cookie Policy](http://www.stuff.tv/content/cookie-policy).
+Please read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/TermsAndConditions.aspx) and our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx).
 
 This Privacy Policy (“Policy”) is intended to inform you how we collect, use and disclose your personal data. This Policy is intended to assist you in making informed decisions about your Information when using our website or the services provided by us or our group companies. Please take a minute to read and understand the Policy.
 
 By using our website and services you consent to our collection and use of your Information as described in this Policy. If we change our Policy and/or procedures, we will post those changes on our website to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of the website or services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of this Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
 
-In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected. A list of our group companies can be seen at the bottom of this document. 
+In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected. A list of our group companies can be seen at the bottom of this document. 
 
 **2 WHAT INFORMATION DO WE COLLECT?**
 
-All your Information will be held and used in accordance with the Act where applicable. If you want to know what Information we collect and hold about you, please write to us at: [datacontroller@haymarket.com](mailto:datacontroller@haymarket.com). When you visit and use our website or request our services you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:
+All your Information will be held and used in accordance with the Act where applicable. If you want to know what Information we collect and hold about you, please write to us at: [datacontroller@haymarket.com](mailto:datacontroller@haymarket.com?subject=Privacy%20Policy). When you visit and use our website or request our services you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:
 
 **2.1 Information you voluntarily provide to us**
 
@@ -35,7 +37,7 @@ Different websites operated by us may ask for different pieces of Information. Y
 
 **2.2 Information we collect through your use of our Website**
 
-As you use our website, Information may also be passively collected by us through our use of cookies, pixels, beacons, log files and other technologies. This Information allows us to deliver more helpful information, services, tools and advertisements. Please see our [Cookie Policy](http://www.stuff.tv/content/cookie-policy) for more information.
+As you use our website, Information may also be passively collected by us through our use of cookies, pixels, beacons, log files and other technologies. This Information allows us to deliver more helpful information, services, tools and advertisements. Please see our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx) for more information.
 
 **2.3 Information we receive from third parties**
 
@@ -71,13 +73,13 @@ We believe that advertising is more interesting to you when it is relevant. Acco
   * the Information you voluntarily provide to us;
   * geographic location information, which we may determine through your IP address, from your mobile device, or other ways;
   * data we receive from third parties; or
-  * your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our [Cookie Policy](http://www.stuff.tv/content/cookie-policy) for further information.
+  * your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx) for further information.
 
 
 
-Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Please see our [Cookie Policy](http://www.stuff.tv/content/cookie-policy) for further information.
+Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Please see our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx) for further information.
 
-You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our [Cookie Policy](http://www.stuff.tv/content/cookie-policy) for more details of how to delete cookies.
+You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our [Cookie Policy](https://web.archive.org/web/20150503122235id_/http%3A//www.haymarket.com/CookiePolicy.aspx) for more details of how to delete cookies.
 
 After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.
 
@@ -158,7 +160,7 @@ If you have any questions regarding privacy or this Policy, you may contact us a
 
 Data Protection Officer Haymarket Media Group Ltd Teddington Studios Teddington Middlesex TW11 9BE
 
-Email us: [datacontroller@haymarket.com](mailto:datacontroller@haymarket.com)
+Email us: [datacontroller@haymarket.com ](mailto:datacontroller@haymarket.com?subject=Privacy%20Policy)
 
 **LIST OF THE HAYMARKET GROUP OF COMPANIES – REGISTERED IN ENGLAND AND WALES**
 
