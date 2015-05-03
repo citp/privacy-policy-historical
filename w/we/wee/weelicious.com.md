@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weelicious.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110436id_/http%3A//weelicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weelicious.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503151554id_/http%3A//weelicious.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Weelicious.com | Weelicious.com
+# Privacy Policy | Weelicious
 
 Thank you for visiting weelicious. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
@@ -37,3 +37,7 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 Amazon Affiliate Links 
 
 Weelicious is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+Gourmet Ads
+
+For information about opting out of Gourmet Ads and ad serving partners please visit http://www.gourmetads.com/about/privacy-policy
