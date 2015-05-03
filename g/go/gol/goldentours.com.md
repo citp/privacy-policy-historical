@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225015424id_/http%3A//www.goldentours.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503121151id_/http%3A//www.goldentours.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Golden Tours
+# Privacy Policy | Golden Tours
 
 As a valued Golden Tours customer, your personal privacy is very important to us. We respect and protect your right to privacy in relation to your interactions with this website. Below, we explain how we use your information and how we protect your privacy.
 
