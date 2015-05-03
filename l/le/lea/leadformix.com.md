@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadformix.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121090843id_/http%3A//www.leadformix.com/trust-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadformix.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503054626id_/http%3A//www.leadformix.com/trust-privacy-policy.html) for the most accurate reproduction.*
 
 # LeadFormix Privacy Policy
 
