@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hbs.net.au privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230083740id_/http%3A//www.heritage.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbs.net.au privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503152702id_/https%3A//www.heritage.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy |
 
 ## People First is the way we do business
 
@@ -179,7 +179,7 @@ Our external dispute resolution service is:
 
 Financial Ombudsman Service (FOS) GPO Box 3 Melbourne, Victoria, 3001 Ph: 1300 78 08 08 Fax: 03 9613 6399 Website: www.fos.org.au Email: [info@fos.org.au](mailto:info@fos.org.au)
 
-## General Approach
+## General Approach 
 
 Your personal information privacy is important to Heritage. Heritage respects your right to be aware of who has information about you, what they are doing with it and why, and who else they are sharing it with. Heritage has adopted a privacy compliance culture that cements this relationship with you. Its foundation is the _Privacy Act 1988_.
 
