@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loliti.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005114953id_/http%3A//tiava.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loliti.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503031202id_/http%3A//www.tiava.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
