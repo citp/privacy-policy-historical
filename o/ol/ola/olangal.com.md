@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the olangal.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010211147id_/http%3A//olangal.com/component/content/article/2-uncategorised/6285-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olangal.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503043459id_/http%3A//olangal.com/component/content/article/2-uncategorised/6285-privacy-policy.html) for the most accurate reproduction.*
 
 # Malayalam Movie Watch Online, Malayalam Movie Downloads - Malayalam Movie Watch Online, Malayalam Movie Downloads
 
-##  [ Privacy Policy](http://www.olangal.com/component/content/article/2-uncategorised/6285-privacy-policy.html)
+##  [ Privacy Policy](http://olangal.com/component/content/article/2-uncategorised/6285-privacy-policy.html)
 
 Details
-     Category: [Uncategorised](http://www.olangal.com/component/content/category/2-uncategorised.html)
+     Category: [Uncategorised](http://olangal.com/component/content/category/2-uncategorised.html)
      Published on Monday, 06 October 2014 11:42 
      Written by Super User 
-     Hits: 222 
+     Hits: 4134 
 
 This Privacy Policy governs the manner in which Olangal.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.olangal.com](http://www.generateprivacypolicy.com/account/policies/edit/www.olangal.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Olangal.com.
 
