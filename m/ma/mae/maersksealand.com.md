@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maersksealand.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214210145id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maersksealand.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503162108id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Maerskline Terms
 
-This website is provided and controlled by A. P. Møller – Mærsk A/S, Esplanaden 50, DK-1098 Copenhagen K, Denmark, CVR no.: 22 75 62 14 (“Maersk”).
+This website is provided and controlled by Maersk Line A/S, Esplanaden 50, DK-1098 Copenhagen K, Denmark, CVR no.: 22 75 62 14 (“Maersk”).
 
 ##  1\. Scope 
 
