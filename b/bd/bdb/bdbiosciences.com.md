@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdbiosciences.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223211923id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdbiosciences.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503184611id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.*
 
 # Legal - Privacy Statement and Consent to Use of Data
 
