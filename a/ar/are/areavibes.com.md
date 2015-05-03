@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areavibes.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008233344id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areavibes.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503022755id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AreaVibes
 
