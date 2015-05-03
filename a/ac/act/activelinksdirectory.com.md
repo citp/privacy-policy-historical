@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activelinksdirectory.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814230513id_/http%3A//activelinksdirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activelinksdirectory.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503074716id_/http%3A//activelinksdirectory.com/privacy.html) for the most accurate reproduction.*
 
 # Active Links Directory | Worldwide General Directory - Privacy Policy
 
