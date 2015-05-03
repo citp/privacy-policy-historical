@@ -1,27 +1,43 @@
-> *The following text is extracted and transformed from the daftdogarcade.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328062935id_/http%3A//www.daftdogarcade.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daftdogarcade.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503145239id_/http%3A//daftdogarcade.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DaftDog Arcade
+# Daft Dog Arcade - Privacy Policy
 
-We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
+DaftDogArcade is committed to protecting your privacy online. In order to ensure our commitment, we have adopted an online privacy policy that directs how we collect, store, and use information collected about you online.
 
-We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.
+## What information does DaftDogArcade collect?
 
-The information we collect is:
+DaftDogArcade may request and/or collect non-private information from you when you use DaftDogArcade.com and/or register. To protect your privacy, we ask that you avoid sending us any and all personally identifiable information.
 
-    used to improve the content of our Web page.  
-    used to notify visitors about updates to our Web site.  
-    never shared with other organizations for commercial purposes.
+## Cookies
 
-Registration is not required to enter our site. However, subscription to certain services may require a user to complete a registration form. During registration a user must give certain contact information, but we never sell or give away this information. It is only gathered to contact the user about services on our site for which s/he has expressed interest. It is optional for the user to provide demographic information (income level, gender, etc.), and unique identifiers (username, password, etc.). Giving additional information helps provide a more personalized experience on our site, but is not required. We publish a newsletter, and we never sell or share our subscribers' email or mailing addresses. We operate online surveys, and we never sell or share our subscribers' email addresses. We do show advertisement to our users, which is handled by [Google Adsense](http://www.google.com/adsense "null"). So any such concerns with our advertising, should be directed to them respectively.
+DaftDogArcade may use cookies to improve the usability of our website. A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to give you the most personal experience possible on our website. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. We never use cookies to store personally identifiable information. Additionally, DaftDogArcade may use cookies and third party vendors to deliver ads related to DaftDogArcade to you while you are surfing other websites. If you would like to opt-out of such ads, you may visit <https://www.networkadvertising.org/choices/> to opt-out of such use of cookies.
 
-Furthermore:
+## IP Addresses
 
-    Google, as a third-party vendor, uses cookies to serve ads on your site.  
-    Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
-    Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/policies/privacy/ads/ "null"). 
+DaftDogArcade may collect your IP address for the purpose of safety and security.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement.
+## Log files
 
-We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our [](http://bored.ws/page/null "null")[contact form.](http://www.daftdogarcade.com/index.php?task=contact "Contact Form")
+Other non-personal information collected by DaftDogArcade is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a., "click-through data"). For example, log file entries are generated every time a visitor clicks the "Home" icon on our site. These entries enable DaftDogArcade to assess overall site activity, and improve the general user experience. Through the use of log files, we may also collect certain information about your system such as the type of browser you are using (e.g., Chrome, Internet Explorer) and the type of operating system you are using (e.g., Windows or Mac OS).
 
-If site users have any questions or suggestions regarding our privacy policy, please contact us via our [](https://web.archive.org/web/20140328062935id_/http%3A//www.daftdogarcade.com/page/null "null")[Contact us Page](http://www.daftdogarcade.com/index.php?task=contact "Contact Us").
+## Linking to third party sites
+
+DaftDogArcade may provide links from our Web sites to third party Web sites. We strongly recommend our users to read third party sites' privacy policies before submitting personal information to them. DaftDogArcade assumes no responsibility for the content found on third party websites linked from DaftDogArcade.com. DaftDogArcade hereby disclaims any representations or warranties expressed on any site other than its own site.
+
+## Advertisement on DaftDogArcade
+
+DaftDogArcade allows the use of advertising on DaftDogArcade.com by third party advertisers. Some of these advertising partners use cookies or similar technologies to better measure their campaign effectiveness, to target future campaigns and to better deliver a targeted experience to users. Advertisers must comply with personal data guidelines. All advertisers are instructed by DaftDogArcade not to display ads with sexual, violent or drug & alcohol related themes as well as anything that would be considered objectionable by societal norms. Should you find an inappropriate or offensive advertisement on DaftDogArcade, please notify us by emailing [contact@daftdogarcade.com](mailto:contact@daftdogarcade.com). Additionally, third parties may collect certain types of information about your visits to DaftDogArcade, including how you interact with the content on DaftDogArcade.
+
+For more information about best practices in Network Advertising, see [NAI code of conduct](http://www.networkadvertising.org/2013_Principles.pdf).
+
+### Google Adsense
+
+Some of the advertisements may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to DaftDogArcade.com and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at: <http://www.google.com/privacy_ads.html>
+
+## General
+
+By using this site, you signify your assent to the DaftDogArcade.com Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check the updates regularly so you are updated on these changes. Your continued use of this site will signify your acceptance. Our goal is that you have a great experience and we continue to deliver great content to you on DaftDogArcade. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, feel free to approach us on [contact@daftdogarcade.com](mailto:contact@daftdogarcade.com).
+
+[DaftDogArcade.com](http://daftdogarcade.com/)
+
+This document was last updated September 24, 2014
