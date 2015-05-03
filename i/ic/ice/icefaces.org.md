@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icefaces.org privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016041846id_/http%3A//www.icesoft.org/about/privacy-policy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icefaces.org privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503134316id_/http%3A//www.icesoft.org/java/about/privacy-policy.jsf) for the most accurate reproduction.*
 
 # Privacy Policy - ICEsoft Technologies
 
@@ -6,7 +6,7 @@ The purpose of this Privacy Policy is to describe to you ICEsoft’s practices i
 
 **OUR PRIVACY COMMITMENT**
 
-Your privacy is important to us. To help you better protect your privacy, ICEsoft provides this Policy Statement to inform you about our information practices and the choices you can make about the way your personal information is collected, used and disclosed.
+Your privacy is important to us. To help you better protect your privacy, ICEsoft provides this Policy Statement to inform you about our information practices and the choices you can make about the way your personal information is collected, used and disclosed. 
 
 **WHERE DO WE COLLECT INFORMATION**
 
@@ -24,11 +24,11 @@ This Privacy Policy applies to any and all information collected by ICEsoft thro
 
 
 
-Whenever we collect Personal Data information from you we do so with your awareness and permission. If you don’t want us to have access to the information we request, don’t fill out the forms. If you want to access our products and services and for whatever reason you don’t feel comfortable with us having access to the information requested, please [email us](mailto:subscription@icesoft.com) and we will see what we can do to accommodate you using other means.
+Whenever we collect Personal Data information from you we do so with your awareness and permission. If you don’t want us to have access to the information we request, don’t fill out the forms. If you want to access our products and services and for whatever reason you don’t feel comfortable with us having access to the information requested, please [email us](mailto:subscription@icesoft.com) and we will see what we can do to accommodate you using other means. 
 
 **WHAT PERSONAL DATA DO WE COLLECT**
 
-Depending on the type of interaction you are engaging in with the company; we can request different kinds of information. For the most part this information may include, but not be limited to the following:
+Depending on the type of interaction you are engaging in with the company; we can request different kinds of information. For the most part this information may include, but not be limited to the following: 
 
   * your name; (first and last)
   * the name of your company
@@ -48,7 +48,7 @@ Depending on whether or not you are procuring support or services from us we may
 
 **HOW WE USE YOUR PERSONAL DATA**
 
-We use your personal data:
+We use your personal data: 
 
   * to create and maintain your ICEsoft.org account
   * to communicate with you regarding a support request or bug report you submitted
@@ -64,42 +64,42 @@ We use your personal data:
 
 **DO WE SHARE YOUR DATA**
 
-Except for very limited circumstances ICEsoft will do its best not share your Personal Data with anyone other than yourself and/or your employer. ICEsoft may disclose your personal data to third parties under any of the following circumstances:
+Except for very limited circumstances ICEsoft will do its best not share your Personal Data with anyone other than yourself and/or your employer. ICEsoft may disclose your personal data to third parties under any of the following circumstances: 
 
   * As required by law. This includes such activities as responding to a valid subpoena, warrant, audit, or agency action, or to prevent fraud. For research activities, including the production of statistical reports.
   * As is required to fulfill orders, to conclude billing/credit card payment processing, and/or to facilitate bill collection.
   * In the context of a business transaction, such as a merger, acquisition, consolidation, or divestiture of all or nearly all of ICEsoft’s assets.
-  * When ICEsoft contracts third party contractors to provide services on our behalf, such as providing engineering or support services, the generation of statistical reports, market analysis and demographic studies, etc. and only when the third party agrees to be bound by this Privacy Policy.
+  * When ICEsoft contracts third party contractors to provide services on our behalf, such as providing engineering or support services, the generation of statistical reports, market analysis and demographic studies, etc. and only when the third party agrees to be bound by this Privacy Policy. 
 
 **ABOUT EMAIL**
 
-ICEsoft respects your privacy and will makes every effort to provide you with effective opt-out options with regards any promotional or direct marketing styled communications you may receive from ICEsoft and its employees. We will do our best to provide opt-out options with every promotional communication we send out. If for whatever reason our unsubscribe systems fail to work, please contact us and we will expedite your removal from any mail out lists. Please note that if you choose not to accept promotional e-mails, you may not receive special offers that may be of value to you.
+ICEsoft respects your privacy and will makes every effort to provide you with effective opt-out options with regards any promotional or direct marketing styled communications you may receive from ICEsoft and its employees. We will do our best to provide opt-out options with every promotional communication we send out. If for whatever reason our unsubscribe systems fail to work, please contact us and we will expedite your removal from any mail out lists. Please note that if you choose not to accept promotional e-mails, you may not receive special offers that may be of value to you. 
 
-Regardless of your “opt-out” status, you may still receive the odd communication from ICEsoft. Typically these will be in regards to a service or information request you may have submitted, reminders of training, webcast, or webinar session you registered for etc. ICEsoft also reserves the right to contact you in the event that we find an issue with a product or service you have purchased that may requires your immediate attention.
+Regardless of your “opt-out” status, you may still receive the odd communication from ICEsoft. Typically these will be in regards to a service or information request you may have submitted, reminders of training, webcast, or webinar session you registered for etc. ICEsoft also reserves the right to contact you in the event that we find an issue with a product or service you have purchased that may requires your immediate attention. 
 
 **COLLECTION OF USAGE DATA AND OTHER NON-PERSONAL DATA**
 
-Our website is designed to automatically captures IP addresses and to issue cookies. We use IP addresses to help diagnose problems with our network and server, identify users, and to help secure our website against cyber attacks, viruses or improper activities.
+Our website is designed to automatically captures IP addresses and to issue cookies. We use IP addresses to help diagnose problems with our network and server, identify users, and to help secure our website against cyber attacks, viruses or improper activities. 
 
-In order to provide a more effective and efficient user experience ICEsoft uses cookies on its website to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We often use these cookies to pass information back and forth across the systems that you interact with during your visit to our site. We use cookies and the information they provide to assist in tracking the demographics, statistics and usage profiles of our website visitors, forum users and downloaders. We refer to this information as Usage Data. Usage Data may be used and publicly disseminated by ICEsoft as part of our sales and marketing efforts. Cookies are also what enable us to “auto-fill” in information you may have previously entered into new forms or information request tables.
+In order to provide a more effective and efficient user experience ICEsoft uses cookies on its website to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We often use these cookies to pass information back and forth across the systems that you interact with during your visit to our site. We use cookies and the information they provide to assist in tracking the demographics, statistics and usage profiles of our website visitors, forum users and downloaders. We refer to this information as Usage Data. Usage Data may be used and publicly disseminated by ICEsoft as part of our sales and marketing efforts. Cookies are also what enable us to “auto-fill” in information you may have previously entered into new forms or information request tables. 
 
-It is at your discretion whether or not your browser is enabled to use cookies. You should consult your browser help features or documentation for more information on disabling cookies. If you do not wish us to be able to track or use your Usage Data, you should disable cookies. You should be aware however that the use of cookies may be necessary in some parts of our website for us to provide certain products or services, and choosing to reject cookies will reduce the performance and functionality of the site.
+It is at your discretion whether or not your browser is enabled to use cookies. You should consult your browser help features or documentation for more information on disabling cookies. If you do not wish us to be able to track or use your Usage Data, you should disable cookies. You should be aware however that the use of cookies may be necessary in some parts of our website for us to provide certain products or services, and choosing to reject cookies will reduce the performance and functionality of the site. 
 
 **PUBLIC FORUMS CAUTION**
 
-ICEsoft.org provides forums, wikis, and other similar public communication vehicles. Please remember that any information you disclose when utilizing these services is public information and not controlled by ICEsoft and is not subject to this Privacy Policy. This includes material such as your name, your company name, project details or other information you may deem to be proprietary. Please exercise caution when deciding to disclose any personal information when participating in these communication vehicles. Use of these services is a complimentary service to the community offered by ICEsoft. As the sponsor, ICEsoft reserves the right to take any necessary action to preserve the forum's integrity. This includes but is not limited to removing any posting that is vulgar or inappropriate and/or revoking a participants logon id.
+ICEsoft.org provides forums, wikis, and other similar public communication vehicles. Please remember that any information you disclose when utilizing these services is public information and not controlled by ICEsoft and is not subject to this Privacy Policy. This includes material such as your name, your company name, project details or other information you may deem to be proprietary. Please exercise caution when deciding to disclose any personal information when participating in these communication vehicles. Use of these services is a complimentary service to the community offered by ICEsoft. As the sponsor, ICEsoft reserves the right to take any necessary action to preserve the forum's integrity. This includes but is not limited to removing any posting that is vulgar or inappropriate and/or revoking a participants logon id. 
 
 **LINKS TO OTHER SITES**
 
-ICEsoft.org contains links to other sites. We do not control neither the information presented on these sites, nor do we control the information collected and privacy policy of these sites. Please consult the companies that run these sites directly if you have any questions regarding their policies and procedures.
+ICEsoft.org contains links to other sites. We do not control neither the information presented on these sites, nor do we control the information collected and privacy policy of these sites. Please consult the companies that run these sites directly if you have any questions regarding their policies and procedures. 
 
 **HOW TO UPDATE PERSONAL DATA**
 
-If you need to update any aspect of your personal data, please [contact us.](https://web.archive.org/web/20121016041846id_/http%3A//www.icesoft.org/about/contact-us.jsf) We will do our best to get the changes you want made into our data base as quickly as possible.
+If you need to update any aspect of your personal data, please [contact us.](https://web.archive.org/web/20150503134316id_/http%3A//www.icesoft.org/java/about/contact-us.jsf) We will do our best to get the changes you want made into our data base as quickly as possible. 
 
 **CONTACT ICESOFT**
 
-If you have any questions about any of these practices, please feel free to [contact us.](https://web.archive.org/web/20121016041846id_/http%3A//www.icesoft.org/about/contact-us.jsf)
+If you have any questions about any of these practices, please feel free to [contact us.](https://web.archive.org/web/20150503134316id_/http%3A//www.icesoft.org/java/about/contact-us.jsf)
 
 **CHANGES TO THIS PRIVACY POLICY**
 
