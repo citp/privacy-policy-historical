@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125085917id_/http%3A//www.securly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503174031id_/http%3A//www.securly.com/privacy) for the most accurate reproduction.*
 
 # Securly - Web Filtering 2.0 For Schools & Families
 
 _
 
-This privacy policy ("Policy") covers the website[http://www.securly.com](http://www.securly.com/#) which, is owned and operated by Securly, Incorporated ("Securly", "we", "us", "our"), and all associated services provided by Securly.
+This privacy policy ("Policy") covers the website[http://www.securly.com.securly.com](https://web.archive.org/#) which, is owned and operated by Securly, Incorporated ("Securly", "we", "us", "our"), and all associated services provided by Securly.
 
 _
 
@@ -16,7 +16,7 @@ If you have questions or complaints regarding our Policy or practices, please co
 
 In order to provide you with Securly services we may ask you for Personally Identifiable Information ("Personal Information"). Personal Information includes but is not limited to your name and email address. Depending on the services you request, Personal Information may also include addresses, phone numbers, IP addresses, credit card information, usernames, passwords, and other information you provide voluntarily that may be considered Personal Information. Securly collects and uses such information only insofar as is it deems reasonably necessary in order to provide our products and services, for us to manage and send you notices regarding your account, and for us to send you notices regarding Securly products and services. Subject to compliance with applicable law or contractual obligations, this information will be stored for as long as necessary to provide these products or services plus a reasonable time thereafter to comply with our archiving and restoration policies.
 
-If you email us through any of the contact us links on the http://www.securly.com website, if you submit a request for information through our website or if you submit a support ticket through the http://www.securly.com website we may ask you for Personal Information including but not limited to your name and email address in order to respond to your questions, comments and requests. If you choose to correspond with us via email, we may retain the content of your email messages, your email address and our correspondence with you.
+If you email us through any of the contact us links on the http://www.securly.com.securly.com website, if you submit a request for information through our website or if you submit a support ticket through the http://devwww4.securly.com website we may ask you for Personal Information including but not limited to your name and email address in order to respond to your questions, comments and requests. If you choose to correspond with us via email, we may retain the content of your email messages, your email address and our correspondence with you.
 
 ## Cookies, Clear GIFs, Clickstream and Browser Information
 
@@ -40,13 +40,17 @@ Securly recognizes the privacy interests of children and we encourage parents an
 
 We restrict access to Personal Information collected about you at our website to our employees, or those who are otherwise specified in this Policy, or others who need to know that information to provide services to you or in the course of conducting our business operations or activities. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). While no website can guarantee security, we maintain appropriate physical, electronic, and procedural safeguards to protect your Personal Information collected via the website. We protect our databases with various physical, technical and procedural measures and we restrict access to your information by unauthorized persons. We also advise all Securly employees about their responsibility to protect customer data and we provide them with appropriate guidelines for adhering to our company's business ethics standards and confidentiality policies. Inside Securly, data is stored in password-controlled servers with limited access
 
+## FERPA
+
+Securly, Inc. complies with the FERPA ruling. Securly remains a responsible advocate and does not and will not practice the release of data to any extent. Data released to Securly is the property of the institution and under the direct control of that institution.
+
 ## Visiting our Website from Outside of the United States
 
 We reserve the right to modify this Policy at any time, so please review it frequently. We will post those changes to this privacy statement on the home page and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. This Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.
 
 ## General Terms and Conditions of Use
 
-The terms of this Policy are incorporated into our general terms of use. Please review our terms of use at http://www.securly.com/terms/.
+The terms of this Policy are incorporated into our general terms of use. Please review our terms of use at http://www.securly.com.securly.com/terms/.
 
 ## Effective Date of This Privacy Policy
 
