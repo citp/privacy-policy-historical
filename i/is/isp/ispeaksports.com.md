@@ -1,64 +1,41 @@
-> *The following text is extracted and transformed from the ispeaksports.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131027id_/http%3A//www.ispeaksports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispeaksports.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503092148id_/http%3A//ispeaksports.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | I speak sportsI speak sports
+# I Speak Sports
 
-Privacy Policy for www.ispeaksports.com
+* * *
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email 
+If users have questions or concerns regarding this statement, they should contact ispeaksports.com via the contact information provided at page end.
 
-at info@ ispeaksports.com.
+## Information Collection
 
-At www. ispeaksports.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines 
+ispeaksports.com is the sole owner of the information collected from the website.
 
-the types of personal information is received and collected by www.ispeaksports and how it is used.
+## Profile
 
-Log Files  
-Like many other Web sites, www.ispeaksports.com makes use of log files. The information inside the log files includes 
+We store information that we collect via browser cookies, log files, and/or third parties to create a profile of our users. A profile is stored information that we maintain for individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and to improve the content of the web site for the user. This profile is used to tailor users' visits to our web site, and to direct pertinent marketing promotions to them. We do not share user profiles with third parties.
 
-internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit 
+## Browser Cookies
 
-pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather 
+A browser cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file instructions. Advertising cookies may be placed to enable our display advertising partner to present you with retargeting advertising on other sites based on your previous interaction with our website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
 
-demographic information. IP addresses and other such information are not linked to any information that is personally 
+## Third-Party Advertising
 
-identifiable.
+ispeaksports.com is not responsible for third-party advertising on its web site.
 
-Cookies and Web Beacons  
-www.ispeaksports.com does use cookies to store information about visitor’s preferences, record user-specific information on 
+## Log Files
 
-which pages the user access or visit, customize Web page content based on visitors browser type or other information that 
+Like most standard web site servers, we maintain log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user movement in the aggregate, and gather broad, aggregate demographic information.
 
-the visitor sends via their browser.
+## Legal Disclaimer
 
-Double-click DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on www. ispeaksports.com  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.ispeaksports and other 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or a legal process served on our web site.
 
-sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the 
+## Security
 
-following URL – http://www.google.com/privacy_ads.html
+ispeaksports.com takes every precaution to protect our client's information. When users submit sensitive information via the web site, their information is protected both on- and off- line.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-Commission Junction  
-Adbrite  
-Amazon
+All of our users' information, not just the sensitive information mentioned above, is restricted within our offices. Only employees who need the information to perform a specific job, for example, our customer service representatives, are granted access to personally identifiable information.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.ispeaksports.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies 
+## Notification of Changes
 
-( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the 
-
-effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-www.ispeaksports.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their 
-
-practices as well as for instructions about how to opt-out of certain practices. ispeaksports privacy policy does not apply 
-
-to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about 
-
-cookie management with specific web browsers can be found at the browsers’ respective websites.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
