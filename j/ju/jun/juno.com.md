@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230103922id_/http%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503162518id_/http%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
 
 # Juno - Privacy and Security
 
@@ -156,10 +156,10 @@ By using the Sites or Services, you signify your acceptance to this Policy. If y
 If you have any questions about this Policy please contact us at: 
 
 Juno Legal Department  
-21301 Burbank Boulevard  
+21255 Burbank Boulevard, Suite 400   
 Woodland Hills, CA 91367   
 or  
-security@support.juno.com.
+privacy@support.juno.com.
 
 **VII. International Users**
 
