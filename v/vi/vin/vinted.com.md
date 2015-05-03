@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vinted.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707060048id_/http%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinted.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503140342id_/http%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.*
 
 # Vinted Inc. Privacy Policy
 
-**Date of last revision: June 11, 2014**
+**Date of last revision: February  24, 2015**
 
 Vinted Inc. (“Vinted”) is committed to protecting the privacy and security of your personal information.  We want to share with you how we treat personal information about you that we receive in connection with your use of our website and mobile applications (collectively, the “Site”).
 
@@ -12,7 +12,7 @@ Also, please bear in mind that use of this Site is governed by the Terms and Con
 
 In general, you can visit our Site without telling us who you are or revealing any personal information about yourself.  However, you should be aware that any sections of this Site (including restricted portions of this Site) that may allow for the submission of personal information (referred to for convenience as “Registration Pages”) may contain a function for collecting various pieces of your personal information, including your name, address, email address, phone number(s), account information and any other information that you decide to provide us with, either directly or via third party services (for example, Facebook Connect)  We only collect your personal information if you voluntarily submit the information to us for such purposes as registering for the use of certain services, completion of surveys, submitting applications for employment, product or service purchases, or requests for information or services.  For your information, through certain technologies employed by this Site we also collect non-personally identifiable information about you.  For more details about this type of data collection, please refer to the section below on cookies and web beacons.
 
-To protect your security and privacy, we require that you (as opposed to a third party on your behalf) enter the personal information that we collect and that the information be current, although Vinted disclaims any legal duty to verify the accuracy of any personal data that you provide to Vinted.  You are free to access the personal information we have on file by contacting our Customer Service department by email at hello@vinted.com.  In addition, at any time you can request that we modify or delete your personal information by sending an email to us at hello@vinted.com with the words “UPDATE MY INFORMATION” in the subject line.  Please be aware that, to protect your security and privacy, Vinted may take reasonable steps to verify your identity prior to making changes to your personal information.  For your information, please note that it is our practice to monitor and in some cases record calls for staff training and quality assurance purposes.
+To protect your security and privacy, we require that you (as opposed to a third party on your behalf) enter the personal information that we collect and that the information be current, although Vinted disclaims any legal duty to verify the accuracy of any personal data that you provide to Vinted.  You are free to access the personal information we have on file by contacting our Customer Service department using **[our contact form](https://www.vinted.com/help/new)**.  In addition, at any time you can request that we modify or delete your personal information by contacting the team through **[our contact forum](https://www.vinted.com/help/new)**  with the words “UPDATE MY INFORMATION” in body of your message.  Please be aware that, to protect your security and privacy, Vinted may take reasonable steps to verify your identity prior to making changes to your personal information.  For your information, please note that it is our practice to monitor and in some cases record calls for staff training and quality assurance purposes.
 
 **How We Use the Information We Collect and Who We Share It With**
 
@@ -28,7 +28,7 @@ From time to time, we may collect general, non-personal, statistical information
 
 **Children’s Information and COPPA**
 
-We do not knowingly collect personal information from children under the age of 13.  The content of our Site and the products and services available are not intended for, or directed to, children. If you are under 13 years of age, then please do not use or access our website at any time or in any manner. If you have reason to believe that a child under the age of 13 has provided us with Personal Information, please contact us hello@vinted.com and we will endeavor to remove this information from out files. We recommend that parents and legal monitor their children’s use of the Internet and instruct them never to provide personal information without their explicit consent. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+We do not knowingly collect personal information from children under the age of 13.  The content of our Site and the products and services available are not intended for, or directed to, children. If you are under 13 years of age, then please do not use or access our website at any time or in any manner. If you have reason to believe that a child under the age of 13 has provided us with Personal Information, please **[contact us](https://www.vinted.com/help/new)**  and we will endeavor to remove this information from our files. We recommend that parents and legal monitor their children’s use of the Internet and instruct them never to provide personal information without their explicit consent. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 **Use of Cookies and Web Beacons**
 
@@ -40,7 +40,7 @@ We may also employ software technology known as “web beacons” or “clear GI
 
 **Opting In and Out**
 
-When you submit personal information to us through the Registration Pages on this Site, Vinted, Vinted related entities, and or selected third parties may use this information to communicate with you regarding the Services or to tell you about service we believe will be of interest to you. If we do so, any marketing communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or wish to have your name deleted from our mailing lists, please contact us at hello@vinted.com. Note that as a user of our service you cannot opt-out of some administrative communications that are reasonably necessary to the service.
+When you submit personal information to us through the Registration Pages on this Site, Vinted, Vinted related entities, and or selected third parties may use this information to communicate with you regarding the Services or to tell you about service we believe will be of interest to you. If we do so, any marketing communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or wish to have your name deleted from our mailing lists, please **[contact us](https://www.vinted.com/help/new)**. Note that as a user of our service you cannot opt-out of some administrative communications that are reasonably necessary to the service.
 
 **Links to Other Sites and Site Accounts**
 
@@ -60,4 +60,4 @@ The Site and Services may change from time to time. As a result, it may be neces
 
 **Contacting Us**
 
-If you have any questions or concerns relating to this Privacy Policy, please contact us by email at [hello@vinted.com](mailto:hello@vinted.com) . 
+If you have any questions or concerns relating to this Privacy Policy, please **[contact us](https://www.vinted.com/help/new)**. 
