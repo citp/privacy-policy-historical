@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemonline.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134157id_/http%3A//www.gemonline.tv/en/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemonline.tv privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504010349id_/http%3A//www.gemonline.tv/en/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - GEM Online
 
