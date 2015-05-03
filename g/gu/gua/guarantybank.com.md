@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guarantybank.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109013907id_/https%3A//www.guarantybank.com/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybank.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503054039id_/https%3A//www.guarantybank.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -11,9 +11,15 @@
   * [Find Us](https://web.archive.org/ATMLocator.aspx)
   * [Email Us](https://web.archive.org/email.aspx)
   * Lost or Stolen   
-ATM/Debit Card Notification  
-Business Hours: 1-800-235-4636 (INFO)  
-Off Hours: 1-800-236-2442 
+ATM/Debit Card Notification
+
+1-800-235-4636 (business hours) 
+
+1-800-236-2442 (after hours) 
+
+Error or Unauthorized Transaction Notification:   
+1-844-849-4078 
+
 
 
 
