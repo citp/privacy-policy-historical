@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awardscircuit.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119204906id_/http%3A//www.awardscircuit.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardscircuit.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503200356id_/http%3A//www.awardscircuit.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AwardsCircuit.com - By Clayton Davis
 
@@ -20,13 +20,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 The Awards Circuit may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -64,15 +64,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [The Awards Circuit](http://www.awardscircuit.com/)  
 [http://www.awardscircuit.com](http://www.awardscircuit.com/)  
-[ClaytonDavis@AwardsCircuit.com](https://web.archive.org/web/20141119204906id_/http://www.awardscircuit.com/about-us/privacy-policy/claytondavis@awardscircuit.com)
+[ClaytonDavis@AwardsCircuit.com](https://web.archive.org/web/20150503200356id_/http://www.awardscircuit.com/about-us/privacy-policy/claytondavis@awardscircuit.com)
 
 This document was last updated on September 02, 2012
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-Clayton Davis started to write professionally in his sophomore year of college when Johnny Alba, the editor and owner of the old Oscar prediction site, The Oscar Igloo, had an opening for staff writers. Clayton wrote for The Igloo for nearly four years before being appointed editor and revamping and renaming The Oscar Igloo into the now popular mega-site, The Awards Circuit. Since then, Clayton has become a proud member of the Broadcast Film Critics Association where he votes and attends the kick off to awards season show, The Critics Choice Awards. Most recently, Clayton is a now an active member of the International Press Academy, which hosts the popular Satellite Awards as well as the newly integrated Broadcast Television Journalists Association, which hosts the Critics Choice Television Awards. In June 2014 he became the year's first accepted member to New York Film Critics Online. He has been quoted in various outlets (CNN.com, Bloomberg.com, TheWrap.com, AceShowbiz.com, SlashFilm.com, ScottFeinberg.com) and continues to raise the bar for film-talking enthusiasts around the globe.
