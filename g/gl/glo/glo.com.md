@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glo.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105231812id_/http%3A//glo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glo.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503172021id_/http%3A//glo.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Glo
 
@@ -102,4 +102,4 @@ We will do our best to respond to you in a timely and professional manner in ord
 
 **Customer Services.** For customer service matters (including questions relating to this Policy), you may email via our contact form. 
 
-Glo and Glo.com are trademarks of HB, LLC in the United States and other countries. Copyright © 2014. HB, LLC. All Rights Reserved 
+Glo and Glo.com are trademarks of HB, LLC in the United States and other countries. Copyright © 2015. HB, LLC. All Rights Reserved 
