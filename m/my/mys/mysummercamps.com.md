@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125015206id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503205348id_/http%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Summer Camps 2011 - MySummerCamps.com
+# Summer Camps 2011 - MySummerCamps.com
 
-Privacy Statement for MySummerCamps.com
+#### Privacy Statement for MySummerCamps.com
 
 MySummerCamps.com is firmly commited to privacy. The following discloses our information gathering and dissemination practices for MySummerCamps.com.  
 This site contains third party links. MySummerCamps.com is not responsible for the privacy practices or the content of such Web Sites.
 
 Our request camp information link asks visitors for contact information (such as their email address) and demographic information (such as age, gender). Demographic and profile data is also collected at our site. We use this data to tailor our visitors' experience at our site, tailoring our content to match their interests. We do share your name and email address with programs when you voluntarily request further information from the program. By submitting this information you are opting in to receive communication back from the program you have contacted and from MySummerCamps.com about camp related products and services.
 
-Security
+#### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. MySummerCamps.com uses Secure Socket Layer (SSL) technology, utilized by most popular browsers, including Netscape and Microsoft Explorer. This technology allows us to use the industry standard encryption tools necessary to protect information transmitted between your computer and our server.
 
-Choice/Opt-Out
+#### Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
@@ -30,7 +30,7 @@ This site gives users the following options for removing their information from 
 
 5\. You can call the following telephone number: 877-777-7738
 
-Correct/Update
+#### Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided.
 
@@ -45,7 +45,7 @@ This site gives users the following options for changing and modifying informati
 
 5\. Call the following telephone number: 877-777-7738
 
-Contacting the Web Site
+#### Contacting the Web Site
 
 If you have any questions about this privacy statement or the practices of the site you can contact:
 
