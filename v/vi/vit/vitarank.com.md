@@ -1,16 +1,28 @@
-> *The following text is extracted and transformed from the vitarank.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225084412id_/http%3A//vitarank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitarank.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503075020id_/http%3A//vitarank.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vitarank
+# Privacy Policy | Vitarank - Organic SEO Services
+
+**What information do we collect?**
+
+We collect information from you when you place an order or respond to a survey.
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
+
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways:
+
+To improve our website
 
 We continually strive to improve our website offerings based on the information and feedback we receive from you.To improve customer service
 
 Your information helps us to more effectively respond to your customer service requests and support needs.To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 To send periodic emails
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -54,14 +66,14 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.old.vitarank.com
+http://www.vitarank.com
 
-VITARANK
+**VITARANK**
 
 Through our website at Vitarank.com  
 Skype @vitaranksupport  
-Dedicated support portal at old.vitarank.com/support  
-By email: support@old.vitarank.com  
-for sales inquiries: hello@old.vitarank.com
+Dedicated support portal at vitarank.com/support  
+By email: support@vitarank.com  
+for sales inquiries: hello@vitarank.com
 
 This Agreement is governed by and shall be construed in accordance with the laws of the United States of America, in the state of Nevada. The parties submit all their disputes arising out of or in connection with this Agreement to the exclusive jurisdiction of the Courts of Nevada.
