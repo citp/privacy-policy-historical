@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memory4less.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015002024id_/http%3A//www.memory4less.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memory4less.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504001359id_/http%3A//www.memory4less.com/privacy.aspx) for the most accurate reproduction.*
 
 # Memory4Less - Privacy Policy
 
