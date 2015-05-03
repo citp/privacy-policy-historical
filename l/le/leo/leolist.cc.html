@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leolist.cc privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230194045id_/http%3A//www.leolist.cc/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leolist.cc privacy policy that was archived on 2015-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150503130647id_/http%3A//www.leolist.cc/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -22,20 +22,33 @@
 
 <!--<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600' rel='stylesheet' type='text/css'>-->
 
-<link href="http://s2.leolist.cc/min/1419881100/stylesheets/kb.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://s2.leolist.cc/min/1419881100/stylesheets/bootstrap.min.css,/stylesheets/common.css,/stylesheets/tinymce.css,/stylesheets/view-ad.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://s2.leolist.cc/min/1429889100/stylesheets/kb.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://s2.leolist.cc/min/1429889100/stylesheets/bootstrap.min.css,/stylesheets/common.css,/stylesheets/tinymce.css,/stylesheets/view-ad.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]> <link href="/static/stylesheets/ie8-and-down.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->
-<link href="http://s2.leolist.cc/min/1419881100/stylesheets/styles.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://s2.leolist.cc/min/1429889100/stylesheets/styles.css" media="screen" rel="stylesheet" type="text/css">
 <script>
+    var readyStart = +new Date();
+    var readyQueue = []; var readyProcessed = false;
+    readyHandler = function (event) {
+        console.log('ready', readyProcessed, +new Date() - readyStart);
+        if (readyProcessed) return;
+        readyProcessed = true;
+        readyQueue.forEach(function(func) { func(); });
+    };
+
+    if (window.addEventListener) {
+        window.addEventListener('load', readyHandler, false);
+        window.addEventListener('DOMContentLoaded', readyHandler, false);
+    } else {
+        window.attachEvent('onload', handler);
+    }
+
     function _l(handler, now) {
         if (now) {
             handler();
         } else {
-            if (window.addEventListener) {
-                window.addEventListener('load', handler, false);
-            } else {
-                window.attachEvent('onload', handler);
-            }
+            //add to event queue
+            readyQueue.push(handler);
         }
     }
 </script>
@@ -103,8 +116,8 @@
     </div>
     <div class="clearfix">
         <ul class="nav navbar-nav">
-            <li><a class="selected" href="/personals/male-companions/metro-vancouver">Ads</a></li>
-            <li><a href="/blog">Blog</a></li>
+            <li><a class="selected" href="/list">Ads</a></li>
+            <!--<li><a class="selected" href="/blog">Blog</a></li>-->
                     </ul>
                     <div class="pull-right">
                 <a class="btn btn-orange post-new" href="/post">Post an Ad</a>
@@ -247,7 +260,7 @@ guaranteed.<o:p></o:p></font></span></p><p class="BodyText1"><font color="#00000
                        <div class="col">
                            <h3>Explore</h3>
                            <ul>
-                             <li><a href="/personals/male-companions/metro-vancouver">Ads</a></li>
+                             <li><a href="/list">Ads</a></li>
                              <li><a href="/blog">Blog</a></li>
                              <li><a rel="tooltip" data-placement="bottom" data-html="true" title="<i class='ico ico-info3'></i>Coming Soon">Social Network</a></li>
                              <li><a rel="tooltip" data-placement="bottom" data-html="true" title="<i class='ico ico-info3'></i>Coming Soon">Forum</a></li>
@@ -284,23 +297,23 @@ guaranteed.<o:p></o:p></font></span></p><p class="BodyText1"><font color="#00000
                <div class="in">
                    <div class="clearfix">
                        <div class="col2 copy">
-                           <p>© Copyright 2013-2014 TCC Media Solutions Limited</p>
+                           <p>© Copyright 2013-2015 TCC Media Solutions Limited</p>
                        </div>
                         <div class="col2">
     <div class="title">Ads Posted in Total</div>
-    <div class="number">5,540,727</div>
+    <div class="number">7,231,617</div>
 </div>
 <div class="col2">
     <div class="title">Ads Posted this Week</div>
-    <div class="number">3,507</div>
+    <div class="number">118,642</div>
 </div>
 <div class="col2">
     <div class="title">Users Online</div>
-    <div class="number">4,168</div>
+    <div class="number">1,634</div>
 </div>
 <div class="col2">
     <div class="title">Registered Users</div>
-    <div class="number">26,141</div>
+    <div class="number">28,246</div>
 </div>
 
 
@@ -323,10 +336,14 @@ guaranteed.<o:p></o:p></font></span></p><p class="BodyText1"><font color="#00000
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
-<script type="text/javascript" src="http://s2.leolist.cc/min/1419881100/js/script.js"></script>
-<script type="text/javascript" src="http://s2.leolist.cc/min/1419881100/js/libs/bootstrap/bootstrap.min.js,/js/libs/jquery.tinyscrollbar.min.js,/js/libs/jquery.maskedinput.min.js,/js/libs/jquery.lazyload.min.js,/js/libs/bootstrap/bootstrap-slider.js,/js/ad.js,/js/common.js,/js/login.js,/js/list.js,/js/bet.js"></script>
-    <link type="text/css" href="/cometchat/cometchat3.css" rel="stylesheet" charset="utf-8">
-    <script type="text/javascript" src="/cometchat/cometchat3.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://s2.leolist.cc/min/1429889100/js/script.js"></script>
+<script type="text/javascript" src="http://s2.leolist.cc/min/1429889100/js/libs/bootstrap/bootstrap.min.js,/js/libs/jquery.tinyscrollbar.min.js,/js/libs/jquery.maskedinput.min.js,/js/libs/jquery.lazyload.min.js,/js/libs/bootstrap/bootstrap-slider.js,/js/ad.js,/js/common.js,/js/login.js,/js/list.js,/js/bet.js"></script>
+    
+    
+    <script>readyHandler();</script>
+
+    <link type="text/css" href="/cometchat/cometchat4.css" rel="stylesheet" charset="utf-8">
+    <script type="text/javascript" src="/cometchat/cometchat4.js" charset="utf-8"></script>
 
     
 <script type="text/javascript">
@@ -335,7 +352,7 @@ guaranteed.<o:p></o:p></font></span></p><p class="BodyText1"><font color="#00000
   _gaq.push(['_setAccount', 'UA-57991003-1']);
   _gaq.push(['_setAllowAnchor', true]);
   _gaq.push(['_setCustomVar',2,'MobileMode','dsk',3]);
-      _gaq.push(['_setCustomVar',4,'End','10',3]);
+      _gaq.push(['_setCustomVar',4,'End','21',3]);
   _gaq.push(['_trackPageview']);
   
   (function() {
@@ -349,7 +366,7 @@ guaranteed.<o:p></o:p></font></span></p><p class="BodyText1"><font color="#00000
 
 
 
-    
-    
+
+
 
 </body></html>
