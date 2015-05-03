@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrics-keeper.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926000916id_/http%3A//lyrics-keeper.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrics-keeper.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503060102id_/http%3A//lyrics-keeper.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
