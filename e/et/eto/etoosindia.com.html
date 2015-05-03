@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the etoosindia.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121032150id_/http%3A//www.etoosindia.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etoosindia.com privacy policy that was archived on 2015-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150504010219id_/http%3A//www.etoosindia.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/sites/all/themes/etoos1/favicon.ico" type="image/x-icon">
   <title>Privacy Policy</title>
- <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_c849ca625820b48cfc8494c655c4ad79.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/sites/default/files/js/js_e13796364d037fbdbf12ddb51f36f514.js"></script>
+ <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_990ab6f854164383b0b7a1cb6ac1dc4a.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/sites/default/files/js/js_ef09510422f49d594a7944caa4c31dcb.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "fb_connect": { "front_url": "/", "fbu": null, "uid": 0 }, "colorbox": { "transition": "elastic", "speed": 350, "opacity": "0.85", "slideshow": false, "slideshowAuto": false, "slideshowSpeed": 2500, "slideshowStart": "", "slideshowStop": "", "current": "{current} of {total}", "previous": "« Prev", "next": "Next »", "close": "Close", "overlayClose": true, "maxWidth": "100%", "maxHeight": "100%" } });
@@ -74,27 +74,48 @@ $("#full-chat").slideDown();
  <script type="text/javascript">
 
 $(document).ready(function(e) {
-$('#dropdown_menu').hide();
-$('html').click(function() {
-    $('#dropdown_menu').hide();
- })
-$('#dropdown_container').click(function(event){
-    event.stopPropagation();
+
+	$('#dropdown_menu').hide();
+	$('html').click(function() {
+		$('#dropdown_menu').hide();
+	});
+	$('#dropdown_container').click(function(event){
+		event.stopPropagation();
+	});
+
+	$('#ddlink').click(function(e) {
+		$('#dropdown_menu').toggle();
+	});
+
+	setInterval(fn_highlights, 1000);
+
 });
 
- $('#ddlink').click(function(e) {
+function fn_highlights() {
 
-     $('#dropdown_menu').toggle();
-	
- });
-});
+	var date = new Date();
+	if (date.getSeconds()%2) {
+		$(".highlights").css({color:"#D4EA0F"});
+	}
+	else {
+		$(".highlights").css({color:"#ADFF05"});
+	}
+}
+
 </script>
 
 <!--MAIN TOP HEADER START-->
 
-           
-<h1><a href="/" title="Home"><img src="/sites/all/themes/etoos1/logo.png" alt="Home"></a>        </h1>
-                     
+	 
+	<h1><a href="/" title="Home"><img src="/sites/all/themes/etoos1/logo.png" alt="Home"></a></h1>
+	<!-- 2014-12-16 add 
+	<div style="position:absolute; left:170px; top:30px; z-index:9999 !important;">
+		<a href="/cbse-video-lectures" title="CBSE">
+			<img src="/sites/all/themes/etoos1/images/cbse-top-layer.gif" alt="CBSE"/>
+		</a>
+	</div>
+	-->
+	           
     <div class="search-course fl">
     <div id="block-block-22" class="block ">
 
@@ -104,7 +125,7 @@ $('#dropdown_container').click(function(event){
  <input type="text" maxlength="200" name="vodsearch_text" id="edit-vodsearch-text" size="10" value="Search for JEE Courses" onfocus="if (this.value == 'Search for JEE Courses') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search for JEE Courses';}" class="form-text">
 </div>
 <input type="submit" name="op" id="edit-submit" value="" class="form-submit">
-<input type="hidden" name="form_build_id" id="form-007ed5edcb5e6dd3f56184e0dd69f4e7" value="form-007ed5edcb5e6dd3f56184e0dd69f4e7">
+<input type="hidden" name="form_build_id" id="form-d1b106e9d9665114219d34ad7e6745db" value="form-d1b106e9d9665114219d34ad7e6745db">
 <input type="hidden" name="form_id" id="edit-vodSearch-form" value="vodSearch_form">
 
 </div></form>
@@ -135,7 +156,12 @@ $('#register').mousedown(function(event) {
 });
 </script>
                         <div class="sub-links fr">   
-           <a href="http://www.etoosindia.com/cart">My Cart(<span class="red">0</span>)</a> |  <a href="http://www.etoosindia.com/mypurchased">My Page</a> |  <a href="http://www.etoosindia.com/help-desk">HelpDesk</a> |  <a href="http://www.etoosindia.com/faq">FAQ's</a></div>
+				<a href="http://www.etoosindia.com/cart">My Cart(<span class="red">0</span>)</a> |  
+				<a href="http://www.etoosindia.com/mypurchased">My Page</a> |  
+				<!-- 
+				<a href="http://www.etoosindia.com/help-desk">HelpDesk</a> |  
+				-->
+				<a href="http://www.etoosindia.com/faq">FAQ's</a></div>
             </div>
 </div>
 </div>
@@ -179,11 +205,12 @@ $(document).ready(function() {
 
 </script>
         <ul class="links"><li class="menu-778 first"><a href="/" class="inactive" title="home">Home</a></li>
-<li class="menu-2135"><a href="/year-long-courses" class="high-bullet">JEE Courses</a></li>
+<li class="menu-15346"><a href="/iit-jee-yearlong-complete-courses" class="high-bullet" title="iit-jee-yearlong-complete-courses">JEE Courses</a></li>
 <li class="menu-846"><a href="/jeefaculties">JEE Faculties</a></li>
-<li class="menu-2958"><a href="/jee-advanced-2014-video-solutions">JEE Info</a></li>
+<li class="menu-15844"><a href="/jee-main-2015-video-solutions" title="jee-main-2015-video-solutions">JEE Info</a></li>
 <li class="menu-9523"><a href="/offers">Offers</a></li>
-<li class="menu-10634 last"><a href="/mypurchased">My Courses</a></li>
+<li class="menu-10634"><a href="/mypurchased">My Courses</a></li>
+<li class="menu-15952 last"><a href="/smart-learning-center" class="highlights" style="color: #D4EA0F;">Smart Learning Center</a></li>
 </ul>      </div> <!-- /primary -->
 
 
@@ -221,6 +248,9 @@ $(document).ready(function() {
                 <ul>
                 <li> <a href="about_etoosindia">Vision</a></li>
                 <li><a href="whyetoosindia">Why Etoosindia</a></li>
+                <!-- 
+                <li><a href="smart-learning-center">Smart Learning Center</a></li>
+                -->
                 <li><a href="contact_etoosindia">Contact Us</a></li>
                 <li><a href="terms">Terms &amp; Conditions</a></li>
                 <li><a href="privacy-policy">Privacy Policy</a></li>
@@ -290,7 +320,7 @@ $(document).ready(function() {
  
     
  
-		<span class="fl" style="padding:10px 0 0 0;"><a href="http://www.etoosindia.com/about_etoosindia">ABOUT US</a>  |  <a href="http://www.etoosindia.com/terms">TERMS &amp; CONDITIONS</a>  |  <a href="http://www.etoosindia.com/privacy-policy">PRIVACY POLICY</a> |  <a href="http://www.etoosindia.com/etoosindia-careers">CAREER</a>   |  <a href="http://www.etoosindia.com/contact_etoosindia">CONTACT US</a> |  <a href="http://www.etoosindia.com/sitemap.xml" target="_blank">XML SITEMAP</a></span>
+		<span class="fl" style="padding:10px 0 0 0;"><a href="http://www.etoosindia.com/about_etoosindia">ABOUT US</a>  |  <a href="http://www.etoosindia.com/terms">TERMS &amp; CONDITIONS</a>  |  <a href="http://www.etoosindia.com/privacy-policy">PRIVACY POLICY</a> |  <a href="http://www.etoosindia.com/etoosindia-careers">CAREER</a>   |  <a href="http://www.etoosindia.com/contact_etoosindia">CONTACT US</a>
         <span class="fr" style="padding:5px 0 0 0;"><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <g:plusone href="http://www.etoosindia.com" size="Medium"></g:plusone><img src="http://www.etoosindia.com/sites/all/themes/etoos1/images/social-icons.png" alt="" width="100" height="21" border="0" usemap="#Map3">
         <map name="Map3" id="Map3">
@@ -307,14 +337,16 @@ $(document).ready(function() {
           <img src="http://www.etoosindia.com/sites/all/themes/etoos1/images/home-cc-avenue.png" width="251" height="53" alt="">
           </div>
           <div class="outer-c">
-          <span class="footer-copyright">
-         <strong style="color:#000;">ETOOS Education Pvt. Ltd.&nbsp;&nbsp;</strong>  3rd Floor, H.No.50 Rajeev Gandhi Nagar, Kota, Rajasthan 324005<br>
-Help Desk : Tel. 09214233303(9AM~6PM), support@etoosindia.com<br>
-Copyright ⓒ 2011~2014 etoosindia.com by ETOOS Education. All Rights Reserved.
-          </span>
+			<span class="footer-copyright">
+			<strong style="color:#000;">ETOOS Education Pvt. Ltd.&nbsp;&nbsp;</strong>  
+			3rd Floor, H.No.50 Rajeev Gandhi Nagar, Kota, Rajasthan 324005<br>
+			Help Desk : Tel. 09214233303(9AM~6PM), support@etoosindia.com<br>
+			Franchise / Distributorship : Tel. 09214233301<br>
+			Copyright ⓒ 2011~2014 etoosindia.com by ETOOS Education. All Rights Reserved.
+			</span>
           <span style="float:right;"><a href="/" title="Home"><img src="http://www.etoosindia.com/sites/all/themes/etoos1/images/home-etoos-footer-logo.png" width="243" height="59" alt=""></a></span>
           </div>
-    </div>
+    </span></div>
  <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -328,6 +360,31 @@ Copyright ⓒ 2011~2014 etoosindia.com by ETOOS Education. All Rights Reserved.
   })();
 
 </script>
+
+<!-- 2015.01.31 google remarketing -->
+<script type="text/javascript">
+var google_tag_params = {
+edu_pid: 'REPLACE_WITH_VALUE',
+edu_plocid: 'REPLACE_WITH_VALUE',
+edu_pagetype: 'REPLACE_WITH_VALUE',
+edu_totalvalue: 'REPLACE_WITH_VALUE',
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 967011003;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/967011003/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- // 2015.01.31 google remarketing -->
 </div>
     </div>
   
@@ -358,5 +415,5 @@ if (typeof(FB) == 'undefined') {
 
 
 
-<!-- Page cached by Boost @ 2014-11-20 12:04:19, expires @ 2014-11-20 13:04:19 -->
+<!-- Page cached by Boost @ 2015-05-01 19:33:54, expires @ 2015-05-01 20:33:54 -->
 </body></html>
