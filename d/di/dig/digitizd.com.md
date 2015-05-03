@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitizd.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017220258id_/http%3A//www.digitizd.com/tag/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitizd.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503071832id_/http%3A//www.digitizd.com/tag/privacy) for the most accurate reproduction.*
 
 # privacy | Digitizd
 
