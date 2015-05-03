@@ -1,22 +1,26 @@
-> *The following text is extracted and transformed from the spicyavenue.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726203149id_/http%3A//www.spicyavenue.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicyavenue.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503202654id_/http%3A//www.spicyavenue.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Spicy Avenue, Korean fashion online
 
-**PRIVACY POLICY**
+****
 
-The Privacy Statement applies to the collection, storage, use and dissemination by Spicy Avenue ( **Spicy Avenue, we, our, us** ) of your ( **You, Your** ) personal information.
+The Privacy Statement applies to the collection, storage, use and dissemination by Spicy Avenue ( **Spicy Avenue, we, our, us** ) of your ( **You, Your** ) personal information. Access to spiceavenue.com ( **Site** ) is conditional on your acceptance of the terms of this Privacy Statement. This Privacy Policy forms part of the Terms of Use and by using the Site, you agree to comply with these terms. This Privacy Policy applies only to information collected through our Site and not to information collected offline.
 
-Access to spiceavenue.com ( **Site** ) is conditional on your acceptance of the terms of this Privacy Statement. This Privacy Policy forms part of the Terms of Use and by using the Site, you agree to comply with these terms. This Privacy Policy applies only to information collected through our Site and not to information collected offline.
+At Spicy Avenue, we treat your privacy, and any Personal Information that you give to us, with the utmost care and respect. The following Privacy Policy explains the information we collect and what we use it for.
 
-At Spicy Avenue, we treat your privacy, and any Personal Information that you give to us, with the utmost care and respect. The following Privacy Policy explains the information we collect and what we use it for.
+  ****
 
-**What information do we collect?**
+  * _**What information do we collect?**_
+
+
 
 We collect information from you when you register on our site, subscribe to our newsletter or upload photos. When ordering or registering on our site, you may be asked to enter your name, e-mail address, date of birth, mailing address or phone number.
 
 We may collect and use non-personal information such as the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider to optimize our goods and services to you.
 
-**What do we use your information for?**
+  * _**What do we use your information for?**_
+
+
 
 We use your Personal Information to provide you with information, process your orders and for any related or ancillary purposes, including, without limitation:
 
@@ -34,17 +38,23 @@ We use your Personal Information to provide you with information, process your o
 
 We may engage third party service providers to assist with delivery, security, professional advisory, banking, payment processing or technology services. These parties may be required to handle your Personal Information and if they do, they must safeguard this information and only use it for the purposes it was supplied, although we are not responsible for ensuring this.
 
-**How do we protect your information?**
+  * _**How do we protect your information?**_
+
+
 
 We will keep all Personal Information we receive from you confidential. We implement a variety of physical and electronic security measures to maintain the safety of your Personal Information.
 
 We restrict physical access to our offices and offer the use of a secure server. All supplied sensitive credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database. Your credit information can only be accessed by those authorized with special access rights to our systems who are required to keep the information confidential. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.
 
-**Do we disclose any information to outside parties?**
+  * _**Do we disclose any information to outside parties?**_
+
+
 
 We do not sell, trade, or otherwise transfer your Personal Information to third parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you. We may also release your Personal Information when we believe release is appropriate to comply with the law, enforce our Terms of Use, or protect ours or others rights, property, or safety. However, non-personal visitor information may be provided to other parties for marketing, advertising, or other uses. When you provide Personal Information and request it to be published on the Site, you consent for us to make your Personal Information public.
 
-**Do we use cookies?**
+  * _**Do we use cookies?**_
+
+
 
 Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow). Cookies enable the sites or service provider's systems to recognize your browser to capture and remember certain information.
 
@@ -52,11 +62,15 @@ We use cookies to understand and save your preferences for future visits and com
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
 
-**Do we use any third party links?**
+  * _**Do we use any third party links?**_
+
+
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Changes to Privacy Policy**
+  * _**Changes to Privacy Policy**_
+
+
 
 If Spicy Avenue decides to change our Privacy Policy, we will post those changes on this page, and update the Privacy Policy modification date below.
 
