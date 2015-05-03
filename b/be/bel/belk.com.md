@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630071123id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503215043id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy - belk.com - Belk.com
 
@@ -9,14 +9,14 @@ This Policy will give you a better understanding of the following:
   * What personally identifiable information belk.com collects
   * How will my personal information be used
   * Is my personal information shared with third parties
-  *  How you control the collection, usage and distribution of any personal information you provide to belk.com or any of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook)
+  * How you control the collection, usage and distribution of any personal information you provide to belk.com or any of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook)
   * How we protect the security of your personal information
   * Cookies and other computer information
   * How can I decide what promotional email communications I will receive
   * How can I decide what promotional mobile phone communications I will receive?
   * Privacy Protection of Children
   * Linking to Third Party Web Sites
-  * Notice to California Residents - Your California Privacy Rights 
+  * Notice to California Residents - Your California Privacy Rights
   * Privacy Policy Questions or Comments?
   * Changes to the belk.com Privacy Policy
 
@@ -61,11 +61,11 @@ Information collected on belk.com or one of our other services such as Belk mobi
 
 **Is my personal information shared with third parties?**
 
-When you visit belk.com or visit one of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook) and submit personal information, you are sharing that information with belk.com and the Belk-owned and controlled family of companies. We may provide your personal information to our agents, representatives and service providers for limited purposes, including but not limited to, billing customer orders, fulfilling customer orders; communicating to customers; providing customer service; administering opt-in contests or sweepstakes; offering targeted marketing communications to users that opted-in to receive such communications; providing a personalized shopping experience; and preventing online fraud. In addition, we may share your information with GE Money Bank, the issuer of the Belk Rewards Card to allow them to provide you with information and offers relating to the Belk Rewards Card program. Except as stated herein, we do not sell, trade, rent or give out your personal information to third parties for their marketing purposes. 
+When you visit belk.com or visit one of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook) and submit personal information, you are sharing that information with belk.com and the Belk-owned and controlled family of companies. We may provide your personal information to our agents, representatives and service providers for limited purposes, including but not limited to, billing customer orders, fulfilling customer orders; communicating to customers; providing customer service; administering opt-in contests or sweepstakes; offering targeted marketing communications to users that opted-in to receive such communications; providing a personalized shopping experience; and preventing online fraud. In addition, we may share your information with Synchrony Bank, the issuer of the Belk Rewards Card to allow them to provide you with information and offers relating to the Belk Rewards Card program. Except as stated herein, we do not sell, trade, rent or give out your personal information to third parties for their marketing purposes. 
 
-If you make a transaction on belk.com with your Belk Rewards Card, the information sharing terms of the GE Money Bank (GEMB) Privacy Policy will apply. If and when you choose to sign up for a Belk Rewards Card, administered by GE Money Bank, you will be informed of the GEMB Privacy Policy which includes its disclosure on information sharing. The GEMB Privacy Policy is also always available on the Belk Credit Services Online. All Belk Rewards Cardholders have the right to opt-out from having personal information shared with certain third parties. For more information, please see the Its Your Choice section in the GEMB Privacy Policy: 
+If you make a transaction on belk.com with your Belk Rewards Card, the information sharing terms of the Synchrony Bank (SYNCB) Privacy Policy will apply. If and when you choose to sign up for a Belk Rewards Card, administered by Synchrony Bank, you will be informed of the SYNCB Privacy Policy which includes its disclosure on information sharing. The SYNCB Privacy Policy is also always available on the Belk Credit Services Online. All Belk Rewards Cardholders have the right to opt-out from having personal information shared with certain third parties. For more information, please see the Its Your Choice section in the SYNCB Privacy Policy: 
 
-[GE Money Bank Privacy Policy ](https://www.onlinecreditcenter2.com/Belk/privacy.html)
+[Synchrony Bank Privacy Policy ](https://www.onlinecreditcenter2.com/Belk/privacy.html)
 
 Finally, we may be required to disclose your personal information to third parties if necessary to comply with applicable laws, subpoenas or court orders. 
 
