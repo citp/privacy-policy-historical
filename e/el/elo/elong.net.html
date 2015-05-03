@@ -1,150 +1,774 @@
-<!--The following is the downloaded HTML source of the elong.net privacy policy that was archived on 2012-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111131810id_/http%3A//www.elong.net/aboutus/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elong.net privacy policy that was archived on 2015-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150503102733id_/http%3A//elong.investorroom.com/index.php%3Fs%3D68) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Policy - Travel Beyond Perfection</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="China hotels, China flights, China, online reservations, hotel reservations, cheap airfare, discount airfare, elong, www.elong.com, cheap flights, discount flights, airfare, discount travel, travel China, China travel, plane tickets, travel guides, lodging, resorts. ">
-<meta name="description" content="eLong is the leading online travel planning and hotel booking, flight booking site in China. Book flights online, reserve hotels in China. ">
-<meta name="GENERATOR" content="com.eLong.Web.MyeLong.login Class">
-<link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
-<body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- begin spin_special_output(head_start) -->
+<script type="text/javascript" async="" defer="" src="//stats2.drivetheweb.com/piwik.js"></script><script type="text/javascript" src="js/jquery-webdriver.js"></script>
+<script type="text/javascript" src="js/webdriver.js"></script>
 
-<script type="text/javascript" src="http://www.elong.net/js/share.js" charset="iso-8859-1"></script>
-<script type="text/javascript" src="http://www.elong.net/js/myelong.js" charset="iso-8859-1"></script>
-<script type="text/javascript" src="http://www.elong.net/js/loginmenu.js" charset="iso-8859-1"></script>
+			<script type="text/javascript">
+			var ir_featurebox = {
+				featureboxes: new Array,
+				ticker_data: new Array,
+
+				update: function(index, ticker) {
+					if (!this.featureboxes[index]) {
+						this.featureboxes[index] = {
+							ticker: ticker,
+							chart: false,
+							size: false
+						};
+					}
+
+					if (!this.ticker_data[ticker])
+						this.ticker_data[ticker] = {};
+
+					if (webDriver.jQuery("#ir_featurebox_"+index+"-quote").length)
+						this.update_quote(index, ticker);
+
+					if (webDriver.jQuery("#ir_featurebox_"+index+"-chart").length)
+						this.update_chart(index, ticker);
+
+					if (webDriver.jQuery("#ir_featurebox_"+index+"-data").length)
+						this.update_data(index, ticker);
+
+					this.update_labels(index, ticker);
+				},
+
+				update_labels: function(index, ticker) {
+					if (!this.ticker_data[ticker]["labels"]) {
+						webDriver.jQuery("#ir_featurebox_"+index+"-footer").html("");
+						webDriver.jQuery.getJSON(
+							"index.php",
+							{
+								ajax: "ir_featurebox",
+								ticker: ticker,
+								data: "labels"
+							},
+							function(data) {
+								ir_featurebox.ticker_data[ticker]["labels"] = data;
+								ir_featurebox.update_labels(index, ticker);
+							}
+						);
+					} else {
+						webDriver.jQuery("#ir_featurebox_"+index+"-footer").html(this.ticker_data[ticker]["labels"].footer);
+					}
+				}
+			};
+			</script>
+		
+				<style type="text/css">
+				div.wd_ticker_label {
+					text-align: right;
+					margin: 5px 0;
+				}
+				div.wd_ticker_label span.wd_exchange {
+					color: #999999;
+				}
+
+				div.wd_ticker_label span.wd_exchange:after {
+					content: ": ";
+				}
+				</style>
+			<script type="text/javascript">webDriver.push_jQuery();</script>
+<script type="text/javascript" src="js/highstock/highstock.src.js"></script>
+<link href="css/jquery-ui/jquery-ui.css" type="text/css" rel="stylesheet">
+<script type="text/javascript">
+webDriver.jQuery(function($){
+	Highcharts.setOptions({
+		lang: {
+			loading: "Loading...",
+			months: ["January","February","March","April","May","June","July","August","September","October","November","December"],
+			shortMonths: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+			weekdays: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+		}
+	});
+});
+</script>
+
+				<style type="text/css">
+				div.wd_chart-ranges {
+					width: 100%;
+					margin: 3px 0 0 0;
+					overflow: auto;
+				}
+
+				div.wd_chart-range {
+					background: #777777;
+					color: #ffffff;
+					cursor: pointer;
+					float: left;
+					width: 19%;
+					text-align: center;
+					border-left: 1px solid #ffffff;
+					border-bottom: 1px solid #777777;
+				}
+
+				div.wd_chart-range:first_child {
+					border-left: 0;
+				}
+
+				div.wd_chart-range-active {
+					background: #ffffff;
+					color: #000000;
+					border-left: 1px solid #777777;
+					border-right: 1px solid #777777;
+				}
+				</style>
+				
+					<script type="text/javascript">
+					ir_featurebox.update_chart = function(index, ticker) {
+						if (!this.featureboxes[index].chart) {
+							var groupingUnits = [[
+								"minute",
+								[5, 10, 15, 30]
+							], [
+								"hour",
+								[1, 2, 3, 4]
+							], [
+								"day",
+								[1]
+							], [
+								"week",
+								[1]
+							], [
+								"month",
+								[1, 2, 3, 4, 6]
+							]];
+							
+							var chart = new Highcharts.StockChart({
+								chart: {
+									renderTo: "ir_featurebox_"+index+"-chart",
+									spacingTop: 0,
+									spacingBottom: 5,
+									spacingLeft: 0,
+									spacingRight: 0,
+									backgroundColor: null,
+									borderColor: "#CCCCCC",
+									borderWidth: 0,
+									borderRadius: 5,
+									plotBackgroundColor: "#FFFFFF",
+									plotBorderColor: "#CCCCCC",
+									plotBorderWidth: 0,
+
+									events: {
+										load: function() {
+											ir_featurebox.featureboxes[index].chart = this;
+											ir_featurebox.update_chart(index, ticker);
+										}
+									}
+								},
+
+								rangeSelector: {enabled: false},
+								navigator: {enabled: false},
+								scrollbar: {enabled: false},
+								credits: {enabled: false},
+
+								xAxis: {
+									dayOffset: 57600000,
+									lineWidth: 2,
+									lineColor: "#CCCCCC",
+									gridLineWidth: 0,
+									gridLineColor: "#CCCCCC",
+									tickWidth: 1,
+									tickColor: "#CCCCCC",
+									labels: {
+										style: {
+											color: "#808080",
+											fontWeight: "normal"
+										}
+									}
+								},
+
+								yAxis: {
+									opposite: true,
+									lineWidth: 2,
+									lineColor: "#CCCCCC",
+									gridLineWidth: 1,
+									gridLineColor: "#CCCCCC",
+									tickWidth: 0,
+									tickColor: "#CCCCCC",
+									labels: {
+										align: "left",
+										x: 2,
+										formatter: function() {
+											return Highcharts.currencyFormat(this.value,["${V}","-${V}"],-2,".",",");
+										},
+										style: {
+											color: "#808080",
+											fontWeight: "normal"
+										}
+									}
+								},
+
+								tooltip: {
+									backgroundColor: "rgba(255,255,255,.85)",
+									borderColor: null,
+									borderWidth: 2,
+									borderRadius: 3,
+									shadow: true,
+									crosshairs: [
+										{
+											color: "#CCCCCC",
+											width: 1
+										},
+										{
+											color: "#CCCCCC",
+											width: 0
+										}
+									],
+									useHTML: true,
+									style: {
+										color: null,
+										fontSize: "12px",
+										padding: "5px",
+										whiteSpace: "nowrap",
+										width: 300
+									}
+								},
+
+								series: [{
+									name: "Price",
+									id: "price",
+									color: "#0079D6",
+									lineColor: "#0079D6",
+									marker: {
+										states: {
+											hover: {
+												lineColor: "#FFFFFF"
+											}
+										}
+									},
+									fillColor: "rgba(223, 235, 247, 0.75)",
+									fillOpacity: "0.3",
+									type: "area",
+									threshold: null,
+									data: [],
+									tooltip: {
+										valueFormatter: function(value) {return Highcharts.currencyFormat(value,["${V}","-${V}"],[2,4],".",",");}
+									},
+									dataGrouping: {
+										approximation: "close",
+										timeOffset: 1,
+										forced: true,
+										dateTimeLabelFormats: {
+				millisecond: ["", "%A, %b %e, %H:%M:%S.%L", ""],
+				second: ["", "%A, %b %e, %H:%M:%S", ""],
+				minute: ["", "%A, %b %e, %H:%M", ""],
+				hour: ["", "%A, %b %e, %H:%M", ""],
+				day: ["", "%A, %b %e, %Y", ""],
+				week: ["", "%A, %b %e, %Y", ""],
+				month: ["", "%B %Y", ""],
+				year: ["", "%Y", ""]
+			},
+										groupTime: "last",
+										tooltipAdjust: false,
+										units: groupingUnits
+									}
+								}]
+							});
+							return;
+						}
+						
+						if (!this.ticker_data[ticker]["chart"]) {
+							webDriver.jQuery("#wd_chart_"+index+"-ranges .wd_chart-range").hide();
+							this.featureboxes[index].chart.showLoading('<img src="images/webdriver/loadingrotate.gif">');
+							webDriver.jQuery.getJSON(
+								"index.php",
+								{
+									ajax: "ir_featurebox",
+									ticker: ticker,
+									data: "chart"
+								},
+								function(data) {
+									data.quotes = new Array;
+									ir_featurebox.ticker_data[ticker]["chart"] = data;
+									
+									ir_featurebox.featureboxes[index].chart.hideLoading();
+									ir_featurebox.update_chart(index, ticker);
+								}
+							);
+						} else {
+							this.featureboxes[index].ticker = ticker;
+
+							webDriver.jQuery("#wd_chart_"+index+"-ranges .wd_chart-range").hide();
+							for (range in this.ticker_data[ticker].chart.ranges)
+								webDriver.jQuery("#wd_chart_"+index+"-range-"+range).show();
+
+							this.chart_set_range(index, "1mo", true);
+						}
+					}
+					
+					ir_featurebox.chart_set_range = function(index, range, ticker_changed) {
+						webDriver.jQuery("#wd_chart_"+index+"-ranges .wd_chart-range").removeClass("wd_chart-range-active");
+						webDriver.jQuery("#wd_chart_"+index+"-range-"+range).addClass("wd_chart-range-active");
+
+						var ticker = this.featureboxes[index].ticker;
+						var size = (range == "1dy") ? "minute" : "day";
+						
+						if (!this.ticker_data[ticker].chart.quotes[size]) {
+							this.featureboxes[index].chart.showLoading('<img src="images/webdriver/loadingrotate.gif">');
+							webDriver.jQuery.getJSON(
+								"index.php",
+								{
+									ajax: "ir_quotes",
+									ticker: ticker,
+									data: "X",
+									size: size,
+									mult: (size == "day") ? 1 : 5,
+									min: this.ticker_data[ticker].chart.mins[size]
+								},
+								function(data) {
+									ir_featurebox.ticker_data[ticker].chart.quotes[size] = data;
+
+									ir_featurebox.featureboxes[index].chart.hideLoading();
+									ir_featurebox.chart_set_range(index, range, ticker_changed);
+								}
+							);
+						} else {
+							if (ticker_changed || size != this.featureboxes[index].size) {
+								this.featureboxes[index].chart.get("price").setData(this.ticker_data[ticker].chart.quotes[size], false);
+								this.featureboxes[index].size = size;
+							}
+							this.featureboxes[index].chart.xAxis[0].setExtremes(this.ticker_data[ticker].chart.ranges[range], this.ticker_data[ticker].chart.last);
+						}
+					}
+					</script>
+				
+				<style type="text/css">
+				div.wd_chart-quote {
+					width: 100%;
+					overflow: auto;
+				}
+
+				div.wd_chart-quote-item {
+					width: 49%;
+					float: left;
+					margin: 10px 0;
+				}
+
+				div.wd_chart-quote-value {
+					margin: 0;
+					font-weight: bold;
+				}
+
+				div.wd_chart-quote-value-down {
+					color: #cc0000;
+				}
+
+				div.wd_chart-quote-value-up {
+					color: #00cc00;
+				}
+
+				div.wd_chart-quote-label {
+					margin: 0;
+					color: #999999;
+				}
+
+				div.wd_chart-quote-footer {
+					margin: 5px 0 0 0;
+					font-size: .75em;
+					color: #999999;
+				}
+				</style>
+				
+					<script type="text/javascript">
+					ir_featurebox.update_data = function(index, ticker) {
+						if (!this.ticker_data[ticker]["data"]) {
+							webDriver.jQuery("#ir_featurebox_"+index+"-data").html('<center><img src="images/webdriver/loadingrotate.gif"></center>');
+							webDriver.jQuery.get(
+								"index.php",
+								{
+									ajax: "ir_featurebox",
+									ticker: ticker,
+									data: "data"
+								},
+								function(data) {
+									ir_featurebox.ticker_data[ticker]["data"] = data;
+									ir_featurebox.update_data(index, ticker);
+								}
+							);
+						} else {
+							webDriver.jQuery("#ir_featurebox_"+index+"-data").html(this.ticker_data[ticker]["data"]);
+						}
+					}
+					</script>
+				
+			<style type="text/css">
+				div.wd_chart-quote-footer {
+					margin: 5px 0 0 0;
+					font-size: .75em;
+					color: #999999;
+				}
+			</style>
+		
+		<style type="text/css">
+			.wd_featurebox_icon {
+				display: inline;
+			}
+			.wd_featurebox_icon img {
+				vertical-align: middle;
+			}
+			div.wd_featurebox_group div.wd_tabs_wrapper {
+				border: none;
+				border-bottom: 1px solid #E1E1E1;
+				padding: 0 0 5px 0;
+			}
+			div.wd_featurebox_group div.wd_featurebox {
+				border: none;
+				padding: 8px 0 0 0;
+			}
+			div.wd_featurebox_group li.wd_tab {
+				float: none;
+				color: #666666;
+			}
+			div.wd_featurebox_group li.wd_tab-active {
+				border: none;
+				background-color: transparent;
+				color: #000000;
+				font-weight: bold;
+			}
+			div.wd_featurebox_group li.wd_tab-inactive {
+				cursor: auto;
+			}
+		</style>
+	<script type="text/javascript">
+	function view_printable() {
+		var loc = window.location;
+		var sep = (loc.search == "") ? "?" : "&";
+		var url = loc.protocol+"//"+loc.host+loc.pathname+loc.search+sep+"printable"+loc.hash;
+		window.open(url, "_blank", "");
+	}
+</script>
+		<style type="text/css">
+			#at15s .at4-icon {
+				height: auto !important;
+				line-height: auto !important;
+				min-height: 16px;
+			}
+		</style>
+	
+			<style type="text/css">
+				span.wd_page_tool {display: inline-block; margin: 0px; padding: 0px; vertical-align: middle;}
+				div.wd_page_toolbar td span.wd_page_tool {margin: 2px;}
+				div.wd_page_toolbar td {text-align: center;}
+				span.wd_page_tool a {display: inline-block; height: 16px; margin: 0px; padding: 0px; vertical-align: middle;}
+				span.wd_page_tool a span {display: inline-block; margin: 0px; padding: 0px; vertical-align: middle;}
+			</style>
+			<script type="text/javascript">webDriver.pop_jQuery();</script>
+
+<!-- end spin_special_output(head_start) -->
+
+		<title>InvestorRoom  - Privacy Policy </title>
+		<meta name="keywords" content="">
+<meta name="description" content="">
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ 		<meta name="robots" content="all">
+		<meta name="robots" content="index,follow">
+						<script type="text/javascript">
+    		if (window.location.host == "big5.elong.com" && window.location.href.indexOf("isbig5") < 0) { 
+    			window.location.href += window.location.href.indexOf("?") > 0 ? "&amp;isbig5=true" : "?isbig5=true" }
+		</script>
+		<link rel="stylesheet" type="text/css" href="css/el_reset.css">
+		<link rel="stylesheet" type="text/css" href="css/el_pages.css">
+		
+		<link rel="stylesheet" type="text/css" href="css/wdcontent.css">
+    	<link rel="alternate" href="http://elong.investorroom.com/index.php?s=43&amp;pagetemplate=rss" type="application/rss+xml" title="InvestorRoom ">		
+	</head>
+	<body style="">
+		<!--===================== header start =====================-->
+		<div id="header">
+			<div class="header_top">
+				<div class="logo"><a href="http://www.elong.net" title="eLong">eLong</a></div>
+				<div class="tools">
+					<span class="tel" title="(mainland China)">4006-171717</span>
+					<div class="other en">
+						<a href="http://www.elong.net/square/en/">eLong Rewards</a>|
+						<a href="http://www.elong.net/customer/customer%20support.html">Customer Support</a>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="nav_box">
+				<div id="nav">
+					<ul class="link link_en">
+						<li class="on"><a href="http://www.elong.net/" title="Home">Home<span class="rslide"></span></a></li>
+						<li class="line light"></li>
+						<li class=""><a href="http://flight.elong.net/" title="China Flights">Flights</a></li>
+						<li class="line light"></li>
+						<li class=""><a href="http://hotel.elong.net/" title="China Hotels">China Hotels</a></li>
+						<li class="line"></li>
+						<li class=""><a href="http://globalhotel.elong.net/" title="International Hotels">Int'l Hotels</a></li>
+						<li class="line"></li>
+						<li><a href="http://chinatours.elong.net/ChinaTours/" title="China Tours">China Tours</a></li>
+						<li class="line"></li>
+						<li><a href="http://chinatours.elong.net/Activities/" title="Activities &amp; Cars">Activities &amp; Cars</a></li>
+					</ul>
+					<div class="account en" method="dvAccount">
+						<div class="box" style="display:block">
+							<span class="name normal"><a href="http://my.elong.net/login_en.html" title="Sign in / Sign Up">Sign in / Sign Up</a></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--===================== header end =======================-->
+		<!--===================== content start =======================-->
+		<div class="grid clx">
+	  		<!-- sidebar start -->
+		  	<div class="sidebar">
+    			<!-- nav start -->
+    			<div class="nav">
+      				<div class="mb20">
+        				<div class="wd_featurebox_title">CORPORATE INFORMATION</div>
+        				<ul>
+          					<li><a href="index.php?s=45" title="About eLong">About eLong</a></li>
+          					<li><a href="index.php?s=20" title="Management Team">Management Team</a></li>
+          					          					<li>
+								<a href="index.php?s=64" title="Corporate Governance">Corporate Governance</a>
+								<ul class="subnav">
+									<li><a href="index.php?s=114" target="_self">Board of Directors</a></li>
+									<li><a href="index.php?s=116" target="_self">Board Committees</a></li>
+									<li><a href="index.php?s=117" target="_self">Code of Conduct</a></li>
+								</ul>
+							</li>
+        				</ul>
+      				</div>
+      				<div class="mb20">
+        				<div class="wd_featurebox_title">INVESTOR RELATIONS</div>
+        				<ul>
+          					
+
+<li>
+	<a href="http://elong.investorroom.com/index.php?s=43" target="_self">
+		News Releases	</a>
+</li>
 
 
-<div class="w776 a_bg">
-	<!-- left start -->
-	<div class="a_left">
-		<img src="images/pic_a.jpg" width="160" height="40" border="0" alt="">
-		<div id="title">Corporate Information</div>
-		<ul>
-			
-			<li><a href="management_team.html">Management</a></li>
-			<li><a href="board_directors.html">Board of Directors</a></li>
-			<li><a href="code_conduct.html">Corporate Governance</a></li>
-		</ul>
 
-		<div id="title" class="m_t_8">Investor Relations</div>
-		<ul>
-			<li><a href="fact_sheet.html">Fact Sheet</a></li>
-			<li><a href="news.html">Press Releases</a></li>
-			<li><a href="financial_information.html">Financial Reports</a></li>
-			 <li><a href="shareholdersmeetings.html">Shareholders Meetings</a></li>
-			<li><a href="conference.html">Webcasts</a></li>			<li><a href="sec_filings.html">SEC Fillings</a></li>
-			<li><a href="analyst_coverage.html">Analyst Coverage</a></li>
-			<li class="b"><a href="privacy_policy.html">Privacy Policy</a></li>
-			<li><a href="copyright.html">Conditions of Use</a></li>
-		</ul>
 
-		<div id="title" class="m_t_8">Contact eLong</div>
-		<ul>
-			<li><a href="contact.html">Contact Information</a></li>
-		</ul>
-		<br>
-		<div align="right" style="padding-right:8px;"><img src="images/home.gif" width="14" height="14" border="0" alt="" align="absmiddle"> <a href="index.html">Back to Home</a></div>
-		<br>
+<li>
+	<a href="http://elong.investorroom.com/index.php?s=118" target="_self">
+		Financial Reporting	</a>
+</li>
 
-	</div>
-	<!-- left end -->
-	<div class="a_right">
-		<h1>Privacy Policy</h1>
 
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
-<tbody><tr>
-<td style="padding:10 0 10 0;line-height:16pt;font-size:12px;">
 
-The right to privacy is one of your most important rights. We understand that purchasing online is an indication of your trust in eLong.com, Inc. We are very serious about protecting your personal information, which will only be used to provide you better services. As an eLong member, you are protected by the following Privacy Policy:
-<p>
 
-<b>What kinds of personal information will be collected?</b><br>
-The majority of functions on our website can be conducted completely anonymously. However, when you apply for an eLong membership, you will be asked to provide your full name, address, telephone number, mobile phone number and email. We gather this information to better serve you. </p><p>
+<li>
+	<a href="http://elong.investorroom.com/index.php?s=19" target="_self">
+		Events and Webcasts	</a>
+</li>
 
-<b>How will your personal information be protected?</b><br>
-We will take appropriate measures to protect your privacy as well as your personal information. Unless obliged for legal reasons, we will not share your personal information with any unaffiliated third party (organizations or individuals) without your permission. However, if required for customer service or product delivery purposes, your name and address may be shared with a third party.</p><p>
 
-<b>Privacy Policy Statement</b><br>
+
+
+<li>
+	<a href="http://elong.investorroom.com/index.php?s=147" target="_self">
+		Get News Alerts by Email	</a>
+</li>
+
+
+
+
+<li>
+	<a href="http://elong.investorroom.com/index.php?s=95" target="_self">
+		All RSS Feeds	</a>
+</li>
+
+
+
+
+<li class="on">
+	<a class="on" href="http://elong.investorroom.com/index.php?s=68" target="_self">
+		Privacy Policy 	</a>
+</li>
+
+
+
+
+<li>
+	<a href="http://elong.investorroom.com/index.php?s=66" target="_self">
+		Conditions of Use	</a>
+</li>
+
+
+
+
+          					<!--<li><a href="http://www.elong.net/aboutus/sample/sample.html#?" title="Conditions of Use">Conditions of Use</a></li>-->
+        				</ul>
+      				</div>
+      				<div>
+        				<div class="wd_featurebox_title">CONTACT ELONG</div>
+        				<ul>
+          					<li><a href="index.php?s=11" title="Contact Infomation">Contact Infomation</a></li>
+        				</ul>
+      				</div>
+      				
+    			</div>
+    			<!-- nav end -->
+			      			</div>
+  			<!-- sidebar end -->
+		  	<!-- main start -->
+  			<div class="main">
+    			<!-- slide start -->
+    			<div class="slide mb20">
+      				<img src="images/ir-gif.gif" width="715" height="110" alt="Welcome to eLong Investor Relations.">
+    			</div>
+    			<!-- slide end -->
+		 	    <!-- content start -->
+    			
+      				<!-- BEGIN CONTENT-WRAPPER -->	
+       	 			<div class="content-wrapper">
+        						    			<!-- BEGIN CONTENT -->	
+		    			<div class="content" style="width: 470px;">
+							<div id="wd_printable_content"><h1 class="page_header">Privacy Policy </h1>
+<p style="text-align: justify">The right to privacy is one of your most important rights. We understand that purchasing online is an indication of your trust in eLong.com, Inc. We are very serious about protecting your personal information, which will only be used to provide you better services. As an eLong member, you are protected by the following Privacy Policy:<br>
+<strong>What kinds of personal information will be collected?</strong><br>
+The majority of functions on our website can be conducted completely anonymously. However, when you apply for an eLong membership, you will be asked to provide your full name, address, telephone number, mobile phone number and email. We gather this information to better serve you.</p>
+
+<p style="text-align: justify"><strong>How will your personal information be protected?</strong><br>
+We will take appropriate measures to protect your privacy as well as your personal information. Unless obliged for legal reasons, we will not share your personal information with any unaffiliated third party (organizations or individuals) without your permission. However, if required for customer service or product delivery purposes, your name and address may be shared with a third party.</p>
+
+<p style="text-align: justify"><strong>Privacy Policy Statement</strong><br>
 When your membership application is accepted, a password for your account will be sent to you. You will take full responsibility for keeping your account and password information safe. Moreover, each eLong member will take full responsibility for all activities occurring within his/her own account. The password and personal information can be modified at any time on the site.<br>
 Because your privacy rights are extremely important to us, eLong.com has prepared this Privacy Policy Statement regarding your personal information based on the following principles:<br>
-<font color="999999"><b>Principle 1</b></font><br>
-When eLong.com needs to identify or contact you, personal information will be clearly requested. Generally speaking, personal information will be requested only when you apply for membership or ask for specific customer services. We hope you will maintain your infomision so it is as accurate and up-to-date as possible. <nt><br>
-<font color="999999"><b>Principle 2</b></font><br>
- We may recommend new services to our members if we believe that the services will be beneficial. You have to right to reject the services we recommend, and we will explain to you clearly how to reject these services. <br>
-<font color="999999"><b>Principle 3</b></font><br>
+<strong>Principle 1</strong><br>
+When eLong.com needs to identify or contact you, personal information will be clearly requested. Generally speaking, personal information will be requested only when you apply for membership or ask for specific customer services. We hope you will maintain your infomision so it is as accurate and up-to-date as possible.<br>
+<strong>Principle 2</strong><br>
+We may recommend new services to our members if we believe that the services will be beneficial. You have to right to reject the services we recommend, and we will explain to you clearly how to reject these services.<br>
+<strong>Principle 3</strong><br>
 In certain instances, elong might be obliged to publicize personal information as the result of a legal request. We will only do this when it is proven to be necessary for the purposes of:<br>
 1) Obeying Laws or legal procedures applicable to us;<br>
 2) Protecting the rights or properties of eLong members;<br>
-3) Protecting the safety of eLong members or the public due to an emergency.  <br>
-<font color="999999"><b>Principle 4</b></font><br>
-If you think that eLong has violated the principles described above, please contact our <a href="http://www.elong.com/customerrequest/suggest.aspx" target="_Blank">customer service</a>. We will give you a satisfactory answer and improve our Privacy Policy in a reasonable and appropriate manner.  </nt></p><p>
+3) Protecting the safety of eLong members or the public due to an emergency.<br>
+<strong>Principle 4</strong><br>
+If you think that eLong has violated the principles described above, please contact our customer service. We will give you a satisfactory answer and improve our Privacy Policy in a reasonable and appropriate manner.</p>
 
-<b>Usage of cookies</b><br>
-In order to serve you better, eLong.com sometimes employs cookies to personalize your online surfing on our site. A cookie is a text-only string that is entered into the memory of your browser.  One of a cookie's primary functions is to save you time, and most web browsers will automatically accept cookies. However, you may reset your web browser to reject cookies. </p><p>
+<p style="text-align: justify"><strong>Usage of cookies</strong><br>
+In order to serve you better, eLong.com sometimes employs cookies to personalize your online surfing on our site. A cookie is a text-only string that is entered into the memory of your browser. One of a cookie's primary functions is to save you time, and most web browsers will automatically accept cookies. However, you may reset your web browser to reject cookies.</p>
 
-<b>How can you update your personal information?</b><br>
-If you need to change your address, telephone number or email, you can <a href=" http://www.elong.net/aboutus/contact.html" target="_Blank" style="Color:Blue">contact eLong</a> by the methods listed on our Web site. You can also connect to www.elong.net to <a href="http://www.elong.net/myelong/login.aspx" target="_Blank" style="Color:Blue">modify your personal information</a>, We welcome any comments on our Privacy Policy. We commit ourselves to protecting your personal information, and will update our Privacy Policy according to the development of Internet technology.<br>
-If you have any comments about our Privacy Policy, please email us at customerservice@corp.elong.com.
+<p style="text-align: justify"><strong>How can you update your personal information?</strong><br>
+If you need to change your address, telephone number or email, you can contact eLong by the methods listed on our Web site. You can also connect to <a href="http://www.elong.net">www.elong.net</a> to modify your personal information, We welcome any comments on our Privacy Policy. We commit ourselves to protecting your personal information, and will update our Privacy Policy according to the development of Internet technology.<br>
+If you have any comments about our Privacy Policy, please email us at <a href="mailto:customerservice@corp.elong.com">customerservice@corp.elong.com</a>.<br>
+&nbsp;</p>
 
+<p style="text-align: justify">&nbsp;</p>
 
+<div class="wd_standard">
 
-
-</p></td></tr></tbody></table>
-
-
-	</div>
 </div>
+</div><br clear="all"><div class="wd_page_toolbar">
 
-<br clear="all">
 
-<script language="javascript" src="http://www.elong.net/aboutus/js/bottom.js"></script>
 
-<div style="position:absolute;top:0px;left:0px;z-index:100;height:1px;width:1px;overflow:hidden;visibility:hidden">
-<!-- SiteCatalyst code version: H.1.Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
-<script language="JavaScript" src="http://resource.elong.com/js/SiteCatalyst/s_code.js"></script>
-<script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on the next lines. */
-s.pageName = ""
-s.server=""
-s.channel= ""
-s.pageType=""
-s.prop1 =""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-s.prop6=""
-s.prop7=""
-s.prop8=""
-s.prop9=""
-s.prop10=""
-/* E-commerce Variables */
-s.campaign = ""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-s.eVar6=""
-s.eVar7=""
-s.eVar8=""
-s.eVar9=""
-s.eVar10=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code) document.write(s_code)//--></script>
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script>
-<noscript><img src="http://elongcom.122.2O7.net/b/ss/elongcom/1/H.1--NS/0" height="1" width="1" border="0" alt="" /> </noscript>
-<!--/DO NOT REMOVE/-->
-</div>
-  
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span class="wd_page_tool"><a href="" onclick="view_printable(); return false;" rel="nofollow"><img src="images/webdriver/toolbar/print.gif" border="0" alt="print" title="print"></a></span></td>
+<td><span class="wd_page_tool"><a href="" onclick="window.location.href = 'mailto:?subject=InvestorRoom%20%20-%20Privacy%20Policy%20&amp;body='+encodeURIComponent(window.location.href);return false;"><img src="images/webdriver/toolbar/email.gif" border="0" alt="email" title="email"></a></span></td>
+<td><span class="wd_page_tool"><a href="http://elong.investorroom.com/index.php?s=95&amp;rsspage=68"><img src="images/webdriver/toolbar/rss.gif" border="0" alt="rss" title="rss"></a></span></td>
+<td><span class="wd_page_tool"><a class="addthis_button_facebook"></a></span></td>
+<td><span class="wd_page_tool"><a class="addthis_button_google_plusone_share"></a></span></td>
+<td><span class="wd_page_tool"><a class="addthis_button_twitter" title="Tweet This"></a></span></td>
+<td><span class="wd_page_tool"><a class="addthis_button_favorites" title="Save to Favorites"></a></span></td>
+<td><span class="wd_page_tool"><a class="addthis_button_linkedin"></a></span></td>
+<td><span class="wd_page_tool"><a class="addthis_button_compact"></a></span></td>
+</tr></tbody></table>
+		<script type="text/javascript">
+			var addthis_config = {
+				"data_track_clickback": true,
+				"pubid" : "thefuelteam",
+				"ui_language" : "en"
+			};
+		</script>
+		<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js"></script>
+	</div>						</div>
+						<!-- END CONTENT -->
+		    					    				<!-- BEGIN SIDEBAR -->	
+		    				<div class="sidebar2">				
+		        				<!-- BEGIN RIGHT FEATURE BOXES -->
+		        				<div class="wd_featureboxes_right wd_featureboxes-vertical">
+<div id="wd_featurebox-financial_1" class="wd_featurebox_container wd_featurebox-financial"><div class="wd_featurebox_title">Price Data</div><div class="wd_featurebox"><div class="wd_ticker_label"><span class="wd_exchange">NASDAQ</span><span class="wd_symbol">LONG</span></div>
+					<div style="position:relative;overflow:hidden;height:250px;width:100%;margin:0;padding:0;border:0;">
+					<div id="ir_featurebox_1-chart" style="height:100%; width:100%;position:absolute;margin:0;padding:0;border:0;" data-highcharts-chart="0"><div class="highcharts-container" id="highcharts-0" style="position: relative; overflow: hidden; width: 164px; height: 250px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif; font-size: 12px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="164" height="250"><desc>Created with Highstock 1.3.5</desc><defs><clipPath id="highcharts-1"><rect fill="none" x="0" y="0" width="163" height="244"></rect></clipPath></defs><rect rx="0" ry="0" fill="#FFFFFF" x="0" y="0" width="164" height="245"></rect><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-grid" zIndex="1"></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 0 245 L 164 245" stroke="#CCCCCC" stroke-width="2" zIndex="7" visibility="visible"></path></g><g class="highcharts-axis" zIndex="2"><path fill="none" d="M 164 0 L 164 245" stroke="#CCCCCC" stroke-width="2" zIndex="7" visibility="visible"></path></g><g class="highcharts-series-group" zIndex="3"><g class="highcharts-series" visibility="visible" zIndex="0.1" transform="translate(0,0) scale(1 1)" clip-path="url(#highcharts-1)"><path fill="rgb(223,235,247)" d="M 0 0" fill-opacity="0.75" zIndex="0"></path><path fill="none" d="M 0 0" stroke-linejoin="round" visibility="visible" stroke-opacity="0.0001" stroke="rgb(192,192,192)" stroke-width="22" zIndex="2" class=" highcharts-tracker" style=""></path></g><g class="highcharts-markers highcharts-tracker" visibility="visible" zIndex="0.1" transform="translate(0,0) scale(1 1)" clip-path="none" style=""></g></g><g class="highcharts-axis-labels" zIndex="7"></g><g class="highcharts-axis-labels" zIndex="7"></g><g class="highcharts-tooltip" zIndex="8" style="cursor:default;padding:0;white-space:nowrap;" visibility="hidden" transform="translate(0,0)"><rect rx="3" ry="3" fill="none" x="0" y="0" width="10" height="10" fill-opacity="0.85" isShadow="true" stroke="black" stroke-opacity="0.049999999999999996" stroke-width="5" transform="translate(1, 1)"></rect><rect rx="3" ry="3" fill="none" x="0" y="0" width="10" height="10" fill-opacity="0.85" isShadow="true" stroke="black" stroke-opacity="0.09999999999999999" stroke-width="3" transform="translate(1, 1)"></rect><rect rx="3" ry="3" fill="none" x="0" y="0" width="10" height="10" fill-opacity="0.85" isShadow="true" stroke="black" stroke-opacity="0.15" stroke-width="1" transform="translate(1, 1)"></rect><rect rx="3" ry="3" fill="rgb(255,255,255)" x="0" y="0" width="10" height="10" fill-opacity="0.85"></rect></g></svg><div class="highcharts-tooltip" style="position: absolute; left: 0px; top: 0px;"><span style="position: absolute; white-space: nowrap; font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Verdana, Arial, Helvetica, sans-serif; font-size: 12px; margin-left: 0px; margin-top: 0px; left: 5px; top: 5px;" zindex="1" transform="translate(0,0)"></span></div><div class="highcharts-loading" style="position: absolute; background-color: white; opacity: 0.5; text-align: center; z-index: 10; left: 0px; top: 0px; width: 164px; height: 245px;"><span style="font-weight: bold; position: relative; top: 1em;"><img src="images/webdriver/loadingrotate.gif"></span></div></div></div>
+					</div>
+				<div id="wd_chart_1-ranges" class="wd_chart-ranges" role="radiogroup"><div id="wd_chart_1-range-1dy" class="wd_chart-range" style="" onclick="ir_featurebox.chart_set_range(1, '1dy');" role="radio" aria-label="1 Day" title="1 Day">1dy</div><div id="wd_chart_1-range-1mo" class="wd_chart-range wd_chart-range-active" style="" onclick="ir_featurebox.chart_set_range(1, '1mo');" role="radio" aria-label="1 Month" title="1 Month">1mo</div><div id="wd_chart_1-range-6mo" class="wd_chart-range" style="" onclick="ir_featurebox.chart_set_range(1, '6mo');" role="radio" aria-label="6 Months" title="6 Months">6mo</div><div id="wd_chart_1-range-1yr" class="wd_chart-range" style="" onclick="ir_featurebox.chart_set_range(1, '1yr');" role="radio" aria-label="1 Year" title="1 Year">1yr</div><div id="wd_chart_1-range-5yr" class="wd_chart-range" style="" onclick="ir_featurebox.chart_set_range(1, '5yr');" role="radio" aria-label="5 Years" title="5 Years">5yr</div></div><div class="wd_quote-container" id="ir_featurebox_1-data"><div class="wd_chart-quote"><div class="wd_chart-quote-item"><div class="wd_chart-quote-value">$16.91</div><div class="wd_chart-quote-label">Last Price</div></div><div class="wd_chart-quote-item"><div class="wd_chart-quote-value wd_chart-quote-value-down">-$0.02<br>(-0.12%)</div><div class="wd_chart-quote-label">Change</div></div><div class="wd_chart-quote-item"><div class="wd_chart-quote-value">9.0K</div><div class="wd_chart-quote-label">Volume</div></div><div class="wd_chart-quote-item"><div class="wd_chart-quote-value">$607.8M</div><div class="wd_chart-quote-label">Market Cap</div></div></div></div><div class="wd_chart-quote-footer" id="ir_featurebox_1-footer">Currency in USD.<br>Quote data delayed by at least 15 minutes.</div><script type="text/javascript">webDriver.jQuery(function() {ir_featurebox.update(1, "LONG");});</script></div></div></div>
+		        				<!-- END RIGHT FEATURE BOXES -->
+		    				</div>
+		   				 	<!-- END SIDEBAR -->	
+											</div>
+					<!-- END CONTENT-WRAPPER -->	
+    		
+    			<!-- content end -->
+  			</div>
+  			<!-- main end -->
+		</div>
+		<!--===================== content end =======================-->
+		<!--===================== footer start =====================-->
+		<div class="clear"></div>
+		<div id="e_footer_wrap">
+			<div id="e_footer">
+  				<p>
+  					<a target="_blank" href="http://www.elong.net/aboutus/fact_sheet.html">About Us</a> | 
+  					<a target="_blank" href="http://www.elong.net/aboutus/contact.html">Contact Us</a> | 
+  					<a target="_blank" href="http://www.elong.net/aboutus/news.html">Press Releases</a> | 
+  					<a target="_blank" href="http://www.elong.net/aboutus/fact_sheet.html">Investor Relations</a> | 
+  					<a target="_blank" href="http://www.elong.net/Affiliate%20Programs/program.htm">Affiliate Program</a> | 
+  					<a target="_blank" href="http://www.elong.net/aboutus/copyright.html">Conditions of Use</a> | 
+  					<a target="_blank" href="http://www.elong.net/aboutus/privacy_policy.html">Privacy Policy</a> | 
+  					<a href="http://www.elongstatic.com/common/pic/EL_License.jpg" target="_blank">Business License</a>
+  				</p>
+  				<div>
+    				<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=SECURE.elong.COM&amp;lang=zh_cn" class="verisign" target="_blank"></a>
+    				<a class="trusted" href="https://sealserver.trustwave.com/compliance/cert.php?customerId=w6olF7Z9ZRuBpWYNVXmBsViTyrcMPV&amp;size=105x54&amp;style=normal&amp;language=en&amp;form=&amp;baseURL="></a>
+    				<p class="l_black"><b>© Copyright 2013 InvestorRoomCopyright © 1999-2013 eLong, Inc or its affiliates. All Rights Reserved</b></p>
+  				</div>
+  				<div class="l_black">Partner sites: 
+  					<a href="http://www.expedia.com/" class="link_gray">Expedia</a> | 
+  					<a href="http://www.expedia.com.au/" class="link_gray">Travel AU</a> | 
+  					<a href="http://www.expedia.co.nz/" class="link_gray">Travel NZ</a> | 
+  					<a href="http://www.hotels.com/" class="link_gray">Hotels.com</a> | 
+  					<a href="http://www.hotwire.com/" class="link_gray">Hotwire</a> | 
+  					<a href="http://www.tripadvisor.com/" class="link_gray">Tripadvisor</a>
+  				</div>
+			</div>
+		</div>
+		<!--<script type="text/javascript" src="js/systemall.js"></script>
+		<script type="text/javascript">var header = new ElongHeaderControl();header.RefreshUser();</script>-->
+		<!--===================== footer end =======================-->
+		<img src="images/statistics.gif">
+				
+				
+
+<!-- begin spin_special_output(body_end) -->
+
+<!-- Piwik Tracking Code -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+
+  _paq.push(["setCustomVariable", 1, "Content Type", "Standard", "page"]);
+
+  _paq.push(["setCustomVariable", 3, "Navigation Page", "Privacy Policy ", "page"]);
+
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+  (function() {
+    var u="//stats2.drivetheweb.com/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", 1634]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+    g.type="text/javascript"; g.async=true; g.defer=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript>
+	<img src="http://stats2.drivetheweb.com/piwik.php?idsite=1634&rec=1" style="border:0" alt="" />
+</noscript>
+<!-- End Piwik Tracking Code -->
+		
+<!-- end spin_special_output(body_end) -->
 
 </body></html>
