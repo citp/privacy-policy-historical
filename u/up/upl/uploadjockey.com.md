@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadjockey.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223152513id_/http%3A//www.uploadjockey.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadjockey.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503165207id_/http%3A//www.uploadjockey.com/privacy.php) for the most accurate reproduction.*
 
 # User Privacy Statement - Uploadjockey.com
 
