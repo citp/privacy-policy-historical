@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealam.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110650id_/http%3A//www.dealam.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealam.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503201739id_/http%3A//www.dealam.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
