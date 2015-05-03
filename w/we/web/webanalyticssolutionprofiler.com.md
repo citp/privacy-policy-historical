@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010205217id_/http%3A//webanalyticssolutionprofiler.com/privacy-copyright-policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticssolutionprofiler.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503132517id_/http%3A//webanalyticssolutionprofiler.com/privacy-copyright-policies%23privacy) for the most accurate reproduction.*
 
 # Web Analytics Solution Profiler (WASP) - Website Privacy and Copyright Policies
 
