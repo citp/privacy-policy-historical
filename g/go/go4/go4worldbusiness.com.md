@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4worldbusiness.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224150817id_/http%3A//www.go4worldbusiness.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4worldbusiness.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504002815id_/http%3A//www.go4worldbusiness.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Terms of commitment of the site go4WorldBusiness.com to your privacy
 
@@ -157,8 +157,9 @@ If any matter concerning this Privacy Policy shall be brought before a court of 
 You may direct questions, comments or reports to: 
 
 **Wyzen Systems Private Limited**  
-49, First Floor, Defence Colony Market,  
-New Delhi – 110 024, India  
+32, 3rd Floor, Okhla Industrial Estate - Phase III   
+New Delhi - 110020   
+INDIA.  
 **Phone:** +91-11-41507600  
 **Fax:** +91-11-41507605  
 [Report online here](https://web.archive.org/help/feedback.asp)
