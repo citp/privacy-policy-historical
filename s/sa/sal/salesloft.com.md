@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salesloft.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530035044id_/http%3A//salesloft.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesloft.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503203830id_/http%3A//salesloft.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# B2B Sales Intelligence Software, SalesLoft | Privacy Policy
+# SalesLoft's Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -71,4 +71,4 @@ SalesLoft complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Saf
 
 #### (9) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to legal (at) salesloft.com or by post to SalesLoft LLC, 950 East Paces Ferry Rd, Suite 3300, Atlanta, GA 30326.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to legal (at) salesloft.com or by post to SalesLoft LLC, 3423 Piedmont Road NE, Suite 520, Atlanta, GA 30305.
