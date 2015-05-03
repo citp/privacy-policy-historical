@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registryfix.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225031332id_/http%3A//www.registryfix.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registryfix.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503170205id_/http%3A//www.registryfix.com/privacypolicy.html) for the most accurate reproduction.*
 
 # RegistryFix
 
@@ -66,5 +66,5 @@ If you have any questions regarding the privacy policy or terms described above,
 \-- Matt Jorgunson
 
   
-[](https://web.archive.org/web/20141225031332id_/http%3A//www.registryfix.com/registryfix.exe) |  |   
+[](https://web.archive.org/web/20150503170205id_/http%3A//www.registryfix.com/registryfix.exe) |  |   
 ---|---|---|---|---|---|---
