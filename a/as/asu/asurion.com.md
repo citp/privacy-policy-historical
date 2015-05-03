@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asurion.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625190615id_/https%3A//www.asurion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asurion.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504004355id_/https%3A//www.asurion.com/privacy-policy) for the most accurate reproduction.*
 
 # Mobile Technology Device Protection - Privacy Policy | Asurion
 
