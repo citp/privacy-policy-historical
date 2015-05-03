@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006214614id_/http%3A//legal.trustpilot.co.uk/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503194812id_/http%3A//legal.trustpilot.co.uk/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -203,7 +203,7 @@ Google ads: for the purpose of displaying relevant advertisements.
 
 If you want to delete the cookies already on your equipment, you can, if you use a PC or a more recent browser, press CTRL + SHIFT + DELETE simultaneously. If the shortcuts do not work on your browser, please visit the support page for the browser in question.
 
-Please note that our Website will not work in its full extend if you delete the cookies.
+Please note that our Website will not work to its full extent if you delete the cookies.
 
 ### 7 Access, correction and deletion
 
