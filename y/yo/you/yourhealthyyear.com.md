@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourhealthyyear.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108023014id_/http%3A//www.yourhealthyyear.com/prmedia-kit/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhealthyyear.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503123314id_/http%3A//www.yourhealthyyear.com/prmedia-kit/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Your Healthy Year
 
 **Privacy Policy  for www.yourhealthyyear.com**
 
