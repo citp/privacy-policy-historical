@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asurion.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625190615id_/https%3A//www.asurion.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asurion.com privacy policy that was archived on 2015-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150504004355id_/https%3A//www.asurion.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -92,7 +92,8 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d2/
   var trackLink;
   var customerFormLink;
   var trackLinkforPage;
-  
+  var whitepaperFormLink;
+
    function sendContentModData( modData ){
           s=s_gi(s_account);          
           if(modData=='service module popup')
@@ -283,11 +284,13 @@ trackLinkforPage = function(){
        sc.prop35=sc.prop41="";
 
 	   sc.tl();if(s_code)document.write(s_code) ; 
-    
+
     }
 
+
+
   customerFormLink = function(data){ 
-           
+
             var dynaValue=data.split('~'); 
             var carrier = dynaValue[1];
             var prop32all = dynaValue[0];
@@ -296,13 +299,13 @@ trackLinkforPage = function(){
             var eventval= "event11";
             var siteidentifier= 'asurion';
             sc=s_gi(s_account);
-            
+
             sc.linkTrackEvents = 'event11'; 
             sc.eVar41 = sc.channel = pchannel;               
             sc.prop2 = sc.eVar3 = siteidentifier;            
             sc.events = eventval;            
             sc.prop32 = sc.eVar55 = sc.prop33 = sc.eVar56 = prop32all+carrier;
-            
+
             if(carrier === 'retail') {
                 sc.eVar2 = sc.prop1 =  '';
                 sc.pageName = prop32all+carrier+pname;
@@ -320,7 +323,31 @@ trackLinkforPage = function(){
                        
             sc.t();if(s_code)document.write(s_code)               
     }    
-      
+
+whitepaperFormLink = function(data){
+
+
+ var dynaValue=data.split('~'); 
+ var pname = dynaValue[0];
+ var svar32n55 = dynaValue[1];
+ var svar33n56 = dynaValue[2];
+ var svarEvent = dynaValue[3];
+ var svar2n3 = dynaValue[4];
+ var svarchannel = "asurion>>marketing lp";
+
+	sc=s_gi(s_account);
+
+	sc.linkTrackEvents = svarEvent;
+    sc.pageName = pname;
+	sc.events = svarEvent;
+	sc.eVar41 = sc.channel = svarchannel;               
+	sc.prop2 = sc.eVar3 = svar2n3;
+ 	sc.prop32 = sc.eVar55 = svar32n55;
+	sc.prop33 = sc.eVar56 = svar33n56;
+    sc.prop40= sc.eVar40 = 'en-us';
+	sc.t();if(s_code)document.write(s_code) ;
+
+}
       
       //select all DOM elements with a 'data-tracking-id' attribute on scroll event
       $('[data-tracking-id]').bind('inview', function(e, isInView, visiblePartX, visiblePartY) {
@@ -383,7 +410,7 @@ trackLinkforPage = function(){
              'siteSection=asurion>>legal' ,
   			 'pageName=asurion>>legal>privacy policy',
              'profile.Ref='+document.referrer);
-	</script><div id="mboxMarker-default-asr_sw_global-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://asurioninsuranceserv.tt.omtrdc.net/m2/asurioninsuranceserv/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580452429181-662251&amp;mboxPage=1580452433442-504093&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;siteSection=asurion%3E%3Elegal&amp;pageName=asurion%3E%3Elegal%3Eprivacy%20policy&amp;profile.Ref=&amp;mbox=asr_sw_global&amp;mboxId=0&amp;mboxTime=1580452433455&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140625190615id_%2Fhttps%3A%2F%2Fwww.asurion.com%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=44" language="JavaScript"></script>
+	</script><div id="mboxMarker-default-asr_sw_global-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://asurioninsuranceserv.tt.omtrdc.net/m2/asurioninsuranceserv/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580452430190-523629&amp;mboxPage=1580452433780-847738&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;siteSection=asurion%3E%3Elegal&amp;pageName=asurion%3E%3Elegal%3Eprivacy%20policy&amp;profile.Ref=&amp;mbox=asr_sw_global&amp;mboxId=0&amp;mboxTime=1580452433797&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150504004355id_%2Fhttps%3A%2F%2Fwww.asurion.com%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=44" language="JavaScript"></script>
 
 
 	<div class="parbase header">
@@ -413,9 +440,11 @@ trackLinkforPage = function(){
 					   <li class="hidden-xs"><a href="/faqs">FAQs</a></li>
 					
 					<li class="search"><a href="#search" id="searchSticky"><i class="fa fa-search"></i></a></li>
+					
 					<li class="service-widget-btn">
 						<p>Help</p>
 					</li>
+					
 				    </ul>
 			    </div>
 			</div>
@@ -440,14 +469,16 @@ trackLinkforPage = function(){
 			<div class="logo col-xs-10 col-md-3 visible-xs">
 				<a href="/"><img alt="Asurion" src="/content/dam/asuriondc/img/asurion-logo-white.png"></a>
 			</div>
-			<div class="col-xs-2 col-sm-2 col-sm-offset-10 col-md-2 col-md-offset-10">
-				<div class="share hidden-xs">
-					
-					    <a class="tw siteCatalystTracker" href="http://www.twitter.com/asurion" target="_blank" data="sm promote:Twitter">Follow us on Twitter</a>
-					
-					    <a class="fb siteCatalystTracker" href="http://www.facebook.com/asurion" target="_blank" data="sm promote:Facebook">&gt;Like us on Facebook</a>
-					
-				</div>
+			<div class="col-xs-2 col-sm-3 col-sm-offset-9 col-md-3 col-md-offset-9">				
+				 
+					<div class="share hidden-xs">
+						
+						<a class="tw siteCatalystTracker" href="http://www.twitter.com/asurion" target="_blank" data="sm promote:Twitter">Follow us on Twitter</a>
+						
+						<a class="fb siteCatalystTracker" href="http://www.facebook.com/asurion" target="_blank" data="sm promote:Facebook">&gt;Like us on Facebook</a>
+						
+					</div>
+				   
 				<div class="search visible-xs">
 					<a href="#!" id="searchMobile"><i class="fa fa-search"></i></a>
 				</div>
@@ -471,7 +502,7 @@ trackLinkforPage = function(){
             <div class="col-xs-12 col-md-12">
             <nav class="row" id="primary">
                 <div class="hidden-xs col-sm-4 col-md-3">
-                    <a class="logo default" href="/"><img alt="Asurion Logo" src="/content/dam/asuriondc/img/asurion-logo.png"></a>
+                    <a class="logo default" href="/"><img alt="Asurion Logo" src="/content/dam/asuriondc/img/asurion-logo-header.png"></a>
 		    <a class="logo alt" href="/"><img alt="Asurion Logo" src="/content/dam/asuriondc/img/asurion-logo-white.png"></a>
                 </div>
                 <div class="col-xs-12 col-sm-8 col-md-9">	
@@ -487,6 +518,7 @@ trackLinkforPage = function(){
 				
 				   <li><a href="/faqs">FAQs</a></li>
 				
+				<li>&nbsp;<span class="sr-only"><!--space fix--></span></li>
 				<li class="search hidden-xs">				
 					<a href="#!" id="searchPrimary">
 					<i class="fa fa-search"><span class="sr-only">Search</span></i>
@@ -524,7 +556,7 @@ trackLinkforPage = function(){
   mboxCreate('asr_sw_hdr',
              'siteSection=asurion>>legal' ,
   			 'pageName=asurion>>legal>privacy policy');
-</script><div id="mboxMarker-default-asr_sw_hdr-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://asurioninsuranceserv.tt.omtrdc.net/m2/asurioninsuranceserv/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580452429181-662251&amp;mboxPage=1580452433442-504093&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=2&amp;siteSection=asurion%3E%3Elegal&amp;pageName=asurion%3E%3Elegal%3Eprivacy%20policy&amp;mbox=asr_sw_hdr&amp;mboxId=0&amp;mboxTime=1580452433489&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140625190615id_%2Fhttps%3A%2F%2Fwww.asurion.com%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=44" language="JavaScript"></script>
+</script><div id="mboxMarker-default-asr_sw_hdr-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://asurioninsuranceserv.tt.omtrdc.net/m2/asurioninsuranceserv/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580452430190-523629&amp;mboxPage=1580452433780-847738&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=2&amp;siteSection=asurion%3E%3Elegal&amp;pageName=asurion%3E%3Elegal%3Eprivacy%20policy&amp;mbox=asr_sw_hdr&amp;mboxId=0&amp;mboxTime=1580452433824&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150504004355id_%2Fhttps%3A%2F%2Fwww.asurion.com%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=44" language="JavaScript"></script>
 
 
 <!-- service startbar wizard - sticky nav -->
@@ -569,10 +601,11 @@ trackLinkforPage = function(){
                                           <select id="select-portal_id" class="select-portal" name="select-portal">
                                             <option class="static" value="static">select where plan was purchased</option>
                                             <option class="sub_A-MobilePhone sub_A-Tablet" data="mobile" value="att" id="C-ATT" data-url="http://www.phoneclaim.com/att">AT&amp;T</option>
-                                            <option class="sub_A-TV sub_A-Computer sub_A-Other" data="retailer" value="attconnectechprotectionplan" data-url="https://hub.asurion.com/attconnectechprotectionplan/en.html">AT&amp;T ConnecTech</option>
+                                            <!--option class="sub_A-TV sub_A-Computer sub_A-Other" data="retailer" value="attconnectechprotectionplan" data-url="https://hub.asurion.com/attconnectechprotectionplan/en.html">AT&amp;T ConnecTech</option-->
                                             <option class="sub_A-Tablet sub_A-TV sub_A-Computer sub_A-Appliance sub_A-Other" data="retailer" value="canopyprotection" data-url="https://hub.asurion.com/canopyprotection">Canopy, sold at Amazon</option>
                                             <option class="sub_A-MobilePhone" value="clr" data="mobile" data-url="http://www.phoneclaim.com/clear">Clear</option>
                                             <option class="sub_A-MobilePhone" value="clw" data="mobile" data-url="http://www.phoneclaim.com/clearwire">Clearwire</option>
+                                            <option class="sub_A-MobilePhone" value="coca" data="mobile" data-url="https://hub.asurion.com/hub/excellenceplus/en-ca">Costco Canada</option>  
                                             <!--option class="sub_A-Tablet sub_A-TV sub_A-Computer sub_A-Other" data-url="">Comcast</option-->
                                             <option class="sub_A-Tablet sub_A-TV sub_A-Computer sub_A-Other" data="retailer" value="excellenceplus" data-url="https://hub.asurion.com/excellenceplus/en_ca.html">Costco Canada</option>
                                             <option class="sub_A-Tablet sub_A-Computer sub_A-Other" data="retailer" value="directv" data-url="http://www.directv.com/technology/protection_plan">DIRECTV</option>
@@ -816,7 +849,9 @@ jQuery(function ($) {
 
 jQuery(function ($) {
 	function searchQuerySubmit(sq){
-		window.location.href='/search-results.html?q='+sq;
+		if (sq != ''){
+			window.location.href='/search-results.html?q='+sq;
+		}
 	};
 	
 	$('#searchStickySubmit').click(function(){
@@ -1195,7 +1230,7 @@ $(function(){
 
 
 <footer>
-    <div class="parsys footer_par"><div class="dynatext section">
+    <div class="parsys iparsys footer_par"><div class="dynatext section">
 
 
 
@@ -1211,6 +1246,9 @@ $(function(){
 
 
 
+</div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys footer_par"></div>
 </div>
 </div>
 
@@ -1481,11 +1519,12 @@ $(function(){
 			    </ul>
 			</div>
             
-            
+
 			<div class="col-md-3">
 			    <div class="learnMore">
 			        <p>Asurion is awarded the 2014 Productivity Award in Customer Care by Microsoft as part of their Customer Excellence Awards </p>
 			       	 <a href="/about/press-releases/173-asurion-recognized-by-microsoft-for-customer-excellence">Learn More &gt;</a>
+                    
 			        <p></p><ul class="share">
 							<li><a href="http://www.facebook.com/asurion" target="_blank" class="siteCatalystTracker" title="facebook" data="sm promote:Facebook"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i> 
 								<i class="fa fa-facebook fa-stack-1x fa-inverse iconSocial"></i><p class="sr-only">sm promote:Facebook</p>
@@ -1503,8 +1542,10 @@ $(function(){
 								<i class="fa fa-google-plus fa-stack-1x fa-inverse iconSocial"></i><p class="sr-only">sm promote:Google+</p>
 								</span></a></li>
 						</ul><p></p>
+
+            
 			      </div>
-			</div>
+			</div>    
         </div>
         <div class="row" id="copyright">
             <div class="col-xs-12 col-sm-3">
@@ -1512,7 +1553,7 @@ $(function(){
             </div>
 
             <div class="col-xs-12 col-sm-9">
-                <p class="copy">Asurion 1994-2014. All Rights Reserved |
+                <p class="copy">Asurion 1994-2015. All Rights Reserved |
                 <a href="/terms-conditions">Terms of Use</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/sitemap">Site Map</a>
 				</p>
 				<p class="bbbLink">
@@ -1532,7 +1573,7 @@ $(function(){
               mboxCreate('asr_sw_ftr',
              'siteSection=asurion>>legal' ,
   			 'pageName=asurion>>legal>privacy policy');
-	</script><div id="mboxMarker-default-asr_sw_ftr-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://asurioninsuranceserv.tt.omtrdc.net/m2/asurioninsuranceserv/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580452429181-662251&amp;mboxPage=1580452433442-504093&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=3&amp;siteSection=asurion%3E%3Elegal&amp;pageName=asurion%3E%3Elegal%3Eprivacy%20policy&amp;mbox=asr_sw_ftr&amp;mboxId=0&amp;mboxTime=1580452433502&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140625190615id_%2Fhttps%3A%2F%2Fwww.asurion.com%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=44" language="JavaScript"></script>
+	</script><div id="mboxMarker-default-asr_sw_ftr-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://asurioninsuranceserv.tt.omtrdc.net/m2/asurioninsuranceserv/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580452430190-523629&amp;mboxPage=1580452433780-847738&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=3&amp;siteSection=asurion%3E%3Elegal&amp;pageName=asurion%3E%3Elegal%3Eprivacy%20policy&amp;mbox=asr_sw_ftr&amp;mboxId=0&amp;mboxTime=1580452433835&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150504004355id_%2Fhttps%3A%2F%2Fwww.asurion.com%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=44" language="JavaScript"></script>
  </footer>
  
 
