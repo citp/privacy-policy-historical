@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harley-davidson.asia privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201101607id_/http%3A//www.harley-davidson.com/content/h-d/en_AP/footer/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harley-davidson.asia privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503051325id_/http%3A//www.harley-davidson.com/content/h-d/en_AP/footer/utility/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Harley-Davidson International
 
