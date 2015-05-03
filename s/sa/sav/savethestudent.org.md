@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223060646id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503182518id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Save the Student
 
@@ -27,13 +27,13 @@ We often require this information to understand your needs and provide you with 
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
-  * We may periodically send newsletters and emails **** with updates about our website and occasionally about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * We may periodically send newsletters and emails with updates about our website and occasionally about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
 
 
 **Security Policy**
 
-We are committed to ensuring that your information is secure and take reasonable precautions. In order to prevent unauthorised access or disclosure, **** we have put in place suitable procedures to safeguard and secure the information we collect online. However we do not guarantee the security of any information disclosed to us. By submitting data and information you accept the risks involved and will not hold us liable for any breach of this security.
+We are committed to ensuring that your information is secure and take reasonable precautions. In order to prevent unauthorised access or disclosure, we have put in place suitable procedures to safeguard and secure the information we collect online. However we do not guarantee the security of any information disclosed to us. By submitting data and information you accept the risks involved and will not hold us liable for any breach of this security.
 
 **How we use cookies**
 
@@ -50,6 +50,10 @@ We allow advertisers and other third parties to place cookies onto your computer
 **Links to external websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Hosted images**
+
+We claim no credit for any images posted on this website, unless otherwise noted, that we do not own the copyright for. Images on this website are copyright to its respectful owners. If there is an image appearing on this website that belongs to you and you do not wish for it appear on this site, please[ contact us](http://www.savethestudent.org/contact-us) with a direct link to the image and it will be promptly removed.
 
 **Controlling your personal information**
 
