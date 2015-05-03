@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastvideo.eu privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119194950id_/http%3A//www.fastvideo.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastvideo.eu privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503173033id_/http%3A//www.fastvideo.me/privacy.html) for the most accurate reproduction.*
 
 # Fastvideo.eu
 
@@ -12,9 +12,9 @@
 
 Below is our privacy policy which incorporates these goals:
 
-If you have questions about accessing or correcting your personal data please contact our support team at support@fastvideo.eu
+If you have questions about accessing or correcting your personal data please contact our support team at support@fastvideo.me
 
-FastVideo Inc. (“FastVideo”) operates on this website www.fastvideo.eu It is FastVideo’s policy to respect your privacy regarding any information we may collect while operating our websites.
+FastVideo Inc. (“FastVideo”) operates on this website www.fastvideo.me It is FastVideo’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 **Website Visitors**
 
