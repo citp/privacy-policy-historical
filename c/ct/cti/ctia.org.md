@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the ctia.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230151851id_/http%3A//www.ctia.org/helpful-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctia.org privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503165711id_/http%3A//www.ctia.org/helpful-links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Effective: November 7, 2013_
+_  
+Effective: November 7, 2013_
+
+* * *
 
 ## I. Introduction
 
