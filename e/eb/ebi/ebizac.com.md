@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebizac.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223075356id_/http%3A//www.ebizac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizac.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503020503id_/http%3A//ebizac.com/privacy) for the most accurate reproduction.*
 
 # eBusiness Automation Center » Privacy Policy
 
