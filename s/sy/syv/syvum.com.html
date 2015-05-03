@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2014-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141213084544id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2015-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150504000048id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title> Syvum Privacy Policy </title><meta name="author" content="Syvum"><meta name="copyright" content="Syvum Technologies Inc."><meta name="publisher" content="Syvum"></head><body bgcolor="#FFFFFF" text="#000000" link="#ff0000" vlink="#0000ff" alink="#FF0000">
 
@@ -14,10 +14,16 @@ body {
 
 #main_wrapper
 {
-  width: 865;
-  margin-left:auto;
-  margin-right:auto;
-  text-align:left;
+  width: 100%;
+}
+
+@media (min-width: 865px) {
+  #main_wrapper {
+    width: 865px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+  }
 }
 
 pre {
@@ -54,7 +60,7 @@ color: #ffffff;
    var ads;
    if (window.oads && oads == 1){ads="no";} else {ads = getads();}   
 </script>
-<table style="margin:0px;padding:0px;padding-left:1px;padding-right:1px;background:#000070;border:0px;min-width:950px;" width="100%">
+<table style="margin:0px;padding:0px;padding-left:1px;padding-right:1px;background:#000070;border:0px;" width="100%">
 <tbody><tr>
 <td valign="top" width="88"><a href="/"><img style="margin:2px;" src="/images/tn7.gif" width="80" height="32" alt="Syvum Home Page" border="0"></a></td>
 <script language="JavaScript">
@@ -64,8 +70,7 @@ color: #ffffff;
         document.write('<td valign="middle"><b><a href="/cgi/members/home.cgi" class="toplink" title="Your Syvum Member page">'+uid+'</a></b> <a href="/cgi/members/logout.cgi" class="toplink"><img src="/s_i/cancel.png" width="12" height="12" valign="middle" border="0" title="Sign Off" /></a></td>');
       }
 </script>
-<td valign="middle">
-<img src="/images/1.gif" height="1" width="760" border="0"><br>
+<td class="toplinks_td" valign="middle">
 &nbsp; <a href="/exam/regents/" class="toplink">NY Regents Exam</a>
 &nbsp; <a href="/teasers/" class="toplink">Teasers</a>
 &nbsp; <a href="/iq/" class="toplink">IQ Tests</a>
@@ -115,9 +120,9 @@ function toggleDiv(div_name, foc, force)
 
 if (uid.length == 0)
   {
-    document.write('&nbsp; <span class="toplink" onclick="toggleDiv(\'signin_div\', 1, 0);" style="cursor:pointer;">Sign In</span>');
+    document.write('</td><td>&nbsp; <span class="toplink" onclick="toggleDiv(\'signin_div\', 1, 0);" style="cursor:pointer;">Sign In</span>');
   }
-</script>&nbsp; <span class="toplink" onclick="toggleDiv('signin_div', 1, 0);" style="cursor:pointer;">Sign In</span><noscript>
+</script></td><td>&nbsp; <span class="toplink" onclick="toggleDiv('signin_div', 1, 0);" style="cursor:pointer;">Sign In</span><noscript>
 <&nbsp; a href="/cgi/members/home.cgi" class="toplink">Members</a> &nbsp; <a href="/cgi/members/logout.cgi" class="toplink">Sign off</a>
 </noscript></td><td align="right"><img class="flag" src="/images/1.gif" width="34" height="20" style="background-position:-1px 0px;" onmouseover="toggleDiv('flag_div', 0, 1);"></td> </tr>
 </tbody></table>
@@ -315,9 +320,9 @@ if (ads == "no")
 </div> <!-- end of main_wrapper -->
 <p style="clear:both;"></p>
 
-<table width="100%" bgcolor="#000070" cellspacing="0" border="0" style="font: normal 10pt arial;padding:3px;margin-bottom:5px;">
+<table width="100%" bgcolor="#000070" cellspacing="0" border="0" style="font: normal 10pt arial;padding:3px;margin:10px 5px;clear:both;">
 <tbody><tr><td width="33%"><a href="/contact.html"> <font color="white" size="-2">Contact Info</font></a></td>
-<td align="center" width="33%"><font color="white" size="-2">© 1999-2014 Syvum Technologies Inc. </font></td>
+<td align="center" width="33%"><font color="white" size="-2">© 1999-2015 Syvum Technologies Inc. </font></td>
 <td align="right" width="33%">
 <a href="/legal/privacy.html"> <font color="white" size="-2">Privacy Policy</font></a>
 <a href="/legal/copyrt.html"> <font color="white" size="-2">Disclaimer and Copyright</font></a></td>
@@ -355,7 +360,7 @@ if (ads == "no")
 <td><b>Password</b></td> <td><input type="password" size="10" maxlength="25" name="Password"></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><input type="checkbox" name="RememberMe" value="1"> Remember me</td>
+<td colspan="2" align="center"><input type="checkbox" name="RememberMe" value="1" checked=""> Remember me</td>
 </tr>
 </tbody></table>
 <input type="submit" name="submit" value="Sign In"> &nbsp; <input type="button" value="Cancel" onclick="toggleDiv('signin_div');">
@@ -384,6 +389,7 @@ else if (navigator.userAgent.indexOf('Firefox') > -1)
     document.getElementById('flag_div').style.paddingRight = 4;
   }
 </script>
+
  
  
 
