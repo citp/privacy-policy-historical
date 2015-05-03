@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the unwrapindia.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625083445id_/http%3A//www.unwrapindia.com/stores/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unwrapindia.com privacy policy that was archived on 2015-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150503095012id_/http%3A//www.unwrapindia.com/stores/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- head tags - starts here --><!-- <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css' /> --><!-- <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css' /> --><!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,800,700,300' rel='stylesheet' type='text/css'> --><head><link href="/static/css/template/unwrapindia_new/font-family.css" rel="stylesheet">
 <link href="/static/css/template/unwrapindia_new/bootstrap.css" rel="stylesheet">
@@ -256,26 +256,28 @@ function search_content(){
 			        <strong>Error!</strong><div id="error_signup"></div>
 		         </div>
 				<span style="display: none;color: red;" id="user_registered_msg"></span>
-				<span style="color: red;font-size: small; display: none;" id="forgot_email_message">Please check your mail box !!!</span>
+				<span style="color: green;font-size: small; display: none;" id="success_email_message">Please check your mail box !!!</span>
+				<span style="color: green;font-size: small; display: none;" id="error_email_message">Please enter registered Email Id !!!</span>
 				
 				<div class="row">
 					<label style="color: black;">Email Address</label>
 					<input type="text" style="border-radius:5px;border:1px solid #CCCCCC; color:#2F2F2F; padding-left:5px; height:23px;" onfocus="if(this.value=='Enter Your Email') this.value='';" onblur="if(this.value=='') this.value='Enter Your Email'; " value="Enter Your Email" name="header_email" id="header_email">
 				</div>
-				<span style="color: red;margin-left: 138px; font-size: small; display: none;" id="wrong_email_message">
-					The email You have entered is Invalid try Again.
-				</span>
+				<span style="color: red;margin-left: 135px; font-size: small; display: none;" id="wrong_email_message">The email You have entered is Invalid try Again.</span>
 				<span style="display: block; color: red;display:none; font-size: small; margin-left: 138px;" id="hd_eml_msg">Please enter your Email Id !!!</span>
-				<div class="row">
+				<div class="row" id="pass_div">
 					<label style="color: black;">Password</label>
 					<input type="password" style="border-radius:5px; border:1px solid #CCCCCC; color:#2F2F2F; padding-left:5px; height:23px;" onfocus="if(this.value=='Passwo') this.value='';" onblur="if(this.value=='') this.value='Passwo'; " value="Passwo" name="header_password" id="header_password">
 				</div>
 				<span style="display: none;color: red; font-size: small;margin-left: 138px;" id="hd_pwd_msg">Please enter your Password !!!</span>
+				<div class="row" style="width: 51%; margin: 0px 41%;">
+                  <button style="margin-bottom: 5px; display: none;" class="action-btn btn-signup" onclick="forgot_password_header();" id="forget_pass_button" type="button">Submit</button>
+                  <button style="margin-bottom: 5px; display: none; margin-left: 15px;" class="action-btn btn-signup" onclick="showLoginDiv();" id="forget_pass_cancel_button" type="button">Cancel</button></div>
 				<div class="old-user">
 					<h3>Existing Customers</h3>
 					<div style="color: #0084BA;">
-						<button class="link-btn btn-forgot-pass" onclick="forgot_password_header()" type="button">Forgot your password?</button>
-						<br><input type="checkbox" checked="checked" name="remember_me" id="remember_me"> Remember Me
+						<button class="link-btn btn-forgot-pass" onclick="showForgetPasswordDiv();" type="button">Forgot your password?</button>
+						<br><input type="checkbox" name="remember_me" id="remember_me"> Remember Me
 					</div>
 					<button class="action-btn btn-signin" onclick="login_user()" type="button">Login</button>
 					<p>
@@ -298,63 +300,66 @@ function search_content(){
 				</div>
 				<div style="clear: both;">
 				</div>
-				<div class="msg-agree">
+				<div class="msg-agree" style="margin: 0 !important; text-align: center;">
 					By signing up you indicate that you are in agreement with UnWrapIndia's
 					<a href="/stores/term-of-use.html">Terms of Use</a> 
 					and 
 					<a href="/stores/privacy-policy.html">Privacy Policy</a>
 				</div>
 			</form>
-			<div class="loginfacebook">
+			<!-- <div class="loginfacebook">
 	            <strong class="or">or</strong>
 	            <a id="fbButton" type="button" class="action-btn btn-fb-connect" data-referer="" onclick="submit_form_face_book();" href="javascript:void(0);">
 	                <span class="ico-fb-small"></span> Connect with Facebook</a>
 	            <div class="err err-fb"></div>
-	        </div>
+	        </div> -->
 		</div>
 	</div>
 </div>
 	<script type="text/javascript">
-	var user_present = false;
-
-	
-	function openLoginBox(){
+		var user_present = false;
+		
+		
+		function openLoginBox(){
 		//document.getElementById('lb-login').style.display = 'block';
-			$("#ui-widget-overlay-login").show();
+			$("#ui-widget-overlay-login").fadeIn();
 			$("#lb-login").fadeIn("slow");
 		}
 		function closeLoginBox(){
 		//document.getElementById('lb-login').style.display = 'none';
 			$("#lb-login").fadeOut("slow");
-			$("#ui-widget-overlay-login").hide();
+			$("#ui-widget-overlay-login").fadeOut();
 		}
 
 		function login_user(){
 			$('.show_msg').fadeOut();
 			if(document.getElementById('forgot_email_message') != null){
-			document.getElementById('forgot_email_message').style.display = 'none';
+				$("#forgot_email_message").fadeOut();
 			}
 			if(document.getElementById('wrong_email_message') != null){
-			document.getElementById('wrong_email_message').style.display = 'none';
+				$("#wrong_email_message").fadeOut();
 			}
 			if(document.getElementById('header_email').value == "Enter Your Email" || document.getElementById('header_email').value =="" || document.getElementById('header_email').value.length == 0){
-			document.getElementById('hd_eml_msg').style.display = 'block';
-			document.getElementById('hd_pwd_msg').style.display = 'none';
-			document.getElementById('header_email').focus();
-			return false;
+				$("#hd_eml_msg").fadeIn();
+					document.getElementById('header_email').focus();
+					return false;
+			} else {
+				$("#hd_eml_msg").fadeOut();
 			}
 			document.getElementById('header_email').value = trimFull(document.getElementById('header_email').value);
 			if (!JS_UTIL.validateEmail(document.getElementById('header_email').value)) {
-			document.getElementById('header_email').focus();
-			document.getElementById('hd_eml_msg').style.display = 'none';
-			document.getElementById('wrong_email_message').style.display = 'block';
-			return false;
+				$("#wrong_email_message").fadeIn();
+					document.getElementById('header_email').focus();
+					return false;
+			} else {
+				$("#wrong_email_message").fadeOut();
 			}
 			if(document.getElementById('header_password').value == "Passwo" || document.getElementById('header_password').value =="" || document.getElementById('header_password').value.length == 0){
-			document.getElementById('hd_eml_msg').style.display = 'none';
-			document.getElementById('hd_pwd_msg').style.display = 'block';
-			document.getElementById('header_password').focus();
-			return false;
+				$("#hd_pwd_msg").fadeIn();
+					document.getElementById('header_password').focus();
+					return false;
+			} else {
+				$("#hd_pwd_msg").fadeOut();
 			}
 			//showloader();
 			var remember_me = "false";
@@ -367,7 +372,9 @@ function search_content(){
 				"&header_password="+document.getElementById('header_password').value+"&remember_me="+remember_me,
 				success: function(msg){
 					if(msg=='wrong'){
-						$('#error_email').fadeIn("500");
+						$("#error_email").fadeIn("2000");
+						$("#success_email_message").fadeOut();
+						$("#error_signup_div").fadeOut()
 					} else {
 						user_present = true;
 						if(document.getElementById("prod_id_for_wishlist") != null && document.getElementById("prod_id_for_wishlist").value != ""){
@@ -377,38 +384,59 @@ function search_content(){
 						}
 						closeLoginBox();
 						loginHeader();
-						$('#mycc_block').show();
+						$("#mycc_block").fadeIn();
 					}				
 				}
 			});
 			//hideloader();
-			}
+		}
 
-			function signUpNewUserHeader(){
-				var prod_id = $('#prod_id').val();
-				$('.show_msg').fadeOut();
-				$('forgot_email_message').fadeOut();
-				$('wrong_email_message').fadeOut();
-				if(document.getElementById('header_email').value == null || document.getElementById('header_email').value == "" || document.getElementById('header_email').value == "Enter Your Email" ||(!JS_UTIL.validateEmail(document.getElementById('header_email').value))) {
+		function signUpNewUserHeader(){
+			var prod_id = $('#prod_id').val();
+			$("#.show_msg").fadeOut();
+			$("#forgot_email_message").fadeOut();
+			$("#wrong_email_message").fadeOut();
+			$("#hd_pwd_msg").fadeOut();
+			$('#hd_cnf_pwd_msg').fadeOut();
+			if(document.getElementById('header_email').value == "Enter Your Email" || document.getElementById('header_email').value =="" || document.getElementById('header_email').value.length == 0){
+				$("#hd_eml_msg").fadeIn();
 					document.getElementById('header_email').focus();
-					$('#wrong_email_message').fadeIn();
 					return false;
-				}
-				if(document.getElementById('header_password').value == "" || document.getElementById('header_password').value == "Passwo"){
+			} else {
+				$("#hd_eml_msg").fadeOut();
+			}
+			document.getElementById('header_email').value = trimFull(document.getElementById('header_email').value);
+			if (!JS_UTIL.validateEmail(document.getElementById('header_email').value)) {
+				$("#wrong_email_message").fadeIn();
+					document.getElementById('header_email').focus();
+					return false;
+			} else {
+				$("#wrong_email_message").fadeOut();
+			}
+			
+			if(document.getElementById('header_password').value == "Passwo" || document.getElementById('header_password').value =="" || document.getElementById('header_password').value.length == 0){
+				$("#hd_pwd_msg").fadeIn();
 					document.getElementById('header_password').focus();
-					$('#hd_pwd_msg').fadeIn();
 					return false;
-				}
-				if(document.getElementById('header_conf_password').value == ""){
-					$('#hd_cnf_pwd_msg').fadeIn();
+			} else {
+				$("#hd_pwd_msg").fadeOut();
+			}
+			if(document.getElementById('header_conf_password').value == "" || document.getElementById('header_conf_password').value == null){
+				$('#hd_pwd_msg').fadeIn();
+				document.getElementById('header_conf_password').focus();
+				return false;
+			} else {
+				$('#hd_pwd_msg').fadeOut();
+			}
+			if(document.getElementById('header_password').value != document.getElementById('header_conf_password').value){
+				$('#hd_cnf_pwd_msg').fadeIn();
+					document.getElementById('header_conf_password').focus();
 					return false;
-				}
-				if(document.getElementById('header_password').value != document.getElementById('header_conf_password').value){
-					$('#hd_cnf_pwd_msg').fadeIn();
-					return false;
-				}
-				//showloader();
-					$.ajax({
+			} else {
+				$('#hd_cnf_pwd_msg').fadeOut();
+			}
+			//showloader();
+				$.ajax({
 					url: "/stores/head-register",
 					data: "header_email="+document.getElementById('header_email').value+
 					"&header_password="+document.getElementById('header_password').value+
@@ -420,24 +448,27 @@ function search_content(){
 								var product_id = document.getElementById("prod_id_for_wishlist").value;
 								window.location.href = "/stores/add-to-wishlist/"+product_id;
 								return false;
-							}
-						$('#success_signup').empty().html(msg);
-						$('#success_signup_div').fadeIn();
-						setTimeout('cleanUp()',3000);
-						
+						  }
+						  $('#success_signup').empty().html(msg);
+						  $('#error_email').fadeOut();
+						  $('#error_signup_div').fadeOut();
+						  $('#success_signup_div').fadeIn();
+						  setTimeout('cleanUp()',3000);
 					} else {
-					$('#error_signup').empty().html(msg).fadeIn();
-					$('#error_signup_div').fadeIn();
+						$('#error_signup').empty().html(msg).fadeIn();
+						$('#error_email').fadeOut();
+						$('#error_signup_div').fadeIn();
 					}
-					}
-				});
-					//hideloader();
-			} 
+				  }
+			   });
+				//hideloader();
+		} 
 			
 		function cleanUp(){
 			closeLoginBox();
 			loginHeader();
 		}
+		
 		function loginHeader(){
 			
 				$.ajax({
@@ -450,39 +481,68 @@ function search_content(){
 				});
 			
 		}
-			function submit_form_face_book(accessToken) {
-			FB.login(function(response) {
-			if (response.authResponse) {
-			FB.getLoginStatus(function(response) {
-			if (response.status === 'connected') {
-			var accessToken = response.authResponse.accessToken;
-			submit_form(accessToken);
-			}
-			else if (response.status === 'not_authorized') {
-			// the user is logged in to Facebook,
-			//but not connected to the app
-			}
-			});
-			} else {
-			//alert("Not authorised");
-			}
-			}, {scope: 'email'});
-			} 
+		
+		function submit_form_face_book(accessToken) { 
+			FB.login(function(response) {  
+		        if (response.authResponse) {
+		          FB.getLoginStatus(function(response) {
+		               if (response.status === 'connected') {
+		                 var accessToken = response.authResponse.accessToken;
+		                 submit_form(accessToken); 
+		               } 
+		               else if (response.status === 'not_authorized') {
+		                 // the user is logged in to Facebook, 
+		                 //but not connected to the app
+		               } 
+		              });
+
+		        } else {
+		          //alert("Not authorised");
+		        }
+		      }, {scope: 'email'});
+		}
+	    window.fbAsyncInit = function() { 
+			  FB.init({
+//			    appId      : '224232701119350', // Local App ID for Sid
+			    appId      : '626653374097010', // App ID
+			    //channelUrl : 'http://localhost:8080/home/fbchannel_https.html',
+			    status     : true, // check login status
+			    cookie     : true, // enable cookies to allow the server to access the session
+			    xfbml      : true,  // parse XFBML
+			    oauth      : true
+			  }); 
+		
+			  // Additional initialization code here
+		};
+		function submit_form(accessToken) { 
+			jQuery.ajax({
+			   type: "POST",
+			   async: true,
+			   url: "/retriveFacebook.html",
+			   data: "fbDetail="+accessToken,
+			   success: function(msg){
+				   	authResponse = null;
+				   	window.location.href = current_url;
+			   }
+			});	
+		}
 
 
-			function forgot_password_header(){
+		function forgot_password_header(){
 			if(document.getElementById('header_email').value == "Enter Your Email" || document.getElementById('header_email').value =="" || document.getElementById('header_email').value.length == 0){
-			document.getElementById('hd_eml_msg').style.display = 'block';
-			document.getElementById('hd_pwd_msg').style.display = 'none';
-			document.getElementById('header_email').focus();
-			return false;
+				$("#hd_eml_msg").fadeIn();
+					document.getElementById('header_email').focus();
+					return false;
+			} else {
+				$("#hd_eml_msg").fadeOut();
 			}
 			document.getElementById('header_email').value = trimFull(document.getElementById('header_email').value);
 			if (!JS_UTIL.validateEmail(document.getElementById('header_email').value)) {
-			document.getElementById('header_email').focus();
-			document.getElementById('hd_eml_msg').style.display = 'none';
-			document.getElementById('wrong_email_message').style.display = 'block';
-			return false;
+				$("#wrong_email_message").fadeIn();
+					document.getElementById('header_email').focus();
+					return false;
+			} else {
+				$("#wrong_email_message").fadeOut();
 			}
 			var email = document.getElementById('header_email').value;
 			$.ajax({
@@ -490,45 +550,68 @@ function search_content(){
 				data: "email_id_forgot="+email,
 				success: function(msg){
 			//hideloader();
-			if(document.getElementById('hd_eml_msg') != null){
-				document.getElementById('hd_eml_msg').style.display = 'none';
-			}
-			if(document.getElementById('hd_pwd_msg') != null){
-				document.getElementById('hd_pwd_msg').style.display = 'none';
-			}
-			if(msg == 'success'){
-				document.getElementById('forgot_email_message').style.display = 'block';
-				document.getElementById('wrong_email_message').style.display = 'none';
-			}else{
-				document.getElementById('wrong_email_message').style.display = 'block';
-				document.getElementById('forgot_email_message').style.display = 'none';
-			}
-			}
-			});
-			} 
-			$(document).ready(function(){
-			    $("#loader").bind("ajaxSend", function() {
-			        $(this).show();
-			    }).bind("ajaxStop", function() {
-			        $(this).hide();
-			    }).bind("ajaxError", function() {
-			        $(this).hide();
-			    });
-			     });
-
-			function openWishlist(product_id){
-				document.getElementById('prod_id_for_wishlist').value = product_id;
-				if(user_present){
-					window.location.href = "/stores/add-to-wishlist/"+product_id;
-				}else{
-					wantToSignIn();
+					/* if(document.getElementById('hd_eml_msg') != null){
+						document.getElementById('hd_eml_msg').style.display = 'none';
+					}
+					if(document.getElementById('hd_pwd_msg') != null){
+						document.getElementById('hd_pwd_msg').style.display = 'none';
+					} */
+					if(msg == 'success'){
+						$("#success_email_message").fadeIn();
+						$("#error_email_message").fadeOut();
+						showLoginDiv();
+					} else {
+						$("#error_email_message").fadeOut();
+						$("#success_email_message").fadeOut();
+					}
 				}
-			}
+			});
+		}
+		
+		$(document).ready(function(){
+		    $("#loader").bind("ajaxSend", function() {
+		        $(this).show();
+		    }).bind("ajaxStop", function() {
+		        $(this).hide();
+		    }).bind("ajaxError", function() {
+		        $(this).hide();
+		    });
+		});
 
-			function wantToSignIn(){
-				$("#ui-widget-overlay-login").show();
-				$("#lb-login").fadeIn("slow");
+		function openWishlist(product_id){
+			document.getElementById('prod_id_for_wishlist').value = product_id;
+			if(user_present){
+				window.location.href = "/stores/add-to-wishlist/"+product_id;
+			}else{
+				wantToSignIn();
 			}
+		}
+
+		function wantToSignIn(){
+			$("#ui-widget-overlay-login").show();
+			$("#lb-login").fadeIn("slow");
+		}
+			
+		function showForgetPasswordDiv(){
+			$("#pass_div").hide();
+			$("#forget_pass_button").show();
+			$("#forget_pass_cancel_button").show();
+			$(".new-user").hide();
+			$(".old-user").hide();
+			$("#hd_eml_msg").hide();
+			$("#wrong_email_message").hide();
+			$("#hd_pwd_msg").hide();
+		}
+			
+		function showLoginDiv(){
+			$("#forget_pass_button").hide();
+			$("#forget_pass_cancel_button").hide();
+			$("#pass_div").show();
+			$(".new-user").show();
+			$(".old-user").show();
+			$("#hd_eml_msg").hide();
+			$("#wrong_email_message").hide();
+		}
 	</script>
 	          		</div>
 	          </div>
@@ -631,7 +714,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(55)
+																												(49)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Shoulder Bags
@@ -651,30 +734,10 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(28)
+																												(20)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Purses
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Sling Bags">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5593/Sling-Bags">
-																									
-																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(25)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Sling Bags
 																											</span>
 																										
 																									
@@ -690,11 +753,31 @@ function search_content(){
 						                               											<a style="height: auto;" href="/stores/products/6/Category/5592/Pouches">
 																									
 																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(24)
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(18)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Pouches
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Wallets">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/164/Wallets">
+																									
+																										
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(9)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Wallets
 																											</span>
 																										
 																									
@@ -711,7 +794,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(21)
+																												(7)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Clutches
@@ -724,17 +807,17 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Wallets">			
+						                               				 				<li title="Batwa">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/164/Wallets">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5570/Batwa">
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(9)
+																												(6)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Wallets
+																												Batwa
 																											</span>
 																										
 																									
@@ -744,17 +827,17 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Wallets">			
+						                               				 				<li title="Batwa">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/164/Wallets">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5570/Batwa">
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(9)
+																												(6)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Wallets
+																												Batwa
 																											</span>
 																										
 																									
@@ -780,7 +863,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(380)
+																												(162)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Ear rings
@@ -800,30 +883,10 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(63)
+																												(33)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Necklaces
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Neck and Ear sets">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/137/Neck-and-Ear-sets">
-																									
-																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(44)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Neck and Ear sets
 																											</span>
 																										
 																									
@@ -839,11 +902,31 @@ function search_content(){
 						                               											<a style="height: auto;" href="/stores/products/6/Category/205/Trinklet-boxes">
 																									
 																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(32)
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(24)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Trinklet boxes
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Neck and Ear sets">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/137/Neck-and-Ear-sets">
+																									
+																										
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(20)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Neck and Ear sets
 																											</span>
 																										
 																									
@@ -860,30 +943,10 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(26)
+																												(18)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Bracelet
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Bangles &amp; bracelets">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5740/Bangles-bracelets">
-																									
-																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(22)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Bangles &amp; bracelets
 																											</span>
 																										
 																									
@@ -899,8 +962,8 @@ function search_content(){
 						                               											<a style="height: auto;" href="/stores/products/6/Category/1276/Anklets">
 																									
 																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(17)
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(16)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Anklets
@@ -919,11 +982,31 @@ function search_content(){
 						                               											<a style="height: auto;" href="/stores/products/6/Category/5743/Finger-Rings">
 																									
 																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(14)
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(12)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Finger Rings
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Bangles &amp; bracelets">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5740/Bangles-bracelets">
+																									
+																										
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(6)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Bangles &amp; bracelets
 																											</span>
 																										
 																									
@@ -964,7 +1047,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(20)
+																												(19)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Mobile Pouches
@@ -977,17 +1060,17 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Laptop bags">			
+						                               				 				<li title="Cable Twister">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/124/Laptop-bags">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/90/Cable-Twister">
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(9)
+																												(3)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Laptop bags
+																												Cable Twister
 																											</span>
 																										
 																									
@@ -1026,37 +1109,17 @@ function search_content(){
 																		</a>
 		                               				 				</li>
 																	
-						                               				 				<li title="Salwar Suit / Material">			
+						                               				 				<li title="T-Shirts">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/7323/Salwar-Suit-/-Material">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5253/T-Shirts">
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(100)
+																												(33)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Salwar Suit / Material
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Sarees">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/6120/Sarees">
-																									
-																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(59)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Sarees
+																												T-Shirts
 																											</span>
 																										
 																									
@@ -1072,8 +1135,8 @@ function search_content(){
 						                               											<a style="height: auto;" href="/stores/products/6/Category/1279/Kurtas">
 																									
 																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(47)
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(19)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Kurtas
@@ -1086,17 +1149,37 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="T-Shirts">			
+						                               				 				<li title="Sarees">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5253/T-Shirts">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/6120/Sarees">
+																									
+																										
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(7)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Sarees
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Salwar Suit / Material">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/7323/Salwar-Suit-/-Material">
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(34)
+																												(6)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												T-Shirts
+																												Salwar Suit / Material
 																											</span>
 																										
 																									
@@ -1113,7 +1196,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(15)
+																												(2)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Stoles
@@ -1142,7 +1225,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(12)
+																												(8)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Other Bar Essentials
@@ -1211,7 +1294,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(20)
+																												(18)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Danglers
@@ -1275,30 +1358,10 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(275)
+																												(142)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Show Pieces
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Planters">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5574/Planters">
-																									
-																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(179)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Planters
 																											</span>
 																										
 																									
@@ -1314,31 +1377,11 @@ function search_content(){
 						                               											<a style="height: auto;" href="/stores/products/6/Category/4969/Paintings">
 																									
 																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(150)
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(97)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Paintings
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Wall Hangings">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/4970/Wall-Hangings">
-																									
-																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(129)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Wall Hangings
 																											</span>
 																										
 																									
@@ -1355,7 +1398,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(119)
+																												(94)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Candle Stands
@@ -1368,17 +1411,17 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Vases">			
+						                               				 				<li title="Planters">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/163/Vases">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5574/Planters">
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(89)
+																												(80)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Vases
+																												Planters
 																											</span>
 																										
 																									
@@ -1388,17 +1431,17 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Clock">			
+						                               				 				<li title="Wall Hangings">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/1290/Clock">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/4970/Wall-Hangings">
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(65)
+																												(67)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Clock
+																												Wall Hangings
 																											</span>
 																										
 																									
@@ -1419,6 +1462,46 @@ function search_content(){
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Carpets and Rugs
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Vases">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/163/Vases">
+																									
+																										
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(42)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Vases
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Magnets">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/1291/Magnets">
+																									
+																										
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(34)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Magnets
 																											</span>
 																										
 																									
@@ -1464,34 +1547,14 @@ function search_content(){
 																		</a>
 		                               				 				</li>
 																	
-						                               				 				<li title="Candle Holders">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/4975/Candle-Holders">
-																									
-																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(91)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Candle Holders
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
 						                               				 				<li title="Lamps">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
 						                               											<a style="height: auto;" href="/stores/products/6/Category/1274/Lamps">
 																									
 																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(87)
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(40)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Lamps
@@ -1504,37 +1567,17 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Candles">			
+						                               				 				<li title="Ambient Candles">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/91/Candles">
-																									
-																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(57)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Candles
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Lanterns">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/4976/Lanterns">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/4141/Ambient-Candles">
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(50)
+																												(34)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Lanterns
+																												Ambient Candles
 																											</span>
 																										
 																									
@@ -1551,10 +1594,30 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(48)
+																												(34)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Ambient Candles
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Lanterns">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/4976/Lanterns">
+																									
+																										
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(30)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Lanterns
 																											</span>
 																										
 																									
@@ -1570,11 +1633,31 @@ function search_content(){
 						                               											<a style="height: auto;" href="/stores/products/6/Category/5738/Lamp-Shades">
 																									
 																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
 																												(21)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Lamp Shades
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Candle Holders">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/4975/Candle-Holders">
+																									
+																										
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(20)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Candle Holders
 																											</span>
 																										
 																									
@@ -1600,7 +1683,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(87)
+																												(61)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Cushion Covers
@@ -1633,17 +1716,17 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Bedspreads">			
+						                               				 				<li title="Curtains">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5739/Bedspreads">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5577/Curtains">
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(12)
+																												(7)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Bedspreads
+																												Curtains
 																											</span>
 																										
 																									
@@ -1669,7 +1752,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(6)
+																												(4)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Organic Laundry
@@ -1718,7 +1801,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(34)
+																												(16)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Penstands
@@ -1738,7 +1821,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(9)
+																												(7)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												File folders
@@ -1760,17 +1843,17 @@ function search_content(){
 																		</a>
 		                               				 				</li>
 																	
-						                               				 				<li title="Pooja Thali">			
+						                               				 				<li title="Ganeshas">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/6216/Pooja-Thali">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5580/Ganeshas">
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(32)
+																												(20)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Pooja Thali
+																												Ganeshas
 																											</span>
 																										
 																									
@@ -1780,17 +1863,37 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Ganeshas">			
+						                               				 				<li title="Incense Holders">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5580/Ganeshas">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5587/Incense-Holders">
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(27)
+																												(14)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Ganeshas
+																												Incense Holders
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Incense Sticks">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/1288/Incense-Sticks">
+																									
+																										
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(13)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Incense Sticks
 																											</span>
 																										
 																									
@@ -1806,8 +1909,8 @@ function search_content(){
 						                               											<a style="height: auto;" href="/stores/products/6/Category/5582/Idols">
 																									
 																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(24)
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(11)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Idols
@@ -1820,37 +1923,17 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Incense Holders">			
+						                               				 				<li title="Rangoli">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5587/Incense-Holders">
-																									
-																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(14)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Incense Holders
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Incense Holders">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5587/Incense-Holders">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5581/Rangoli">
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(14)
+																												(2)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Incense Holders
+																												Rangoli
 																											</span>
 																										
 																									
@@ -1931,7 +2014,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(8)
+																												(6)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Hair Oil
@@ -1960,7 +2043,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(10)
+																												(9)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Massage Oils
@@ -2024,10 +2107,30 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(32)
+																												(30)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Trays
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Coffee Mugs">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/96/Coffee-Mugs">
+																									
+																										
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(5)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Coffee Mugs
 																											</span>
 																										
 																									
@@ -2043,71 +2146,11 @@ function search_content(){
 						                               											<a style="height: auto;" href="/stores/products/6/Category/122/Kettles-and-Jars">
 																									
 																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(21)
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(4)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Kettles and Jars
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Crockery">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/100/Crockery">
-																									
-																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(11)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Crockery
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Bowls">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5594/Bowls">
-																									
-																										
-																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(5)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Bowls
-																											</span>
-																										
-																									
-																								</a>
-																							</li>	
-								                               				 			</ul>
-								                               				 		</li>
-																				
-		                               										
-						                               				 				<li title="Bowls">			
-																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
-																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5594/Bowls">
-																									
-																										
-																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(5)
-																											</span>
-																											<span style="margin-left: 10px;">
-																												Bowls
 																											</span>
 																										
 																									
@@ -2137,17 +2180,57 @@ function search_content(){
 								                               				 		</li>
 																				
 		                               										
-						                               				 				<li title="Salt &amp; Pepper Holder">			
+						                               				 				<li title="Bowls">			
 																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
 																		            		<li>
-						                               											<a style="height: auto;" href="/stores/products/6/Category/5744/Salt-Pepper-Holder">
+						                               											<a style="height: auto;" href="/stores/products/6/Category/5594/Bowls">
+																									
+																										
+																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(2)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Bowls
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Crockery">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/100/Crockery">
+																									
+																										
+																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
+																												(1)
+																											</span>
+																											<span style="margin-left: 10px;">
+																												Crockery
+																											</span>
+																										
+																									
+																								</a>
+																							</li>	
+								                               				 			</ul>
+								                               				 		</li>
+																				
+		                               										
+						                               				 				<li title="Crockery">			
+																		            	<ul style="float: left;margin-left: 0;overflow: hidden;width: 200px;padding-left: 10px;">
+																		            		<li>
+						                               											<a style="height: auto;" href="/stores/products/6/Category/100/Crockery">
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
 																												(1)
 																											</span>
 																											<span style="margin-left: 10px;">
-																												Salt &amp; Pepper Holder
+																												Crockery
 																											</span>
 																										
 																									
@@ -2182,7 +2265,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-success" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(42)
+																												(36)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Fruit Bowl and Basket
@@ -2242,7 +2325,7 @@ function search_content(){
 																									
 																										
 																											<span class="label label-info" style=" float: left;text-align: center;width: 33px;padding: 1px 2px 2px">
-																												(9)
+																												(6)
 																											</span>
 																											<span style="margin-left: 10px;">
 																												Coasters
@@ -2422,7 +2505,7 @@ function search_content(){
 																									
 																										
 																											
-																												(55)
+																												(49)
 																											
 																											
 																												Shoulder Bags
@@ -2433,21 +2516,10 @@ function search_content(){
 																									
 																										
 																											
-																												(28)
+																												(20)
 																											
 																											
 																												Purses
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/5593/Sling-Bags">
-																									
-																										
-																											
-																												(25)
-																											
-																											
-																												Sling Bags
 																											
 																										
 																									
@@ -2455,10 +2527,21 @@ function search_content(){
 																									
 																										
 																											
-																												(24)
+																												(18)
 																											
 																											
 																												Pouches
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/164/Wallets">
+																									
+																										
+																											
+																												(9)
+																											
+																											
+																												Wallets
 																											
 																										
 																									
@@ -2466,32 +2549,32 @@ function search_content(){
 																									
 																										
 																											
-																												(21)
+																												(7)
 																											
 																											
 																												Clutches
 																											
 																										
 																									
-																								</option><option value="/stores/products/6/Category/164/Wallets">
+																								</option><option value="/stores/products/6/Category/5570/Batwa">
 																									
 																										
 																											
-																												(9)
+																												(6)
 																											
 																											
-																												Wallets
+																												Batwa
 																											
 																										
 																									
-																								</option><option value="/stores/products/6/Category/164/Wallets">
+																								</option><option value="/stores/products/6/Category/5570/Batwa">
 																									
 																										
 																											
-																												(9)
+																												(6)
 																											
 																											
-																												Wallets
+																												Batwa
 																											
 																										
 																									
@@ -2501,7 +2584,7 @@ function search_content(){
 																									
 																										
 																											
-																												(380)
+																												(162)
 																											
 																											
 																												Ear rings
@@ -2512,21 +2595,10 @@ function search_content(){
 																									
 																										
 																											
-																												(63)
+																												(33)
 																											
 																											
 																												Necklaces
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/137/Neck-and-Ear-sets">
-																									
-																										
-																											
-																												(44)
-																											
-																											
-																												Neck and Ear sets
 																											
 																										
 																									
@@ -2534,10 +2606,21 @@ function search_content(){
 																									
 																										
 																											
-																												(32)
+																												(24)
 																											
 																											
 																												Trinklet boxes
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/137/Neck-and-Ear-sets">
+																									
+																										
+																											
+																												(20)
+																											
+																											
+																												Neck and Ear sets
 																											
 																										
 																									
@@ -2545,21 +2628,10 @@ function search_content(){
 																									
 																										
 																											
-																												(26)
+																												(18)
 																											
 																											
 																												Bracelet
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/5740/Bangles-bracelets">
-																									
-																										
-																											
-																												(22)
-																											
-																											
-																												Bangles &amp; bracelets
 																											
 																										
 																									
@@ -2567,7 +2639,7 @@ function search_content(){
 																									
 																										
 																											
-																												(17)
+																												(16)
 																											
 																											
 																												Anklets
@@ -2578,10 +2650,21 @@ function search_content(){
 																									
 																										
 																											
-																												(14)
+																												(12)
 																											
 																											
 																												Finger Rings
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/5740/Bangles-bracelets">
+																									
+																										
+																											
+																												(6)
+																											
+																											
+																												Bangles &amp; bracelets
 																											
 																										
 																									
@@ -2595,21 +2678,21 @@ function search_content(){
 																									
 																										
 																											
-																												(20)
+																												(19)
 																											
 																											
 																												Mobile Pouches
 																											
 																										
 																									
-																								</option><option value="/stores/products/6/Category/124/Laptop-bags">
+																								</option><option value="/stores/products/6/Category/90/Cable-Twister">
 																									
 																										
 																											
-																												(9)
+																												(3)
 																											
 																											
-																												Laptop bags
+																												Cable Twister
 																											
 																										
 																									
@@ -2626,25 +2709,14 @@ function search_content(){
 																									
 																								</option><option value="/stores/category-search/11/Apparel">
 																			Apparel
-																		</option><option value="/stores/products/6/Category/7323/Salwar-Suit-/-Material">
+																		</option><option value="/stores/products/6/Category/5253/T-Shirts">
 																									
 																										
 																											
-																												(100)
+																												(33)
 																											
 																											
-																												Salwar Suit / Material
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/6120/Sarees">
-																									
-																										
-																											
-																												(59)
-																											
-																											
-																												Sarees
+																												T-Shirts
 																											
 																										
 																									
@@ -2652,21 +2724,32 @@ function search_content(){
 																									
 																										
 																											
-																												(47)
+																												(19)
 																											
 																											
 																												Kurtas
 																											
 																										
 																									
-																								</option><option value="/stores/products/6/Category/5253/T-Shirts">
+																								</option><option value="/stores/products/6/Category/6120/Sarees">
 																									
 																										
 																											
-																												(34)
+																												(7)
 																											
 																											
-																												T-Shirts
+																												Sarees
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/7323/Salwar-Suit-/-Material">
+																									
+																										
+																											
+																												(6)
+																											
+																											
+																												Salwar Suit / Material
 																											
 																										
 																									
@@ -2674,7 +2757,7 @@ function search_content(){
 																									
 																										
 																											
-																												(15)
+																												(2)
 																											
 																											
 																												Stoles
@@ -2687,7 +2770,7 @@ function search_content(){
 																									
 																										
 																											
-																												(12)
+																												(8)
 																											
 																											
 																												Other Bar Essentials
@@ -2722,7 +2805,7 @@ function search_content(){
 																									
 																										
 																											
-																												(20)
+																												(18)
 																											
 																											
 																												Danglers
@@ -2737,21 +2820,10 @@ function search_content(){
 																									
 																										
 																											
-																												(275)
+																												(142)
 																											
 																											
 																												Show Pieces
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/5574/Planters">
-																									
-																										
-																											
-																												(179)
-																											
-																											
-																												Planters
 																											
 																										
 																									
@@ -2759,21 +2831,10 @@ function search_content(){
 																									
 																										
 																											
-																												(150)
+																												(97)
 																											
 																											
 																												Paintings
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/4970/Wall-Hangings">
-																									
-																										
-																											
-																												(129)
-																											
-																											
-																												Wall Hangings
 																											
 																										
 																									
@@ -2781,32 +2842,32 @@ function search_content(){
 																									
 																										
 																											
-																												(119)
+																												(94)
 																											
 																											
 																												Candle Stands
 																											
 																										
 																									
-																								</option><option value="/stores/products/6/Category/163/Vases">
+																								</option><option value="/stores/products/6/Category/5574/Planters">
 																									
 																										
 																											
-																												(89)
+																												(80)
 																											
 																											
-																												Vases
+																												Planters
 																											
 																										
 																									
-																								</option><option value="/stores/products/6/Category/1290/Clock">
+																								</option><option value="/stores/products/6/Category/4970/Wall-Hangings">
 																									
 																										
 																											
-																												(65)
+																												(67)
 																											
 																											
-																												Clock
+																												Wall Hangings
 																											
 																										
 																									
@@ -2821,53 +2882,42 @@ function search_content(){
 																											
 																										
 																									
+																								</option><option value="/stores/products/6/Category/163/Vases">
+																									
+																										
+																											
+																												(42)
+																											
+																											
+																												Vases
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/1291/Magnets">
+																									
+																										
+																											
+																												(34)
+																											
+																											
+																												Magnets
+																											
+																										
+																									
 																								</option><option value="/stores/category-search/59/Home-Decor">
 	
 																											View All
 	
 																									</option><option value="/stores/category-search/60/Lighting-Options">
 																			Lighting Options
-																		</option><option value="/stores/products/6/Category/4975/Candle-Holders">
+																		</option><option value="/stores/products/6/Category/1274/Lamps">
 																									
 																										
 																											
-																												(91)
-																											
-																											
-																												Candle Holders
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/1274/Lamps">
-																									
-																										
-																											
-																												(87)
+																												(40)
 																											
 																											
 																												Lamps
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/91/Candles">
-																									
-																										
-																											
-																												(57)
-																											
-																											
-																												Candles
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/4976/Lanterns">
-																									
-																										
-																											
-																												(50)
-																											
-																											
-																												Lanterns
 																											
 																										
 																									
@@ -2875,10 +2925,32 @@ function search_content(){
 																									
 																										
 																											
-																												(48)
+																												(34)
 																											
 																											
 																												Ambient Candles
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/4141/Ambient-Candles">
+																									
+																										
+																											
+																												(34)
+																											
+																											
+																												Ambient Candles
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/4976/Lanterns">
+																									
+																										
+																											
+																												(30)
+																											
+																											
+																												Lanterns
 																											
 																										
 																									
@@ -2893,13 +2965,24 @@ function search_content(){
 																											
 																										
 																									
+																								</option><option value="/stores/products/6/Category/4975/Candle-Holders">
+																									
+																										
+																											
+																												(20)
+																											
+																											
+																												Candle Holders
+																											
+																										
+																									
 																								</option><option value="/stores/category-search/61/Bedroom-Essentials">
 																			Bedroom Essentials
 																		</option><option value="/stores/products/6/Category/101/Cushion-Covers">
 																									
 																										
 																											
-																												(87)
+																												(61)
 																											
 																											
 																												Cushion Covers
@@ -2917,14 +3000,14 @@ function search_content(){
 																											
 																										
 																									
-																								</option><option value="/stores/products/6/Category/5739/Bedspreads">
+																								</option><option value="/stores/products/6/Category/5577/Curtains">
 																									
 																										
 																											
-																												(12)
+																												(7)
 																											
 																											
-																												Bedspreads
+																												Curtains
 																											
 																										
 																									
@@ -2934,7 +3017,7 @@ function search_content(){
 																									
 																										
 																											
-																												(6)
+																												(4)
 																											
 																											
 																												Organic Laundry
@@ -2958,7 +3041,7 @@ function search_content(){
 																									
 																										
 																											
-																												(34)
+																												(16)
 																											
 																											
 																												Penstands
@@ -2969,7 +3052,7 @@ function search_content(){
 																									
 																										
 																											
-																												(9)
+																												(7)
 																											
 																											
 																												File folders
@@ -2978,25 +3061,36 @@ function search_content(){
 																									
 																								</option><option value="/stores/category-search/64/Divine-Collection">
 																			Divine Collection
-																		</option><option value="/stores/products/6/Category/6216/Pooja-Thali">
+																		</option><option value="/stores/products/6/Category/5580/Ganeshas">
 																									
 																										
 																											
-																												(32)
-																											
-																											
-																												Pooja Thali
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/5580/Ganeshas">
-																									
-																										
-																											
-																												(27)
+																												(20)
 																											
 																											
 																												Ganeshas
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/5587/Incense-Holders">
+																									
+																										
+																											
+																												(14)
+																											
+																											
+																												Incense Holders
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/1288/Incense-Sticks">
+																									
+																										
+																											
+																												(13)
+																											
+																											
+																												Incense Sticks
 																											
 																										
 																									
@@ -3004,32 +3098,21 @@ function search_content(){
 																									
 																										
 																											
-																												(24)
+																												(11)
 																											
 																											
 																												Idols
 																											
 																										
 																									
-																								</option><option value="/stores/products/6/Category/5587/Incense-Holders">
+																								</option><option value="/stores/products/6/Category/5581/Rangoli">
 																									
 																										
 																											
-																												(14)
+																												(2)
 																											
 																											
-																												Incense Holders
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/5587/Incense-Holders">
-																									
-																										
-																											
-																												(14)
-																											
-																											
-																												Incense Holders
+																												Rangoli
 																											
 																										
 																									
@@ -3052,7 +3135,7 @@ function search_content(){
 																									
 																										
 																											
-																												(8)
+																												(6)
 																											
 																											
 																												Hair Oil
@@ -3065,7 +3148,7 @@ function search_content(){
 																									
 																										
 																											
-																												(10)
+																												(9)
 																											
 																											
 																												Massage Oils
@@ -3080,10 +3163,21 @@ function search_content(){
 																									
 																										
 																											
-																												(32)
+																												(30)
 																											
 																											
 																												Trays
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/96/Coffee-Mugs">
+																									
+																										
+																											
+																												(5)
+																											
+																											
+																												Coffee Mugs
 																											
 																										
 																									
@@ -3091,43 +3185,10 @@ function search_content(){
 																									
 																										
 																											
-																												(21)
+																												(4)
 																											
 																											
 																												Kettles and Jars
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/100/Crockery">
-																									
-																										
-																											
-																												(11)
-																											
-																											
-																												Crockery
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/5594/Bowls">
-																									
-																										
-																											
-																												(5)
-																											
-																											
-																												Bowls
-																											
-																										
-																									
-																								</option><option value="/stores/products/6/Category/5594/Bowls">
-																									
-																										
-																											
-																												(5)
-																											
-																											
-																												Bowls
 																											
 																										
 																									
@@ -3142,14 +3203,36 @@ function search_content(){
 																											
 																										
 																									
-																								</option><option value="/stores/products/6/Category/5744/Salt-Pepper-Holder">
+																								</option><option value="/stores/products/6/Category/5594/Bowls">
+																									
+																										
+																											
+																												(2)
+																											
+																											
+																												Bowls
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/100/Crockery">
 																									
 																										
 																											
 																												(1)
 																											
 																											
-																												Salt &amp; Pepper Holder
+																												Crockery
+																											
+																										
+																									
+																								</option><option value="/stores/products/6/Category/100/Crockery">
+																									
+																										
+																											
+																												(1)
+																											
+																											
+																												Crockery
 																											
 																										
 																									
@@ -3161,7 +3244,7 @@ function search_content(){
 																									
 																										
 																											
-																												(42)
+																												(36)
 																											
 																											
 																												Fruit Bowl and Basket
@@ -3194,7 +3277,7 @@ function search_content(){
 																									
 																										
 																											
-																												(9)
+																												(6)
 																											
 																											
 																												Coasters
@@ -3422,6 +3505,88 @@ function search_content(){
 			$("#search_string").autocomplete(jspString); 
  	    </script><div class="ac_results" style="display: none; position: absolute;"></div>  
 <!-- Placed at the end of the document so the pages load faster -->
+
+<script type="text/javascript">
+function submitEnquiry(){
+	var msg='';
+	var error='false';
+	var reg = /^([a-zA-Z0-9_.-])+@([a-zA-Z0-9_.-])+\.([a-zA-Z])+([a-zA-Z])+/;
+	if($('#mobile').val()==''){
+		$('#mobile').addClass('error');
+		$('#mobile').attr('placeholder', 'Please enter mobile number');
+		error='true';
+	} else if($('#mobile').val().length<10){
+		$('#mobile').addClass('error');
+		alert('Mobile number should be of 10 digit')
+		error='true';
+	} else{
+		$('#mobile').removeClass('error');
+	}
+	if($('#email').val()==''){
+		$('#email').addClass('error');
+		$('#email').attr('placeholder', 'Please enter email');
+		error='true';
+	} else if (reg.test($('#email').val()) == false){
+		$('#email').addClass('error');
+		alert('Please enter valid email id')
+		error='true';
+	} else{
+		$('#email').removeClass('error');
+	}
+	if($('#cnt_name').val()==''){
+		$('#cnt_name').addClass('error');
+		$('#cnt_name').attr('placeholder', 'Please enter your name');
+		error='true';
+	} else{
+		$('#cnt_name').removeClass('error');
+	}
+	if($('#message').val()==''){
+		$('#message').addClass('error');
+		$('#message').attr('placeholder', 'Please enter feedback');
+		error='true';
+	} else{
+		$('#message').removeClass('error');
+	}
+	if(error=='true'){
+	} else{
+	var formdata = $('#contactForml').serialize();
+	$.ajax({
+		  url: "/enquiry",
+		  data: formdata,
+		  success: function(msg){
+			  	if(msg=="success"){
+			  		$('.success').html('Thank you for Contacting us. We have received your message and will get back to you shortly.');
+					$('.success').fadeIn('slow', function () {
+						setTimeout(function () {
+							$('.success').fadeOut('slow');
+						}, 1500);
+					}); 
+//				  		alert("Thank you for Contacting us. We have received your message and will get back to you shortly.");
+					$("#form-enquiry").find('input').attr('value','')
+					$("#form-enquiry").find('textarea').attr('value','')
+					$("#form-enquiry").find('input').attr('placeholder','')
+					$("#form-enquiry").find('textarea').attr('placeholder','')
+					$('#form-enquiry').fadeOut('slow', function () {
+						setTimeout(function () {
+							$('#form-enquiry').fadeIn('slow');
+						}, 1500);
+					}); 
+			  	}
+			  	else {
+			  		$('.success').html('Some Error occurred, Please try again !!');
+					$('.success').fadeIn('slow', function () {
+						setTimeout(function () {
+							$('.success').fadeOut('slow');
+						}, 500);
+					}); 
+//				  		alert("Some Error occurred, Please try again !!");
+			  	}
+			}
+		});
+	}
+}
+</script>
+
 	<!-- footer - ends here -->
 
 	<!-- footer - starts here -->
@@ -3634,22 +3799,22 @@ function showloader(){
 		                    			
 												<td style="padding: 0; text-align: center;">
 													
-														<a href="/stores/product_detail/10465/CARTRIDGE--BLUE/BLACK/William-Penn">
+														<a href="/stores/product_detail/9735/Handcarved-Decorative-Wooden-Mask/Villcart">
 																					
 				                    					
-															<img width="120" height="120" border="0" title="" alt="" src="http://images.unwrapindia.com/unwrapindia//thumb/10465/10465_1_1403184342508.jpg">
+															<img width="120" height="120" border="0" title="" alt="" src="http://images.unwrapindia.com/unwrapindia//thumb/9735/9735_1_1377845160421.jpg">
 														
 				                    				</a>
 				                    				<br>
 				                    				
-														<a href="/stores/product_detail/10465/CARTRIDGE--BLUE/BLACK/William-Penn">
+														<a href="/stores/product_detail/9735/Handcarved-Decorative-Wooden-Mask/Villcart">
 														
-				                    					<span style="font-size: 12px;"> CARTRIDGE  BLUE/BLACK</span>
+				                    					<span style="font-size: 12px;"> Handcarved Decorative Wooden Mask</span>
 				                    				</a>
 				                    				<span>
 				                    				<br>
 				                    					<a>
-					                    					<span style="font-size: 13px;"><b><span class="WebRupee">Rs.</span>&nbsp;175.0</b></span>
+					                    					<span style="font-size: 13px;"><b><span class="WebRupee">Rs.</span>&nbsp;790.0</b></span>
 				                    					</a>
 				                    				</span>
 				                    			
@@ -3657,22 +3822,22 @@ function showloader(){
 		                    			
 												<td style="padding: 0; text-align: center;">
 													
-														<a href="/stores/product_detail/10464/CARTRIDGE--BLUE/William-Penn">
+														<a href="/stores/product_detail/9762/Welcome-Ganesha-and-Laxmi---5-inch/Villcart">
 																					
 				                    					
-															<img width="120" height="120" border="0" title="" alt="" src="http://images.unwrapindia.com/unwrapindia//thumb/10464/10464_1_1403184325411.jpg">
+															<img width="120" height="120" border="0" title="" alt="" src="http://images.unwrapindia.com/unwrapindia//thumb/9762/9762_1_1377845704438.jpg">
 														
 				                    				</a>
 				                    				<br>
 				                    				
-														<a href="/stores/product_detail/10464/CARTRIDGE--BLUE/William-Penn">
+														<a href="/stores/product_detail/9762/Welcome-Ganesha-and-Laxmi---5-inch/Villcart">
 														
-				                    					<span style="font-size: 12px;"> CARTRIDGE  BLUE</span>
+				                    					<span style="font-size: 12px;"> Welcome Ganesha and Laxmi - 5 inch</span>
 				                    				</a>
 				                    				<span>
 				                    				<br>
 				                    					<a>
-					                    					<span style="font-size: 13px;"><b><span class="WebRupee">Rs.</span>&nbsp;175.0</b></span>
+					                    					<span style="font-size: 13px;"><b><span class="WebRupee">Rs.</span>&nbsp;860.0</b></span>
 				                    					</a>
 				                    				</span>
 				                    			
@@ -3680,22 +3845,22 @@ function showloader(){
 		                    			
 												<td style="padding: 0; text-align: center;">
 													
-														<a href="/stores/product_detail/10463/CARTRIDGE--BLACK/William-Penn">
+														<a href="/stores/product_detail/9787/Ceramic-Ganesha-Idol/Villcart">
 																					
 				                    					
-															<img width="120" height="120" border="0" title="" alt="" src="http://images.unwrapindia.com/unwrapindia//thumb/10463/10463_1_1403184297718.jpg">
+															<img width="120" height="120" border="0" title="" alt="" src="http://images.unwrapindia.com/unwrapindia//thumb/9787/9787_1_1377846283427.jpg">
 														
 				                    				</a>
 				                    				<br>
 				                    				
-														<a href="/stores/product_detail/10463/CARTRIDGE--BLACK/William-Penn">
+														<a href="/stores/product_detail/9787/Ceramic-Ganesha-Idol/Villcart">
 														
-				                    					<span style="font-size: 12px;"> CARTRIDGE  BLACK</span>
+				                    					<span style="font-size: 12px;"> Ceramic Ganesha Idol</span>
 				                    				</a>
 				                    				<span>
 				                    				<br>
 				                    					<a>
-					                    					<span style="font-size: 13px;"><b><span class="WebRupee">Rs.</span>&nbsp;175.0</b></span>
+					                    					<span style="font-size: 13px;"><b><span class="WebRupee">Rs.</span>&nbsp;275.0</b></span>
 				                    					</a>
 				                    				</span>
 				                    			
@@ -3703,22 +3868,22 @@ function showloader(){
 		                    			
 												<td style="padding: 0; text-align: center;">
 													
-														<a href="/stores/product_detail/10483/REFILL--T-BLACK-BP/William-Penn">
+														<a href="/stores/product_detail/9789/Warli-Cotton-Bag---Black-and-Ocher/Villcart">
 																					
 				                    					
-															<img width="120" height="120" border="0" title="" alt="" src="http://images.unwrapindia.com/unwrapindia//thumb/10483/10483_1_1403184257166.jpg">
+															<img width="120" height="120" border="0" title="" alt="" src="http://images.unwrapindia.com/unwrapindia//thumb/9789/9789_1_1377846330722.jpg">
 														
 				                    				</a>
 				                    				<br>
 				                    				
-														<a href="/stores/product_detail/10483/REFILL--T-BLACK-BP/William-Penn">
+														<a href="/stores/product_detail/9789/Warli-Cotton-Bag---Black-and-Ocher/Villcart">
 														
-				                    					<span style="font-size: 12px;"> REFILL  T BLACK BP</span>
+				                    					<span style="font-size: 12px;"> Warli Cotton Bag - Black and Ocher</span>
 				                    				</a>
 				                    				<span>
 				                    				<br>
 				                    					<a>
-					                    					<span style="font-size: 13px;"><b><span class="WebRupee">Rs.</span>&nbsp;175.0</b></span>
+					                    					<span style="font-size: 13px;"><b><span class="WebRupee">Rs.</span>&nbsp;435.0</b></span>
 				                    					</a>
 				                    				</span>
 				                    			
