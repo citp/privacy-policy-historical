@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the manualsonline.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021314id_/http%3A//www.manualsonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manualsonline.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503064911id_/http%3A//www.manualsonline.com/privacy.html) for the most accurate reproduction.*
 
-# Free User Manuals | ManualsOnline.com
+# Privacy Policy | ManualsOnline.com
 
 ManualsOnline.com ("ManualsOnline") is committed to protecting our users' privacy. This privacy policy is designed to inform users of ManualsOnline (the "Site", defined more fully below) about how ManualsOnline gathers and uses anonymous and member information, and in what circumstances ManualsOnline will disclose such information. 
 
-[](http://www.truste.org/ivalidate.php?companyName=OwnerIQ&sealid=101)
-
-ManualsOnline is owned and operated by OwnerIQ, Inc. ManualsOnline, through OwnerIQ, i a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web sites [www.ManualsOnline.com](http://www.manualsonline.com/ "ManualsOnline"), and any variations thereof (e.g. kitchen.manualsonline.com). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact our privacy director at [webmaster@owneriq.com](mailto:webmaster@owneriq.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-#### Enforcement
+### Enforcement
 
 If you believe that ManualsOnline has not complied with this Privacy Policy, or if you have any other complaint with regard to collection, use or disclosure of personal information by ManualsOnline, you may send a written notice of complaint to: 
 
-**ManualsOnline.com** **c/o OwnerIQ, Inc.  
+**ManualsOnline.com**
+
+**c/o OwnerIQ, Inc.  
 **27-43 Wormwood Street 4th Fl  
 Boston, MA 02210  
 Attention: Doug Shattuck  
@@ -22,7 +18,7 @@ E-mail: [webmaster@owneriq.com ](mailto:webmaster@owneriq.com)
 
 OwnerIQ will investigate your complaint and respond to you promptly.
 
-#### Key Definitions
+### Key Definitions
 
 In this Privacy Policy, we use the following key definitions. Other terms are defined in the body of the policy.
 
@@ -34,11 +30,11 @@ In this Privacy Policy, we use the following key definitions. Other terms are de
 
 " **User** " or " **User** " means any person viewing any page of the Sites.
 
-" **Third Party Content** " means the user manuals and other documents available through the Sites and owned by Content Providers.  
-This Privacy Policy Does Not Apply to Third Party Websites.  
+" **Third Party Content** " means the user manuals and other documents available through the Sites and owned by Content Providers. This Privacy Policy Does Not Apply to Third Party Websites.
+
 The Sites host thousands of user manuals and other product support documentation. Some Third Party Content made available through the Sites is maintained on the website of the Content Provider, and not on ManualsOnline. This means that when you click through to that Third Party Content, you will be leaving ManualsOnline. It will be clear to you when this happens, as the look and feel of your web page will change, and the URL will no longer refer to ManualsOnline. This Privacy Policy does not govern other links or the use and disclosure of any information you choose to disclose to the Content Provider on the Content Provider site.
 
-#### What Information Do We Collect?
+### What Information Do We Collect?
 
 **Member Information** : By registering as a Member ("Member"), ManualsOnline collects your email address, zip code and information about products that you may own or are interested in. Our primary goal in collecting member information is to provide you with the best and most useful content and services, and to offer you opportunities to obtain other products and services from our partners.
 
@@ -52,7 +48,7 @@ Several of the services that we offer on our Sites may require registration as a
 **  
 **Supplementary Information**** : ManualsOnline may supplement Member Details with publicly available information about a Member's demographics. For example, if a Member indicates she lives in X zip code, we may obtain information giving representative geographic information about X zip code. This information is called "Supplementary Information".
 
-#### How Do We Use the Information We Collect?
+### How Do We Use the Information We Collect?
 
 Member Information: ManualOnline collects member information supplied by visitors who register, as described above. That information lets us better tailor our content to visitor interests and helps our advertisers better understand the audience they are reaching. We use Member Details to deliver email newsletters on topics of interest, such as newsletters with useful information on the things you own, to better target advertiser promotions found in these newsletters and advertising you see when using the Sites, to solicit information and feedback in the form of surveys, and we also may send general promotional and marketing materials to our Members, either by email or regular mail. We use Member Details and Supplementary Information in aggregated form to understand our Member base and to market our services to our customers. User access to the Sites is free and is supported by paid content and sponsorships from our advertisers.  
 **
@@ -66,14 +62,14 @@ Member Information: ManualOnline collects member information supplied by visitor
 • Displaying the most appropriate advertising or content based on your interests.  
 ManualsOnline uses OwnerIQ, Inc. to place advertisements for products and services of third parties on the Site. OwnerIQ uses cookies and other technologies such as Web beacons or tags to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on ManualsOnline, as well as on third-party sites where you may visit. To support this interest based advertising solution, OwnerIQ may use anonymous information about your visits to our and other Web sites. The information collected and used by OwnerIQ is always anonymous, and does not enable any third-party to identify you individually. For more information about OwnerIQ's Privacy Policy, please click [[here](http://www.owneriq.com/privacy-policy.php)]. 
 
-Opting out of OwnerIQ Service. Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered by OwnerIQ, you can always opt-out of this activity by clicking [[here](http://www.owneriq.com/opt-out.php)]. OwnerIQ is also part of the Network Advertising Initiative (NAI), and you may opt-out of the OwnerIQ service by visiting <http://www.networkadvertising.org/managing/opt_out.asp>   
+Opting out of OwnerIQ Service. Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered by OwnerIQ, you can always opt-out of this activity by clicking [[here](http://www.owneriq.com/opt-out.php)]. OwnerIQ is also part of the Network Advertising Initiative (NAI), and you may opt-out of the OwnerIQ service by visiting [this resource.](http://www.networkadvertising.org/managing/opt_out.asp)   
 **  
 **Sharing Information**** :   
 ManualsOnline may share collected Member Detail information:  
 • When we have your consent to share the information.  
 • ManualsOnline does not share any of your information with any person or entity other than as expressly stated in this Policy [E.G., BUSINESS TRANSFERS]. 
 
-#### What Information Do We Disclose to Third Parties?
+### What Information Do We Disclose to Third Parties?
 
 **Disclosure of Anonymous, Aggregated Information**  
 We aggregate user information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. ManualsOnline also discloses aggregated user statistics (for example, 25% of our users are interested in plasma TVs) in order to describe our services to prospective customers and partners, and other third parties, and for other lawful purposes.
@@ -83,7 +79,7 @@ We may provide summary reports to our Content Providers, based on our analysis o
 **Disclosure of Personal Information**  
 **Except as set forth in this Privacy Policy, OwnerIQ will not disclose personal information to any third parties for promotional purposes. Notwithstanding the foregoing, OwnerIQ may at any time disclose Member Details and any other information collected to third parties if we are required to do so by law, warrant, subpoena, regulation or court order.
 
-#### How Can You Opt Out of Use and Disclosure of Your Information?
+### How Can You Opt Out of Use and Disclosure of Your Information?
 
 ManualsOnline will only use your Member Details for the purposes described in this Privacy Policy or subsequently authorized by you. You can opt out of having your Member Details and Clickstream Data disclosed as described above by not becoming a member and not viewing the Third Party Content. 
 
@@ -93,18 +89,18 @@ If you want your subscriber information deleted from the ManualsOnline database 
 
 Information provided to us by you is, however, subject to disclosure pursuant to any applicable laws.
 
-#### Security
+### Security
 
 ManualsOnline has implemented reasonable security measures to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall Web security.
 
-#### Access and Updating of Information
+### Access and Updating of Information
 
 The instructions to review, amend, or delete your information may be found in the View Profile area on any of our sites. You can access this area of the site by logging in using your username and password. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [webmaster@owneriq.com](mailto:webmaster@owneriq.com).
 
 **Comments, and User requests for information from the Membership**  
 If you use a bulletin board, blog, or post other information on the Sites, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-#### General
+### General
 
 **Links** : The ManualsOnline Site contains links to other Websites.ManualsOnline is not responsible for the privacy practices or the content of those sites. Users should be aware of this when they leave our site and review the privacy statements of each Web site they visit that collects information. This Privacy Policy applies solely to information collected by ManualsOnline on the Sites.
 
@@ -118,7 +114,7 @@ If you use a bulletin board, blog, or post other information on the Sites, you s
 **  
 **Note**** : If you choose not to provide some information when registering for a site, certain products or services may not be available to you. 
 
-#### Effective Date of this policy: December 2, 2010. 
+### Effective Date of this policy: December 2, 2010. 
 
 To contact the site please email us at:   
 [webmaster@owneriq.com](mailto:webmaster@owneriq.com)
