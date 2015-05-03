@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accesso.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221135746id_/http%3A//accesso.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accesso.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503061923id_/http%3A//accesso.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | accesso
+# Privacy Statement - accesso
 
 ## PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF USE FOR THE SITE CAREFULLY. YOUR USE OF THE SITE SIGNIFIES YOUR AGREEMENT TO THIS PRIVACY POLICY AND TERMS OF USE.
 
