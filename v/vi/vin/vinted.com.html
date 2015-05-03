@@ -1,61 +1,59 @@
-<!--The following is the downloaded HTML source of the vinted.com privacy policy that was archived on 2014-07-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140707060048id_/http%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vinted.com privacy policy that was archived on 2015-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150503140342id_/http%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" flavour-clothing support-js support-flexbox support-canvas support-no-touch support-postmessage support-hashchange support-history support-backgroundsize support-borderimage support-cssanimations support-csscolumns support-cssgradients support-csstransforms support-csstransforms3d support-csstransitions support-localstorage support-mediaqueries support-no-overflowscrolling" lang="en-us" style=""><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js flavour-clothing" lang="en-us"><!--<![endif]--><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d11e5b3cd1","applicationID":"2136278","transactionName":"cglXFhRcWw5dF05bUFgIFgEJXloNVjoVU0lF","queueTime":10,"applicationTime":57,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUFFTGwEBV1dQAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d11e5b3cd1","applicationID":"2136278","transactionName":"cglXFhRcWw5dF05bUFgIFgEJXloNVjoVU0lF","queueTime":51,"applicationTime":51,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGUFFTGwEBV1dQAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 
   <title>Vinted Inc. Privacy Policy</title>
   <meta name="keywords" content="jual, beli, baju, lemari maya, sell clothes online, wardrobe, swapping, buying, fashion, style, stylish, preloved, buy second hand, used clothes, style ideas, sell preloved clothes malaysia, vintage fashion, online shop">
-  <meta name="description" content="Change, buy, sell or give away your items you don't need anymore for free. Be a wise consumer and save money! ">
-    <link rel="icon" type="image/ico" href="/favicon.ico">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <meta name="description" content="ASOS, Brandy Melville, Jeffrey Campbell, Topshop... Buy, sell and swap the latest trends in secondhand clothes, shoes and accessories through our social platform!">
 
   
 
-  <meta name="msapplication-starturl" content="http://www.vinted.com">
-  <meta name="application-name" content="vinted.com">
-  <meta name="msapplication-tooltip" content="Vinted Inc. Privacy Policy">
-  <meta name="msapplication-navbutton-color" content="#99cc66">
-  <meta name="msapplication-task" content="name=Messages;action-uri=https://www.vinted.com/member/msg/inbox;icon-uri=http://www.vinted.com/favicon.ico">
-  <meta name="msapplication-task" content="name=Newest Items;action-uri=https://www.vinted.com/clothes;icon-uri=http://www.vinted.com/favicon.ico">
-  <meta name="msapplication-task" content="name=Sell now;action-uri=https://www.vinted.com/catalog/new_item;icon-uri=http://www.vinted.com/favicon.ico">
-  <meta name="msapplication-task" content="name=Forums;action-uri=https://www.vinted.com/forum;icon-uri=http://www.vinted.com/favicon.ico">
-  <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
   <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0">
+  <meta name="theme-color" content="#5db8c9">
 
-  <meta name="apple-itunes-app" content="app-id=656177391">
+  <meta property="al:ios:url" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
+<meta property="al:ios:app_store_id" content="656177391">
+<meta property="al:ios:app_name" content="Vinted">
+<meta property="al:android:url" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
+<meta property="al:android:app_name" content="Vinted">
+<meta property="al:android:package" content="com.vinted">
+<meta property="al:web:should_fallback" content="true">
+<meta name="twitter:app:country" content="US">
+<meta name="twitter:app:name:iphone" content="Vinted">
+<meta name="twitter:app:id:iphone" content="656177391">
+<meta name="twitter:app:name:googleplay" content="Vinted">
+<meta name="twitter:app:id:googleplay" content="com.vinted">
+<meta name="twitter:app:url:iphone" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
+<meta name="twitter:app:url:googleplay" content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
+<link rel="alternative" href="android-app://com.vinted/vintedus/webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy">
+  <meta name="twitter:site" content="@VintedUSA">
 
-  <meta content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy" property="al:ios:url">
-<meta content="656177391" property="al:ios:app_store_id">
-<meta content="Vinted" property="al:ios:app_name">
-<meta content="vintedus://webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy" property="al:android:url">
-<meta content="Vinted" property="al:android:app_name">
-<meta content="com.vinted" property="al:android:package">
-<meta content="false" property="al:web:should_fallback">
-<link href="android-app://com.vinted/vintedus/webview?url=http%3A%2F%2Fwww.vinted.com%2Fprivacy-policy" rel="alternative">
-
-  <meta property="og:image" content="http://www.vinted.com/assets/default/logo/us/logo-200-21fa3c3e14b5fb7e476f7ec42eb7fe65.png">
-<meta property="og:image:secure_url" content="https://www.vinted.com/assets/default/logo/us/logo-200-21fa3c3e14b5fb7e476f7ec42eb7fe65.png">
+  <meta property="og:image" content="http://www.vinted.com/assets/open-graph/clothing/default-ca15293629c9e9a55ed68fe59bf71c70.jpg">
+<meta property="og:image:secure_url" content="https://www.vinted.com/assets/open-graph/clothing/default-ca15293629c9e9a55ed68fe59bf71c70.jpg">
 <meta property="fb:app_id" content="156162527893846">
-<meta property="og:url" content="https://www.vinted.com/privacy-policy">
-<link rel="canonical" href="https://www.vinted.com/privacy-policy">
-  <meta content="authenticity_token" name="csrf-param">
-<meta content="rjgIjJJ1n7R9ULIkN5QDKybkQ/hkPCGahblfYU44eug=" name="csrf-token">
+<meta property="og:url" content="http://www.vinted.com/privacy-policy">
+<link rel="canonical" href="http://www.vinted.com/privacy-policy">
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="EsllUaoDcka9WAjzL/Fc/gZjw6qUNCZL5N4+ScruPm8rXv7GhezHkkhhCT/7NAbLUowEsHADL3JQEYtz46MCDQ==">
   
 
-  <style type="text/css">
-    
-  </style>
+  <style type="text/css"></style>
 
-    <link href="/assets/default-4f3780c92f089767c7511f283dd11d87.css" media="screen" rel="stylesheet">
+  <link rel="stylesheet" media="screen" href="/assets/default-5e8d05bf01c49334429f1fe7580af047.css">
 
   
   
 
   <meta name="p:domain_verify" content="9c8542fd3c2b1b476cccd28ba6d0ccb4">
+
+<meta property="twitter:account_id" content="4503599630142977">
+
+<meta name="google-site-verification" content="pRTT7Ij9xapj8z_paOsGKwQs3AO0yaoWUwOmwGUJi-8">
 
 <script type="text/javascript">
 
@@ -64,7 +62,7 @@
   _gaq.push(['_setDomainName', 'vinted.com']);
   _gaq.push(['_setCustomVar', 1, 'Session', 'not_logged', 2]);
   _gaq.push(['_setCustomVar', 2, 'UserID', '0', 2]);
-  _gaq.push(['_setCustomVar', 3, 'AbTest', 'xx1,xxa0,xxb0,mpb1,mpgw0,mnlf0,m2cc0,mchb1,mchd1,mshs1,migh0,miop1,motf1,mcf0,mtbn0,mmop1,tbe0,pnr1,pnra1,pnrb1,vonr1,vonra1,vchexp1,mbsc1,mbsa0,intrsh1,mfna1,mnf20,msc0,mscs0,mss1', 2]);
+  _gaq.push(['_setCustomVar', 3, 'AbTest', 'rls_on,isc_c,sfb_on,isc2_c,csi_on,soc_on,itc_on,nuf_d,msc_off,fsp_on,gate_off,kcip_on,fam_on,msn_on,blm_on', 2]);
   _gaq.push(['_setCustomVar', 4, 'LandingZone', '', 2]);
   if (window.location.pathname.substring(1,15) != 'social_plugin/' && window.location.pathname.substring(1,15) != 'closet_plugin/') {
     _gaq.push(['_trackPageview']);
@@ -78,67 +76,71 @@
 
 </script>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
+    
 
   <!-- Fallback to local if CDN is down -->
-  <script>window.jQuery || document.write('<script src="/assets/lib/jquery-846d78f6e987f9e7fead7373131ff2a1.js"><\/script>')</script><script src="/assets/lib/jquery-846d78f6e987f9e7fead7373131ff2a1.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/jquery-b654ac06a1c52214601be0dc4542cec2.js"><\/script>')</script><script src="/assets/jquery-b654ac06a1c52214601be0dc4542cec2.js"></script>
 
-  <script src="/assets/app/head-4b20ccab03ad95777886bb7ed649efe1.js"></script>
-  <script src="/assets/constants/en-us-8062ceedf54b6427a0f88f01574fc684.js"></script>
+  <script src="/assets/head-83dec2065edd6f349ec137c5c841be36.js"></script>
+  <script src="/assets/constants/en-us-4bd3f4ece1376a7958357dbb23b0be67.js"></script>
 
   
 </head>
 
 
 <body class=" fullpage-layout">
+  
   <div class="site">
       
 
   <header class="header header-anonymous">
-    
-
     <div class="container header-container">
-        <div class="nav-icon icon-nav-toggle mobile-only" data-toggle="dropdown" data-target=".header-navigation"></div>
+        <div class="hamburger hamburger--site-nav-toggle" data-toggle="dropdown" data-target=".header-navigation, .hamburger">
+          <span class="hamburger__part hamburger__part--salad"></span>
+          <span class="hamburger__part hamburger__part--ham"></span>
+          <span class="hamburger__part hamburger__part--patty"></span>
+          <span class="hamburger__part hamburger__part--bun"></span>
+        </div>
 
         <nav class="header-navigation">
             <div class="header-userbar">
               <div class="header-signin">
-                <a class="dropdown-user-sign-in button plain-button active __act_as_default_on_mobile" data-target="#login-dropdown" data-toggle="dropdown" href="/member/signup/start?f_doen=reg.email.top#login" id="user-login-button" rel="nofollow">Sign in</a>
+                <a class="dropdown-user-sign-in button plain-button active __act_as_default_on_mobile" id="user-login-button" rel="nofollow" data-toggle="dropdown" data-target="#login-dropdown" href="/member/signup/start#login">Sign in</a>
 
                 <!-- TODO: Add auto-focus when dropdown appears -->
 <div class="dropdown dropdown-right dropdown-wide" id="signin-dropdown">
-  <div class="box sign-in">
-    <div class="box-content dialog-content">
+  <div class="box box--sign-in">
+    <div class="box__content dialog-content">
       <div class="social-signin">
-          <a class="button facebook-button __act_as_fb_login block-button" data-funnel-enter="reg.facebook.top" href="#" rel="nofollow">Login with Facebook</a>
+          <a class="button facebook-button __act_as_fb_login block-button" rel="nofollow" data-ref-url="/privacy-policy" href="#">Login with Facebook</a>
 
       </div>
 
       <div class="form-separator">
-        <span>Use account</span>
+        <span>My account</span>
       </div>
 
-      <form accept-charset="UTF-8" action="https://www.vinted.com/member/general/login?ref_url=%2Fprivacy-policy" id="login-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="rjgIjJJ1n7R9ULIkN5QDKybkQ/hkPCGahblfYU44eug="></div>
-        <input id="f_doen" name="f_doen" type="hidden" value="reg.email.top">
+      <form id="login-form" action="https://www.vinted.com/member/general/login?ref_url=%2Fprivacy-policy" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="cwdGCQCn8YohGHL4eZySjfnVuJI7ytBAwb7vzIBACW1KkN2eL0hEXtQhczStWci4rTp/iN/92Xl1cVr2qQ01Dw==">
         <fieldset>
 
-          <div class="field-wrap">
-            <input id="header-login" name="login" placeholder="Username" type="text">
+          <div class="form__row">
+            <input type="text" name="login" id="header-login" placeholder="Username">
           </div>
 
-          <div class="field-wrap">
-            <input id="header-password" name="password" placeholder="Password" type="password">
+          <div class="form__row">
+            <input type="password" name="password" id="header-password" placeholder="Password">
           </div>
 
-          <input class="button submit-button" name="commit" type="submit" value="Login »">
+          <input type="submit" name="commit" value="Sign in »" class="button submit-button">
         </fieldset>
 
         <div class="form-actions">
           <div class="submit-details">
-            <div><a href="/member/general/forgot_password" rel="nofollow">Forgot your password?</a></div>
+            <div><a rel="nofollow" href="/member/general/forgot_password">Forgot your password?</a></div>
             <div>
               Not a member yet?
-              <a href="/member/signup/start/privacy_policy" rel="nofollow">Sign up</a>
+              <a rel="nofollow" href="/member/signup/start/privacy_policy">Sign up</a>
             </div>
           </div>
         </div>
@@ -147,131 +149,153 @@
 </div>
 
 
-                  <a class="button facebook-button __act_as_fb_login" data-funnel-enter="reg.facebook.top" href="#" rel="nofollow">Login with Facebook</a>
+                  <a class="button facebook-button __act_as_fb_login" rel="nofollow" href="#">Login with Facebook</a>
+                
               </div>
             </div>
 
-          <ul class="nav header-nav" id="top-menu-items"><li class="nav-item"><a class="header-logo" href="https://www.vinted.com/"><img alt="vinted.com" src="/assets/default/blank-7a13fe2db433d0cbefd65fd519c4f7db.gif"></a></li><li class="nav-item"><a class="nav-link" data-target="#" data-toggle="null" data-track-link="header.nav.feed_button" href="https://www.vinted.com/" title="Feed">Feed</a></li><li class="nav-item"><a class="nav-link __act_as_default_on_mobile" data-target="#" data-toggle="dropdown" data-track="header.nav.catalog_button" href="https://www.vinted.com/clothes" id="catalog-menu-item" title="Shop">Shop</a><div class="dropdown">
+          <ul class="nav header-nav" id="top-menu-items"><li class="nav-item"><a class="header-logo" href="http://www.vinted.com/"><img alt="vinted.com" src="/assets/default/blank-2c748ab88d07b236bb62990ad98cd7c8.gif"></a></li><li class="nav-item"><a title="Feed" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.feed_button" href="http://www.vinted.com/">Feed</a></li><li class="nav-item"><a title="Shop" class="nav-link __act_as_default_on_mobile" id="catalog-menu-item" data-toggle="dropdown" data-target="#" data-track="header.nav.catalog_button" href="http://www.vinted.com/clothes">Shop</a><div class="dropdown">
 <div class="catalog catalog-horizontal">
   <ul class="nav nav-detailed nav-categories head horizontal hidden nav-dropdown">
       <li class="nav-item">
 
-        <a class="nav-link nav-catalog-category-womens" data-details="1351426" data-target="#nav-catalog-4" data-toggle="tab" href="/women"><strong>Women</strong></a>
+        <a class="nav-link nav-catalog-category-womens" data-details="1362592" data-toggle="tab" data-target="#nav-catalog-4" href="/women"><strong>Women</strong></a>
       </li>
   </ul>
 
   <div class="subcatalogs horizontal">
       <ul id="nav-catalog-4" class="nav nav-detailed nav-stacked nav-subcategories nav-dropdown">
         <li class="nav-item">
-          <a class="nav-link nav-catalog-category-all-clothes" data-details="1351426" href="/women">See All</a>
+          <a class="nav-link nav-catalog-category-all-clothes" data-details="1362592" href="/women">See All</a>
         </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-footwear" data-details="123829" href="/women/footwear">Footwear</a>
+            <a class="nav-link nav-catalog-category-footwear" data-details="115757" href="/women/shoes">Shoes</a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-dresses" data-details="193987" href="/women/dresses">Dresses </a>
+            <a class="nav-link nav-catalog-category-dresses" data-details="186021" href="/women/dresses">Dresses </a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-trousers" data-details="87755" href="/women/pants">Pants</a>
+            <a class="nav-link nav-catalog-category-trousers" data-details="89215" href="/women/pants">Pants</a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-tops-t-shirts" data-details="416013" href="/women/tops-and-t-shirts">Tops &amp; T-Shirts</a>
+            <a class="nav-link nav-catalog-category-tops-t-shirts" data-details="440579" href="/women/women-tops">Tops</a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-skirts" data-details="50668" href="/women/skirts">Skirts</a>
+            <a class="nav-link nav-catalog-category-coats-jackets" data-details="35008" href="/women/coats-and-jackets">Coats &amp; Jackets</a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-blazers" data-details="15533" href="/women/blazers">Blazers</a>
+            <a class="nav-link nav-catalog-category-skirts" data-details="52945" href="/women/skirts">Skirts</a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-pullovers-sweaters" data-details="85566" href="/women/pullovers-and-sweaters">Pullovers &amp; Sweaters</a>
+            <a class="nav-link nav-catalog-category-blazers" data-details="11715" href="/women/suits-and-blazers">Suits &amp; Blazers</a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-shorts-capris" data-details="55581" href="/women/shorts-and-capris">Shorts &amp; Capris</a>
+            <a class="nav-link nav-catalog-category-pullovers-sweaters" data-details="116965" href="/women/hoodies-and-sweaters">Hoodies &amp; Sweaters</a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-accessories" data-details="252533" href="/women/accessories">Accessories</a>
+            <a class="nav-link nav-catalog-category-jewellery" data-details="95099" href="/women/jewelry">Jewelry</a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-outerwear" data-details="28169" href="/women/women-outerwear">Outerwear</a>
+            <a class="nav-link nav-catalog-category-bags-uk" data-details="49860" href="/women/bags">Bags</a>
           </li>
           <li class="nav-item">
 
-            <a class="nav-link nav-catalog-category-other-clothes" data-details="41735" href="/women/other-clothes">Other Clothes</a>
+            <a class="nav-link nav-catalog-category-shorts-capris" data-details="58885" href="/women/women-shorts">Shorts</a>
+          </li>
+          <li class="nav-item">
+
+            <a class="nav-link nav-catalog-category-accessories" data-details="67137" href="/women/accessories">Accessories</a>
+          </li>
+          <li class="nav-item">
+
+            <a class="nav-link nav-catalog-category-jumpsuits-uk" data-details="6996" href="/women/rompers-and-jumpsuits">Rompers &amp; Jumpsuits</a>
+          </li>
+          <li class="nav-item">
+
+            <a class="nav-link nav-catalog-category-swimwear-beachwear" data-details="17591" href="/women/swimwear-and-beachwear">Swimwear &amp; Beachwear</a>
+          </li>
+          <li class="nav-item">
+
+            <a class="nav-link nav-catalog-category-maternity-clothes-main" data-details="336" href="/women/maternity-clothes">Maternity clothes</a>
+          </li>
+          <li class="nav-item">
+
+            <a class="nav-link nav-catalog-category-other-clothes" data-details="18404" href="/women/other-clothes">Other Clothes</a>
           </li>
       </ul>
   </div>
-</div></div></li><li class="nav-item"><a class="nav-link" data-target="#" data-toggle="null" data-track-link="header.nav.forum_button" href="https://www.vinted.com/forum" title="Forums">Forums</a></li><li class="nav-item header-nav-extension"><a class="nav-link __act_as_default_on_mobile" data-target="#" data-toggle="dropdown" data-track="header.nav.about_button" href="https://www.vinted.com/about" title="About Vinted">About Vinted</a><div class="dropdown"><ul class="nav nav-stacked nav-dropdown"><li class="nav-item"><a class="nav-link" data-target="#" data-toggle="null" data-track-link="header.nav.how_does_it_work_button" href="https://www.vinted.com/about" title="How does it work?">How does it work?</a></li><li class="nav-item"><a class="nav-link nav-link-featured" data-target="#" data-toggle="null" data-track-link="header.nav.faq_button" href="https://www.vinted.com/main/faq" title="FAQ">FAQ</a></li><li class="nav-item"><a class="nav-link" data-target="#" data-toggle="null" data-track-link="header.nav.member_button" href="https://www.vinted.com/member/general/list" title="Members">Members</a></li><li class="nav-item"><a class="nav-link" data-target="#" data-toggle="null" data-track-link="header.nav.blog_button" href="https://www.vinted.com/blog" id="bloglink" title="Blog">Blog</a></li></ul></div></li></ul>
+</div></div></li><li class="nav-item"><a title="Forums" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.forum_button" href="http://www.vinted.com/forum">Forums</a></li><li class="nav-item header-nav-extension"><a title="About Vinted" class="nav-link __act_as_default_on_mobile" data-toggle="dropdown" data-target="#" data-track="header.nav.about_button" href="http://www.vinted.com/about">About Vinted</a><div class="dropdown"><ul class="nav nav-stacked nav-dropdown"><li class="nav-item"><a title="About us" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.about_us_button" href="http://www.vinted.com/about">About us</a></li><li class="nav-item"><a title="Learn how it works" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.how_does_it_work_button" href="http://www.vinted.com/how_it_works">Learn how it works</a></li><li class="nav-item"><a title="FAQ &amp; Support" class="nav-link nav-link-featured" data-toggle="null" data-target="#" data-track-link="header.nav.faq_button" href="http://www.vinted.com/main/faq">FAQ &amp; Support</a></li><li class="nav-item"><a title="Members" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.member_button" href="http://www.vinted.com/member/general/list">Members</a></li><li class="nav-item"><a title="Vinted Stories" class="nav-link" id="bloglink" data-toggle="null" data-target="#" data-track-link="header.nav.blog_button" href="http://www.vinted.com/blog">Vinted Stories</a></li><li class="nav-item"><a title="Get the App" class="nav-link" data-toggle="null" data-target="#" data-track-link="header.nav.apps_button" href="http://www.vinted.com/app">Get the App</a></li></ul></div></li></ul>
         </nav>
 
         <aside class="site-search clearfix" id="search">
   <div class="search-content" id="advanced-search-options">
 
-    <form accept-charset="UTF-8" action="/search" class="search-bar" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-      <select class="grid3 __act_as_no_chosen search-scope" id="scope" name="scope"><option value="item">Clothes</option>
+    <form class="search-bar" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+      <select name="scope" id="scope" class="search-scope"><option value="item">Clothes</option>
 <option value="user">Members</option>
 <option value="forum">Forums</option></select>
 
-      <div class="grid9 search-box-container">
-        <input autocomplete="off" class="search-input" data-placeholder-forum="e.g. handicrafts" data-placeholder-item="e.g. black heels, New York City" data-placeholder-user="e.g. Kelsey" id="search-bar-query" name="search_text" placeholder="e.g. black heels, New York City" type="text">
+      <div class="search-box-container">
+        <input type="text" name="search_text" id="search-bar-query" placeholder="e.g. black heels, New York City" data-placeholder-item="e.g. black heels, New York City" data-placeholder-forum="e.g. selfies" data-placeholder-user="e.g. Jane" autocomplete="off" class="search-input">
 
       </div>
 </form>
     <div class="dropdown dropdown-full dropdown-right search-filters">
         <div class="search-filter" id="item-filter">
           <div class="search item">
-  <form accept-charset="UTF-8" action="/clothes" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-    <input id="search_text" name="search_text" type="hidden">
-    <input id="e" name="e" type="hidden">
-    <input class="button submit-button search_submit" name="commit" type="submit" value="Search »">
+  <form action="/clothes" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+    <input type="hidden" name="search_text" id="search_text">
+    <input type="hidden" name="e" id="e">
+    <input type="submit" name="commit" value="Search »" class="button submit-button search_submit">
 </form></div>
 
         </div>
         <div class="search-filter" id="forum-filter">
           <div class="search forum">
-  <form accept-charset="UTF-8" action="/forum/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-    <input id="search_text" name="search_text" type="hidden">
-    <input id="e" name="e" type="hidden">
+  <form action="/forum/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+    <input type="hidden" name="search_text" id="search_text">
+    <input type="hidden" name="e" id="e">
 
-    <div class="field-wrap">
+    <div class="form__row">
       <label for="search_forum_id">Forum</label>
-      <select class="__act_as_forum" data-search="true" id="search_forum_id" name="search_forum_id">[]</select>
+      <label class="skinned-select">
+        <select name="search_forum_id" id="search_forum_id" class="skinned-select__input __act_as_forum" data-search="true">[]</select>
+      </label>
     </div>
 
 
-    <input class="button submit-button search_submit" name="commit" type="submit" value="Search »">
+    <input type="submit" name="commit" value="Search »" class="button submit-button search_submit">
 </form></div>
 
         </div>
         <div class="search-filter" id="user-filter">
           <div class="search user">
-  <form accept-charset="UTF-8" action="/member/general/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-    <input id="search_text" name="search_text" type="hidden">
-    <input id="e" name="e" type="hidden">
+  <form action="/member/general/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+    <input type="hidden" name="search_text" id="search_text">
+    <input type="hidden" name="e" id="e">
 
-    <div class="__act_as_city_selector" data-blank="true" data-city-name="search_city_id" data-country-id="14" data-country-name="country_id" data-select-id="search_city_id">
-      <input id="country_id" name="country_id" type="hidden">
-      <input id="search_city_id" name="search_city_id" type="hidden">
+    <div class="js-location-selector" data-blank="true" data-country-id="14" data-select-id="search_city_id" data-country-name="country_id" data-city-name="search_city_id">
+      <input type="hidden" name="country_id" id="country_id">
+      <input type="hidden" name="search_city_id" id="search_city_id">
 </div>
     <label for="search_has_items">
-      <input id="search_has_items" name="search_has_items" type="checkbox" value="1">
+      <input type="checkbox" name="search_has_items" id="search_has_items" value="1">
       has items
     </label>
 
 
 
-
-    <input class="button submit-button search_submit" name="commit" type="submit" value="Search »">
+    <input type="submit" name="commit" value="Search »" class="button submit-button search_submit">
 </form></div>
 
         </div>
@@ -291,6 +315,11 @@
   </header>
 
   
+
+  
+
+
+  
   
 
 
@@ -301,7 +330,12 @@
     
 
     <div class="row">
-      <section id="content" class="grid12">
+      
+
+      <section id="content" class="grid12 site-content__content-section">
+
+        
+
         <div class="body-content">
           
           
@@ -310,7 +344,7 @@
     <h1>Vinted Inc. Privacy Policy</h1>
 
   <div class="user-formatted-text">
-    <p class="p1"><strong>Date of last revision: June 11, 2014</strong></p>
+    <p class="p1"><strong>Date of last revision: February&nbsp;24, 2015</strong></p>
 
 <p class="p3">&nbsp;</p>
 
@@ -324,7 +358,7 @@
 
 <p class="p6">In general, you can visit our Site without telling us who you are or revealing any personal information about yourself.&nbsp; However, you should be aware that any sections of this Site (including restricted portions of this Site) that may allow for the submission of personal information (referred to for convenience as “Registration Pages”) may contain a function for collecting various pieces of your personal information, including your name, address, email address, phone number(s), account information and any other information that you decide to provide us with, either directly or via third party services (for example, Facebook Connect)&nbsp; We only collect your personal information if you voluntarily submit the information to us for such purposes as registering for the use of certain services, completion of surveys, submitting applications for employment, product or service purchases, or requests for information or services.&nbsp; For your information, through certain technologies employed by this Site we also collect non-personally identifiable information about you.&nbsp; For more details about this type of data collection, please refer to the section below on cookies and web beacons.</p>
 
-<p class="p7">To protect your security and privacy, we require that you (as opposed to a third party on your behalf) enter the personal information that we collect and that the information be current, although Vinted disclaims any legal duty to verify the accuracy of any personal data that you provide to Vinted.&nbsp; You are free to access the personal information we have on file by contacting our Customer Service department by email at hello@vinted.com.&nbsp; In addition, at any time you can request that we modify or delete your personal information by sending an email to us at hello@vinted.com with the words “UPDATE MY INFORMATION” in the subject line.&nbsp; Please be aware that, to protect your security and privacy, Vinted may take reasonable steps to verify your identity prior to making changes to your personal information.&nbsp; For your information, please note that it is our practice to monitor and in some cases record calls for staff training and quality assurance purposes.</p>
+<p class="p7">To protect your security and privacy, we require that you (as opposed to a third party on your behalf) enter the personal information that we collect and that the information be current, although Vinted disclaims any legal duty to verify the accuracy of any personal data that you provide to Vinted.&nbsp; You are free to access the personal information we have on file by contacting our Customer Service department using <strong><a href="https://www.vinted.com/help/new">our contact form</a></strong>.&nbsp; In addition, at any time you can request that we modify or delete your personal information by&nbsp;contacting the team&nbsp;through <strong><a href="https://www.vinted.com/help/new">our contact forum</a></strong>&nbsp;with the words “UPDATE MY INFORMATION” in body of your message.&nbsp; Please be aware that, to protect your security and privacy, Vinted may take reasonable steps to verify your identity prior to making changes to your personal information.&nbsp; For your information, please note that it is our practice to monitor and in some cases record calls for staff training and quality assurance purposes.</p>
 
 <p class="p5">&nbsp;</p>
 
@@ -344,7 +378,7 @@
 
 <p class="p4"><b>Children’s Information and COPPA </b></p>
 
-<p class="p4">We do not knowingly collect personal information from children under the age of 13.&nbsp; The content of our Site and the products and services available are not intended for, or directed to, children. If you are under 13 years of age, then please do not use or access our website at any time or in any manner. If you have reason to believe that a child under the age of 13 has provided us with Personal Information, please contact us hello@vinted.com and we will endeavor to remove this information from out files. We recommend that parents and legal monitor their children’s use of the Internet and instruct them never to provide personal information without their explicit consent. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
+<p class="p4">We do not knowingly collect personal information from children under the age of 13.&nbsp; The content of our Site and the products and services available are not intended for, or directed to, children. If you are under 13 years of age, then please do not use or access our website at any time or in any manner. If you have reason to believe that a child under the age of 13 has provided us with Personal Information, please <strong><a href="https://www.vinted.com/help/new">contact us</a></strong>&nbsp;and we will endeavor to remove this information from our&nbsp;files. We recommend that parents and legal monitor their children’s use of the Internet and instruct them never to provide personal information without their explicit consent. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
 
 <p class="p5">&nbsp;</p>
 
@@ -360,7 +394,7 @@
 
 <p class="p4"><b>Opting In and Out </b></p>
 
-<p class="p4">When you submit personal information to us through the Registration Pages on this Site, Vinted, Vinted related entities, and or selected third parties may use this information to communicate with you regarding the Services or to tell you about service we believe will be of interest to you. If we do so, any marketing communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or wish to have your name deleted from our mailing lists, please contact us at hello@vinted.com. Note that as a user of our service you cannot opt-out of some administrative communications that are reasonably necessary to the service.</p>
+<p class="p4">When you submit personal information to us through the Registration Pages on this Site, Vinted, Vinted related entities, and or selected third parties may use this information to communicate with you regarding the Services or to tell you about service we believe will be of interest to you. If we do so, any marketing communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or wish to have your name deleted from our mailing lists, please <strong><a href="https://www.vinted.com/help/new">contact us</a></strong>. Note that as a user of our service you cannot opt-out of some administrative communications that are reasonably necessary to the service.</p>
 
 <p class="p5">&nbsp;</p>
 
@@ -388,7 +422,7 @@
 
 <p class="p4"><b>Contacting Us </b></p>
 
-<p class="p4">If you have any questions or concerns relating to this Privacy Policy, please contact us by email at <a href="mailto:hello@vinted.com"><span class="s1">hello@vinted.com</span></a> .&nbsp;</p>
+<p class="p4">If you have any questions or concerns relating to this Privacy Policy, please <strong><a href="https://www.vinted.com/help/new">contact us</a></strong>.&nbsp;</p>
 
 <p class="p9">&nbsp;</p>
 
@@ -409,145 +443,31 @@
   </div>
 </section>
 
-        <footer id="site-footer" class="site-footer">
-    <div class="container">
-        <div class="row footer-content">
-          <div class="grid8">
-            <ul class="nav nav-detailed nav-categories head horizontal">
-  <li class="nav-item active">
-    <strong>Popular brands</strong>
-  </li>
-  <li class="right-link">
-    <a href="/brands" id="nav-more">See all »</a>
-  </li>
-</ul>
-<ul class="nav nav-detailed nav-stacked nav-subcategories four-columned active">
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Abercrombie &amp; Fitch" href="/brand/abercrombie-fitch">Abercrombie &amp; Fitch</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Aeropostale" href="/brand/aeropostale">Aeropostale</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="American Eagle Outfitters" href="/brand/american-eagle-outfitters">American Eagle Outfitters</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Charlotte Russe" href="/brand/charlotte-russe">Charlotte Russe</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Coach" href="/brand/coach">Coach</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Express" href="/brand/express">Express</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Forever 21" href="/brand/forever-21">Forever 21</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="H&amp;M" href="/brand/hm">H&amp;M</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Hollister Co" href="/brand/hollister-co">Hollister Co</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Hot Topic" href="/brand/hot-topic">Hot Topic</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Mossimo Supply Co" href="/brand/mossimo-supply-co">Mossimo Supply Co</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Mudd" href="/brand/mudd">Mudd</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Nike" href="/brand/nike">Nike</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Old Navy" href="/brand/old-navy">Old Navy</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link no-stats" data-event-action="footer" data-event-category="brands" data-event-label="Wet Seal" href="/brand/wet-seal">Wet Seal</a>
-  </li>
-</ul>
-          </div>
+      
 
-          <div class="grid4 footer-meta">
-            <div class="tiny social-networks social-network-links">
-              <span>Follow us:</span>
-              <a href="http://www.facebook.com/vinted" rel="nofollow" target="_blank" title="Facebook">
-                <span class="with-28x28-icon icon-no-text icon-facebook icon-top"> </span>
-              </a>
-
-                <a href="https://twitter.com/VintedUSA" rel="nofollow" target="_blank" title="Twitter">
-                  <span class="with-28x28-icon icon-no-text icon-twitter icon-top"> </span>
-                </a>
-
-            </div>
-
-            <div class="app-download-links">
-              <a class="app-store-button ios-store-button inactive" href="http://www.vinted.com/l/app-ios-footer" rel="nofollow" title="App for iPhone">App for iPhone</a>
-              <a class="app-store-button play-store-button inactive" href="http://www.vinted.com/l/app-android-footer" rel="nofollow" title="App for Android">App for Android</a>
-            </div>
-
-            <div class="tiny links country-links">
-              <span>We're everywhere:</span>
-              <a href="http://www.kleiderkreisel.de" title="kleiderkreisel.de"><span class="with-icon icon-no-text icon-flag-de">kleiderkreisel.de</span></a><a href="http://www.vinted.co.uk" title="vinted.co.uk"><span class="with-icon icon-no-text icon-flag-uk">vinted.co.uk</span></a><a href="http://www.vinted.fr" title="vinted.fr"><span class="with-icon icon-no-text icon-flag-fr">vinted.fr</span></a><a href="http://www.vinted.pl" title="vinted.pl"><span class="with-icon icon-no-text icon-flag-pl">vinted.pl</span></a><a href="http://www.votocvohoz.cz" title="votocvohoz.cz"><span class="with-icon icon-no-text icon-flag-cz">votocvohoz.cz</span></a><a href="http://www.manodrabuziai.lt" title="vinted.lt"><span class="with-icon icon-no-text icon-flag-lt">vinted.lt</span></a><a href="http://www.kleiderkreisel.at" title="kleiderkreisel.at"><span class="with-icon icon-no-text icon-flag-at">kleiderkreisel.at</span></a>
-            </div>
-
-          </div>
-        </div>
-
-      <div class="copyright ">
-  © 2014 vinted.com. All rights reserved.
-      <ul class="nav nav-footer">
-            <li class="nav-item">
-              <a class="nav-link" href="/main/contacts">Support</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/terms-and-conditions">Terms &amp; Conditions</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/privacy-policy">Privacy Policy</a>
-            </li>
-      </ul>
-</div>
-
-    </div>
-  </footer>
 
     </div>
   </div>
 
-  <aside>
+  <aside class="site__scripts">
     
 
   <script src="/data/search-json.js"></script>
-  <script src="/assets/libs-abd781583ab1608f8aa839aa853fd1e6.js"></script>
+  <script src="/assets/libs-a55eedbaada779763d2a485dbe37e8e4.js"></script>
 
     <script type="text/javascript">
       (function(app) {
-        app.user = new Backbone.Model({"id":null,"default_sizes":null,"sizes":[],"tests":{"xx":true,"xxa":false,"xxb":false,"mpb":true,"mpgw":false,"mnlf":false,"m2cc":false,"mchb":true,"mchd":true,"mshs":true,"migh":false,"miop":true,"motf":true,"mcf":false,"mtbn":false,"mmop":true,"tbe":false,"pnr":true,"pnra":true,"pnrb":true,"vonr":true,"vonra":true,"vchexp":true,"mbsc":true,"mbsa":false,"intrsh":true,"mfna":true,"mnf2":false,"msc":false,"mscs":false,"mss":true}});
-        app.config = new Backbone.Model({"portal":"us","flavour":"clothing","lang":"en-us","lang_code":"en","session_id":"17e80e726da30caaabee830005fec7a4","country":{"id":14,"code":"US","title":"United States"},"zone":200,"ignored_referrers":["vinted.com"],"lazy_load_item_push":true,"hashtags":true,"mentions":true,"tracking_data":{},"legacy_fb_login":"https://www.facebook.com/dialog/oauth?client_id=156162527893846&redirect_uri=https://www.vinted.com/member/facebook/facebook_login&scope=user_about_me,user_birthday,user_location,publish_stream,email,offline_access","payments":{"provider":"balanced","uri":"/v1/marketplaces/MP1nu30lQ1ul15fYDQadHH62"},"shipping":{"provider":"easy_post"},"postal_codes":{"format":"/^\\d{5}(?:[-\\s]\\d{4})?$/"},"bank_accounts":{"account_number_format":"//"},"feed":{"personal_path":"/feed/personal","regular_path":"/","personal_feed_enabled":null},"hashtag_suggestions":true,"theme_colors":{"default_dominant_color":"#31abc2","default_dominant_color_opaque":"#d6eef3"},"moderation_notifications":true,"new_events_tracking":false,"screen":{"name":"unknown"},"is_bot":true});
+        app.user = new Backbone.Model({"id":null,"sizes":[],"tests":{"rls":"on","isc":"c","sfb":"on","isc2":"c","csi":"on","soc":"on","itc":"on","nuf":"d","msc":"off","fsp":"on","gate":"off","kcip":"on","fam":"on","msn":"on","blm":"on"}});
+        app.config = new Backbone.Model({"portal":"us","flavour":"clothing","lang":"en-us","lang_code":"en","session_id":"e4963b4f24a8e2574b5f25733bd0330f","country":{"id":14,"code":"US","title":"United States"},"zone":200,"ignored_referrers":["vinted.com"],"tracking_data":{},"legacy_fb_login":"https://www.facebook.com/v2.1/dialog/oauth?app_id=156162527893846\u0026redirect_uri=https%3A%2F%2Fwww.vinted.com%2Fmember%2Ffacebook%2Ffacebook_login\u0026scope=email%2Cuser_friends","payments":{"provider":"balanced","uri":"/v1/marketplaces/MP1nu30lQ1ul15fYDQadHH62"},"shipping":{"provider":"us"},"postal_codes":{"format":"/^\\d{5}(?:[-\\s]\\d{4})?$/"},"bank_accounts":{"account_number_format":"//"},"feed":{"personal_path":"/feed/personal","personal_feed_enabled":null,"regular_path":"/","discount_indices":[30,60]},"theme_colors":{"default_dominant_color":"#31abc2","default_dominant_color_opaque":"#d6eef3"},"moderation_notifications":true,"screen":{"name":"unknown"},"is_bot":true,"feed_item_box":true});
       })(MD);
     </script>
 
-  <script src="/assets/core-f96e6d01f794c24a80465b3cbf05599b.js"></script>
+  <script src="/assets/core-7419ae1c896a75115a1b3726f1b0d7cd.js"></script>
 
 
   
 
   
-
-  <script type="text/javascript">
-    (function($) {
-      $.ajaxSetup({
-        beforeSend: function(xhr, opts) {
-          if (!opts.crossDomain) {
-            xhr.setRequestHeader('X-Source', 'unknown');
-          }
-        }
-      });
-    })($);
-  </script>
 
   <script type="text/javascript">
     (function() {
@@ -558,21 +478,13 @@
 
   
 
-          <div id="fb-root" class="__act_as_fb_root"></div>
-        <script type="text/javascript">
-          $(function() {
-            FBIntegration.init({
-              appID: '156162527893846',
-              locale: 'en_US',
-              canvas: 0
-            });
-          });
-</script>
+  <div id="fb-root" class="js-fb-root" data-app-id="156162527893846" data-locale="en_US" data-canvas="0"></div>
 
   
+
 
 </aside>
 
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
