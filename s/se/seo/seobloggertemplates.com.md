@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seobloggertemplates.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626115133id_/http%3A//www.seobloggertemplates.com/p/privacy-policy-of-seo-blogger-templates.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobloggertemplates.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504092806id_/http%3A//www.seobloggertemplates.com/p/privacy-policy-of-seo-blogger-templates.html) for the most accurate reproduction.*
 
 # SEO Blogger Templates: Privacy Policy of SEO Blogger Templates
 
 Privacy Policy for http://www.seobloggertemplates.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at aumkarakhilesh@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at seobloggert@gmail.com.
 
 At http://www.seobloggertemplates.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.seobloggertemplates.com and how it is used.
 
