@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229173207id_/http%3A//www.timeinc.net/subs/privacy/sk/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504170415id_/http%3A//www.timeinc.net/subs/privacy/sk/policy.html) for the most accurate reproduction.*
 
 # SPORTS ILLUSTRATED KIDS Privacy Notice
 
