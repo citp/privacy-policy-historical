@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhe-krg.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123195034id_/http%3A//www.mhe-krg.org%3Fq%3Dnode/118) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhe-krg.org privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504174639id_/http%3A//www.mhe-krg.org%3Fq%3Dnode/118) for the most accurate reproduction.*
 
 # Privacy Statement | Ministry of Higher Education
 
