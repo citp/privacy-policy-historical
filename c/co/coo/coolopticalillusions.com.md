@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolopticalillusions.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231045839id_/http%3A//www.coolopticalillusions.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolopticalillusions.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504111945id_/http%3A//www.coolopticalillusions.com/privacy-policy) for the most accurate reproduction.*
 
-# Cool Optical Illusions | Privacy Policy
+# Privacy Policy | Cool Optical Illusions - Amazing Optical Illusions!
 
-##  Our Commitment to Privacy
+## Our Commitment to Privacy
 
 We understand that you value your privacy. We also value your privacy and seek to explain how we use any data that we may have gathered.
 
@@ -12,15 +12,15 @@ If you complete our feedback form or interact with us, we will collect and store
 
 #### How we use your information (Google Adsense):
 
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. 
-  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 
 
 ### Google Analytics
 
-We do also use google analytics (and occassionally other analytics type programs). These generally gather your information along with thousands of other users, and are used mainly to decide what areas of the site to promote. To learn more about google's privacy policy, you may do so here: Google analtyics [privacy policy](http://www.google.com/intl/en/analytics/privacyoverview.html).
+We do also use google analytics (and occassionally other analytics type programs). These generally gather your information along with thousands of other users, and are used mainly to decide what areas of the site to promote. To learn more about google’s privacy policy, you may do so here: Google analtyics [privacy policy](http://www.google.com/intl/en/analytics/privacyoverview.html).
 
 ### Valueclick Media
 
@@ -28,4 +28,4 @@ We may also use Valueclick or other vendors to provide advertising. [Valueclick 
 
 ### Contact Us
 
-If you have any specific questions about our privacy policy, please [contact us](https://web.archive.org/web/20141231045839id_/http%3A//www.coolopticalillusions.com/contact-us.htm).
+If you have any specific questions about our privacy policy, please [contact us](http://www.coolopticalillusions.com/contact-us.htm).
