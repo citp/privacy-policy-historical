@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steinhafels.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123181546id_/http%3A//www.steinhafels.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinhafels.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504104620id_/http%3A//www.steinhafels.com/privacy-policy) for the most accurate reproduction.*
 
 # Steinhafels Furniture - Privacy Policy
 
