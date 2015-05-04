@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itutozone.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207190713id_/http%3A//itutozone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itutozone.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504125403id_/http%3A//tutozone.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tutorial Zone
 
-Please read the following carefully. If you have any questions or concerns, please send us an email at [info@vectordesign.com ](mailto:info@vectordesign.com).
+Please read the following carefully. If you have any questions or concerns, please send us an email at [info@vectordesign.com ](http://tutozone.net/file/mailto:info@vectordesign.com).
 
 ###  Gathering and Use of Information
 
