@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217092717id_/http%3A//cloudinary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504052643id_/http%3A//cloudinary.com/privacy) for the most accurate reproduction.*
 
 # Cloudinary - Privacy Policy
 
@@ -78,6 +78,8 @@ For example we will share your payment transaction details with the payment serv
 
 We may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries, sister-companies and parent companies, with the express provision that their use of such information must comply with this policy. 
 
+We may report any Contributed Content and share user identifiable information, if we believe, in our sole discretion that such content is illegal or abusive or may violate any third party rights. 
+
 Additionally, a merger, acquisition or any other structural change may require us to transfer your personal information to another entity, provided that the receiving entity will comply with this policy. 
 
 ###  Aggregated and Analytical Information 
@@ -146,4 +148,4 @@ This policy is an integral part of the [Cloudinary Terms of Use](https://web.arc
 
 Please contact our Privacy Compliance Officer at: [support@cloudinary.com](mailto:support@cloudinary.com) for further information. 
 
-Last updated: March 4, 2014. 
+Last updated: April 26, 2015. 
