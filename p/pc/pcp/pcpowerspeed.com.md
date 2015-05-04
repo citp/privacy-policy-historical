@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105210054id_/http%3A//www.pcpowerspeed.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504101010id_/http%3A//pcpowerspeed.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # PCPowerSpeed.com
 
