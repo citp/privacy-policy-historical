@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the explorewww.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118072245id_/http%3A//www.explorewww.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorewww.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504200912id_/http%3A//www.explorewww.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy policy - ExploreWWW.com
+# ExploreWWW Privacy Policy
+
+Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
+
+* We will never rent or sell your personally identifiable information to third parties for marketing purposes.
+* We will never share your contact information with another user without your consent.
+* Any personally identifiable information that you provide will be secured with all industry standard protocols and technology.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make **material** changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you continue to use the ExploreWWW service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
+
+Please read this privacy policy to learn more about:
+
+* What personally identifiable information of yours is collected by ExploreWWW.
+* How the information is used.
+* With whom the information may be shared.
+* How you can access and change your Account information.
+* What security procedures are in place to protect the loss, misuse or alteration of information collected by ExploreWWW.
+* How to contact us.
 
 ### Personal Information Collected
 
@@ -46,7 +63,9 @@ ExploreWWW is an online service dedicated to helping all types of professionals 
 
 #### ExploreWWW Communications
 
-ExploreWWW will communicate with you through email and notices posted on this website or through any other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges to messages your mobile device). These include a series of up to five welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from ExploreWWW related to the proper functioning of your account, such as email notices when another user in your network sends you an opportunity. ExploreWWW may send you promotional information unless you have opted out of receiving such information. You can change your e-mail and contact preferences at any time by logging into your [‘Account & Settings’](https://www.explorewww.com/secure/settings) and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by sending a request to [customer_service@ExploreWWW.com](mailto:customer_service@ExploreWWW.com).
+ExploreWWW will communicate with you through email and notices posted on this website or through any other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges to messages your mobile device). These include a series of up to five welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from ExploreWWW related to the proper functioning of your account, such as email notices when another user in your network sends you an opportunity.
+
+ExploreWWW may send you promotional information unless you have opted out of receiving such information. You can change your e-mail and contact preferences at any time by logging into your [‘Account & Settings’](https://www.explorewww.com/secure/settings) and amending your email notification choices. If you wish, you can also opt-out of receiving promotional emails, by sending a request to [support@ExploreWWW.com](mailto:support@ExploreWWW.com).
 
 #### Customized Content
 
@@ -58,23 +77,7 @@ ExploreWWW takes the privacy of our users very seriously. We will never sell, re
 
 ExploreWWW offers a “public profile” feature which allows users to publish portions of their ExploreWWW profile, including your “name”, but not your “email address” to the public Internet. Users may opt-out of this feature by editing their [account and settings](https://www.explorewww.com/secure/settings), however ExploreWWW does not warrant how third-party search engines will update their cache.
 
-We may provide aggregated anonymous data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate, including, without limitation, to prospective advertisers on ExploreWWW. We may segment our users by role (i.e. product managers, vice presidents), industry, geographic location, or company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our users’ activities on the site, please email [customer_service@ExploreWWW.com](mailto:customer_service@ExploreWWW.com).
-
-#### Teaming with Other Organizations to Offer Combined and Other Services
-
-ExploreWWW may offer our services in connection with other web sites (including updates about the ExploreWWW service) or may team with other online services to give you the combined results of both services or additional services and benefits. Platform Applications (as defined in the User Agreement) can be designed by Platform Developers (as defined in the User Agreement) or by a subset of Platform Developers with whom ExploreWWW has more closely aligned (“Partners”).
-
-In the case of Partners, we do some vetting and we only work with trusted Partners. For example, SimplyHired.com is a Partner which lets you use its services to find jobs combined with the use of ExploreWWW to find referrals to those jobs. Because of ExploreWWW’s trust in these Partners, Platform Applications or services designed by a Partner may be automatically granted permission to access account information to provide the combined services.
-
-For Platform Applications designed by most Platform Developers, you will be asked to confirm acceptance of the Platform Developers’ respective privacy policies and user agreements, which have not necessarily been reviewed or approved by ExploreWWW. In these cases, it will be your choice whether to make use of the services or not and to proceed under the Platform Developers’ terms.
-
-Platform Developers are required to agree to restrictions on access, storage and usage of such information. However, while we have undertaken contractual and technical steps to restrict possible misuse of such information by such Platform Developers, we may not screen or approve Platform Developers, and we cannot and do not guarantee that all Platform Developers will abide by such restrictions and agreements. Certain actions you take through the Platform Applications will be displayed to your connections.
-
-If you, your connections, members of your network, or other users of ExploreWWW use any Platform Application, or if you interact with a Platform Application being used by any of them, such Platform Application may access and share certain information about you with others. Because a Platform Application can make calls on behalf of the user interacting with it to access non-public information, the level of detail accessible by the Platform Application is constrained by the same settings that govern visibility of your data to that user on ExploreWWW.
-
-For example, assuming you have not already given a Platform Application permission to access your information, your non-public profile information should not be visible to someone using a Platform Application if it is not otherwise accessible to that person on ExploreWWW.
-
-To uninstall a Platform Application at any time, please [click here](https://www.explorewww.com/secure/settings?userAgree=) or, if the relevant Platform Application is not listed there, go directly to the Application Details page for the Platform Application you wish to uninstall. Note, however, that even if you uninstall a Platform Application, your connections, other members of your network, or other users of ExploreWWW may still be using the Platform Application, and so it may still have access to certain information about you, just as those users do. To report any suspected misuse of information contact [abuse@ExploreWWW.com](mailto:abuse@ExploreWWW.com). ExploreWWW is not responsible for your use of or inability to use any Platform Applications, including the content, accuracy, or reliability of such applications and the privacy practices or other policies of Platform Developers.
+We may provide aggregated anonymous data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate, including, without limitation, to prospective advertisers on ExploreWWW. We may segment our users by role (i.e. product managers, vice presidents), industry, geographic location, or company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our users’ activities on the site, please email [support@ExploreWWW.com](mailto:support@ExploreWWW.com).
 
 #### Surveys and Polls
 
@@ -99,3 +102,27 @@ It is possible that we may need to disclose personal information when required b
 #### Disclosures to others
 
 We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a ExploreWWW corporation division or company and only after taking steps to ensure that your privacy rights continue to be protected. Any third party to which we transfer or sell ExploreWWW’s assets will have the right to continue to use the personal and other information that you provide to us.
+
+### Your Information Choices
+
+#### Accessing and Changing Your Account Information
+
+You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your ExploreWWW account including your email, and contact preferences, at any time by logging in to [your account](https://www.explorewww.com/secure/settings) on the ExploreWWW website. Please be aware that even after your request for a change is processed, ExploreWWW may for a time retain residual information about you in its backup and/or archival copies of its database.
+
+You can also close your account through the ExploreWWW website. If you close your ExploreWWW account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the ExploreWWW Privacy Policy in effect at the time of your request. To request that we close your account and remove your information from the ExploreWWW service, please send your request to [support@ExploreWWW.com](mailto:support@ExploreWWW.com). Please send your request using an email account that you have registered with ExploreWWW under your name. You will receive a response to requests sent to [support@ExploreWWW.com](mailto:support@ExploreWWW.com) within three business days of our receiving it.
+
+* ### Important Information
+
+#### Children
+
+Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.
+
+#### Changes to this Privacy Policy
+
+ExploreWWW may update this privacy policy. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+
+If you continue to use the ExploreWWW service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
+
+* ### Security
+
+In order to secure your personal information, access to your data on ExploreWWW is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and our web site. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center. It is your responsibility to protect the security of your login information.
