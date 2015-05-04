@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globefeed.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108140802id_/http%3A//www.globefeed.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globefeed.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504114037id_/http%3A//www.globefeed.com/w3c/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of GLOBEFEED.com
 
