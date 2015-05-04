@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatelabelnutra.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209013102id_/http%3A//www.privatelabelnutra.com/information.php%3Finfo_id%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatelabelnutra.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504052334id_/http%3A//www.privatelabelnutra.com/privacy-policy-for-private-label-nutraceuticals-llc-i-32.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY for Private Label Nutraceuticals, LLC - PrivateLabelNutra.com
 
