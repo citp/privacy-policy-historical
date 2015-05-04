@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008095315id_/http%3A//www.cesweb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504194740id_/http%3A//www.cesweb.org/privacy) for the most accurate reproduction.*
 
-# Privacy - 2015 International CES, January 6-9
+# Privacy - 2016 International CES, January 6-9
 
 ###  Please Read Carefully Prior To Using This Website
 
