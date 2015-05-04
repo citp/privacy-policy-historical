@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808014954id_/http%3A//formlabs.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504133612id_/http%3A//formlabs.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Formlabs
+# Privacy Policy – Formlabs
 
 Effective Date – June 10, 2014
 
