@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816165950id_/http%3A//www.buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504063557id_/https%3A//www.buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # BuyCheapSoftware
 
@@ -7,7 +7,7 @@
   * **Personal Information**  
 We require only the personal information that is necessary to securely process your online order and for contacting you about your transactions. It is used exclusively for that purpose. If you become a BUYCHEAPSOFTWARE customer, you may receive updated pricelists and special price-reduction offers. If you would prefer not to receive these, please [**Click here**](mailto:sales@buycheapsoftware.com). 
   * **Download Ordersr**  
-We guarantee all of our DOWNLOAD Installation Keycodes. However, keycodes are not refundable after they have been sent. Your keycode will be emailed within 24 hours or the next business-day when ordered on weekends.. Please also check your spam and junk folder or whitelist Buycheapsoftware.com in advance. You can also call us during our PST business hours of 9:00 AM to 5:00 PM at 1-888-999-2611 press #2 for customer service to check on your order or email us at customerservice@buycheapsoftware.com
+We guarantee all of our DOWNLOAD Installation Keycodes. However, keycodes are not refundable after they have been sent. Your keycode will be emailed within 24 hours or the next business-day when ordered on weekends.. Please also check your spam and junk folder or whitelist Buycheapsoftware.com in advance. You can also call us during our business hours of 9:00 AM to 5:00 PM Pacific Time at 1-888-999-2611 press #2 for customer service to check on your order or email us at customerservice@buycheapsoftware.com
   * **Email Policies**  
 When you purchase online from BUYCHEAPSOFTWARE, we will contact you by e-mail to confirm your order and to update you on the status of your order. We do not release customer email addresses. We contact customers by email to confirm orders, for tech support, and to send updated pricelists. We do not SPAM. 
   * **Customer Satisfaction**  
@@ -19,6 +19,6 @@ Cookies are only used to improve your shopping experience. Cookies personalize y
   * **Providing Feedback**  
 Just [**Click here**](mailto:support@buycheapsoftware.com) to send us feedback by e-mail. You can also use any of the links in the "Contact Us" section of the website! 
   * **Corrections in Your Information**  
-Simply call our toll free number (888-999-2611) Open Monday to Friday, 7:30 to 6:00 PM Pacific Standard Time, or send us an [email](mailto:sales@buycheapsoftware.com). 
+Simply call our toll free number (888-999-2611) Open Monday to Friday, 9:00 AM to 5:00 PM Pacific Time, or send us an [email](mailto:sales@buycheapsoftware.com). 
 
 
