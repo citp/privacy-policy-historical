@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accusoft.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080522id_/http%3A//www.accusoft.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accusoft.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504075926id_/http%3A//www.accusoft.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Accusoft Privacy Statement
 
@@ -50,4 +50,4 @@ When someone visits the site, a cookie is placed on the customer's machine (if t
 Accusoft will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, Accusoft will notify you by placing prominent notice on the Website.
 
 **Contact Information**  
-Accusoft welcomes your comments regarding this Privacy Statement. Please contact us by [e-mail](mailto:marketing@accusoft.com).
+Accusoft welcomes your comments regarding this Privacy Statement. Please contact us by [e-mail](https://web.archive.org/contact.htm).
