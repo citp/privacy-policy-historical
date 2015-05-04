@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosugamers.net privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202152552id_/http%3A//www.gosugamers.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosugamers.net privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504101245id_/http%3A//www.gosugamers.net/privacy) for the most accurate reproduction.*
 
 # Privacy | GosuGamers
 
