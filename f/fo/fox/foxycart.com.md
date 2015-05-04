@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxycart.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731144022id_/http%3A//www.foxycart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxycart.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504100900id_/http%3A//www.foxycart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FoxyCart
 
@@ -91,7 +91,7 @@ Under no circumstances does this privacy policy override any provisions or agree
 
 ## Contacting Us
 
-If at any time you believe that we have not followed the above policy, or would like more information regarding your privacy protection, please let us know by sending an email to support+privacy@foxycart.com or by writing to us at 6688 Nolensville Road, STE 111-249 Brentwood, TN 37027, Attn: Privacy Policy. We will make reasonable efforts to identify and correct any problem.
+If at any time you believe that we have not followed the above policy, or would like more information regarding your privacy protection, please let us know by sending an email to support+privacy@foxycart.com or by writing to us at 538 W 21st St #56961, Houston, TX 77008-3642, Attn: Privacy Policy. We will make reasonable efforts to identify and correct any problem.
 
 We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this website. We encourage you to review this privacy policy whenever you visit our website to make sure you understand how we use the information we collect.
 
