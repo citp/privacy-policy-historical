@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the izea.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625185508id_/https%3A//izea.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izea.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504102433id_/https%3A//izea.com/privacy_policy) for the most accurate reproduction.*
 
-# IZEA : The Sponsorship Marketplace™
+# IZEA : The Creator Marketplace™
 
 Updated **February 19, 2014**
 
