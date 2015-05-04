@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastiporn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062331id_/http%3A//mastiporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastiporn.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504054723id_/http%3A//www.mastiporn.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Indianpornvideos - Indian Sex mastiporn
 
