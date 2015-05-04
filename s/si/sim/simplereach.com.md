@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718093032id_/http%3A//www.simplereach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504111324id_/http%3A//www.simplereach.com/privacy) for the most accurate reproduction.*
 
 # SimpleReach | Privacy Policy
 
@@ -69,10 +69,10 @@ By using this Site and/or any of the SimpleReach Services, you agree to this Pri
 If you have any questions, comments, or concerns about this Privacy Policy, please contact us at:
 
   * SimpleReach
-  * 41 W. 25th Street, Floor 8
+  * 158 W. 27th Street, Floor 11
   * New York, NY 10010
   * [info@simplereach.com](mailto:info@simplereach.com)
 
 
 
-Last updated: 08/14/13 
+Last updated: 01/05/15 
