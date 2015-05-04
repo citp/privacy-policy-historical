@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lollyhardcore.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403172559id_/http%3A//213.174.143.114/lh/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lollyhardcore.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504035334id_/http%3A//img5.rc-content.com/lh/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
