@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockinvestingbasics.net privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605050214id_/http%3A//stockinvestingbasics.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockinvestingbasics.net privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504062539id_/http%3A//stockinvestingbasics.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stock Investing Basics
+# Privacy Policy : Stock Investing Basics
 
   
 
@@ -15,10 +15,6 @@ This site allows third-party companies to serve ads and/or collect certain anony
 
 This site also uses PubMatic, Inc.’s Sell Side Platform services. To read more about how PubMatic uses cookies or to opt out of PubMatic’s cookie usage, please visit: <http://www.pubmatic.com/opt-out> .
 
-#### Relestar Cookie
-
-Relestar places a cookie on any machine accessing this site. For full details and privacy policy check [here](https://relestar.com/adnetwork/privacy-policy/). To opt out of this cookie tracking click [here.](https://relestar.com/accounts/optout/)
-
 #### Google Adsense and the DoubleClick DART Cookie
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
@@ -27,15 +23,15 @@ To opt out of the DART cookies you may visit the Google ad and content network p
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Stockinvestingbasics has no access or control over these cookies that may be used by third party advertisers.
 
-#### Adometry
+**Third Party Advertising**
 
-The publisher of Stock Investing Basics and [Adometry](http://www.adometry.com/) sometimes use pixels to determine user quality and to protect advertisers and web users from malicious users and low quality traffic. These pixels are only used to determine the quality of user for advertising purposes and any data that is captured is anonymous and proprietary to both the publisher and Adometry Inc.
+We use third party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 #### Collection of Personal Information
 
 When visiting Stockinvestingbasics, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-#### Links to third party Websites
+#### Links to Third Party Websites
 
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
@@ -43,4 +39,4 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Stockinvestingbasics then you may [contact us](http://stockinvestingbasics.net/contact-us/ "contact us") using our [Contact Form](http://www.stockinvestingbasics.net/contact-us).
+If you have any questions regarding the privacy policy of Stockinvestingbasics then you may contact us using our [Contact Form](http://www.stockinvestingbasics.net/contact-us/).
