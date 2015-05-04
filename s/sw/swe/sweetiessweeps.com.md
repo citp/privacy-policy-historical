@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005613id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiessweeps.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504183302id_/http%3A//sweetiessweeps.com/about/privacy-policy-and-disclosure-statement) for the most accurate reproduction.*
 
 # Privacy Policy
+
+_**Favorite List Accounts without profile names will be deleted. Please click on the Account button below to add a name to your profile.**_
+
+[**Click Here**](http://sweetiessweeps.com/2009/09/sweeties-sweepstakes-coding-system.html) **for Title Abbreviations Explanation** , [Click Here](http://sweetiessweeps.com/2010/09/sweepstakes-star-rating-chart.html) **to understand our Sweepstakes Ratings**. 
 
 **Privacy Policy for Sweeties Sweeps  
 **
