@@ -1,0 +1,102 @@
+> *The following text is extracted and transformed from the dothebay.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504191544id_/http%3A//dothebay.com/privacy) for the most accurate reproduction.*
+
+# DotheBay | What to do in The Bay Area
+
+Last revised: May 6, 2014
+
+Your privacy is critically important to us. We have a few fundamental principles:
+
+  * We don't ask you for personal information unless we have a good reason. (We can't stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don't share your personal information with anyone except to operate our business, comply with the law, develop and improve our services, or protect our rights and the rights of third parties.
+  * We don't store personal information on our servers unless required for the on-going operation of one of our services.
+  * In our services, we aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and where possible, permanently deleted.
+
+
+
+This is our privacy policy which incorporates these principles. This policy applies to all of our operations and activities on this website.
+
+We (DotheBay) operate this website (DotheBay), using the Local Platform provided to us under a subscription agreement by DoStuff Media, LLC (DoStuff). It is our policy to respect your privacy regarding any information we may collect while operating our website.
+
+## We Are Part of the DoStuff Network
+
+Our website is powered by DoStuff's Local Platform. All of the information we are given through this website is necessarily shared with DoStuff, because DoStuff develops, hosts and operates the web application that powers this website. In turn, DoStuff shares this information with other websites in the DoStuff Network — that is, third parties that have subscribed to a software platform offered by DoStuff, including but not limited to the Local Platform, Event Calendar Partner Platform, and the Festival Platform. Sharing information among the websites in the DoStuff Network allows our website to be rich with content about bands, events, and other non-personally identifiable information.
+
+Personally identifiable information given to us is shared with DoStuff as the developer, host and operator of the software that powers our site. Your personally identifiable information is not, however, shared with any other website in the DoStuff Network unless you choose to register or login at that particular website.
+
+Every website in the DoStuff Network has adopted a privacy policy identical to this one, and is separately responsible for honoring it.
+
+## Website Visitors
+
+Like most website operators, we collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our website so we can make appropriate improvements and so we can provide information about products and offerings from ourselves and from select third party partners that our visitors may be interested in. So that DoStuff, the sites in the DoStuff Network, and our select third party partners can improve and serve you better.
+
+We also access Google’s DoubleClick cookie to collect anonymous demographic data (such as the age, gender, and interests) about each visitor to our site, using a feature that is currently called Google Analytics Demographics and Interest Reporting. We do not merge this non-personally-identifying information with, or connect it to, to any user accounts or any personally identifiable information we have collected through other means. We may use this demographic data to tailor information or advertising that we display to individual visitors, and we may disclose this demographic data in an aggregated form to third parties. Individuals can visit Google’s Ad Settings to opt out of sharing Google’s DoubleClick cookie with sites like ours, to modify the Google demographic information that is delivered to us and other sites, and to customize Google Display Network ads.
+
+We also collect potentially personally-identifying information like Internet Protocol (IP) addresses. We do not use such information to identify our visitors, however, and do not disclose such information, other than under the same circumstances that we use and disclose personally-identifying information, as described below.
+
+## Aggregated Statistics
+
+We may collect non-personally identifying information about the behavior of visitors to our website. For instance, we may monitor the most popular events on the website. We also may collect non-personally identifiable demographic information about visitors to our site, as described in the preceding section, "Website Visitors". We may display this information publicly or provide it to others. However, we do not disclose personally-identifying information other than as described below.
+
+## Gathering of Personally-Identifying Information
+
+Certain visitors to our website choose to interact with us in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. For example, we ask visitors who sign up for an account at our website to provide an email address. Those who engage in transactions with us are asked to provide additional information, including as necessary the personal and financial information required to process the requested transactions. In each case, we collect such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with us. We do not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+## Use and Protection of Personally-Identifying Information
+
+We disclose potentially personally-identifying and personally-identifying information to DoStuff, as described above. That information is also shared with other sites in the DoStuff Network if you affirmatively choose to register or log into that specific site, as described above. Other than that, we disclose such information only to those of our employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available at or through our website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using our website, you consent to the transfer of such information to them.
+
+We may also use and disclose potentially personally-identifying and personally-identifying information in accordance with explicit consent given in advance by the person who provided the information to us or to another site in the DoStuff Network, and who is identifiable by the information.
+
+We will not rent or sell potentially personally-identifying and personally-identifying information to anyone, except in connection with a sale or other transfer of all or substantially all of the assets of our company to a person that promises to honor this privacy policy after the sale or transfer is completed.
+
+We may disclose potentially personally-identifying and personally-identifying information when we believe in good faith that it is required by law or legal process, or reasonably necessary to protect, assert or defend the property or rights of us, third parties or the public at large.
+
+If you join our site, or if you log into our site using credentials you set at another site in the DoStuff Network, and you have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with us and our products. We primarily use our various blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it without intentionally identifying you in order to help us clarify or respond to your request or to help us support other users.
+
+We will not use your personally identifiable information to send unrelated commercial email (spam), and will not authorize anyone else to do so.
+
+We take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. No computer system can be made completely secure, especially if it connected to the Internet, but your security and privacy are priorities for us.
+
+## Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. We use cookies to help us identify and track visitors, their usage of our website, and their website access preferences. We use Google’s DoubleClick cookie to collect non-personally-identifiable demographic information, as described above under “Website Visitors.”
+
+In addition, DoStuff may set a cookie on your computer when you visit our site or another site in the DoStuff Network. DoStuff may use this cookie to learn about how you use of the DoStuff Network and what you are interested in, so that DoStuff and the sites in the DoStuff Network can improve and serve you better. If you are a registered user, this cookie will be tied to your user account and your personally identifiable information; however, DoStuff will only share your personally identifiable information with those sites in the DoStuff Network where you choose to register or log in.
+
+Our visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our website, with the drawback that certain features of our website may not function properly without the aid of cookies.
+
+## DoStuff's Protection of Personally Identifiable Information
+
+Because DoStuff will have access to the potentially personally identifiable and personally identifiable information that you share with us or with any other site in the DoStuff Network, DoStuff will itself honor the same rules regarding your personally identifiable information that are stated in the "Use and Protection of Certain Personally-Identifying Information" section of this privacy policy.
+
+## Ads
+
+Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers our use of cookies, and does not cover the use of cookies by any advertisers on our website.
+
+## Privacy Policy Changes
+
+Although most changes are likely to be minor unless we introduce a new service that has different information requirements, we may change our Privacy Policy from time to time, and in our sole discretion. We encourage visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. This privacy policy was most recently updated on May 6, 2014, primarily to disclose that we may collect, use, and share non-personally-identifiable demographic information using Google Analytics (see “Website Visitors,” above).
+
+## Complaints
+
+If you feel that we are not abiding by this privacy policy, or if you have any other questions or concerns, please contact us at the following address:
+
+events@do415.com
+
+You should also provide a copy of your complaint, question or concern to DoStuff:
+
+Privacy Officer
+
+DoStuff Media, LLC
+
+2208 South Lamar Blvd., Suite C
+
+Austin, Texas 78704
+
+privacy-complaints@dostuffmedia.com
+
+We will use our best efforts to respond within 3 days if an immediate response cannot be provided.
+
+## Attribution
+
+This Privacy Policy was adapted from one that the good people at WordPress.com made available under the Creative Commons License.
