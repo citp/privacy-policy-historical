@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080909id_/http%3A//www.worldsciencefestival.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504090823id_/http%3A//www.worldsciencefestival.com/privacy_policy) for the most accurate reproduction.*
 
-# World Science Festival Privacy Policy | World Science Festival
+# Privacy Policy - World Science Festival
 
 ### INTRODUCTION
 
@@ -111,4 +111,4 @@ This Privacy Policy shall be governed by the laws of the State of New York (Unit
 
 If you have any trouble logging in, or have any privacy-related questions or unresolved problems, contact us via [info@worldsciencefestival.com](mailto:info@worldsciencefestival.com).
 
-_Effective as of August [ ] 2014_
+_Effective as of November 20, 2014_
