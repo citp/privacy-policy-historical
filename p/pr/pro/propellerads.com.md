@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027175427id_/http%3A//www.propellerads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504214822id_/http%3A//www.propellerads.com/privacy) for the most accurate reproduction.*
 
 # Propeller Ads Media
 
