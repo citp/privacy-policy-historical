@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waitrapp.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808043440id_/http%3A//waitrapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitrapp.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504194842id_/http%3A//waitrapp.com/privacy) for the most accurate reproduction.*
 
 # Waitr | Privacy - Waitr
 
@@ -62,13 +62,13 @@ Waitr may change this Privacy Policy at any time by posting a new version on thi
 
 From time to time Waitr and/or its Restaurant partners may host contests or giveaways for customers. The following rules will govern such contests:
 
-Participation is subject to Waitr’s  [Terms of Use](http://www.grubhub.com/termsofuse/) and [Privacy Policy](http://www.grubhub.com/legal/#privacyAgreement), which are incorporated as part of these Rules.
+Participation is subject to Waitr’s  [Terms of Use](http://waitrapp.com/terms-agreements/ "Terms & Agreements") and [Privacy Policy](http://waitrapp.com/privacy/ "Privacy"), which are incorporated as part of these Rules.
 
 NO PURCHASE OR CONTRIBUTION NECESSARY TO ENTER OR WIN. A PURCHASE OR CONTRIBUTION WILL NOT INCREASE YOUR CHANCES OF WINNING. VOID WHERE PROHIBITED. Customer is responsible for any applicable taxes on prizes?
 
 Must be 13 or older and a legal US resident to play. Void where prohibited.
 
-How can you participate? What prizes will be given away? That info will be tweeted from [Waitrs’ Twitter account](https://twitter.com/GrubHub) and or listed on the WaitrApp.com website.
+How can you participate? What prizes will be given away? That info will be tweeted from [Waitrs’ Twitter account](https://twitter.com/WaitrApp) and or listed on the WaitrApp.com website.
 
 If we post a tweet or message or tell you that we – that’s Waitr – are going to choose a contest winner, we’ll be picking the winner(s) from the pool of participants that we feel followed the rules to their best of their ability.
 
@@ -122,4 +122,4 @@ We own all reviews exclusively and forever. We have the right to reproduce, modi
 
 **REMOVABLE**
 
-Each review may be removed if requested by one of our users. If you are offended by something on the site, [let us know](mailto:help_me@grubhub.com) at info@WaitrApp.com
+Each review may be removed if requested by one of our users. If you are offended by something on the site, [let us know](mailto:info@WaitrApp.com) at info@WaitrApp.com
