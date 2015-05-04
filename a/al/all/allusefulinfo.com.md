@@ -1,57 +1,38 @@
-> *The following text is extracted and transformed from the allusefulinfo.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221071442id_/http%3A//allusefulinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allusefulinfo.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504145440id_/http%3A//allusefulinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which All Useful Info collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.allusefulinfo.com](http://www.allusefulinfo.com/ "All Useful Info") website (“Site”). This privacy policy applies to the Site and all products and services offered by All Useful Info.
+Here at _[www.allusefulinfo.com](http://allusefulinfo.com/ "All Useful Info")_ , privacy of visitors are extremely important. That’s why we are publishing this Privacy Policy page to make all the visitors know about the important terms about our privacy. This Privacy Policy page provides you the type of information we collect or receive at _www.allusefulinfo.com_ and how these information are used.
 
-### Personal identification information
+### Log Files
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Like many other websites, _www.allusefulinfo.com_ also uses log files. Our log files includes your IP Addresses, Internet Service Provider, Browser (User Agent), Date/Time Stamp, reffering/exit pages, number of clicks to analyze trends, track users’ movement around the site, gather demographic information to better administer the website.
 
-### Non-personal identification information
+IP Addresses and other information we collects are not linked to any information that is personally identifiable.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+### Cookies and Web Beacons
 
-### Web browser cookies
+ **All Useful Info**  makes use of cookies to store information about visitors’ preferences, record user-specific information on which user visit, customize Web Page content according to users browser type or other information that the visitor sends via their browser.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+### DoubleClick DART Cookies
 
-### How we use collected information
+  * [Google](http://allusefulinfo.com/tag/google/ "Google"), As a third part vendor uses DoubleClick DART Cookies to serve ads on **www.allusefulinfo.com** and many other sites on the Internet
+  * Users may opt out the use of DART Cookies by visiting Google Ad and Content Network Privacy Policy by visiting the URL:  <http://www.google.com/privacy_ads.html>[ ](http://www.google.com/privacy_ads.html)
 
-All Useful Info may collect and use Users personal information for the following purposes:
 
-– To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-– To Send the Newsletter
+Some other Advertisement Partners may use cookies and Web Beacons. Our Advertising Partners are listed below:
 
-### How we protect your information
+  * Google Adsense
+  * Media.net
+  * Some other direct advertisers
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-### Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+These third-party Ad servers or ad networks use technology to the advertisements and links that appear on _www.allusefulinfo.com_ sends directly to your browsers. They automatically receive your IP Address when this occurs.
 
-### Google Adsense
+Other Technologies (such as cookies, JavaScript or Web Beacons) may also be used by the third party ad networks to measure the effectiveness to their advertisements and/or to personalize the advertising content that you see. _www.allusefulinfo.com_ has no access/control over these cookies that are used by third-party advertisers.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **All Useful Info’s  **privacy policy does not apply to, and we cannot control the activities of such other advertisers or websites.
 
-### Changes to this privacy policy
-
-All Useful Info has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-### Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy and [terms of service](http://allusefulinfo.com/privacy-policy/ "Privacy Policy"). If you do not agree to this policy, please do not use our Site.
-
-### Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-
-[**All Useful Info**](http://www.allusefulinfo.com/ "All Useful Info")  
-Gandhi Nagar, Gwalior  
-MP, India  
-ramansharma257@gmail.com
-
-This document was last updated on October 20, 2014
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
