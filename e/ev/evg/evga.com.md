@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220111947id_/http%3A//www.evga.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504074854id_/http%3A//www.evga.com/privacy.asp) for the most accurate reproduction.*
 
 # EVGA - Intelligent Innovation - e-Store Policies
 
