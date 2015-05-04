@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109154900id_/http%3A//www.psiphon3.net/en/about.html%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504104344id_/http%3A//www.psiphon3.net/en/about.html%23privacy-policy) for the most accurate reproduction.*
 
 # Psiphon | About Us
 
@@ -34,7 +34,7 @@ We have contracts in place with a range of companies, from large-scale internati
 
 ### Partnerships
 
-Psiphon works closely with various groups to provide support and advice to people using Psiphon wherever they are. We have translations for our web proxy software in 15 languages, and are adding more to our Windows and Mobile products through [Transifex](https://www.transifex.com/projects/p/Psiphon3/), as part of the Open Technology Fund’s hub.
+Psiphon works closely with various groups to provide support and advice to people using Psiphon wherever they are. We have translations for our software in 15 languages, and are adding more to our products through [Transifex](https://www.transifex.com/projects/p/Psiphon3/), as part of the Localization Lab hub.
 
 One of our most successful partnerships is with [ASL19](https://asl19.org/), who provide translation and support services in Farsi, and have been instrumental in helping us grow our audience.
 
@@ -44,14 +44,14 @@ Psiphon is committed to protecting the privacy interests of its customers, end u
 
 For further information regarding Canadian and Ontario privacy laws, please visit: 
 
-  * [Canadian Privacy Commission](http://www.priv.gc.ca/)
-  * [Office of the Ontario Privacy Commissioner](http://www.ipc.on.ca/)
+  * [Office of the Privacy Commissioner of Canada](http://www.priv.gc.ca/)
+  * [Office of the Information and Privacy Commissioner of Ontario](http://www.ipc.on.ca/)
 
 
 
 Psiphon is designed to provide you with open access to online content. Psiphon does not increase your online privacy, and should not be considered or used as an online security tool. 
 
-[Visit the FAQ](https://web.archive.org/web/20141109154900id_/http%3A//www.psiphon3.net/en/faq.html#information-collected) for details about what data we collect. See the [Privacy Bulletin](https://web.archive.org/web/20141109154900id_/http%3A//www.psiphon3.net/en/privacy-bulletin.html) for temporary data collection changes. 
+[Visit the FAQ](https://web.archive.org/web/20150504104344id_/http%3A//www.psiphon3.net/en/faq.html#information-collected) for details about what data we collect. See the [Privacy Bulletin](https://web.archive.org/web/20150504104344id_/http%3A//www.psiphon3.net/en/privacy-bulletin.html) for temporary data collection changes. 
 
 We sometimes use Google AdSense advertisements to support our site, which may use technology such as cookies and web beacons. Google's use of the DoubleClick cookie enables it and its partners to serve ads based on your visit to this site and/or other sites on the Internet. Any information collected through this process is handled under the terms of the Google privacy policy at <https://www.google.com/policies/privacy/partners/?hl=en>
 
