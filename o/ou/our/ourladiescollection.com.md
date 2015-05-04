@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourladiescollection.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227183445id_/http%3A//www.ourladiescollection.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourladiescollection.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504164036id_/http%3A//www.ourladiescollection.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Pakistani Designers Pakistan Fashion Shows
 
