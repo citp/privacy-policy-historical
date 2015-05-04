@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathishaadi.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201040121id_/http%3A//www.marathishaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathishaadi.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504025655id_/http%3A//www.marathishaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
 
 # Shaadi.com Privacy Policy Indian matrimonial web site - free listing matrimonials - MarathiShaadi.com
 
