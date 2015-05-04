@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longhornsteakhouse.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130142822id_/http%3A//www.longhornsteakhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longhornsteakhouse.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505010556id_/http%3A//www.longhornsteakhouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LongHorn Steakhouse Restaurant
 
@@ -26,6 +26,7 @@ We may use the information we obtain through the Sites to:
   * Offer and provide products and services to you;
   * Process and collect payments for gift cards;
   * Communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions;
+  * Combine it with information we receive offline to send you offers or promotions;
   * Send information to others if you ask us to do so;
   * Respond to and communicate with you about your requests, questions and comments;
   * Manage your application for employment with Darden and contact you in connection with potential employment opportunities;
@@ -39,7 +40,7 @@ We may use the information we obtain through the Sites to:
 
 In addition, we use information collected online through cookies, local shared objects (also known as “Flash cookies”), web beacons and other automated means for purposes such as (i) customizing our users’ visits to our Sites, (ii) delivering content (including advertising) tailored to our users’ interests and the manner in which our users browse our Sites, and (iii) managing our business. We may supplement data we collect through automated means with information about your location (such as your zip code) to provide you with content that may be of interest to you. We also use this information to help diagnose technical and service problems, administer our Sites, identify users of our Sites, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Sites, how users navigate through our Sites, and how we may tailor our Sites to better meet the needs of our users. To identify local shared objects on your computer and adjust your settings, please visit [www.macromedia.com/support/documentation/  
 en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).  
-We may use third-party web analytics services on our Sites, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the Sites. The information collected through these means (including IP address) is disclosed to these analytics providers, who use the information to evaluate use of the Sites. To learn more about Google Analytics and how to opt out, please visit www.google.com/analytics/learn/privacy.html. We may combine information we collect from you with information we receive from third parties and use it for the purposes described in this Privacy Notice. We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection. 
+We may use third-party web analytics services on our Sites, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the Sites. The information collected through these means (including IP address) is disclosed to these analytics providers, who use the information to evaluate use of the Sites. To learn more about Google Analytics and how to opt out, please visit www.google.com/analytics/learn/privacy.html. We may combine information we collect from you with information we receive from third parties and use it for the purposes described in this Privacy Notice. We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
 
 Back to Top
 
@@ -76,7 +77,7 @@ Our Sites may contain links to other websites for your convenience and informati
 
 Back to Top
 
-We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. 
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
 Back to Top
 
@@ -84,16 +85,16 @@ Our Sites are not directed to children under the age of thirteen and we do not k
 
 Back to Top
 
-This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our Sites to notify you of any significant changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated. 
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our Sites to notify you of any significant changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated.
 
 Back to Top
 
 If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [privacy@darden.com](mailto:privacy@darden.com) or by phone at 407-245-5397, ext. 7. You also may write to us at:
 
-Darden Restaurants, Inc.   
+Darden Restaurants, Inc.  
 Attention: Elizabeth Yost, Privacy Department  
-c/o Compliance and Ethics Office   
-1000 Darden Center Drive   
+c/o Compliance and Ethics Office  
+1000 Darden Center Drive  
 Orlando, FL 32837
 
 Please note that on occasion, third parties unaffiliated with us may conduct marketing campaigns where they offer gift cards to our restaurants, which they have purchased separately, as inducements to enroll in their programs, complete surveys or take other actions. In such cases, requests directed to us to opt out of further communications will not be effective, as we have no control over the activities of such third parties.
