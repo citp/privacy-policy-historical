@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screensaversandwallpapersfree.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819180107id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screensaversandwallpapersfree.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505013459id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy Summary
 
