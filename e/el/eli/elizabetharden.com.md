@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231201419id_/http%3A//www.elizabetharden.com/Privacy-Policy/privacy-and-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504065506id_/http%3A//www.elizabetharden.com/Privacy-Policy/privacy-and-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Elizabeth Arden Official Site Privacy Policy
 
@@ -98,6 +98,6 @@ If you have any questions, comments or concerns about our privacy practices or t
 
 **EFFECTIVE DATE**
 
-This Privacy Policy is effective and was last updated on June 30, 2012.
+This Privacy Policy is effective and was last updated on December 12, 2014.
 
 Copyright ©2012 Elizabeth Arden, Inc. All rights reserved.
