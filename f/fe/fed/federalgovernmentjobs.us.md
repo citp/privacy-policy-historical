@@ -1,60 +1,95 @@
-> *The following text is extracted and transformed from the federalgovernmentjobs.us privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001232845id_/http%3A//federalgovernmentjobs.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalgovernmentjobs.us privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504122735id_/http%3A//federalgovernmentjobs.us/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement and Terms of Service
+# Federal Government Jobs Privacy Policy and Terms and Conditions of Use
 
-  * federalgovernmentjobs.us is a privately owned company and _not_ an agency of the United States Federal Government.
-  * federalgovernmentjobs.us is geared to those near or already of workforce age. We do not collect personally identifiable information from minors.
+## This document discloses the privacy practices and terms and conditions of use for the federalgovernmentjobs.us website and related internet services ("We" / "Us" / "Our services"). 
+
+  
+
+
+  * **We are NOT an agency of any government entity.**   
 
 
 
-## Privacy
+  * **We do not collect personally identifiable information from children.** Our services are intended solely for people near or already of workforce age.
 
-federalgovernmentjobs.us values our guests' privacy. We evaluate our business partners and advertisers to ensure similar commitment.
 
-## Information Collected
 
-federalgovernmentjobs.us collects industry standard information on the use of the website. Industry standard information includes pages accessed, IP address, date and time of usage, referral page etc. This information may indicate our guests' Internet Service Provider, company or government agency name if accessed from work, location (city), speed of internet access (dial-up, DSL, cable etc), linking webpage and search terms used to locate our website, and browser and operating system brand and version.
+#### Introduction
 
-We collect information about our guests' usage of external links listed on our website and services. This includes links to agencies, online applications, and advertiser websites. Advertisers may also provide us with industry standard information about our guests' actions on their websites. These reports may include whether a sale, registration, download or other actions was take, items ordered, the amount of a sale, etc.
+We deeply values the privacy of the users of our services. As such, we collect, transmit, and store minimal amounts of your information necessary for the operation of our services and necessary to present advertising and voluntary user surveys and other content features. Below this section is a statement regarding information about you that we may collect, transmit, or store in providing services to you. 
 
-_Update_ : A recent trend in the online advertising industry identifies topics of interest to internet users across unrelated websites and presents relevant advertising based on the identified interests. federalgovernmentjobs.us permits both the collection of such topical interests and displaying of advertising based on the interests of our guests.
+Further we require that all users of our services meet certain conditions and abide by the terms of use agreement. _**Continued use of our services constitutes acceptance of the Terms and Conditions of Use Policy below.**_
 
-federalgovernmentjobs.us collects and examines the search terms from the job search and email subscription and similar features.
+Finally, additional information about us, our intellectual property claims, contact information and other essential information is also provided below. 
 
-federalgovernmentjobs.us utilizes cookies for the website to operate properly. The cookies do not contain and are not used to gather personal information. 
+#### Types of information we collect about you
 
-In the future, if we collect or evaluate additional information, we will post the details on this webpage.
+Users necessarily provide certain **"network" information** in accessing our services. This information may include web pages accessed, date and time of access, your network provider and address (IP address), referring web page (web page containing the link that brought you to our website), system information (operating system and web browser version), etc. 
 
-## Information Usage
+**Users are cautioned that this information sometimes implies additional information** (e.g. the user's employer may be implied by accessing services from an employer's network, likewise cellphone carrier if accessed using mobile devices). 
 
-federalgovernmentjobs.us uses industry standard third party web analytics tools to help evaluate information we collect. 
+Generally, your "network" information is used only to provide our services to you, to troubleshoot technical problems with our systems and to analyze aggregate usage statistics. We do not provide your individual level network information to others except when necessary to troubleshoot technical problems. Certain "on page" features such as analytics tracking, advertising, and voluntary user surveys are provided by third-party companies with whom we have an established business partnership. These companies will generally receive similar network information described above. We evaluate all such partners for reasonableness of their privacy practices as well as conformance with standard industry practices. However, we cannot be liable for these companies secondary use of your information. For instance, advertising providers may be aware of previous websites that you have visited and present advertising within our pages based on that knowledge or may use knowledge of your use of our website in later advertising on our or other internet sites. 
 
-federalgovernmentjobs.us evaluates information collected on an aggregate level to improve our website and services and to ensure our continued operations. Occasionally we may share select portions of this aggregate data (such as overall number of guests, number of email subscribers, etc.) with our business partners and advertisers.
+Users are asked to voluntarily provide certain **"user" information** when using some of our features. For instance, users who create custom searches provide their search criteria to us and users of our email notification services provide their email address as well. We treat your information as confidential and use your information only to provide our services to you, to troubleshoot technical problems with our systems and to analyze aggregate usage statistics. We will use reasonable means to encrypt and secure your information that is stored within our systems. 
 
-federalgovernmentjobs.us evaluates information collected on an individual level only to resolve technical issues with the website and services. We do not allow any third parties to access individual level information for any reason.
+When your "user" information is provided within third-party "on page" features (e.g. the user supplies information within an advertisement or voluntary user survey) that information is provided to the third-party directly and is neither stored nor secured by us and we cannot be liable for the further use of the information. We will make reasonable efforts to label and visually separate third-party "on page" features with the exception of analytics tracking. 
 
-Individual level data not essential to a requested service (such as email addresses for job alerts) will not transfer and will be destroyed should ownership change or on major changes to these policies. 
+**Cookies:** federalgovernmentjobs.us and third-party advertising and voluntary survey providers use cookies to store small amounts of text information on your computer. Such information is commonly resent upon subsequent web page requests to maintain awareness of your session and your user preferences. Generally, storing and sending of cookies is regulated by your software applications. 
 
-## Terms and Conditions of Use
+**JavaScript or scripting:** federalgovernmentjobs.us and third-party advertising and voluntary survey providers use JavaScript or scripting to run code on your computer within your web browser application. Such coding is generally limited to interacting with the display of a webpage, sending or receiving updated information from our servers, or sending the web browser to a new address. Generally, JavaScript and scripting are regulated by your software application. 
 
-federalgovernmentjobs.us welcomes guests who wish to use our services to locate employment information for themselves or others. Any other use of our services requires our express prior approval.
+We contract with various computer and network systems providers to "host" our website and computer systems. We choose business partners that we feel protect both our organization and our end users. However, your network and user information is collected and stored within these systems. 
 
-Guests agree to the follow principles of fair job searching. Guests may not attempt to have valid job information removed, altered, or in any way made inaccessible to other job seekers. 
+#### Terms and Conditions of Use
 
-Each guest is allowed to create two job search subscription. Please contact us for approval before create more than two subscriptions.
+By use of our services, you agree to all of the following terms and conditions of use. 
 
-Guests may not use any form of programmatic or automated access to the website or services*
+##### **Acceptable Use**
 
-Redistributing the contents of the website or services in forbidden without express prior approval. Please contact us to discuss options for including information from our site within your own application or websites.
+First, recognizing that few users will actually read these conditions before using our services, all services are provided solely for reasonable, good-faith, personal use for the purposes of finding information to obtain one's own employment. This agreement is predicated upon this intended usage. No other use is permitted without our written permission. 
 
-* Search Engines, Job Search Engines, and similar services that obey standard industry practices are welcomed and encouraged to index our website. 
+Furthermore, all other users of our systems or services agree to make reasonable inquiry into our policies regarding terms of use and to read and reviewed this entire document before use. Further, any user who makes more than a reasonable amount of use, or who accesses services without good-faith, or who does so for purposes other than to find personal employment hereby **WAIVES** any claim based on lack of awareness of, or lack of agreement to these terms, so long as a link to this policy is posted from our "home page" and/or the main page of any system or service accessed. 
 
-**Additional Details**
+**Expressly prohibited are:**
 
-federalgovernmentjobs.us privacy polices and terms of use are subject to change. Such changes will be posted to this webpage. 
+  * Excessive (e.g. non-personal) and/or non-employment seeking usage of any content or service of federalgovernmentjobs.us.
 
-Last updated: 3/13/2009
 
-Please [contact us](https://web.archive.org/web/20141001232845id_/http%3A//federalgovernmentjobs.us/contact.html)  with any concerns or comments about our policies.
+  * Probing or inspection of services and systems for vulnerabilities. You agree to not attempt to breach security mechanisms or gain entry to any our systems. Suspected violations are subject to immediate, permanent revocation of services and/or blocked network access and may subject you to civil and criminal penalties.
 
-© 2006-2014, exclusive of U. S. government job opportunity announcements
+
+  * Extensive or inappropriate use of content in other publications or other works including websites or mobile applications without prior written permission. Web pages may not be scraped, placed in "frames", or otherwise republished without prior written permission. Search engines and job search engines/aggregators may index our content for their search services provided they refer back to our original pages.
+
+
+  * Scraping, or collecting content or user information in bulk from our systems or services. 
+
+
+  * Any use of our systems or service to gain an unfair or unlawful advantage in obtaining employment or to prevent another candidate from fair and lawful consideration for employment. 
+
+  
+
+
+#####  **Liability**
+
+All users agree to hold us completely harmless for any errors in information, availability of our systems or services, your ability to apply for employment or any employment decisions. In the event that we are found liable for any act or omission, our liability is limited to not more than the amount you paid to us for our services. 
+
+#####  **Modification**
+
+This agreement supersedes any prior agreement in exchange for continued use of our services. 
+
+We reserve the right to modify this agreement at any time. Generally, we will attempt to notify active users of our services when there are significant changes in privacy policies or terms and conditions of use. 
+
+#### Additional Information
+
+federalgovernmentjobs.us is a registered Trademark in the State of Arizona, USA. 
+
+All content exclusive of federal job vacancy announcements is copyright 2006-2015 and is protected by register and unregistered trademarks. 
+
+Questions and concerns regarding any of the above policies can be mailed to us by using our [contact form](http://federalgovernmentjobs.us/contact.html). 
+
+Thank your for choosing our services. We hope that they are of value to you! 
+
+Last updated: 2-22-2015 
+
+© 2006-2015, exclusive of U. S. government job opportunity announcements
