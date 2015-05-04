@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollymoviereviewz.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007161653id_/http%3A//www.bollymoviereviewz.com/2008/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollymoviereviewz.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505004737id_/http%3A//www.bollymoviereviewz.com/2008/10/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy |Rajeev Masand|Taran Adarsh|Anupama Chopra|Komal Nahta|Raja Sen|Times of India|Rediff|NDTV|IMDB|IBNBollymoviereviewz
+# Privacy Policy|Bollymoviereviewz
 
 **Privacy Policy for http://Bollymoviereviewz.com/**  
 
