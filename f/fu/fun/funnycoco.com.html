@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the funnycoco.com privacy policy that was archived on 2014-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140806162756id_/http%3A//www.funnycoco.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funnycoco.com privacy policy that was archived on 2015-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150504094656id_/http%3A//www.funnycoco.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <meta charset="utf-8"><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js?onload=GPReady"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8AU15SGwAHXVBUDwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <meta charset="utf-8"><script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js?onload=GPReady"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
     <title>Best Fun &amp; Most Creative Community - FUNNYCOCO.COM</title>
     <link rel="shortcut icon" href="http://www.funnycoco.com/favicon.ico?2">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -15,12 +15,12 @@
     <meta property="og:url" content="http://www.funnycoco.com">
     <meta property="og:description" content="FunnyCoCo has all the best cute, awe-inspiring, funny, fail, heart-warming, hilarious, humorous, geeky, loveable, GIFS, memes, video and photos on the Internet. What are you waiting for? Unleash the Internet’s Best Awesomeness and Fun at FunnyCoCo.com">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="http://hwcdn.funnycoco.com/image/logo/230x230_2.png">
+    <meta property="og:image" content="http://cdn.funnycoco.com/image/logo/230x230_2.png">
         <meta property="fb:app_id" content="372870149515519">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Best Fun &amp; Most Creative Community - FUNNYCOCO.COM">
     <meta name="twitter:description" content="FunnyCoCo has all the best cute, awe-inspiring, funny, fail, heart-warming, hilarious, humorous, geeky, loveable, GIFS, memes, video and photos on the Internet. What are you waiting for? Unleash the Internet’s Best Awesomeness and Fun at FunnyCoCo.com">
-    <meta name="twitter:image" content="http://hwcdn.funnycoco.com/image/logo/230x230_2.png">
+    <meta name="twitter:image" content="http://cdn.funnycoco.com/image/logo/230x230_2.png">
     <meta name="google-signin-clientid" content="943987605466-7ujou3pha45al0krt7936u70g7fh3did.apps.googleusercontent.com">
     <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.login">
     <meta name="google-signin-requestvisibleactions" content="http://schemas.google.com/AddActivity">
@@ -28,35 +28,39 @@
     <meta property="al:android:package" name="al:android:package" content="funnycoco.app">
     <meta property="al:android:app_name" name="al:android:app_name" content="FunnyCoCo">
     <meta property="al:android:url" name="al:android:url" content="funnycoco://">
-            <link href="http://hwcdn.funnycoco.com/css/bootstrap.funny.min.css?201405292028" rel="stylesheet" type="text/css">
+            <link href="http://cdn.funnycoco.com/css/bootstrap.funny.min.css?201409231456" rel="stylesheet" type="text/css">
         
-<link href="http://hwcdn.funnycoco.com/css/privacy.css?201405292028" rel="stylesheet" type="text/css">
-<link href="http://hwcdn.funnycoco.com/css/globals.css?201405292028" rel="stylesheet" type="text/css">
+<link href="http://cdn.funnycoco.com/css/privacy.css?201409231456" rel="stylesheet" type="text/css">
+<link href="http://cdn.funnycoco.com/css/globals.css?201409231456" rel="stylesheet" type="text/css">
 
 </head>
 <body>
 <div class="navbar navbar-default navbar-fixed-top" id="nav_container">
-    <div class="container global-header" style="width: 950px; margin-top: 0px;">
+    <div class="global-header">
         <div class="navbar-header">
-            <a style="margin:2px 15px 0 0;" class="navbar-brand hidden-sm gaclick" gadata="header:logo" href="/"><img src="http://hwcdn.funnycoco.com/image/logo/logo_120x46.png"></a>
+            <a style="margin:2px 15px 0 0;" class="navbar-brand hidden-sm hidden-xs gaclick" gadata="header:logo" href="/"><img src="http://cdn.funnycoco.com/image/logo/logo_120x46.png"></a>
         </div>
         <ul id="header_nav" class="nav navbar-nav gaclick en" gadata="header:hot">
-            <li class="nav_featured gaclick " gadata="header:featured">
+            <li class="nav_featured gaclick hidden-700 " gadata="header:featured">
                 <a href="http://www.funnycoco.com/">FEATURED</a>
             </li>
-            <li class="nav_hot">
+            <li class="nav_hot hidden-700 " gadata="header:hot">
                 <a href="http://www.funnycoco.com/hot/">HOT</a>
             </li>
-            <li class="nav_new gaclick " gadata="header:new">
+            <li class="nav_new gaclick hidden-700 " gadata="header:new">
                 <a href="http://www.funnycoco.com/fresh/">FRESH</a>
             </li>
-            <li class="nav_random gaclick " gadata="header:random">
+            <li class="nav_random gaclick hidden-700 " gadata="header:random">
                 <a href="http://www.funnycoco.com/time-travel/1/">TIME-TRAVEL</a>
             </li>
             <li class="nav_more gaclick " gadata="header:more">
                 <a style="margin-top: -3px;padding-right: 10px;">MORE                    <i class="drop-down-icon" style="position: relative;top: 5px;"></i></a>
                 <div class="pop-container" style="top:50px;left:0">
                     <ul class="popup-menu hidden">
+                        <li class="show-700"><a gadata="header:featured" class="gaclick" href="http://www.funnycoco.com/">FEATURED</a></li>
+                        <li class="show-700"><a gadata="header:hot" class="gaclick" href="http://www.funnycoco.com/hot/">HOT</a></li>
+                        <li class="show-700"><a gadata="header:new" class="gaclick" href="http://www.funnycoco.com/fresh/">FRESH</a></li>
+                        <li class="show-700"><a gadata="header:random" class="gaclick" href="http://www.funnycoco.com/time-travel/1/">TIME-TRAVEL</a></li>
                         <li><a gadata="header:GIF" class="gaclick" href="http://www.funnycoco.com/gif/">GIF</a></li>
                         <li><a gadata="header:NSFW" class="gaclick" href="http://www.funnycoco.com/nsfw/">NSFW</a></li>
                                                 <li><a gadata="header:World Cup" class="gaclick" href="http://www.funnycoco.com/tags/World Cup/">WORLD CUP</a></li>
@@ -97,13 +101,8 @@
         </div>
     </div>
 </div><div class="container foritems">
-        <div class="alert alert alert-info alert-dismissable" style="margin: -10px 0 10px;border-radius:0">
-        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
-                To unleash all the best fun from <a href="http://ad.apps.fm/-VJczqVmxbzd2B2Bdi2bCF5KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYf6TaKcsG-FuuRUYsmYrXV3HPyuxZpmZD0fbXl4oqDpLT44PB2dhBe_fwIS9MXarsl" target="_blank" style="color:#fd3d4d;text-decoration: underline">FunnyCoCo</a> on your Android Phone,
-        <a href="http://ad.apps.fm/-VJczqVmxbzd2B2Bdi2bCF5KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYf6TaKcsG-FuuRUYsmYrXV3HPyuxZpmZD0fbXl4oqDpLT44PB2dhBe_fwIS9MXarsl" target="_blank" style="color:#fd3d4d;text-decoration: underline">download our new FunnyCoco App</a> from Google Play today!
-            </div>
-        
-<div class="privacy-wrapper" style="margin-top:70px">
+    
+<div class="privacy-wrapper">
     <h1>FunnyCoCo Privacy</h1>
     <h2>Your privacy is critically important to us. At FunnyCoCo we have a few fundamental principles:</h2>
     <ul>
@@ -187,11 +186,11 @@
         </div>
     </div>
 </div><div class="modal fade" id="fblike_modal">
-    <div class="modal-dialog" style="width: 900px;">
+    <div class="modal-dialog" style="width: 900px;max-width: 96%">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                <h4 class="modal-title"><img src="http://hwcdn.funnycoco.com/image/logo/logo_120x46.png"></h4>
+                <h4 class="modal-title"><img src="http://cdn.funnycoco.com/image/logo/logo_120x46.png"></h4>
             </div>
             <div class="modal-body">
                 <div class="fblike-content" style="margin-top:10px;overflow: hidden">
@@ -219,40 +218,7 @@
             </div>
         </div>
     </div>
-</div><div class="modal fade" id="app_download_modal" style="background:rgba(0,0,0,0.8)">
-    <div class="modal-dialog" style="width: 500px; margin: 50px auto;">
-        <div class="modal-content">
-            <div class="modal-header" style="border: none;padding:0;">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="margin:0 5px;">×</button>
-            </div>
-            <div class="modal-body" style="text-align: center;padding-top:0;">
-                <div style="width: 230px;height: 230px;margin: 0 auto">
-                    <img src="/image/logo/230x230_2.png">
-                </div>
-                <div style="text-align: center;line-height: 36px;margin-bottom: 5px;font-size: 36px;margin-top: 0px;font-family: 'MuseoSlabRegular','Arbutus Slab',serif;color: #4a4a4a;margin-top:10px">
-                    Your Source Of Fun !
-                </div>
-                <div style="text-align: center;line-height: 13px;margin: 10px 0;font-size: 13px;font-family: 'MuseoSlabRegular','Arbutus Slab',serif;color: #4a4a4a;">
-                    Download And Let The Fun Begin
-                </div>
-                <div>
-                    <a target="_blank" href="http://ad.apps.fm/-VJczqVmxbzd2B2Bdi2bCF5KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYf6TaKcsG-FuuRUYsmYrXV3HPyuxZpmZD0fbXl4oqDpLT44PB2dhBe_fwIS9MXarsl" onclick="close_app_download()">
-                        <img src="http://hwcdn.funnycoco.com/image/app/google-play-200x59.png?1">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div><div id="cornerAd" class="hidden">
-    <object id="div_corner_ad_flash" data="http://hwcdn.funnycoco.com/swf/corner.swf?clickTAG=http%3a%2f%2fserver.cpmstar.com%2fclick.aspx%3fpoolid%3d49772%26subpoolid%3d0%26campaignid%3d203891%26creativeid%3d479674%26url%3d" width="259" height="188" style="position:absolute; right:0;" type="application/x-shockwave-flash">
-        <param name="allowScriptAccess" value="always">
-        <param name="allownetworking" value="all">
-        <param name="wmode" value="transparent"><param name="menu" value="false">
-    </object>
-    <a href="javascript:;" onclick="juanjiao_close()" class="_pos_close" style="display: block; width: 20px; height: 20px; position: absolute; right: 0px; top: 0px; z-index: 105;"><img src="http://hwcdn.funnycoco.com/image/icon/figure_layer_close.png"></a>
-    <a class="corner-ad-cover hidden" target="_blank" href="http://ad.apps.fm/-VJczqVmxbzd2B2Bdi2bCF5KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYf6TaKcsG-FuuRUYsmYrXV3HPyuxZpmZD0fbXl4oqDpLT44PB2dhBe_fwIS9MXarsl"></a>
-</div>
-<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52c2908712363584"></script>
+</div><script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52c2908712363584"></script>
 <script>
     function detectmob() {
         if( navigator.userAgent.match(/Android/i)
@@ -270,8 +236,8 @@
         }
     }
 </script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-<script type="text/javascript" src="http://hwcdn.funnycoco.com/js/site/common_all.min.js?201405270945"></script>
+<script type="text/javascript" src="http://cdn.funnycoco.com/js/download/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdn.funnycoco.com/js/site/common_all.min.js?201409231457"></script>
 
 
 <script>
@@ -302,21 +268,29 @@
             return false;
         });
     });
-    $('.setting-container, .nav_more, .app-download').mouseenter(function(){
-        if($(this).hasClass('setting-container') || $(this).hasClass('app-download')){
+    $('.setting-container, .nav_more').mouseenter(function(){
+        if($(this).hasClass('setting-container')){
             $(this).addClass('active');
         }else{
-            $(this).addClass('select');
+//            $(this).addClass('select');
         }
-        $(this).find('.popup-menu').removeClass('hidden');
     })
-    $('.setting-container, .nav_more, .app-download').mouseleave(function(){
-        if($(this).hasClass('setting-container') || $(this).hasClass('app-download')){
+    $('.setting-container, .nav_more').mouseleave(function(){
+        if($(this).hasClass('setting-container')){
             $(this).removeClass('active');
         }else{
             $(this).removeClass('select');
         }
         $(this).find('.popup-menu').addClass('hidden');
+    })
+    $('.setting-container, .nav_more').click(function(){
+        if($(this).find('.popup-menu').hasClass('hidden')){
+            $(this).find('.popup-menu').removeClass('hidden');
+            $(this).addClass('select');
+        }else{
+            $(this).find('.popup-menu').addClass('hidden');
+            $(this).removeClass('select');
+        }
     })
 
     function adjustHeaderWidth(){
@@ -384,29 +358,13 @@
     if(cookieTimeZone != timeZone){
         $.cookie('time_zone', timeZone,{ expires: 365, path: '/' ,domain:'funnycoco.com'});
     }
-        function close_app_download(){
+    function close_app_download(){
         $('#app_download_modal').modal('hide');
     }
     function juanjiao_close(){
-        $("#cornerAd").remove();
-        $.cookie('show_corner_ad', 1,{ expires: 1, path: '/' ,domain:'funnycoco.com'});
     }
-    $(function(){
-        $('#cornerAd').mouseenter(function(){
-            $('.corner-ad-cover').addClass('hidden')
-            setTimeout(function(){
-                $('.corner-ad-cover').removeClass('hidden')
-            },10);
-        });
-        $('#cornerAd').mouseleave(function(){
-            $('.corner-ad-cover').addClass('hidden')
-            setTimeout(function(){
-                $('.corner-ad-cover').removeClass('hidden')
-            },10);
-        });
-    })
 </script>
 <script type="text/javascript" src="http://www.adcash.com/script/java.php?option=rotateur&amp;r=243266"></script>
-<script type="text/javascript" src="http://hwcdn.funnycoco.com/js/site/track.js?v3201405270945"></script>
+<script type="text/javascript" src="http://cdn.funnycoco.com/js/site/track.js?v3201409231457"></script>
 
 </body></html>
