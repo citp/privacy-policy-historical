@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okcaller.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220152120id_/http%3A//okcaller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcaller.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504073151id_/http%3A//okcaller.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | OkCaller.com
 
