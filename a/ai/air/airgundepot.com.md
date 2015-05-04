@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703100355id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504125729id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy statement discloses the privacy practices for http://www.airgundepot.com
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact Security Administrator by e-mail: inquiries@airgundepot.com.
+If you feel that this company is not abiding by its posted privacy policy, you should first contact Security Administrator by e-mail: inquiries[at]airgundepot.com.
 
 #### Information Collection and Use
 
@@ -12,7 +12,7 @@ Airgun Depot is the sole owner of the information collected on this site. We wil
 
 #### Email
 
-When you submit your email to us by placing an order, we store the information to send you order information, updates, verification requests, and other business related email. You may also receive our newsletter, which is sent out only occasionally containing airgun information, tips, specials, and announcements. If you do not want to subscribe to the newsletter, you may unsubscribe at any time by using the link provided on the bottom of each email. We have a strict NO SPAMMING policy, and we do not sell, share, or rent your email address with any third party or vendor. You do not have to place an order to subcribe to our email newsletter, simply click 'sign up' on our left navigation and provide the necessary information.
+When you submit your email to us by placing an order, we store the information to send you order information, updates, verification requests, and other business related email. You may also receive our newsletter, which is sent out only occasionally containing airgun information, tips, specials, and announcements. If you do not want to subscribe to the newsletter, you may unsubscribe at any time by using the link provided on the bottom of each email. We have a strict NO SPAMMING policy, and we do not sell, share, or rent your email address with any third party or vendor. You do not have to place an order to subscribe to our email newsletter, simply click 'sign up' on our left navigation and provide the necessary information.
 
 #### Order
 
@@ -54,6 +54,4 @@ If you have any questions about the security at our website, you can send an ema
 
 #### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
