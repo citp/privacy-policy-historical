@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laylita.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231042151id_/http%3A//laylita.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laylita.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504095218id_/http%3A//laylita.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Laylita.com
 
