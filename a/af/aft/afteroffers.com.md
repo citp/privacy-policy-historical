@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the afteroffers.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217125854id_/http%3A//www.afteroffers.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afteroffers.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504050741id_/http%3A//www.afteroffers.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# AfterOffers.com Privacy Policy | After Offers | Grow Your List. Monetize Your Site.
-
-Privacy Policy
+# 
 
 After Offers provides a way for you, the website visitor, to request information from related companies with complementary products and services to that of the website you are visiting.
 
@@ -23,13 +21,19 @@ are all transmitted to that company so that they may provide you with the conten
 
 Your information, while stored by After Offers, is never transmitted to any company from which you have not expressly requested information by checking the box next to their specific offer.
 
-While After Offers encourages all advertisers to have their own privacy policy, you are encouraged to read and understand the individual privacy policy of the company for the offers you have checked. After Offers is not responsible for the handling of your information after it has been transmitted to the advertiser.
+While After Offers encourages all advertisers to have their own privacy policy, you are advised to read and understand the individual privacy policy of the company for the offers you have checked. After Offers is not responsible for the handling of your information after it has been transmitted to the advertiser.
 
 While After Offers takes all reasonable measures to protect the information you submit in the After Offers forms, we cannot guarantee this will prevent unauthorized parties from obtaining this information illegally. As such, all information you submit is agreed by you to be non-confidential in nature.
 
-You can obtain a copy of your personally identifiable information stored by After Offers or request the permanent removal of your information from the After Offers database by emailing privacy@afteroffers.com or writing to us at:
+You can obtain a copy of your personally identifiable information stored by After Offers or request the permanent removal of your information from the After Offers database by any one of the following:
+
+1) Emailing privacy@afteroffers.com  
+2) Calling 1-949-391-1171  
+3) Writing to us at:
 
 Ideas For Download, LLC  
 dba After Offers  
 30251 Golden Lantern #E-358  
-Laguna Niguel, CA 92677 
+Laguna Niguel, CA 92677
+
+After Offers does not send emails directly, so you will need to also unsubscribe from the advertisers you selected through the After Offers platform via their own unsubscribe links in their emails or contacting them directly. 
