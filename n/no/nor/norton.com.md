@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norton.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609004340id_/http%3A//www.symantec.com/about/profile/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norton.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504151715id_/http%3A//www.symantec.com/about/profile/privacypolicy) for the most accurate reproduction.*
 
 # Privacy | Symantec
 
