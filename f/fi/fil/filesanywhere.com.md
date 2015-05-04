@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202214546id_/http%3A//support.filesanywhere.com/entries/20163703-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504051351id_/http%3A//support.filesanywhere.com/entries/20163703-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Support Center
 
 Alex Kuperman  
-posted this on May 31, 2011 11:43 
+posted this on May 31, 2011, 11:43 
 
 ## FilesAnywhere Makes Your Privacy a Top Priority
 
@@ -25,7 +25,7 @@ In today's online environment, we understand how important it is to protect our 
 
 **Contests and Promotions** : Please be advised that if you request information, sign up for an optional service, submit feedback, or enter a contest or other promotion, we may ask for your name, address, and email address so that we may contact you. We may also use the collected information to notify you about important changes to our Website, functionality, services, or related news that you may find useful.
 
-**Announcements and Special Offers** : If you prefer not to receive announcements or special offers from FilesAnywhere, you may opt out at any time. Simply visit your profile page to view or [change your preferences](http://support.filesanywhere.com/entries/20218757-changing-your-preferences). It's important that you ensure the accuracy of your profile information, including a valid email address, so that we may contact you in in regard to official changes in our privacy policies should they occur.
+**Announcements and Special Offers** : If you prefer not to receive announcements or special offers from FilesAnywhere, you may opt out at any time. Simply visit [this page](https://backup.filesanywhere.com/MntSubscription/Subscription.aspx) to change your email preferences. It's important that you ensure the accuracy of your profile information, including a valid email address, so that we may contact you in in regard to official changes in our privacy policies should they occur.
 
 **Cookies** : Small pieces of data stored in temporary hard drive files by your browser are called cookies. Most web browsers automatically accept cookies and FilesAnywhere website login requires the use of cookies. Our cookies do not contain any personally identifying information, but they do enable us to provide special features, such as default login, and to store temporary session data between visits.  
 
