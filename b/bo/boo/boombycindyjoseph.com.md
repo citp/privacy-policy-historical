@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boombycindyjoseph.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230101828id_/http%3A//www.boombycindyjoseph.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boombycindyjoseph.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504145314id_/http%3A//www.boombycindyjoseph.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BOOM by Cindy Joseph
+# Privacy Policy | BOOM by Cindy Joseph
 
 Privacy Policy 
 
@@ -26,7 +26,7 @@ In addition to the information automatically collected by your browser, we also 
 We collect this information that you provide, and may use it to make ordering from our Website easier by pre-populating contact forms with the information that you have provided. We do not share your information with any third-parties unless required by law. We use the information we automatically collect to help us better plan our Website to meet your needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications such as alerts to new products or specials.
 
 **Your Rights and Our Obligations**  
-BOOM respects the privacy of users visiting our Website. In addition to our communications to you, we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: ____________.
+BOOM respects the privacy of users visiting our Website. In addition to our communications to you, we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: [info@boombycindyjoseph.com.](mailto:info@boombycindyjoseph.com)
 
 **Legal Protections**  
 We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Website and applicable laws; or to protect the legal rights, interests, or safety of the Website, our users or others. We may also use device identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
