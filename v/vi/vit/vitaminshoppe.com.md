@@ -1,151 +1,198 @@
-> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810161104id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504054316id_/http%3A//www.vitaminshoppe.com/u/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy & Security Policy the vitamin shoppe
+# Privacy & Security Policy at the Vitamin Shoppe
 
-The Vitamin Shoppe has not and will not sell or rent your Personal Information to third parties for their direct marketing purposes. Except as disclosed below, you should never receive solicitaions (i.e. "junk mail") from unaffiliated third parties as a result of shopping or visiting The Vitamin Shoppe.
+[Home](https://web.archive.org/) | [ Help ](https://web.archive.org/u/help.jsp) | Privacy & Security Policy
 
-  
-Privacy & Security Policy
+### Legal Information
 
-Last Updated September 1, 2012. 
+The Vitamin Shoppe, Inc., VS Direct, Inc. and it and their affiliates (collectively, "The Vitamin Shoppe," "we," "us," or "our") provide this privacy and security policy ("Privacy Policy") because we know that you care about how your information is collected, used, shared and retained. This Privacy Policy applies only to information collected when you access our website ([www.vitaminshoppe.com](https://web.archive.org/)) and our Mobile Site (collectively the "VSI Site"), or use the services that we make available via the VSI Site from time to time (the "Services"). Our Services may include offering you the opportunity to post information, quotes, comments, data, text, graphics and other materials on the VSI Site ("User Content"), become a registered user, purchase products via the VSI Site, or use our Mobile Apps. By visiting the VSI Site or using the Services, you accept the terms of this Privacy Policy.
 
-  1. I. General Information
-  2. II. Personal Information We Collect  
+  * [Safe Harbor Certification](javascript:)
+  * [The Information We Collect](javascript:)
+  * [Personal Information](javascript:)
+  * [Non-Personal Information](javascript:)
+  * [Cookies and Other Tracking Technologies](javascript:)
+  * [How We Use Your Information](javascript:)
+  * [Sharing Your Information](javascript:)
+  * [User Content](javascript:)
+  * [Advertising](javascript:)
+  * [Opt-Out](javascript:)
+  * [Security](javascript:)
+  * [Accessing and Correcting Personal information](javascript:)
+  * [Children](javascript:)
+  * [Changes to Privacy Policy](javascript:)
+  * [Privacy Practices of Third Parties](javascript:)
+  * [Governing Law](javascript:)
+  * [Important Notice to Non-U.S. Residents/Safe Harbor Certification](javascript:)
+  * [California Privacy Rights](javascript:)
+  * [Contact Us](javascript:)
 
-  3. III. Aggregate Information
-  4. IV. Cookies and Other Tracking Information 
-  5. V. How We Use and Share Personal Information
-  6. VI. Privacy Preferences/Opt-Out
-  7. VII. Security
-  8. VIII. Children's Privacy
-  9. IX. Changes to Privacy Policy
-  10. X. Third Party Websites
-  11. XI. Miscellaneous
-  12. XII. Contact Information
-  13. XIII. Your California Privacy Rights
 
 
+### Privacy Policy Details
 
-* * *
+### I. Safe Harbor Certification
 
-### I. General Information
+In light of the international nature of our business, The Vitamin Shoppe complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. For more information about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>.   
+Back to Top
 
-This website, and the various content, features and services offered on this website, however accessed and/or used, whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us or made available by us (collectively, the "Site"), is owned and/or operated by VS Direct Inc. and Vitamin Shoppe Industries, Inc. (collectively, "The Vitamin Shoppe," "we," "us," "our" or similar pronoun). The Vitamin Shoppe is committed to respecting your online privacy and recognizes your need for appropriate protection and management of information you share with us. The Vitamin Shoppe has established this privacy and security policy ("Privacy Policy") to let you know what information we may collect from you on the Site and how we may use and share that information. Please take a moment to review the terms of our Privacy Policy. By using the Site, you agree to accept the terms of our Privacy Policy. Except as expressly provided herein, this Privacy Policy applies only to information that we collect on the Site and does not apply to information which we may collect by other means.
+### II. The Information We Collect
+
+The Vitamin Shoppe collects the following types of information via the VSI Site directly and indirectly through our service providers and advertising partners ("Service Providers").
 
 Back to Top
 
-### II. Personal Information; Changes to Personal Information
+### III. Personal Information
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, first and last name, home or other physical address, telephone number, e-mail address, credit card information.
+Personal Information means any information that may be used to identify a natural person. Generally, you may visit and browse the VSI Site without revealing any of your Personal Information. When you use the Services, you may be required to provide Personal Information. For example, if you subscribe to a mailing list, participate in special offers, sweepstakes or other promotions, join our loyalty program, send questions or comments to us via e-mail, post User Content on the VSI Site, our Facebook page or other social media site, or purchase products via the VSI Site, we will collect Personal Information which will be used to fulfill your order and for other purposes consistent with this Privacy Policy. If you visit the VSI Site, or register on the VSI Site, through Facebook Connect or another social media website, we may also receive certain Personal Information from those social media sites. From time to time we may collect or purchase demographic information (such as gender or age) or information about your interests and preferences. If we link any demographic or preferences information to your Personal Information, then all such information will be treated as Personal Information under this Privacy Policy.
 
-In general, you can visit the Site without telling us who you are or revealing any Personal Information about yourself. However, in order to make a purchase on the Site, we require you to register for an account and provide Personal Information. Moreover, other features or services may require you to provide Personal Information. For example, we may collect certain Personal Information if you choose to subscribe to a mailing list, participate in special offers, sweepstakes or other promotions, participate in our loyalty program or send questions or comments to us via e-mail. Of course, should you purchase any products on the Site, we will collect Personal Information from you, which we will use to fulfill your order and for other purposes consistent with this Privacy Policy. Depending on how you use the Site, we may also collect Personal Information if you include Personal Information in any content you upload to the Site, e.g. as part of a product review, by posting to our Facebook page or other social media site, or as part of a post in a chat room. We will also collect Personal Information from you where you voluntarily provide it to us, including where you submit a question to our customer service personnel or where you submit a job application through our Site.
-
-We may also collect certain demographic information (such as gender or age) and information about your interests and preferences ("Preferences Information"). In many cases, your providing such demographic and Preferences Information together with your Personal Information is optional. In other cases, such as online surveys, we collect this information on an anonymous basis. However, if we link any demographic or preferences information to any Personal Information, then such demographic and preferences information will be treated as Personal Information under this Privacy Policy.
-
-For some features of the Site, you may be able to submit information about other people. For example, if you wish to e-mail an article from the Site or send information about an interesting product to a friend, you will submit your friend's e-mail address, or if you make a purchase for another person on the Site and want it shipped directly to that person, you may submit the recipient's name, address and certain other contact information. The Vitamin Shoppe will use and store any such information that we collect from you about another person to carry out your request and for our own internal marketing purposes. 
+In order to use some features provided on our VSI Site, you may submit Personal Information about other individuals. For example, e-mailing an article from the VSI Site or providing product information to a friend requires an email address, and completing a purchase sent directly to a friend requires a name and address. The Vitamin Shoppe will use and store such Personal Information to fulfill your request, and for marketing and other purposes consistent with this Privacy Policy.
 
 Back to Top
 
-### III. Aggregate Information
+### IV. Non-Personal Information
 
-From time to time, The Vitamin Shoppe may collect general, non-personal, statistical information about the use of the Site, such as how many visitors visit a specific page on the Site, how long they stay on that page and which hyperlinks, if any, they "click" on. We collect this information through the use of "cookies" and other tracking technologies, which are discussed in greater detail below. We collect this information in order to determine which areas of the Site are most popular and to enhance the Site for visitors. We may group this information into aggregate visitor data in order to describe the use of the Site to our existing or potential business partners, sponsors, advertisers or other third parties, or in response to a government request. The Vitamin Shoppe may also group demographic and preferences information and responses to surveys that we collect from visitors into aggregate data for the same purposes. However, please be assured that this aggregate data will not be disclosed together with your Personal Information under these circumstances.
+**Activity Information.** We may collect your IP address, Internet service provider, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, sections of the VSI Site visited, number of links you click while on the VSI Site, search terms, operating system, website traffic and related statistics, keywords and/or other data.
 
-Back to Top
-
-### IV. Cookies and Other Tracking Technologies 
-
-Some of our web pages utilize "cookies" and other tracking technologies. A cookie is a small text file that a website transfers to an individual's hard drive. For example, we may use cookies to collect information about website activity, to maintain your shopping experience in our online store, and to make product recommendations to you. We do not save credit card information in cookies. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of the Site may not function properly or may be slower if you refuse cookies. Moreover, your ability to complete a purchase may be compromised without enabling cookies in your Internet browser.
-
-You may occasionally get cookies from our advertisers or other third parties with links on the Site (as in Section XII). We do not control these cookies. Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed, and purchases. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the computers that "serve up" webpages, automatically identify your computer by its IP address. We may link the information we record using tracking technologies to Personal Information we collect at the Site for our own internal marketing and advertising efforts. However, we do not share this Personal Information with third parties. In addition, we may use IP addresses and other tracking technologies to identify a visitor when we feel it is necessary to enforce the Site's policies, to protect the Site, our customers or others, or when we believe in good faith that the law or judicial requires it.
-
-The Site may also use a technology called "tracer tags". These may also be referred to as "Clear GIFs" or "Web Beacons". This technology is an invisible graphic on a web page that is programmed to collect non-personally identifiable information and allows us to understand which pages you visit on the Site. These tracer tags are used to help us optimize and tailor the Site for you and other Site visitors and allow us to provide personalized services and advertising content. 
-
-We may also work with third party advertising companies who may use cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. 
+**Geolocational Information.** We may collect information regarding your current location (e.g., by IP address, by latitude/longitude, or zip code) when you visit the VSI Site or use the Services. In order to provide certain Services while you are visiting our mobile site or using our Mobile Apps, we may, with your consent, automatically collect geolocational information from your mobile device, wireless carrier or third party service providers. Your mobile device also permits you to turn off the location services. Please be sure to manage your mobile device and privacy preferences for the Services on a consistent basis.
 
 Back to Top
 
-### V. How We Use and Share Personal Information
+### V. Cookies and Other Tracking Technologies
 
-**How We May Use Your Information**
+When you visit the VSI Site, cookies or other tracking technologies may be placed on your computers or mobile devices. A cookie is a small amount of information that a web server sends to your browser that stores Non-Personal Information about your account, preferences and use of the VSI Site and Services. Cookies allow us to recognize you when you return to the VSI Site and track and target your interests in order to provide a customized experience. They also help us to detect certain kinds of fraud. We use cookies to store preferences, record session information, record user-specific information on what pages are accessed or visited, alert you to new areas of the VSI Site, or customize web page content, services and advertisements based on browser type or other information that the tracking technologies provide.
 
-With respect to the Personal Information we collect, we may retain and use that information for several purposes. For example, we may use your Personal Information in order to process and fulfill any purchases you make on the Site (including any customary follow-up or confirmation communications regarding such purchases), process your catalog requests, enter you into sweepstakes you request, establish an account for you, update your loyalty account, respond to your questions, send e-mails to our mailing list subscribers, or, if you include Personal Information in any content uploaded to our Site, e.g. as part of a product review or a post in a chat room, as part of displaying or distributing such uploaded content or as part of our marketing and promotional activities. We may also use Personal Information to ensure compliance with our policies and applicable law. We may use your Personal Information in combination with any other information (whether personally identifiable or not) that we have collected from you in our stores or that we have otherwise acquired. We may also use the information that you provide as part of an application for employment as part of the application process, but we will not use such information for any other purpose. We use your e-mail address as a customer identifier on the Site. In addition, we may send you periodic communications by e-mail or regular mail, such as news updates, special promotional offers or information on our products or services which may be of interest to you. If you later wish to opt-out of receiving such promotional communications from us at any time, simply follow the instructions in Section VI.
+"Session" cookies are temporary cookies used for various reasons, such as managing page views and your shopping cart. Typically, your browser will erase session cookies once you exit the browser. "Persistent" cookies are more permanent cookies that are stored on your computer or mobile device after you exit the browser. Persistent cookies allow us to retrieve certain information that you have previously provided to us (for example, your user ID if you ask to be remembered). The VSI Site may use both session and persistent cookies.
 
-**With Whom We May Share Your Information**
+The VSI Site may also use "tracer tags," which are tiny graphic images placed on VSI Site pages or in our e-mails that allow us to determine whether you have performed certain actions. When you access these pages or open e-mail messages, the tags generate a notice of that action to us or our Service Providers. These tools allow us to measure response to our communications and improve our web pages and promotions.
 
-The Vitamin Shoppe has not and will not sell or rent your Personal Information to third parties for their direct marketing purposes. Except as disclosed below, You should never receive solicitations (i.e. “junk mail”) from unaffiliated third parties as a result of shopping or visiting The Vitamin Shoppe. However, we may disclose your Personal Information to third parties for other purposes, as set forth in this Privacy Policy. We may sometimes use other businesses to perform certain services for us, such as maintaining the Site and our mailing lists, processing orders and delivering products, sending postal mail and providing marketing assistance and data analysis. We may provide Personal Information to those businesses when that information is necessary for them to complete a requested transaction or otherwise perform their duties.
-
-As The Vitamin Shoppe develops, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that The Vitamin Shoppe or all of its assets are acquired, customer information would be one of the transferred assets.
-
-We may also share your personally identifiable and/or your non-personally identifiable information we collect, including your name, address, email address, and any transactions you conduct on our Site or offline with us with a third-party advertising partner and its service providers in order to deliver you advertising tailored to your interests when you visit certain other websites. Our advertising partner will anonymize the data we provide it so no one else will receive your personally identifiable information. You may opt-out of the tailoring of advertising based on information we collect. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partner by opting out please visit the Network Advertising Initiative by clicking http://www.networkadvertising.org/managing/opt_out.asp
-
-The Vitamin Shoppe fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities, and may in its sole discretion disclose Personal Information or other information to satisfy any law, regulation, subpoena, or government request, or in connection with litigation. The Vitamin Shoppe reserves the right to release Personal Information or other information about users who we believe are engaged in illegal activities or are otherwise in violation of our [Terms of Use Agreement](https://web.archive.org/content/en/support/help/legal_info.jsp), even without a subpoena, warrant or court order, if we believe in our sole discretion that such disclosure is necessary or appropriate to operate the Site, or to protect the rights or property of The Vitamin Shoppe, its affiliates, or any of their officers, directors, or employees, agents, third party content providers, suppliers, sponsors, or licensors. The Vitamin Shoppe also reserves the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be unlawful. 
+You may manage, block or delete cookies and other tracking technologies by adjusting your browser's security and privacy settings but, if you do so, you may not be able to use particular features of the VSI Site or the Services.
 
 Back to Top
 
-### VI. Privacy Preferences/Opt-Out
+### VI. How We Use Your Information
 
-You can change or update your Personal Information on the Site by accessing your [account page](https://web.archive.org/store/en/profile/your_account.jsp).
+We may use your Personal Information in a manner that is consistent with this Privacy Policy. If you provide Personal Information for a certain reason, we may use such Personal Information in connection with the reason it was provided. For instance, we may use Personal Information to process purchases via the VSI Site; administer, improve and provide access to the VSI Site and the Services; respond to inquiries; upload User Content that may include Personal Information; or to communicate with you by email, telephone or regular mail regarding news updates, special promotional offers, our products and services, or other information which may be of interest to you. If you later wish to opt-out of receiving such promotional communications from us at any time, simply follow the "Opt-Out" instructions.
 
-The Vitamin Shoppe also offers you control over your privacy preferences through a request submitted at our [Unsubscribe page](https://web.archive.org/store/en/support/unsubscribe_form.jsp), where you can request to not receive promotional materials from us. You may update these preferences at any time. Please allow sufficient time for your preferences to be processed.
-
-If you do not want to receive promotional e-mails from The Vitamin Shoppe, please follow one of the three options below:
-
-1\. You may opt-out from receiving promotional e-mail when registering for an account. When providing your account information, simply uncheck the box that asks whether you would like to receive e-mail updates about our new features, services and special offers, and we will not send you any promotional information via e-mail. 
-
-2\. You may unsubscribe from receiving promotional e-mails of certain types (or a company wide unsubscribe) at any time by using the Unsubscribe page. [Click here](https://web.archive.org/store/en/support/unsubscribe_form.jsp) to unsubscribe now. Please pay careful attention to the various options for unsubscribing from our promotional e-mails. You may have the option to unsubscribe from one or more special interest e-mail lists or unsubscribe from all promotional e-mails from us. 
-
-3\. When you receive a promotional e-mail from The Vitamin Shoppe, it will contain a link that allows you to stop the delivery of e-mail messages from us. If you decide to use this opt-out link, you will no longer receive special offers, valuable coupons, new product introductions and informational health and wellness newsletters from The Vitamin Shoppe; however, you will continue to receive non-promotional e-mails from us, such as order confirmations. 
+The Vitamin Shoppe may link or combine Personal Information with other personally identifiable information (such as transaction history) and NonPersonal Information that is available from our records and other sources. We may use this combined information for marketing and advertising programs, to enforce VSI Site policies, protect the VSI Site, our customers and others, and to comply with applicable law.
 
 Back to Top
 
-### VII. Security 
+### VI. Sharing Your Information
 
-The Vitamin Shoppe intends to take reasonable steps to protect the Personal Information that you share with us from unauthorized access or disclosure. When you transmit Personal Information to our servers, your information is protected by both a "firewall" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network) and industry standard SSL (secure socket layer) encryption. Unfortunately, no data transmission over the Internet or stored on a server can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
+The Vitamin Shoppe may share your Personal Information and Non-Personal Information with third parties without notice to you under certain circumstances including:
 
-If you create an account on the Site, you may be asked to choose a password for your account, in which case your online account information shall be protected by your password. We recommend that you do not disclose your password to any other person. You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account.
+**Service Providers**   
+When we engage a Service Provider to perform certain business­related functions, we only provide them with the information that they need to perform their specific function. We may also share your information with any of our parent companies, subsidiaries, or other companies under common control with us
 
-Credit card information collected by The Vitamin Shoppe is encrypted through SSL before it is transmitted over the Internet. 
+**Legal Requirements.**   
+We may disclose your information if required to do so by law, or in the good faith belief that such action or disclosure is necessary or appropriate (i) to operate the VSI Site, (ii) comply with any legal obligation, report unlawful activity, cooperate with law enforcement, or protect against legal liability, (iii) protect and defend our rights, property, personnel, suppliers, sponsors, agents or licensors, or (iv) protect the personal safety of users of the VSI Site or the public.
 
-Back to Top
+**Business Transfers**   
+We may share your information with business partners, or buy or sell businesses or assets. In the event of a corporate sale, asset sale, merger, reorganization, dissolution or similar event, Personal Information, and Non-Personal Information may be part of the assets that are transferred.
 
-### VIII. Children's Privacy 
+**Aggregated Information**   
+We may aggregate Personal Information and Non-Personal Information and provide it to our existing or potential business partners, sponsors, advertisers or other third parties, in response to a government request, or to other third parties for lawful purposes.
 
-This Site is not intended for use by children under the age of 13 and The Vitamin Shoppe does not knowingly collect or use any Personal Information from such children. If you are under the age of 13, do not submit any information to this Site. 
-
-Back to Top
-
-### IX. Changes to Privacy Policy
-
-The terms of this Privacy Policy may change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on the homepage of the Site for a reasonable period of time after such changes are made that this Privacy Policy has been updated, and by changing the "Last Updated" date at the top of this Privacy Policy. We encourage you to check this page periodically for any changes. Your continued use of the Site following the posting of changes to these terms will mean you accept those changes. If you have questions about this Privacy Policy, or believe that The Vitamin Shoppe has acted inconsistently with this Privacy Policy, please [Contact Us.](https://web.archive.org/content/en/support/contact/contact.jsp)
+Vitamin Shoppe may disclose Personal Information to third party marketers (who may combine such Personal Information with their own records, and records available from other sources), for their own direct marketing purposes, and the direct marketing purposes of other third party marketers. If you wish to opt-out of sharing your Personal Information with third party marketers for their own and third party direct marketing purposes, please[unsubscribe.](https://web.archive.org/u/unsubscribe-form.jsp)
 
 Back to Top
 
-### X. Third Party Websites
+### VIII. User Content
 
-Please note that you may have cookies placed on your computer by third party websites that refer you to the Site. Although we do not share your Personal Information with these third party websites, they may be able to link certain non-personally identifiable information we transfer to them with Personal Information they previously collected from you. Please review the privacy policies of each website you visit to better understand their privacy practices. In addition, The Vitamin Shoppe would like to inform you that anytime you click on links (including advertising banners), which take you to third party websites, you will be subject to the third parties' privacy policies.
+We are not responsible for protecting any Personal Information or User Content you post on the VSI Site or on social media web pages associated with VSI. Any Personal Information or User Content posted on the VSI Site or associates social media pages is publicly available, unprotected and may be viewed by anyone with access to the specific website.
 
-While we support the protection of our customer's privacy on the Internet, The Vitamin Shoppe expressly disclaims any and all liability for the actions of third parties, including but without limitation to actions relating to the use and/or disclosure of Personal Information by third parties. 
+User Content or Personal Information published on the VSI Site or associated social media sites may also appear in search engine results (such as Yahoo!, MSN, Google, Altavista, and other search engines) and in the cache of those search engines, in feeds and third party websites pursuant to cobranding agreements. We have no control over updating and/or removal of such User Content or Personal Information, which is the sole responsibility of the search engines, third party websites and RSS web feed resources. You agree and acknowledge that VSI is not liable for the information published in search results or by any third party website that carries any User Content or Personal Information published on the VSI Site or associated social media sites. We strongly discourage posting any Personal Information or User Content that you do not want others to see or use.
 
-Back to Top
-
-### XI. Miscellaneous
-
-This Privacy Policy and the privacy practices of The Vitamin Shoppe will be subject exclusively to the laws of the State of New Jersey within the United States. The Vitamin Shoppe makes no representation that this Privacy Policy and our practices comply with the laws of any other country or jurisdiction. 
-
-This Site is designed for residents of the United States. Visitors who use the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. If you reside outside of the United States, by using our Site, you understand that we will collect certain information from you that you voluntarily submit to us and you consent to the transfer, processing, storage and use of your information to and in the United States. 
+The Vitamin Shoppe reserves the right, but has no obligation, to monitor User Content and Personal Information posted on the VSI Site. You acknowledge that by providing you with the ability to post, view and distribute User Content and Personal Information on the VSI Site, VSI is merely acting as a passive conduit for such distribution and is not undertaking any obligation or liability relating thereto. We reserve the right, but have no obligation, to block or remove communications, User Content, Personal Information or other submissions to the VSI Site, for any reason or no reason, in our sole and absolute discretion.
 
 Back to Top
 
-### XII. Contact Us 
+### IX. Advertising
 
-If this Privacy Policy does not answer your questions about our data practices, please contact us.
-
-Back to Top
-
-### XIII. Your California Privacy Rights 
-
-California Civil Code Section 1798.83 permits customers of The Vitamin Shoppe who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [customercare@vitaminshoppe.com.](mailto:customercare@vitaminshoppe.com)
+The Vitamin Shoppe may, directly or indirectly through Service Providers, serve personalized advertisements for VSI products, services and programs when you visit the VSI Site and other sites. VSI and Service Providers may use Personal Information and Non­Personal Information collected during your visits to the VSI Site to select advertisements, perform, or have performed, cookie synchs, and otherwise combine and compare your information with other databases for VSI's commercial purposes. You may opt­out of the tailoring of advertising based on information we collect. To learn more about the use of this information, or to choose not to have this information used by our third­party advertising partners by opting out, please visit the Network Advertising Initiative by clicking [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Back to Top
 
-©2012 VS Direct Inc. All rights reserved.
+### X. Opt-Out
+
+The Vitamin Shoppe offers you control over your privacy preferences regarding email. You may update these preferences at any time. Please allow sufficient time for your preferences to be processed.
+
+  * You may opt-out of receiving promotional emails from us regarding new features, services and special offers when registering for an account by unchecking the box that asks whether you would like to receive e-mail updates.
+  * You may unsubscribe from receiving promotional e-mails of certain types (or a company-wide unsubscribe) at any time by using the Unsubscribe page on the VSI Site. [Click here.](https://web.archive.org/u/unsubscribe-form.jsp) to unsubscribe. Please pay careful attention to the various options for unsubscribing. You may have the option to unsubscribe from one or more special interest lists or unsubscribe from all promotional e-mails.
+  * When you receive a promotional e-mail from The Vitamin Shoppe, it will contain a link that allows you to unsubscribe. If you decide to use this optout link, you will no longer receive special offers, valuable coupons, new product introductions and informational health and wellness newsletters from The Vitamin Shoppe via email or direct mail; however, you will continue to receive non-promotional e-mails and direct mail from us, such as order confirmations.
+  * You may opt-out from promotional emails from us by calling Customer Care, or visiting a VSI retail location and advising an associate that you wish to opt-out.
+
+
+
+Domestic Callers: (866) 293-3367   
+International Callers: (201) 868-5959
+
+Back to Top
+
+### XI. Security
+
+Sockets Layer (SSL) encryption. Unfortunately, no data transmission over the Internet or stored on a server can be guaranteed to be 100% secure. As a result, we cannot guarantee or warrant the security of any information you disclose or transmit to us online, and The Vitamin Shoppe is not responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
+
+When creating an account on our VSI Site, you are required to establish a password. To maximize your level of protection, you should choose a password with at least 6 characters, using a combination of letters and numbers. We recommend that you not disclose your password to any other person. You are solely responsible for maintaining the secrecy of your password and account information, and for all activities that occur under your password or account.
+
+Credit card and other financial information that is necessary to complete purchases on the VSI Site is collected and processed by a Service Provider and encrypted using SSL before transmitted over the Internet.
+
+Back to Top
+
+### XII. Accessing and Correcting Personal Information
+
+You can access and correct your Personal Information by logging into your account and accessing the "My Account" section of the VSI Site. If you wish to cancel your account, please click here [to unsubscribe](https://web.archive.org/u/unsubscribe-form.jsp). If you also wish to opt-out of receiving emails from us after your account is cancelled, please follow the steps described under "Opt-Out." We may retain your Personal Information and Non-Personal Information indefinitely after termination of your account for use in compliance with this Privacy Policy.
+
+Back to Top
+
+### XIII. Children
+
+The VSI Site is not intended for use by children under the age of 13. The Vitamin Shoppe does not knowingly collect or use any Personal Information from such children. If you are under the age of 13, do not submit any information to this VSI Site. If we learn that we collected Personal Information from children under the age of 13, we will take steps to delete that information as soon as possible.
+
+Back to Top
+
+### XIV. Changes to Privacy Policy
+
+The Vitamin Shoppe may, in its sole discretion, change this Privacy Policy from time to time without prior notice. We will notify you of any material changes to this Privacy Policy by changing the "Last Updated" date at the top of this Privacy Policy. If you visit the VSI Site or use the Services after a change to this Privacy Policy is posted on the VSI Site, you will be bound by such change. Please refer back to this Privacy Policy on a regular basis. If you object to any of the terms in a revised Privacy Policy, you have the right to cease using the VSI Site and the Services. If you have questions about this Privacy Policy, or believe that The Vitamin Shoppe has acted inconsistently with this Privacy Policy, please [Contact Us](https://web.archive.org/u/contact-us.jsp).
+
+Back to Top
+
+### XV. Privacy Practives of Third Parties
+
+The VSI Site may contain links to third party websites, products, and services, including social media sites such as Facebook and Twitter. These third party websites may place cookies or other tracking technologies on your computer or personal device. Information collected by these third party websites is governed by their privacy practices and is not subject to this Privacy Policy. We are not responsible for how these third party websites collect, use, disclose, distribute, or maintain Personal and Non Personal Information. If you visit a third party website linked from the VSI Site, you do so at your own risk. We encourage you to learn about the privacy practices of those third parties prior to providing them with an information or taking advantage of an offer or promotion. The Vitamin Shoppe expressly disclaims any and all liability for the actions of third parties, including but without limitation to actions relating to the use and/or disclosure of Personal Information by third parties.
+
+Back to Top
+
+### XVI. Governing Law
+
+This Privacy Policy and the privacy practices of The Vitamin Shoppe will be subject exclusively to the laws of the State of New Jersey, United States
+
+Back to Top
+
+### XVII. Important Notice to Non-U.S. Residents/Safe Harbor Certification
+
+The Vitamin Shoppe abides by the principles set forth in the U.S.­EU Safe Harbor Framework and the U.S.­Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. However, it is important to note that the servers that store the information are operated in the United States or at one of our other data centers located outside the United States. If you are located outside of the United States, please be aware that any information provided to us may be transferred to the United States. By visiting the VSI Site and/or using our Services, you consent to this transfer.
+
+In order to comply with the Safe Harbor framework, The Vitamin Shoppe commits to the resolution of complaints about your privacy and our collection or use of the information. We have committed to resolve any complaints by European Union citizens relating to this Privacy Policy, which cannot be resolved directly with our company, through the Council of Better Business Bureaus, Inc.?s Safe Harbor Privacy Dispute Resolution Procedures.
+
+If you have any questions regarding this Privacy Policy, please contact us as set forth in the ?How to Contact Us? section below. We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe­harbor­complaints for more information and to file a complaint.
+
+Back to Top
+
+### XVIII. California Privacy Rights
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to obtain certain information about the types of Personal Information that companies with whom they have an established business relationship (and that are not otherwise exempt) have shared with third parties for direct marketing purposes during the preceding calendar year, including the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To submit a request pursuant to Section 1798.83, please contact Vitamin Shoppe via our [feedback form](https://web.archive.org/u/feedback.jsp).
+
+Back to Top
+
+### XVII. Contact Us
+
+If you have any questions regarding this Privacy Policy or our privacy practices, you may email us at [customercare@vitaminshoppe.com](mailto:customercare@vitaminshoppe.com) with "PRIVACY POLICY" in the subject line, or send us a letter addressed to: The Vitamin Shoppe, Customer Care Department, 2101 91st Street, North Bergen, NJ 07047.
+
+©2014 VS Direct Inc. All rights reserved.
+
+Back to Top
+
+Back to Top
