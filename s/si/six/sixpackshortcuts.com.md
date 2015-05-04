@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181149id_/http%3A//sixpackshortcuts.com/clean/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504030538id_/http%3A//sixpackshortcuts.com/desktop/sps/main/privacypolicy) for the most accurate reproduction.*
 
 # How To Get Six Pack Abs - Six Pack Shortcuts
 
