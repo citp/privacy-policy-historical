@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wisecleaner.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125649id_/http%3A//www.wisecleaner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisecleaner.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504132136id_/http%3A//www.wisecleaner.com/privacy.html) for the most accurate reproduction.*
 
-# WiseCleaner - Privacy Policy
+# WiseCleaner - Contact us
+
+## WiseCleaner Privacy Statement
 
 WiseCleaner is committed to protecting your privacy. Please read the WiseCleaner Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular WiseCleaner sites and services that you may use. This WiseCleaner Online privacy Statement applies to data collected by WiseCleaner through the majority of its Web sites and services, as well as its offline product support services. It does not apply to those WiseCleaner sites, services and products that do not display or link to this statement or that have their own privacy statements. 
 
