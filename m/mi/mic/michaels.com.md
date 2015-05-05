@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229000443id_/http%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505170139id_/http%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
