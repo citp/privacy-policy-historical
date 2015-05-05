@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ap.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231171416id_/http%3A//ap.org/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ap.org privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505232750id_/http%3A//ap.org/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
