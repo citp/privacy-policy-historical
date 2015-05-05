@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondstep.org privacy policy that was archived on 2014-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140324004859id_/http%3A//secondstep.org/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondstep.org privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505030406id_/http%3A//www.secondstep.org/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Second Step > Home > Privacy Policy
 
