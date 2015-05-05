@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sleepapnea-treatments.net privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429111809id_/http%3A//sleepapnea-treatments.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepapnea-treatments.net privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505042233id_/http%3A//sleepapnea-treatments.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy sleep apnea treatments blog | Sleep apnea treatments
+# Privacy policy sleep apnea treatments blog | Healthy Life Without Sleep Problems
 
 The privacy of **[sleep apnea treatments](http://sleepapnea-treatments.net/ "Sleep apnea treatments")** website visitors is important to us. We recognize that privacy of your personal information is important.
 
