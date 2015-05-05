@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6scan.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921135338id_/http%3A//6scan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6scan.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505073635id_/http%3A//6scan.com/privacy) for the most accurate reproduction.*
 
 # 6Scan – Privacy Policy
 
@@ -31,9 +31,3 @@ If 6Scan, or substantially all of its assets were acquired, or in the unlikely e
 
 **Privacy Policy Changes**  
 Although most changes are likely to be minor, 6Scan may change its Privacy Policy from time to time, and in 6Scan’s sole discretion. 6Scan encourages visitors to frequently check this page for any changes to its Privacy Policy. If you use 6Scan’s site protection services, you should also check your dashboard for alerts to these changes. Your continued use of this site and/or site protection services after any change in this Privacy Policy will constitute your acceptance of such change. (This policy is based in part on Automattic’s Privacy Policy, kindly published under the Creative Commons Sharealike license.)
-
-#### Powerful Automated Website Protection
-
-##### Get a FREE Scan of Your Site
-
-Enter your web address for a real time scan of your site.
