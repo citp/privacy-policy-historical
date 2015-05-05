@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costhelper.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101113147id_/http%3A//www.costhelper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costhelper.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506012635id_/http%3A//www.costhelper.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
