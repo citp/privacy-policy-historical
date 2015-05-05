@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the apppicker.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013829id_/http%3A//www.apppicker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apppicker.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505223949id_/http%3A//apppicker.com/privacy.html) for the most accurate reproduction.*
 
-# AppPicker privacy policy
+# appPicker privacy policy
 
 This document was last updated on 02/25/10.
 
 ## ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS
 
-Dutz Technology, doing business as AppPicker, is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing AppPicker.com, you acknowledge and fully understand AppPicker’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Dutz Technology, doing business as appPicker, is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing appPicker.com, you acknowledge and fully understand appPicker’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 ## PARTICIPATING MERCHANT POLICIES
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in AppPicker services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in appPicker services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
 ## INFORMATION WE COLLECT AND HOW WE USE IT
 
-AppPicker collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+appPicker collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
   1. ## Web Server Logs.
 
@@ -31,11 +31,11 @@ When you visit our Website, we may track information to administer the site and 
 
 ## Use of Cookies
 
-AppPicker may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
+appPicker may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
 
-AppPicker reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into a site that relies on third-party cookies).
+appPicker reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into a site that relies on third-party cookies).
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
@@ -55,9 +55,9 @@ We will not disclose personally identifiable information we collect from you to 
 
 ## USE OF WEB BEACONS OR GIF FILES
 
-AppPicker.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow AppPicker to count users who have visited those pages and to deliver co-branded services. AppPicker may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+appPicker.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow appPicker to count users who have visited those pages and to deliver co-branded services. appPicker may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. AppPicker prohibits Web beacons from being used to collect or access your personal information.
+Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. appPicker prohibits Web beacons from being used to collect or access your personal information.
 
 ## ACCESSING WEB ACCOUNT INFORMATION
 
@@ -65,14 +65,14 @@ We will provide you with the means to ensure that personally identifiable inform
 
 ## CHANGES TO THIS STATEMENT
 
-AppPicker has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+appPicker has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 ## CONTACTING US
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. [support@apppicker.com](mailto:support@apppicker.com) or send your comments to:  
-AppPicker
+appPicker
 
 ## Attention: Privacy Statement Personnel
 
 221 King St. Suite 332 San Francisco, CA 94107  
-AppPicker will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+appPicker will use commercially reasonable efforts to promptly respond and resolve any problem or question.
