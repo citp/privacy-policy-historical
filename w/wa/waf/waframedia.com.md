@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waframedia.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129235014id_/http%3A//waframedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waframedia.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505031051id_/http%3A//www.waframedia.com/privacy-policy) for the most accurate reproduction.*
 
-# countries_placements-100-Egypt-catfish-2014-09-16 | Waframedia
+# Privacy policy | Wafra media
 
 > YOU ACKNOWLEDGE AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE GENERAL TERMS AND CONDITIONS BETWEEN YOU AND THE COMPANY AND THIS SITE (INCLUDING LIMITATIONS ON DAMAGES).
 
