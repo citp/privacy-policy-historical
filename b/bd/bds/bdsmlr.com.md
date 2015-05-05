@@ -1,25 +1,59 @@
-> *The following text is extracted and transformed from the bdsmlr.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220203145id_/http%3A//bdsmlr.com/Terms-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdsmlr.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505180057id_/http%3A//bdsmlr.com/privacy) for the most accurate reproduction.*
 
-# Bdsmlr Privacy - Bdsmlr - Share your favorite BDSM images online!
+# Privacy on bdsmlr
 
-Thank you for using Bdsmlr! This page helps you to understand our policies.
+This Privacy Policy governs the manner in which bdsmlr collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.bdsmlr.com](http://www.bdsmlr.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by bdsmlr.
 
-### What information do we collect?
+**Personal identification information**
 
-We collect information in two ways:
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-#### 1\. When you give it to us or give us permission to obtain it.
+**Non-personal identification information**
 
-When you sign up for or use our products, you voluntarily give us certain information. This can include your name, profile photo, pins, comments, likes, email address you used to sign up, and any other information you provide us. If you're using Bdsmlr on your mobile device, you can also choose to provide us with location data.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-You also may give us permission to access your information in other services. For example, you may link your Facebook or Twitter account to Bdsmlr, which allows us to obtain information from those accounts (e.g., your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are.
+**Web browser cookies**
 
-#### 2\. We get technical information when you use our products.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-These days, whenever you use a website, mobile application, or other Internet service, there's certain information that almost always gets created and recorded in an automated way. The same is true when you use our products, and here are some of the types of information we collect in this way.
+**How we use collected information**
 
-Log Data. When you use Bdsmlr, our servers automatically record information about your interaction with our products ("log data"), including information that your browser sends whenever you visit a website or your mobile app sends when you use it to access Bdsmlr. This log data may include your Internet Protocol address, the address of the web page you were visiting before you came to Bdsmlr, browser type and settings, the date and time of your request, and how you used Bdsmlr.
+bdsmlr may collect and use Users personal information for the following purposes:
 
-Depending on how you're accessing our products, we may use "cookies" (a small text file sent by your computer each time you visit our website, unique to your Bdsmlr account or your browser), or similar technologies to record log data. When we use cookies, we may use "session" cookies (that last until you close your browser) or "persistent" cookies (that last until you or your browser delete them). For example, we may use cookies to store your language preferences or other Bdsmlr settings so you don't have to set them up every time you visit Bdsmlr.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-Device Information. In addition to log data, we may also collect information about the device you're using Bdsmlr on, including what type of device it is, what operating system you're using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you're using and its settings. For example, different types of information are available depending on whether you're using a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
+**How we protect your information**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+**Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+**Third party websites**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+**Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Compliance with children's online privacy protection act**
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+
+**Changes to this privacy policy**
+
+bdsmlr has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.bdsmlr.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+support at bdsmlr.com
+
+This document was last updated on May 4, 2015
