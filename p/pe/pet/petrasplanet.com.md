@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petrasplanet.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103110410id_/http%3A//www.petrasplanet.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrasplanet.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505184825id_/http%3A//www.petrasplanet.com/site/privacy) for the most accurate reproduction.*
 
 # Discover Petra’s Planet and enjoy the benefits of Membership! | Petra’s Planet
 
@@ -8,7 +8,7 @@ This privacy statement describes how Dramaforum Oy (“Dramaforum”) collects a
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us through our [contact page](https://web.archive.org/contact-us)
 
-## 1\. PRIVO®'s Privacy Assurance Program 
+## 1\. PRIVO® Privacy Assurance Program 
 
 Dramaforum Transmedia is a licensee of the PRIVO® Privacy Assurance  Program (“the Program”).As a participating member in the Program, Dramaforum Transmedia adheres to the strict information collection, use and disclosure requirements. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The certification seal posted on this page indicates that Dramaforum Transmedia has established COPPA compliant privacy practices and has agreed to submit to PRIVO's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at +358 40 534 8157 or [our contact page](https://web.archive.org/contact-us). If you have further concerns after you have contacted us, you can contact PRIVO directly at privacy@privo.com 
 
@@ -30,15 +30,19 @@ Petra's Planet (the "Service") End User Database
 
 ## 4\. Collected Information 
 
-Petra's Planet's End User Database contains the following information: User Data Player's Login Name and Password Parent's Email Address Player's Avatar Name (Login Name and Avatar Name are the same,  the Avatar Name cannot be seen publicly without parental consent.) Billing Information such as credit card
+Petra's Planet's End User Database contains the following information: 
+
+  * User Data
+  * Player's Login Name and Password (the Login Name cannot be seen publicly) 
+  * Player's Avatar Name
+  * Parent's Email Address 
+  * Billing Information such as credit card
+
+
 
 ## 5\. Purpose of Collection 
 
 The personal information is collected for purposes of maintaining the client relationship and for developing the Service. The personal information may also be used for communication purposes with clients and for sending you newsletters and marketing communications. If you wish to subscribe to our newsletter(s), we will use email address to send the newsletter to you. An option to subscribe is available on the Parents section from Petra's Planet Web site.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us through our [contact page](http://petrasplanet.com/contact-us)
-
-Parent email collection when registering to play Petra's Planet, will be used to confirm the registration and will also be 
-
-required for account administration. 
 
 Payment information is not stored.
 
