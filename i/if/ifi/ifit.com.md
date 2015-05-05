@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703034021id_/https%3A//www.ifit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506001917id_/http%3A//www.ifit.com/privacypolicy) for the most accurate reproduction.*
 
 # iFit Fitness App | Privacy Policy
 
@@ -108,4 +108,4 @@ Logan, Utah 84321
 [info@iFit.com](mailto:info@iFit.com)  
 
 
-This document was last updated on July 6, 2012
+This document was last updated on July 6, 2012.
