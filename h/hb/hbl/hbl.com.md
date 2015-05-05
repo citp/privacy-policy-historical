@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbl.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301095913id_/http%3A//hbl.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbl.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505185633id_/http%3A//www.hbl.com/privacy-policy.php) for the most accurate reproduction.*
 
 # HBL
 
