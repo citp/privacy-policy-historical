@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakersfieldcalifornian.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120164431id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfieldcalifornian.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505233841id_/http%3A//www.bakersfield.com/privacy_policy) for the most accurate reproduction.*
 
 # Bakersfield.com - Privacy Policy
 
