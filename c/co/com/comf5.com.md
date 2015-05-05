@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comf5.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130230350id_/http%3A//www.comf5.com/docs/comf5_privacy_policy-v5.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comf5.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505104442id_/http%3A//www.comf5.com/docs/comf5_privacy_policy-v5.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
