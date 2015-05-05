@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxnet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110855id_/http%3A//www.fxnet.com/media/documents/fxnet-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxnet.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505092447id_/http%3A//fxnet.com/media/documents/fxnet-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
