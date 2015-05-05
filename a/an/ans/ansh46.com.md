@@ -1,106 +1,106 @@
-> *The following text is extracted and transformed from the ansh46.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007083517id_/http%3A//www.ansh46.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansh46.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505214114id_/http%3A//www.ansh46.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ANSH46 Designer Clothing Store
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=277)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=711)
 
-€1,295 
+€288 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=276)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=710)
 
-€759 
+€628 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=275)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=709)
 
-€845 
+€288 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=274)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=708)
 
-€845 
+€379 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=273)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=707)
 
-€47 
+€318 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=272)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=706)
 
-€47 
+€468 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=271)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=705)
 
-€1,025 
+€265 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=270)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=704)
 
-€415 
+€685 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=269)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=703)
 
-€655 
+€238 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=268)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=702)
 
-€1,575 
+€355 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=267)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=699)
 
-€345 
+€253 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=266)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=698)
 
-€655 
+€318 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=265)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=697)
 
-€225 
+€748 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=264)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=696)
 
-€545 
+€329 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=262)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=695)
 
-€156 
+€968 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=258)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=694)
 
-€465 
+€130 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=257)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=693)
 
-€759 
+€143 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=256)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=692)
 
-€759 
+€299 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=255)
-
-€655 
-
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=254)
-
-€324 
-
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=253)
-
-€495 
-
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=252)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=690)
 
 €165 
 
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=251)
-
-€765 
-
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=250)
-
-€254 
-
-[ ](http://www.ansh46.com/index.php?route=product/product&product_id=249)
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=689)
 
 €189 
+
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=688)
+
+€594 
+
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=687)
+
+€218 
+
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=686)
+
+€645 
+
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=685)
+
+€585 
+
+[ ](http://www.ansh46.com/index.php?route=product/product&product_id=684)
+
+€236 
 
 PRIVACY AND SECURITY
 
