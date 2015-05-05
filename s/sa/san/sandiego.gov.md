@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105204707id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505211319id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Notice | City of San Diego
 
@@ -24,7 +24,7 @@ Except as provided below, the City of San Diego does not create individual profi
 
 The City of San Diego does not collect information for commercial marketing from its Web site. The City of San Diego will not send you unsolicited email regarding any commercial offers or advertisements at any time.
 
-If a user chooses to provide the City of San Diego with personal identifying information, such as sending an e-mail to a City of San Diego employee or by filling out and submitting an online application/submission form (that may require submission of personal identifying information) located on the City of San Diego's Web site, the City of San Diego may use that information to respond to the user's message, to assist in obtaining information the user may have requested, or use the information in the manner contemplated by the online submission form. The City of San Diego treats e-mails and submitted online forms the same way it treats letters to a Councilmember or a City department. As further stated below, an online application/submission form containing personal identifying information will not be disclosed except as permitted by law.
+If a user chooses to provide the City of San Diego with personal identifying information, such as sending an email to a City of San Diego employee or by filling out and submitting an online application/submission form (that may require submission of personal identifying information) located on the City of San Diego's Web site, the City of San Diego may use that information to respond to the user's message, to assist in obtaining information the user may have requested, or use the information in the manner contemplated by the online submission form. The City of San Diego treats emails and submitted online forms the same way it treats letters to a Councilmember or a City department. As further stated below, an online application/submission form containing personal identifying information will not be disclosed except as permitted by law.
 
 In order to provide electronic commerce capabilities, the name, address and payment information (if applicable) that the user might provide when using this Web site may be collected, processed and disclosed to complete an online transaction and for record-keeping for such activities as billing, permits, licenses and other business-related purposes.
 
@@ -36,7 +36,7 @@ Notwithstanding the above provisions of this section, information submitted to t
 
 Any information collected by any City of San Diego website from children 13 and under are subject to the same guidelines of the City’s general privacy policy. In addition, for any information collected by or for any child under 13, the following guidelines will be followed:
 
-  * Information that could be collected from or for a minor includes, but not necessarily limited to: name, address, telephone number, e-mail address, school, hobbies and any question or comment submitted.
+  * Information that could be collected from or for a minor includes, but not necessarily limited to: name, address, telephone number, email address, school, hobbies and any question or comment submitted.
   * Parental Consent. [Parent includes legal guardian.] 
     * Parental consent will be obtained before collecting, using or disclosing personal information about a child.
     * In the event that the City changes its practices of collecting, using or disclosing any information in a substantive way, new parental consent will be obtained. An example of a change may include, what material is collected, how the information may be used, or third party access to that information.
