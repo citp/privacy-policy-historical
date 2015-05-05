@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecareer.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223041511id_/http%3A//www.livecareer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecareer.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505085120id_/http%3A//www.livecareer.com/privacy-policy) for the most accurate reproduction.*
 
 # Policy | Privacy Policy | LiveCareer
 
@@ -56,7 +56,7 @@ Effective Date: May 08, 2014
 
 1\. Scope and Consent
 
-LiveCareer is an online destination that provides resume and cover letter building, career tests, salary information and other products and services for individuals seeking to further their career! We do not guarantee employment for any user of this Site. Nor do we guarantee that any employer will find qualified candidates through this Site. When you use the Site, you are contracting with LiveCareer Limited 51 East 42nd Street, New York, N.Y. 10017. If you reside outside of the United States LiveCareer is your data controller. By using the Site, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy.
+LiveCareer is an online destination that provides resume and cover letter building, career tests, salary information and other products and services for individuals seeking to further their career! We do not guarantee employment for any user of this Site. Nor do we guarantee that any employer will find qualified candidates through this Site. When you use the Site, you are contracting with LiveCareer Limited c/o LiveCareer Puerto Rico LLC, Caribe Plaza, 6th Floor, Palmeras Street. #53 San Juan, PR 00901. If you reside outside of the United States LiveCareer is your data controller. By using the Site, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy.
 
 2\. Information We Collect
 
@@ -190,4 +190,4 @@ From time to time, we may update this Privacy Policy. You agree that we may noti
 
 15\. Contact Us
 
-If your questions are not answered online, you may e-mail us at [privacy@livecareer.com](mailto:privacy@livecareer.com), or write to us at LiveCareer Limited, c/o LiveCareer NA, Inc., 51 East 42nd Street, New York, N.Y. 10017, or using the [contact us form](https://web.archive.org/contact-us) on the Site.
+If your questions are not answered online, you may e-mail us at [privacy@livecareer.com](mailto:privacy@livecareer.com), or write to us at LiveCareer Limited c/o LiveCareer Puerto Rico LLC, Caribe Plaza, 6th Floor, Palmeras Street. #53 San Juan, PR 00901, or using the [contact us form](https://web.archive.org/contact-us) on the Site.
