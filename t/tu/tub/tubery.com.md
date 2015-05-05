@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubery.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230145543id_/http%3A//tubery.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubery.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505055157id_/http%3A//www.tubery.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tubery
 
@@ -22,6 +22,6 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.tubery.com/contact).
+Should you have other questions or concerns about these privacy policies, please [contact us](http://tubery.com/contact).
 
 Opt Out of Interest-Based Advertising: <http://www.networkadvertising.org/optout_nonppii.asp>
