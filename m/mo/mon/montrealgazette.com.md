@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montrealgazette.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231225412id_/http%3A//www.postmedia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montrealgazette.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505053636id_/http%3A//www.postmedia.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Postmedia Network Inc.
 
