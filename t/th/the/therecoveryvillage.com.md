@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therecoveryvillage.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226015359id_/http%3A//www.therecoveryvillage.com/wp-content/themes/e-trv/misc/Notice%2520of%2520Privacy%2520Practice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therecoveryvillage.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506015211id_/http%3A//www.therecoveryvillage.com/wp-content/uploads/2014/12/TRV-Notice-of-Privacy-Practice.pdf) for the most accurate reproduction.*
 
 # 
 
