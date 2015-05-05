@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfcoastclaimsfacility.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225234414id_/http%3A//www.gulfcoastclaimsfacility.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfcoastclaimsfacility.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505144412id_/http%3A//www.gulfcoastclaimsfacility.com/privacy.pdf) for the most accurate reproduction.*
 
 # Rev. 1 April 9, 2007 Rev. 2 July 17, 2008 Rev. 3 September 30, 2009 Rev. 4 April 27, 2010 GCG PRIVACY POLICY I. PROTECTION OF SOCIAL SECURITY NUMBERS AND OTHER PERSONAL INFORMATION
 
