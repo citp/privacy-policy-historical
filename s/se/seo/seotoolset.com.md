@@ -1,64 +1,48 @@
-> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701084541id_/http%3A//www.seotoolset.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotoolset.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505073313id_/http%3A//www.seotoolset.com/privacy) for the most accurate reproduction.*
 
-# SEOToolSet - Our Privacy Statement
+# SEOToolSet Privacy Statement
 
-* * *
+## Our Commitment to Privacy
 
-## Our Commitment To Privacy
+Your privacy is important to us. This notice explains our online information practices and the choices you can make about how your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-Your privacy is important to us. To allow you granular control of your personal privacy settings, this notice explains our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our hom page and at every point where personally identifiable information may be requested. 
+By visiting SEOToolSet.com, you are accepting the practices described throughout this Privacy Statement.
 
 ## The Information We Collect
 
-* * *
-
-This notice applies to all information collected or submitted on the SEOToolSet® website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the SEOToolSet® website and subdomains. On some pages, you can use online forms to order products, make requests, and register to receive materials. The types of personal information collected at these pages may include:
 
   * Name
   * Address
   * Email address
   * Phone number
-  * Credit/debit card Information ONLY if you are subscribing / purchasing online 
-  * Additional info appropriate to projects being managed or serviced be SEOToolSet.com®
+  * Credit/debit card information (only if you are subscribing/purchasing online)
+  * Additional information appropriate to projects being managed or serviced by SEOToolSet.com
 
 
 
 ## The Way We Use Information
 
-* * *
+We use the information you provide about yourself when registering, making a request, or placing an order only to complete that request. We do not share this information with outside parties except to the extent necessary to complete that order. When information that is descriptive of a website is provided, we use that information as project data unique to that website only. We use your email address to respond to your email inquiries, and to provide project and service news, notifications and updates. Email addresses are never shared with outside parties.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We use information provided that is descriptive of a website as project data unique to that website. We use return email addresses to answer the email we receive and to provide reasonable notification of our project, service, or product news and updates. Such addresses are not shared with outside parties.
+We use non-identifying and aggregate information internally to improve our website design. In some cases, we may also share select non-identifying or aggregate information with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form. **We will not disclose any personally identifiable information that could be used to identify those individuals**. 
 
-You can register with our website if you would like to receive our newsletter as well as updates on our products and services. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to those described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+## Our Commitment to Data Security
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-## Our Commitment To Data Security
+## Our Commitment to Children’s Privacy
 
-* * *
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we know are under 13, and no part of our website is structured to attract anyone under 13.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+## What Information Can I Access Or Correct?
 
-## Our Commitment To Children's Privacy
+SEOToolSet subscribers can access the personally identifiable information collected during the SEOToolSet registration process by [logging into our tools](https://toolsv6.seotoolset.com/accounts/register/login/?next=/ "SEOToolSet Login Page") and visiting the update page appropriate to that information. Note: SEOToolSet login is mandatory. We use this procedure to better safeguard your information.
 
-* * *
+You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will always take reasonable steps to verify your identity before granting access or making corrections.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we know are under 13, and no part of our website is structured to attract anyone under 13. 
+## How to Contact Us
 
-## How You Can Access Or Correct Your Information
-
-* * *
-
-You can access your personally identifiable information that we collect online and maintain by logging into our tools and visiting the update page appropriate to that information. NOTE: Login is mandatory. We use this procedure to better safeguard your information. 
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-## How To Contact Us
-
-* * *
-
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20140701084541id_/http%3A//www.seotoolset.com/contact.html). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/contact/ "Contact Us").
