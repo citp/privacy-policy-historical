@@ -1,61 +1,85 @@
-> *The following text is extracted and transformed from the leadrush.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401214434id_/http%3A//dev.leadrush.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadrush.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505040338id_/http%3A//leadrush.com/privacy-policy) for the most accurate reproduction.*
 
-# LeadRush
+# Privacy Policy | Leadrush
 
-Privacy Statement
+**LEADRUSH LIMITED Privacy Policy**
 
-LeadRush is committed to safeguarding the personal information of visitors to this website and users of LeadRush’s products. The following privacy policy is designed to help you understand how we collect, use, and protect the personal information you may choose to provide when using this website or our products.
+EFFECTIVE DATE: [January 22nd, 2015]
 
-Your Consent
+[LEADRUSH LIMITED] (“LeadRush”) value your privacy. At [http://reallysuccessful.com](http://reallysuccessful.com/) we sell lead-generation software, tools and coaching. In this Privacy Policy (“Policy”), we describe how we collect, use and disclose information that we obtain about visitors to our website [http://reallysuccessful.com](http://reallysuccessful.com/), purchaser of our products,and the services available through our Site (collectively, the “Site”).
 
-By visiting and using the features of this website you accept and agree to the terms and conditions of this privacy policy, in particular the collection and use of your personal information as described here.
+By visiting the Site, or using any of our services, you agree that your personal information will be handled as described in this Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Policy and our Terms Use, available at <http://reallysuccessful.com/terms-of-use>, including its applicable limitations on damages and the resolution of disputes. LeadRush’s Terms of Use are incorporated by reference into this Policy.
 
-What Information Does LeadRush Collect?
+The Information We Collect
 
-When using this website, you may provide LeadRush with two types of information: 1) personal information you knowingly disclose that is collected on an individual basis, and 2) website use information that automatically collected while you browse this website.
+How We Use the Information We Collect
 
-1\. Personal Information You Choose To Disclose 
+How We Share the Information We Collect
 
-You may be asked to provide certain personal information when taking advantage of the services and products that LeadRush offers. When registering for webinars, online training sessions, or other informational products, you will provide us with information, including your email address. If you choose to purchase a product or service, we will need to collect personal information from you as part of the transaction, including your name, mailing address, email address, credit card number, billing address, and a telephone number. If you choose to communicate with us through email, we may retain the content of your email message and your email address, along with our response. If you choose to participate in any surveys or contests that may be featured on the website from time to time, we may retain any personal information you provide, such contact information (name, shipping address) or demographic information (zip code, age level).
+Our Use of Cookies and Other Tracking Mechanisms
 
-At any time, you may choose not to provide any of the above information, but by doing so you may be unable to access features of this website, including the products and services we offer.
+Third-Party Analytics
 
-This website also features a forum page where registered users may post comments and communicate with other users. LeadRush will make efforts to remove a comment containing personal information if requested to do so, but will not be responsible for public disclosure of any personal information posted in the forum section.
+Communications and Marketing
 
-2\. Information That Is Automatically Collected
+Security
 
-Like most websites, this website automatically collects certain web use information through server log files and “cookies.” Our web server logs record basic information such as your IP address, the date and time you visited, the pages you viewed, the time you spent on the website, and the pages you visited before and after our website. “Cookies” are a form of internet software that transfers data to your computer . Cookies can be used to track your visit on our website and to provide specialized content for individual users. Most web browsers will allow you to notify you when you receive a cookie or to deny cookie access to your computer. Please note that if you choose to deny cookie access, some features of this website may be inaccessible, or may not function as effectively. 
+Changes to this Policy
 
-How Does LeadRush Use the Information It Collects?
+Contact Us
 
-Generally speaking, we use the information we collect to administer our business activities, provide you the products and services you request, process payments, monitor how our website and services are used, tailor and deliver our marketing and promotional efforts, improve and individualize our services, communicate with users regarding our terms of service and privacy policy, and troubleshoot issues. 
+We may collect information about you directly from you and from third parties (such as those that sell our products), as well as automatically through your use of our Site or Services.
 
-From time to time, we may share aggregated information (which does not identify you individually) with advertisers or other third parties for marketing and promotional purposes.
+_**Information We Collect Directly From You.**_ Certain areas and features of our Site and Services may require registration. To register you must provide your name and email. If you purchase something, we will also request your credit, debit, and/or financial account data, as well as billing information, including billing address. In addition, we may collect information from you through surveys, contests and questionnaires that we may invite you to participate in. We may also collect information such as your phone number or other contact information, though you are not required to provide this.
 
-From time to time, we may also use personal information to contact you regarding new products and services, special promotions, or changes to our website. If you do not wish to receive this information, you may notify us using the link provided in the communication, and we will not send you any further notices.
+_**Information We Collect Automatically.**_ We may automatically collect the following information about your use of our Site or Services through cookies and other technologies: your domain name; your browser type and operating system; web pages you view; links you click; your IP address; the length of time you visit our Site and or use our Services; and the referring URL, or the webpage that led you to our Site. We may combine this information with other personal information that we have collected from you. Please see the section Our Use of Cookies and Other Tracking Mechanisms below for more information about our use of cookies and other tracking mechanisms.
 
-We do not share, sell, lend, or lease any of the individually identifiable personal information we receive from users, except to the extent necessary to process transactions that users have requested. We may, however, disclose information when required to do so by law, or when we have reason to believe disclosure is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Service, or to protect our users and the public.
+We use the information that we gather about you for the following purposes:
 
-How We Protect Your Information
+To provide our Services to you, to communicate with you about your use of our Services, to respond to your inquiries, to fulfill your orders, and for other customer service purposes.
 
-LeadRush attempts to follow generally accepted industry standards to protect your personal information. This website has security measures that protect against the loss, misuse, and alteration of information under our control, and we have put in place appropriate physical and managerial procedures to safeguard and secure the information we collect. No method of internet transmission or electronic storage is 100% secure, however, and LeadRush cannot guarantee absolute security from unlawful interception or access by third parties.
+To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site or our Services.
 
-Affiliated Sites, Linked Sites, and Advertisements
+To send you news and newsletters, special offers, and promotions; to otherwise contact you about products or information we think may interest you; and for other marketing and promotional purposes. 
 
-From time to time, we may provide website links to our affiliates, other third-party websites, and advertisements. While we do not share your personal information with these parties, please be aware that they have their own privacy policies, and that by leaving our website and visiting their websites, our privacy policy will no longer be in effect. Links to other websites are provided solely as pointers to sites and information that may be useful to users of our website. 
+To better understand how users access and use our Site and Services, both on an aggregated and individualized basis, in order to improve our Site and Services and respond to user desires and preferences, and for other research and analytical purposes.
 
-Some of our third-party advertising may include cookies that enable the advertiser to track your visits to this and other websites, but will not allow them to access your personal information.
+We may share the information that we collect about you, including personally identifiable information, as follows:
 
-LeadRush is not responsible for the practices employed by its affiliates, advertisers, or third-parties, including those whose websites are linked to or from our website.
+_**Affiliates**_. We may disclose the information we collect from you to our affiliated companies or subsidiaries; however, if we do so, their use and disclosure of your personally identifiable information will be subject to this Policy.
 
-Children
+_**Service Providers**_. We may disclose the information we collect from you to third-party vendors, service providers, contractors or agents who perform functions on our behalf. If we do so, their use and disclosure of your personally identifiable information will be subject to this Policy.
 
-LeadRush does not provide services or products to children. If you are below the age of 18, please do not provide us with any personal information and do not use this website without the supervision of a parent or guardian.
+_**Business Transfers**_. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company.
 
-How To Review or Change Your Information
+_**In Response to Legal Process**_. We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
 
-Registered users provide certain personal information when registering and setting up their user profile. This information can be reviewed or changed by logging into your account and editing your profile.
+_**To Protect Us and Others**_. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which LeadRush is involved.
 
-Changes To This Privacy Policy
+_**Aggregate and De-Identified Information**_. We may share aggregate or de-identified information about users with third parties for marketing, research or similar purposes.
 
-We reserve the right to make changes to this Privacy Policy from time to time. If the Privacy Policy is changed, we will provide notice by email to those users who have not asked to be removed from our email lists. If a policy change occurs, we will not use any personal information submitted under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+We use cookies and other tracking mechanisms to track information about your use of our Site or Services. We may combine this information with other personal information we collect from you. 
+
+_**Cookies**_.Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. We use cookies to allow our systems to uniquely identify you during a session or while you are logged into the Site, in order to help us to process your online transactions and requests, verify your identity, track aggregate and statistical information about user activity, and display advertising both on our Site and App and on third-party sites. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function.
+
+**_Clear GIFs_**. Clear GIFs (a.k.a. web beacons, web bugs or pixel tags) are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs, in connection with our Site to, among other things, track the activities of Site visitors and App users, help us manage content, and compile statistics about usage. We and our third party service providers also use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded.
+
+**_Third Party Analytics and Tracking_**. We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site and, to the extent permitted, our Application. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services, performance and user experiences, not to track users across our Site and third party sites. These entities may use cookies and other tracking technologies to perform their services. We do not share your personal information with these third parties.
+
+**_Notice for Users_**. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how  a website works. By using our  online service, you agree that we can place  these types of cookies on your device.
+
+We may use third parties, such as network advertisers, to display advertisements on our Site, as well as to display ads on third-party websites. This enables us and these third parties to target advertisements by displaying ads for products and services in which you might be interested. Third-party ad networks and related services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs, and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our Services. We do not share your name, email address or other personal information with these third parties, and we do not permit these third parties to use cookies and other tracking technologies placed on our Site to automatically collect your personal information. 
+
+_**What about Do-Not-Track options?**_ Currently, our Site does not honor browser requests not to be tracked. You may, however, opt out of many website third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: www.networkadvertising.org/optout_nonppii.asp (NAI) and www.aboutads.info/choices (DAA).
+
+Opting out of one or more NAI member or DAA member networks (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you. It does not mean you will no longer receive any targeted content or ads on our Site or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your opt-out may no longer be effective. Additional information is available on the NAI and DAA websites accessible by the above links.
+
+We may send alerts and notifications, as well as periodic promotional informational or other marketing emails to you. You may opt out of marketing-related emails by following the opt-out instructions contained in any marketing e-mail we send you. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt out of receiving marketing emails, we may still send you alerts, notifications and other e-mails about your account or any services you have requested or received from us. 
+
+If you are a California resident, you may request from us a list of certain third parties to which we have disclosed your personal information for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: <http://reallysuccessful.com/contact/>. Please allow up to thirty (30) days for a response.
+
+We have implemented commercially reasonable precautions to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
+
+This Policy is effective as of the Effective Date above and is subject to change. Any changes to this Policy will be posted on our website at http://reallysuccessful.com/privacy-policy. All information submitted to LeadRush through its Site or Services is subject to the terms and conditions of this Policy, as amended. 
+
+If you have questions or concerns about the privacy aspects of our Services or would like to make a complaint, please contact us at <http://reallysuccessful.com/contact/>.
