@@ -1,92 +1,154 @@
-> *The following text is extracted and transformed from the imaginelearning.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228034454id_/http%3A//www.imaginelearning.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginelearning.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505221101id_/http%3A//ildc.cdn.imaginelearning.com/company/Imagine_Learning_Privacy_Policy_1.28.pdf) for the most accurate reproduction.*
 
-# Privacy Policy | Imagine Learning
+# Imagine Learning
 
-## Types of Information We Collect 
-
-We may collect personal information from you, meaning information about you that can uniquely identify you, such as your name, mailing address, email address, and telephone number, if you choose to provide us with such information. We may also collect information about you that does not uniquely identify you, such as information about your school or organization, or related to your account settings and preferences, if you choose to provide us with such information. We collect such information in various ways, including if you: 
-
-  * register for an Imagine Rewards account on the Site;
-  * place an order for products, materials or services on the Site; and/or
-  * request information from us by submitting a form on the Site.
-
-
-
-In addition, when you visit Site, we may collect certain information by automated means, such as cookies. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. We also may use third-party website analytics tools (such as Google Analytics) that collect information about visitor traffic on our Site. The information we may collect by automated means may include, but is not limited to, the following: 
-
-  * information about the devices you use to access the Internet (such as the IP address and the type of the device, its operating system type and web browser);
-  * dates, times and duration of visits to the Site (including whether you are a repeat or first time visitor); and/or
-  * information on actions taken on the Site (such as page views and site navigation patterns).
-
-
-
-Your web browser may let you choose your preference as to whether you want to allow websites to collect personal information over time about your online activities across different websites or online services. At this time our Site does not respond to the preferences you may have set in your web browser regarding the collection of your information, and our Site may continue to collect information in the manner described in this Privacy Policy. As stated above, we may enable third parties to collect information in connection with our Site. This Privacy Policy does not apply to, and we are not responsible for, any collection of information by third parties on our Site. 
-
-## How We Use the Information We Collect
-
-**Email Address:** This is used as your Imagine Rewards login; it uniquely identifies your Image Rewards account. Correspondence concerning your Imagine Rewards account will be sent to this email address. 
-
-**Mailing Address:** We use your address to mail reward items you redeem from the Site via your Imagine Rewards account. 
-
-**Phone Number:** Phone numbers are used as an additional means of communicating, if necessary. 
-
-**Imagine Manager Information:** Some information used in Imagine Manager, such as school name and username, are required in order to award points correctly. 
-
-In addition, we may use the information we obtain about you to: 
-
-  * understand your needs and interests and tailor the Site and our products and services accordingly;
-  * maintain a record of your transactions on the Site;
-  * correctly award Imagine Rewards points to users;
-  * respond to your questions and comments and provide customer support;
-  * communicate with you about our products and services and our offers, events, and promotions;
-  * operate, evaluate, and improve our business and the products and services we offer;
-  * enforce our End-User Software License Agreement and other agreements, as applicable; and
-  * comply with applicable legal requirements and industry standards.
+Imagine Learning
+Privacy Policy
+Imagine Learning’s mission is to teach language and literacy to the children of the world.
+We are constantly innovating in order to improve the lives of children, and we recognize
+our moral and legal responsibility to protect student privacy and ensure data security.
+This policy outlines Imagine Learning compliance with federal privacy laws and details
+our data stewardship and security practices.
+COPPA compliance
+The primary users of Imagine Learning are young children. The Children’s Online Privacy
+Protection Act (COPPA) protects children under the age of 13. School officials and
+teachers are authorized under COPPA to provide consent on behalf of parents; therefore,
+Imagine Learning does not obtain parental consent directly. A teacher or school district
+official provides consent for a child under the age of 13 to use Imagine Learning when
+they create an Imagine Learning account for that child.
+For more information about COPPA, you may visit OnGuard Online.
+FERPA compliance
+The Family Educational Rights and Privacy Act (FERPA) provides parameters for what is
+permissible when sharing student information. Imagine Learning is authorized by schools
+and districts under the FERPA “school official” exception to receive and use educational
+data to provide educational services. This data has significant educational value; apart
+from enabling the creation of accounts with which students access the Imagine Learning
+individualized learning path, the data allows teachers to track student growth and
+identify students who need intervention. This information is used only for academic
+purposes. We do not collect data for collection’s sake, and access is limited and
+appropriate. See Data Stewardship for more information about how we use and protect
+data we collect.
+Data Stewardship
+This section provides information about Imagine Learning data stewardship practices
+and explains how we collect, use, and maintain student personal information.
+Data collection
+When a school or district creates a student account, Imagine Learning begins to collect
+information about students. Some of the data stored is personally identifiable information
+(PII).
+Copyright © Imagine Learning, Inc.
 
 
+The following is a list of data fields that are populated to create a student account.
+    •   First name
+    •   Last name
+    •   Grade level
+    •   Language
+    •   Student number
+    •   Student username
+    •   Password
+    •   Organization number
+    •   SSO ID
+As students use Imagine Learning, additional data is collected, including assessment
+scores, curriculum progress, student audio recordings, and student responses to writing
+prompts.
+Imagine Learning also collects some personal information about teachers and
+administrators when a school or district creates accounts. This data potentially includes
+first and last name, e-mail address, and school or district name.
+Data use
+Data we collect is used to provide educational services. For example, Imagine Learning
+makes audio recordings of a child reading and speaking. The audio recordings are played
+back to the child so she hears how she sounds. Teachers listen to the audio files for an
+accurate and descriptive measure of student progress. These audio recordings
+dramatically increase student reading and language fluency.
+Imagine Learning tracks and assesses a student’s development as they progress through
+the curriculum. This data is used to generate reports that allow teachers to evaluate
+student progress, identify students who need intervention, and discover students that
+can be taught together as a group. Imagine Learning does not sell student personal
+information, nor do we use or disclose the student information we collect for behavioral
+targeting of advertisements to students.
+We retain some de-identified data (data we have made anonymous by removing all
+personally identifiable information) to conduct statistical research. This research helps us
+evaluate the effectiveness of Imagine Learning and improve our product.
+Data disclosure and access
+Imagine Learning acknowledges the right parents and legal guardians have under FERPA
+to review any educational data we collect pertaining to their children. Upon request, and
+after verifying identity, we will provide parents and legal guardians access to this data
+within 45 days. However, we recommend that parents first contact their child’s school.
+PII data collected by Imagine Learning is accessible only to a limited number of Imagine
+Learning employees who need the data to perform their job.
+Copyright © Imagine Learning, Inc.
 
-We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection. 
 
-## Your Choices
+Data retention and management
+Data maintained by Imagine Learning is protected in a secure environment. See Security
+Overview for more information about Imagine Learning security practices.
+All PII provided to Imagine Learning will be destroyed upon termination of our
+relationship with the school or district, or when it is no longer needed for the purpose for
+which it was provided.
+Data destruction
+Imagine Learning employs United States Office of Education best practice
+recommendations for data destruction.
+Imagine Learning uses these processes for data destruction:
+    •   Data is destroyed within 90 days of termination of a relationship with a school or
+        district.
+    •   Data is destroyed using National Institute of Standards and Technology (NIST)
+        clear method sanitization that protects against non-invasive data recovery
+        techniques.
+    •   Sensitive data will not be disposed of using methods (e.g.; file deletion, disk
+        formatting, and one-way encryption) that leaves the majority of data intact and
+        vulnerable to being retrieved.
+    •   The individual who performs the data destruction signs a certification form
+        describing the destruction.
+    •   Occasionally, non-electronic media used within Imagine Learning may contain PII.
+        When these documents are no longer required, the non-electronic media is
+        destroyed in a secure manner (most typically using a shredder) that renders it
+        safe for disposal or recycling.
+Security overview
+At Imagine Learning, we are serious about our data stewardship responsibilities. We have
+implemented several security measures to protect PII from unauthorized disclosure.
+Software security
+Imagine Learning has implemented privacy and security practices which are compliant
+with FERPA and COPPA; however, to achieve comprehensive protection of student PII, it
+is necessary for each school or district to use secure practices as well.
+        Data encryption
+        Data is encrypted in transit and at rest.
+        File Transfer Protocol
+        Data is securely transferred to Imagine Learning using File Transfer Protocol (FTP)
+        over secure (SSL/TLS) cryptographic protocol.
+Copyright © Imagine Learning, Inc.
 
-We offer you the following choices about what information we collect from you and how we communicate with you: 
 
-**Cookies:** Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of the Site’s features. 
-
-**Website Analytics:** You may opt-out of the collection and use of data about you by Google Analytics on the Site by visiting <https://tools.google.com/dlpage/gaoptout> and downloading and installing the Google Analytics Opt-out Browser Add-on. 
-
-**Marketing Emails:** You may choose not to receive marketing email communications from us by clicking on the “unsubscribe” link at the bottom of our marketing emails. 
-
-**Newsletter:** You may choose to unsubscribe from our newsletter by adjusting your preferences using your account on the Site. Please note that unsubscribing from our newsletter will not unsubscribe you from our marketing emails. You may unsubscribe from our marketing emails as set forth above. 
-
-## Accessing and Correcting Your Personal Information
-
-You can review and change your personal information by logging into your Imagine Rewards account on the Site and visiting your account profile page. You may also send us an email at [privacy@imaginelearning.com](mailto:privacy@imaginelearning.com) to request access to, correct, or delete any personal information that you have provided to us 
-
-## Imagine Learning's Protection of Your Information
-
-Imagine Learning uses SSL and https (a standardized method of securely transferring information between your computer and Imagine Learning) in an effort to protect personal information under our control from loss, misuse, or unauthorized alteration. In addition, Imagine Learning stores your information behind firewalls on separate secure servers. Please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place will never be defeated or fail, or that such measures will always be sufficient or effective. 
-
-## Children's Online Privacy Protection Act
-
-The Children's Online Privacy Protection Act of 1998 (COPPA) is designed to protect children's privacy while using the Internet. The Site is not directed to, and Imagine Learning does not knowingly collect or solicit personal information from, children under the age of 13. If we learn we have collected or received personal information from a child under the age of 13, we will delete that information. If you believe we might have any information from or about a child under the age of 13, please contact us at [privacy@imaginelearning.com](mailto:privacy@imaginelearning.com). For more information about COPPA, please visit <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>. 
-
-## Links to Other Sites
-
-This Site may contain links to other websites operated by third parties. Such links are provided for your convenience only, and if you access any other websites linked to this Site you do so at your own risk. We are not responsible for the content of any such websites, for the security of information you provide on such websites, or the products and services sold on them, nor are we responsible or liable for any loss or damage that may arise from your use of such websites. Links to other websites do not imply Imagine Learning’s endorsement of any content, advertising, products, services, or other materials on or available from such websites. Imagine Learning strongly suggests you read the terms of use and privacy policy that govern each website you visit. 
-
-## Changes to Our Privacy Policy
-
-Imagine Learning reserves the right to update or change this Privacy Policy at any time. If we make a material change to our Privacy Policy, we will indicate on the Site that our privacy practices have changed and provide a link to the new policy. In the event we make a material change to how we use your personal information, we will provide you with an opportunity to opt out of such new or different use. The date this Privacy Policy was last revised is at the top of this page. You are responsible for periodically reviewing the Site and this Privacy Policy to check for any updates or changes. 
-
-## Questions and Suggestions
-
-If you have any questions or comments about our Privacy Policy, please write to us at: 
-
-Imagine Learning, Inc.  
-Attn: Privacy Inquiry  
-191 River Park Drive  
-Provo, Utah 84604  
-801.377.5071 
-
-Or email us at: [privacy@imaginelearning.com](mailto:privacy@imaginelearning.com)
+        Firewalls
+        Anti-virus software and firewalls are installed and configured to scan our system.
+        The firewall is periodically updated and configured so users cannot disable the
+        scans.
+        Security audits
+        Imagine Learning conducts security audits and code reviews, both by outside
+        providers and by executive summary.
+        Secure programming practices
+        Imagine Learning software developers are aware of secure programming practices
+        and strive to avoid introducing errors in our application (like those identified by
+        OWASP and SANS) that could lead to security breaches.
+        Account protection
+        Each user of Imagine Learning is required to create an account with a unique
+        account name and password. Single Sign-On (SSO) users are authenticated with
+        secure tokens.
+Facility security
+Imagine Learning is located inside the continental United States. Physical access is
+protected by electronic access devices, with monitored security and fire/smoke alarm
+systems.
+Employee compliance with security procedures
+Imagine Learning has designated a chief security officer to oversee employee security
+training and compliance. The chief security officer also oversees the storage and
+destruction of sensitive data.
+Changes to our privacy policies
+Imagine Learning periodically reviews the processes and procedures described in this
+document to verify that we act in compliance with this policy. If we determine that a
+change is necessary to improve our privacy practices, we may amend this policy.
+Changes will be posted 30 days prior to their implementation.
+Privacy policy effective: January 1, 2015
+Policy last updated: January 23, 2015
+Contact us
+If you have questions or concerns about Imagine Learning privacy practices, you may
+send an email to privacy@imaginelearning.com.
+Copyright © Imagine Learning, Inc.
