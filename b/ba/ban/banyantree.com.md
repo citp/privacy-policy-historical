@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the banyantree.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628134331id_/http%3A//www.banyantree.com/en/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banyantree.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506001440id_/http%3A//www.banyantree.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **_Data Protection Policy_**
 
+ 
+
 **The purpose of this document (“Data Protection Policy”) is to inform you of** **how Banyan Tree Holdings Limited  ** **and its related corporations** **(collectively, the "Companies") manages Personal Data (as defined below) which is subject to the Singapore Personal Data Protection Act (No. 26 of 2012) (“the Act”). Please take a moment to read this Data Protection Policy so that you know and understand the purposes for which we collect, use and disclose your Personal Data.**
 
 **By interacting with us, submitting information to us, or signing up for any products and services offered by us, you agree and consent to the Companies, as well as their respective representatives and/or agents ("Representatives") (the Companies and Representatives collectively referred to herein as "Banyan Tree", "us", "we" or "our") collecting, using, disclosing and sharing amongst themselves your Personal Data, and disclosing such Personal Data to the Companies' authorised service providers and relevant third parties in the manner set forth in this Data Protection Policy** **.**
 
+ 
+
 This Data Protection Policysupplements but does not supersede nor replace any other consents you may have previously provided to Banyan Tree in respect of your Personal Data, and your consents herein are additional to any rights which to any of the Companies may have at law to collect, use or disclose your Personal Data.
 
 Banyan Tree may from time to time update this Data Protection Policy to ensure that this Data Protection Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Data Protection Policy as updated from time to time on our website <http://www.banyantree.com/en/pages/privacy_policy>. Please check back regularly for updated information on the handling of your Personal Data.
+
+ 
 
 1\.   ** _Personal Data_**
 
@@ -18,42 +24,22 @@ Banyan Tree may from time to time update this Data Protection Policy to ensure t
 
 1.2 Examples of such Personal Data you may provide to us include (depending on the nature of your interaction with us) your name, NRIC, passport or other identification number, telephone number(s), mailing address, email address, network data and any other information relating to any individuals which you have provided us in any forms you may have submitted to us, or via other forms of interaction with you.
 
+  
 2\.   ** _Collection of Personal Data_**
 
 2.1 Generally, we collect Personal Data in the following ways:
 
   1. when you submit any form, including but not limited to application and registration forms;
-  
-
   2. when you enter into any agreement or provide other documentation or information in respect of your interactions with us, or when you use our products and services;
-  
-
   3. when you interact with our staff, including customer service officers, for example, via telephone calls (which may be recorded), letters, face-to-face meetings, social media platforms and emails;
-  
-
   4. when you use our electronic services, or interact with us via our websites or use services on our websites;
-  
-
   5. when you request that we contact you or request that you be included in an email or other mailing list;
-  
-
   6. when you respond to our promotions, initiatives or to any request for additional Personal Data;
-  
-
   7. when you submit an employment application or when you provide documents or information including your resume and/or CVs in connection with any appointment as an officer, director, representative or any other position;
-  
-
   8. when your images are captured by us via CCTV cameras while you are within our premises, or via photographs or videos taken by us or our representatives when you attend events at our premises;
-  
-
   9. when you are contacted by, and respond to, our marketing representatives and customer service officers;
-  
-
   10. when we seek information about you and receive your Personal Data in connection with your relationship with us, including for our products and services or job applications, for example, from business partners, public agencies, your ex-employer, referral intermediaries and the relevant authorities; and/or
-  
-
   11. when you submit your Personal Data to us for any other reason.
-  
 
 
 
@@ -63,52 +49,26 @@ Banyan Tree may from time to time update this Data Protection Policy to ensure t
 
 2.4 You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with the products and services you have requested.
 
+ 
+
 3\.   ** _Purposes for the Collection, Use and Disclosure of Your Personal Data_**
 
 3.1 **Generally,** Banyan Tree collects, uses and discloses your Personal Data for the following purposes:
 
   1. responding to your queries, feedback, complaints and requests;
-  
-
   2. verifying your identity;
-  
-
   3. sending you our monthly eNewsletters if you have subscribed to our mailing list;
-  
-
   4. managing the administrative and business operations of Banyan Tree and complying with internal policies and procedures;
-  
-
   5. facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales) involving any of the Companies;
-  
-
   6. requesting feedback or participation in surveys, as well as conducting market research and/or analysis for statistical, profiling or other purposes for us to design our products, understand customer behaviour, preferences and market trends, and to review, develop and improve the quality of our products and services;
-  
-
   7. matching any Personal Data held which relates to you for any of the purposes listed herein;
-  
-
   8. preventing, detecting and investigating crime and analysing and managing commercial risks;
-  
-
   9. managing the safety and security of our premises and services (including but not limited to carrying out CCTV surveillance and conducting security clearances);
-  
-
   10. monitoring or recording phone calls and customer-facing interactions for quality assurance, employee training and performance evaluation and identity verification purposes;
-  
-
   11. in connection with any claims, actions or proceedings (including but not limited to drafting and reviewing documents, transaction documentation, obtaining legal advice, and facilitating dispute resolution), and/or protecting and enforcing our contractual and legal rights and obligations;
-  
-
   12. managing and preparing reports on incidents and accidents;
-  
-
   13. conducting investigations relating to disputes, billing or fraud;
-  
-
   14. meeting or complying with any applicable rules, laws, regulations, codes of practice or guidelines issued by any legal or regulatory bodies which are binding on Banyan Tree (including but not limited to responding to regulatory complaints, disclosing to regulatory bodies and conducting audit checks, due diligence and investigations); and/or
-  
-
   15. purposes which are reasonably related to the aforesaid.
 
 
@@ -275,6 +235,8 @@ g. purposes which are reasonably related to the aforesaid.
 
 3.7 Please be aware that once we receive confirmation that you wish to withdraw your consent for marketing or promotional materials/communication, it may take up to 30 working days for your withdrawal to be reflected in our systems. Therefore, you may still receive marketing or promotional materials/communication during this period of time. Please note that even if you withdraw your consent for the receipt of marketing or promotional materials, we may still contact you for other purposes in relation to the products and services that you have requested from Banyan Tree.
 
+ 
+
 4\.   ** _Disclosure of Personal Data_**
 
 4.1 Banyan Tree will take reasonable steps to protect your Personal Data against unauthorised disclosure. Subject to the provisions of any applicable law, your Personal Data may be disclosed, for the purposes listed above (where applicable), to the following entities or parties, whether they are located overseas or in Singapore:
@@ -305,6 +267,8 @@ l. relevant government ministries, regulators, statutory boards or authorities o
 
 m. any other party to whom you authorise us to disclose your Personal Data to.
 
+ 
+
 5.   ** _Use of Cookies_**
 
 5.1 When you interact with us on our websites, we automatically receive and record information on our server logs from your browser. We may employ cookies in order for our server to recognise a return visitor as a unique user including, without limitation, monitoring information relating to how a visitor arrives at the website, what kind of browser a visitor is on, what operatingsystem a visitor is using, a visitor's IP address, and a visitor's click stream information and time stamp (for example, which pages they have viewed, the time the pages were accessed and the time spent per web page).
@@ -313,6 +277,8 @@ m. any other party to whom you authorise us to disclose your Personal Data to.
 
 5.3 Should you wish to disable the cookies associated with these technologies, you may do so by changing the setting on your browser. However, you may not be able to enter certain part(s) of our website.
 
+ 
+
 6\. **_Data Security_**
 
 6.1 Banyan Tree will take reasonable efforts to protect Personal Data in our possession or our control by making reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks. However, we cannot completely guarantee the security of any Personal Data we may have collected from or about you, or that for example no harmful code will enter our website (for example viruses, bugs, trojan horses, spyware or adware). You should be aware of the risks associated with using websites.
@@ -320,6 +286,8 @@ m. any other party to whom you authorise us to disclose your Personal Data to.
 6.2 While we strive to protect your Personal Data, we cannot ensure the security of the information you transmit to us via the Internet or use our mobile services, and we urge you to take every precaution to protect your Personal Data when you use such platforms. We recommend that you change your passwords often, use a combination of letters and numbers, and ensure that you use a secure browser.
 
 6.3 If applicable, you undertake to keep your username and password secure and confidential and shall not disclose or permit it to be disclosed to any unauthorised person, and to inform us as soon as reasonably practicable if you know or suspect that someone else knows your username and password or believe the confidentiality of your username and password has been lost, stolen or compromised in any way or that actual or possible unauthorised transactions have taken place. We are not liable for any damages resulting from any security breaches, on unauthorised and/or fraudulent use of your username and password.
+
+ 
 
 7\.   ** _Contacting Us – Feedback, Withdrawal of Consent, Access and Correction of your Personal Data_**
 
@@ -346,6 +314,8 @@ Singapore 588182
 7.2 Please note that if your Personal Data has been provided to us by a third party (e.g. a referrer, or your company), you should contact such party directly to make any queries, feedback, complaints, and access and correction requests to Banyan Tree on your behalf.
 
 7.3 If you withdraw your consent to any or all use of your Personal Data, depending on the nature of your request, Banyan Tree may not be in a position to continue to provide its products and services to you, administer any contractual relationship in place, which in turn may also result in the termination of any agreements with Banyan Tree, and your being in breach of your contractual obligations or undertakings. Banyan Tree’s legal rights and remedies in such event are expressly reserved.
+
+ 
 
 8\.   ** _Governing Law_**
 
