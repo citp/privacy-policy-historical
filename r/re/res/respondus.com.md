@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101123217id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505101341id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Respondus.com Privacy Statement
 
