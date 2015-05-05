@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcplanet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626103959id_/https%3A//www.rcplanet.com/articles.asp%3Fid%3D263) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcplanet.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506000431id_/http%3A//www.rcplanet.com/articles.asp%3Fid%3D263) for the most accurate reproduction.*
 
 # RC Planet Radio Control Car, Truck, Heli, Airplane, Traxxas Hobby Store
 
