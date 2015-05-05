@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bloggertheme9.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225214156id_/http%3A//www.bloggertheme9.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertheme9.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505184703id_/http%3A//www.bloggertheme9.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Bloggertheme9
+# Privacy Policy « Bloggertheme9
 
-At **Bloggertheme9.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by bloggertheme9.com and how it is used. The following discloses the information gathering and dissemination practices for this website.
+At **Bloggertheme9.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by bloggertheme9.com and how it is used. The following discloses the information gathering and dissemination practices for this website.
 
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
