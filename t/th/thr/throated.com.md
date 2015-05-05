@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the throated.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104203214id_/http%3A//tour02.throated.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the throated.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505161511id_/http%3A//www.throated.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Throated Deepthroat Videos & Deepthroat Porn | Throated.com
 
 ### Privacy Policy
 
