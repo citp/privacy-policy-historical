@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716202735id_/https%3A//www.vtiger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505093919id_/https%3A//www.vtiger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
