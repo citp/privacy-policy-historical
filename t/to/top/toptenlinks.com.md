@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601080918id_/http%3A//top10links.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505222737id_/http%3A//top10links.com/privacy) for the most accurate reproduction.*
 
 # Top10Links - best web sites in over 1000 categories! Find the top web sites fast!
 
@@ -327,4 +327,4 @@ Browser version is a number the browser developers assign to their software prog
   
 |  **Featured Site**  
 ---  
-[](https://web.archive.org/go.php?siteid=936143356)
+[](https://web.archive.org/go.php?siteid=967178934)
