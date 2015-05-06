@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the njoyn.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129092630id_/http%3A//njoyn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njoyn.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506221011id_/http%3A//njoyn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - njoyn
+# Njoyn: Privacy Policy
 
 CGI Group Inc. (“CGI”) respects the privacy of its Web site visitors and is committed to protecting the privacy rights of identifiable individuals. In this regard, CGI has prepared this Web Site Privacy Policy (the “Privacy Policy”) to communicate to its users how CGI collects, uses and discloses personal information collected about them on the CGI Web site. This Privacy Policy applies to www.cgi.com and its authorized sub-sites that expressly adopt, display or link back to this Privacy Policy.
 
@@ -35,7 +35,7 @@ This Web site is not intentionally designed for or directed to children and we d
 By using this Web site and sub-sites, you consent to the collection, use and disclosure of your personal information by us in the manner described in this Privacy Policy. CGI reserves the right to make changes to this Privacy Policy from time to time without notice.
 
 **Privacy Questions and Access**  
-For additional information about our online privacy practices, please contact: 
+For additional information about our online privacy practices, please contact:
 
 The Privacy Officer  
 CGI Group Inc.  
