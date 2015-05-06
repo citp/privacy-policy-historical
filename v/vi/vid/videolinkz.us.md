@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videolinkz.us privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214113531id_/http%3A//videolinkz.us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videolinkz.us privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506141240id_/http%3A//videolinkz.us/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - videolinkz
 
