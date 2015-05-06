@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbackresearch.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226152939id_/http%3A//www.cashbackresearch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackresearch.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506184701id_/http%3A//www.cashbackresearch.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,9 +14,13 @@ Tel: 888-408-0470
 We can be reached via our contact form at: [ http://www.cashbackresearch.com/contact.htm](http://www.cashbackresearch.com/contact.htm)
 
  **HOW WE USE INFORMATION  **  
-We will never share the information that you provide us with any outside company. We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in.
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in.
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+We will NEVER share the information that you provide Cashback Clik with any outside company, except in the circumstances stipulated below.  
+1) We are sold to or acquired by another company, in which case all User information would then belong to the new company  
+2) We are required to release user information in response to legal processes, such as court orders or subpoenas.  
+3) Your email address will only be shared with All Inbox, LLC, our exclusive emailing partner.  
+Emails that you receive from Cashback Clik will come from Cashback Click, and will be identified as such. For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
 We collect no information on consumers who browse our Web page.
 
