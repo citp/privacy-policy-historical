@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myipaddress.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229011352id_/http%3A//www.myipaddress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myipaddress.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506050827id_/http%3A//www.myipaddress.com/privacy) for the most accurate reproduction.*
 
 # myIPaddress.com: Privacy Policy
 
