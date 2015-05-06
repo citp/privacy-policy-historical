@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postergully.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094602id_/http%3A//www.postergully.com/pages/privacy-policy-postergully) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postergully.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506140330id_/http%3A//www.postergully.com/pages/privacy-policy-postergully) for the most accurate reproduction.*
 
-# Privacy Policy | PosterGully
+# Privacy Policy + Terms of Use | PosterGully
 
 Welcome to PosterGully.com! By using the website, you agree to be bound by these terms and conditions. Please read them carefully.
 
@@ -86,8 +86,6 @@ In Cash On Delivery, you will have to pay the order amount to our courier partne
 
 **Intellectual Property and Publicity Rights  **
 
-PosterGully works on multiple models across its online platform. We have a dedicated team that moderates the contributions of the artist, designers & photographers whose designs make up roughly 75% of our store. The designers contribute artwork regularly & hold the  _ultimate copyrights_  to each of their artwork.The rest 25% is procured through multiple vendors across the globe. We procure from 2 agencies in UK, 3 in USA & 16 in India that tie up with film and TV studios, music bands, sports stars, football clubs, comics and gaming companies. They license a wide range of content from various sources and then distribute these products worldwide through an extensive network of distributors. These distributors in turn offer posters,stickers, keychains, skins etc. to individual retailers (like PosterGully) which we then retail on our platform.
-
 By submitting artwork to PosterGully, you grant PosterGully a non-exclusive, worldwide, sub-licenseable and transferable license to use, reproduce, distribute, prepare derivative works of and display the content of such listings in connection with PosterGully's (and its successors' and affiliates') services and business, including without limitation for promoting and redistributing part or all of the PosterGully site (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each user of the PosterGully site a non-exclusive license to access your content through the site, and to use, reproduce, distribute, and display such content as permitted through the functionality of the site and under User Agreement. 
 
 **Putting artwork/"images as products" on the PosterGully.com website.  PosterGully ( "PosterGully.com",”PosterGully”, "we", "us", or "our") & Contributors( "You", "Your")**
@@ -129,7 +127,7 @@ a statement by you, made under penalty of perjury, that:
 
 
 
-For complaints, please mail to  **help@postergully.com with subject line "Notice and Takedown Complaint - Takedown URL"**
+For complaints, please mail to  **legal@postergully.com with subject line "Notice and Takedown Complaint - Takedown URL"**
 
 Additionally, in certain circumstances, PosterGully may suspend or terminate contributors who in our opinion infringe the copyrights, trademarks, publicity rights or other rights of others purposely instantly. 
 
@@ -145,4 +143,4 @@ If you ever have any questions regarding our privacy policy please contact us at
 
 **Feels good to be loved!**
 
-**01-03-2014**
+**13-11-14**
