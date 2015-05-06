@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatetoaster.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229105027id_/http%3A//templatetoaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatetoaster.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506065959id_/http%3A//templatetoaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -TemplateToaster
 
