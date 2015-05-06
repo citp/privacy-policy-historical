@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholinkstome.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122173257id_/http%3A//wholinkstome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholinkstome.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506111104id_/http%3A//wholinkstome.com/privacy) for the most accurate reproduction.*
 
 # WhoLinksToMe Reputation Management Reimagined
 
