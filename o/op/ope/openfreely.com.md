@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the openfreely.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222171650id_/http%3A//openfreely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openfreely.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506063111id_/http%3A//www.openfreely.com/privacy-policy) for the most accurate reproduction.*
 
-# Open Freely - Privacy Policy
+# Privacy Policy - Open Freely
 
-**DOWNLOAD FREELY PRIVACY STATEMENT**
+**BLUE LABS PRIVACY STATEMENT**
 
-ATTENTION ALL USERS OF WEBSITES OWNED AND OPERATED BY DOWNLOAD FREELY, LLC:
+ATTENTION ALL USERS OF WEBSITES OWNED AND OPERATED BY Blue Labs, LLC:
 
-This Privacy Statement explains how Download Freely, LLC, a limited liability company under the laws of the State of Delaware, U.S.A. ("Download Freely" "we," or "us"), collects and uses the information concerning users ("Users" or "you") of its downloadfreely.com and openfreely.com websites (the "Websites").
+This Privacy Statement explains how Blue Labs, LLC, a limited liability company under the laws of the State of Delaware, U.S.A. ("Blue Labs" "we," or "us"), collects and uses the information concerning users ("Users" or "you") of its downloadfreely.com and openfreely.com websites (the "Websites").
 
-This policy applies to the Websites only. Download Freely owns, manages, and is responsible for all pages of the Websites. Users with privacy questions should send an email to contract@downloadfreely.com.
+This policy applies to the Websites only. Blue Labs owns, manages, and is responsible for all pages of the Websites. Users with privacy questions should send an email to contact@openfreely.com.
 
 YOU AGREE TO ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY STATEMENT WHEN YOU USE THE WEBSITE. IF YOU DON'T AGREE WITH THIS PRIVACY STATEMENT, DON'T USE THE WEBSITE. WE MAY REVISE THIS POLICY AT ANY TIME. WE WILL ONLY NOTIFY USERS VIA THE WEBSITE IF THIS PRIVACY STATEMENT IS CHANGED. CHECK THE WEBSITE FREQUENTLY FOR CHANGES. CHANGES WILL BE EFFECTIVE WHEN POSTED. USE OF THE WEBSITE AFTER CHANGES HAVE BEEN POSTED WILL BE CONSIDERED TO BE THE ACCEPTANCE AND AGREEMENT TO THE CHANGES.
 
@@ -37,10 +37,10 @@ We reserve the right to disclose information as we deem required by law and also
 **Issues Involving Other Websites**  
 The Websites may include links to other websites. Also, we may make special offers to users downloading a software product from the Websites. The offer may be made by a third party contractor. We are not responsible for the privacy practices of our contractors. We encourage you to be aware when they leave our Websites and to read the privacy policies of all other websites you visit or submit any information to. Some websites we link to may be co-branded with our business name or trademarks. Other websites may have a look and feel similar to our Websites. The uniform resource locator (URL) shown by your browser may be the only way to determine that you are visiting a different website. 
 
-This Privacy Statement applies only to the downloadfreely.com and openfreely.com websites owned and operated by Download Freely, LLC. All rights reserved.
+This Privacy Statement applies only to the openfreely.com websites owned and operated by Blue Labs, LLC. All rights reserved.
 
 THIS PRIVACY STATEMENT HAS IMPORTANT INFORMATION ABOUT YOUR PERSONAL INFORMATION. PLEASE READ IT CAREFULLY AND FULLY.
 
-Copyright © 2011-2012 Download Freely, LLC
+Copyright © 2011-2015 Blue Labs, LLC
 
-_Last Updated: May 10, 2012_
+_Last Updated: January 29, 2015_
