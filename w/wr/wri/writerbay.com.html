@@ -1,217 +1,315 @@
-<!--The following is the downloaded HTML source of the writerbay.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221084015id_/http%3A//www.writerbay.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the writerbay.com privacy policy that was archived on 2015-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150506072934id_/http%3A//www.writerbay.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-        <meta name="robots" content="noindex, nofollow">     
-            
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
 <title>WriterBay.com - Privacy Policy</title>
+
 <meta name="description" content="Freelance writing jobs for professionals. Join us NOW and increase your income.">
+
 <meta name="keywords" content="freelance writing services, freelance writing jobs online, freelance writing work">
 
 
-    <link href="http://www.writerbay.com/main.css" rel="stylesheet" media="all" type="text/css">
-    <link href="http://www.writerbay.com/jquery.autocomplete.css" rel="stylesheet" media="all" type="text/css">
-    <link href="http://www.writerbay.com/bootstrap-carousel.css" rel="stylesheet" media="all" type="text/css">
-    <link href="http://www.writerbay.com/font-awesome.min.css" rel="stylesheet" media="all" type="text/css">
+    
     <link rel="shortcut icon" href="http://www.writerbay.com/img/favicon.ico">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.writerbay.com/jquery.min.js"></script>    <script type="text/javascript" src="http://www.writerbay.com/jquery.popupWindow.js"></script>
+    <link href="http://fonts.googleapis.com/css?family=Archivo+Narrow" rel="stylesheet" type="text/css">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="http://www.writerbay.com/jquery.autocomplete.css" rel="stylesheet" media="all" type="text/css">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.writerbay.com/jquery.min.js"></script>    <script type="text/javascript" src="http://www.writerbay.com/jquery.popupWindow.js"></script>
     <script type="text/javascript" src="http://www.writerbay.com/jquery.autocomplete.min.js"></script>
     <script type="text/javascript" src="graph/jquery.min.js"></script>
-    <script type="text/javascript" src="http://www.writerbay.com/bootstrap.min.js"></script>
-    
-   <script type="text/javascript">
-jQuery.noConflict();
-</script>
+
+
 <script type="text/javascript">
 
-(function($){ 
+    /* validate apply now form */
+    $(document).ready(function() {
+        var valid;
+        var sendData;
 
-$(function () {
-    var chart;
-    
-    $(document).ready(function () {
+        function validate_field (field_id) {
+            var value = $("#"+field_id).val();
+            var tmp_reg_exp = $("#"+field_id).next(".validator_exp").html();
+            reg_exp = new RegExp(tmp_reg_exp);
+            if (!value.match(reg_exp)) {
+                $("#"+field_id).addClass("error_input");
+                $("#"+field_id).parent().find(".error_popup").fadeIn(300);
+                valid = false;
+                return false;
+            }
+            return true;
+        }
 
-        $('#container').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false
-            },
-            title: {
-                text: ''
-            },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
-                }
-            },
-            series: [{
-                type: 'pie',
-                name: 'Continent',
-                data: [
-                    ['North America',   45.0],
-                    ['Europe',       26.8],
-                    ['Asia',     12.8],
-                    ['South America',    8.5],
-                    ['Other',     6.2]
-                ]
-            }]
+        function validateAll(f) {
+            valid = true;
+            f.find(".inquiry_element .inquiry_input, .inquiry_area").each(function(index) {
+                validate_field($(this).attr("id"));
+            });
+
+            /*if (valid) {
+                document.getElementById("srw").submit();
+            }*/
+        }
+        
+        $('.short-register-block button[type="submit"], .register .form-send').click(function(e){
+            e.preventDefault();
+            var fo=$(this).closest('form');
+            validateAll(fo);
+            if (valid) {
+                $(this).closest('form').submit();
+            }
+        })
+        
+        $(".script_no").hide();
+        $(".script_ok").show();
+
+        $(".inquiry_input, .inquiry_area").focusin(function() {
+            $(this).removeClass("error_input");
+            $(this).parent().find(".error_popup").fadeOut(300);
         });
+
+        $(".inquiry_input, .inquiry_area").focusout(function() {
+            $(this).parent().find(".inquiry_input, .inquiry_area").each(function(index) {
+                validate_field($(this).attr("id"));
+            });
+        });
+            
+        $("#srw").find("input[name='timezone']").val(new Date().getTimezoneOffset() / 60 * -1);    
     });
-    
-});
-})(jQuery);
-</script>
-<!--[if lt IE 9]>
-
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-
-<![endif]-->
-
-<script>
-
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-55601577-1', 'auto', {'allowLinker': true});
-ga('require', 'linker');
-ga('linker:autoLink', ['india.writerbay.com' , 'usa.writerbay.com' , 'uk.writerbay.com' , 'philippines.writerbay.com' , 'canada.writerbay.com' , 'science.writerbay.com' ] );
-ga('require', 'displayfeatures');
-ga('send', 'pageview');
 
 </script>
+                
+                    <script>
 
+                        (function (i, s, o, g, r, a, m) {
+                            i['GoogleAnalyticsObject'] = r;
+                            i[r] = i[r] || function () {
+                                (i[r].q = i[r].q || []).push(arguments)
+                            }, i[r].l = 1 * new Date();
+                            a = s.createElement(o),
+                                    m = s.getElementsByTagName(o)[0];
+                            a.async = 1;
+                            a.src = g;
+                            m.parentNode.insertBefore(a, m)
+                        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                        ga('create', 'UA-55601577-1', 'auto', {'allowLinker': true});
+                        ga('require', 'linker');
+                        ga('linker:autoLink', ['india.writerbay.com', 'usa.writerbay.com', 'uk.writerbay.com', 'philippines.writerbay.com', 'canada.writerbay.com', 'science.writerbay.com']);
+                        ga('require', 'displayfeatures');
+                        ga('send', 'pageview');
+
+                    </script>
+                
 </head>
 <body>
 
-<div id="fb-root"></div>
+    <div id="fb-root"></div>
+    
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+    
 
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+    
+    
+        <script type="text/javascript">
+            var menu1 = null;
+            $(document).ready(function(){
+                menu1 = parseInt($("#float_info").css("top").substring(0,$("#float_info").css("top").indexOf("px")));
 
+                $(window).scroll(function () {
+                    offset1 = menu1 + $(document).scrollTop() + "px";
 
-<script type="text/javascript">
+                    $('#float_info').css("top",offset1);
+                });
+            });
+        </script>
+    
 
-    var menu1 = null;
-    $(document).ready(function(){
-        menu1 = parseInt($("#float_info").css("top").substring(0,$("#float_info").css("top").indexOf("px")));
+    <div id="float_info" style="background-color: #000000; padding: 15px; position: absolute; z-index: 10; right: 0px; top: 300px; opacity: 0.8;border-radius: 4px 0 0 4px;">
+        <span style="color: #ffffff; font: bold 14px Arial;">Need help?</span><br>
+        <a style="color: #ffffff; font: 13px Arial;" href="http://www.writerbay.com/contact-us.html">Send us an email</a><br>
+        <span style="color: #ffffff; font: bold 14px Arial;">Call us:</span><br>
+        <span style="color: #ffffff; font: 13px Arial;">+1 (800) 444-57-59</span>
+    </div><header id="header">
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="top-holder">
+            <div class="holder">
+                <a class="navbar-brand" href="/">
+                    <img src="img/logo.png" class="desktop">
+                    <img src="img/wb-logo.png" class="mobile">
+                </a>
+                <div class="top-nav pull-right">
+                    <div class="social">
+                        <a href="https://www.facebook.com/pages/Writerbay/510788708989888" target="blank_"><i class="fa fa-facebook"></i> </a>
+                        <a href="https://twitter.com/TwittWriterbay" target="blank_"><i class="fa fa-twitter"></i></a>
+                    </div>
+                    <div class="top-nav-btn"><a onclick="ga('send', 'event', 'start_earn_wb', 'click', 'wb');" href="http://www.writerbay.com/apply.html#apply">Start earning today</a></div>
+                </div>                       
+            </div>
+        </div>
+        <div class="menu-holder">
+            <div class="holder">
+                <div class="navbar-header">
+                    <span class="phone-number"><i class="fa fa-phone"></i> +1 (800) 444-57-59</span>
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
 
-        $(window).scroll(function () {
-    		offset1 = menu1 + $(document).scrollTop() + "px";
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav pull-right">
+                        <li><a class="" href="http://www.writerbay.com/how-it-works.html">How it works</a></li>
+                        <li><a href="http://www.writerbay.com/why-writer-bay.html">Why us</a></li>
+                        <li><a href="http://www.writerbay.com/payments.html">Payments</a></li>
+                        <li><a href="http://www.writerbay.com/tutorial.html">Tutorial</a></li>
+                        <li><a href="http://www.writerbay.com/reviews-and-testimonials.html">Testimonials</a></li>
+                        <li><a href="http://www.writerbay.com/helpful-links.html">Useful Links</a></li>
+                        <li><a href="http://www.writerbay.com/faq.html">FAQ</a></li>
+                        <li><a href="http://www.writerbay.com/referral_program.html">Referral Program</a></li>
+                        <li><a href="https://admin.writerbay.com/auth">Login</a></li>
+                    </ul>
+                </div>  
+            </div>               
+        </div>
+    </nav>
+</header>
 
-    		$('#float_info').css("top",offset1);
-    	});
-    });
+<section id="main">
+    <div class="holder">
+        <div class="row">
+<!--
 
-</script>
-
-<div id="float_info" style="background-color: #000000; padding: 15px; position: absolute; z-index: 10; right: 0px; top: 300px; opacity: 0.8;border-radius: 4px 0 0 4px;">
-    <span style="color: #ffffff; font: bold 14px Arial;">Need help?</span><br>
-    <a style="color: #ffffff; font: 13px Arial;" href="http://www.writerbay.com/contact-us.html">Send us an email</a><br>
-    <span style="color: #ffffff; font: bold 14px Arial;">Call us:</span><br>
-    <span style="color: #ffffff; font: 13px Arial;">+1 (800) 444-57-59</span>
-</div><script type="text/javascript">
-</script>
-<div class="header" align="center">
-    <div class="header_container">
-       <div class="sign">With <span>WriterBay.com</span> you get:
-							       	<ul>
-							       		<li>A freelance job you can be proud of</li>
-							       		<li>Up to $20 per page</li>
-							       		<li>The right to manage workload on your own</li>
-							       		<li>Writer Support Team assistance 24/7</li>
-							       	</ul>
-       	
-       </div>	
-       <a class="top_menu_element" style="top: 25px; height: 50px; width: 230px;" title="freelance writing jobs online" href="http://www.writerbay.com/"></a>
-	   <a href="https://www.facebook.com/pages/Writerbay/510788708989888"><img title="Facebook" style="position:absolute;margin:33px 0 0 245px;" src="img/social/facebook.png" height="40"></a>
-	   <a href="https://twitter.com/TwittWriterbay"><img title="Twitter" style="position:absolute;margin:33px 0 0 290px;" src="img/social/twitter.png" height="40"></a>
-	   <a class="top_menu_login" style="top: 25px; margin-left: 855px; height: 50px; width: 100px;" title="freelance writing jobs online" href="https://admin.writerbay.com/"></a>
-       <a class="top_menu_apply" style="top: 74px; margin-left: 855px; height: 170px; width: 100px;" href="http://www.writerbay.com/apply.html#apply"></a>
-       <a class="top_menu_element apply_button" href="http://www.writerbay.com/apply.html#apply">Apply now</a>
-       <div style="position: absolute; margin-top: 83px;">
-           <a class="top_menu_link" href="http://www.writerbay.com/how-it-works.html">How it works</a>
-           <a class="top_menu_link" href="http://www.writerbay.com/why-writer-bay.html">Why us</a>
-           <a class="top_menu_link" href="http://www.writerbay.com/payments.html">Payments</a>
-           <a class="top_menu_link" href="http://www.writerbay.com/tutorial.html">Tutorial</a>
-           <a class="top_menu_link" href="http://www.writerbay.com/reviews-and-testimonials.html">Testimonials</a>
-           <a class="top_menu_link" href="http://www.writerbay.com/helpful-links.html">Useful Links</a>
-           <a class="top_menu_link" href="http://www.writerbay.com/faq.html">FAQ</a>
-           <a class="top_menu_link" href="http://www.writerbay.com/referral_program.html">Referral Program</a>
-           <div style="clear: both;"></div>
-       </div>
-    </div>
-</div>
-<div class="content" align="center">
-    <div class="page_body" align="left"><!--
 <title>WriterBay.com - Privacy Policy</title>
+
 <meta name="description" content="Freelance writing jobs for professionals. Join us NOW and increase your income." />
+
 <meta name="keywords" content="freelance writing services, freelance writing jobs online, freelance writing work"/>
+
 -->
-<h1>riterBay.com - Privacy Policy</h1>
-<p>This Privacy Policy shall be applied to all the services rendered by WriterBay.com. </p>
 
-<h2>We collect such kind of data:</h2>
-<p><strong>Information you provide to us when filling out the registration form.</strong></p>
-<p>If you decide to become our freelance writer, you have to fill in the online registration form and provide all the necessary data. We need this information to be able to contact you if necessary and to define what types of papers are more suitable for you to be able to meet requirements of our customers and deliver the best quality papers to them. We will use your email to send you information considering orders you work on and other organizational issues. We have to hold the personal details of the people who have decided to join our team in order to communicate with them.  </p>
-<p>This information will be used only by our customer care agents and will on no condition be disclosed to any third party; it is never sold, rented or shared. </p>
-<p>All the personal details of writers are not disclosed to any third parties in the process of their transfer to us, which is guaranteed by our use of SSL-certificate.</p>
+<div class="col-sm-12">
 
-<p><strong>Information you provide to us when working with your account control panel.</strong></p>
-<p>As soon as you fill out the registration form, you are forwarded to your personal control panel. In there you will have to download the necessary papers and pass tests for knowledge of the English language. Test results are visible only to our Support members and are not disclosed to any third parties. </p>
-<p>To be able to work on the orders, writers also have to provide their payment details. This information is used only to process payments on payment days and is visible only to our support members. Confidentiality is additionally secured by SSL-certificate that we have, which guarantees that in the process of data transfer to us it won’t become known to any third parties. This information is used only by our customer care agents and is on no condition sold, rented or shared.</p>
+    <h1>WriterBay.com - Privacy Policy</h1>
 
-<p><strong>Cookies.</strong></p>
-<p>When visiting WriterBay.com, we send one or several cookies to your computer, which is required by the Google Analytics system that we use to develop our site. Cookies are files that allow us to define the type of visitor’s browser. These files may also track visitor’s preferences as well as some additional data. </p>
-<p>If you don’t want to make this data known to us and all the other sites, you can disallow your browser to receive cookies. However, bear in mind, some sites will not properly function without Cookies, and WriterBay.com belongs to them. We make use of these files to find out how our visitors use our website and draw up statistical reports to develop our service and make it suitable for all the Writers and visitors. For additional information considering cookies – view www.aboutcookies.org/, to opt out of being tracked by Google Analytics resort to http://tools.google.com/dlpage/gaoptout.</p>
-<p>In case we use the abovementioned data in a way which is different from the purpose why it was collected, we will ask for your prior consent.</p>
-<p>On no condition will the data collected for the above described aims be disclosed to any third party.
+    <p>This Privacy Policy shall be applied to all the services rendered by WriterBay.com. </p>
 
-</p><h2>Complaints and suggestions</h2>
-<p>To maintain the highest level of quality, we are always open to our Writers’ and visitors’ comments and requests. You can notify us if you consider that our collection or application of information is unfair, misleading or inappropriate. We are also waiting for any suggestions considering improvement of our service. You can always contact us via email
 
-<a class="cont_mail"></a>
 
-<script type="text/javascript">
+    <h2>The following data is collected:</h2>
+
+    <p><strong>Information you provide to us when filling out the registration form.</strong></p>
+
+    <p>If you decide to become our freelance writer, you have to fill in the online registration form and provide all the necessary data. We need this information to be able to contact you if necessary and to define what types of papers are more suitable for you to be able to meet requirements of our customers and deliver the best quality papers to them. We will use your email to send you information considering orders you work on and other organizational issues. We have to hold the personal details of the people who have decided to join our team in order to communicate with them.  </p>
+
+    <p>This information will be used only by our customer care agents and will on no condition be disclosed to any third party; it is never sold, rented or shared. </p>
+
+    <p>All the personal details of writers are not disclosed to any third parties in the process of their transfer to us, which is guaranteed by our use of SSL-certificate.</p>
+
+
+
+    <p><strong>Information you provide to us when working with your account control panel.</strong></p>
+
+    <p>As soon as you fill out the registration form, you are forwarded to your personal control panel. In there you will have to download the necessary papers and pass tests for knowledge of the English language. Test results are visible only to our Support members and are not disclosed to any third parties. </p>
+
+    <p>To be able to work on the orders, writers also have to provide their payment details. This information is used only to process payments on payment days and is visible only to our support members. Confidentiality is additionally secured by SSL-certificate that we have, which guarantees that in the process of data transfer to us it won’t become known to any third parties. This information is used only by our customer care agents and is on no condition sold, rented or shared.</p>
+
+
+
+    <p><strong>Cookies.</strong></p>
+
+    <p>When visiting WriterBay.com, we send one or several cookies to your computer, which is required by the Google Analytics system that we use to develop our site. Cookies are files that allow us to define the type of visitor’s browser. These files may also track visitor’s preferences as well as some additional data. </p>
+
+    <p>If you don’t want to make this data known to us and all the other sites, you can disallow your browser to receive cookies. However, bear in mind, some sites will not properly function without Cookies, and WriterBay.com belongs to them. We make use of these files to find out how our visitors use our website and draw up statistical reports to develop our service and make it suitable for all the Writers and visitors. For additional information considering cookies – view www.aboutcookies.org/, to opt out of being tracked by Google Analytics resort to http://tools.google.com/dlpage/gaoptout.</p>
+
+    <p>In case we use the abovementioned data in a way which is different from the purpose why it was collected, we will ask for your prior consent.</p>
+
+    <p>On no condition will the data collected for the above described aims be disclosed to any third party.
+
+
+
+    </p><h2>Complaints and suggestions</h2>
+
+    <p>To maintain the highest level of quality, we are always open to our Writers’ and visitors’ comments and requests. You can notify us if you consider that our collection or application of information is unfair, misleading or inappropriate. We are also waiting for any suggestions considering improvement of our service. You can always contact us via email
+
+
+
+        <a class="cont_mail" href="mailto:support@writerbay.com">support@writerbay.com</a>
+
+
+
+        <script type="text/javascript">
+
+            
 
         $(document).ready(function() {
+
             $(".cont_mail").attr("href","mai"+"lto:su"+"pp"+"ort@w"+"riterb"+"ay.com").text("su"+"pp"+"ort@w"+"riterb"+"ay.com");
+
         });
-    
-</script>.</p>
 
-<h2>Access to personal information</h2>
-<p>We always strive to be honest and open in terms of providing our Writers and website visitors with access to their personal data. Our Writers and website visitors are always welcome to find out if we keep any personal data by making a corresponding request under the Data Protection Act 1998. In case we keep information about you, we will:</p>
-<ul>
-  <li>Provide you with an opportunity to have a copy of it in the form you choose. </li>
-  <li>Explain the purposes for which we hold it.</li> 
-  <li>Describe it in full.</li> 
-  <li>Describe who it may be disclosed to.</li>
-</ul>
-<p>All requests for such data should be sent via our email:
-<a class="cont_mail"></a>
-</p>
+                
 
-<h2>Links disclaimer</h2>
-<p>WriterBay.com may include links to other sites at its pages, which on no condition presupposes validation of these sites’ content. The moment you leave WriterBay.com through link or in any other way, you are subject to the terms and conditions of that site, including but not limited to its Privacy Policy.</p>
+        </script>.</p>
 
-<h2>Amendments of this Privacy Policy</h2>
-<p>We strive to improve the quality of our service and thus can change this Privacy Policy from time to time.&nbsp;All the amendments will be available for view at this page. This Privacy Policy was last updated on&nbsp;January 17, 2011.</p>
+
+
+    <h2>Access to personal information</h2>
+
+    <p>We always strive to be honest and open in terms of providing our Writers and website visitors with access to their personal data. Our Writers and website visitors are always welcome to find out if we keep any personal data by making a corresponding request under the Data Protection Act 1998. In case we keep information about you, we will:</p>
+
+    <ul>
+
+        <li>Provide you with an opportunity to have a copy of it in the form you choose. </li>
+
+        <li>Explain the purposes for which we hold it.</li> 
+
+        <li>Describe it in full.</li> 
+
+        <li>Describe who it may be disclosed to.</li>
+
+    </ul>
+
+    <p>All requests for such data should be sent via our email:
+
+        <a class="cont_mail" href="mailto:support@writerbay.com">support@writerbay.com</a>
+
+    </p>
+
+
+
+    <h2>Links disclaimer</h2>
+
+    <p>WriterBay.com may include links to other sites at its pages, which on no condition presupposes validation of these sites’ content. The moment you leave WriterBay.com through link or in any other way, you are subject to the terms and conditions of that site, including but not limited to its Privacy Policy.</p>
+
+
+
+    <h2>Amendments to this Privacy Policy</h2>
+
+    <p>We strive to improve the quality of our service and thus can change this Privacy Policy from time to time.&nbsp;All the amendments will be available for view at this page. This Privacy Policy was last updated on&nbsp;April 27, 2015.</p>
+
+</div>
+
 <!-- Piwik --> 
 <script type="text/javascript">
 var pkBaseURL = (("https:" == document.location.protocol) ? "https://prof.writerbay.com/" : "http://prof.writerbay.com/");
@@ -226,35 +324,78 @@ piwikTracker.enableLinkTracking();
 <!-- End Piwik Tracking Code -->
 
 
-  </div>
-  <div style="clear: both;"></div>
-</div>
-<div class="footer" align="center">
-  <div class="footer_info">
-
-    <!--<a style="display:block;position:absolute;margin-left:800px;margin-top:70px;" href="http://www.dmca.com/Protection/Status.aspx?ID=d42292c4-8940-424a-af9b-2359b6d5c2e4" title="DMCA"> <img src="http://images.dmca.com/Badges/dmca_protected_24_120.png?ID=d42292c4-8940-424a-af9b-2359b6d5c2e4"  alt="DMCA.com" /></a>-->
-       <div>© Copyright WriterBay.com All Rights Reserved.&nbsp;&nbsp;<a href="http://www.writerbay.com/privacy-policy.html">Privacy Policy</a> | <a href="http://www.writerbay.com/agreements.html">Terms of Use</a> | <a href="http://www.writerbay.com/contact-us.html">Contact Us</a> | <a href="http://www.writerbay.com/plagiarism.html">Plagiarism</a> | <a href="http://www.writerbay.com/payoneer.html">Payoneer</a> | <a href="http://www.writerbay.com/referral_program.html">Referral Program</a>
-     
-      <ul class="footer_menu">
-        <li class="fmitem"><a href="http://india.writerbay.com/">Freelance Writing Jobs in India</a></li>
-        <li class="fmitem"><a href="http://usa.writerbay.com/">Freelance Writing Jobs in USA</a></li>
-        <li class="fmitem"><a href="http://uk.writerbay.com/">Freelance Writing Jobs in United Kingdom</a></li>
-        <li class="fmitem"><a href="http://philippines.writerbay.com/">Freelance Writing Jobs in Philippines</a></li>
-        <li class="fmitem"><a href="http://canada.writerbay.com/">Freelance Writing Jobs in Canada</a></li>
-	<li class="fmitem"><a href="http://science.writerbay.com/">Online Jobs for Technology Writers and Math Experts</a></li>
-     </ul>
+        </div>
     </div>
+</section>
 
-      <!--<ul>
-        <li><a href="http://www.writerbay.com/freelance-writer-jobs.html">Freelance Writer Jobs</a></li>
-        <li><a href="http://www.writerbay.com/resume-writing-jobs.html">Resume Writing Jobs</a></li>
-        <li><a href="http://www.writerbay.com/content-writing-jobs.html">Content Writer Jobs</a></li>
-        <li><a href="http://www.writerbay.com/writing-from-home.html">Writing From Home</a></li>
-        <li><a href="http://www.writerbay.com/online-writing-jobs.html">Online Writing Jobs</a></li>
-     </ul>-->
-     
+<footer id="footer">
+    <div class="holder">
+        <div class="row">
+            <div class="col-sm-2">
+                <ul class="footer-nav">
+                    <li><i class="fa fa-angle-right"></i><a href="http://www.writerbay.com/privacy-policy.html"> Privacy Policy</a></li>
+                    <li><i class="fa fa-angle-right"></i><a href="http://www.writerbay.com/agreements.html"> Terms of Use</a></li>
+                    <li><i class="fa fa-angle-right"></i><a href="http://www.writerbay.com/contact-us.html"> Contact Us</a></li>
+                </ul>                
+            </div>
+            <div class="col-sm-2">
+                <ul class="footer-nav">
+                    <li><i class="fa fa-angle-right"></i><a href="http://www.writerbay.com/plagiarism.html"> Plagiarism</a></li>
+                    <li><i class="fa fa-angle-right"></i><a href="http://www.writerbay.com/payoneer.html"> Payoneer</a></li>
+                    <li><i class="fa fa-angle-right"></i><a href="http://www.writerbay.com/referral_program.html"> Referral Program</a></li>
+                </ul>                    
+            </div>
+            <div class="col-sm-2">
+                <div class="copyrights">
+                    <img src="/img/footer_logo.jpg" class="img-responsive">
+                    © Copyright WriterBay.com <br>All Rights Reserved.
+                </div>                
+            </div>                
+            <div class="col-sm-3">
+                <ul class="freelance-nav">
+                    <li><i class="fa fa-angle-double-right"></i><a href="http://india.writerbay.com/"> Freelance Writing Jobs in India</a></li>
+                    <li><i class="fa fa-angle-double-right"></i><a href="http://usa.writerbay.com/"> Freelance Writing Jobs in USA</a></li>
+                    <li><i class="fa fa-angle-double-right"></i><a href="http://uk.writerbay.com/"> Freelance Writing Jobs in United Kingdom</a></li>
+                </ul>                    
+            </div>
+            <div class="col-sm-3">
+                <ul class="freelance-nav">                 
+                  <li><i class="fa fa-angle-double-right"></i><a href="http://philippines.writerbay.com/"> Freelance Writing Jobs in Philippines</a></li>
+                  <li><i class="fa fa-angle-double-right"></i><a href="http://canada.writerbay.com/"> Freelance Writing Jobs in Canada</a></li>
+                  <li><i class="fa fa-angle-double-right"></i><a href="http://science.writerbay.com/"> Online Jobs for Technology Writers and Math Experts</a></li>
+                </ul>
+                <button class="block-arr-up" style="display: none;"></button>
+                
+                    <script type="text/javascript">
+                          function upButton() {
+                              if ($(document).scrollTop() > 150) {
+                                  if (!$('.block-arr-up').is(':visible'))
+                                      $('.block-arr-up').fadeIn('fast');
+                              } else {
+                                  $('.block-arr-up').hide();
+                              }
+                          }
+                          $(document).scroll(function() {
+                              upButton();
+                          });
+                          upButton();
+                          $('.block-arr-up').click(function(e){
+                              e.preventDefault();
+                              $('html, body').animate({scrollTop: 0}, 400);
+                          });
+                    </script>
+                 
+            </div>
+        </div>
     </div>
-  </div>
+</footer>
+
 <script type="text/javascript">
     $(".about-us__").attr("href","http://www.writerbay.com/"+"abo"+"ut_u"+"s.ht"+"ml");
-</script></body></html>
+</script>
+
+<!-- JavaScripts -->
+<script src="js/bootstrap.min.js"></script>
+<script src="/public/js/jquery.jcarousel.min.js"></script>
+<script src="js/main.js"></script>
+<script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-17601671-1']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script></body></html>
