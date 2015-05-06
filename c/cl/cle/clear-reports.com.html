@@ -1,0 +1,345 @@
+<!--The following is the downloaded HTML source of the clear-reports.com privacy policy that was archived on 2015-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150506080517id_/http%3A//www.clear-reports.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+	<title>Privacy - ClearReports</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">	
+	<meta name="google-site-verification" content="cO0rVSJEIj9zOPab6qVQhOY_fdeGmcjB6sUM0qvbNg4">
+	<meta name="description" content="This is the Privacy Policy of ClearReports.">
+	<link type="text/css" rel="stylesheet" href="/sites/cr/css/crcore.css?m=2014-11-19-22-44-18" media="all">
+	<link type="text/css" rel="stylesheet" href="/sites/cr/css/crmedia.css?m=2014-11-19-22-44-19" media="all">
+	<!--[if lte IE 8]>
+	<link type="text/css"	    rel="stylesheet"	    href="/sites/cr/css/iefixes.css"			media="all"	/>
+	<![endif]-->
+	<link type="image/x-icon" rel="shortcut icon" href="/sites/cr/img/favicon.ico">
+	<script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" src="/sites/cr/js/jquery/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="/sites/cr/js/jquery/jquery-migrate-1.1.1.min.js"></script>
+	<script type="text/javascript" src="/sites/cr/js/jquery/jquery.color-2.1.2.min.js"></script>
+	<script type="text/javascript" src="http://fast.fonts.net/jsapi/7b895767-119b-43d8-b377-9f9bac59d96d.js"></script>
+		<script type="text/javascript">
+	var _prum = [['id', '54fb7e79abe53d4d0589b5ca'],
+		     ['mark', 'firstbyte', (new Date()).getTime()]];
+	(function() {
+	    var s = document.getElementsByTagName('script')[0]
+	      , p = document.createElement('script');
+	    p.async = 'async';
+	    p.src = '//rum-static.pingdom.net/prum.min.js';
+	    s.parentNode.insertBefore(p, s);
+	})();
+	</script>
+    </head>
+
+    <body>
+
+	<div>
+	    <div id="headernav">
+		<div id="headernav-body">
+		    <div class="wrapper">
+			<div class="wrapperInside">
+			    <div id="headernav-logo"><a href="/" title="Home"><img src="/sites/cr/img/logo.png" alt="ClearReports Logo"></a></div>
+			    				<div id="headernav-menu">
+				    <ul>
+					<li class="noborder"><a class="greens" href="benefits.html" title="Benefits">Benefits</a></li><li class=""><a class="greens" href="features.html" title="Features">Features</a></li><li class=""><a class="greens" href="how-it-works.html" title="How it works">How it works</a></li>					<li class="headernav_phone">
+					    <div id="headernav_phone_active"><a href="javascript:void(0);" onclick="headerNavPhoneToggle();"><span style="background-image: url(&quot;/sites/cr/img/headernav_phone_flag1.png&quot;);">0207 100 4095</span></a></div>
+					    <div id="headernav_phone_select" style="display:none;">
+						<div id="headernav_phone_select_top"></div>
+						<div id="headernav_phone_select_middle">
+						    <a id="headernav_phone_option1" href="javascript:void(0);" onclick="headerNavPhoneChoice(1);" class="active"><img src="/sites/cr/img/headernav_phone_flag1.png" alt=""></a>
+						    <a id="headernav_phone_option2" href="javascript:void(0);" onclick="headerNavPhoneChoice(2);" class=""><img src="/sites/cr/img/headernav_phone_flag2.png" alt=""></a>
+						</div>
+						<div id="headernav_phone_select_bottom"></div>
+					    </div>
+					    <input type="hidden" id="headernav_phone_toggle" value="0">
+					    <script type="text/javascript">
+						//////////////////////////////
+						//////////////////////////////
+						$('#headernav_phone_toggle').attr('value', 0);
+						//////////////////////////////
+						//////////////////////////////
+						function headerNavPhoneToggle() {
+						    var current	= $('#headernav_phone_toggle').attr('value');
+						    if (current == 0) {
+							$('#headernav_phone_active').find('a').attr('class', 'active');
+							$('#headernav_phone_select').fadeIn();
+							$('#headernav_phone_toggle').attr('value', 1);
+						    }
+						    else {
+							$('#headernav_phone_active').find('a').attr('class', '');
+							$('#headernav_phone_select').fadeOut();
+							$('#headernav_phone_toggle').attr('value', 0);
+						    }						    
+						}
+						//////////////////////////////
+						//////////////////////////////
+						function headerNavPhoneChange(selection) {
+						    // Phone number and flag
+						    if (selection == 1)
+							phoneno = '0207 100 4095';
+						    else
+							phoneno = '1.800.301.4809';
+						    $('#headernav_phone_active').find('span').html(phoneno);						    
+						    $('#headernav_phone_active').find('span').css('background-image', 'url(/sites/cr/img/headernav_phone_flag' + selection + '.png)');
+						    // Activate the correct option in the floating layer
+						    $('#headernav_phone_select_middle').children().each(function(){
+							$(this).attr('class', '');
+						    });
+						    $('#headernav_phone_option' + selection).attr('class', 'active');
+						    // Update the session and cookie
+						    $.ajax({
+							type	: 'POST',
+							url	: '/sites/cr/inc/ajax.inc.php',
+							data	: { action: 'updatePhoneCountry', phone_country: selection }
+						    });
+						}
+						function headerNavPhoneReshow() {
+						    $('#headernav_phone_active').fadeIn();
+						}
+						//////////////////////////////
+						//////////////////////////////
+						function headerNavPhoneChoice(selection) {
+						    headerNavPhoneToggle();
+						    $('#headernav_phone_active').fadeOut();
+						    setTimeout('headerNavPhoneChange(' + selection + ')', 500);
+						    setTimeout('headerNavPhoneReshow()', 500);
+						}
+						//////////////////////////////
+						//////////////////////////////
+						headerNavPhoneChange(1);
+						//////////////////////////////
+						//////////////////////////////
+					    </script>
+					</li>
+					<li class="headernav_getstarted"><a href="get-started.html" title="GET STARTED"><img src="/sites/cr/img/headernav-getstarted.jpg" alt="GET STARTED" onmouseover="this.src='/sites/cr/img/headernav-getstarted-over.jpg';" onmouseout="this.src='/sites/cr/img/headernav-getstarted.jpg';"></a></li>
+				    </ul>
+				</div>
+			    			</div>
+		    </div>
+		</div>
+		<div id="headernav-shadow"></div>
+	    </div>
+	</div>
+	<div id="main" class="page15">
+<div id="h1Container" style="height:150px; background-image:url(/sites/cr/img/h1s/13.jpg);">
+    <div class="wrapper">
+	<div class="wrapperInside">
+	    <h1>Privacy</h1>
+	</div>
+    </div>
+</div>
+
+
+
+<div id="legal-content">
+    <div class="wrapper">
+	<div class="wrapperInside">
+	    <div id="legal-contentbox">
+
+
+
+		<h2 style="padding-top:0px;">About ClearReports</h2>
+		<p>This is the Privacy Policy of ClearReports (CR), a software product and service owned and operated by Clear Reports Limited (CRL), Studio 6, 84 Canfield Gardens, London NW6 3EE. CRL takes its responsibilities on the confidentiality of your personal information very seriously. Our Privacy Policy is set out below. Please read this Policy with care; it describes how we will process your data. If you have any questions or comments, email <a href="mailto:dataprotection@clear-reports.com">dataprotection@clear-reports.com</a>.</p>
+
+		<h2>Where your data is held</h2>
+		<p>Your personal data is held on secure servers operated by CRL and agencies contracted by us. We do not transfer your data outside CRL and we comply with the protection offered to you under the Data Protection Act 1998.</p>
+
+		<h2>Data Security</h2>
+		<p>Personal data is collected and stored securely subject to stringent security measures and is protected against misuse. When we use external data processing services, we do so only under strict contractual terms to mirror the security policies that we have in place.</p>
+
+		<h2>The information we collect</h2>
+		<p>As well as name and contact details, we ask you to supply information about the type of organisation you work for or to tell us if you are a consumer; that and any other information we gather about you will help us tailor the information we send you to your needs.</p>
+
+		<h2>What we do with your data and what we don't do</h2>
+		<p>We shall process the data you supply to give you information and advice regarding your enquiry. If you have given your consent, we may communicate with you via e-mail, SMS, post or telephone about the activities of CRL.  We will not share your data for marketing purposes outside CRL.</p>
+
+		<p>This website explains how to subscribe to CRL communications. If you want to update your personal data and preferences for communications from us please email us at <a href="mailto:support@clear-reports.com">support@clear-reports.com</a>.</p>
+
+		<h2>External links</h2>
+		<p>The CR website contains links to websites operated by third parties under different privacy policies. Should you choose one of those links, you will be leaving the CR site and this Privacy Policy will no longer apply.</p>
+
+		<h2>Access to your information</h2>
+		<p>You have the right to ask CRL for a copy of the personal information CRL hold about you (for which we may charge a small fee) and to correct any inaccuracies in that information. If you would like access to your information, please contact <a href="mailto:dataprotection@clear-reports.com">dataprotection@clear-reports.com</a>.</p>
+
+		<h2>Cookie Policy</h2>
+		<p>The CR website cookie policy can be found <a href="cookies.html">here</a> and informs users what cookies are used on this site and how to manage them.</p>
+
+		<h2>Newsletters</h2>
+		<p>Our e-newsletters will be used to inform you of news related to CR and CRL, including events. Our subscription lists will not be sold, rented or leased to any third-parties. We use code within our e-newsletter template to identify open rates and click through rates. This enables us to identify which individuals have opened the message or clicked on links within it and better tailor any follow-up communications. You can remove your name from the subscription lists at any time by clicking on the unsubscribe link within the newsletter.</p>
+
+		<h2>Copyright</h2>
+		<p>Copyright in all information, text and images featured on our site is owned by or licensed to CRL.</p>
+
+		<h2>Changes to this policy</h2>
+		<p>If we decide to change our Privacy Policy, we shall post changes on this page so that you are always aware of how CRL uses your personal information.</p>
+
+
+
+	    </div>
+	</div>
+    </div>
+</div>
+
+
+
+	    <div id="getStartedStrip">
+    <div class="wrapper">
+	<div class="wrapperInside">
+	    <div id="getStartedStripBox">
+		<div id="getStartedStripBoxLeft">
+		    <h2>Free Trial</h2>
+		    <p>Try ClearReports completely free for 30 days. <a href="get-started.html">Get started today</a>.</p>
+		</div>
+		<div id="getStartedStripBoxRight">
+		    <a href="get-started.html"><img src="/sites/cr/img/getStartedStrip-but.png" alt="GET STARTED" onmouseover="this.src='/sites/cr/img/getStartedStrip-but2.png';" onmouseout="this.src='/sites/cr/img/getStartedStrip-but.png';"></a>
+		</div>
+	    </div>
+	</div>	
+    </div>
+</div>
+	</div>	
+	<div id="brands">
+	    <div class="wrapper">
+		<div class="wrapperInside">
+		    <img src="/sites/cr/img/brands.jpg" alt="">
+		</div>
+	    </div>
+	</div>
+	<div id="footernav">
+	    <div class="wrapper">
+		<div class="wrapperInside">
+		    			<div class="cols">
+			    <div class="col" style="width:239px;">
+				<div class="footernavHdYellowBox"><div class="footerHd"><a href="benefits.html" title="PLATFORM">PLATFORM</a></div></div>
+				<div class="clearme"></div>
+				<ul>
+				    <li><a href="benefits.html" title="Benefits">Benefits</a></li>
+				    <li><a href="features.html" title="Features">Features</a></li>
+				    <li><a href="how-it-works.html" title="How it works">How it works</a></li>
+				    <li><a href="integration.html" title="Integration">Integration</a></li>
+				    <li><a href="api.html" title="API">API</a></li>
+				</ul>
+			    </div>
+			    <div class="col" style="width:290px;">
+				<div class="footernavHdYellowBox"><div class="footerHd"><a href="consultancy.html" title="CONSULTANCY">CONSULTANCY</a></div></div>
+				<div class="clearme"></div>
+				<ul>
+				    <li><a href="consultancy.html#managed-service" title="Managed service">Managed service</a></li>
+				    <li><a href="consultancy.html#mobile-optimisation" title="Optimise for mobile">Optimise for mobile</a></li>
+				    <li><a href="consultancy.html#creative-optimisation" title="Creative optimisation">Creative optimisation</a></li>
+				    <li><a href="consultancy.html#acquire-new-customers" title="Acquire new customers">Acquire new customers</a></li>
+				    <li><a href="consultancy.html#retain-existing-customers" title="Retain existing customers">Retain existing customers</a></li>
+				</ul>
+			    </div>
+			    <div class="col" style="width:233px;">
+				<div class="footernavHdYellowBox"><div class="footerHd"><a href="about-us.html" title="COMPANY">COMPANY</a></div></div>
+				<div class="clearme"></div>
+				<ul>
+				    <li><a href="about-us.html" title="About us">About us</a></li>				    
+				    <li><a href="partners.html" title="Partners">Partners</a></li>
+				    <li><a href="careers.html" title="Careers">Careers</a></li>
+				    <li><a href="contact-us.html" title="Contact us">Contact us</a></li>
+				    <li><a href="get-started.html" title="Get started">Get started</a></li>
+				</ul>
+			    </div>
+			    <div class="col" style="width:188px;">
+				<div class="footernavHdYellowBox"><div class="footerHd">NEWSLETTER SIGN-UP</div></div>
+				<div class="clearme"></div>				
+				<p id="footernav_newsletter_p">Keep up-to-date with industry best practices, tips and advice.</p>
+				<p id="footernav_newsletter_p_error" style="display:none;">Please enter a <span style="color:#fab74d;">valid email address</span> and try again.</p>
+				<table id="footernav_newsletter_table">
+				    <tbody><tr>
+					<td><div class="footernavTextfield"><input id="footernav_newsletter_input" type="text" name="email" value="Type your email..." onfocus="newsletterInputFocus();" onblur="newsletterInputBlur();"></div></td>
+					<td><img src="/sites/cr/img/spacer.gif" alt="" width="5" height="1"></td>
+					<td><a href="javascript:void(0);" onclick="newsletterInputSubmit();"><img src="/sites/cr/img/footernav-submit.jpg" alt="" onmouseover="this.src='/sites/cr/img/footernav-submit-over.jpg';" onmouseout="this.src='/sites/cr/img/footernav-submit.jpg';"></a></td>
+				    </tr>
+				</tbody></table>
+				<div id="footernav_newsletter_success" style="display:none;">
+				    <table>
+					<tbody><tr>
+					    <th><img src="/sites/cr/img/newsletterThankyou-tick.png" alt=""></th>
+					    <td>
+						<p>Thank you</p>
+						<p id="footnewssuccessline2">You are now signed up</p>
+					    </td>
+					</tr>
+				    </tbody></table>
+				</div>
+				<script type="text/javascript">				    
+				    //////////////////////////////
+				    //////////////////////////////
+				    var newsletter_input_default = 'Type your email...';
+				    //////////////////////////////
+				    //////////////////////////////
+				    $('#footernav_newsletter_input').attr('value', newsletter_input_default);
+				    //////////////////////////////
+				    //////////////////////////////
+				    function newsletterInputFocus() {
+					if ($('#footernav_newsletter_input').attr('value') == newsletter_input_default)
+					    $('#footernav_newsletter_input').attr('value', '');
+				    }
+				    function newsletterInputBlur() {
+					if ($('#footernav_newsletter_input').attr('value') == '')
+					    $('#footernav_newsletter_input').attr('value', newsletter_input_default);
+				    }
+				    //////////////////////////////
+				    //////////////////////////////
+				    function newsletterInputSubmit() {
+					current_value = $('#footernav_newsletter_input').attr('value');
+					current_value = $.trim(current_value);
+					$.ajax({
+					    type	: 'POST',
+					    url		: '/sites/cr/inc/ajax.inc.php',
+					    data	: {
+						action		: 'newsletterSignup',
+						email		: current_value
+					    },
+					    success	: function(responseTxt) {
+						if (responseTxt != 'ok') {
+						    $('#footernav_newsletter_p').hide();						    
+						    $('#footernav_newsletter_p_error').hide();
+						    $('#footernav_newsletter_p_error').fadeIn();
+						    $('#footernav_newsletter_input').attr('value', current_value)
+						    $('#footernav_newsletter_input').focus();						    
+						}
+						else {
+						    $('#footernav_newsletter_p').hide();
+						    $('#footernav_newsletter_p_error').hide();
+						    $('#footernav_newsletter_table').hide();
+						    $('#footernav_newsletter_success').fadeIn();						    
+						}
+					    }
+					});
+
+				    }
+				    //////////////////////////////
+				    //////////////////////////////
+				</script>				
+			    </div>
+			</div>
+		    		</div>
+	    </div>
+	</div>
+	<div id="legals">
+	    <div class="wrapper">
+		<div class="wrapperInside">
+		    			<div id="legals-left">
+			    <ul>
+				<li><a href="terms.html" title="TERMS">TERMS</a></li>
+				<li><a href="privacy.html" title="PRIVACY">PRIVACY</a></li>
+				<li><a href="cookies.html" title="COOKIES">COOKIES</a></li>
+			    </ul>
+			</div>
+		    		    <div id="legals-right">
+			<ul>
+			    <li>© CLEAR REPORTS 2015</li>
+			    <li><i>OPTIMISE YOUR CAMPAIGNS</i></li>
+			</ul>
+		    </div>
+		</div>
+	    </div>
+	</div>
+
+	
+    
+
+
+</body></html>
