@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happywivesclub.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701144828id_/http%3A//www.happywivesclub.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happywivesclub.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506042547id_/http%3A//www.happywivesclub.com/privacypolicy) for the most accurate reproduction.*
 
-# The Happy Wives Club | One Woman’s Worldwide Search for the Secrets of a Great Marriage
+# Privacy Policy | Happy Wives Club
 
 **What information do we collect?**
 
@@ -62,8 +62,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://www.happywivesclub.com
 
-5737 Kanan Road, Unit 110  
-Agoura Hills, California 91301  
+4712 Admiralty Way, Unit 900
+
+Marina Del Rey, CA 90292  
 United States  
 info@happywivesclub.com
 
