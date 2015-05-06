@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709021703id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506221628id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Why apnapaisa?**
+**Why[apnapaisa](https://web.archive.org/ "apnapaisa")?**
 
-apnapaisa.com Services Private Limited respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by [apnapaisa](https://web.archive.org/ "apnapaisa").com you agree to the collection and use of your data by apnapaisa.com in the manner provided in this Privacy Policy.
+apnapaisa.com Services Private Limited respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by apnapaisa.com you agree to the collection and use of your data by apnapaisa.com in the manner provided in this Privacy Policy.
 
 **What data is collected from you automatically?**
 
