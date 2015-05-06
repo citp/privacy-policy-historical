@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220144510id_/http%3A//www.rif.org/us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507011944id_/http%3A//www.rif.org/us/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,8 +43,9 @@ Donor requests:
 a. Via U.S. Mail:   
 Reading Is Fundamental, Inc.   
 Attn: Development Department   
-P.O. Box 33728   
-Washington, DC 20033 
+1730 Rhode Island Ave. NW   
+Suite 1100   
+Washington, DC 20036 
 
 b. Via email : [development@rif.org](mailto:development@rif.org)
 
