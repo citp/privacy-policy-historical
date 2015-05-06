@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedcoverthypnosis.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719061337id_/http%3A//streethypnosis.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedcoverthypnosis.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506211045id_/http%3A//streethypnosis.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - streethypnosis.com
 
