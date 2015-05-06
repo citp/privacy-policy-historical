@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature-wallpapers.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225121352id_/http%3A//nature-wallpapers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature-wallpapers.co.uk privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506053854id_/http%3A//nature-wallpapers.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beautiful photos from Nature
 
