@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728080954id_/http%3A//www.titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506125927id_/http%3A//www.titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
 
 # Information about the Privacy Policy of Titan Poker
 
