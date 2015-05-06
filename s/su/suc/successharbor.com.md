@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121141647id_/http%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506063321id_/http%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Small Business Advice Help for Startups and Entrepreneurs
+# Privacy Policy - Small Business Advice Help For Startups and Entrepreneurs
 
 We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using Success Harbor. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
