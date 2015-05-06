@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208110629id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506073503id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
-_Last Revised August 15, 2014_
+_Last Revised May 1, 2015_
 
 ### Read our Full Privacy Policy Here
 
@@ -42,7 +42,7 @@ _Last Revised August 15, 2014_
 
 Please contact us here
 
-This policy describes the personal information Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta (collectively, "Gap Inc.") collect about you, why we collect it, how we use it, and when we share it with third parties. This policy covers our US stores and online experiences including our websites and mobile apps. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
+This policy describes the personal information Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store,and Athleta (collectively, "Gap Inc.") collect about you, why we collect it, how we use it, and when we share it with third parties. This policy covers our US stores and online experiences including our websites and mobile apps. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
 
 If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?", below.
 
@@ -89,8 +89,8 @@ back to top
 
 We may share your personal information in the following ways:
 
-  * When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, Athleta or Intermix), we may share that information with our other Gap Inc. brands. 
-  * If you purchase Athleta brand products through our website or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. We do not share email addresses for such purposes. We also do not share personal information about customers who only browse, email comments, request a catalog, or request email updates, or who purchase only Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, or Intermix merchandise. If you would prefer that we not share information about you with other companies, please let us know by contacting Athleta customer service as described in the section entitled, "How do I contact you?", below.
+  * When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Athleta or Intermix), we may share that information with our other Gap Inc. brands. 
+  * If you purchase Athleta brand products through our website or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. We do not share email addresses for such purposes. We also do not share personal information about customers who only browse, email comments, request a catalog, or request email updates, or who purchase only Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, or Intermix merchandise. If you would prefer that we not share information about you with other companies, please let us know by contacting Athleta customer service as described in the section entitled, "How do I contact you?", below.
   * We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information. 
   * We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers.
   * We may share information about you if necessary, in our good faith judgment, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Gap Inc. or others.
@@ -109,7 +109,7 @@ You can also ask us to update your personal information by contacting us as desc
 
 back to top
 
-Gap Inc. and our brands, including Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below or you can click on the self-service unsubscribe links below.
+Gap Inc. and our brands, including Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, and Athleta, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below or you can click on the self-service unsubscribe links below.
 
 If contacting customer service, please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc.
 
@@ -195,13 +195,6 @@ Grove City, OH 43123-8605
 1-800-OLD-NAVY (1-800-653-6289)  
 1-800-449-4253 (TDD hearing impaired)  
 [custserv@oldnavy.com](mailto:custserv@oldnavy.com)
-
-  
-5900 Piperlime Lane  
-Grove City, OH 43123  
-1-877-PIPERLIME (1-877-747-3754)  
-1-888-906-1345 (TDD hearing impaired)  
-[customercare@piperlime.com](mailto:custserv@piperlime.com)
 
   
 5900 North Meadows Drive  
