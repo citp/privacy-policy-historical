@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702132234id_/http%3A//www.losethebackpain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506101037id_/http%3A//www.losethebackpain.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LoseTheBackPain
+# Privacy Policy
 
 Healthy Back Institute (“HBI”) publishes health and fitness information for educational purposes via its website located at www.losethebackpain.com (“Website”). In this Privacy Policy all references to HBI will mean Healthy Back Institute and its parent, subsidiary and affiliated companies.
 
