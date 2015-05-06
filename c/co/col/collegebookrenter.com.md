@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegebookrenter.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073920id_/http%3A//www.collegebookrenter.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegebookrenter.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506032408id_/http%3A//www.collegebookrenter.com/privacy.cfm) for the most accurate reproduction.*
 
 # College Book Renter privacy policy for college text books you rent or sell
 
@@ -77,8 +77,3 @@ We will retain your information for as long as your account is active or as need
 
 **Changes in this Privacy Statement**  
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-College Book Renter   
-3333 US Hwy 641 North  
-Murray, KY 42071  
-USA 
