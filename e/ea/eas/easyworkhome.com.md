@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyworkhome.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223180854id_/http%3A//www.easyworkhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyworkhome.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506124110id_/http%3A//www.easyworkhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Easy Work Home
 
