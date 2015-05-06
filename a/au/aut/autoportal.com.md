@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoportal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075905id_/http%3A//autoportal.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoportal.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506104905id_/http%3A//autoportal.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -147,7 +147,7 @@ We reserve the right to disclose your personally identifiable and email address 
 
 We share your information with advertisers on an aggregate basis only.
 
-The security of your personal information and email address is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this linkhttp://www.verisign.com/ssl/index.html. We follow generally accepted industry standards to protect the personal information and email address submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
+The security of your personal information and email address is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this link//www.verisign.com/ssl/index.html. We follow generally accepted industry standards to protect the personal information and email address submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can send email us at Feedback
 
@@ -169,13 +169,13 @@ If your personally identifiable information or email address changes, or if you 
 
 If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
 
-You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/faq/
+You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to //www.cookiecentral.com/faq/
 
 ### COOKIES
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier and secured for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Reference for cookies can be found a http://www.cookiecentral.com/.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier and secured for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Reference for cookies can be found a //www.cookiecentral.com/.
 
 We use session cookies to store the secure session and browsing preferences of the user. We set a persistent cookie to store your username and interests so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
