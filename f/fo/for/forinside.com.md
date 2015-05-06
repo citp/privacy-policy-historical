@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forinside.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222132700id_/http%3A//forinside.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forinside.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506124126id_/http%3A//forinside.com/terms.html) for the most accurate reproduction.*
 
 # Forinside Youtube Download HD | Convert and save online
 
