@@ -1,20 +1,17 @@
-> *The following text is extracted and transformed from the abovethetie.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228205105id_/http%3A//www.abovethetie.com/%3Fprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovethetie.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506061932id_/http%3A//www.abovethetie.com/privacy-policy) for the most accurate reproduction.*
 
-# Above The Tie Privacy Policy
+# Privacy Policy | Above the Tie
 
 ### Effective November 1 2011
 
-  
-
-
 ### Privacy Notice Table Of Contents:
 
-Our Commitment To Privacy  
-The Information We Collect  
-The Information We Don't Collect  
-How We Use Information  
-Our Commitment To Data Security  
-How To Contact Us
+[Our Commitment To Privacy](http://www.abovethetie.com/?privacy_policy#Our%20Commitment%20To%20Privacy)  
+[The Information We Collect](http://www.abovethetie.com/?privacy_policy#The%20Information%20We%20Collect)  
+[The Information We Don’t Collect](http://www.abovethetie.com/?privacy_policy#The%20Information%20We%20Don%27t%20Collect)  
+[How We Use Information](http://www.abovethetie.com/?privacy_policy#How%20We%20Use%20Information)  
+[Our Commitment To Data Security](http://www.abovethetie.com/?privacy_policy#Our%20Commitment%20To%20Data%20Security)  
+[How To Contact Us](http://www.abovethetie.com/?privacy_policy#How%20To%20Contact%20Us)
 
 * * *
 
@@ -24,7 +21,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 * * *
 
-### The Information We Collect: 
+### The Information We Collect:
 
 This notice applies to all information collected or submitted on this website. On some pages, you can order products, send us messages, and register to receive promotions via e-mail. The types of personal information collected at these pages are:
 
@@ -34,7 +31,7 @@ Email address
 
 * * *
 
-### The Information We Don't Collect:
+### The Information We Don’t Collect:
 
 All financial information including back account, credit card, and debit card numbers are managed securely by PayPal. This informtion is never accessible to us, nor will we ever request this information. All monetary transactions are performed through the use PayPal.
 
@@ -44,11 +41,9 @@ All financial information including back account, credit card, and debit card nu
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can opt-in with our website e-mail promotions if you would like to receive updates on our new products and services. You can opt-out of these e-mails at anytime following the link in every e-mail you recieve, or notify us which e-mail address to remove from our list using our 
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can opt-in with our website e-mail promotions if you would like to receive updates on our new products and services. You can opt-out of these e-mails at anytime following the link in every e-mail you recieve, or notify us which e-mail address to remove from our list using our [Contact](http://www.abovethetie.com/?contact) page.
 
-[Contact](https://web.archive.org/web/20141228205105id_/http%3A//www.abovethetie.com/%3Fprivacy_policy?contact) page.
-
-We utilize google analytics to track user information including location, time on site, pages visited, operating system, and browser used. This information is for internal purposes only to help us improve our site's performance and end user experience. This information is not accessible to anyone other than our development team.
+We utilize google analytics to track user information including location, time on site, pages visited, operating system, and browser used. This information is for internal purposes only to help us improve our site’s performance and end user experience. This information is not accessible to anyone other than our development team.
 
 * * *
 
@@ -56,7 +51,7 @@ We utilize google analytics to track user information including location, time o
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### Our Commitment To Children's Privacy:
+### Our Commitment To Children’s Privacy:
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
@@ -64,6 +59,11 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please 
+Should you have other questions or concerns about these privacy policies, please [contact us](http://www.abovethetie.com/contact/).
 
-[contact us](https://web.archive.org/web/20141228205105id_/http%3A//www.abovethetie.com/%3Fprivacy_policy?contact). 
+###  Trackbacks and pingbacks
+
+
+
+
+_No trackback or pingback available for this article._
