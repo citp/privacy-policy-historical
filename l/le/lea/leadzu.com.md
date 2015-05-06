@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadzu.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229063512id_/http%3A//www.mobusi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadzu.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506165338id_/http%3A//www.mobusi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for mobusi mobile advertising, SL
 
