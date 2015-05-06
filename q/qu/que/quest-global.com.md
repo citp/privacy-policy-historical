@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205055907id_/http%3A//engineering.quest-global.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506132046id_/http%3A//engineering.quest-global.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | QuEST Global
 
