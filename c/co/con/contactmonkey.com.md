@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contactmonkey.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626115204id_/https%3A//contactmonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactmonkey.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506162410id_/http%3A//www.contactmonkey.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ContactMonkey
+# Privacy - ContactMonkey
 
 Your privacy is very important to us. We strive to ensure the privacy of everyone who visits this site. This privacy policy sets out what information we track and how we use it. By using this site, you consent to the collection of information in accordance with the terms of this privacy policy.
 
@@ -22,7 +22,7 @@ We reserve the right to access and disclose individually identifiable informatio
 
 **Use by children**
 
-If you are under 18, be sure to obtain your parents or guardians permission before you send any personal information (for example, your name, address, e-mail address, etc.) to us or anyone else over the Internet. We encourage parents to get involved with their children's online usage and to be aware of the activities in which they are participating.
+If you are under 18, be sure to obtain your parents or guardians permission before you send any personal information (for example, your name, address, e-mail address, etc.) to us or anyone else over the Internet. We encourage parents to get involved with their children’s online usage and to be aware of the activities in which they are participating.
 
 **Changes to Policy**
 
@@ -30,7 +30,7 @@ We may change this privacy policy from time to time by updating this posting. Pl
 
 **Cookies**
 
-A cookie is a small piece of information that is sent to your browser from a web server and stored on your computer's hard drive. Like most major websites, we use cookies to better understand how our site is used, to make sure our ads and dynamic content are served correctly and to improve the performance of our site for our users.
+A cookie is a small piece of information that is sent to your browser from a web server and stored on your computer’s hard drive. Like most major websites, we use cookies to better understand how our site is used, to make sure our ads and dynamic content are served correctly and to improve the performance of our site for our users.
 
 You may disable cookies on your browser, however this may limit your use of some website features.
 
@@ -42,4 +42,4 @@ We restrict access to personal information to ContactMonkey employees, contracto
 
 Data with sensitive information such as user passwords are transmitted over secure network connections using SSL/TLS technology.
 
-We welcome any questions regarding our privacy policy. We can be reached via e-mail at [support@contactmonkey.com](mailto:support@contactmonkey.com)
+We welcome any questions regarding our privacy policy. We can be reached via e-mail at <%= link_to “support@contactmonkey.com”, “mailto:support@contactmonkey.com” %>
