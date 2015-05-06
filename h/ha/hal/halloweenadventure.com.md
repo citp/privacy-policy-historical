@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230851id_/http%3A//www.halloweenadventure.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenadventure.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506160501id_/http%3A//www.halloweenadventure.com/privacy-security.html) for the most accurate reproduction.*
 
-# Halloween Costumes For Adults, Halloween Costumes for Kids and even Pets at HalloweenAdventure!
+# Halloween Costumes For Adults, Halloween Costumes for Kids and even Pets at Halloween Adventure!
 
 At halloweenadventure.com we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy & Security Policy. This will give you a summary of how information is collected from you and how it is used. 
 
@@ -25,7 +25,7 @@ When checking out, you can opt out of email promotions. Also, every email will h
 **Halloween Adventure**  
 104 4th Ave  
 New York, NY, 10003  
-888-402-6951  
+605-271-5377  
 [customerservice@halloweenadventure.com](mailto:customerservice@halloweenadventure.com)
 
 ### Cookies
