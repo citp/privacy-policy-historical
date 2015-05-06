@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the undergroundshirts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044607id_/http%3A//undergroundshirts.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundshirts.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506074436id_/http%3A//undergroundshirts.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Underground Printing
+# None
 
 ## Introduction
 
@@ -47,7 +47,7 @@ We collect this information:
 
 
 
-## Information You Provide to Us.
+## Information You Provide to Us
 
 The information we collect on or through our Website may include:
 
@@ -61,7 +61,19 @@ The information we collect on or through our Website may include:
 
 You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk.
 
-## Usage Details, IP Addresses, Cookies, and Other Technologies.
+## Intellectual Property Rights
+
+Underground Printing is committed to the appropriate and legal use of the intellectual property of others, and we require our users to behave similarly. Unless otherwise noted, all materials, including images, illustrations, designs, icons, photographs and written and other materials that appear on the Website (collectively the "Contents") are copyrights, trademarks, trade dress and/or other intellectual properties owned, controlled or licensed by us.
+
+Trademarks made available through this Website, including logos, slogans, color schemes and design trademarks, are licensed for use by us from Institutions and other third parties (the "Licensed Marks"). By using the Website, you agree to limit your use of Licensed Marks to uses that are directly related to such third parties and to comply with any restrictions or conditions imposed on the use and access of the Licensed Marks by the third parties. Underground Printing will notify you of such terms if your usage is in violation of such terms.
+
+Generally, products created using images available on the site should not be resold commercially. In the event that you wish to resell such products, you agree to contact us and verify the legality of reselling such products prior to doing so. Designs created using the text tools and images available through the site are in no way the exclusive property of the customers who assemble such designs. We retain the right to display such designs or offer them (or variations of such designs) to other customers.
+
+Additionally, we have the sole discretion to reject any order that it considers libelous, defamatory, obscene, profane (according to standards established by the FCC), portraying irresponsible use of alcohol or other substances, advocating persecution based on gender, age, race, religion, disability or national origin, containing explicit sexual content or is otherwise inappropriate for our production.
+
+You agree to not use our Website or Service to create any material that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable, or that infringes on any patent, trademark, trade secret, copyright or other proprietary rights of any third party.
+
+## Usage Details, IP Addresses, Cookies, and Other Technologies
 
 As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
 
@@ -89,7 +101,7 @@ The technologies we use for this automatic data collection may include:
 
 We do not collect personal Information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
-## Third-party Advertiser Use of Cookies and Other Tracking Technologies.
+## Third-party Advertiser Use of Cookies and Other Tracking Technologies
 
 Some advertisements on the Website are served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users' behavior on this and other websites to serve them interested-based (behavioral) advertising. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly.
 
@@ -177,4 +189,4 @@ To ask questions or comment about this privacy policy and our privacy practices,
 
 privacypolicy@undergroundshirts.com
 
-Last modified: [February 2014]
+Last modified: [August 2014]
