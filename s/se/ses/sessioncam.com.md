@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221213320id_/http%3A//www.sessioncam.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506065538id_/http%3A//www.sessioncam.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # SessionCam l Session Replay l Web Analytics l PRIVACY POLICIES
 
@@ -10,7 +10,7 @@ To discover more about the [features](http://www.sessioncam.com/features-of-sess
 
 #### What information do we collect for our own use?
 
-You can use our website to [create a user account](http://www.sessioncam.com/pricing/) for SessionCam. As part of the account registration process we will collect the information required to set-up a SessionCam account including your name, email address and the website on which you to use our services. We will also collect credit/debit card payment information from customers purchasing a [paid SessionCam subscription](http://www.sessioncam.com/pricing/). We have established trusted relationships with third party partners for our on-line payment processing. We use [Recurly](http://www.recurly.com/) for our subscription management and [Paypal](http://www.paypal.com/) for our payment processing. No credit/debit card information will be stored directly by SessionCam or [ServiceTick Ltd](http://www.servicetick.com/) (the company that provides SessionCam).
+You can use our website to [create a user account](http://www.sessioncam.com/pricing/) for SessionCam. As part of the account registration process we will collect the information required to set-up a SessionCam account including your name, email address and the website on which you to use our services. We will also collect credit/debit card payment information from customers purchasing a [paid SessionCam subscription](http://www.sessioncam.com/pricing/). We have established trusted relationships with third party partners for our on-line payment processing. We use [Recurly](http://www.recurly.com/) for our subscription management and [Paypal](http://www.paypal.com/) for our payment processing. No credit/debit card information will be stored directly by SessionCam .
 
 The web site includes a [contact form](http://www.sessioncam.com/contact-request/) through which customers can contact us to request further information and arrange a demonstration of our product. The information requested in the contact form is so that we can understand and respond appropriately to that request.
 
@@ -62,7 +62,7 @@ We do not share, sell, rent or exchange any of the information we collect with a
 
 #### Regulation
 
-SessionCam is a product that has been developed and is operated by ServiceTick Limited and is registered with the UK Information Commissioner. Further details on the UK Data Protection Act can be found at the website for [Information Commissioner’s Office](http://www.ico.gov.uk/).
+SessionCam is a product that has been developed and is operated by SessionCam Limited and is registered with the UK Information Commissioner. Further details on the UK Data Protection Act can be found at the website for [Information Commissioner’s Office](http://www.ico.gov.uk/).
 
 #### Find out more
 
