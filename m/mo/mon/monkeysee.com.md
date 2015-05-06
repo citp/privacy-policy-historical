@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the monkeysee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101334id_/http%3A//www.monkeysee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monkeysee.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506185153id_/http%3A//www.monkeysee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MonkeySee
 
 Last Updated: September 19, 2007
 
-[www.MonkeySee.com](https://web.archive.org/) (the “Site”) is brought to you by Knowlera Media, LLC (“we” or “us”). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.
+[www.MonkeySee.com](https://web.archive.org/) (the “Site”) is brought to you by Envisiant, Inc. (“we” or “us”). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.
 
 **Collection of Information**  
 _Personal Information_  
