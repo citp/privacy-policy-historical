@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shr77.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009053755id_/http%3A//cpv.li/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shr77.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506032514id_/http%3A//cpv.li/privacy) for the most accurate reproduction.*
 
 # CPV.LI - Free URL Shortener, Image Hosting, Video Hosting, Sharing : Privacy.
 
