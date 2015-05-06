@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the writerbay.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221084015id_/http%3A//www.writerbay.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writerbay.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506072934id_/http%3A//www.writerbay.com/privacy-policy.html) for the most accurate reproduction.*
 
 # WriterBay.com - Privacy Policy
 
 This Privacy Policy shall be applied to all the services rendered by WriterBay.com. 
 
-## We collect such kind of data:
+## The following data is collected:
 
 **Information you provide to us when filling out the registration form.**
 
@@ -32,7 +32,7 @@ On no condition will the data collected for the above described aims be disclose
 
 ## Complaints and suggestions
 
-To maintain the highest level of quality, we are always open to our Writers’ and visitors’ comments and requests. You can notify us if you consider that our collection or application of information is unfair, misleading or inappropriate. We are also waiting for any suggestions considering improvement of our service. You can always contact us via email  .
+To maintain the highest level of quality, we are always open to our Writers’ and visitors’ comments and requests. You can notify us if you consider that our collection or application of information is unfair, misleading or inappropriate. We are also waiting for any suggestions considering improvement of our service. You can always contact us via email [support@writerbay.com](mailto:support@writerbay.com) .
 
 ## Access to personal information
 
@@ -45,12 +45,12 @@ We always strive to be honest and open in terms of providing our Writers and web
 
 
 
-All requests for such data should be sent via our email: 
+All requests for such data should be sent via our email: [support@writerbay.com](mailto:support@writerbay.com)
 
 ## Links disclaimer
 
 WriterBay.com may include links to other sites at its pages, which on no condition presupposes validation of these sites’ content. The moment you leave WriterBay.com through link or in any other way, you are subject to the terms and conditions of that site, including but not limited to its Privacy Policy.
 
-## Amendments of this Privacy Policy
+## Amendments to this Privacy Policy
 
-We strive to improve the quality of our service and thus can change this Privacy Policy from time to time. All the amendments will be available for view at this page. This Privacy Policy was last updated on January 17, 2011.
+We strive to improve the quality of our service and thus can change this Privacy Policy from time to time. All the amendments will be available for view at this page. This Privacy Policy was last updated on April 27, 2015.
