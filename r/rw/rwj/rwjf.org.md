@@ -1,151 +1,154 @@
-> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509170209id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506084051id_/http%3A//www.rwjf.org/en/privacy-policy.html) for the most accurate reproduction.*
 
-# RWJF - Web Policies - Privacy Statement
+# Privacy Policy - Robert Wood Johnson Foundation
 
-### Effective Date: August 24, 2006
+### Effective Date: September 3, 2014
 
-The Robert Wood Johnson Foundation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [http://www.rwjf.org](http://www.rwjf.org/). Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
+This Privacy Policy (“ **Privacy Policy** ”) applies to (1) the web site located at [www.rwjf.org](http://www.rwjf.org/) (the “ **Web site** ”), which is owned and operated by the Robert Wood Johnson Foundation (the “ **Foundation** ,” “ **we** ,” “ **us** ,” or “ **our** ”), and (2) any other web sites, blogs, online communities, social media platforms, or other services that we may provide from time to time, whether on the Web site or otherwise (collectively, “ **Services** ”) and that link to this Privacy Policy.  This Privacy Policy describes how the Foundation collects and uses personally identifiable information you provide on the Sites.  Your use of the Services also is subject to any additional privacy policy that may be specified with respect to the Service at issue.  As used in this Privacy Policy, the term “Sites” refers to the Web site and the Services.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-| [](http://www.truste.org/ivalidate.php?url=www.rwjf.org&sealid=101)  
----|---  
-  
-If users have questions or concerns regarding this statement, you should first contact our Privacy Liaison using [the Contact Us form](https://web.archive.org/global/contactus.jsp). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html)](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.  
+The Foundation has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information.  The TRUSTe program covers information collected through the Sites.  TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at:
 
+Phone: (877) 843-RWJF (7953)
 
-  
+Fax: 609-627-6401, Attention RWJF Web Privacy
 
+Email: [Contact Us.](http://www.rwjf.org/en/about-rwjf/contact-rwjf.html)
 
-## Information Collection and Use 
+If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-  
+**Information Collection**
 
+Unless otherwise disclosed, the Foundation is the sole owner of information collected on the Sites.  The Foundation may collect information from our users at several different points on the Sites.  For example, we may collect information you provide to us when you use the Sites or otherwise transact business with us, such as when you complete a form on the Sites, when you register for an account with us, and/or when you contact us to inquire about our products or services.  More information is provided below.
 
-### Information Collection  
+**_Registration_**
 
+In order to use some features of the Sites, a user must first complete the registration form. During registration a user may be required to provide personally identifiable information and contact information (such as name, email and postal address).
 
-The Robert Wood Johnson Foundation is the sole owner of the information collected on rwjf.org websites. The Robert Wood Johnson Foundation collects information from our users at several different points on our Web site.
+**_Grant Applicants_**
 
-### Registration 
+This Privacy Policy does not apply to the information collected through the grant application or review process.
 
-In order to use some parts of the Web site, a user must first complete the registration form. During registration a user may give contact information (such as name, email and postal address). We use this information to contact the user about services on our site for which he or she has expressed interest. For example, we respond to inquiries about grantee resources, funding opportunities, and Foundation publications.
+**_Publication Orders_**
 
-### Grant Applicants 
+When a user orders a publication from the Sites, contact/shipping information (such as name, email, and shipping address) must be provided.   
 
-This privacy statement does not apply to the information collected through the grant application process. ([http://grantmaking.rwjf.org](http://grantmaking.rwjf.org/))
+**_Interests_**
 
-### Order 
+Unless otherwise stated, it is optional to provide information about your interests to better facilitate your interaction with the Sites.
 
-If only requesting publications from the site we request the same basic information from the user on our order form. A user must provide contact/shipping information (such as name, email, and shipping address). This information is used to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
+**_Surveys_**
 
-### Interests 
+We may request information from users via surveys or contests.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).  Participation in these surveys or contests is completely voluntary and users may therefore choose whether or not to disclose this information.
 
-It is optional to provide information about your interests to better facilitate your interaction with the website.
+**_Tell-A-Friend_**
 
-## Information Use 
+If a user elects to use a referral service for informing a friend about our Sites, we ask them for the friend’s name and email address. We will automatically send the friend a one-time email inviting them to visit the Web site and/or other Sites.  We do not store this information except as needed to process the requested referral function.
 
-Generally, we use information for the purpose of which it was originally collected. For instance, we use information for fulfilling orders for documents and publications, responding to requests for information, career inquiries, and fulfilling the services of The Robert Wood Johnson Foundation.
+**_Cookies and Other Technologies_**
 
-### Profile 
+A cookie is a piece of data stored on the user’s computer tied to information about the user.  We may use cookies or other technologies (such as web beacons and pixel tags) to track site usage and trends, to improve the quality of our service, and to customize your experience on the Web site.  We may provide this statistical information to third parties. We may use session-based cookies for session navigation purposes.  By setting a cookie on our Web site, users would not have to log in a password more than once, thereby saving time while on our Web site.  We also use persistent cookies.  A persistent cookie remains on your hard drive for an extended period of time.  You can turn off the ability to receive cookies by adjusting the browser on your computer.  If you refuse cookies, however, you may not be able to access or use some of the features we offer on our Web site.  Electronic images known as Web beacons (sometimes called single-pixel gifs) may be used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients.  This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-We store information that we collect through log files, interest boxes, and/or third parties to create a profile of some of our users. A profile is stored information that we keep on individual users. Consequently, this collected information is tied to the users' personally identifiable information to provide services and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent communications to them. We do not share your profile with any third parties.
+**_Log Files_**
 
-### Cookies
+Like most standard web site servers, we use log files, through which we may record Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Sites, track users’ movement in the aggregate, and gather broad demographic information for aggregate use.  Such log file information is not linked to personally identifiable information.
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is not linked to personally identifiable information while on our site.
+**_Third Party Cookies_**
 
-We use session based cookies for session navigation purposes. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be timed out prematurely.
+The use of cookies by our tracking utility companies is not covered by this Privacy Policy. We do not have access or control over these cookies.  Our tracking utility companies use session ID cookies to make it easier for you to navigate our site, and to compile aggregated statistics to help us analyze how our Sites are used.
 
-### Log Files
+**_Behavioral Targeting/ Re-Targeting_**
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+We partner with a third-party ad network to either display advertising on our Sites or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests.  If you do not want this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-### Communications from the Site  
+**_Social Media Widgets_**
 
+Our Sites often include Social Media Features, such as the Facebook “Like” button and Widgets, such as the “Share” this button or interactive mini-programs that run on our Sites. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly.  Social Media Features and Widgets are either hosted by a third party or hosted directly on our Sites.  Your interactions with these features are governed by the privacy policy of the company providing it.
 
-**Special Offers and Updates  
-**We send all new registrants a welcoming email to verify password and username. Established registered users will occasionally receive information they have asked to receive like products, services and/or alerts. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out section below.
+**Information Use**
 
-**Newsletter  
-**If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
+The Foundation may use personally identifiable information collected from you for several general purposes:
 
-**Service Announcements  
-**On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
+●    to deliver the products (i.e., publications) and services that you have requested and respond to your inquiries;
 
-### Sharing   
+●    to provide information about our products and services;
 
+●    to manage your profile account and provide you with customer support;
 
-We DO NOT Share Personal Information with Third Parties, except as needed to fulfill requested services using intermediaries or agents, without users express consent.
+●    to conduct surveys relating to the development of our services and Sites;
 
-Though we make every effort to preserve user privacy, we may disclose personal information when we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
+●    to otherwise maintain and administer the Sites; and
 
-**Aggregate Information (non-personally identifiable)**   
-We may share aggregated demographic information. This is not linked to any personally identifiable information.
+●    for other purposes described to you at the time you provide information to us.
 
-**Third Party Intermediaries**   
-We may use an outside shipping company to ship orders or other third parties that handle your personal information acting solely on our behalf. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+The examples below explain further how we may use information collected through the Sites.
 
-**Business Transitions**   
-In the event we go through a business transition, such as a merger, being acquired by another entity, or divest a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via email or prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+**_Profile_**
 
-### Choice/Opt-out  
+We store information that we collect through log files, interest boxes, and/or third parties to create user profiles. User profile information is tied to the users’ personally identifiable information to provide services and improve the content of the Web site for the user.  User profiles are used to tailor a user’s visit to our Web site and to direct pertinent communications to them.
 
+We may share your user profile with others, such as RWJF National Program Offices, grantees, co-funders and consultants.  We would do so because the Foundation aims to ensure that diverse points of view are represented in our work.  We believe diverse perspectives and experiences can deepen our understanding of differences in health outcomes and health care delivery. Varied perspectives also can strengthen our capacity to develop effective solutions.
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order/registration form has an 'opt-out' mechanism so users who order a product from us, but don't want any secondary material, can keep their email address off of our lists. 
+**_Communications_**
 
-Users who no longer wish to receive our newsletter or secondary communications may opt-out of receiving these communications by visiting our registration page and choosing not to receive information. 
+For new email subscribers, we use Double Opt-In which is also referred to as Confirmed Opt-In.  We send all new registrants an email with a link to confirm their email subscription.  Unless otherwise stated, new registrants will be signed up to receive Advances®, the Foundation’s monthly newsletter. Established registered users will occasionally receive information they have asked to receive such as information about products, services and/or alerts.  
 
-### Links  
+Out of respect for the privacy of our users we present the option not to receive newsletter communications.  Please see the Choice/Opt-out section below.
 
+**_Service Announcements_**  
 
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
-## Surveys   
+From time to time, it may be necessary for us to send out a service-related announcement. For instance, if our Web site is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. These communications are not promotional in nature.
 
+**Information Sharing**
 
-We may request information from users via surveys. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used for purposes of monitoring or improving the use and satisfaction of this site or our services. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes.
+_**Personally Identifiable Information**_
 
-### Tell-A-Friend   
+We may disclose your personally identifiable information to other companies or people as stated in this Privacy Policy, including under any of the following circumstances:
 
+●    when we have your consent to share the information. You may grant such consent at the time you provide or transmit information to us;
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. We will automatically send the friend a one-time email inviting them to visit the site. We do not store this information except as needed to process the requested referral function.
+●    to conform or comply with the law, or if we have a good-faith belief that such action is necessary to comply with a court order or subpoena, to cooperate with investigations by law enforcement or regulatory authorities or to participate or cooperate with a judicial proceeding, to enforce applicable terms and conditions of the Web site, or in urgent circumstances, to protect the safety of persons or property, including the Web site; or
 
-## Security   
+●    in the event of a merger, consolidation or reorganization involving the Foundation or other similar transaction, your personal information will, in most instances, be transferred to the control of a third party. In addition, we may use third-party service providers (“ **Service Providers** ”) to provide certain services, such as hosting, software maintenance, or database maintenance, which are necessary for Foundation operations, including the operation of the Web site. These Service Providers may be supplied with or have access to the information you provide through the Web site, but only for the purpose of providing services to the Foundation or on our behalf. Third parties are prohibited by the Foundation from using your information for any secondary purposes.
 
+**_Aggregate Information (non-personally identifiable)_**
 
-This Web site takes every precaution to protect our users' information. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, employees are kept up-to-date on our security and privacy practices. The servers that store personally identifiable information is in a secure environment.
+We may share and disclose information in aggregate, without linking such information to any personally identifiable information.
 
-## Supplementation of Information   
+**Choice/Opt-out**
 
+In general, our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our Sites at the point where we ask for information.  In addition, users who no longer wish to receive our newsletter or secondary communications may opt-out of receiving these communications by visiting the Subscribe to Email link in the footer of every page.
 
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. For example, to determine if users qualify for one of our grants we use their information to compare and determine their identity.
+**Blogs**
 
-## Correcting/Updating/Deleting/Deactivating Personal Information   
+Our Site may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.  To request removal of your personally identifiable information from our blog or community forum, [contact us](http://www.rwjf.org/en/about-rwjf/contact-rwjf.html).  In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
+**Links**
 
-If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, you can [update your profile](https://web.archive.org/services/myprofile.jsp). 
+The Sites may contain links to other web sites.  Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Sites and to read the privacy statements of each and every web site that collects personally identifiable information.  This Privacy Policy applies solely to information collected on the Sites.
 
-## Notification of Changes   
+**Security**
 
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+**Updating and Deleting Personally Identifiable Information**
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email and/or by posting a notice on our Web site for 30 days.
+We do not collect personally identifiable information for email subscribers.
 
-## Contact Information   
+**Data Retention**
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please [contact us](http://www.rwjf.org/en/about-rwjf/contact-rwjf.html). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
+**Your California Privacy Rights**
 
-Phone (877) 843-RWJF (7953)  
-Fax: 609-627-6401, Attention RWJF Web Privacy   
-Email: [Contact Us](https://web.archive.org/global/contactus.jsp)  
-Postal Address
+Pursuant to California Civil Code Section 1798.83, a California resident who has provided personal information to a business with whom he/she has established a business relationship has the right to request certain information regarding the disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please use our [contact us form](http://www.rwjf.org/en/about-rwjf/contact-rwjf.html), or write to us at: Robert Wood Johnson Foundation, Route 1 and College Road East, Princeton, NJ 08543-2316, Attention: RWJF Web Privacy.
+
+**Changes to this Privacy Policy**
+
+The Foundation may amend this Privacy Policy at any time in its sole discretion, subject to any applicable laws.  Please review this Privacy Policy periodically to confirm your continued agreement with the terms contained herein, as the same may be amended from time to time.
+
+© 2014 Robert Wood Johnson Foundation
 
 Robert Wood Johnson Foundation  
-Attention: Web Privacy  
 Route 1 and College Road East  
 Princeton, NJ 08543-2316
-
-Web site URL [http://www.rwjf.org](http://www.rwjf.org/)
-
-Back to Top
