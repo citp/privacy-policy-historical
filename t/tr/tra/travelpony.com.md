@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the travelpony.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629052736id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpony.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506164316id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TravelPony
 
 ## Introduction
 
-Travel Innovations Group, LLC, 102 Woodmont Blvd. #600, Nashville, TN 37205, USA, ("OPERATOR") provides access to and use of this site, TravelPony.com ("Site"). TravelPony.com is committed to maintain security and confidentiality of the personal information gathered and used on the www.travelpony.com website (“hereinafter the Website”). This Privacy Statement covers www.travelpony.com.
+TravelPony, LLC, 102 Woodmont Blvd. #600, Nashville, TN 37205, USA, ("OPERATOR") provides access to and use of this site, TravelPony.com ("Site"). TravelPony.com is committed to maintain security and confidentiality of the personal information gathered and used on the www.travelpony.com website (“hereinafter the Website”). This Privacy Statement covers www.travelpony.com.
 
 TravelPony.com and its authorized technology, marketing and service providers may gather, store, and process personal information from the Website.
 
@@ -16,7 +16,7 @@ Children and individuals under 18 years of age are not permitted to register or 
 
 ### Information Use
 
-TravelPony.com gathers, stores, and processes the PII in order to respond to requests for travel products and services and to improve our Website and service. Lastminutetravel.com may share your information with its authorized technology, marketing and service providers. However, TravelPony.com does not sell, share, rent, or trade personal information to third parties for promotional purposes. The suppliers of travel inventory (hotels, etc.) that receive your information may have privacy policies that are different than this Privacy Policy. Our credit card processing uses your PII solely to facilitate the completion of your travel booking.
+TravelPony.com gathers, stores, and processes the PII in order to respond to requests for travel products and services and to improve our Website and service. TravelPony.com may share your information with its authorized technology, marketing and service providers. However, TravelPony.com does not sell, share, rent, or trade personal information to third parties for promotional purposes. The suppliers of travel inventory (hotels, etc.) that receive your information may have privacy policies that are different than this Privacy Policy. Our credit card processing uses your PII solely to facilitate the completion of your travel booking.
 
 We may share your information you provide, including PII, with third parties in a legal proceeding, when there is reasonable to believe that illegal or fraudulent activity has or may occur, and/or in certain corporate transactions provided the recipients of the data in these transactions are contractually obligated to abide by this or a similar Privacy Policy. 
 
@@ -56,7 +56,7 @@ The security of your PII is important to us. When you enter sensitive informatio
 
 We follow generally accepted industry standards to protect the PII submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your PII, we cannot guarantee its absolute security. 
 
-When you click on any links on our Website, you leave our Website and enter the website of a third party. Your visit to these third party websites are governed by the privacy and security policies, if any, of those third party sites. Lastminutetravel.com is not responsible for security and confidentiality of your information on third party sites. 
+When you click on any links on our Website, you leave our Website and enter the website of a third party. Your visit to these third party websites are governed by the privacy and security policies, if any, of those third party sites. TravelPony.com is not responsible for security and confidentiality of your information on third party sites. 
 
 We reserve the right to disclose your PII as required by law, when we believe that disclosure is necessary to protect our rights, and/or to comply with a judicial proceeding, court order, or legal process. In addition, TravelPony.com may disclose certain information in cases of fraud or abuse of the Website. 
 
