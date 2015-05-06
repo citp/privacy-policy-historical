@@ -1,77 +1,56 @@
-> *The following text is extracted and transformed from the instantcustomer.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017023618id_/http%3A//www1.instantcustomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcustomer.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506185947id_/http%3A//get.instantcustomer.com/privacy-policy) for the most accurate reproduction.*
 
-# InstantCustomer.com » Privacy Policy
+# Privacy Policy | InstantCustomer.com
 
-**www.instantcustomer.com**
+### Instant Customer & The Pulse Network
 
-**Privacy Policy**
+Instant Customer is a wholly owned subsidiary of The Pulse Network, Inc. All policies established by The Pulse Network are fully adopted by Instant Customer.
 
-Welcome to www.instantcustomer.com (the “Site”). 
+The policy of the The Pulse Network, Inc. web site is to respect and protect the privacy of its employees and users to the extent permitted by law.
 
-We understand that privacy online is important to users of our Site, especially when conducting business. 
+The Pulse Network, Inc. wants to ensure network security and consistent service for all users. To do so, The Pulse Network employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, and detect viruses and other software that might cause damage to the network. Personally identifiable information from these activities is not released to external parties without your consent unless required by law. The information we gather is for internal purposes and to improve the content of the web site.
 
-This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services (collectively, “Services”) offered by www.instantcustomer.com (“Authorized Customers”). 
+### Types and Uses of Personal Information
 
-**What is Personally Identifiable Information?**
+If you use this website, personally identifiable information about you may be collected and processed by the Pulse Network and it’s employees. In general, we only collect information (such as your name, e-mail address, and company) when you knowingly provide it to us. Additionally, the Pulse Network may automatically collect or process personally identifiable data (such as your Internet domain or IP address) as part of the operation of this website or during the course of your activities on or use of this website. In nearly all cases this data may be collected or processed by the Pulse Network. By using this website, you consent to any collection, processing, transfer or use of any personal data. If you do not consent to any collection, processing, transfer or use of such information, please discontinue use of this website. We do not sell, rent, trade, or distribute any personally identifiable information obtained from visitors to a third party, except as required by law.
 
-Personally Identifiable Information refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, Social Security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
+### Security
 
-**What Personally Identifiable Information is collected?**
+We use appropriate safeguards to ensure the security, integrity, and privacy of personally identifiable information submitted to our site and periodically update measures with new technologies. When appropriate, the Pulse Network uses encryption technologies, user authentication systems, and access control mechanisms. This web site contains links to other sites. Please be aware that the Pulse Network is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: bill to and ship to names, addresses, phone numbers, email addresses and credit card information needed to authorize purchases and transact payments for products and services. 
+### Access to Your Information
 
-**What organizations are collecting the information?**
+If you choose to provide us with personal information, as in a form or e-mail message, The Pulse Network, Inc. will use this information to respond to your request.
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them. 
+If you have questions about this site, its collection of information, and its online privacy policy, contact us at  **[Customerservice@Thepulsenetwork.com](mailto:customerservice@thepulsenetwork.com).**  
+If you have questions or would like more information about the online data we collect from you, call 781-821-6600.
 
-**How does the Site use Personally Identifiable Information?**
+### Use of Cookies
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+The Pulse Network may use “cookies” in connection with operation of its websites. Cookies are small pieces of information that are stored on your computer by the the Pulse Network website server. Cookies are used for record keeping purposes-the stored information can be retrieved by the the Pulse Network website server when you return to the website. This allows the Pulse Network to personalize or regulate the use of the site.
 
-**With whom may the information may be shared?**
+### Usage Data
 
-Personally Identifiable Information about Authorized Customers may be shared only with other Authorized third party service vendors for purposes of completing transactions. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf. 
+In addition, we use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. The Google Analytics Terms of Use are available online at http://www.google.com/analytics/tos.html. The Google Privacy Policy is available online at http://www.google.com/privacypolicy.html. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
 
-**How is Personally Identifiable Information stored?**
+### Modifications to Statement
 
-Personally Identifiable Information collected by www.instantcustomer.com is securely stored and is not accessible to third parties or employees of www.instantcustomer.com except for use as indicated above. 
+The Pulse Network reserves the right to change, modify, or update this statement at any time without notice.
 
-**What Choices are Available to Visitors Regarding Collection, Use and Distribution of the Information?**
+### Data Retention
 
-Visitors and Authorized Customers may opt out of receiving information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014). 
+The Pulse Network will not retain your personal information longer than is necessary for the purpose it was collected.
 
-**Are Cookies Used on the Site?**
+### Unsubscribing
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off. 
+To unsubscribe from receiving future email messages from Instant Customer, please click on the unsubscribe link at the bottom of our emails or send an email request to **help@InstantCustomer.com**. Please note, it takes up to (3) business days for processing.
 
-**How do www.instantcustomer.com  Use Login Information? **
+Looking for the right plan for your business? Contact an advisor today!
 
-www.instantcustomer.com use login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information. 
+## For custom or enterprise pricing contact an advisor today at:
 
-**What Partners or Service Providers Have Access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**
+## US Toll Free: (877) 505-5344
 
-www.instantcustomer.com have entered into and may continue to enter into relationships with authorized third party vendors for transaction processing, tax accounting and other financial services. Such vendors may have access to certain Personally Identifiable Information on a need to know basis in the course of performing their services. Our privacy policy does not cover their exposure to this information. 
+## International: +1 (858) 480-9101
 
-**Disclosure of Personally Identifiable Information to Comply with Law**
-
-We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
-
-**How Does the Site Keep Personally Identifiable Information Secure?**
-
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
-
-**How Can Visitors Correct Any Inaccuracies in Personally Identifiable Information?**
-
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014). 
-
-**Can a Visitor Delete or Deactivate Personally Identifiable Information Collected by the Site?**
-
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
-
-**What Happens if the Privacy Policy Changes?**
-
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
-
-**Links**
-
-This Web site contains links to other Web sites. Please note that when you click on one of these links, or you ask us to forward information to a third party site on your behalf, you are moving to another Web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+×
