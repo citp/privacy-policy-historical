@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the travelpony.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629052736id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelpony.com privacy policy that was archived on 2015-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150506164316id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,6 +14,7 @@
 
   var is_logged_in = false; 
   var is_mobile = false; 
+  var is_mobile_app = false; 
   
   window.optimizely = [["delayPageviewTracking", 450]];
   </script>
@@ -26,7 +27,7 @@
         <meta property="fb:app_id" content="592721854090218">
     
     <link href="https://plus.google.com/108962684937435495818" rel="publisher">
-   <script type="text/javascript" src="http://www.travelpony.com/js/jquery1.9.1.min.js"></script><script type="text/javascript" src="http://www.travelpony.com/js/head.load.1.0.3.min.js"></script><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="http://www.travelpony.com/css/bootstrap.min.css"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lilita+One|Open+Sans"><link rel="stylesheet" type="text/css" href="http://www.travelpony.com/css/main.css">    
+   <script type="text/javascript" src="http://www.travelpony.com/js/jquery1.9.1.min.js"></script><script src="//cdn.optimizely.com/js/304162818.js"></script><script type="text/javascript" src="http://www.travelpony.com/js/head.load.1.0.3.min.js"></script><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="http://www.travelpony.com/css/bootstrap.min.css"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lilita+One|Open+Sans"><link rel="stylesheet" type="text/css" href="http://www.travelpony.com/css/main.css">    
     <script type="text/javascript">
       jQuery.noConflict = function(){  };  // hack for SAH browser extension
       
@@ -40,7 +41,7 @@
       head.load(
              { bootstrap: asset_path + "js/bootstrap.min.js?d=20140317" },
              {   blockui: asset_path + "js/blockui.js" },
-             {      main: asset_path + "js/main.js?d=2014062900" + ""}
+             {      main: asset_path + "js/main.js?d=2015050611" + ""}
              
       );
   
@@ -58,7 +59,7 @@
     
       ga('create', 'UA-39672195-1', 'travelpony.com');
       // ga('set', 'dimension1', 'guest');
-
+      ga('require', 'displayfeatures');
       
       var ga_current_url = "http://www.travelpony.com" + document.location.pathname + document.location.search;
       
@@ -94,8 +95,6 @@
       			
     			  
 
-
-
 <div class="pull-right" id="newsletter_popover" onclick="$('#newsletter_popover [data-toggle=popover]').popover('show'); $(this).attr('onclick','')">
 <div style="width:25px; height:19px; margin:10px 0px 0 13px" data-toggle="popover" data-placement="bottom" title="" data-original-title="Stay Connected with TravelPony" data-html="true" data-content="
 <div>
@@ -120,7 +119,12 @@
 </div>
 
 <ul class="nav nav-pills">
-  <li data-shortcut="login"><a href="/login">Log in</a></li>
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-size:16px; font-weight:bold; color:black">$ USD</a>
+    <ul class="dropdown-menu">
+      <li><a href="/account/currency">Currency: <b>USD</b>&nbsp; <i class="icon-pencil"></i></a></li>
+    </ul>
+</li>  <li data-shortcut="login"><a href="/login">Log in</a></li>
   <li data-shortcut="signup" class="active"><a href="/register">Sign up</a></li>
 </ul>
 
@@ -142,7 +146,7 @@
 <h1>Privacy Policy</h1>
 
 <h2>Introduction</h2>
-<p>Travel Innovations Group, LLC, 102 Woodmont Blvd. #600, Nashville, TN 37205, USA, ("OPERATOR") provides access to and use of this site, TravelPony.com ("Site"). TravelPony.com is committed to maintain security and confidentiality of the personal information gathered and used on the www.travelpony.com website (“hereinafter the Website”). This Privacy Statement covers www.travelpony.com.<br>
+<p>TravelPony, LLC, 102 Woodmont Blvd. #600, Nashville, TN 37205, USA, ("OPERATOR") provides access to and use of this site, TravelPony.com ("Site"). TravelPony.com is committed to maintain security and confidentiality of the personal information gathered and used on the www.travelpony.com website (“hereinafter the Website”). This Privacy Statement covers www.travelpony.com.<br>
 <br>
 TravelPony.com and its authorized technology, marketing and service providers may gather, store, and process personal information from the Website.<br>
 <br>
@@ -154,7 +158,7 @@ Children and individuals under 18 years of age are not permitted to register or 
 <br>
 
 <h3>Information Use</h3>
-TravelPony.com gathers, stores, and processes the PII in order to respond to requests for travel products and services and to improve our Website and service. Lastminutetravel.com may share your information with its authorized technology, marketing and service providers. However, TravelPony.com does not sell, share, rent, or trade personal information to third parties for promotional purposes. The suppliers of travel inventory (hotels, etc.) that receive your information may have privacy policies that are different than this Privacy Policy. Our credit card processing uses your PII solely to facilitate the completion of your travel booking.<p></p>
+TravelPony.com gathers, stores, and processes the PII in order to respond to requests for travel products and services and to improve our Website and service. TravelPony.com may share your information with its authorized technology, marketing and service providers. However, TravelPony.com does not sell, share, rent, or trade personal information to third parties for promotional purposes. The suppliers of travel inventory (hotels, etc.) that receive your information may have privacy policies that are different than this Privacy Policy. Our credit card processing uses your PII solely to facilitate the completion of your travel booking.<p></p>
 
 <p>We may share your information you provide, including PII, with third parties in a legal proceeding, when there is reasonable to believe that illegal or fraudulent activity has or may occur, and/or in certain corporate transactions provided the recipients of the data in these transactions are contractually obligated to abide by this or a similar Privacy Policy.&nbsp;<br>
 <br>
@@ -193,7 +197,7 @@ The security of your PII is important to us. When you enter sensitive informatio
 <br>
 We follow generally accepted industry standards to protect the PII submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your PII, we cannot guarantee its absolute security.&nbsp;<br>
 <br>
-When you click on any links on our Website, you leave our Website and enter the website of a third party. Your visit to these third party websites are governed by the privacy and security policies, if any, of those third party sites. Lastminutetravel.com is not responsible for security and confidentiality of your information on third party sites.&nbsp;<br>
+When you click on any links on our Website, you leave our Website and enter the website of a third party. Your visit to these third party websites are governed by the privacy and security policies, if any, of those third party sites. TravelPony.com is not responsible for security and confidentiality of your information on third party sites.&nbsp;<br>
 <br>
 We reserve the right to disclose your PII as required by law, when we believe that disclosure is necessary to protect our rights, and/or to comply with a judicial proceeding, court order, or legal process. In addition, TravelPony.com may disclose certain information in cases of fraud or abuse of the Website.&nbsp;<br>
 <br>
@@ -230,7 +234,7 @@ html, body, #wrap { background-color:white }
 	  </div>
 	  
 	  <div class="footer-inner">
-		     <span class="prettyfont2 pull-left" style="font-size:25px">© 2014 TravelPony.com</span>
+		     <span class="prettyfont2 pull-left" style="font-size:25px">© 2015 TravelPony.com</span>
 		     
 		     <div class="pull-left" style="position:relative; z-index:150">
 		       <div class="footer_col">
@@ -276,8 +280,8 @@ html, body, #wrap { background-color:white }
  
     head.ready(function(){
       
-            load_adroll_retargeting();
-          })
+      
+    })
   </script>
     
 
