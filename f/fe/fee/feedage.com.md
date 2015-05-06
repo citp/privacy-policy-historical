@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feedage.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229161023id_/http%3A//www.feedage.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedage.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506045815id_/http%3A//www.feedage.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Feedage - Privacy policy
+# Feedage.com - Privacy policy
 
 Privacy Policy
 
