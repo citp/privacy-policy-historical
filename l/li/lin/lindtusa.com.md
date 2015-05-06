@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025230635id_/http%3A//www.lindtusa.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506064201id_/http%3A//www.lindtusa.com/shop/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lindt USA
 
   
-Last Modified: January 26, 2011
+Last Modified: November 2, 2014
 
 This is the official privacy policy (the "Privacy Policy") of Lindt & Sprüngli (USA) Inc. ("Lindt"), makers of fine chocolates. We at Lindt respect your concerns about privacy. Accordingly, we have adopted the following Privacy Policy which describes the information we collect about you from this, and other websites operated by Lindt & Sprüngli (USA) Inc. (the "website"), as well as why and how we use it. We also explain the choices you can make about how we collect and use your information. By using this website, you agree with the terms of this Privacy Policy. Whenever you submit information via our website (collectively, the "website"), you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. As we continue to develop our website and take advantage of technologies to improve the services we provide, our Privacy Policy will periodically change and evolve. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
 
@@ -77,4 +77,4 @@ Privacy Policy Updates
 
 Lindt may update this Privacy Policy from time to time. When we make changes, we will post them here. If we make material changes, we will place a notice on our website or we may send a notice to the email address you provided to us. You may wish to periodically refer back to our Privacy Policy to ensure that you are aware of our current policy.
 
-Effective as of January 26, 2011
+Effective as of November 2, 2014
