@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wzronline.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219174126id_/http%3A//www.wzronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wzronline.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506235647id_/http%3A//www.wzronline.com/privacy-policy) for the most accurate reproduction.*
 
-# WZR Online – Privacy
+# WZROnline.com: Wrestling News, WWE News, TNA News – Privacy
 
 WZROnline.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: WZROnline.com
 
