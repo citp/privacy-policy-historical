@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intofilm.org privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104192852id_/http%3A//www.intofilm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intofilm.org privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506105710id_/http%3A//www.intofilm.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Into Film
+# Privacy Policy - Into Film
 
 ## Introduction and General Terms
 
@@ -80,6 +80,18 @@ Under the Data Protection Act you have the right to request a copy of the person
 Please address requests and questions about this or any other question about this Privacy Policy to:
 
 Into Film 31 Islington Green London N1 8DU
+
+## Make Film - Greatest Generation project: What data do we collect?
+
+  * Data you give to us during the register, login process and feedback (through visitors emailing us), anonymous site usage information using Google Analytics, and site usage information for logged in individuals that will enable us to further assist and enhance the user experience.
+  * Personal information that you give to us contained in signed release forms that you upload with any film submissions for the Make Film Greatest Generation filmmaking project.
+  * The release forms will be stored digitally by Into Film and used only for the purposes of this project. The release forms will be shared with BBC Learning and the production company commissioned to make the BBC Learning compilation film for the project for the purposes of BBC transmission.
+  * All personal information associated with this project, including release forms will be acquired, stored and transmitted in accordance with European Data Protection Legislation by all parties. 
+  * If BBC Learning or the production company commissioned to make the compilation film need to contact you regarding including your submitted film in the BBC Learning compilation, they may do so. They will not contact you for any other purpose.
+
+
+
+All personal information associated with this project will not be shared with any other third party.
 
 ## Changes to this privacy policy
 
