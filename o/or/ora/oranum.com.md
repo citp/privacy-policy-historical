@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oranum.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419190015id_/http%3A//community.oranum.com/en/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oranum.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506204616id_/http%3A//community.oranum.com/en/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Personal Data - Oranum
 
@@ -13,13 +13,13 @@ The Terms and Conditions below is the shortened version of the full Terms and Co
 I hereby authorize Oranum.com to process technical data related to my visit to the Oranum.com website and my data provided during the registration process in accordance with the present privacy policy, during the period of my subscription with Oranum.com and after cancellation of my subscription during the period necessary for Oranum.com to comply with legal requirements.
   2. 10.2
 
-I have not and will not provide any false information and/or documents to Oranum.com. therefore, i recognize that Oranum.com has the right to, immediately and unilaterally, terminate the present agreement upon the slightest suspicion of forgery.
+I have not and will not provide any false information and/or documents to oranum.com. therefore, i recognize that oranum.com has the right to, immediately and unilaterally, terminate the present agreement upon the slightest suspicion of forgery.
   3. 10.3
 
-I also acknowledge the right of Oranum.com to be fully indemnified for all damages caused in case of my unlawful conduct or breach of the present contractual terms and conditions.
+I also acknowledge the right of oranum.com to be fully indemnified for all damages caused in case of my unlawful conduct or breach of the present contractual terms and conditions.
   4. 10.4
 
-I allow all my data to be inspected by Oranum.com, randomly, resorting to any existing means for such effect. notwithstanding, i am aware that it is not their duty to proceed with such inspection and said entities will not be considered responsible, either jointly or severally, in case of my unlawful conduct. 
+I allow all my data to be inspected by oranum.com, randomly, resorting to any existing means for such effect. notwithstanding, i am aware that it is not their duty to proceed with such inspection and said entities will not be considered responsible, either jointly or severally, in case of my unlawful conduct. 
   5. 10.5
 
 I agree and authorise Oranum.com to obtain and store information automatically from my computer used to visit Oranum.com website (with use of cookies and similar technologies). Oranum.com may track the subscriber's visit to the website by giving a cookie when entering. Cookies help to collect anonymous data for tracking user trends and patterns.
@@ -31,10 +31,10 @@ I agree and allow Oranum.com to collect, process and communicate to its processo
 Information that the subscriber's voluntarily provide to and/or authorize to view, such as names, email address, address, date of birthand other miscellaneous account information submitted through Oranum Submission Forms. 
   8. 10.6.2
 
-Number of visits and areas of Oranum.com pages visited by the subscriber's. software and hardware attributes might get logged too, along with any other data that can be gained from the general internet environment, such as browser type, ip address, etc.<
+Number of visits and areas of oranum.com pages visited by the subscriber's. software and hardware attributes might get logged too, along with any other data that can be gained from the general internet environment, such as browser type, ip address, etc. 
   9. 10.6.3
 
-Private communications, such as telephone conversations, chat logs, faxes and letters to oranum staff along with e-mail messages to chat hosts or to our staff. Oranum.com also keeps chat hosts chat client logs for a limited period of time.
+Private communications, such as telephone conversations, chat logs, faxes and letters to oranum staff along with e-mail messages to chat hosts or to our staff. oranum.com also keeps chat hosts chat client logs for a limited period of time.
   10. 10.76
 
 Oranum.com will use the data collected from the subscriber's for mainly general purposes, such as improving services, contacting the subscriber's and customizing the website content and for promotional marketing services, to the extent allowed by law.
@@ -49,7 +49,7 @@ Oranum.com takes serious security measures to grant maximum protection to inform
 Oranum.com guards the subscriber's information on a physical level as well as on electronic level.
   14. 10.11
 
-Besides using its own security software and mechanisms, Oranum.com also incorporates the most advanced security technologies available in order to ensure maximum safety of its subscribers.
+Besides using its own security software and mechanisms, oranum.com also incorporates the most advanced security technologies available in order to ensure maximum safety of its subscribers.
   15. 10.12
 
 A non-exhaustive list of the referred technologies is as follows: sophisticated CAPTCHA system, SSL3 encryption, VeriSign and McAfee digital certificates.
@@ -58,7 +58,7 @@ A non-exhaustive list of the referred technologies is as follows: sophisticated 
 Oranum.com's system meets the security standards of pci dss, a standard set by visa/mastercard laying down stringent requirements.
   17. 10.14
 
-Oranum.com employees' access to any personal information of Oranum.com subscribers is extremely limited and they are bound by confidentiality obligations. Therefore, they might be subject to disciplinary measures, including the termination of their contracts and in serious cases even criminal prosecution should they fail to meet these strict obligations.
+Oranum.com employees' access to any personal information of oranum.com subscribers is extremely limited and they are bound by confidentiality obligations. therefore, they might be subject to disciplinary measures, including the termination of their contracts and in serious cases even criminal prosecution should they fail to meet these strict obligations.
   18. 10.15
 
 Oranum.com does not rent, sell, trade, share or otherwise transfer information to outside parties except the communication to Oranum.com services providers in order to ensure the good functioning of Oranum.com services.
