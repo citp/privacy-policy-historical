@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbsi.com.au privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619073059id_/http%3A//www.cbsinteractive.com.au/cbsinteractive/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsi.com.au privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506054059id_/http%3A//www.cbsinteractive.com.au/cbsinteractive/privacy.htm) for the most accurate reproduction.*
 
 # CBS Interactive
 
