@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the whilemusic.com privacy policy that was archived on 2014-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141123090901id_/http%3A//www.whilemusic.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whilemusic.com privacy policy that was archived on 2015-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150506103001id_/http%3A//whilemusic.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
 <meta property="og:title" content="While Music">
-<meta property="og:url" content="http://www.whilemusic.com/PrivacyPolicy">
+<meta property="og:url" content="http://whilemusic.com/PrivacyPolicy">
 <meta property="og:image" content="http://www.whilemusic.com/Content/images/logo.png">
 <meta property="og:image:width" content="1200"> 
 <meta property="og:image:height" content="630">
@@ -11,7 +11,7 @@
 <meta property="og:type" content="website">
 <meta property="twitter:title" content="While Music">
 <meta property="twitter:description" content="Free Mp3 Songs| Download Free Mp3 Songs| Listen Music Online">
-<meta property="twitter:url" content="http://www.whilemusic.com/PrivacyPolicy">
+<meta property="twitter:url" content="http://whilemusic.com/PrivacyPolicy">
 
 <meta property="twitter:card" content="summary">
 <meta property="twitter:image" content="http://www.whilemusic.com/Content/images/logo.png">
@@ -43,7 +43,7 @@
           <meta name="p:domain_verify" content="e32288bb4b60b1beb666ce2815c4de21">
 		
         <link href="/Content/jquery-ui.css" rel="stylesheet" type="text/css">
-        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=794512223922938"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+        <script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=006665129058309380619:q0y9m5nps1y"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=794512223922938"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
         <script src="/Content/jquery.typeahead.js" type="text/javascript"></script>
 <script src="/Content/hogan.js" type="text/javascript"></script>
        
@@ -194,7 +194,7 @@ float:none;
     
     
 
-    
+    .
 </div>
 
 <script type="text/javascript">
@@ -202,14 +202,55 @@ float:none;
 
 
         $('#typeahead').typeahead([
-             {
+            {
+
+                name: 'artist',
+                valueKey: 'label',
+                minLength: 2,
+
+                hint: true,
+                highlight: true,
+                header: '<h3>ARTIST</h3>',
+                remote: {
+                    url: '/Search/GetTags?term=%QUERY'
+                }
+                 ,
+                template: [
+       '<p class="repo-tag">{{label}}</p>',
+       '<img class="resimg" src={{value}}  />'
+
+                ].join(''),
+                engine: Hogan
+            },
+
+              {
+                  name: 'albums',
+                  minLength: 2,
+                  valueKey: 'label',
+
+                  hint: true,
+                  highlight: true,
+                  header: '<h3>ALBUMS</h3>',
+                  remote: {
+                      url: '/Search/GetAlbums?term=%QUERY'
+                  }
+
+            ,
+                  template: [
+     '<p class="repo-tag"><a style="text-decoration:none; color: #197b90;" href="{{url}}">{{label}}</a></p>',
+     '<img class="resimg" src={{value}}   />'
+                  ].join(''),
+                  engine: Hogan
+              },
+
+            {
                  name: 'songs',
                  valueKey: 'label',
                  minLength: 2,
                  hint: true,
                  highlight: true,
 
-                 header: '<h3>Songs</h3>',
+                 header: '<h3>SONGS</h3>',
                  remote: {
                      url: '/Search/GetSongs?term=%QUERY',
                      beforeSend: function (xhr) {
@@ -227,51 +268,11 @@ float:none;
                  ].join(''),
                  engine: Hogan
 
-             },
-
-
-             {
-
-                 name: 'albums',
-                 minLength: 2,
-                 valueKey: 'label',
-
-                 hint: true,
-                 highlight: true,
-                 header: '<h3>Albums</h3>',
-                 remote: {
-                     url: '/Search/GetAlbums?term=%QUERY'
-                 }
-
-            ,
-                 template: [
-    '<p class="repo-tag">{{label}}</p>',
-    '<img class="resimg" src={{value}}   />'
-                 ].join(''),
-                 engine: Hogan
-
-
-             },
-             {
-
-                 name: 'artist',
-                 valueKey: 'label',
-                 minLength: 2,
-
-                 hint: true,
-                 highlight: true,
-                 header: '<h3>Artist</h3>',
-                 remote: {
-                     url: '/Search/GetTags?term=%QUERY'
-                 }
-                 ,
-                 template: [
-        '<p class="repo-tag">{{label}}</p>',
-        '<img class="resimg" src={{value}}  />'
-
-                 ].join(''),
-                 engine: Hogan
              }
+
+
+           
+             
         ]).on('typeahead:selected', search
         );
 
@@ -464,9 +465,20 @@ float:none;
 
                                 <div style="width:100%;">
                             <!-- WhileMusic_300_2 -->
-
-                
- ;
+              
+ <script>
+  (function() {
+    var cx = '006665129058309380619:q0y9m5nps1y';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
                 </div>
 
                                         <section class="ac-container">
@@ -591,6 +603,7 @@ float:none;
                         	
                              <ul>
                             <li style="background:#197b90;"><a href="/C/bollywood-hits-70" title="Bollywood Hits">Bollywood Hits</a></li>
+                            <li style="background:#197b90;"><a href="/C/bollywood-singles-75" title="Bollywood Singles">Bollywood Singles</a></li>
                             <li style="background:#197b90;"><a href="/C/artists-5" title="Artists">Artists</a></li>
                             <li style="background:#197b90;"><a href="/C/wedding-11" title="Wedding">Wedding</a></li>
                             <li style="background:#197b90;"><a href="/C/punjabi-bhangra-36" title="Punjabi Bhangra">Punjabi Bhangra</a></li>
@@ -645,7 +658,8 @@ float:none;
                         	
                              <ul>
                             <li style="background:#197b90;"><a href="/C/seasons-73" title="Seasons">Seasons</a></li>
-                            <li style="background:#197b90;"><a href="/C/instrumental-74" title="Instrumental">Instrumental</a></li>
+                            <li style="background:#197b90;"><a href="/C/bollywood-instrumentals-74" title="Bollywood Instrumentals">Bollywood Instrumentals</a></li>
+                            <li style="background:#197b90;"><a href="/C/hollywood-movies-soundtracks-77" title="Hollywood Movies Soundtracks">Hollywood Movies Soundtracks</a></li>
                             <li style="background:#197b90;"><a href="/C/game-soundtracks-71" title="Game Soundtracks">Game Soundtracks</a></li>
                              </ul>
                             </li>
@@ -687,101 +701,101 @@ float:none;
 		<ul>
             <li>
 				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_232.jpg&amp;width=80&amp;height=35&amp;title=shahrukh-khan-7-most-astounding-controversial-appearances" alt="Shahrukh Khan 7 Most Astounding Controversial Appearances">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_272.jpg&amp;width=80&amp;height=35&amp;title=secret-open-why-sunny-leone-doing-so-many-movies" alt="Secret Open - Why Sunny Leone Doing So Many Movies ">
 				</div>
 				<div class="info">
-					<a href="/Blog/shahrukh-khan-7-most-astounding-controversial-appearances-232" title="Shahrukh Khan 7 Most Astounding Controversial Appearances">Shahrukh Khan 7 Most Astounding Controvers..</a>
+					<a href="/Blog/secret-open-why-sunny-leone-doing-so-many-movies--272" title="Secret Open - Why Sunny Leone Doing So Many Movies ">Secret Open - Why Sunny Leone Doing So Man..</a>
 					<span class="cat">Bollywood Celebrity News</span>
 				</div>
 				<div class="clear"></div>
 			</li>
             <li>
 				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_231.jpg&amp;width=80&amp;height=35&amp;title=the-auspicious-taylor-swift-disclosed-her-biggest-secrets-in-her-rolling-stone-magazine" alt="The Auspicious Taylor Swift Disclosed Her Biggest Secrets In Her Rolling Stone Magazine">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_271.jpg&amp;width=80&amp;height=35&amp;title=rihanna-music-career-end-in-2016" alt="Rihanna Music Career End In 2016">
 				</div>
 				<div class="info">
-					<a href="/Blog/the-auspicious-taylor-swift-disclosed-her-biggest-secrets-in-her-rolling-stone-magazine-231" title="The Auspicious Taylor Swift Disclosed Her Biggest Secrets In Her Rolling Stone Magazine">The Auspicious Taylor Swift Disclosed Her ..</a>
+					<a href="/Blog/rihanna-music-career-end-in-2016-271" title="Rihanna Music Career End In 2016">Rihanna Music Career End In 2016</a>
 					<span class="cat">Music News and Celebrity Gossips</span>
 				</div>
 				<div class="clear"></div>
 			</li>
             <li>
 				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_230.jpg&amp;width=80&amp;height=35&amp;title=remember-that-britney-spears-and-madonna-vma-kiss-it-was-as-spontaneous-as-it-looked" alt="Remember That Britney Spears And Madonna VMA Kiss It Was As Spontaneous As It Looked ">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_269.jpg&amp;width=80&amp;height=35&amp;title=top-5-bollywood-songs-while-music" alt="Top 5 Bollywood Songs - While Music">
 				</div>
 				<div class="info">
-					<a href="/Blog/remember-that-britney-spears-and-madonna-vma-kiss-it-was-as-spontaneous-as-it-looked--230" title="Remember That Britney Spears And Madonna VMA Kiss It Was As Spontaneous As It Looked ">Remember That Britney Spears And Madonna V..</a>
+					<a href="/Blog/top-5-bollywood-songs-while-music-269" title="Top 5 Bollywood Songs - While Music">Top 5 Bollywood Songs - While Music</a>
+					<span class="cat">Bollywood Music Reviews</span>
+				</div>
+				<div class="clear"></div>
+			</li>
+            <li>
+				<div class="thumbnail">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_268.jpg&amp;width=80&amp;height=35&amp;title=most-anticipated-movies-of-2015" alt="Most Anticipated Movies Of 2015">
+				</div>
+				<div class="info">
+					<a href="/Blog/most-anticipated-movies-of-2015-268" title="Most Anticipated Movies Of 2015">Most Anticipated Movies Of 2015</a>
+					<span class="cat">Box Office Updates</span>
+				</div>
+				<div class="clear"></div>
+			</li>
+            <li>
+				<div class="thumbnail">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_267.png&amp;width=80&amp;height=35&amp;title=eminem-comes-out-a-gay-in-the-interview-cameo" alt=" Eminem Comes Out A Gay In The Interview Cameo ">
+				</div>
+				<div class="info">
+					<a href="/Blog/-eminem-comes-out-a-gay-in-the-interview-cameo--267" title=" Eminem Comes Out A Gay In The Interview Cameo "> Eminem Comes Out A Gay In The Interview C..</a>
 					<span class="cat">Music News and Celebrity Gossips</span>
 				</div>
 				<div class="clear"></div>
 			</li>
             <li>
 				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_229.JPG&amp;width=80&amp;height=35&amp;title=listen-to-lorde's-haunting-hunger-games-song-yellow-flicker-beat" alt="Listen To Lorde's Haunting Hunger Games Song Yellow Flicker Beat">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_266.jpg&amp;width=80&amp;height=35&amp;title=mark-wahlberg-was-obsessed-with-losing-weight-for-the-gambler" alt="Mark Wahlberg Was Obsessed With Losing Weight For The Gambler">
 				</div>
 				<div class="info">
-					<a href="/Blog/listen-to-lorde's-haunting-hunger-games-song-yellow-flicker-beat-229" title="Listen To Lorde's Haunting Hunger Games Song Yellow Flicker Beat">Listen To Lorde's Haunting Hunger Games So..</a>
+					<a href="/Blog/mark-wahlberg-was-obsessed-with-losing-weight-for-the-gambler-266" title="Mark Wahlberg Was Obsessed With Losing Weight For The Gambler">Mark Wahlberg Was Obsessed With Losing Wei..</a>
 					<span class="cat">Music News and Celebrity Gossips</span>
 				</div>
 				<div class="clear"></div>
 			</li>
             <li>
 				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_228.jpg&amp;width=80&amp;height=35&amp;title=kishore-kumar-the-most-breath-taking-voice-of-the-century" alt="Kishore Kumar The Most Breath Taking Voice Of The Century">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_265.png&amp;width=80&amp;height=35&amp;title=why-nicki-minaj-exposed-herself-in-every-video" alt="Why Nicki Minaj Exposed Herself In Every Video">
 				</div>
 				<div class="info">
-					<a href="/Blog/kishore-kumar-the-most-breath-taking-voice-of-the-century-228" title="Kishore Kumar The Most Breath Taking Voice Of The Century">Kishore Kumar The Most Breath Taking Voice..</a>
-					<span class="cat">Music Legends</span>
+					<a href="/Blog/why-nicki-minaj-exposed-herself-in-every-video-265" title="Why Nicki Minaj Exposed Herself In Every Video">Why Nicki Minaj Exposed Herself In Every V..</a>
+					<span class="cat">English Music Reviews</span>
 				</div>
 				<div class="clear"></div>
 			</li>
             <li>
 				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_227.jpg&amp;width=80&amp;height=35&amp;title=christina-aguilera-lady-in-red-turns-the-game-on-again" alt="Christina Aguilera Lady in red turns the game on - Again">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_264.jpg&amp;width=80&amp;height=35&amp;title=demi-lovato-with-her-man-in-awwww-so-cute-pic-while-music-reviews" alt="Demi Lovato With Her Man in Awwww So Cute Pic - While Music Reviews">
 				</div>
 				<div class="info">
-					<a href="/Blog/christina-aguilera-lady-in-red-turns-the-game-on-again-227" title="Christina Aguilera Lady in red turns the game on - Again">Christina Aguilera Lady in red turns the g..</a>
+					<a href="/Blog/demi-lovato-with-her-man-in-awwww-so-cute-pic-while-music-reviews-264" title="Demi Lovato With Her Man in Awwww So Cute Pic - While Music Reviews">Demi Lovato With Her Man in Awwww So Cute ..</a>
 					<span class="cat">Music News and Celebrity Gossips</span>
 				</div>
 				<div class="clear"></div>
 			</li>
             <li>
 				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_226.jpg&amp;width=80&amp;height=35&amp;title=kristen-stewart-has-a-friend-at-only-instagram-account" alt="Kristen Stewart Has A Friend At Only Instagram Account">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_263.jpg&amp;width=80&amp;height=35&amp;title=what-do-critics-think-about-the-unbroken-movie-while-music-reviews" alt="What Do Critics Think About The Unbroken Movie - While Music Reviews">
 				</div>
 				<div class="info">
-					<a href="/Blog/kristen-stewart-has-a-friend-at-only-instagram-account-226" title="Kristen Stewart Has A Friend At Only Instagram Account">Kristen Stewart Has A Friend At Only Insta..</a>
+					<a href="/Blog/what-do-critics-think-about-the-unbroken-movie-while-music-reviews-263" title="What Do Critics Think About The Unbroken Movie - While Music Reviews">What Do Critics Think About The Unbroken M..</a>
 					<span class="cat">Music News and Celebrity Gossips</span>
 				</div>
 				<div class="clear"></div>
 			</li>
             <li>
 				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_225.jpg&amp;width=80&amp;height=35&amp;title=kim-kardashian’s-new-present-from-her-baby" alt="Kim Kardashian’s New Present From Her Baby">
+					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_262.jpg&amp;width=80&amp;height=35&amp;title=is-mark-wahlberg-the-gambler--a-risk-worth-taking-while-music-reviews" alt="Is Mark Wahlberg - The Gambler -  A Risk Worth Taking - While Music Reviews">
 				</div>
 				<div class="info">
-					<a href="/Blog/kim-kardashian’s-new-present-from-her-baby-225" title="Kim Kardashian’s New Present From Her Baby">Kim Kardashian’s New Present From Her Baby</a>
+					<a href="/Blog/is-mark-wahlberg-the-gambler--a-risk-worth-taking-while-music-reviews-262" title="Is Mark Wahlberg - The Gambler -  A Risk Worth Taking - While Music Reviews">Is Mark Wahlberg - The Gambler -  A Risk W..</a>
 					<span class="cat">Music News and Celebrity Gossips</span>
-				</div>
-				<div class="clear"></div>
-			</li>
-            <li>
-				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_224.jpg&amp;width=80&amp;height=35&amp;title=omg-jennifer-lawrence-caught-up-in-a-nude-scandal" alt="OMG Jennifer Lawrence Caught Up In A Nude Scandal">
-				</div>
-				<div class="info">
-					<a href="/Blog/omg-jennifer-lawrence-caught-up-in-a-nude-scandal-224" title="OMG Jennifer Lawrence Caught Up In A Nude Scandal">OMG Jennifer Lawrence Caught Up In A Nude ..</a>
-					<span class="cat">Music News and Celebrity Gossips</span>
-				</div>
-				<div class="clear"></div>
-			</li>
-            <li>
-				<div class="thumbnail">
-					<img src="/Photo/ImagewithTitle?image=/Content/Blog/Blog_223.jpg&amp;width=80&amp;height=35&amp;title=jab-se-tunay-mujhe-deewana-bana-rakha-hai-abida-parveen" alt="Jab Se Tunay Mujhe Deewana Bana Rakha Hai - Abida Parveen">
-				</div>
-				<div class="info">
-					<a href="/Blog/jab-se-tunay-mujhe-deewana-bana-rakha-hai-abida-parveen-223" title="Jab Se Tunay Mujhe Deewana Bana Rakha Hai - Abida Parveen">Jab Se Tunay Mujhe Deewana Bana Rakha Hai ..</a>
-					<span class="cat">Pakistani Music Reviews</span>
 				</div>
 				<div class="clear"></div>
 			</li>
@@ -899,10 +913,7 @@ float:none;
                                	<div class="rightbar" id="rightbar">
                           
 <div style="width:100%;">
-
-
-
- ;
+ .
 </div>
 
                                 </div>
@@ -919,7 +930,9 @@ float:none;
                         	<div class="footer_wraper">
                                 <!--start maincontainer-->
   <!--start maincontainer-->
+  <!-- iFrame Ad Tag: 64 -->
 
+<!-- // End Ad Tag -->
   
                                     <div class="maincontainer maincontainer1">
                                    
@@ -964,7 +977,7 @@ float:none;
 <a href="http://vimeo.com/whilemusic" target="_blank"><img src="/Content/images/vimeo-btm.png" alt="rss"></a>
 <a href="http://vube.com/While+Music" target="_blank"><img src="/Content/images/vube-btm.png" alt="rss"></a>
 </div>
-<p>© Copyrights 2014, WhileMusic.com</p>
+<p>© Copyrights 2015, WhileMusic.com</p>
 <div class="powered">
 <a href="http://itcurves.com/" target="_blank"><img src="/Content/images/powered.png" width="150px" alt="powered"></a>
 </div>
@@ -973,10 +986,7 @@ float:none;
                                         </div>
                                     <!--end footer-->
 
-                                 
-
-                                    
-                                    
+                                                                       
                                     
                             </div>
                         <!--end footer_wraper-->
