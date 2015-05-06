@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipasoffice.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223061827id_/http%3A//www.ipasoffice.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipasoffice.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506190111id_/http%3A//www.ipasoffice.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - iPAS 2
 
@@ -60,4 +60,4 @@ COPYRIGHT WARNING: The legal notices and administrative pages on this website, i
 
 QUESTIONS/COMMENTS/CONCERNS: If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
 
-###### Prosperity Team, LLC 1320 West Lake St. Suite 214 Minneapolis, MN 55408 USA 
+###### Prosperity Team, LLC 1320 West Lake St. Suite 214 Minneapolis, MN 55408 USA
