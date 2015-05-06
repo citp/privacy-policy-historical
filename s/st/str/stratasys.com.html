@@ -1,7 +1,16 @@
-<!--The following is the downloaded HTML source of the stratasys.com privacy policy that was archived on 2014-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222214258id_/http%3A//www.stratasys.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stratasys.com privacy policy that was archived on 2015-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150506041056id_/http%3A//www.stratasys.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TLFR38"></script><script type="text/javascript" src="http://www.ginwiz.com/mobileDetectionScript/redirection_mobile.min.js"></script> 
+    <script type="text/javascript">
+        var langPath = document.location.pathname.slice(0,3);
+        if (document.location.hostname == 'www.stratasys.com' && langPath != "/fr" && langPath != "/de" && langPath != "/es" && langPath != "/it" && langPath != "/br" && langPath != "/ru" && langPath != "/mx") {
+            SA.redirection_mobile({ noredirection_param: "noredirection", mobile_url: "m.stratasys.com", cookie_hours: "2", keep_path: "true" });
+        }
+    </script>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <!-- head opening tracking code area begin -->
     
@@ -9,7 +18,7 @@
 
     <title>
 	Legal Privacy Statement | Stratasys
-</title><link href="/StratasysGlobal/Styles/global-1.7.css" rel="Stylesheet"><link href="/StratasysGlobal/Styles/subpage-1.4.css" rel="Stylesheet">
+</title><link href="/StratasysGlobal/Styles/global-2.css" rel="Stylesheet"><link href="/StratasysGlobal/Styles/subpage-1.4.css" rel="Stylesheet">
     <!--[if IE 7]>
 		<link rel="stylesheet" type="text/css" media="all" href="/StratasysGlobal/Styles/ie7.css" />
 	<![endif]-->
@@ -17,7 +26,7 @@
 		<link rel="stylesheet" type="text/css" media="screen" href="/StratasysGlobal/Styles/ie6.css" />
 	<![endif]-->
     <link rel="stylesheet" href="/StratasysGlobal/Styles/prettyPhoto315.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TLFR38"></script><script src="/StratasysGlobal/Scripts/jquery-1.8.2.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/StratasysGlobal/Scripts/jquery-1.8.2.min.js" type="text/javascript" charset="utf-8"></script>
     <script src="/StratasysGlobal/Scripts/scripts-1.3.min.js" type="text/javascript" charset="utf-8"></script>
     <script src="/StratasysGlobal/Scripts/jquery.prettyPhoto.3.1.5.js" type="text/javascript" charset="utf-8"></script>
     <script src="/StratasysGlobal/Scripts/utm-transfer.js" type="text/javascript" charset="utf-8"></script>
@@ -27,28 +36,28 @@
 	
     <!-- fixed navigation -->
     <script type="text/javascript">
-    $(window).scroll(function() {
-        var height = $(window).scrollTop();
+        $(window).scroll(function () {
+            var height = $(window).scrollTop();
 
-        if(height  > 44) {
-            $('#header').css('position', 'fixed');
-            $('#header').css('top', '-44px');
-            $('#header').css('padding-bottom', '0');
-        } else if(height < 45) {
-            $('#header').css('position', '');
-            $('#header').css('top', '0px');
-        }
-    });
+            if (height > 44) {
+                $('#header').css('position', 'fixed');
+                $('#header').css('top', '-44px');
+                $('#header').css('padding-bottom', '0');
+            } else if (height < 45) {
+                $('#header').css('position', '');
+                $('#header').css('top', '0px');
+            }
+        });
     </script>
     
     <!-- removes horizontal rule on pages with tabs and pages without billboard content -->
 	<script type="text/javascript">
 	    $(document).ready(function () {
-			function isEmpty( el ){
-				return !$.trim(el.html())
-			}
-			
-			if (document.getElementById("content_0_divTabContainer") || isEmpty($('.billboard'))) {
+	        function isEmpty(el) {
+	            return !$.trim(el.html())
+	        }
+
+	        if (document.getElementById("content_0_divTabContainer") || isEmpty($('.billboard'))) {
 	            $("div#billboard").css("background", "none");
 	            $("div#billboard").css("margin-bottom", "0px");
 	        }
@@ -57,78 +66,78 @@
 	
 	<!-- makes large buttons same flexible and same height -->
 	<script type="text/javascript">
-        $(document).ready(function () {    
-			var myarr = [];
+	    $(document).ready(function () {
+	        var myarr = [];
 
-            $('#sameHeight li a').each(function(){
-                myarr[myarr.length] = $(this).height();
-            });
-			
-			$('.calltoactionshort').each(function(){
-                myarr[myarr.length] = $(this).height();
-            });
-            
-			$('.calltoactionlong').each(function(){
-                myarr[myarr.length] = $(this).height();
-            });
-			
-            var maxValueInArray = Math.max.apply(Math, myarr);
-            
-            $('#sameHeight li a').each(function(){
-                myarr[myarr.length] = $(this).height(maxValueInArray);
-            });
-			
-			$('.calltoactionshort').each(function(){
-                myarr[myarr.length] = $(this).height(maxValueInArray);
-            });
-			
-			$('.calltoactionlong').each(function(){
-                myarr[myarr.length] = $(this).height(maxValueInArray);
-            });
-			
+	        $('#sameHeight li a').each(function () {
+	            myarr[myarr.length] = $(this).height();
+	        });
+
+	        $('.calltoactionshort').each(function () {
+	            myarr[myarr.length] = $(this).height();
+	        });
+
+	        $('.calltoactionlong').each(function () {
+	            myarr[myarr.length] = $(this).height();
+	        });
+
+	        var maxValueInArray = Math.max.apply(Math, myarr);
+
+	        $('#sameHeight li a').each(function () {
+	            myarr[myarr.length] = $(this).height(maxValueInArray);
+	        });
+
+	        $('.calltoactionshort').each(function () {
+	            myarr[myarr.length] = $(this).height(maxValueInArray);
+	        });
+
+	        $('.calltoactionlong').each(function () {
+	            myarr[myarr.length] = $(this).height(maxValueInArray);
+	        });
+
 	    });
 	</script>
     
     <script type="text/javascript">
-        checkCookie(); 
+        checkCookie();
 	</script>
 
     <!-- script for "share this" -->
     <script type="text/javascript">        var switchTo5x = true;</script>
     <script type="text/javascript">
-		$(document).ready(function () {
-			var head = document.getElementsByTagName('head')[0];
-			var script = document.createElement('script');
-	
-			script.type = 'text/javascript';
-	
-			if (document.location.hostname != 'www.stratasys.com.cn') {
-				script.src = "http://w.sharethis.com/button/buttons.js";
-				head.appendChild(script);
-			} else {
-                
-			}
-		});
+        $(document).ready(function () {
+            var head = document.getElementsByTagName('head')[0];
+            var script = document.createElement('script');
+
+            script.type = 'text/javascript';
+
+            if (document.location.hostname != 'www.stratasys.com.cn') {
+                script.src = "http://w.sharethis.com/button/buttons.js";
+                head.appendChild(script);
+            } else {
+
+            }
+        });
 	</script>   
     <script type="text/javascript">        stLight.options({ publisher: "dc64cc9e-5a04-4e86-917b-4c113ec5a9a8", doNotHash: false, doNotCopy: false, hashAddressBar: false });</script>
     <!-- end script for "share this" -->
     
     <!-- other country-specific tracking codes -->
     <script type="text/javascript">
-    $(document).ready(function () {
-		var head = document.getElementsByTagName('head')[0];
-        var script = document.createElement('script');
-        script.type = 'text/javascript';
+        $(document).ready(function () {
+            var head = document.getElementsByTagName('head')[0];
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
 
-        if (document.location.hostname == 'www.stratasys.com.cn') {
-            script.src = "/StratasysGlobal/Scripts/cn-baidu-remarketing-tag.js";
-			head.appendChild(script);
-        } 
-		if (document.location.hostname == 'www.stratasys.co.kr') {
-            script.src = "/StratasysGlobal/Scripts/kr-ace-counter-tracking-code.js";
-			head.appendChild(script);
-        } 
-	});
+            if (document.location.hostname == 'www.stratasys.com.cn') {
+                script.src = "/StratasysGlobal/Scripts/cn-baidu-remarketing-tag.js";
+                head.appendChild(script);
+            }
+            if (document.location.hostname == 'www.stratasys.co.kr') {
+                script.src = "/StratasysGlobal/Scripts/kr-ace-counter-tracking-code.js";
+                head.appendChild(script);
+            }
+        });
     </script>
     <!-- end country-specific tracking codes -->
     
@@ -202,50 +211,11 @@
     <!-- body opening tracking code area end -->
 
     <form name="form1" method="post" action="privacy-policy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI0MDgzNjMzMA9kFgQCAw8PFgIeB1Zpc2libGVnZGQCCQ9kFgICAQ9kFgJmD2QWAmYPZBYGAgEPFgIeBFRleHQF5wM8YSBocmVmPSJodHRwOi8vYmxvZy5zdHJhdGFzeXMuY29tIiwgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvc3RyYXRhc3lzX2Jsb2cucG5nIiAvPjwvYT4KPGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vc3RyYXRhc3lzIiwgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvZmFjZWJvb2sucG5nIiAvPjwvYT4KPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL1N0cmF0YXN5cyIsIHRhcmdldD0iX2JsYW5rIj48aW1nIGFsdD0iIiBzcmM9Ii9TdHJhdGFzeXNHbG9iYWwvSW1hZ2VzL3R3aXR0ZXIucG5nIiAvPjwvYT4KPGEgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9vYmpldGdlb21ldHJpZXMiLCB0YXJnZXQ9Il9ibGFuayI+PGltZyBhbHQ9IiIgc3JjPSIvU3RyYXRhc3lzR2xvYmFsL0ltYWdlcy95b3V0dWJlLnBuZyIgLz48L2E+ZAIHDxYEHglpbm5lcmh0bWwFB0VuZ2xpc2geB29uY2xpY2sFGkRpc3BsYXlMYW5ndWFnZURyb3BEb3duKCk7ZAILDxYCHwEF/AI8dWw+DQogICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RyYXRhc3lzLmNvbS9jb3Jwb3JhdGUvY2FyZWVycyI+Q2FyZWVyczwvYT4mbmJzcDsgPC9saT4NCiAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdHJhdGFzeXMuY29tL2NvcnBvcmF0ZS9pbnZlc3Rvci1yZWxhdGlvbnMiPkludmVzdG9yIFJlbGF0aW9uczwvYT4gPC9saT4NCiAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdHJhdGFzeXMuY29tL3BhcnRuZXJzIj5Mb2dpbjwvYT4gPC9saT4NCiAgICA8bGkgY2xhc3M9Imxhc3QiPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RyYXRhc3lzLmNvbS9jb250YWN0LXVzL2NvbnRhY3Qtc3RyYXRhc3lzIj5Db250YWN0IFVzPC9hPiZuYnNwOzwvbGk+DQo8L3VsPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEmhlYWRlcl8wJGJ0blNlYXJjaO54hyEgZRzrKiIo3CwS/W0sEPgE+Gx9Rcu5jMhOZZo+">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI0MDgzNjMzMA9kFgQCAw8PFgIeB1Zpc2libGVnZGQCCQ9kFgICAQ9kFgJmD2QWAmYPZBYGAgMPFgIeBFRleHQF5wM8YSBocmVmPSJodHRwOi8vYmxvZy5zdHJhdGFzeXMuY29tIiwgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvc3RyYXRhc3lzX2Jsb2cucG5nIiAvPjwvYT4KPGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vc3RyYXRhc3lzIiwgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgYWx0PSIiIHNyYz0iL1N0cmF0YXN5c0dsb2JhbC9JbWFnZXMvZmFjZWJvb2sucG5nIiAvPjwvYT4KPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL1N0cmF0YXN5cyIsIHRhcmdldD0iX2JsYW5rIj48aW1nIGFsdD0iIiBzcmM9Ii9TdHJhdGFzeXNHbG9iYWwvSW1hZ2VzL3R3aXR0ZXIucG5nIiAvPjwvYT4KPGEgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9vYmpldGdlb21ldHJpZXMiLCB0YXJnZXQ9Il9ibGFuayI+PGltZyBhbHQ9IiIgc3JjPSIvU3RyYXRhc3lzR2xvYmFsL0ltYWdlcy95b3V0dWJlLnBuZyIgLz48L2E+ZAIJDxYEHglpbm5lcmh0bWwFB0VuZ2xpc2geB29uY2xpY2sFGkRpc3BsYXlMYW5ndWFnZURyb3BEb3duKCk7ZAINDxYCHwEF/AI8dWw+DQogICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RyYXRhc3lzLmNvbS9jb3Jwb3JhdGUvY2FyZWVycyI+Q2FyZWVyczwvYT4mbmJzcDsgPC9saT4NCiAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdHJhdGFzeXMuY29tL2NvcnBvcmF0ZS9pbnZlc3Rvci1yZWxhdGlvbnMiPkludmVzdG9yIFJlbGF0aW9uczwvYT4gPC9saT4NCiAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5zdHJhdGFzeXMuY29tL3BhcnRuZXJzIj5Mb2dpbjwvYT4gPC9saT4NCiAgICA8bGkgY2xhc3M9Imxhc3QiPjxhIGhyZWY9Imh0dHA6Ly93d3cuc3RyYXRhc3lzLmNvbS9jb250YWN0LXVzL2NvbnRhY3Qtc3RyYXRhc3lzIj5Db250YWN0IFVzPC9hPiZuYnNwOzwvbGk+DQo8L3VsPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEmhlYWRlcl8wJGJ0blNlYXJjaK2dKvWXXEzf8AgA4BY/6a8QEcTUoRMEy8pIqu3MeMWc">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA0f6EtmXybIdKOz3TLinOKP8xNTcJitndz7Lyw+3T02BC5t3Tapjm9RrHD2eA/z8P34fP5o+eM30MKGFrJgT9WvxYVveBhfQp98xE3szPw62dwbwN9MMLbvqRISiiZ9zCsgaF6wsMosmdWogwNTZUNxqqkU100hg7jHr1W4y3lol03RfBhea88r+dSjVG6wE7SXQUN/lFPVSfjQD3Ylh2VBgIHiJy7717Lrjq3DWt0OxwyJuo6J+p4FDWFjMZHg+I61b8X3OCYKHAtv6SmuHhpmJuTfxNDnT0yS5p2be66NXIyb9oPgeAlNyx/YxjFLLGk=">
-
-	<div id="floatingCTA">
-        <div class="jpCTA">
-            <div class="button talk">
-                <a href="http://web.stratasys.co.jp/JP-Contact-Stratasys.html?&amp;utm_source=SEO&amp;utm_medium=SSYS&amp;utm_campaign=JP-Contact-Us-Floating-Button" target="_blank">Contact Us</a>
-            </div>
-            <div class="button person">
-                <a href="http://web.stratasys.co.jp/JP-Find-a-Reseller.html?&amp;utm_source=SEO&amp;utm_medium=SSYS&amp;utm_campaign=JP-Reseller-Floating-Button" target="_blank">Find a Reseller</a>
-            </div>
-            <div class="button paper">
-                <a href="http://web.stratasys.co.jp/APJ_JPN_3DP_ABC_Sep14_LP.html?cid=70113000002Eyg2&amp;utm_source=SEO&amp;utm_medium=SSYS&amp;utm_campaign=3DP_ABC_Sep14" target="_blank">3DP ABC</a>
-            </div>
-            <div class="button cart">
-                <a href="http://www.amazon.co.jp/gp/node/index.html/?ie=UTF8&amp;camp=247&amp;creative=7399&amp;linkCode=ur2&amp;marketplaceID=A1VC38T7YXB528&amp;me=A9CJS435RA0VY&amp;merchant=A9CJS435RA0VY&amp;redirect=true" target="_blank">Shop Amazon</a>
-            </div>
-        </div>
-
-        <div class="cnCTA">
-            <div class="button talk">
-                <a href="http://web.stratasys.com.cn/CN-Contact-Stratasys.html?&amp;utm_source=SEO&amp;utm_medium=SSYS&amp;utm_campaign=CN-Contact-Us-Floating-Button" target="_blank">Contact Us</a>
-            </div>
-            <div class="button person">
-                <a href="http://web.stratasys.com.cn/CN-Find-a-Reseller.html?&amp;utm_source=SEO&amp;utm_medium=SSYS&amp;utm_campaign=CN-Reseller-Floating-Button" target="_blank">Find a Reseller</a>
-            </div>
-        </div>
-
-        <div class="krCTA">
-            <div class="button talk">
-                <a href="http://web.stratasys.co.kr/KR-Contact-Stratasys.html?&amp;utm_source=SEO&amp;utm_medium=SSYS&amp;utm_campaign=KR-Contact-Us-Floating-Button" target="_blank">Contact Us</a>
-            </div>
-            <div class="button person">
-                <a href="http://web.stratasys.co.kr/KR-Find-a-Reseller.html?&amp;utm_source=SEO&amp;utm_medium=SSYS&amp;utm_campaign=KR-Reseller-Floating-Button" target="_blank">Find a Reseller</a>
-            </div>
-            <div class="button paper">
-                <a href="http://web.stratasys.com/APJ-KOR-3DP-ABC-WP-Nov14_LP.html" target="_blank">3DP ABC</a>
-            </div>
-            <div class="button dollar">
-                <a href="http://web.stratasys.com/APJ-KOR-Scanner-Lucky-Draw-Nov14_LP.html" target="_blank">Shop Amazon</a>
-            </div>
-        </div>
-	</div> <!-- end floatingCTA -->
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA1JYKrAn5DqkJL+vYo9igeV8xNTcJitndz7Lyw+3T02BC5t3Tapjm9RrHD2eA/z8P34fP5o+eM30MKGFrJgT9WvxYVveBhfQp98xE3szPw62dwbwN9MMLbvqRISiiZ9zCsgaF6wsMosmdWogwNTZUNxqqkU100hg7jHr1W4y3lol03RfBhea88r+dSjVG6wE7SXQUN/lFPVSfjQD3Ylh2VBgIHiJy7717Lrjq3DWt0OxwyJuo6J+p4FDWFjMZHg+I61b8X3OCYKHAtv6SmuHhpmTNl97w5fSU3cintidJKOytStd1TnTV4WnXQvFHME5jc=">
+        
+    <div id="floatingCTA"></div>
         
     <div id="header">
         <div class="wrapper">
@@ -256,12 +226,13 @@
         if ($('.languagedropdown').css('display') == 'block') {
             $('.languagedropdown').css('display', 'none');
         } else {
-            $('.languagedropdown').css('display', 'block');    
+            $('.languagedropdown').css('display', 'block');
         }
     }
 </script>
 
 <div class="utilitynav">
+    
     <div class="socialmedia">
         <a href="http://blog.stratasys.com" ,="" target="_blank"><img alt="" src="/StratasysGlobal/Images/stratasys_blog.png"></a>
 <a href="http://www.facebook.com/stratasys" ,="" target="_blank"><img alt="" src="/StratasysGlobal/Images/facebook.png"></a>
@@ -274,7 +245,7 @@
     </div>
     <div class="languagenav">
         <ul>
-            <li class="last arrow"><img src="/StratasysGlobal/Images/earth.png" width="30" height="30" alt="earth"><a id="header_0_aCurrentLanguage" onclick="DisplayLanguageDropDown();">English</a>
+            <li class="last arrow"><img src="/StratasysGlobal/Images/earth.png" width="30" height="30"><a id="header_0_aCurrentLanguage" onclick="DisplayLanguageDropDown();">English</a>
                 <ul id="header_0_ulLanguages" class="languagedropdown"><li><a href="javascript:__doPostBack('header_0$ctl02','')">简体中文</a></li><li><a href="javascript:__doPostBack('header_0$ctl04','')">Français</a></li><li><a href="javascript:__doPostBack('header_0$ctl06','')">Deutsch</a></li><li><a href="javascript:__doPostBack('header_0$ctl08','')">Italiano</a></li><li><a href="javascript:__doPostBack('header_0$ctl10','')">日本語</a></li><li><a href="javascript:__doPostBack('header_0$ctl12','')">한국어</a></li><li><a href="javascript:__doPostBack('header_0$ctl14','')">Português</a></li><li><a href="javascript:__doPostBack('header_0$ctl16','')">Русский</a></li><li><a href="javascript:__doPostBack('header_0$ctl18','')">Español (América Latina)</a></li><li><a href="javascript:__doPostBack('header_0$ctl20','')">Español (España)</a></li></ul>
             </li>
         </ul>
@@ -292,18 +263,18 @@
 
 <div class="mainnav">
     <a href="http://www.stratasys.com/" id="header_0_ctl00_lnkHome" class="logo"><img src="/StratasysGlobal/Images/stratasys_logo.jpg"></a>
-    <ul id="header_0_ctl00_ulMainNav" class="ulMainNav"><li><a href="http://www.stratasys.com/3d-printers">3D Printers</a></li><li><a href="http://www.stratasys.com/materials">Materials</a></li><li><a href="http://www.stratasys.com/solutions-applications">Solutions &amp; Applications</a></li><li><a href="http://www.stratasys.com/industries">Industries</a></li><li><a href="http://www.stratasys.com/resources">Resources</a></li><li class="last"><a href="http://www.stratasys.com/customer-support">Customer Support</a></li></ul>
+    <ul id="header_0_ctl00_ulMainNav" class="ulMainNav"><li><a href="http://www.stratasys.com/3d-printers">3D Printers</a></li><li><a href="http://www.stratasys.com/materials">Materials</a></li><li><a href="http://www.stratasys.com/solutions">Solutions</a></li><li><a href="http://www.stratasys.com/industries">Industries</a></li><li><a href="http://www.stratasys.com/resources">Resources</a></li><li class="last"><a href="http://www.stratasys.com/customer-support">Customer Support</a></li></ul>
 </div>
 <div class="megamenus">
     <ul id="header_0_ctl00_ulMegaMenus" class="ulMegaMenus"><li><div class="megawrapper">
 <div class="navWholeSection">
-<div class="navGroupSection" id="ideaSeries">
+<div id="ideaSeries" class="navGroupSection">
 <h2><a href="http://www.stratasys.com/3d-printers/idea-series">Idea Series</a></h2>
 <p><a href="http://www.stratasys.com/3d-printers/idea-series/mojo">Mojo</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/idea-series/uprint-se">uPrint SE</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/idea-series/uprint-se-plus">uPrint SE Plus</a></p>
 </div>
-<div class="navGroupSection" id="designSeries">
+<div id="designSeries" class="navGroupSection">
 <h2><a href="http://www.stratasys.com/3d-printers/design-series">Design Series</a></h2>
 <p class="category">Precision</p>
 <div class="navSubLevel">
@@ -311,7 +282,7 @@
 <p><a href="http://www.stratasys.com/3d-printers/design-series/objet30">Objet30</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/design-series/objet30-pro">Objet30 Pro</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/design-series/objet30-prime">Objet30 Prime</a></p>
-<p><a href="http://www.stratasys.com/3d-printers/design-series/eden-systems">Objet Eden</a></p>
+<p><a href="http://www.stratasys.com/3d-printers/design-series/objet-eden260vs">Objet Eden260VS</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/design-series/connex-systems">Objet Connex</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/design-series/objet260-connex1">Objet260 Connex1</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/design-series/objet260-connex2">Objet260 Connex2</a></p>
@@ -324,14 +295,14 @@
 <p><a href="http://www.stratasys.com/3d-printers/design-series/fortus-250mc">Fortus 250mc</a></p>
 </div>
 </div>
-<div class="navGroupSection" id="productionSeries">
+<div id="productionSeries" class="navGroupSection">
 <h2><a href="http://www.stratasys.com/3d-printers/production-series">Production Series</a></h2>
 <p class="category">Precision</p>
 <div class="navSubLevel">
 <p><a href="http://www.stratasys.com/3d-printers/production-series/connex1-systems">Objet350/500 Connex1</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/production-series/connex2-systems">Objet350/500 Connex2</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/production-series/connex3-systems">Objet350/500 Connex3</a></p>
-<p><a href="http://www.stratasys.com/3d-printers/production-series/objet1000">Objet1000</a></p>
+<p><a href="http://www.stratasys.com/3d-printers/production-series/objet1000-plus">Objet1000 Plus</a></p>
 </div>
 <p class="category">Performance</p>
 <div class="navSubLevel">
@@ -340,17 +311,17 @@
 <p><a href="http://www.stratasys.com/3d-printers/production-series/fortus-900mc">Fortus 900mc</a></p>
 </div>
 </div>
-<div class="navGroupSection" id="dentalSeries">
+<div id="dentalSeries" class="navGroupSection">
 <h2><a href="http://www.stratasys.com/3d-printers/dental-series">Dental Series</a></h2>
 <p><a href="http://www.stratasys.com/3d-printers/dental-series/objet30-orthodesk">Objet30 Orthodesk</a></p>
-<p><a href="http://www.stratasys.com/3d-printers/dental-series/crownworx">CrownWorx</a></p>
-<p><a href="http://www.stratasys.com/3d-printers/dental-series/frameworx">FrameWorx</a></p>
-<p><a href="http://www.stratasys.com/3d-printers/dental-series/objet-eden260v-dental-advantage">Objet Eden260V Dental Advantage</a></p>
-<p><a href="http://www.stratasys.com/3d-printers/dental-series/objet-eden260v-dental">Objet Eden260V</a></p>
+<p><a href="http://www.stratasys.com/3d-printers/dental-series/objet-eden260vs-dental-advantage">Objet Eden260VS Dental Advantage</a></p>
+<p><a href="http://www.stratasys.com/3d-printers/dental-series/objet260-dental-selection">Objet260 Dental Selection</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/dental-series/objet-eden350v-dental">Objet Eden350V</a></p>
 <p><a href="http://www.stratasys.com/3d-printers/dental-series/objet-eden500v-dental">Objet Eden500V</a></p>
+<p><a href="http://www.stratasys.com/3d-printers/dental-series/crownworx">CrownWorx</a></p>
+<p><a href="http://www.stratasys.com/3d-printers/dental-series/frameworx">FrameWorx</a></p>
 </div>
-<div class="navGroupSection" id="techGroup">
+<div id="techGroup" class="navGroupSection">
 <p style="margin-bottom: 17px;"><a href="http://www.stratasys.com/3d-printers/finishing-touch-smoothing-station">Finishing Touch Smoothing Station</a></p>
 <p class="category"><a href="http://www.stratasys.com/3d-printers/technologies">Technologies</a></p>
 <div class="navSubLevel">
@@ -359,15 +330,15 @@
 <p><a href="http://www.stratasys.com/3d-printers/technologies/wdm-technology">WDM Technology</a></p>
 </div>
 </div>
-        <div class="navBottomCTA">
-            <div class="button small contact"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></div>
-            <div class="button small reseller"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></div>
-            <div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px Arial,Helvetica,sans-serif;">U.S. Only</span></a></div>
-        </div>
+<div class="navBottomCTA">
+<div class="button small contact"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></div>
+<div class="button small reseller"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></div>
+<div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px arial,helvetica,sans-serif;">US and CA only</span></a></div>
+</div>
 </div>
 </div></li><li><div class="megawrapper">
     <div class="navWholeSection">
-        <div id="materialsSection" class="navGroupSection">
+        <div id="materialsSectionleft" class="navGroupSection">
             <h2><a href="http://www.stratasys.com/materials/fdm">FDM Thermoplastics</a></h2>
             <p><a href="http://www.stratasys.com/materials/fdm/absplus">ABS<em>plus</em></a></p>
             <p><a href="http://www.stratasys.com/materials/fdm/absi">ABSi</a></p>
@@ -401,7 +372,7 @@
             <h2><a href="http://www.stratasys.com/materials/wdm">WDM Materials</a></h2>
             <p><a href="http://www.stratasys.com/materials/wdm">Dental Materials</a></p>
         </div>
-        <div class="navGroupSection" style="margin-top: 38px;">
+        <div class="navGroupSection" id="materialGroup" style="padding-top: 38px;">
             <p class="category"><a href="http://www.stratasys.com/materials/material-safety-data-sheets">Material Safety Data Sheets</a></p>
             <div class="navSubLevel">
                 <p><a href="http://www.stratasys.com/materials/material-safety-data-sheets/fdm">FDM Thermoplastics</a></p>
@@ -412,148 +383,120 @@
         <div class="navBottomCTA">
             <div class="button small contact"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></div>
             <div class="button small reseller"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></div>
-            <div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px Arial,Helvetica,sans-serif;">U.S. Only</span></a></div>
+            <div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px Arial,Helvetica,sans-serif;">US and CA only</span></a></div>
             <div class="button small cart"><a href="http://www.stratasys.com/materials/order-materials">Order Materials</a></div>
         </div>
     </div>
 </div></li><li><div class="megawrapper">
 <div class="navWholeSection">
-<div class="navGroupSection" id="solutionsSection">
-<h2><a href="http://www.stratasys.com/solutions-applications/prototyping">Prototyping</a></h2>
-<p><a href="http://www.stratasys.com/solutions-applications/prototyping/concept-modeling">Concept Models</a></p>
-<p><a href="http://www.stratasys.com/solutions-applications/prototyping/functional-prototyping">Functional Prototypes</a></p>
+<div id="solutionsSectionleft" class="navGroupSection">
+<h2><a href="http://www.stratasys.com/solutions/rapid-prototyping">Rapid Prototyping</a></h2>
+<p><a href="http://www.stratasys.com/solutions/rapid-prototyping/concept-modeling">Concept Models</a></p>
+<p><a href="http://www.stratasys.com/solutions/rapid-prototyping/functional-prototyping">Functional Prototypes</a></p>
 </div>
-<div class="navGroupSection" id="solutionsSection">
-<h2><a href="http://www.stratasys.com/solutions-applications/digital-manufacturing">Digital Manufacturing</a></h2>
-<p><a href="http://www.stratasys.com/solutions-applications/digital-manufacturing/tooling">Tooling</a></p>
-<p><a href="http://www.stratasys.com/solutions-applications/digital-manufacturing/jigs-and-fixtures">Jigs &amp; Fixtures</a></p>
-<p><a href="http://www.stratasys.com/solutions-applications/digital-manufacturing/injection-molding">Injection Molding</a></p>
-<p><a href="http://www.stratasys.com/solutions-applications/digital-manufacturing/end-use-parts">End-Use Parts</a></p>
-<p><a href="http://www.stratasys.com/solutions-applications/digital-manufacturing/industries">Industries</a></p>
+<div id="solutionsSection" class="navGroupSection">
+<h2><a href="http://www.stratasys.com/solutions/additive-manufacturing">Additive Manufacturing</a></h2>
+<p><a href="http://www.stratasys.com/solutions/additive-manufacturing/tooling">Tooling</a></p>
+<p><a href="http://www.stratasys.com/solutions/additive-manufacturing/jigs-and-fixtures">Jigs &amp; Fixtures</a></p>
+<p><a href="http://www.stratasys.com/solutions/additive-manufacturing/injection-molding">Injection Molding</a></p>
+<p><a href="http://www.stratasys.com/solutions/additive-manufacturing/production-parts">Production Parts</a></p>
+<p><a href="http://www.stratasys.com/solutions/finishing-processes">Finishing Processes</a></p>
+<p><a href="http://www.stratasys.com/solutions/best-practices">Best Practices</a></p>
 </div>
-<div class="navGroupSection">
-<h2><a href="http://www.stratasys.com/solutions-applications/finishing-processes">Finishing Processes</a></h2>
-<h2><a href="http://www.stratasys.com/solutions-applications/parts-on-demand">Parts on Demand</a></h2>
-<h2><a href="http://www.stratasys.com/solutions-applications/professional-services">Professional Services</a></h2>
+<div id="solutionsSection" class="navGroupSection">
+<h2><a href="http://www.stratasys.com/solutions/professional-services">Professional Services</a></h2>
+</div>
+<div id="solutionsSectionright" class="navGroupSection">
+<h2><a href="http://www.stratasys.com/solutions/stratasys-advanced-materials">Stratasys Advanced Materials</a></h2>
+<h2><a href="http://www.stratasys.com/solutions/stratasys-direct-manufacturing">Stratasys Direct Manufacturing</a></h2>
 </div>
 <div class="navBottomCTA">
 <div class="button small contact"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></div>
 <div class="button small reseller"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></div>
-<div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px arial,helvetica,sans-serif;">U.S. Only</span></a></div>
+<div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px arial,helvetica,sans-serif;">US and CA only</span></a></div>
+</div>
+</div>
+</div></li><li><div class="megawrapper">
+<div class="navWholeSection">
+<div id="industrySectionleft" class="navGroupSection">
+<a href="http://www.stratasys.com/industries/aerospace"><img height="54" width="55" src="http://www.stratasys.com/~/media/en/Industries/Aerospace/aerospace.ashx" alt="aerospace"></a>
+<h2 id="industryGroup"><a href="http://www.stratasys.com/industries/aerospace">Aerospace</a></h2>
+<a href="http://www.stratasys.com/industries/defense"><img id="industryGroup" width="55" height="54" alt="defense" src="http://www.stratasys.com/~/media/en/Industries/Defense/defense.png"></a>
+<h2 id="industryGroupbottom"><a href="http://www.stratasys.com/industries/defense">Defense</a></h2>
+</div>
+<div id="industrySection" class="navGroupSection">
+<a href="http://www.stratasys.com/industries/architecture"><img width="55" height="54" alt="architecture" src="http://www.stratasys.com/~/media/en/Industries/Architecture/architecture.png"></a>
+<h2 id="industryGroup"><a href="http://www.stratasys.com/industries/architecture">Architecture</a></h2>
+<a href="http://www.stratasys.com/industries/dental"><img id="industryGroup" width="54" height="54" alt="dental_new" src="http://www.stratasys.com/~/media/en/Industries/Dental/dental_new.png"></a>
+<h2 id="industryGroupbottom"><a href="http://www.stratasys.com/industries/dental">Dental</a></h2>
+</div>
+<div id="industrySection" class="navGroupSection">
+<a href="http://www.stratasys.com/industries/automotive"><img width="55" height="54" alt="automotive" src="http://www.stratasys.com/~/media/en/Industries/Automotive/automotive.png"></a>
+<h2 id="industryGroup"><a href="http://www.stratasys.com/industries/automotive">Automotive</a></h2>
+<a href="http://www.stratasys.com/industries/education"><img id="industryGroup" width="54" height="54" alt="education" src="http://www.stratasys.com/~/media/en/Industries/Education/education.png"></a>
+<h2 id="industryGroupbottom"><a href="http://www.stratasys.com/industries/education">Education</a></h2>
+</div>
+<div id="industrySectionright" class="navGroupSection">
+<a href="http://www.stratasys.com/industries/commercial-products"><img width="55" height="54" alt="commercial" src="http://www.stratasys.com/~/media/en/Industries/Commercial Products/commercial.png"></a>
+<h2 id="industryGroup"><a href="http://www.stratasys.com/industries/commercial-products">Commercial Products</a></h2>
+<a href="http://www.stratasys.com/industries/entertainment"><img width="54" height="54" alt="entertainment" src="http://www.stratasys.com/~/media/en/Industries/Entertianment/entertainment.png"></a>
+<h2 id="industryGroup"><a href="http://www.stratasys.com/industries/entertainment">Entertainment</a></h2>
+</div>
+<div id="industrySection" class="navGroupSection">
+<a href="http://www.stratasys.com/industries/consumer-products"><img width="54" height="54" alt="consumer" src="http://www.stratasys.com/~/media/en/Industries/Consumer Products/consumer.png"></a>
+<h2 id="industryGroup"><a href="http://www.stratasys.com/industries/consumer-products">Consumer Products</a></h2>
+<a href="http://www.stratasys.com/industries/medical"><img width="55" height="54" alt="medical" src="http://www.stratasys.com/~/media/en/Industries/Medical/medical.png"></a>
+<h2 id="industryGroup"><a href="http://www.stratasys.com/industries/medical">Medical</a></h2>
+</div>
+<div class="navBottomCTA">
+<div class="button small contact"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></div>
+<div class="button small reseller"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></div>
+<div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 9px; line-height: normal; font-family: Arial, Helvetica, sans-serif;">US and CA only</span></a></div>
 </div>
 </div>
 </div></li><li><div class="megawrapper">
     <div class="navWholeSection">
-        <a id="industriesNavItem" href="http://www.stratasys.com/industries/aerospace">
-            <div>
-                <img width="55" height="54" alt="aerospace" src="http://www.stratasys.com/~/media/en/Industries/Aerospace/aerospace.png">
-                <p>Aerospace</p>
-            </div>
-        </a>
-        <a id="industriesNavItem" href="http://www.stratasys.com/industries/architecture">
-            <div>
-                <img width="55" height="54" alt="architecture" src="http://www.stratasys.com/~/media/en/Industries/Architecture/architecture.png">
-                <p>Architecture</p>
-            </div>
-        </a>
-        <a id="industriesNavItem" href="http://www.stratasys.com/industries/automotive">
-            <div>
-                <img width="55" height="54" alt="automotive" src="http://www.stratasys.com/~/media/en/Industries/Automotive/automotive.png">
-                <p>Automotive</p>
-            </div>
-        </a>
-        <a id="industriesNavItem" href="http://www.stratasys.com/industries/commercial-products">
-            <div>
-                <img width="55" height="54" alt="commercial" src="http://www.stratasys.com/~/media/en/Industries/Commercial Products/commercial.png">
-                <p>Commercial Products</p>
-            </div>
-        </a>
-        <a id="industriesNavItem" href="http://www.stratasys.com/industries/consumer-products">
-            <div>
-                <img width="54" height="54" alt="consumer" src="http://www.stratasys.com/~/media/en/Industries/Consumer Products/consumer.png">
-                <p>Consumer Products</p>
-            </div>
-        </a>
-        <a id="industriesNavItem" href="http://www.stratasys.com/industries/defense">
-            <div>
-                <img width="55" height="54" alt="defense" src="http://www.stratasys.com/~/media/en/Industries/Defense/defense.png">
-                <p>Defense</p>
-            </div>
-        </a>
-        <a id="industriesNavItem" href="http://www.stratasys.com/industries/dental">
-            <div>
-                <img width="54" height="54" alt="dental_new" src="http://www.stratasys.com/~/media/en/Industries/Dental/dental_new.png">
-                <p>Dental</p>
-        </div>
-        </a><a id="industriesNavItem" href="http://www.stratasys.com/industries/education">
-            <div>
-                <img width="54" height="54" alt="education" src="http://www.stratasys.com/~/media/en/Industries/Education/education.png">
-                <p>Education</p>
-            </div>
-        </a>
-        <a id="industriesNavItem" href="http://www.stratasys.com/industries/entertainment">
-            <div>
-                <img width="54" height="54" alt="entertainment" src="http://www.stratasys.com/~/media/en/Industries/Entertianment/entertainment.png">
-                <p>Entertainment</p>
-            </div>
-        </a>
-        <a id="industriesNavItem" href="http://www.stratasys.com/industries/medical">
-            <div>
-                <img width="55" height="54" alt="medical" src="http://www.stratasys.com/~/media/en/Industries/Medical/medical.png">
-                <p>Medical</p>
-            </div>
-        </a>
-        <div class="navBottomCTA">
-            <div class="button small contact"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></div>
-            <div class="button small reseller"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></div>
-            <div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px Arial,Helvetica,sans-serif;">U.S. Only</span></a></div>
-        </div>
-    </div>
-</div></li><li><div class="megawrapper">
-    <div id="resourcesNavItem" class="navWholeSection">
-        <div class="navGroupSection">
+        <div id="resourcesSectionleft" class="navGroupSection">
             <h2><a href="http://www.stratasys.com/resources/case-studies">Case Studies</a></h2>
             <h2><a href="http://www.stratasys.com/resources/videos">Videos</a></h2>
         </div>
-        <div class="navGroupSection">
+        <div id="resourcesSection" class="navGroupSection">
             <h2><a href="http://www.stratasys.com/resources/white-papers">White Papers</a></h2>
             <h2><a href="http://www.stratasys.com/resources/events">Event Calendar</a></h2>
         </div>
-        <div class="navGroupSection">
+        <div id="resourcesSectionright" class="navGroupSection">
             <h2><a href="http://www.stratasys.com/resources/webinars">Webinars</a></h2>
-            <h2><a href="http://www.stratasys.com/resources/rapid-prototyping">Rapid Prototyping</a></h2>
         </div>  
 
         <div class="navBottomCTA">
             <div class="button small contact"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></div>
             <div class="button small reseller"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></div>
-            <div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px Arial,Helvetica,sans-serif;">U.S. Only</span></a></div>
+            <div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px Arial,Helvetica,sans-serif;">US and CA only</span></a></div>
         </div>
     </div>
 </div></li><li><div class="megawrapper">
-    <div id="customerSupportNavItem" class="navWholeSection">
-        <div class="navGroupSection">
-            <h2><a href="http://www.stratasys.com/customer-support/programs">Support Programs</a></h2>
-            <h2><a href="http://www.stratasys.com/customer-support/mojo-and-uprint-system-support">Mojo and uPrint Support</a></h2>
-            <h2><a href="http://www.stratasys.com/customer-support/training">3D Printer Training</a></h2>
-        </div>
-        <div class="navGroupSection">
-            <h2><a href="http://www.stratasys.com/customer-support/legacy-products">Legacy Products</a></h2>
-            <h2><a href="http://www.stratasys.com/partners">Resource Center</a></h2>
-            <h2><a href="http://www.stratasys.com/customer-support/recycling-center">Recycling Center</a></h2>
-        </div>
-        <div class="navGroupSection">
-            <h2><a href="http://www.stratasys.com/customer-support/material-patches">Material Patches</a></h2>
-            <h2><a href="http://www.stratasys.com/customer-support/customer-feedback">Customer Feedback</a></h2>
-            <h2><a href="http://www.stratasys.com/customer-support/contact-customer-support">Contact Customer Support</a></h2>
-        </div>  
-
-        <div class="navBottomCTA">
-            <div class="button small contact"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></div>
-            <div class="button small reseller"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></div>
-            <div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px Arial,Helvetica,sans-serif;">U.S. Only</span></a></div>
-        </div>
-    </div>
+<div class="navWholeSection">
+<div id="customerSupportSectionleft" class="navGroupSection">
+<h2><a href="http://www.stratasys.com/customer-support/programs">Support Programs</a></h2>
+<h2><a href="http://www.stratasys.com/customer-support/mojo-and-uprint-system-support">Mojo and uPrint Support</a></h2>
+<h2><a href="http://www.stratasys.com/customer-support/training">3D Printer Training</a></h2>
+</div>
+<div id="customerSupportSection" class="navGroupSection">
+<h2><a href="http://www.stratasys.com/customer-support/legacy-products">Legacy Products</a></h2>
+<h2><a href="http://www.stratasys.com/partners">Resource Center</a></h2>
+<h2><a href="http://www.stratasys.com/customer-support/recycling-center">Recycling Center</a></h2>
+</div>
+<div id="customerSupportSectionright" class="navGroupSection">
+<h2><a href="http://www.stratasys.com/customer-support/material-patches">Material Patches</a></h2>
+<h2><a href="http://www.stratasys.com/contact-us/customer-support">Customer Feedback</a></h2>
+<h2><a href="http://www.stratasys.com/customer-support/contact-customer-support">Contact Customer Support</a></h2>
+</div>
+<div class="navBottomCTA">
+<div class="button small contact"><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Us</a></div>
+<div class="button small reseller"><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a></div>
+<div class="button small part"><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px arial,helvetica,sans-serif;">US and CA only</span></a></div>
+</div>
+</div>
 </div></li></ul>
 </div>
 
@@ -598,7 +541,7 @@
 
 <div class="subnavcolumn">
     <h2 id="content_0_ctl00_hSubnavTitle">Legal</h2>
-    <ul id="content_0_ctl00_ulSubnav"><li style="padding-left: 10px;" class="current"><a href="http://www.stratasys.com/legal/privacy-policy">Privacy Policy</a></li><li style="padding-left: 10px;"><a href="http://www.stratasys.com/legal/website-use-terms-and-conditions">Website Use Terms</a></li><li style="padding-left: 10px;"><a href="http://www.stratasys.com/legal/legal-information">Legal Information</a></li><li style="padding-left: 10px;"><a href="http://www.stratasys.com/legal/terms-and-conditions-of-sale">Terms and Conditions of Sale</a></li><li style="padding-left: 10px;"><a href="http://www.stratasys.com/legal/master-lease-agreement">Master Lease Agreement</a></li><li style="padding-left: 10px;"><a href="http://www.stratasys.com/legal/u-s-maintenance-service-terms-and-conditions">Maintenance Terms </a></li></ul>
+    <ul id="content_0_ctl00_ulSubnav"><li style="padding-left: 10px;" class="current"><a href="http://www.stratasys.com/legal/privacy-policy">Privacy Policy</a></li><li style="padding-left: 10px;"><a href="http://www.stratasys.com/legal/website-use-terms-and-conditions">Website Use Terms</a></li><li style="padding-left: 10px;"><a href="http://www.stratasys.com/legal/legal-information">Legal Information</a></li><li style="padding-left: 10px;"><a href="http://www.stratasys.com/legal/terms-and-conditions-of-sale">Terms and Conditions of Sale</a></li><li style="padding-left: 10px;"><a href="http://www.stratasys.com/legal/master-lease-agreement">Master Lease Agreement</a></li></ul>
 </div>
 
     <div class="rightcontentcolumn">
@@ -646,86 +589,65 @@
 
 <div class="footernav">
     <div class="footercolumn">
-        <div class="category"><a href="/ddm-group">DDM GROUP</a></div>
+        <div class="category"><a href="http://www.stratasys.com/industries">INDUSTRIES</a></div>
 <ul>
-    <li><a href="/ddm-group/metal-forming">Metal Forming</a></li>
-    <li><a href="/ddm-group/composite-tooling">Composite Tooling</a></li>
-    <li><a href="/ddm-group/jigs-and-fixtures">Jigs and Fixtures</a></li>
-    <li><a href="/ddm-group/thermoforming">Thermoforming</a></li>
-    <li><a href="/ddm-group/end-use-parts">End-Use Parts</a></li>
-    <li><a href="/ddm-group/test-reports">Test Reports</a></li>
-    <li><a href="/ddm-group/ultem-calculator">ULTEM Calculator</a></li>
-    <li><a href="/ddm-group/about-ddm-group">About DDM Group</a></li>
+    <li><a href="http://www.stratasys.com/industries/aerospace">Aerospace</a> </li>
+    <li><a href="http://www.stratasys.com/industries/architecture">Architecture</a>&nbsp;</li>
+    <li><a href="http://www.stratasys.com/industries/automotive">Automotive</a> </li>
+    <li><a href="http://www.stratasys.com/industries/commercial-products">Commercial Products Prototyping</a> </li>
+    <li><a href="http://www.stratasys.com/industries/dental">Dental</a> </li>
+    <li><a href="http://www.stratasys.com/industries/consumer-products">Consumer Products Prototyping</a> </li>
+    <li><a href="http://www.stratasys.com/industries/education">Education</a> </li>
+    <li><a href="http://www.stratasys.com/industries/entertainment">Entertainment</a>&nbsp;</li>
+    <li><a href="http://www.stratasys.com/industries/medical">Medical Device Prototyping</a> </li>
+    <li><a href="http://www.stratasys.com/industries/defense">Defense</a> </li>
 </ul>
     </div>
     <div class="footercolumn">
-        <div class="category"><a href="/industries">INDUSTRIES</a></div>
+        <div class="category"><a href="http://www.stratasys.com/corporate">CORPORATE</a></div>
 <ul>
-<li><a href="/industries/aerospace">Aerospace 3D Printing</a></li>
-            <li><a href="/industries/automotive">Automotive 3D Printing</a></li>
-            <li><a href="/industries/commercial-products">Commercial Products 3D Prototyping</a></li>
-<li><a href="/industries/dental">Dental</a></li>
-            <li><a href="/industries/consumer-products">Consumer Products 3D Prototyping</a></li>
-            <li><a href="/industries/education">Education 3D Printing</a></li>
-            <li><a href="/industries/medical">Medical Device Prototyping</a></li>
-            <li><a href="/industries/defense">Defense 3D Printing</a></li>
-        </ul>
-
-
-    </div>
-    <div class="footercolumn">
-        <div class="category"><a href="/corporate">CORPORATE</a></div>
-        <ul>
-            <li><a href="/corporate/about-us">About Us</a></li>
-            <li><a href="/corporate/investor-relations">Investor Relations</a></li>
-            <li><a href="/corporate/newsroom">Newsroom</a></li>
-            <li><a href="/corporate/careers">Careers</a></li>
-            <li><a href="/corporate/reach-compliance">REACH Compliance</a></li>
-        </ul>
-
+    <li><a href="http://www.stratasys.com/corporate/about-us">About Us</a></li>
+    <li><a href="http://www.stratasys.com/corporate/investor-relations">Investor Relations</a></li>
+    <li><a href="http://www.stratasys.com/corporate/newsroom">Newsroom</a></li>
+    <li><a href="http://www.stratasys.com/corporate/careers">Careers</a></li>
+    <li><a href="http://www.stratasys.com/corporate/reach-compliance">REACH Compliance</a></li>
+</ul>
 <div class="category">COMPANY WEBSITES</div>
-        <ul>
-            <li><a href="http://www.makerbot.com/" target="_blank">MakerBot</a></li>
-			<li><a href="http://www.redeyeondemand.com/" target="_blank">RedEye</a></li>
-			<li><a href="http://www.solid-scape.com/" target="_blank">Solidscape</a></li>
-<li><a href="http://interfacialsolutions.com/" target="_blank">Interfacial Solutions</a></li>
-<li><a href="http://www.harvest-tech.com/" target="_blank">Harvest Technologies</a></li>
-<li><a href="http://www.solidconcepts.com/" target="_blank">Solid Concepts</a></li>
-            
-        </ul>
-    </div>
-    <div class="footercolumn">
-        <div class="category"><a href="/partners">PARTNERS</a></div>
 <ul>
-    <li><a href="http://www.stratasys.com/Single-Sign-On/Login.aspx" target="_blank">FDM Resource Center</a></li>
- <li><a href="http://my.stratasys.com" target="_blank">MyStratasys</a></li>
-    <li><a href="http://partnerzone.objet.com/" target="_blank">Partner Zone</a></li>
-    <li><a href="http://www.blossom-kc.com/lmses/objet/login?dir=%2Flmses%2Fobjet%2F" target="_blank">LMS</a></li>
-</ul>
-<div class="category"><a href="/contact-us/">CONTACT US</a></div>
-<ul>
-    <li><a href="/contact-us/contact-stratasys">Contact Stratasys</a></li>
-    <li><a href="/contact-us/locations">Locations</a></li>
-    <li><a href="/contact-us/find-a-reseller">Find a Reseller</a></li>
-    <li><a href="/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px Arial,Helvetica,sans-serif;">U.S. Only</span></a></li>
-    <li><a href="/contact-us/customer-feedback">Customer Feedback</a></li>
-    <li><a href="/customer-support/recycling-center">Recycling Center</a></li>
+    <li><a href="http://www.makerbot.com/" target="_blank">MakerBot</a></li>
+    <li><a href="https://www.stratasysdirect.com/" target="_blank">Stratasys Direct Manufacturing</a></li>
+    <li><a href="http://www.solid-scape.com/" target="_blank">Solidscape</a></li>
+    <li><a href="http://interfacialsolutions.com/" target="_blank">Interfacial Solutions</a></li>
 </ul>
     </div>
     <div class="footercolumn">
-        <div class="category"><a href="/community">COMMUNITY</a></div>
+        <div class="category"><a href="http://www.stratasys.com/partners">PARTNERS</a></div>
+<ul>
+    <li><a href="http://www.stratasys.com/Single-Sign-On/Login.aspx" target="_blank">FDM Resource Center</a> </li>
+    <li><a href="http://my.stratasys.com" target="_blank">MyStratasys</a> </li>
+    <li><a href="http://partnerzone.objet.com/" target="_blank">Partner Zone</a> </li>
+    <li><a href="http://academy.stratasys.com/login" target="_blank">Stratasys Academy</a> </li>
+    <li><a href="/customer-support/recycling-center">Recycling Center</a> </li>
+</ul>
+    </div>
+    <div class="footercolumn">
+        <div class="category"><a href="http://www.stratasys.com/contact-us">CONTACT US</a></div>
+<ul>
+    <li><a href="http://www.stratasys.com/contact-us/contact-stratasys">Contact Stratasys</a>&nbsp;</li>
+    <li><a href="http://www.stratasys.com/contact-us/locations">Locations</a>&nbsp;</li>
+    <li><a href="http://www.stratasys.com/contact-us/find-a-reseller">Find a Reseller</a>&nbsp;</li>
+    <li><a href="http://www.stratasys.com/contact-us/get-a-sample-part">Get a Sample Part <span style="font: 9px arial,helvetica,sans-serif;">US and CA only</span></a>&nbsp;</li>
+    <li><a href="http://www.stratasys.com/contact-us/customer-support">Customer Support</a></li>
+</ul>
+    </div>
+    <div class="footercolumn">
+        <div class="category"><a href="http://www.stratasys.com/community">COMMUNITY</a></div>
 <ul>
     <li><a href="http://blog.stratasys.com" target="_blank">Blog</a></li>
-    <li><a href="/community/guidelines">Guidelines</a></li>
-
+    <li><a href="http://www.stratasys.com/community/guidelines">Guidelines</a></li>
 </ul>
-<a target="_blank" href="http://blog.stratasys.com"><img alt="" src="/StratasysGlobal/Images/stratasys_blog.png"></a>
-<a target="_blank" href="http://www.facebook.com/stratasys"><img alt="" src="/StratasysGlobal/Images/facebook.png"></a>
-<a target="_blank" href="http://plus.google.com/101657057680066088698"><img alt="" src="/StratasysGlobal/Images/google_plus.png"></a>
-<br>
-<a target="_blank" href="http://twitter.com/Stratasys"><img alt="" src="/StratasysGlobal/Images/twitter.png"></a>
-<a target="_blank" href="http://www.linkedin.com/company/415728"><img alt="" src="/StratasysGlobal/Images/linkedin.png"></a>
-<a target="_blank" href="http://www.youtube.com/objetgeometries"><img alt="" src="/StratasysGlobal/Images/youtube.png"></a>
+<a href="http://blog.stratasys.com" target="_blank"><img alt="" src="/StratasysGlobal/Images/stratasys_blog.png"></a> <a href="http://www.facebook.com/stratasys" target="_blank"><img alt="" src="/StratasysGlobal/Images/facebook.png"></a> <a href="http://plus.google.com/101657057680066088698" target="_blank"><img alt="" src="/StratasysGlobal/Images/google_plus.png"></a> <br>
+<a href="http://twitter.com/Stratasys" target="_blank"><img alt="" src="/StratasysGlobal/Images/twitter.png"></a> <a href="http://www.linkedin.com/company/415728" target="_blank"><img alt="" src="/StratasysGlobal/Images/linkedin.png"></a> <a href="http://www.youtube.com/objetgeometries" target="_blank"><img alt="" src="/StratasysGlobal/Images/youtube.png"></a>
     </div>
 </div>
 <div class="clear"></div>
@@ -760,7 +682,16 @@ document.write(yr);</script>2020<noscript>2014</noscript>. All rights reserved. 
 
 	<!-- Brandscreen Remarketing List Addition Code . Advertiser: SSYS SEA. Name: All Visitor to Stratasys.com --> 
 	<img src="http://tags.rtbidder.net/track?sid=5385bab98bc06f0cbc850a91" width="0" height="0" border="0" alt="">
-
+    <script>
+      var c = getCookie("__utmz");
+      if (c.contains(".utmcsr=")) {
+          c = c.replace(".utmcsr=", ".utm_campaign_source=");
+      }
+      if (c.contains("|utmcmd=")) {
+          c = c.replace("|utmcmd=", "|utm_campaign_medium=");
+      }
+      setCookie("__utmz", c, 180, ".stratasys.com");
+    </script>
 
 
 </body></html>
