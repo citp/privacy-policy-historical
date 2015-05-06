@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everfi.net privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709125306id_/http%3A//www.everfi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everfi.net privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506220158id_/http%3A//www.everfi.com/legal/privacy) for the most accurate reproduction.*
 
 # Legal - Privacy - EverFi
 
@@ -6,140 +6,168 @@
   
 
 
-Last modified September 20, 2013 
+Last Modified: September 14, 2014 
 
-EverFi, Inc. of Washington D.C. (“EverFi” “we” or “us” or “our”) is committed to providing an informative and engaging educational technology platform for all of its users. EverFi feels strongly about protecting the privacy of its users. EverFi owns or operates the websites listed at the following link EverFi [Website List](https://web.archive.org/legal/website-list "Website List"). 
+We at EverFi, Inc. ("EverFi," "we," "us," "our”) care tremendously about how personal information is used and shared. We take your privacy seriously. 
 
-These websites and the services available thereon and other services we may make available from time to time (together with associated and successor websites and services) are referred to as the “Service”. This General Privacy Policy informs you of the policies of EverFi, regarding information that we collect from users of our Service. This General Privacy Policy applies only to information that we collect.. 
+EverFi owns or operates the EverFi websites (herein, the “Websites”) listed HERE, in Section 14 of this Privacy Policy. This Privacy Policy applies to these Websites and any of services available through these Websites (collectively, the " **Service**.") This Privacy Policy describes how EverFi collects, uses and discloses the information it collects via the Service. It does not apply to how a Sponsoring Entity (defined below in Section 3.) uses or discloses any information related to Service users. 
 
-BY USING THE SERVICE OR PROVIDING ANOTHER PERSON WITH ACCESS TO USE THE SERVICE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS GENERAL PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS GENERAL PRIVACY POLICY, YOU SHOULD NOT USE THE SERVICE OR PROVIDE ANOTHER PERSON WITH ACCESS TO USE THE SERVICE. CONTINUED USE OF THE SERVICE FOLLOWING THE POSTING OF CHANGES TO THIS GENERAL PRIVACY POLICY MEANS THAT YOU ACCEPT THOSE CHANGES. 
+In some instances our platform may be accessible via a third party website, including that of a Sponsoring Entity. This Policy does not apply to the information collection practices on any such third party website or of a Sponsoring Entity, but only to the information EverFi collects on the Websites and Service. 
 
-**1). How We Collect and Use Information:**
+By using the Service, you agree that EverFi will handle your personal information as described in this Policy. Your use of our Services, and any dispute over privacy, is subject to this Policy and our Terms of Service, located at <https://platform.everfi.net/registration/login>. To review our COPPA Privacy Policy, which applies to the personal information we knowingly collect from children under 13, please go [here](http://www.everfi.com/legal/coppa-privacy-policy "http://www.everfi.com/legal/coppa-privacy-policy"). 
 
-In addition to the specific uses described below, EverFi generally uses the information collected through the Service to provide the Service to users, to help us understand who uses the Service, for internal operations such as to improve the Service, and to contact users for customer service and billing purposes. We may use a Service user’s information to send a welcoming email that may confirm the user’s user name and password. Without requiring the user to “opt-in”, we may send the user electronic newsletters and marketing materials, contact the user about products, services, information and news that may be of interest to the user, and provide the user with targeted feedback. In addition, if a user identifies himself or herself to us by sending us an email with questions or comments, we may use the user’s information (including personally identifiable information) to respond to the user’s questions or comments, and we may file such questions or comments for future reference. We may also use the information collected to send important service announcements and updates regarding the Service or, if applicable, about billing account status. You will not be able to unsubscribe from these service announcements and updates as they contain important information relevant to the use of the Service. 
+**1) Information We Collect**
 
-We may also use the information gathered through the Service to perform statistical analysis of user behavior or to evaluate and improve the Service. We may link some of this information to personally identifiable information for internal purposes or to improve users’ experience with the Service. All information collected may be used or shared by EverFi as described in this General Privacy Policy on a worldwide basis. 
+We may collect information about you directly from you, from third parties, and automatically related to your use of the Service. 
 
-**Personally Identifiable Information**
+**Personally Identifiable Information or (“PII”) We Collect Directly from You**. We collect PII about users of our Service. Personally identifiable information is information that identifies a particular user or can be used to contact a particular user. Such information may include a Service user's name, address, email address, as well as information about their employment, education history, demographic information and other optional information. EverFi may collect PII directly from a user, such as during the registration process and when users communicate with us, and from a user's Entity (as defined below). 
 
-Personally identifiable information is information that identifies a Service user or can be used to identify or contact a Service user. Such information may include a Service user’s name, address, email address, and telephone number. EverFi may collect personally identifiable information during the registration process from a user or from a user’s Entity (as defined below). This information allows EverFi (and the schools, organizations, and teachers who use our products) to track the use of our educational technology platform and Service. Although not a requirement, we may also collect and use email addresses to help with customer support calls and to allow users access to self-service functions such as password reset features, etc. 
+**Activity Information**. We collect information about user activities within the Service, including information about the a courses, tests or learning modules a user views, starts or finishes (including data and time stamps); test results or scores, and related information; and other information about a user’s activities and use of the Service. 
 
-**Non-Personally Identifiable Information**
+**Other Information We Collect Automatically.** We collect information automatically about users via a variety of methods, such as cookies, web beacons, JavaScript, and log files. This information may include user IP addresses, browser types, domain names, device type, time stamp, referring URL and other log file information; user activities within the Service; aggregate and statistical information regarding overall server/visitor traffic and navigation patterns for the Service. Web servers collect this type of basic information automatically as part of Web log processes. For more information, see the “ **Cookies and Other Tracking Technologies** ” section below. 
 
-Non-personally identifiable information is information, any single item of which, by itself, cannot be used to identify or contact a Service user, such as demographic information (like age, profession, current location, zip code, or gender). Non-personally identifiable information may also include user IP addresses, browser types, domain names, user name, test results, test scores, survey data, and statistical data involving the use of the Service. We collect nonpersonally identifiable information during the registration process and also through the use of cookies and log files, as described in this General Privacy Policy. One type of non-personally identifiable information that we collect is aggregate information regarding overall server/visitor traffic and navigation patterns for the Service, which is collected for basic system monitoring. Web servers collect this type of basic information automatically as part of Web log processes. This tracking helps us improve the design and content of our Service. As further described below, we also collect aggregate information concerning the demographics and progress of our users. 
+**Surveys**. EverFi collects data from assessments and surveys, including demographic information to help us evaluate the effectiveness of our digital courses. EverFi will extract all individual pieces of personally identifiable information (such as name, e-mail address, and, if appropriate, login ID) from any survey data before sharing such data with any end-user including any Sponsoring Entity (as defined below) or any other third party, unless we have your consent to share survey data in identifiable form with your Sponsoring Entity. 
 
-**Surveys**
+**Contests and Advisory Boards.** Through the Service, users who are over the age of majority in their state of residence (18 years old in most states) have the option to enter contests or to participate in advisory panels. Such users may be required to enter additional information to participate. This participation is completely optional; users are not required to participate in such activities in order to use the Service. 
 
-EverFi collects data from surveys, including demographic information to help us evaluate the effectiveness of our courses. EverFi will extract all individual pieces of personally identifiable information (such as name, e-mail address, and, if appropriate, login ID) from any survey data before sharing such data with a user’s Entity (as defined below) or any other third party. 
+**Payment Information**. For users who register and take our e-commerce online courses, credit card information and payments are collected and processed by a third-party payment processor. EverFi websites that accept direct payments include http://www.outsidetheclassroom.com and http://www.everfi.net. 
 
-**Contests and Advisory Boards**
+**2) How We Use Your Information**
 
-Through the Service, users who are over the age of 18 have the option to enter contests or to participate in advisory panels. Such users may be required to enter additional information, such as an email address. This participation is completely optional; users are not required to participate in such activities in order to use the Service. 
+EverFi generally uses the information we collect as follows: 
 
-**Use of Cookies**
+• To communicate with you about your use of the Services (including via email); to respond to your inquiries; to send you surveys; and for other customer service or internal purposes. 
 
-As a standard practice, EverFi uses “cookies”. EverFi may use cookies on its Service to ensure the integrity of the registration process and to personalize course content. A cookie is a small text file that is placed on a user’s hard disk by a Web page server. Cookies are uniquely assigned to a user and can only be read by a Web server in the domain that issued the cookie. Only session cookies are used, which means that the cookie will only exist on a computer while a user is on the Service. If a user logs out or closes his or her browser window, he or she will delete the cookie. No information persists. Please note that if you refuse the EverFi cookie (by turning cookies off in your browser or by clicking “don’t accept” if you have set your browser to warn you before accepting cookies), the offerings, features, and resources of the Service will not work. In order to use the Service, a user may need to decrease the security or privacy settings of his or her browser to accept cookies. 
+• To troubleshoot any technical issues you might experience while using our Services. 
 
-**Collection of IP Addresses**
+• To send you communications about additional products, services and other information we think may interest you, including marketing and promotional emails, unless prohibited by law or by our agreement with the Sponsoring Entity. 
 
-As with many sites, an IP address is visible to us when users visit our Service. An IP address is a number automatically assigned to an individual’s computer whenever he or she is connected to the Internet. EverFi will only use IP addresses when users sign up for the Service to help diagnose problems with our server. 
+• To better understand how users access and use our Services, in order to improve our Services, to respond to user desires and preferences, and for other research and analytical purposes. 
 
-_Note regarding credit card information:_ For users who register and take our e-commerce online course through the http://www.outsidetheclassroom.com website, credit card information and payments are collected and processed by a third-party site managed by Verisign. We do not collect or store any credit card information on our servers.
+• To develop aggregated reports and related analysis regarding user activities. 
 
-**2). SHARING OF INFORMATION WITH THIRD PARTIES:**  
+• To tailor the educational content and information that we may send or display to you, to offer personalized help and instructions, and to otherwise personalize your experiences while using our Services. 
 
-_**Service Users’ Entities** _
+• As otherwise required by law. 
 
-We may share all information about a user’s use of and performance on the Service with the school and school district and/or other organization (an “Entity”) that provides the user with access to use the Service, including the Entity’s representatives, such as teachers and administrators. Such information will be provided, via a password protected administrative portal, and may include, but will not be limited to: 
+**3) Sharing of Information with Third Parties We may share the information we collect, including PII, as follows:**
 
-         Course progress/completion 
+**Sponsoring Entity.** If you access the Service through, or are granted access to the Service by a school, school district, college, university, person, institution or other organization (a "Sponsoring Entity"), we may share the information we collect about you with the Sponsoring Entity or its representatives. Such information may include, but will not be limited to: course progress/completion; assessment scores; email address; user ID/identifying tag or username (if applicable); additional data the Sponsoring Entity or its representative requests. 
 
-         Exam scores 
+**Social Media Sharing**. If a user chooses to share information such as assessment scores through social media outlets, such as Facebook and Twitter, third parties may receive information about a user’s performance on the Service, such as information about badges and prizes received in connection with the Service. 
 
-         Email address (if applicable) 
+**Third-Party Sponsors.** EverFi works with third-party sponsors to bring the Services to some users free-of-charge. In such situations, we may share de-identified or aggregate user information with our sponsors. We may also aggregate the information that we collect from users of our Service to create demographic profiles and performance profiles regarding the progress of users who use the Service. 
 
-         User ID/identifying tag or username (if applicable) 
+**Legal Disclosures.** We may disclose a Service user's information (including personally identifiable information) where we believe that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may also disclose PII where we believe it is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service for our Service, to detect fraud, for assistance with a delinquent account, as evidence in litigation in which we are involved, or to protect the safety and/or security of our users, the Service or the general public. 
 
-         Additional aggregate data the Entity or Entity’s representative request 
+**Service Providers.** We may employ independent contractors, vendors and suppliers to provide specific services related to the Service, such as hosting and maintaining the Service, providing credit card processing and fraud screening, and developing applications for the Service and e-mail services. 
 
-_**Teachers and Administrators** _
+**Business Transfers.** We reserve the right to transfer information (including PII) to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of EverFi or any of its Affiliates (including as part of a bankruptcy proceeding). 
 
-As noted above, we may share all information about a user’s use of and performance on the Service with the teachers, administrators, and other representatives of the Entity that provides the user with access to use the Service.  Such information will be provided, via a password protected administrative portal, and may include, but will not be limited to: 
+**Affiliates.** We may disclose PII about Service users to our affiliated companies. Our affiliates' use of your PII will be in accordance with the terms of this Privacy Policy. 
 
-         Course progress/completion 
+**Aggregate and De-Identified Information**. We may also provide aggregate, anonymous or de-identified information about users and the Service for marketing, research, analytics, marketing and other purposes. For example, we might inform third parties regarding the number of unique users who visit the Service, the demographic breakdown of our registered users of the Service, and the test results and progress of users. 
 
-         Exam scores 
+**4) Cookies and Analytics**
 
-         Email address (if applicable) 
+We, and our service providers use cookies and other tracking mechanisms to track information about your use of our Service. 
 
-         User ID/identifying tag or username (if applicable) 
+**Cookies**. We, and our service providers use cookies to track visitor activity on our platform. A cookie is a text file that a website transfers to your computer’s hard drive for record-keeping purposes. We, and our service providers use cookies to track user activities on our Services, such as the pages visited and time spent on our Services. Most browsers allow users to refuse cookies. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Many of our Services will not function properly with cookies disabled. 
 
-         Additional aggregate data the Entity or Entity’s representative request 
+**Do-Not-Track Signals.** Users opt-in to our Services through enrollment and registration. Our platform does not recognize “do-not-track” requests; however, we do not track your activities after you leave our platform. 
 
-_**Social Media Sharing** _
+**Local Shared Objects.** We may use local shared objects (“LSOs”), such as Flash LSOs to store your preferences and to personalize your visit. LSOs are different from browser cookies because of the amount and type of data stored. Typically, you cannot control, delete, or disable LSOs through your web browser. You may be able to manage Flash LSOs in particular; for more information or to learn how to manage your Flash LSO settings, go to the Adobe Flash Player Help Page, choose “Global Storage Settings Panel” and follow the instructions. 
 
-If a user chooses to share such information through social media outlets, such as Facebook and Twitter, third parties may receive information about a user’s performance on the Service, such as information about badges and prizes received in connection with the Service. 
+**Clear GIFs, pixel tags and other technologies**. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on web pages and cannot be disabled through your browser. We may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Services to, among other things, track the activities of users, help us manage content, and compile statistics about usage. We, and our service providers may also use clear GIFs in HTML emails to our customers, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded. 
 
-_**Third-Party Sponsors** _
+**Third-Party Analytics.** We, and our service providers may use automated devices and applications, such as Google Analytics, to evaluate usage of our Services. We also may use other analytic means to evaluate our services. We use these tools to help us improve our services, performance, and user experiences. These entities may use cookies and other tracking technologies to perform their services. We do not share your personal information with these third parties. 
 
-EverFi works with third-party sponsors to bring our courses to some Entities free-of-charge.  We only share non-personally identifiable user information with our sponsors.  We, however, may aggregate the information that we collect from users of our Service to create demographic profiles and performance profiles regarding the progress of users who use the Service. This aggregated information may be shared with third parties in the form of group statistics. 
+**5) Other Websites**
 
-_**Laws and Legal Rights** _
+Our Service may contain links to other websites not owned or operated by EverFi, and may provide Service users with access to other websites and services. This may include providing users with the ability to share and automatically post updates (including updates about badges and prizes received in connection with the Service) through social media outlets, such as Facebook and Twitter. Please be aware that we are not responsible for the privacy practices of such third party websites or services. We encourage you to read the privacy policies or statements of each and every website you visit. 
 
-We may disclose a Service user’s information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the [Terms of Use](https://web.archive.org/legal/terms-of-use "Terms of Use") for our Service, to detect fraud, for assistance with a delinquent account, or to protect the safety and/or security of our users, the Service or the general public. 
+**6) Protecting Your Information**
 
-_**Third Parties Generally** _
+EverFi has multiple security measures in place to protect the loss, misuse or alteration of information under our control. However, no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. We believe that we have put in place appropriate physical, electronic, and managerial procedures to help safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-We may provide to third parties non-personally identifiable information about Service users, including where such information is combined with similar information of other users of the Service. For example, we might inform third parties regarding the number of unique users who visit the Service, the demographic breakdown of our registered users of the Service, and the test results and progress of users.  The third parties to which we may provide non-personally identifiable information may include affiliates, actual or potential commercial partners, students, customers, sponsors, Entities of Service users, licensees, researchers and other similar parties. 
+**7) Public Area**
 
-_**Outside Contractors** _
+The Service may feature various community areas and other public forums (the "Public Areas") where users can share information or post questions for others to answer. These Public Areas are open to the public and should not be considered private. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy. We are not responsible for the results of such postings or for the accuracy of any information contained in those postings. You should think carefully before posting any information in any Public Area. What you post can be seen, disclosed to or collected by others and may be used by others in ways we cannot control or predict. As with any public forum on any website, the information you post may also show up in third-party search engines like Google. 
 
-We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services related to the Service, such as hosting and maintaining the Service, providing credit card processing and fraud screening, and developing applications for the Service and e-mail services. In the course of providing services to us, these Outside Contractors may sometimes have limited access to information collected through the Service, including users’ personally identifiable information. 
+**8) Communications**
 
-_**Sale of Business** _
+We may send periodic informational emails to you. You may opt out of such communications by following the opt-out instructions contained in the email (or contacting us at privacy@everfi.com). Please note that it may take up to 10 business days for us to process opt-out requests. If you opt out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your EverFi account or any services you have requested or received from us. 
 
-We reserve the right to transfer information (including personally identifiable information) to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of EverFi or any of its Affiliates, provided that the third party agrees to adhere to the terms of this General Privacy Policy. 
+**9) Amending your Information**
 
-_**Affiliates** _
+If you mistakenly post personal information in a Public Area you can send us an email to request that we remove it by contacting us at privacy@everfi.com. If you would like to amend your profile information, you may log in to your account and do so or email us at privacy@everfi.com. You should understand that in some cases, we may not be able to remove or update your information and such information may remain viewable in archived or cached version of the Service. We may also retain copies of such information in our systems or databases. 
 
-We may disclose information (including personally identifiable information) about Service users to our Affiliates. For purposes of this General Privacy Policy, "Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with EverFi, whether by ownership or otherwise. Any information relating to Service users that we provide to our Affiliates will be treated by those Affiliates in accordance with the terms of this General Privacy Policy. 
+**10) International Transfers**
 
-**3). Other Websites:   **
+EverFi is a U.S. company and all the information we collect will be transferred to, stored and processed in the U.S., as well as other locations where we have affiliates and service providers. The U.S. and other jurisdictions to where we transfer your information may not offer an equivalent level of data protection as in your home country. Your data also may be subject to access by law enforcement and other government entities, including courts and tribunals in accordance with the laws applicable in those jurisdictions. You expressly agree to the cross-border transfer of your personal data as described in this paragraph. 
 
-Our Service may contain links to other websites and services not owned or operated by EverFi and may provide Service users with access to other websites and services. This may include providing users with the ability to share and automatically post updates (including updates about badges and prizes received in connection with the Service) through social media outlets, such as Facebook and Twitter. Please be aware that we are not responsible for the privacy practices of any websites or services other than the Service. We encourage you to be aware when the Service links to other websites or services and to read the privacy policies or statements of each and every such website and service. This General Privacy Policy applies solely to information collected through the Service. 
+**11) Our Commitment to Children's Privacy**
 
-**4). Public Area:**
+EverFi is committed to protecting the privacy of children. Please see our COPPA Privacy Policy for our guidelines concerning the collection of information from children under the age of 13. 
 
-The Service may feature various community areas and other public forums (the "Public Areas") where users can share information or post questions for others to answer. These Public Areas are open to the public and should not be considered private. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy. We are not responsible for the results of such postings or for the accuracy of any information contained in those postings. 
+**12) Amendments**
 
-Any information you share in a Public Area (including personally identifiable information) is by design open to the public and is not private. You should think carefully before posting any information in any Public Area. What you post can be seen, disclosed to or collected by others and may be used by others in ways we cannot control or predict. As with any public forum on any website, the information you post may also show up in third-party search engines like Google, Yahoo, MSN, and Bing. If you mistakenly post personal information in a Public Area you can send us an email to request that we remove it by contacting us at privacy@everfi com. You should understand that in some cases, we may not be able to remove your personal information. 
+EverFi may amend this Privacy Policy from time to time. We encourage you to check this page periodically for any changes. Your continued use of the Service following the posting of changes to this General Privacy Policy constitutes acceptance of those changes. IF we make any material changes that affect information we have previously collected by you, we will endeavor to provide you with notice, such as notice via email or within the Service. 
 
-**5). Protecting Your Information:**
-
-The Service may feature various community areas and other public forums (the "Public Areas") where users can share information or post questions for others to answer. These Public Areas are open to the public and should not be considered private. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy. We are not responsible for the results of such postings or for the accuracy of any information contained in those postings. 
-
-**6). Our Commitment to Children’s Privacy:**
-
-EverFi is committed to protecting the privacy of children.  Please see our [COPPA Privacy Policy](https://web.archive.org/legal/coppa-privacy-policy "COPPA Private Policy") for our guidelines concerning the collection of information from children under the age of 13. 
-
-**7). Amendments:   **
-
-EverFi may amend this Privacy Policy from time to time.  We encourage you to check this page periodically for any changes.  Your continued use of the Service following the posting of changes to this General Privacy Policy constitutes acceptance of those changes. 
-
-**8). Contact Information:**
+**13) Contact Information**
 
 If you have any questions about this General Privacy Policy or our security measures at EverFi, please contact us at: 
 
-  
+EverFi, Inc.
 
+3299 K Street NW 
 
-**EverFi, Inc.**
+Floor 400
 
-2715 M Street NW   
-Suite 400  
-Washington DC 20007  
-[privacy@everfi.com](mailto:privacy@everfi.com)   
-202 625 0011 (p)   
-202 450 3967 (f) 
+Washington DC 20007
+
+privacy@everfi.com
+
+202 625 0011 (p)
+
+**14) EverFi Websites**
+
+• Company Site: everfi.org & everfi.com 
+
+• Digital Learning Platform: Any sub-domain or URL redirected or aliased to everfi.net and alcoholedu.com 
+
+• Marketo: http://Info.everfi.com and any and all sub-domains 
+
+• @Work™: www.everfiatwork.com 
+
+• Verano™: www.projectverano.com 
+
+• Campus Save Act Site: thecampussaveact.com & thecampussaveact.net 
+
+• Engineering Sites: deverfi.net & everfi-dev.net & everfi-staging.net 
+
+• Outside the Classroom™: www.outsidetheclassroom.com 
+
+• Students in Distress™: mentalhealthedu.com 
+
+• Campus Diagnostic™: www.campusdiagnostic.com 
+
+• Any sub-domain or URL redirected to everfi.net and alcoholedu.com 
+
+• AlcoholEdu® for College: http://college.alcoholedu.com 
+
+• AlcoholEdu® for College Sanctions: http://sanctions.alcoholedu.com 
+
+• AlcoholEdu® for High School: http://highschool.alcoholedu.com 
+
+• AlcoholEdu® for Youth Sanctions: http://youth.alcoholedu.com 
+
+• Alcohol Innerview™: http://www.alcoheverfi.netolinnerview.com 
+
+• GreekLifeEdu™: http://www.greeklifeedu.com 
+
+• Haven - Sexual Assault Prevention™ (Old Version): sexualassaultedu.com 
+
+• The Hub: http://hub.alcoholedu.com 
 
 **Powered by EverFi**
