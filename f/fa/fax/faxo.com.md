@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faxo.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222194522id_/http%3A//faxo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faxo.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507002147id_/http%3A//faxo.com/privacy) for the most accurate reproduction.*
 
 # Faxo
 
