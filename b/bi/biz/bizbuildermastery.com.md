@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizbuildermastery.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023215706id_/http%3A//bizbuildermastery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbuildermastery.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506215659id_/http%3A//bizbuildermastery.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MyLeadSystemPRO Training
+# Privacy Policy | MyLeadSystemPRO
 
 This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for the website that linked you here. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our current practices, as they may change in the future.
 
