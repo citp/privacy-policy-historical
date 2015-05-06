@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendytraveller.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229094318id_/http%3A//trendytraveller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendytraveller.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506184120id_/http%3A//trendytraveller.com/privacy.php) for the most accurate reproduction.*
 
 # Trendy Traveller - About Us
 
