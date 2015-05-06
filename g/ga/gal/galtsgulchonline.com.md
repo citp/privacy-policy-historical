@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galtsgulchonline.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704214950id_/http%3A//www.galtsgulchonline.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galtsgulchonline.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506234608id_/http%3A//www.galtsgulchonline.com/w3c/privacy.html) for the most accurate reproduction.*
 
 # Galt's Gulch - Privacy
 
@@ -93,14 +93,3 @@ USA
 admin@galtsgulchonline.com 
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm). 
-
-You must be signed in to do that. Would you like to sign in now?
-
-While we're very happy to have you in the Gulch and appreciate your wanting to fully engage, some things in the Gulch ( _e.g. voting, links in comments_ ) are a privilege, not a right. To get you up to speed as quickly as possible, we've provided two options for earning these privileges. 
-
-  1. You must reach a Gulch score of 100. You can earn points in the Gulch by posting content, commenting, or by other members voting up your posts.
-  2. You may upgrade to a Galt's Gulch **Producer** membership to immediately gain these privilege.
-
-
-
-Your current Gulch score: ****
