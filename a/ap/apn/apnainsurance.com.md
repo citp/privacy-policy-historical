@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the apnainsurance.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606194152id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnainsurance.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506221628id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Why Apnapaisa?**
+**Why[apnapaisa](https://web.archive.org/ "apnapaisa")?**
 
-Apnapaisa.com Services Private Limited respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by [apnapaisa.com](http://www.apnapaisa.com/loan/) you agree to the collection and use of your data by [apnapaisa.com](http://www.apnapaisa.com/loan/) in the manner provided in this Privacy Policy.
+apnapaisa.com Services Private Limited respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by apnapaisa.com you agree to the collection and use of your data by apnapaisa.com in the manner provided in this Privacy Policy.
 
 **What data is collected from you automatically?**
 
@@ -25,7 +25,7 @@ Data which we collect from you
   * mobile phone number and contact details 
   * ZIP/Postal code 
   * demographic profile (like your age, gender, occupation, address) 
-  * preferences (such as housing loan, personal loan, credit card, car loan); 
+  * preferences (such as housing loan, [personal loan](https://web.archive.org/ "personal loan"), credit card, [car loan](https://web.archive.org/loan/car-loan-india/index.html "car loan")); 
   * financial information (like salary)
 
 
@@ -59,7 +59,7 @@ The Site contains links to other Web sites. We are not responsible for the priva
 We will not use or rent your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission:
 
   * to provide products or services you've requested 
-  * to help investigate violations of [apnapaisa.com](http://www.apnapaisa.com/loan/)'s terms of use or to defend against legal claims; 
+  * to help investigate violations of apnapaisa.com's terms of use or to defend against legal claims; 
   * to disclose the information under special circumstances such as compliance with applicable local law, court summons, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
 
 
@@ -73,6 +73,8 @@ We will send information about you to other companies or people when:
 
 
 We need to share your information with certain service partners in order to respond to your queries / comments or to resolve service issues and to serve you better.
+
+By using the website and/or registering yourself at apnapaisa or its affiliate sites you authorize us, our affiliates & our associate partners to contact you via email or phone call or sms and offer you their services for the product you have opted for, imparting product knowledge, offer promotional offers running on website & offers offered by the associated third parties, for which reasons, as well as web aggregation, personally identifiable information may be collected as detailed below. And Irrespective of the fact if also you have registered yourself under DND or DNC or NCPR service, you still authorize us to give you a call from apnapaisa & its associate partners for the above mentioned purposes.
 
 **Security**
 
