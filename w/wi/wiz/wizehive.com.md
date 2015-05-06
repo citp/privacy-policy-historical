@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219175144id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506204603id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
 
 # WizeHive - Enterprise Collaboration, Business Process and Workflow
 
