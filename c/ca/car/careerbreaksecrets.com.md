@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbreaksecrets.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729042139id_/http%3A//careerbreaksecrets.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbreaksecrets.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506162221id_/http%3A//careerbreaksecrets.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
