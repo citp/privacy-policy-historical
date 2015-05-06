@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbzbank.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121190828id_/http%3A//www.kbzbank.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbzbank.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506123724id_/http%3A//www.kbzbank.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | STRENGTH OF MYANMAR – Kanbawza Bank (KBZ Bank)
 
