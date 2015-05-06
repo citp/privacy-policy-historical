@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatraveldepot.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221095518id_/http%3A//www.chinatraveldepot.com/US39-Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatraveldepot.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506033819id_/http%3A//www.chinatraveldepot.com/US39-Privacy-Security) for the most accurate reproduction.*
 
 # Privacy and Security Policy- China Travel Depot
 
