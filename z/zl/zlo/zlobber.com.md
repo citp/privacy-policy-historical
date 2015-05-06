@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zlobber.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206135003id_/http%3A//www.zlobber.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zlobber.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506082337id_/http%3A//www.zlobber.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Zlobber.com privacy policy
 
@@ -39,5 +39,4 @@ If you would like to contact us about any information or privacy policy you can 
 In case you face problems, we would request you please provide us as much information as possible to resolve the issue. 
 
   
-|   
----|---
+
