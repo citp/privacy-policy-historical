@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230231350id_/http%3A//www.c-point.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507111301id_/http%3A//www.c-point.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
