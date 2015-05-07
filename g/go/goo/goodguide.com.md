@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodguide.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128035118id_/http%3A//www.goodguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodguide.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507140723id_/http%3A//www.goodguide.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoodGuide
 
@@ -15,9 +15,11 @@ This Privacy Policy covers treatment of information that GoodGuide may gather wh
 We divide the information that we collect into two categories for the purpose of this Privacy Policy:
 
   1. The first category is personally identifiable information (“PII”) - information that can identify you as an individual. Examples of PII are names, addresses, telephone numbers, email addresses or your account credentials at third-party e-commerce sites.
-  2. The other category is “everything else” — that is, information that is not PII, and cannot identify you as an individual. Examples of this category would be page views (of company or product ratings), products scanned (and their geographic location), interactions on GoodGuide or third-party websites (such as recommends/avoids or product additions to shopping carts), and any statistical or aggregate information. All such information has been de-identified and cannot be tied to you as an individual.
+  2. The other category is “everything else” — that is, information that is not PII, and cannot identify you as an individual. Examples of this category would be page views (of company or product ratings), products scanned (and their geographic location), interactions on GoodGuide or third-party websites (such as recommends/avoids or product additions to shopping carts), and any statistical or aggregate information. We have implemented Google Analytics features based on Display Advertising (Google Analytics Demographics and Interest Reporting). You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings or NAI’s consumer opt-out. In addition, you can use the Google Analytics Opt-Out Browser Add-on to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to develop the site and content around our users’ interests.
 
 
+
+GoodGuide is able to provide product and company sustainability ratings free to consumers through the display of advertising on our site. We use Google’s Doubleclick for Advertisers to serve our ads, and some advertisers also collect information through Neilsen. You can read more about how Google and Neilsen use data collected on GoodGuide, and how to control the information you share by clicking these links: [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners/) and [www.nielsen.com/us/en/privacy-policy/digital-measurement](http://www.nielsen.com/us/en/privacy-policy/digital-measurement.html). You can also select not to share your data for interest-based advertising by opting out here: [www.aboutads.info/choices](http://www.aboutads.info/choices/).
 
 We use both types of information to provide the Services. This allows us to personalize and improve the services we offer to you. The following gives a little more background on both categories of information:
 
