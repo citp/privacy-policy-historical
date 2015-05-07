@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the boltaunsa.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231210609id_/http%3A//www.boltaunsa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltaunsa.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507152240id_/http%3A//www.boltaunsa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+___Advertisement_
 
 ### If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at boltaunsa@gmail.com
 
