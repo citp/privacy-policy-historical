@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108094407id_/http%3A//www.londondrugs.com/Privacy-Policy/PrivacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507105250id_/https%3A//www.londondrugs.com/Privacy-Policy/PrivacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,11 @@ At London Drugs, we will not collect, use, or disclose your personal information
 
 Personal information you provide to us will only be used by us as part of our ongoing efforts to provide you with superior service and selection.
 
-We know that we earn your business and your trust with each transaction. And that is why we will take every step necessary to protect your privacy by safeguarding any personal information we collect, provide to third-party service providers and/or store during the course of doing business together.
+We know that we earn your business and your trust with each transaction. That is why we will take every step necessary to protect your privacy by safeguarding any personal information we collect, provide to third-party service providers and/or store during the course of doing business together.
 
 Our mandate for protecting your privacy is to ensure that our privacy standards meet or exceed the guiding principles established in federal and provincial privacy legislation.
 
-London Drugs is responsible for personal information it holds or which is under its control, including the personal information it entrusts to service providers. We have designated a person to act as our Privacy Officer, whose duties will include monitoring London Drugs compliance with relevant legislation, replying to our valued customer's questions, as well as responding to requests by individuals for access to and correction for any personal information London Drugs has collected on them.
+London Drugs is responsible for personal information it holds or which is under its control, including the personal information it entrusts to service providers. We have designated a person to act as our Privacy Officer, whose duties will include monitoring London Drugs compliance with relevant legislation, replying to our valued customers questions, as well as responding to requests by individuals for access to and correction for any personal information London Drugs has collected on them.
 
 We adhere to Ten Privacy Principles to ensure your personal information is protected.
 
@@ -152,13 +152,25 @@ London Drugs contest and promotion forms may also ask additional optional survey
 **Customer Reviews**  
 The Customer Review and Ask & Answer features on our website are provided as a service to our customers.  While London Drugs does not provide any of your personal information to our third party service provider managing these features on our behalf,  your reviews, questions and answers will be provided and may be accessible to all visitors to our website – so please do not include any personal information as part of your reviews/questions/answers. 
 
+**Our LD _Extras_ Program  
+**In order to participate in our LD _Extras_ Program (the “Program”), you will need to register and provide certain information, such as:  name, address, email, phone number and, at your option, birth date, gender and certain preferences and interests.   This information is collected in order to manage your participation in and communicate with you about the Program, as well as to personalize and improve your Program experience.
+
+You will have the option to receive additional Program emails, intended to maximize the benefits and value members will enjoy from the Program.  Such emails may contain the LD _Extras_ you earn, program status updates, as well as special promotions, offers, events and  news.  These are only for Program members and are different from emails or e-newsletters you may otherwise receive from London Drugs.  Note that even if you decide not to receive additional Program emails, members may still receive some emails necessary for the administration of the Program. You can register for the LD _Extras_ Program or unsubscribe at any time at: [www.ldextras.com](http://www.ldextras.com/)  
+
+
+Through the Program, personal information is collected from members in the following ways:  (i) information voluntarily provided by members, such as when you register to become a Program member; and (ii) when a member uses his or her member identifier number (usually their phone number) to make a purchase at a London Drugs store or online at [www.londondrugs.com](http://www.londondrugs.com/), certain transaction  data is collected and will form part of that member’s profile.  Transaction data collected may include: date/time/location/value/product and type of purchase.   Such data is used to accrue benefits in the form of LD _Extras_ to members, but also may be used to provide personalized and exclusive offers and benefits for that member.  
+
+We may also gather information about the purchasing behavior of members in an aggregated, non-identifiable manner in order to improve the ways in which we operate the Program, to better understand the needs and preferences of members and to provide improved service and value to our customers generally.   
+Note that participation in the Program will be initially limited to employees or customers at select London Drugs store locations.  But we hope to expand the LD _Extras_ program to all London Drugs stores very soon! 
+
+  
 **Our Websites**  
-London Drugs operates a number of websites to service the needs of our customers, including without limit: [www.ldtravelclinics.com](http://www.ldtravelclinics.com/); [www.londondrugs.com](http://www.londondrugs.com/); [www.ldinsurance.ca](http://www.ldinsurance.ca/); and [www.londondrugs.com/photolab](http://www.londondrugs.com/photolab).   Specific privacy policies, terms of use and information related to these websites can be found on each of those sites. 
+London Drugs operates a number of websites to service the needs of our customers, including without limit: [www.ldtravelclinics.com](http://www.ldtravelclinics.com/); [www.londondrugs.com](http://www.londondrugs.com/); [www.ldinsurance.ca](http://www.ldinsurance.ca/); [www.londondrugs.com/photolab](http://www.londondrugs.com/photolab); and [www.ldextras.com](http://www.ldextras.com/).  Specific privacy policies, terms of use and information related to these websites can be found on each of those sites. 
 
 **Disclosure to third party service providers**  
 London Drugs uses third party service providers to assist in delivering, managing and improving various aspects of our business operations, including the operation of our website and the services we provide to our valued customers. 
 
-In some cases, London Drugs needs to share customer personal information with its service providers.  Some examples of the type of situations where this may occur are set out elsewhere in this policy and include (but are not limited to):   to provide you with products and services you have requested; to operate and maintain our websites and online and ecommerce activities; to facilitate product warranty, repair, return, recall and customer service issues; for order fulfillment purposes; to send requested marketing communications; to enable financial and credit card transactions; to verify and validate information that you have provided and for fraud prevention.
+In some cases, London Drugs needs to share customer personal information with its service providers.  Some examples of the type of situations where this may occur are set out elsewhere in this policy and include (but are not limited to):   to provide you with products and services you have requested; to operate and maintain our websites and online and ecommerce activities; to facilitate product warranty, repair, return, recall and customer service issues; for order fulfillment purposes; to send requested marketing communications; to enable financial and credit card transactions to administer our LD _Extras_ Program; to verify and validate information that you have provided and for fraud prevention.
 
 Whenever London Drugs shares personal information with third party service providers, we use contractual and other appropriate means to help ensure your personal information is used in a manner consistent with this Privacy Policy and applicable laws.  If you do not wish us to provide your personal information to a service provider we may be unable to process the transaction or provide our services to you.
 
@@ -169,7 +181,7 @@ All the information you provide to us is securely maintained and is kept strictl
 
 Employees must conform to London Drugs Privacy Code and observe the highest standards of confidentiality. We subscribe to the general principle that only those employees that need to know the information in order to provide you services have access to your information.
 
-## London Drugs may disclose your information as permitted or required by law: examples of this would be:
+## London Drugs may disclose your information as permitted or required by law: Examples of this include:
 
   * to comply with a subpoena, warrant or order issued or made by a court, person or body with jurisdiction to compel the production of personal information
   * to an entity, which may be a government institution or other person that has lawful authority to obtain the information
@@ -192,7 +204,7 @@ London Drugs Limited
 12831 Horseshoe Place, Richmond, BC V7A 4X5
 
 **By phone:**  
-Monday to Friday [except holidays] 8:30 a.m. to 5:00 p.m. Pacific Standard TimePhone: (604) 448-1055  
+Monday to Friday [except holidays] 8:30 a.m. to 5:00 p.m. PST Phone: (604) 448-1055  
 Or toll free 1 (866) 805-8283 (within Canada)  
 Fax: (604) 272-4623
 
@@ -233,4 +245,4 @@ We are committed to setting the highest customer service standard within the ret
 
 We will continuously assess ourselves to ensure that customer privacy is respected. We will conduct our business in a manner that meets the expectations of our customers in the many communities in which we do business.
 
-_Updated June 26, 2014_
+_Updated March 6, 2015_
