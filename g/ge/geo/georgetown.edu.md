@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgetown.edu privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224140205id_/http%3A//www.georgetown.edu/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgetown.edu privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507180031id_/http%3A//www.georgetown.edu/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Electronic Records and Privacy Policy - Georgetown University
 
