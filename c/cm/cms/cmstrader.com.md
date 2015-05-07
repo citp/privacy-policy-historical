@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmstrader.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223034608id_/http%3A//www.cmstrader.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmstrader.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507171004id_/http%3A//www.cmstrader.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement|privacy|protect Client’s Privacy Statement
 
@@ -120,4 +120,4 @@ I have read, understood and agree to the Privacy Policy Agreement, and I confirm
 
 Company details:
 
-CMS VENTURES LTD  #25 Mason Complex, Stoney Ground, P.O. Box 193 Stoney Ground The Valley, British
+CMSTrader.com is owned and operated by CMS VENTURES LTD  #25 Mason Complex, Stoney Ground, P.O. Box 193 Stoney Ground The Valley, British
