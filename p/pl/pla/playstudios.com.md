@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231060111id_/http%3A//playstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507193052id_/http%3A//www.playstudios.com/privacy) for the most accurate reproduction.*
 
 # PLAYSTUDIOS Privacy Policy | MyVegas
 
