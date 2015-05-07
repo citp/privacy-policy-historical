@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayswordsofglass.blogspot.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227104851id_/http%3A//todayswordsofglass.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayswordsofglass.blogspot.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507025253id_/http%3A//todayswordsofglass.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # A Day In the Life of Mrs. Glass: Privacy Policy
 
