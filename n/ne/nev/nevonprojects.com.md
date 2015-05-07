@@ -1,67 +1,15 @@
-> *The following text is extracted and transformed from the nevonprojects.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123200935id_/http%3A//nevonprojects.com/about-us-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nevonprojects.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508001701id_/http%3A//nevonprojects.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | NevonProjects
+# PRIVACY POLICYNevonProjects | NevonProjects
 
-This Privacy Policy governs the manner in which Nevon Projects collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://nevonprojects.com](http://nevonprojects.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Nevon Projects.
-
-**Personal identification information**
-
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
-
-**Non-personal identification information**
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-**Web browser cookies**
-
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-**How we use collected information**
-
-Nevon Projects collects and uses Users personal information for the following purposes:  
-\- To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-\- To improve customer service  
-Your information helps us to more effectively respond to your customer service requests and support needs.  
-\- To process transactions  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
-\- To send periodic emails  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions.  
-How we protect your information
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
-
-**Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
-
-**Third party websites**
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
-
-**Changes to this privacy policy  
-**  
-Nevon Projects has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Nevon Projects
-
-http://nevonprojects.com
-
-5/39, Motilal nagar no 1, Goregaon (West), Mumbai 104  
-919664515138  
-sawant.neeraj@gmail.com
-
-This document was last updated on June 06, 2012
-
-Privacy policy created by Generate Privacy Policy
+This website belongs to:  
+NevonSolutions,  
+Block 5/39, Motilal Nagar No1,  
+Goregaon West,  
+Mumbai 400104.  
+Contact Number: +91 228725665  
+By accessing this Site, certain information about you like systems and programs used, time spent, IP addresses along with other similar information, may be stored on our servers. Your unique identifying information like name, address etc. may be used for statistical, internal administrative and/or other purposes. We will not disclose, sell, share or in any way reveal your information to any other third party. We are committed to protecting the information we collect. We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you.  
+**Remarketing**  
+NevonProjects.com also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of remarketing system. The third-party vendors will place cookies on web browsers in order to serve ads to users based on their past visits to our website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.  
+**Opt-Out**  
+You may opt out of Google’s use of cookies by visiting the Ads Preferences Manager. Also, you can opt out of other third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.
