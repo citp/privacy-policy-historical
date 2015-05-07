@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshupnow.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022541id_/http%3A//www.freshupnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshupnow.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507033705id_/http%3A//www.freshupnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
