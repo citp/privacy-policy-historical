@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profound.net privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923141200id_/http%3A//www.profound.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profound.net privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507123209id_/http%3A//www.profound.net/privacy) for the most accurate reproduction.*
 
 # Privacy | Profound Networks
 
