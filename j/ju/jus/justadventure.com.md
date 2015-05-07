@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justadventure.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008054849id_/http%3A//justadventure.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justadventure.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507160548id_/http%3A//justadventure.com/component/content/article%3Fpage%3Dlegal%26id%3D454) for the most accurate reproduction.*
 
-# Privacy Policy
+# Just Adventure, LLC.
 
 Just Adventure LLC. (hereafter called “Just Adventure”) is committed to protecting the privacy of consumers of its products and services and of individuals visiting our websites. We want to contribute to providing a safe and secure Internet environment for consumers. 
 
@@ -38,7 +38,7 @@ Other companies which provide services on our site, or which advertise on our si
 
 With the permission of a visitor who is 18 years of age or over, information submitted at the time of registration or submission - including but not limited to age, phone number, address, and income level - may be used for marketing and promotional purposes by Just Adventure  and may be shared with companies that have been pre-screened by Just Adventure . If a visitor objects to such use for any reason, he/she may stop that use— by sending an email to [general@justadventure.com](mailto:general@justadventure.com)
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, you can unsubscribe by sending an e-mail with your exact name and address [general@justadventure.com](mailto:general@justadventure.com)
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, you can unsubscribe by sending an e-mail with your exact name and address general@justadventure.com
 
 We also will notify other organizations with whom we share such information and request that they remove your information from their mailing lists. 
 
