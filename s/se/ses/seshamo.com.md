@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seshamo.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230213835id_/http%3A//www.seshamo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seshamo.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507164928id_/http%3A//www.seshamo.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Seshamo
 
