@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the servicecentreinfo.in privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230083807id_/http%3A//www.servicecentreinfo.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicecentreinfo.in privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508014241id_/http%3A//www.servicecentreinfo.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ServiceCentreInfo.in | Customer Service
+
+[__  Home](http://www.servicecentreinfo.in/)  »  Privacy Policy – ServiceCentreInfo.in
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -20,3 +22,6 @@ We have included links on this site for your use and reference. We are not respo
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.If you have any questions regarding the privacy policy of ServiceCentreInfo.in then you may contact us at servicecentreinfo@gmail.com.
+
+  
+
