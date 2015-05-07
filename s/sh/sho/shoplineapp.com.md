@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoplineapp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074342id_/http%3A//shoplineapp.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoplineapp.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507092824id_/http%3A//shoplineapp.com/about/privacy) for the most accurate reproduction.*
 
-# Shopline | The easiest way to open an online shop.
+# Shopline
 
 By joining SHOPLINE as a user, you have entrusted us with an important responsibility and we are committed to upholding a high standard when it comes to our privacy practices and how we deal with your personal information. As we value transparency in our practices we have provided a detailed Privacy Policy (the “Privacy Policy”) to explain how we gather, use and protect your information. If you have additional questions, please feel free to send us an email at hello@shoplineapp.com 
 
@@ -30,7 +30,7 @@ By joining SHOPLINE as a user, you have entrusted us with an important responsib
     1. We will retain your information for as long as your account is active or as needed to provide you services. If you no longer want us to use your information to provide you services, you may close your SHOPLINE account. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
   8. Privacy Policy Changes 
     1. We reserve the right to modify this privacy statement at any time, so please review it periodically. We’ll communicate changes by posting a notice on the site. If we make material changes to this policy you will be notified here, by email, or other places we deem appropriate.
-  9. Contact us 
+  9. Contact us
     1. If you have questions or suggestions you can contact SHOPLINE’s support team by sending an email to info@shoplineapp.com.
 
 
