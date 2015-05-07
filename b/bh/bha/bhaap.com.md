@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bhaap.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423073026id_/http%3A//www.bhaap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhaap.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507081948id_/https%3A//www.bhaap.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Shopping India, 1 Deal Every Day at 10 am
+# Privacy Policy
 
 This Privacy Policy discloses the privacy practices for Bhaap.com (“Website”). The proprietor of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
 
@@ -25,7 +25,7 @@ In addition, if you use our Website to send information or a product to another 
 We use Non-Personal Information to troubleshoot, administer the Website, analyse trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming. 
 
 **3\. Release of Personal Information**  
-We will not share your Personal Information with other parties except as provided below or otherwise deemed reasonable and necessary in unforseen situations:
+We will not share your Personal Information with other parties except as provided below or otherwise deemed reasonable and necessary in unforeseen situations:
 
 **As a part of the normal operations, we may share your information with Bhaap.com Merchants.  **For example, if you purchase a particular deal from our website, we will have to provide the list of customers who would be consuming the Merchant’s service. Therefore, we might have to send some of the Personal Information like your name to the Merchant. For all other purposes, we will only share Personal Information with a Bhaap.com Merchant if you engage in an Identification Activity. Please note that we will only provide a Bhaap.com Merchant your information with an opt-in notice to you, in which you will have a chance to choose that Bhaap.com not give the Bhaap.com Merchant your personal information. We do not take any responsibility or liability for the actions of such Bhaap.com Merchants. While we inform them that they are only permitted to communicate with you for the purposes of the specific promotion with Bhaap.com, we do not have any responsibility for the actions of the Merchant, and the actions of the Merchant are not in our control.
 
