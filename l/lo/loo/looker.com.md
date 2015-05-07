@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the looker.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080502id_/http%3A//www.looker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looker.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507124530id_/http%3A//www.looker.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Looker
+# Looker | Website Privacy Policy
 
 Effective September 12, 2013
 
@@ -63,4 +63,4 @@ Looker may update this Privacy Policy from time to time. When we do update it, f
 
 ## For More Information
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [discover@looker.com](mailto:discover@looker.com) or 877 Cedar St., STE 100, Santa Cruz, CA, 95060.
+If you have any questions or concerns about this Privacy Policy, please contact us at +1-831-244-0340 [discover@looker.com](mailto:discover@looker.com) or 101 Church Street, 4th Floor, Santa Cruz, CA 95060.
