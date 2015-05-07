@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatcargames.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231191415id_/http%3A//www.greatcargames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatcargames.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507133605id_/http%3A//www.greatcargames.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy on Greatcargames.com
+# Privacy Policy on GreatCarGames.com
 
 **GreatCarGames.com** is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how **GreatCarGames.com** protects your personal information. By accessing **GreatCarGames.com** , you acknowledge and fully understand **GreatCarGames.com** Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.
 
