@@ -1,23 +1,61 @@
-> *The following text is extracted and transformed from the bestmaleblogs.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229160105id_/http%3A//www.bestmaleblogs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmaleblogs.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507144101id_/http%3A//www.bestmaleblogs.com/privacy) for the most accurate reproduction.*
 
-# BestMaleBlogs: Privacy Policy
+# Privacy Policy - Best Male Blogs
 
-#### What This Privacy Policy Covers 
+## This Privacy Policy describes how we use information collected from you.
 
-This policy covers how bestmaleblogs.com treats any personal information that bestmaleblogs.com might have collected and received, including information related to your past use of bestmaleblogs services. Personal information is information about you that is personally identifiable like your name, address, email address and that is not otherwise publicly available.
+### 1\. GENERAL
 
-This policy does not apply to the practices of companies that bestmaleblogs does not own or control, or to people that bestmaleblogs does not employ or manage. 
+The parties referred to in this policy are BestMaleBlogs (the site www.BestMaleBlogs.com) and you, the user of this site.
 
-#### Information Collection and Use
+This Privacy Policy describes how we use information received about you when you visit www.BestMaleBlogs.com or otherwise use our online services. This policy does not cover information received through channels other than through the use of the site. 
 
-bestmaleblogs collects personal information if you register with bestmaleblogs as a user, when you use bestmaleblogs services, when you visit bestmaleblogs pages or the pages of certain bestmaleblogs partners.
+### 2\. REVISIONS
 
-bestmaleblogs automatically receives and records information on our server from your browser, including your IP address and the page you request. This information is anonymous and are is not linked to any personal details we might have stored.
+BestMaleBlogs reserve the right to revise or modify this policy at any time and in any way.
 
-bestmaleblogs uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, conntact you, and conduct research. 
+### 3\. INFORMATION WE COLLECT
 
-bestmaleblogs will not under any circumstances give out any information that might be stored about you such as email address or any other details to anyone!
+Visitors to BestMaleBlogs can interact with us in several ways. Depending on the level of interaction, we will collect different type of information about you. Information collected is as follows:
 
-#### What this means..
+\- Members: Members are those users who interact with BestMaleBlogs in a way which requires registration, such as submitting stories or uploading content to the site. Members will be asked to provide a valid e-mail address during the process of registering a username.
 
-bestmaleblogs respects your privacy, any information we might have will not be disclosed or given away to anyone else or any 3rd party.
+\- Browsers: Browsers are visitors to the BestMaleBlogs who do not use any active data collection pages. Browsers may view content uploaded by registered members. Any information gathered from browsers is also gathered from registered members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering (see below).
+
+### 4\. HOW WE COLLECT INFORMATION
+
+\- Passive Collection: We use cookies to collect information about you in order to enhance your experience on BestMaleBlogs. The information collected in cookies includes, but is not limited to, your IP address, session data and geographic location.
+
+\- Active Collection: We collect information from you, such as your e-mail address when you complete registration forms to sign up for membership on our site. Locations for this collection are on registration or personal profile pages.
+
+### 5\. HOW WE USE YOUR INFORMATION
+
+The primary use for information collected from you is to provide you with services you have requested. Your information is also used to deliver customized services to you. We are not responsible for how any third parties use your information, and you need to familiarize yourself with third partiy privacy policies prior to requesting their services.
+
+We generally use your information for the purposes you specifically provide it for, such as adding links or uploading content.
+
+Passive information is used for market research purposes in order to increase your and other users experience, to analyse site usage and for other marketing purposes.
+
+Your information is also used for providing your user profile or publishing other content such as blog listings (if applicable) to all other members and browsers. You need to consider that the information you enter on any content published on this site can be viewed by everyone, unless otherwise stated. Be careful when providing information about yourself as you may be identified through information you have provided. Accordingly, you are fully responsible for any consequences arising out of the information that you choose to publish on this site.
+
+### 6\. SPECIAL CIRCUMSTANCES
+
+It is BestMaleBlogs's policy not to use or share the personal information about our visitors (browsers) or members in ways unrelated to the ones described in this policy. However, we may disclose any information regarding your use of our services and site, for any reason if we believe it's reasonable to do so, including:
+
+\- To satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for information;
+
+\- To disclose information to law enforcement in the event that a crime is committed or suspected. Or if we are compelled to do so by lawful criminal, civil or administrative process and court orders from relevant authorities.
+
+### 7\. COMMUNICATION FROM US
+
+We may periodically send you announcements including details about existing services or new features. You may opt out of these announcements by replying to any such emails. If you choose to opt out of these emails, you may still receive system notices and other information related to your account.
+
+### 8\. PUBLIC PAGES
+
+Any information provided in a user profile, link submissions, comments or other related services should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information you provide or choose to publish on our site.
+
+### 9\. DATA SECURITY
+
+We make every effort to protect the transmission and storage of all user information, and to ensure security of our site and systems. But we cannot guarantee that our security measures will prevent third-parties illegally obtaining this information. We take all reasonable measures to prevent security breaches. You assume the risk of such security breaches should they occur despite our reasonable security measures.
+
+* * *
