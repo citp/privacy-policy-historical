@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the typing.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230212335id_/http%3A//www.typingweb.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typing.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507185745id_/http%3A//www.typing.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Learn to Type | Keyboarding | Free Typing Tutor and Typing Lessons
 
 ## Privacy Policy (Last Updated August 2014)
 
-FTW Innovations, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: TypingWeb.
+Teaching.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Typing.com.
 
 This Privacy Policy is not a contract and does not create any legal rights. Providing your information is voluntary and your use of the site after the effective date of this document constitutes your acceptance of this Privacy Policy.
 
@@ -15,7 +15,7 @@ This Privacy Policy is not a contract and does not create any legal rights. Prov
 
 First and foremost, we never share any information submitted to our website with third parties for their marketing purposes.
 
-In order to help you get the most out of our service, we collect user submitted personally identifiable information when you register to use the Site, although registration is not required. We only ask site users to submit the minimum amount of information necessary to use our service. Such information may include username (required for registration), password (required for registration), first and last name (optional), and email address for communication purposes (optional). We use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings through the "Preferences" area while logged into their TypingWeb account by unchecking the "Allow Contact" box and saving changes. 
+In order to help you get the most out of our service, we collect user submitted personally identifiable information when you register to use the Site, although registration is not required. We only ask site users to submit the minimum amount of information necessary to use our service. Such information may include username (required for registration), password (required for registration), first and last name (optional), and email address for communication purposes (optional). We use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings through the "Preferences" area while logged into their Typing.com account by unchecking the "Allow Contact" box and saving changes. 
 
   
 
@@ -29,7 +29,7 @@ To create your best site experience and deliver customized content, we use a var
 
 ### Children’s Privacy Guidelines
 
-TypingWeb exists to serve educators, parents, and students and strives to provide a safe, positive experience for children. In compliance with COPPA (the Children's Online Privacy Protection Act), we have adopted the following policies to keep kids safe: 
+Typing.com exists to serve educators, parents, and students and strives to provide a safe, positive experience for children. In compliance with COPPA (the Children's Online Privacy Protection Act), we have adopted the following policies to keep kids safe: 
 
   * We do not knowingly collect online contact information directly from children ages 13 and younger.
   * We do not distribute any personally identifiable information about children to third parties.
@@ -39,7 +39,7 @@ TypingWeb exists to serve educators, parents, and students and strives to provid
 
 
 
-If you are under the age of 13, please do not provide your contact information or any other personally identifiable information to TypingWeb. If you are the parent or legal guardian of someone under the age of 13 who may have provided us with information without your knowledge or consent, please contact us to have this information removed.
+If you are under the age of 13, please do not provide your contact information or any other personally identifiable information to Typing.com. If you are the parent or legal guardian of someone under the age of 13 who may have provided us with information without your knowledge or consent, please contact us to have this information removed.
 
   
 
@@ -53,11 +53,11 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ### Changes to Our Policy
 
-TypingWeb may update this Privacy Policy at any time and any changes will be effective upon posting. If we make any material changes in the way we use your Personal Information, we will update the "Effective Date" above and we will display a notice on the Site. However, we will obtain parental consent prior to using or disclosing Personal Information in a manner materially different from the Privacy Policy posted at the time of collection and any prior Parental consent received.
+Typing.com may update this Privacy Policy at any time and any changes will be effective upon posting. If we make any material changes in the way we use your Personal Information, we will update the "Effective Date" above and we will display a notice on the Site. However, we will obtain parental consent prior to using or disclosing Personal Information in a manner materially different from the Privacy Policy posted at the time of collection and any prior Parental consent received.
 
 ### Choice/Opt-Out
 
-Users can opt out of our communications by choosing the appropriate option in the "My Profile" portion of the TypingWeb software.
+Users can opt out of our communications by choosing the appropriate option in the "My Profile" portion of the Typing.com software.
 
   
 
