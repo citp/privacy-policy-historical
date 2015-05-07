@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breathehr.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024083027id_/http%3A//www.breathehr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breathehr.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507235551id_/http%3A//breathehr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies
 
