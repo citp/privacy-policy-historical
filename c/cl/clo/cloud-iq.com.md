@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204044155id_/http%3A//www.cloud-iq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud-iq.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507144710id_/http%3A//www.cloud-iq.com/privacy) for the most accurate reproduction.*
 
 # Privacy - cloud.IQ
 
-### Our Privacy Policy explains: 
+### Our Privacy Policy explains:
 
-CloudIQ Limited ("We/Us/Our") is committed to protecting and respecting your privacy.
+cloud.IQ Limited ("We/Us/Our") is committed to protecting and respecting your privacy.
 
-This Privacy Policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding your personal data and how We will treat it. Either by visiting [www.cloud-iq.co.uk](http://www.cloud-iq.co.uk/) or by using our products, you are accepting and consenting to the practices described in this Policy.
+This Privacy Policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding your personal data and how We will treat it. Either by visiting [www.engage.cloud-iq.com/](https://web.archive.org/) or by using our products, you are accepting and consenting to the practices described in this Policy.
 
 Our nominated representative for the purpose of the Data Protection Act 1998 (the Act), is [Paul Phillips].
 
@@ -20,7 +20,7 @@ We explain in this Policy what information We collect and why We collect it.
 
 Your privacy matters to Us, so please take the time to read Our Policy carefully.
 
-Information that we collect
+## Information that we collect
 
   * We collect information to provide better products and services to all of Our users. We collect information in two ways:
   * Information that you give Us. For example, some of our products require you to input your own data and information - including your name, address, e-mail address and phone number.
@@ -32,11 +32,11 @@ Information that we collect
 
 (ii) information about your visit, including the full URL (Uniform Resource Locators) clickstream to, through and from Our website (including date and time) or that of our customer deploying any of Our products or services; products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page, and any phone number used to call any customer service number.
 
-How we use information that We collect
+## How we use information that We collect
 
 We use the information that We collect about you to provide, maintain, protect and improve Our website and Our products, and to develop new ones and specifically as follows:
 
-Information you give to Us:
+## Information you give to Us:
 
   * to carry out Our obligations arising from (i) any contracts entered into between you and Us or (ii) you and any of Our customers, and to provide you with the information, products and services that you request from Us or any of Our customers;
   * to provide you with information about other products and services We offer that are similar to those that you have already purchased or enquired about;
@@ -46,7 +46,7 @@ Information you give to Us:
 
 
 
-Information we collect about you:
+## Information we collect about you:
 
 We will use this information:
 
@@ -64,15 +64,15 @@ We will ask for your consent before using your personal information for a purpos
 
 We do not keep personal data for longer than is necessary for us to achieve the purpose for which the data was collected.
 
-Accessing and updating your personal information
+## Accessing and updating your personal information
 
 In circumstances where We enable you to set up an account with cloud.IQ, We will provide you with access to your personal information. If that information is wrong, you will be able to update it or to delete it (unless we have to keep that information for legitimate business or legal purposes). We aim to maintain our products in a manner that protects information from accidental or malicious destruction.
 
-Information that We share
+## Information that We share
 
 We will never share any personal information.
 
-We do not share personal information with anyone outside CloudIQ Limited unless it is:
+We do not share personal information with anyone outside cloud.IQ Limited unless it is:
 
   * With your consent; or
   * For analysis and improvement of our services and products; or
@@ -85,14 +85,15 @@ We may share your information with selected third parties including: Business pa
 We may disclose your personal information to third parties:
 
   * In the event that We sell or buy any business or assets, in which case We may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If CloudIQ Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If We are under a duty to disclose or share your personal data in order to enforce or apply Our Terms and other agreements; or to protect the rights, property, or safety of CloudIQ Limited our customers, or others.
+  * If cloud.IQ Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If We are under a duty to disclose or share your personal data in order to enforce or apply Our Terms and other agreements; or to protect the rights, property, or safety of cloud.IQ Limited our customers, or others.
+  * If We agree to share your details as part of a partnership agreement to offer content and training services. 
 
 
 
-We will share information with companies, organisations or individuals outside CloudIQ Limited if we believe that disclosure of the information is reasonably necessary to meet any law, regulation, or governmental order.
+We will share information with companies, organisations or individuals outside cloud.IQ Limited if we believe that disclosure of the information is reasonably necessary to meet any law, regulation, or governmental order.
 
-Where we store your Personal Data
+## Where we store your Personal Data
 
 The data that We collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for Us or for one of Our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Policy.]
 
@@ -100,35 +101,35 @@ All information you provide to Us is stored on our secure servers. Where We have
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although We will do our best to protect your personal data, We cannot guarantee the security of your data transmitted to Our website; any transmission is at your own risk. Once We have received your information, We will use strict procedures and security features to try to prevent unauthorised access.
 
-Your Rights
+## Your Rights
 
 You have the right to ask Us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if We intend to use your data for such purposes or if We intend to disclose your information to any third party for such purposes.
 
 You can exercise your right to prevent such processing by checking certain boxes on any forms We may use to collect your data.
 
-You can also exercise the right to prevent such processing at any time by contacting Us at [support@cloud-iq.com](mailto:support@cloud-iq.com)[.](mailto:support@cloud-iq.com.)
+You can also exercise the right to prevent such processing at any time by contacting Us at [support@cloud-iq.com.](mailto:support@cloud-iq.com)
 
-[](mailto:support@cloud-iq.com.)Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. ]]
+Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. ]]
 
 The Data Protection Act 1998 (“the Act”) gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet Our costs in providing you with details of the information We hold about you.
 
-Changes
+## Changes
 
 Any changes We may make to our Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our Policy.
 
-Contact
+## Contact
 
-Questions, comments and requests regarding this Policy are welcomed and should be addressed to [support@cloud-iq.com](mailto:support@cloud-iq.com)[.](mailto:support@cloud-iq.com.)
+Questions, comments and requests regarding this Policy are welcomed and should be addressed to [support@cloud-iq.com.](mailto:support@cloud-iq.com)
 
-COOKIES
+## COOKIES
 
-[](mailto:support@cloud-iq.com.)Our website uses cookies. A cookie is a small file of letters and numbers that we put on your computer/device if you agree. These cookies allow Us to distinguish you from other users of Our website or products, which helps Us to provide you with a good experience when you browse Our website or use Our products and also allows Us to improve our website or products.
+Our website uses cookies. A cookie is a small file of letters and numbers that we put on your computer/device if you agree. These cookies allow Us to distinguish you from other users of Our website or products, which helps Us to provide you with a good experience when you browse Our website or use Our products and also allows Us to improve our website or products.
 
-The cookie We use is an "analytical" cookie. It allows Us to recognise and count the number of visitors and to see how visitors move around Our website or use Our products . This helps us to improve the usage and effectiveness of our website and products, for example by ensuring that users are finding what they are looking for easily.
+The cookie We use is an "analytical" cookie. It allows Us to recognise and count the number of visitors and to see how visitors move around Our website or use Our products. This helps us to improve the usage and effectiveness of our website and products, for example by ensuring that users are finding what they are looking for easily.
 
 Read more about the individual cookies we use and how to recognise them by clicking here.
 
-INFORMATION ABOUT OUR USE OF COOKIES
+## INFORMATION ABOUT OUR USE OF COOKIES
 
 Our website uses cookies to distinguish you from other users of Our website. This helps Us to provide you with a good experience when you browse Our website and also allows Us to improve our website. By continuing to browse the website, you are agreeing to Our use of cookies.
 
@@ -138,7 +139,7 @@ We use the following cookies:
 
 Analytical/performance cookies. They allow Us to recognise and count the number of visitors and to see how visitors move around Our website when they are using it. This helps Us to improve the way Our website works, for example, by ensuring that users are finding what they are looking for easily.
 
-You can find more information about the individual cookies we use and the purposes for which we use them in the table below: 
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
 ## Cookie Name
 
