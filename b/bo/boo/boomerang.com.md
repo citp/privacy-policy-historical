@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217140956id_/http%3A//boomerang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507130417id_/http%3A//boomerang.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Services | Boomerang
 
@@ -32,7 +32,7 @@ Boomerang uses IP address data for site administration purposes, troubleshooting
 
 **Client and Web Site Visitor Provided Information**
 
-Boomerang may collect personally identifiable information such as name, title, business name and address, e-mail address, and telephone number, for the purpose of providing promotional services to clients and web site visitors. Such personally identifiable information is only collected if voluntarily provided by the client or web site visitor. Clients and web site visitors may change or review personally identifiable information provided to Boomerang by contacting Boomerang at [sitevisitorinfo@boomerang.com](mailto:sitevisitorinfo@boomerang.com).
+Boomerang may collect personally identifiable information such as name, title, business name and address, e-mail address, and telephone number, for the purpose of providing promotional services to clients and web site visitors. Such personally identifiable information is only collected if voluntarily provided by the client or web site visitor. Clients and web site visitors may change or review personally identifiable information provided to Boomerang by contacting Boomerang.
 
 **Trademarks**
 
@@ -57,5 +57,3 @@ We send all new clients a letter that verifies their user name and password. Occ
 Boomerang reserves the right to change its Privacy Policy at any time. Any changes to this policy will be posted on our web site.
 
 _**Last updated and effective as of February 12, 2014.**_
-
-**Please send any questions about our privacy policy to  [privacy@boomerang.com](mailto:privacy@boomerang.com).**
