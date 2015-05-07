@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildingachickencoop.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209075034id_/http%3A//www.buildingachickencoop.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildingachickencoop.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507192222id_/http%3A//www.buildingachickencoop.com/private.html) for the most accurate reproduction.*
 
 # Privacy Policy | Building A Chicken Coop
 
