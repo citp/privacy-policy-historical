@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxcap.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120010527id_/http%3A//www.voxcap.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxcap.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507192457id_/http%3A//www.voxcap.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Web Directory - Voxcap.com
 
