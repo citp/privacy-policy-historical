@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the electracard.com privacy policy that was archived on 2014-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141113032013id_/http%3A//www.electracard.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the electracard.com privacy policy that was archived on 2015-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150508001502id_/http%3A//www.electracard.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -402,8 +402,8 @@ function getLookingList(v)
 </div>
 </div>
 
-<form action="http://www.electracard.com/common/search" name="search_from" method="post">
-<input type="hidden" name="mycsrftoken" value="eb8bad2dd0cd7b55581dd699bd1e1c42">  
+<form action="http://www.electracard.com/search" name="search_from" method="post">
+<input type="hidden" name="mycsrftoken" value="208e0f5b6ec125706f8434612273da89">  
 <div class="right-search"><input name="search_key" id="search_key" type="text" placeholder="Search..."></div>
 </form>
 
@@ -473,7 +473,7 @@ function getLookingList(v)
 <div id="panel">
 
 <div style="float:left;">
-<input type="hidden" name="mycsrftoken" value="eb8bad2dd0cd7b55581dd699bd1e1c42">  
+<input type="hidden" name="mycsrftoken" value="208e0f5b6ec125706f8434612273da89">  
 <select name="i_am" class="xxl" onchange="getLookingList(this.value);">	
 
 		<option value="" selected=""> I am a </option>
@@ -573,7 +573,7 @@ function Clickheretoprint()
 <div id="ContactUs" style="display:none">
 <script type="text/javascript">
 function changeCaptchaPage() {	
-	var url = "http://www.electracard.com/common/changeCaptcha";
+	var url = "http://www.electracard.com/captcha";
 	$.ajax({
 	   type: "POST",
 	   url: url,
@@ -581,11 +581,13 @@ function changeCaptchaPage() {
 	   success: function(data){
 			if(data)
 			{
-				var captcha = data.split("<>") ;
+				/*var captcha = data.split("<>") ;
 				var word = captcha[0];
 				var image = captcha[1];
 				document.getElementById('cap_image_page').innerHTML=image;
-				document.getElementById('captcha-word-page').value=word;
+				document.getElementById('captcha-word-page').value=word;*/
+				var image = data;
+				document.getElementById('cap_image_page').innerHTML=image;
 			}		 
 		}
 	});	
@@ -598,8 +600,8 @@ document.getElementById('ContactUs').style.display='block';
 }
 </script>
 
-<form id="contactus" name="contactus" action="http://www.electracard.com/common/email_this_page" method="post" accept-charset="UTF-8">
-<input type="hidden" name="mycsrftoken" value="eb8bad2dd0cd7b55581dd699bd1e1c42">  
+<form id="contactus" name="contactus" action="http://www.electracard.com/email-this-page" method="post" accept-charset="UTF-8">
+<input type="hidden" name="mycsrftoken" value="208e0f5b6ec125706f8434612273da89">  
 <div id="LoginPannel" class="PopUp" style="z-index:100000">
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" height="100%">
@@ -639,7 +641,7 @@ document.getElementById('ContactUs').style.display='block';
 		<tr>
 			<td valign="top"><strong>Message</strong></td>
 			<td valign="top">:</td>
-			<td><textarea cols="41" rows="6" name="message"></textarea></td>
+			<td><textarea cols="41" rows="6" name="message" id="message"></textarea></td>
 		</tr>
 		<tr>
 			<td valign="top"><strong>Captcha*</strong></td>
@@ -697,32 +699,66 @@ function validate_submit()
 		document.getElementById('email').style.borderColor='red';
 		flag = 1;
 	}
+	
+	var bcc = document.getElementById('bcc').value;
+	if(bcc != "") {
+		var atposbcc = bcc.indexOf("@");
+		var dotposbcc = bcc.lastIndexOf(".");	
+		if (atposbcc<1 || dotposbcc<atposbcc+2 || dotposbcc+2>=bcc.length)
+		{
+			document.getElementById('bcc').style.borderColor='red';
+			flag = 1;
+		}
+	}
+	
 	var subject = document.getElementById('subject').value;
 	if(subject=='')
 	{
 		document.getElementById('subject').style.borderColor='red'
 		flag = 1;
 	}
-	var captcha_word = document.getElementById('captcha-word-page').value;
-	var captcha_code = document.getElementById('captcha-code-page').value;
-	if(captcha_code!=captcha_word)
+	
+	var message = document.getElementById('message').value;
+	if(message=='')
 	{
-		document.getElementById('captcha-code-page').style.borderColor='red';
+		document.getElementById('message').style.borderColor='red'
 		flag = 1;
 	}
-	else
-	{ 
-		document.getElementById('captcha-code-page').style.borderColor='#6E6E6E'; 
-	}
 	
-	if(flag == 1)
+//	var captcha_word = document.getElementById('captcha-word-page').value;
+	var captcha_code = document.getElementById('captcha-code-page').value;
+	
+	
+	if(captcha_code!='')
 	{
-		return false;
+		//document.getElementById('captcha-code-page').style.borderColor='red';
+		var url = "http://www.electracard.com/check-captcha?cc="+captcha_code;
+		$.ajax({
+		   type: "POST",
+		   url: url,
+		   data: '',
+		   success: function(data){
+				if(data)
+				{
+					//alert(data); return false;
+					if(data == "error"){
+						document.getElementById('captcha-code-page').style.borderColor='red';
+						flag = 1;
+					} else {
+						if(flag == 1)
+						{
+							return false;
+						}
+						else
+						{
+							document.forms['contactus'].submit();
+						}
+					}
+				}		 
+			}
+		});	
 	}
-	else
-	{
-		document.forms['contactus'].submit();
-	}
+	return false;
 }
 
 </script>
@@ -731,8 +767,8 @@ function validate_submit()
 
 </div>
 <div id="rating" style="display:none">
-<form id="rating" accept-charset="UTF-8" method="post" action="http://www.electracard.com/common/rating">
-<input type="hidden" name="mycsrftoken" value="eb8bad2dd0cd7b55581dd699bd1e1c42">  
+<form id="rating" accept-charset="UTF-8" method="post" action="http://www.electracard.com/rating">
+<input type="hidden" name="mycsrftoken" value="208e0f5b6ec125706f8434612273da89">  
 <div id="LoginPannel" class="PopUp" style="z-index:100000">
 <table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
 <tbody>
@@ -822,6 +858,8 @@ Rate this Page
 </form>
 
 <div id="LoginPannelBG" class="PopUpBG"></div></div>
+
+
 	<a href="javascript:Clickheretoprint()" onmouseover="document.MyImage.src='http://www.electracard.com//bonfire/themes/ecs/images/print-hr.png';" onmouseout="document.MyImage.src='http://www.electracard.com//bonfire/themes/ecs/images/print.png';"> 
 <img src="http://www.electracard.com//bonfire/themes/ecs/images/print.png" alt="Print this page" title="Print this page" name="MyImage"></a> 
     
@@ -837,7 +875,6 @@ Rate this Page
 <a href="javascript:void(0)" onclick="document.getElementById('rating').style.display='block'" onmouseover="document.MyImage3.src='http://www.electracard.com//bonfire/themes/ecs/images/rate-hr.png';" onmouseout="document.MyImage3.src='http://www.electracard.com//bonfire/themes/ecs/images/rate.png';"> 
 <img src="http://www.electracard.com//bonfire/themes/ecs/images/rate.png" alt="Rate this page" title="Rate this page" name="MyImage3"></a>
 
-    
 
 
 </div>
@@ -1230,13 +1267,16 @@ return false; }document.getElementById('content_data').innerHTML=''" placeholder
     <td width="65%" align="left" valign="top">
 
 	
-		<a href="https://twitter.com/ElectraCardServ" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/2aa54-banking-transaction-system-hr.png"></a> 
+		<a href="https://www.facebook.com/MastercardIndia?fref=ts" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/28ce4-cash-management-service-hr.png"></a> 
+
+		
+		<a href="https://twitter.com/MasterCard" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/2aa54-banking-transaction-system-hr.png"></a> 
 
 		
 		<a href="http://www.linkedin.com/company/electracard-services?trk=cp_followed_name_electracard-services" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/201e9-online-banking-management-system-hr.png"></a> 
 
 		
-		<a href="http://www.youtube.com/channel/UCFFHnZHyNTqfY3zC3uvk5pg" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/04c4b-electronic-commerce-and-banking-hr.png"></a> 
+		<a href="https://www.youtube.com/MasterCard" target="_blank"><img src="http://www.electracard.com/bonfire/media/download/04c4b-electronic-commerce-and-banking-hr.png"></a> 
 
 		
 		
@@ -1277,7 +1317,7 @@ return false; }document.getElementById('content_data').innerHTML=''" placeholder
 
 
 
-© Copyright  2014 ElectraCard Services, a MasterCard company. All Rights Reserved  </div>
+© Copyright  2015 ElectraCard Services, a MasterCard company. All Rights Reserved  </div>
 
 <div class="clear"></div>
 
