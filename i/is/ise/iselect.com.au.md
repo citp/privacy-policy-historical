@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113132026id_/http%3A//www.iselect.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507082631id_/http%3A//www.iselect.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iSelect
+# iSelect Privacy Policy
 
 ## Our privacy commitment
 
@@ -8,7 +8,7 @@ iSelect is committed to protecting the privacy of your personal information. Thi
 
 iSelect is bound by the Australian Privacy Principles in the Privacy Act 1988 (Cth) (and applicable State and Territory health privacy legislation), which regulate how we may collect, use, disclose and store personal information, and how individuals may access and correct personal information held about them. iSelect is also required to comply with the Spam Act 2003 (Cth) and the Do Not Call Register Act 2006 (Cth).
 
-In this policy 'we', 'us', 'our' and 'iSelect' refers to (and this policy applies to), the following iSelect businesses:
+In this policy ‘we’, ‘us’, ‘our’ and ‘iSelect’ refers to (and this policy applies to), the following iSelect businesses:
 
   * iSelect Ltd;
   * iSelect Health Pty Ltd;
@@ -18,20 +18,28 @@ In this policy 'we', 'us', 'our' and 'iSelect' refers to (and this policy applie
   * iSelect Mortgages Pty Ltd;
   * Infochoice Pty Ltd; and
   * iSelect Services Pty Ltd.
+  * General Brokerage Services Pty Ltd (trading as Budget Connect);
+  * Procure Power Pty Ltd;
+  * Energy Watch;
+  * Energy Watch Trading Pty Ltd;
+  * Energy Watch Services Pty Ltd;
+  * Insurawatch Pty Ltd;
+  * Telco Advice Pty Ltd;
+  * Energy Watch Services Limited (New Zealand).
 
 
 
-Please contact us if you have any questions regarding iSelect's Privacy Policy or would like us to send you a copy of this policy please contact our Privacy Officer using the details provided below. Our Privacy Policy may be amended from time to time. The current version will be posted on our website.
+Please contact us if you have any questions regarding iSelect’s Privacy Policy or would like us to send you a copy of this policy please contact our Privacy Officer using the details provided [below](http://www.iselect.com.au/privacy-policy/#how-to-contact "How to contact us"). Our Privacy Policy may be amended from time to time. The current version will be posted on our website.
 
 ## What is personal information?
 
-**Personal information** is any information or an opinion, in any form and whether true or not, about an identified individual or an individual who is reasonably identifiable. Examples include an individual's name, address, contact number and email address.
+**Personal information** is any information or an opinion, in any form and whether true or not, about an identified individual or an individual who is reasonably identifiable. Examples include an individual’s name, address, contact number and email address.
 
-**Sensitive information** is a special category of personal information. Sensitive information includes health information and information about a persons' race, ethnic origin, political opinions, membership of political, professional or trade associations, religious or philosophical beliefs, sexual preferences and criminal history.
+**Sensitive information** is a special category of personal information. Sensitive information includes health information and information about a persons’ race, ethnic origin, political opinions, membership of political, professional or trade associations, religious or philosophical beliefs, sexual preferences and criminal history.
 
 ## How does iSelect collect and hold your personal information?
 
-iSelect will only collect personal information about you by lawful and fair means. iSelect collects personal information in a variety of ways. It is iSelect’s usual practice to collect personal information directly from you (or from your authorised representative), for example when:
+iSelect will only collect personal information about you by lawful and fair means. iSelect collects personal information in a variety of ways. It is iSelect's usual practice to collect personal information directly from you (or from your authorised representative), for example when:
 
   * you enquire about or seek a quotation for a product or service offered by our participating providers;
   * you apply for or purchase a product offered by an iSelect business and or our participating providers;
@@ -60,7 +68,7 @@ If you provide your personal information to a third party via iSelect (for examp
 
 We may monitor and record calls that you make to us in certain circumstances. For example, calls to our contact center are monitored and recorded for training and customer service purposes and to meet our regulatory obligations.
 
-Some of the products offered by our participating providers can cover more than one person (for example, family and couples health insurance policies that cover two or more persons). If you provide us with information about your partner or a dependant on the policy, you must obtain that person’s permission to give us the information and inform them of this policy.
+Some of the products offered by our participating providers can cover more than one person (for example, family and couples health insurance policies that cover two or more persons). If you provide us with information about your partner or a dependant on the policy, you must obtain that person's permission to give us the information and inform them of this policy.
 
 If we are not able to collect your personal information, we may not be able to provide you with our products or services or do business with you or the organisation with which you are connected.
 
@@ -71,6 +79,7 @@ We use personal information for a variety of reasons including to:
   * provide services and products to our customers;
   * answer your inquiries and deliver customer service;
   * tell our customers and prospective customers about other products, services or promotional offers that we think may be of interest to them;
+  * tell Energy Watch customers and prospective customers about other products, services or promotional offers that we think may be of interest to them;
   * ensure we comply with the requirements of our participating providers;
   * maintain and improve our customer service;
   * meet our regulatory and legal obligations;
@@ -90,8 +99,8 @@ In the course of conducting our business and providing our products and services
 
 We may also disclose your personal information to, where appropriate:
 
-  * if you are a customer, our participating providers (before deciding if you want to provide your personal information to any of our participating providers directly or via our website links, you should read their privacy policy); 
-  * professional advisers (such as lawyers or auditors); 
+  * if you are a customer, our participating providers (before deciding if you want to provide your personal information to any of our participating providers directly or via our website links, you should read their privacy policy);
+  * professional advisers (such as lawyers or auditors);
   * our contracted service providers, including: 
     * information technology service providers;
     * payment systems operators and financial institutions;
@@ -105,25 +114,25 @@ We may disclose your personal information to third parties for other purposes re
 
 ## Direct marketing
 
-If you are a customer or a potential customer, from time to time we may contact you with information about products and services offered by iSelect and our business partners, which we think may be of interest to you. When we contact you it may be by mail, telephone, email or SMS. We will generally give you the opportunity to express a wish not to receive direct marketing communications. Your consent to receive direct marketing communications in the above ways will be deemed to have been given if you do not opt out of receiving direct marketing communications from us, and will remain current for an indefinite period of time unless and until you advise us otherwise. You can opt-out of receiving direct marketing at any time (see below).
+If you are a customer or a potential customer, from time to time we may contact you with information about products and services offered by iSelect and our business partners, which we think may be of interest to you. When we contact you it may be by mail, telephone, email, SMS or social media. We will generally give you the opportunity to express a wish not to receive direct marketing communications. Your consent to receive direct marketing communications in the above ways will be deemed to have been given if you do not opt out of receiving direct marketing communications from us, and will remain current for an indefinite period of time unless and until you advise us otherwise. You can opt-out of receiving direct marketing at any time (see below).
 
-If you want to know how we obtained your personal information, please contact our Privacy Officer using the details provided below and we will let you know unless it is impracticable or unreasonable to do so.
+If you want to know how we obtained your personal information, please contact our Privacy Officer using the details provided [below](http://www.iselect.com.au/privacy-policy/#how-to-contact "How to contact us") and we will let you know unless it is impracticable or unreasonable to do so.
 
 ### How can you opt out of receiving direct marketing?
 
 You can let us know at any time if you do not want the personal information we hold about you to be used or disclosed for direct marketing purposes, or you do not wish to be contacted in any of the above ways, by contacting us. In some circumstances we may need to contact you to obtain additional information, to verify your identity or to clarify your request.
 
-If you wish to unsubscribe from future marketing and promotional material, please email "Unsubscribe" to [marketing@iselect.com.au](mailto:marketing@iselect.com.au?subject=Unsubscribe)
+If you wish to unsubscribe from future marketing and promotional material, please email “Unsubscribe” to [marketing@iselect.com.au](mailto:marketing@iselect.com.au?subject=Unsubscribe)
 
 ## Does iSelect disclose your personal information to overseas recipients?
 
-Some of our service providers are located overseas. As a result, iSelect may disclose your personal information to overseas recipients, including recipients located in the United States, Singapore and Hong Kong. For example, sometimes we use third party platforms to deliver or store information. These are sites hosted and managed by organisations other than ourselves, and some of these sites are located overseas.
+Some of our service providers are located overseas. As a result, iSelect may disclose your personal information to overseas recipients, including recipients located in the United States, Singapore, Fiji and Hong Kong. For example, sometimes we use third party platforms to deliver or store information. These are sites hosted and managed by organisations other than ourselves, and some of these sites are located overseas.
 
-The email platform used by iSelect is maintained overseas by Exact Target Inc which has its principle place of business in the United States of America. Exact target's privacy policy is available at [www.exacttarget.com](http://www.exacttarget.com/ "www.exacttarget.com"). Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on iSelect's behalf).
+The email platform used by iSelect is maintained overseas by Exact Target Inc which has its principle place of business in the United States of America. Exact target’s privacy policy is available at [www.exacttarget.com](http://www.exacttarget.com/ "www.exacttarget.com"). Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on iSelect’s behalf).
 
 ## Use of Government Identifiers
 
-iSelect will not use Australian Commonwealth government-related identifiers, such as Medicare numbers, or a driver's license number, as its own identifier of individuals.
+iSelect will not use Australian Commonwealth government-related identifiers, such as Medicare numbers, or a driver’s license number, as its own identifier of individuals.
 
 ## Data quality and Security
 
@@ -131,7 +140,7 @@ We may store your information in hardcopy and/or in electronic form. We will tak
 
 This may include a range of systems and communication security measures, as well as the secure storage of hard copy documents. In addition, access to your personal information will be restricted to those properly authorised to have access.
 
-We rely on the personal information we hold in conducting our business. Therefore, it is very important that the information we hold is accurate, complete and up-to-date. If you believe that your personal information is inaccurate, incomplete, out of date, and irrelevant or misleading, please contact our Privacy Officer using the details provided below and we will take reasonable steps to correct that information.
+We rely on the personal information we hold in conducting our business. Therefore, it is very important that the information we hold is accurate, complete and up-to-date. If you believe that your personal information is inaccurate, incomplete, out of date, and irrelevant or misleading, please contact our Privacy Officer using the details provided [below](http://www.iselect.com.au/privacy-policy/#how-to-contact "How to contact us") and we will take reasonable steps to correct that information.
 
 ## Website usage
 
@@ -146,7 +155,7 @@ When you visit any of our online resources, our system may collect information a
   * the date and time of your visit to the site;
   * the pages you accessed and documents downloaded during your visit;
   * the previous site you visited;
-  * if you've visited our site before; and
+  * if you’ve visited our site before; and
   * the type of browser used.
 
 
@@ -157,11 +166,11 @@ We record this data to maintain our server and improve our services. There are s
 
 Whilst links to third party websites are provided on our website, we are not responsible for the content or practices of these third party websites.
 
-These links are provided for your convenience and do not represent iSelect's endorsement of any linked third party website. We recommend that you check the privacy policies of these third parties prior to providing them with your personal information.
+These links are provided for your convenience and do not represent iSelect’s endorsement of any linked third party website. We recommend that you check the privacy policies of these third parties prior to providing them with your personal information.
 
 ## How you can access or correct your personal information
 
-You can request access to the personal information we hold about you by contacting our Privacy Officer using the details provided below and we will generally provide you with access, subject to some exceptions permitted by law
+You can request access to the personal information we hold about you by contacting our Privacy Officer using the details provided [below](http://www.iselect.com.au/privacy-policy/#how-to-contact "How to contact us") and we will generally provide you with access, subject to some exceptions permitted by law
 
 Access to personal information may be refused in a number of circumstances, such as where:
 
@@ -180,7 +189,7 @@ If we deny or restrict access to the information you have requested, we will giv
 
 ## How you can make a privacy complaint
 
-Please contact our Privacy Officer using the details provided below if you have any concerns or complaints about the manner in which we have collected or handled your personal information. We will investigate your complaint and respond to you in writing within 30 days.
+Please contact our Privacy Officer using the details provided [below](http://www.iselect.com.au/privacy-policy/#how-to-contact "How to contact us") if you have any concerns or complaints about the manner in which we have collected or handled your personal information. We will investigate your complaint and respond to you in writing within 30 days.
 
 If you consider your privacy concerns have not been resolved satisfactorily by us, or you wish to obtain more information on privacy requirements, you can contact the Australian Information Commissioner on 1300 363 992 or visit their website at [www.oaic.gov.au](http://www.oaic.gov.au/ "www.oaic.gov.au").
 
@@ -198,11 +207,10 @@ If you:
 
 Privacy Officer  
 294 Bay Road  
-Cheltenham 3192  
-
+Cheltenham 3192
 
 **Email:** [privacy@iselect.com.au](mailto:privacy@iselect.com.au "privacy@iselect.com.au")
 
 **Phone:** 03-9276-8000
 
-**Updated 1 March 2014**
+**Updated 17 February 2015**
