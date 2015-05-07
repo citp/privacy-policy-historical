@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpoints.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702203428id_/http%3A//www.rpoints.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpoints.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507214450id_/http%3A//www.rpoints.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,28 +48,6 @@ Third party Websites
 
 We have partnered with many retailers to enable our members to earn discounts and cashback. When you click on our merchant links, you are taken to the merchant website and make your purchases with the merchant. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Privacy and Security Policy for High Street Cashback
-
-If you do decide to register for our High Street Cashback/In-store cashback facility, the following applies.
-
-The security of your personal data is extremely important to us. In relation to all your personal data we maintain a high level of security, in particular in relation to payment cards held.
-
-When you enter your card details on a computer this is transmitted to us encrypted within secure webpages using SSL, Data, and Password encryption technology. Our internet web servers are certified by Digicert, a public Certificate Authority. Pages are automatically expired to cover the instance of members registering cards from internet cafes.
-
-Your card numbers are only stored and processed in encrypted format and only the last 4 digits are visible (both to you and our customer services team). This means that if anyone does guess your email address/password combination they will not be able to see the full card number that you have registered.
-
-Data storage on our systems and the communication between us and the financial and technology companies is in accordance with legislation and best practice within the payment card industry.
-
-We do not take the card expiry date or security code unless you are providing a card to us specifically to take a payment (for example to transfer money to your gift card) and in that case such information would never be stored. This means that 'cardholder not present' (e.g. internet) transactions cannot be carried out with the data that we hold for you. Of course we do not know your PIN for high street transactions either.
-
-In order to assist us to maintain your security: 
-
-Please select a password that is not a word in the dictionary or a name associated with you, your address e.g. includes numeric digits somewhere in your password. 
-
-Please be aware that we would never ask you in a cold call or in an unsolicited email to reveal your card number or to confirm numbers that you have previously registered. If you receive any such communication please contact our customer services team at once.
-
-If at any stage you initiate a conversation with our customer services team about the cards registered to your account, we would only ever identify a card number (or ask you to identify one) by referring to the last 4 digits of the card.
-
 Your Consent
 
 By using our website, you consent to this Privacy Policy. 
@@ -86,7 +64,7 @@ Our details
 
 This website is owned and operated by V A C Media Ltd, the largest operator of consumer loyalty portals in the UK. Registration No. 5512439. More details about our Company and Website are available in our [About us](http://www.rpoints.com/aboutus.php "About us") page
 
-Our postal address: Customer Care, V A C Media Ltd, 32 North Street, Keighley, West Yorkshire, BD21 3SE.
+Our postal address: Customer Care, V A C Media Ltd, 30 North Street, Keighley, West Yorkshire, BD21 3SE.
 
 Changes to our Privacy Policy
 
