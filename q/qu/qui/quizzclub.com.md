@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizzclub.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127221523id_/http%3A//quizzclub.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzclub.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507071407id_/http%3A//quizzclub.com/privacypolicy) for the most accurate reproduction.*
 
 # Funny brain training quizzes - Trivia - Interesting facts - Quizzclub - funny brain training quizzes - QuizzClub
 
