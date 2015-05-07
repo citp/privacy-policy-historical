@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113105811id_/http%3A//www.cru.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507151912id_/http%3A//www.cru.org/about/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy
 
-#### Last Updated: September 2005
+### Last Updated: September 2005
 
 Cru.org is a Web site (Site) of Campus Crusade for Christ International.  This Site is one of the family of Sites operated by various ministries related to Campus Crusade for Christ.  When we use the terms "we" "us" or "our," we refer to Campus Crusade for Christ International and affiliated ministries ("Our Organization").   
 
