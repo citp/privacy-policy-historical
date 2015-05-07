@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psupedia.info privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804024240id_/http%3A//psupedia.info/The_PSUPedia%25253APrivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psupedia.info privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507144904id_/http%3A//psupedia.info/The_PSUPedia%25253APrivacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The PSUPedia
 
