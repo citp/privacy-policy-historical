@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopruche.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231030835id_/http%3A//shopruche.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopruche.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507091241id_/http%3A//shopruche.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Terms Of Service | Ruche | Ruche
 
