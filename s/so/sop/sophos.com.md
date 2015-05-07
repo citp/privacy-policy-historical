@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121194238id_/http%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507050735id_/https%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sophos Group Privacy Policy - Legal - Cloud Antivirus, Endpoint, UTM, Encryption, Mobile, DLP, Server, Web, Wireless Security, Network Storage and Next-Gen Firewall Solutions | Sophos Data Protection for Business
 
@@ -26,7 +26,7 @@ Every time you connect to the Site, we store a log of your visit that shows the 
 
 ### Cookies
 
-A cookie is a piece of text that gets entered into the memory of your browser by a website, allowing the website to store information on your machine and later retrieve it. Some of our pages use cookies so that we can distinguish you from other users and better serve you when you return to the Site. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. For information about the cookies that we use, please refer to the [Cookie Information](http://www.sophos.com/en-us/legal/cookie-information.aspx) page on the relevant Site.
+A cookie is a piece of text that gets entered into the memory of your browser by a website, allowing the website to store information on your machine and later retrieve it. Some of our pages use cookies so that we can distinguish you from other users and better serve you when you return to the Site. Cookies also enable us to track and target the interests of our users to enhance the onsite experience. For information about the cookies that we use, please refer to the [Cookie Information](https://www.sophos.com/en-us/legal/cookie-information.aspx) page on the relevant Site.
 
 ### Job applicants
 
