@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kara.com.ng privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229085537id_/http%3A//kara.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kara.com.ng privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507022739id_/http%3A//www.kara.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
