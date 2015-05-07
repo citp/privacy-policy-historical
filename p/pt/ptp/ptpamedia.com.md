@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the ptpamedia.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215230511id_/http%3A//ptpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptpamedia.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508005816id_/http%3A//ptpamedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PTPA
+# Privacy Policy - PTPA Media
 
-**PTPA.com Privacy Policy**
-
-**PTPA.COM PRIVACY POLICY**
-
-This privacy policy applies to users of the PTPA.com website (the “Site”) which is a part of PTPA Media Inc.This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected.
+This privacy policy applies to users of the PTPAMEDIA.com website (the “Site”) which is a part of PTPA Media Inc.This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected.
 
 **1\. Scope**
 
@@ -90,7 +86,7 @@ We may use the information that we collect to meet legal and regulatory requirem
 
 **4\. Information Sharing**
 
-PTPA.com values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
+PTPAMEDIA.com values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below:
 
 • We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site.  
 • We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.  
@@ -116,14 +112,15 @@ In addition, if you connect to a Facebook account, your experience on the Site m
 
 Please note that you may disconnect third party accounts at any time. Click on your profile on the top right of the screen to adjust your profile settings. You also may be able to modify your privacy settings directly with the third-party service. To modify your Facebook privacy settings, [click here](http://www.facebook.com/settings/?tab=privacy). To modify your Twitter privacy settings, [click here](https://twitter.com/account/settings).
 
-Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.  
+Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.
+
 **6\. Your Choices**
 
 We are committed to offering you meaningful privacy choices regarding the collection, use, and disclosure of your personal information. This includes the opportunity to:
 
 **Deactivate your account**
 
-You can deactivate your account at any time by e-mailing deactivate@ptpamedia.com. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our Terms and Conditions.
+You can deactivate your account at any time by e-mailing deactivate@PTPAMEDIA.com. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our Terms and Conditions.
 
 **Cookies and Other Technologies**
 
@@ -137,11 +134,11 @@ Please remember that we do not have access to, or control over, advertisers’ o
 
 **7\. Access**
 
-We will make available to you any of your personal information that we have collected, used or disclosed upon request. Please contact us at privacy@ptpamedia.com.
+We will make available to you any of your personal information that we have collected, used or disclosed upon request. Please contact us at privacy@PTPAMEDIA.com.
 
 **8\. Accuracy**
 
-We ensure that your personal information is accurate, complete, and up-to-date. You can challenge the accuracy of the information and request amendments as appropriate by contacting us at privacy@ptpamedia.com.
+We ensure that your personal information is accurate, complete, and up-to-date. You can challenge the accuracy of the information and request amendments as appropriate by contacting us at privacy@PTPAMEDIA.com.
 
 **9\. Confidentiality and Security**
 
@@ -151,11 +148,11 @@ Please note that no data transmission or storage can be guaranteed to be 100% se
 **  
 10\. Information May Be Collected, Transferred, Stored, or Processed Outside of Canada**
 
-PTPA.com and its third party partners to whom we disclose information under this policy may perform activities outside of Canada and potentially collect, transfer, store, and process your personal information in other countries. As a result, your information may be subject to the laws of those countries. These laws may not be equivalent to the privacy and data protection laws in Canada. Information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries. By using this Site or providing us with your information, you consent to the potential collection, transfer, storage, and processing of information in other countries.
+PTPAMEDIA.com and its third party partners to whom we disclose information under this policy may perform activities outside of Canada and potentially collect, transfer, store, and process your personal information in other countries. As a result, your information may be subject to the laws of those countries. These laws may not be equivalent to the privacy and data protection laws in Canada. Information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries. By using this Site or providing us with your information, you consent to the potential collection, transfer, storage, and processing of information in other countries.
 
 **11\. Children’s Guidelines**
 
-We do not knowingly collect personal information from children under 13. If we learn that we have collected any personal information from a child under the age of 13 without verifiable parental consent, we will delete that information from our database as quickly as possible. If you believe that we may have collected information from a child under 13, please contact us at privacy@ptpamedia.com.
+We do not knowingly collect personal information from children under 13. If we learn that we have collected any personal information from a child under the age of 13 without verifiable parental consent, we will delete that information from our database as quickly as possible. If you believe that we may have collected information from a child under 13, please contact us at privacy@PTPAMEDIA.com.
 
 **12\. Changes to the Privacy Policy**
 
@@ -175,4 +172,4 @@ PTPA Media Inc.
 176 Rivermede Rd. Unit #3
 
 Concord, Ontario L4C5S8  
-Effective Date: June 28, 2011
+Effective Date: February 25, 2015
