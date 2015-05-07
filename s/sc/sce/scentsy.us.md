@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121065127id_/http%3A//scentsy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507154739id_/http%3A//scentsy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-Policy
+# Scentsy Corporation Privacy-Policy
 
 ### Introduction
 
