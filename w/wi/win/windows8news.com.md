@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows8news.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006064045id_/http%3A//www.everything-microsoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows8news.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507043555id_/http%3A//www.everything-microsoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
