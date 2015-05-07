@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudupload.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026100405id_/http%3A//loudupload.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudupload.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507070929id_/http%3A//loudupload.net/privacy-policy.html) for the most accurate reproduction.*
 
 # LoudUpload - Good File Hosting
 
