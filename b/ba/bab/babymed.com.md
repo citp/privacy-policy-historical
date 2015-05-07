@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123032434id_/http%3A//www.babymed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507021912id_/http%3A//www.babymed.com/privacy) for the most accurate reproduction.*
 
 # BabyMed - Privacy Policy | BabyMed
 
 * **BabyMed Respects Your Privacy**  
 BabyMed respects your online privacy and takes it seriously. We pledge to earn and keep your trust and we are fully committed to ensuring that your privacy is respected and protected. All personal information you give us is maintained in accordance with our privacy policy and will not be used in ways that are contrary to that policy. This Privacy Policy covers all web sites and web pages owned, controlled and/or operated by BabyMed.com, specifically including but not limited to BabyMed.com.
-
-  
-  
 
 * **Information Collected**  
 Information collected by BabyMed about its users is used internally by authorized employees of BabyMed and its affiliates for three main purposes: a. We collect information to figure out which areas, features, and products our users like the most and find most helpful, so we can continue to improve the site. B. We collect information in order to personalize the site for our users (for example, it allows us to recommend products or features based on what you have liked in the past). c. We may collect information to enable our users to participate in sweepstakes, contests, services, and other activities on our site.
