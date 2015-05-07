@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noliesplace.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108205043id_/http%3A//www.noliesplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noliesplace.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507193746id_/http%3A//www.noliesplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,10 +52,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Nolie’s Place
-
-http://www.noliesplace.com
-
+Nolie’s Place  
+http://www.noliesplace.com  
 nolie@noliesplace.com
 
 This document was last updated on March 08, 2011
