@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hihagames.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214095147id_/http%3A//hihagames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hihagames.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507170841id_/http%3A//hihagames.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HiHa Games
 
