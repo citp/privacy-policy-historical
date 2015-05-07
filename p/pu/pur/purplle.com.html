@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the purplle.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231203944id_/http%3A//purplle.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the purplle.com privacy policy that was archived on 2015-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150507161332id_/http%3A//purplle.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
  
@@ -32,10 +32,10 @@ privacy policy|Buy Perfumes, Cosmetics, Deodorants, Skin Care and Hair Care prod
 
 <link rel="stylesheet" type="text/css" href="http://media2.purplle.com/static/purplle/css/master20141009.css?v">
 <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css">
-<link href="http://media2.purplle.com/static/purplle/css/cssnew/style-new.min.css" rel="stylesheet" type="text/css">
-<link rel="icon" href="http://cdn3.purplle.com/favicon.ico">
-<link type="image/x-icon" href="http://cdn3.purplle.com/favicon.ico" rel="icon">
-<link type="image/x-icon" href="http://cdn3.purplle.com/favicon.ico" rel="shortcut icon">
+<link href="http://media2.purplle.com/static/purplle/css/cssnew/style-new.min-v2.css" rel="stylesheet" type="text/css">
+<link rel="icon" href="http://media2.purplle.com/static/purplle/img/fest/img/purplle-16x16.png">
+<link type="image/x-icon" href="http://media2.purplle.com/static/purplle/img/fest/img/purplle-16x16.png" rel="icon">
+<link type="image/x-icon" href="http://media2.purplle.com/static/purplle/img/fest/img/purplle-16x16.png" rel="shortcut icon">
 
 <style>
 
@@ -48,7 +48,7 @@ privacy policy|Buy Perfumes, Cosmetics, Deodorants, Skin Care and Hair Care prod
 }
 
 .discount{
-background-color:#009D7E;
+background-color:#68216f;
 }
 .closeButton{
 	background-color: #461D5E;
@@ -84,7 +84,9 @@ background-color:#009D7E;
 	background:white;
 	z-index:2000;	
 }
-
+.nav>li>a {
+  padding: 10px 13px;
+}
 #reviews_g{
 	position: fixed;
 	left: 32%;
@@ -120,7 +122,7 @@ background-color:#009D7E;
     width: 60px; 
     height: 16px;  
     display: block; 
-    background: url('/static/purplle/img/imgnew/site/star-rating.png') 0 0 no-repeat;
+    background: url('/static/purplle/img/imgnew/site/star-rating.png?v1') 0 0 no-repeat;
 }
 
 .rating-50 { background-position: 0 0; }
@@ -194,7 +196,7 @@ height:35px;
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>-->
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/5642.js?439006" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MQBGFX"></script><script type="text/javascript" async="" src="//d3oa6jk77hlbow.cloudfront.net/tejas.min.js"></script><script type="text/javascript" async="" src="https://cdn6.vizury.com/analyze/pixel.php?account_id=VIZVRM843"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="http://media1.purplle.com/static/purplle/js/master20141009.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/5642.js?439006" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MQBGFX"></script><script type="text/javascript" async="" src="https://cdn6.vizury.com/analyze/pixel.php?account_id=VIZVRM843"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/fddef331b5b258ef5e224ca639723576f28624ae.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="http://media1.purplle.com/static/purplle/js/master20141009.js"></script>
 <!--
 <script async type="text/javascript" src="http://media2.purplle.com/1000lookz/glam/js/swfobject.js?vv"></script>
 <script async type="text/javascript" src="http://media2.purplle.com/1000lookz/glam/js/lite.js"></script> -->
@@ -471,14 +473,17 @@ $(document).ready(function(){
 					//console.log("aborted");
 				}
         
-									xhr = $.ajax({type:"GET", url: '/search', data: "q="+keyword, success: function(response) {
+				
+					
+					xhr = $.ajax({type:"GET", url: '/searchnew/proto/suggest', data: "q=" + keyword, success: function(response) {
 									
 									
 									document.getElementById("auto_search_results").innerHTML = response;
 					
 						}
 					});
-							
+				
+			
 		});
 	$(document).keydown(function(e) { 
 		var searchvalue = $("#search_key").val();
@@ -1029,12 +1034,9 @@ function hideReview(){
 	 	alert("Please rate to submit review !!");
 	 	
 	 }
-	 else if( document.getElementById("comment").value.length < 300)
+	 else if( document.getElementById("comment").value.length < 30)
 	 {
-	 	alert("Please write review of minimum 300 characters to submit !!");	 
-	 }
-	 else if(!checkreviewtags()){
-	 	alert("Please select atleast 1 option from the Quick take menu!");	
+	 	alert("Too Short !!");	 
 	 }
 	 else if( document.getElementById("title").value == "")
 	 {
@@ -1397,16 +1399,16 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=447739708697691&amp;ev=PixelInitialized" /></noscript>
-
+<script type="text/javascript">var _kmq = _kmq || []; var _kmk = _kmk || 'fddef331b5b258ef5e224ca639723576f28624ae'; function _kms(u){ setTimeout(function(){ var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f); }, 1); } _kms('//i.kissmetrics.com/i.js'); _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js'); </script>
 </head>
 <body>
 
 <div id="fb-root"></div>
 <form action="http://purplle.com/privacy-policy.html" id="cart_form" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="b32fdb6ff941e8ef28a0f3201511cad5">
+<input type="hidden" name="csrftoken" value="19daa403fed896c060ea42a7264adae4">
 </div></form>
 <form action="http://purplle.com/privacy-policy.html" id="empty_form" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="b32fdb6ff941e8ef28a0f3201511cad5">
+<input type="hidden" name="csrftoken" value="19daa403fed896c060ea42a7264adae4">
 </div></form>
 <div id="cart_loader" style="display:none;">
 <div class="loading-container" style="display:block;">
@@ -1433,277 +1435,100 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 	</div>
 </div></div>   
 <div id="chkcart-ovlay" class="ovlay" onclick="javascript:hidechkcart();"></div>
+<link rel="stylesheet" href="/static/purplle/css/cssnew/home.css?v">
 
-<script type="text/javascript">
-// check if browser is IE6 (when IE) or not FF6 (when FF)
-if ((window.XMLHttpRequest == undefined) && (ActiveXObject != undefined)) {
-	$(document).ready(function(){
-		$('#browserWarning').show('slow');
-	}); 
-	
-}
-</script>
-<style type="text/css">
-/* this would probably be in a CSS file */
-#browserWarning { 
-display:none;
-background: none repeat scroll 0 0 #FFFFFF;
-width: 100%;
-top:0;
-position: fixed;
-z-index:1000;
-padding:20px;
-color:red;
-font-weight:bolder;
-font-size:13px;
-}
-</style>
-<!--[if IE 6]>
-<style type="text/css">
-#browserWarning { display:; }
-</style>
-<![endif]-->
-<div id="browserWarning">
-<p>If this page looks broken please consider updating you browser
-to fix it and to benefit from the advanced functionality.</p>
-<p>Updating your browser will improve your browsing experience and
-maximize you security. On this page we have prepared for you
-some instructions and an overview of your best options for today.</p>
-<p>Please upgrade to <a href="http://getfirefox.com">FireFox</a>, <a href="http://www.opera.com/download/">Opera</a>, <a href="http://www.apple.com/safari/">Safari</a> or <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">Internet Explorer 7 or 8</a>. Thank You!&nbsp;&nbsp;&nbsp;<a href="#" style="float:right;margin-right:50px;" onclick="document.getElementById('browserWarning').style.display = 'none';"><b>Close Window</b></a></p>
-</div><!-- header top-->
-<style>
- .header-top {
-font-size: 11px;
-line-height: 1.8em;
-}
-</style>
- <div class="header-top phead" style="height:auto;" id="headertop">
- <div class="container"> 
- 
- 
-		
-		<div class="col-xs-6">
-		
-		
-		<div class="sites pull-left text-center selected" style="width: 123px;">
-			<a href="#">BUY PRODUCTS</a>
-			</div>
-	
-		<div class="sites pull-left text-center" style="width: 161px;">
-			<a rel="popover" data-placement="bottom" data-html="true" data-content="Find Rate Card, Prices, Reviews, Addresses Of Salons &amp; Spas Near You" data-trigger="hover" href="/finder" target="_blank" onclick="_gaq.push(['_trackEvent','Topbar-Purplle','Click','Finder'])"> FIND SALONS &amp; SPAS</a> 
-			</div>
+<div class="overlay-panel"></div>
+
+<header>
+         <div class="container clearfix">
+            <div id="logo">
+               <a href="http://purplle.com"><img src="http://media3.purplle.com/static/purplle/img/purplle-logo-1.svg?v"></a>
+            </div>
 			
-			
-			<div class="sites pull-left text-center" style="width:73px;">
-			<a rel="popover" data-placement="bottom" data-html="true" data-content="Reviews, Contests, Articles, Expert Opinion &amp; More" data-trigger="hover" href="/e-mag" onclick="_gaq.push(['_trackEvent','Topbar-Purplle','Click','E-mag'])" target="_blank">E-MAG</a>
-			
+	<nav> 
+		 					<ul class="nav navbar-nav pservices">
+			<li class="dropdown">
+			  <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Buy Products<i class="fa fa-angle-down icon-update"></i></a>
+			  <ul class="dropdown-menu drop-list" role="menu">
+				<li><a href="javascript:void(0);" onclick="window.location.href='/finder'">Book Appointments</a></li>
+				<li><a href="javascript:void(0);" onclick="window.location.href='/collection'">Browse Collections</a></li>
+			  </ul>
+			</li>
+		  </ul>
+	  	  	  	  	        <form class="navbar-form navbar-left" role="search" action="/search" method="get">
+        <div class="form-group"> 
+        <input type="text" name="q" id="search_key" class="form-control w450" value="" autocomplete="off" placeholder="Search For Products">
+		<div id="auto_search_results" style="max-height:300px;box-shadow:0px 0px 5px 0px black;display:none;position:absolute;overflow-y:scroll;z-index:1100;background-color:white;  width: 483px;">
 		</div>
-		
-		
 		</div>
+		<button type="submit" class="btn s-btn"><i class="fa fa-search"></i></button>
 		
-				
-		<div class="col-xs-6 text-right"> <!-- HI   |--> 
-				<ul class="list-inline" style="padding-top:3px;">
-		<li class="track">
-		
-		<a rel="popover" data-placement="bottom" data-html="true" data-content="Invite Your Facebook, Twiiter &amp; Google Plus Friends to Purplle" data-trigger="hover" href="/invite" onclick="_gaq.push(['_trackEvent','Topbar-Purplle','Click','Invite'])"> <i class="fa fa-share-alt-square"></i> INVITE YOUR FRIENDS</a>
-		
-		
-		
-			 
-		</li>
-
-		<li class="cs">
-		<a rel="popover" data-placement="bottom" data-html="true" data-content="<div style='text-align:center'><i class='icon-mobile-phone'></i> +91 92233 00222 </br><i class='icon-mobile-clock'></i> Mon-Sat[10AM - 7PM] </br><i class='icon-mobile-email'></i>  customercare@purplle.com</div>" data-trigger="hover" href="/contactus" target="_blank"> CUSTOMER SUPPORT</a>
-		
-		
-		
-		  
-		</li>
-		
-	
-		</ul>
-		
-		        </div>
-		
-	
-
-	
-	
-</div>
-</div>
-<div class="skpopup" id="codpopup" style="position:fixed;top:4%;left:7%;display:none;z-index: 2000;">
-	<div class="skpopupcontainer" style="background: white;">
-		<div class="skpopupheader">
-			<span>Cash On Delivery | Free Shipping Above Rs. 699</span><a class="skpopupclose" onclick="hideskpopup('codpopup')"></a>
-		</div>
-		
-		<div class="skpopupbody">
-			<p>	
-				</p><ol>
-					<li>
-					<b>a.</b> <span style="padding-left:5px;"><b>Prepaid Orders</b> – Order Paid through Internet Banking, Credit Card, Debit Card or Loyalty Points. We provide free shipping for all orders with total value above Rs 699. This value is calculated post all discounts and vouchers. Nominal Shipping charge of Rs 49 would be applied otherwise.</span>	
-					</li>
-					<li style="padding-top:10px;">
-
-					<b>b.</b> <span style="padding-left:5px;"><b>Cash on Delivery Orders (COD)</b> – We provide free shipping for every COD order with total value above Rs 699. This value is calculated post all discounts and vouchers. A nominal shipping charge of Rs 49 and a cash collection charge of Rs 25 would be applied otherwise.</span>
-					</li>
-				</ol>
-			<p></p>
-				
-			
-		</div>
-
-	</div>
-</div><div class="skpopup" id="contactpopup" style="position:fixed;top:4%;left:35%;display:none;z-index: 2000;">
-	<div class="skpopupcontainer" style="background: white;">
-		<div class="skpopupheader">
-			<span>Contact: +91 92233 00222  [10AM - 7PM] [MON-SAT]</span><a class="skpopupclose" onclick="hideskpopup('contactpopup')"></a>
-		</div>
-		
-		<div class="skpopupbody">
-			<p>	
-				</p><ol>
-					<li>
-						<b>a.</b> <span style="padding-left:5px;">For any queries related to your order you please mail us at <a href="mailto:customercare@purplle.com">customercare@purplle.com</a> and we would respond to you within 24 hours.</span>	
-					</li>
-					
-					<li style="padding-top:10px;">
-						<b>b.</b> <span style="padding-left:5px;">Our Customer Care is available on +91 92233 00222 from 10 am to 7 pm on every day except public holidays and Sundays. In case you are not able to reach us beyond these hours, please send us an email on <a href="mailto:customercare@purplle.com">customercare@purplle.com</a>.</span>
-					</li>
-					
-					<li style="padding-top:10px;">
-						<b>c.</b> <span style="padding-left:5px;"> We do not have the facility to take orders over phone at present.</span>
-					</li>
-				</ol>
-			<p></p>
-				
-			
-		</div>
-
-	</div>
-</div>
-<!-- header top ends-->
-
-
-	
-
-
-
-	<header class="header">
-	<div class="navbar navbar-default navbar-fixed-top" id="navbartop">
-      <div class="container">
-	  <div class="col-xs-2">
-		<a href="/" class="navbar-brand">
-		 <img src="http://cdn3.purplle.com/static/purplle/img/purplle-white-logo-up.png"> </a>
-		</div> 
-       
-	  
-         
-		 
-		   <form action="/search" autocomplete="off" id="search_form_lat" method="get">
-        <div class="col-xs-5" style="margin-top:16px;margin-left: 131px;">
-		<div class="input-group">
-		 <input id="search_key" type="search" class="form-control" autocomplete="off" placeholder="search entire store here..." maxlength="255" name="q">
-		
-		  <span class="input-group-btn">
-			<button type="submit" class="btn btn-default" data-toggle="button" onclick="search_on();"><i class="fa fa-search"></i></button>
-		  </span>
-		</div><!-- /input-group -->
-		<div id="auto_search_results" style="width:83.5%;max-height:300px;box-shadow:0px 0px 5px 0px black;display:none;position:absolute;overflow-y:scroll;z-index:1100;background-color:white;">
-	</div>
-	  </div><!-- /.col-lg-6 -->
       </form>
+	  	      <ul class="menu nav navbar-nav navbar-right">
+        <li class="dropdown">
+                     <a href="javascript:void(0);" onclick="javascript:showchkcart();"><img src="/static/purplle/img/bag-icon.svg"><span class="counter fav">0</span></a>
+                     
+                  </li>
+				  				  <li class="dropdown">
+                     <a href="javascript:void(0);" onclick="javascript:togglepop('regpopup');" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-heart-o"></i><span class="counter fav">0</span></a>                     
+                  </li> 
+				   <li class="bar dropdown">
+                     <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-bars"></i></a>
+                     <div class="dropdown-menu header-drop" role="menu">
+                        <ul class="list-unstyled drop-list account">
+                           <li class="divider sep">&nbsp;</li>
+                           <li><a href="javascript:void(0);" onclick="javascript:togglepop('regpopup');">Login / Register</a></li>
+                           
+                        </ul>
+                     </div>
+                  </li>
+				  <li class="profile-pic"><a href="javascript:void(0);" onclick="javascript:togglepop('regpopup');"><img style="width:100%;" src="/static/purplle/img/default-user-icon.png"></a></li>
+				        </ul>
 	  
-       		 
-		  
-		 
-<style>
-.popcontent{
-	min-width: 330px;
-	max-width: 600px;
-	min-height: 150px;
-}
-.poppad{
-	text-align:center;
-}
-
-</style>
-<script>
-$(document).ready(function(){
-	var wishpophtml = $('#wishlisthtml').html();
-	$('#wishlistpop').attr('data-content', wishpophtml);
-	var cartpophtml = $('#carthtml').html();
-	$('#cartpop').attr('data-content', cartpophtml);
-	var accountpophtml = $('#accounthtml').html();
-	$('#accountpop').attr('data-content', accountpophtml);
+    </nav>
 		
-	var originalLeave = $.fn.popover.Constructor.prototype.leave;
-	$.fn.popover.Constructor.prototype.leave = function(obj){
-	  var self = obj instanceof this.constructor ?
-		obj : $(obj.currentTarget)[this.type](this.getDelegateOptions()).data('bs.' + this.type)
-	  var container, timeout;
+         </div>
+		 <script>
+	   $(".overlay-panel").hide();
+		$("li.dropdown").click(function(e){
+			if($(this).hasClass('open')){
+				$(".overlay-panel").hide();
+				 event.preventDefault();
+			}else{
+				$(".overlay-panel").show();
+				 event.preventDefault();
+			}
+		});
 
-	  originalLeave.call(this, obj);
+		$(".overlay-panel").click(function(e){
+			event.preventDefault();
+		});
 
-	  if(obj.currentTarget) {
-		container = $(obj.currentTarget).siblings('.popover')
-		timeout = self.timeout;
-		container.one('mouseenter', function(){
-		  //We entered the actual popover – call off the dogs
-		  clearTimeout(timeout);
-		  //Let's monitor popover content instead
-		  container.one('mouseleave', function(){
-			$.fn.popover.Constructor.prototype.leave.call(self, self);
-		  });
+		$(document).click(function(){
+			$(".overlay-panel").hide();
+		});
+	  $('.carousel').carousel({
+		  interval: false
 		})
-	  }
-	};
-
-	$('body').popover({ selector: '[data-popover]', trigger: 'click hover', placement: 'bottom', delay: {show: 50, hide: 400}});
-	
-});	
-
 </script>
 
-	<div class="col-xs-1 pull-right text-left" style="margin-top:20px;margin-left: -21px;">
-	<a href="/account" data-popover="true" data-html="true" data-title="My Account" id="accountpop"><i class="fa fa-user  fa-2x icn-clr"></i></a>
-	</div>
+<style>
+.yamm>.navbar-collapse>ul.nav>li>a{color:#fff;font-size:14px; font-weight:bold;padding:9px 13px;font-family:'ProximaNova-Black','Segoe UI','Droid Sans','Helvetica Neue',Arial,sans-serif;}
+.yamm>.navbar-collapse{padding:0;}
+.yamm>.navbar-collapse>ul.nav>li.open{background:#cf118c;}
+.dropdown.offer-nav{background:#682676;}
 
-	<div style="margin-top:20px;" class="col-xs-1 text-left pull-right">
-	<a data-popover="true" data-html="true" href="javascript:showchkcart();" id="cartpop"><img src="http://media2.purplle.com/static/purplle/img/shop-bag.png"> <span class="badge" style="position: absolute;left: 32px;top: -7px;display:none;" id="headercartholder">0</span></a>
-	</div>
-	
-	<div class="col-xs-1 pull-right text-right" style="margin-top:20px;">
-	<a data-popover="true" data-html="true" style="text-decoration:none;" id="wishlistpop"><i class="fa fa-heart  fa-2x icn-clr"></i> </a>
-	</div>
+.offer-anim { -webkit-animation-duration: 2s; animation-duration: 2s; -webkit-animation-fill-mode: both; animation-fill-mode: both; animation-iteration-count:infinite;  -webkit-animation-iteration-count:infinite; } 
 
-	<div id="wishlisthtml" style="display:none;">
-		
-<div class="poppad">
-<a href="javascript:togglepop('regpopup');">Login</a> To View Your Wishlist
-</div>
-	</div>
-	<div id="carthtml" style="display:none;">
-		
-	<div class="text-center">
-		There Are No Items In Your Cart
-	</div>	
+@-webkit-keyframes swing { 20%, 40%, 60%, 80%, 100% { -webkit-transform-origin: top center; } 20% { -webkit-transform: rotate(15deg); }  40% { -webkit-transform: rotate(-10deg); } 60% { -webkit-transform: rotate(5deg); }  80% { -webkit-transform: rotate(-5deg); } 100% { -webkit-transform: rotate(0deg); } } 
+@keyframes swing {20% { transform: rotate(15deg); }  40% { transform: rotate(-10deg); }  60% { transform: rotate(5deg); }  80% { transform: rotate(-5deg); }  100% { transform: rotate(0deg); } } 
+.swing {-webkit-transform-origin: top center;transform-origin: top center; -webkit-animation-name: swing;animation-name: swing; }
 
+</style>
 
+<div class="phead">
+<div class="container">
 
-	</div>
-	<div id="accounthtml" style="display:none;">
-		<div class="poppad">
-<a href="javascript:togglepop('regpopup');">Login</a> Or <a href="javascript:togglepop('regpopup');">Register</a>
-</div>
-	</div>
-      </div>
-	  		  				
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet" type="text/css">
-
-<div class="container phead">
 <!-- Grid demo navbar -->
         <div class="navbar yamm">
           
@@ -1720,7 +1545,6 @@ $(document).ready(function(){
                   <!-- Content container to add padding -->
                   <div class="yamm-content">
 					
-									  <div style="position: absolute;right: 0;bottom: -20px;"><a href="http://purplle.com/landingpages/sale/bestseller-offers?order_by=discount&amp;bannerTracker=483379624" onclick="_gaq.push(['_trackEvent','Banner','Click','Mega Menu - best sellers_1187']);"><img src="http://media3.purplle.com/static/purplle/img/ad-banners/Best-Deal-Mega-Menu-31th-Dec.png"></a></div>
 					                    <div class="row">
                       <ul class="col-sm-2 list-unstyled">
                          <li class="category-name">
@@ -1782,7 +1606,6 @@ $(document).ready(function(){
                   <!-- Content container to add padding -->
                   <div class="yamm-content">
 					
-									  <div style="position: absolute;right: 0;bottom: -20px;"><a href="http://purplle.com/landingpages/sale/bestseller-offers?order_by=discount&amp;bannerTracker=483379625" onclick="_gaq.push(['_trackEvent','Banner','Click','Mega Menu - best sellers_1187']);"><img src="http://media3.purplle.com/static/purplle/img/ad-banners/Best-Deal-Mega-Menu-31th-Dec.png"></a></div>
 					                    <div class="row">
                       <ul class="col-sm-2 list-unstyled">
                          <li class="category-name">
@@ -1810,7 +1633,7 @@ $(document).ready(function(){
 													
 						                        <li><a href="/skin/gift-and-value-sets">Gift and Value Sets</a></li>
 													
-						                        <li><a href="/skincare/lip-care">Lip Care</a></li>
+						                        <li><a href="/skincare/lip-care">Lip Balm</a></li>
 													
 						                        <li><a href="/skincare/moisturizer">Moisturizer</a></li>
 													
@@ -1916,7 +1739,6 @@ $(document).ready(function(){
                   <!-- Content container to add padding -->
                   <div class="yamm-content">
 					
-									  <div style="position: absolute;right: 0;bottom: -20px;"><a href="http://purplle.com/landingpages/sale/bestseller-offers?order_by=discount&amp;bannerTracker=483379626" onclick="_gaq.push(['_trackEvent','Banner','Click','Mega Menu - best sellers_1187']);"><img src="http://media3.purplle.com/static/purplle/img/ad-banners/Best-Deal-Mega-Menu-31th-Dec.png"></a></div>
 					                    <div class="row">
                       <ul class="col-sm-2 list-unstyled">
                          <li class="category-name">
@@ -1952,15 +1774,15 @@ $(document).ready(function(){
 																			
 						                        <li><a href="/makeup/face">Face</a></li>
 																		<ul class="level-2">	
-							<li><a href="/makeup/face/blush">Blusher</a></li>
-						</ul>
-							    
-												<ul class="level-2">	
 							<li><a href="/makeup/face/bronzers-highlighters">Bronzers &amp; Highlighters</a></li>
 						</ul>
 							    
 												<ul class="level-2">	
 							<li><a href="/makeup/face/concealer">Concealer</a></li>
+						</ul>
+							    
+												<ul class="level-2">	
+							<li><a href="/makeup/face/blush">Face Blush</a></li>
 						</ul>
 							    
 												<ul class="level-2">	
@@ -2135,7 +1957,6 @@ $(document).ready(function(){
                   <!-- Content container to add padding -->
                   <div class="yamm-content">
 					
-									  <div style="position: absolute;right: 0;bottom: -20px;"><a href="http://purplle.com/landingpages/sale/bestseller-offers?order_by=discount&amp;bannerTracker=483379627" onclick="_gaq.push(['_trackEvent','Banner','Click','Mega Menu - best sellers_1187']);"><img src="http://media3.purplle.com/static/purplle/img/ad-banners/Best-Deal-Mega-Menu-31th-Dec.png"></a></div>
 					                    <div class="row">
                       <ul class="col-sm-2 list-unstyled">
                          <li class="category-name">
@@ -2167,14 +1988,15 @@ $(document).ready(function(){
 													
 						                        <li><a href="/hair/hair-oil">Hair Oil</a></li>
 													
-						                        <li><a href="/hair/hair-perfumes">Hair Perfumes</a></li>
-													
 						                        <li><a href="/hair/hair-serum">Hair Serum</a></li>
 													
 						                        <li><a href="/hair/hair-styling">Hair Styling</a></li>
 																		<ul class="level-2">	
 							<li><a href="/hair/hair-styling/hair-gels-gums">Hair Gels &amp; Gums</a></li>
 						</ul>
+												 </ul>
+							<ul class="col-sm-2 list-unstyled">
+							<li>&nbsp;</li>
 							    
 												<ul class="level-2">	
 							<li><a href="/hair/hair-styling/hair-mousse">Hair Mousse</a></li>
@@ -2189,10 +2011,6 @@ $(document).ready(function(){
 						</ul>
 							    
 																			
-						 </ul>
-							<ul class="col-sm-2 list-unstyled">
-							<li>&nbsp;</li>
-							
 						                        <li><a href="/hair/hair-treatments">Hair Treatment</a></li>
 													
 						                        <li><a href="/hair/shampoo">Shampoo</a></li>
@@ -2293,7 +2111,6 @@ $(document).ready(function(){
                   <!-- Content container to add padding -->
                   <div class="yamm-content">
 					
-									  <div style="position: absolute;right: 0;bottom: -20px;"><a href="http://purplle.com/landingpages/sale/bestseller-offers?order_by=discount&amp;bannerTracker=483379628" onclick="_gaq.push(['_trackEvent','Banner','Click','Mega Menu - best sellers_1187']);"><img src="http://media3.purplle.com/static/purplle/img/ad-banners/Best-Deal-Mega-Menu-31th-Dec.png"></a></div>
 					                    <div class="row">
                       <ul class="col-sm-2 list-unstyled">
                          <li class="category-name">
@@ -2315,6 +2132,8 @@ $(document).ready(function(){
 													
 						                        <li><a href="/body/body-wash">Body Wash</a></li>
 													
+						                        <li><a href="/body/essential-oils">Essential Oils</a></li>
+													
 						                        <li><a href="/body/foot-care">Foot Care</a></li>
 																		<ul class="level-2">	
 							<li><a href="/body/foot-care/foot-treatment">Foot Treatment</a></li>
@@ -2331,9 +2150,6 @@ $(document).ready(function(){
 																		<ul class="level-2">	
 							<li><a href="/body/hand-and-nail-care/hand-sanitizer">Hand Sanitizer</a></li>
 						</ul>
-												 </ul>
-							<ul class="col-sm-2 list-unstyled">
-							<li>&nbsp;</li>
 							    
 												<ul class="level-2">	
 							<li><a href="/body/hand-and-nail-care/hand-treatment">Hand Treatment</a></li>
@@ -2352,6 +2168,10 @@ $(document).ready(function(){
 						</ul>
 							    
 																			
+						 </ul>
+							<ul class="col-sm-2 list-unstyled">
+							<li>&nbsp;</li>
+							
 						                        <li><a href="/body/moisturiser">Moisturizer</a></li>
 													
 						                        <li><a href="/body/salt-and-bubbles">Salt And Bubbles</a></li>
@@ -2402,7 +2222,6 @@ $(document).ready(function(){
                   <!-- Content container to add padding -->
                   <div class="yamm-content">
 					
-									  <div style="position: absolute;right: 0;bottom: -20px;"><a href="http://purplle.com/landingpages/sale/bestseller-offers?order_by=discount&amp;bannerTracker=483379629" onclick="_gaq.push(['_trackEvent','Banner','Click','Mega Menu - best sellers_1187']);"><img src="http://media3.purplle.com/static/purplle/img/ad-banners/Best-Deal-Mega-Menu-31th-Dec.png"></a></div>
 					                    <div class="row">
                       <ul class="col-sm-2 list-unstyled">
                          <li class="category-name">
@@ -2581,7 +2400,6 @@ $(document).ready(function(){
                   <!-- Content container to add padding -->
                   <div class="yamm-content">
 					
-									  <div style="position: absolute;right: 0;bottom: -20px;"><a href="http://purplle.com/landingpages/sale/bestseller-offers?order_by=discount&amp;bannerTracker=483379630" onclick="_gaq.push(['_trackEvent','Banner','Click','Mega Menu - best sellers_1187']);"><img src="http://media3.purplle.com/static/purplle/img/ad-banners/Best-Deal-Mega-Menu-31th-Dec.png"></a></div>
 					                    <div class="row">
                       <ul class="col-sm-2 list-unstyled">
                          <li class="category-name">
@@ -2645,7 +2463,6 @@ $(document).ready(function(){
                   <!-- Content container to add padding -->
                   <div class="yamm-content">
 					
-									  <div style="position: absolute;right: 0;bottom: -20px;"><a href="http://purplle.com/landingpages/sale/bestseller-offers?order_by=discount&amp;bannerTracker=483379631" onclick="_gaq.push(['_trackEvent','Banner','Click','Mega Menu - best sellers_1187']);"><img src="http://media3.purplle.com/static/purplle/img/ad-banners/Best-Deal-Mega-Menu-31th-Dec.png"></a></div>
 					                    <div class="row">
                       <ul class="col-sm-2 list-unstyled">
                          <li class="category-name">
@@ -2685,8 +2502,6 @@ $(document).ready(function(){
 						</ul>
 							    
 																			
-						                        <li><a href="/makeup-for-kids">Makeup For Kids</a></li>
-													
 						                      </ul>
 					                        <ul class="col-sm-2 list-unstyled">
                         <li class="category-name">
@@ -2711,7 +2526,6 @@ $(document).ready(function(){
                   <!-- Content container to add padding -->
                   <div class="yamm-content">
 					
-									  <div style="position: absolute;right: 0;bottom: -20px;"><a href="http://purplle.com/landingpages/sale/bestseller-offers?order_by=discount&amp;bannerTracker=483379632" onclick="_gaq.push(['_trackEvent','Banner','Click','Mega Menu - best sellers_1187']);"><img src="http://media3.purplle.com/static/purplle/img/ad-banners/Best-Deal-Mega-Menu-31th-Dec.png"></a></div>
 					                    <div class="row">
                       <ul class="col-sm-2 list-unstyled">
                          <li class="category-name">
@@ -2759,9 +2573,9 @@ $(document).ready(function(){
                 </li>
               </ul>
             </li>
-            			 <li class="dropdown offer-nav"><a href="/offers" data-toggle="" class="dropdown-toggle" data-hover="dropdown"><i class="fa fa-bell-o"></i> &nbsp;OFFERS</a></li>
+            			 <li class="dropdown offer-nav"><a href="/offers" data-toggle="" class="dropdown-toggle" data-hover="dropdown"><i class="fa fa-tag offer-anim swing" style="font-size:18px;"></i> &nbsp;OFFERS</a></li>
 			 
-			 <li class="dropdown"><a href="/trending" data-toggle="" class="dropdown-toggle" data-hover="dropdown" style="color:#ca1e2c"># Trending</a></li>			
+			 <li class="dropdown"><a href="/trending" data-toggle="" class="dropdown-toggle" data-hover="dropdown"># Trending</a></li>			
 			 <!--<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle" data-hover="dropdown">Find Salons</a>
               <ul class="dropdown-menu">
                 <li>
@@ -2785,50 +2599,24 @@ $(document).ready(function(){
             </ul>
           </div>
 		  
-		  
-		 
-		  
-		  
-		  
-		  
-		  
+
 		  
         </div>
 		
 		
 		 
-		  <div class="navbar yamm">
+		<!--  <div class="navbar yamm">
           <div id="navbar-collapse-grid" class="navbar-collapse collapse" style="position: absolute;top: -40px;left: 657px;">
            <ul class="nav navbar-nav">
 		<img src="http://purplle.com/static/img/purplle-new-updated-bnr.gif">
-	</ul></div></div>	
+	</ul></div></div>	-->
 		
 		
 		
 		
         </div>
-		
-		
-	
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+        </div>
+
 		
 		 <script>   
 (function ($, window, undefined) {
@@ -2937,17 +2725,20 @@ $('.nav-tabs[data-toggle="tab-hover"] > li > a').hover( function(){
 		var link = $(this).attr("href");
 		window.location.href = link;
 	});
-</script>		  	      </div>
-	</header>
-	
-    <div id="ajaxSearchResults" style="display:none;width: 182px;position: absolute;top: 54px;right: 212px;max-height: 175px;overflow-y: auto;z-index: 100;">
-    </div>
-<i class="fa fa-chevron-circle-up fa-3x scroll-top absoright" style="display:none;cursor:pointer;z-index:2"></i>
+</script></header>
 
+      <!-- /header --><i class="fa fa-chevron-circle-up fa-3x scroll-top absoright" style="display:none;cursor:pointer;z-index:2"></i>
+<!--
 <div class="absoleft imgside">
     <img src="http://media3.purplle.com/static/services/img/banners/New-Year-left.jpg" style="left: 0;width: 145px;position:fixed;top: 77px;background-repeat:no-repeat;z-index:0">
     
 </div>
+
+<div class="absoright imgside">
+    <img src="http://media3.purplle.com/static/services/img/banners/New-Year-right.jpg" style="right: 0;width: 145px;position:fixed;top: 200px;background-repeat:no-repeat;z-index:0">
+    
+</div>
+-->
 
 
 
@@ -2967,61 +2758,58 @@ $('.nav-tabs[data-toggle="tab-hover"] > li > a').hover( function(){
 		</div>
 		<div class="block-content" style="font-size: 12px;">
 							<p>
-	<strong>Purplle Privacy Policy</strong></p>
+The domain name www.purplle.com  (hereinafter referred to as "Website") is owned by Manash Lifestyle Private Limited a company incorporated under the Companies Act, 1956 with its registered office at 204, Jhalawar ,Patanwala EST, LBS MArg , Ghatkopar (W), Mumbai – 400086 (hereinafter referred to as "Manash").</p>
 <p>
-	We value the trust you place in Purplle.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.</p>
+<strong>Purplle Privacy Policy</strong><br>
+We value the trust you place in Manash. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
+</p>
 <p>
-	&nbsp;</p>
+<strong>Collection of Personally Identifiable Information</strong><br>
+We collect personally identifiable information (email address, name,phone number, etc.) from you when you set up a free account with the Website. While you can browse some sections of our site without being a registered member, certain activities (such as placing an order) do require registration.
+We do use your contact information to send you offers based on your previous orders and your interests.
+</p>
 <p>
-	<strong>1. Collection of Personally Identifiable Information</strong></p>
+<strong>Use of Demographic and Profile Data</strong><br>
+We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
+</p>
 <p>
-	We collect personally identifiable information (email address, name,phone number, etc.) from you when you set up a free account with Purplle.com. While you can browse some sections of our site without being a registered member, certain activities (such as placing an order) do require registration.<br>
-	We do use your contact information to send you offers based on your previous orders and your interests.</p>
+In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website.We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.
+</p>
 <p>
-	&nbsp;</p>
+We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our site, providing you with content that we think you might be interested in--and to display content according to your preferences.
+</p>
 <p>
-	<strong>2. Use of Demographic and Profile Data</strong></p>
+<strong>Cookies</strong><br>
+A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. the Website places both permanent and temporary cookies in your computer's hard drive. Website’s cookies do not contain any of your personally identifiable information.
+</p>
 <p>
-	We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.<br>
-	In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website.<br>
-	We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.<br>
-	We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our site, providing you with content that we think you might be interested in--and to display content according to your preferences.</p>
+<strong>Retention and Usage of Sensitive Personal Data or Information</strong><br>
+Except as reasonably required or otherwise permitted or required by applicable law or regulatory requirements, Manash  endeavours to retain your Sensitive Personal Data or Information only for as long as it believes is necessary to fulfill the purposes for which the Sensitive Personal Data or Information was collected (including, for the purpose of meeting any legal, administrative, accounting, regulatory or other reporting requirements or obligations). This Sensitive Personal Data or Information is safeguarded against inappropriate access and disclosure, as per this Privacy Policy.
+</p>
 <p>
-	<strong>Cookies</strong></p>
+ <strong>Sharing of personal information</strong><br>
+We may share personal information with our other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
+</p>
 <p>
-	A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. Purplle.com places both permanent and temporary cookies in your computer's hard drive. Purplle.com's cookies do not contain any of your personally identifiable information.</p>
+We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+Manash and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
+</p>
 <p>
-	&nbsp;</p>
+<strong>Links to Other Sites</strong><br>
+Our site links to other websites that may collect personally identifiable information about you. Manash is not responsible for the privacy practices or the content of those linked websites.
+</p>
 <p>
-	<strong>3. Sharing of personal information</strong></p>
+<strong>Information Security Practices and Procedures</strong><br>
+Manash endeavors to maintain physical, technical and procedural safeguards that are appropriate to protect your Personal Information including Sensitive Personal Data or Information against loss, misuse, copying, damage or modification and unauthorized access or disclosure
+Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
+</p>
 <p>
-	We may share personal information with our other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.</p>
-<p>
-	We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.</p>
-<p>
-	Purplle.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.</p>
-<p>
-	&nbsp;</p>
-<p>
-	<strong>4. Links to Other Sites</strong></p>
-<p>
-	Our site links to other websites that may collect personally identifiable information about you. Purplle.com is not responsible for the privacy practices or the content of those linked websites.</p>
-<p>
-	&nbsp;</p>
-<p>
-	<strong>5. Security Precautions</strong></p>
-<p>
-	Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.</p>
-<p>
-	&nbsp;</p>
-<p>
-	<strong>6. Choice/Opt-Out</strong></p>
-<p>
-	Purplle.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.<br>
-	If you want to remove your contact information from all Purplle.com lists and newsletters, please visit</p><a href="#">http://www.Purplle.com/unsubscribe.php</a>
-<p>
-	&nbsp;</p>
-
+</p><p>
+<strong>Choice/Opt-Out</strong><br>
+The Website provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
+If you want to remove your contact information from all Purplle.com lists and newsletters, please visit
+http://purplle.com/unsubscribe.php
+</p>
 					</div>
 	</div>
 </div>
@@ -3031,18 +2819,6 @@ $('.nav-tabs[data-toggle="tab-hover"] > li > a').hover( function(){
 
 
 <div id="regsignin" style="display:none;z-index: 6000; padding: 5px; background-color:white;background-repeat: no-repeat; position: fixed;  top: 20%; left: 30%;"></div>
-<div id="reviews_g" style="display:none;"> <div style="width: 500px; text-align: right; display: inline-block; height: auto;
-padding-top: 4px" onclick="javascript:hidereviews_g();">
-<img width="16px" alt="Close" style="cursor: pointer; padding: 1px 5px 0 0;" src="/static/purplle/img/registerpopup/close-btn.png">
-</div>
-<div style="margin: 10px; display: block;  height: 150px; width:485px">
-	<div style="margin:10px">
-		<span style="text-decoration: underline;"><b>WHAT’S AN AWESOME REVIEW!</b></span><br><br>
-		
-		Review should contain at least 300 characters and a maximum of 800 words. We would appreciate if you review a product you have personally experienced. An awesome review should talk about the relevant product details, it is not advisable to do a direct comparison with other products. Refrain from posting any kind of abusive words, promotional content or personal info. Being grammatically correct would be extraordinarily helpful.
-	</div>
-</div></div>   
-<div id="reviews-ovlay_g" class="ovlay" onclick="javascript:hidereviews_g();"></div>
 
 <div id="fbshr" style="display:none;"></div>   
 <div id="fbshr-ovlay" class="ovlay" onclick="javascript:hidefbshr();"></div>
@@ -3061,7 +2837,6 @@ padding-top: 4px" onclick="javascript:hidereviews_g();">
 
 <div id="regpopup" style="top:10%;left:10%;width:80%;height:80%"></div>
 <div id="regpopup-overlay" class="ovlay" onclick="javascript:togglepop('regpopup');"></div>
-	
 <div class="">
 	<style>
 .ft-header {
@@ -3133,8 +2908,6 @@ body {font-size: 13px;}
 
 
 </style>
-
-
 <div class="container" style="margin-top: 30px;">
   <div class="row">
     <div class="col-xs-3"><a href="http://www.facebook.com/letspurplle" target="_blank"><img class="img-responsive" src="http://media2.purplle.com/static/purplle/img/imgnew/site/facebook-btn.jpg"></a></div>
@@ -3148,37 +2921,8 @@ body {font-size: 13px;}
 
 <div id="footer-div" style="padding-top: 10px;">
   <div class="container">
-    <div class="row" style="padding: 10px 0;height: 93px;border-top: 2px solid #461D5E;border-bottom: 2px solid #461D5E;">
-     <div class="col-xs-2 bdr-right">
-        <a href="/e-mag" target="_blank"><img style="margin-top: 20px;" class="img-responsive" src="http://media3.purplle.com/static/purplle/img/imgnew/site/E-mag-Logo-up-dt-one.jpg?v"><h6 style="font-size: 11px;">PURPLLE BEAUTY BLOG</h6></a>
-      </div>
-      <div class="col-xs-2 bdr-right" style="height:71px">
-        
-        <a href="/finder" target="_blank"><img style="margin-top: 20px;" class="img-responsive" src="//media1.purplle.com/static/purplle/img/imgnew/site/purplle-finder-logo.png"><h6 style="font-size: 11px;">FIND SALONS &amp; SPAS</h6></a></div>
-      
-	  
-     	 <div class="col-xs-8 signup-bg">
-	 
-	 <div class="signup-content">
-        <div class="signup-title pull-left">Sign-Up For Exclusive Offers</div>
-   <div class="form-inline pull-right">
    
-          <div class="form-group" style="width: 250px;">
-		 
-            <label class="sr-only" for="em">Email address</label>
-            <input id="em" type="email" class="form-control" placeholder="Join our email list">
-		
-          </div>
-          <button type="submit" class="btn btn-default" onclick="signup_by_email();">Sign in</button>
-      </div>
-      </div>
-	 
-      </div>
-	   	  
-	  
-	  
-    </div>
-    <div class="row" style="padding-top: 0px; padding-bottom: 15px;padding-top:15px;border-bottom: 2px solid #461D5E;">
+    <div class="row" style="padding-top: 0px; padding-bottom: 15px;padding-top:15px;border-bottom: 2px solid #461D5E; border-top: 2px solid #461D5E;">
       <div class="col-xs-2">
         <ul class="list-unstyled ft-header">
           <li><a href="http://purplle.com/about-us.html">About us</a></li>
@@ -3287,7 +3031,7 @@ body {font-size: 13px;}
       </div>
       <div class="col-xs-6  text-right fnt-sz" style="margin-top: -7px;line-height: 5px;">
         <h5 class="fnt-sz">Copyright © 2014 Purplle. All Rights Reserved. </h5>
-        <p class="fl_right"><a href="http://purplle.com/disclaimer.html">Disclaimer</a> | <a href="http://purplle.com/privacy-policy.html">Privacy policy</a> | Sitemap <a href="http://purplle.com/sitemap.xml">xml</a></p>
+        <p class="fl_right"><a href="http://purplle.com/terms-and-condition.html">Terms Of Use</a> | <a href="http://purplle.com/disclaimer.html">Disclaimer</a> | <a href="http://purplle.com/privacy-policy.html">Privacy policy</a> | Sitemap <a href="http://purplle.com/sitemap.xml">xml</a></p>
       </div>
     </div>
   </div>
@@ -3312,137 +3056,6 @@ margin: 0 0 15px;
 </style>
  
 
-<div class="modal fade" id="review_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog" style="width:1000px;">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h4 class="modal-title" id="myModalLabel">Write A Review</h4>
-      </div>
-      <div class="form-horizontal modal-body">
-	  <form action="http://purplle.com/comment/add" id="review_submit_form" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="b32fdb6ff941e8ef28a0f3201511cad5">
-</div>
-		<div id="user_rating_div">
-			<input id="user_rating_value" type="hidden" name="user_rating_value" value="">
-			<input id="rate_check" type="hidden" name="rate" value="">
-
-			<input type="hidden" name="module" value="product">
-			<input id="module_id" type="hidden" name="module_id" value="">
-			<input type="hidden" name="next" value="product/#review-form">
-		</div>
-	
-		
-		<div class="form-group" id="rating_stars_2">
-    <label for="rating" class="col-xs-2 control-label">Please rate:</label>
-    <div class="col-xs-2">
-      <fieldset class="rating">			
-			<input type="radio" id="star5" name="rating_" value="5"><label for="star5" title="Awesome!" onclick="setstarvalue(5,)">5 stars</label>
-			<input type="radio" id="star4" name="rating_" value="4"><label for="star4" title="Very Good" onclick="setstarvalue(4,)">4 stars</label>
-			<input type="radio" id="star3" name="rating_" value="3"><label for="star3" title="Good" onclick="setstarvalue(3,)">3 stars</label>
-			<input type="radio" id="star2" name="rating_" value="2"><label for="star2" title="Not that bad" onclick="setstarvalue(2,)">2 stars</label>
-			<input type="radio" id="star1" name="rating_" value="1"><label for="star1" title="Very poor" onclick="setstarvalue(1,)">1 star</label>
-			</fieldset>
-    </div>
-  </div>
-  
-  <div class="form-group">
-    <label for="inputEmail3" class="col-xs-2 control-label"><em>*</em> Review Title:</label>
-    <div class="col-xs-10">
-      <input type="email" class="form-control input-sm" id="title" name="title">
-    </div>
-  </div>
-  
-    <div class="form-group">
-    <label for="inputEmail3" class="col-xs-2 control-label"><em>*</em> Your Review:</label>
-    <div class="col-xs-10">
-      <textarea class="form-control" id="comment" name="comment" cols="40" rows="3"></textarea>
-    </div>
-	
-  </div>
-		
-		
-	
-			</form>	
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				<button type="button" class="btn btn-primary" onclick="ajax_review_submit()">Post Review</button>
-				
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-
-
-<div class="modal fade" id="check_delivery_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h4 class="modal-title" id="myModalLabel">Check Serviceability At Your Location</h4>
-      </div>
-      <div class="modal-body">
-	  <form action="http://purplle.com/privacy-policy.html" id="chk_serviceability_form" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="b32fdb6ff941e8ef28a0f3201511cad5">
-</div>
-		<div class="form-group" id="results_section">
-			<label>Enter Your Pincode</label><br>
-			<input type="text" name="user_pincode" id="user_pincode" style="width:100%;">
-		</div>
-		</form>
-		<div class="form-group" id="results_bottom"></div>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-		<button type="button" class="btn btn-primary" value="Verify" name="btnAction" id="search_code" onclick="javascript:search_pincode();">Verify</button>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<div class="modal fade" id="notifyme_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h4 class="modal-title" id="myModalLabel">Notify Me When Product Will Be In Stock</h4>
-      </div>
-      <div class="modal-body" id="notify_body">
-	  <form action="http://purplle.com/privacy-policy.html" id="notifyme_form" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="b32fdb6ff941e8ef28a0f3201511cad5">
-</div>
-		<div class="form-group">
-			<label>Enter Your Email</label><br>
-			<input type="text" name="user_email" id="user_email" style="width:100%;">
-		</div>
-		</form>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-		<button type="button" class="btn btn-primary" onclick="javascript:notifyme();">Submit</button>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<div class="modal fade" id="video_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog" style="width:780px;">
-   <div class="modal-content">
-	  <div class="modal-header">
-		<button type="button" class="close" data-dismiss="modal" onclick="hideproductvideo();" aria-hidden="true">×</button>
-		<h4 class="modal-title" id="video_header">Video</h4>
-	  </div>
-
-      <div class="modal-body" id="video_body">
-	  
-      </div>
-      
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
 <div class="modal fade" id="cart_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog" style="width:1000px;">
    <div class="modal-content">
@@ -3460,144 +3073,8 @@ margin: 0 0 15px;
       
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-<div class="modal fade" id="quick_view" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog" style="width:1000px;">
-   <div class="modal-content">
-	  
-<div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-
-      </div>
-      <div class="modal-body">
-	  
-	  <div class="row">
-		<div class="col-xs-4">
-		<div class="qv-product-image"><img src="http://cdn3.purplle.com/static/img/cache/product/PPLB002209/250x250_1.jpg"></div>		
-		</div>
-		<div class="col-xs-8">
-		<div class="row">
-		<div class="col-xs-12">
-		<div class="qv-product-title"><a href="#">Maybelline Color Changing Lip Balm Peach Blossom SPF 16 (1.7 g)</a></div>
-		</div>
-		</div>
-		<div class="row rate-share">	  
-        <div class="col-xs-4">
-          <div id="rating_stars_1">
-            <fieldset class="rating">
-             <span style="padding-top:6px; display:inline-block">  Rate this:</span>
-              						    
-			<input type="radio" id="star5" name="rating_72270" value="5"><label for="star5" title="Awesome!" onclick="setstarvalue(5,72270)">5 stars</label>
-			<input type="radio" id="star4" name="rating_72270" value="4"><label for="star4" title="Very Good" onclick="setstarvalue(4,72270)">4 stars</label>
-			<input type="radio" id="star3" name="rating_72270" value="3"><label for="star3" title="Good" onclick="setstarvalue(3,72270)">3 stars</label>
-			<input type="radio" id="star2" name="rating_72270" value="2"><label for="star2" title="Not that bad" onclick="setstarvalue(2,72270)">2 stars</label>
-			<input type="radio" id="star1" name="rating_72270" value="1"><label for="star1" title="Very poor" onclick="setstarvalue(1,72270)">1 star</label>
-			            </fieldset>
-          </div>
-        </div>
-		<div class="col-xs-3">
-  <div style="padding-top:9px;">
-<i class="fa fa-pencil"></i> &nbsp;<a href="#review_modal" data-toggle="modal">Write A Review</a></div></div>
-
-		<div class="col-xs-4 text-right">
-  <ul class="list-inline">
-	<li>Share: </li>
-	<li><a href="javascript:pshare('f')"><i class="fa fa-facebook-square fa-2x" style="color: #1e407d;"></i></a></li>
-	<li><a href="javascript:pshare('t')"><i class="fa fa-twitter-square fa-2x" style="color: #1ab7ea;"></i></a></li>
-	<li><a href="javascript:pshare('g')"><i class="fa fa-google-plus fa-2x" style="color: #cb2028;"></i></a></li>
-	<li><a href="javascript:pshare('p')"><i class="fa fa-pinterest-square fa-2x" style="color: #cb2028;"></i></a></li>
-	
-	<!--
-	<li style="padding-left:0;" class="fb"><span class='st_facebook' st_url=""></span></li>
-	<li class="tw"><span class='st_twitter' st_url=""></span></li>
-	<li class="pi"><span class='st_pinterest' st_url=""></span></li>
-	&nbsp;
-	<li class="rss"><span class='st_plusone' st_url=""></span></li>
-	-->
-  </ul>
-</div>
-
-			
-						
-						
-
-        
-      </div>
-	  <div class="sep" style="margin-bottom:20px;"></div>			
-						
-		<div class="qv-product-detail">
-		<ul><li style="list-style-type:disc;">With Color Sensational Lip Smooth Balm, It's now easier than you think to get luscious and healthy lips for that dazzling smile</li><li style="list-style-type:disc;">This yummy plumy Lip Smooth Balm is always there for you If you're having lip trouble like chapped lip</li><li style="list-style-type:disc;">Revitalizes dry / dull lips</li><li style="list-style-type:disc;">Gives moisturizing shine</li><li style="list-style-type:disc;">Softnes and smoothens lips with SPF – 16</li><li style="list-style-type:disc;">Dermatologically tested</li></ul>
-		</div>
-		<div class="qv-price">
-		<div class="product-price"> 
-			  <div>
-				  <span class="cut-price lght-clr"><s>MRP&nbsp;150</s></span>  
-				  <span class="discount-amt in-stock">Save <!--<i class="fa fa-inr"></i>-->10 %</span>  				  <span class="normal-price d-b"><i class="fa fa-inr"></i>135</span>
-				  <span class="small mute d-b">Inclusive Of All Taxes</span>
-			  </div> 
-			 
-			  </div>
-			  <div class="qv-btn"><button onclick="addtochkcart(72270,'PPLB002205','http://purplle.com/product/maybelline-baby-lips-coral-flush-4-g');" class="btn btn-cart btn-lg" type="button" id="dn_128"><!-- <i class="fa fa-plus"></i> --> 
-              <span id="salon_rating"> BUY NOW</span> </button></div>
-		
-		</div>
-		
-		</div>
-	  </div>
-		
-      </div>
-     
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-<div class="modal fade" id="sharereview" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h4 class="modal-title">Share Your Review With Friends</h4>
-      </div>
-      <div class="modal-body">
-	  <div class="row">
-	  <div class="col-md-3">
-	  </div>
-	  <div class="col-md-5">
-	 <div style="padding:4px;display:inline;">Share: </div>
-			<div style="padding:4px;display:inline;"><a href="" onclick="share('f','http://purplle.com/privacy-policy.html','','','','');" class="shr-link-f"><i class="fa fa-facebook-square fa-2x" style="color: #1e407d;"></i></a></div>
-			<div style="padding:4px;display:inline;"><a href="" onclick="share('t','http://purplle.com/privacy-policy.html','','','','');" class="shr-link-t"><i class="fa fa-twitter-square fa-2x" style="color: #1ab7ea;"></i></a></div>
-			<div style="padding:4px;display:inline;"><a href="" onclick="share('g','http://purplle.com/privacy-policy.html','','','','v');" class="shr-link-g"><i class="fa fa-google-plus fa-2x" style="color: #cb2028;"></i></a></div>
-			<div style="padding:4px;display:inline;"><a href="" onclick="share('p','http://purplle.com/privacy-policy.html','','','','');" class="shr-link-p"><i class="fa fa-pinterest-square fa-2x" style="color: #cb2028;"></i></a></div></div>
-	</div>
-	</div>
-      </div>
-    <!--  <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">close</button>
-      </div>-->
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-<!-- /.modal -->   
-
-<div class="modal fade" id="samples_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog" style="width:1200px;">
-    <div class="modal-content">
-      
-      <div class="modal-body" style="height:580px;">
-	   <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-	Samples
-	
-	<div class="row" id="sample_list">
-	
-	</div>
-      </div>
-     
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->  
-<div class="live-chat">
-	<!-- 
-	<a href="/live-support/client.php?locale=en" target="_blank" onclick="if(navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('/live-support/client.php?locale=en&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'webim', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;return false;"><img src="/live-support/b.php?i=webim&amp;lang=en" border="0" width="163" height="61" alt=""/></a>
---></div>
+
 <script type="text/javascript">
 $( document ).ajaxComplete(function() {
  ini_popover();
@@ -4002,10 +3479,10 @@ $( ".shr-link-g" ).click(function() {
 <!-- Google Code for Mail List -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <form action="http://purplle.com/privacy-policy.html" id="recotm_form" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="b32fdb6ff941e8ef28a0f3201511cad5">
+<input type="hidden" name="csrftoken" value="19daa403fed896c060ea42a7264adae4">
 </div></form>
 <form action="http://purplle.com/privacy-policy.html" id="reco_form" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="b32fdb6ff941e8ef28a0f3201511cad5">
+<input type="hidden" name="csrftoken" value="19daa403fed896c060ea42a7264adae4">
 </div></form>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -4163,7 +3640,7 @@ var google_remarketing_only = true;
 
 <div class="seg"></div>
 <form action="http://purplle.com/privacy-policy.html" id="login-form" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="b32fdb6ff941e8ef28a0f3201511cad5">
+<input type="hidden" name="csrftoken" value="19daa403fed896c060ea42a7264adae4">
 </div>
 
 <div class="form-inline">
@@ -4221,7 +3698,7 @@ var google_remarketing_only = true;
 	
 <div id="modal_register" style="display:none;">
 	<form action="http://purplle.com/privacy-policy.html" id="reg-popup-form" method="post" accept-charset="utf-8"><div style="display:none">
-<input type="hidden" name="csrftoken" value="b32fdb6ff941e8ef28a0f3201511cad5">
+<input type="hidden" name="csrftoken" value="19daa403fed896c060ea42a7264adae4">
 </div>
 
 
@@ -5509,8 +4986,9 @@ $( document ).ajaxComplete(function(event, xhr, settings) {
 function search_on(){
 	var searchvalue = $("#search_key").val();
 	if(searchvalue){
-				window.location.href = "/search?q=" + searchvalue;
-			}
+		window.location.href = "/search?q=" + searchvalue;
+		
+	}
 }
 function signup_by_email(){
 	var email = $('#em').val();
@@ -5738,46 +5216,9 @@ src="https://www.facebook.com/tr?id=478378068930462&amp;ev=NoScript" /></noscrip
     }
 })();
 </script>
-<!-- Start of Betaout Code -->
-<script type="text/javascript">
-var API_Key = "mas2baysz4gu8h6jy25jhjzl7hsszhxe7o8hc4zod4";
-var Project_Id = "10582";
-var AmplifyConnect_Widget = true;var Amplify={}; var shareTracking = true;var urlTracking = true;function _amplify(u) {var d = document, f = d.getElementsByTagName("script")[0],_sc = d.createElement("script");_sc.type = "text/javascript";_sc.async = true;_sc.src = u;f.parentNode.insertBefore(_sc, f);var __d = false;_sc.onload = _sc.onreadystatechange = function() {if (!__d && (!this.readyState || this.readyState === "loaded" || this.readyState === "complete")) {__d = true;Amplify = new AmplifyEngine();}};}_amplify("//d3oa6jk77hlbow.cloudfront.net/tejas.min.js");window.amplifyInit = function() {
-	Amplify.identify({
-	  "email": "",
-	  "name": ""
-	});
-};
-</script>
-<script type="text/javascript">
-window.amplifyInit = function() {
-  
-};
-</script>
-<script type="text/javascript">
-function recevent(type,product_id){
-	
-	if(type == 'add_to_cart' || type == 'removed_from_cart'){
-		Amplify.customerActivity('',
-			type, {
-			'products': [{
-				'productId': product_id,
-			}],
-			'cartInfo': {
-			}
-		});
-	}else if(type == 'add_to_wishlist'){
-		Amplify.addEvent('',
-			type, {
-			'products': [{
-				'productId': product_id,
-			}],
-		});
-	}
-}
-</script><!-- End of Betaout Code -->
+
 	<script type="text/javascript">  
-var __uzdbm_a = "ae81ed9d-2db1-5fbc-c5e6-5ccef5f607ac";   
+var __uzdbm_a = "ae81ed9d-2db1-8f0b-cba3-ac3d1d483fcd";   
 var __uzdbm_b = "/getData.php"; 
 var __uzdbm_c = 2+2;
  </script> 
