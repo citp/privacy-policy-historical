@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123121209id_/http%3A//greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507042535id_/http%3A//greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
 
 # Green Coffee Association - Privacy Policy
 
@@ -30,11 +30,17 @@ We are committed to conducting our business in accordance with these principles 
 
 #### Upcoming Event
 
+#### "Good Coffee Men" Screening
+
+May 20, 2015
+
+[Learn More](http://greencoffeeassociation.org/index.php/store#!/Good-Coffee-Men-Screening/p/49652236/category=12878020)
+
+#### Recent Events
+
 #### GCA Holiday Party
 
 December 5, 2014
-
-#### Recent Events
 
 #### GCA ANNUAL GOLF OUTING & DINNER
 
@@ -47,12 +53,6 @@ September 9, 2014
 June 18, 2014
 
 [DETAILS](http://greencoffeeassociation.org/announcements/details/gca_webinars)
-
-#### GCA 2014 Convention
-
-June 4-6, 2014
-
-[DETAILS](http://greencoffeeassociation.org/announcements/details/2014_gca_convention)
 
 #### Become a Member
 
