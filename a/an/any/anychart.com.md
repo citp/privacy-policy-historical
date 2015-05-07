@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the anychart.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025012653id_/http%3A//anychart.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anychart.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507130541id_/http%3A//www.anychart.com/privacy) for the most accurate reproduction.*
 
-# 
-
-[www.anychart.com](http://www.anychart.com/)
+# AnyChart | Privacy Policy
 
 At AnyChart, we respect your privacy. We're committed to protecting it using every means we can. In this privacy policy, we inform you about how we use the information that we collect from you. Information here refers to two types of data that we collect - General Statistical Information and Personal Identifying Information.
 
@@ -32,7 +30,7 @@ We may disclose your Personal Identifying Information to appropriate third parti
 
   1. Comply with legal processes such as a search warrant, subpoena, or court order;
   2. Protect our rights and property; or
-  3. Protect against misuse or unauthorised use of our web site and/or AnyChart software products.
+  3. Protect against misuse or unauthorised use of our web site and/or AnyChart software products. 
 
 
 
