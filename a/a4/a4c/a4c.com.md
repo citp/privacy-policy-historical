@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a4c.com privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824025634id_/http%3A//www.a4c.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4c.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507140959id_/http%3A//www.a4c.com/privacy) for the most accurate reproduction.*
 
-# A4C.com: Privacy Policy
+# Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -17,3 +17,5 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+Loading...
