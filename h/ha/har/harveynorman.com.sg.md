@@ -1,90 +1,106 @@
-> *The following text is extracted and transformed from the harveynorman.com.sg privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030032242id_/http%3A//www.harveynorman.com.sg/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.com.sg privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507213500id_/http%3A//www.harveynorman.com.sg/corporate-information/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Harvey Norman Singapore
 
-This Privacy Policy is applicable to Pertama Merchandising Pte. Ltd. (trading as Harvey Norman in the Republic of Singapore) (hereinafter referred to as “our”, “us”, “we”). The name, “Harvey Norman”, and the Harvey Norman logo are registered trade marks of Harvey Normal Holdings Ltd (the “Licensor”) and are used by us under licence granted by the Licensor.
+This is the _PERTAMA MERCHANDISING PTE LTD_ Personal Data Protection Policy (“Personal Data Protection Policy”) and the purpose of this document is to inform you of PERTAMA MERCHANDISING PTE LTD manages, collects, uses and discloses your Personal Data, which is subject to the Singapore Personal Data Protection _Act (2012)_ (“the Act”). This Privacy Policy outlines COMAPNY’s policy and responsibility in relation to the collection, use and disclosure of Customer Data. By continuing to use PERTAMA MERCHANDISING PTE LTD’s services, you signify that you have read, understood and agree to be bound by this Privacy Policy as amended from time to time in respect of _PERTAMA MERCHANDISING PTE LTD’s c_ ollection, use and disclosure of your Customer Data. This Privacy Policy is divided into two Parts – A and B: 
 
-**About Our Privacy Policy**
-
-This Privacy Policy explains how we manage your personal information that we collect about you. Please read this Privacy Policy before using the website at [www.harveynorman.com.sg](http://www.harveynorman.com.sg/) (the "Website") or before you submit any personal information to us.
-
-By using the Website, you are accepting the practices described in this Privacy Policy. This Privacy Policy is incorporated into, forms part of and is subject to the [Terms and Conditions](https://web.archive.org/terms-and-conditions.html) of the Website. Your use of this Website and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and [Terms and Conditions](https://web.archive.org/terms-and-conditions.html). In particular, you must be of the age of majority in order to use the Website. By using our Website, you are confirming that you meet the minimum age requirement.
-
-You are encouraged to review this Privacy Policy whenever you visit the Website to make sure that you understand how any personal information you provide will be used.
-
-**Collection of Your Personal Information**
-
-We and/or our third party service providers may collect your personal information:
-
-  1. directly from you;
-  2. when you register as a member of the Website;
-  3. where you access and interact with the Website; or
-  4. from other sources. 
+  * Part A: General Customer Data Privacy Policy Statement
+  * Part B: Privacy Policy Statement for Customer Data collected through PERTAMA MERCHANDISING PTE LTD’s websites 
 
 
 
-The information collected from you may include personally identifiable information (such as your name, NRIC/passport or other personal identification number, postal or e-mail addresses and telephone numbers) and personal content preferences.
-
-**Our Use of Cookies**
-
-A cookie is a small piece of text that is placed within the memory of a computer and can be later retrieved by web page servers. We use cookies to enhance your interaction and convenience with the Website and do not use cookies to record any personal information.
-
-Cookies may record information about your visit, including the type of browser and operating system you use, the previous site you visited, your server’s IP address, the pages you access and the information downloaded by you. While this anonymous statistical data may be aggregated and used in broader statistical analysis by us and our web monitoring service provider to improve our services, at no time can we personally identify you as the source of that data.
-
-**Use and Disclosure of Personal Information**
-
-You acknowledge and consent that by providing your personal information to us that we may use and disclose your personal information for the purposes for which it was collected or for a related or ancillary purpose such as:
-
-  1. to carry out or respond to your requests;
-  2. to our third party service providers to assist us in providing and improving our services to you, and to analyse and better understand our customer’s needs or to develop, improve and market our products and services to you;
-  3. for regulatory reporting and compliance with our legal obligations;
-  4. to various regulatory bodies and law enforcement officials and agencies to protect against fraud and for related security purposes;
-  5. to our third party service providers to include in a database compiled by us or our third party service provider for use in direct marketing of promotions, product and services we think may interest you;
-  6. to seek your feedback in relation to customer satisfaction and our relationship with you;
-  7. to the Licensor and our related companies for internal accounting and administration;
-  8. to monitor or improve the quality and standard of service provided to you by the Website;
-  9. to our successors and/or assigns;
-  10. to provide offers that may be of interest to you; and
-  11. to better understand your preferences.
 
 
 
-Our third party service providers are organisations that include those that may assist us with research, mail and delivery, security, professional advisory, banking, payment processing or technology services. Where we engage third party service providers to perform services for us those third parties may be required to handle your personal information. Under these circumstances those third parties must safeguard this information and must only use it for the purposes for which it was supplied, although we are not responsible for ensuring this.
+**1\. Types of Customer Data**
 
-Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
 
-Any handling of personal information authorised or required by law will take priority over this Privacy Policy to the extent of any inconsistency.
 
-**Providing Personal Information About Another Person**
 
-You represent to us that where you provide personal information to us about another person, you are authorised to provide that information to us, and that you will inform that person who we are, how we use and disclose their information, and that they can gain access to that information.
+The types of Customer Data that PERTAMA MERCHANDISING PTE LTD collects depend on the circumstances of collection and on the nature of the service requested or transaction undertaken. There are two broad categories of Customer Data that PERTAMA MERCHANDISING PTE LTD collects: 
 
-**Securing Your Personal Information**
+    * Personal Data, which includes but is not limited to -  
 
-We have implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction. Access to your personal information is limited to those who specifically need it to conduct their responsibilities.
+    * (i) personal information that links back to an individual e.g., name gender, date of birth, NRIC or other personal identification numbers;  
 
-We and our third party service providers take reasonable steps to destroy or permanently de-identify your personal information where it is no longer required and to protect your personal information from unauthorised access, disclosure, loss, misuse and alteration.
+    * (ii) contact information e.g., address, phone number, email address;  
 
-**Accuracy and Access to Personal Information**
+    * (iii) technical information e.g., IP address; and  
 
-We take reasonable steps to ensure that the information we hold about you is accurate, complete and up-to-date. To assist us to do this, please provide us with the correct information and inform us if your details change. You may update your details at any time by [contacting us](https://web.archive.org/contact-harveynorman.html/).
+    * Statistical Data e.g., number of visitors, to website. This is stored purely for analytical purposes, and is entirely anonymous. This information will not be stored to your customer record, and will only be aggregated for statistical analysis so that we can better understand PERTAMA MERCHANDISING PTE LTD's customer profile and improve PERTAMA MERCHANDISING PTE LTD's service offering.
 
-**Linked Sites**
 
-This Website may contain links to websites which are owned or operated by other parties. You should make your own enquiries as to the privacy policies of these parties. We are not responsible for information on, or the privacy practices of, such websites.
 
-**Transmission of Your Data**
+For purposes of this policy statement, the phrase Customer Data includes Personal Data and Statistical Data. The provision of Customer Data (save for where the request for data ismarked “optional” in the forms used to collect personal data) is obligatory in order for PERTAMA MERCHANDISING PTE LTD to carry out its services to you. The failure to supply such Customer Data may result in (i) PERTAMA MERCHANDISING PTE LTD being unable to provide you with the services and/or products requested; (ii) PERTAMA MERCHANDISING PTE LTD being unable to update you on our latest products and/or launches; and/or (iii) your inability to enter or participate in contests, promotions or redemption activities organised by PERTAMA MERCHANDISING PTE LTD. 
 
-While care is taken to protect your personal information on the Website, unfortunately no data transmission over the Internet is guaranteed as 100% secure. Accordingly, we cannot ensure or warrant the security of any information you send to us or receive from us online. This is particularly true for information you send to us via email as we have no way of protecting that information until it reaches us.
+Generally, PERTAMA MERCHANDISING PTE LTD collects Customer Data, either directly from you or from third parties (e.g. our service provider), or from publicly available sources, through our website, mobile services, and other channels including our retail outlets, in order to fulfil the following purposes, which include but are not limited to: 
 
-**Changes to our Policy**
+    * Providing services to you such as processing a transaction (e.g., making an order online), providing technical or customer service assistance, assisting you in the transaction through PERTAMA MERCHANDISING PTE LTD’s website; 
+    * Marketing and communicating with you in relation to products and services offered by PERTAMA MERCHANDISING PTE LTD, PERTAMA MERCHANDISING PTE LTD’s service partners, as well as PERTAMA MERCHANDISING PTE LTD’s appointed agents;
+    * Contacting you for product or customer satisfaction surveys and market research; 
+    * Safety, security and legal compliance.
 
-From time to time it may be necessary for us to review and revise this Privacy Policy. We reserve the right to change this Privacy Policy at any time. Amendments or replacements of the Privacy Policy will be posted on the Website.
 
-**Direct Marketing**
 
-You consent for your personal information to be included in a database for use in direct marketing by us and our related entities or our third party contractors. If you do not wish to receive marketing material from us, you can opt-out or unsubscribe, by [contacting us](https://web.archive.org/contact-harveynorman.html/). All emails, SMS and newsletters from this Website allow you to opt-out of further mailings by clicking on the link or responding “unsubscribe”.
+PERTAMA MERCHANDISING PTE LTD may also use and disclose your Customer Data with and to third parties in order to fulfil the purposes listed above. PERTAMA MERCHANDISING PTE LTD shall use its best endeavours to ensure that its employees, officers, agents, consultants, contractors and such other third parties mentioned above who are involved in the collection, use and disclosure of Customer Data will observe and adhere to the terms of this Privacy Policy. PERTAMA MERCHANDISING PTE LTD may disclose your Customer Data to law enforcement agencies and government for security, customs and immigration purposes. 
 
-**Interpretation**
+In addition, PERTAMA MERCHANDISING PTE LTD may disclose Customer Data to our legal advisors for establishing, exercising or defending our legal rights, to our other professional advisors, or as otherwise authorised or required by law. PERTAMA MERCHANDISING PTE LTD also reserves the right to share Customer Data as is necessary to prevent a threat to the life, health or security of an individual or corporate entity such as PERTAMA MERCHANDISING PTE LTD. Further, PERTAMA MERCHANDISING PTE LTD may disclose Customer Data, as is necessary, to investigate suspected unlawful activities including but not limited to fraud, intellectual property infringement or privacy. 
 
-All defined terms in this Privacy Policy shall have the same meaning in this Privacy Policy as is given to those terms in the [Terms and Conditions](https://web.archive.org/terms-and-conditions.html) of this Website.
+The PERTAMA MERCHANDISING PTE LTD Office is based in Singapore. Customer Data may be transmitted to data storage where PERTAMA MERCHANDISING PTE LTD keeps its central records. Customer Data may be transferred to PERTAMA MERCHANDISING PTE LTD’s offices and appointed agents in Singapore or other countries in connection with PERTAMA MERCHANDISING PTE LTD’s performance of the contract with you. 
+
+Generally, in the course of PERTAMA MERCHANDISING PTE LTD performing transactional functions such as making an order online, Customer Data will, by nature of the task or transaction, be provided by our customers to PERTAMA MERCHANDISING PTE LTD. In such instances, consent will necessarily be implied from the Customer that they are agreeable to providing Customer Data in order for PERTAMA MERCHANDISING PTE LTD to provide the requested or necessary service and/or product to them. However, where required by law, PERTAMA MERCHANDISING PTE LTD will adopt an ‘opt-in' policy for obtaining customer consent, in which event, express written consent will be sought from you when collecting your Customer Data e.g., signing a form or checking a box. Where you make reservations on behalf of another person, you undertake and will ensure that the individual whose Customer Data is supplied to PERTAMA MERCHANDISING PTE LTD has authorized the disclosure, is informed of and consents to the terms and conditions of this Privacy Policy. You may submit a request to withdraw your consent at any time by contacting PERTAMA MERCHANDISING PTE LTD (see Section 10). Statistical Data is not linked to a customer record and PERTAMA MERCHANDISING PTE LTD does not need to seek consent for the collection, use or disclosure of Statistical Data. For more information on the collection and usage of Customer Data obtained from PERTAMA MERCHANDISING PTE LTD’s websites facility, please refer to Part B. 
+
+PERTAMA MERCHANDISING PTE LTD will, upon your written request to our Data Protection Department (see Section 10), allow you to view your stored Personal Data. Where permitted by law, PERTAMA MERCHANDISING PTE LTD reserves the right to charge a reasonable administrative fee for this service. In exceptional circumstances, PERTAMA MERCHANDISING PTE LTD reserves the right to deny you access to your Personal Data and may provide an explanation as required by applicable laws. Exceptional circumstances include where: 
+
+    * An investigating authority or government institution objects to PERTAMA MERCHANDISING PTE LTD complying with a customer’s request,
+    * The information may, in the exercise of PERTAMA MERCHANDISING PTE LTD’s reasonable discretion and/or assessment, affect the life or security of an individual, and
+    * Data is collected in connection with an investigation of a breach of contract, suspicion of fraudulent activities or contravention of law.
+
+
+
+To submit a written request to Customer Affairs Department to access your Personal Data, please email us at 
+
+**[HN-DPO@harveynorman.com.sg](mailto:HN-DPO@harveynorman.com.sg).**
+
+PERTAMA MERCHANDISING PTE LTD will retain Customer Data for as long as it is necessary to fulfil the purpose for which it was collected, the legal or business purposes of PERTAMA MERCHANDISING PTE LTD, or as required by relevant laws. When destroying Customer Data, we will take commercially reasonable and technically possible measures to make the personal information irrecoverable or irreproducible in accordance with the applicable laws. 
+
+PERTAMA MERCHANDISING PTE LTD needs your assistance to ensure that your Personal Data is current, complete and accurate. As such, please inform PERTAMA MERCHANDISING PTE LTD of changes to your Personal Data by contacting PERTAMA MERCHANDISING PTE LTD and submitting your updated particulars to PERTAMA MERCHANDISING PTE LTD in writing (see Section 10). 
+
+PERTAMA MERCHANDISING PTE LTD may also request Personal Data updates from you from time to time. As detailed in Section 2 above under the “Purposes for Collection, Use and Disclosure” sub-section, your delivery address may be disclosed to the appropriate delivery fulfilment companies. As such, it is important to ensure that the Personal Data contained in your order confirmation is current, complete and accurate. 
+
+PERTAMA MERCHANDISING PTE LTD takes the security and protection of your Customer Data very seriously. As such, PERTAMA MERCHANDISING PTE LTD makes reasonable security arrangements to protect your Customer Data against loss or theft as well as unauthorised access and undue disclosure. Examples of technical safeguards include encryption, Network and Web Application Firewalls ,“firewalls” and Secure Socket Layer (SSL). Further details of these technical safeguards for Customer Data collected through PERTAMA MERCHANDISING PTE LTD’s websites facility are set out at Part B below. If, however, a customer does not take reasonable care to ensure the continued confidentiality and accuracy of their Customer Data, PERTAMA MERCHANDISING PTE LTD will not be liable for any consequential misuse and/or fraud. If you have any concerns about security, you should contact PERTAMA MERCHANDISING PTE LTD (see Section 10). 
+
+PERTAMA MERCHANDISING PTE LTD will amend this Privacy Policy from time to time and the updated versions will be posted on PERTAMA MERCHANDISING PTE LTD’s website and date stamped so that you are aware of when the Privacy Policy was last updated. Subject to applicable laws, the English version of this Privacy Policy will prevail over any version of this Privacy Policy in another language. In the event of any inconsistency in interpretation between the English version and any translation of the Privacy Policy, this Privacy Policy statement in English will prevail. 
+
+If you have comments, questions or complaints about or requests relating to this Privacy Policy statement, please contact PERTAMA MERCHANDISING PTE LTD in writing at the address below referencing ‘Privacy Policy': 
+
+**D** **ATA PROTECTION OFFICER**
+
+Poon Chun Onn / Tang Shir Li 
+
+**Pertama Merchandising Pte Ltd**
+
+**315 Outram Road #01-01/02**
+
+**Tan Boon Liat Building**
+
+**Singapore169074 ******
+
+**Or email[HN-DPO@harveynorman.com.sg](mailto:HN-DPO@harveynorman.com.sg)**
+
+**Referencing: Privacy Policy.**
+
+**** 
+
+
+PERTAMA MERCHANDISING PTE LTD takes the protection of your Customer Data collected on PERTAMA MERCHANDISING PTE LTD’s websites very seriously. All Customer Data collected through PERTAMA MERCHANDISING PTE LTD’s websites, e.g., [ http://www.harveynorman.com.sg ](http://www.harveynorman.com.sg/) are protected by a secure server. In addition, SSL (Secure Socket Layer) protects the transmission of data from the internet to our systems. To further strengthen the integrity of your internet transactions on our websites, PERTAMA MERCHANDISING PTE LTD also employs relevant software programs to monitor network traffic with a view to identifying unauthorised attempts to upload or change Customer Data, perpetuate fraudulent or illegal activities or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activities, such evidence may be provided to appropriate law enforcement authorities or agencies without notice to you. To give you secure access to our online services, arising from your utilisation of PERTAMA MERCHANDISING PTE LTD’s website, you can register with us. You should not share your User ID or Password and should always ‘log off' once you have finished your session on the websites as well as take the recommended precautions that ensure the safe and secure provision of PERTAMA MERCHANDISING PTE LTD’s website.
+
+Most websites like ours use cookies to enhance your online experience. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive from your web browser to recognise your preferences and to tailor content to you. The cookies do not contain your Customer Data but only Statistical Data which is entirely anonymous. Please refer to your browsers documentation to check if cookies have been enabled on your computer or to request not to receive cookies. Information and procedures regarding cookie handling are provided by the respective browsers documentation within the browser itself by clicking on ‘help' and performing a search on ‘cookies'.
+
+In order to improve your online experience, PERTAMA MERCHANDISING PTE LTD may track online behaviour or clickstream data to advance your use of our web pages and track referrals from other websites. Such data will not be stored to your customer record, and will only be aggregated for statistical analysis.
+
+PERTAMA MERCHANDISING PTE LTD provides you with links to other websites for your convenience and information. You access these websites at your own risk and PERTAMA MERCHANDISING PTE LTD is not responsible for these websites. Whilst PERTAMA MERCHANDISING PTE LTD will protect your Customer Data on PERTAMA MERCHANDISING PTE LTD websites, PERTAMA MERCHANDISING PTE LTD cannot control or be responsible for the policies of other sites we may link to, or the use of any Customer Data you may share with them. Please note thatthe PERTAMA MERCHANDISING PTE LTD Privacy Policy does not cover these other websites, and PERTAMA MERCHANDISING PTE LTD would recommend that you are apprised of their specific policies.
+
+PERTAMA MERCHANDISING PTE LTD cannot distinguish the age of persons who access and use its websites. If a minor (according to applicable laws) has provided PERTAMA MERCHANDISING PTE LTD with Customer Data without parental or guardian consent, the parent or guardian should contact PERTAMA MERCHANDISING PTE LTD (see Section 10 of Part A) to remove the relevant Customer Data and unsubscribe the minor.
+
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [ www.harveynorman.com.sg, ](http://www.harveynorman.com.sg%2C/) to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. For more details, please refer to [Google’s Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
