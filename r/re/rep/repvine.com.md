@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repvine.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102051539id_/http%3A//repvine.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repvine.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507061713id_/http%3A//repvine.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Repvine
 
