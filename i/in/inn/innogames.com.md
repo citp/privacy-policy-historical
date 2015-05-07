@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innogames.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231074923id_/http%3A//legal.innogames.com/portal/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innogames.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507072602id_/http%3A//legal.innogames.com/portal/en/privacy) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
