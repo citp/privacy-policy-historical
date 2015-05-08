@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iyogi.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823051839id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508064402id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy: iYogi
 
-This privacy policy explains how iYogi Inc ("iYogi") collects, uses and discloses personal and other information iYogi receives in connection with the user support services we provide to user (the "Services") in accordance with the Terms of Use (<http://www.iyogi.net/terms.html>). When you submit information through our website, email, chat session, provide it to our technicians or, use the Services, you(the "user") agree to our use of this information consistent with this privacy policy.
+This privacy policy explains how iYogi Inc ("iYogi") collects, uses and discloses personal and other information iYogi receives in connection with the user support services we provide to user (the "Services") in accordance with the Terms of Use (<http://www.iyogi.com/terms.html>). When you submit information through our website, email, chat session, provide it to our technicians or, use the Services, you(the "user") agree to our use of this information consistent with this privacy policy.
 
 ###### HOW IYOGI COLLECTS INFORMATION
 
@@ -28,16 +28,13 @@ _Computer and System Information_
 
 We may also ask for information related to your (user) computer to provide the Service. As examples, this information may include:
 
-  * information about the date of purchase of your computer,
-  * type of computer
-  * identification number of your computer
-  * make and model of your computer and/or any computer hardware,
-  * software installed or peripherals attached to it,
-  * condition of the computer,
-  * system and registry data about software installations and hardware configurations, and 
-
-error tracking files.
-
+  * Information about the date of purchase of your computer,
+  * Type of computer
+  * Identification number of your computer
+  * Make and model of your computer and/or any computer hardware,
+  * Software installed or peripherals attached to it,
+  * Condition of the computer,
+  * System and registry data about software installations and hardware configurations, and error tracking files.
 
 
 
@@ -121,4 +118,4 @@ We reserve the right to change our privacy policy. Please check our website peri
 
 ###### QUESTIONS
 
-If you have any questions about our privacy policy you may email questions or inquiries to [feedback@iyogi.net](mailto://feedback@iyogi.net) or [cpo@iyogi.com](mailto://cpo@iyogi.com)
+If you have any questions about our privacy policy you may email questions or inquiries to [feedback@iyogi.com](mailto://feedback@iyogi.com) or [cpo@iyogi.com](mailto://cpo@iyogi.com)
