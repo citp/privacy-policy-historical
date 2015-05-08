@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bg9.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204160720id_/http%3A//www.bg9.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bg9.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508101256id_/http%3A//bg9.com/privacy.html) for the most accurate reproduction.*
 
-# bg9.Com - Privacy Policy
+# bg9.com - Privacy Policy
 
 **Privacy Policy for www.bg9.com**
 
@@ -21,7 +21,7 @@ www.bg9.com does use cookies to store information about visitors preferences, re
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:   
 BURST! Media  
-ValueClick Media  
+Onads Media  
 CPMStar  
 
 
