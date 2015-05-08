@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theitdepot.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014617id_/http%3A//www.theitdepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitdepot.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508185734id_/http%3A//www.theitdepot.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,4 +62,4 @@ Customers may change or review their stored account information such as street a
 
 The Privacy Policy contained herein became officialy effective Jan 6th, 2007. Theitdepot.com
 
-Email:sales@theitdepot.com
+Email: sales@theitdepot.com
