@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smaato.net privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514053011id_/http%3A//www.smaato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smaato.net privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508102513id_/https%3A//www.smaato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ We do not share your personally identifiable information with other third-party 
 
 You have access to your personal information and you may update, correct, or delete your member information and email preferences at any time by logging-in to your account and changing the information on file or by e-mailing Smaato at support(at)smaato(dot)com with your request. To protect your privacy and security, we take reasonable steps to verify your identity before granting Users profile access. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
-Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly collect personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent. Any person who provides their personal information to Smaato through the Smaato Site represents that they are 13 years of age or older.
+Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly collect personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent (hereafter “Children Information”). If we will become aware that Smaato has collected or received such Children Information without requesting or receiving prior parent consent, we will use reasonable efforts to remove such information from Smaato’s records.
 
 Smaato may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Smaato Site. These third-party ad servers or ad networks may use technology to send, directly to your browser, the advertisements and links that appear within the Smaato Site. They may automatically receive your IP Address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content.
 
@@ -45,3 +45,28 @@ If Smaato should ever file for bankruptcy or have its assets or stock sold to or
 We may occasionally update this Privacy Policy. When we do, we will also revise the “Last Updated” section below. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of your personal information going forward, we will notify you via the most recent email address that we have on file, if any, and we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the Smaato Site constitutes your agreement to this Privacy Policy and any updates.
 
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at privacy(a)smaato(dot)com, or call us at +1 (650) 286-1198 (AMERICAS), +49 (0)40 3480 9490 (EMEA) and +65 3157 1444 (APAC).
+
+#### Sign up to use Smaato’s global platform to access advertising inventory in all countries
+
+### NEWSLETTER
+
+Sign Up for the Publisher Newsletter
+
+### INTERNATIONAL OFFICES
+
+[](https://web.archive.org/web/20150508102513id_/https%3A//www.smaato.com/contacts/)  
+[](https://www.smaato.com/)
+
+SPX
+
+The Smaato Publisher Platform
+
+[Login](https://spx.smaato.com/publisherportal/pages/login.xhtml?promo=W_Smaato)
+
+Smaato
+
+Legacy Smaato Portal
+
+Accounts created before January 15, 2015
+
+[Login          __](https://my.smaato.com/selfservice/showlogin.do?promo=W_Smaato)
