@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zeldawiki.org privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015162249id_/http%3A//zeldawiki.org/Zelda_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeldawiki.org privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509011922id_/http%3A//zeldawiki.org/Zelda_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Zelda Wiki:Privacy policy - Zelda Wiki
-
-The wiki needs YOUR help!! You can help the Zelda Wiki be the most comprehensive resource on everything _Hyrule Warriors_ -related, from expanding short articles, to uploading images, or even by marking articles needing to be improved! Even if writing isn't your forte, there's tons of ways you can help out. Find out more on how you can help [here!](http://www.zeldauniverse.net/forums/zelda-wiki-central/176189-hyrule-warriors-is-out-and-the-wiki-needs-your-help.html) There is much work to be done, so pick an [item](https://web.archive.org/Items_in_Hyrule_Warriors "Items in Hyrule Warriors"), [stage](https://web.archive.org/Stages_in_Hyrule_Warriors "Stages in Hyrule Warriors"), [enemy](https://web.archive.org/Enemies_in_Hyrule_Warriors "Enemies in Hyrule Warriors"), or [boss](https://web.archive.org/Bosses_in_Hyrule_Warriors "Bosses in Hyrule Warriors") and go to town! 
 
 From Zelda Wiki, the Zelda encyclopedia
 
