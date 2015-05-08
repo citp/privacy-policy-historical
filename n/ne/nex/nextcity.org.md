@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextcity.org privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130110755id_/http%3A//nextcity.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextcity.org privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508191050id_/http%3A//nextcity.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Next City
 
@@ -10,8 +10,8 @@ Next City collects personal information that you voluntarily provide to us throu
 
   * If you request a subscription or purchase a product, we collect your name, email address and payment information. All credit card and billing address information used to purchase stories or subscriptions is gathered by and stored by Stripe.com. Next City never views your credit card information but may use your billing address information to deduce the regional demographics of our readership.
   * If you post a comment to our Site, we store your email address, username and any personal information provided in your comment.
-  * If you opt in to our weekly e-newsletter, we collect your email address to provide you with Next City’s online content and events.
-  * If you choose to log in to americancity.org through Facebook, Facebook sends us information from your Facebook profile. Do not log in to our Site through Facebook unless you agree that we may collect, store, and use any and all information made available to us through Facebook.
+  * If you opt in to our e-newsletter, we collect your email address and any other information you provide, to contact you with Next City’s content and events.
+  * If you choose to log in to Nextcity.org through Facebook, Facebook sends us information from your Facebook profile. Do not log in to our Site through Facebook unless you agree that we may collect, store, and use any and all information made available to us through Facebook.
 
 
 
@@ -19,7 +19,7 @@ You may choose not to provide this personal information to us, but then we may n
 
 ### Cookies Policy
 
-To enhance your experience on our Site, many of our webpages use “cookies.” Cookies are small text files that we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personal information unless you choose to provide this information to us by, for example, registering on nextcity.org. Once you choose to provide a webpage with personal information, this information may be linked to the data stored in the cookie. A cookie is like an identification card. It is unique to your computer and can only be read by the server that gave it to you.
+To enhance your experience on our Site, many of our webpages use “cookies.” Cookies are small text files that we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personal information unless you choose to provide this information to us by, for example, registering on Nextcity.org. Once you choose to provide a webpage with personal information, this information may be linked to the data stored in the cookie. A cookie is like an identification card. It is unique to your computer and can only be read by the server that gave it to you.
 
 Cookies save you time as they help us to remember who you are. We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience on our web pages (e.g. to recognize you by name when you return to our site). We also may use cookies to offer you products and services. We also use cookies to obtain analytical information related to user pageviews on our website, but this data does not contain personally identifiable information.
 
@@ -29,11 +29,9 @@ You can configure your browser to accept all cookies or to alert you every time 
 
 ### Information We Share and Transfer
 
-Next City retains subscriber emails and names, which may be used for Next City’s marketing purposes and is occasionally made available to carefully screened companies whose products or services may be of interest to our readers. If you would like to be removed from this list, please write to info@nextcity.org with the subject heading “Marketing List Removal.”
+Next City retains subscriber emails and names, which may be used for Next City’s marketing and communication purposes. Next City may occasionally send emails on behalf of carefully screened companies whose products or services may be of interest to our readers. If you would like to be removed from this list, please write to info@nextcity.org with the subject heading “Marketing List Removal.”
 
 In rare instances, we may disclose information about you to a third party if we are required to do so by law or feel that such action is necessary to prevent the misuse of our website, or the personal or public safety of our users or the public.
-
-In the event that Next City changes leadership or sells or transfer all or a part of its assets, we reserve the right to transfer any information we have about you.
 
 ### How We Protect Information
 
@@ -49,7 +47,7 @@ This site is governed by U.S. law. By using the Site, international users agree 
 
 ### For California Users: Your California Privacy Rights
 
-If you are a California resident, we will refrain from sharing your personal information with third parties for their marketing purposes if you send us a request by email to info@americancity.org. All requests must be labeled “Your California Privacy Rights” on the email subject line. For all requests, please clearly state that the request is related to “Your California Privacy Rights,” include your name and either your physical address (street address, city, state and zip code) or your email address. We will not accept requests via the telephone or by fax. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+If you are a California resident, we will refrain from sharing your personal information with third parties for their marketing purposes if you send us a request by email to info@nextcity.org. All requests must be labeled “Your California Privacy Rights” on the email subject line. For all requests, please clearly state that the request is related to “Your California Privacy Rights,” include your name and either your physical address (street address, city, state and zip code) or your email address. We will not accept requests via the telephone or by fax. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
 ### How to Contact Us
 
