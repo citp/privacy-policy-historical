@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625224951id_/https%3A//www.alumniclass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508074012id_/http%3A//www.alumniclass.com/privacy-policy) for the most accurate reproduction.*
 
 # AlumniClass - Privacy Policy
 
@@ -23,7 +23,7 @@ Each Alumniclass.com Website may offer different features, functions, services a
 
 **COLLECTION AND USE OF INFORMATION**
 
-Alumniclass.com **does** not share your information with third-party solicitors unless you are a reunion coordinator or committee member seeking reunion planning information from outside sources. 
+Alumniclass.com does not share your information with third-party solicitors unless you are a reunion coordinator or committee member seeking reunion planning information from outside sources. If you have a dispute regarding a reunion or purchase of reunion tickets your email address may be shared with the reunion coordinator in order to assist you with your dispute. Reunion related disputes are the responsibility of the reunion coordinator and by registering for a reunion or purchasing reunion related items you agree your email address may be shared with the reunion coordinator. 
 
 Alumniclass.com retains the right to use your information (e.g. your name, where you graduated from, your class year and any other information deemed necessary by Alumniclass.com) in promoting our Websites to other alumni, website members, users, schools or school districts, through communications such as electronic newsletters, emails, and other lawful means. 
 
