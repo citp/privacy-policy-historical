@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715014631id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508102817id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
 
 # FooPets | Real Virtual Pets Online
 
-Updated March 22, 2012
+Updated November 18, 2014
 
-We're excited about your interest in FooPets, and that you've chosen to adopt one of the world's cutest and most realistic, interactive 3D pets! On FooPets, children (and people of all ages) learn responsible pet care as they feed, pet, water and play with their puppy or kitten daily, in a safe online environment. 
+We're excited about your interest in FooPets, and that you've chosen to adopt one of the world's cutest and most realistic, interactive 3D pets! On FooPets, children (and the young at heart) learn responsible pet care as they feed, pet, water and play with their puppy or kitten daily, in a safe online environment. 
 
 FooPets welcomes parents, guardians, teachers and other adults participating in their children's online activities. Foopets.com is owned and operated by Startapult, Inc. with offices at 1630 Riviera Ave, Walnut Creek, CA, USA. On this site, children can participate in a virtual online environment and adopt and take care of a virtual pet. Children are given the opportunity to adopt a pet from one of several breeds of dogs and cats, and then care for it daily by logging into FooPets.com from a computer or m.foopets.com from a mobile device. Every pet's scene or room can be customized with backgrounds, toys and accessories, some of these can be earned by logging into FooPets.com frequently. 
 
@@ -48,13 +48,6 @@ FooPet owners can make friends with other FooPet owners by visiting another memb
 
 The FooPets e-card greeting feature collects information about 3rd parties such as name and email address. We use this information to facilitate sending mail, and that it is not used for any other purpose other than it was collected. 
 
-When completing a financial transaction on FooPets.com, for parents and those 18 and older, we will collect and protect the following information:
-
-  * Credit card number, expiration, cvs code
-  * Billing name, address, city, state, zip/postal code, country
-
-
-
 Important Note: Any child, including children in ClubFoo, can be identified by their Screen Name within the FooPets community. As such, it is advised that children (and all FooPets members) do not use their real name as their Screen Name or publish their real name anywhere on their profile or in the Forums. Additionally, real names should not be used in any public communication area where identity can be disclosed in connection with a member's information, comments, passwords, etc. If real names are used (or Screen Names include any personally identifying information as part of a "nickname" or anywhere on your profile) that information will be publicly displayed on our site. Therefore, please use caution in determining your Screen Name and identity on the site. 
 
 We do not collect "sensitive data" that pertains to racial or ethnic origins, political or religious beliefs, or health or sex life. 
@@ -79,13 +72,13 @@ We may also use information in an aggregate form to analyze site patterns and us
 
 When a username or email address is requested from FooPets via FooPets.com a form is submitted through our 'contact us' page, blogs, forums or wiki area of our website. This ensures that we provide a response in a timely manner, or track and monitor correspondence that may be deemed inappropriate or disturbing to the community. 
 
-We may passively collect certain non-personally identifiable computer information such as the type of operating system (Windows 7, Mac OS), the user's IP address, type of web browser (Internet Explorer, Firebox, Safari) and information regarding the Internet service provider used, and possibly link this information to the user account and personal information. If we do this, we will secure this data. 
+We may passively collect certain non-personally identifiable computer information such as the type of operating system (Windows 7, Mac OS), the user's IP address, type of web browser (Chrome, Internet Explorer, Firefox, Safari) and information regarding the Internet service provider used, and possibly link this information to the user account and personal information. If we do this, we will secure this data. 
 
-We may also use Cookies. Cookies are small text files that we place in visitors' computer browsers to store their preferences. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (Internet Explorer, Firefox, Safari) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, and some of our services may not function properly. 
+We may also use Cookies. Cookies are small text files that we place in visitors' computer browsers to store their preferences. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (Internet Explorer, Firefox, Safari) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Web experience smoother, and some of our services may not function properly. Cookies are necessary to maintain your session login on FooPets.com 
 
 Third parties that we link to from our site may use cookies but we are not responsible and/or liable for the use of cookies by such third parties and they are not covered by our privacy policy. 
 
-Lastly, we collect financial or payment information used for no other purpose than processing payments to Startapult, Inc. The financial information entered to acquire a membership is not stored by Startapult, but is instead retained by our payments processing vendor Cybersource specifically to securely manage credit card payments made to Startapult, Inc. 
+Lastly, we collect financial or payment information used for no other purpose than processing payments to Startapult, Inc. The financial information entered to acquire a membership is not stored and does not touch the servers of Startapult, but is instead routed to and retained by our payments processing vendor Stripe Iinc. specifically to securely manage credit card payments made to Startapult, Inc. 
 
 If personal information is not provided but necessary to create an account, then Startapult, Inc. may not agree to membership and may not be able to provide access to certain areas and functionality on the FooPet website(s), application(s), or portal(s) or provide information, products, or services that may be requested. 
 
@@ -130,14 +123,9 @@ If you have further questions and comments on privacy please contact us at:
 Startapult, Inc.   
 1630 Riviera Ave  
 Walnut Creek, CA 94596  
-USA 
+USA   
+Email and online contact form in our [Support Center](http://support.foopets.com/). 
 
-Support: 
-
-email: support@foopets.com 
-
-phone: +1.650.479.5907 
-
-#### ©2014 Startapult, Inc. All rights reserved.
+©2015 Startapult, Inc. All rights reserved.
 
 Top
