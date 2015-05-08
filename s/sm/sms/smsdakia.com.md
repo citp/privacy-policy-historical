@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsdakia.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818193618id_/http%3A//www.smsdakia.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsdakia.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508104407id_/http%3A//www.smsdakia.com/privacypolicy.php) for the most accurate reproduction.*
 
 # SMS Dakia - Privacy Policy
 
