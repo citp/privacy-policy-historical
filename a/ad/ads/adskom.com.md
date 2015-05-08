@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adskom.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224192043id_/http%3A//adskom.com/compliance/data-collection-opt-out-privacy-policy/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adskom.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508131307id_/http%3A//adskom.com/compliance/data-collection-opt-out-privacy-policy/%23privacy-policy) for the most accurate reproduction.*
 
 # Data Collection Opt-Out & Privacy Policy | ADSKOM
 
