@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000556id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508140402id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
 
 # FreeTaxUSA® Privacy Policy Regarding Free Tax Preparation and E-file
 
@@ -8,7 +8,9 @@ _Effective: 10/20/2014_
 
 This privacy policy applies to www.FreeTaxUSA.com which is owned and operated by TaxHawk, Inc. This privacy policy describes how TaxHawk, Inc. collects and uses the personal information you provide on our web site: www.FreeTaxUSA.com ("FreeTaxUSA"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. FreeTaxUSA.com treats your financial and personally identifiable information as confidential and will not sell or rent any information.
 
-TaxHawk, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers only information that is collected through this website, [www.FreeTaxUSA.com](https://web.archive.org/index.jsp). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [support@FreeTaxUSA.com](mailto:support@FreeTaxUSA.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+TaxHawk, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.FreeTaxUSA.com](https://web.archive.org/index.jsp).
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 Information Collection and Use
 
