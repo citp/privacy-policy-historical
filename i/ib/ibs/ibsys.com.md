@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibsys.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618064754id_/http%3A//www.ibsys.com/privacy-policy/25094946) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsys.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508103551id_/http%3A//www.ibsys.com/privacy-policy/25094946) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Broadcasting - ibsys.com
+# LAKANA
 
 Internet Broadcasting Systems ("Company) is committed to safeguarding your privacy.  We use this privacy policy to clearly disclose to you our privacy practices in a manner that is easy to understand. If there is something you do not understand about our privacy practices, please feel free to contact [**legal@ibsys.com**](mailto:legal@ibsys.com) **.**
 
