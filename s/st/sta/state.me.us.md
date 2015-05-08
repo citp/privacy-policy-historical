@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129104108id_/http%3A//www.maine.gov/portal/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508161857id_/http%3A//www.maine.gov/portal/policies/privacy.html) for the most accurate reproduction.*
 
 # Maine.gov: Privacy Policy
+
+  1. [Home](https://web.archive.org/portal/index.html)
+  2. » [Web Policies](https://web.archive.org/web/20150508161857id_/http%3A//www.maine.gov/portal/policies/index.html)
+  3. » Privacy Policy
+
+
 
 Visitors to the Maine.gov website are important to us. Maine.gov does not record personal information about you without your permission. Maine.gov collects only the information needed to create an efficient electronic gateway for public information. State agencies may have their own privacy statements posted on their sites. Those statements will over-ride this policy only if they provide greater protection to you.
 
@@ -49,5 +55,3 @@ Information presented on the Maine.gov site is done on the behalf of state agenc
 ## Contact Information
 
 To offer comments about the Maine.gov website or this Privacy Statement, contact the [Maine.gov webmaster](http://www.maine.gov/portal/contactus.html). 
-
-_Updated: 9/24/2010_
