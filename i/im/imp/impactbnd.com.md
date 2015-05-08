@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactbnd.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909090817id_/http%3A//www.impactbnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactbnd.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508101723id_/http%3A//www.impactbnd.com/privacy-policy) for the most accurate reproduction.*
 
 # IMPACT Privacy Policy Statement
 
