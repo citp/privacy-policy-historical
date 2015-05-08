@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hometalk.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013037id_/http%3A//www.hometalk.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometalk.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508071915id_/http%3A//www.hometalk.com/about/privacy) for the most accurate reproduction.*
 
-# Hometalk Privacy Policy :: Hometalk
+# Hometalk | Hometalk Privacy Policy
 
 Last updated on June 20, 2012.
 
