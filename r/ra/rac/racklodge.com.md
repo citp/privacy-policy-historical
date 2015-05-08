@@ -1,25 +1,14 @@
-> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921005335id_/http%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racklodge.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509001815id_/http%3A//www.racklodge.com/privacy-statement) for the most accurate reproduction.*
 
-# Your privacy is our number one priority | Rack Lodge DataCenter
-
-**Contact Us**
-
-Costa Rica  
-506.2233.HOST (4678)
-
-US and Canada  
-855.800.HOST (4678)
-
-Email:   
-[info@racklodge.com](mailto:info@racklodge.com?subject=Rack%20Lodge%20RFI)
+# Privacy Statement | Rack Lodge
 
 ## Rack Lodge Privacy Statement
 
-Rack Lodge takes privacy and data protection issues seriously. Rack Lodge’s Privacy Statement applies to basic contact information collected from customers who contract with **RACK LODGE** to use our services. As Rack Lodge’s services change, we may revise this statement. If you have questions about Rack Lodge’s privacy practices please contact us at: info@racklodge.com
+Rack Lodge takes privacy and data protection issues seriously. Rack Lodge’s Privacy Statement applies to basic contact information collected from customers who contract with RACK LODGE to use our services. As Rack Lodge’s services change, we may revise this statement. If you have questions about Rack Lodge’s privacy practices please contact us at: info@racklodge.com
 
 ## Information Collected
 
-**RACK LODGE** collects information from its customers when signing an agreement. We only obtain information via our website when an individual or company requests a price quotation or has questions about **RACK LODGE** and its services. At that time, we will ask for contact information such as person’s name, phone number or e-mail address.
+RACK LODGE collects information from its customers when signing an agreement. We only obtain information via our website when an individual or company requests a price quotation or has questions about RACK LODGE and its services. At that time, we will ask for contact information such as person’s name, phone number or e-mail address.
 
 ## Information Disclosure
 
@@ -31,4 +20,4 @@ Information security is critical to our business. We work to protect the securit
 
 ## System Access
 
-**RACK LODGE** gives customers’ authorized personnel the ability to set system access and user permissions on an individual basis, including system view and administrative settings. All contents and materials are exclusive responsibility of the client, as well as the activities that they are dedicated to. Rack Lodge will not be held responsible for the content and materials hosted by the client.
+RACK LODGE gives customers’ authorized personnel the ability to set system access and user permissions on an individual basis, including system view and administrative settings. All contents and materials are exclusive responsibility of the client, as well as the activities that they are dedicated to. Rack Lodge will not be held responsible for the content and materials hosted by the client.
