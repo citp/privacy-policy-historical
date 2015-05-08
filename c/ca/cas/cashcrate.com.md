@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashcrate.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701170247id_/http%3A//www.cashcrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashcrate.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508075122id_/http%3A//www.cashcrate.com/privacy) for the most accurate reproduction.*
 
 # Make Money Online With Paid Surveys | Free Cash at CashCrate!
 
@@ -24,7 +24,7 @@ Other information, that does not personally identify you as an individual, is co
 
 In the event that you subscribe to or opt-in a Third-Party offer, CashCrate may provide your information to the Third-Party in order to directly faciliate the relationship between you and the advertiser. CashCrate may also, from time to time, provide your information to Third-Party advertisers who have offers that we think you'd be interested in. At any time, you can opt-out of this program simply by contacting support.
 
-Your email address may also be used for tracking purposes, when you complete offers, so that CashCrate can determine that you completed the offers. CashCrate will also use your email address to send you the CashCrate newsletters, unless you have opted out of receiving such newsletters by so indicating on the “E-mail Options” section of the “My Account” page, within the “Members Area” of the CashCrate website. CashCrate may also, from time to time, 
+Your email address may also be used for tracking purposes, when you complete offers, so that CashCrate can determine that you completed the offers. CashCrate will also use your email address to send you the CashCrate newsletters, unless you have opted out of receiving such newsletters by so indicating on the “E-mail Options” section of the “My Account” page, within the “Members Area” of the CashCrate website.
 
 ###### Information Provided to Third-Parties or Other Users
 
