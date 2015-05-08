@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zoomshare.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220184346id_/http%3A//zoomshare.com/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomshare.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508094530id_/http%3A//zoomshare.com/privacyPolicy.shtml) for the most accurate reproduction.*
 
-# Zoomshare - Make a free website, free home page, online photo album, free blog, free e-mail, free hosting
+# Zoomshare - Make a website, online photo album, blog, e-mail, shop, hosting
 
 [](http://www.zoomshare.com/) |  |   
 ---|---|---  
@@ -65,6 +65,6 @@ Zoomshare.com has security measures in place to help protect against the loss, m
 If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at: 
 
   1. Email: [abuse@zoomshare.com](mailto:abuse@zoomshare.com)
-  2. Address: Zoomshare.com 1016 W Jackson, Chicago, IL 60607
+  2. Address: Zoomshare.com 2345 S Alma School Road, Mesa, AZ 85210
 
 
