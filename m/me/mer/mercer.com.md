@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217130232id_/http%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508222155id_/http%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -42,7 +42,7 @@ You may set your web browser to not accept cookies. If you do, you may still use
 
 Certain Web Sites require users to register with Mercer by supplying their names and other personal information in order to have access to specific Web Site features (“Registered Users”). All Registered Users receive a username and password. When you register on a Web Site, Mercer may use your data to provide you with information reports as well as information about goods and services offered by Mercer. Mercer may also use the information provided by Registered Users to perform statistical analyses on our clients and understand client demographics.
 
-Occasionally, we may transfer to our global client contact database certain information about Registered Users, in which case it will be governed by [Mercer’s Privacy Policy for Contact Data](https://web.archive.org/privacy/privacy-policy-for-clients.html)
+Occasionally, we may transfer to our global client contact database certain information about Registered Users, in which case it will be governed by [Mercer’s Privacy Policy for Contact Data](http://www.mercer.com/privacy/privacy-policy-for-clients.html)
 
 _Information Related to Employment_
 
