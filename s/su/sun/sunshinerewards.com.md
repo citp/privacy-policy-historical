@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121170638id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508194332id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
 
 # Coupon Codes, Promo Codes, Discounts, Survey & Shopping Rewards
 
