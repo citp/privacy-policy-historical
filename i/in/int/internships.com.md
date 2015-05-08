@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220221721id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508090503id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Internships.com
 
