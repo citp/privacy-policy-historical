@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixxbookmarks.info privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221073505id_/http%3A//mixxbookmarks.info/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixxbookmarks.info privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508232011id_/http%3A//mixxbookmarks.info/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MixxBookmarks Blog | Free Social Bookmarking Information Tips and Resources |
 
@@ -22,29 +22,29 @@ When visiting **MixxBookmarks** , the IP address used to access the site will be
 
 We may collect the following information:
 
-\- Name
+– Name
 
-\- Email Address
+– Email Address
 
-\- Phone Numbers
+– Phone Numbers
 
-\- Demographic information such as postcode, preferences and interests
+– Demographic information such as postcode, preferences and interests
 
-\- Information relevant to customer surveys and/or offers
+– Information relevant to customer surveys and/or offers
 
 ### **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-\- Internal record keeping.
+– Internal record keeping.
 
-\- We may use the information to improve our products and services.
+– We may use the information to improve our products and services.
 
-\- We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+– We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-\- From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+– From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
 
-\- We may use the information to customize the website according to your interests.
+– We may use the information to customize the website according to your interests.
 
 ### **Security**
 
