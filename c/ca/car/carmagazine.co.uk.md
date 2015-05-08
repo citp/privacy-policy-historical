@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the carmagazine.co.uk privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006072201id_/http%3A//www.carmagazine.co.uk/GLOBAL/Privacy-Policy/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmagazine.co.uk privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508072545id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
 
-# Privacy Policy
+# Bauer Media Group - Privacy Policy
 
 **The Bauer Media Group consists of:**
 
-Bauer Consumer Media Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales with company number 01176085, VAT no. 918 5617 01. 
+Bauer Consumer Media Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales company number 01176085, VAT no. 918 5617 01. 
 
 **And**
 
-Bauer Radio Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales with company number 01394141, VAT no. 918 5617 01. 
+Bauer Radio Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales company number 01394141, VAT no. 918 5617 01. 
+
+**And**
+
+Absolute Radio Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales company number 02674136, VAT no. 918 5617 01. 
 
 **Please click on the following links or scroll down to see the details of our Privacy Policy:**
 
@@ -36,6 +40,16 @@ If you give us your consent to send you further marketing messages we may contac
 
 We may need to authenticate your identity to provide you with access to subscriber-only services. We might also send you surveys or invite you to enter a competition or receive a newsletter, for instance. If you do not wish to participate you may simply decline our invitations. 
 
+Our iPad, Android and other "apps" may collect user data, which we use to learn about our readers and improve our apps. 
+
+To understand how our "apps" are used we may use the service of Flurry Analytics or Google Analytics to provide us with anonymous statistical information about your use of our app(s). 
+
+You may opt-out of reporting by Flurry Analytics by following the instructions on their site <http://www.flurry.com/user-opt-out.html>
+
+As part of our Google Analytics tracking we have implemented the following features: Remarketing, Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising by visiting here <https://tools.google.com/dlpage/gaoptout/>
+
+We use this information for reporting purposes and to advertise online. Third-party vendors, including Google, may show your ads on sites across the Internet. We may use the cookies relating to Google Analytics together with third party cookies to inform, optimise and serve ads based on a user's part visits to our websites. 
+
 * ### Do we share that data with any other companies?
 
 Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, or charge your credit card, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own, and they are required to sign a contract that defines what their responsibilities and liabilities are. We make site visits regularly whether our suppliers are in the UK, the European Economic Area or outside the EEA, where we require an EU approved model contract to be signed. 
@@ -60,15 +74,15 @@ When you click on advertisements or links on any of our sites, you will leave th
 
 * ### Cookies and how we use them
 
-"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. The Bauer Media Group uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. The Bauer Media Group uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/)
 
-Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner's Office. 
+For more information on how the Bauer Media Group use cookies please read our [Cookie Policy](http://static.bauercdn.com/cookiePolicy/policy.html). 
 
 * ### How you can gain access to the personal data we collect about you
 
 Under the Data Protection Act 1998, you have the right to see what information we hold about you and you may ask us to make any changes that you consider necessary to make the information accurate. If you want to apply to see the data we hold about you, please write to: 
 
-The Data Protection Compliance Officer  
+The Data Protection Officer  
 Bauer Media Group  
 Media House  
 Lynchwood  
@@ -83,7 +97,7 @@ We do not knowingly collect personal information from children under the age of 
 
 * ### Using our websites from outside the UK
 
-Our servers are situated in the UK and when you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the Site. 
+Our servers are situated in the EEA and when you submit your details and in whichever country you are situated you agree to the data being transferred to the EEA and processed under the terms of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the website. 
 
 * ### Questions regarding this Privacy Policy
 
@@ -95,4 +109,4 @@ This Privacy Policy will be amended from time-to-time if we make any important c
 
 Any changes will be effective immediately. 
 
-This Privacy Policy was last revised in October 2011. 
+This Privacy Policy was last revised in February 2014. 
