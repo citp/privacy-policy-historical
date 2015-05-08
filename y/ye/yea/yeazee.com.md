@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yeazee.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122062404id_/http%3A//www.yeazee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeazee.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508073822id_/http%3A//yeazee.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Yeazee.com
 
-#### Last Updated: January 2013
+#### Last Updated: January 2015
 
 At Yeazee.com ("Yeazee," "we," "us" or "our"), we understand the importance of maintaining your privacy, and we therefore strive to provide our services with your protection in mind. This Privacy Policy applies to your use of Yeazee's service whether accessed via computer or mobile device (the "Service") that provides users, who submit search queries in search box on a Web page or Yeazee mobile application (a "Search Page"), with Internet navigation assistance web pages containing relevant local & national search results and other content ("Results Pages"). This Privacy Policy describes our practices regarding the collection, maintenance, use, and sharing of information from the Service. In accessing the Service and/or the Web Pages, you accept all the terms and conditions of this Privacy Policy. Our Privacy Policy may change from time to time, and those changes will be available for your review on our web page located at http://www.Yeazee.com/privacy. Your continued use of our Service after any such changes have been made will signify your assent to the changed Privacy Policy. Accordingly, we ask that you bookmark and periodically review this Privacy Policy to ensure continuing familiarity with the most current version. If you do not agree with the terms and conditions of this Privacy Policy we request that you immediately cease using and accessing the Service and the Web Pages. Please note that we have special concerns about the privacy of users who are minors (users under the age of 18), as further addressed in the regarding children section below. 
 
