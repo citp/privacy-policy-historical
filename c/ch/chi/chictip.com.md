@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chictip.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122005338id_/http%3A//www.chictip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chictip.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508084136id_/http%3A//www.chictip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Design and Decor
 
