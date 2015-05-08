@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getright.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106182600id_/http%3A//www.getright.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getright.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508121917id_/http%3A//getright.com/privacy.html) for the most accurate reproduction.*
 
 # Resume Downloads, Schedule Downloads, Faster Downloads - GetRight Download Manager
 
