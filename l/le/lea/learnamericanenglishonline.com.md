@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153322id_/http%3A//learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnamericanenglishonline.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508030352id_/http%3A//www.learnamericanenglishonline.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -20,6 +20,8 @@ In order to tailor our subsequent communications to you and continuously improve
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
 You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+This website uses Google Analytics to collect data from visitors. To prevent your data from being used by Google Analytics, you may install this [Opt-out Browser Addon](https://tools.google.com/dlpage/gaoptout/). 
 
 HTML eMail
 
