@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statshelf.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212025949id_/http%3A//www.statshelf.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statshelf.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508151921id_/http%3A//www.statshelf.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Website Value Calculator and Website Traffic Tool
 
