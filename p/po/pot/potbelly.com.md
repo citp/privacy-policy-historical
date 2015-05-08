@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221070701id_/http%3A//www.potbelly.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508194133id_/http%3A//www.potbelly.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Potbelly Sandwich Shop
 
@@ -66,5 +66,5 @@ Thanks for reading our Privacy Policy! If you have any questions, please [Talk T
 
 Speaker of the House  
 Potbelly Sandwich Shop  
-222 Merchandise Mart Plaza, Suite 2300  
-Chicago, Illinois 60654 
+111 N. Canal Street, Suite 850  
+Chicago, Illinois 60606 
