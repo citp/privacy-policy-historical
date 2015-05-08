@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashiongates.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124085225id_/http%3A//www.modelhour.com/siteinfo/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiongates.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508220211id_/http%3A//www.modelhour.com/siteinfo/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
