@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 24megabytes.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101151905id_/http%3A//24megabytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24megabytes.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508234807id_/http%3A//24megabytes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Latest Social Media News
+
+[__  Home](http://24megabytes.com/)  »  Privacy Policy
 
 The privacy of our visitors is extremely important to us. In 24megabytes.com, we recognize the importance of privacy. Then we leave it the kind of personal information that we receive and collect when you visit 24megabytes.com ,and how we store this information. We never sell your information to third parties, whether individuals or firms.
 
