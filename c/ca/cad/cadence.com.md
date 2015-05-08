@@ -1,107 +1,132 @@
-> *The following text is extracted and transformed from the cadence.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121024008id_/http%3A//www.cadence.com/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadence.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508091020id_/http%3A//www.cadence.com/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Cadence Privacy Policy
 
-Privacy Policy  
----  
-  
-|   
----  
-  
 ##### Introduction
 
-Your privacy is important to Cadence Design Systems, Inc. and its subsidiaries (collectively, "Cadence"). The following Privacy Policy discloses the information practices for Cadence websites, including the type of information gathered, how the information is used, and Cadence's policy regarding sharing information with others. In this Privacy Policy, we also discuss the collection, storage, and transfer of certain customer Personal Information (as defined herein) that we collect offline. 
-
-We have implemented these practices for the Cadence website (www.cadence.com) and its various subdomains including sourcelink.cadence.com, learning.cadence.com, edaontap.cadence.com, and downloads.cadence.com ("Site"). Information regarding our privacy practices is included wherever personal information is collected on the Site. We encourage you to read this Privacy Policy. 
-
-##### Consent
-
-By using the Site, you agree to the terms of this Privacy Policy. 
+Your privacy is important to Cadence Design Systems and its affiliates (collectively, “Cadence”, “we”, “our”, and “us”). The following Privacy Policy discloses the information practices for Cadence® websites and products or applications available for download through those websites that link to this Privacy Policy (collectively, the “Sites”), including the types of information gathered, how the information is used, and how the information is shared with others.
 
 ##### Types of Information We Collect
 
-  
- **Personal Information You Provide to Us**  
-Cadence collects Personal Information and Anonymous Information from you when you visit the Site. "Personal Information" means any information that may be used to identify an individual, including, but not limited to: a first and last name; e-mail address; a home, postal or other physical address or other contact information; title, occupation, industry, place of employment, or personal interests; and other information necessary to provide a service that you requested. "Anonymous Information" means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect Personal Information and Anonymous Information, as described below. 
+ **Information You Provide to Us**  
+Cadence and its service providers collect any information that you provide when you use the Sites, including, but not limited to, when you: 
 
-We collect Personal Information from you in the following instances: 
+  * Register for a seminar, webinar, or event;
+  * Create an account or a profile;
+  * Participate in our user community or otherwise contribute content to the Sites, such as by authoring a post on our forums or commenting on a blog post;
+  * Submit an employment application and/or resume;
+  * Make a purchase;
+  * Provide feedback;
+  * Request information from us;
+  * Register for training courses;
+  * Download software;
+  * Sign up to receive electronic newsletters, blog posts, and other materials; or
+  * Contact us with a question, comment, feedback, or request, including service requests.
 
-  * If you register for a seminar, webinar, or event, we will collect your contact information, your place of employment, and your job title. 
-  * If you register for customer support via SourceLink, we will ask you to provide your contact information, login ID and password, customer support PIN, License server HostID or serial number, and your preferences for your "MySourceLink" page. 
-  * If you register for the Cadence Learning Management System, you must provide your contact information, place of employment, job title, login ID, and password. 
-  * To join Connections, you must provide your name, contact information, place of employment, and other information regarding your company. 
-  * If you wish to use eDA-on-Tap, you must provide your user name and password. 
-  * If you submit an employment application, we will ask you to provide your name, phone number, resume, and cover letter, and any information contained therein. 
-  * If you would like to receive information from us (investor or otherwise), you must provide your name, contact information, and a description of your comment or question. 
-  * If you e-mail us directly via an e-mail hyperlink to provide us feedback or to ask us a question regarding the Site or our business, we will collect any information contained in such e-mail. 
-  * If you download software from the Site, we will collect your contact information, place of employment, job title, SourceLink ID, job function, and intended use of the software. 
 
-**Personal Information Collected Automatically**  
-As you navigate the Site, certain information may be collected automatically. Specifically, we may use cookies, web beacons, and other automated devices to collect information about you, including your IP address, browser type and operating system, Cadence webpages viewed, user clickstream, time and length of visit, search terms used, and information viewed and/or downloaded on our Site. This data helps us to improve the content of the Site and to customize the content or layout of the Site for you. A cookie is an element of data that a website sends to your computer's hard drive while you are viewing a website. Cadence uses both session cookies (which expire once you close your Web browser) and persistent cookies (which stay on your computer until you delete them). You may set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You may also set your browser to turn off cookies. If you do so, however, some areas of the Site may not function properly. 
 
-##### Use of Personal Information
+The information that you provide us can include, but is not limited to: 
 
-We collect Personal Information from you to fulfill your requests. For example, we may use your Personal Information to process an employment application, should you submit one to us. We may also use your Personal Information to send you information that you requested, or to confirm registrations, purchases, or service request submissions. 
+  * Your name;
+  * Your place of employment and job title;
+  * Contact information such as physical address, email address, and phone number;
+  * Username, password, and other registration information; 
+  * Demographic information, such as age, gender, preferences, and interests;
+  * Information you provide when submitting an employment application; 
+  * Transaction-related information;
+  * Information you provide when you make a request or otherwise contact us; and
+  * Any other information you choose to make public on the Sites (e.g., information shared with other members of our user community).
 
-We may use your e-mail address to notify you of products or services that may interest you, such as to keep you informed about events or other items of interest, to notify you of recent updates to our Site, or to provide you with product news notification (such as patch releases). You may opt-out from receiving promotional or marketing e-mails by notifying us at the address specified at the bottom of any unwanted e-mail. These opt-out procedures may not be available for transactional or relationship messages, such as e-mails that are necessary to provide you with confirmation of a completed transaction (such as a purchase, service request, or change in your user profile), to provide you with warranty information regarding a particular product you purchased, provide notification of changes of terms of service, or to provide you with important information about the use of a product that you have purchased or software that you have downloaded. 
 
-We may use your mailing address or telephone number for a variety of Cadence-related reasons. We may send you periodic mailings or telephone you to inform you of new products, services, or events. If you do not wish to receive such calls, you may request to be removed from the call list at the time of the call. 
 
-We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We use this Anonymous Information to perform statistical analyses of users' aggregate behavior so that we may enhance the content of our services and improve site navigation. 
+ **Information Collected Automatically**  
+As you navigate any of the websites, we and our service providers may use cookies, web beacons, and similar technologies to automatically collect certain information from your computer or mobile device over time and across different Sites. A cookie is a small text file that many websites save on your computer's hard drive when you visit and access when you return. The Sites use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them) to maintain your session state and to obtain statistics and information regarding how you use the Sites. 
 
-##### Disclosure of Personal Information
+The information we and our service providers may automatically collect includes, but is not limited to, your IP address, your browser type and operating system, the webpages you view on the Sites, clickstream data, the time and length of your visit to the Sites, the search terms you enter on the Sites, your domain name, your email address (to the extent it is automatically recognized by our servers), and information viewed and/or downloaded on the Sites. This information helps us to improve the content of the Sites, and customize the content or layout of the Sites.
 
-Your Personal Information will generally not be shared, sold, traded, or rented to individuals or other entities (such as direct mail organizations). However, we may need to provide your Personal Information to third parties to charge your credit card or deliver specific services to you (such as support services or shipping). These third parties are required not to use your Personal Information other than to provide the services requested by Cadence. 
+##### Use of Information
 
-We may share your Personal Information with our direct or indirect subsidiaries. If we decide to share some or all of your Personal Information with any of these subsidiaries, we will require such subsidiaries to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
+We and service providers working on our behalf may use the information we collect for a number of purposes, including, but not limited to: 
 
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Cadence; or (b) protect and defend the rights or property of Cadence or users of the Site. 
+  * Providing you with the information that you request;
+  * Managing your account and providing you with information about the Sites, such as changing your user profile, notifying you of recent updates to the Sites, providing you with product news notifications, and providing you with patch releases or warranty information;
+  * Processing any transactions you have authorized, such as a purchase or service request;
+  * Delivering marketing communications, promotional materials, or advertisements;
+  * When you submit your resume or other job search-related information to us through the careers section of the Sites, or recruitment and other employment-related purposes, such as 
+    * Verifying past employment and/or education; 
+    * Checking references; 
+    * Confirming ability to legally work in the country; 
+    * Contacting you and/or your emergency contacts at home if necessary; 
+    * Setting/adjusting compensation, job duties and titles; 
+    * Administering benefits, including health insurance; 
+    * Processing health insurance applications and claims; 
+    * Administering stock options; 
+    * Administering 401Ks; 
+    * Managing performance; and 
+    * Withholding and payment of applicable taxes; 
+  * Allowing us to improve the Sites and the products and services we provide, such as by better tailoring our content to our users’ needs and interests and improving site navigation;
+  * Generating and analyzing statistics about your use of the Sites; and
+  * Detecting, preventing, and responding to fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Sites.
 
-##### Editing Your Personal Profile
 
-We realize that your Personal Information, including your name, company, and e-mail address, is subject to change. To the extent that you do provide us with Personal Information, we wish to maintain its accuracy. In some cases, we provide a means to create an account or a profile of information. For example, to change your Personal Information in SourceLink, log in as usual and select the "Update Profile" link found on the top left side of MySourceLink. Information may be given directly to a Cadence Customer Support representative. 
 
-##### Security of Your Personal Information
+We and service providers working on our behalf also may combine or aggregate any of the information we collect through the Sites or elsewhere for any of these purposes.
 
-We safeguard the Personal Information you send to us with certain physical, electronic, and managerial procedures. If you have established an account with us, your Cadence account information is password-protected for your privacy and security. In most areas of the Site, we use industry-standard-encryption to enhance the security of data transmissions. In other areas, we notify you with a pop-up screen when we transfer or receive certain types of sensitive information. We also store your Personal Information behind our firewall and utilize appropriate security measures in our physical facilities to prevent loss or unauthorized use of sensitive information. Except as provided elsewhere in this Privacy Policy, Cadence limits access to Personal Information in electronic databases to those persons (including employees and contractors) in Cadence's organization who have a business need for such access. 
+##### Disclosure of Information
 
-While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your Personal Information when you are on the Internet. We suggest that you change your passwords often, use passwords that include a combination of letters and numbers, and use a secure browser. Products and services are available which can help give you privacy protection while navigating the Internet. See [www.privacyalliance.org/resources/](http://www.privacyalliance.org/resources/) for an overview of many privacy-related tools. While we do not anticipate breaches in security, if one occurs, we will use commercially reasonable efforts to correct the problem that led to the breach. 
+We will not share, sell, trade, or rent your information covered by this Privacy Policy to other individuals or other entities (such as direct mail organizations) except: 
 
-##### Regarding Children
+  * When we have your permission;
+  * When you choose to make information public on the Sites, such as when you contribute a post to our Cadence Technology Forums;
+  * To service providers who work on our behalf and have agreed to use the information solely to provide the services requested by Cadence, including, but not limited to, service providers that process payments, provide support services, or provide shipping services;
+  * To service providers, advisors, and other third parties to the extent reasonably necessary to proceed with the negotiation or completion of a merger, acquisition, or sale of all or a portion of our assets, provided that any third party that acquires our company will assume the rights and obligations regarding your information as described in this Privacy Policy; or
+  * When we believe in good faith that such disclosure is to (a) comply with relevant laws or to respond to court orders or other legal process served on Cadence; (b) protect and defend the rights or property of Cadence or users of the Sites; or (c) detect, prevent, or respond to fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Sites.
 
-We do not structure our websites to attract children. Accordingly, we do not intend to collect Personal Information from anyone under 13 years of age. 
 
-##### Notice of Transfer, Use, and Storage of Customer Information (including Your Personal Information)
 
-We will collect, use, and process certain customer information, including Personal Information (such as name, work email address, title, and employer name) for customer satisfaction and account management purposes. We may transfer certain customer information, which may include limited Personal Information, such as customer the contact information listed in this paragraph, to locations worldwide, such as each country in which Cadence has an office, to the United States. For customer satisfaction and account management purposes, we also may transfer customer information (including Personal Information) to a third party service provider, which may use a cloud solution and store data in the United States. For customer services purposes associated with the cloud solution, the third party service provider may transfer customer information to the Philippines. As a result, the data may be subject to access by law enforcement and other government entities, including courts and tribunals in accordance with laws applicable in those jurisdictions. 
+##### Security of Your Information
 
-##### Access Rights
+While we strive to maintain reasonable physical, technical, and administrative procedures to safeguard the information that we collect, we cannot ensure the absolute security of your information. We also are not responsible for the security of information you transmit to the Sites over networks that we do not control, including the Internet and wireless networks.
 
-You have the right to access and correct certain information that Cadence holds about you. Any access request may be subject to a fee, where permitted and in accordance with law, to meet our costs in providing you with the details of the information that we hold about you. Please send any requests for access, questions, or comments regarding our data protection practices to [privacy@cadence.com](mailto:%20privacy@cadence.com). 
+##### Children’s Privacy
+
+The Sites are not directed to, nor do we knowingly collect information from, anyone under 13 years of age. If you become aware that your child has provided us with information without your consent, please contact us at the contact information listed below.
+
+##### Location of Your Information 
+
+Information collected through the Sites will be transferred to, stored at, processed in, and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. In addition, we may further transfer your information outside the United States to our affiliates and service providers located in other countries, or as otherwise permitted or required by applicable law. By submitting any personal information or by using the Sites and without limitation to any other rights or obligations we have, you consent to such transfer to, and processing in, the United States and these other countries, and acknowledge that your information may be subject to access by law enforcement and other government entities, including courts and tribunals, in accordance with laws applicable in those jurisdictions.
 
 ##### Safe Harbor
 
-Cadence Design Systems, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information obtained from European Union member countries and Switzerland and has self-certified its adherence to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement with the United States Department of Commerce. To learn more about the safe harbor program, and to view Cadence Design Systems, Inc.’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/). Cadence’s policy concerning the processing of EEA/CH Data under its certification can be viewed [here](https://web.archive.org/Pages/safe_harbor.aspx). If you believe that Cadence Design Systems, Inc. is misusing your information or violating the Safe Harbor principles, please contact [privacy@cadence.com](mailto:%20privacy@cadence.com). 
+Cadence Design Systems, Inc. complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of certain personal information obtained from European Union member countries and Switzerland. Cadence Design Systems, Inc.’s Safe Harbor policy can be viewed [here](https://web.archive.org/Pages/safe_harbor.aspx).
+
+##### Your Choices
+
+You have the right to request access to and to correct certain information that Cadence holds about you. Any access request may be subject to a fee, where permitted and in accordance with law, to meet our costs in providing you with the details of the information that we hold about you. Please send any requests for access to [privacy@cadence.com](mailto:%20privacy@cadence.com). In some countries, you also may have a right to oppose, for legitimate grounds, the processing of your data by the Sites; in those countries, if you exercise that right, understand that you may not be able to use the Sites and this may result in reduced functionality of the Sites. You may exercise your rights to access, update, rectify, and where the rights is provided by local law, oppose the processing of your information by contacting us at [privacy@cadence.com](mailto:privacy@cadence.com).
+
+In some cases, we provide a means to create an account or a profile of information on the Sites. In such cases, you may access and correct certain information by accessing your account or profile. For example, to change your contact information on [www.cadence.com](https://web.archive.org/), log in to your account and select the "My Account" link found on the top of the webpage.
+
+You may opt-out from receiving promotional or marketing emails by notifying us at the address specified at the bottom of any unwanted email. These opt-out procedures may not be available for transactional or relationship messages, such as emails that are necessary to provide you with confirmation of a completed transaction (such as a purchase, service request, or change in your user profile), to provide you with warranty information regarding a particular product you purchased, to provide notification of changes of terms of service, or to provide you with important information about the use of a product that you have purchased or software that you have downloaded. 
+
+We may send you periodic mailings or telephone you to inform you of new products, services, or events. If you do not wish to receive such calls, you may request to be removed from the call list at the time of the call. 
+
+You may set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You may also set your browser to turn off cookies. If you do so, however, some areas of the Sites may not function properly. For more information about cookies and how to manage them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+You may opt-out of our collection of analytics information through Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ads Preference Manager](https://www.google.com/settings/ads/onweb) or at [www.aboutads.info/choices](http://www.aboutads.info/choices). The Google Analytics opt-out browser add-on can be accessed [here](https://tools.google.com/dlpage/gaoptout/).
 
 ##### Links to Other Sites
 
-Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites. 
+The Sites may contain links to third-party websites and applications. Our provision of a link to any other website or application is for your convenience and does not signify our endorsement of such other website or application or its contents. We have no control over, do not review, and cannot be responsible for these third-party websites and applications or their content. Please be aware that the terms of our Privacy Policy do not apply to these third-party websites and applications. 
 
 ##### Contact Information
 
-Cadence welcomes your comments or questions regarding this Privacy Policy. Please contact us at [privacy@cadence.com](mailto:%20privacy@cadence.com). 
+Cadence welcomes your comments or questions regarding this Privacy Policy. If you have any questions, please contact Cadence Design Systems, the data controller, at [privacy@cadence.com](mailto:%20privacy@cadence.com). 
 
-For your information, Cadence is located at:  
-Cadence Design Systems, Inc.  
-2655 Seely Avenue  
-San Jose, California 95134  
-800.746.6223 
+For your information, Cadence’s locations and contact information are available at [www.cadence.com/cadence/contact_us](https://web.archive.org/cadence/contact_us/Pages/default.aspx).
 
 ##### Privacy Policy Updates
 
-This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post a notice on this page. If you object to any such changes, you must cease using the Site. Continued use of the Site following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+If we change this Privacy Policy, we will notify you by posting a new Privacy Policy on this page and updating the “Last Revised” date below. If we make any revisions that materially change the ways in which we use or share the information previously collected from you through the Site, we will give you the opportunity to consent to such changes before applying them to that information. 
 
 _Effective: September 2005  
-Revised: April 2013_  
-  
-  | 
+Revised: January 2015_
