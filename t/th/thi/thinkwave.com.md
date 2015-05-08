@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkwave.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817142448id_/http%3A//www.thinkwave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkwave.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508160918id_/http%3A//www.thinkwave.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information
 
