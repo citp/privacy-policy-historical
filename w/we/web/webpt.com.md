@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121064837id_/http%3A//www.webpt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508173518id_/http%3A//www.webpt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WebPT
 
 [](https://privacy.truste.com/privacy-seal/WebPT/validation?rid=47e651e4-54c4-4151-a2eb-be7bc161b310 "TRUSTe online privacy certification")
 
-Effective July 15, 2014
+Effective December 23, 2014
 
 #### Our Commitment to Privacy
 
 This privacy policy applies to [www.webpt.com](http://www.webpt.com/) owned and operated by WebPT. Your privacy and the privacy of your clients are very important to us. To better protect your privacy WebPT provides this notice explaining our online information practices and the choices you can make about the way your information is collected and used. It also describes how you can access and update this information. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-WebPT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements ](http://www.truste.com/privacy-program-requirements/)including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+WebPT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements ](http://www.truste.com/privacy-program-requirements/)including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 **WebPT**  
 ATTN: Website Security  
 625 S. 5th St. Building A  
 Phoenix, AZ 85004
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through our applications.
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site ([www.webpt.com](https://web.archive.org/ "WebPT")), and does not cover information that may be collected through our applications and behind the log in on our website.
 
 #### The Information We Collect
 
-This notice applies to all information collected or submitted on the WebPT.com website. On some pages, you can make requests to schedule a demo. The types of personal information collected at these pages are: Name, Address, Email Address, Phone Number.
+This notice applies to all information collected or submitted on the WebPT.com website. On some pages, you can make requests to schedule a demo. The types of personally identifiable information collected at these pages are: Name, Address, Email Address, and Phone Number.
 
 #### The Way We Use Information
 
@@ -33,29 +33,27 @@ Finally, we never use, share, sell or rent the personally identifiable informati
 
 #### Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+Technologies such as: cookies, beacons, tags and scripts are used by WebPT and our marketing partners, affiliates, and analytics providers. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
-
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site, and identify certain functionality of your web browsing software.
-
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+We use cookies for setting user preferences and storing user activity. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
 The use of cookies by our tracking utility company is covered by our privacy policy. We do have access or control over these cookies. Our partners use session ID cookies to make it easier to navigate to our site.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
-
 #### Log Files
 
-As is true of most Web sites, we and the third party tracking services we use gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+As is true of most Web sites, we and the third party tracking services we use gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do link this automatically collected data to other information we collect about you.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+#### Local Storage Objects
+
+We use Local Storage Objects (LSOs) such as HTML5 [content information and preferences.] Third parties with whom we partner to provide certain features on our website or to display advertising based upon your Web browsing activity also use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 #### Behavioral Targeting / Re-Targeting
 
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-NOTE: Participant may also link to the NAI opt-out mechanism <http://www.networkadvertising.org/managing/opt_out.asp>
+#### Frames
+
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our Web site. Please be aware that you are providing your personally identifiable information to these third parties and not to [www.webpt.com](https://web.archive.org/ "WebPT").  
 
 #### Newsletters
 
@@ -69,7 +67,7 @@ Generally, you may not opt-out of these communications, which are not promotiona
 
 #### Referrals
 
-When you register for a demo you have the opportunity to let us know if you heard about us from somebody you know. If you do, we will give you the opportunity to provide us with your friend’s name so we can credit them with a referral bonus. WebPT stores this information for the sole purpose of providing the referral bonus and tracking the success of our referral program.
+When you register for a demo you have the opportunity to let us know if you heard about us from somebody you know. If you do, we will give you the opportunity to provide us with your friend’s name and email address so we can credit them with a referral bonus. WebPT stores this information for the sole purpose of providing the referral bonus and tracking the success of our referral program.
 
 If your name has been provided as a referral you may contact us at [privacy@webpt.com](mailto:info@webpt.com) to request we no longer store your name.
 
@@ -77,11 +75,11 @@ If your name has been provided as a referral you may contact us at [privacy@webp
 
 This Web site contains links to other sites that are not owned or controlled by WebPT. Please be aware that we, WebPT, are not responsible for the privacy practices of such other sites.
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personally identifiable information.
 
 #### Public Forums
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@webpt.com](mailto:info@webpt.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personally identifiable information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
 #### Testimonials
 
@@ -89,7 +87,7 @@ We post customer testimonials/comments/reviews on our web site which may contain
 
 #### Service Providers
 
-We use other third parties such as an email service provider to send out emails on our behalf. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service.
+We use other third parties such as an email service provider to send out emails on our behalf. When you sign up for our services, we will share your personally identifiable information only as necessary for the third party to provide that service.
 
 #### Social Media Feature and Widgets
 
@@ -97,15 +95,15 @@ Our Web site includes Social Media Features, such as the Facebook and Twitter bu
 
 #### Legal Disclosure
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+We reserve the right to disclose your personally identifiable information as required by law such as company subpoena, or similar legal process and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 ##### Business Transitions
 
-In the event WebPT goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.
+In the event WebPT goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
 
 #### Our Commitment to Data Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+The security of your personally identifiable information is important to us. We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
 #### Our Commitment to Children's Privacy
 
@@ -113,11 +111,11 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 #### Changes to This Policy
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-#### How You Can Access, Correct and Deactivate Your Information
+#### How You Can Access, Correct, Delete and Deactivate Your Information
 
-You can access and correct all your personally identifiable information that we collect online and maintain by contacting us at [privacy@webpt.com](mailto:privacy@webpt.com) or by submitting a written request to:
+You can access, delete and correct all your personally identifiable information that we collect online and maintain by contacting us at [privacy@webpt.com](mailto:privacy@webpt.com) or by submitting a written request to:
 
 **WebPT**  
 ATTN: Website Security  
@@ -130,6 +128,6 @@ We use this procedure to better safeguard your information. You can correct fact
 
 #### How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@webpt.com](mailto:privacy@webpt.com).
+Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@webpt.com](mailto:privacy@webpt.com) or write to us through the mailing address listed above.
 
 #### **Get exclusive content** delivered right to your inbox.
