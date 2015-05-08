@@ -1,14 +1,49 @@
-<!--The following is the downloaded HTML source of the totalbankruptcy.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209082531id_/http%3A//www.totalbankruptcy.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the totalbankruptcy.com privacy policy that was archived on 2015-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150509012548id_/http%3A//www.totalbankruptcy.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><meta http-equiv="Content-Language" content="en-us"><meta name="robots" content="all"><meta name="robots" content="NOODP, NOYDIR"><meta http-equiv="imagetoolbar" content="false"><meta name="MSSmartTagsPreventParsing" content="true"><link rel="shortcut icon" href="/favicon.ico"><link href="http://assets.totalbankruptcy.com/pc/default/css/styles-all.css" rel="stylesheet" type="text/css"><link href="http://assets.totalbankruptcy.com/pc/default/css/mobile.css" rel="stylesheet" media="screen and (max-width: 600px)"><link href="http://assets.totalbankruptcy.com/tnt/css/omniture.css" rel="stylesheet" type="text/css"><link href="http://assets.totalbankruptcy.com/pc/mini/css/facebox.css" media="screen" rel="stylesheet" type="text/css"><link href="http://assets.totalbankruptcy.com/nj/css/nj.css" media="screen" rel="stylesheet" type="text/css"><link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic|Lora:400,400italic,700,700italic&amp;subset=latin" type="text/css" media="all">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><meta http-equiv="Content-Language" content="en-us"><meta name="robots" content="all"><meta name="robots" content="NOODP, NOYDIR"><meta http-equiv="imagetoolbar" content="false"><meta name="MSSmartTagsPreventParsing" content="true"><link rel="shortcut icon" href="/favicon.ico"><link href="http://assets.totalbankruptcy.com/pc/default/css/styles-all.css" rel="stylesheet" type="text/css"><link href="http://assets.totalbankruptcy.com/pc/default/css/mobile.css" rel="stylesheet" media="screen and (max-width: 600px)"><link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic|Lora:400,400italic,700,700italic&amp;subset=latin" type="text/css" media="all">
 
-  <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3555.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://assets.totalbankruptcy.com/js/mbox.js" type="text/javascript"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
-	<script src="http://assets.totalbankruptcy.com/js/jqueryplugins.js" type="text/javascript"></script>
-  <script src="http://assets.totalbankruptcy.com/pc/default/js/scripts.js" type="text/javascript"></script>
-  <script src="http://assets.totalbankruptcy.com/js/taplugins.js" type="text/javascript"></script>
-  <script type="text/javascript" src="../../js/NJConfirmation.js?q=1"></script>
+    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3555.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://assets.totalbankruptcy.com/js/mbox.js" type="text/javascript"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+    <script src="http://assets.totalbankruptcy.com/js/jqueryplugins.js" type="text/javascript"></script>
+    <script src="http://assets.totalbankruptcy.com/pc/default/js/scripts.js" type="text/javascript"></script>
+    <script src="http://assets.totalbankruptcy.com/js/taplugins.js" type="text/javascript"></script>
+    
+    <link href="http://assets.totalattorneys.com/shared/hpm/StateConfirmation/css/facebox.css" media="screen" rel="stylesheet" type="text/css"><link href="http://assets.totalattorneys.com/shared/hpm/StateConfirmation/css/nj.css" media="screen" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://assets.totalattorneys.com/shared/hpm/StateConfirmation/js/facebox.js"></script>
+    <script type="text/javascript" src="http://assets.totalattorneys.com/shared/hpm/StateConfirmation/js/stateConfirmationParent.js"></script>
+    
+    <script>
+        var redirectToThankyouPage = function (redirectToUrl) {
+            if (redirectToUrl.indexOf("page-thank-you") != -1) {
+                window.nolaunchClick = true;
+                window.location = redirectToUrl;
+            }
+        };
+
+        var handleIncomingMessage = function (e) {
+            try {
+                var requestObj = $.parseJSON(e.data);
+                if (requestObj.isStateConfirmation) {
+                    var fn = eval(requestObj.action);
+                    var parameter = requestObj.parameter;
+                    fn(parameter);
+                }
+            } catch (err) {
+            }
+        };
+
+        if (window.postMessage) {
+            if (typeof window.addEventListener != 'undefined') {
+                window.addEventListener('message', handleIncomingMessage, false);
+            }
+            else if (typeof window.attachEvent != 'undefined') {
+                window.attachEvent('onmessage', handleIncomingMessage);
+            }
+        } 
+
+    </script>
+  
   <!-- DO NOT REMOVE - This function below still runs for IE6 users as a png transparency fix -->
   <!--[if IE 6]>
   <script src="http://assets.totalbankruptcy.com/pc/default/js/DD_belatedPNG.js" type="text/javascript"></script>
@@ -37,8 +72,6 @@
 	    });
 	</script>
 	<!-- END Attorneys: Join Us tooltip -->		
-
-
 
 
 
@@ -89,8 +122,8 @@
    
     </script>
 
-    <form name="aspnetForm" method="post" action="/pc/Default/privacy-policy.aspx?id=34&amp;langtype=1033" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjczMjc0Mzg1D2QWAmYPZBYCAgMPZBYCAgQPFgIeBFRleHQFkwE8IS0tDQo8cGluZ2RvbV9odHRwX2N1c3RvbV9jaGVjaz4NCiAgICAgICAgPHN0YXR1cz5PSzwvc3RhdHVzPg0KICAgICAgICA8cmVzcG9uc2VfdGltZT4wLjAwMzA1MDk8L3Jlc3BvbnNlX3RpbWU+DQo8L3Bpbmdkb21faHR0cF9jdXN0b21fY2hlY2s+DQotLT5kZA==">
+    <form name="aspnetForm" method="post" action="privacy-policy.aspx?id=34&amp;langtype=1033" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQyNTI5MDExNQ9kFgJmD2QWAgIDD2QWAgIEDxYCHgRUZXh0BZMBPCEtLQ0KPHBpbmdkb21faHR0cF9jdXN0b21fY2hlY2s+DQogICAgICAgIDxzdGF0dXM+T0s8L3N0YXR1cz4NCiAgICAgICAgPHJlc3BvbnNlX3RpbWU+MC4wMDI4NjY3PC9yZXNwb25zZV90aW1lPg0KPC9waW5nZG9tX2h0dHBfY3VzdG9tX2NoZWNrPg0KLS0+ZGSj3wqlIAkC8F+LTDjGBH9FZ8MB7pNm9DE4O90KiC4ZBQ==">
 
 
 <script type="text/javascript">
@@ -98,7 +131,8 @@
 function runFlash(width, height, src, align, name) { document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="' +width+ '" height="' +height+ '" align="' +align+ '" id="' +name+ '">\n'); document.write('<param name="movie" value="/pc/Default'+src+'" />\n'); document.write('<param name="wmode" value="transparent" />\n');  document.write('<param name="quality" value="high" />\n');  document.write('<embed src="/pc/Default' +src+ '" quality="high" wmode="transparent" swliveconnect="true" name="' +name+ '" align="' +align+ '" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="' +width+ '" height="' +height+ '">\n');  document.write('</embed>\n');  document.write('</object>\n');}//]]>
 </script>
 
-<script src="/ScriptResource.axd?d=9XiA3iTn1c-1W9G72N-g5ZZKbiGLv8XD97XZJAxt-daV8BUTRA-nJ378B33uan5z2HgBEJtVwBs3imvijKoU4DW9KnCn4wPqKbBQpx169U0mT9QUarLloCTkuAuVul1VGdyuprSGrOU10f2RCujTpqoVW8o1&amp;t=ffffffffda4966c0" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1aE5OoquqE4a7Drz8oEqv6pYi3sjabMePxwXP2eZWJLa9uBCRdegJewalmpTUyA5UwX6vtFT_xhQMqXr1X469Xjzz0bYgqB89IvVfGO4Z5Ti7QGdeyLM-PVhg83_doAaAbdbM5SgbqtA9ZjJ7uXeFnwOvWOACtfwnmvzjXf1a3g1&amp;t=1c6ae475" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5B892799">
 
     <!-- superfluous form to fix a display bug with nested forms -->
     </form>
@@ -112,8 +146,8 @@ function runFlash(width, height, src, align, name) { document.write('<object cla
            
         <div id="top-zip-banner-4">
           <fieldset>
-            <input name="zipCode" type="text" maxlength="5" id="3651792199758912" class="banner-zip" onkeydown="if (event.keyCode == 13) processZip(this.id);">
-            <a href="javascript:processZip('3651792199758912');" id="3651792199758912Link" class="banner-go">Submit ZIP Code</a><script type="text/javascript"> if (document.getElementById('zipCodePod309') != null) {var newId = String(Math.random() * 50).replace(".", ""); var newLinkId = newId + 'Link';var functionName = "javascript:processZip('" + newId + "');"; document.getElementById('zipCodePod309').setAttribute("id", newId);document.getElementById('zipCodePodLink446').setAttribute("id", newLinkId); document.getElementById(newLinkId).setAttribute("href", functionName);function processZip(id) {if (!isNaN(document.getElementById(id).value)) { window.location.href = '/free-case-evaluation.aspx?zipcode=' + document.getElementById(id).value; } } }</script>
+            <input name="zipCode" type="text" maxlength="5" id="27865724900090104" class="banner-zip" onkeydown="if (event.keyCode == 13) processZip(this.id);">
+            <a href="javascript:processZip('27865724900090104');" id="27865724900090104Link" class="banner-go">Submit ZIP Code</a><script type="text/javascript"> if (document.getElementById('zipCodePod309') != null) {var newId = String(Math.random() * 50).replace(".", ""); var newLinkId = newId + 'Link';var functionName = "javascript:processZip('" + newId + "');"; document.getElementById('zipCodePod309').setAttribute("id", newId);document.getElementById('zipCodePodLink446').setAttribute("id", newLinkId); document.getElementById(newLinkId).setAttribute("href", functionName);function processZip(id) {if (!isNaN(document.getElementById(id).value)) { window.location.href = '/free-case-evaluation.aspx?zipcode=' + document.getElementById(id).value; } } }</script>
           </fieldset>
           <div id="top-zip-banner-right"></div>
         </div>  
@@ -161,21 +195,6 @@ function runFlash(width, height, src, align, name) { document.write('<object cla
       <script type="text/javascript">mboxCreate('tbk-split-offer-nav');</script> 
 
 	
-      <div id="articles">
-      	<h3>BANKRUPTCY UPDATES</h3>
-		<!--?xml version="1.0" encoding="utf-16"?--><ul><li><a href="http://www.totalbankruptcy.com/bankruptcy-news/filing-bankruptcy/aaron-carter-files-800581812.aspx">Former Pop Music Star Aaron Carter Files for Bankruptcy Help
-						(December 12, 2013)
-					</a></li><li><a href="http://www.totalbankruptcy.com/bankruptcy-news/bankruptcy-help/desert-hot-springs-800533218.aspx">California Desert Resort Town Mulls Potential Bankruptcy Filing
-						(December 04, 2013)
-					</a></li><li><a href="http://www.totalbankruptcy.com/bankruptcy-news/bankruptcy-information/advantage-rent-car-800517712.aspx">Advantage Rent A Car to File for Bankruptcy Amid Lagging Revenues
-						(December 04, 2013)
-					</a></li><li><a href="http://www.totalbankruptcy.com/bankruptcy-news/filing-bankruptcy/arkansas-canning-files-800518822.aspx">Arkansas Vegetable Canning Company Files for Bankruptcy Protection
-						(December 04, 2013)
-					</a></li><li><a href="http://www.totalbankruptcy.com/bankruptcy-news/bankruptcy-help/Houston-sports-network-800513771.aspx">Houston Sports Programming Network Files for Bankruptcy
-						(October 25, 2013)
-					</a></li></ul>
-      </div>
-
     </div>
 
     <div id="col-right">
@@ -197,7 +216,7 @@ function runFlash(width, height, src, align, name) { document.write('<object cla
 
 <h1>Privacy Policy</h1>
 
-<h2>Last Updated: November 2012<br></h2>
+<h2>Last Updated: March 2014<br></h2>
 <p>This is the privacy policy for the <a href="http://www.totalbankruptcy.com" title="bankruptcy help">bankruptcy</a> site, Total Bankruptcy.</p>
 <p>All of the information we obtain about you is stored securely on our servers and we use it only to identify the sponsoring lawyers or law firms in your geographical area and to connect you with them, as  described in our <a href="/terms-conditions.aspx" rel="nofollow">Terms and Conditions</a> to you, to allow sponsoring lawyers or law firms to evaluate your case and provide legal services to you and to provide ongoing communications to you in furtherance of these legal services, and as set forth below. Except as set forth below, we will not share your personal information with anyone else without your permission. Any third party to whom we provide your information must agree to keep your information confidential and not to share it with any other third party without your permission. We describe our information collection and disclosure practices in greater detail below.</p>
 
@@ -219,6 +238,8 @@ function runFlash(width, height, src, align, name) { document.write('<object cla
  <li><strong>Information Automatically Generated From This Web site:</strong> We also collect certain information about you automatically when you visit our Web site through our use of "cookies." Cookies are electronic identifiers that are transferred automatically to your computer through your browser and they allow our computers to save certain information you provide us and store information about you so we can recognize you when you visit our Web site in the future. We also automatically collect your Internet Protocol (IP) address (which allows us to understand how you use our site and to enable us to make changes to our site in order to improve your user experience); information regarding your computer and your connection to our site (such as your browser type, operating system, and platform); and your user history to, through, and away from our site (such as session information, page loading times, page errors and broken links, the length of your visits to specific pages within our site, and other information related to your experience on our site).</li>
  <li><strong>Information We Obtain From Third Parties:</strong> From time to time we collect information about you from third parties, such as updated contact information, and search term and search result information from your Web searches.</li>
 </ol>
+
+<p>This Website does not track its visitors over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track signals.</p>
 
 <h2>How Do We Use Information We Collect Through This Web site?</h2>
 
@@ -266,12 +287,6 @@ information and offers that we think may interest you</li><li>to perform researc
 <h2>Links</h2>
 
 <p>This Web site contains links to other sites that are owned and operated by unaffiliated third parties. Please be aware that we are not responsible for the privacy practices of such other sites and any information you provide to them will not be governed by this Privacy Policy. This privacy statement applies solely to information collected on this Web site. When you leave our site, we encourage you to read the privacy statements of every Web site you visit prior to providing your personally identifiable information to them.</p>
-
-<h2>Opt-Out Instructions</h2>
-
-<p>You may opt-out by clicking the below opt-out page link. This opt-out does not apply to communications we have with you to complete your order or provide the service you requested. Understand, however, that, by electing this option, you may limit the functionality of this Web site and the amount of information and services we can provide to you. You may revoke your opt-out option at any time by contacting us using the information provided above.</p>
-
-<p>To opt-out simply go to this <a href="http://totalattorneys.totalunsubscribe.com/14ec0bc73db5b6f2950cf49e653447bc" target="_blank" rel="nofollow">opt-out page</a> and follow the instructions provided on that page to tell us which email address(es) you want unsubscribed.</p>
 </div>
   
   
@@ -373,7 +388,7 @@ information and offers that we think may interest you</li><li>to perform researc
             </div>
             <script type="text/javascript">mboxCreate('tbk-joinus-pc-default');</script>  
             <div id="copy">
-                Copyright © 2014 TotalBankruptcy, LLC. (as licensee). All rights reserved.
+                Copyright © 2015 TotalBankruptcy, LLC. (as licensee). All rights reserved.
             </div>
         </div>
 	    <div id="ctl00_ContentBlock3">
@@ -429,17 +444,10 @@ other lawyers. The information contained herein is not legal advice. Any informa
     <!--
 <pingdom_http_custom_check>
         <status>OK</status>
-        <response_time>0.0030509</response_time>
+        <response_time>0.0028667</response_time>
 </pingdom_http_custom_check>
 -->
     
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-
 
     <div class="mboxDefault"></div>
     <script type="text/javascript">mboxCreate('tbk-seo-monitoring');</script>    
