@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockstarleadmachine.com privacy policy that was archived on 2014-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140725033834id_/http%3A//rockstarleadmachine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstarleadmachine.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508124309id_/http%3A//rockstarleadmachine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The RockStar Lead Machine
 
