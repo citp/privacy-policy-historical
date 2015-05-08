@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestallergysites.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224133659id_/http%3A//bestallergysites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestallergysites.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508053953id_/http%3A//bestallergysites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Allergy Sites
 
@@ -18,8 +18,7 @@ Best Allergy Sites does not use cookies at this time.
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include but are not limited to:
 
 Google Adsense  
-Amazon  
-Belvoir Media Group
+Amazon
 
 _Google, as a third party vendor, uses cookies to serve ads on http://www.bestallergysites.com._  
 _Google’s use of the DART cookie enables it to serve ads to our users based on your visit to http://www.bestallergysites.com and other sites on the Internet._  
