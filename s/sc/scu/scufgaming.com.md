@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scufgaming.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161740id_/http%3A//scufgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scufgaming.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508110139id_/http%3A//scufgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scuf Gaming
 
@@ -7,7 +7,11 @@ We may collect, store and use the following kinds of personal data:
 (a) information about your computer and about your visits to and use of this website, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views;  
 (b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services including name, address, telephone number, email address and console information.  
 (c) information that you provide to us for the purpose of registering with us such as email address and password.  
-(d) any other information that you choose to send to us.
+(d) any other information that you choose to send to us.  
+(e) Scuf Gaming works with [AdRoll retargeting](http://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us.  
+No personally identifiable information about you is collected or shared by AdRoll with Scuf Gaming. You can opt-out of AdRoll and their partners by visiting [this link](http://www.adroll.com/about/privacy).  
+Facebook Exchange Addition  
+Scuf Gaming also uses AdRoll to place advertising on its behalf on [Facebook Exchange](https://www.adroll.com/facebook_exchange).
 
 (2) Using your personal data – Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.  
 We may use your personal information to:  
