@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopmadeinchina.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215223215id_/http%3A//www.shopmadeinchina.com/static/pages/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmadeinchina.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508135327id_/http%3A//www.shopmadeinchina.com/static/pages/privacy_policy.shtml) for the most accurate reproduction.*
 
 # ShopMadeInChina
 
@@ -29,4 +29,4 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 • To administer a contest, promotion, survey or other site feature
 
 **Choice and Opt-Out**  
-If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [service@shopmadeinchina.com](mailto:service@shopmadeinchina.com)
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at 
