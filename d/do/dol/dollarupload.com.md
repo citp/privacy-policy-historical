@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarupload.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133849id_/http%3A//dollarupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarupload.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508121330id_/http%3A//dollarupload.com/privacy.php) for the most accurate reproduction.*
 
 # DollarUpload - Privacy Policy
 
@@ -113,6 +113,6 @@ SEVERABILITY
 
 If any provision of this Privacy Policy is found to be illegal, void, or unenforceable, that provision will be deemed severed from the balance of the agreement and will not affect the validity and enforceability of the remaining provisions, which will continue in full force and effect. 
 
-This page was lasted updated on August 31, 2011. 
+This page was lasted updated on March 31, 2015. 
 
-[Contact Us](https://web.archive.org/web/20141120133849id_/http%3A//dollarupload.com/contact.php)
+[Contact Us](https://web.archive.org/web/20150508121330id_/http%3A//dollarupload.com/contact.php)
