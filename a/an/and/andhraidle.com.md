@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhraidle.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801205504id_/http%3A//www.andhraidle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhraidle.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508092147id_/http%3A//www.andhraidle.in/privacy-policy) for the most accurate reproduction.*
 
 # Andhra Idle | Privacy Policy
 
