@@ -1,25 +1,8 @@
-> *The following text is extracted and transformed from the qlook.bz privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205104344id_/http%3A//qlook.bz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qlook.bz privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508141528id_/http%3A//qlook.bz/privacy-policy) for the most accurate reproduction.*
 
 # QLooK - Privacy Policy
 
-Privacy Policy | QLook.BZ
-
-  Sign In 
-
-[ ](https://web.archive.org/web/20141205104344id_/http%3A//qlook.bz/visitor-signup.aspx)
-
-**Sign in using your QLook Account**   
-( Don't have an account? )[ **   Sign up**](https://web.archive.org/web/20141205104344id_/http%3A//qlook.bz/visitor-signup.aspx)
-
-Login ID *****
-
-Password *****
-
-or[ **Cancel**](https://web.archive.org/web/20141205104344id_/http%3A//qlook.bz/visitor-signup.aspx)
-
-\-------------------------------------OR\------------------------------------
-
-For registration and availability of different services (website, telephone search, SMS and WAP or any other source of service) rendered by Qlook.bz from time-to-time, a customer is asked to give the name, resident address, workplace address, email address, date of birth, educational qualification and similar personal information. The personal information is needed for three common reasons- to personalize the content of the customer, to fulfill the customer’s request, for certain services and to contact customer about our services. QLooK clearly applies its policy to personal information, dispersed on any of the media. 
+For registration and availability of different services (website, telephone search, SMS and WAP or any other source of service) rendered by qlook from time-to-time, a customer is asked to give the name, resident address, workplace address, email address, date of birth, educational qualification and similar personal information. The personal information is needed for three common reasons- to personalize the content of the customer, to fulfill the customer’s request, for certain services and to contact customer about our services. Qlook clearly applies its policy to personal information, dispersed on any of the media. 
 
 We are dedicated to guard the private and confidential data given by the user of Media. This policy is to show our good faith. All the policies that are rendered by us are solely belonging to us. Any other organization or a person that we do not employ, if found using our policies will be taken as unauthentic. 
 
@@ -27,14 +10,12 @@ We keep all personal data safe and confidential and use only for our research, m
 
 We share personal data only under certain conditions such as 1. If we have customer’s approval or any other deemed approval. 2. If we are compelled by law to do so. We also manage and secure the information which is collected online. 
 
-QLooK enables its customers to edit their account information and preferences at any point of time; additionally you want us to know about your new services. For privacy and security concern, we also take sustainable steps to confirm your identity before granting approval of accessing our services. 
+Qlook enables its customers to edit their account information and preferences at any point of time; additionally you want us to know about your new services. For privacy and security concern, we also take sustainable steps to confirm your identity before granting approval of accessing our services. 
 
 Acknowledgement all personal data of customers are required to be acquired by the customer and if they do not wish to render our services, they can refrain their information. If any required data for availing our services found missing, the registration will be taken as an incomplete process. 
 
 For our corporate customer, we first enter into contract with you for non-disclosure of your confidential information. This policy shall not violate any term of the contract in any manner. 
 
-If you have query or concerns about these privacy policies; please send us an email at [info@qlook.bz](mailto:info@qlook.bz)
-
-[ ](mailto:info@qlook.bz)
+If you have query or concerns about these privacy policies; please send us an email at [info@qlook.bz ](mailto:info@qlook.bz)
 
 [ ](mailto:info@qlook.bz)
