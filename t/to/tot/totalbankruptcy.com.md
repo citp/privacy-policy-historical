@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209082531id_/http%3A//www.totalbankruptcy.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509012548id_/http%3A//www.totalbankruptcy.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Total Bankruptcy Website's Privacy Policy
 
-## Last Updated: November 2012  
+## Last Updated: March 2014  
 
 
 This is the privacy policy for the [bankruptcy](http://www.totalbankruptcy.com/ "bankruptcy help") site, Total Bankruptcy.
@@ -24,6 +24,8 @@ We collect personal information about you in three principal ways: (1) informati
   3. **Information We Obtain From Third Parties:** From time to time we collect information about you from third parties, such as updated contact information, and search term and search result information from your Web searches.
 
 
+
+This Website does not track its visitors over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track signals.
 
 ## How Do We Use Information We Collect Through This Web site?
 
@@ -66,9 +68,3 @@ From time to time, we may decide to change the provisions of this privacy policy
 ## Links
 
 This Web site contains links to other sites that are owned and operated by unaffiliated third parties. Please be aware that we are not responsible for the privacy practices of such other sites and any information you provide to them will not be governed by this Privacy Policy. This privacy statement applies solely to information collected on this Web site. When you leave our site, we encourage you to read the privacy statements of every Web site you visit prior to providing your personally identifiable information to them.
-
-## Opt-Out Instructions
-
-You may opt-out by clicking the below opt-out page link. This opt-out does not apply to communications we have with you to complete your order or provide the service you requested. Understand, however, that, by electing this option, you may limit the functionality of this Web site and the amount of information and services we can provide to you. You may revoke your opt-out option at any time by contacting us using the information provided above.
-
-To opt-out simply go to this [opt-out page](http://totalattorneys.totalunsubscribe.com/14ec0bc73db5b6f2950cf49e653447bc) and follow the instructions provided on that page to tell us which email address(es) you want unsubscribed.
