@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214221259id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508081117id_/http%3A//www.jonesday.com/privacy) for the most accurate reproduction.*
 
 # Jones Day | Privacy
 
@@ -16,7 +16,7 @@ Jones Day is committed to protecting your privacy. Please read the following Pri
 4\. Australian Privacy Act 1988
 
  **1\. What information we collect from you and how we use that information**  
-Jones Day does not collect any personally identifiable information from you ( _e.g._ , name, address, telephone number, e-mail address) unless you voluntarily choose to submit or otherwise disclose such information to us, including information submitted or disclosed by mail, telephone, fax, or electronically. We will not sell, trade, or rent your personally identifiable information to third parties. Jones Day will only use your information to respond to your request for information or, if appropriate, to consider your request for consideration of employment with Jones Day. If you wish to change any information submitted to Jones Day, or if you wish to opt out of our mailing list, please do so using the [publication unsubscribe](http://www.jonesday.com/pubs/unsubscribe.aspx) form on this site.
+Jones Day does not collect any personally identifiable information from you ( _e.g._ , name, address, telephone number, e-mail address) unless you voluntarily choose to submit or otherwise disclose such information to us, including information submitted or disclosed by mail, telephone, fax, or electronically. We will not sell, trade, or rent your personally identifiable information to third parties. Jones Day will only use your information to respond to your request for information or, if appropriate, to consider your request for consideration of employment with Jones Day. If you wish to change any information submitted to Jones Day, or if you wish to opt out of our mailing list, please do so using the [publication unsubscribe](http://www.jonesday.com/newsknowledge/PublicationUnsubscribe.aspx) form on this site.
 
 Information from children: Jones Day does not direct its web site to children under thirteen (13) years of age. Individuals under eighteen (18) should consult with their parent or guardian about the use of this web site.
 
