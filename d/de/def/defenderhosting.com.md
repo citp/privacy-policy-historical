@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the defenderhosting.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207234124id_/http%3A//www.virtacore.com%3Fpage_id%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenderhosting.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508194828id_/http%3A//www.virtacore.com%3Fpage_id%3D54) for the most accurate reproduction.*
 
-# Privacy Policy | Virtacore
+# Privacy Policy - Virtacore
 
 By accessing Virtacore’s website or enrolling or using any services on such website (collectively the “Services”), you agree to the terms of this Privacy Policy. This Privacy Policy is part of the terms that you must agree to in connection with your use of our site and the Services. If you do not agree to any of the terms in this Privacy Policy, you should not use the Services.
 
