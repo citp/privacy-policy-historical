@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austrian.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120135826id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austrian.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508062038id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,11 +51,11 @@ In accordance with the Regulation (EU) No 996/2010 (Regulation No 996/2010 of th
 
 **Newsletter  
 **  
-We save your name and email address in order to send you regular information – if requested. You can unregister from our newsletter with every new edition. You will not receive any further items as of then. We will not share your personal data with third parties. 
+We save your name and email address in order to send you regular information – if requested. To unregister from our newsletter you may click on the 'unsuscribe' link at the bottom of the email or contact us at [online@austrian.com](mailto:online@austrian.com). You will not receive any further items as of then. We will not share your personal data with third parties. 
 
 **Austrian Career Cockpit** Via the Austrian Career Cockpit you can send us your online application directly or request interesting job offers to be sent to you by email. For this service you will need to create a profile containing your personal data. We will treat your details in strict confidentiality and will not pass them on to third parties. You can delete your profile or your online application at any time. To do so, please send an email to [karriere@austrian.com](mailto:karriere@austrian.com).  
 
- **Data security  
+**Data security  
 **  
 We take technical and organizational safety measures to protect the data you put at our disposal against incidental or wilful manipulation, loss, deletion or unauthorized access. Our safety measures are continuously being improved following new technological developments. Data processing and transmission are done using SSL protocol (Secure Socket Layer). 
 
