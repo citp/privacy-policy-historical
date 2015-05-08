@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218233328id_/http%3A//www.superbreak.com/info/privacyandterms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508113609id_/https%3A//www.superbreak.com/info/privacyandterms.htm) for the most accurate reproduction.*
 
 # SuperBreak Privacy & Terms - Customer Help Section - SuperBreak
 
@@ -78,7 +78,7 @@ If booking by telephone or any other communication channel, on receipt of your b
 
 You must ensure that all information you give us in connection with your booking is accurate and complete. Failure to do so may indicate that the booking is fraudulent. In the event that any information is or appears to be incorrect or incomplete, we have the right to decline or cancel the booking as referred to in clause 8.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 2\. Payment
 
@@ -88,13 +88,13 @@ For flight inclusive bookings, all monies paid to any authorised travel agent of
 
 For holidays which do not include flights arranged by us, all monies you pay to one of our authorised travel agents for your holiday with us will be held by the agent on your behalf until we issue our confirmation invoice. After that point, your agent will hold the monies on our behalf.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 3\. Your contract
 
 A binding contract between us comes into existence when either we dispatch our confirmation invoice or, for on line bookings, when the final page of the booking confirmation procedure gives you a booking reference. We reserve the right to decline any booking at our discretion. This contract and all matters arising out of it are governed by English law. We both agree that any dispute, claim or other matter which arises out of or in connection with this contract or your holiday will be dealt with by the Courts of England, Wales, Scotland or Northern Ireland as appropriate. Changes to these Booking Conditions will only be valid if agreed by us in writing.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 4\. The cost of your holiday
 
@@ -116,7 +116,7 @@ Please note, the information and prices shown in brochures may have changed by t
 
 If changes to transportation costs, taxes, dues, fees or exchange rates arise before your departure date, we may pass on differences in cost after you have booked. We will absorb an increase of up to 2% of the cost of your holiday (excluding insurance premiums and amendment fees). However, there will be no price change within 30 days of your departure date.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 5\. Changes by you
 
@@ -134,7 +134,7 @@ Theatre/Concert/ Event Package | 15GBP/ Name | Not Permitted | Not Permitted | 1
   
 # In some cases this may be 100% or more of the original cost – please ask for details
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 6\. Cancellation by you
 
@@ -154,15 +154,15 @@ Theatre/Concert/ Event Package | ^ See Below | 100% | 100% | 100%
 
 *Refund of total package price processed on a receipt of rail tickets in SuperBreak office
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 7\. Insurance
 
 We consider adequate travel insurance to be essential. All premiums must be paid at the time of booking, as cover will not be effective until we receive all applicable premiums in full. It is your responsibility to ensure that the insurance cover you purchase is suitable and adequate for your particular needs.
 
-[View the insurance Policy Summary (PDF)](http://www.superbreak.com/Content/downloads/insurance/optimum_travel_insurance_2011.pdf?w=680&h=500&resize=yes&sbar=yes "View the insurance Policy Summary \(PDF\)")
+[View the insurance Policy Summary (PDF)](https://www.superbreak.com/Content/downloads/insurance/optimum_travel_insurance_2011.pdf?w=680&h=500&resize=yes&sbar=yes "View the insurance Policy Summary \(PDF\)")
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 8\. Changes and cancellation by us
 
@@ -184,13 +184,13 @@ In all cases, our liability for significant changes and cancellations is limited
 
 Due to reasons beyond our control it may be necessary to change the transportation carrier from that originally booked at any point prior to departure, this would not be classed as a significant change. Additionally, many airlines offer ‘code-shares’ whereby they market and sell flights using their own flight numbers however the actual flight is operated by another company, again this is perfectly normal practice and we cannot be held responsible for such circumstances and this would not be classified as a significant change.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 9\. Force Majeure
 
 Except where otherwise expressly stated in these booking conditions, we regret we cannot accept liability or pay any compensation where the performance or prompt performance of our contractual obligations is prevented or affected by or you otherwise suffer any damage or loss (as more fully described in clause 10(1) below) as a result of “force majeure”. In these Booking Conditions, “force majeure” means any event which we or the supplier of the service(s) in question could not, even with all due care, foresee or avoid. Such events may include, whether actual or threatened, war or threat of war, riot, civil strife, terrorist activity, industrial dispute, natural or nuclear disaster, adverse weather conditions, fire and all similar events outside our control.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 10\. Our Liability to you
 
@@ -217,7 +217,7 @@ We cannot accept responsibility for any services which do not form part of our c
 
 (4) You must provide ourselves and our insurers with all assistance we may reasonably require. You must also tell us and the supplier concerned about your claim or complaint as set out in clause 11 below. If asked to do so, you must transfer to us or our insurers any rights you have against the supplier or whoever else is responsible for your claim or complaint (if the person concerned is under 18, their parent or guardian must do so). You must also agree to cooperate fully with us and our insurers if we or our insurers want to enforce any rights which are transferred.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 11\. Complaints and queries - Help when you need it
 
@@ -225,7 +225,7 @@ We always aim to make sure you’re 100% happy with your break. However if your 
 
 Delays – In the event of a significant delay to any transportation booked as part of a Superbreak package you should always in the first instance speak with a representative of the transportation provider in order to gain immediate assistance. Policies in relation to compensation/cancellation vary depending on the mode of transport. Should you require specific information in relation to your carrier please contact us by telephone or email. In all cases we advise you to keep proof of delay and any out of pocket expenses in case you are able to make a claim.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 12\. Behaviour
 
@@ -233,13 +233,13 @@ When you book with us, you accept responsibility for any damage or loss caused b
 
 We expect all clients to have consideration for other people. If in our reasonable opinion or in the reasonable opinion of any other person in authority, you or any member of your party behaves in such a way as to cause or be likely to cause danger, upset or distress to any third party or damage to property, we are entitled, without prior notice, to terminate the holiday of the person(s) concerned. In this situation, the person(s) concerned will be required to leave the accommodation or other service. We will have no further responsibility toward such person(s) including any return travel arrangements. No refunds will be made and we will not pay any expenses or costs incurred as a result of the termination.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 13\. Conditions of suppliers
 
 Many of the services which make up your break are provided by independent suppliers (for example, where applicable, rail carriers, airlines and accommodation owners). Those suppliers provide these services in accordance with their own terms and conditions. Some of these terms and conditions may limit or exclude the supplier's liability to you, usually in accordance with applicable International Conventions (see clause 10 (3)). Copies of the relevant parts of these terms and conditions are available on request from the supplier concerned.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 14\. Special requests and medical problems
 
@@ -247,7 +247,7 @@ If you have any special request, you must advise us at the time of booking. Alth
 
 If you or any member of your party has any medical problem or disability which may affect your holiday, please tell us before you confirm your booking so we can assist you in considering the suitability of your booking. In any event, you must give us full details in writing at the time of booking. If we reasonably feel unable to properly accommodate the particular needs of the person concerned, we must reserve the right to decline their reservation or, if full details are not given at the time of booking, cancel when we become aware of these details.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 15\. Passports, visas and health requirements
 
@@ -255,7 +255,7 @@ You should check the passport, visa and health requirements which are applicable
 
 It is the party leader's responsibility to ensure that all members of the party are in possession of all necessary travel and health documents before departure. All costs incurred in obtaining such documentation must be paid by you. We regret we cannot accept any liability if you are refused entry onto any transport or into any country due to failure on your part to carry correct documentation. If failure to have any necessary travel or other documents results in fines, surcharges or other financial penalty being imposed on us, you will be responsible for reimbursing us accordingly.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 16\. Financial security
 
@@ -265,37 +265,37 @@ For non flight-inclusive package holidays only we hold a bond with ABTA. This ar
 
 For accommodation only bookings overseas, all customer monies are held in a Trust Account approved by Trading Standards and reviewed by our auditors. This arrangement means your money for this type of booking will be refunded in the unlikely event of our being unable to provide your accommodation due to our insolvency.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### Airline failure
 
 Your holiday is protected in the event of failure of your airline. In the unlikely event that the airline that you are travelling with ceases trading during your holiday, you must contact us, in order that we can make alternative arrangements. We will not be liable for any additional costs incurred if you make your own arrangements.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 17\. Safety standards
 
 Please note, it is the requirements and standards of the country in which any services which make up your holiday are provided which apply to those services and not those of the UK. As a general rule, these requirements and standards will not be the same as the UK and may sometimes be lower.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 18\. Accommodation Breaks - Minimum stay and meals
 
 Certain breaks / accommodation may require minimum lengths of stay. Where an accommodation provider offers dinner this may be table d'hote, a carvery or may sometimes be in the form of an allowance against the à la carte menu. Some accommodation providers offer continental breakfast only. This normally consists of coffee or tea and bread rolls.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 19\. Saver Offers
 
 Where an accommodation provider features more than one offer at any one time (including 7 nights for 6), it may not always be possible to combine them - normally the most advantageous offer will be allowed. (7 nights for 6 prices shown do not include single supplements, which are charged in addition where applicable.) All offers are subject to availability (and are not usually available over Easter/Christmas/New Year), and may be withdrawn at any time.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 20\. Children and Infants
 
 Any policy regarding special rates for children and infants is set out in our brochure or is available on request. However, wherever possible children stay free or at 50% of the adult price and exact prices will be confirmed when booking. Free children rates do not normally include meals which are normally paid direct to the accommodation provider as taken. If you contravene this policy a supplement may be payable to us or to our suppliers directly so that the correct price for the relevant service is paid. At some accommodation children may be charged a flat rate for meals, whether taken or not. Where children only pay 50% of the adult rate, half portions will be served for the meals included in the package price. Certain accommodations may apply restricted access times for children into leisure facilities - please ask for details at the time of booking.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 21\. Rail Inclusive Breaks
 
@@ -317,13 +317,13 @@ Rail inclusive breaks can be booked on line for most of our UK accommodation. Ra
 
 When you contact us to make a booking, we act as agent for all of the Train Operating Companies identified within the brochure. All tickets are issued subject to the normal conditions of the National Conditions of Carriage as published by the British Railway Board on 7 January 1997. Rail tickets are not transferable and are not valid for break of journey. Rail inclusive breaks are offered by SuperBreak Mini-Holidays Limited and NOT by ATOC, Train Operating Companies or the Secretary of State for Transport. The Double Arrows symbol is a trademark owned by the Secretary of State for Transport.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 22\. Star Ratings
 
 We have awarded our own star ratings which do not necessarily relate to those awarded by other organisations, but are solely designed to help you choose between the various accommodation providers.
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 23\. Facilities and Car Parking
 
@@ -334,7 +334,7 @@ We have awarded our own star ratings which do not necessarily relate to those aw
 
 
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 24\. Privacy Statement
 
@@ -362,7 +362,7 @@ SuperBreak Mini-Holidays Ltd
 Trading/Registered Office: Eboracum Way, York YO31 7RE  
 Registered in England: No. 1674987 
 
-[Back To Top](http://www.superbreak.com/info/privacyandterms.htm#topLinks)
+[Back To Top](https://www.superbreak.com/info/privacyandterms.htm#topLinks)
 
 #### 25\. ABTA Statement
 
