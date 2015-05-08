@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everythingetsy.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216074128id_/http%3A//www.everythingetsy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingetsy.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508225346id_/http%3A//www.everythingetsy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EverythingEtsy.com
+# Privacy Policy
 
 ## Your privacy is critically important to us. At Crazy Tree Media, Inc. we have a few fundamental principles:
 
