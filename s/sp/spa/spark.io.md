@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spark.io privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216050113id_/https%3A//www.spark.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spark.io privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508021347id_/https%3A//www.spark.io/privacy) for the most accurate reproduction.*
 
-# Spark | Privacy Policy
+# Spark | Build your connected product
 
 This privacy policy covers Spark’s collection and treatment of information and data collected when you visit Spark’s Websites or use Spark Services.
 
