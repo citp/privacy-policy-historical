@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweetjukebox.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220185409id_/http%3A//www.tweetjukebox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetjukebox.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509193217id_/http%3A//www.tweetjukebox.com/privacy) for the most accurate reproduction.*
 
-# TweetJukebox
+# Tweet Jukebox
 
 This Privacy Policy is to inform you how and what data about you is collected and how the data is used and maintained, as well as to inform you about your obligations regarding privacy of those that might be involved.
 
