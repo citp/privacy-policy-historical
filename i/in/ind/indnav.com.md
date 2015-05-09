@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120111716id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509103425id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
 
 # Indnav.com Terms of Service And Privacy Policy
 
-| [](http://dschool.co/)  
----  
-**Privacy Policy and Terms of Use
+| **Privacy Policy and Terms of Use
 
 * * *
 
 **  
+---  
 **Privacy Policy**  
   
 Privacy issues are a high priority for us at Indnav and we follow standard industry practices to maintain your personal information. Please read the following to learn more about our privacy policy.
