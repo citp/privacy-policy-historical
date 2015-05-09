@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuvidcams.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925211428id_/http%3A//www.nuvidcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvidcams.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509155601id_/http%3A//www.nuvidcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # NuvidCams - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
