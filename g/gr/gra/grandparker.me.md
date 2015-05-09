@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandparker.me privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120231250id_/http%3A//www.grandparker.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandparker.me privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509080643id_/http%3A//www.grandparker.me/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Grand Parker Casino - Play and Win Grand Prizes
 
@@ -16,7 +16,7 @@ Grand Parker’s advertising system logs IP addresses to supply more accurate ad
 
 Players account information supplied during the registration process is kept strictly confidential. Grand Parker does NOT share this information including customer E-mail addresses and other personal information with any third party company and/or organization for commercial or non-commercial purposes. Any personal details a player shares is only for its intended use, such as allowing us to communicate with the player such as Casino promotions, software updates, miscellaneous and send cash-out checks and other information a player requests. 
 
-Grand Parker collects E-mail addresses of those who communicate with the Casino via E-mail. If you do not want to receive any E-mail correspondence from us, please send us a blank E-mail with the text "Remove" in the subject to [support@grandparker.com](mailto:support@grandparker.com). 
+Grand Parker collects E-mail addresses of those who communicate with the Casino via E-mail. If you do not want to receive any E-mail correspondence from us, please send us a blank E-mail with the text "Remove" in the subject to [support@grandparker.me](mailto:support@grandparker.me). 
 
 ## Winnings
 
