@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the perk.com privacy policy that was archived on 2014-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141115080909id_/https%3A//perk.com/perkstatic/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perk.com privacy policy that was archived on 2015-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150509175259id_/http%3A//www.perk.com/perkstatic/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Perk</title>
         <meta property="og:image" content="https://search.perk.com/htmlstore/images/perk-icon.png">	<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" media="all" href="https://cdn2.perk.com/htmlstore/css/style.css" type="text/css">
-	<link rel="stylesheet" media="all" href="https://cdn2.perk.com/htmlstore/css/all.css" type="text/css">
+	<link rel="stylesheet" media="all" href="https://cdn2.perk.com/htmlstore/css/all.css?ver=1.0.2" type="text/css">
 	<link rel="stylesheet" media="all" href="https://cdn2.perk.com/assets/css/header.css" type="text/css">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://cdn2.perk.com/htmlstore/js/jquery-1.7.2.min.js"></script>
 	<script type="text/javascript" src="https://cdn2.perk.com/htmlstore/js/jquery.main.js"></script>
@@ -18,90 +18,112 @@
 	<script src="https://cdn2.perk.com/assets/js/bootstrap.min.js"></script>
 	<script src="https://cdn2.perk.com/assets/js/validations.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" type="text/css">
 
 
 	<!-- header css overrides in case of non desktop devices -->
 		
-			<style type="text/css" src="https://cdn2.perk.com/assets/css/signup_overlay.css"></style>
-	
+	<script src="https://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready( function() {
+		// Perk Apps Sorting
+		$('#all-apps').mixItUp({
+			selectors: {
+				target: '.app'
+			},
+			load: {
+				filter: '.android'
+			}
+		});
+	});
+	$(document).ready( function() {
+		/* Perk Apps menu pop up*/
+		$(".header #perkapps-link").click(function(e){
+			e.preventDefault();
+			e.stopPropagation();
+			$(".perk-apps-pop").toggleClass("active");
+		});
+	});
+	$(document).click(function (e) {
+		if ($(e.target).parents(".perk-apps-pop").length === 0) {
+			 $(".perk-apps-pop").removeClass("active");
+		}
+	});
+	</script>
+
 
 
 
 <!-- header is only for desktop -->
 	<div class="header">
 		<iframe src="about:blank" id="startframe" style="display:none"></iframe>
-		<a href="https://www.perk.com/perk/start" class="perk-logo" target="_parent"></a>
+		<a href="http://perk.com/perk/start" class="perk-logo" target="_parent"></a>
 		<ul class="top_menu">
 
-			<li class="quick-points"><a href="https://www.perk.com/perk/waystoearn/more" target="_parent">Quick Points</a>
+			<li class="quick-points"><a href="http://perk.com/perk/waystoearn/more" target="_parent">Quick Points</a>
                 <ul>
-                    <li class="easypoints"><a href="https://www.perk.com/perk/waystoearn/more" target="_parent">Special Offers</a></li>
-                    <li class="tasks"><a href="http://www.perk.com/quickpoints/tasks" target="_parent">Tasks</a></li>
+                    <li class="easypoints"><a href="http://perk.com/perk/waystoearn/more" target="_parent">Special Offers</a></li>
+                    <li class="tasks"><a href="http://perk.com/quickpoints/tasks" target="_parent">Tasks</a></li>
                     </ul>
                 </li>
 			<li>
-				<a href="https://www.perk.com/shop" target="_parent">Shop</a>
+				<a href="http://perk.com/shop" target="_parent">Shop</a>
 				<ul>
-					<li class="coupons"><a href="https://www.perk.com/perk/allstores" target="_parent">Coupons &amp; Deals</a></li>
-					<li class="stores"><a href="https://www.perk.com/store" target="_parent">All Stores</a></li>
-					<li class="categories"><a href="https://www.perk.com/perk/categories" target="_parent">Categories</a></li>
+					<li class="coupons"><a href="http://perk.com/shop/coupons" target="_parent">Coupons &amp; Deals</a></li>
+					<li class="stores"><a href="http://perk.com/shop/stores" target="_parent">All Stores</a></li>
 				</ul>
 			</li>
-			<li><a href="http://www.perk.com/watch" target="_parent">Watch</a></li>
-			<li><a href="http://www.perk.com/sweepstakes" target="_parent">Sweepstakes</a>
+			<li><a href="http://perk.com/watch" target="_parent">Watch</a></li>
+			<li><a href="http://perk.com/sweepstakes" target="_parent">Sweepstakes</a>
 				<ul class="sweeps">
-					<li class="sweepstakes"><a href="https://www.perk.com/sweepstakes" target="_parent">All Sweepstakes</a></li>
+					<li class="sweepstakes"><a href="http://perk.com/sweepstakes" target="_parent">All Sweepstakes</a></li>
 				</ul>
 			</li>
 			<!--
 			<li><a href="/perk/waystoearn/more#tab-5">Answer</a></li>
 			-->
-			<li><a href="https://www.perk.com/perk/search" target="_parent">Search</a></li>
-			<li><a href="https://www.perk.com/perk/refer_friends" target="_parent">Invite</a></li>
-			<li><a href="https://www.perk.com/perk/waystospend/all" target="_parent">Rewards</a></li>
-			<li><a href="#">Perk Apps</a>
-				<ul class="app">
-					<li class="perk_browser">Perk <span>Browser</span><span class="menu-divider"></span></li>
-					<li><a href="https://play.google.com/store/apps/details?id=com.jutera.perkmobile" target="_blank">For Android</a></li>
-					<li><a href="https://itunes.apple.com/us/app/perk-web-browser-get-rewards/id663531366?mt=8" target="_blank">For iPhone</a></li>
-					<li><a href="https://itunes.apple.com/us/app/perk-web-browser-get-rewards/id650897278?mt=8" target="_blank">For iPad</a></li>
-					<li class="perk_tv">Perk <span>TV</span><span class="menu-divider"></span></li>
-					<li><a href="https://itunes.apple.com/us/app/perk-tv-get-rewards-when-you/id706630901?ls=1&amp;mt=8" target="_blank">For iPhone</a></li>
-					<li><a href="https://itunes.apple.com/us/app/perk-tv-earn-rewards-when/id775982893?ls=1&amp;mt=8" target="_blank">For iPad</a></li>
-					<li><a href="https://play.google.com/store/apps/details?id=com.juteralabs.perktv" target="_blank">For Android</a></li>
-					<li class="perk_shopping">Perk <span>SHOPPING</span><span class="menu-divider"></span></li>
-					<li><a href="https://itunes.apple.com/us/app/perk-shopping-get-rewards/id696443133?mt=8" target="_blank">For iPad</a></li>
-					<li class="perk_search">Perk <span>SEARCH</span><span class="menu-divider"></span></li>
-					<li><a href="https://itunes.apple.com/us/app/perk-search/id634875415?mt=8" target="_blank">For iPhone and iPad</a></li>
-					<li><a href="https://play.google.com/store/apps/details?id=com.jutera.perksearch&amp;hl=en" target="_blank">For Android</a></li>
-				</ul>
-            </li>
+			<li><a href="http://perk.com/perk/search" target="_parent">Search</a></li>
+			<li><a href="http://perk.com/perk/refer_friends" target="_parent">Invite</a></li>
+			<li><a href="http://perk.com/perk/waystospend/all" target="_parent">Rewards</a></li>
+			<li><a href="#" id="perkapps-link">Perk Apps</a></li>
 		</ul>
+		<div class="perk-apps-pop">
+			<div class="main-title">Download Perk Apps</div>
+			<div class="filter" data-filter=".android">ANDROID</div>
+			<div class="filter" data-filter=".ios">iOS</div>
+			<div class="filter" data-filter=".kindle">KINDLE</div>
+            
+            <div id="all-apps">
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.jutera.perkmobile&amp;hl=en" target="_blank"><span class="browser">Browser</span></a></div>
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.perk.screen" target="_blank"><span class="screen">Screen</span></a></div>
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.jutera.perkprizemob.aphone" target="_blank"><span class="ppm">Prize Mob</span></a></div>
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.jutera.perkshopping.atab" target="_blank"><span class="shopping">Shopping</span></a></div>
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.perk.livetv.aphone" target="_blank"><span class="tv-live">Live TV</span></a></div>
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.jutera.perksearch&amp;hl=en" target="_blank"><span class="search">Search &amp; Win</span></a></div>
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.juteralabs.perktv" target="_blank"><span class="tv">TV</span></a></div>
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.jutera.perkpopquiz.aphone" target="_blank"><span class="ppq">POP Quiz</span></a></div>
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.perk.scratchandwin.aphone" target="_blank"><span class="scratch">Scratch &amp; Win</span></a></div>
+				<div class="app android"><a href="https://play.google.com/store/apps/details?id=com.jutera.perkwallet.aphone" target="_blank"><span class="wallet">Wallet</span></a></div>
+		
+				<div class="app ios"><a href="https://itunes.apple.com/us/app/perk-web-browser-get-rewards/id663531366?mt=8" target="_blank"><span class="browser">Browser</span></a></div>
+				<div class="app ios"><a href="https://itunes.apple.com/us/app/perk-shopping-get-rewards/id696443133?mt=8" target="_blank"><span class="shopping">Shopping</span></a></div>
+				<div class="app ios"><a href="https://itunes.apple.com/us/app/perk-search/id634875415?mt=8" target="_blank"><span class="search">Search &amp; Win</span></a></div>
+				<div class="app ios"><a href="https://itunes.apple.com/us/app/perk-tv-get-rewards-when-you/id706630901" target="_blank"><span class="tv">TV</span></a></div>
+				<div class="app ios"><a href="https://itunes.apple.com/au/app/perk-pop-quiz!-get-paid-to/id872720863?mt=8" target="_blank"><span class="ppq">POP Quiz</span></a></div>
+				<div class="app ios"><a href="https://itunes.apple.com/in/app/perk-wallet/id891044525?mt=8" target="_blank"><span class="wallet">Wallet</span></a></div>
+				<div class="app ios"><a href="https://itunes.apple.com/us/app/perk-prize-mob/id916852976?mt=8" target="_blank"><span class="ppm">Prize Mob</span></a></div>
+				<div class="app ios"><a href="https://itunes.apple.com/us/app/perk-scratch-win!/id943994626?mt=8" target="_blank"><span class="scratch">Scratch &amp; Win</span></a></div>
+		
+				<div class="app kindle"><a href="http://www.amazon.com/Jutera-Labs-Perk-TV/dp/B00JLGCONU" target="_blank"><span class="tv">TV</span></a></div>
+			</div>
+        </div>
 
 				<div class="right-menu">
-									<a href="#" id="login-signup-btn" onclick="$('.overlay_section').fadeIn();">Signup/Login</a>
-							</div>
+		            <a href="#" id="login-signup-btn" onclick="$('.overlay_section').fadeIn();">Signup/Login</a>
+				</div>
 	</div>
 
-	<script type="text/javascript">
-		uid = parseInt();
-		
-	if(uid > 0) {
-		window.addEventListener("message", receiveMessage, false);
-
-		function receiveMessage(evt) {
-			switch(evt.data.action) {
-				case 'updateheaderValues':
-					$("#total-points").html(evt.data.totalpoints);
-					break;	
-				default:
-					break;
-			}
-		}
-	}
-
-	</script>
-		<!-- no other option except to include stylesheet in body tag (for Non perk browser)  -->
+	<!-- no other option except to include stylesheet in body tag (for Non perk browser)  -->
 	<link type="text/css" rel="stylesheet" href="https://cdn2.perk.com/assets/css/signup_overlay.css">
 	<!-- signup overlay -->
 <div class="overlay_section">
@@ -112,7 +134,7 @@
 				<h2 class="overlay_heading">Sign Up</h2>
 				<div class="box_left">
 					<h3>Use Facebook</h3>
-					<p>Earn <b>100 points</b> when you sign up and verify your address.</p>
+					<p>Earn <b>100 points</b> when you sign up.</p>
 					<a href="#" id="facebook-signup" class="fb_button_signup" onclick="facebook_connect('signup')">Signup With Facebook</a>
 				</div>
 				<div class="or-border">
@@ -249,8 +271,7 @@
 							}
 						}).done(function( data, textStatus, jqXHR ) {
 							console.log('Success callback - response is ' + data + 'textStatus is ' + textStatus + ' and jqXHR is ' + JSON.stringify(jqXHR));
-							// Set the access token in SQLite.
-														window.postMessage({action: 'register_success'}, document.location.href);
+							window.postMessage({action: 'register_success'}, document.location.href);
 							parent.postMessage({action: 'register_success'}, 'chrome-extension://ainlfnpknhkbcilobjophjcicheilkph');
 							location.href = '/accounts/logged_in_home';
 						}).fail(function( jqXHR, textStatus ) {
@@ -366,8 +387,7 @@
 			if(textStatus == "success" && jqXHR.status == '200' && jqXHR.statusText == "OK") {
 				// console.log("Done - response data is " + data);
 				if(data.access_token != "") {
-					// Set the access token in SQLite.
-										// Make AJAX call to set session.
+					// Make AJAX call to set session.
 					$.ajax({
 						url: "/accounts/setusersession/",
 						type: 'POST',
@@ -383,7 +403,6 @@
 						
 						if(typeof response.success != 'undefined' && response.success != null && response.success == true) {
 							window.postMessage({action: 'login_success'}, document.location.href);
-															parent.postMessage({action: 'login_success'}, 'chrome-extension://ainlfnpknhkbcilobjophjcicheilkph');
 														$('.overlay_section').fadeOut();
 						}
 						// redirecting only if the user login succeeded
@@ -403,7 +422,7 @@
 	window.fbAsyncInit = function() {
 		FB.init({
 			appId      : "211055039020468",
-			version    : 'v2.0',
+			version    : 'v2.2',
 			status     : true, // check the login status upon init?
 			cookie     : true, // set sessions cookies to allow your server to access the session?
 			xfbml      : true  // parse XFBML tags on this page?
@@ -437,8 +456,7 @@
 						if(textStatus == "success" && jqXHR.status == '200' && jqXHR.statusText == "OK") {
 							console.log("Done - response data is " + data);
 							if(data.access_token != "") {
-								// Set the access token in SQLite.
-																$.ajax({
+								$.ajax({
 									url: "/accounts/setusersession/",
 									type: 'POST',
 									crossDomain: true,
@@ -496,8 +514,7 @@
 									}
 								}).done(function( data, textStatus, jqXHR ) {
 									console.log('Success callback - response is ' + data + 'textStatus is ' + textStatus + ' and jqXHR is ' + JSON.stringify(jqXHR));
-									// Set the access token in SQLite.
-																		// sending message to the extension
+									// sending message to the extension
 									window.postMessage({action: 'login_success'}, document.location.href);
 									parent.postMessage({action: 'login_success'}, document.location.href);
 									// redirecting to logged in home
@@ -533,7 +550,7 @@
 							facebook_login_callback(actionType, response.authResponse.accessToken, function() {
 							});
 						}
-					}, {scope : 'user_likes, email, user_birthday, publish_actions, friends_birthday'});
+					}, {scope : 'public_profile, email'});
 				};
 			} else {
 				facebook_connect = function(actionType) {
@@ -542,19 +559,20 @@
 							facebook_login_callback(actionType, response.authResponse.accessToken, function() {
 							});
 						}
-					}, {scope : 'user_likes, email, user_birthday, publish_actions, friends_birthday'});
+					}, {scope : 'public_profile, email'});
 				};
 			}
 		});
 	};
 
-	(function(d, debug){
-		var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-		if (d.getElementById(id)) {return;}
-		js = d.createElement('script'); js.id = id; js.async = true;
-		js.src = "//connect.facebook.com/en_US/sdk" + (debug ? "/debug" : "") + ".js";
-		ref.parentNode.insertBefore(js, ref);
-	}(document, /*debug*/ false));
+	  // Load the SDK asynchronously
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
                                                                                         
 
 	/**
@@ -595,11 +613,11 @@
 		var pass_type = $(this).attr('id');
 		if(pass_type == 'signup') {
 			$('#password_div').html('');
-			$('#password_div').html('<input type="password" name="password" id="sign-pass" placeholder="Password" />');
+			$('#password_div').html('<input type="password" name="password" id="sign-pass" placeholder="Password" autocomplete="off"/>');
 			$('#ajax-signup #sign-pass').focus();
 		} else {
 			$('#password_login_div').html('');
-			$('#password_login_div').html('<input type="password" name="password" id="login-pass" placeholder="Password" />');
+			$('#password_login_div').html('<input type="password" name="password" id="login-pass" placeholder="Password" autocomplete="off"/>');
 			$('#ajax-login #login-pass').focus();
 		}
 	});
@@ -618,170 +636,228 @@
 				<div class="content-block">
 					<div class="holder">
 						<div class="frame">
-														<div class="tab" id="tab-3">
-								<h2>Perk Privacy Policy</h2>
-								<p>Effective 6/26/2012</p>
-								<div class="area">
-									<div class="text-holder">
-										<p>Your privacy is important to us. Perk provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from you when you use the Perk browser, the Perk website (<a href="http://www.perk.com">http://www.perk.com</a>), and various Perk services. Together, we refer to the browser, website, and services as "Perk"). This Privacy Policy applies only to information that is provided to us through Perk. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Perk website. You are advised to consult this policy regularly for any changes.</p>
+							<div class="tab" id="tab-3">
+<h2>Perk Privacy Policy</h2>
 
-										<h3>The Big Picture</h3>
-										<p>Here are the basics:</p>
-										<ul>
-											<li>By installing any app or creating a Perk account or Logging In, you acknowledge and agree to Perk collecting information on the apps installed on a your device. This information may be used to ensure that Perk is able to promote relevant apps and offers.</li>
-											<li>You do not need to provide any personally identifying information in order to use Perk, however your personal information is needed in order to participate in the Perk rewards program</li>
-											<li>We collect information about you and how you use Perk.</li>
-											<li>We use this information to make Perk better.</li>
-											<li>We protect your privacy and NEVER share this information with third parties without your permission.</li>
-										</ul>
+<p>Updated 2/2/15</p>
 
-										<p>Read on for details.</p>
+<div class="area">
+
+<div class="text-holder">
+
+<p>Your privacy is important to us. Perk provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from you when you use the Perk Apps, the Perk website (<a href="http://www.perk.com">http://www.perk.com</a>), and various Perk services. Together, we refer to the Apps, website, and services as "Perk"). This Privacy Policy applies only to information that is provided to us through Perk. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Perk website. You are advised to consult this policy regularly for any changes.</p>
 
 
-                                        <h3>Information We Collect</h3>
+<h3>The Big Picture</h3>
 
-                                        <ol>
-                                            <li>
-                                                You may voluntarily provide us with information, including:
-                                                <ul>
-                                                    <li>
-                                                        Your name, email address, age, profile name, profile photo, height, weight, occupation, personal interests, third party social networking service user name, and a password that you create to register to use the Service;
-                                                    </li>
-                                                    <li>
-                                                        Information you provide when you contact us (for example, regarding support or employment opportunities); and
-                                                    </li>
-                                                    <li>
-                                                        Any other information you voluntarily provide us with in registering and using the Service.
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                We automatically collect other information about you, including:
-                                                <ul>
-                                                    <li>
-                                                        An identifier that is unique to the device on which you install the App and some device identifiers may be persistent device identifiers, as well as certain software and hardware information about your device;
-                                                    </li>
-                                                    <li>
-                                                        Your Internet Protocol (IP) address;
-                                                    </li>
-                                                    <li>
-                                                        Domain name of your Internet service provider;
-                                                    </li>
-                                                    <li>
-                                                        Your geographic location;
-                                                    </li>
-                                                    <li>
-                                                        The Service pages that you visit and the date and time of your visits; and
-                                                    </li>
-                                                    <li>
-                                                        Aggregated information that cannot be used to specifically identify you when you visit or use the Service.
-                                                    </li>
-                                                    <li>
-                                                        Prior to your installation of the App, we may have already collected information about the other apps that you have used via our Advertising Partners or other Third Parties.
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                We may collect information about you from:
-                                                <ul>
-                                                    <li>third party social networking services;</li>
-                                                    <li>commercially available sources;</li>
-                                                    <li>our affiliates; and</li>
-                                                    <li>our third party business partners.</li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                We may combine any of the information we collect from or about you and use it in the manner described in this Privacy Policy.
-                                            </li>
-                                            <li>
-                                                We may supplement any of the information we collect from or about you with other information.
-                                            </li>
-                                        </ol>
+<p>Here are the basics:</p>
 
-                                        <p>&nbsp;</p>
+<ul>
+
+<li>By installing any app or creating a Perk account or Logging In, you acknowledge and agree to Perk collecting information on the apps installed on a your device. This information may be used to ensure that Perk is able to promote relevant apps and offers.</li>
+
+<li>You do not need to provide any personally identifying information in order to use Perk, however your personal information is needed in order to participate in the Perk rewards program</li>
+
+<li>We collect information about you and how you use Perk.</li>
+
+<li>We use this information to make Perk better.</li>
+
+<li>We protect your privacy and NEVER share this information with third parties without your permission.</li>
+
+</ul>
 
 
-										<h3>PLEASE READ THIS CAREFULLY</h3>
-										<p>Perk is pleased to release this beta version of our product. The beta release provides an opportunity for you to try Perk earlier than the general public and provide valuable feedback that will help us make Perk better. Your direct feedback and comments are valuable, especially when combined with information automatically gathered about how you use Perk. To that end, Perk collects key information that helps us improve the product and to deliver the Perk rewards service. Some of this information may be personally identifiable information about you (e.g., your email address, login on Facebook, sites you visit). We may also collect personally identifiable information about you in ways that don’t involve Perk products and services – for instance, if you send us an email with your phone number in it. We also collect information about your use of Perk and the configuration of your system. While this information is collected anonymously (no personally identifiable information is associated with it in our database), it may still be possible to associate the collected information with you (e.g., through heuristics or in combination with third-party data about you). However, it is our policy not to make such associations, and to make it difficult to determine such associations.</p>
+<p>Read on for details.</p>
 
-										<p>By agreeing to participate in this beta test, you are agreeing to allow Perk to collect these and other data points and transmit them to Perk’s servers. If you don’t want us to track this information, you have three options:</p>
 
-										<ol>
-											<li>For temporary periods during which you do not want information collected, open a browser window in Private or Incognito Mode, which can be accessed from the Perk toolbar or the menu on Windows and from the File menu on Mac. We never track or collect usage data from a window while it is in Incognito Mode. Browsing in Incognito Mode may result in you not accruing Perk rewards for your activity (e.g. searching or shopping).</li>
 
-											<li>Remove Perk from your system and do not participate in the beta program.</li>
-										</ol>
+<h3>Information We Collect</h3>
 
-										<p>Among the kinds of information we track, without limitation, are the following.</p>
-										<ul>
-											<li>Which Perk features you use and how often (for instance, how often you use the privacy button, shop button, share button, search feature, etc.)</li>
-											<li>The amount of time that Perk runs and the amount of time it is active</li>
-											<li>Perk crashes and associated conditions around the time of the crash</li>
-											<li>What you’ve selected for certain Perk preferences and options (for instance, whether or not you run Perk in full-screen mode)</li>
-											<li>How often you use the omnibox / address bar to perform a search, whether you accept omnibox / address bar suggestions, and which ones</li>
-											<li>Which other Internet browsers run on your system, and which browser is set as the default browser</li>
-											<li>Your screen resolution, operating system version, CPU and memory configuration of your machine, and other configuration information</li>
-											<li>The number of tabs you have open (but not the sites you have open in those tabs)</li>
-											<li>Which partners and pages you visit so we can better tailor and offer you customized rewards</li>
-										</ul>
 
-										<p>If you open a window in "Privacy" or "Incognito" mode, no data from that window will be collected or sent to Perk, and all data from that window including history and cache generated by activity in that window will be deleted as soon as you close that window.</p>
+<ol>
+<li>You may voluntarily provide us with information, including:
 
-										<p>Thank you for your participation in our beta test. Your contributions will help us make Perk a great product.</p>
+<ul>
 
-										<h3>Information Collection and Use</h3>
+<li>Your name, email address, age, profile name, profile photo, height, weight, occupation, personal interests, third party social networking service user name, and a password that you create to register to use the Service;</li>
 
-										<p>In this policy, when we say we "collect" information, we generally mean that the Browser keeps track of the information locally and then periodically uploads it to our Metrics Service. The Metrics Service stores the information persistently in a database for later use. When we say we "use" information, we generally mean that we store it, retrieve it, parse it, aggregate it, analyze it, report on it, combine it with information from other sources, and do similar transformations and analyses in pursuit of understanding how users in aggregate use Perk and how we can make Perk better.</p>
+<li>Information you provide when you contact us (for example, regarding support or employment opportunities); and</li>
 
-										<p>Our primary goals in collecting information are to provide and improve our services, features, and content.</p>
-										
-										<ul>
+<li>Any other information you voluntarily provide us with in registering and using the Service.</li>
 
-											<li><em>Your Personal Information.</em> When you communicate with us or use Perk, we may collect personally identifiable information about you. This refers to information about you that can be used to contact or identify you ("Personal Information"). For instance, if you email us requesting support, you’ll provide us with your email address so we can respond to you. Personal Information can also include, but is not limited to, your name, phone number, IP address, or home address. (We might not ask you for all or any of these things, but you might provide them to us without our asking – for instance, in an email to us.) We use your Personal Information mainly to provide the Services and to respond to your requests for support.</li>
+</ul>
 
-											<li><em>Non-Identifying Information.</em> We also collect other information that you provide or that is provided to us about you when using Perk (e.g., without limitation, what search engine(s) you use, and your individual preferences, your interest data when signing up for our mobile apps, etc) ("Non-Identifying Information"). We may also collect Non-Identifying Information about your age, gender, and city or zip code when you log into the product or even if you've just downloaded the product, but have yet to register. For instance, when you log in with your Facebook credentials, Facebook might tell us you’re a 29-year-old male from ZIP code 78701. This information comes from the data you’ve supplied in your Facebook profile and agreed to share with applications like Perk. This information on its own isn’t enough to identify you specifically. For our beta test, we also collect all the categories of information listed in the "Please Read This Carefully" section above. All this information is considered Non-Identifying Information.</li>
+</li>
 
-											<li><em>How We Use Your Information.</em> We don't sell your Personal Information.  We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) to provide you with and improve Perk, and to respond to your requests for support. It’s also provided to help you earn Perks and to know when Perks should be paid out to you.  Your Non-Identifying Information, such as device ID's and profile information can be made available by Perk and it's partners to help target ads to you.  This is all non identifying information which you agree to sharing when you download any of the Perk applications.  Any information that you provide to Perk either implicitly or explicitly can be used by Perk, it's affiliates, subsidiaries, and partners to help tailor services to you.</li>
+<li>We automatically collect other information about you, including:
+<ul>
 
-											<li><em>Aggregating Information.</em> We may aggregate the Non-Identifying Information we collect with similar information collected from other Perk Users to provide you with a better experience, to improve the quality and value of Perk, and to analyze and understand how Perk is used. We may also use information you provide without aggregating it to serve you specifically; for instance, to deliver a product to you according to your preferences or restrictions.</li>
+<li>An identifier that is unique to the device on which you install the App and some device identifiers may be persistent device identifiers, as well as certain software and hardware information about your device;</li>
 
-											<li><em>Demographic Profiling.</em> We might also use non-aggregated information for development or demographic profiling purposes, but any such use would not be personally identifiable. For instance, we might combine the information Facebook sends us about your age, gender and ZIP code with the data Perk sends us about your usage habits to find out more about which groups of people use specific Browser features. As an example, we might do this to get a sense of how many people aged 18-21 use the share feature, but not who those people actually are.</li>
+<li>Your Internet Protocol (IP) address;</li>
 
-											<li><em>Newsletters and Marketing.</em> We also may use your Personal Information to contact you with Perk newsletters, marketing or promotional materials and other information that may be of interest to you, either generally or in your capacity as a participant in our beta program. If you decide at any time you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. (See "Changing or Deleting Information" below.)</li>
+<li>Domain name of your Internet service provider;</li>
 
-											<li><em>Log Data.</em> When you visit the Perk Web Sites (like www.Perk.com), whether you’re using Perk or as a non-registered user just visiting, our servers automatically record information your browser sends whenever you visit a website ("Log Data"). This is different from the information Perk will send us as part of the beta test as described in the "Please Read This Carefully" section at the top of this Policy; here, we’re talking about information that’s automatically collected by our web server in order to show you pages on the Perk Web Sites. This data is collected whether or not you use Perk, but only when you visit our website. This Log Data may include information such as your computer’s Internet Protocol ("IP") address, browser type, the web page you were visiting before you came to our Sites, pages of our Sites that you visit, the time spent on those pages, information you search for on our Sites, access times and dates, and other statistics. We use this information to monitor and analyze use of the Sites and the Service and for the Sites’ technical administration, to increase our Sites’ functionality and user-friendliness, and to better tailor it to our visitors’ needs. We also use this information to verify that visitors to the Sites meet the criteria required to process their requests.</li>
-											<li><em>HTTPS.</em> When visiting websites with Perk services enabled you may from time to time see Perk services render on HTTPS pages. It's important to note that in cases when Perk is rendering services on HTTPS pages, Perk will never collect any page data or PII. Perk only renders its services on HTTPS pages to provide additional value added Perk services in the form of points offers, deals or savings opportunities. We are always very transparent and services will be branded as Perk for your identification.</li>
-										</ul>
+<li>Your geographic location;</li>
 
-										<h3>Cookies</h3>
-										<p>Like many websites, we may use "cookies" to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we may use persistent cookies to authorize you and ensure that only invited users are participating in the beta test. Second, we may use session ID cookies to enable certain features of the Sites, to better understand how you interact with the Sites, and to monitor aggregate usage by Perk Users and web traffic routing on the Sites. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Sites and Service and then close your browser. We have no third-party advertisers on our Sites today, but we may in the future. These third parties may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from any websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Sites or all functionality of the Services.</p>
+<li>The Service pages that you visit and the date and time of your visits; and</li>
 
-										<h3>Information Sharing and Disclosure</h3>
+<li>Aggregated information that cannot be used to specifically identify you when you visit or use the Service.</li>
 
-										<p>Compliance with Laws and Law Enforcement. Perk cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose information about you to government or law enforcement officials or private parties that we, in our sole discretion, believe necessary or appropriate to respond to claims and legal processes (including but not limited to subpoenas), to protect the property and rights of Perk or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable.</p>
+<li>Prior to your installation of the App, we may have already collected information about the other apps that you have used via our Advertising Partners or other Third Parties.</li>
 
-										<h3>Business Transfers</h3>
+</ul>
+
+</li>
+
+<li>We may collect information about you from:
+<ul>
+
+<li>third party social networking services;</li>
+
+<li>commercially available sources;</li>
+
+<li>our affiliates; and</li>
+
+<li>our third party business partners.</li>
+
+</ul>
+
+</li>
+
+<li>We may combine any of the information we collect from or about you and use it in the manner described in this Privacy Policy.</li>
+
+<li>We may supplement any of the information we collect from or about you with other information.</li>
+
+</ol>
+
+
+
+<p>&nbsp;</p>
+
+
+<h3>PLEASE READ THIS CAREFULLY</h3>
+
+<p>Your direct feedback and comments are valuable, especially when combined with information automatically gathered about how you use Perk. To that end, Perk collects key information that helps us improve the product and to deliver the Perk rewards service. Some of this information may be personally identifiable information about you (e.g., your email address, login on Facebook, sites you visit). We may also collect personally identifiable information about you in ways that don’t involve Perk products and services – for instance, if you send us an email with your phone number in it. We also collect information about your use of Perk and the configuration of your system. While this information is collected anonymously (no personally identifiable information is associated with it in our database), it may still be possible to associate the collected information with you (e.g., through heuristics or in combination with third-party data about you). However, it is our policy not to make such associations, and to make it difficult to determine such associations.</p>
+
+<p>By agreeing to participate, you are agreeing to allow Perk to collect these and other data points and transmit them to Perk’s servers. If you don’t want us to track this information, you have three options:</p>
+
+<ol>
+
+<li>For temporary periods during which you do not want information collected, open a browser window in Private or Incognito Mode, which can be accessed from the Perk toolbar or the menu on Windows and from the File menu on Mac. We never track or collect usage data from a window while it is in Incognito Mode. Browsing in Incognito Mode may result in you not accruing Perk rewards for your activity (e.g. searching or shopping).</li>
+
+
+<li>Remove Perk from your system.</li>
+
+</ol>
+
+<p>Among the kinds of information we track, without limitation, are the following.</p>
+
+<ul>
+
+<li>Which Perk features you use and how often (for instance, how often you use the privacy button, shop button, share button, search feature, etc.)</li>
+
+<li>The amount of time that Perk runs and the amount of time it is active</li>
+
+<li>Perk crashes and associated conditions around the time of the crash</li>
+
+<li>What you’ve selected for certain Perk preferences and options (for instance, whether or not you run Perk in full-screen mode)</li>
+
+<li>How often you use the omnibox / address bar to perform a search, whether you accept omnibox / address bar suggestions, and which ones</li>
+
+<li>Which other Internet browsers run on your system, and which browser is set as the default browser</li>
+
+<li>Your screen resolution, operating system version, CPU and memory configuration of your machine, and other configuration information</li>
+
+<li>The number of tabs you have open (but not the sites you have open in those tabs)</li>
+
+<li>Which partners and pages you visit so we can better tailor and offer you customized rewards</li>
+
+</ul>
+
+<p>If you open a window in "Privacy" or "Incognito" mode, no data from that window will be collected or sent to Perk, and all data from that window including history and cache generated by activity in that window will be deleted as soon as you close that window.</p>
+
+<p>Thank you for being a Perk.com member. Your contributions will help us make Perk a great product.</p>
+
+<h3>Information Collection and Use</h3>
+
+<p>In this policy, when we say we "collect" information, we generally mean that the Browser keeps track of the information locally and then periodically uploads it to our Metrics Service. The Metrics Service stores the information persistently in a database for later use. When we say we "use" information, we generally mean that we store it, retrieve it, parse it, aggregate it, analyze it, report on it, combine it with information from other sources, and do similar transformations and analyses in pursuit of understanding how users in aggregate use Perk and how we can make Perk better.</p>
+
+<p>Our primary goals in collecting information are to provide and improve our services, features, and content.</p>
+
+
+<ul>
+
+<li><em>Your Personal Information.</em> When you communicate with us or use Perk, we may collect personally identifiable information about you. This refers to information about you that can be used to contact or identify you ("Personal Information"). For instance, if you email us requesting support, you’ll provide us with your email address so we can respond to you. Personal Information can also include, but is not limited to, your name, phone number, IP address, or home address. (We might not ask you for all or any of these things, but you might provide them to us without our asking – for instance, in an email to us.) We use your Personal Information mainly to provide the Services and to respond to your requests for support.</li>
+
+<li><em>Non-Identifying Information.</em> We also collect other information that you provide or that is provided to us about you when using Perk (e.g., without limitation, what search engine(s) you use, and your individual preferences, your interest data when signing up for our mobile apps, etc) ("Non-Identifying Information"). We may also collect Non-Identifying Information about your age, gender, and city or zip code when you log into the product or even if you've just downloaded the product, but have yet to register. For instance, when you log in with your Facebook credentials, Facebook might tell us you’re a 29-year-old male from ZIP code 78701. This information comes from the data you’ve supplied in your Facebook profile and agreed to share with applications like Perk. This information on its own isn’t enough to identify you specifically. We may also collect all the categories of information listed in the "Please Read This Carefully" section above. All this information is considered Non-Identifying Information.</li>
+
+<li><em>How We Use Your Information.</em> We don't sell your Personal Information. We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) to provide you with and improve Perk, and to respond to your requests for support. It’s also provided to help you earn Perks and to know when Perks should be paid out to you. Your Non-Identifying Information, such as device ID's and profile information can be made available by Perk and it's partners to help target ads to you. This is all non identifying information which you agree to sharing when you download any of the Perk applications. Any information that you provide to Perk either implicitly or explicitly can be used by Perk, it's affiliates, subsidiaries, and partners to help tailor services to you.</li>
+
+<li><em>Aggregating Information.</em> We may aggregate the Non-Identifying Information we collect with similar information collected from other Perk Users to provide you with a better experience, to improve the quality and value of Perk, and to analyze and understand how Perk is used. We may also use information you provide without aggregating it to serve you specifically; for instance, to deliver a product to you according to your preferences or restrictions.</li>
+
+<li><em>Demographic Profiling.</em> We might also use non-aggregated information for development or demographic profiling purposes, but any such use would not be personally identifiable. For instance, we might combine the information Facebook sends us about your age, gender and ZIP code with the data Perk sends us about your usage habits to find out more about which groups of people use specific Browser features. As an example, we might do this to get a sense of how many people aged 18-21 use the share feature, but not who those people actually are.</li>
+
+<li><em>Newsletters and Marketing.</em> We also may use your Personal Information to contact you with Perk newsletters, marketing or promotional materials and other information that may be of interest to you, either generally or in your capacity as a Perk.com member. If you decide at any time you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. (See "Changing or Deleting Information" below.)</li>
+
+<li><em>Log Data.</em> When you visit the Perk Web Sites (like www.Perk.com), whether you’re using Perk or as a non-registered user just visiting, our servers automatically record information your browser sends whenever you visit a website ("Log Data"). This is different from the information Perk will send included in the "Please Read This Carefully" section at the top of this Policy; here, we’re talking about information that’s automatically collected by our web server in order to show you pages on the Perk Web Sites. This data is collected whether or not you use Perk, but only when you visit our website. This Log Data may include information such as your computer’s Internet Protocol ("IP") address, browser type, the web page you were visiting before you came to our Sites, pages of our Sites that you visit, the time spent on those pages, information you search for on our Sites, access times and dates, and other statistics. We use this information to monitor and analyze use of the Sites and the Service and for the Sites’ technical administration, to increase our Sites’ functionality and user-friendliness, and to better tailor it to our visitors’ needs. We also use this information to verify that visitors to the Sites meet the criteria required to process their requests.</li>
+
+<li><em>HTTPS.</em> When visiting websites with Perk services enabled you may from time to time see Perk services render on HTTPS pages. It's important to note that in cases when Perk is rendering services on HTTPS pages, Perk will never collect any page data or PII. Perk only renders its services on HTTPS pages to provide additional value added Perk services in the form of points offers, deals or savings opportunities. We are always very transparent and services will be branded as Perk for your identification.</li>
+
+<li><em>Third Party Survey Serving Technology:</em> This app uses Pollfish SDK. Pollfish is an on-line survey platform, through which, anyone may conduct surveys. Pollfish collaborates with Developers of applications for smartphones in order to have access to users of such applications and address survey questionnaires to them. When a user connects to this app, Pollfish detects whether the user has enabled his Device’s interest-based-ads settings (Advertising ID for Android/Advertising Identifier for iOS). If not, Pollfish does not proceed to any action and cannot offer any survey to the user or collect any of his/her Data. If the user has enabled such settings, a specific set of user’s device data and response meta-data is automatically sent to Pollfish servers. These data will be associated with your answers to the questionnaires. By downloading the application you accept this privacy policy document and you hereby give your consent for the processing by Pollfish of the aforementioned data. Furthermore, you are informed that you may disable Pollfish operation at any time by (a) enabling the “opt out of interest-based advertising” in your device Settings area or by (b) using the Pollfish "opt out section" available on Pollfish website . We invite you to check the respondent's terms of use, if you wish to have more detailed view of the way Pollfish works.
+<br>APPLE, GOOGLE AND AMAZON ARE NOT A SPONSOR NOR ARE INVOLVED IN ANY WAY IN THE DRAWS. NO APPLE PRODUCTS ARE BEING USED AS PRIZES.</li>
+
+</ul>
+
+
+<h3>Cookies</h3>
+
+<p>Like many websites, we may use "cookies" to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we may use persistent cookies to authorize you and ensure that only approved Perk.com members may use the service. Second, we may use session ID cookies to enable certain features of the Sites, to better understand how you interact with the Sites, and to monitor aggregate usage by Perk Users and web traffic routing on the Sites. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Sites and Service and then close your browser. We have no third-party advertisers on our Sites today, but we may in the future. These third parties may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from any websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Sites or all functionality of the Services.</p>
+
+
+<h3>Information Sharing and Disclosure</h3>
+
+<p>Compliance with Laws and Law Enforcement. Perk cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose information about you to government or law enforcement officials or private parties that we, in our sole discretion, believe necessary or appropriate to respond to claims and legal processes (including but not limited to subpoenas), to protect the property and rights of Perk or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable.</p>
+
+<h3>Business Transfers</h3>
+
 <p>Perk may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets, or in the event of bankruptcy. Perk will notify you, by posting an updated Privacy Policy, before transferring your information to a new entity as part of a merger, acquisition, reorganization or sale of some or all of its assets if the new entity's processing of your information will materially differ from that set forth in this Privacy Policy.</p>
-										
-										<h3>Changing or Deleting Your Information</h3>
-										<p>As the information we collect and store is non-identifiable and anonymous, it may be difficult (if not impossible) for us to locate and delete the data we’ve collected about you. If you would like us to delete any records associated with you in our system, please contact us and we will attempt to accommodate your request if we can locate the records, and if we do not have any legal obligation to retain the records. See below for privacy contact information.</p>
 
-										<h3>Security</h3>
-										<p>Perk is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.</p>
-										<p>We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email, Facebook message, or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
-										<h3>International Transfer</h3>
-										<p>When allowed by law, your information may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Perk may transfer Personal Information to the United States and process it there. Your explicit consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<h3>Changing or Deleting Your Information</h3>
 
-										<h3>Links to Other Sites</h3>
-										<p>We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@Perk.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files to the extent possible. (See Changing or Deleting Your Information above.)</p>
+<p>As the information we collect and store is non-identifiable and anonymous, it may be difficult (if not impossible) for us to locate and delete the data we’ve collected about you. If you would like us to delete any records associated with you in our system, please contact us and we will attempt to accommodate your request if we can locate the records, and if we do not have any legal obligation to retain the records. See below for privacy contact information.</p>
 
-										<h3>Our Policy Toward Children</h3>
-										<p>We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at <a href="mailto:privacy@perk.com">privacy@Perk.com</a>. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
 
-										<h3>Contacting Us</h3>
-										<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacy@perk.com">privacy@perk.com</a></p>
+<h3>Security</h3>
 
-										<h3>Privacy Dept.</h3>
+<p>Perk is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.</p>
+
+<p>We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email, Facebook message, or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
+
+<h3>International Transfer</h3>
+
+<p>When allowed by law, your information may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Perk may transfer Personal Information to the United States and process it there. Your explicit consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+
+
+<h3>Links to Other Sites</h3>
+
+<p>We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@Perk.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files to the extent possible. (See Changing or Deleting Your Information above.)</p>
+
+
+
+<h3>Our Policy Toward Children</h3>
+
+<p>We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at <a href="mailto:privacy@perk.com">privacy@Perk.com</a>. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
+
+
+
+<h3>Contacting Us</h3>
+
+<p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacy@perk.com">privacy@perk.com</a></p>
+
+
+
+<h3>Privacy Dept.</h3>
 										<p>Perk Inc.<br>720 Brazos, Suite 110<br>Austin, TX 78701</p>
 									</div>
 								</div>
@@ -797,9 +873,10 @@
 								<ul class="tabset">
 									<li><a href="/"><span>Home</span></a></li>
 									<li><a href="/about"><span>About</span></a></li>
-									<li><a href="https://www.perk.com/ads"><span>Advertise with us</span></a></li>
+									<li><a href="http://perk.com/ads"><span>Advertise with us</span></a></li>
 									<li><a href="http://support.perk.com/anonymous_requests/new"><span>Contact</span></a></li>
 									<li><a href="/perkstatic/partner"><span>Partner with us</span></a></li>
+									<li><a href="http://press.perk.com"><span>Press</span></a></li>
 									<li><a href="http://support.perk.com/home"><span>Help Center</span></a></li>
                                     <li><a href="/perkstatic/privacy" class="active"><span>Privacy Policy</span></a></li>
 									<li><a href="/perkstatic/terms"><span>Terms &amp; Conditions</span></a></li>
@@ -818,16 +895,17 @@
     <ul class="footer-nav">
         <li><a href="/about">About</a></li>
         <li><a href="http://blog.perk.com/" target="_blank">Blog</a></li>
+        <li><a href="http://press.perk.com/" target="_blank">Press</a></li>
         <li><a href="http://support.perk.com/anonymous_requests/new">Contact</a></li>
         <li><a href="http://support.perk.com/home">Help Center</a></li>
-        <li><a href="https://www.perk.com/ads">Advertise with us</a></li>
+        <li><a href="http://perk.com/ads">Advertise with us</a></li>
         <li><a href="/perkstatic/partner">Partner with us</a></li>
         <li><a href="http://www.jobscore.com/jobs/perk/">Careers</a></li>
         <li><a href="/perkstatic/privacy">Privacy Policy</a></li>
         <li><a href="/perkstatic/terms">Terms &amp; Conditions</a></li>
         <li><a href="http://giving.perk.com" target="_blank">giving.perk.com</a></li>
     </ul>
-    <p>Perk ©2014</p>
+    <p>Perk ©2015</p>
 </div>	</div>
 	<script type="text/javascript">
 		$(document).ready(function(){
