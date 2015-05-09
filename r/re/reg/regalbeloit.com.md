@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regalbeloit.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110235514id_/http%3A//www.regalbeloit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalbeloit.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509034230id_/http%3A//www.regalbeloit.com/privacy) for the most accurate reproduction.*
 
 # Regal Beloit | Privacy
 
