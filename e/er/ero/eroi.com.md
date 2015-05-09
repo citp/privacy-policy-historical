@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128035548id_/http%3A//eroi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroi.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509054950id_/http%3A//eroi.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Digital Marketing Agency eROI, Portland
+# Privacy - eROI
+
+  
+
+
+### Privacy
 
 eROI follows the most stringent regulations to ensure your information is safe. We are Trustwave certified.
 
@@ -27,5 +32,3 @@ eROI is a general audience site and is not directed to children under the age of
 If you have received unwanted, unsolicited email sent via our system or purporting to be sent via this system, please forward a copy of that email with your comments to [info@eroi.com](mailto:info@eroi.com) for review.
 
 We reserve the right to modify this policy at any time. We will always post the most current version of this policy on our website.
-
-If you would like to unsubscribe from ALL email lists, please visit our [Global Unsubscribe](https://web.archive.org/global-unsubscribe/?phpMyAdmin=dpFFTGrcmHl4j99YiXF34mqZOw5&phpMyAdmin=3Str2hcr6wayjPXDILKjno%2CBv3c&phpMyAdmin=fDmGTFQqdqrUjA4ocg9GBxSZLt9) page.
