@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122083257id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509085222id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Client Data Protection | Deltastock
 
@@ -14,7 +14,7 @@ Deltastock will only use the non-public information and personal data it gathers
 
 If a prospective client decides to open an account with Deltastock, there is certain information that will be required from them. This information includes, but is not limited to, personal data such as name, address, date and place of birth, phone number and other contact details, passport details, employment details, assets and liabilities, as well as other necessary financial information.
 
-From time to time Deltastock may request further information to help improve the services it provides and also to fulfill its regulatory duty to maintain the data through which Deltastock individualises a website user as its client in current form and volume.
+From time to time Deltastock may request further information to help improve the services it provides and also to fulfill its regulatory duty to maintain the data through which it individualises a website user as its client in current form and volume.
 
 Deltastock collects information from the following direct sources:
 
@@ -93,7 +93,7 @@ Deltastock uses cookies to:
   * ensure client and user security on the website;
   * store login details for the website;
   * temporarily store data input into the calculators, tools, illustrations, and demonstrations provided by the company on the website;
-  * store information about users’ marketing and product preferences, which helps improve targeting
+  * store information about users’ marketing and product preferences, which helps improve targeting;
   * store information about users’ dwell time on the website;
   * evaluate the website’s advertising and promotional effectiveness (the data collected by Deltastock is anonymous, and is not shared with any third parties).
 
@@ -101,23 +101,23 @@ Deltastock uses cookies to:
 
 Deltastock uses both its own (first party) and partner companies’ (third party) cookies to support these activities.
 
-Deltastock doesn’t use cookies to track users’ and clients’ Internet usage after leaving the website and doesn’t store information that third parties could read or track. Deltastock will not exchange, sell, or lease cookie information without the express consent of the user.
+Deltastock doesn’t use cookies to track users’ and clients’ Internet usage after leaving the website and doesn’t store information that third parties could read or track. Deltastock will not exchange, sell, or lease cookie information without the express consent of the users.
 
 The table below explains the cookies Deltastock uses and why:
 
 Name | Purpose | More Information  
 ---|---|---  
-testcookie | This cookie represents if the user or client has enabled cookies on their browser or not. | [www.aboutcookies.org](http://www.aboutcookies.org/)  
+testcookie | This cookie represents whether the user or client has enabled cookies on their browser or not. | [www.aboutcookies.org](http://www.aboutcookies.org/)  
 ASP.NET_sessionId | These cookies ensure that the website content is personalised to the user’s or client’s preferences. They allow Deltastock’s web servers to respond to the user’s or client’s actions on the website. | [Microsoft](http://support.microsoft.com/kb/899918)  
 _utma  
 _utmb  
 _utmc  
 _utmd  
 _utmz  
-| These cookies are used to collect information about how visitors use the website, which helps Deltastock improve it. The cookies collect information in an anonymous form, including the number of visitors to the website, where they have come to the website from and the pages they have visited.  | [Wikipedia](http://bg.wikipedia.org/wiki/HTTP-%D0%B1%D0%B8%D1%81%D0%BA%D0%B2%D0%B8%D1%82%D0%BA%D0%B0)  
-IBref | These cookies allow Deltastock to track traffic from affiliate websites. |   
+| These cookies are used to collect information about how users and clients use the website, which helps Deltastock improve it. The cookies collect information in an anonymous form, including the number of visitors to the website, where they have come to the website from and the pages they have visited. | [Wikipedia](http://bg.wikipedia.org/wiki/HTTP-%D0%B1%D0%B8%D1%81%D0%BA%D0%B2%D0%B8%D1%82%D0%BA%D0%B0)  
+IBref | These cookies allow Deltastock to monitor traffic from affiliate websites. |   
 timeDiff | This cookie is used to store the user’s time zone |   
-userCountry | This cookie is used to store the user’s language preferences |   
+userCountry | This cookie is used to store the user’s language preferences. |   
 slidercookie | This cookie is used to store a certain state of the website. |   
   
 ### Changing Cookie Settings
@@ -134,7 +134,7 @@ Any secure online services the user or client has subscribed to with Deltastock 
 
 ### IP Address
 
-An IP address is a unique number that identifies the user’s or client’s computer while connected to the Internet. IP addresses are not linked to personal information. Besides for purposes of identification of the user’s or client’s computer, Deltastock also uses IP addresses to analyse overall user behaviour and preferences on the website.
+An IP address is a unique number that identifies the user’s or client’s computer while connected to the Internet. IP addresses are not linked to personal information. Besides for purpose of identification of the user’s or client’s computer, Deltastock also uses IP addresses to analyse overall user behaviour and preferences on the website.
 
 ### Protection of Information
 
