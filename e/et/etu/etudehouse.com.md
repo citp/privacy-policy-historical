@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etudehouse.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119153147id_/http%3A//www.etudehouse.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etudehouse.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509035401id_/http%3A//www.etudehouse.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
