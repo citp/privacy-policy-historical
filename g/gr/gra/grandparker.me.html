@@ -1,17 +1,20 @@
-<!--The following is the downloaded HTML source of the grandparker.me privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120231250id_/http%3A//www.grandparker.me/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grandparker.me privacy policy that was archived on 2015-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150509080643id_/http%3A//www.grandparker.me/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-ie js multiplebgs boxshadow cssgradients placeholder"><!--<![endif]--><head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     
+    <link href="/files/img/v2/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+    
     <link rel="stylesheet" href="/files/css/v2/normalize.min.css">
     <link rel="stylesheet" href="/files/css/v2/flexslider.css">
     <link rel="stylesheet" href="/files/css/v2/css.css">
     <link rel="stylesheet" href="/files/css/v2/lightbox.css">
     
-    <script type="text/javascript" defer="" async="" src="https://web.archive.org/track/piwik.js"></script><script src="/files/js/v2/modernizr.custom.js"></script>
+    <script src="/files/js/v2/modernizr.custom.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
     <script type="text/javascript">if(typeof jQuery === 'undefined') document.write("<script type=\"text/javascript\" src=\"/files/js/v2//files/js/v2/jquery-1.11.1.min.js\"><\/script>")</script><script type="text/javascript" src="/files/js/v2//files/js/v2/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" src="/files/js/v2/jquery.flexslider-min.js"></script>
@@ -38,47 +41,81 @@
       var _API_PAGE_CURRENCY = 'USD';
       var _API_PIWIK_SITE_ID = '3';
       
+      var _API_RTG_SWF_LOCATION = 'http://poiuyt.flscntntdn.eu/swf/parker/flash/';
+      var _API_RTG_CASINO_NAME = 'Grand Parker Casino';
+      var _API_RTG_LIVECHAT_SITEID = '72862092';
+      
       var _API_USER_SIGNIN_URL = '/signin.html';
       var _API_USER_SIGNUP_URL = '/signup.html';
       var _API_USER_PLAY_URL = '/play.html';
       
       var _API_PAGE_MESSAGE = {};
-      _API_PAGE_MESSAGE['TEXT_1'] = 'Cannot auto login';
-      _API_PAGE_MESSAGE['TEXT_2'] = 'Login/password do not match';
-      _API_PAGE_MESSAGE['TEXT_3'] = 'Some error';
-      _API_PAGE_MESSAGE['TEXT_4'] = 'This field is required.';
-      _API_PAGE_MESSAGE['TEXT_5'] = 'Please provide a password.';
-      _API_PAGE_MESSAGE['TEXT_6'] = 'Please enter a valid email address.';
-      _API_PAGE_MESSAGE['TEXT_7'] = 'It must be at least 3 characters long and without space.';
-      _API_PAGE_MESSAGE['TEXT_8'] = 'Should be 6 - 10 characters long!';
-      _API_PAGE_MESSAGE['TEXT_9'] = 'Please accept our Terms & Conditions.';
-      _API_PAGE_MESSAGE['TEXT_10'] = 'Please enter the same password as above.';
-      _API_PAGE_MESSAGE['TEXT_11'] = 'Please wait...';
-      _API_PAGE_MESSAGE['TEXT_12'] = 'Please enter valid both Account Name and Password.';
-      _API_PAGE_MESSAGE['TEXT_13'] = 'Real mode enabled';
-      _API_PAGE_MESSAGE['TEXT_14'] = 'Something wrong';
-      _API_PAGE_MESSAGE['TEXT_15'] = 'Success';
-      
-      _API_PAGE_MESSAGE['TEXT_16'] = 'No such account';
-      _API_PAGE_MESSAGE['TEXT_17'] = 'Please enter your e-mail';
-      _API_PAGE_MESSAGE['TEXT_18'] = 'Please, check your e-mail. A Security Code has been sent to your email.';
+        _API_PAGE_MESSAGE['TEXT_1'] = 'Cannot auto login';
+        _API_PAGE_MESSAGE['TEXT_2'] = 'Login/password do not match';
+        _API_PAGE_MESSAGE['TEXT_3'] = 'Some error';
+        _API_PAGE_MESSAGE['TEXT_4'] = 'This field is required.';
+        _API_PAGE_MESSAGE['TEXT_5'] = 'Please provide a password.';
+        _API_PAGE_MESSAGE['TEXT_6'] = 'Please enter a valid email address.';
+        _API_PAGE_MESSAGE['TEXT_7'] = 'It must be at least 3 characters long and without space.';
+        _API_PAGE_MESSAGE['TEXT_8'] = 'Should be 6 - 10 characters long!';
+        _API_PAGE_MESSAGE['TEXT_9'] = 'Please accept our Terms & Conditions.';
+        _API_PAGE_MESSAGE['TEXT_10'] = 'Please enter the same password as above.';
+        _API_PAGE_MESSAGE['TEXT_11'] = 'Please wait...';
+        _API_PAGE_MESSAGE['TEXT_12'] = 'Please enter valid both Account Name and Password.';
+        _API_PAGE_MESSAGE['TEXT_13'] = 'Real mode enabled';
+        _API_PAGE_MESSAGE['TEXT_14'] = 'Something wrong';
+        _API_PAGE_MESSAGE['TEXT_15'] = 'Success';
+        _API_PAGE_MESSAGE['TEXT_16'] = 'No such account';
+        _API_PAGE_MESSAGE['TEXT_17'] = 'Please enter your e-mail';
+        _API_PAGE_MESSAGE['TEXT_18'] = 'Please, check your e-mail. A Security Code has been sent to your email.';
+        _API_PAGE_MESSAGE['TEXT_19'] = 'Player already exists.';
+        
+        _API_PAGE_MESSAGE['REMIND_PASSWORD_TEXT_1'] = 'E-Mail Address:';
+        _API_PAGE_MESSAGE['REMIND_PASSWORD_TEXT_2'] = 'New Password:';
+        _API_PAGE_MESSAGE['REMIND_PASSWORD_TEXT_3'] = 'Confirm New Password:';
+        _API_PAGE_MESSAGE['REMIND_PASSWORD_TEXT_4'] = 'Security Code:';
+        _API_PAGE_MESSAGE['REMIND_PASSWORD_TEXT_5'] = 'Save';
+        
+        _API_PAGE_MESSAGE['NO_ERRORS'] = 'No errors';
+        _API_PAGE_MESSAGE['UNSPECIFIED_ERROR'] = 'Unspecified error.';
+        _API_PAGE_MESSAGE['LOGIN_ERROR'] = 'Login error.';
+        _API_PAGE_MESSAGE['PASSWORD_ERROR'] = 'Password error.';
+        _API_PAGE_MESSAGE['ERROR_USER_BANNED'] = 'Banned error.';
+        _API_PAGE_MESSAGE['DATA_SYNCHRONIZATION_FAILD'] = 'Data synchronization failed with a third party system.';
+        _API_PAGE_MESSAGE['WELCOME_EMAIL_FAILED'] = 'Welcome email failed.';
+        _API_PAGE_MESSAGE['COUNTRY_CODE_ERROR'] = 'Country code error.';
+        _API_PAGE_MESSAGE['BIRTH_DATE_ERROR'] = 'Birth date error.';
+        _API_PAGE_MESSAGE['ERROR_LOGIN'] = 'Login/Password does not match.';
+        _API_PAGE_MESSAGE['PLAYER_NOT_FOUND'] = 'Player not found.';
+        _API_PAGE_MESSAGE['INVALID_CREDENTIALS'] = 'Invalid Credentials.';
+        _API_PAGE_MESSAGE['LOGIN_RESTRICTED'] = 'Login restricted.';
+        _API_PAGE_MESSAGE['EXPIRED_PASSWORD'] = 'Password Expired.';
+        _API_PAGE_MESSAGE['ENTER_YOUR_EMAIL_PLEASE'] = 'Please enter your e-mail';
+        _API_PAGE_MESSAGE['PLEASE_CHECK_YOUR_EMAIL_FOR_SUCCESS_REMIND_PASSWORD'] = 'Please, check your e-mail. A Security Code has been sent to your email.';
+        _API_PAGE_MESSAGE['CHANGE_PASSWORD_WITH_TOKEN_MANDATORY_FIELDS'] = 'mandatory fields: login,pw,pw_confirm,scop';
+        _API_PAGE_MESSAGE['PASSWORD_SUCCESS_CHANGED'] = 'Your Password has been successfully changed. You can log in the casino now.';
+        _API_PAGE_MESSAGE['COUNTRY_RESTRICTED'] = 'Your country is restricted.';
+        _API_PAGE_MESSAGE['ERROR_CAPTCHA_CODE'] = 'Wrong captcha code';
+        _API_PAGE_MESSAGE['SUCCESS_SIGNUP'] = 'Success signup';
+        _API_PAGE_MESSAGE['SUCCESS_LOGOUT'] = 'Success logout';
+        _API_PAGE_MESSAGE['ERROR_INTERNAL'] = 'failed / unspecified (internal) error';
+        _API_PAGE_MESSAGE['SUCCESS'] = 'SUCCESS';
+        _API_PAGE_MESSAGE['ERROR_LOGIN_LENGTH'] = 'Login too short or too long';
+        _API_PAGE_MESSAGE['ERROR_PW_LENGTH'] = 'Password too short or too long';
+        _API_PAGE_MESSAGE['ERROR_USER_ALREADY_EXISTS'] = 'Player already exists';
+        _API_PAGE_MESSAGE['ERROR_EMAIL_ALREADY_EXISTS'] = 'Email error. Either it is not well formed or it already exists.';
+        _API_PAGE_MESSAGE['ERROR_LOGIN_PW_NOT_MATCH'] = 'Old login/password do not match' ,
+        _API_PAGE_MESSAGE['ERROR_PRECHECK'] = 'Need login' ,
+        _API_PAGE_MESSAGE['ERROR_BIRTHDATE_FORMAT'] = 'Birthdate has invalid format';
+        _API_PAGE_MESSAGE['ERROR_REMINDER_WRONG_LOGIN'] = 'No such account';
+        _API_PAGE_MESSAGE['ERROR_INPUT_EMAIL_NOT_MATCH'] = 'Wrong input email';
+        _API_PAGE_MESSAGE['ERROR_EMAIL_NOT_SENDED'] = 'email has not been sent. please contact support.';
+        _API_PAGE_MESSAGE['SUCCESS_SWITCH_GAME_MONEY_MODE_REAL'] = 'Real mode enabled';
+        _API_PAGE_MESSAGE['SUCCESS_SWITCH_GAME_MONEY_MODE'] = 'Fun mode enabled' ,
+        _API_PAGE_MESSAGE['SUCCESS_EMAIL_SENDED'] = 'Email has been sent. Please check your mail account.';
+        _API_PAGE_MESSAGE['LANGUAGE_CHANGED'] = 'Language has been successfully changed';
+        _API_PAGE_MESSAGE['MAIL_REMIND_SUBJECT'] = 'Casino password reminder';
     </script>
-
-		<!-- Piwik -->
-		<script type="text/javascript"> 
-		var _paq = _paq || [];
-		          _paq.push(['trackPageView']);
-		          _paq.push(['enableLinkTracking']);
-		          (function() {
-		                var u=(("https:" == document.location.protocol) ? "https" : "http") + "://"+document.location.hostname+"/track/";
-		                _paq.push(['setTrackerUrl', u+'piwik.php']);
-		                _paq.push(['setSiteId', 3]);
-		                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
-		                g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-		          })();
-		</script>
-		<noscript><p><img src="http://grandparker.me/piwik.php?idsite=3" style="border:0" alt="" /></p></noscript>
-		<!-- End Piwik Code -->
 
     
 </head>
@@ -91,7 +128,7 @@
             <div class="contacts">
                 <!--[if lt IE 7]><span class="icon"><img src="img/icon/phone.png" alt=""/></span><![endif]-->
                 Call Toll Free
-                <span class="tel">1-844-779-1964</span>
+                <span class="tel">1-888-982-5216, 1-844-779-1964</span>
             </div>
             <form class="form form-signin widget-signin-top">
                 <input name="signin-done-url" type="hidden" value="play.html">
@@ -177,7 +214,7 @@
                   <p>Grand Parker’s advertising system logs IP addresses to supply more accurate  advertising features, such as language specific banners. Advertising system  does NOT log any E-mail addresses.</p>
                   <h2>Account Information</h2>
                   <p>Players account information supplied during the registration process is kept  strictly confidential. Grand Parker does NOT share this information including  customer E-mail addresses and other personal information with any third party  company and/or organization for commercial or non-commercial purposes. Any  personal details a player shares is only for its intended use, such as allowing  us to communicate with the player such as Casino promotions, software updates,  miscellaneous and send cash-out checks and other information a player requests.            
-                  </p><p>Grand Parker collects E-mail addresses of those who communicate with the Casino  via E-mail. If you do not want to receive any E-mail correspondence from us,  please send us a blank E-mail with the text "Remove" in the subject  to <a href="mailto:support@grandparker.com">support@grandparker.com</a>.
+                  </p><p>Grand Parker collects E-mail addresses of those who communicate with the Casino  via E-mail. If you do not want to receive any E-mail correspondence from us,  please send us a blank E-mail with the text "Remove" in the subject  to <a href="mailto:support@grandparker.me">support@grandparker.me</a>.
                   </p><h2>Winnings</h2>
                   <p>
                     As one of the best <a href="http://www.miraclecasinos.com/" target="_blank">USA online casinos</a>, Grand Parker keeps  your winnings and cash-outs strictly confidential and private,
@@ -274,7 +311,6 @@
 		</div>
 	</div>
 </div>
-
 <footer class="site-footer">
     <div class="site">
         <nav class="nav-footer">
@@ -284,7 +320,8 @@
                 <li>| <a href="security.html">Security</a></li>
                 <li>| <a href="fair-gaming.html">Fair Gaming</a></li>
                 <li>| <a href="responsible-gaming.html">Responsible Gaming</a></li>
-                <li>| <a href="http://www.revenuejet.com/">Affiliate Program</a></li>
+                                  <li>| <a href="http://www.revenuejet.com/">Affiliate Program</a></li>
+                
                 <li>| <a href="support.html">Customer Support</a></li>
             </ul>
         </nav>
@@ -294,5 +331,107 @@
     </div>
 </footer>
 
- 
-</body></html>
+<!--    
+    <link rel="stylesheet" href="/files/css/v2/exit-banner/style.css" />
+    <div class="palyer-wait-exit-banner popup">
+        <div class="popup-wrapper">
+            <div class="pw">
+                <div class="pop-wrap">
+                    <img class="popup-close" src="/files/img/v2/exit-banner/close.png" alt="close" />
+                     <div class="center text-1">
+                    <img src="/files/img/v2/exit-banner/text-1.png" alt="" />
+                    </div>
+                    <div class="center text-2">
+                        <img src="/files/img/v2/exit-banner/text-2.png" alt="" />
+                    </div>
+                    <div class="center text-3">
+                        <img src="/files/img/v2/exit-banner/text-3.png" alt="" />
+                    </div>
+                    <div class="p-logo-1 abs"><a href="http://www.onbling.com/r.php?to=/&a=44958&bonus=SLOTSWELCOME"><img src="/files/img/v2/exit-banner/logo-1.png" alt="" /></a></div>
+                    <div class="p-logo-2 abs"><a href="http://www.locopanda.com/r.php?to=/&a=55433&bonus=PANDASLOTS"><img src="/files/img/v2/exit-banner/logo-2.png" alt="" /></a></div>
+                    <div class="p-logo-3 abs"><a href="http://www.classycoin.com/r.php?to=/&a=35530&bonus=SLOTS350"><img src="/files/img/v2/exit-banner/logo-3.png" alt="" /></a></div>
+                    <div class="bonus bonus-1 abs"><img src="/files/img/v2/exit-banner/bonus.gif" alt="" /></div>
+                    <div class="bonus bonus-2 abs"><img src="/files/img/v2/exit-banner/bonus-2.png" alt="" /></div>
+                    <div class="bonus bonus-3 abs"><img src="/files/img/v2/exit-banner/bonus-3.png" alt="" /></div>
+                    <div class="wel-1 abs"><img src="/files/img/v2/exit-banner/wel-1.png" alt="" /></div>
+                    <div class="wel-2 abs"><img src="/files/img/v2/exit-banner/wel-2.png" alt="" /></div>
+                    <div class="wel-3 abs"><img src="/files/img/v2/exit-banner/wel-3.png" alt="" /></div>
+                    <a class="btn btn-1 abs" href="http://www.onbling.com/r.php?to=/&a=44958&bonus=SLOTSWELCOME"><img src="/files/img/v2/exit-banner/btn-1.png" alt="" /></a>
+                    <a class="btn btn-2 abs" href="http://www.locopanda.com/r.php?to=/&a=55433&bonus=PANDASLOTS"><img src="/files/img/v2/exit-banner/btn-2.png" alt="" /></a>
+                    <a class="btn btn-3 abs" href="http://www.classycoin.com/r.php?to=/&a=35530&bonus=SLOTS350"><img src="/files/img/v2/exit-banner/btn-3.png" alt="" /></a>
+                    <div class="use-code use-code-1 abs">Use code: <br /><span class="code">SLOTSWELCOME</span></div>
+                    <div class="use-code use-code-2 abs">Use code: <span class="code">PANDASLOTS</span></div>
+                    <div class="use-code use-code-3 abs">Use code: <br /><span class="code">SLOTS350</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    -->
+    <script type="text/javascript">
+    /*
+      if( (document.location.pathname.indexOf('download') == -1) && '44958' && '55433' && '35530'){
+        function Unloader(){
+            var o = this;
+            this.unload = function(evt){
+                var message = "----- WAIT -----\nPlease, look to our special offer!";
+                
+                widgets.libs.setCookie('player-wait-exit-banner-showed', 1, 30);
+                o.resetUnload();
+                
+                $('.palyer-wait-exit-banner.popup').addClass('open');
+                $('.palyer-wait-exit-banner .popup-close').click(function(){ $('.palyer-wait-exit-banner.popup').removeClass('open'); });
+                $('.palyer-wait-exit-banner .popup-wrapper').click(function(){ $('.palyer-wait-exit-banner.popup').removeClass('open'); });
+                
+                if (typeof evt == "undefined") {
+                    evt = window.event;
+                }
+                if (evt) {
+                    evt.returnValue = message;
+                }
+                
+                return message;
+            }
+         
+            this.resetUnload = function()
+            {
+                $(window).unbind('beforeunload', o.unload);
+                if($.cookie('player-wait-exit-banner-showed') != 1){
+                   setTimeout(function(){ $(window).bind('beforeunload', o.unload); }, 1000);
+                }
+            }
+         
+            this.init = function()
+            {
+                if($.cookie('player-wait-exit-banner-showed') != 1){
+                  $(window).bind('beforeunload', o.unload);
+                }
+                       
+                $('a').bind('click', o.resetUnload);
+                $(document).bind('submit', 'form', o.resetUnload);
+                
+                // Overload default function from main-api.js //
+                getURL = function (url){ o.resetUnload(); document.location = url; };
+                
+                // F5 и Ctrl+F5, Enter
+                $(document).bind('keydown', function(event){
+                  if((event.ctrlKey && (event.keyCode == 116 || event.keyCode == 82)) || event.keyCode == 116 || event.keyCode == 13){
+                    o.resetUnload();
+                  }
+                });    
+            }
+            this.init();
+        }
+         
+        $(function(){
+            if(typeof window.obUnloader != 'object')
+            {
+                window.obUnloader = new Unloader();
+            }
+        })
+      }
+      */
+    </script>
+
+
+
+ </body></html>
