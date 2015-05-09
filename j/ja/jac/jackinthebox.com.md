@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackinthebox.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013082727id_/http%3A//www.jackinthebox.com/legal-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackinthebox.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509212419id_/http%3A//www.jackinthebox.com/legal-and-privacy-policy) for the most accurate reproduction.*
 
 # Jack In The Box | Legal and Privacy Policy
 
@@ -56,13 +56,13 @@ Email addresses, mobile phone numbers and other personally identifiable informat
 
 
 
-Users may choose to submit online to Jack in the Box Inc. names, email addresses, mobile phone numbers, gender, birthdate and/or zip codes from individuals who request to receive more information from Jack in the Box Inc. about its menu items, special offers or similar matters. All subsequent email communications include a link to easily unsubscribe from the email database. Unsubscribes can easily be submitted via [www.jackinthebox.com/connect/unsubscribe](http://www.jackinthebox.com/connect/unsubscribe).
+Users may choose to submit online to Jack in the Box Inc. names, email addresses, mobile phone numbers, gender, birthdate and/or zip codes from individuals who request to receive more information from Jack in the Box Inc. about its menu items, special offers or similar matters. All subsequent email communications include a link to easily unsubscribe from the email database. Unsubscribes can easily be submitted via www.jackinthebox.com/connect/unsubscribe.
 
 Users must explicitly consent to receiving messages on mobile phones in order to sign up for text mobile messages. Users may text HELP to 31278 for assistance or text STOP to 31278 to opt out of mobile messaging. Message and Data rates apply to mobile communications.
 
 More on how we use above info, what we do with it.
 
-Unless otherwise disclosed during the collection, personally identifiable information that may be collected in connection with visitors to this site is retained by Jack in the Box Inc. and is not sold, transferred or otherwise disclosed to non-affiliated third parties, except where disclosure is required by law. This information may be used for any of the following purposes: (1) to help Jack in the Box Inc. better understand visitors' use of our site; (2) to fulfill prizes; (3) to respond to specific requests from our visitors, including prospective franchisees; (4) to obtain parental consent from visitors under 18 years of age, where necessary; (5) to provide any necessary notices to our visitors or their parent or guardians, where necessary (6) to protect the security or integrity of our sites when necessary.
+Unless otherwise disclosed during the collection, personally identifiable information that may be collected in connection with visitors to this site is retained by Jack in the Box Inc. and is not sold, transferred or otherwise disclosed except to our agency partners and other affiliated third parties or where disclosure is required by law. This information may be used for any of the following purposes: (1) receive special offers, product information and updates from Jack in the Box; (2) to help Jack in the Box Inc. better understand and reach visitors' use of our site; (3) to fulfill prizes; (4) to respond to specific requests from our visitors, including prospective franchisees; (5) to obtain parental consent from visitors under 18 years of age, where necessary; (6) to provide any necessary notices to our visitors or their parent or guardians, where necessary (7) to protect the security or integrity of our sites when necessary.
 
 **Jack in the Box Inc. notifies visitors of changes to this privacy policy by changing the effective date on the text hyperlink to this policy.**
 
