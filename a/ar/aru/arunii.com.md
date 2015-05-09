@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arunii.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006225009id_/http%3A//www.arunii.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arunii.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509091824id_/http%3A//www.arunii.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
