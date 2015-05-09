@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholichealth.net privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholichealth.net privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509085821id_/http%3A//catholichealth.net/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy Denver, Colorado (CO) - Catholic Health Initiatives
 
@@ -7,11 +7,11 @@
 Website Privacy Policy  
   
 ---  
-| [CHI Culture Preview](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/culture-project-39709)  
+| [CHI Culture Preview](https://web.archive.org/web/20150509085821id_/http%3A//catholichealth.net/culture-project-39709)  
 ---  
-[Website Privacy Policy](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/website-privacy-policy)  
-[Contact Us](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/contact-us)  
-[Terms and Conditions](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/terms-and-conditions)  
+[Website Privacy Policy](https://web.archive.org/web/20150509085821id_/http%3A//catholichealth.net/website-privacy-policy)  
+[Contact Us](https://web.archive.org/web/20150509085821id_/http%3A//catholichealth.net/contact-us)  
+[Terms and Conditions](https://web.archive.org/web/20150509085821id_/http%3A//catholichealth.net/terms-and-conditions)  
   
 ### **Privacy Policy**
 
@@ -50,9 +50,9 @@ If a User’s personally identifiable information changes (such as your zip code
   *   * 
 
 
-| [CHI Health Good Samaritan Receives $3.3 Million Grant for New Equipment](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1311)  
+| [Rowan Shares Views on Clinical Standardization and More in Two New Articles](https://web.archive.org/web/20150509085821id_/http%3A//catholichealth.net/body.cfm?id=37543&action=detail&ref=1381)  
 ---  
-[World Atrial Fibrillation Awareness Day 5K Family Fun Run & Walk](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1310)  
-[CHI and St. Alexius Medical Center Sign Affiliation Agreement](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1309)  
+[CHI St. Vincent Infirmary Among “100 Great Hospitals in America”](https://web.archive.org/web/20150509085821id_/http%3A//catholichealth.net/body.cfm?id=37543&action=detail&ref=1382)  
+[CHI Feast Day Service Project Provides Fresh Food for Families in Need](https://web.archive.org/web/20150509085821id_/http%3A//catholichealth.net/body.cfm?id=37543&action=detail&ref=1380)  
   
-[](https://web.archive.org/web/20141009082714id_/http%3A//www.catholichealth.net/body.cfm?ID=39279)
+[](https://web.archive.org/web/20150509085821id_/http%3A//catholichealth.net/body.cfm?ID=39279)
