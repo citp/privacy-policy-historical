@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beinggeeks.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630122542id_/http%3A//www.beinggeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beinggeeks.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509090448id_/http%3A//www.beinggeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy for www.beinggeeks.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at vish[...](http://www.google.com/recaptcha/mailhide/d?k=01-7-rmw67YH_LJoSdaBO01g==&c=kpxuXuUARZ3qmWH48FCpGlJjnaAk7ABLqkte2OgxTQk= "Reveal this e-mail address")@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at vishalgaikar@gmail.com.
 
 At www.beinggeeks.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.beinggeeks.com and how it is used.
 
