@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jewelscent.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720004644id_/http%3A//www.jewelscent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelscent.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509090935id_/http%3A//www.jewelscent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JewelScent
-
-###  Privacy Policy
 
 JewelScent ("Company," "we," "our," "us") knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we take in safe guarding your personal information. By visiting the jewelscent.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
