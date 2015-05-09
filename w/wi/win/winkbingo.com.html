@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the winkbingo.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121024023id_/http%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winkbingo.com privacy policy that was archived on 2015-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150509214446id_/http%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir="ltr" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir="ltr" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"><!--<![endif]--><head>
 
 <!--
 player:
@@ -37,7 +37,7 @@ array(11) {
 <meta charset="UTF-8">
 <title>Privacy Policy For WinkBingo Users</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.winkbingo.com/wp-content/themes/wink/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.winkbingo.com/wp-content/themes/wink/style.css?new7">
 <link rel="pingback" href="http://www.winkbingo.com/xmlrpc.php">
 
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.1.5 - http://yoast.com/wordpress/seo/ -->
@@ -54,6 +54,8 @@ array(11) {
 <script type="text/javascript" src="http://www.winkbingo.com/wp-content/themes/wink/js/wink_settings.js"></script>
 <script type="text/javascript" src="http://www.winkbingo.com/commonassets/js/b2cweb.js"></script>
 <script type="text/javascript" src="http://www.winkbingo.com/wp-content/themes/wink/js/swfobject.js"></script>
+<script type="text/javascript" src="http://www.winkbingo.com/commonassets/js/swfobject2.js"></script>
+<script type="text/javascript" src="http://www.winkbingo.com/commonassets/js/funnel-data.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.winkbingo.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.winkbingo.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 3.3.2">
@@ -70,6 +72,10 @@ array(11) {
 <link rel="stylesheet" href="http://www.winkbingo.com/wp-content/themes/wink/js/coin-slider-styles.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="http://www.winkbingo.com/wp-content/themes/wink/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
 <script type="text/javascript" src="http://www.winkbingo.com/wp-content/themes/wink/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/wp-content/themes/wink/js/global.js"></script>
+
+
+
 <link href="https://plus.google.com/u/0/110933577151831202702" rel="publisher">
 <script language="Javascript">
 $(document).ready(function() {
@@ -114,6 +120,54 @@ function sendGAHomeParams(category,action,label) {
 function openAndDownload() {
 	return true;
 }
+
+
+
+
+//  Add IE version to HTML tag
+(function () {
+    function getIEVersion() {
+        var ua = window.navigator.userAgent;
+        var msie = ua.indexOf('MSIE ');
+        var trident = ua.indexOf('Trident/');
+
+        if (msie > 0) {
+            // IE 10 or older => return version number
+            return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+        } else if (trident > 0) {
+            // IE 11 (or newer) => return version number
+            var rv = ua.indexOf('rv:');
+            return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+        } else {
+            return NaN;
+        }
+    };
+
+    var ieVersion = getIEVersion();
+
+    if (!isNaN(ieVersion)) { // if it is IE
+        var minVersion = 6;
+        var maxVersion = 13; // adjust this appropriately
+
+        if (ieVersion >= minVersion && ieVersion <= maxVersion) {
+            var htmlElem = document.getElementsByTagName('html').item(0);
+
+            var addHtmlClass = function (className) { // define function to add class to 'html' element
+                htmlElem.className += ' ' + className;
+            };
+
+            addHtmlClass('ie' + ieVersion); // add current version
+            addHtmlClass('lte-ie' + ieVersion);
+
+            if (ieVersion < maxVersion) {
+                for (var i = ieVersion + 1; i <= maxVersion; ++i) {
+                    addHtmlClass('lte-ie' + i);
+                    addHtmlClass('lt-ie' + i);
+                }
+            }
+        }
+    }
+})();
 </script>
 <!--facebook-->
 </head><body class="page page-id-736 page-template-default singular two-column right-sidebar"><div id="fb-root"></div>
@@ -130,69 +184,21 @@ function openAndDownload() {
 <script type="text/javascript">
 	var serial = '229552';
 	var anid = 'IwinkI';
-	var serverTime = '2014-11-21 02:40:22';
+	var serverTime = '2015-05-09 09:44:46';
 	var newUser = '0';
 	var AffiliateID = '';
 	var AffiliateTrackerID = '';
 	var skinId = '901';
 	var siteDomain = 'www.winkbingo.com';
-	var country = 'GBR';
+	var country = 'USA';
 	var loggedInUser = '';
-	var regInfo = '?skinID=901&a=2734.229552&anid=IwinkI&regCountryCode=USA';
+	var regInfo = '?skinID=901&a=2734.229552&anid=IwinkI&parentHttps=off';
 	var SkinCustomerID = '';
 	var NetworkName = 'Wink';
 	var funded = '';
-</script><script type="text/javascript">var Bingo = {"globals":{"Detection":{"device":"desktop","browser":"Unknown","platform":"Unknown","version":"www.alexa.com"},"SiteData":{"serial":"229552","anid":"IwinkI","serverTime":"2014-11-21 02:40:22","newUser":0,"AffiliateID":"","AffiliateTrackerID":"","skinId":901,"siteDomain":"www.winkbingo.com","country":"GBR","loggedInUser":false,"regInfo":"?skinID=901&a=2734.229552&anid=IwinkI&regCountryCode=USA","SkinCustomerID":"","NetworkName":"Wink","Tag":"","AffiliatePlatformID":"","strCurrency":"GBP","mid":"LUB-BNGB2C-03","a":"2734.229552","funded":""}}}</script>
-<style type="text/css">
-	#joinnow{ width: 180px !important; margin: 11px 25px 0px 115px; }
-	#joinnow a img{ width: 200px !important; }
-	#username{ margin: 8px 8px 8px 15px !important; }
-	#password-clear, #password-password{ margin: 8px 0 8px 185px !important; }
-	#login{ margin: 10px 0 0 0px !important; width: 450px !important; }
-	#winners{ background: #ffe3a7; width: 354px; height: 160px !important; float: left; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
-	#winners img{ display: block; margin: 10px 0px -6px 10px; }
-	#winner-feed-swf{ margin-top: 10px; margin-left: 5px; }
-	.safe-secure{ width: 960px !important; height: 110px; background-color: #a1e4e2; clear: both; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; margin: 0px auto; padding: 10px;}
-	#footer{ height: auto !important; padding-bottom: 20px;}
-	.safe-secure .safe-left{ float: left; width: 400px; height: 84px; margin-top: 15px; }
-	.safe-secure .safe-right{ float: right; width: 497px; height: 84px; background-color: #34c8c6; padding: 10px; text-align: center; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; margin: 0px auto; padding: 10px; margin-top: 4px;}
-	#homeroomsfeed > img{ display: block; margin: 10px; }
-	
-	.wink-on-mobile{ width: 160px; float: right; padding: 20px 20px 0 0px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; background-color: #a1e4e2; padding: 10px; margin-top: 20px; margin-right: 10px; }
-	.wm-title{ display: block; margin-bottom: 25px; width: 160px;}
-	.wm-apple-img{ display: block; margin-bottom: 5px; width: 160px;}
-	.wm-andro-img{ display: block; width: 160px;}
-	
-	.watch-latest-tv{ width: 160px; float: right; padding: 20px 20px 0 0px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; background-color: #a1e4e2; padding: 10px; margin-top: 20px; margin-right: 10px;  margin-bottom: 30px; }
-    .wl-title{ display: block; margin-bottom: 25px; width: 160px;}
-	.wl-vid-img{ display: block; margin-bottom: 5px; width: 160px;}
-	.wl-vid-img img{ width: 160px;}
-	
-	
-	#socialIconsBox { position: absolute; right: 5px; z-index: 100; }
-	#socialIcons { position: fixed; bottom: 0; }
-	.webicon.large { width: 48px; height: 48px; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; display: inline-block; margin-bottom: 5px; text-align: left; text-indent: -999em; clear: both; float: left; }
-	.webicon.twitter { background: url("http://images.images4us.com/bingo/website/webicon-twitter.png") repeat scroll 0 0 transparent; }
-	.webicon.googleplus { background: url("http://images.images4us.com/bingo/website/webicon-googleplus.png") repeat scroll 0 0 transparent; }
-	.webicon.youtube { background: url("http://images.images4us.com/bingo/website/webicon-youtube.png") repeat scroll 0 0 transparent; }
-	.webicon.facebook { background: url("http://images.images4us.com/bingo/website/webicon-facebook.png") repeat scroll 0 0 transparent; }
-	.webicon.pinterest { background: url("http://images.images4us.com/bingo/website/webicon-pinterest.png") repeat scroll 0 0 transparent; }
-	
-	#breadcrumbs{ display: none; }
-	
-	.mfp-iframe-scaler iframe{ background-color: #a1e4e2 !important; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; -khtml-border-radius: 10px; padding: 25px 10px 10px 10px; }
-	.mfp-iframe-holder .mfp-close { top: -10px !important; right: -17 !important; color: #000000 !important;}
-	.safe-right img{ margin-right: 8px; } 
-	.sf-img-2{margin-bottom: 2px; }
-	.sf-img-3{margin-bottom: 7px; }
-	.sf-img-4{margin-bottom: 14px;}
-	.sf-img-5{margin-bottom: 12px;}
-	
-	#legend p { float: left; background-color: #f8d078; -moz-border-radius: 8px; border-radius: 8px; -webkit-border-radius: 8px; margin-right: 4px; font-size: 16px; margin: 0px; height: 31px; line-height: 33px; margin-right: 3px; }
-	
-</style>
-<script type="text/javascript" src="http://www.winkbingo.com/wp-content/themes/wink/js/jquery.magnific-popup.js"></script>
-<link rel="stylesheet" type="text/css" media="all" href="http://www.winkbingo.com/wp-content/themes/wink/magnific-popup.css">
+</script><script type="text/javascript">var Bingo = {"globals":{"Detection":{"device":"desktop","browser":"Unknown","platform":"Unknown","version":"?"},"SiteData":{"serial":"229552","anid":"IwinkI","serverTime":"2015-05-09 09:44:46","newUser":0,"AffiliateID":"","AffiliateTrackerID":"","skinId":901,"siteDomain":"www.winkbingo.com","country":"USA","loggedInUser":false,"regInfo":"?skinID=901&a=2734.229552&anid=IwinkI&parentHttps=off","SkinCustomerID":"","NetworkName":"Wink","Tag":"","AffiliatePlatformID":"","strCurrency":"GBP","mid":"LUB-BNGB2C-01","a":"2734.229552","funded":""}}}</script>
+<script type="text/javascript" src="/wp-content/themes/wink/js/jquery.magnific-popup.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/wink/magnific-popup.css">
 <!-- Begin Inspectlet Embed Code -->
 <script type="text/javascript" id="inspectletjs">
     window.__insp = window.__insp || [];
@@ -215,7 +221,7 @@ function openAndDownload() {
 	dataLayer = [{
 		'serial': '229552',
 		'anid': 'IwinkI' ,
-		'serverTime': '2014-11-21 02:40:22',
+		'serverTime': '2015-05-09 09:44:46',
 		'newUser': '0',
 		'AffiliateID': '',
 		'AffiliateTrackerID' : '',
@@ -225,7 +231,7 @@ function openAndDownload() {
 		'firedTags': '',
 		'loggedUser' : '',
 		'SkinCustomerID' : '',
-		'mid' : 'LUB-BNGB2C-03',
+		'mid' : 'LUB-BNGB2C-01',
 		'Atag' : '2734.229552',
 		'facebookId' : ''
 	}];
@@ -322,22 +328,21 @@ array(11) {
   
 	<div id="header">
 		  
-			<a href="http://www.winkbingo.com">
-				<img border="0" alt="Play online bingo games at Wink Bingo" tittle="Receive exclusive UK bingo bonuses and offers at Wink Bingo" style="width:183px; height:95px;" src="http://www.winkbingo.com/images/wink-logo.png" name="logo" id="logo">
-		</a>
+			<a href="http://www.winkbingo.com" class="wink_logo" id="logo" alt="Wink Bingo Site - Wink if you're in" title="Wink Bingo Site - Wink if you're in">
+				</a>
 		
 			<form name="topForm" action="/privacy-policy/" method="POST" id="topForm">
 			<input name="form_action" id="Hidden5" type="hidden" value="LOGIN">
 						
 		<div id="joinnow">
-			<a href="#" onclick="smartBingo(null,null,'JoinNowTop');"><img alt="Register to play online bingo" border="0" src="http://www.winkbingo.com/images/join-now-on-wink.png"></a>
+			<a href="#" onclick="smartBingo(null,null,'JoinNowTop');" class="globalBtn globalWhite globalBgOrange">JOIN NOW</a>
 		</div>	
 		<div id="login">
-			<div style="float:left;"><input name="Alias" type="text" class="default-value" value="username" id="username"></div>
-			<div style="float:left;"><input type="text" class="password" id="password-clear" value="password"></div>
-			<div style="float:left;"><input name="Password" type="password" class="password" id="password-password" onkeyup="submitForm(event,'topForm','http://www.winkbingo.com/members/');"></div>
-			<a href="javascript:goTop('login',false,'http://www.winkbingo.com/members/');"><img width="82" border="0" height="38" alt="Login" src="http://www.winkbingo.com/images/login-btn.png" style="float:right; margin:3px"></a>
-			<p style="font-size: 11px; margin: 0 0 0 10px; color:#000; float:right; clear:both;"><a href="#" onclick="smartBingo(null,null,'RegisterTopSmall');"> Register</a> | <a href="/forgot-password/" style="color:#000;">Forgot your Password?</a></p>
+			<div style="float:left;"><div class="icon_username"></div><input name="Alias" type="text" class="default-value" value="Username" id="username"></div>
+			<div style="float:left;"><div class="icon_password"></div><input type="text" class="password" id="password-clear" value="Password"></div>
+			<div style="float:left;"><input name="Password" type="password" class="password" id="password-password" onkeyup="submitForm(event,'topForm','/members/');"></div>
+			<a href="javascript:goTop('login',false,'/members/');" class="globalBtn loginBtn globalWhite globalBgBlue">LOGIN</a>
+			<p><a href="#" onclick="smartBingo(null,null,'RegisterTopSmall');"><strong>Register</strong></a> | <a href="/forgot-password/">Forgot your Password?</a></p>
 		</div><!-- END login -->		
 
 				  
@@ -349,33 +354,35 @@ array(11) {
 			<nav id="access" role="navigation">
 				<div class="menu-primary-container"><ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" id="menu-primary" class="menu"><li itemprop="name" id="menu-item-4693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4693"><a itemprop="url" href="http://www.winkbingo.com/">Home</a></li>
 <li itemprop="name" id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371"><a itemprop="url" title="Register" href="http://www.winkbingo.com/register/">Register</a></li>
-<li itemprop="name" id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a itemprop="url" title="promotions" href="http://www.winkbingo.com/bingo-promotions/">Bingo Promotions</a></li>
+<li itemprop="name" id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a itemprop="url" title="promotions" href="http://www.winkbingo.com/bingo-promotions/">Promotions</a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="sub-menu">
+	<li itemprop="name" id="menu-item-13996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13996"><a itemprop="url" href="/bingo-promotions/">All Promotions</a></li>
+	<li itemprop="name" id="menu-item-13992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13992"><a itemprop="url" href="/bingo-promotions/#new-player-zone">New Player Zone</a></li>
+	<li itemprop="name" id="menu-item-13993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13993"><a itemprop="url" href="/bingo-promotions/#hot-specials">HOT Specials</a></li>
+	<li itemprop="name" id="menu-item-13994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13994"><a itemprop="url" href="/bingo-promotions/#freebies-loyalty">Freebies &amp; Loyalty</a></li>
+	<li itemprop="name" id="menu-item-13995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13995"><a itemprop="url" href="/bingo-promotions/#all-time-faves">All Time Faves</a></li>
+</ul>
+</li>
 <li itemprop="name" id="menu-item-8554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8554"><a itemprop="url" href="/bingo-games">Bingo</a>
 <ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="sub-menu">
 	<li itemprop="name" id="menu-item-4143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4143"><a itemprop="url" href="http://www.winkbingo.com/bingo-games/">Bingo Games</a></li>
-	<li itemprop="name" id="menu-item-6500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6500"><a itemprop="url" href="http://www.winkbingo.com/bingo-jackpots/">Bingo Jackpots</a></li>
+	<li itemprop="name" id="menu-item-14558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14558"><a itemprop="url" href="/bingo-promotions/bingo-progressive-jackpots/">Bingo Jackpots</a></li>
 </ul>
 </li>
-<li itemprop="name" id="menu-item-9137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9137"><a itemprop="url" href="http://www.winkbingo.com/instant-games/">Games</a>
+<li itemprop="name" id="menu-item-9137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9137"><a itemprop="url" href="/slots">Games</a>
 <ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="sub-menu">
-	<li itemprop="name" id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a itemprop="url" title="instants" href="http://www.winkbingo.com/instant-games/">Instant Games</a></li>
 	<li itemprop="name" id="menu-item-11161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11161"><a itemprop="url" href="http://www.winkbingo.com/slots/">Slots</a></li>
+	<li itemprop="name" id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a itemprop="url" title="instants" href="http://www.winkbingo.com/instant-games/">Instant Games</a></li>
 	<li itemprop="name" id="menu-item-1376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1376"><a itemprop="url" title="casino" href="http://www.winkbingo.com/casino-games/">Casino Games</a></li>
 	<li itemprop="name" id="menu-item-9541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9541"><a itemprop="url" href="http://www.winkbingo.com/scratch-cards/">Scratch Cards</a></li>
-	<li itemprop="name" id="menu-item-9619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9619"><a itemprop="url" href="http://www.winkbingo.com/progressive-jackpots/">Progressive Jackpots</a></li>
+	<li itemprop="name" id="menu-item-9619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9619"><a itemprop="url" href="http://www.winkbingo.com/progressive-jackpots/">Jackpot Slots</a></li>
 </ul>
 </li>
 <li itemprop="name" id="menu-item-1372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1372"><a itemprop="url" title="winners" href="http://www.winkbingo.com/winners/">Winners</a></li>
 <li itemprop="name" id="menu-item-4211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4211"><a itemprop="url" title="Mobile" href="http://www.winkbingo.com/mobile/">Mobile</a></li>
-<li itemprop="name" id="menu-item-1375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1375"><a itemprop="url" title="community" href="http://www.winkbingo.com/community/">Community</a>
-<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="sub-menu">
-	<li itemprop="name" id="menu-item-4144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4144"><a itemprop="url" href="http://www.winkbingo.com/community/mini-club-members/">MINI Club Members!</a></li>
-	<li itemprop="name" id="menu-item-4145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4145"><a itemprop="url" href="http://www.winkbingo.com/community/blog/">Blog</a></li>
-</ul>
-</li>
+<li itemprop="name" id="menu-item-12976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12976"><a itemprop="url" title="community" href="http://www.winkbingo.com/community/">Community</a></li>
 <li itemprop="name" id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a itemprop="url" title="help" href="http://www.winkbingo.com/help/">Help</a>
 <ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="sub-menu">
-	<li itemprop="name" id="menu-item-3342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3342"><a itemprop="url" href="http://www.winkbingo.com/help-videos/">Help Videos</a></li>
 	<li itemprop="name" id="menu-item-6519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6519"><a itemprop="url" target="_blank" href="http://888-external-en.custhelp.com/app/home/prod/288" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://888-external-en.custhelp.com']);">Online Help</a></li>
 	<li itemprop="name" id="menu-item-11402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11402"><a itemprop="url" href="http://www.winkbingo.com/help/learn-90ball-bingo/">How to play Bingo</a></li>
 </ul>
@@ -408,38 +415,39 @@ array(11) {
 <li><a href="http://www.winkbingo.com/responsible-gaming/">Responsible Gaming</a></li>
 <li><a class="current">Privacy Policy</a></li>
 </ul>
+<h3>Privacy Policy</h3>
 <h2>Introduction</h2>
-<p>Cassava Enterprises (Gibraltar) Limited (the “<strong>Company</strong>” or “<strong>we</strong>“) offers gambling services via its in-house brands such as (i) 888, (ii) Casino-on-Net, (iii) 888casino, (iv) Pacific Poker, (v) 888poker, (vi)888sport, &nbsp;(vii) 888bingo, (viii) 888ladies, (ix) 888games, (x) 888pachinko, (xi) 888play, (xii) Reef Club Casino; (xiii) LuckyAcePoker; (xiv) Euro City Casino, and (xv) Supro Casino &nbsp;(each an “<strong>In-House Brand</strong>“) and via third parties’ brands as part of so called “white labels” such as (i) Lotos,&nbsp; (ii) Tower Torneos,&nbsp; (iii) Harrah’s and (iv) Oxygen9casino (each a “<strong>White Label Brand</strong>“). In addition to offering its gambling services via the Internet (the “<strong>Internet Platform</strong>“), the Company may from time to time offer its services via alternative platforms such as (i) interactive television, (ii) mobile gaming platforms, &nbsp;(iii) in-flight entertainment platforms, and (iv) Facebook applications (each, an “<strong>Alternative Platform</strong>“).</p>
-<p>When you use the Company’s gambling services either via an In-House Brand or a White Label Brand, and whether such use is via the Internet Platform or an Alternative Platform, you shall be asked to provide personal identifiable information (“<strong>PII</strong>“) to the Company.</p>
-<p>The Company is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you gambling services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions to <a href="mailto:support@winkbingo.com">support@winkbingo.com</a> and we will do our best to answer your questions in full as quickly as possible.</p>
-<p>You should read this Privacy Policy in conjunction with the <a href="http://www.888.com/security-and-privacy/user-agreement.htm" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.888.com']);" target="_blank">888.com Group Operated Sites and Services End User License Agreement.</a></p>
+<p>The brands on this website (the “Website”) are owned by Cassava Enterprises (Gibraltar) Limited (the “Brand Owner”). The Website is operated by Cassava Enterprises (Gibraltar) Limited (“Company”, “we” or “us”), which is registered under the laws of Gibraltar to provide such services.</p>
+<p><span style="text-decoration: underline; font-weight: bold;">PLEASE NOTE:</span> If you play or register an account in the United Kingdom (UK) all references herein to the “Company”, “us” or “we” shall be deemed as a reference to 888 UK Limited. 888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.</p>
+<p><span style="text-decoration: underline; font-weight: bold;">PLEASE NOTE:</span> If you play in any EU member state except for states which you play on a local license, for example, in the UK all references herein to the “Company”, “us” or “we” shall be deemed as a reference to Virtual Digital Services Limited.</p>
+<p>As such, all personal data and customer funds are transferred to and stored by Company on its servers in Gibraltar. The Company is happy to provide you with online gaming services under its remote gambling license issued by the Government of Gibraltar or by the UK Gambling Commission, as applicable. The Company is committed to preserving the privacy of all visitors to the Website.</p>
+<p>When you use the Company’s services, you shall be asked to provide personal identifiable information (“PII“) to the Company.</p>
+<p>The Company is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online gaming services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions to <a href="mailto:support@winkbingo.com" target="_blank">support@winkbingo.com</a> and we will do our best to answer your questions in full as quickly as possible.</p>
 <h2>Personal Identifiable Information Collection</h2>
-<p>We collect PII when you register and use our gambling services, make customer inquiries, register for information or other services from the Company, (including through Facebook applications), or when you respond to communications from us (such as questionnaires or surveys). The PII we will collect from you may include, for example, your name, email address, home address, telephone number, voice sample (which will not be kept on our records), debit/credit data and date of birth and other information collected on registration or through surveys which the Company shall undertake.</p>
+<p>We collect PII when you register and use our gaming services, make customer inquiries, register for information or other services from the Company, (including through Facebook applications), or when you respond to communications from us (such as questionnaires or surveys). The PII we will collect from you may include, for example, your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which the Company shall undertake.</p>
 <h2>How Your Information is Processed (“Purposes”)</h2>
-<p>The PII which you provide to us will be processed for one or more of the following Purposes: (i) to allow us to provide you with gambling services; (ii) to process any of your requests for information; (iii) to provide member support services to you; (iv) to market our services or products or those of other entities existing within the same group of companies in which the Company exists (the “Cassava Group”); or those of any of our business partners and affiliates; &nbsp;(v) to notify you about updates to our software and/or services; and (vi) to support any of the intended purposes specifically stated at the time at which you provided the PII.</p>
+<p>The PII which you provide to us will be processed for one or more of the following Purposes: (i) to allow us to provide you with gaming services; (ii) to process any of your requests for information; (iii) to provide member support services to you; (iv) to market our services or products or those of other entities existing within the same group of companies in which the Company exists (the “Group”); or those of  the Brand Owner or any of their business partners and affiliates;  (v) to notify you about updates to our software and/or services; and (vi) to support any of the intended purposes specifically stated at the time at which you provided the PII.</p>
 <h2>To Whom Your Information is Disclosed (“Recipients”)</h2>
-<p>Your PII may, for the Purposes, be disclosed for processing to any of the following Recipients: (i) to any companies within the Cassava Group and their employees who have a need to know such information; (ii) to white label partners where we provide you with gambling services via a White Label Brand; (iii) to any third parties which provide services to the Company in order to allow or enable us to provide you with gambling services, including by way of example payment processors and data verifiers; (iv) to any third parties who provide the Cassava Group services in relation to the operation of 888sport; (v) to any auditors, contractors or other advisers auditing any of Cassava Group’s business processes; and (vi) to any potential purchasers or investors in any company within the Cassava Group. Any processing performed by any Recipients will, where required by law, be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights and obligating the Recipients to respect the PII and handle it in accordance with the relevant laws.</p>
-<p>We ensure that your information will not be disclosed to government institutions or authorities except if required by law.</p>
+<p>Your PII may, for the Purposes, be disclosed for processing to any of the following Recipients: (i) to any companies within the Group and their employees who have a need to know such information; (ii) to the Brand Owner; (iii) to any third parties which provide services to the Company or its subcontractors in order to allow or enable us to provide you with gaming services, including by way of example affiliate networks, payment processors and data verifiers; (iv) to any third parties who provide the Group services in relation to the operation of the Website; (v) to any auditors, contractors or other advisers auditing any of Group’s business processes; (vi) to any third parties who organize events or tournaments on behalf of or in conjunction with any companies within the Group; and (vii) to any potential purchasers or investors in any company within the Group. Any processing performed by any Recipients will, where required by law, be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights and obligating the Recipients to respect the PII and handle it in accordance with the relevant laws.</p>
+<p>We ensure that your information will not be disclosed to government institutions or authorities except if required by law and regulation.</p>
 <h2>Your Choice – Direct Marketing</h2>
-<p>Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us or from any other companies within the Cassava Group. At any time, you may request to discontinue receiving these offers by sending a blank message with the word “Remove” in the subject area to <a href="mailto:support@winkbingo.com" target="_blank">support@winkbingo.com</a>. If you would like to stop receiving our mail or telemarketing offers, please call <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">1-800-480-5170<a style="position: static !important; margin: 0px; width: 16px; bottom: 0px; display: inline; white-space: nowrap; float: none; height: 16px; vertical-align: middle; overflow: hidden; top: 0px; cursor: hand; right: 0px; left: 0px;" title="Call: 1-800-480-5170" href="http://www.winkbingo.com/privacy-policy/#"><img style="position: static !important; margin: 0px; width: 16px; bottom: 0px; display: inline; white-space: nowrap; float: none; height: 16px; vertical-align: middle; overflow: hidden; top: 0px; cursor: hand; right: 0px; left: 0px;" title="Call: 1-800-480-5170" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAKLSURBVHjadJPfS5NhFMe/21xvuhXRyJAZroiSrJnbRdT7vrAf5HBaK5RABmEEwQIvkpZ/QRcWXdSFw5soKaF0F7qZeLO13mGBDpQsf5CoxVKHOt0Pctp2uvEdrzG/V+c553w/54HnPDIiQiGpPMETABoB2AAYd9MRAMMAvGmX+RcAyAoBVJ7gZQDtABworH4AHWmX+bOMZdkjCoXiUzabvcAwzPSsob5p/VTNY9GcdpnxdmYZ9wJThSCtCr1e/4XjuNPd3d1KjUZzaGbI27ysqzGQoggAsLa1A7ehArrDxfDNr0oBlQB+wmKxbJFEL968SxoamsjkHaPU9l9piUo6A0RE1DG2QCWdASrpDAzJM5kMI8XecdjVxfEl+K9dxFgsgUvvR6HyBKHyBAEATyKLeGSsENuNcqk5kUjEGm7fzcYqr0ClVODl99+YXEvl6+c1amjVe+ahiGGYaUEQKnmeh91uL43rqheixjpdmzCL11er0PcjhrTLvMfUJsyKYUSeyWQ6enp6tgCgrKxsfbP8bB8AdE1G89cOReMAgOv+Cag8QXRNRkXAsDwcDr+am5tLCYKA3t7eo2dG+1vVK/MfpRPtA+MIReMYaKj+/xm9MiICx3EmpVL5wefzFavValis1u1vvHMkdfykCQC0kSGUTo+Ajmnx1dSC7IGD+UUCEYGIwLKsyWazrSeTSSIiMpnNf7Ttz5+ec96fr7/VnE0mk+QfHMzV3WjcKH/4rEr05QGFIA6HY4llWRLPRER+v3/HYrFMFQSIkNra2tVQKJSlfcSyLO0LECFWq3XF6XRGA4HAptTsdrsXeZ6fEHtl+31nAOA4rkUulz/I5XL63dQGgHEAN8Ph8AYA/BsAt4ube4GblQIAAAAASUVORK5CYII=" alt=""></a></span> or write to Cassava Enterprises (Gibraltar) Limited, Suite 601/701, Europort, Gibraltar.</p>
+<p>Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email/SMS offers from us. At any time, you may request to discontinue receiving these offers by clicking the ‘unsubscribe’ link in any of our emails. If you would like to stop receiving our mail/SMS or telemarketing offers, please call 0800 783 9465 or write to <a href="mailto:support@winkbingo.com" target="_blank">support@winkbingo.com</a>. </p>
 <h2>Your Rights in relation to your PII</h2>
 <p>You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please email <a href="mailto:support@winkbingo.com" target="_blank">support@winkbingo.com</a>. We may levy a small charge to cover the cost of administration.</p>
 <h2>Security</h2>
 <p>We have implemented suitable security policies, rules and technical measures to protect and safeguard all the PII under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors who have access to, and are associated with the processing of your PII, are obliged to respect your privacy.</p>
 <h2>Cookies</h2>
-<p>We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer’s hard disk for record-keeping purposes. Cookies can help us to recognize you when you next visit our website, note the advertisements you click on and the other sites you enter via a link from our website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the “Help” section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device</p>
-<p><strong>Facebook Applications</strong></p>
-<p>When you register with our Facebook application (“App”) and provide your consent by clicking “Play Game” on the landing page of the App, we will obtain the following from your Facebook account through the App: (i) your basic information (including your name, profile picture, gender, networks, user ID, list of friends and any other information you made public on Facebook), (ii) your email address, and (iii) your date of birth. The App may publish in your name all of your App-related activities through your Facebook account, including bingo rooms/ lobbies you visited, achievements and winnings you earned, your high scores and more, as well as post in chats and send virtual gifts on your behalf. &nbsp;You shall at all times have the option to modify our permission to do all of the foregoing via your Facebook’s privacy preferences.</p>
+<p>We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer’s hard disk for record-keeping purposes. Cookies can help us to recognize you when you next visit the  Website, note the advertisements you click on and the other sites you enter via a link from the Website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of the Website. The Website uses four types of cookies: (i) ‘session cookies’ which are stored only temporarily during a browsing session in order to allow normal use of the system and are deleted from your device when the browser is closed; (ii) ‘first party cookies’ / ‘persistent cookies’ which are set and read only by the Website, saved on your computer for a fixed period (usually a year or longer) and are not deleted when the browser is closed. Such cookies are used where we need to know who you are for repeat visits, for example to allow us to store your preferences for the next login (such as user name and/or password); (iii) ‘third party cookies’ which are set by other websites who run content on the page you are viewing, for example by third party analytics companies who monitor and analyze our web access; and (iv) ‘flash cookies’ which are saved during game play to allow quicker and better gaming experience. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the “Help” section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device</p>
 <h2>Advertisements</h2>
-<p>We use a third-party advertising technology to serve advertisements when you visit our websites. This technology uses information about your visits to our websites (not including your name, address, or other personal information), to serve our advertisements to you. In the course of delivering our advertisements to you, a unique third-party ‘cookie’ may be placed or recognized on your browser. We also transmit website usage information about visitors to our websites to the servers of a reputable third party for the purpose of targeting our Internet banner advertisements on this site and other sites. To do this, we use ‘Web beacons’ and ‘cookies’ provided by our third-party advertisement server on our sites. The information that is collected and logged on our behalf through this technology is not personally identifiable. If you do not want your non-personal information used to target advertisements to you, please visit <a href="http://www.networkadvertising.org/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.networkadvertising.org']);" target="_blank">www.networkadvertising.org</a> and follow the “opt-out” instructions.</p>
+<p>We use a third-party advertising technology to serve advertisements when you visit the Website. This technology uses information about your visits to the Website (not including your name, address, or other personal information), to serve our advertisements to you. In the course of delivering our advertisements to you, a unique third-party ‘cookie’ may be placed or recognized on your browser. We also transmit website usage information about visitors to the Website to the servers of a reputable third party for the purpose of targeting our Internet banner advertisements on the Website and other sites. To do this, we use ‘Web beacons’ and ‘cookies’ provided by our third-party advertisement server on the Website . The information that is collected and logged on our behalf through this technology is not personally identifiable. If you do not want your non-personal information used to target advertisements to you, please visit <a href="http://www.networkadvertising.org" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.networkadvertising.org']);" target="_blank">www.networkadvertising.org</a> and follow the “opt-out” instructions.</p>
 <h2>Protection of Minors</h2>
 <p>The services provided by the Company are not intended for or directed to minors or persons under the age of legal consent. Any person who provides us with PII represents to us that they are 18 years of age or over the age of legal consent in their jurisdiction. We reserve the right to access and verify any PII submitted by or collected from you. If we become aware that a minor has attempted to or has submitted PII, we may not accept this information and may take steps to remove such information from our records.</p>
 <h2>International Transfer</h2>
-<p>Since we operate globally, it may be necessary to transfer your PII to other companies within the Cassava Group located in countries outside the European Union. This may happen if our servers or such companies are based outside the European Union, if you use our services and products while visiting countries outside the European Union or if we transfer your PII to such companies for purposes regarding which you will receive advance notice. The data protection and other laws of these countries may not be as comprehensive as those in the European Union – in these instances we will take steps to ensure that a similar level of protection is given to your PII.</p>
+<p>Since we operate globally, it may be necessary to transfer your PII to Recipients who are located in countries outside the European Union. This may happen if our servers or such Recipients or their servers are based outside the European Union. If you use our services and products while visiting countries outside the European Union or if we transfer your PII to Recipients or Recipients which have their servers located outside the European Union, you hereby consent to said transfer of your PII. The data protection and other laws of these countries may not be as comprehensive as those in the European Union – in these instances we will take steps to ensure that a similar level of protection is given to your PII.</p>
 <h2>Retention</h2>
 <p>Your PII will not be stored for any longer period than is necessary for the purposes for which it was collected.</p>
 <h2>Information about us</h2>
-<p>Cassava Enterprises (Gibraltar) Limited Suite 601/701 Europort, Gibraltar</p>
+<p>Cassava Enterprises (Gibraltar) Limited /888 UK Limited (as applicable) /Virtual Digital Services Limited Suite 601/701 Europort, Gibraltar</p>
 <p>This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing.</p>
 <p>If you have any enquiry about this Privacy Policy please write to <a href="mailto:support@winkbingo.com" target="_blank">support@winkbingo.com</a>.</p>
 			</div><!-- .entry-content -->
@@ -465,31 +473,61 @@ array(11) {
 	<div id="sidebar">
 
 		
-	
-	<div id="sidebarBanner"><a href="/register/" style="cursor: pointer;"><img src="http://www.winkbingo.com/images/lp/070514/Wink_new_HP_banner_spin_pink_210x5001.jpg"></a></div>
+
+<div id="sidebarBanner">
+            <a href="#" onclick="smartBingo(null,null,'SpinTheWheel');" style="cursor: pointer;"><img src="/wp-content/themes/wink/images/members/SPEEN_THE_WHEEL.jpg" width="205" style="margin-left: 5px;"></a>
+    </div>
+
 	<!--<div id="sidebarBanner">Please Get Flash.</div>
 		<script type="text/javascript">
-		var so = new SWFObject("http://www.winkbingo.com/_banners/sidebar_holder_210x500.swf", "sidebar banner", "210", "500", "8", "");
+		var so = new SWFObject("/_banners/sidebar_holder_210x500.swf", "sidebar banner", "210", "500", "8", "");
 		so.addParam("wmode", "transparent");
 		so.write("sidebarBanner");
 		</script>-->
 	
+
+
  
 
 	</div><!-- END rigthcontent -->
+    <div class="sidebarBottom">
+        <div></div>
+    </div>
 
 	
+    <div class="clear"></div>
 </div><!-- END maincontainer -->
 
-
+<div class="footerClear"></div>
 <div id="footer">
-	<div id="homepageText">
-				
-	</div>
 	
+    <div class="footerBox globalBgOrange">
+        <div class="links">
+            <a href="/terms-and-conditions/">Terms &amp; Conditions</a> |
+            <a href="/responsible-gaming/">Responsible Gaming</a> |
+            <a href="/terms-and-conditions/#bankingpolicy">Banking</a> |
+            <a href="/bingo-payment-methods/">Payment Methods</a><br>
+            <a href="/privacy-policy/">Privacy Policy</a> |
+            <a href="/about-us/">About Us</a>  |
+            <a href="/help/">Help</a> |
+            <a href="/contact-us/">Contact Us</a>  |
+            <a href="http://affiliates.888.com/" target="_blank" onmousedown="this.href=this.href + '?sr=' + serial + '&amp;anid=' + anid">Affiliates</a><br>
+            <a href="/bingo-resources/" target="_blank">Bingo Resources</a> |
+            <a href="/fair-play/">Fair Play</a>
+        </div>
+        <div class="social">
+            <a href="http://www.facebook.com/winkbingo/" target="_blank" class="social_icon_facebook"></a>
+            <a href="http://twitter.com/winkbingo" target="_blank" class="social_icon_twitter"></a>
+            <a href="http://www.youtube.com/user/winkbingo" target="_blank" class="social_icon_youtube"></a>
+            <a href="https://plus.google.com/+winkbingo" target="_blank" class="social_icon_google"></a><br>
+            <a href="/mobile/" class="mobile_icon_apple"></a>
+            <a href="/mobile/" class="mobile_icon_android"></a>
+        </div>
+    </div>
+
 	<!--<div id="followus">
 		<h2 style="color: #e6078f;">Watch our latest tv ad</h2>
-			<a href="http://www.youtube.com/watch?v=3-r-16J72_s" target="_blank"><img src="http://www.winkbingo.com/images/tv-ad.jpg" style="border:0;" /></a>	
+			<a href="http://www.youtube.com/watch?v=3-r-16J72_s" target="_blank"><img src="/images/tv-ad.jpg" style="border:0;" /></a>	
 		<h2 style="color: #e6078f; margin-top:5px;">Follow Us</h2>
 		<div id="sociallogos">
 			<a href="http://twitter.com/winkbingo"><div id="twitter"></div></a>
@@ -507,20 +545,7 @@ array(11) {
     	<a href="https://itunes.apple.com/gb/app/bingo-games-by-wink-bingo/id693560829?mt=8" target="_blank" class="iconApple"></a>
     	<a href="/mobile/" class="iconAndroid"></a>
     </div>-->
-		<style type="text/css">
-		#footer{ height: auto !important; padding-bottom: 20px !important; }
-	</style>
-		<div id="payments">
-        <a href="/terms-and-conditions/">Terms &amp; Conditions</a> |
-        <a href="/responsible-gaming/">Responsible Gaming</a> |
-        <a href="/terms-and-conditions/#bankingpolicy">Banking</a> |
-        <a href="/paypal-bingo/">Paypal Bingo</a> |
-        <a href="/privacy-policy/">Privacy Policy</a> |
-        <a href="/about-us/">About Us</a>  |
-        <a href="/help/">Help</a> |
-        <a href="/contact-us/">Contact Us</a>  |<br>        <a href="http://affiliates.888.com/" target="_blank">Affiliates</a> |
-        <a href="/bingo-resources/" target="_blank">Bingo Resources</a> |
-        <a href="/fair-play/">Fair Play</a>
+	<div id="payments">
 		<div class="bankingAndLicenseContainer">
             <div class="responsibleAndPaymentContainer">
                 <span class="neteller cursorOff"></span>
@@ -537,23 +562,26 @@ array(11) {
                 <a class="gamcare longerIcon" href="http://www.gamcare.org.uk/" rel="nofollow" target="_blank"></a>
                 <a class="gbga" href="http://www.gbga.gi/" rel="nofollow" target="_blank"></a>
                 <a class="gambCommission longerIcon" href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" rel="nofollow" target="_blank"></a>
-                <a class="EighteenPlus" href="http://www.winkbingo.com/responsible-gaming/" rel="nofollow" target="_blank"></a>
+                <a class="EighteenPlus" href="/responsible-gaming/" rel="nofollow" target="_blank"></a>
             </div>
         </div>
 	</div>
-
+    <div id="vcard">
+	    <div class="bankingAndLicenseContainer">
+       <p>This website is operated by Cassava Enterprises (Gibraltar) Limited, which is licensed to offer online gaming services by the Government of Gibraltar (License Number 022), regulated by the Gibraltar Gambling Commissioner under the laws of Gibraltar, and makes no representation as to legality of such services in other jurisdictions.</p>
+    <p>As of November 1, 2014 our gambling services in the UK are operated and managed by 888 UK Limited, a company licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" target="_blank" style="text-decoration: underline;">United Kingdom Gambling Commission</a>, pursuant to the UK Gambling Act (License Number 000-039028-R-319297-0016)</p>
+    <p>Our address: 601-701 Europort, Gibraltar.</p>
+    <p>We encourage responsible gambling and support <a href="http://www.gamcare.org.uk/" target="_blank" style="text-decoration: underline;">GamCare</a>.</p>
+        </div>
+    </div><!-- END vcard -->
 </div><!-- END footer -->
 
-<div id="vcard">
-	<div class="bankingAndLicenseContainer">
-   <p>This website is operated by Cassava Enterprises (Gibraltar) Limited, which is licensed to offer online gaming services by the Government of Gibraltar (License Number 022), regulated by the Gibraltar Gambling Commissioner under the laws of Gibraltar, and makes no representation as to legality of such services in other jurisdictions.</p>
-<p>As of November 1, 2014 our gambling services in the UK are operated and managed by 888 UK Limited, a company licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" target="_blank" style="text-decoration: underline;">United Kingdom Gambling Commission</a>, pursuant to the UK Gambling Act (License Number 000-039028-R-319297-0016)</p>
-<p>Our address: 601-701 Europort, Gibraltar.</p>
-<p>We encourage responsible gambling and support <a href="http://www.gamcare.org.uk/" target="_blank" style="text-decoration: underline;">GamCare</a>.</p>
-    </div>
-</div><!-- END vcard -->
 
-
+    <div class="wink_BG_orange_ball"></div>
+    <div class="wink_BG_purple_ball"></div>
+    <div class="wink_BG_pink_ball"></div>
+    <div class="wink_BG_blue_ball"></div>
+    <div class="wink_BG_green_ball"></div>
 </div><!-- END #wrap -->
 </div><!-- END #glitter-->
 <script type="text/javascript">
