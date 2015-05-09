@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollystop.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812083942id_/http%3A//bollystop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollystop.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509040016id_/http%3A//bollystop.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Apne TV
 
