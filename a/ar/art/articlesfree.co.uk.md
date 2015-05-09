@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the articlesfree.co.uk privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103160103id_/http%3A//www.articlesfree.co.uk/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesfree.co.uk privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510002036id_/http%3A//www.articlesfree.co.uk/policy.html) for the most accurate reproduction.*
 
 # Privacy & Policy - UK Copyright Free Articles
 
-[Home](http://www.articlesfree.co.uk/?do=index)      Privacy & Policy |   Back  
+[Home](http://articlesfree.co.uk/?do=index)      Privacy & Policy |   Back  
 ---|---  
   
 | Privacy & Policy  
