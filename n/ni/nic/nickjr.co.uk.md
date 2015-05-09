@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224172416id_/http%3A//www.nickjr.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickjr.co.uk privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509123048id_/http%3A//www.nickjr.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Info for parents | Nick Jr
 
