@@ -1,184 +1,167 @@
-> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227023310id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509140227id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**TOTAL BEAUTY MEDIA, INC. PRIVACY POLICY**
+TotallyHer Media, LLC (the "Company"), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.totalbeauty.com](http://www.totalbeauty.com/) (the "Site"), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
 
-Your privacy is important, so Total Beauty Media, Inc. has created this Privacy Policy to let you know what information we collect when you visit the Total Beauty web site (the "Site"), why we collect it, and how it is used. 
+* Scope
 
-The terms "you," "your" and "yours" refer to all visitors of our Site. The terms "Total Beauty", "we", "us" and "our" refer to Total Beauty Media, Inc. and its subsidiaries and affiliates. This Privacy Policy is governed by our [Terms of Use](https://web.archive.org/terms). By accessing this Site and the content, information, products and services available on this Site, you consent to the data practices described in this Privacy Policy and our Terms of Use. 
+This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the Company does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit. 
 
-We may periodically make changes to this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Site. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes, so we encourage you to visit this page often. If you do not consent to this Privacy Policy, please do not use the Site.
+* What information the Site collects
 
-If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+**Information you provide directly to us:**
 
-**1\. The Collection of Information**
+You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including: 
 
-**     The Information We Collect; How We Collect It **
+  1. contact information, such as name and email address; 
+  2. username and password;
+  3. information posted in community discussions and other interactive online features; 
+  4. search queries conducted on the Site; and
+  5. correspondence you send to us.
 
-We may request at times that you voluntarily supply us with personal information. Such personal information includes any information that may be used to identify a specific individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number(s) and other contact information. Generally some or all of this information is requested when you register on the Site, when you post product reviews or ratings, or when you provide information in connection with sweepstakes, contests, surveys, and samples programs. We may request information about your interests and activities, your gender and age, and other demographic information as well as public information such as user ratings and reviews and other information you view on the Site. We request additional personal information, including your credit card information, billing and shipping addresses, and telephone number when you use our services to make purchases. If you invite a friend to join Total Beauty, you will need to provide his or her name and email address. Total Beauty will retain this information to credit your membership with referrals and track the success of our referral plan. Some of the information Total Beauty collects is not explicitly submitted by you - Total Beauty also automatically receives and records information on its server logs from your browser, including your IP address, cookie information, the web pages you request, your browser type and language, access times, the searches you undertake, and the referring web site address. 
 
-For instance, when you visit our Site, we may assign your computer one or more cookies, to facilitate access to our Site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our Site, such as the web pages you visit, the links you click, and the searches you conduct on the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies, and you should be able to remove existing cookies by following your browser help file directions. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our Site. 
 
-We also may use standard other technologies, such as web beacons and other similar technologies, to track your use of our Site. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our Site users to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
+**Information automatically collected when you visit and interact with the Site:**
 
-We use third-party advertising companies to serve advertisements when you visit our Site. The third-party advertising technology that we use on this Site uses information derived from your visits to this Site to target advertising within this Site and gauge the effectiveness of the advertising. 
+When you visit and interact with the Site, certain information may be collected automatically, including: 
 
-**     The Information Collected by Third Parties Using Technology **
+  1. your computer's Internet Protocol (IP) address;
+  2. your browser type and operating system;
+  3. the web pages you were visiting immediately before and after you came to the Site;
+  4. activities within community discussions;
+  5. web pages and advertisements that you view, and links that you click on, within the Site;
+  6. your bandwidth speed and information about the software programs that are installed on your computer;
+  7. aggregated data about email click-through rates and user video viewing;
+  8. standard server log information; and
+  9. information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other tracking technologies](https://web.archive.org/cookie-technology)
 
-Total Beauty, its service providers, or third party advertisers or their service providers may use third-party advertising technology to customize the ads you see on our Site based on your previous online activity on this Site and other sites. This is sometimes called "interest based advertising" or "online behavioral advertising," and it is intended to deliver ads that are relevant to your interests and thereby enhance your online experience. For instance, certain advertisers may place unique cookies or other electronic tools on your browser that gather non-personally identifiable information regarding your online activities on this Site and others. This information may then be used, alone or in conjunction with other information, to make inferences about your interests, and then display to you advertisements that are tailored to your particular interests while you are on this Site or other web sites. The collection and use of your information by our service providers, third-party advertisers or their service providers is not covered by this Privacy Policy nor is it within our control. If you would like to learn more about interest based advertising or if you would like to opt out of having interest-based information collected during your visits to this Site or other web sites, please click [here](http://www.networkadvertising.org/consumer/opt_out.asp "http://www.networkadvertising.org/consumer/opt_out.asp")
 
-We participate in ad remarketing programs delivered currently through our vendor Google and possibly other similar networks in the future. Our third party vendors, including Google, use cookies to serve ads based on your prior visits to the Total Beauty Site. You may opt out of Google's use of cookies by clicking [ here](http://bluekai.com/privacy.html "click here") to learn more about Blue Kai's business practices and privacy policies, including how to decline participation in these programs.
 
-**2\. How We Use Your Information**
+**Information we collect from other sources:**
 
-Generally, we may use information that we collect about you to: 
+We may access information about you from third-party sources and platforms (such as Google Analytics Demographics and Interest Reporting, social networking sites, databases, online marketing firms, and ad targeting firms), including: 
 
-  * deliver the products, services and newsletters that you have requested; 
-  * deliver a quality shopping experience;
-  * process your purchases and send you administrative messages regarding the process of such purchases; 
-  * manage your account and provide you with customer support; 
-  * communicate with you by e-mail about products or services that may be of interest to you either from us or other third parties; 
-  * Tracking email invitations;
-  * Tracking your purchase history;
-  * give away product samples to users who are willing to have their personal information shared with the product manufacturers;
-  * verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
-  * develop and display content and advertising tailored to your interests on our Site and other web sites; 
-  * perform research and analysis about your use of, or interest in, our service, or content, or products, services or content offered by others; 
-  * manage our business;
-  * enforce our terms and conditions; and 
-  * perform functions as otherwise described to you at the time of collection. 
+  1. if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;
+  2. demographic data, such as age range, gender, and interests;
+  3. advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and
+  4. unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
 
 
 
-Information such as your full name, profile photo and any personally identifiable information you have included in your reviews may be shown to other users primarily in conjunction with product reviews and ratings you have contributed. In addition, we may sell or license your reviews to third parties, in which case your first name and last initial and any personally identifiable information you have included in your reviews may be shown to users of such third party web sites. Your postings will be displayed on publicly-viewable web pages, and whenever you disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+Please note that the Site may combine the information that we collect with information we obtain from third-party sources. 
 
-**3\. How We Share or Disclose Your Information**
+* How we use the information that we collect
 
-We may share personal or other information we have collected about you or your activities on our Site or while using our services under the following circumstances. 
+**Email Communications:**
 
-     **Personal information**
+We may use the information that we collect to send you e-mail communications, such as information about your account or changes to the Site, promotional messages about our own or our marketing partners' products and services, and our email newsletters. 
 
-We do not share your personal information with others except as indicated below or when we inform you and give you the opportunity to opt out of having your personal information shared (see below �Controlling Your Personal Information�). 
+**Advertising:**
 
-We may share your personal information in connection with sharing, selling or licensing your product reviews to third parties. Your first name and last initial, profile photo, and any personally identifiable information you have included in your reviews may be transferred to such third parties and displayed on their web sites in connection with such third parties' publication of your reviews. 
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other tracking technologies](https://web.archive.org/cookie-technology). 
 
-We may share your information with our beauty brand partners (�Brand Partners�) in the course of your purchase of their Vouchers to help them process your redemption of their Vouchers. Any such redemption subjects the information provided to the participating Brand Partner to its privacy policy, and NOT this Privacy Policy. This may result in certain of our Brand Partners marketing to you directly. We do not have any responsibility for the actions of our Brand Partners nor do we have any liability to you for their actions.
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third-party online advertising](https://web.archive.org/third-party). Please remember that the information practices of third-party advertisers or platforms collecting data on our Site are not covered by this privacy policy.
 
-Total Beauty may share your information with third party businesses for their online marketing purposes; but we do not disclose your personal information to any such third parties that may want to offer you their own products and services unless you have requested or authorized us to do so.
+**User Accounts:**
 
-We may provide our postal mailing list (consisting of names and postal mailing addresses, but not email addresses) to trusted third party businesses whose products or services we believe may be of interest to you. To identify products that we believe may be of interest to you, we may aggregate information you have given us (demographic information, for example) and information that we have collected (such as past purchase history) available from our records and other sources. 
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, our forum moderators monitor discussions and delete comments that we deem inappropriate in our forums. For more information on this process, please see the Site's community rules, forum rules or comment policies about comment moderation guidelines.
 
-We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include supporting our Site functionality, supporting contests, sweepstakes, surveys and other features offered through our Site, and filling orders and customer support. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes. 
+**Request Fulfillment:**
 
-We may disclose your personal information to strategic partners with which we undertake traffic linking arrangements or co-branded promotions. We may disclose your personal information in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
+We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards. 
 
-We may disclose your personal information when we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Site's terms and conditions or other agreements or policies.
+**Statistical Analysis:**
 
-We may disclose your information to subsidiaries and affiliates of Total Beauty.
+In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site's functionality, and to better tailor our content and design to suit our visitors' needs. 
 
-We may disclose your personal information in connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. The personal information which you provide to us is an asset of Total Beauty and may be included in the assets transferred in the event of a substantial corporate transaction. 
+**Enforcement:**
 
-There are a number of places on our Site where you may click on a hyperlink to access other web sites that do not operate under this Privacy Policy. Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the web sites of those third parties. These entities or their servers may be located either inside or outside the United States. 
+We may use the information that we collect to prevent illegal activities, to enforce the Site's [Terms and Conditions](https://web.archive.org/terms) , and to otherwise protect our rights and the rights of our users. 
 
-Total Beauty will notify you when information about you may be provided to third parties in ways other than explained above, and you will have the option to prevent such information sharing.
+By using the Site, you consent to the uses identified above and any other use of information identified in this privacy policy. In addition, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent. 
 
-**Aggregated and Non-Personal Information**
+* Information sharing
 
-We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on our Site and on third-party web sites. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Site and the most popular areas and features of our Site. This information does not contain any personal information and may be used to develop content and new services that we hope you and other users will find of interest and to target content and advertising. 
+The Company values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below: 
 
-We hire vendors, including Google, to undertake our remarketing program, which allows us to communicate with people who have previously visited key pages on the Total Beauty Site. These third party vendors, may show Total Beauty ads on sites on the internet and use cookies to serve ads based on a user's prior visits to the Total Beauty Site.
+  1. We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site unless you opt-in or otherwise agree to have such information shared with or otherwise disclosed to a third party for marketing purposes. 
+  2. We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
+  3. If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions. 
+  4. We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. 
+  5. We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's Terms and Conditions , or as otherwise required by law.
+  6. We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims. 
+  7. In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-     **Other**
 
-From time to time, we may use your information for new, unanticipated uses not previously disclosed in this Privacy Policy. If our information practices change at some time in the future we will post the policy changes to our Site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Site periodically. 
 
-**4\. Product Reviews and Ratings and Bulletin Boards**
+Once we share your information with another party, the information received by that party becomes subject to the other party's privacy policies. Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other tracking technologies](https://web.archive.org/cookie-technology) and [third-party online advertising](https://web.archive.org/third-party). 
 
-We encourage you to generate and submit product reviews and ratings regarding beauty products on our Site. Our Site also features areas where you may access other interactive features such as bulletin boards. Such postings are governed by our Terms of Use. In addition, such postings may appear on other web sites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+* Your choices
 
-**5\. Third Party Web Sites**
+**Deactivating your account**
 
-This Site contains integrations with other sites such as Facebook or Twitter, and there are a number of places on our Site where you may click on a hyperlink to access these sites and other web sites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our Site, you may be taken to a web site that we do not control. These third-party web sites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those web sites. We recommend that you consult the privacy policies of all third-party web sites you visit by clicking on the "privacy" link typically located at the bottom of the web page you are visiting. 
+If the Site functionality permits, you can deactivate your account at any time by visiting the preferences page for your profile or delete any content you provide from the Site, though we may retain a copy of any deactivated accounts or deleted content for compliance purposes. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](https://web.archive.org/terms). 
 
-**6\. Controlling Your Personal Information**
+**Cookies and other tracking technologies**
 
-You may elect not to provide us with certain information, but that may result in you being unable to use certain features of our Site because such information may be required in order for you to register as a member or user; submit product ratings and reviews; participate in a contest, promotion, survey, sweepstakes or samples give-away; make purchases; ask a question; or initiate certain other transactions on our Site. 
+As discussed in the sections on [cookies and other tracking technologies](https://web.archive.org/cookie-technology) and [third-party online advertising](https://web.archive.org/third-party), some information is collected about you automatically through cookies and other tracking technologies. 
 
-If you are a registered user of our Site, you may update your personal information simply by signing in and going to "My Account" from our home page. You can make changes to your account information at any time. To protect your privacy and security, we will also verify your identity before granting access or making corrections. You may also contact us to communicate any questions or concerns. More information about how to contact us is provided below. 
+  1. _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <http://www.aboutads.info/choices> if you are located in the United States, www.youronlinechoices.com if you are located in Europe, [youradchoices.ca/choices](http://youradchoices.ca/choices) if you are located in Canada, or [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/) if you are located in Australia . 
+  2. _Flash Cookies. ._ You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser. 
 
-At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by logging in with your account information, clicking on the "My Account" link, then clicking on the "My Settings" link and adjusting those items of your communication settings you would like to update. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. We may however send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. You may however continue to receive email invitations from your friends and additional Total Beauty communications while Total Beauty processes your opt-out request.
 
-**7\. How we protect your personal information**
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For instance, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. The Site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, we use firewalls to help prevent unauthorized persons from gaining access to your personal information. However, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure.
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](https://web.archive.org/third-party) and visit the [Self-Regulatory Program for Online Behavioral Advertising at www.aboutads.info.](http://www.networkadvertising.org/choices/)
 
-**8\. Children's privacy**
+**Do Not Track**
 
-Most of our Site is a general audience site, and we do not knowingly collect personal information from children under the age of 13. You must be 18 to use certain portions of our site, for instance where ecommerce activities are accessible. We do not knowingly collect any personal information from anyone under 18 in those portions of our site.
+We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created. To learn about Do Not Track, please click [here](http://www.allaboutdnt.com/).
 
-**9\. Visiting from outside the United States**
+**California Residents**
 
-9\. Visiting from outside the United States This Privacy Policy is intended to cover collection of information on our Site from residents of the United States. If you are visiting our Site from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy. 
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties' direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled "Your California Privacy Rights") by e-mail to [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
 
-**10\. Contacting Total Beauty**
+* Access
 
-Our goal is to respect your privacy. If you have any questions, comments or concerns about our Privacy Policy, you may contact us by email at [privacy@totalbeauty.com](mailto:privacy@totalbeauty.com "privacy@totalbeauty.com") or by postal mail to: 
+If you choose to share personal information with us, you may update or amend this information by contacting us at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com). Please include in your email the name of the Site to which you provided the information you wish to amend.
 
-Total Beauty Media, Inc.,   
-3420 Ocean Park Blvd, Suite 3050  
-Santa Monica, CA 90405  
-Attn: Privacy Officer
+* Confidentiality and security
 
-Total Beauty welcomes your comments and questions. 
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration. 
 
-**11\. Your California Privacy Rights**
+Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us. 
 
-If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
+* Visitors from outside the United States
 
-  * the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;
-  * the names and addresses of the third parties that received that information; and
-  * if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed. 
+The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States. 
 
+* Children under 13
 
+Protecting the privacy of young children is especially important. The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address. 
 
-We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [legal@totalbeauty.com](mailto:legal@totalbeauty.com "legal@totalbeauty.com"). 
+The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. 
 
-Last updated on March 15, 2012. 
+If you believe that we might have any information from or about a child under 13, please contact us at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com). 
 
-© 2008 - {$smarty.now|date_format:"%Y"} Total Beauty Media, Inc. All rights reserved.
+* Children's privacy policy
 
-Interest Based Advertising Information and Opt-out 
+The Company may occasionally offer promotions on its owned or third-party affiliated websites and applications (the "TotallyHer Affiliate Sites") that may be directed in whole or in part to children under the age of 13. Generally, we do not directly or indirectly collect personally-identifiable information from children under the age of 13 in connection with these promotions. For some promotions, children are allowed to send preprogrammed messages to friends regarding a particular feature or activity being offered on the TotallyHer Affiliate Site. In these instances, the child is prompted to enter the email addresses of his or her friends and some other non-identifiable information, such as his or her first name only. This information is automatically discarded as soon as the preprogrammed message is delivered. From time to time, however, we may request limited personally-identifiable information in order to conduct online contests or sweepstakes. Our practices with respect to collection of personally-identifiable information from children under the age of 13 are described below. We do not condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to engage in the activity. In addition, a parent may at anytime review any personally-identifiable information collected about their child under the age of 13, have this information deleted and prohibit further collection or use of the child's information (although this may require the child to forfeit any prize won in a sweepstakes or contest).
 
-Interest based advertising uses information collected by third parties across multiple web sites that you visit in order to predict your preferences and show you ads that are most likely to be of interest to you. If you would like to learn more about "interest based advertising" (also called "online behavioral advertising") please click on any of the links below: 
+The Company occasionally offers contests and/or sweepstakes on a TotallyHer Affiliate Site directed in whole or in part to children under the age of 13. **Our contests and sweepstakes are designed in such a manner that a child under the age of 13 is not required to provide any personally-identifiable information about him/herself prior to being named a winner**. To participate in these contests or sweepstakes, however, we may require the child to provide a screen name and a parent's e-mail address. We send an email notification to the parent's email address only if the child has been selected as a potential winner of the contest or sweepstakes. The parent must then respond to the email notification by the deadline provided in the email notification, and must also complete and submit any prize claim documents in accordance with any instructions provided by the Company or as set forth in the official rules for the contest or sweepstakes. 
 
-[www.aboutads.info/consumers](http://www.aboutads.info/consumers)  
-[The IAB's Privacy Matters website](http://www.iab.net/privacymatters/)  
-[The NAI's Learn More page](http://networkadvertising.org/managing/learn_more.asp)
+The parental email address collected from each child is used solely to notify the parent if his/her child is a potential winner of the contest or sweepstakes, and it is not provided to any third party except those third parties we have engaged to assist us in running the contest or sweepstakes. These third parties are required to maintain the parental email in confidence and may only use it in connection with the services they are providing to us. The information collected from winners may be (i) used in advertising and promotional activities relating to our contest and/or sweepstakes, which may include making certain of this information publicly available, and (ii) passed on to third parties for the purpose of awarding prizes, and, depending on the type of prize, these third parties may not be prohibited from using the information for purposes other than awarding the prize (such as marketing or advertising). **Again, please note that personally-identifiable information is only collected from the parents of children under the age of 13 who have potentially won a prize, and only after the parent consents to the award of the prize and the disclosure of the information.**
 
-The Total Beauty web site (the "Site") uses several vendors that implement interest based advertising including Google, Adroll and possibly other similar networks in the future. The use of your information by these third parties is not subject to Total Beauty's privacy policy. You should click on either of the links below to inform yourself about their respective privacy policies and their information collection and use practices. 
+* Changes to the privacy policy
 
-[Google privacy policy](http://www.google.com/intl/en/policies/privacy/)   
-[Adroll Privacy policy](http://www.adroll.com/about/privacy)
+We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected. 
 
-You have choices about the collection of information by third parties on our Site and other web sites. If you would like to opt out of our vendors' and other third parties' use of cookies on your browser, please click on either of the links below. 
+* Questions and suggestions
 
-[Google opt-out](https://www.google.com/intl/en/policies/privacy/)  
-[Adroll opt out](http://www.adroll.com/about/privacy#optpolicy)
+If you have questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com), or send mail to: 
 
-Alternatively, you may click on the link below to review the third parties using cookies for interest based advertising on your browser and opt out of some or all of these third parties' use of cookies. 
+Evolve Media, LLC   
+5140 W. Goldleaf Circle, Third Floor   
+Los Angeles, CA 90056   
+Attn: General Counsel   
 
-[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
-
-Please note: If your browser is set to block third party cookies, these opt out features may not operate or display properly. 
-
-Note also that if you wish to opt out of interest based advertising:   
-
-
-  * You will need to opt out on each device and each browser that you use to access this Site. 
-  * You will no longer receive interest based ads on this Site, but you will still see the same number of ads as before, but they likely will not be as relevant to your interests. 
-  * If you delete your browser cookies, you will need to return to this page and opt out again if you wish to remain opted out from interest based advertising. 
-
-
-
-For more information regarding what information Total Beauty collects and how that information is used and shared, please click [here](http://www.totalbeauty.com/privacy) to visit our Privacy Policy. 
