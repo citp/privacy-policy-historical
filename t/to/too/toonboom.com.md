@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120200805id_/http%3A//www.toonboom.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509042129id_/https%3A//www.toonboom.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Toon Boom Animation
 
