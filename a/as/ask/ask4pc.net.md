@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ask4pc.net privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124155528id_/http%3A//www.ask4pc.net/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask4pc.net privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509095749id_/http%3A//www.ask4pc.net/p/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy | Ask4pc: Free Software Solutions, Serial keys, Keygen , Cracks Direct Download
+# Privacy policy ~ Ask4pc: Free Software Solutions, Serial keys, Keygen , Cracks Direct Download
 
 _**What information do we collect?**_
 
