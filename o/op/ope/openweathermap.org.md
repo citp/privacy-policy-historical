@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the openweathermap.org privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712141849id_/http%3A//openweathermap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openweathermap.org privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509111859id_/http%3A//openweathermap.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
-
-##  Privacy policy
 
 ###  1\. Introduction 
 
@@ -19,7 +17,7 @@
   * information that you provide when completing your profile on our website including your name, profile pictures, gender, date of birth, relationship status, interests and hobbies, educational details and employment details; 
   * information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters including your name and email address; 
   * information that you provide to us when using the services on our website, or that is generated in the course of the use of those services including the timing, frequency and pattern of service use; 
-  * information relating to any purchases you make of our goods / services / goods and/or services or any other transactions that you enter into through our website including your name, address, telephone number, email address and card details; 
+  * information relating to any purchases you make of our goods / services / goods and/or services or any other transactions that you enter into through our website including your name, address, telephone number and email address; 
   * information that you post to our website for publication on the internet including your user name, your profile pictures and the content of your posts; 
   * information contained in or relating to any communications that you send to us or send through our website including the communication content and meta data associated with the communication; 
   * any other personal information that you choose to send to us; and 
@@ -195,16 +193,3 @@
 
 
 12.11 Deleting cookies will have a negative impact on the usability of many websites. 
-
-###  13\. Our details 
-
-13.1 This website is owned and operated by Extreme Electronics Ltd. 
-
-13.2 We are registered in England and Wales under registration number 8247457, and our registered office is at address
-
-80-83 Long Lane   
-London   
-United Kingdom   
-EC1A 9ET 
-
-13.3 You can contact us by writing to the business address given above or by email to email address [info@openweathermap.org](mailto:info@openweathermap.org)
