@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the textfree.us privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328103634id_/http%3A//www.pinger.com/content/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textfree.us privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509113033id_/http%3A//www.pinger.com/content/company/privacy_policy.html) for the most accurate reproduction.*
 
-# Pinger makes texting and talking free.
+# Pinger makes texting and talking free
+
+## Privacy Policy
 
 **Overview**
 
