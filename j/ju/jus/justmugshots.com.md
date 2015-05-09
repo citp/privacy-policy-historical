@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the justmugshots.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216005242id_/http%3A//support.justmugshots.com/entries/22129528-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmugshots.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509064140id_/http%3A//support.justmugshots.com/entries/22129528-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : General Support
 
 **What information do we collect?**    
-We collect information from you when you place an order or fill out a form. When ordering or registering on our site, as appropriate, you may also be asked to enter your name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously if you prefer.
+We collect information from you when you fill out a form. You may be asked to enter your name and/or e-mail address. Your visit to our site is anonymous unless you fill out a form with your information.
 
  **What do we use your information for?**    
 Any of the information we collect from you may be used in one of the following ways: 
 
-Information we gather from you while visiting and interacting with our website will not ever be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
- **How do we protect your information?**    
-We implement a variety of security measures to maintain the safety of your personal information when you place an order  
-We offer the use of a secure server.  All supplied sensitive/credit information is transmitted directly to our Payment gateway provider via Secure Socket Layer (SSL) technology.  We do not ever store any sensitive information on our servers or in our databases;  it is transmitted directly to our Payment gateway provider and is only accessible by those authorized with special access rights to such systems, and who are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, financials, etc.) will not be stored on our servers for any reason whatsoever.
+Information we gather from you while visiting and interacting with our website will not ever be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the service requested.
 
  **Do we use cookies?**    
 Yes.  Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
@@ -38,5 +32,5 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
  **Online Privacy Policy Only**    
 This online privacy policy applies only to information collected through our website and not to information collected offline or via any other means.
 
-**Your Consent**    
+ **Your Consent**    
 By using our website, you consent to our privacy policy (this document).  The latest version of this policy can be found online at the following address:  
