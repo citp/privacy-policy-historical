@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025060334id_/http%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aafp.org privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509081709id_/http%3A//www.aafp.org/about-site/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy -- About This Site -- AAFP
+# Privacy Policy -- About This Site
 
 The American Academy of Family Physicians (AAFP) is committed to protecting the privacy of its members and customers. The AAFP maintains safeguards to store and secure information about its members and customers. The safeguards may be physical, electronic, or procedural. This Privacy Policy (“Policy”) describes: (i) how the AAFP collects information from its websites and through your other voluntary interactions with the AAFP (e.g., subscription to an AAFP publication, communication with the AAFP Contact Center, purchase of an AAFP product, application for AAFP membership, registration to an AAFP event, participation in a member survey); and (ii) how the AAFP uses this information. With respect to websites, please note that this Policy applies only to the AAFP’s websites and not to the websites of unrelated third-party companies or organizations to which the AAFP provides links, or to any software that may be downloaded from the AAFP’s websites.
 
