@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the tpub.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231194513id_/http%3A//www.tpub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpub.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509213147id_/http%3A//www.tpub.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Statement - Integrated Publishing
 
 Privacy & Security Notice  
+---  
   
 Thank you for visiting Integrated Publishing and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
@@ -22,10 +23,12 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 We use this information to help us make the site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits.  
   
+---  
  If You Send Us Personal Information  
   
 If you choose to provide us with personal information -- by filling out a form with your personal information and submitting it to us through the website -- we use that information to respond to your message and to help us get you the information you have requested. The information you provide will only be used for Integrated Publishing's marketing purposes and will not be sold to ANY external organizations..  
   
+---  
  Site Security  
   
   1. For site security purposes and to ensure that this service remains available to all users, this computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
@@ -33,6 +36,9 @@ If you choose to provide us with personal information -- by filling out a form w
   3. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
   
+---  
  Prohibitions  
   
-Integrated Publishing will **not** link to any website that exhibits hate, bias, or discrimination. Furthermore, Integrated Publishing reserves the right to deny or remove any link that contains misleading information or unsubstantiated claims, or is determined to be in conflict with Integrated Publishing mission or policies.
+Integrated Publishing will **not** link to any website that exhibits hate, bias, or discrimination. Furthermore, Integrated Publishing reserves the right to deny or remove any link that contains misleading information or unsubstantiated claims, or is determined to be in conflict with Integrated Publishing mission or policies.  
+  
+---
