@@ -1,0 +1,346 @@
+<!--The following is the downloaded HTML source of the yelu.in privacy policy that was archived on 2015-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510010750id_/http%3A//www.yelu.in/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0, width=device-width"><title>Privacy policy</title>
+<meta name="keywords" content="companies in India, Business in India, India business, India companies">
+<meta name="description" content="Privacy policy. Search for India Companies in India Business Directory. Add your free Business Listing on India Business Directory.">
+<meta name="copyright" content="Yelu.in">
+<meta name="ROBOTS" content="index,follow">
+<meta name="GOOGLEBOT" content="index,follow"><link rel="stylesheet" type="text/css" href="/css/site/main.min.css?v=25">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery/jquery.min.js?v=191"></script>
+<link href="/infavicon.ico" type="image/x-icon" rel="icon"><link href="/infavicon.ico" type="image/x-icon" rel="shortcut icon">
+<meta name="DC.title" content="Business India">
+<meta name="geo.region" content="IN">
+<meta name="geo.position" content="20.593684, 78.96288">
+<meta name="ICBM" content="20.593684, 78.96288">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/css/site/ie.css?v=5" />
+<script src="/js/html5.js"></script>
+<![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24794763-2', 'auto');
+  ga('send', 'pageview');
+  
+  ga('create', 'UA-9697326-3', 'auto', {'name': 'totalTracker'});
+  ga('totalTracker.send', 'pageview');
+</script>
+
+
+
+<script>
+url_ln = "http://www.yelu.in/";
+	
+$(document).ready(function() {    
+
+	$("#CompanySearchQuery").autocomplete(url_ln+'autocomplete/query', {       delay: 300, minChars: 3, max: 40, sortResults: false, selectFirst : false, autoFill: false});     
+	$("#CompanySearchLocation").autocomplete(url_ln+'autocomplete/location', { delay: 300, minChars: 3, max: 40, sortResults: false, selectFirst : false, autoFill: false});     
+
+	$('.search_box input').on('focus', function() {
+		resetCollapse();
+		$('#search_drop').hide();
+	});
+	
+	$('.search_box input').on('blur', function() {
+		resetCollapse();
+		$('#search_drop').hide();
+	});
+
+	$(".target").attr('target', '_blank');   
+	
+	$('.search_box input').focus(function() {
+	  var input = $(this);
+	  if (input.val() == input.attr('rel')) {
+	    input.val('');
+	  }
+	}).blur(function() {
+	  var input = $(this);
+	  if (input.val() == '' || input.val() == input.attr('rel')) {
+	    input.val(input.attr('rel'));
+	  }
+	}).blur();
+	
+}); 
+
+function showBrowse(t) {
+	
+	if($('#search_drop_content').attr('rel') == t) {
+		$('#search_drop').hide().html('');
+		resetCollapse();
+		
+		return false;
+	}
+	
+	$('#search_drop').load('/ajax/browse/'+t, function() {
+		$('#search_drop').show();
+
+		resetCollapse();
+	
+		$('#'+t+'_browse').css({'background-position': '-597px -215px'});
+	});
+}
+
+function resetCollapse() {
+	$('#what_browse').css({'background-position': '-396px -215px'});
+	$('#where_browse').css({'background-position': '-396px -215px'});
+}
+
+
+function saveClick(el_id) {
+	$.post(url_ln+'/ajax/save_click/'+el_id);
+}
+
+
+function showLogin(extra_url) {
+	$('body').after(function() {
+		return $('<div class="screen-block" id="login-screen-block" style="display: block;"></div>').click(function(e) {
+			$(this).remove();
+			$('#login_box').hide();
+		});
+	});
+	
+	$('#login_box').show();
+
+	if(extra_url) {
+		$('#login_box form').attr('action', $('#login_box form').attr('action')+'/'+extra_url );
+		$('#login_box_sign_up').attr('href', $('#login_box_sign_up').attr('href')+'/'+extra_url );
+		$('#login_box_signup_fb').attr('href', $('#login_box_signup_fb').attr('href')+'/'+extra_url );
+	}
+}
+</script>
+
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#appId=171166422952329&amp;xfbml=1"></script></head>
+<body>
+
+
+<header>
+	<nav>
+		<a href="http://www.yelu.in" title="India Business Directory - Yelu.in" class="logo_link logo_in" style="background-image: url(/img/site/logos/logo_in.png);">India Business Directory - Yelu.in</a>			
+		<div class="search_box">
+	<form id="search_form" method="post" action="/india-business-search"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>	
+	<fieldset>
+		<div class="input text"><input name="data[CompanySearch][query]" type="text" rel="Search for Companies or Services" autocapitalize="off" autocorrect="off" autocomplete="off" class="highlight acInput" value="" id="CompanySearchQuery"><a href="#" id="what_browse" onclick="showBrowse('what'); return false;" style="background-position: -396px -215px;"></a></div>		
+				
+		<div class="input text"><input name="data[CompanySearch][location]" type="text" rel="Location" value="" id="CompanySearchLocation" autocomplete="off" class="acInput"><a href="#" id="where_browse" onclick="showBrowse('where'); return false;" style="background-position: -396px -215px;"></a></div>		
+		<div class="submit">
+			<a href="#" onclick="$('#search_form').submit(); $('#loading').fadeIn(); return false;" class="search_submit">Search</a>					</div>
+
+		<a href="/browse-business-directory" class="browse_submit"> </a>
+	    <input type="submit" class="hidden" value="Search">
+	</fieldset>
+	</form>	 
+	
+	<a href="/browse-business-directory" class="fleft m_link">Browse categories</a>	<a href="/browse-business-cities" class="fright m_link">Browse locations</a>
+		
+	<div class="clear"></div>
+</div>
+<a href="#" id="m_search_link"></a>
+<a href="#" id="search_close" class="skinny_close"></a>
+
+<script>
+$(function() {
+	$('#m_search_link').click(function(e) {
+		$('.screen-paint').show();
+		$('.search_box').show();
+		$('#search_close').fadeIn('slow');
+		e.preventDefault();
+	});
+
+	$('#search_close').click(function(e) {
+		$('.screen-paint').hide();
+		$('.search_box').hide();
+		$('#search_close').hide();
+		e.preventDefault();
+	});
+});	
+</script>	
+		<div class="userbox userbox_en">
+		  	<a href="/sign-in">Sign in</a><a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
+</div>
+
+<div class="hidden_menu hidden">
+		  	<a href="/sign-in" title="Sign in">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
+	<a href="/browse-business-directory">Browse categories</a>	<a href="/browse-business-cities">Browse locations</a></div>
+
+<a href="#" title="Menu" class="m_menu_link"></a><a href="#" id="userbox_close" class="skinny_close"></a>
+<script>
+
+
+	$('.m_menu_link').click(function(e) {
+		$('.screen-paint').show();
+		$('.hidden_menu').show();
+		$('#userbox_close').fadeIn('slow');
+		$('html, body').css({'overflow': 'hidden', 'height': '100%'});		
+		
+		e.preventDefault();
+	});
+
+
+	$('#userbox_close').click(function(e) {
+		$('.screen-paint').hide();
+		$('.userbox').hide();
+		$('.hidden_menu').hide();
+		$('#userbox_close').hide();
+		$('html, body').css({'overflow': 'auto', 'height': 'auto'});		
+
+		e.preventDefault();
+	});
+</script> 
+	</nav>	
+</header>
+
+<div id="top">
+	<section>
+		<div class="topsocial">  
+			<div id="fbtop" class="fb-like" data-href="http://www.yelu.in" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial"></div>
+			<div id="plusone-div"><g:plusone size="medium" href="http://www.yelu.in"></g:plusone></div>
+		</div>
+	</section>
+</div>
+
+<div id="search_drop" style="display: none;"></div>   
+
+<div id="wrapper"> 
+	<section>
+		<h1 class="bigh1">Privacy policy</h1>
+
+
+
+<div id="wrapper">
+	<section>
+	<h3>General</h3>
+	<ul type="disc">
+	<li>
+		Yelu.in collects personal information about you and your business when you create your business listing.
+		Yelu.in will not rent, sell, or share information about you with other people or non-affiliated companies. 
+		Any other data collected on the site is purely for the purpose of running the site and will not be shared, rented or sold.
+	</li>
+	<li>
+		We reserve the right to send registered users certain communications relating to the Yelu.in service, such as service announcements, administrative messages and the Yelu.in. 
+		Newsletter (when subscribed to), that are considered part of your Yelu.in website. 
+		Business Listing, without offering you the opportunity to opt-out of receiving them.
+	</li>
+	<li>
+		Emails sent through the site, recommendations and review requests are one-off emails. 
+		We will not distribute any email addresses to any third party or associated company of Yelu.in or use them for anything other than their intended purpose.
+	</li>
+	</ul>
+	
+	<br>
+	
+	<h3>Confidentiality and Security</h3>
+	<ul type="disc">
+	<li>We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.</li>
+	<li>We have physical, electronic, and procedural safeguards that comply with regulations to protect personal information about you.</li>
+	</ul>
+	
+	<br>
+	
+	<h3>Changes to this Privacy Policy</h3>
+	<ul type="disc">
+	<li>Yelu.in may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Business Listing or by placing a prominent notice on our site.</li>
+	</ul>
+	</section>
+</div>		</section>
+</div>
+
+<div class="screen-block hidden"></div>
+<div class="screen-paint hidden"></div>
+
+<div id="loading"></div>
+
+<footer> 
+	<section> 
+
+		<div class="footer_box">
+			<h6>Links</h6>
+			<ul>
+								<li><a href="/contact-us">Contact us</a></li>
+				<li><a href="/browse-business-directory">Browse categories</a></li>
+				<li><a href="/browse-business-cities">Browse locations</a></li>
+								<li><a href="/terms-of-use" rel="nofollow, noindex">Terms of use</a></li>
+				<li><a href="/privacy-policy" rel="nofollow, noindex">Privacy policy</a></li>
+								<li><a href="/sitemap.html">Sitemap</a></li>
+			</ul>			
+		</div>
+
+
+		<div class="footer_box">
+			<h6>Users</h6>
+			<ul>
+				<li><a href="/create-business-listing">Add business</a></li>
+				<li><a href="/contact-us/remove:yes" rel="nofollow">Remove company</a></li>
+				<li><a href="/sign-in">Sign in</a></li>
+			</ul>	
+
+					</div>
+
+
+		<div class="footer_box footer_categories">
+			<h6>Main Categories</h6>
+			<ul>
+			<li><a href="/category/logistics">Logistics companies</a></li><li><a href="/category/travel-agents">Travel agencies</a></li><li><a href="/category/Construction">Construction companies</a></li><li><a href="/category/cleaning">Cleaning companies</a></li><li><a href="/category/information-technology">IT companies</a></li><li><a href="/category/financial-activity">Insurance companies</a></li>			</ul>
+		</div>
+		
+
+				
+		<div class="footer_box" id="site_stats">
+			<h6>Statistics</h6>
+			883,775 Companies<br>
+			792,843 Phones<br>
+			93,372 Faxes<br>
+			18,930 Emails<br>
+			28,949 Websites<br>
+			8,162 Products<br>
+			425 Reviews		</div>
+
+		<div class="clear"></div>
+
+					<div class="social">
+				<h6>Follow Us</h6>
+				<a href="https://www.facebook.com/pages/Zipinfoin-Directory/681773338513743" class="facebook" rel="nofollow" target="_blank">Facebook</a><a href="https://plus.google.com/u/0/112158512323712168671" class="google" rel="nofollow" target="_blank">Google+</a><a href="https://www.linkedin.com/company/india-business-directory" class="linkedin" rel="nofollow" target="_blank">Linkedin</a>			</div>
+				
+				
+			<div id="international"><h6>International Directories</h6><ul><li><a href="http://www.businesslist.my" class="target" rel="nofollow" title="Malaysia Business Directory" target="_blank">Malaysia</a></li><li><a href="http://www.businesslist.ph" class="target" rel="nofollow" title="Philippines Business Directory" target="_blank">Philippines</a></li><li><a href="http://www.businesslist.sg" class="target" rel="nofollow" title="Singapore Business Directory" target="_blank">Singapore</a></li><li><a href="http://www.businesslist.vn" class="target" rel="nofollow" title="Vietnam Business Directory" target="_blank">Vietnam</a></li><li><a href="http://www.yello.hk" class="target" rel="nofollow" title="Hong Kong Business Directory" target="_blank">Hong Kong</a></li><li><a href="http://www.thaigreenpages.com" class="target" rel="nofollow" title="Thailand Business Directory" target="_blank">Thailand</a></li><li><a href="http://www.yello.ae" class="target" rel="nofollow" title="UAE Business Directory" target="_blank">UAE</a></li><li><a href="http://www.typ.tw" class="target" rel="nofollow" title="Taiwan Business Directory" target="_blank">Taiwan</a></li><li><a href="http://www.indonesiayp.com" class="target" rel="nofollow" title="Indonesia Business Directory" target="_blank">Indonesia</a></li><li><a href="http://www.businesslist.pk" class="target" rel="nofollow" title="Pakistan Business Directory" target="_blank">Pakistan</a></li><li><a href="http://www.businesslist.com.cn" class="target" rel="nofollow" title="China Business Directory" target="_blank">China</a></li><li><a href="/international-business-directories-map" rel="nofollow" style="background: none; margin-left: 0;">See All</a></li></ul></div>	
+	<div id="copyright">© 2009 - 2015 <a href="http://www.yelu.in">Yelu.in</a> </div>
+</section></footer>
+
+
+<script type="text/javascript" src="/js/jquery/jquery.autocomplete.min.js?v=24"></script>
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+	(function(d){
+  	var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+  	js = d.createElement('script'); js.id = id; js.async = true;
+  	js.src = "//connect.facebook.net/en_US/all.js#appId=171166422952329&xfbml=1";
+  	d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script>
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+
+  
+
+  
+<div class="hidden"><img alt="" src="http://c4.gostats.in/bin/count/a_360701/t_5/i_1/counter.png" style="border-width:0"></div>
+ 
+
+
+<div class="acResults" style="display: none; position: absolute;"></div><div class="acResults" style="display: none; position: absolute;"></div></body></html>
