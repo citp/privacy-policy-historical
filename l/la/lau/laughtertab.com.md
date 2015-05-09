@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laughtertab.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220120546id_/http%3A//laughtertab.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughtertab.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509112349id_/http%3A//laughtertab.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Laughter Tab
+# Privacy Policy – Laughter Tab
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@laughtertab.com
 
@@ -19,7 +19,7 @@ laughtertab.com does use cookies to store information about visitors preference
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-  * –Rubicon Project
+  * ~~–Rubicon Project~~
 
   * –Lijit FM
 
