@@ -1,97 +1,108 @@
-> *The following text is extracted and transformed from the wpsecuritylock.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326212021id_/http%3A//www.wpsecuritylock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsecuritylock.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509134643id_/https%3A//my.wpsecuritylock.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-We have created this Privacy Statement to demonstrate that WPSecurityLock is committed to your privacy and security. This Privacy Statement is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to WPSecurityLock through our Website.
+PRIVACY POLICY  
+Effective Date: January 1, 2014
 
-“Personal Information” is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing. To make this Privacy Statement easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+To review material modifications and their effective dates scroll to the bottom of the page.
 
-If you receive unsolicited commercial information about this Website or its offerings from any unknown third party (i.e., “spam”), please report the abuse to us immediately so that we may take appropriate action by using this [confidential form](http://wpsecuritylock.com/contact/).
+WPSecurityLock.com (“WPSL”) owns and operates this My.WPSecurityLock.com website business.  All references to “we”, “us”, this “website” or this “site” shall be construed to mean WPSL.  We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal Information (defined below), that we collect through this website.  By using this website you are accepting the practices described in this Privacy Policy.
 
-This Website uses several third parties to handle certain business services. If you receive unsolicited e-mail as a result of using these services, please do not hesitate to report it to us immediately. They will be discontinued immediately.
+HOW WE MODIFY THIS PRIVACY POLICY
 
-## COLLECTION AND USE OF NON-PERSONAL INFORMATION
+We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the “Privacy Policy” link on this site’s home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy.
 
-Standard server log files are kept for the sole purpose of administering this Website and are not used for any other purpose. These files include user statistics, IP address (such as to identify geographic locations), user behavior (such as files requested), time spent on each page, referrer URLs, browsers, operating systems and screen resolutions.
+Regarding Personal Information (defined below), if any modifications are materially less restrictive on our use or disclosure of the Personal Information previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information.
 
-**1\. Cookies**  
-This Website uses cookies to collect information. A “cookie” is a small text file that a site or its service provider transfers to a computer’s hard drive that contains a string of alphanumeric characters. There are two types of cookies that may be used at this Website: a persistent cookies and a session cookie. A persistent cookies gets entered by your web browser into the “cookies” folder on your computer and remains in this cookies folder after you close your browser. Persistent cookies may be used by your browser on subsequent visits to this Website. A session cookie is temporarily sent to your computer’s memory and disappears after you close your browser or shut of your computer. These cookies help with adding items to your shopping cart and to identify, if any, an affiliate link that you clicked on to reach our Website.
+THE TYPES OF INFORMATION WE COLLECT
 
-**2\. Web Beacons**  
-We may also place small “tracker GIFs” or “pixel tags” on our Website pages, in online advertising with third parties and in our emails. We use these beacons, in connection with cookies. These collect non-personal data on the usage of our Website including, but not limited to, the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, Firefox), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., AOL, Comcast). This information is collected from thousands of site visits and analyzed as a whole. This information is useful in tracking the performance of our online advertising, site traffic and site interaction; so that we can provide better Website experiences and tools in the future.
+Personal Information.  We collect information from you that is protected for purposes of privacy and data security (“Personal Information”).  Personal Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, credit card information including credit card number, expiration date, and billing address, and location data.
 
-**3\. Disabling Cookies and Beacons**  
-If you are uncomfortable with the collection of such information by the use of cookies or web beacons, you can disable these features through your Internet browser preferences. Your browser documentation should provide instructions on how to do so, but understand that this will limit the performance and functionality of our Website.
+Non-Personal Information.  We reserve the right to collect anonymous information such as your browser type, the URL of the previous website you visited, your computer’s operating system and Internet protocol (IP) Address, Internet domain and host name, your Internet Service provider, your clickstream data, and the dates and times that you may access this site and specific pages (“Non-Personal Information”).  Non-Personal Information is essentially anonymous when collected.
 
-* * *
+HOW AND WHEN WE COLLECT INFORMATION
 
-## PERSONAL INFORMATION COLLECTION AND HOW IT IS USED
+Personal Information.  We collect Personal Information at the time you provide it to us.  We collect Personal Information through sign-up forms and as part of your registration for an account, product, or service from this website.  Personal Information that we collect may vary with the each sign-up or registration.
 
-**1\. Responses to E-Mail Inquires**  
-When you send email inquiries to our Company, your return e-mail address is used to answer your inquiry. Our Company does not use the return e-mail address for any other purpose and does not share, rent or sell the return e-mail address with any third party.
+Your Communications With Us.  We collect Personal Information that we receive from you as you communicate with us.
 
-**2\. Mailing Lists**  
-When registering for any of our mailing lists, you may be asked to provide your name and e-mail address. We respect your privacy and will not share, rent or sell your information with any third party. You must give us permission by clicking a confirmation link via e-mail. We periodically send out newsletters and/or announcements to our mailing list database. If at any time you would like to unsubscribe from receiving future e-mails, we include details unsubscribe instructions at the bottom of each e-mail or use our [Contact Form](http://wpsecuritylock.com/contact/).
+Passive and Analytical Information.  We reserve the right to monitor your use of this site.  As you navigate through this site, Non-Personal Information may be passively collected (that is, gathered without your actively providing the information) using various analytics and reporting technologies, such as cookies and web beacons.
 
-**3\. Voluntary Surveys**  
-We may periodically send out online surveys to our e-mail database. We encourage you to participate in these surveys, as they provide us with important information to help us improve our products and services we offer. Your personal information and responses will remain strictly confidential, even if a third party conducts the survey. Participation in any our customer surveys are voluntary. Information on how to opt-out of our surveys will be contained in survey communications.
+HOW WE USE YOUR INFORMATION
 
-We may take the information we receive from individuals responding to our surveys and aggregate them with other user responses to create broader, generic responses to the survey questions (such as age, gender, geographic location, education, employment industry sector, hosting companies, software versions, hobbies, or other demographic information). We then use the aggregated information to improve the quality of our services, and to develop new services or products. This non-personally identifying aggregated information may be shared with third parties.
+We use your Personal Information for the performance of the services or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site.
 
-**4\. Online Shopping**  
-When ordering services or products from WPSecurityLock, you may be asked to enter in personal information including your name, address, e-mail and credit card number. We implement a variety of security measures to main the safety of your personal information. All orders are processed via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider’s database. After a transaction, your private information (i.e., credit cards, financials, etc.) will not be stored on our servers. We do not share your information with outside parties, except to the extent necessary for the completion and delivery of your order. The e-mail address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related products or service information, etc.
+We may use your Personal Information to send you emails.  
+We reserve the right to make full use of Non-Personal Information.  For example, we may use Non-Personal Information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use.
 
-If you complete an order, using some other company that may be linked to our Website, please note that our Company has no control over any third parties use of any personal information you provide. Please exercise caution when doing so. We recommend that you familiarize yourself with the Privacy and Terms of Use Policies of any other company’s Website you may access from our site.
+INFORMATION SHARING AND DISCLOSURE
 
-**5\. Security Services and Consultations**  
-When hiring WPSecurityLock to help secure your Website, we will ask you to provide us with your contact information, including your name, e-mail address, telephone number, Skype, time zone and Website URL. We may also ask that you provide us with access to your hosting/cPanel account, Website server and admin area. WPSecurityLock will provide you with a Secure Form to send said information via Secure Transfer (128-bit SSL Encryption) and is kept confidential and secure. This information will only be shared with the Security Specialist(s) assisting you.
+General Disclosure Policy.   Our general policy is that we will not share, sell, rent, or provide access to your Personal Information to others.  The only exceptions to this general policy: (i) are described in the subsections below, and (ii) if you explicitly approve through our site. We reserve the right to disclose Non-Personal Information without restriction.
 
-**6\. Telewebcasts and Webinars**  
-All of our online events are recorded. If you participate at any of our online events, those listening and/or watching during the event and/or to the recording may hear your voice, your name and any other information you choose to share, including the voluntary use of your own webcam. By participating at any of our online events, you agree and give permission to WPSecurityLock to use the recordings in any manner and may be made available for commercial distribution. Said permission shall also include the unlimited and exclusive rights to own, exhibit and utilize any and all such recordings in perpetuity. We will never use your name on any packaging.
+Affiliated Entities.  We reserve the right to provide your Personal Information and Non-Personal Information to any affiliated entities we may have, including our subsidiaries.  Affiliated entities are entities that we legally control (by voting rights) or that control us.
 
-**7\. Public Forums**  
-Some parts of this Website, or third-party Websites we use to transmit data, may enable you to participate in public services, such as message boards, chat rooms and live events. Any information that is disclosed in these areas may become public information and a user should therefore exercise caution when deciding to disclose one’s personal information. Chat sessions and message boards may be logged. Please be aware that when you disclose personal information, such as your name, e-mail address, etc., the information may be collected and used by others to send unsolicited e-mail. These services are open to the public, can be seen by anyone there and are not protected. We cannot control the comments that you may receive while you participate in these services. You may find other people’s comments to be offensive, harmful or inaccurate.
+Service Providers.  We reserve the right to provide access to your Personal Information and Non-Personal Information to our trusted service providers that assist us with the operation and maintenance of this site.  For example, we may contract with third parties to process payments, host our servers, provide security, and provide production, fulfillment,  optimization, analytics, and reporting services.  Our service providers will be given access to your information only as is reasonably necessary to provide the services for which they are contracted.
 
-* * *
+Successors.  If we sell or otherwise transfer part or all of our business or assets to another organization, such as in the course of an acquisition, merger, bankruptcy or liquidation, we may transfer your Personal Information and Non-Personal Information.   In such an event, we will require the buyer or transferee will to agree to our commitments provided in this Privacy Policy.
 
-## CHILDRENS ONLINE PRIVACY ACT COMPLIANCE
+Legal Process, Enforcement and Security Notice.  We reserve the right to disclose your Personal Information and Non-Personal Information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), (ii) to detect, prevent, and address fraud or other illegal activity, and (iii) to investigate, respond to, or enforce violations of our rights or the security of this site.  If we believe that the security of your Personal Information may have been compromised, we may notify you of the relevant facts as promptly as possible under the circumstances, and if you have provided us your email address, we may notify you by email.  You consent to our use of your email address for this purpose.
 
-Protecting the online privacy of children is very important, and Federal law protects those under the age of 13. For that reason, our Company does not knowingly collect personal information from children under the age of 13 without verifiable parental consent. If we learn at any time that we have personal information on a child under the age of 13, we will immediately delete that information from our systems and databases.
+Marketing Affiliates, Partners and Resellers. We reserve the right to disclose your Personal Information to any of our (i) marketing affiliates that referred you to our site for purposes of sales by us, and (ii) resellers that may re-sell our products or services to you.  We may also disclose your Personal Information to any marketing partners that may participate in the offer or related fulfillment.  Understand that you originated with these marketing affiliates and resellers, and that the information you may provide to them is subject to their privacy policies also.
 
-If we ever include children under the age of 13 as part of our intended Website audience, those specific web pages will, in accordance with the provisions of the Children’s Online Privacy Protection Act ([COPPA](http://www.coppa.org/)), be clearly identified and provide an explicit privacy notice. We will provide processes to obtain parental approval and access to information, and allow parents to request removal of their child’s personal information.
+When We Act as a Marketing Affiliate, Partner or Reseller for Others. We may act as a marketing affiliate, partner, or reseller for certain of our marketing partners for purposes of selling their products or services to you, and we reserve the right to right to disclose your Personal Information to them for purposes of compensation, transaction processing, fulfillment, and support. These marketing partners may also email you regarding complimentary products or services, however, you have two ways to opt out of receiving these emails:  (i) contact us (as provided below under the Contact Us heading) with a request to opt out, or (ii) wait until you receive an email from them and then unsubscribe.
 
-Our Company encourages parents and guardians to spend time with their children online. For tips to help protect children’s privacy online, visit the [FTC’s Website](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm).
+Your California Privacy Rights.  As described above, from time to time, we make your Personal Information available to third parties.  If you do not want us to share your Personal Information with other companies or organizations, you may request opt-out of this information sharing by making a request at the following email address: compliance.officer-at-WPSecurityLock.com.  This notice is designed to comply with California’s “Shine the Light” law, but the opt-out option is available to all of our users.
 
-* * *
+Third-Party Advertising Partners.  We reserve the right to share Non-Personal Information with third party advertising partners with which we have relationships.  We will display behavioral ads which will be targeted to your specific interests based on your browsing history on this site or activities on other websites.   These third party ad servers or ad networks may also use cookies to track your activities on this site to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, and we have no access or control over these cookies that may be used by third party advertisers.  We may participate in Google’s Adsense program, which uses DART cookies to enable serving their behavioral ads.  To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url:  http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.  We may also display contextual ads which will be based solely on the context of this site, and not will not be targeted based on your browsing history on this site or activities on other websites.  Any information that you provide in the process of registration or purchase will be transferred to these sites.  We have no responsibility or liability for the policies and practices of these sites.  You should review any privacy policies posted on any of these sites before providing information to them.
 
-## OUR COMPANY’S COMMITMENT TO CONFIDENTIALITY AND DATA SECURITY
+SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS
 
-We implement a variety of administrative, managerial and technical security measures to help protect your personal information. Our Company has various internal control standards, which relate specifically to the handling of personal information. These include certain controls to help safeguard the information we collect online. Our staff is trained to understand and comply with these controls and we communicate our Privacy Notice, practices and guidelines to our staff. However, while we strive to protect your personal information, you must also take steps to protect your information. We urge you to take every precaution to protect your personal information while you are on the Internet.
+In order to provide better service for our site, we may use Cookies and Web Beacons to collect Non-Personal Information to store your preferences and information about what pages you visit and past activity at our site.  We may also employ Web Beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our site.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our Website, conducting our business or servicing you, so long as those parties agree to keep this information confidential and secure. Our Company may disclose personal information to third parties without your consent for any of the following reasons: To comply with any law, regulation or court order, to cooperate with Government investigations, to help prevent fraud or to enforce and protect the rights of our Company or its subsidiaries.
+“Cookies” are tiny pieces of information stored by your browser on your computer’s hard drive.  Cookies are also used to customize content based on your browser.   Most browsers are initially set to accept cookies.   If you want to disable cookies, there is a simple procedure in most browsers that allows you to turn off cookies.   Please remember, however, that cookies may be required to allow you to use certain features of our site.  We reserve the right to use third party web analytics services that use third party cookies (cookies passed by them, not by us) to collect Non-Personal Information about your use of this site.  These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service’s behalf.
 
-Our Company reserves the right to transfer your personal information in connection with the sale or transfer of all or a portion of our business or assets. If the business is sold or transferred, our Company will give you the opportunity to tell us not to transfer your personal information. In some cases, this may mean that the new organization will not be able to continue providing to you the services or products that our Company provided.
+Web Beacons – sometimes called single-pixel gifs or clear gifs – are used to assist in delivering cookies, and they allow us to count users who have visited pages of our site. We may include Web Beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.
 
-In all other cases, our Company will obtain your express consent before sharing your information with third parties. For example, our Company may conduct a joint offer or contest with a third party and you will be asked whether your personal information should be shared with that third party.
+DO NOT TRACK REQUESTS
 
-Any non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other Website improvements.
+Some Web browsers incorporate a “Do Not Track” feature that signals to websites that you visit that you do not want to have your online activity tracked. Each browser communicates “Do Not Track” signals to websites differently, making it unworkable to honor each and every request correctly.  In order to alleviate any communication error between browsers and website, we do not respond to “Do Not Track” signals at this time. As the technology and communication between browser and website improves, we will reevaluate the ability to honor “Do Not Track” signals and may make changes to our policy.
 
-* * *
+DATA SECURITY
 
-## WHERE TO DIRECT QUESTIONS ABOUT OUR PRIVACY POLICY
+We will implement reasonable and appropriate security procedures consistent with prevailing industry standards to protect data from unauthorized access by physical and electronic intrusion.  Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure.  Therefore, while we strive to protect your Personal Information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site.
 
-If you have any question or concerns about this Privacy Policy or the practices described herein, you may [contact us](http://wpsecuritylock.com/contact/) at any time. For more information on privacy policies and guidelines, visit the [Online Privacy Alliance](http://www.privacyalliance.org/).
+When you transmit Personal Information through our registration process or if you purchase products or services, we encrypt that information in transit using secure socket layer technology (SSL). We do not store credit card information and credit card purchases are entered through the secure servers of Authorize.net.
 
-* * *
+ONWARD TRANSFER OUTSIDE YOUR COUNTRY OF RESIDENCE
 
-## CHANGES TO THIS PRIVACY POLICY
+Any Personal Information which we may collect on this site will be stored and processed in our servers located only in the United States.  By using this site, if you reside outside the United States, you consent to the transfer of Personal Information outside your country of residence to the United States.
 
-Our Company reserves the right to revise, amend or modify this policy, our Terms of Use and Service Agreement, and our other policies and agreements at any time and in any manner on this Website. If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+UPDATING PERSONAL INFORMATION
 
-This policy was last modified on February 12, 2010.
+Upon request, we will permit you to request or make changes or updates to your Personal Information for legitimate purposes.  We request identification prior to approving such requests.  We reserve the right to decline any requests that are unreasonably repetitive or systematic, require unreasonable time or effort of our technical or administrative personnel, or undermine the privacy rights of others.  We reserve the right to permit you to access your Personal Information in any account you establish with this site for purposes of making your own changes or updates, and in such case, instructions for making such changes or updates will be provided where necessary.
 
-* * *
+EMAIL MESSAGES; OPT-OUT
 
-## TERMS OF USE
+If you supply us with your e-mail address you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events or offers from us.  If you prefer not to receive these periodic email messages, you may opt-out by following the instructions in the email.  Some of these emails from us may contain promotional offers on behalf of third party marketing partners which we select; however, in these instances, we do NOT share your Personal Information with the third party marketing partner for purposes of the mailing; we do the mailing for them.  However, if you do click on any of the links to their websites or accept any of these promotional offers, your click-through information and any information that you provide in the process of registration or purchase will be transferred to these sites.  We have no responsibility or liability for the policies and practices of these sites.  You should be careful to review any privacy policies posted on any of these sites before providing information to them.
 
-Please also visit see our [Legal](http://www.wpsecuritylock.com/legal/) section establishing terms of use, disclosure, disclaimers, and limitations of liability governing our Company and the use of this Website.
+LINKS TO OTHER SITES
+
+This site may contain links to other websites with whom we have a business relationship.  These links may include online advertisements that we deem to be appropriate.  If you do click on any of the links to their websites or accept any of their promotional offers, your click-through information and any information that you provide in the process of registration or purchase will be transferred to these sites.  We have no responsibility or liability for the policies and practices of these sites.  You should be careful to review any privacy policies posted on any of these sites before providing information to them.
+
+CHILDREN’S ONLINE POLICY
+
+We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site.  Consistent with the Children’s Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13.  If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child’s information, please contact our site as provided below under “Contact Us”, and be sure to include in your message the same login information that your child submitted.
+
+CONTACT US
+
+If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at:
+
+WPSecurityLock.com  
+Attn: Privacy Policy Officer  
+PO Box 212,  
+Davis Junction, IL, 61020  
+Email:  esupport [at] wpsecuritylock.com  
+Telephone: (815) 200-9775  
+—  
+Material Modifications Since January 1, 2014:  none.
