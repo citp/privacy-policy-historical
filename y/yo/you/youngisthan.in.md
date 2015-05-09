@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the youngisthan.in privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809053155id_/http%3A//www.youngisthan.in/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngisthan.in privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509055322id_/http%3A//www.youngisthan.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Youngisthan.in
 
 Last Updated On: 24th October 2013
 
 ### Introduction
 
-Welcome to Youngisthan.in (hereinafter "Youngisthan.in", "Youngisthan", "Santoshi Media & Entertainments Private Limited", "we" or "us"). All references to " "Youngisthan.in", "Youngisthan", "Santoshi Media & Entertainments Private Limited", "we" or "us" in this Privacy Policy shall refer only to Santoshi Media & Entertainments Private Limited.
+Welcome to Youngisthan.in (hereinafter “Youngisthan.in”, “Youngisthan”, “Santoshi Media & Entertainments Private Limited”, “we” or “us”). All references to ” “Youngisthan.in”, “Youngisthan”, “Santoshi Media & Entertainments Private Limited”, “we” or “us” in this Privacy Policy shall refer only to Santoshi Media & Entertainments Private Limited.
 
 At Youngisthan.in, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
 
 ### Acceptance of Terms
 
-Please read this policy carefully because by visiting this website or domain or other Youngisthan.in Websites or domains ("Website") and/or sharing information with us, you agree to be bound by this Privacy Policy. The Privacy Policy may be revised or updated at any time by us. This page was last updated as of the date at the top of this Privacy Policy.
+Please read this policy carefully because by visiting this website or domain or other Youngisthan.in Websites or domains (“Website”) and/or sharing information with us, you agree to be bound by this Privacy Policy. The Privacy Policy may be revised or updated at any time by us. This page was last updated as of the date at the top of this Privacy Policy.
 
 ### Information we Collect
 
-**Information You Give Us:**   
-We receive and store any information you enter on our Web site or you provide to us in any other way, such as by telephone or by electronic mail. This information includes your full name, company details, postal address, phone number, email address and your social network profile ID's.
+**Information You Give Us:**  
+We receive and store any information you enter on our Web site or you provide to us in any other way, such as by telephone or by electronic mail. This information includes your full name, company details, postal address, phone number, email address and your social network profile ID’s.
 
 **Information Collected Automatically:**  
 Youngisthan.in automatically collects certain type of information when you visit our website. This information includes IP address, browser type, referring url, request url, user agent, browser accept language, platform type, date/time stamp and any other data that comes from interaction with Youngisthan.in network.
@@ -28,11 +28,11 @@ Youngisthan.in uses third party services for web analytical puposes. These servi
 **Cookies:**  
 We use cookies to keep track of your preferences and settings during the time you view our website. We also use them to recognize return visitors and to track our promotions. We gather this information for internal use only.
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
 
-Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
 
 DoubleClick DART cookies  
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).  The ads served will be targeted based on your previous browsing history.  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
@@ -60,7 +60,7 @@ As we continue to develop our business, we might sell or buy businesses or their
 
 ### Electronic Mail
 
-Youngisthan.in may use your personal information to contact you by electronic mail concerning your use of our services. These communications are intended to inform you of important information regarding your account, or about general services or promotional offers provided by Youngisthan.in. If you do not want to receive email from us regarding service updates, please click the "unsubscribe link" at the bottom of any email you receive from Youngisthan.in. We will, however, continue to send you email regarding your account administration and necessary information, such as renewal notices, invoice alerts, administrative emails etc.
+Youngisthan.in may use your personal information to contact you by electronic mail concerning your use of our services. These communications are intended to inform you of important information regarding your account, or about general services or promotional offers provided by Youngisthan.in. If you do not want to receive email from us regarding service updates, please click the “unsubscribe link” at the bottom of any email you receive from Youngisthan.in. We will, however, continue to send you email regarding your account administration and necessary information, such as renewal notices, invoice alerts, administrative emails etc.
 
 ### Security
 
@@ -76,4 +76,4 @@ As the standards governing Internet privacy continue to evolve, Youngisthan.in m
 
 ### Your Representation:
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose Information you supply to us with regard to: (a) the purposes for which such third party's Information has been collected; (b) the intended recipients or categories of recipients of the third party's Information; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about him/her.
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose Information you supply to us with regard to: (a) the purposes for which such third party’s Information has been collected; (b) the intended recipients or categories of recipients of the third party’s Information; (c) which of the third party’s data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about him/her.
