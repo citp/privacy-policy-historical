@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breezepm.com privacy policy that was archived on 2011-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110719224639id_/http%3A//www.breezepm.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breezepm.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509125638id_/http%3A//www.breezepm.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Breeze - Project Planning, Tracking, Collaboration & Delivery software and Tickets, Change Request Management Software
 
