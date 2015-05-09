@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omegles.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227192524id_/http%3A//omegles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omegles.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509203033id_/http%3A//omegles.com/privacy) for the most accurate reproduction.*
 
 # Omegles Privacy Policy
 
