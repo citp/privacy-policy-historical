@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donebynone.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701050704id_/http%3A//www.donebynone.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donebynone.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509221759id_/http%3A//www.donebynone.com/privacy-policies) for the most accurate reproduction.*
 
 # Buy Womens Apparel Online - Handbags, Sandals for women, and Fashion Jewellery Online at DONEbyNONE
 
