@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adperium.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220182958id_/http%3A//www.adperium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adperium.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509054758id_/http%3A//www.adperium.com/privacy) for the most accurate reproduction.*
 
 # Adperium Privacy Policy
 
@@ -22,7 +22,7 @@ Although we believe that cookies help enhance your experience on the Web (by not
 
 ## Opt Out
 
-If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you may either manually delete your cookies by following the instructions contained in the Help section of your browser, or you may click [here](https://ads.yahoo.com/opt-out).
+If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you may either manually delete your cookies by following the instructions contained in the Help section of your browser, or you may click [here](http://www.appnexus.com/platform-policy#choices).
 
 ## Industry Efforts to Protect Consumer Privacy
 
@@ -30,7 +30,7 @@ Adperium is committed to protecting the privacy of Internet users. Accordingly, 
 
 ## Third Party Advertising
 
-We use Yahoo! Inc and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
+We use AppNexus Inc. and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
 
 ## Third Party Cookies
 
