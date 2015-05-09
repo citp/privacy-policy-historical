@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertydevelopmentworkshops.com.au privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120152628id_/http%3A//www.propertydevelopmentworkshops.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertydevelopmentworkshops.com.au privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509190953id_/http%3A//www.propertydevelopmentworkshops.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Property Development Workshops
 
