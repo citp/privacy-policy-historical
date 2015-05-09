@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218113843id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509090204id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
 
 GlobalGiving values you and respects your privacy. We collect information to support our relationship with you, improve our services, and communicate about promotions or special services. GlobalGiving recognizes that we must maintain and use information responsibly. 
-
-GlobalGiving adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, and Access and Enforcement. 
-
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
-[](http://www.export.gov/safeharbor)
 
 This policy describes what personal information we collect and how we use it. You can always find the most current version of our privacy policy at [www.globalgiving.org/aboutus/privacypol.html](https://web.archive.org/aboutus/privacypol.html). 
 
