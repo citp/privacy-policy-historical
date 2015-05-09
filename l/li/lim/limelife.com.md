@@ -1,56 +1,167 @@
-> *The following text is extracted and transformed from the limelife.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918100924id_/http%3A//www.limelife.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelife.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509140227id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
 
-# LimeLife: Privacy
+# Privacy Policy
 
-Effective July 29, 2008
+TotallyHer Media, LLC (the "Company"), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.totalbeauty.com](http://www.totalbeauty.com/) (the "Site"), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
 
-LimeLife is committed to protecting the personal information collected about you. To further this commitment, we have adopted this Privacy Policy to guide how we collect, store, and use the information you provide us.
+* Scope
 
-LimeLife provides this general audience site for users of all ages. In addition to the general terms concerning LimeLife's privacy practices, this Privacy Policy contains specific details regarding personal information collected from children.
+This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the Company does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit. 
 
-This Privacy Policy applies only to information submitted and collected through the LimeLife Site (regardless of the means by which you may access the LimeLife Site), and does not apply to information that may be collected by LimeLife offline or not through the LimeLife Site. This Privacy Policy is incorporated into our LimeLife [Terms of Use](http://www.limelife.com/info/terms_of_use.html) and any capitalized terms used but not defined in this Privacy Policy are defined in the Terms of Use.
+* What information the Site collects
 
-Your use of the LimeLife Site, LimeLife Services and LimeLife Software and any dispute over privacy, is subject to this Privacy Policy and our Terms of Use (and in the case of the LimeLife Software, any applicable EULA), including limitations on damages and application of the law of the State of California. LimeLife may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users? personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy and also on our home page. Further, if you have created a LimeLife user account, we will attempt to inform you of any modifications to this Privacy Policy either by sending you an email at the email address you provided as part of the registration process, or by presenting a message to you at the time you log into the LimeLife Site. If you do not agree with any such modifications, your sole remedy is the termination of your account with LimeLife, which you may request by contacting us [here](http://www.limelife.com/info/contact_us.html). If you do not have a LimeLife user account, you are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. In either case your continued use of the site following the type of notice that applies to you indicates your assent to any changes to this Privacy Policy. Use of information that we gather now is subject to the Privacy Policy in effect at the time of use.
+**Information you provide directly to us:**
 
-We will use your personal information to deliver you the LimeLife Services and send you notices related to the LimeLife Services, your account and necessary updates, as described in greater detail below. This includes fulfilling your requests for products and services and delivering content to you that is sent by other users.
+You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including: 
 
-Information such as your full name, user ID, and any personally identifiable information you have included in your public profile may be shown primarily in conjunction with reviews you have contributed. Your full name, email address, user ID or telephone number may also be used when you send a communication (such as an invitation to view your User Content).
-
-In general, you can visit the Site without revealing any information about yourself that could identify you personally, such as your first and last name, postal address, email address, and telephone number(s) ( **"Personal Information"** ). Except as set forth in this Privacy Policy, LimeLife will not sell or rent your Personal Information to third parties for any purpose without your consent. Following are the instances when we may collect and use your Personal Information: 
-
-  * Registration — When you register with us through the Site we may ask you for some Personal Information. LimeLife may use your Personal Information to send you information about LimeLife or our products, or to send you our newsletter or other information that may be of interest to you. During the registration process you are given the opportunity to opt-in to the receipt of such information from us in the future. If you decide at any time that you no longer wish to receive such information from us, you may follow the unsubscribe instructions provided in the communication or you may also update or delete your registration profile. (See "Access/Removal of Your Personal Information", below.)
-  * Promotions — If you choose to participate in one of our sweepstakes, contests and promotions we may also collect your Personal Information to administer your entry. We may also use Personal Information from you to contact you regarding the selection of prizewinners and to award prizes.
-  * Subscription Services — When you subscribe to a subscription service provided and administered by LimeLife (for example, the Daily Dose subscription Service) we will collect Personal Information from you to administer the subscription service, confirm your subscription and deliver you the content you have requested. We may also ask for your cellular phone carrier. Subscription services may be governed by separate or additional terms. For example, the Daily Dose subscription service is governed by th [Daily Dose Terms of Service](http://www.limelife.com/info/terms_of_service_text.html). Please note that LimeLife offers you the opportunity to subscribe to services provided and administered by third parties. _Even though such services and the sites from which they are offered may be co-branded with LimeLife branding and look-and-feel, they are governed by the third party terms._
-  * We also collect information that cannot be used to identify you personally that you provide as part of registration and your entry into all sweepstakes, contests,promotions or surveys (e.g., without limitation, gender and zip or postal code) ( **"Aggregate Demographic Information"** ). We combine your Personal Information with the Aggregate Demographic Information to provide you with a better experience and improve the quality and value of the Services.
+  1. contact information, such as name and email address; 
+  2. username and password;
+  3. information posted in community discussions and other interactive online features; 
+  4. search queries conducted on the Site; and
+  5. correspondence you send to us.
 
 
 
-When you use the Site, our system automatically gathers information about the nature of your usage of our service. This type of data may include: (i) IP address; (ii) domain server; (iii) type of computer or handheld device; (iv) type of web browser; (v) telecommunications carrier; and (vi) requested URL, referring URL, website usage data, and timestamp data (items (i) through (vi) are collectively **"Traffic Data"** ). Traffic Data is anonymous and you will not be personally identified from this information. Traffic Data helps us diagnose problems with our server, administer LimeLife, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers on the LimeLife Services of such information as well as the number of users that have been exposed to, or clicked on, their advertisements or listings. To do this we may combine information that we have about you with information that we obtain from business partners or other companies. We may also release aggregate demographic information about user trends to partners and other third parties, including third-party advertisers on the LimeLife Services. An example of this type of information would be patterns of use of the LimeLife Services based on postal code or age group. We also retain aggregated log files of requested content in order to report overall product usage to content partners and to evaluate User trends.
+**Information automatically collected when you visit and interact with the Site:**
 
-Like many websites LimeLife may use cookies on the Site. A "cookie" is a small bit of record-keeping information that sites often store on a user's computer. Cookies do not include people's names, email addresses, or other information that is personally identifiable; they are typically used to quickly identify a user's computer and to "remember" things about the user?s visit. You can disable cookies or set your browser to alert you when cookies are being sent to your computer. LimeLife may also use third party advertising companies to serve ads on our behalf across the Internet. They may also use cookies and action tags (also called web beacons or clear GIFs) to collect anonymous information about your visits to our website and other websites in order to measure and improve the effectiveness of ads. They do not collect Personal Information.
+When you visit and interact with the Site, certain information may be collected automatically, including: 
 
-LimeLife may engage a trusted third party to perform functions on our behalf (such as fulfilling newsletter subscriptions, sending requested postal mail and e-mail communications, analyzing data, and providing customer service). These third parties may have access to Traffic Data and Personal Information needed to perform their functions, but we do not permit them to use it for other purposes. Due to our contractual obligations with these third parties and the need to share personally identifiable information to deliver and support the LimeLife Services, we cannot provide you with the opportunity to opt-out of sharing personally identifiable information with these third parties.
+  1. your computer's Internet Protocol (IP) address;
+  2. your browser type and operating system;
+  3. the web pages you were visiting immediately before and after you came to the Site;
+  4. activities within community discussions;
+  5. web pages and advertisements that you view, and links that you click on, within the Site;
+  6. your bandwidth speed and information about the software programs that are installed on your computer;
+  7. aggregated data about email click-through rates and user video viewing;
+  8. standard server log information; and
+  9. information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. For more information, please see our discussion of [cookies and other tracking technologies](https://web.archive.org/cookie-technology)
 
-If a promotion, sweepstakes or contest has an outside sponsor, some of your Personal Information may be shared with the sponsor. When necessary to deliver a prize, delivery information about the winner of a promotion, sweepstakes or contest may be shared with a third party.
 
-LimeLife may share your Personal Information you provide with LimeLife subsidiaries and related companies. In addition, LimeLife may disclose Personal Information (i) to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes or to otherwise establish or exercise our rights, or defend against legal claims; (ii) to verify or enforce compliance with the Terms of Use and applicable laws; (iii) to protect against misuse or unauthorized use of the Site or to protect the rights, property and safety of the LimeLife Services, users and others, or (iv) to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change.
 
-LimeLife will notify you when information about you may be provided to third parties in ways other than explained above, and you will have the option to prevent such information sharing.
+**Information we collect from other sources:**
 
-The Site complies with the Children's Online Privacy Protection Act ( **"COPPA"** ). LimeLife does not knowingly collect Personal Information from children under the age of 13 through the Site. In addition, in the event that a user identifies himself or herself as a child under the age of 13 within the Site, LimeLife will not collect, store or use any Personal Information of such user. Further, in the event that LimeLife receives Personal Information that LimeLife discovers was provided by a child under the age of 13, LimeLife will promptly delete such Personal Information in a secure manner.
+We may access information about you from third-party sources and platforms (such as Google Analytics Demographics and Interest Reporting, social networking sites, databases, online marketing firms, and ad targeting firms), including: 
 
-LimeLife takes security very seriously. To prevent unauthorized access and maintain accuracy, LimeLife has industry-standard security measures in place to protect the loss, misuse, and alteration of the Personal Information under our control.
+  1. if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;
+  2. demographic data, such as age range, gender, and interests;
+  3. advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and
+  4. unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
 
-Personal information we collect is stored in secure operating environments that are not available to the public and that are accessible only by authorized persons. Although we take appropriate measures to safeguard against unauthorized disclosures of information, due to the open nature of communication through the Internet, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-_You hereby acknowledge that LimeLife is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner._
 
-We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with our Privacy Policy. We sometimes release beta versions of our products and services, which are further refined before the release of the final version. Because these products and services are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome user feedback on any privacy concerns you may have. In light of the above and because of the complex and constantly changing nature of our technology and business, and the security risks associated with using the Internet, LimeLife does not guarantee error-free performance under this Privacy Policy. To the extent permissible under law, LimeLife shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy.
+Please note that the Site may combine the information that we collect with information we obtain from third-party sources. 
 
-As a convenience to you, we may provide links to third-party web sites from within the Site. LimeLife is not responsible for the privacy practices or content of these third-party sites. To the extent that LimeLife has agreements with such third-party sites under which such sites share your Personal Information with LimeLife, LimeLife will treat your Personal Information according to this Privacy Policy.
+* How we use the information that we collect
 
-You should be aware that when you voluntarily disclose personally identifiable information (e.g., name, e-mail address, phone numbers) via reviews on the LimeLife site, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of LimeLife. Please do not post any personal information on the LimeLife Site or in other areas that you expect to keep private.
+**Email Communications:**
 
-As a registered LimeLife user, you can modify your personal information at any time by accessing your account on the LimeLife Site. Also, upon your request, LimeLife will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by LimeLife, for example any information you have posted on common areas of the LimeLife Site. Registered users who wish to close their account or learn what information was collected from you, please contact us using the contact information provided below.
+We may use the information that we collect to send you e-mail communications, such as information about your account or changes to the Site, promotional messages about our own or our marketing partners' products and services, and our email newsletters. 
 
-If you have any questions or comments regarding this Privacy Policy or our information collection practices, please contact us using the information [here](http://www.limelife.com/info/contact_us.html). 
+**Advertising:**
+
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other tracking technologies](https://web.archive.org/cookie-technology). 
+
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third-party online advertising](https://web.archive.org/third-party). Please remember that the information practices of third-party advertisers or platforms collecting data on our Site are not covered by this privacy policy.
+
+**User Accounts:**
+
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, our forum moderators monitor discussions and delete comments that we deem inappropriate in our forums. For more information on this process, please see the Site's community rules, forum rules or comment policies about comment moderation guidelines.
+
+**Request Fulfillment:**
+
+We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards. 
+
+**Statistical Analysis:**
+
+In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site's functionality, and to better tailor our content and design to suit our visitors' needs. 
+
+**Enforcement:**
+
+We may use the information that we collect to prevent illegal activities, to enforce the Site's [Terms and Conditions](https://web.archive.org/terms) , and to otherwise protect our rights and the rights of our users. 
+
+By using the Site, you consent to the uses identified above and any other use of information identified in this privacy policy. In addition, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent. 
+
+* Information sharing
+
+The Company values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below: 
+
+  1. We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site unless you opt-in or otherwise agree to have such information shared with or otherwise disclosed to a third party for marketing purposes. 
+  2. We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
+  3. If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions. 
+  4. We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. 
+  5. We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's Terms and Conditions , or as otherwise required by law.
+  6. We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims. 
+  7. In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+
+
+
+Once we share your information with another party, the information received by that party becomes subject to the other party's privacy policies. Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site. For more information, see our section on [cookies and other tracking technologies](https://web.archive.org/cookie-technology) and [third-party online advertising](https://web.archive.org/third-party). 
+
+* Your choices
+
+**Deactivating your account**
+
+If the Site functionality permits, you can deactivate your account at any time by visiting the preferences page for your profile or delete any content you provide from the Site, though we may retain a copy of any deactivated accounts or deleted content for compliance purposes. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms and Conditions](https://web.archive.org/terms). 
+
+**Cookies and other tracking technologies**
+
+As discussed in the sections on [cookies and other tracking technologies](https://web.archive.org/cookie-technology) and [third-party online advertising](https://web.archive.org/third-party), some information is collected about you automatically through cookies and other tracking technologies. 
+
+  1. _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <http://www.aboutads.info/choices> if you are located in the United States, www.youronlinechoices.com if you are located in Europe, [youradchoices.ca/choices](http://youradchoices.ca/choices) if you are located in Canada, or [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/) if you are located in Australia . 
+  2. _Flash Cookies. ._ You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser. 
+
+
+
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](https://web.archive.org/third-party) and visit the [Self-Regulatory Program for Online Behavioral Advertising at www.aboutads.info.](http://www.networkadvertising.org/choices/)
+
+**Do Not Track**
+
+We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created. To learn about Do Not Track, please click [here](http://www.allaboutdnt.com/).
+
+**California Residents**
+
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties' direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled "Your California Privacy Rights") by e-mail to [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
+
+* Access
+
+If you choose to share personal information with us, you may update or amend this information by contacting us at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com). Please include in your email the name of the Site to which you provided the information you wish to amend.
+
+* Confidentiality and security
+
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration. 
+
+Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us. 
+
+* Visitors from outside the United States
+
+The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States. 
+
+* Children under 13
+
+Protecting the privacy of young children is especially important. The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address. 
+
+The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. 
+
+If you believe that we might have any information from or about a child under 13, please contact us at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com). 
+
+* Children's privacy policy
+
+The Company may occasionally offer promotions on its owned or third-party affiliated websites and applications (the "TotallyHer Affiliate Sites") that may be directed in whole or in part to children under the age of 13. Generally, we do not directly or indirectly collect personally-identifiable information from children under the age of 13 in connection with these promotions. For some promotions, children are allowed to send preprogrammed messages to friends regarding a particular feature or activity being offered on the TotallyHer Affiliate Site. In these instances, the child is prompted to enter the email addresses of his or her friends and some other non-identifiable information, such as his or her first name only. This information is automatically discarded as soon as the preprogrammed message is delivered. From time to time, however, we may request limited personally-identifiable information in order to conduct online contests or sweepstakes. Our practices with respect to collection of personally-identifiable information from children under the age of 13 are described below. We do not condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to engage in the activity. In addition, a parent may at anytime review any personally-identifiable information collected about their child under the age of 13, have this information deleted and prohibit further collection or use of the child's information (although this may require the child to forfeit any prize won in a sweepstakes or contest).
+
+The Company occasionally offers contests and/or sweepstakes on a TotallyHer Affiliate Site directed in whole or in part to children under the age of 13. **Our contests and sweepstakes are designed in such a manner that a child under the age of 13 is not required to provide any personally-identifiable information about him/herself prior to being named a winner**. To participate in these contests or sweepstakes, however, we may require the child to provide a screen name and a parent's e-mail address. We send an email notification to the parent's email address only if the child has been selected as a potential winner of the contest or sweepstakes. The parent must then respond to the email notification by the deadline provided in the email notification, and must also complete and submit any prize claim documents in accordance with any instructions provided by the Company or as set forth in the official rules for the contest or sweepstakes. 
+
+The parental email address collected from each child is used solely to notify the parent if his/her child is a potential winner of the contest or sweepstakes, and it is not provided to any third party except those third parties we have engaged to assist us in running the contest or sweepstakes. These third parties are required to maintain the parental email in confidence and may only use it in connection with the services they are providing to us. The information collected from winners may be (i) used in advertising and promotional activities relating to our contest and/or sweepstakes, which may include making certain of this information publicly available, and (ii) passed on to third parties for the purpose of awarding prizes, and, depending on the type of prize, these third parties may not be prohibited from using the information for purposes other than awarding the prize (such as marketing or advertising). **Again, please note that personally-identifiable information is only collected from the parents of children under the age of 13 who have potentially won a prize, and only after the parent consents to the award of the prize and the disclosure of the information.**
+
+* Changes to the privacy policy
+
+We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected. 
+
+* Questions and suggestions
+
+If you have questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com), or send mail to: 
+
+Evolve Media, LLC   
+5140 W. Goldleaf Circle, Third Floor   
+Los Angeles, CA 90056   
+Attn: General Counsel   
+
