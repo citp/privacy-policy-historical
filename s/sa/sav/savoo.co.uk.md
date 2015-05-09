@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035226id_/http%3A//www.savoo.co.uk/info/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509164118id_/http%3A//www.savoo.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ Savoo does not sell trade or rent your personal information to other people or n
 **  
 As Permitted by Law** – We may be required to share your personal information with law enforcement or government agencies in response to subpoenas, court orders, federal/state audits or similar circumstances. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Savoo’s Terms of Use, or as otherwise required by law.
 
-**Business Transfer** \- As with any other business, it is possible that Savoo, Inc. in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by Savoo, including customer account information, but would continue to be bound by this privacy policy unless you consent otherwise. We will provide notice in this instance as defined in our “Changes to this Privacy Policy” section below.
+**Business Transfer** – As with any other business, it is possible that Savoo, Inc. in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by Savoo, including customer account information, but would continue to be bound by this privacy policy unless you consent otherwise. We will provide notice in this instance as defined in our “Changes to this Privacy Policy” section below.
 
 **Cookies and IP Addresses**
 
