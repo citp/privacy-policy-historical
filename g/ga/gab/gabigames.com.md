@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabigames.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120200925id_/http%3A//www.gabigames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabigames.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510013322id_/http%3A//www.gabigames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,10 +52,8 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-GBM Ventures
-
-http://www.gabigames.com/
-
+GBM Ventures  
+http://www.gabigames.com/  
 Santa Ana 301 e/ San Blas  
 300370  
 litrachopeta@gmail.com
