@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the ezgoal.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901204538id_/http%3A//www.ezgoal.com/house/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezgoal.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509091537id_/http%3A//www.ezgoal.com/house/privacy.asp) for the most accurate reproduction.*
 
 # EZ Goal Software, web design tools and the internet resources
 
   
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the EZGoal Network. The "EZGoal Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by IT Netix Corporation and each of its wholly-owned subsidiaries (collectively the "Site") home page (collectively hereafter "EZGoal"). By accessing the EZGoal Network, you are consenting to the information collection and use practices described in this Privacy Policy.   
+**Privacy Policy**
+
+[](http://www.ezgoal.com/)   
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the EZGoal Network. The "EZGoal Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by EZ Goal Corporation and each of its wholly-owned subsidiaries (collectively the "Site") home page (collectively hereafter "EZGoal"). By accessing the EZGoal Network, you are consenting to the information collection and use practices described in this Privacy Policy.   
 We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows:   
 What information are you collecting and how are you collecting it? 
 
@@ -25,7 +28,7 @@ If you are purchasing something on the EZGoal Network, we, and any third party p
 
 EZGoal also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may share that information with our clients and they may also send you promotional materials. We may also use your IP address internally and share it with third parties. 
 
-When you sign up for a EZGoal e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with EZGoal to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@ITNetix.com](mailto:announcementlist@ITNetix.com) or by following the instructions on the e-mails you receive. 
+When you sign up for a EZGoal e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with EZGoal to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@ezgoal.com](mailto:announcementlist@ezgoal.com) or by following the instructions on the e-mails you receive. 
 
 When you sign up for a EZGoal discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the EZGoal network. 
 
