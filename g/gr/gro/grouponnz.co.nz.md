@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grouponnz.co.nz privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035946id_/http%3A//www.grouponnz.co.nz/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grouponnz.co.nz privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509083252id_/http%3A//www.grouponnz.co.nz/data_privacy) for the most accurate reproduction.*
 
 # Up to 70% discount on restaurants, spas, wellness, fitness - grouponnz.co.nz
 
