@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtopsites.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216051130id_/http%3A//www.blogtopsites.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtopsites.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509084423id_/http%3A//www.blogtopsites.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Blog Top Sites
 
