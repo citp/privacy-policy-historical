@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3ify.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709073633id_/http%3A//mp3ify.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3ify.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509200315id_/http%3A//mp3ify.com/privacy.php) for the most accurate reproduction.*
 
 # mp3ify.com Search Results Page - Online Video Mp3 Converter!
 
