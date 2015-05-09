@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyleleon-customizedfatloss.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227204409id_/http%3A//kyleleon-customizedfatloss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyleleon-customizedfatloss.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509170959id_/http%3A//kyleleon-customizedfatloss.com/privacy.php) for the most accurate reproduction.*
 
 # Customized Fat Loss By Kyle Leon
 
