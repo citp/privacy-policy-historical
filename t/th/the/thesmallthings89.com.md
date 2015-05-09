@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmallthings89.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702111841id_/http%3A//www.thesmallthings89.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmallthings89.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509100516id_/http%3A//www.thesmallthings89.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # The Small Things- Review Blogger| Giveaway Blogger | Travel Blogger: Privacy Policy
 
