@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unblockstreaming.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224115738id_/http%3A//www.webproxyproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unblockstreaming.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509224226id_/http%3A//www.webproxyproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy [Web Proxy Project]
 
