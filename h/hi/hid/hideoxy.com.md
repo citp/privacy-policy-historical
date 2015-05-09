@@ -1,31 +1,37 @@
-> *The following text is extracted and transformed from the hideoxy.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924224117id_/http%3A//www.hideoxy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hideoxy.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509224226id_/http%3A//www.webproxyproject.com/privacy-policy) for the most accurate reproduction.*
 
-# Hideoxy: Privacy policy
+# Privacy Policy [Web Proxy Project]
 
-This service is designed to be used anonymously and we are not interested in names, addresses, or other information providing insight into the identities of our visitors. We create statistics on visitors that browse our website and therefor we log some details that come from your browser, such as the user agent you use, the ip address, operating system, etc. As far as we use this information, it is handled anonymously.
+Our online services and websites are designed to be used anonymously and we are not interested in names, addresses, or other information providing insight into the identities of our visitors. We create statistics about visitors that browse our websites and therefor we log some details that come from your browser, such as the user agent you use, the ip address, the operating system, etc. As far as we use this information, it is handled anonymously.
 
-### What does this website log, and why ?
+### What information is logged on your websites ?
 
-Our server logs all requests. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting, preventing and reporting abuse, but also for statistical purposes.
+As most web servers do, also our web servers may log all the HTTP requests made to our websites. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting, preventing and reporting abuse, but also for statistical purposes.
 
-### Is proxy activity logged by this website ?
+### In which event the logged data will be disclosed ?
 
-The service provided on this website allows access to external, third-party websites. We may record your IP address and the websites you visit. The logs are used primarily for monitoring requests and ensuring no illegal activity is undertaken by users.
+Any violations of our terms of use may result in the disclosure of the data recorded in our logs, including your IP address, to an appropriate third party, which may include your Internet Service Provider (ISP) or local authorities. We may also be required, by law, to provide logs of our service and if requested, such data may be disclosed. We offer a free and legit service, do not abuse it. Depending from the gravity of the violation or abuse, we may also take legal actions in certain cases.
 
-Any violations of our terms of use may result in disclosure of the data recorded in our logs to an appropriate third party, which may include your Internet Service Provider (ISP) or local authorities. We may also be required, by law, to provide logs of our service and if requested, such data will be disclosed.
+### Do you use cookies or web beacons on your websites ?
 
-### Does this website use cookies ?
+Our websites may store a cookie on your computer, if allowed by your browser's privacy settings (for more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser). The cookie used by our websites uniquely identifies you to the server and allows our websites to remember your preferences and recommend you useful web pages, products or links.
 
-Our website stores a cookie on your computer, if allowed by your browser's privacy settings (for more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser). The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
+### Do you use third-party advertisers on your websites ?
 
-### Does this website use advertisements ?
+Yes, our websites may also use third-party advertising partners, such as [Google Adsense](https://www.google.com/adsense/localized-terms) or [BuySellAds](https://buysellads.com/). Advertisers may send you cookies or use web beacons. Obviously we have no control over cookies, web beacons or the information collected by our advertisers. You should consult the third-party advertiser's privacy policy for more information on their practices. We may also advertise other websites and services with banners or text-links hosted in our server.
 
-We may also use third-party advertising partners on our website, such as [Google Adsense](https://www.google.com/adsense/localized-terms). Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
+### Do you use web analytics software in your websites?
 
-### Does this website forward cookies ?
+Yes, our websites may use Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Read the [Google Analytics TOS](http://www.google.com/analytics/terms/us.html).
 
-The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
+### Do you log the proxy activity on web proxy services ?
 
-### GOOD VPN SERVICES
+The service provided by the web-based proxy allows access to external, third-party websites. The web proxy may deny access to bank-related websites to prevent users from doing illicit actions. We may record your IP address and the websites you visit. The logs are used primarily for monitoring requests and obviously also for ensuring no illegal activity is undertaken by users. Remember, you are the sole responsible when using our web proxies, use them ethically please.
 
-[TorGuard Anonymous VPN](https://torguard.net/aff.php?aff=596) [Online Network Tools](http://www.pingdnswhois.com/) [Calculate Website Worth](http://www.siteworthtraffic.com/) [Open Multiple URLs](http://www.openallurls.com/) [New Web-Based Proxy](http://www.hidewebsite.com/) [Find Website IP Address](http://www.hideoxy.com/website-to-ip-address/) [Show My Info](http://www.hideoxy.com/show-my-info/)
+### Are cookies forwarded to the user from web proxies ?
+
+The web proxy service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option or disable the cookies in your web browser in use.
+
+### OTHER SERVICES
+
+[Check HTTP Headers](http://www.webproxyproject.com/check-http-headers/) [Online Network Tools](http://www.pingdnswhois.com/) [Boost MP3 Volume Online](http://www.mp3louder.com/) [Open Multiple URLs](http://www.openallurls.com/) [Estimate Website Worth](http://www.siteworthtraffic.com/) [Fastest Web Proxy](http://www.hideoxy.com/)
