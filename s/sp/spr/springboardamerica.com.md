@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springboardamerica.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522030706id_/https%3A//www.springboardamerica.com/PORTAL/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springboardamerica.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509044730id_/https%3A//www.springboardamerica.com/Portal/privacy.aspx) for the most accurate reproduction.*
 
 # Springboard America
 
@@ -14,10 +14,10 @@ Vision Critical will continuously review this Privacy Policy to make sure that i
 
 If you have any concerns about how your privacy is protected at Vision Critical, please contact our Privacy Officer by e-mail at [privacyofficer@visioncritical.com](mailto:privacyofficer@visioncritical.com), or by mail at:
 
-505 Fifth Avenue  
-18th Floor,  
+436 Lafayette St  
+6th Floor,  
 New York, NY  
-10017, US  
+10003, US  
 Attention: Privacy Officer
 
 ## SCOPE AND APPLICATION
