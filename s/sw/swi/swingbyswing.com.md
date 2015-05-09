@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030193015id_/https%3A//www.swingbyswing.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509033311id_/https%3A//golf.swingbyswing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Swing by Swing Golf
+
+### Privacy Policy
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
@@ -42,7 +44,7 @@ We may take the information we receive from individuals responding to our Custom
 
 However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
 
-**"Cookies" and How Our Company Uses Them** : A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
+**“Cookies” and How Our Company Uses Them** : A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
 
 If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
 
