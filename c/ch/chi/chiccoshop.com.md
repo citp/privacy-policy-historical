@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiccoshop.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819231948id_/http%3A//www.chiccoshop.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiccoshop.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509143350id_/http%3A//www.chiccoshop.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Chicco | eCommerce Solutions On-Demand | Demandware Privacy Policy
 
@@ -15,6 +15,10 @@ You can browse the majority of this site without providing any personal informat
 ## How We Use Cookies
 
 We do not use cookies to glean any personal information about you or track your movements on the Internet outside of those pages you visit on chiccousa.com. If you have any concerns about leaving cookies on your computer for extended periods, you can delete them using your browser preferences or privacy menus.
+
+## Opting Out / Email Address Removal:
+
+We want to communicate to you only if you would like to hear from us! If you prefer not to receive emails from ChiccoShop.com, please let us know.  There are 2 easy options to opting out. 1)  Contact [Customer Service](http://www.chiccoshop.com/contactus) or calling 1-877-424-4226. 2) You may also click the unsubscribe link located under any email you receive ChiccoShop.com. The unsubscribe link is located at the very bottom of all email communications.
 
 ## Use of Personal Information
 
@@ -42,4 +46,4 @@ We are the sole owner of the aggregated information collected on the Chicco Site
 
 This Privacy Policy is subject to change at any time. We encourage all users to review this policy regularly for any such changes.
 
-Most recent revision date: 10/02/2012
+Most recent revision date: 10/02/2014
