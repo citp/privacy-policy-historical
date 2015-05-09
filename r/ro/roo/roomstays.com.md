@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomstays.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817190923id_/http%3A//www.roomstays.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomstays.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509032506id_/http%3A//www.roomstays.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - RoomStays.com
 
