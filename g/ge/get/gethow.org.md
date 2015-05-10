@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gethow.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703082930id_/http%3A//www.gethow.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethow.org privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510161954id_/http%3A//www.gethow.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GetHow
+# Privacy Policy • GetHow
 
 GetHow values the privacy of our visitors and our members and takes many steps to protect their privacy. This privacy applies on the primary website of GetHow as well as on the related products of GetHow sites.
 
@@ -40,4 +40,4 @@ We also some time use DART Cookies for serving ads to you where it is saves in y
 
 **Contact Us**
 
-If you have any question or suggestion regarding to our privacy policy please feel free to [contact us](mailto:atul@gethow.org "Contact Us").
+If you have any question or suggestion regarding to our privacy policy please feel free to our parent site [atulhost.com/contact](http://atulhost.com/contact) or call us at _+91-9969-13-7878_.
