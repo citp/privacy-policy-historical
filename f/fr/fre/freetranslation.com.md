@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701225812id_/http%3A//www.freetranslation.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510140140id_/http%3A//www.freetranslation.com/en/privacy) for the most accurate reproduction.*
 
 # Free Translation and Professional Translation Services from SDL
 
@@ -8,7 +8,7 @@ The following privacy policy provides you with clear information about what data
 
 Further investigation for specific regions outside the U.S. may be required. If you have entered into an agreement to use our services, the terms of that agreement govern the use and disclosure of the information and materials you submit to us through those services. The agreement prevails in the event of any inconsistencies between the agreement and the following policy.
 
-The SDL plc privacy policy, located [here](http://www.sdl.com/aboutus/privacypolicy.html), describes how SDL uses your information when you use SDL’s websites, products, and services. This SDL Freetranslation.com privacy policy describes practices specific to the SDL Freetranslation.com website and service.
+The SDL plc privacy policy, located [here](http://www.freetranslation.com/%s), describes how SDL uses your information when you use SDL’s websites, products, and services. This SDL Freetranslation.com privacy policy describes practices specific to the SDL Freetranslation.com website and service.
 
 Information SDL collects when you use Freetranslation.com.
 
@@ -58,4 +58,4 @@ Security
 
 
 
-Our privacy policy may change over time. We will post any privacy policy changes on this page. Our privacy practices are described in the full privacy policy located [here](http://www.sdl.com/aboutus/privacypolicy.html).
+Our privacy policy may change over time. We will post any privacy policy changes on this page. Our privacy practices are described in the full privacy policy located [here](http://www.freetranslation.com/%s).
