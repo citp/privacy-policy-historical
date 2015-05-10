@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runnersconnect.net privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116023223id_/http%3A//runnersconnect.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersconnect.net privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510063223id_/http%3A//runnersconnect.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Runners Connect : Runners Connect
+# Privacy Policy - Runners Connect
 
 **What information do we collect?** We collect information from you when you register on our site, place an order or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
 
