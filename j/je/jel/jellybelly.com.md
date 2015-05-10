@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jellybelly.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007054558id_/https%3A//jellybelly.com/Info/aboutjellybelly/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellybelly.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510072051id_/http%3A//www.jellybelly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Jelly Belly Candy Company
+# Privacy Policy Jelly Belly Candy Company
 
 Thank you for visiting Jellybelly.com. Your privacy is very important to us. We operate this site for enjoyment of general audiences, and we hope you have good time. 
 
