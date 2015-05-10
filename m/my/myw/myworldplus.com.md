@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myworldplus.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020093958id_/http%3A//myworldplus.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myworldplus.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511015919id_/http%3A//myworldplus.com/privacyPolicy) for the most accurate reproduction.*
 
 # MyWorldPlus::PRIVACY POLICY
 
