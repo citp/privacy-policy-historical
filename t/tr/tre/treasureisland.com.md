@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasureisland.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220063329id_/http%3A//www.treasureisland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasureisland.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510125003id_/http%3A//www.treasureisland.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Treasure Island
 
@@ -107,7 +107,7 @@ When we provide Personal Information to our Partners and other third parties for
 
 We are committed to protecting the accuracy and confidentiality of your Personal Information and encourage you to tell us how you want us to communicate with you and let you know about special offers. By creating a TI Preference Account, you can view and update your Personal Information and chose your communication preferences.  Your Preference Account gives you the ability to select from communications preference options including direct mail, e-mail, telemarketing, and text messaging.
 
-To create a Preference Account, or to update your preferences at any time after you have created your Preference Account, visit the [TI Web Site](http://www.treasureisland.com/) and select "Email Promotions" or "Guestbook".  These options will allow you to create and access your Preference Account.
+To create a Preference Account, or to update your preferences at any time after you have created your Preference Account, visit the [TI Web Site](http://www.treasureisland.com/) and select "Email Promotions" or "MyTI signup".  These options will allow you to create and access your Preference Account.
 
 If you are a member of TI Casino/Players Club, you may update your communications preferences by logging in to your online account, and selecting "Update" on Your Member Home Page. Information regarding opt-out procedures is also provided within every TI promotional e-mail or direct mail communication sent to you.
 
@@ -175,4 +175,4 @@ If you have any questions regarding this Privacy Policy, please contact us at [T
 
 Revised: March 26, 2009
 
-© 2014 Treasure Island, LLC
+© 2015 Treasure Island, LLC
