@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highspeedinternet.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701205305id_/http%3A//www.highspeedinternet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highspeedinternet.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510210158id_/http%3A//www.highspeedinternet.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -56,6 +56,14 @@ The purpose of this Privacy Policy is to give you a summary of the ways in which
 
 The Effective Date hereto shall be June 01, 2009
 
+## Thanks for reviewing !
+
+Your review has been submitted! When your review is approved you will automatically be entered to win free internet!
+
+See how your current provider stacks up against other ISPs in your area. We'll show you speeds, customer reviews, and pricing:
+
+×
+
 ## Your review is your entry
 
   1.   2.   3.   4.   5.   6. Your rating: 
@@ -65,6 +73,7 @@ The Effective Date hereto shall be June 01, 2009
   7. ### Additional ratings:
 
   8. Your review:
+  9. Email me occasional updates on speed and pricing in my area
 
 
 
