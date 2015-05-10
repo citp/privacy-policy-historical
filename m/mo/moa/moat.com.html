@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moat.com privacy policy that was archived on 2014-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225010659id_/http%3A//www.moat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moat.com privacy policy that was archived on 2015-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510164023id_/http%3A//www.moat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head><style type="text/css"></style>
   <title>Privacy Policy - Moat</title>
@@ -151,7 +151,7 @@
     <li class="right last"><a href="/privacy">Privacy Policy</a></li>
     <li class="right first"><a href="/terms">Terms of Service</a></li>
   </ul>
-  <p>© 2014 Moat Inc. All rights reserved.</p>
+  <p>© 2015 Moat Inc. All rights reserved.</p>
   
     
 </footer>
@@ -262,7 +262,7 @@
       init_mc();
       $.fancybox(Moat['newsletter_content'], {"width": 565, "height": 330, "autoDimensions": false});
     });
-    $('#viewanalyticsvideo,.youtube,.vimeo').click(function(){
+    $('.youtube,.vimeo').click(function(){
           $.fancybox({
                 'padding'       : 0,
                 'autoScale'     : false,
@@ -271,6 +271,19 @@
                 'title'         : this.title,
                 'width'         : 640,
                 'height'        : 385,
+                'href'          : this.href,
+                'type'          : 'iframe'});
+          return false;
+    });
+    $('#viewanalyticsvideo').click(function(){
+          $.fancybox({
+                'padding'       : 0,
+                'autoScale'     : false,
+                'transitionIn'  : 'none',
+                'transitionOut' : 'none',
+                'title'         : this.title,
+                'width'         : 820,
+                'height'        : 325,
                 'href'          : this.href,
                 'type'          : 'iframe'});
           return false;
