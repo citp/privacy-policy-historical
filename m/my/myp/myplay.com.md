@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myplay.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207040557id_/http%3A//www.myplay.com/direct/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplay.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510123005id_/http%3A//www.myplay.com/direct/privacy-policy) for the most accurate reproduction.*
 
 # MyPlay Direct Privacy Policy | MyPlay Direct
 
@@ -88,7 +88,7 @@ We and our third party partners may automatically collect information as you bro
 
 We and our third party partners use cookies and other technologies such as web beacons to keep track of your visits, preferences and profile information. This information is used to make our Site(s) easier to use, improve our advertising, and to provide you with a more personal and convenient experience. For example, we may use this information to store some of your preferences or to provide you with tailored advertisements related to your specific interests. Additionally, should you choose to enroll, we and our third party partners may use this information to allow you to participate in one of our fan rewards programs. To learn more about the use of cookies in online advertising, including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
 
-We and some of our third party partners use Flash cookies to store some of your preferences or personal information. For more information on Flash cookies and how to manage privacy and storage settings click here.
+We and some of our third party partners use Flash cookies to store some of your preferences or personal information. For more information on Flash cookies and how to manage privacy and storage settings [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 In some of our email messages, we use "click-through URLs" or pixel tags to determine whether the email has been opened and to measure the effectiveness of our customer communications. This data may also be used to gauge your interest in particular topics, so we can deliver a more relevant, personal and convenient user-experience.
 
