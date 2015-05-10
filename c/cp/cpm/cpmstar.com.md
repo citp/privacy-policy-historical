@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpmstar.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229114553id_/http%3A//cpmstar.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmstar.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510175014id_/http%3A//cpmstar.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # CPMStar - Privacy Policy
 
