@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yahoo.com.au privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206171400id_/https%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoo.com.au privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510111432id_/https%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
 
-# Yahoo!7 Privacy Policy
+# Yahoo7 Privacy Policy
 
 ## WHAT THIS PRIVACY POLICY COVERS
 
@@ -22,13 +22,13 @@ Return to top
 
 **General**
 
-Yahoo7 collects personal information when you register with Yahoo7, when you use Yahoo! or Yahoo7’s [products or services](https://info.yahoo.com/privacy/au/yahoo/products.html), when you visit Yahoo7 pages or the pages of certain Yahoo7 partners, and when you enter [promotions or competitions](https://info.yahoo.com/privacy/au/yahoo/promotions/). Yahoo7 may combine information about you that we have with information we obtain from business partners or other companies.
+Yahoo7 collects personal information when you register with Yahoo7, when you use Yahoo or Yahoo7’s [products or services](https://info.yahoo.com/privacy/au/yahoo/products.html), when you visit Yahoo7 pages or the pages of certain Yahoo7 partners, and when you enter [promotions or competitions](https://info.yahoo.com/privacy/au/yahoo/promotions/). Yahoo7 may combine information about you that we have with information we obtain from business partners or other companies.
 
 When you register we ask for information such as your name, email address, birth date, gender, post code, occupation, industry, and personal interests. When you register with Yahoo7 and sign in to our services, you are not anonymous to us.
 
 Yahoo7 collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
-Yahoo7 automatically receives and records information from your computer and browser, including your [IP address](https://info.yahoo.com/privacy/au/yahoo/ip/), Yahoo! [cookie](https://info.yahoo.com/privacy/au/yahoo/cookies/) information, software and hardware attributes, and the page you request.
+Yahoo7 automatically receives and records information from your computer and browser, including your [IP address](https://info.yahoo.com/privacy/au/yahoo/ip/), Yahoo [cookie](https://info.yahoo.com/privacy/au/yahoo/cookies/) information, software and hardware attributes, and the page you request.
 
 Yahoo7 uses information for the following general purposes: to customise the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients
 
@@ -103,7 +103,7 @@ Return to top
 If you have questions or suggestions, please complete a [feedback form](https://io.help.yahoo.com/contact/index?page=contact&locale=en_AU&y=PROD_ACCT). Complaints about a breach of the APPs must be addressed in writing to:
 
 Privacy Officer c/- Legal Department  
-Yahoo!7 Pty Limited  
+Yahoo7 Pty Limited  
 PO Box R1469  
 ROYAL EXCHANGE  
 NSW 1225 Australia
