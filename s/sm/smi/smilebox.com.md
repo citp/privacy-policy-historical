@@ -1,87 +1,148 @@
-> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027121149id_/http%3A//www.smilebox.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510101528id_/http%3A//www.smilebox.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-THIS STATEMENT APPLIES TO PERION NETWORK LTD. AND ITS SUBSIDIARIES’ ("PERION") INFORMATION COLLECTION AND USE POLICIES WITH RESPECT TO USE OF THE WEBSITE, SERVICES AND PRODUCTS. BY USING THE WEBSITE, SERVICES OR PRODUCTS, YOU CONSENT TO THE DATA PRACTICES AND INFORMATION COLLECTION AS DESCRIBED IN THIS STATEMENT. PERION IS COMMITTED TO PRESERVING THE PRIVACY OF OUR USERS. THIS PRIVACY STATEMENT EXPLAINS WHICH INFORMATION WE COLLECT AND HOW WE USE IT.   
-IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, DO NOT USE THE SERVICES, WEBSITES, AND PRODUCTS MADE AVAILABLE BY PERION (collectively, the “PERION SERVICES” or the “ **SERVICES** ”). 
+**_Smilebox Privacy Policy_**
 
-**THE SITE AND SERVICES**
+Last updated on 5/1/2015
 
-We do not request nor collect any personal information from Users who simply visit Perion’s websites (“ **Website(s)** ”). Prior to and after downloading and use of any of Perion Services and Websites, Users will be asked to provide certain required and optional information, and information collected from your interaction with Perion Services(collectively “Information”), as described and explained more fully throughout this Privacy Policy. Some of the Perion Services will, among other things, enable Users to send Messages and/or Content to other people (both Users and non-Users). Subject to all general security limitations inherent in communicating via the Internet, a Message will not be generally accessible to Users or others who are not intended recipients of the Message. Please use the same discretion when sending Messages through the Service as you would when sending ordinary electronic mail.  Perion may post from time to time newsletters, as well as subscribe/unsubscribe forms. These forms may ask for a valid email address. This information will be used solely for the purpose of subscription to or unsubscription from the Perion newsletter list. You will be provided with an opt-in choice to receive e-mail newsletters and updates upon registration.   
-As part of the Services, you may from time to time upload images, photos, documents, information and/or any other content (“ **Content** ”). You understand that the Content may include personally identifiable information which will be protected in accordance with this Privacy Policy and shall be considered as Information for the purpose of this privacy policy and will be used by Perion only for the purposes for which it was collected in order to provide the Services.   
-While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of the Information.
+THIS PRIVACY STATEMENT EXPLAINS THE INFORMATION, COLLECTION AND USE POLICIES OF SMILEBOXSMILEBOX, INC. AND ANY OF ITS AFFILIATED COMPANIES (" **SMILEBOX** ", “ **WE** ” or “ **US** ”) WITH RESPECT TO THE WEBSITES, SERVICES, PRODUCTS, TECHNOLOGY, SOFTWARE AND/OR SOFTWARE COMPONENTS (COLLECTIVELY, THE " **SOFTWARE & SERVICES**") OF SMILEBOX THAT YOU INSTALL, USE, ACCESS OR INTERACT WITH ("USE"), BUT EXCLUDES SOFTWARE AND/OR SERVICES THAT HAVE SEPARATE PRIVACY POLICIES THAT DO NOT INCORPORATE THIS PRIVACY POLICY. BY INSTALLING, USING, ACCESSING AND INTERACTING WITH THE SOFTWARE & SERVICES, YOU CONSENT TO THE DATA PRACTICES AND INFORMATION COLLECTION AS DESCRIBED IN THIS STATEMENT. SMILEBOX IS COMMITTED TO PRESERVING THE PRIVACY OF ITS USERS. THIS PRIVACY STATEMENT EXPLAINS WHAT INFORMATION WE MAY COLLECT AND HOW WE MAY USE IT.
 
-**INFORMATION COLLECTED THROUGH USE OF THE SERVICES**
+IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, DO NOT USE THE SOFTWARE & SERVICES. 
 
-Perion may collect Information when you interact with the Perion Services, depending on how you use the Perion Services, the Information, may include: 
+This Privacy Policy explains how Smilebox treats your information and protects your privacy when you Use the Software & Services and the rights and options available to you regarding your information. Smilebox believes that you have a right to know our practices regarding the information we may collect and use when you Use the Software & Services. The Software & Services may include various features and content that are offered and delivered to you by us and/or by third parties, such as news, messages, advertisements and games, as well as features and content that you may choose to add (“ **Content** ”). The issues covered under this Privacy Policy:
 
-  * Certain technical information gathered or received when you visit the Website or access/use the Perion Services including without limitation: the type of browser, operating system, ISP, location and Internet protocol (IP) address; 
-  * Information made available by you in public areas within the Website and/or the Services; 
-  * Registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender); 
-  * Transaction-related information (such as credit card or other preferred means of payment, (that we maintain in encrypted form on industry secure servers), billing or shipping information, or a history of products purchased through the Perion Services; 
-  * Information about your visits and use of  the various Perion Services, offerings and advertisements that you view/use, how you use them, how frequently you use them,  your responses to the offerings and advertisements presented on these Perion Services, and other related information regarding your usage of Perion Services;
-  * Information about mobile devices used to access Perion including UDID (Unique Device Identifier);
-  * In addition, many software versions provided by Perion ("Software") are configured to automatically report back information relating to computer errors arising in connection with use of the Software, without notice to you. Information on your Software configuration settings may be included. This data is sent to Perion to help us diagnose performance issues with, and improve, the Software. 
-
-
-
-Your Information is usually automatically collected and stored in log files of the Services' computer servers and may be supplemented with additional information from other companies. 
-
-**OUR USE OF THE INFORMATION   **
-
-Perion gathers Information in order to better understand how users, as a group, use the software and the various features thereof, as well as to help Perion tailor offerings to user groups with specific profiles, and to conduct market research. The parameters and the usage patterns may be used in the aggregate for commercial purposes, including without limitation, for marketing, co-registration to other services, promotional activities or any other activity, including, without limitation, the protection of Perion's proprietary and other rights all subject to the provisions herein. Perion will process the Information only for specific and limited purposes. We ask for and collect data that is adequate, relevant and not excessive for those purposes. Perion will use the Information to provide Users with important information about the Services (such as upgrades, modifications, etc.), to announce new products and services available to Users and to send you marketing and advertising material subject to your consent. You can decline to submit personally identifiable information, in which case Perion may not be able to provide you with Services  
-Perion will only use personally identifiable information to create aggregate, non-personal reports about the Users of the Service, and to generate aggregate statistical studies and conduct research related to the Services and the use of the Website and provide Users with certain content that may be of interest to that User based on the Information. We use and store this data only on a collective basis, in summary form, rather than on an individual basis. This data helps us to determine how and the extent to which certain parts of our Website and the Services are used.    
-Except as expressly set forth herein and/or as necessary to perform the functions of the Service, Perion will not share, sell or lease any personally identifiable information about any User to any third party for any secondary purposes without that User's permission.    
-Perion only shares your personally identifiable information with other companies or individuals in the following limited circumstances:
-
-  * We have your consent.
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing on our behalf. 
-  * We have a good faith belief that access, use, preservation or disclosure of such information  is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request,   
-(b) enforce applicable agreements and/or their terms, including investigation of potential violations thereof,   
-(c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Perion, its users or the public as required or permitted by law.
-  * If we become involved in a merger, acquisition, or any form of sale of some or all of our assets.
+**_
+  * Information Smilebox Collects and Receives;
+  * How Smilebox Uses Your Information;
+  * Sharing Information with Third Parties;
+  * Third-Party Content;
+  * Social Networks;
+  * Cookies and Other Technologies;
+  * Children under 13;
+  * Access;
+  * Data Retention;
+  * Transfer of Data Outside Your Territory;
+  * Information Security;
+  * Do Not Track;
+  * Changes to This Privacy Policy;
+  * How to Contact Smilebox.
+  * Information Smilebox Collects and Receives.
+_** 
 
 
+When you Use the Software & Services, we automatically collect and store the following types of information: 
 
-We require that these parties agree to process such information based on our instructions, in compliance with this Privacy Policy and/or comply with adequate level of protection regarding the data and shall not further transfer the data.
+  * _Technical Information_. Certain technical information regarding your device, and your Use of the Software & Services and other third party software and applications installed on your device (the “ **Other Software** ”), including the type, name and version of operating system and Other Software including, without limitation, their interactions with the Software & Services, ISP (Internet Service Provider), location, Internet protocol (IP) address, anonymous user identifiers, device configuration and identifiers (IDFA (Identifier for Advertisers used in IOS), Advertising ID (Identifier for Advertisers used in Android) and the like), version of the Software & Services, and your configuration and settings of the Software & Services;
+  * _Usage Information_. Certain usage related information regarding your use and interaction with your device, including the Software & Services and Other Software, such as when and how you Use the Software & Services and Other Software, how you use your internet browser and internet search related applications, the web pages you visit and the content you see, access and utilize on such web pages; for example, offerings and advertisements that you view, use and access, how you use them and your response to them, how frequently you use them, your search queries and the time and date of your searches;
+  * _Social Networks_. Your interactions on social networks through the Software & Services;
+  * _Service-Related Information_. You may provide us with various single and multimedia content forms in order to Use certain features of the Services, including, without limitation, text, audio, still images, animation, video and other interactivity content forms. Such content on its own may identify you, or when combined with other information we collect under the Privacy Policy may identify you;
+  * _Registration and Transaction Related Information_. Information you provide when you register for the Software & Services (if applicable), such as name, home or work addresses, e-mail address, telephone and fax numbers, birth date and gender, or when you a purchase a product a service such as credit card or other preferred means of payment (that we maintain in encrypted form on industry secure servers), billing or shipping information, or a history of products purchased through the Software&Services; and
+  * _Support Related Information_. If you communicate with us via our support section or via email, we may also collect your email address, name and any information voluntarily submitted by you in connection with such support (for example, your name, company name, and particular support query or request). Such information will only be used to provide you with support services and will not be connected with any other information collected from you on or through the Software & Services, including, any individual User ID (as defined below) generated or collected by us.
 
-**CHOICE; OPT OUT**
 
-Our Website provides Users the opportunity to opt-out of receiving certain communications from us. If you do not want to receive communications from us, please contact our customer service center in the following URL: <http://www.incredimail.com/english/help/support.aspx>** **
 
-**ACCESS TO INFORMATION; UPDATE**
+When you Use the Software & Services, we automatically generate an anonymous internal user ID (which does not personally identify you), which is assigned to your use of the Software & Services (the " **User ID** ") and may be combined with any of the above information.
 
-A User may review and update his personal information provided by him by accessing the Software settings.  We take reasonable steps to ensure that the personal information is kept accurate, complete, and current, but we depend on our Users to update or correct their personal information whenever necessary. Upon receipt of your written request and enough information to permit us to identify you, we will disclose to you the information we hold about you. We will also correct, amend or delete any personal information that is inaccurate and notify any third party recipients of the necessary changes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. You agree that Perion may retain (but shall have no obligation to retain) your data for a limited reasonable period after your use of or license to Perion Services has been terminated, expired, or otherwise lapsed, for the sole purpose of enabling you to renew your use of or license to the Services shortly thereafter, after such period the data shall be erased.
+While it is not our intention to collect any personally identifiable information (“ **PII** ”) (except for registration and transaction related information, service related information and user support purposes as set forth in this Privacy Policy), the data collected may include PII. As part of our privacy measures, we implement certain rules designed to avoid the unintentional collection of PII such as email addresses, social security numbers, credit card numbers, login information etc. Such rules are based on known field types, parameters, values and algorithms but they are not foolproof and hence the Software & Services may sometimes, unintentionally, collect unwanted information. We regularly examine and update these rules.
 
-**COOKIES AND OTHER TECHNOLOGIES**
+**_How Smilebox Uses Your Information_.**
 
-"Cookies" are pieces of information that are placed on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Service and the Website. Perion may use cookies and other technologies to save certain information about a User and others who visit and interact with the Website and the Services, in order to facilitate and enhance Users interactions and activities with the Services and/or Website and to provide User with personalized content which may include interest based information, online ads or other marketing materials. Perion  may use third party tracking services to analyze this information, help manage and optimize the Services and measure the effectiveness of its advertising and how visitors use the Website. To do this, Perion may use Web beacons and cookies or other technologies provided by these third parties on the Website or the Services. Such technologies may be able to collect the User IP address, User browsing data in connection with the Website, the Services or other sites or services outside of Perion. Perion may use and/or provide this information in the aggregate, and on anonymous basis, to its partners including for the purpose of delivering advertising that may be more relevant to you, and to help measure the effectiveness of an advertising campaign. This information helps Perion learn things such as what pages are most attractive to visitors of the Website, which of Perion's products most interest its customers, and what kinds of offers our customers like to see.   
-We may use an outside advertising company to display advertisements on the Website and Services. These third parties also may use cookies, pixel tags, and other technologies to, among other things, enable such third parties to record which ads your browser has loaded and which site pages you may have been viewing when the ads were delivered or accessed. Use of such third-party sites is subject to the terms of use and privacy policies of those third parties. The advertisement company may also collect cookies received with outside ad banners. In addition, we may use third party advertisers to serve or track advertisements on websites. We do not have access to information that would confirm the use of cookies by the advertising company. Perion does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.  Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Services may not function properly if your cookies are disabled. By using any Perion Services, you have affirmatively consented to the collection of Information and cookies as described above.
+Smilebox uses the information it collects for analytical, business and operational purposes in the following ways:
 
-**OTHER WEB SITES; LINKS**
+  * to operate and update the Software & Services and provide you with existing and new functionality and features;
+  * to improve and customize the Software & Services;
+  * to provide you personalized content, including through the delivery of targeted interest-based advertisements from us or our partners;
+  * to maintain and improve the quality and operation of the Software & Services;
+  * to notify you of Software & Services updates;
+  * to provide you with support and handle your complaints and/or feedback;
+  * to take any action in case of a dispute involving you in connection with the Software & Services;
+  * to enforce the terms and conditions applicable to the Software & Services and to prevent unlawful activities and misuse thereof; and
+  * to comply and satisfy any applicable law regulation, legal process or enforceable governmental request.
 
-The Services may contain links to other Web sites. Perion is not responsible for the privacy practices or the content of such Web sites.  Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
 
-**SOCIAL NETWORK SERVICES**
 
-Perion may offer to Users of Perion Services, additional features and services that provide access to social networks. The use of such social network is governed by the terms of such social network. You can sign in to your social network Website through some of Perion Services, features and services. When you elect to sign in, you will be asked to grant us access to certain information from your social network profile. This information may include friends or contacts lists, notes, updates and photos, and may be used by Perion to help you personalize your experience with Perion Services, suggest new features and content that may be relevant to you or provide Perion with data for statistical purposes. If you elect to permit Perion access this information, Perion will be able to see and use this information and thus you may be changing your preexisting privacy settings, however, Perion does not have control over privacy settings in your social network account. Please see your social network provider policies for any questions or concerns. All information gathered via social network services shall be considered as Information as referenced throughout this Privacy Policy. The Information will be protected and used by Perion in accordance with this Privacy Policy.  ** **It is important to stress that Perion does not sell or rent any personally identifiable information it compiles to any third parties****. Perion may provide non-identifiable, general statistical and demographic information to its publishers from time to time. You may opt not to grant Perion access to your social network account(s) at any time by changing your social network settings or by not authorizing access. 
+Upon your consent, we may use your email address to inform you about Software & Services, such as letting you know about upcoming changes, improvements or special events regarding the Software & Services.
 
-**CHILDREN**
+**_Sharing Information with Third Parties._**
 
-If you are a child under the age of 18, you must obtain parental consent prior to using our Services. Perion will not knowingly contact or engage with children under the age of 18 without said parental consent. If you have reason to believe that a child has provided us with their personal information, please contact us at the address given above and we will endeavor to delete that information from our databases.
+We may share with third parties the information collected in any of the following events:
 
-**CONSENT TO PROCESSING/INTERNATIONAL TRANSFER**
+  * If we are required by law to disclose your information, we may share your information with law enforcement or other competent authorities and any third party, as may be required (e.g., to detect, prevent or otherwise address fraud, security, or technical issues; to respond to claims or satisfy any legal process, subpoena, or governmental request; or to protect the rights, property, or personal safety of Smilebox's users, its partners, or the general public);
+  * In the event Smilebox goes through a business transition such as a merger or acquisition by another company, consolidation, change of control, reorganization, or sale of all or a portion of its assets, your information will be among the assets transferred;
+  * We may share your information with certain third parties (including, without limitation, search engines, content providers, payment processing services, email and communication services, and advertising networks and platforms) that provide various services (such as advertising, marketing, payment, communication, analysis, content, and search) in connection with the Software & Services. We require these third parties (i) to keep the data secured, (ii) not to use the data for any other purpose other than to provide us with services, and (iii) to use the data solely in compliance with this Privacy Policy; and
+  * We may also share PII and non-personally identifiable information with our subsidiaries, affiliated and parent companies but their use of such information must comply with this Privacy Policy.
 
-By providing any personally identifiable information to us pursuant to this Privacy Policy, all users, including, without limitation, users in the United States, Israel and member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection and processing of such information abroad. The server on which the Website is hosted may be outside the country from which you access the Website and may be outside your country of residence. Some of the uses and disclosures mentioned in this Privacy Policy may involve the transfer of your personally identifiable information to various countries around the world that may have different levels of privacy protection than your country. By submitting your personally identifiable information through the Services, you consent, acknowledge, and agree that we may collect, use, transfer, and disclose your personally identifiable information as described in this privacy policy. If you do not consent to the terms of this Privacy Policy, please do not use the Services. 
 
-**CHANGES TO THIS POLICY**
 
-If we decide to change this Privacy Policy, we will post these changes on the Website or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. Your continued use of the Website and/or Services will constitute your acceptance of any modified Privacy Policy.
+In any case other than the above, we will not share your PII with third parties without your prior consent.
 
-**ENFORCEMENT**
+ ** _Third-Party Content._**
 
-Perion regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is Perion's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer the Information that cannot be resolved between Perion and an individual.
+Certain Software & Services may include and/or enable you to add Content to them. The Content may be in the form of apps, buttons, gadgets, links to third party advertisements, websites, products and services (including search services) as well as additional means that are provided to you by third parties (collectively, " **Third Party Content and Services** "). The use of such Third Party Content and Services is subject to their privacy policies. In addition, Smilebox provides such third parties with a large number of tools to enable them to create interesting and unique apps, buttons, and gadgets using the Smilebox platform. Some of these tools may give these third parties the ability to access, collect, store, and/or share your information – both your PII and non-personally identifiable information. In order to clarify, we do not review, approve, monitor, endorse, warrant, or make any representations with respect to such Third Party Content and Services and your access to any Third Party Content and Services is at your own risk. We are not responsible for the information contained and/or made available through, the practices of, or your use or inability to use such Third Party Content and Services. You expressly relieve us from any and all liability arising from your use of such Third Party Content and Services. We recommended that you read the terms, conditions and privacy policies of such Third Party Content and Services before using or accessing any of them. 
 
-**CONTACT US**
+**_Social Networks._**
 
-If you have any questions or concerns about this Privacy Policy, please feel free to contact us by email to: [privacy@perion.com](mailto:privacy@perion.com). 
+You may also choose to activate additional features that provide you with the ability to update and use your favorite social networks directly from the Software & Services. During such activation, you will be asked to grant Smilebox permission to compile certain information from such social networks. This information may include friends or contact lists, notes, updates, and photos and may be used by Smilebox to customize the Content available to you through the Software & Services, suggest new features and Content that may be relevant to you or provide Smilebox with data for statistical purposes. The information you allow Smilebox to access is that which is presented to you when you choose to activate these features. Please see your social network provider policies for any questions or concerns. You may opt not to grant Smilebox access to your social network account(s) at any time by changing your social network settings or by not authorizing Smilebox's access thereto.
+
+ ** _Cookies and Other Technologies._**
+
+We may collect or allow third parties to collect, through blocks of code called “pixels” or “web beacons”, certain information about you and send it to our servers and to our partners. We or our partners, package all or part of this information into small text files called Cookies and send the Cookie to your computer. As an example, Cookies may store search queries made through the Software & Services, the web pages you accessed, your interaction with advertisements presented to you via the Software & Services, features you used, your session duration and your configurations and preferences of the Software & Services.
+
+Such Cookies and other technologies allow us and our partners to recognize you on your next use of, access or visit to the Software & Services, or on your visits or access to our partner’s network (i.e. sites and services outside of Smilebox).
+
+Smilebox and/or its partners use Cookies and other tracking technologies to:
+
+  * facilitate and enhance your interaction and activities with the Software & Services;
+  * help Smilebox learn how you Use the Software & Services, what parts are most attractive and interesting to you, and what kind of offers you like to see;
+  * provide you with personalized content which may include interest-based information, online ads or other marketing materials on or through the Software & Services and on third party websites and properties;
+  * analyze the information collected from you and help manage and optimize the Software & Services;
+  * track and measure various performance and demographic parameters of advertising campaigns including without limitation, analyzing which ads your browser has loaded, which site pages you may have been viewing when the ads were delivered or accessed and your interaction with the ad.
+
+
+
+Most browsers are initially set up to accept Cookies but you can reset your browser to refuse all Cookies or to indicate when a Cookie is sent. However, some functions of the Software & Services may not function properly if your cookies are disabled. By using the Software & Services, you affirmatively consent to the collection of information and Cookies as described above.
+
+**_Children under 13._**
+
+The Software & Services are not intended for users under the age of 13 and you hereby represent that you are at least 13 years old. We do not knowingly collect, use, share or disclose any personal information from children under the age of 13. We reserve the right to request proof of age at any stage, so that we can verify that minors under the age of thirteen (13) are not using the Software & Services.
+
+We advise parents and guardians to regularly monitor their children's use of email and other online communications and activities. Control tools that create a safer online environment for children are available from third party online services and software providers. 
+
+In the event that it comes to our knowledge that a person under the age of thirteen (13) is using the Smilebox Software, we will prohibit and block such a user from accessing the Software & Services and will make all efforts to promptly delete any PII with regard to such user, as applicable.
+
+If you are a parent or guardian who has discovered that your child has submitted his or her PII without your consent, please contact us as provided in this Privacy Policy and we will take the necessary steps to remove that information from our database.
+
+**_Access._**
+
+You may send us a request to access the PII that we collect through your use of the Software & Services. In such case, we may require that you provide us with additional information to verify your identity.
+
+**_Data Retention._**
+
+We retain the information we collect as described in this Privacy Policy for as long as necessary to fulfill our business and/or operational purposes or comply with a legal request. We may also choose to anonymize parts of the information we collect so that it can no longer be identifiable or attributable to any person if we want to keep it for longer periods of time.
+
+**_Transfer of Data Outside Your Territory._**
+
+The Software & Services work over the Internet. We may store and process information in various locations throughout the globe. If you are a resident of a European Union Member State or another jurisdiction where transfer of your PII to another jurisdiction requires your consent, then you hereby provide us with your express consent to such transfer of your data.
+
+**_Information Security._**
+
+We implement measures to secure your PII that we collect in order to minimize the risks of damage, loss of information, and unauthorized access or use of information. However, these measures are unable to provide absolute information security. Therefore, although we make efforts to secure your PII, we cannot guarantee and you cannot reasonably expect that the Software & Services and its databases are immune from any wrongdoings, malfunctions, unauthorized interceptions, access or other kinds of abuse and misuse.
+
+**_Do Not Track._**
+
+Do Not Track is a privacy preference that can be configured in certain web browsers (the " **DNT Feature** "); the DNT Feature, when enabled on a web browser, signals the websites you visit that you do not want certain information about the websites visited collected. As the Internet industry is in the process of defining how to interpret signals sent by the DNT Features, Smilebox does not currently respond or recognize DNT Feature signals. 
+
+**_Changes to This Privacy Policy._**
+
+We may, from time to time, change this Privacy Policy. We encourage you to visit and review this Policy frequently to stay informed. Prior to any material change to this Privacy Policy, Smilebox will present you with a detailed notificationof such change. Other changes, including amendments made to the Policy to comply with legal requirements, will become effective immediately upon their initial posting. Smilebox will also update the "Last updated” date at the end of this Privacy Policy. Your continued use of the Software & Services after any change takes effect, will indicate your acceptance of the amended Privacy Policy. If you do not agree with any of the amended terms, you must avoid any further use of the Software & Services.
+
+**_How to Contact Smilebox._**
+
+If you have any concerns or questions with respect to any matter covered by this Privacy Policy, you may contact us by email at:[privacy@perion.com](mailto:privacy@perion.com) or at the following address:
+
+Smilebox, Inc.  
+C/- Perion Network Ltd.  
+26 HaRokmim Street, Azrieli Center 1  
+Holon 5885849  
+Israel
