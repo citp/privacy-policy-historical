@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203800id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510132532id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice » Overall Beauty
 
@@ -7,9 +7,11 @@ ATTN: Kim Snyder
 kim (@)overallbeauty.com  
 5336 Blue Sapphire Ct.  
 Elk Grove, CA 95758  
-Toll Free/FAX number: 888-422-2694
+Toll Free/FAX number: 888-422-2694  
+We have an official stance on animal testing and/or the use of animal ingredients used in our brand of mineral makeup we call Overall Beauty Minerals. Once thing we are very passion about is being able to state we are a vegan mineral makeup line. We do not believe in the testing on animals is right. There are difference ways to test without testing on animals. Overall Beauty Minerals does not use any ingredients that are by products of animals such as beeswax, carmine,lanolin, glycerin or other products created from animals.  
+Thank you for reading this, now to our privacy Notice. 
 
-At OverallBeauty.com, our relationship with our customers is very important! We are respectful about the privacy concerns of the visitors to the site. OverallBeauty also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases. OverallBeauty.com is committed to providing our customers with a secure web site to shop and will only collect the personal information that is necessary to process your order. Our customers should feel assured that access to this information will be limited to the except as explained below, and otherwise will never be sold or given to any other company.
+At OverallBeauty.com, our relationship with our customers is very important! We are respectful about the privacy concerns of the visitors to the site. Overall Beauty also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases. OverallBeauty.com is committed to providing our customers with a secure web site to shop and will only collect the personal information that is necessary to process your order. Our customers should feel assured that access to this information will be limited to the except as explained below, and otherwise will never be sold or given to any other company.
 
 Our customers should feel confident that the personal information is transmitted over secure servers. This information is necessary to properly process your order. Our systems limit access to this information only to employees who may need it to process your order. To complete a credit card transaction, the pertinent credit card information is securely forwarded to our credit card processor for authorization. OverallBeauty.com guarantees that our customers will only pay for those items, which they have actually authorized. Please read the following information to learn more about how and why we collect information and how the information is safeguarded.
 
