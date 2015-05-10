@@ -1,268 +1,406 @@
-<!--The following is the downloaded HTML source of the savagearms.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121035835id_/http%3A//savagearms.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the savagearms.com privacy policy that was archived on 2015-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510120153id_/http%3A//www.vistaoutdoor.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-<meta charset="utf-8">
-<title>Savage Arms</title>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.vistaoutdoor.com/xmlrpc.php">
+	<title>Privacy Policy - Vista Outdoor</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.vistaoutdoor.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Vista Outdoor">
+<meta property="og:url" content="http://www.vistaoutdoor.com/privacy-policy/">
+<meta property="og:site_name" content="Vista Outdoor">
+<!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="stylesheet" href="/css/main.css" type="text/css" media="all">
-<meta name="keywords" content="Savage,Savage Arms,Privacy,Policy,Rifle,Accurate,Accuracy,Centerfire,Rimfire,Muzzleloader,Shotgun">
-<!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" media="all" href="/css/ie6.css"/>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<link href="/js/jqueryui/1.11.2/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/global.print.css" media="print" rel="stylesheet" type="text/css">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script><script type="text/javascript">
-	(function($) {
-	    $.QueryString = (function(a) {
-	        if (a == "") return {};
-	        var b = {};
-	        for (var i = 0; i < a.length; ++i)
-	        {
-	            var p=a[i].split('=');
-	            if (p.length != 2) continue;
-	            b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));
-	        }
-	        return b;
-	    })(window.location.search.substr(1).split('&'))
-	})(jQuery);
-	//$(window).load(function() {
-//	$(document).ready(function(){
-//		var ddoffset=-1;
-//		$("#nav li").each(function(i){
-//			if($('div[id="'+$(this).attr("id")+'_dd"]').position()){
-//				if($(this).attr("id")=="More"){
-//					$('div[id="'+$(this).attr("id")+'_dd"]').css("right",(999-ddoffset)-$(this).width());
-//				}else{
-//					$('div[id="'+$(this).attr("id")+'_dd"]').css("left",ddoffset);
-//				}
-//			}
-//			ddoffset=ddoffset+$(this).width();
-//		});
-//	});
-	$(document).ready(function(){
-		var effect = 'blind';
-		$("body").click(function(e){
-			$("div[id$='_dd']:visible").hide(effect,"fast");
-		});
-		$("#sitesearch").click(function(){
-			this.value=""
-		});
-		$("#nav li").click(function(e){
-
-			if($('div[id="'+$(this).attr("id")+'_dd"]').position()){
-				if($(this).attr("id")=="More"){
-					$('div[id="'+$(this).attr("id")+'_dd"]').css("right",(1001-$(this).position().left)-$(this).width());
-				}else{
-					$('div[id="'+$(this).attr("id")+'_dd"]').css("left",$(this).position().left);
-				}
-			}
-
-			switch($(this).attr("id")){
-				case"Home":
-					location.href=$(this).find("a").attr("href");
-					break;
-				default:
-					var ddname=$(this).attr("id");
-					if($("#"+ddname+"_dd").is(":visible")){
-						$("div[id$='_dd']:visible").hide(effect,"fast");
-					}else{
-						$("div[id$='_dd']:visible").hide(effect,"fast");
-						$("#"+ddname+"_dd").show(effect,"fast",function(){
-						});
-					}
-					return false;
-					break;
-			}
-		});
-		$('.h_navigation_main').hover(function(){
-			$(this).addClass('h_navigation_main_hov');
-		},function(){
-			$(this).removeClass('h_navigation_main_hov');
-		}).click(function(){
-			location.href=$(this).find("a").attr("href");
-		});
-		$('button, input:submit').button();
-		$('#srslogo').click(function(){
-			location.href=$(this).attr('rel');
-		});
-	});
-	function Left(str,n){
-		if(n<=0){
-			return "";
-		}else{
-			if(n>String(str).length){
-				return str;
-			}else{
-				return String(str).substring(0,n);
-			}
-		}
-	}
-	function Right(str,n){
-		if(n<=0){
-			return "";
-		}else{
-			if(n>String(str).length){
-				return str;
-			}else{
-				var iLen=String(str).length;
-				return String(str).substring(iLen,iLen-n);
-			}
-		}
-	};
-
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-16751275-32', 'auto');
-ga('send', 'pageview');
-</script>
-<style>
-	.sb {
-
-	}
+<link rel="alternate" type="application/rss+xml" title="Vista Outdoor » Feed" href="http://www.vistaoutdoor.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Vista Outdoor » Comments Feed" href="http://www.vistaoutdoor.com/comments/feed/">
+<link rel="stylesheet" id="selectordie.css-css" href="http://www.vistaoutdoor.com/wp-content/themes/vista/js/selectordie/selectordie.css" type="text/css" media="all">
+<link rel="stylesheet" id="mappress-css" href="http://www.vistaoutdoor.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://www.vistaoutdoor.com/wp-content/plugins/revslider/rs-plugin/css/settings.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
 </style>
-</head>
+<link rel="stylesheet" id="page-list-style-css" href="http://www.vistaoutdoor.com/wp-content/plugins/sitemap/css/page-list.css" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="http://www.vistaoutdoor.com/wp-content/plugins/js_composer/assets/css/js_composer.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-font-awesome-css" href="http://www.vistaoutdoor.com/wp-content/themes/Total/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-style-css" href="http://www.vistaoutdoor.com/wp-content/themes/vista/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-visual-composer-css" href="http://www.vistaoutdoor.com/wp-content/themes/Total/css/visual-composer-custom.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-visual-composer-extend-css" href="http://www.vistaoutdoor.com/wp-content/themes/Total/css/visual-composer-extend.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-responsive-css" href="http://www.vistaoutdoor.com/wp-content/themes/Total/css/responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-lightbox-skin-css" href="http://www.vistaoutdoor.com/wp-content/themes/Total/css/lightbox/dark-skin/skin.css" type="text/css" media="all">
+<!-- This site uses the Google Analytics by Yoast plugin v5.3 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
-<body id="index" class="home">
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<header id="banner" class="body">
-	<h1><a href="/"><img src="/images/layout/banner_logo.png"></a></h1>
-	<div id="searchdiv"><form action="/search/" method="post" id="sitesearchform"><input type="text" value="Search" id="sitesearch" name="sitesearch"><input type="image" src="/images/layout/searchbutton.jpg" alt="Submit" value="Submit" title="" class="sb"></form></div>
-	<img src="/images/layout/savagerangesystemslogo.png" class="header_sub_logo" id="srslogo" rel="http://www.savagerangesystems.com">
-</header><!-- /#banner -->
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-58974508-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
 
-<nav id="mainnav">
-	<ul id="nav">
-		<li id="Home" privacypolicy=""><a href="/">HOME</a></li>
-		<li id="History" privacypolicy=""><a href="#">HISTORY <img src="/images/layout/nav/arrow_down.png" class="arrow_down"></a></li>
-		<li id="Firearms" privacypolicy=""><a href="#">FIREARMS <img src="/images/layout/nav/arrow_down.png" class="arrow_down"></a></li>
-		<li id="Multimedia" privacypolicy=""><a href="/accuracy/">MULTIMEDIA <img src="/images/layout/nav/arrow_down.png" class="arrow_down"></a></li>
-		<li id="Customer_Service" privacypolicy=""><a href="#">CUSTOMER SERVICE <img src="/images/layout/nav/arrow_down.png" class="arrow_down"></a></li>
-		<li id="Store"><a href="http://store.savagearms.com">STORE <img src="/images/layout/nav/arrow_down.png" class="arrow_down"></a></li>
-		<li id="More" privacypolicy=""><a href="#"><img src="/images/layout/nav/settings.png"> <img src="/images/layout/nav/arrow_down.png" class="arrow_down"></a></li>
-	</ul>
-</nav>
-<article id="mainnavdds">
-	<div id="History_dd" class="h_nav_dd"><div class="h_navigation_dd_holder">
-		<div class="h_navigation_main"><a href="/history/">» Savage Arms History</a></div>
-		<div class="h_navigation_main"><a href="/history/themenbehindtheguns/">» The Men Behind the Guns</a></div>
-	</div></div>
-	<div id="Firearms_dd" class="h_nav_dd"><div class="h_navigation_dd_holder">
-		<div class="h_navigation_main"><a href="/firearms/">» About Our Firearms</a></div>
-		<div class="h_navigation_main"><a href="/firearms/finder/">» Gun Finder</a></div>
-		<div class="h_navigation_main"><a href="/firearms/models/">» Browse Models</a></div>
-		<div class="h_navigation_main"><a href="/firearms/allfirearms/">» List Firearms</a></div>
-		<div class="h_navigation_main"><a href="/firearms/literature/">» Literature and Manuals</a></div>
-		<div class="h_navigation_main"><a href="/firearms/maintenance/">» Maintenance and Procedures</a></div>
-	</div></div>
-	<div id="Multimedia_dd" class="h_nav_dd"><div class="h_navigation_dd_holder">
-		<div class="h_navigation_main"><a href="/accuracy/">» Our Accuracy Technology</a></div>
-		<div class="h_navigation_main"><a href="/multimedia/">» Our Products On TV</a></div>
-		<div class="h_navigation_main"><a href="/multimedia/savageoutdoors/">» Savage Outdoors</a></div>
-		<div class="h_navigation_main"><a href="/multimedia/troyjacobchase/">» Troy, Jacob and Chase Landry</a></div>
-		<div class="h_navigation_main"><a href="/multimedia/gratefulnation/">» Grateful Nation</a></div>
-		<div class="h_navigation_main"><a href="/multimedia/keithwarren/">» Keith Warren</a></div>
-		<div class="h_navigation_main"><a href="/multimedia/outlanders/">» Outlanders</a></div>
-		<div class="h_navigation_main"><a href="/multimedia/radicalhunter/">» The Radical Hunter</a></div>
-	</div></div>
-	<div id="Customer_Service_dd" class="h_nav_dd"><div class="h_navigation_dd_holder">
-		<div class="h_navigation_main"><a href="/customerservice/">» Savage Customer Service</a></div>
-		<div class="h_navigation_main"><a href="https://savagearms.zendesk.com/home">» Frequently Asked Questions</a></div>
-		<div class="h_navigation_main"><a href="https://store.savagearms.com/partfinder">» Look Up Date of Manufacture</a></div>
-		<div class="h_navigation_main"><a href="https://savagearms.zendesk.com/anonymous_requests/new">» Service Request</a></div>
-		<div class="h_navigation_main"><a href="/customerservice/warrantyregistration/">» Warranty Registration</a></div>
-		<div class="h_navigation_main"><a href="/customerservice/warrantyandrepair/">» Warranty and Repair Information</a></div>
-		<div class="h_navigation_main"><a href="/customerservice/warranty/">» Statement of Limited Warranty</a></div>
-		<div class="h_navigation_main"><a href="/customerservice/contact/">» Contact Information</a></div>
-		<div class="h_navigation_main"><a href="/customerservice/salesrepresentatives/">» Sales Representatives</a></div>
-		<div class="h_navigation_main"><a href="/customerservice/distributors/">» International Distributors</a></div>
-		<div class="h_navigation_main"><a href="/customerservice/catalogrequest/">» Printed Catalog Request</a></div>
-	</div></div>
-	<div id="Store_dd" class="h_nav_dd"><div class="h_navigation_dd_holder">
-		<div class="h_navigation_main"><a href="https://store.savagearms.com/">» Store Home</a></div>
-		<div class="h_navigation_main"><a href="https://store.savagearms.com/apparel.html">» Apparel</a></div>
-		<div class="h_navigation_main"><a href="https://store.savagearms.com/gear.html">» Gear</a></div>
-		<div class="h_navigation_main"><a href="https://store.savagearms.com/magazines-misc-parts.html">» Magazines/Misc. Parts</a></div>
-		<div class="h_navigation_main"><a href="https://store.savagearms.com/savageoutdoors.html">» Savage Outdoors</a></div>
-		<div class="h_navigation_main"><a href="https://store.savagearms.com/partfinder/">» Partfinder</a></div>
-		<div class="h_navigation_main"><a href="https://store.savagearms.com/clearance.html">» Clearance Items</a></div>
-		<div class="h_navigation_main"><a href="https://store.savagearms.com/customer/account/login/">» Store Login</a></div>
-	</div></div>
-	<div id="More_dd" class="h_nav_dd"><div class="h_navigation_dd_holder">
-						<div class="h_navigation_main">» <a href="/authentication/login/">Sign-in</a></div>	</div></div>
-</article>
-<article>
-	<section id="content" class="body">
-				<div id="breadcrumb">
-			<div id="breadcrumbspacer">
-			Savage Arms Privacy Policy			</div>
-		</div>
-		<img src="/images/layout/separator_1000.png" class="separator_1000">
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type="text/javascript" src="http://www.vistaoutdoor.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://www.vistaoutdoor.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="http://www.vistaoutdoor.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="http://www.vistaoutdoor.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.vistaoutdoor.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.vistaoutdoor.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.1.5">
+<link rel="shortlink" href="http://www.vistaoutdoor.com/?p=72">
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "<h2>THIS IS SOME TITLE</h2><br/>";
+
+					content += "Type:"+obj.type+"</br>";
+					content += "ID:"+obj.id+"</br>";        
+					content += "Aspect Ratio:"+obj.aspectratio+"</br>";  
+					
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '3404469c69';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://www.vistaoutdoor.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				}
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined')
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+					}
+				},30);
+			});
+		</script>
+		<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.vistaoutdoor.com/wp-content/themes/Total/css/ie8.css" media="screen"><![endif]--><!--[if lt IE 9]>
+            <script src="http://www.vistaoutdoor.com/wp-content/themes/Total/js/plugins/html5.js"></script>
+        <![endif]--><!-- TOTAL CSS -->
+<style type="text/css">
+/*ADVANCED STYLING*/@media only screen and (min-width:960px){#site-logo{max-width:143px}}.wpb_row .fa:before{box-sizing:content-box!important;-moz-box-sizing:content-box!important;-webkit-box-sizing:content-box!important}/*CUSTOM CSS*/.wpb_single_image img{vertical-align:bottom}body.search-results #submenu{margin-bottom:0 !important}sup{font-size:.7em;top:-.7em;font-family:Arial,sans-serif !important}pre{line-height:1.1em !important}.meta-author{display:none !important}#stockprice p,#stockprice strong{color:#fff;opacity:1 !important;letter-spacing:.3em}#sidebar{padding:0 0 0 30px !important}#site-header{position:relative;margin-top:-40px}#site-logo{position:relative;z-index:200}#top-bar-wrap{margin-top:40px;position:relative;z-index:100}#menu-top-navigation .hide{display:none}#submenu{background:#005f91;padding:24px 0;height:75px;margin-bottom:70px}#submenu .submenucontainer{width:1140px;margin:0 auto}#submenu ul{padding:0;margin:0;list-style:none}#submenu ul li{float:left}#submenu ul li a{text-transform:uppercase;color:#ffffff;font-size:13px;margin-right:25px}#submenu ul li a:hover,#submenu ul li.current-menu-item a,#submenu ul li.current-page-ancestor a{text-decoration:none;color:#bcbcbc}#corpgovmenu a{font-size:10px;text-transform:uppercase;color:#969696;border-top:0 !important;border-left:0 !important;border-right:0 !important;margin-right:0;padding-bottom:15px}#corpgovmenu a.active,#corpgovmenu a:hover{color:#005f91;border-bottom-color:#005f91}.navbar-style-one{margin-top:13px}.navbar-style-one .dropdown-menu >li >a{height:63px !important}.navbar-style-one .dropdown-menu >li.current-menu-item >a{border-bottom:4px solid #f37720}/* .navbar-style-one .dropdown-menu >li.current-menu-item >a,.navbar-style-one .dropdown-menu a:hover{border-bottom:4px solid #f37720}*/.navbar-style-one .dropdown-menu ul{margin:0;background:#FFF;border:0;width:240px;padding:13px;margin-top:-7px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:0 0 7px 1px rgba(0,0,0,0.35);-moz-box-shadow:0 0 7px 1px rgba(0,0,0,0.35);box-shadow:0 0 7px 1px rgba(0,0,0,0.35)}.navbar-style-one .dropdown-menu ul:before{content:"";display:block;position:absolute;top:-12px;left:19px;border-right:11px solid rgba(0,0,0,0);border-bottom:11px solid #D5D5D5;border-bottom-color:rgba(0,0,0,0.15);border-left:11px solid rgba(0,0,0,0)}.navbar-style-one .dropdown-menu ul:after{content:"";display:block;position:absolute;top:-10px;left:20px;border-right:10px solid rgba(0,0,0,0);border-bottom:10px solid #FFF;border-left:10px solid rgba(0,0,0,0)}.navbar-style-one .dropdown-menu ul a{line-height:1.2em}.vcex-navbar.style-buttons a:hover,.vcex-navbar.style-buttons a.active{background:none !important}.topbarlink,.topdiv,.searchbox{float:left}.topbarlink{margin-left:23px;font-size:12px}.topbarlink.contactus{margin-right:10px}.topbarlink.social{margin-left:0;font-size:20px}.navbar-style-one .dropdown-menu >li >a{padding:0 19px}.topdiv{width:1px;height:50px;border-right:1px solid #e6e6e6;margin:0 10px}.searchbox{margin-left:10px}.searchform input{width:282px;background-image:url("img/searchglass.png");background-repeat:no-repeat;background-position:right center;padding:10px;text-transform:uppercase;border:0;-moz-border-radius:5px;border-radius:5px}.learnmore{width:118px;padding:8px 0;background-color:#A6A6A6;-moz-border-radius:3px;border-radius:3px;color:#FFF;margin-top:20px;text-transform:uppercase;font-size:13px;font-weight:300;text-align:center}#footer{border-top:1px solid #F0F0F0;margin-top:30px}#footer .vcex-navbar.style-buttons a{border:0;font-size:11px;text-transform:uppercase;letter-spacing:.1em;padding:4px 5px !important}#footer p{font-size:11px;text-transform:uppercase;letter-spacing:.1em}ul#brands{list-style:none;padding:40px 0;margin:0}ul#brands li{background:#fff;margin:5px;padding:17px;float:left}.tp-button.lightgrey,.tp-button:hover.lightgrey,.purchase.lightgrey,.purchase:hover.lightgrey{-webkit-box-shadow:none !important;-moz-box-shadow:none !important;box-shadow:none !important;text-transform:uppercase;padding:10px 22px 11px !important}a.tp-button{text-shadow:none !important;background:#888888 !important;font-family:inherit !important}a:hover.tp-button{text-decoration:none}.tp-bullets.simplebullets.round .bullet{width:12px;height:12px;margin-left:5px;background:#DEE1E6;border-radius:4px}.tp-bullets.simplebullets.round .bullet.selected{background:#f7941e}.hungryfeed_items h3{margin:0 0 10px 0;font-weight:normal;color:#4C4C4C;font-size:1.05em;line-height:1.6em}.homefeed_items h3{margin:0 0 10px 0;font-weight:normal;color:#3C3C3C;font-size:1.7em;line-height:1.4em}.hungryfeed_items .feed_item{margin-bottom:30px}.homefeed_items .postdatebg,.hungryfeed_items .postdatebg{background:url('/wp-content/uploads/2014/12/datebg.jpg') repeat-x;margin-bottom:20px}.homefeed_items .catname{color:#828282;text-transform:uppercase;font-size:12px}.homefeed_items .postdate,.hungryfeed_items .postdate{background:#fff;padding-right:10px;display:inline-block;color:#646464;text-transform:uppercase;font-size:15px}.homefeed_items .feed_item .excerpt{margin-top:30px}.homefeed_items .feed_item .featuredimage{float:right;margin:0 0 20px 40px}.homefeed_items .feed_item .readmore{margin-top:15px}.values{margin-left:40px}.values .wpb_tab{min-height:340px !important}.gform_wrapper select{font-size:16px !important;font-family:Montserrat !important}.logos .wpb_column{margin:0 !important;padding:0 !important}.homepromo p{font-size:13px;line-height:17px}.homepromo h3{margin:0 0 10px !important}.homepromo a{font-weight:bold}a.viewmore{border:1px solid #F37720 !important}.timelinenav{font-size:18px}.timelinenav a{color:#b0b0b0}.timelinenav .explore{font-family:Arvo;color:#005f91;float:left;text-transform:uppercase;font-weight:bold;padding:0 40px;font-size:15px;line-height:30px}.timelinenav .year{float:left;padding:0 40px}body.single-post .page-header,body.archive .page-header{display:none}.post-pagination{border:0 !important}.vcex-news-entry-thumbnail{float:right}.vcex-recent-news-entry-title-heading{font-weight:normal;line-height:1.2em}.historyrow .vcex-row-bg-container{margin:0 !important}.historyrow h2{color:#fff !important;margin:0 0 15px 0 !important}.historyrow p{color:#fff !important;margin-bottom:0 !important;font-size:14px}.historyrow .row1{padding:77px 90px !important}.historyrow .row1 h2{font-size:1.6em !important}.historyrow .row2{padding:94px 50px 84px !important}.historyrow .row3{padding:56px 40px 46px !important}.historyrow .row4{padding:75px 40px 65px !important}.historyrow .row5{padding:80px 50px 70px !important}.historyrow .row6{padding:118px 50px 108px !important}.historyrow .row7{padding:103px 50px 93px !important}.historyrow .row8{padding:114px 50px 104px !important}.historyrow .row9{padding:90px 50px 80px !important}#brands .mix{display:none}.brandfilterrow{height:60px !important}.filterrow{font-size:18px}.filterrow a:hover{text-decoration:none}.filterrow a{display:block;padding:15px 20px;color:#6e6e6e;border-left:1px solid #f0f0f0}.filterrow a.last{border-right:1px solid #f0f0f0}.filterrow a.brandhead.active{position:relative;background:#f7941e;color:#fff}.filterrow a.brandhead.active:after{top:100%;left:40px;border:solid rgba(0,0,0,0);content:" ";height:0;width:0;position:absolute;pointer-events:none;border-color:rgba(247,148,30,0);border-top-color:#F7941E;border-width:14px;margin-left:-11px}.sod_select:before{top:21px}.sod_select:after{bottom:21px}.sod_select,.sod_select.focus.open{width:100%;border:0;color:#6E6E6E;font-family:Montserrat;font-size:18px;text-transform:none;height:60px;background:#fff}.sod_select.focus.open{border:1px solid #E2E2E2}.sod_select.focus:before{display:none}.sod_select .sod_label{line-height:31px;font-weight:normal}.sod_select.focus{position:relative;background:#f7941e;color:#fff;box-shadow:none}.sod_select.open .sod_list_wrapper{padding-top:10px;width:100.5%;border:1px solid #E2E2E2;left:2px;border-top:0}.sod_select .sod_option{color:#6E6E6E}.sod_select .sod_option.selected{font-weight:normal;padding-right:25px;color:#F7941E}.sod_select .sod_option.active{background:#fff}.sod_select.focus:after{top:100%;left:40px;border:solid rgba(0,0,0,0);content:" ";height:0;width:0;position:absolute;pointer-events:none;border-color:rgba(247,148,30,0);border-top-color:#F7941E;border-width:14px;margin-left:-11px}@media only screen and (max-width:1279px){#footer .vcex-navbar.style-buttons a,#footer p{font-size:9px}}@media only screen and (max-width:959px){#footer .vcex-navbar.style-buttons a,#footer p{font-size:9px}.topbarlink,.searchbox,.topdiv{display:none}.topbarlink.social{display:block}.submenucontainer{display:none}#submenu{padding:0;height:35px;margin-bottom:40px}.site-footer .container{padding-top:25px}#footer .widget_page_in_widget .wpb_column{width:100%;margin-bottom:10px}#footer .widget_page_in_widget .wpb_column p{text-align:center !important}#footer .vcex-navbar-inner{text-align:center}#footer .vcex-navbar a{float:none;display:inline}}@media only screen and (min-width:767px){.historyrow .wpb_single_image{height:380px !important;*/}}@media only screen and (max-width:767px){#top-bar{padding:0 !important}.top-bar-right{margin-top:0 !important;float:right !important;width:auto !important}}/*CUSTOM SITE BACKGROUND*/body{background-color:#ffffff !important}/*CUSTOMIZER STYLING CSS*/#top-bar-wrap{background-color:#ffffff}#top-bar-wrap{border-color:#ffffff}#top-bar-wrap,#top-bar-content strong{color:#505050}#top-bar-content a,#top-bar-social-alt a{color:#505050}#top-bar-content a:hover,#top-bar-social-alt a:hover{color:#505050}#top-bar-content a:active,#top-bar-social-alt a:active{color:#505050}#top-bar-social a{color:#78787b}#top-bar-social a:hover{color:#78787b}#site-header-inner{padding-top:0}#site-header-inner{padding-bottom:30px}#searchform-overlay{top:0}.is-sticky #site-header{opacity:0.95}#site-navigation .dropdown-menu >li >a{color:#3c3c3c}#site-navigation .dropdown-menu >li >a:hover,#site-navigation .dropdown-menu >li.sfHover >a{color:#3c3c3c}#site-navigation .dropdown-menu >.current-menu-item >a,#site-navigation .dropdown-menu >.current-menu-item >a:hover{color:#3c3c3c}#site-navigation .dropdown-menu ul{background-color:#fafafa}#site-navigation .dropdown-menu ul,#site-navigation .dropdown-menu ul li,#site-navigation .dropdown-menu ul li a{border-color:#fafafa}#site-navigation .dropdown-menu ul >li >a{color:#505053}#site-navigation .dropdown-menu ul >li >a:hover{color:#f15722}#site-navigation .dropdown-menu ul >.current-menu-item >a{color:#f15722}#site-navigation .dropdown-menu ul >li >a:hover{background-color:#fafafa}#footer{background-color:#ffffff}#footer,#footer p,#footer li a:before{color:#6e6e6e}#footer a{color:#505050}#footer a:hover{color:#505050}#footer a:active{color:#505050}#site-scroll-top{background-color:#f0f0f0}#site-scroll-top:hover{background-color:#f0f0f0}#site-scroll-top:active{background-color:#f0f0f0}#site-scroll-top{border-color:#6e6e6e}#site-scroll-top:hover{border-color:#6e6e6e}#site-scroll-top:active{border-color:#6e6e6e}#site-scroll-top{color:#6e6e6e}#site-scroll-top:hover{color:#6e6e6e}#site-scroll-top:active{color:#6e6e6e}#sidebar{padding:0 0 0 0}a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover{color:#f37720}input[type="submit"],.theme-button,#current-shop-items-overlay .buttons a,.woocommerce .button,button{color:#ffffff}input[type="submit"]:hover,.theme-button:hover,#current-shop-items-overlay:hover,.buttons a:hover,.woocommerce .button:hover,button:hover{color:#ffffff}input[type="submit"],.theme-button,#current-shop-items-overlay .buttons a,.woocommerce .button,button{background:#005f91}input[type="submit"]:hover,.theme-button:hover,#current-shop-items-overlay:hover,.buttons a:hover,.woocommerce .button:hover,button:hover{background:#226a91}.wpb_column{margin-bottom:40px}/*RESPONSIVE WIDTHS*//*RESPONSIVE WIDTHS*/@media only screen and (min-width:1281px){.container,.vc_row-fluid.container{width:1140px !important;max-width:none}.content-area{width:760px;max-width:none}#sidebar{width:380px;max-width:none}}@media only screen and (min-width:960px) and (max-width:1280px){.container,.vc_row-fluid.container{width:980px !important;max-width:none}.content-area{width:680px;max-width:none}#sidebar{width:250px;max-width:none}}@media only screen and (min-width:768px) and (max-width:959px){.container,.vc_row-fluid.container{width:700px !important;max-width:none}.content-area{width:100%}#sidebar{width:100%}}@media only screen and (max-width:767px){.container{width:90% !important;min-width:0}}@media only screen and (min-width:480px) and (max-width:767px){.container{width:90% !important}}
+</style><link rel="shortcut icon" href="/wp-content/uploads/2014/10/favicon.png"><link rel="apple-touch-icon-precomposed" href="/wp-content/uploads/2014/10/logo-57.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="/wp-content/uploads/2014/10/logo-76.png"><link rel="apple-touch-icon-precomposed" sizes="120x120" href="/wp-content/uploads/2014/10/logo-120.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wp-content/uploads/2014/10/logo-152.png"><!-- Load Google Fonts --><link href="https://fonts.googleapis.com/css?family=Montserrat:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Montserrat:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Montserrat:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Arvo:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet" type="text/css"><!-- Typography CSS --><style type="text/css">body{font-family:Montserrat;font-weight:400;font-size:16px;color:#3c3c3c;}#site-navigation .dropdown-menu a{font-family:Montserrat;font-size:22px;}#site-navigation .dropdown-menu ul a{font-family:Montserrat;font-weight:400;font-size:16px;}h1,h2,h3,h4,h5,h6,.theme-heading,.heading-typography,.widget-title,.wpex-widget-recent-posts-title,.comment-reply-title{font-family:Arvo;font-weight:700;}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.vistaoutdoor.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--></head>
+
+<!-- Begin Body -->
+<body class="page page-id-72 page-template-default custom-background wpex-theme wpex-responsive theme-base has-composer page-header-disabled full-width-main-layout content-full-width has-breadcrumbs shrink-fixed-header sidebar-widget-icons wpb-js-composer js-comp-ver-4.3.5 vc_responsive">
+
+<div id="outer-wrap" class="clr">
+
+	
+	<div id="wrap" class="clr">
+
+			
 		
-<h2>Savage Arms Privacy Policy</h2>
-<p>Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to 
-understand how we collect, use, communicate and disclose and make use of personal information. The 
-following outlines our privacy policy.</p>
- 
-<ul class="content_ul">
-	<li>Before or at the time of collecting personal information, we will identify the purposes for which 
-	information is being collected.</li>
-	<li>We will collect and use of personal information solely with the objective of fulfilling those purposes
-	specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned
-	or as required by law.</li>
-	<li>We will only retain personal information as long as necessary for the fulfillment of those purposes.</li>
-	<li>We will collect personal information by lawful and fair means and, where appropriate, with the 
-	knowledge or consent of the individual concerned.</li>
-	<li>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary
-	for those purposes, should be accurate, complete, and up-to-date.</li>
-	<li>We will protect personal information by reasonable security safeguards against loss or theft, as well as 
-	unauthorized access, disclosure, copying, use or modification.</li>
-	<li>We will make readily available to customers information about our policies and practices relating to the 
-	management of personal information.</li>
+
+<div id="top-bar-wrap" class="clr always-visible">
+	<div id="top-bar" class="clr container">
+			<div id="top-bar-content" class="clr top-bar-right">
+		<div class="topbarlink careers"><a href="/careers/">CAREERS</a></div>
+<div class="topbarlink contactus"><a href="/contact-us/">CONTACT US</a></div>
+<div class="topdiv left"></div>
+<div class="topbarlink social"><a href="https://www.youtube.com/channel/UCscq9njh9-rWVVYJUrgKscw" target="_new"><i class="fa fa-youtube-play" style="color: #78787b;margin-left: 10px;margin-right: 10px;"></i></a></div>
+<div class="topbarlink social"><a href="https://www.facebook.com/pages/Vista-Outdoor/661539067274665" target="_new"><i class="fa fa-facebook" style="color: #78787b;margin-left: 10px;margin-right: 10px;"></i></a></div>
+<div class="topbarlink social"><a href="https://twitter.com/vistaoutdoorinc" target="_new"><i class="fa fa-twitter" style="color: #78787b;margin-left: 10px;margin-right: 10px;"></i></a></div>
+<div class="topdiv right"></div>
+<div class="searchbox"><form class="searchform" action="/" method="get"><input autocomplete="off" name="s" type="search" placeholder="search"></form></div>	</div><!-- #top-bar-content -->
+
+	</div><!-- #top-bar -->
+</div><!-- #top-bar-wrap -->
+	<header id="site-header" class="clr header-one" role="banner">
+				<div id="site-header-inner" class="container clr">
+			<div id="site-logo" class="header-one-logo">
+			<a href="http://www.vistaoutdoor.com/" title="Vista Outdoor" rel="home" class="main-logo">
+			<img src="/wp-content/uploads/2014/10/vista-logo.png" alt="Vista Outdoor">
+		</a>
+			</div><!-- #site-logo -->
+<div id="site-navigation-wrap" class="clr navbar-style-one">
+	<nav id="site-navigation" class="navigation main-navigation clr " role="navigation">
+		<div class="menu-top-navigation-container"><ul id="menu-top-navigation" class="dropdown-menu sf-menu"><li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-101"><a href="http://www.vistaoutdoor.com/corporate-overview/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="http://www.vistaoutdoor.com/corporate-overview/">Corporate Overview</a></li>
+	<li id="menu-item-571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-571"><a href="http://www.vistaoutdoor.com/mission-values/">Mission &amp; Values</a></li>
+	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://www.vistaoutdoor.com/history/">History</a></li>
+	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://www.vistaoutdoor.com/leadership/">Leadership</a></li>
+	<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://www.vistaoutdoor.com/locations/">Locations</a></li>
 </ul>
- 
-<p>We are committed to conducting our business in accordance with these principles in order to ensure that 
-the confidentiality of personal information is protected and maintained.</p>	</section><!-- /#content -->
-</article>
+</li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="http://www.vistaoutdoor.com/brands/">Brands</a></li>
+<li id="menu-item-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-434"><a href="http://news.vistaoutdoor.com">News &amp; Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-326"><a href="http://news.vistaoutdoor.com/news-releases">News Releases</a></li>
+	<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="http://www.vistaoutdoor.com/news-media/archive/">Our Company News</a></li>
+	<li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-328"><a href="http://news.vistaoutdoor.com/events">Events</a></li>
+	<li id="menu-item-329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-329"><a href="http://news.vistaoutdoor.com/connect">Connect</a></li>
+</ul>
+</li>
+<li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-319"><a href="http://investors.vistaoutdoor.com/">Investors</a>
+<ul class="sub-menu">
+	<li id="menu-item-320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-320"><a href="http://investors.vistaoutdoor.com/CorporateProfile/">Corporate Profile</a></li>
+	<li id="menu-item-331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="http://www.vistaoutdoor.com/investors-information/corporate-governance/">Corporate Governance</a></li>
+	<li id="menu-item-322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-322"><a href="http://investors.vistaoutdoor.com/Stock/">Stock Information</a></li>
+	<li id="menu-item-323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-323"><a href="http://investors.vistaoutdoor.com/Docs/">SEC Filings</a></li>
+	<li id="menu-item-324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-324"><a href="http://investors.vistaoutdoor.com/event/">Events &amp; Presentations</a></li>
+	<li id="menu-item-325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-325"><a href="http://investors.vistaoutdoor.com/EmailNotification/">Email Notifications</a></li>
+</ul>
+</li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.vistaoutdoor.com/social-responsibility/">Social Responsibility</a></li>
+<li id="menu-item-448" class="hide menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-448"><a href="http://www.vistaoutdoor.com/careers/">Careers</a>
+<ul class="sub-menu">
+	<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="http://www.vistaoutdoor.com/careers/">Overview</a></li>
+	<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="http://www.vistaoutdoor.com/careers/benefits/">Benefits</a></li>
+	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.vistaoutdoor.com/careers/internships/">Internships</a></li>
+</ul>
+</li>
+</ul></div>	</nav><!-- #site-navigation -->
+</div><!-- #site-navigation-wrap -->
 
-<footer id="footer" class="body">
-	<div class="footermenu">
-			<h2>General</h2>
 
-			<ul>
+					<div id="sidr-close"><a href="#sidr-close" class="toggle-sidr-close"></a></div>
+		
+		<div id="mobile-menu" class="clr hidden">
+			<a href="#mobile-menu" class="mobile-menu-toggle"><span class="fa fa-bars"></span></a>
+					</div><!-- #mobile-menu -->
+		
+			</div><!-- #site-header-inner -->
+			</header><!-- #header -->
 
-<li><a href="/customerservice/contact/">Contact</a></li>							<li><a href="/dealerlocator/">Dealer Locator</a></li>														<li><a href="/clubsignup/">Club Program Information</a></li>
-<li><a href="http://www.atk.com/careers">Employment</a></li>						<li><a href="/customerservice/distributors/">International Distributors</a></li>							<li><a href="http://m.savagearms.com">Savage Arms Mobile</a></li>
-<li><a href="/salessupport/">Sales Support</a></li>									<li><a href="/firearms/literature/">Manuals / Literature</a></li>											<li><a href="http://www.snailtraps.com" rel="external">Savage Range Systems</a></li>
-<li><a href="/customerservice/warrantyandrepair/">Warranty and Repair</a></li>		<li><a href="https://s3.amazonaws.com/savagefiles/savage_catalog_current.pdf" target="_blank">Our Catalog (pdf)</a></li>
-<li><a href="/customerservice/warrantyregistration/">Warranty Registration</a></li>	<li><a href="/brandmaterials/">Brand Materials</a></li>														<li><a href="/index/emailsignup/">Sign up for news and alerts by email</a></li>
-<li><a href="/termsofuse/">Terms of Use</a>											</li><li><a href="/privacypolicy/">Privacy Policy</a>															</li><li><a href="/authentication/login/">Sign-in</a></li>
+		
+		    <div id="submenu">
+        <div class="submenucontainer">
+            			                            
+        </div>
+    </div>
+    	
+		<div id="main" class="site-main clr">
+	
+				<div id="content-wrap" class="container clr full-width">
+		<section id="primary" class="content-area clr">
+			<div id="content" class="clr site-content" role="main">
+									<article class="clr">
+												<div class="entry-content entry clr">
+							<div class="vc_row wpb_row vc_row-fluid  ">
+	<div class="vc_col-sm-12 wpb_column clr column_container  ">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h1>Privacy Policy</h1>
+<p>This Privacy Policy applies to Vista Outdoor Inc. and Vista Sales LLC, as well as our subsidiaries and affiliates and our trusted family of brands (collectively, “Vista Outdoor”).&nbsp; Vista Outdoor has created this Policy to let you know we take your privacy seriously. This Policy explains our information practices and the choices you can make about the way your information is collected from our websites, online applications, kiosks, mobile applications, email, telephone inquiries, promotions, warranty registrations, newsletter service, surveys, forums, sweepstakes/contest entries, Idea Exchange, ratings and review service, social media sites and the websites hosted by our service providers and merchant associates (collectively, the “Services”).</p>
+<ol>
+<li><strong> Types of Information Collected.</strong></li>
+</ol>
+<p>When using our Services, we may collect (ourselves or through our trusted service providers or business associates) your name, age, gender, company name, postal address, e-mail address, phone number, zip code and credit card information (“Personal Information”).&nbsp; We may also collect other information that you submit or disclose in connection with the Services, such as product interests, reviews, feedback, testimonials, ideas, postings, submissions, photographs, diagrams, drawings, plans, notes, suggestions, inventions, creative materials, videos, designs, and other information (“User-Generated Content”).</p>
+<p>Vista Outdoor may, directly or through a third party, collect information about you and your use of our Services whenever you use the Services.&nbsp; For instance, we may collect various forms of information such as entry and exit points for our Services (<em>i.e</em>., referring URLs or domains), Services traffic statistics, operating system and browser type (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Services. In addition, when you request pages on our Services, our servers automatically log your IP address. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. Vista Outdoor may store some information on your computer in the form of a “cookie” or similar file to help us maintain and improve these Services in many ways. A “cookie” is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card, recording such things as Internet addresses, passwords, and preferences. It cannot be executed as code or deliver viruses. With most Internet browsers, you can erase “cookies” from your computer hard drive, block all “cookies,” or receive a warning before a “cookie” is stored. The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please refer to your browser instructions to learn more about these functions. Enabling cookies allows you to take full advantage of all the features on the Services and we recommend that you leave them turned on. If you elect to block the cookies, we will not be able to provide you with a personalized experience on our Services. We may also include social media features, such as the Facebook Like button, Google Plus, Pinterest, and Twitter widgets. These features may collect information about your IP address and which page you’re visiting on our site(s), and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by this Privacy Policy and the privacy policies of the companies that provide them.</p>
+<p>In some instances, Vista Outdoor may use tracking scripts or “tracers” that recognize a unique identifier from a cookie placed on your hard drive by another website. These are used by Vista Outdoor solely to gauge the success of our own advertising. For instance, we may use a tracer to determine whether you visit certain web pages where Vista Outdoor may have placed a banner ad. We do not use tracers to gather information on your use of the Internet unrelated to Vista Outdoor. Please note that Vista Outdoor does not use tracers to identify your personal information, and you remain anonymous unless and until you communicate with Vista Outdoor.</p>
+<p>The Services are not intended for children under the age of 13. We will not knowingly collect personally identifiable information from the Services from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites. Parents can also select “Personal Information / Opt Out” at our <a title="Contact Us" href="http://www.vistaoutdoor.com/contact-us/">Contact Us</a> page to access, change, or delete the personal information that has been submitted by a child.</p>
+<ol start="2">
+<li><strong> Use of Information Collected</strong>.</li>
+</ol>
+<p>Vista Outdoor may use Personal Information to send you information about us and our products, including news and promotional material, to solicit information from you, to provide a response or confirmation to an order placed on our merchant site(s) and for marketing research. We may use your Personal Information to customize the Services and display content that we think you might be interested in according to your preferences. &nbsp;We may use non-identifying and aggregate information to better design our website.</p>
+<ol start="3">
+<li><strong> Sharing of Personal Information.</strong></li>
+</ol>
+<p>Vista Outdoor will not sell, rent, edit or intentionally disclose any Personal Information, including its contents or your use of the Site, without your prior consent, but Vista Outdoor may securely share your Personal Information, without your prior consent, for the limited purposes noted below:</p>
+<ol>
+<li><span style="text-decoration: underline;">Third Parties</span>. Vista Outdoor may share Personal Information with its service providers and trusted business associates to perform functions such as collecting and analyzing user information, conducting contests, sweepstakes, and other promotions, fulfilling rebate submissions, credit card processing as it relates to placing orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links) and providing customer service. These third parties will only use your Personal Information for those purposes required to perform their functions.</li>
+<li><span style="text-decoration: underline;">Business Transfers</span>. As Vista Outdoor continues to develop its business, we might sell or buy subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the obligations made in any pre-existing privacy policy.</li>
+<li><span style="text-decoration: underline;">Legal Obligations</span>. Vista Outdoor may share your Personal Information if we have a good faith belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of Vista Outdoor; (iii) enforce this Agreement; (iv) protect the interests of other users of the Site or any other person; or (v) operate or conduct maintenance and repair of the Site or equipment.</li>
+<li><strong> Protection of Personal Information.</strong></li>
+</ol>
+<p>We want you to have continuing trust in Vista Outdoor and in our products and services. In order to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through our Services cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.</p>
+<ol start="5">
+<li><strong> Submission of Confidential Information.</strong></li>
+</ol>
+<p>Other than Personal Information, Vista Outdoor does not treat User-Generated Content as confidential.&nbsp; You should not use the Services as a means of submitting information you consider to be confidential or proprietary. &nbsp;Any submission of User Generated Content will be considered a contribution to Vista Outdoor for further use in its sole discretion, regardless of any proprietary claims or reservation of rights noted, and shall become the sole property of Vista Outdoor. Vista Outdoor shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use of User-Generated Content for any purpose, commercial or otherwise, without acknowledgment or compensation to you. &nbsp;You irrevocably waive any and all “moral rights” in User-Generated Content, including the rights of paternity and integrity.</p>
+<ol start="6">
+<li><strong> Other Limits to Your Privacy.</strong></li>
+</ol>
+<p>The Services may contain links to non-Vista Outdoor websites. &nbsp;We are not responsible for the privacy practices or the content of non-Vista Outdoor websites. &nbsp;We have no control over the use of such websites and you should exercise caution when deciding to disclose any Personal Information or User-Generated Content on these websites.</p>
+<ol start="7">
+<li><strong> User Choice Regarding Collection, Use and Distribution of Personal Information.</strong></li>
+</ol>
+<p>You may choose not to provide Vista Outdoor with any Personal Information or User-Generated Content.&nbsp; However, your access to some of the Services may be limited. &nbsp;If you wish to update your Personal Information, have questions about your Personal Information or do not wish to receive information and promotional material from us you may select the appropriate “opt-out” option or let us know by selecting “Personal Information / Opt Out” at our <a title="Contact Us" href="http://www.vistaoutdoor.com/contact-us/">Contact Us</a> page.</p>
+<ol start="8">
+<li><strong> Updates and Changes to Privacy Policy.</strong></li>
+</ol>
+<p>We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. Updates and changes to the Website Terms and Conditions of Use Agreement and the Privacy Policy will continue to govern your use of the Site even if you elect not to receive notice of such changes.</p>
+<ol start="9">
+<li><strong> How to Contact Us.</strong></li>
+</ol>
+<p>Should you have other questions or concerns about our Privacy Policy, including requests by California residents for information about disclosure of Personal Information to a third party for direct marketing purposes, please let us know by selecting “Personal Information / Opt Out” at our <a title="Contact Us" href="http://www.vistaoutdoor.com/contact-us/">Contact Us</a> page or write to: Digital Marketing and E-Commerce Director, Marketing Department, Vista Outdoor, 900 Bob Ehlen Drive, Anoka, MN 55303. If you are a copyright owner or an agent thereof and believe that any User-Generated Content infringes upon your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act (“DMCA”) by providing Vista Outdoor with the following information in writing (see 17 U.S.C 512(c)(3) for further detail): (i) a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; (ii) identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site; (iii) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit Vista Outdoor to locate the material; (iv) information reasonably sufficient to permit Vista Outdoor to contact you, such as an address, telephone number, and, if available, an electronic mail; (v) a statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (vi) a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. You may contact Vista Outdoor’s designated Copyright Agent by selecting “Copyright Inquiry” at our <a title="Contact Us" href="http://www.vistaoutdoor.com/contact-us/">Contact Us</a> page, by writing to DMCA Agent, Legal Department, Vista Outdoor, 900 Bob Ehlen Drive, Anoka, MN 55303, or by calling 763-323-2300.</p>
 
-			</ul>
-		</div><!-- /.footermenu -->
+		</div> 
+	</div> 
+	</div> 
+</div>
+													</div><!-- .entry-content -->
+											</article><!-- #post -->
+												</div><!-- #content -->
+		</section><!-- #primary -->
+		
+	</div><!-- #content-wrap -->
 
-		<div class="social">
-			<h2>Social, Etc.</h2>
-			<ul>
+			
+		</div><!-- #main-content -->		
+				
+		
+				 
+		
+							
+									<footer id="footer" class="site-footer">
+												<div id="footer-inner" class="container clr">
+							<div id="footer-row" class="wpex-row clr">
+								
+<div id="footer-widgets" class="clr single-col-footer">
 
-				<li><a href="http://facebook.com/SavageArms" rel="external">Like Us</a></li>
-				<li><a href="http://twitter.com/savagearms" rel="external">Follow Us</a></li>
-				<li><a href="https://www.youtube.com/user/savageaccuracy" rel="external">Subscribe</a></li>
-			</ul>
-		</div><!-- /.social -->
-<div style="clear:both">&nbsp;</div>
-</footer><!-- /#contentinfo -->
+		<div class="footer-box span_1_of_1 col col-1">
+		<div class="footer-widget widget_page_in_widget clr"><div class="vc_row wpb_row vc_row-fluid  ">
+	<div class="vc_col-sm-6 wpb_column clr column_container  ">
+			
+		<nav class=" vcex-navbar clr style-buttons">
+			<div class="vcex-navbar-inner clr">
+										<a href="http://www.vistaoutdoor.com/site-map/" title="" class="vcex-navbar-link ">
+							Site Map						</a>
+											<a href="http://www.vistaoutdoor.com/privacy-policy/" title="" class="vcex-navbar-link active">
+							Privacy Policy						</a>
+											<a href="http://www.vistaoutdoor.com/terms-conditions/" title="" class="vcex-navbar-link ">
+							Terms &amp; Conditions						</a>
+											<a href="http://www.vistaoutdoor.com/partners-suppliers/" title="" class="vcex-navbar-link ">
+							Partners &amp; Suppliers						</a>
+											<a href="http://www.vistaoutdoor.com/wp-content/uploads/2014/11/Vista-Outdoor-California-Transparency-in-Supply-Chain-1-5-15.pdf" title="" class="vcex-navbar-link ">
+							California Supply Chain Act						</a>
+								</div>
+		</nav><!-- .vcex-navbar -->
+
+		
+	</div> 
+
+	<div class="vc_col-sm-6 wpb_column clr column_container  ">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: right;">©2015 VISTA OUTDOOR OPERATIONS LLC. &nbsp;ALL RIGHTS RESERVED.</p>
+
+		</div> 
+	</div> 
+	</div> 
+</div>
+</div>	</div><!-- .footer-one-box -->
+
+		
+	
+	
+</div><!-- #footer-widgets -->							</div><!-- .wpex-row -->
+						</div><!-- #footer-widgets -->
+											</footer><!-- #footer -->
+								
+				
+			 
+		
+		
+		
+	</div><!-- #wrap -->
+
+	
+</div><!-- .outer-wrap -->
+
+		<div id="mobile-menu-search" class="clr hidden">
+			<form method="get" action="http://www.vistaoutdoor.com/" role="search" class="mobile-menu-searchform">
+				<input type="search" name="s" autocomplete="off" placeholder="Search">
+			</form>
+		</div>
+				<div id="mobile-menu-alternative" class="hidden">
+				<div class="menu-mobile-navigation-container"><ul id="menu-mobile-navigation" class="dropdown-menu"><li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111"><a href="http://www.vistaoutdoor.com/corporate-overview/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://www.vistaoutdoor.com/corporate-overview/">Corporate Overview</a></li>
+	<li id="menu-item-941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-941"><a href="http://www.vistaoutdoor.com/mission-values/">Mission &amp; Values</a></li>
+	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://www.vistaoutdoor.com/history/">History</a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://www.vistaoutdoor.com/leadership/">Leadership</a></li>
+	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="http://www.vistaoutdoor.com/locations/">Locations</a></li>
+</ul>
+</li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://www.vistaoutdoor.com/brands/">Brands</a></li>
+<li id="menu-item-942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-942"><a href="http://news.vistaoutdoor.com">News &amp; Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-943" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-943"><a href="http://news.vistaoutdoor.com/news-releases">News Releases</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="http://www.vistaoutdoor.com/news-media/archive/">Our Company News</a></li>
+	<li id="menu-item-944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-944"><a href="http://news.vistaoutdoor.com/events">Events</a></li>
+	<li id="menu-item-945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-945"><a href="http://news.vistaoutdoor.com/connect">Connect</a></li>
+</ul>
+</li>
+<li id="menu-item-946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-946"><a href="http://investors.vistaoutdoor.com/">Investors</a>
+<ul class="sub-menu">
+	<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://www.vistaoutdoor.com/investors-information/corporate-governance/">Corporate Governance</a></li>
+	<li id="menu-item-947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-947"><a href="http://investors.vistaoutdoor.com/Stock/">Stock Information</a></li>
+	<li id="menu-item-948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-948"><a href="http://investors.vistaoutdoor.com/Docs/">SEC Filings</a></li>
+	<li id="menu-item-949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-949"><a href="http://investors.vistaoutdoor.com/event/">Events &amp; Presentations</a></li>
+	<li id="menu-item-950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-950"><a href="http://investors.vistaoutdoor.com/EmailNotification/">Email Notifications</a></li>
+</ul>
+</li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://www.vistaoutdoor.com/social-responsibility/">Social Responsibility</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="http://www.vistaoutdoor.com/careers/">Careers</a></li>
+<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="http://www.vistaoutdoor.com/contact-us/">Contact Us</a></li>
+</ul></div>			</div><!-- #mobile-menu-alternative -->
+					<a href="#" id="site-scroll-top"><span class="fa fa-chevron-up"></span></a>
+		<script type="text/javascript" src="http://www.vistaoutdoor.com/wp-content/themes/vista/js/selectordie/selectordie.min.js"></script>
+<script type="text/javascript" src="http://www.vistaoutdoor.com/wp-content/themes/vista/js/jquery.mixitup.js"></script>
+<script type="text/javascript" src="http://www.vistaoutdoor.com/wp-content/themes/vista/js/jquery.scrollTo.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpexLocalize = {"mobileMenuStyle":"sidr","sidrSource":"#sidr-close, #mobile-menu-alternative, #mobile-menu-search","lightboxSkin":"dark","lightboxArrows":"1","lightboxThumbnails":"1","lightboxFullScreen":"1","lightboxMouseWheel":"1","lightboxTitles":"1","sidrSide":"left","isRTL":"","stickyOnMobile":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.vistaoutdoor.com/wp-content/themes/Total/js/total-min.js"></script>
+<script type="text/javascript" src="http://www.vistaoutdoor.com/wp-content/plugins/js_composer/assets/js/js_composer_front.js"></script>
+
 
 </body></html>
