@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tetrain.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316201053id_/http%3A//tetrain.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tetrain.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510050930id_/http%3A//www.tetrain.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Linux Serives & Support | Open Source Consultancy & Support | Customized Open Source Business Ready Solutions
 
 |  |   |  | Privacy Policy  
 ---  
-[Home](https://web.archive.org/web/20140316201053id_/http%3A//tetrain.com/index.html) > Privacy Policy  
+[Home](https://web.archive.org/web/20150510050930id_/http%3A//www.tetrain.com/index.html) > Privacy Policy  
    
 **PRIVACY POLICY IN RELATION TO SERVICES OFFERED BY TETRA INFORMAITON SERVICES PVT LTD THROUGH THIS WEB SITE**  
 Our privacy policy is set out in detail below. Any changes to this policy will be posted here. When we refer to "we", "our" or "us" in this policy we mean the activities of TETRA INFORMATION SERVICES PVT. LTD  
