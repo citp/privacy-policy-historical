@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dcontentcentral.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120180759id_/http%3A//www.3dcontentcentral.com/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcontentcentral.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510235748id_/http%3A//www.3dcontentcentral.com/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # 3D ContentCentral - Privacy Statement
 
