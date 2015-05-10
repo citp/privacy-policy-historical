@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westkowloon.hk privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118035035id_/http%3A//www.westkowloon.hk/en/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westkowloon.hk privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510134659id_/http%3A//www.westkowloon.hk/en/footer/privacy-policy) for the most accurate reproduction.*
 
 # West Kowloon Cultural District - Privacy Policy
 
@@ -16,7 +16,7 @@ The West Kowloon Cultural District Authority is committed to ensuring that all p
 
 
 
-If you have any queries about our Privacy Policy and Practices, please [contact us](https://web.archive.org/web/20141118035035id_/http%3A//www.westkowloon.hk/en/the-authority/contact).
+If you have any queries about our Privacy Policy and Practices, please [contact us](https://web.archive.org/web/20150510134659id_/http%3A//www.westkowloon.hk/en/the-authority/contact).
 
 **Data Collection for Direct Marketing**
 
