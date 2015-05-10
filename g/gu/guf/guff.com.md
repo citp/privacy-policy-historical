@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guff.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220075731id_/http%3A//guff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guff.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510152527id_/http%3A//guff.com/privacy) for the most accurate reproduction.*
 
-# Guff
+# Privacy Policy | Guff
 
 _Updated: June 16, 2014_
 
