@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123001242id_/http%3A//www.socialappshq.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510155521id_/http%3A//www.socialappshq.com/home/privacy) for the most accurate reproduction.*
 
 # Apps to Engage and Grow your User base by SocialAppsHQ
 
