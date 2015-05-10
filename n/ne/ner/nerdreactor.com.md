@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nerdreactor.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130113429id_/http%3A//nerdreactor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdreactor.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510212537id_/http%3A//nerdreactor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nerd Reactor
 
-[ ](http://www.teepublic.com/stores/nerd-reactor?utm_source=referral?utm_medium=nerdreactor?utm_campaign=nerdreactor\(campaign%20name\))
+[ ](http://nerdreactor.storenvy.com/)
 
 **What information do we collect?**
 
