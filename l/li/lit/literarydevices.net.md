@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the literarydevices.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221134528id_/http%3A//literarydevices.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literarydevices.net privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510225043id_/http%3A//literarydevices.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Literary Devices
 
 **Privacy Policy for literarydevices.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact](http://literarydevices.net/contact/ "contact") us by email at admin@literarydevices.net.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact](http://literarydevices.net/contact/) us by email at admin@literarydevices.net.
 
 At literarydevices.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by literarydevices.net and how it is used.
 
