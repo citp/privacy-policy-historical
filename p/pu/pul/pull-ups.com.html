@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pull-ups.com privacy policy that was archived on 2014-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203050456id_/https%3A//www.pull-ups.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pull-ups.com privacy policy that was archived on 2015-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510221553id_/http%3A//www.pull-ups.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="unknown  js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths filereader desktop unix" lang="en" style=""><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -44,6 +44,7 @@
   
     <link rel="stylesheet" href="/stylesheets/privacy.css">
 
+  
 
   <!-- Lib Scripts -->
   <script type="text/javascript" src="/js/libs/jquery-1.9.1.min.js"></script>
@@ -65,6 +66,7 @@
   <script type="text/javascript" src="/js/ognc.utils.js"></script>
   <script type="text/javascript" src="/js/ognc.tracking.js"></script>
   <script type="text/javascript" src="/js/ognc.grid.js"></script>
+  
 
    <!--Add This-->
    <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#username=kimclark"></script>
@@ -72,11 +74,21 @@
    <!-- Pullup Scripts -->
    <script type="text/javascript" src="/js/pullups.core.js"></script>
    <script type="text/javascript" src="/js/pullups.nav.js"></script>
-
+   <script type="text/javascript" src="/js/pullups.poll.js"></script>
+   
    <!-- Taging  -->
     <script type="text/javascript" src="/js/activities/IQ-SEOTag.js"></script>
  <script type="text/javascript">
      $(document).ready(function () {
+         $("#consumer_firstname,#consumer_lastname").attr('maxlength', '25');
+         $("#consumer_email,#consumer_password").attr('maxlength', '100');
+         $("#consumer_city").attr('maxlength', '100'); 
+
+         $("input#q").on("keypress", function (e) {
+             var key;
+             document.all ? key = e.charCode : key = e.which;
+             return ((key > 47 && key < 58) || (key > 64 && key < 91) || (key > 96 && key < 123) || key == 0);
+         });
          var pathname = window.location.pathname;
 
          if (pathname.indexOf("activities") > -1) {
@@ -84,7 +96,7 @@
          }
          if (pathname.indexOf("resources") > -1) {
              $("#main").addClass("resources");
-         }
+         }  
          if (pathname.indexOf("products") > -1) {
              $("#main").addClass("products");
          }
@@ -94,7 +106,6 @@
      });
        </script>
     
-
 
    <script type="text/javascript">
        function handleResponse(response) {
@@ -241,6 +252,58 @@
 
 <!-- begin header navigation -->
 <nav role="navigation" class="pie-fix">
+    
+    
+
+<div id="poll-top-wrap">
+    <form id="poll-form" name="poll-form">
+        <input name="questionId" value="11" type="hidden">
+        <input name="surveyId" value="1888105" type="hidden">
+        <table id="poll-top" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+                <td class="poll-questions">
+                    <span class="poll-question">Did your child go with you to help shop for potty training items?</span>
+                </td>
+                <td class="poll-answers-results">
+                    <span class="poll-close">
+                        <label class="radio">
+                            <input class="question-input" name="pollAnswer" value="opt-out" type="radio">
+                            <img src="/img/poll/close-poll.png" alt="Close">
+                        </label>
+                    </span>
+                    <div class="poll-answers">
+                        <img class="ajax-loader" src="/img/poll/ajax-loader.gif" alt="Loading...">
+                        <div class="poll-answer">
+                                <label class="radio">
+                                    <input class="question-input" name="pollAnswer" value="Yes" type="radio">
+                                    <span class="outer"><span class="inner"></span></span>
+                                    Yes
+                                </label>
+                        </div>
+                        <div class="poll-answer">
+                                <label class="radio">
+                                    <input class="question-input" name="pollAnswer" value="No" type="radio">
+                                    <span class="outer"><span class="inner"></span></span>
+                                    No
+                                </label>
+                        </div>
+                    </div>
+                    <div class="poll-results">
+                        <div class="poll-result" data-poll-answer-value="Yes">
+                            Yes <span class="poll-result-percentage">0%</span>
+                        </div>
+                        <div class="poll-result" data-poll-answer-value="No">
+                            No <span class="poll-result-percentage">0%</span>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+    </form>
+</div>
+
+
+
     <div id="search-box-top">
         <form id="search-box-top-form" method="get" action="/search">
             <input type="text" id="q" name="q" class="text" placeholder="ASK THE BIG KID ACADEMY" onblur="if(this.value=='')this.value='';" onfocus="if(this.value=='Search')this.value='';">
@@ -292,9 +355,8 @@
         <div id="menu-container">       
             <ul id="primary_links">
 
-                <li id="activities"><a href="/activities" data-tracking-position="primary">Activities</a></li>
-                <li id="tips-advice"><a href="/resources" data-tracking-position="primary">Tips &amp; Advice</a></li>
                     <li id="logoListItem"><a id="logo" class="logo-size" data-tracking-id="Pull-ups Logo" href="/"><img src="/img/nav/logo.png"></a></li>
+                <li id="learning-library"><a href="/learning-library" data-tracking-position="primary">Learning Library</a></li>
                 <li id="products"><a href="/products" data-tracking-position="primary">Products</a></li>
                 <li id="offers"><a href="/offers" data-tracking-position="primary">Offers</a></li>
             <li id="log-in-hamburger">
@@ -328,7 +390,7 @@
 	<h4>
             <span><a href="/">Pull-ups®</a></span><span class="gray-text">&nbsp;/&nbsp;</span>
             
-                <span>Privacy Policy</span>
+                <span>Kimberly-Clark Privacy Policy</span>
 	</h4>
 </div>
 </nav></div>
@@ -336,66 +398,277 @@
                 <section id="slot_1" class="full">
                     
     <div class="container">
-         <ul class="color-bar">
-            <li class="pink"><br></li>
-            <li class="green"><br></li>
-            <li class="blue"><br></li>
-            <li class="orange"><br></li>
-         </ul>
+        <ul class="color-bar">
+            <li class="pink">
+                <br>
+            </li>
+            <li class="green">
+                <br>
+            </li>
+            <li class="blue">
+                <br>
+            </li>
+            <li class="orange">
+                <br>
+            </li>
+        </ul>
         <div class="privacy">
-            <h1>Privacy Policy</h1>
-
-            <p>This Site is owned, operated and maintained by KIMBERLY-CLARK CORPORATION (“Kimberly-Clark”). At Kimberly-Clark, we recognize that visitors to our Site may be concerned about the information they provide and how we treat that information. This Privacy Policy addresses those concerns. We may update the Privacy Policy from time to time, so please check in occasionally. There are specific regulatory requirements regarding online privacy protection for children under age 13. Please see the information under “Children” below.</p>
-
-            <h4>Information We Collect</h4>
-
-            <p>At this Site, you may choose to provide Kimberly-Clark with information about yourself that is “personally identifiable information”. Your use of this Site may provide other information about you that is not “personally identifiable information”. Kimberly-Clark does not collect personally identifiable information about you unless you provide it to us voluntarily and knowingly. You can visit this Site without telling us who you are or revealing information about yourself. However, if you give us personally identifiable information, such as, by asking to be put on our mailing list, we may contact you from time to time. Please note that any content posted by you onto this Site becomes published content and is not considered personally identifiable information subject to this Privacy Policy.</p>
-
-            <h4>How Information is Collected</h4>
-
-            <p>Information is collected from you directly and with your knowledge. There are some features of this Site that require you to sign up to use them. If you do sign up to use such features, we use the information you supply for the purpose of providing the products, product information or services you request.</p>
-
-            <h4>What We Do With Your Information</h4>
-
-            <p>When you voluntarily sign up on this Site, we add your name, email address and street address to our mailing list. If you do not wish to receive these mailings, you may request to be removed from our mailing list by visiting this <a href="/unsubscribe">page</a>, or by calling 1-888-525-8373. With your permission, we may share information such as your name, email address and street address with carefully selected companies (“partners”) whose offers may be of interest to you. Your permission is given by “opting in” to programs with partners. Even if you “opt in”, your date of birth, the dates of birth of your family members and credit card information are never shared. You may “opt out” of partner offers and programs at any time by updating your <a href="/editprofile">User Profile</a>, <a href="/contact-us">Contacting Us</a> or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence. Our Site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you’re a winner).</p>
-
-            <h4>Interest-Based Advertising</h4>
-
-            <p>Kimberly-Clark participates in interest-based (on-line behavior) advertising. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for Kimberly-Clark products on other websites based on your browsing behavior across websites. Kimberly-Clark voluntarily participates in the Digital Advertising Alliance self-regulation program. As part of this self-regulation program, Kimberly-Clark supports deployment of the Advertising Option icon (“Ad Choices”) in partnership with Evidon.</p>
-
-            <h4>Privacy for Mobile Applications</h4>
-
-            <p>You may choose to download mobile applications offered by Kimberly-Clark. If you use one or more of our mobile applications, the mobile application[s] collects certain information automatically, such as the type of mobile device you use, the temporary or persistent unique device identifiers (sometimes called UDID) and information about the way you use the applications. The mobile applications also collect certain information you voluntarily provide, such as product information when you scan a bar code, and transactional information, such as when you make a purchase or respond to an offer. Our mobile applications may collect precise information about the location of your device, such as when you search for a store. However, you must first provide permission through your device before the application obtains such location information from technologies like GPS, Wi-Fi, or cell tower proximity (or a combination of these technologies). Mobile service providers may collect device-specific information, such as a unique device identifier, when you use our Site or one of our mobile applications.</p>
-
-            <h4>Updating Your User Profile</h4>
-
-            <p>We provide you the ability to exercise certain controls and choices regarding how we collect, use and share your personal information. By changing your User Profile or contacting us as described within this Privacy Policy, you may do the following: (1) You may correct, update and delete your registration account; (2) You may change your choices for subscriptions, newsletters and alerts; (3) You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you; (4) You may choose whether we share your contact information with partners so they can send you offers and promotions about their products and services; (5) You may choose whether to receive interest-based advertising; and (6) You may request access to the personal information we hold about you and that we amend or delete it and we request partners with whom we have shared the information do the same.</p>
-
-            <h4>Security Measures</h4>
-
-            <p>Kimberly-Clark takes precautions to protect your personal information. Sensitive information, such as credit card numbers, is collected on a web page enhanced with secure sockets layer protocol to protect the confidentiality of the data. No transmission of data over the internet or other public network can be guaranteed to be 100 percent secure. We make reasonable efforts to secure your personal information once we receive it, but we cannot guarantee the security of information you send to us.</p>
-
-            <h4>Notice to California Residents</h4>
-
-            <p>If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Kimberly-Clark to partners for the partners’ direct marketing purposes. With respect to these partners, this Privacy Policy applies only to their activities within the State of California. To make such a request, please contact us by calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time).</p>
-
-            <h4>Children</h4>
-
-            <p>Kimberly-Clark is committed to protecting the online privacy of children and making the internet safe. Our Privacy Policy and practices reflect applicable laws and regulations on children’s privacy. We do not knowingly collect personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by Kimberly-Clark. We encourage parents or guardians of children under 13 to regularly check and monitor their children’s use of email and other activities online.</p>
-
-            <h4>Cookies</h4>
-
-            <p>Like many companies, Kimberly-Clark uses “cookie” technology on our Site. Cookies are information stored on your computer by your browser to save your preferences while you are visiting a particular site. When you log in, the cookie tells us whether you’ve visited us before or are a new visitor. The cookie doesn’t obtain any personal information about you or provide us with any way to contact you, and the cookie doesn’t extract any information from your computer. We do use the cookie to help us identify site features in which you have the greatest interest so that we can provide more of what you may want.</p>
-
-            <p>We use pixels, or transparent GIF files, to help manage online advertising. These files enable us to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with us. With both cookies and pixels, the information that we collect and share is anonymous and not personally identifiable. If you do not enable cookies to be received by your web browser, you may not be able to access certain features and functionality on this Site.</p>
-
-            <h4>Contact Us</h4>
-
-            <p>If you have any questions about our Privacy Policy, you can contact us via <a href="/contact-us">Contacting Us</a> or phone us by calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). For postal mail, please write to us at:</p>
-
-            <p>Kimberly-Clark Corporation<br>
-            P.O. Box 2020<br>
-            Neenah, WI 54957-2020</p>
+      
+            <h1>
+                Kimberly-Clark Privacy Policy</h1>
+                  <p>
+                Effective Date: January 2015</p>
+            <p>
+                This Site is owned, operated and maintained by KIMBERLY-CLARK CORPORATION (“Kimberly-Clark”).
+                At Kimberly-Clark, we recognize that visitors to our Site may be concerned about
+                the information they provide and how we treat that information. This Privacy Policy
+                addresses those concerns. The purpose of the Kimberly-Clark Privacy Policy is to
+                describe how the websites and mobile applications owned or operated by Kimberly-Clark
+                collect, share, and secure information. Before you provide us with any personal
+                information or otherwise browse our site, you should read through this Privacy Policy
+                completely and make sure that you are comfortable with our privacy practices. We
+                may update the Privacy Policy from time to time, so please check in occasionally.</p>
+            <h4>
+                Information We Collect</h4>
+            <p>
+                At this Site, you may choose to provide Kimberly-Clark with information about yourself
+                that is “personally identifiable information.” When we use the term
+                “personally identifiable information”, we mean information that is collected
+                in conjunction with your name. Your use of this Site may provide other information
+                about you that is not “personally identifiable information.” this information
+                is not collected in conjunction with your name. Kimberly-Clark does not collect
+                personally identifiable information about you unless you provide it to us voluntarily
+                and knowingly. You can visit this Site without providing us with personally identifiable
+                information. However, if you give us personally identifiable information, such as
+                by asking to be put on our mailing list, we may contact you from time to time.
+            </p>
+            <p>
+                You may connect with Kimberly-Clark or one of its websites through social networking
+                websites, such as Facebook or Twitter. If you initiate such a process, such as by
+                “Liking” a Kimberly-Clark product on Facebook, you will be allowing
+                Facebook to provide us with information from your Facebook profile. Whenever submitting
+                information on a social network website you should familiarize yourself with their
+                privacy policy and practices.</p>
+            <h4>
+                How Information is Collected</h4>
+            <p>
+                <span style="text-decoration: underline">By Asking.</span> We may collect some information
+                from you by asking that you provide it to us. For example, we may ask you for your
+                email address on our website, or require you to provide us with information such
+                as your birthday, telephone number, and address, so that you can sign up for our
+                rewards programs or request a free sample. Personally identifiable information is
+                collected from you directly and with your knowledge.
+            </p>
+            <p>
+                <span style="text-decoration: underline">Cookies</span>. Like many companies, Kimberly-Clark
+                uses “cookie” technology on our Site. Cookies are information stored
+                on your computer by your browser to save your preferences while you are visiting
+                a particular site. When you log in, the cookie tells us whether you visited us before
+                or are a new visitor, and it enables us to learn which advertisements bring users
+                to our website. The cookie doesn't obtain any personal information about you or
+                provide us with any way to contact you. We do use the cookie to help us identify
+                site features in which you have the greatest interest so that we can provide more
+                of what you may want. If you choose, you can set your browser to reject cookies
+                or you can manually delete individual or all of the cookies on your computer by
+                following your browser’s help file directions. However, if you do not enable cookies
+                to be received by your web browser, you may have trouble accessing some of the pages
+                and certain features on this Site.</p>
+            <p>
+                <span style="text-decoration: underline">Web Beacons</span>. A web beacon is an
+                electronic file on a Web page that allows us to count and recognize users who have
+                visited that page. Among other things, a web beacon can be used in HTML-formatted
+                email to determine responses to our communications and measure their effectiveness
+                – for instance, if you get an email from us and click on a link in that email to
+                go to our website. You can generally avoid web beacons in email by turning off HTML
+                display and displaying only the text portion of your email.
+            </p>
+            <p>
+                <span style="text-decoration: underline">Internet Protocol (IP) Address</span>.
+                As you enter our websites, we capture and retain the IP address of the device you
+                are using, such as a personal computer or a mobile device.
+            </p>
+            <p>
+                <span style="text-decoration: underline">Mobile Applications</span>. You may also
+                choose to download mobile applications offered by Kimberly-Clark. If you use our
+                mobile applications, the mobile application may collect certain information automatically,
+                such as the type of mobile device you use, the temporary or persistent unique device
+                identifiers (sometimes called UDID) and information about the way you use the applications.
+                The mobile application may also collect certain information you voluntarily provide,
+                such as product information when you scan a bar code, and transactional information,
+                such as when you make a purchase or respond to an offer. Our mobile applications
+                may collect precise information about the location of your device, such as when
+                you search for a store. However, you must first provide permission through your
+                device before the application obtains such location information from technologies
+                like GPS, Wi-Fi, or cell tower proximity. Mobile service providers may collect device-specific
+                information, such as a unique device identifier, when you use our Site or one of
+                our mobile applications.
+            </p>
+            <h4>
+                What We Do with Your Information</h4>
+            <p>
+                When you voluntarily sign up on this Site, we add your name, email address and street
+                address to our mailing list. If you do not wish to receive these mailings, you may
+                request to be removed from our mailing list by visiting this <a href="/unsubscribe">
+                    page</a>, or by calling 1-888-525-8373. Additionally, if you decide that you
+                do not want to receive commercial emails from us, you can “opt-out”
+                from receiving such emails by clicking on the “unsubscribe” link provided
+                at the bottom of every commercial email. Please note that if you choose to opt-out,
+                we will still send you email relating to specific products or services that you
+                purchase or sign up for, or email that we believe is pertinent to any communication
+                that you have sent to us. If you decide at a later time that you would like to receive
+                commercial emails from us, you can re-add yourself to our communication list. Our
+                Site sometimes includes notices of sweepstakes or other promotions we are conducting,
+                and we may permit you to send your entry electronically in some cases. If that occurs,
+                we will use the information you provide for the purpose of conducting the promotion
+                (i.e., to contact you if you’re a winner).</p>
+            <h4>
+                How We Share Information</h4>
+            <p>
+                We may share information about you with third parties in certain circumstances including
+                in the following situations:
+            </p>
+            <ul style="width: 95%">
+                <li><span style="text-decoration: underline">Sharing Your Information With Partner Companies</span>.
+                    We may ask your permission to share your information with carefully selected outside
+                    companies when we believe their products or services may interest you. You may “opt
+                    out” of partner offers and programs at any time by updating your User Profile,
+                    Contacting Us or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central
+                    Standard Time). Our partners are prohibited from using your contact information
+                    for purposes other than presenting relevant offers and programs, and they are required
+                    to maintain your contact information in confidence.</li>
+                <br>
+                <li><span style="text-decoration: underline">Sharing Your Information with Service Providers</span>.
+                    We may share information with companies or individuals that provide us with services.
+                    These services may include, among other things, helping us to provide services that
+                    you request, to create or maintain our databases, to research and analyze the people
+                    who request products, services, or information from us, to prepare and distribute
+                    communications, or to respond to inquiries.</li>
+                <br>
+                <li><span style="text-decoration: underline">Law Enforcement and Legal Process</span>.
+                    We may report to law enforcement agencies any activities that we reasonably believe
+                    to be unlawful, or that we reasonably believe may aid a law enforcement investigation
+                    into unlawful activity. In addition, we reserve the right to release your information
+                    to law enforcement agencies if we determine, in our sole judgment, that either you
+                    have violated our policies, or the release of your information may protect the rights,
+                    property, or safety of Kimberly-Clark, or another person.</li>
+                <br>
+                <li><span style="text-decoration: underline">Sharing Your Information as Permitted by
+                    Law</span>. We may share your information with others as required by, or permitted
+                    by, law. This may include sharing your information with government entities, or
+                    third parties in response to subpoenas, court orders, other legal process, or as
+                    we believe is necessary to exercise our legal rights, to defend against legal claims
+                    that have been brought against us, or to defend against possible legal claims that
+                    we determine in our sole discretion might be brought against us.</li>
+                <br>
+                <li><span style="text-decoration: underline">Blogs, Online Postings, and Testimonials</span>.
+                    We may decide to allow users to share comments, postings, testimonials, or other
+                    information. If you choose to submit such information to us, the information that
+                    you submit may be available generally to the public. Information that you provide
+                    in these areas may be read, collected, and used by others who access them. </li>
+                <br>
+                <li><span style="text-decoration: underline">Business Transaction</span>. In the event
+                    that we, or any portion of our assets, are acquired or we undergo another transaction
+                    in our business, your information may be transferred to the acquiring company or
+                    other entity surviving such a transaction.</li>
+                <br>
+                <li><span style="text-decoration: underline">Interest-Based Advertising</span>. Kimberly-Clark
+                    participates in interest-based (on-line behavior) advertising. This means that a
+                    third party may use technology, such as a cookie on your browser or a web beacon,
+                    to identify you on our website so that they can provide advertising about products
+                    and services tailored to your interest. You may see advertising on our website tailored
+                    to how you browse or shop, or you may see advertising for Kimberly-Clark products
+                    on other websites based on your browsing behavior across websites. Kimberly-Clark
+                    voluntarily participates in the Digital Advertising Alliance self-regulation program.
+                    As part of this self-regulation program, Kimberly-Clark supports deployment of the
+                    Advertising Option icon (“Ad Choices”) in partnership with Evidon.</li>
+            </ul>
+            <p>
+                <span style="text-decoration: underline">Other Third Parties</span>. We may share
+                non-personal information with other third parties that are not described above.
+                When we do so we may aggregate or de-identify the information so that a third party
+                would not be likely to link data to you, your computer, or your device. Aggregation
+                means that we combine the non-personal information of numerous people together so
+                that the data does not relate to any one person. De-identify means that we attempt
+                to remove or change certain pieces of information that might be used to link data
+                to a particular person.
+            </p>
+            
+            <h4>
+                Managing Your Privacy Through Your User Profile</h4>
+            <p>
+                We provide you with the ability to exercise certain controls and choices regarding
+                how we collect, use and share your personal information. By changing your User Profile
+                or contacting us as described within this Privacy Policy, you may do the following:
+                (1) You may correct, update and delete your registration account; (2) You may change
+                your choices for subscriptions, newsletters and alerts; (3) You may choose whether
+                to receive offers and promotions for our products and services, or products and
+                services that we think may be of interest to you; (4) You may choose whether we
+                share your contact information with partners so they can send you offers and promotions
+                about their products and services; (5) You may choose whether to receive interest-based
+                advertising; and (6) You may request access to the personal information we hold
+                about you and that we amend or delete it and we request partners with whom we have
+                shared the information do the same.  
+                </p>
+                <p>
+                Some web browsers and devices permit you to broadcast a preference that
+                you not be “tracked” online. At this time we do not modify your experience
+                based upon whether such a signal is broadcast.
+            </p>
+            <h4>
+                Security Measures</h4>
+            <p>
+                Kimberly-Clark takes reasonable and appropriate measures to secure your personal
+                information once we receive it, and to help prevent it from being disclosed to individuals
+                who are not described in this policy. While we follow reasonable procedures to try
+                to protect the information in our possession, no security system is perfect, and
+                we cannot guarantee, and you should not expect, that your information will remain
+                secure in all circumstances.</p>
+            <h4>
+                How We Communicate With You</h4>
+            <p>
+                If you have any questions about our Privacy Policy, you can contact us via  <a href="/contact-us">Contacting Us</a> or phone us by calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central
+                Standard Time). For postal mail, please write to us at:</p>
+            <p>
+                Kimberly-Clark Corporation<br>
+                P.O. Box 2020<br>
+                Neenah, WI 54957-2020
+            </p>
+            <p>
+                If we need, or are required, to contact you concerning any event that involves your
+                information, we may do so by email, telephone, or mail.
+            </p>
+            <h4>
+                Notice to California Residents</h4>
+            <p>
+                If you are a California resident, California Civil Code Section 1798.83 permits
+                you to request a notice regarding the disclosure of your personal information by
+                Kimberly-Clark to partners for the partners' direct marketing purposes. If you are
+                a California resident and would like a copy of this notice, please submit a written
+                request to the following address:
+            </p>
+            <p>
+                Kimberly-Clark Corporation<br>
+                P.O. Box 2020<br>
+                Neenah, WI 54957-2020
+            </p>
+            <h4>
+                Children</h4>
+            <p>
+                Kimberly-Clark is committed to protecting the online privacy of children and making
+                the internet safe. We do not provide products and services to children, or knowingly
+                collect or solicit personal information from children under 13 years of age. Any
+                communication we get that is identified as being from a child under 13 will not
+                be kept by Kimberly-Clark. We encourage parents or guardians of children under 13
+                to regularly check and monitor their children’s use of email and other activities
+                online.</p>
+            <h4>
+                Changes to the Privacy Policy</h4>
+            <p>
+                We reserve the right to modify or amend this policy at any time by posting the revised
+                privacy policy on our website. Material changes will only affect the information
+                we collect after the effective date of the change to our privacy policy unless we
+                clearly express otherwise.
+            </p>
         </div>
     </div>
 
@@ -405,23 +678,19 @@
                 <section id="slot_2" class="">
                     
 
-
                 </section>
                 <section id="slot_3" class="">
                     
-
 
                 </section>
 
                 <section id="slot_4" class="">
                     
 
-
                </section>
 
                <section id="slot_5" class="">
                     
-
 
                </section>
 
@@ -429,7 +698,6 @@
             
 
                <aside class="">
- 
 </aside>
               <ul class="color-bar">
                <li class="pink"><br></li>
@@ -513,7 +781,7 @@
            <li id="my-profile"><a href="/auth.sso?returnurl=http%3a%2f%2fwww.pull-ups.com%2fprofile.sso" data-tracking-position="footer">My Profile</a></li>
            <li id="contact-us"><a href="/contact-us" data-tracking-position="footer">Contact Us</a></li>
            <li id="site-map"><a href="/site-map" data-tracking-position="footer">Site Map</a></li>
-           <li class="active" id="privacy-policy"><a href="/privacy-policy" data-tracking-position="footer">Privacy Policy</a></li>
+           <li class="active" id="kimberly-clark-privacy-policy"><a href="/privacy-policy" data-tracking-position="footer">Kimberly-Clark Privacy Policy</a></li>
            <li id="legal-statement"><a href="/legal-statement" data-tracking-position="footer">Legal Statement</a></li>
            <li id="english"><a href="http://pull-ups.com/" data-tracking-position="footer">English</a></li>
         <li id="español">
@@ -532,13 +800,12 @@
 <!-- end footer navigation -->
 
             <div id="disclaimers">
-                 <p class="choice">Pull-Ups<sup>®</sup> Brand Training Pants have been the #1 choice of moms for over 20 years!*</p>
-                 <p>For more information about other great Kimberly-Clark brands, visit our website at <a href="//kimberly-clark.com" target="_blank">www.kimberly-clark.com</a>. All names, logos, and trademarks are the property of Kimberly-Clark Worldwide, Inc. or its affiliates. © KCWW.</p>
+                 <p class="choice">Pull-Ups<sup>®</sup> Brand Training Pants have been the #1 choice of moms for over 25 years!*</p>
+                 <p>For more information about other great Kimberly-Clark brands, visit our website at <a href="https://www.kimberly-clark.com" target="_blank">www.kimberly-clark.com</a>. All names, logos, and trademarks are the property of Kimberly-Clark Worldwide, Inc. or its affiliates. © KCWW.</p>
                  <p>All Rights Reserved. Your visit to this site and use of the information herein is subject to the terms of our <a href="/legal-statement">Legal Statement</a>. Please review our <a href="/privacy-policy">Privacy Policy</a>.<a id="_bapw-link" href="#" target="_blank" style="color:#000000 !important;font:10pt Arial !important;text-decoration:none !important"><img id="_bapw-icon" style="border:0 !important;display:inline !important;vertical-align:middle !important;padding-right:5px !important;" src="https://c.betrad.com/pub/icon1.png"><span style="vertical-align:middle !important">AdChoices</span></a><script>/*<![CDATA[*/(function(){var k=610,m=2043,n=1,b=false,l=document,p=l.getElementById("_bapw-link"),h=(l.location.protocol=="https:"),i=(h?"https":"http")+"://",g=i+"c.betrad.com/pub/",r=window._bap_p_overrides,e=0,a=0,f=560,q=720,o=h||(r&&r.hasOwnProperty(k)&&r[k].new_window);function c(s){var d=new Image();d.src=i+"l.betrad.com/pub/p.gif?pid="+k+"&ocid="+m+"&i"+s+"=1&r="+Math.random()}function j(){if(typeof(window.innerWidth)=="number"&&typeof(window.innerHeight)=="number"){e=window.innerWidth;a=window.innerHeight}else{if(document.documentElement&&document.documentElement.clientWidth&&document.documentElement.clientHeight){e=document.documentElement.clientWidth;a=document.documentElement.clientHeight}else{if(document.body&&document.body.clientWidth&&document.body.clientHeight){e=document.body.clientWidth;a=document.body.clientHeight}}}return(a<=f)||(e<=q)}l.getElementById("_bapw-icon").src=g+"icon1.png";p.onmouseover=function(){p.href="http://info.evidon.com/pub_info/"+k+"?v=1&nt="+n+"&nw="+((o||j())?"true":"false")};p.onclick=function(){if(o||j()){c("c");return true}function d(u,x){var v=l.getElementsByTagName("head")[0]||l.documentElement,t=b,s=l.createElement("script");function w(){s.onload=s.onreadystatechange=null;v.removeChild(s);x()}s.src=u;s.onreadystatechange=function(){if(!t&&(this.readyState=="loaded"||this.readyState=="complete")){t=true;w()}};s.onload=w;v.insertBefore(s,v.firstChild)}this.onclick="return "+b;d(i+"ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js",function(){d(g+"pub2.js",function(){BAPW.i(p,{pid:k,ocid:m})})});return b};c("i")}());/*]]>*/</script></p>
                  <p>Disney elements © Disney. Disney/Pixar elements © Disney/Pixar.</p>
                  <p>*Total share of pants sold &gt;50%, based on Nielsen<sup>®</sup> retail sales data 1989-2012.</p>
                  
-
 
                  <p>Kimberly-Clark Corporation  P.O. Box 2020  Neenah, WI 54957-2020</p>
             </div>
@@ -626,7 +893,6 @@
    // });
 </script>
   
-
 
   <script type="text/javascript" id="mpelid" src="//es.pull-ups.com/mpel/mpel.js"></script>
 
