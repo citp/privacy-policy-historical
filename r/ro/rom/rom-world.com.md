@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rom-world.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092542id_/http%3A//www.rom-world.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom-world.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510200902id_/http%3A//www.rom-world.com/policy.php) for the most accurate reproduction.*
 
 # ROM World | Policies
 
@@ -26,5 +26,8 @@ All the ROM Files provided on "ROM World" are believed to be Freeware or Public 
 Emulators:  
 The Emulators offered for download on "ROM World" are not intended for use to run any illegal software. You are responsible for your actions. Owning commercial ROM files is illegal, if you do not own the original cartridge. There is no '24 hour trial' rule. If you use an Emulator or Emulators to run such files, you are on your own. "ROM World" nor the authors of the Emulator are responsible. 
 
-|   
+| 
+
+[](http://www.jetao.com/)  
+  
 ---|---|---
