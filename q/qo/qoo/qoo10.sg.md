@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qoo10.sg privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602045031id_/http%3A//www.qoo10.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoo10.sg privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511012535id_/http%3A//www.qoo10.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Qoo10-Singapore – Global Fashion & Trend leading Shopping Market
+# Qoo10 – Singapore No 1 shopping site – leading pan Asia online market for fashion, digital, living, cosmetics, food and entertainment.
 
 Privacy Policy
 
-We, Giosis Pte. Ltd. and its affiliates (together "Giosis Group" or the "Company"), take your personal information seriously and use or keep it confidential. In order to protect your private information, we have established this Privacy Policy (the "Policy") in accordance with best practices in the industry and applicable laws and regulations. This Policy describes how we handle your personal information for our services on the Qoo10.sg website and its related sites, services and tools (the "Website").
+We, Giosis Limited and its affiliates (together "Giosis Group" or the "Company"), take your personal information seriously and use or keep it confidential. In order to protect your private information, we have established this Privacy Policy (the "Policy") in accordance with best practices in the industry and applicable laws and regulations. This Policy describes how we handle your personal information for our services on the qoo10.hk website and its related sites, services and tools (the "Website").
 
 By accepting the Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Policy. This Policy is effective on April 1, 2011 for current users, and immediately upon acceptance by new users.
 
@@ -60,7 +60,7 @@ We may share your personal information with:
 
 
 
-Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+For the avoidance of doubt, If Giosis has reasonable grounds to believe that any User is in breach of any of the terms of this Policy, Giosis reserves the right, in its sole and absolute discretion, to cooperate fully with governmental authorities, private investigators, all the rightful owner(s) or interest holder(s) and/or injured third parties in the investigation of any potential or ongoing criminal or civil wrongdoing. Further, Giosis may disclose the User's identify and contact information, or such other transaction-related data, if requested by a government or law enforcement body, private investigator, rightful owner or interest holder and/or any injured third party or as a result of a subpoena or other legal action, or if Giosis is of the view, in its sole and absolute discretion, that it would be in its best interest to do so. Giosis shall not be liable for damages or results arising from such disclosure, and the User(s) agrees not to bring action or claim against Giosis for such disclosure. 
 
 Using Information from this Website
 
@@ -98,7 +98,7 @@ Your password is the key to your account. Use unique numbers and letters and do 
 
 We will never ask for your password by phone or e-mail, so if you receive such an inquiry, please report the incident to the Security & Resolution Center or the Personal Information Manager.
 
-If you access our Website from a shared computer or a computer in an internet café, a PC room or a library, certain information about you, such as your user ID, activity or reminders from the Website, may also be visible to other individuals who use the computer after you. To protect your personal information or communication from being disclosed to others, you should log out and close the web browser after using our Website
+If you access our Website from a shared computer or a computer in an internet cafe, a PC room or a library, certain information about you, such as your user ID, activity or reminders from the Website, may also be visible to other individuals who use the computer after you. To protect your personal information or communication from being disclosed to others, you should log out and close the web browser after using our Website
 
 Accessing, Reviewing and Changing Your Personal Information
 
@@ -119,10 +119,16 @@ The Personal Information Manager is responsible for taking reasonable endeavours
 We appoint the following person as Personal Information Manager:
 
   * \- name: Kim, Jun Young
-  * \- e-mail: privacy@Qoo10.sg 
+  * \- e-mail: privacy@qoo10.com
 
 
 
 General
 
-We may amend this Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 14 days after they are initially posted. If your questions are not answered online, you may write to us at: Giosis Pte. Ltd. Attn: Personal Information Manager, 5 Tampines Central 1 #04-04 Tampines Plaza Singapore 529541 or using the Contact Us form.
+We may amend this Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 14 days after they are initially posted. If your questions are not answered online, you may write to us at: Giosis Limited. Attn: Personal Information Manager, 5 Tampines Central 1 #04-04 Tampines Plaza Singapore 529541 or using the Contact Us form.
+
+Updates to this Privacy Policy
+
+July 5, 2013: We revised and added the following clarification to the section titled “Share of Your Information” to reflect our policy on this particular issue: 
+
+"For the avoidance of doubt, If Giosis has reasonable grounds to believe that any User is in breach of any of the terms of this Policy, Giosis reserves the right, in its sole and absolute discretion, to cooperate fully with governmental authorities, private investigators, all the rightful owner(s) or interest holder(s) and/or injured third parties in the investigation of any potential or ongoing criminal or civil wrongdoing. Further, Giosis may disclose the User's identify and contact information, or such other transaction-related data, if requested by a government or law enforcement body, private investigator, rightful owner or interest holder and/or any injured third party or as a result of a subpoena or other legal action, or if Giosis is of the view, in its sole and absolute discretion, that it would be in its best interest to do so. Giosis shall not be liable for damages or results arising from such disclosure, and the User(s) agrees not to bring action or claim against Giosis for such disclosure." 
