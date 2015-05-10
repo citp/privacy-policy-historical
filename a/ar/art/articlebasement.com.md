@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlebasement.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221101842id_/http%3A//www.articlebasement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebasement.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511013138id_/http%3A//www.articlebasement.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ArticleBasement.com
 
