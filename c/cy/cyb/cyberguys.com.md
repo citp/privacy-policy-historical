@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219041707id_/http%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510042220id_/http%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy Policy
 
 |  |  |   
 ---  
-| [](http://www.cyberguys.com/?&cm_mmc=Email-_-Promotional-_-C23%20Black%20Friday%20Weekend%20Sale-_-Cell_04_Homepage&utm_source=Email&utm_medium=Promotional&utm_content=C23%20Black%20Friday%20Weekend%20Sale&utm_campaign=Cell_04_Homepage "Continue Shopping") |  |   
+| [](http://www.cyberguys.com/ "Continue Shopping") |  |   
 ---|---|---  
   
 | 
