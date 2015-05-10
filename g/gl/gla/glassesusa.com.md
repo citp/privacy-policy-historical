@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassesusa.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223211301id_/http%3A//www.glassesusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesusa.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510203435id_/http%3A//www.glassesusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
