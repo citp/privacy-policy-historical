@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deancare.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201023529id_/http%3A//www.deancare.com/about-dean/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deancare.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510225629id_/http%3A//www.deancare.com/about-dean/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy- Dean - WI
 
