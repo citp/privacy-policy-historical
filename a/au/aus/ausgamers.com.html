@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ausgamers.com privacy policy that was archived on 2014-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141004084740id_/http%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ausgamers.com privacy policy that was archived on 2015-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511014904id_/http%3A//www.ausgamers.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <title>AusGamers Privacy Policy - AusGamers.com</title>
@@ -9,9 +9,9 @@
 <link href="//fonts.googleapis.com/css?family=Archivo+Narrow:400,700" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="/res/css/stylesheet.3.7.3.min.css">
-<link rel="stylesheet" type="text/css" href="/res/css/ausgamers.3.7.3.min.css">
-<link rel="stylesheet" type="text/css" href="/res/css/legacy.3.7.3.min.css">
+<link rel="stylesheet" type="text/css" href="/res/css/stylesheet.3.7.7.min.css">
+<link rel="stylesheet" type="text/css" href="/res/css/ausgamers.3.7.7.min.css">
+<link rel="stylesheet" type="text/css" href="/res/css/legacy.3.7.7.min.css">
 
 <link rel="stylesheet" type="text/css" href="/server-rentals/css/stylesheet.css">
 
@@ -39,16 +39,16 @@ node.parentNode.insertBefore(gads, node);
 <script type="text/javascript">
 googletag.cmd.push(function() {
 googletag.pubads().collapseEmptyDivs(true);
-var skinMapping = googletag.sizeMapping().addSize([1290,0],[1400,800]).addSize([960,0],[1290,800]).build();
+var skinMapping = googletag.sizeMapping().addSize([970,0],[[1290,800],[1902,1053]]).build();
 var leaderboardMapping = googletag.sizeMapping().addSize([768,0],[728,90]).addSize([0,0],[300,250]).build();
-var rectMapping = googletag.sizeMapping().addSize([1290,0],[[336,280],[300,250]]).addSize([960,0],[300,250]).addSize([0,0],[300,250]).build();
+var rectMapping = googletag.sizeMapping().addSize([1290,0],[300,250]).addSize([960,0],[300,250]).addSize([0,0],[300,250]).build();
 var resizeTimer;
 function resizer() {
     googletag.pubads().refresh(window.responsive_ads);
 }
 if ('undefined' != typeof window.innerWidth && 'undefined' != typeof Array.prototype.forEach)
 {
-    window.breakPoints = [0,768,960,1290];
+    window.breakPoints = [0,768,970];
     window.breakPoints.forEach(function(value) {
         if(window.innerWidth >= value) {
             window.breakPoint = value;
@@ -74,12 +74,15 @@ if ('undefined' != typeof window.innerWidth && 'undefined' != typeof Array.proto
 
 window.header_leaderboard = googletag.defineSlot('/68110269/AG_Header_Leaderboard', [[300, 250], [728, 90]], 'div-gpt-ad-1409576370107-2').addService(googletag.pubads()).defineSizeMapping(leaderboardMapping);
 window.footer_leaderboard = googletag.defineSlot('/68110269/AG_Footer_Leaderboard', [[300, 250], [728, 90]], 'div-gpt-ad-1409576370107-0').addService(googletag.pubads()).defineSizeMapping(leaderboardMapping);
-window.general_rect = googletag.defineSlot('/68110269/AG_General_Rect', [[300, 250], [336, 280]], 'div-gpt-ad-1409576370107-1').addService(googletag.pubads());
-window.sidebar_rect = googletag.defineSlot('/68110269/AG_Sidebar_Rect', [[300, 250], [336, 280]], 'div-gpt-ad-1409576370107-8').addService(googletag.pubads()).defineSizeMapping(rectMapping);;
-window.skin = googletag.defineSlot('/68110269/AG_Skin_Full', [[1290, 800],[1400, 800]], 'div-gpt-ad-1409838830137-0').addService(googletag.pubads()).defineSizeMapping(skinMapping);
-window.responsive_ads = [window.header_leaderboard, window.footer_leaderboard, window.general_rect, window.sidebar_rect, window.skin];
+window.general_rect = googletag.defineSlot('/68110269/AG_General_Rect', [300, 250], 'div-gpt-ad-1409576370107-1').addService(googletag.pubads());
+window.sidebar_rect = googletag.defineSlot('/68110269/AG_Sidebar_Rect', [300, 250], 'div-gpt-ad-1409576370107-8').addService(googletag.pubads()).defineSizeMapping(rectMapping);;
+window.skin = googletag.defineSlot('/68110269/AG_Skin_Full', [[1902,1053],[1290, 800],[1400, 800]], 'div-gpt-ad-1409838830137-0').addService(googletag.pubads()).defineSizeMapping(skinMapping);
+window.responsive_ads = [window.header_leaderboard, window.footer_leaderboard, window.skin];
 
 
+
+            googletag.defineSlot('/68110269/AG_OTP', [500, 250], 'div-gpt-ad-1414477457716-1').addService(googletag.pubads());
+            
 
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
@@ -107,7 +110,7 @@ googletag.enableServices();
         <nav id="main-nav">
             <button id="toggle-nav"><i class="fa fa-bars"></i></button>
             <a href="http://www.ausgamers.com" class="brand">
-                <img src="/res/static/images/ag-logo-new-standard.png" class="logo">
+                <div class="logo"></div>
                 <span class="text">AusGamers</span>
             </a>
             <ul class="nav">
@@ -118,14 +121,6 @@ googletag.enableServices();
                                 <li><a href="/features/">Features</a>
                                     </li>
                                 <li><a href="/files">Downloads</a>
-                                    </li>
-                                <li><a href="http://www.ausgamers.com/server-rentals" class="expand">Server Rentals</a>
-                                            <ul class="sub-nav ">
-                                                            <li><a href="http://www.ausgamers.com/server-rentals">Rent a Server</a></li>
-                                                            <li><a href="/server-rentals/help.php">Help &amp; FAQs</a></li>
-                                                            <li><a href="/forums/gsr/index.php">Community Forum</a></li>
-                                                            <li><a href="/contact/?info=Rentals">Contact Support</a></li>
-                                                    </ul>
                                     </li>
                                 <li><a href="/forums/">Forums</a>
                                     </li>
@@ -169,39 +164,39 @@ googletag.enableServices();
 <div id="topFeatures">
 <div class="feature">
     <div class="feature-block">
-        <img src="http://www.ausgamers.com/images/features/1410/Alien_Isolation.jpg" class="content center-h">
+        <img src="http://www.ausgamers.com/gameres/6261/images/695/projectcars_ps409.jpg" class="content center-h">
         <div class="overlay hover">
-            We take on the ultimate hunter in our official Alien: Isolation review.        </div>
-        <a href="http://www.ausgamers.com/games/alien-isolation/review/" class="link"></a>
+            We take Slightly Mad's slightly awesome Project CARS for review spin!        </div>
+        <a href="http://www.ausgamers.com/games/project-cars/review/" class="link"></a>
     </div>
-    <a href="http://www.ausgamers.com/games/alien-isolation/review/" class="title">Alien: Isolation Review</a>
+    <a href="http://www.ausgamers.com/games/project-cars/review/" class="title">Project CARS Review!</a>
 </div>
 <div class="feature">
     <div class="feature-block">
-        <img src="http://www.ausgamers.com/gameres/5665/images/725/dai_varric_01_tif_jpgcopy.jpg" class="content center-h">
+        <img src="http://www.ausgamers.com/gameres/6681/images/725/Vader_Cropped.jpg" class="content center-h">
         <div class="overlay hover">
-                    </div>
-        <a href="http://www.ausgamers.com/features/read/3476735" class="link"></a>
+            We break down the Star Wars Battlefront trailer and find 10 things you might have missed!        </div>
+        <a href="http://www.ausgamers.com/features/read/3512471" class="link"></a>
     </div>
-    <a href="http://www.ausgamers.com/features/read/3476735" class="title">BioWare's Cam Lee on Dragon Age: Inquisition's Crafting</a>
+    <a href="http://www.ausgamers.com/features/read/3512471" class="title">10 Things We Learnt from the Battlefront Trailer</a>
 </div>
 <div class="feature">
     <div class="feature-block">
-        <img src="http://www.ausgamers.com/gameres/6390/images/695/047A0732.jpg" class="content center-h">
+        <img src="http://www.ausgamers.com/gameres/6681/images/695/Star_Wars_Battlefront__4-17_A.jpg" class="content center-h">
         <div class="overlay hover">
-            We take WWE 2K15's all-new MyCareer mode for a spin!        </div>
-        <a href="" class="link"></a>
+            AusGamers was front and centre for the Star Wars Battlefront reveal at Star Wars Celebrations!        </div>
+        <a href="http://www.ausgamers.com/features/read/3512361" class="link"></a>
     </div>
-    <a href="" class="title">Hands-On preview with WWE 2K15's MyCareer mode</a>
+    <a href="http://www.ausgamers.com/features/read/3512361" class="title">Drool, You will - Star Wars Battlefront Hands-Off Preview!</a>
 </div>
 <div class="feature">
     <div class="feature-block">
-        <img src="http://www.ausgamers.com/gameres/6510/images/725/10519185_10152591952379288_4034173255987910247_o_1.jpg" class="content center-h">
+        <img src="http://www.ausgamers.com/gameres/6157/images/725/2K_Evolve_StudioTour_Defend3.jpg" class="content center-h">
         <div class="overlay hover">
-            Soccer (or the more correct Football term) is once again upon us in FIFA 15. Read on for our take on the newest iteration from EA Sports!        </div>
-        <a href="http://www.ausgamers.com/games/fifa-15/review/" class="link"></a>
+            Now that all first round content is available, we tackle the complete Evolve package in this review!         </div>
+        <a href="http://www.ausgamers.com/games/evolve/review/" class="link"></a>
     </div>
-    <a href="http://www.ausgamers.com/games/fifa-15/review/" class="title">FIFA 15 Reviewed</a>
+    <a href="http://www.ausgamers.com/games/evolve/review/" class="title">Evolving Evolve - Our Definitive Review!</a>
 </div>
 </div><div class="main">
     <style type="text/css">
@@ -310,38 +305,38 @@ Cookies are used by Third Party vendors to serve ads on our website, including G
 					                <ul class="mediabox-list" style="font-size: 16px;">
                                         <li class="mediabox review">
                         <div class="feature-block thumb">
-                            <img src="http://www.ausgamers.com/gameres/6102/images/l-portrait.jpg?1412340762" class="content center-h">
-                            <a href="http://www.ausgamers.com/reviews/read.php/3476799" class="link"></a>
+                            <img src="https://www.ausgamers.com/gameres/6261/images/l-portrait.jpg" class="content center-h">
+                            <a href="http://www.ausgamers.com/reviews/read.php/3515220" class="link"></a>
                         </div>
                         <div class="info">
-                            <a href="http://www.ausgamers.com/reviews/read.php/3476799" class="title">Alien: Isolation</a>
+                            <a href="http://www.ausgamers.com/reviews/read.php/3515220" class="title">Project CARS</a>
                         </div>
                     </li>
                                         <li class="mediabox review">
                         <div class="feature-block thumb">
-                            <img src="https://www.ausgamers.com/gameres/6510/images/l-portrait.jpg" class="content center-h">
-                            <a href="http://www.ausgamers.com/reviews/read.php/3476540" class="link"></a>
+                            <img src="http://www.ausgamers.com/gameres/6692/images/l-portrait.jpg?1429844394" class="content center-h">
+                            <a href="http://www.ausgamers.com/reviews/read.php/3513322" class="link"></a>
                         </div>
                         <div class="info">
-                            <a href="http://www.ausgamers.com/reviews/read.php/3476540" class="title">FIFA 15</a>
+                            <a href="http://www.ausgamers.com/reviews/read.php/3513322" class="title">Grand Theft Auto V PC</a>
                         </div>
                     </li>
                                         <li class="mediabox review">
                         <div class="feature-block thumb">
-                            <img src="https://www.ausgamers.com/gameres/6328/images/l-portrait.jpg" class="content center-h">
-                            <a href="http://www.ausgamers.com/reviews/read.php/3476014" class="link"></a>
+                            <img src="http://www.ausgamers.com/gameres/6440/images/l-portrait.jpg" class="content center-h">
+                            <a href="http://www.ausgamers.com/reviews/read.php/3511965" class="link"></a>
                         </div>
                         <div class="info">
-                            <a href="http://www.ausgamers.com/reviews/read.php/3476014" class="title">Forza Horizon 2</a>
+                            <a href="http://www.ausgamers.com/reviews/read.php/3511965" class="title">Bloodborne</a>
                         </div>
                     </li>
                                         <li class="mediabox review">
                         <div class="feature-block thumb">
-                            <img src="http://www.ausgamers.com/gameres/5529/images/l-portrait.jpg" class="content center-h">
-                            <a href="http://www.ausgamers.com/reviews/read.php/3475844" class="link"></a>
+                            <img src="https://www.ausgamers.com/gameres/6191/images/l-portrait.jpg" class="content center-h">
+                            <a href="http://www.ausgamers.com/reviews/read.php/3510565" class="link"></a>
                         </div>
                         <div class="info">
-                            <a href="http://www.ausgamers.com/reviews/read.php/3475844" class="title">Wasteland 2</a>
+                            <a href="http://www.ausgamers.com/reviews/read.php/3510565" class="title">Pillars of Eternity</a>
                         </div>
                     </li>
                                     </ul>
@@ -357,50 +352,50 @@ Cookies are used by Third Party vendors to serve ads on our website, including G
 					<ul class="mediabox-list">
                         <li class="mediabox news">
                             <div class="feature-block thumb">
-                                <img src="http://www.ausgamers.com/gameres/6328/images/695/e3-press-kit-01-wm-forza-horizon2.jpg" class="content center-v">
+                                <img src="http://www.ausgamers.com/gameres/6696/images/695/PR_SM_Tactical.jpg" class="content center-v">
                             </div>
                             <div class="info">
-                                <a href="http://www.ausgamers.com/news/read/3476020/forza-horizon-2-review-is-this-an-unexpected-goty" class="title">Forza Horizon 2 Review - Is this an Unexpected GOTY?</a>
+                                <a href="http://www.ausgamers.com/news/read/3514900/aussie-made-turn-based-strategy-title-warhammer-40-000-regicide-out-now-on-steam-early-access" class="title">Aussie-Made Turn-Based Strategy Title, Warhammer 40,000: Regicide, Out Now on Steam Early Access  </a>
                             </div>
                         </li>
                         
 
                         <li class="mediabox news">
                             <div class="feature-block thumb">
-                                <img src="http://www.ausgamers.com/gameres/5691/images/custom/DSII-DLC3-12-Chance_meeting_in_the_snowscape_1410968489.392x220.jpg" class="content center-v">
+                                <img src="http://www.ausgamers.com/gameres/6261/images/695/projectcars_ps409.jpg" class="content center-v">
                             </div>
                             <div class="info">
-                                <a href="http://www.ausgamers.com/news/read/3476034/dark-souls-2s-third-and-final-crown-of-the-dlc-now-available" class="title">Dark Souls 2's Third and Final Crown of the Ivory King DLC Now Available</a>
+                                <a href="http://www.ausgamers.com/news/read/3515224/community-assisted-project-cars-emerges-triumphant-in-our-full-review" class="title">Community Assisted - Project CARS Emerges Triumphant in our Full Review</a>
                             </div>
                         </li>
                         
 
                         <li class="mediabox news">
                             <div class="feature-block thumb">
-                                <img src="http://www.ausgamers.com/gameres/5397/images/custom/BL2_Hunger_WattleGobbler.392x220.jpg" class="content center-v">
+                                <img src="http://www.ausgamers.com/gameres/5665/images/695/Dragonslayer_IMAGE_01_ENG.jpg" class="content center-v">
                             </div>
                             <div class="info">
-                                <a href="http://www.ausgamers.com/news/read/3476178/borderlands-2-now-available-on-steamos-borderlands-the-pre-sequel-coming-soon" class="title">Borderlands 2 Now Available on SteamOS, Borderlands: The Pre-Sequel Coming Soon</a>
+                                <a href="http://www.ausgamers.com/news/read/3514834/new-dragon-age-inquisition-multiplayer-content-coming" class="title">New Dragon Age: Inquisition Multiplayer Content Coming</a>
                             </div>
                         </li>
                         
 
                         <li class="mediabox news">
                             <div class="feature-block thumb">
-                                <img src="http://www.ausgamers.com/gameres/5716/images/custom/Mars_patrol_02_1410173766.392x220.jpg" class="content center-v">
+                                <img src="http://www.ausgamers.com/gameres/5485/images/695/yookalaylee.jpg" class="content center-v">
                             </div>
                             <div class="info">
-                                <a href="http://www.ausgamers.com/news/read/3475740/destiny-glitch-reveals-expansion-details-dlc-on-disc" class="title">Destiny Glitch Reveals Expansion Details and Locations</a>
+                                <a href="http://www.ausgamers.com/news/read/3514832/banjo-kazooie-successor-yooka-laylee-hits-kickstarter" class="title">Banjo Kazooie Successor Yooka Laylee Hits Kickstarter</a>
                             </div>
                         </li>
                         
 
                         <li class="mediabox news">
                             <div class="feature-block thumb">
-                                <img src="http://www.ausgamers.com/gameres/5269/images/160/bf3_paris_mp.jpg" class="content center-v">
+                                <img src="http://www.ausgamers.com/gameres/5726/images/695/The_Witcher_3_Wild_Hunt_Getting_paid--best_part_of_the_job.jpg" class="content center-v">
                             </div>
                             <div class="info">
-                                <a href="http://www.ausgamers.com/news/read/3117360/battlefield-3-beta-client-mirror" class="title">Battlefield 3 Beta Client Mirror</a>
+                                <a href="http://www.ausgamers.com/news/read/3515356/more-teasing-in-new-the-witcher-3-wild-hunt-rage-and-steel-trailer" class="title">More Teasing in New The Witcher 3: Wild Hunt "Rage and Steel" Trailer</a>
                             </div>
                         </li>
                         
@@ -413,7 +408,7 @@ Cookies are used by Third Party vendors to serve ads on our website, including G
 										<span class="agn-header gray">Advertisement</span>
 														</div>
 				<div class="Content" style=" ">
-					        <div style="margin-bottom: 18px;">
+					        <div class="sidebar-ad" style="margin-bottom: 18px;">
             
             <div id="div-gpt-ad-1409576370107-8" style="display: inline-block;">
             <script type="text/javascript">
@@ -432,51 +427,50 @@ Cookies are used by Third Party vendors to serve ads on our website, including G
 					        <ul class="mediabox-list">
                         <li class="mediabox forums">
                 <div class="feature-block thumb">
-                                        <img src="//www.ausgamers.com/images/avatars/655.jpg" class="content center-h">
                                     </div>
                 <div class="info">
-                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3432239?#lastpost">I made some more LEGO Ghostbusters - Stay Puft Marshmallow Man</a>
+                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3488653?#lastpost">Political Thread 2.5 (Because we really haven't made any progress :P)</a>
                     <br>
-                    <span class="author">Raven</span> <time class="time">39 minutes ago</time>
-                </div>
-            </li>
-                        <li class="mediabox forums">
-                <div class="feature-block thumb">
-                                        <img src="//www.ausgamers.com/images/avatars/10044480.png" class="content center-h">
-                                    </div>
-                <div class="info">
-                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3476412?#lastpost">Star Wars Rebels</a>
-                    <br>
-                    <span class="author">The Nerfatar</span> <time class="time">1 hour ago</time>
-                </div>
-            </li>
-                        <li class="mediabox forums">
-                <div class="feature-block thumb">
-                                        <img src="//www.ausgamers.com/images/avatars/10052321.png" class="content center-h">
-                                    </div>
-                <div class="info">
-                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3476118?#lastpost">Unpaid Speeding Fine</a>
-                    <br>
-                    <span class="author">ph33x</span> <time class="time">2 hours ago</time>
-                </div>
-            </li>
-                        <li class="mediabox forums">
-                <div class="feature-block thumb">
-                                        <img src="//www.ausgamers.com/images/avatars/10033711.jpg" class="content center-h">
-                                    </div>
-                <div class="info">
-                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3444246?#lastpost">Political Thread v2.0</a>
-                    <br>
-                    <span class="author">FaceMan</span> <time class="time">4 hours ago</time>
+                    <span class="author">Rukh</span> <time class="time">22 minutes ago</time>
                 </div>
             </li>
                         <li class="mediabox forums">
                 <div class="feature-block thumb">
                                     </div>
                 <div class="info">
-                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3476759?#lastpost">The Snakes are here </a>
+                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3515232?#lastpost">I have watched some movies - part 2</a>
                     <br>
-                    <span class="author">Ickus</span> <time class="time">8 hours ago</time>
+                    <span class="author">Sir Redhat</span> <time class="time">2 hours ago</time>
+                </div>
+            </li>
+                        <li class="mediabox forums">
+                <div class="feature-block thumb">
+                                        <img src="//www.ausgamers.com/images/avatars/370.gif" class="content center-h">
+                                    </div>
+                <div class="info">
+                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3515586?#lastpost">New phone time</a>
+                    <br>
+                    <span class="author">Khel</span> <time class="time">2 hours ago</time>
+                </div>
+            </li>
+                        <li class="mediabox forums">
+                <div class="feature-block thumb">
+                                        <img src="//www.ausgamers.com/images/avatars/21085.jpg" class="content center-h">
+                                    </div>
+                <div class="info">
+                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3514982?#lastpost">optus cable = disappointed</a>
+                    <br>
+                    <span class="author">mission</span> <time class="time">2 hours ago</time>
+                </div>
+            </li>
+                        <li class="mediabox forums">
+                <div class="feature-block thumb">
+                                        <img src="//www.ausgamers.com/images/avatars/9246.gif" class="content center-h">
+                                    </div>
+                <div class="info">
+                    <a class="title" href="http://www.ausgamers.com/forums/general/thread.php/3493091?#lastpost">Netflix Straya - March 24, $9.99 AU</a>
+                    <br>
+                    <span class="author">Spook</span> <time class="time">5 hours ago</time>
                 </div>
             </li>
                     </ul>
@@ -506,7 +500,151 @@ Cookies are used by Third Party vendors to serve ads on our website, including G
 			</div>
 		</div>
 	</div>
-</div>
+<div id="bottom">
+        <div class="bottom-ad">
+        
+                <div id="div-gpt-ad-1409576370107-0">
+                <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1409576370107-0'); });
+                </script>
+                </div>    </div>
+    
+    <div class="top-content">
+
+    <div class="section news">
+        <h2 class="section-title">News</h2>
+
+        <div class="main-feature">
+            <div class="feature-block ratio16x9">
+                <img src="http://www.ausgamers.com/gameres/6696/images/695/PR_SM_Tactical.jpg" class="content center-h">
+                <a href="http://www.ausgamers.com/news/read/3514900/aussie-made-turn-based-strategy-title-warhammer-40-000-regicide-out-now-on-steam-early-access" class="link"></a>
+            </div>
+            <a href="http://www.ausgamers.com/news/read/3514900/aussie-made-turn-based-strategy-title-warhammer-40-000-regicide-out-now-on-steam-early-access"><span class="title">Aussie-Made Turn-Based Strategy Title, Warhammer 40,000: Regicide, Out Now on Steam Early Access  </span></a>
+        </div>
+
+        <ul class="mediabox-list">
+                            <li class="mediabox feature">
+                    <div class="feature-block thumb">
+                        <img src="http://www.ausgamers.com/gameres/6261/images/695/projectcars_ps409.jpg" class="content center-v">
+                        <a href="http://www.ausgamers.com/news/read/3515224/community-assisted-project-cars-emerges-triumphant-in-our-full-review" class="link"></a>
+                    </div>
+                    <div class="info">
+                        <a href="http://www.ausgamers.com/news/read/3515224/community-assisted-project-cars-emerges-triumphant-in-our-full-review" class="title">Community Assisted - Project CARS Emerges Triumphant in our Full Review</a><br>
+                    </div>
+                </li>
+                            <li class="mediabox feature">
+                    <div class="feature-block thumb">
+                        <img src="http://www.ausgamers.com/gameres/5665/images/695/Dragonslayer_IMAGE_01_ENG.jpg" class="content center-v">
+                        <a href="http://www.ausgamers.com/news/read/3514834/new-dragon-age-inquisition-multiplayer-content-coming" class="link"></a>
+                    </div>
+                    <div class="info">
+                        <a href="http://www.ausgamers.com/news/read/3514834/new-dragon-age-inquisition-multiplayer-content-coming" class="title">New Dragon Age: Inquisition Multiplayer Content Coming</a><br>
+                    </div>
+                </li>
+                            <li class="mediabox feature">
+                    <div class="feature-block thumb">
+                        <img src="http://www.ausgamers.com/gameres/5485/images/695/yookalaylee.jpg" class="content center-v">
+                        <a href="http://www.ausgamers.com/news/read/3514832/banjo-kazooie-successor-yooka-laylee-hits-kickstarter" class="link"></a>
+                    </div>
+                    <div class="info">
+                        <a href="http://www.ausgamers.com/news/read/3514832/banjo-kazooie-successor-yooka-laylee-hits-kickstarter" class="title">Banjo Kazooie Successor Yooka Laylee Hits Kickstarter</a><br>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+
+
+
+        <div class="section features">
+            <h2 class="section-title">Features</h2>
+
+            <div class="main-feature">
+                <div class="feature-block ratio16x9">
+                    <img src="http://www.ausgamers.com/gameres/6553/images/695/bandicam_2015-05-06_16-20-15-979.jpg" class="content center-h">
+                    <a href="http://www.ausgamers.com/features/read/3515226" class="link"></a>
+                </div>
+                <a href="http://www.ausgamers.com/features/read/3515226">
+                    <span class="title">Throwback Thursday - One Must Fall 2097 (1994)</span>
+                </a>
+            </div>
+
+            <ul class="mediabox-list">
+                                <li class="mediabox feature">
+                    <div class="feature-block thumb">
+                        <img src="http://www.ausgamers.com/gameres/6553/images/695/kq5scummvm00057.jpg" class="content center-v">
+                        <a href="http://www.ausgamers.com/features/read/3514282" class="link"></a>
+                    </div>
+                    <div class="info">
+                        <a href="http://www.ausgamers.com/features/read/3514282" class="title">Throwback Thursday - King's Quest V (1990)</a><br>
+                    </div>
+                </li>
+                                <li class="mediabox feature">
+                    <div class="feature-block thumb">
+                        <img src="http://www.ausgamers.com/gameres/6662/images/695/WOLF_TheOldBlood_POSTER_200dpi_EN_1425468997.jpg" class="content center-v">
+                        <a href="http://www.ausgamers.com/features/read/3513962" class="link"></a>
+                    </div>
+                    <div class="info">
+                        <a href="http://www.ausgamers.com/features/read/3513962" class="title">Hands-On with Wolfenstein: The Old Blood - A Worthy Expansion to a Solid Series Reboot</a><br>
+                    </div>
+                </li>
+                                <li class="mediabox feature">
+                    <div class="feature-block thumb">
+                        <img src="http://www.ausgamers.com/gameres/6694/images/695/Black_Ops_3_Ramses_Station_Into_The_Fray.jpg" class="content center-v">
+                        <a href="http://www.ausgamers.com/features/read/3513750" class="link"></a>
+                    </div>
+                    <div class="info">
+                        <a href="http://www.ausgamers.com/features/read/3513750" class="title">First Look - Call of Duty: Black Ops 3 or How I Learnt to Stop Worrying and Love the Treyarch</a><br>
+                    </div>
+                </li>
+                            </ul>
+
+        </div><!-- /.news -->
+
+        <div class="section reviews" style="margin-right: 0;">
+            <h2 class="section-title">Reviews</h2>
+                        <div class="main-feature">
+                <div class="feature-block ratio16x9">
+                    <img src="http://www.ausgamers.com//gameres/6261/images/695/projectcars_ps407.jpg" class="content center-h">
+                    <a href="http://www.ausgamers.com/reviews/read.php/3515220" class="link"></a>
+                </div>
+                <a href="http://www.ausgamers.com/reviews/read.php/3515220">
+                    <h3 class="title">Project CARS</h3>
+                </a>
+            </div>
+            
+            <ul class="mediabox-list">
+                <li class="mediabox review">
+                    <div class="feature-block thumb">
+                        <img src="http://www.ausgamers.com//gameres/6692/images/695/10_gtavpc_03272015.jpg" class="content center-v">
+                        <a href="http://www.ausgamers.com/reviews/read.php/3513322" class="link"></a>
+                    </div>
+                    <div class="info">
+                        <a href="http://www.ausgamers.com/reviews/read.php/3513322" class="title">Grand Theft Auto V PC</a><br>
+                    </div>
+                </li>
+                <li class="mediabox review">
+                    <div class="feature-block thumb">
+                        <img src="http://www.ausgamers.com//gameres/6440/images/695/Huntersdream_1426607870.jpg" class="content center-v">
+                        <a href="http://www.ausgamers.com/reviews/read.php/3511965" class="link"></a>
+                    </div>
+                    <div class="info">
+                        <a href="http://www.ausgamers.com/reviews/read.php/3511965" class="title">Bloodborne</a><br>
+                    </div>
+                </li>
+                <li class="mediabox review">
+                    <div class="feature-block thumb">
+                        <img src="http://www.ausgamers.com//gameres/6191/images/695/2015-03-27_00007.jpg" class="content center-v">
+                        <a href="http://www.ausgamers.com/reviews/read.php/3510565" class="link"></a>
+                    </div>
+                    <div class="info">
+                        <a href="http://www.ausgamers.com/reviews/read.php/3510565" class="title">Pillars of Eternity</a><br>
+                    </div>
+                </li>
+            </ul>
+        </div><!-- /.reviews -->
+
+    </div>
+</div></div>
 <footer id="page-footer">
     <div class="footer-links">
         <div class="link-block">
@@ -557,7 +695,7 @@ Cookies are used by Third Party vendors to serve ads on our website, including G
         </ul>
         <div class="copyright">
             <img src="//www.ausgamers.com/res/static/images/ag-logo-new-shade.png" style="height: 32px; float: left; margin-right: 5px;">
-            © 2001-2014 AusGamers™ Pty Ltd
+            © 2001-2015 AusGamers™ Pty Ltd
             <br>
             ACN 093 772 242
         </div>
@@ -581,78 +719,32 @@ try {
 var pageTracker = _gat._getTracker("UA-197654-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-    <style>
-        #XboxOTP {
-            display: block;
-            overflow: hidden;
-            width: 0;
-            max-width: 628px;
-            position: fixed;
-            left: 50%;
-            bottom: 10%;
-            margin-left: -314px;
-            z-index: 100002;
-            cursor: pointer;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            user-select: none;
-        }
-        #XboxOTP .close {
-            position: absolute;
-            top: 0;
-            right: 0;
-            padding: 5px;
-            background: #EEEEEE;
-            border: 1px solid #000;
-            color: #000;
-            font-family: sans-serif;
-            font-size: 12px;
-            font-weight: normal;
-            -moz-border-radius: 3px;
-            -webkit-border-radius: 3px;
-            border-radius: 3px;
-        }
-        #XboxOTP #XboxIMG, #XboxOTP a {
-            display: block;
-        }
-        #XboxOTP #XboxIMG {
-            width: 628px;
-            max-width: none;
-        }
-
-        @media screen and (max-width: 767px) {
-            #XboxOTP {
-                display: none;
-                margin-left: 0px;
-                max-width: 0px;
-            }
-            #XboxOTP #XboxIMG {
-                display: none;
-                width: 0px;
-            }
-        }
-    </style>
-    <div id="XboxOTP">
-        <div class="close" onclick="var a=document.getElementById('XboxOTP');a.parentNode.removeChild(a); return false;">Close</div>
-        <a href="http://www.xbox.com/en-AU/xbox-one/games" target="_blank">
-            <img id="XboxIMG" data-src="/res/images/Xbox OTP2.png" src="/res/images/Xbox OTP2.png">
-        </a>
-    </div>
-    <script>
-        var xbotp = jQuery('#XboxOTP');
-        var xbimg = jQuery('#XboxIMG');
-        xbotp.on('click', function() {
-            xbotp.hide();
-        });
-        xbimg.on('load', function() {
-            xbotp.show().animate({width: "100%"}, 500);
-            setTimeout(function() {
-                xbotp.animate({width: "0"}, 500);
-            },6000);
-        });
-        xbimg.attr('src', xbimg.attr('data-src'));
-    </script>
-
+<div id="otp-ad"><div id="div-gpt-ad-1414477457716-1" class="ad-unit" style="width: 500px; height: 250px; display: none;">
+<div class="close-btn">Close</div>
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1414477457716-1'); });
+</script>
+            <script>
+                var otpBlock = jQuery('#otp-ad');
+                var otpClose = jQuery('#otp-ad .close-btn');
+                var closeOTP = function() {
+                    var otpBlock = jQuery('#otp-ad');
+                    var display = otpBlock.css('display');
+                    var closed = otpBlock.data('closed');
+                    if ('none' !== display && 'true' != closed) {
+                        otpBlock.data({closed: 'true'}).css({overflow: 'hidden', display: 'block'}).animate({height: '0'},1000);
+                    }
+                }
+                otpClose.on('click', closeOTP);
+                jQuery(window).on('load', function() {
+                    setTimeout(closeOTP,6000);
+                });
+            </script>
+            </div>
+        </div>
+        <style>
+</style>
+  
 <!-- BEGIN CPMSTAR TWO-SIDED ASYNCHRONOUS SITESKIN CODE 20130626 -->
 <script type="text/javascript">
 var cpmstar_siteskin_settings = {
@@ -664,17 +756,14 @@ zIndex: 1
 };
 if ("undefined" != typeof window.innerWidth && "undefined" != typeof window.breakPoint)
 {
+    console.log("windowBP", window.breakPoint);
 	switch(window.breakPoint) {
 		case 0:
 		case 768:
 		break;
 
-		case 960:
+		case 970:
 			cpmstar_siteskin_settings.centerWidth = "970px";
-		break;
-
-		case 1290:
-			cpmstar_siteskin_settings.centerWidth = "1080px";
 		break;
 	}
 }
