@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the straighttalksim.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218074543id_/http%3A//www.straighttalk.com/wps/portal/home/h/legal/privacy-policy%23.UycNLq1dUjG) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straighttalksim.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510173927id_/http%3A//www.straighttalk.com/wps/portal/home/h/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: StraightTalk Wireless
 
-**TracFone Wireless, Inc. Privacy Policy**[.](http://www.straighttalk.com/wps/portal/home/h/legal/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd_J0MAg0DPD0t_MOcDRz9nczdA41cDd1djfQLsh0VATmi8VA!/#top)
+**TracFone Wireless, Inc. Privacy Policy**[.](http://www.straighttalk.com/wps/portal/home/h/legal/privacy-policy/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd_J0MAg0DPD0t_MOcDRz9nczdA41cDd1djYAKIvEoMDMkTr-LgZevcaCjh1GQmaGFgWeAj7ubi6GPsYGFOSH94fpReJWAXABWgM8KNAUe5qZABR7Owe7mfgb-bkZQBQY4gKOBfkFuaIRBpmc6AJUBUWw!/#top)
 
 Effective Date: February 2014
 
