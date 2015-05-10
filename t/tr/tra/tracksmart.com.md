@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracksmart.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128115836id_/http%3A//www.tracksmart.com/aboutus/Pages/PrivacyPolicies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracksmart.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510080516id_/https%3A//www.tracksmart.com/aboutus/Pages/PrivacyPolicies.aspx) for the most accurate reproduction.*
 
 # Privacy Policies
 
@@ -50,8 +50,6 @@ You may change or update your personal information by sending an email to: [memb
 
 We do not direct the site to, nor do we knowingly collect personal information from, children under thirteen. 
 
-###  
-
 ### Security
 
 We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from site visitors.    ****
@@ -72,4 +70,4 @@ Claims of infringement should be mailed via certified mail, return receipt reque
 General Counsel  
 Everglades Direct, Inc.  
 1725 Roe Crest Drive  
-North Mankato, MN 56002
+North Mankato, MN 56002​​​
