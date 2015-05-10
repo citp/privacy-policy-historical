@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnyvscurvy.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024174609id_/http%3A//www.skinnyvscurvy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyvscurvy.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510114313id_/http%3A//www.skinnyvscurvy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skinny VS Curvy
 
