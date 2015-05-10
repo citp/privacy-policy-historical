@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225155644id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510202658id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
 
 # Creative Staffing Agency | Privacy
 
@@ -32,7 +32,7 @@ Aquent uses this information for the purpose of identifying individuals personal
 
 ### Cookies
 
-Certain additional information also is collected from users of this website in an aggregate form and used solely in connection with improving the performance and responsiveness of our services and website. This information includes a user's originating domain, time of visit, connection speed, domain names, and Internet service provider. This information is not personally identifiable information and Aquent makes no attempt to correlate such information to an individual user.
+Certain additional information also is collected from users of this website in an aggregate form and used solely in connection with improving the performance and responsiveness of our services and website. This information includes a user’s originating domain, time of visit, connection speed, domain names, and Internet service provider. This information is not personally identifiable information and Aquent makes no attempt to correlate such information to an individual user.
 
 Cookies are used to collect these data. Cookies are small sets of bytes that we place on the device you use to access our websites and services. These cookies collect data to help us personalize, secure, and improve the performance of our websites and services. The cookies described as “strictly necessary” are essential in order to enable you to move around the website and use its features, such as accessing secure data. Without these cookies, services you have requested, such as language and filtering preferences, cannot be provided. Click [here](https://web.archive.org/resources/cookies.htm "Aquent Cookie List") for more detail on the cookies that we use.
 
@@ -81,4 +81,4 @@ For questions regarding our website security, email us at [questions@aquent.com]
 
 Questions or concerns regarding this Privacy Policy can be directed to the Site Coordinator by email at [privacy@aquent.com](mailto:privacy@aquent.com "privacy@aquent.com").
 
-Effective Date 29 July 2013 
+_Effective Date 29 July 2013_
