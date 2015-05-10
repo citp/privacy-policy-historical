@@ -1,27 +1,98 @@
-> *The following text is extracted and transformed from the adbrook.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104125709id_/http%3A//www.adbrook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbrook.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510233421id_/http%3A//adbrook.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | AdBrook.com
+# AdBrook
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.  
-When accessing our Website,  Adbrook will learn certain information about you during your visit.  Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address. **  
-What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. **  
-IP Addresses**  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you. **  
-Email Information**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone. **  
-How Do We Use the Information That You Provide to Us?**  
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.   Adbrook will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.  We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.  
-**A Special Note About Children**  
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians. **  
-How Do We Protect Your Information and Secure Information Transmissions?**  
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.  Adbrook may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.  For site security purposes and to ensure that this service remains available to all users, Adbrook uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. **  
-Policy Changes**  
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.  We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. **  
-Contact**  
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.  
-Adbrook.com  
-1168 Butler Creek Rd.  
-Ashland, OR 97520  
-541-482-7780  
-bbaumann@adbrook.com
+What information do we collect? 
+
+  * We collect information from you when you register on our site, place an order or fill out a form. 
+  * When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number. You may, however, visit our site anonymously.
+
+
+
+What do we use your information for? 
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+  * To personalize your experience
+
+
+
+(your information helps us to better respond to your individual needs)
+
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+  * To improve customer service
+
+
+
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+
+How do we protect your information? 
+
+  * We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+  * We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+  * Transactions are only completed through processor accounts where the only information stored is your username, email, or ezy id (depending on the processor used).
+
+
+
+Do we use cookies? 
+
+  * Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+  *  We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+
+
+Do we disclose any information to outside parties? 
+
+  * We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+
+
+  * Occasionally, at our discretion, we may include or offer third party products or services on our website. Members and advertisers also display third party content and links as included with purchased services on our website.  These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+
+
+California Online Privacy Protection Act Compliance
+
+  * Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+  * As part of the California Online Privacy Protection Act, all users of our AdBrook site may edit their personal information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+
+
+Children’s Online Privacy Protection Act Compliance 
+
+  * We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 18 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.
+
+
+
+Terms and Conditions 
+
+  * Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
+
+
+
+Your Consent 
+
+  * By using our site, you consent to our privacy policy.
+
+
+
+Changes to our Privacy Policy 
+
+  * If we decide to change our privacy policy, we will post those changes on this page. 
+
+
+
+This policy was last modified on June 19, 2013
+
+Contacting Us 
+
+  * If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+
+
+To official Adbrook's start left: d, h, min, s
