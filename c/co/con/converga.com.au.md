@@ -1,59 +1,145 @@
-> *The following text is extracted and transformed from the converga.com.au privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229075505id_/http%3A//www.converga.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the converga.com.au privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510054037id_/http%3A//www.converga.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Converga
 
-The Converga website is maintained by the Converga Marketing Department (CMD). This Privacy Policy applies to all the publicly accessible pages on the Converga site located at [http://www.converga.com.au](http://www.converga.com.au/) and to all the publicly accessible pages listed in the search results web pages. CMD does not have any responsibility for the privacy policies or practices of third party sites linked to the Converga site. If you have any questions about the Converga site, or the application of this Privacy Policy or a request for access to information held please contact the Privacy Officer, Converga, Unit 16, 39 Herbert Street, St Leonards, phone 02 9433 7000 and/or email [enquiries@converga.com.au](mailto:enquiries@converga.com.au)
-
-Users of the Converga site are entitled to expect that any information as a result of that use will be treated within the terms of Converga’s privacy responsibilities and obligations. Converga’s privacy practices are regulated by the New South Wales Privacy and Personal Information Protection Act 1988.
-
-**What information do we collect?  **  
-When you look at the pages on the Converga site, our computers automatically record information that identifies, for each page accessed:
-
-  * the IP (Internet Protocol) address of the machine which has accessed it;
-  * your top-level domain name (for example .com, .gov, .au, .uk etc.);
-  * the address of your server;
-  * the date and time of your visit to the site;
-  * the pages accessed and documents downloaded;
-  * the previous site visited; and
-  * the type of browser and operating system you have used.
+  1. **INTRODUCTION**
 
 
 
-**How do we use the information collected?  **  
-The information collected during each visit is aggregated with similar logged information and published in reports in order for CMD to identify patterns of usage of the site. This will assist us in improving the Converga site and the services offered on it.
+The purpose of the Privacy Policy is to outline the personal information collected Converga Pty Ltd (ACN 063 577 739) of Unit 16, 39 Herbert Street, St Leonards NSW (“Converga”/“us”/”we”/”our”) and the use of such information. This privacy policy (“Privacy Policy”) sets out our policy with respect to the way we use and disclose personal information about you (“you”) which is disclosed to us either directly or through our website. In this policy, “Personal Information” means information or opinion about an identified individual, or an individual who is reasonably identifiable.
 
-CMD will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without consent or otherwise in accordance with the New South Wales Privacy and Personal Information Protection Act 1988.
-
-**What exceptions are there to this rule?  **  
-CMD will collect, use and disclose more extensive information than stated above in the following circumstances:
-
-  * unauthorised attempts to access files which are not published Converga pages;
-  * unauthorised tampering or interference with files published on the Converga site;
-  * unauthorised attempts to index the contents of the Converga site by other sites;
-  * attempts to intercept messages of other users of the Converga site;
-  * communications which are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed; and
-  * attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the Converga site by other users.
+  2. **COLLECTION OF PERSONAL INFORMATION**
 
 
 
-CMD reserves the right to make disclosures to relevant authorities where the use of the Converga site raises a suspicion that an offence is being, or has been, committed.
+Personal Information collected by Converga may include information you provide or volunteer when using this Website, to access some parts of this Website, we may ask you to provide information. For example, we may request information from you when you:
 
-In the event of an investigation, CMD will provide access to data to any law enforcement agency that may exercise a warrant to inspect our logs.
+  * register on the Website;
+  * request information from Converga; or
+  * submit information via the “Contact Us” form.
 
-**Is the information stored securely?  **  
-Yes. Information collected is stored in an appropriately secure format and held by CMD for archival purposes. When the information is no longer required for the purposes for which it was collected it is deleted.
 
-**What will we do with information provided in Feedback?  **  
-CMD provides feedback facilities on the Converga site to allow users to provide input into the future development of the site and to comment on the provision of service by the department.
 
-The provision of personal details on feedback is optional.
+The kinds of Personal Information we collect will depend on the purpose(s) for which we are collecting it. For example, in each of the instances above, we may ask for:
 
-Users may provide personal details for the purpose of receiving a reply to their feedback. This information will only be used for the purpose for which it was provided. We will not add your email address or name to any mailing list.
+  * your name;
+  * e-mail address;
+  * phone number;
+  * postal address;
+  * business name; and
+  * position and contact telephone number;
 
-CMD may publish aggregated information about feedback on the site, to the extent that it does not identify or cannot be used to identify individual users.
 
-**Who else has access to information within the Department?**  
-CMD captures this information on its own computers. Access to the raw data is restricted to a limited number of officers in CMD for the purpose of analysis and to report on the success of Converga in meeting CMD’s communication and access objectives. If you would like to access information held about you by CMD please contact the Privacy Officer, Converga, Unit 16, 39 Herbert Street, St Leonards, phone 02 9433 7000 and/or email [enquiries@converga.com.au](mailto:enquiries@converga.com.au)
 
-**Will this policy be updated over time?**  
+as well as other similar Personal Information that is needed to register or subscribe you to services or offers. If we ever ask for significantly different information we will inform you.
+
+If you do not provide certain requested Personal Information to us, we may not be able to provide you with access to and use of this Website, provide you with access to our services, or to fulfil one or more of our functions and activities applicable to you.
+
+  3. **USE AND DISCLOSURE OF INFORMATION**
+
+
+
+We will only use your Personal Information for the purposes for which it was collected and we will not disclose your Personal Information without gaining your consent except where such disclosure is required by law.
+
+We use your Personal Information in the following ways:
+
+  1. to deliver services and products you have requested from us;
+  2. to confirm your identity; and
+  3. for direct marketing purposes.
+
+
+
+For direct marketing purposes, your Personal Information will be added to our database. The database may be used for ongoing marketing and educative purposes. The type of marketing and educative activities that we undertake includes forwarding material to you so that you are kept updated in relation to various issues and our services. If at any time you do not wish to continue receiving this information, we provide an “opt-out” procedure in each communication to you.
+
+Converga only uses and discloses personal information about you for the purpose for which it was disclosed to us, or for a related purpose, which would be reasonably expected without your permission. We may, for example, notify you (from time to time) of employment opportunities that are closely aligned to your qualifications, knowledge, skills and experience as you have disclosed to us in an employment application. If you accept employment with Converga, the information collected will become part of your employment record and will be used for employment purposes.
+
+Converga restricts access to personal information collected on our website to only those Converga employees who need access to that information to perform and discharge their duties.
+
+  4. **THIRD PARTY SERVICE PROVIDERS**
+
+
+
+We engage a range of third parties to provide services and perform business support functions for us.  Some of those third parties need access to Personal Information in order to provide the services or perform the functions we require.  Where we share your Personal Information with third-party service providers, they will be contractually bound to use the information only for the purposes of providing the services or performing the functions required by us and to store the information securely.
+
+  5. **CROSS BORDER DISCLOSURE  **
+
+
+
+We may disclose personal information to overseas recipients, who are located in places such as the Philippines, New Zealand, the United States of America and other countries or jurisdictions depending on the nature of the services those recipients provide to us (for example storing data via a cloud service, or where our accounting or payment system is hosted on servers located overseas).
+
+  6. **CONVERGA WILL NOT DISCLOSE YOUR PERSONAL INFORMATION TO ANY OUTSIDE ORGANISATION FOR USE IN MARKETING WITHOUT YOUR CONSENT**
+
+
+
+Your Personal Information (such as name, address and phone number) will not be given or sold to any outside organisation for its use in marketing or solicitation without your prior express consent.
+
+  7. **SECURITY OF PERSONAL INFORMATION**
+
+
+
+Converga will take reasonable steps to protect and secure your Personal Information and to ensure your Personal Information is protected from misuse, loss, theft, and unauthorised modification, access or disclosure.
+
+Converga takes reasonable steps to destroy or permanently de-identify any Personal Information where:
+
+  * Converga no longer needs the Personal Information for any purpose for which the Personal Information may be used or disclosed by Converga; and
+  * Converga is not required by or under an Australian law, regulation or a court/tribunal order, to retain the Personal Information.
+
+
+  8. **ACCURACY OF PERSONAL INFORMATION**
+
+
+
+Converga will take reasonable steps to ensure that the Personal Information it collects, uses or discloses, is accurate, complete and up to date, and relevant to any proposed use or disclosure. We seek your assistance by asking you to contact us if your Personal Information changes or you believe the information held on file is incomplete.
+
+  9. **ACCESS TO AND CORRECTION OF PERSONAL INFORMATION**
+
+
+
+Under the Privacy Act, individuals have a right to complete access to their records. You may request from us in writing to provide you with details of the Personal Information we hold about you. We will endeavour to process your request as soon as practicable. If we deny your request, we will provide reasons in writing as to our decision. To complain or contest our decision, please contact our Privacy Officer.
+
+If you wish to amend information that is out of date or incorrect, or if you wish for your Personal Information to be removed from our database, please contact us at [privacy@converga.com.au](mailto:privacy@converga.com.au)
+
+  10. **COOKIES**
+
+
+
+You may be required to have a cookie-enabled browser to fully access the Website. A cookie is a piece of data stored on your computer tied to information about you. Cookies may be used to track your internet browsing activities and the websites you have visited.
+
+We may, for statistical, security or quality purposes, use cookies to log:
+
+  1. your internet protocol (IP) address;
+  2. the date and time of your visit;
+  3. the pages you have accessed and documents downloaded; and
+  4. the type of browser you were using.
+
+
+
+You can disable cookies on your web browser, although this may interfere with your use and enjoyment of the Website.
+
+  11. **ACCESS TO PERSONAL INFORMATION COLLECTED**
+
+
+
+Converga will not make an attempt to identify users or their browsing activities. However, in the unlikely event of an investigation, a law enforcement agency or other government agency may exercise its legal authority to inspect Converga’s or our internet service provider’s logs.
+
+  12. **THIRD-PARTY SITES**
+
+
+
+The Website may contain links to other websites. Please note that we are not responsible for the privacy practices of these sites. When you leave our Website, you should familiarise yourself with the privacy statement of that website prior to providing your Personal Information, as this Privacy Policy only applies to Personal Information collected by us or through our Website.
+
+  13. **CONTACT INFORMATION**
+
+
+
+If you wish to exercise any of your rights under this Privacy Policy, have any questions, comments or complaints regarding our practices, or if you are of the view that we have not adhered to this Privacy Policy, you may write to our Privacy Officer by e-mailing us.  If you have any questions about Converga’s handling of Personal Information, or if you wish to make an access or correction request or complaint, you should contact the Converga Privacy Officer: Privacy Officer, Converga, Unit 16, 39 Herbert Street, St Leonards, or e-mail [privacy@converga.com.au](mailto:privacy@converga.com.au)
+
+  14. **POLICY UPDATES**
+
+
+
 Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted.
+
+This policy was issued on 15 March 2015
+
+You can find more information about privacy and the protection of your Personal Information on the website of the OAIC at [www.oaic.gov.au](http://www.oaic.gov.au/)
