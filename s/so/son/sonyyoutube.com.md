@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonyyoutube.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203053443id_/http%3A//ww10.sonyyoutube.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyyoutube.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510213241id_/http%3A//ww10.sonyyoutube.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
