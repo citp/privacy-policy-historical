@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the toywiz.com privacy policy that was archived on 2014-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217125642id_/http%3A//www.toywiz.com/toysecandpri.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toywiz.com privacy policy that was archived on 2015-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510043614id_/http%3A//www.toywiz.com/toysecandpri.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="//np.lexity.com/embed/YA/8008164fe605e6bfd25748869b3af75c?id=116a7ab70fa5"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> 
+<!DOCTYPE html><html><head><script type="text/javascript" async="" src="//np.lexity.com/embed/YA/8008164fe605e6bfd25748869b3af75c?id=116a7ab70fa5"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> 
  <!-- 
  (new Image).src="http://store.yahoo.net/cgi-bin/refsd?e=http://www.toywiz.com/toysecandpri.html&h=www.toywiz.com&v=1.0&dr=" + escape(document.referrer); 
  --> 
@@ -20,9 +20,30 @@
 <link rel="stylesheet" type="text/css" media="only screen and (min-device-width: 361px)" href="http://database.toywiz.com/_css/styleDB.css">
 <link rel="search" type="application/opensearchdescription+xml" href="http://database.toywiz.com/opensearch.xml" title="ToyWiz">
 <script src="http://lib.store.yahoo.net/lib/dragonballzcentral/jquery.min.js"></script>
-<script src="http://lib.store.yahoo.net/lib/dragonballzcentral/scripts20141214.js"></script>
-<script type="text/javascript" async="" src="http://assets.pinterest.com/js/pinit.js"></script></head><body><center>
-<div id="overlay"></div>
+<script src="http://lib.store.yahoo.net/lib/dragonballzcentral/scripts.js"></script>
+<script type="text/javascript" async="" src="http://assets.pinterest.com/js/pinit.js"></script>
+<!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+  var gts = gts || [];
+
+  gts.push(["id", "483317"]);
+  gts.push(["badge_position", "BOTTOM_RIGHT"]);
+  gts.push(["locale", "en_US"]);
+  gts.push(["google_base_subaccount_id", "1681031"]);
+  gts.push(["google_base_country", "US"]);
+  gts.push(["google_base_language", "en"]);
+
+  (function() {
+    var gts = document.createElement("script");
+    gts.type = "text/javascript";
+    gts.async = true;
+    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(gts, s);
+  })();
+</script>
+<!-- END: Google Trusted Stores --></head><body><center>
+<div id="overlay" onclick="imageZoom(-1); if(document.getElementById('mobileCart').style.display == 'none'){mobileMenu();}"></div>
 <div id="offerOverlay" class="offerOverlay" onclick="leftOfferPop();"></div>
 <div id="leftOffer" class="leftOffer" onclick="leftOfferPop();" style="display: block;"><div class="leftOfferText"><img src="http://lib.store.yahoo.net/lib/dragonballzcentral/10off.png" style="margin-left: 5px; margin-top: 10px;"></div></div>
 <div id="mobileMenu" onclick="mobileMenu();"><div class="mobileMenuBar" style="margin-top: 13px;"></div><div class="mobileMenuBar"></div><div class="mobileMenuBar"></div><div style="color: #ffffff; font: 9px Lato; margin-top: 18px;">MENU</div></div>
@@ -40,8 +61,9 @@
 		<div id="searchBar">
 			<form id="mainSearch" action="http://database.toywiz.com/index.php" method="post">
 				<input value="search" name="f" type="hidden">
-				<input type="text" name="v" id="searchMain" value="Search Keyword or Item" onclick="if(this.value == 'Search Keyword or Item'){this.value = '';} this.select();" onblur="if(this.value == ''){this.value = 'Search Keyword or Item';}">
-				<div id="searchGo" onclick="document.forms['mainSearch'].submit();"></div>
+				<input type="text" name="v" id="searchMain" value="Search Keyword or Item" onkeyup="checkSearch(event)" autocomplete="off" onclick="if(this.value == 'Search Keyword or Item'){this.value = '';} this.select();" onblur="if(this.value == ''){this.value = 'Search Keyword or Item';}">
+				<div id="searchGo" onclick="document.forms['mainSearch'].submit();"></div><div id="closeSuggestions" onclick="document.getElementById('searchMain').value = ''; document.getElementById('searchMain').select(); document.getElementById('suggestions').innerHTML = '';">x</div>
+				<div id="suggestions"></div>
 			</form>
 		</div>
 
@@ -63,7 +85,7 @@
 					</div>
 				</div>
 				<div class="topRight"><a href="http://account.toywiz.com">My Account</a></div>
-				<div class="topCallMobile"><a href="tel:18774512597">Call Us Toll Free  877.451.2597</a></div>
+				<div class="topCallMobile">Click to Call Us! <a href="tel:18774512597" onclick="getJSON('http://database.toywiz.com/tools/clickLog.php?c=mobileCall','');" style="color: #6ec4f9;">877.451.2597</a></div>
 
 <script>
 function topPhone(show){
@@ -78,9 +100,8 @@ function topPhone(show){
 }
 </script>
 
-				<div id="topHours" class="topCall" style="position: relative;"><a href="javascript:topPhone('1');">Call Us Toll Free  877.451.2597</a>
+				<div id="topHours" class="topCall" style="position: relative;"><a href="javascript:topPhone('1');">Call Us Toll Free  877.451.2597&nbsp;<span style="font-size: 8px;">▼</span></a>
 					<style>.topCall a:hover{text-decoration: underline; cursor: pointer;}</style>
-					<div class="phoneHours"><a href="javascript:topPhone('1');">Show Hours&nbsp;<span style="font-size: 8px;">&nbsp;▼</span></a></div>
 					<div id="topHoursDrop">
 						<iframe onclick="javascript:topPhone('0');" src="http://database.toywiz.com/_info/phoneHours.html" class="phoneHoursFrame"></iframe>
 					</div>
@@ -268,17 +289,25 @@ here</a>.<br><br>If you would like to opt-out of behavioral advertising please <
 				<a href="pricing.html">Quantity Limits &amp; Pricing</a><br>
 			</div>
 			<div class="footerBottom">
-				<div class="footerBotCol1" style="margin-left: 0px;"><img src="http://lib.store.yahoo.net/lib/dragonballzcentral/footerBubble.png" width="39" height="33" alt="Footer Bubble"></div><div class="footerBotCol2">Need to place an order?<br><span style="color: #1e89cc; font-size: 19px;">Call Us 877-451-2597</span><br>Monday-Friday 10AM - 6PM EST</div>
+				<div class="footerBotCol1" style="margin-left: 0px;"><img src="http://lib.store.yahoo.net/lib/dragonballzcentral/footerBubble.png" width="39" height="33" alt="Footer Bubble"></div><div class="footerBotCol2">Need to place an order?<br><span style="color: #1e89cc; font-size: 19px;">Call Us <a href="tel:8774512597" class="footerPhone">877-451-2597</a></span><br>Monday-Friday 10AM - 6PM EST</div>
 				<div class="footerBotCol1 mobileHide"><img src="http://lib.store.yahoo.net/lib/dragonballzcentral/footerEnvelope.png" width="34" height="22" alt="Footer Envelope"></div><div class="footerBotCol2 mobileHide">363 Spook Rock Rd. Bldg. K<br>Suffern, NY 10901</div>
 				<div class="footerBotCol1 mobileHide"><img src="http://lib.store.yahoo.net/lib/dragonballzcentral/footerWotC.png" width="121" height="87" alt="Official Wizards of the Coast Internet Retailer" style="margin-top: -24px;"></div>
 			</div>
 		</div>
 		<div class="footerRight">
+
+<style>
+.socials {width: 380px; height: 80px; background: #d6dfe5; border-radius: 5px; float: left; margin-bottom: 40px;}
+.socialsBox {width: 48px; height: 48px; background-image:url('http://lib.store.yahoo.net/lib/dragonballzcentral/socials.jpg'); background-repeat: no-repeat; float: left; margin: 15px 0px 0px 13px;}
+</style>
+
 			<div class="socials">
 				<a href="http://www.facebook.com/toywizdotcom" target="_blank"><div class="socialsBox fb"></div></a>
 				<a href="http://twitter.com/toywizdotcom" target="_blank"><div class="socialsBox tw"></div></a>
 				<a href="http://pinterest.com/toywiz" target="_blank"><div class="socialsBox pn"></div></a>
-				<a href="https://plus.google.com/113051656138176083726" target="_blank"><div class="socialsBox go"></div></a>
+				<a href="https://plus.google.com/113051656138176083726" target="_blank">			<div class="socialsBox go"></div></a>	<a href="https://instagram.com/toywizdotcom/" target="_blank"><div class="socialsBox in"></div></a>
+				<a href="https://www.youtube.com/user/ToyWizVideo" target="_blank"><div class="socialsBox yt"></div></a>
+
 				<div class="socialsA">▶</div>
 			</div>
 			<div class="socialText">JOIN THE FUN!</div>
@@ -302,43 +331,6 @@ here</a>.<br><br>If you would like to opt-out of behavioral advertising please <
 	</div>
 </div>
 </center>
-<div id="offerPop">
-	<div style="font: 10px arial; color: #ffffff; position: absolute; left: 786px; top: 6px; cursor: pointer;" onclick="leftOfferPop();">X</div>
-	<div class="offerInt">
-		<div class="offerIntHead">You can save up to 10% off your order right now!</div>
-		<div class="offerSection">
-			Create a ToyWiz.com account and we'll give you a coupon good for 10% off your next order
-			<div class="offerSectionBack">10%</div>
-			<div class="offerText" style="height: 50px;">Click the button below. Once your account is created, the coupon will instantly appear in your account</div>
-			<div class="offerButton" onclick="window.open('http://account.toywiz.com/?action=create&amp;rd=1');">Create an Account</div>
-			<div style="margin-top: 18px; font-size: 11px;">* You must be at least 13 years old to create an account</div>
-		</div>
-		<div style="width: 15px; float: left; height: 310px; border-left: 2px solid #226394; margin-left: 15px; margin-top: 20px;"></div>
-		<div id="offerPopRight" class="offerSection">
-			<div>Or sign up for our mailing list and we'll instantly give you a coupon code good for 5% off your next order</div>
-			<div class="offerSectionBack">5%</div>
-			<div class="offerText" style="height: 50px;">
-				<form id="emailform" name="emailform" action="http://toywiz.us5.list-manage.com/subscribe/post?u=2a5ae42f5a596d5fb587acdb8&amp;id=9190d97493" method="post" target="emailsignup" novalidate="">
-					<input type="text" name="EMAIL" id="offerEmail" style="color: #a6c0d4; width: 300px; height: 26px; border-radius: 5px; font: 18px arial; padding-left: 10px;" value="Enter your e-mail" onclick="this.select(); this.value=''; this.style.color='#000000';">
-					<input type="hidden" name="MMERGE3" value="">
-				</form>
-			</div>
-			<div class="offerButton" onclick="offerSubmit();">Sign-Up</div>
-			<div style="margin-top: 18px; font-size: 11px;">* We will never give your information to a third party, and you can unsubscribe from our list at any time</div>
-		</div>
-			<iframe id="emailsignup" name="emailsignup" style="height: 0px; width: 0px;"></iframe>
-			<iframe id="offerbake" name="bakecookie" style="height: 0px; width: 0px;"></iframe>
-	</div>
-</div>
-
-<script>
-window.offerState = 0;
-if(getCookie('twaccount') == '' && window.screen.width > 900){
-	$(document).ready(function(){
-		$('#leftOffer').slideDown(2000);
-	});
-}
-</script>
 <!--- /********************** BEGIN SPECIAL OFFER OVERLAY ************************/ --->
 <div id="offerPop">
 	<div style="font: 10px arial; color: #ffffff; position: absolute; left: 786px; top: 6px; cursor: pointer;" onclick="leftOfferPop();">X</div>
@@ -368,13 +360,17 @@ if(getCookie('twaccount') == '' && window.screen.width > 900){
 			<iframe id="offerbake" name="bakecookie" style="height: 0px; width: 0px;"></iframe>
 	</div>
 </div>
-
+<style>
+.leftOffer {height: 170px; width: 50px; background-color: #1984d1; position: absolute; top: 200px; left: 0px; border-radius: 0px 5px 5px 0px; box-shadow: 2px 2px 5px 3px #164b74; cursor: pointer; z-index: 29000;}
+</style>
 <script>
 window.offerState = 0;
 if(getCookie('twaccount') == '' && window.screen.width > 900){
 	$(document).ready(function(){
-		$('#leftOffer').slideDown(2000);
+		$('#leftOffer').slideDown(1000);
 	});
+} else {
+	$('#leftOffer').css('display','none');
 }
 
 function leftOfferPop(){
@@ -417,10 +413,9 @@ function bakeCookie(id,email,name){
 	var json = encodeURIComponent(JSON.stringify(jsonArr));
 	document.getElementById('offerbake').src = 'http://www.toywiz.com/bakeshop.html?account=' + json;
 }
-
-
 </script>
 <!--- /********************** END SPECIAL OFFER OVERLAY ************************/ --->
+
 <!-- BEGIN: buySAFE Seal -->
 <script src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
 <span id="BuySafeSealSpan"></span>
@@ -431,6 +426,47 @@ WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
 }
 </script>
 <!-- END: buySAFE Seal -->
+
+<!-- BEGIN: Google Dynamic Remarketing -->
+<script>
+if(window.location.pathname == '/')
+{
+var google_tag_params = {
+ecomm_pagetype: 'home'
+};
+}
+if(document.getElementById('sectionFilter') != null)
+{
+var google_tag_params = {
+ecomm_pagetype: 'category'
+};
+}
+if(document.getElementById('formOrder') != null)
+{
+var id = window.location.href.split("/")[window.location.href.split("/").length-1].replace(".html","");
+var price = document.getElementById('itemPrice').getElementsByTagName('span')[0].innerHTML.replace("$","")
+var google_tag_params = {
+ecomm_prodid: id,
+ecomm_pagetype: 'product',
+ecomm_totalvalue: price
+};
+}
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072657029;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072657029/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- END: Google Dynamic Remarketing -->
 <script type="text/javascript">
 csell_env = 'bf1';
 </script>
@@ -472,12 +508,12 @@ var csell_token_map = {}; csell_token_map['TOK_PAGE'] = 'p'; csell_token_map['TO
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=54917eb6&catalog=dragonballzcentral&r=" + escape(document.referrer) + "&v=1"; }
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=554ee16a&catalog=dragonballzcentral&r=" + escape(document.referrer) + "&v=1"; }
  // --> 
  </script><script type="text/javascript"> 
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=54917eb6&catalog=dragonballzcentral&r=" + escape(document.referrer) + "&v=3"; }
+ (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=554ee16a&catalog=dragonballzcentral&r=" + escape(document.referrer) + "&v=3"; }
  // --> 
  </script><script type="text/javascript">try {var YWAGTracker = YWA.getTracker("10001849413879", "VSCALE4");YWAGTracker.setDocumentName("SPAGE");YWAGTracker.setDocumentGroup("YSBE");YWAGTracker.setCF(7, "dragonballzcentral");YWAGTracker.setCF(8, "e39");YWAGTracker.submit();} catch (eYWATCUnavailable) {}</script><script type="text/javascript">(function (d, w) { var f = function () { var x = d.getElementsByTagName('SCRIPT')[0]; var s = d.createElement('SCRIPT'); s.type = 'text/javascript'; s.async = true; s.src = '//np.lexity.com/embed/YA/8008164fe605e6bfd25748869b3af75c?id=116a7ab70fa5'; x.parentNode.insertBefore(s, x); }; w.attachEvent ? w.attachEvent('onload',f) : w.addEventListener('load',f,false); }(document, window)); </script></body></html>
