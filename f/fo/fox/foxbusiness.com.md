@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxbusiness.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225001306id_/https%3A//www.foxbusiness.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxbusiness.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510140807id_/https%3A//www.foxbusiness.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fox Business
 
