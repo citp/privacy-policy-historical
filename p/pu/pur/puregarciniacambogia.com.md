@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puregarciniacambogia.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006192304id_/http%3A//www.puregarciniacambogia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puregarciniacambogia.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510174258id_/http%3A//www.puregarciniacambogia.com/privacy.php) for the most accurate reproduction.*
 
 # Pure Garcinia Cambogia Privacy Policy
 
