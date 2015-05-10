@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vehiclehistory.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815205739id_/http%3A//www.vehiclehistory.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vehiclehistory.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510062741id_/http%3A//www.vehiclehistory.com/privacy_policy.php) for the most accurate reproduction.*
 
 # VehicleHistory.com - Your Choice For Vehicle History
 
