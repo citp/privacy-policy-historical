@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ajebomarket.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225185336id_/http%3A//ajebomarket.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajebomarket.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510024509id_/http%3A//ajebomarket.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+* * *
 
 All information provided by you is only used to ensure the best possible shopping experience. All information is strictly confidential. Your personal information will not be shared, circulated, nor modified in any way without your previous consent.
 
