@@ -1,119 +1,64 @@
-> *The following text is extracted and transformed from the americanfamily.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615141809id_/http%3A//www.timeinc.net/subs/privacy/synapse/americanfamily.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfamily.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510071309id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
 
-# American Family Privacy Policy
+# Privacy and Security Policy | American Family Insurance
 
-  |  |  |   |    
-**PRIVACY NOTICE** |    
-  
-**Table of Contents** |    
-* The Information We Collect
-* How We Use the Information 
-* Privacy Options
-* Your California Privacy Rights: Notice to California Customers
-* Collection of Information by Third-Party Sites and Sponsors
-* Cookies
-* Our Commitment to Security
-* How You can Access or Correct Information
-* Special Note for Parents
-* Changes to this Notice
-* How to Contact Us
-|  |    
-  
-Thank you for visiting American Family ([www.AmericanFamily.com](http://www.americanfamily.com/)), a site within the network of sites of Time Inc. and its subsidiaries, each of which have adopted this Privacy Notice. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice. 
+## Privacy and Security Policy
 
-|    
-  
-**The Information We Collect**  
-Through Time Inc. publications, websites and other media, you can order publications and products, and engage in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion, subscribing to one of our services, such as newsletters, or participating in one of our online forums or communities. Your personally identifiable information may be required to engage in these activities as well as to receive products and services that you may have requested. The types of personally identifiable information that may be collected at these pages and elsewhere include but are not limited to: name, address, gender, e-mail address, telephone number, fax number and credit or debit card information. 
+  * General Privacy Notice
+  * Security Policy
+  * Web Cookie Policy
+  * Social Mobile Data Policy
+  * Health Information Privacy Notice
 
-We may also collect information about your personal or professional interests and use of or opinions about various products, programs and services. For instance, we may ask you to identify your job or industry to qualify you for free business magazines. 
 
-At some Time Inc. sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number. 
 
-We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information. 
+### General Privacy Notice
 
-| back to top  
-  
-**How We Use the Information**  
-We may use the information you provide about yourself or others to fulfill requests for our publications, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest. 
+The companies of American Family Insurance Group (see [Company Identification](http://www.amfam.com/security/identification.asp)) recognize the importance of our customers’ trust. Keeping our customers’ personal information confidential is a top priority for all American Family Insurance employees, agents and staff. This notice, which is required by state and federal law, explains our privacy policies.
 
-We may combine information we receive with outside records and share such information with third parties to enhance our ability to market to you those products or services that may be of interest to you. 
+  1. We safeguard, according to strict standards of security and confidentiality, nonpublic, personal information our customers share with us. "Nonpublic, personal information" includes your name, address, Social Security number and credit information. We maintain safeguards, physical and electronic, to protect this information. We conduct our business in a manner that keeps personal customer information secure. 
+  2. We limit the collection and use of customer information to the minimum we require to deliver superior service and to administer our business. We collect personal information about customers from the following sources:   
 
-We may disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases and non-profit organizations) that want to market products or services to you. 
+    * From customers on insurance and loan applications and related forms; 
+    * From your transactions with us, our affiliates or others; 
+    * From consumer reporting agencies; and 
+    * From your transactions with non-affiliated third parties.   
 
-When you request a magazine, service or other product, we will forward the information you give us to the publisher or provider for fulfillment. They may contact you with special offers of possible interest. 
+  3. It is our policy that only authorized American Family Insurance employees, agents and their staff who need to know your personal information will access and use it. American Family Insurance workers who violate our privacy policies are subject to a disciplinary process. 
+  4. It is our policy not to share personal information on current and former customers outside American Family Insurance for any purpose other than the underwriting or administration of a customer’s policy/account, or for marketing additional American Family Insurance products, unless the disclosure has been authorized by the customer or is permitted or required by law. 
+  5. Whenever we retain other organizations to provide support services on behalf of American Family Insurance, we require them to protect customers’ personal information. 
+  6. To update your personal information, please [contact your agent](http://apps.amfam.com/agentlocator).
+  7. When necessary, we review and revise our privacy policies to protect personal customer information.
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or sweepstakes, or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter or to contact you about your account. 
 
-If you choose to submit content (e.g., a "letter to our editors" or an online review), we may publish your name, screen name and other information you have provided to us. 
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs or services. 
+### Security Policy
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs or services. 
+To help ensure the security of personal and financial information that you submit through this website, we use security software to encrypt the information during its transmission. We only allow information to be submitted for transmission if your browser is compatible with our security software. If your browser is not compatible, you will receive a message indicating your transaction cannot be completed because of the security risk.
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. 
+American Family Insurance uses a secure server and security protocol to safeguard any information you provide. The secure server implements the Secure Socket Layer (SSL) protocol to interact with you when you provide personal information. This technology sends your data through an encrypted tunnel via 128-bit encryption so a third party cannot read the information while in transit. All personal information stored by American Family Insurance is housed securely.
 
-Agents and contractors of Time Inc. that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc. 
+We also use JavaScript, so please enable JavaScript in your browser. We only utilize JavaScript to create more dynamic and user-friendly pages.
 
-We may transfer your personally identifiable information to other Time Inc. offices for internal management and administrative purposes. Your personal data will be transferred to other Time Inc. offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise or defense of legal claims; to protect the rights and property of Time Inc., our agents, customers, and others, including to enforce our agreements, policies and terms of use; or to protect the personal safety of any person. 
+Email messages are not secure. Our security software does not encrypt email messages. Unencrypted email messages traveling through the Internet are potentially subject to viewing, alteration and copying by others.
 
-Please note that if Time Inc. or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested or otherwise disclosed as part of that transaction or proceeding. 
+### Web Cookie Policy
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data. 
+#### What Are “Web Cookies”? 
 
-|    
-  
-**Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property, or if you want to opt-out of any sharing of your personally identifiable information with third parties not owned by Time Inc., please [click here](http://321mags.com/amfam/optout/index.php). |    
-  
-If you prefer not to receive e-mail marketing from this or any other Time Inc. property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc., please [click here](http://synapse.p.delivery.net/m/p/syn/pref/preference_center.asp?bid=AF&s=P-policy). 
+Web cookies are small computer files that a website places on an Internet user's computer to store basic information. As a general rule, cookies help website operators serve their users better and more quickly. There are two types of cookies: session and persistent. Session cookies exist only during an Internet user's online session. They do not collect information from a user's computer, and they typically store information only in the form of session identification. Session cookies are erased from a user's computer when the user closes the browser software. Persistent cookies remain on a user's computer after the browser has been closed, and are stored on a user's hard drive until they expire or until the user deletes the cookie. Persistent cookies are used to collect identifying information about a user, such as Web surfing behavior or user preferences for a specific website. 
 
-Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
+#### How We Use Web Cookies 
 
-| back to top  
-  
-**Your California Privacy Rights: Notice to California Customers**  
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline, please [click here](http://321mags.com/amfam/optout/index.php) or for email, please [click here](http://synapse.p.delivery.net/m/p/syn/pref/preference_center.asp?bid=AF&s=P-policy). To find out more about your opt-out rights, please contact us via email or postal address described below. |    
-  
-**Collection of Information by Third-Party Sites and Sponsors**  
-Some of our sites contain links to other sites whose information practices may be different than ours. Time Inc. also allows you to connect with other sites and services in order to share content and information. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information. 
+When you interact with the American Family Insurance website, we strive to make your experience easy and meaningful. Our Web server uses both session and persistent cookies to improve your interaction with the Website, and to help us improve user experience. We use cookies to measure behavior on this website for usability purposes and to save choices made on some pages. The cookies used on this website do not identify you personally. Unless you choose to identify yourself voluntarily, they merely recognize your browser. You may choose to identify yourself to us by requesting a quote, by requesting more information on a product or service, or by completing one of several contact forms. Otherwise, you remain anonymous. Users who disable their Web browsers' ability to accept cookies can still browse this website. However, we encourage you to accept cookies (which can be set through your browser settings) so that we may take further strides in making this website easier to use. 
 
-Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information. 
+### Social and Mobile Policy 
 
-Time Inc. sites may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://www.timeinc.net/legal/parties.html). 
+American Family Insurance may use common tracking to customize our websites, mobile applications and social media interactions to enhance your overall customer experience. Our mobile and social media applications may also collect non-personally identifiable demographic information (such as age, sex, and city/state location) about the users of each application. Prior to installation of any mobile or social application, you will see a statement describing what information is collected from your use of that particular application. Collection and use of this data is to provide you with more relevant content. You may choose to utilize your social media profile from select social networking sites such as Facebook, Twitter, Google+ and other like-type social media sites to interact with us. By doing so, you specifically grant permission and authorize us to collect; store and use authorized personal information from these sites as indicated during the use and authorization process.”
 
-|    
-  
-**Cookies**  
-To enhance your online experience we use cookies. Cookies are text files we place in your computer's browser to remember you and your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+### Health Information Privacy Notice (for health insurance policyholders)
 
-We use cookies to understand Internet usage and to improve our content, offerings and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us. 
+We understand the personal nature of your medical information and are committed to protecting it. If you have an American Family health insurance policy, our policy administrator (American Enterprise Group Companies) provides you the following [Notice of Privacy Practices for Health Information](https://web.archive.org/pdf/insurance/health/health-privacy-notice.pdf),1 effective Jan. 1, 2013.   
 
-We may also use small pieces of code such as "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. For more information regarding cookies, please [click here](http://www.timeinc.net/legal/cookies.html). 
 
-| back to top  
-  
-**Our Commitment to Security**  
-We have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.  |    
-  
-**How You can Access or Correct Information**  
-To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](https://www.magcustomerservice.com/wss/synapse_privacy.html).  |    
-  
-**Special Note for Parents**  
-The site you are visiting is one of the Time Inc. general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.  |    
-  
-**Changes to this Notice** This Notice may be changed by Time Inc. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it and under what circumstances we may disclose it.  |    
-  
-**How to Contact Us**  
-If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://www.magcustomerservice.com/wss/synapse_privacy.html) or at the following address:
-
-American Family  
-c/o Synapse Group, Inc.  
-Attention: Consumer Affairs  
-225 High Ridge Rd  
-Stamford, CT 06905 
-
-[http://www.americanfamily.com](http://www.americanfamily.com/)
-
-| back to top  
-|  This Privacy Notice is effective 4/17/2011.
+1A PDF reader is required to open a PDF. American Family Insurance is not liable for any direct or indirect technical or system issues or consequences from your use of third-party technologies or programs accessible through our site.
