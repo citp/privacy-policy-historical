@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sona-systems.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211184843id_/http%3A//www.sona-systems.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sona-systems.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510174546id_/http%3A//sona-systems.com/privacy.aspx) for the most accurate reproduction.*
 
 # Sona Systems : Privacy
 
