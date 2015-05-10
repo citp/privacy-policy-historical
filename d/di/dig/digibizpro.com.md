@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digibizpro.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516132413id_/http%3A//www.digibizpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digibizpro.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510210330id_/http%3A//www.digibizpro.com/privacy.php) for the most accurate reproduction.*
 
 # DigiBizPro
 
