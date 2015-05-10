@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moolasavingmom.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120054014id_/http%3A//moolasavingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moolasavingmom.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510033422id_/http%3A//moolasavingmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ If you require any more information or have any questions about our privacy poli
 At www.moolasavingmom.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.moolasavingmom.com and how it is used.
 
 **Log Files**  
-Like many other Web sites, www.moolasavingmom.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, www.moolasavingmom.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**  
 www.moolasavingmom.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
@@ -29,7 +29,8 @@ Commission Junction
 
 Linkshare
 
-Kontera  
+(this list is not inclusive of all of our advertisers)
+
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.moolasavingmom.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 www.moolasavingmom.com has no access to or control over these cookies that are used by third-party advertisers.
@@ -40,14 +41,14 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 This policy is valid from 25 July 2011
 
-This blog is a [personal blog](https://web.archive.org/web/20141120054014id_/http://moolasavingmom.com/coupon-workshops/about-moola-saving-mom/#) written and edited by me. For questions about this blog, please contact  jessie@moolasavingmom.com.
+This blog is a personal blog written and edited by me. For questions about this blog, please contact  jessie@moolasavingmom.com.
 
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
 The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post may not always be identified as paid or sponsored content.
 
-The owner(s) of this blog is compensated to provide opinion on [products](https://web.archive.org/web/20141120054014id_/http://moolasavingmom.com/coupon-workshops/about-moola-saving-mom/#), services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 This blog does not contain any content which might present a conflict of interest. We blog about people to whom we are related. The most interesting such people are: NCWiseman and M.Gioeli Photography.
 
-To get your own policy, go to http://www.disclosurepolicy.org
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
