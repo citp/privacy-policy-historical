@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nigeriapropertycentre.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055916id_/http%3A//www.nigeriapropertycentre.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriapropertycentre.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510035854id_/http%3A//www.nigeriapropertycentre.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nigeria Property Centre - Nigeria Property Centre
+# Privacy Policy - Nigeria Property Centre
 
 ## Our Commitment to You
 
@@ -27,7 +27,7 @@ We may share with third parties aggregate information or information that does n
 
 ## Communicating With You
 
-If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by mailing us via info@nigeriapropertycentre.com.
+If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by mailing us via [info@nigeriapropertycentre.com](mailto:info@nigeriapropertycentre.com).
 
 ## Third Parties
 
