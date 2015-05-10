@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110829id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510104957id_/http%3A//www.familywatchdog.us/privacy.asp) for the most accurate reproduction.*
 
 # Family Watchdog
-
-### Privacy Statement
 
 Your privacy is important to us. We want you to be absolutely certain that we will not misuse any of the personal information that you provide in order to use this service. To that end, this is a full disclosure on how we will, and will not, use your personal information: 
 
@@ -44,9 +42,3 @@ We will only contact you under the following circumstances:
 
 
 If you have questions or believe this policy has been breached, contact us at c.s@familywatchdog.us. We will investigate every report of suspected violation of this privacy policy. 
-
-Sponsored ad:
-
-Sponsored ad:
-
-Sponsored ad:
