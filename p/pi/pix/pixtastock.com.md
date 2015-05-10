@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2014-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140904014659id_/http%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510144758id_/https%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stock Photos PIXTA
 
-*We have updated our Privacy Policy.
-
-We, Pixta Inc. (hereinafter referred to as “Pixta” or “we”) handle with the utmost attention, and take strict measures to protect, the personal information collected from each user (hereinafter referred to as the “User”) of our services “PIXTA” and “Imasia”(hereinafter referred to as the “Service”) in accordance with the following Privacy Policy (hereinafter referred to as the “Privacy Policy”).
+We, Pixta Inc. (hereinafter referred to as “Pixta” or “we”) handle with the utmost attention, and take strict measures to protect, the personal information collected from each user (hereinafter referred to as the “User”) of our service “PIXTA” (hereinafter referred to as the “Service”) in accordance with the following Privacy Policy (hereinafter referred to as the “Privacy Policy”).
 
 ### Definition of Personal Information
 
@@ -88,7 +86,7 @@ The number of companies constituting our group or the name(s) thereof may be cha
 
 Please click [here](https://web.archive.org/contacts) if you have any question regarding this Privacy Policy.
 
-As of September 1, 2014  
+As of April 13, 2015  
 2020 (c) PIXTA Inc. All Rights ReservedPIXTA Inc.
 
 #### Joint Use of Personal Information in our Group
@@ -96,7 +94,7 @@ As of September 1, 2014
   1. Items that may be used jointly:   
 Name, Postal Address, Telephone Number, E-mail Address, Date of Birth, Gender and Other Personal Information collected. 
   2. Scope of joint users:   
-[Our Group Companies](http://pixta.co.jp/en/company#group)
+[Our Group Companies](https://pixta.co.jp/en/company#group)
   3. Scope of use: 
     1. Provision of the Service; 
     2. Provision of customer services including but not limited to handling inquiries or claims; 
