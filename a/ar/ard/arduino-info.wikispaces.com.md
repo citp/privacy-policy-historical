@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arduino-info.wikispaces.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217015256id_/http%3A//www.wikispaces.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arduino-info.wikispaces.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510053413id_/http%3A//www.wikispaces.com/privacy) for the most accurate reproduction.*
 
-# Wikispaces - privacy
+# Wikispaces - Privacy
 
 Last Updated 17 November 2014 (General refresh and safe harbor details)
 
