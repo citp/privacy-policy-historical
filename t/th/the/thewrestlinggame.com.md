@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thewrestlinggame.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226234505id_/http%3A//www.thewrestlinggame.com/include/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewrestlinggame.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510134657id_/http%3A//www.thewrestlinggame.com/include/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy of [www.thewrestliggame.com](https://web.archive.org/web/20141226234505id_/http%3A//www.thewrestlinggame.com/include/%22http://www.thewrestliggame.com/%22)
+Privacy Policy of [www.thewrestliggame.com](https://web.archive.org/web/20150510134657id_/http%3A//www.thewrestlinggame.com/include/%22http://www.thewrestliggame.com/%22)
 
 This application collects some Personal Data from its Users.
 
