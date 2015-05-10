@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225200244id_/http%3A//www.samash.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510142924id_/http%3A//www.samash.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sam Ash Direct
 
