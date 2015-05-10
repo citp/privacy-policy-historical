@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218003550id_/http%3A//www.emedco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510060517id_/http%3A//www.emedco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,6 +31,8 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at www.networkadvertising.org/choices.
+
 **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
@@ -41,7 +43,9 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 **Do we use cookies?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser, if you allow, that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser, if you allow, that enables the sites or service providers systems to recognize your browser and capture and remember certain information. Accepting cookies through your web browser is your personal choice.  You can set your browser to disable cookies.  However, if you choose not to accept cookies, we may not be able to provide you with as good of an experience as one that is specifically tailored to your needs by utilizing the cookie.
+
+We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  To opt out of our cookies used for this online advertising, [click here](http://dtmc.emedco.com/adinfo/adchoices_fpc.html?cid=2867&cname=emedco&cmagic=1a99f6&clogo=emedco.png)
 
 **Do we disclose any information to outside parties?**
 
@@ -51,11 +55,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and editing their personal information.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into their account and editing their personal information.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children's Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **CAN-SPAM Compliance**
 
@@ -69,13 +73,13 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **September 2, 2009**
+This policy was last modified on **December 4, 2014**
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-emedco.com  
+Emedco.com  
 2491 Wehrle Drive  
 Williamsville, NY 14221  
 USA  
@@ -86,9 +90,9 @@ USA
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives: 
 
-  * Federal Trade Commision Fair 
+  * Federal Trade Commission Fair 
   * California Online Privacy Protection Act 
-  * Childrens Online Privacy Protection Act 
+  * Children's Online Privacy Protection Act 
   * Privacy Alliance 
   * Controlling the Assault of Non-Solicited Pornography and Marketing Act 
 
