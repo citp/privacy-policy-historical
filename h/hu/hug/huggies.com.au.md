@@ -1,73 +1,113 @@
-> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513000335id_/http%3A//www.huggies.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510025431id_/http%3A//www.huggies.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Huggies.com.au Huggies.com.au
+# Kimberly-Clark Privacy Policy
 
-## 1 Introduction
+**Introduction**
 
-Kimberly-Clark Australia Pty Limited or its affiliates ("Kimberly-Clark”) respects and upholds your rights to privacy protection under the Privacy Act 1988 (Cth) and is required to comply with the National Privacy Principles in respect of the collection, use, disclosure and handling of personal information. This Policy details the practices Kimberly-Clark has adopted to protect your privacy, so that you can feel confident about how Kimberly-Clark manages the personal information you entrust to it.
+Kimberly-Clark Australia Pty Limited ("KCA") respects and is committed to upholding your rights to privacy protection under the Australian Privacy Act 1988 (Cth) (including the Australian Privacy Principles) and the New Zealand Privacy Act 1993 (including the Information Privacy Principles).  KCA will comply with the Australian Privacy Principles and the Information Privacy Principles which regulate the collection, use, disclosure and handling of personal information.
 
-## 2 When and how does Kimberly-Clark collect personal information?
+This privacy policy (the “Policy”) details the practices that we have adopted to protect your privacy, so that you can feel confident about how we manage the personal information you entrust to us.
 
-Personal information is any information that can be used to identify you. Kimberly-Clark may collect information from you including your personal information (such as name, e-mail, phone number, date of birth and postal address) in the following ways:  
-(1) through Kimberly-Clark sites;  
-(2) when you contact the Consumer Advisory Service in order to make a consumer inquiry or complaint about a particular Kimberly-Clark product;  
-(3) when you participate in Kimberly-Clark consumer promotions and market research; and  
-(4) when you apply for employment with Kimberly-Clark.
+Please ensure that you read this Policy before submitting your information to us.
 
-## 3 What does Kimberly-Clark do with the personal information?
+**When, how and the kinds of personal information we collect**
 
-Kimberly-Clark’s primary goal in collecting personal information is to ensure that Kimberly-Clark’s consumers are satisfied with its products and to provide its consumers with the best possible quality of customer service. Your personal information is never shared, sold, rented or otherwise disclosed outside the company (except as required for any statutory or legal requirements) in ways different from what is described in this Privacy Policy. Kimberly-Clark will take all reasonable steps to maintain the security and integrity of your personal information including the use of computer access passwords, lock-up cabinets, personnel policies and firewalls.
+KCA will only collect personal information that is necessary for our business functions and activities, or to comply with our legal obligations. Personal information may include your name, e-mail address, phone number, date of birth, postal address or social media account ID.
 
-## 4 Information collected through Kimberly-Clark Sites
+We collect personal information in a number of ways, including information that you provide to us:
 
-Kimberly-Clark does not collect personally-identifiable information from you, unless you provide it to Kimberly-Clark voluntarily and knowingly. This means you are under no obligation to provide personal information when visiting Kimberly-Clark sites. However, if you specifically agree to follow-up contacts by Kimberly-Clark or ask to be put on a Kimberly-Clark mailing list, Kimberly-Clark may require your personal information in order to contact you from time to time.
+  * through our websites;
 
-There are some features of Kimberly-Clark’s sites that require you to sign up to use. If you do sign up, Kimberly-Clark uses the information you supply for the purpose of providing products, product information or services you request. Because of the volume of requests Kimberly-Clark receives, it may have to give your name, e-mail and postal addresses to a fulfilment house or distributor of Kimberly-Clark products who assist it in carrying out your requests.
 
-Kimberly-Clark’s sites sometimes include notices of sweepstakes or other promotions Kimberly-Clark is conducting, and Kimberly-Clark may permit you to enter electronically in some cases. If that occurs, Kimberly-Clark will use the information in accordance with the section below entitled “Consumer Promotions and Market Research”.
+  * when you contact us in order to make an inquiry or complaint about a KCA product;
 
-## 5 Children
 
-Children’s Privacy is of primary concern to Kimberly-Clark. Kimberly-Clark does not knowingly collect personal information from children under 13 years of age. Any communication Kimberly-Clark receives that is identified as being from a child under the age of 13 will not be kept by Kimberly-Clark.
+  * when you participate in KCA promotions, events or market research; and
 
-## 6 Cookies
 
-Like many companies, Kimberly-Clark sometimes uses “cookie” technology on its sites. These cookies are stored on your computer by your browser. When you log in, the cookie tells Kimberly-Clark whether you’ve visited Kimberly-Clark before or you are a new visitor. The cookie doesn’t obtain any personal information about you or provide Kimberly-Clark with any way to contact you and the cookie doesn’t extract any information from your computer. Kimberly-Clark uses the cookie to help it identify Site features in which you have the greatest interest, so that Kimberly-Clark can provide more of what you want.
+  * when you apply for employment with KCA.
 
-## 7 Links
 
-Sites operated by Kimberly-Clark may contain links to other sites operated by third parties. Kimberly-Clark makes no representations or warranties as to the privacy practices of any third-party site and is not responsible for the Privacy Policies of other sites.
 
-## 8 Information collected through Consumer Advisory Service
+In addition, there will be circumstances where we obtain your personal information from other sources, such as joint marketing partners, social media platforms or persons with whom you are connected on social media platforms.
 
-Kimberly-Clark will use the details you provide to its Consumer Advisory Service (whether by e-mail, telephone, letter or fax) in order to provide you with the information, services and products necessary to satisfy your consumer inquiry or complaint. This may involve sending a replacement product, information sheet or follow-up letter in relation to your inquiry or complaint or making a follow-up call. Kimberly-Clark may also use the information you provide to monitor repeat complaints about a particular Kimberly-Clark product.
+Before providing personal information relating to other persons to us, you must obtain their consent and notify them of the location of this Policy.
 
-Personal information collected from you by Kimberly-Clark’s Consumer Advisory Service may also be used for internal product development and quality control purposes.
+**What we do with your personal information**
 
-Your personal data is stored in a database and Kimberly-Clark also keeps paper records of all correspondence that is sent to you. Any serious complaints that Kimberly-Clark receives are printed out and filed separately in hard copy so that they may be given special attention and be investigated expediently.
+Your personal information will be collected, held and used by us in accordance with this Policy and the applicable privacy laws.  We may disclose or use your personal information for the purpose for which we collected it as well as for related purposes where you would reasonably expect us to do so.
 
-If your complaint is escalated and requires further investigation, your personal information is de-identified (made anonymous) and forwarded to Kimberly-Clark’s manufacturing plants for the purposes of determining whether further inquiries into the manufacturing processes need to be conducted. If the complaint is of a particularly serious or urgent nature, then personal or health information about you may be provided to Kimberly-Clark’s manufacturing plants or to external laboratories so that the issue may be analysed and resolved as quickly and effectively as possible.
+We may use your personal information:
 
-## 9 Information collected through Consumer Promotions and Market Research
+  * to respond to your inquiries and fulfil your requests, such as to respond to your feedback;
+  * to process rewards, donations, prizes, or sample requests;
 
-Kimberly-Clark will use the personal information consumers supply to it via on-pack promotional stickers, claim/entry forms, coupons, survey forms, questionnaires and through its sites for the purpose of providing you with incentives, prizes, samples and other promotional products, information and services. Any personal information you provide to Kimberly-Clark may be entered into a database, recorded in spreadsheets and kept in hard copy format. That information may be used for future promotional, marketing, market research, product development and publicity purposes. You may prevent such use of your personal information by opting-out at any time.
 
-Kimberly-Clark may share your personal information between different departments (including between brands) of Kimberly-Clark and with third parties such as fulfilment houses and advertising agencies who assist Kimberly-Clark with its promotional, marketing and research activities. Kimberly-Clark imposes obligations on any external organisations with which Kimberly-Clark shares your personal information to maintain the integrity and security of that information.
+  * to provide you with updates and announcements concerning our products or promotions;
 
-## 10 Can you access personal information that you have submitted to Kimberly-Clark?
 
-If your personal information changes (such as your address), or if you no longer wish Kimberly-Clark to keep your personal information on file, Kimberly-Clark will endeavour to provide a way to correct, update or remove your records. Kimberly-Clark may charge you a small fee to cover any administrative costs that it incurs in providing personal information to you. If you believe for any reason that Kimberly-Clark is holding inaccurate or incomplete information about you, you may ask Kimberly-Clark to correct it. If you wish to access your personal information or if you have any questions about the Privacy Policy, or any complaint regarding treatment of your privacy by Kimberly-Clark, please contact:
+  * to enable you to participate in social sharing, including live social media feeds and blogs;
 
-The Privacy Officer  
-Kimberly-Clark Australia  
-52 Alfred Street  
-MILSONS POINT NSW 2061  
-Australia  
-Phone Australia: 1 800 028 334  
-Fax Australia: +61 (0) 2 9963 8009  
-Phone New Zealand: 0 800 733 703  
-E-mail: Please use Kimberly-Clark [Contact Us feedback form](https://web.archive.org/about-us/contact-us).
 
-## 11 What if Kimberly-Clark’s Privacy Policy Changes?
+  * for our business purposes, including quality assurance, market research, developing and improving our products, enhancing our sites, identifying usage trends and measuring customer satisfaction;
 
-Kimberly-Clark will use information in accordance with the Privacy Policy under which the information was collected. If Kimberly-Clark decides to change its Privacy Policy, it will post those changes on its sites so you are always aware of what information Kimberly-Clark collects, how Kimberly-Clark uses it, and under what circumstances, if any, Kimberly-Clark discloses it.
+
+  * in dealing with our third party service providers that provide services such as web hosting and moderating, e-mail and direct mail delivery and IT services and fulfilment houses;
+  * when dealing with government agencies where the law requires us to do so; and
+
+
+  * for other purposes disclosed to you when we collect your information.
+
+
+
+We will take all reasonable steps to maintain the security and integrity of your personal information including through the use of access passwords, firewalls and requiring that our partners protect your personal information.
+
+**Links and third parties**
+
+This Policy does not cover, and we are not responsible for the practices of third parties, including any third parties that operate a website accessed through a link that appears on a KCA website. This includes any social media platforms to which you post content related to our products.
+
+**Information collected through your feedback**
+
+KCA will use the details you provide to us, including feedback given to our Consumer Advisory Service (whether by e-mail, telephone, letter or fax) in order to provide you with the information, services and products necessary to satisfy your customer inquiry or complaint. This may involve sending a replacement product, information sheet or follow-up communication in relation to your inquiry or complaint. We may also use the information you provide to monitor repeat complaints about a particular KCA product, and for internal product development, quality control and investigative purposes.  Our investigations may require that we disclose your information to our global quality assurance personnel or third party consultants, so that the issue may be analysed and resolved as quickly and effectively as possible.
+
+Please note that the personal information that you provide concerning use of our products may include sensitive information concerning your health or that of your family or another person.  By providing such sensitive information to us you consent to the way in which we collect and use that information in accordance with this Policy.  Before providing personal information relating to other persons to us, you must always obtain their consent and notify them of the location of this Policy.
+
+We may also from time to time provide details of a serious complaint to the relevant supervisory government body (such as the Australian Competition and Consumer Commission and the Therapeutic Goods Administration) in order to meet our legal obligations and in the interests of public safety.
+
+**Information collected through promotions, market research and our websites**
+
+KCA will use the personal information supplied to us via on-pack promotional materials, claim/entry forms, coupons, survey forms, questionnaires and through our websites for the purpose of providing incentives, prizes, samples and other promotional products, information and services. The information may be used for future promotional, marketing, research, product development and publicity purposes. You may restrict such use of your personal information at any time by using the opt-out mechanism that we include in our communications with you.
+
+We may share your personal information between different departments of KCA or its global affiliates and with third parties such as marketing agencies who assist us with our promotional, marketing and research activities.  We may also give your information including your name, e-mail, telephone number or postal addresses to a fulfilment house or distributor of our products in order to carry out your requests.
+
+**Cookies and passive information collection**
+
+Like many companies, we sometimes use "cookie" technology on our websites. These cookies are stored on your computer by your browser. We use cookies to help us to identify and optimise content of greatest interest to you, gather statistical information and better understand individual use.  Pixel tags, web beacons, clear GIFs and similar technologies may also be used by us or our third party service providers to measure the success of marketing campaigns and compile statistics about site usage.  Furthermore, and as is common practice, we may identify and compile information concerning your IP address (a number automatically assigned to your computer by your internet service provider) which helps us to calculate site usage levels, diagnose technical problems and administer our websites.
+
+**Information collected through employment applications**
+
+In processing applications for employment, KCA collects resumes, references, certificates of graduation and qualification and other personal information about candidates. We may also provide your application to a recruitment agency or contractor that may assist in reviewing applications we receive.
+
+Letters and resumes sent to KCA as part of an application for an advertised position, or sent to ascertain whether any positions are available, will be used to match applicants with available opportunities. If we consider that your application may be suitable to our current requirements, we, or a party acting on our behalf, will notify you and may also contact persons nominated by you as referees and ask them questions in relation to you. If your application is not suitable for our current requirements, but we feel that there may be a position for you in the future, we may keep a record of your application and contact you again if a suitable position becomes available.  Please advise us if you prefer that we do not retain your information for this purpose.
+
+**Overseas disclosure**
+
+Your personal information may disclosed to KCA’s affiliate companies or third party service providers located outside of Australia or New Zealand.  It is likely that those overseas recipients will be located in the United States of America, Thailand or Malaysia, though this list will change from time to time.  If you provide your personal information to us in accordance with this Policy, you are taken to consent to the disclosure of your personal information to overseas recipients. As a result of your consent, Australian Privacy Principle 8.1 will not apply to the disclosure.  Whilst we will make every reasonable effort to ensure that recipients of your information protect your personal information, we will not be obliged to ensure that overseas recipients comply with the Australian Privacy Principles or New Zealand Information Privacy Principles (as relevant).
+
+**How to access and correct your personal information or make a complaint**
+
+If you would like to review, correct, update or delete the personal information that we hold concerning you, or if have any questions or complaints concerning a possible breach of the Australian Privacy Principles or the New Zealand Information Privacy Principles please contact our Privacy Officer:
+
+**Mail** :  The Privacy Officer, Kimberly-Clark Australia, 52 Alfred St, Milsons Point NSW 2061, Australia
+
+**Phone**   (Australia):  +61 (0)2 9963 8888
+
+**Phone** (New Zealand):  \+ 64 (0)9 250 2500
+
+**E-mail** :  privacykca@kcc.com
+
+We will refer any complaints to our Privacy Officer to investigate and to determine the steps we will take to resolve the complaint.  We aim to acknowledge receipt of your complaint within 5 working days, and to address the complaint within 15 working days.  We may also request information from you to help us with our investigation.
+
+**Updates to this Policy**
+
+We may change this Policy from time to time.  The date on which the Policy was last updated is noted at the top of this page.  Any changes to the Policy are effective from posting the revised Policy on this website.
