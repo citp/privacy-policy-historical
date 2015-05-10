@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219103254id_/http%3A//www.novell.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novell.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510090311id_/http%3A//www.novell.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Novell's Privacy Statement
 
@@ -49,7 +49,7 @@ When you provide personal information to Novell, you have entered into a busines
 Novell and its affiliated companies, resellers, companies working on our behalf and Novell-owned business entities will primarily use your personal information to:
 
   * Provide you with periodic information about products, upgrades, special offers, services, and events from both Novell and its affiliates 
-  * Allow you to purchase and/or download products and/or receive support or other services for Novell or its affiliate’s products
+  * Allow you to purchase and/or download products and/or receive support or other services for Novell or its affiliate's products
   * Deliver information regarding products or services that you request or purchase
   * Gather demographic information about Novell web site visitor trends
   * Allow you to access limited-entry areas of our site as appropriate
@@ -62,7 +62,7 @@ Novell may send out periodic emails of a transactional nature including, without
 
 #### Sharing of Your Personal Information
 
-Except as described herein, Novell will not sell, rent or lease your personal information to others. Novell shares personal information with its affiliated companies, resellers, companies working on our behalf and Novell-owned business entities. We will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent. Certain Novell affiliates are designated resellers of Novell products. and employees of such affiliates may serve as your primary contact with Novell. Additionally, some Novell services may be co-branded and offered in conjunction with another company or affiliate. If you register for or use such services, both Novell and the other company may receive information collected as part of the co-branded services.
+Except as described herein, Novell will not sell, rent or lease your personal information to others. Novell shares personal information with its affiliated companies, resellers, companies working on our behalf and Novell-owned business entities. We will not disclose your personal information to third parties for their own marketing purposes unless you have provided consent. Certain Novell affiliates are designated resellers of Novell products, and employees of such affiliates may serve as your primary contact with Novell. Additionally, some Novell services may be co-branded and offered in conjunction with another company or affiliate. If you register for or use such services, both Novell and the other company may receive information collected as part of the co-branded services.
 
 If you request something from a Novell web site (for example, a product or service, a callback, or specific marketing materials), we will use the information you provide to fulfill your request. To help us do this, we may share information with others, such as Novell's business partners, financial institutions, shipping companies, and postal or government authorities (e.g., Customs authorities) involved in fulfillment. As part of a transaction, we may also contact you as part of our customer satisfaction surveys or for market research purposes.
 
@@ -98,11 +98,11 @@ If you participate in a Novell discussion forum or chat room, you should be awar
 
 #### Cookies and Browser Information
 
-Some Novell web pages, and some Novell e-mail communications, make use of "cookies." A cookie is a small file that a website may send to your browser when you visit a page, or when you open an e-mail or a document; and your browser may store the cookie on your hard drive. Cookie delivery may be triggered by invisible content (such as an image file or “beacon”) embedded in web pages or other materials.  Cookies help us to collect and aggregate information about our interactions with visitors, so that we can improve the general operations of our site and the effectiveness of our promotional campaigns. Additionally, by enabling us to observe your use of our site, and your actions in response to materials we send to you, cookies help us to tailor our communications to your interests when you return to this site, and when we send materials to you.
+Some Novell web pages, and some Novell e-mail communications, make use of "cookies." A cookie is a small file that a website may send to your browser when you visit a page, or when you open an e-mail or a document; and your browser may store the cookie on your hard drive. Cookie delivery may be triggered by invisible content (such as an image file or "beacon") embedded in web pages or other materials. Cookies help us to collect and aggregate information about our interactions with visitors, so that we can improve the general operations of our site and the effectiveness of our promotional campaigns. Additionally, by enabling us to observe your use of our site, and your actions in response to materials we send to you, cookies help us to tailor our communications to your interests when you return to this site, and when we send materials to you.
 
 If you simply want to browse, you do not have to accept cookies from our site. You can at any time tell your browser to notify you whenever a website tries to use a cookie so that you can decide whether to accept it, and you can prevent the use of cookies by telling your browser to refuse them. However, please note that doing so may affect your experience of certain websites. By visiting our website with your browser settings adjusted or set to accept cookies, we will reasonably conclude that you are signifying to us your consent to the use of cookies.
 
-If you choose to reject cookies from Novell, you will not experience a personalized visit and you may not be able to access certain screens or subscribe to certain offerings on the site. To find out more about cookies, including how to control and delete them, please see [www.aboutcookies.org](https://web.archive.org/web/20141219103254id_/http://www.novell.com/company/legal/privacy/www.aboutcookies.org)
+If you choose to reject cookies from Novell, you will not experience a personalized visit and you may not be able to access certain screens or subscribe to certain offerings on the site. To find out more about cookies, including how to control and delete them, please see [www.aboutcookies.org](http://www.aboutcookies.org/)
 
 With or without cookies, our website keeps track of usage data, such as the source address from which a page request originates (i.e., your IP address, domain name), date and time of the page request, the referring website (if any), and other parameters in the URL (e.g., search criteria). We use this data to better understand website usage in the aggregate so that we know what areas of our website users prefer (e.g., based on the number of visits to those areas). This information is stored in log files and is used for aggregated and statistical reporting.
 
@@ -118,4 +118,4 @@ If you have questions or concerns regarding this statement, you should first con
 
 Novell reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site.
 
-_This Privacy Statement was last amended on May, 2014._
+_This Privacy Statement was last amended on April, 2015._
