@@ -1,75 +1,122 @@
-> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101090555id_/http%3A//elliemae.com/legal/legal_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510222241id_/https%3A//www.elliemae.com/privacy-policy) for the most accurate reproduction.*
 
-# Ellie Mae
+# Privacy Policy | Ellie Mae
 
-Privacy Policy
+[ ](https://www.elliemae.com/privacy-policy "Privacy Policy")
 
-Please note: Portions of this website are currently in the process of being updated.
+ELLIE MAE, Inc., maintains Internet Web sites as a service to its customers. By using Web sites owned or operated by ELLIE MAE, you are agreeing to comply with and be bound by the following terms of use, which are subject to change at any time (click on each link to read full text):
 
-(January 21, 2000) 
+This section summarizes our overall privacy practices, and more detailed information about the information collection and use of each of our products, which is more fully described in the individual policy documents available below.
 
-ELLIE MAE is committed to honoring the privacy of visitors to our corporate and affiliate Web sites. Our Web site describes our information practices and lets users give informed consent before participating in programs and services. This page provides answers to the following questions: 
+### Information Collected:
 
-  * _What information does ELLIE MAE® ask for and how is it used?_
-  * _Do I get to choose what information I disclose?_
-  * _Who has access to the information that I provide to Ellie Mae?_
-  * _What if I need to change the personal information I previously disclosed?_
-  * _Who can I contact if I have any questions regarding my privacy?_
-  * _What is a "cookie" and how does it work?_
-  * _What does Ellie Mae do with the non-public personal information it receives regarding its business partners', affiliates' or mortgage broker clients' customers?_
-
-
-
-What information does ELLIE MAE® ask for and how is it used? 
-
-We make every effort to protect our partners, affiliates, and individual consumers, but we do not control the privacy policies or business practices of third-party Web sites. When our business partners and affiliates register for services provided by ELLIE MAE®, they are asked to provide certain information such as their name, business address, contact information, and company description. We only ask for this information so that our account managers and Web site coordinators can maintain quick, effective communication and constantly personalize our business services to your requirements. Your registration, contact information, and any passwords you may be issued are also required for your secure movement and transaction processing throughout our Web sites. 
-
-However, certain third-party Web sites to which we provide links or which are hosted by ELLIE MAE® for public use have different or additional terms of use, (including different privacy policies), which you should read, so that you fully understand particular uses of personal information by third parties who are partnered or affiliated with ELLIE MAE. Because ELLIE MAE does not control activity on any third party Web sites, even when hosted by ELLIE MAE, ELLIE MAE makes no representation concerning the use and/or disclosure of any information provided to such third party Web sites. 
-
-Do I get to choose what information I disclose? 
-
-Yes, our business partners and affiliates can always choose whether or not to disclose personal or business information through ELLIE MAE®. Certain information is of course required for registration and to establish and securely manage your ELLIE MAE account, but other requested information may be optional. Specific questions about what information is currently required should be addressed to the account manager and Web site coordinator who establish your account. 
-
-Who has access to the information that I provide to Ellie Mae? 
-
-We use basic information which we collect to make your business relationship with ELLIE MAE® more productive and tailored to your individual preferences. We require specific additional information when you subscribe to some customized services, and we store that information in secure databases. We share some aggregate statistical data with companies from which we obtain analytical and marketing services or partnerships. These companies do not have access to our secure database, and we never provide these companies with access to any consumers' financial, personal, or loan-transaction information which we store on behalf of our business partners and affiliates. From time to time, we may be asked to disclose such information to third parties as part of a legal proceeding (i.e. subpoenas and criminal investigations); in such cases, ELLIE MAE will disclose personally identifiable information as required by law. 
-
-What if I need to change the personal or business information I previously disclosed? 
-
-All changes in our partners' and affiliates' contact or business information should be sent immediately to the account manager and Web site coordinator who manage your account. Private consumers who use the mortgage services of our partners and broker affiliates should contact them directly by e-mail or by phone to update personal and loan-account information. 
-
-Who can I contact if I have any questions regarding my privacy? 
-
-If you have specific questions about ELLIE MAE®, you can contact us directly through our e-mail "info" address provided below. For more general information, we recommend the Web site published by the U.S. Federal Trade Commission, which includes news and commentary about privacy protection on the Worldwide Web; or go directly to their FTC Search page, enter the words "Internet privacy" (without quotes) in the text field, and hit the Search button. We also highly recommend the Yahoo! list of Web sites with information about privacy issues. 
-
-What is a "cookie" and how does it work? 
-
-We occasionally use software "cookies" (tiny data files sent to and stored by the client computer's web-browser software) to let you use our services more efficiently, and to let us keep track of statistical traffic information that helps us improve our Web site. One extremely valuable service provided by cookies is that they can save many preferences which you have established for navigation, searching, and shopping in your favorite Web sites. After your computer has requested and received a cookie from an Internet server, the cookie simply allows you to visit Web site pages repeatedly without having to reintroduce yourself each time you return. No other user's computer on the Worldwide Web will have that same cookie, and only the Web site which issued that cookie can later retrieve it. A Web site can transmit one or (rarely) more cookies to the user's browser software, and each may have a very different purpose. Cookies from our server contain only information which a user volunteers, or which guarantees the secure transmission of their data across the Internet, or which can automatically disconnect a user's "log-in" session after a period of inactivity (in case you go to lunch but forget to "log off"). 
-
-Some ELLIE MAE® Web site services may not function correctly if the user's browser software cannot accept cookies. Recent versions of Web browsers can be customized so that a cookie is always accepted-but only after the user is advised and consents. 
-
-Cookie Choices in Your NETSCAPE® Browser: 
-
-Beginning with version 4.0, Netscape Navigator gives users the power to control cookies. In version 4.0 and higher, you can activate your "Cookie Alert" by pulling down the "Edit" menu and selecting "Preferences." Click "Advanced Settings" at the bottom of the dialog box, and choose from the following: 
-
-  * Accept all cookies. 
-  * Accept only cookies that get sent back to the originating server. 
-  * Disable cookies. 
+  * When you request services or information from Ellie Mae®, we will ask you to provide basic contact or login information.
+  * When you purchase services online or through an Encompass®, we will ask you to provide billing information.
+  * When you request services from third party partners or providers through Encompass or other Ellie Mae Products, you will be asked to provide information necessary for the third party to render those services.
+  * Ellie Mae uses common internet technologies, such as cookies and web beacons, to track interactions with our products, the Ellie Mae website and our email communications to you.
+  * For more information about our data collection, use and transmission practices for users of our website, please refer to the Ellie Mae Website Privacy Policy. Our Terms of Use also govern your use of our Website.
+  * If you are a registered user, you can also access specific policies for Ellie Mae product and services through the Privacy Policies link in the About Encompass dialog screen found in the Help menu. We recommend that you review these improved policies at your earliest convenience.
 
 
 
-Another option is for Navigator to warn you before accepting a cookie. Every time there is an incoming cookie, a dialog box will ask if you want to accept it. 
+### Important Information:
 
-Cookie Choices in Your MICROSOFT® Browser: 
+  * Please reference the Privacy Policy applicable to any product you have purchased for important information about Ellie Mae’s information practices when you use that product. Our practices differ substantially depending on which product you are using.
+  * If you are considering whether to become an Ellie Mae customer, you can view the privacy policy applicable to each of our products either by (1) asking your sales contact for a copy or (2) referencing the link to the policy provided for your approval during the installation process of the applicable trial product.
+  * As we design new products and services to improve your experience with Ellie Mae, we may implement new practices and revise our Privacy Policies accordingly. Please periodically reference these policies to be sure you have current information about our practices.
 
-Beginning with version 4.0, Microsoft Internet Explorer gives users the power to control cookies. To enable cookies within Internet Explorer 4.0 and higher, select "View | Internet Options" and go to the "Advanced" tab. Scroll down to the Security section and select "Always accept cookies". If the user wants to see each cookie that the browser receives, they should select "Prompt before accepting cookies" in the Advanced tab and a Security Alert dialog will appear before a cookie is accepted. 
 
-Caveat Web-Surfer: 
 
-Before choosing to have your Web browser warn you of all incoming cookies, keep in mind that some web pages may have more than 100 cookies and you will be notified about each one separately. 
+### Use of Information:
 
-What does Ellie Mae do with the non-public personal information it receives regarding its business partners' , affiliates' or mortgage broker clients' customers? 
+  * Ellie Mae uses information collected to provide you with the services you request from Ellie Mae and from our third party partners and affiliates.
+  * Ellie Mae may use information collected to provide you with additional information about the company’s products and services, partners, promotions and events.
+  * Ellie Mae may use information collected to improve the company’s website, products or services.
+  * Ellie Mae does not sell or rent personally identifiable information to third parties, and we share information that could identify you only as explicitly described in our Privacy Policies. Generally, we only share information collected by our products that could be used to identify you with partners who we don’t permit to use the information other than to offer you products or services of interest.
+  * We may disclose your information in order to comply with applicable laws, regulations or a government investigation.
 
-Ellie Mae provides a wide range of services to its business partners, affiliates and mortgage broker clients. In connection with these services, Ellie Mae often receives non-public personal information about the customers of its business partners, affiliates and mortgage broker clients. Except as permitted by law, Ellie Mae does not share, disclose or otherwise use non-public personal information that it receives from its business partners or mortgage broker clients about its business partners' or mortgage broker clients' customers. Federal privacy regulations limit the manner in which Ellie Mae may re-use or re-disclose this information, and Ellie Mae complies with these regulations. 
 
-Questions specifically regarding this ELLIE MAE® statement of privacy policy should be directed to [info@elliemae.com ](mailto:info@elliemae.com)
+
+### Borrower Information:
+
+  * In the course of using Ellie Mae products and services, some users may send us information about individual borrowers or other persons who do not directly use any Ellie Mae products.
+  * Ellie Mae requires that any such information be collected from third parties permissibly and legally if it is used with an Ellie Mae product or service. However, the Encompass user or person who collects such information is ultimately responsible for guarding its security and obtaining any necessary permission from third parties to use it.
+
+
+
+### Communications Preferences:
+
+  * Our marketing emails contain instructions on how to opt-out of receiving further marketing communications from the company.
+  * Our Encompass client interface allows you to edit your contact, billing and other personal information in the “Settings” menu.
+  * Marketing programs which implicate the sharing of information with third parties in order to assess whether new products or services would be of interest for you can be turned off in whole or in part within the “Settings” menu of Encompass or as more fully explained in the Privacy Policy applicable to individual Ellie Mae Products, including the Ellie Mae Network™.
+
+
+
+### Still have questions?
+
+Please refer to the full text of our Website Privacy Policy.
+
+### How to Contact Us:
+
+For more information about Ellie Mae’s information practices, including how to opt-out of certain programs, please review the Privacy Policy applicable to the product or service you are using. Further questions about our information practices should be directed here or can be submitted by regular mail to: Privacy Inquiries Ellie Mae, Inc. 4155 Hopyard Road Suite 200 Pleasanton, CA 94588
+
+**Effective Date** : This Privacy Policy is effective and was last updated as of March 27, 2013. This policy describes our collection, use and storage of data from our customers (and, where applicable, their customers or business associates). Ellie Mae® customers should also refer to their license agreement and other customer agreements, which state additional terms governing their use of our Ellie Mae Network™, products and services.
+
+### Our Commitment to Your Privacy
+
+Welcome to the Ellie Mae, Inc. website located at [www.elliemae.com](https://web.archive.org/ "Ellie Mae, Inc.") (the “Website“). This Privacy Policy describes:
+
+  * How and why we collect certain information from you via the Website;
+  * How we use and with whom we share such information;
+  * How visitors to the Website and users of our Ellie Mae Network, products and services can access and update such information; and  
++The choices they can make about how we collect, use and share their information.
+
+
+
+We collect and use information differently depending on which of our services you employ, so it is important that you review the Privacy Policy which discusses each individual service you access. When you are logged in to our individual product interfaces, separate privacy policies are prominently available to authorized users of the following services:
+
+  * Our Encompass® client, which you must purchase and download to use;
+  * Our CenterWise® system, which can be integrated with our Encompass software;
+  * Our ePASS® system, hereinafter referred to as the “Ellie Mae Network”, which is integrated with our Encompass® software; and
+  * Our Encompass Compliance Service, which is integrated with our Encompass software and available as a stand-alone engine, Mavent ACE.
+
+
+
+If you have any questions regarding this Privacy Policy or our information collection and use practices, please contact us using the information in the “Contact Us” section below.
+
+### The EllieMae.com Website
+
+**Information Collected at EllieMae.com Personal Information Provided in Sales Inquiries**. If you have communicated with an Ellie Mae sales representative, on or offline, we collect the name, title and company, address, email and telephone number you provide us in order to offer you Ellie Mae products and services. Such information may later be associated with information collected on the Website or through the products or services you order so that we can assess the efficacy of our sales efforts. In addition, if you choose to contact us for support or other information through any of the email addresses or phone numbers available through the “Contact Us” link on the Website, our representatives will record your email address (if the contact was via email) or your telephone number (if the contact was by phone) ( **“Personal Information”** ), as well as the ClientID associated with your account, if any. **Non-Personal Information Collected from Site Visitors**. Like most standard website services, we collect certain types of technical non-personal information, including internet protocol (IP) addresses, browser types, internet service providers (ISPs), the number and duration of page visits and the number of clicks, when you use our Website. In the ordinary course of delivering our web-based services we receive information about our customers’ borrowers or business associates. We are not generally responsible for the collection of this information from these borrowers or associates. Please see the Privacy Policies applicable to each of our products and services for further information about such borrower information.
+
+### How We Collect Information on the Website
+
+When you visit and interact with the Website, independently of your use of any Ellie Mae product or service, our web server uses cookies to improve your interaction with the Website by, for example, expediting load times for individual pages or remembering your preferences and settings. What are cookies? Cookies are files that web servers place on an Internet user’s computer. They are designed to store basic information about the user and transmit that information back to servers that recognize them. They may be used to measure visitor behavior on and in connection with a website. There are two main types of cookies: session and persistent. Session cookies exist only during an Internet user’s online session. They disappear from the user’s computer when he/she closes the browser software. Persistent cookies may remain on the user’s computer after the browser has been closed and resume interaction with the server when the user returns to a website. Depending on which browser you use to access the internet (Internet Explorer, Safari, Firefox, etc.), you can change your settings to affect whether to accept, store or delete cookies, but doing so may impact you ability to navigate our site and use our products. How does Ellie Mae use cookies? We use both session cookies and persistent cookies. The cookies used on the Website do not identify you personally by default. They merely recognize your browser, unless you choose to identify yourself voluntarily, which you may do by asking the browser to remember your username and password, for example. They transmit information to us about your browsing choices, such as which hyperlink you followed to arrive at the Website, which we in turn use to optimize your browsing experience. In some cases, third party software products, such as Google analytics, are used help us optimize our website’s performance, and that third party software may access these cookies and use the information contained in such cookies to help us do so. If you are logged in to our services or are a returning site visitor and therefore a potential customer, we use persistent cookies to, among other things, (1) track your use of our software, (2) authenticate your login to our software products and (3) maintain the preferences you have chosen. We encourage you to reference the Privacy Policy applicable to each of our products in order to understand how they use cookies. What are Web Beacons and how does Ellie Mae use them? We may also use web beacons, which are transparent graphic images on a webpage or within the body of one of our marketing emails, to allow us to measure visitor actions and assess the effectiveness of our website or email marketing campaign. For example, we use web beacons in our email marketing to track instances where a user clicks through a link in the email.
+
+### How We Use Information Collected at the EllieMae.com Website
+
+We may use Personal Information you provide during a support contact, independently or in association with cookies we have placed on your machine (in the case of contact directly through the Website), to, among other things, provide you with offers for Ellie Mae products and services which may be of interest to you via direct email marketing or to facilitate the log in process for online services like the Resource Center. You may opt-out of receiving such offers at any time by following the steps to “unsubscribe” described in the footer of our marketing emails. Your opt-out will become effective in 10 days or less. We may share Personal Information gathered on our Website through cookies or web beacons independently from your use of any Ellie Mae product or service with third parties to provide services on our behalf, including marketing assistance, e-mail delivery, hosting services, customer service and data analysis. We require third party service providers to maintain the confidentiality of the information disclosed to them. Third parties who provide services for us are not permitted to use information we share that might identify you for any purpose other than to provide services to Ellie Mae or to you. We may disclose any information, including Personal Information, we deem necessary to comply with any applicable law, regulation, legal process or governmental request, or to enforce our rights or protect the safety and security of our Website or other users. In the event we undergo a business transition, such as a merger, acquisition by another company or a sale of all or a portion of our assets, we may transfer information about you contained in our physical records or on our servers to the intended successor organization in such transaction. If material changes to our privacy practices will occur as a result of the business transition, we will post a notice on the Website alerting you to the business transition.
+
+### Information collected at Appraisal Center, Title Center and Loan Center
+
+If you are a service provider who wishes to transact with other Ellie Mae customers you may use segments of our website designed for service providers. When you register or login at one of these service center homepages, such as Appraisal Center at appraisalcenter.elliemae.com, we collect and process some information in addition to what is described above. At each homepage, you may login or register to view requests for your services sent by Encompass users. When you login or register, we collect the login ID and password you use to ascertain your identity and display the proper orders to you. Either when you register or during your subscription to Ellie Mae services, we will also collect credit card information you input or share for billing purposes. If you choose to create a marketing page for others to view within Encompass, we will store the information you provide for that page on our servers to enable Encompass users to access and view your page. This collection, use and storage of data is in addition to that described above for our Website generally. Our Policies Concerning Children This Website is intended for the use of adults over the age of 18 with an interest in Ellie Mae’s software services, which relate to the residential real estate market. As such, it is obviously not intended for children under the age of 13 and we do not knowingly collect any personal information from such persons. Individuals who are under the age of 18 should not use our Website or our online services at any time. In the event that we learn that we have inadvertently gathered Personal Information from children under the age of 13, we will use reasonable efforts to erase such information from our records. Privacy Policies of Linked Sites and Advertisers Our Website may contain links to other sites, as well as advertisements from companies linking to their own sites. These other sites may not have privacy policies, and we are not responsible for the privacy practices or the content of such sites. If you have any questions about how these other sites use your information, you should contact them directly. Security Ellie Mae has physical, administrative and technical measures in place to maintain the security, confidentiality and integrity of the data gathered through the Ellie Mae Website, and to help protect against the loss, misuse and alteration of such data. For example, when you access the Website, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that the data is safe, secure and available only to us. Our employees may access information stored on our servers with proper credentials during the normal course of our business in order to administer, test and secure the servers hosting such information. However, while we take reasonable steps to protect your personal information against security breaches and unauthorized access, no data transmission over the Internet can be guaranteed to be totally secure and therefore we cannot ensure or warrant the security of any information you send to us. You send any information via the Website at your own risk.
+
+### Your California Privacy Rights
+
+This Privacy Policy describes when and how we share information for marketing purposes. This Privacy Policy applies to all users of the Website, including residents of California. You can prevent future disclosures of your personal information (as submitted through the Contact Us function) to our affiliates and service providers, at no charge, by exercising your opt-out rights as described in the “How to Access and Update Your Information” section below. By providing you with the ability to exercise such opt-out rights, we have complied with California Civil Code Section 1798.83, and we therefore are not obligated to provide the names and addresses of third parties that have received personal information from us for their marketing purposes.
+
+### Changes to Our Privacy Policy
+
+If we decide to make material changes to our Privacy Policy, we will attempt to notify you and other users of the Website by sending a notice to the primary email address provided to us and/or by placing a notice on our Website. You should periodically check the Website for such notices.
+
+### How to Access and Update Your Information
+
+You can access and update the information that you have provided to us as follows:
+
+  * You may contact us at privacy@elliemae.com and request to review, amend or delete your Personal Information collected by us through email or telephone sales contacts if you have not chosen to obtain services from Ellie Mae.
+  * If you have an Encompass account, you can review and make changes to the Personal Information, user identity information, company information and other of your data within the “Settings” menu of Encompass. We require that you keep your contact information current and accurate. Please refer to the Privacy Policy applicable to each Product for your access options with respect to that particular product.
+
+
+
+### Contact Us
+
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to: [privacy@elliemae.com](mailto:privacy@elliemae.com "Ellie Mae's Privacy Policy") Ellie Mae, Inc. 4155 Hopyard Road Suite 200 Pleasanton, CA 94588
