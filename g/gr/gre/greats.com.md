@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greats.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216050602id_/http%3A//www.greats.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greats.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510091304id_/http%3A//www.greats.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greats
 
@@ -29,6 +29,24 @@ We do not sell, license, lease or otherwise disclose your personal information t
   * If we sell GREATS or any part of its assets, or GREATS enters into a joint venture with another business entity, we may disclose your personal information to our new business partners or owners who may then provide you with information about their products and services.
 
 
+
+**This website uses Google AdWords**
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site or audiences similar to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the GREATS.COM website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. 
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or  
+[permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
+
+**Text Messaging / SMS Policy**
+
+When you provide us with your mobile phone number, you agree that Greats may send you text messages (including SMS and MMS) to that phone number. Greats will send you up to 5 messages per month. You will receive a confirmation text message, and you may need to reply as instructed to complete registration. Message and data rates apply. Reply STOP to cancel, HELP for help. You agree to receive a final text message confirming your opt-out. You may opt-out at any time by texting the word STOP to shortcode 33233. You agree to receive a final text message confirming your opt-out. For help, send a text message with the keyword HELP to short code 33233. Texts may be sent through an automatic telephone dialing system. Consent is not required to purchase our goods or services. You agree to notify us of any changes to your mobile number and update your account us to reflect this change. Your carrier may prohibit or restrict certain Mobile Features and certain Mobile Features may be incompatible with your carrier or mobile device. Contact your carrier with questions regarding these issues.
+
+ Greats will never charge you for the text messages you receive. You might see some message & data rate charges from your mobile provider, though, so be sure to check your plan.
+
+Any information communicated to rookie for text messaging and or storage will remain in the ownership of the user, which will store securely in accordance with our security policy and the law. Greats will take the necessary steps to secure your personal information with safeguards appropriate to the sensitivity of the information. Greats will, at no time, rent or redistribute this information without your consent, except where legally required to do so. 
+
+It is policy, that just as a user must opt in to a text marketing list, they have the right to opt out of a particular text marketing list as well. When a user opts out of a text marketing list, they will no longer receive any texts unless they, themselves, re-subscribe. 
 
 **Security & Information Retention**
 
