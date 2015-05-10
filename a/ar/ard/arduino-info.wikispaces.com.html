@@ -1,18 +1,17 @@
-<!--The following is the downloaded HTML source of the arduino-info.wikispaces.com privacy policy that was archived on 2014-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217015256id_/http%3A//www.wikispaces.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arduino-info.wikispaces.com privacy policy that was archived on 2015-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510053413id_/http%3A//www.wikispaces.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="alternate" type="application/x-wiki" title="Edit This Page" href="/page/edit/privacy">
+<link rel="alternate" type="application/x-wiki" title="Edit This Page" href="/page/edit/Privacy">
 <link rel="alternate" title="Wikispaces - All Changes" href="http://www.wikispaces.com/wiki/xmla?v=rss_2_0" type="application/rss+xml">
-<link rel="alternate" title="www : privacy - Edits" href="http://www.wikispaces.com/page/xml/privacy?v=rss_2_0" type="application/rss+xml">
-<link rel="microsummary" href="/page/microsummary/privacy/edits">
-<link rel="microsummary" href="/page/microsummary/privacy/messages">
+<link rel="alternate" title="www : Privacy - Edits" href="http://www.wikispaces.com/page/xml/Privacy?v=rss_2_0" type="application/rss+xml">
+<link rel="microsummary" href="/page/microsummary/Privacy/edits">
+<link rel="microsummary" href="/page/microsummary/Privacy/messages">
 <script type="text/javascript">
   
 if (typeof ws === 'undefined') ws = {};
-if (typeof ws.context === 'undefined') ws.context = {};
 ws.context = {
   instance: {
     id: '1',
@@ -26,7 +25,9 @@ ws.context = {
     username: '',
     status: '',
     locale: 'en',
-    imageUrlPrefix: 'http://www.wikispaces.com/i/user_none_'
+    imageUrlPrefix: 'http://www.wikispaces.com/i/user_none_',
+    isTeacher: false,
+    canAdministerWiki: false,
   },
   wiki: {
     id: '1',
@@ -45,16 +46,16 @@ ws.context = {
   space: {
     id: '1',
     name: 'www',
-    isDefaultSpace: true
+    isDefaultSpace: true,
+    isDefaultTemplate: false
   },
 
   environment_name: 'prod',
-  userCanAdministerWiki: false,
 
   path: {
     object: 'page',
     method: 'view',
-    page: 'privacy',
+    page: 'Privacy',
     id: ''
   },
 
@@ -70,7 +71,7 @@ ws.context = {
     isDialog: false,
     pwin: ''
   },
-  clockSkewMillis: 1418781176502 - ((window.performance && window.performance.timing.responseStart > 0) ? window.performance.timing.responseStart : (new Date()).getTime())
+  clockSkewMillis: 1431236053245 - ((window.performance && window.performance.timing.responseStart > 0) ? window.performance.timing.responseStart : (new Date()).getTime())
 }
 
 
@@ -97,24 +98,7 @@ var wikispaces_isUploadCapable = ws.context.settings.isUploadCapable;
 var wikispaces_can_discuss = ws.context.settings.can_discuss;
 var wikispaces_has_gdocs = ws.context.settings.has_gdocs;
 
-</script>
-<script type="text/template" id="dialog-template">
-<div class="modal fade" role="dialog" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
-        <h4 class="modal-title"><%= header %></h4>
-      </div>
-      <div class="modal-body">
-        <%= body %>
-      </div>
-    </div>
-  </div>
-</div>
-</script>
-
-    <title>Wikispaces - privacy</title>
+</script>    <title>Wikispaces - Privacy</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="apple-touch-icon" sizes="144x144" href="//www.wikispaces.com/i/logo-144.png">
@@ -186,13 +170,12 @@ footer a, footer a:hover {
   color: #467;
   text-decoration: none;
 }
-
   </style>
-  <link rel="stylesheet" href="//www.wikispaces.com/s/www.css" type="text/css">
 <link rel="stylesheet" href="http://www.wikispaces.com/stylesheet/viewi/217420326D.css" type="text/css">
-<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/vqk8zz39-internal-bootstrap.css" type="text/css">
-<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/5q61jqqj-internal.css" type="text/css">
-<script src="http://www.wikispaces.com/s/nogz/z0zv9z6q-common.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/9q897620-internal-bootstrap.css" type="text/css">
+<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/vz033906-internal.css" type="text/css">
+<link rel="stylesheet" href="http://www.wikispaces.com/s/nogz/k1z61728-www.css" type="text/css">
+<script src="http://www.wikispaces.com/s/nogz/j91xzz3x-top.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -211,7 +194,7 @@ footer a, footer a:hover {
   _gaq.push(['_setCustomVar', 2, 'Authenticated', 'Guest', 2]);
   _gaq.push(['_trackPageview']);
 </script></head>
-<body><a href="#WikiContent" class="hidden sr-only sr-only-focusable">Skip to main content</a><div id="js-fixed-header-holder" class="fixed" "=""><div class="WikispacesContent WikispacesBs3" role="banner">
+<body><a href="#WikiContent" class="hidden sr-only sr-only-focusable">Skip to main content</a><div id="js-fixed-header-holder" class="fixed"><div class="WikispacesContent WikispacesBs3" role="banner">
       
     <div class="ws-main-top-nav ">
     <div class="navbar navbar-static-top" style="margin-bottom: 0;">
@@ -220,7 +203,7 @@ footer a, footer a:hover {
             <div class="WikiInternalHeaderNav noHide">
   <div class="WikiInternalHeaderNavMenu">
           
-      <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fwww.wikispaces.com%2Fprivacy" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fwww.wikispaces.com%2FPrivacy" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
       </div>
 </div>          </div>
                 <div class="navbar-header">
@@ -230,7 +213,7 @@ footer a, footer a:hover {
             </a>
           </div>
           <div class="visible-xs pull-right js-globalnav-popover-container">
-                        <a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fwww.wikispaces.com%2Fprivacy" class="btn navbar-btn ws-mobile-guest-username js-globalnav-popover-trigger">
+                        <a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fwww.wikispaces.com%2FPrivacy" class="btn navbar-btn ws-mobile-guest-username js-globalnav-popover-trigger">
               guest
             </a>
                         <div class="hidden js-globalnav-popover-content">
@@ -238,7 +221,7 @@ footer a, footer a:hover {
                 <div class="WikiInternalHeaderNav noHide">
   <div class="WikiInternalHeaderNavMenu">
           
-      <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fwww.wikispaces.com%2Fprivacy" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Fwww.wikispaces.com%2FPrivacy" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
       </div>
 </div>              </div>
             </div>
@@ -278,7 +261,7 @@ footer a, footer a:hover {
     <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
     <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
   </div>
-  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <% if (ws.context.user.canAdministerWiki && !ws.comments.Manager.readOnly) { %>
   <div class="pull-right">
     <button type="button" class="btn btn-default btn-sm remove">Remove</button>
   </div>
@@ -303,7 +286,7 @@ footer a, footer a:hover {
       <% } else { %>
         <%- smartDate %>
       <% } %>
-      <% if (ws.context.userCanAdministerWiki) { %>
+      <% if (ws.context.user.canAdministerWiki && ws.comments.Manager.readOnly) { %>
         <i class="fa fa-trash-o contextual-command delete ws-tip" title="Delete Comment"></i>
       <% } %>
     </p>
@@ -327,7 +310,7 @@ footer a, footer a:hover {
           <% } else { %>
             <%- smartDate %>
           <% } %>
-          <% if (ws.context.userCanAdministerWiki) { %>
+          <% if (ws.context.user.canAdministerWiki) { %>
           <i class="fa fa-trash-o contextual-command delete-reply ws-tip" title="Delete Reply"></i>
           <% } %>
           </p>
@@ -350,7 +333,7 @@ footer a, footer a:hover {
             <button type="button" class="btn btn-default btn-sm pull-right toggle-monitor ws-tip" title="You are not monitoring replies."><i class="fa fa-eye"></i></button>
             <% } %>
           <% } %>
-          <% if (ws.context.userCanAdministerWiki) { %>
+          <% if (ws.context.user.canAdministerWiki) { %>
             <% if (locked) { %>
             <button type="button" class="btn btn-default btn-sm pull-right toggle-lock ws-tip active" title="Replies are not allowed."><i class="fa fa-lock"></i></button>
             <% } else { %>
@@ -369,7 +352,7 @@ footer a, footer a:hover {
     <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
     <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
   </div>
-  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <% if (ws.context.user.canAdministerWiki && !ws.comments.Manager.readOnly) { %>
   <div class="pull-right">
     <button type="button" class="btn btn-default btn-sm remove">Remove</button>
   </div>
@@ -407,7 +390,7 @@ footer a, footer a:hover {
     <button type="button" class="btn btn-default btn-sm previous"><i class="fa fa-arrow-left"></i></button>
     <button type="button" class="btn btn-default btn-sm next"><i class="fa fa-arrow-right"></i></button>
   </div>
-  <% if (ws.context.userCanAdministerWiki && !ws.comments.Manager.readOnly) { %>
+  <% if (ws.context.user.canAdministerWiki && !ws.comments.Manager.readOnly) { %>
   <div class="pull-right">
     <button type="button" class="btn btn-default btn-sm remove">Remove</button>
   </div>
@@ -432,10 +415,10 @@ footer a, footer a:hover {
 
 <div class="ws-menu-bar WikiControls WikispacesContent WikispacesBs3">
   
-    <h1 class="pageTitle"><a href="/privacy">privacy</a></h1>
+    <h1 class="pageTitle"><a href="/Privacy">Privacy</a></h1>
       <div class="btn-group pull-right">
-          <span class="btn btn-default disabled tipme" title="you do not have permission to edit this page"><i class="fa fa-pencil fa-fw"></i> Edit</span>          <a class="btn btn-default tipme" title="view 4 revisions" href="/page/history/privacy"><i class="fa fa-clock-o fa-fw"></i> 4</a>          <a class="btn btn-default ws-btn-more dropdown-toggle tipme" title="more options" href="/page/menu/privacy"><i class="icon-height-only fa-fw"></i>…</a>        <ul class="ws-more-menu dropdown-menu dropdown-menu-right">
-              <li class=" dropdown"><a class=" ws-tag-dropdown-toggle" href="/page/tags/privacy"><span class="pull-right">0</span> <i class="fa fa-tag fa-fw"></i> Tags</a>
+          <span class="btn btn-default disabled tipme" title="you do not have permission to edit this page"><i class="fa fa-pencil fa-fw"></i> Edit</span>          <a class="btn btn-default tipme" title="view 4 revisions" href="/page/history/Privacy"><i class="fa fa-clock-o fa-fw"></i> 4</a>          <a class="btn btn-default ws-btn-more dropdown-toggle tipme" title="more options" href="/page/menu/Privacy"><i class="icon-height-only fa-fw"></i>…</a>        <ul class="ws-more-menu dropdown-menu dropdown-menu-right">
+              <li class=" dropdown"><a class=" ws-tag-dropdown-toggle" href="/page/tags/Privacy"><span class="pull-right">0</span> <i class="fa fa-tag fa-fw"></i> Tags</a>
           <div class="dropdown-menu dropdown-menu-right ws-tag-dropdown-menu">
           
 
@@ -453,16 +436,16 @@ footer a, footer a:hover {
               <li class="divider"></li>
             <li class=""><a class=" WikispacesDialogLink" href="http://www.wikispaces.com/wiki/addmonitor?monitorLink=page%3Aprivacy"><i class="fa fa-eye fa-fw"></i> Notify</a>
     </li>
-        <li class=""><a class=" WikispacesDialogLink" href="/page/rss/privacy"><i class="fa fa-rss fa-fw"></i> RSS</a>
+        <li class=""><a class=" WikispacesDialogLink" href="/page/rss/Privacy"><i class="fa fa-rss fa-fw"></i> RSS</a>
     </li>
-        <li class=""><a class="" href="/page/links/privacy"><i class="fa fa-link fa-fw"></i> Backlinks</a>
+        <li class=""><a class="" href="/page/links/Privacy"><i class="fa fa-link fa-fw"></i> Backlinks</a>
     </li>
               <li class="divider"></li>
-            <li class=""><a class="" href="/page/code/privacy"><i class="fa fa-code fa-fw"></i> Source</a>
+            <li class=""><a class="" href="/page/code/Privacy"><i class="fa fa-code fa-fw"></i> Source</a>
     </li>
-        <li class=""><a class="" href="/privacy?f=print"><i class="fa fa-print fa-fw"></i> Print</a>
+        <li class=""><a class="" href="/Privacy?f=print"><i class="fa fa-print fa-fw"></i> Print</a>
     </li>
-        <li class=""><a class="" href="/page/pdf/privacy"><i class="fa fa-cloud-download fa-fw"></i> Export (PDF)</a>
+        <li class=""><a class="" href="/page/pdf/Privacy"><i class="fa fa-cloud-download fa-fw"></i> Export (PDF)</a>
     </li>
       </ul>  </div>
   </div>
@@ -668,7 +651,7 @@ San Francisco, CA 94103
 
 <div id="pageEditor" class="editorWrapper editorLayer">
   <iframe id="target_editor" name="target_editor" src="/s/blank.html" style="width:0px;height:0px;border:0"></iframe>
-    <form action="/page/edit/privacy" method="post" class="editorForm" id="editorForm">
+    <form action="/page/edit/Privacy" method="post" class="editorForm" id="editorForm">
     <input type="hidden" title="goto" name="goto" value="">
     <input type="hidden" title="mode" name="mode" autocomplete="off" value="visual">
     <input type="hidden" title="version" name="version" autocomplete="off" value="531449802">
@@ -709,12 +692,29 @@ San Francisco, CA 94103
 <footer class="WikispacesContent WikispacesBs3" role="contentinfo">
   <div class="container">
     <div class="col-md-6 text-left">
-      <p>Copyright 2013 Tangient LLC</p>
+      <p>Copyright 2015 Tangient LLC</p>
     </div>
     <div class="col-md-6 text-right">
-      <ul class="list-inline"><li><a href="http://blog.wikispaces.com/" target="_new">Blog</a></li><li><a href="http://www.wikispaces.com/About">About</a></li><li><a href="http://www.wikispaces.com/content/pricing" rel="nofollow">Pricing</a></li><li><a href="http://www.wikispaces.com/Privacy" rel="nofollow">Privacy</a></li><li><a href="http://www.wikispaces.com/Terms" rel="nofollow">Terms</a></li><li><a href="http://www.wikispaces.com/site/help?url=http%3A%2F%2Fwww.wikispaces.com%2Fprivacy" rel="nofollow">Support</a></li></ul>    </div>
+      <ul class="list-inline"><li><a href="http://blog.wikispaces.com/" target="_new">Blog</a></li><li><a href="http://www.wikispaces.com/About">About</a></li><li><a href="http://www.wikispaces.com/content/pricing" rel="nofollow">Pricing</a></li><li><a href="http://www.wikispaces.com/Privacy" rel="nofollow">Privacy</a></li><li><a href="http://www.wikispaces.com/Terms" rel="nofollow">Terms</a></li><li><a href="http://www.wikispaces.com/site/help?url=http%3A%2F%2Fwww.wikispaces.com%2FPrivacy" rel="nofollow">Support</a></li></ul>    </div>
   </div>
 </footer>
+
+
+<script type="text/template" id="dialog-template">
+<div class="modal fade" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
+        <h4 class="modal-title"><%= header %></h4>
+      </div>
+      <div class="modal-body">
+        <%= body %>
+      </div>
+    </div>
+  </div>
+</div>
+</script>
 
 
 <div id="js-help-template" class="hidden">
@@ -735,14 +735,17 @@ San Francisco, CA 94103
   </div>
 </div>
 </div>
-<script src="http://www.wikispaces.com/s/nogz/z9x3z494-editorc.min.js" type="text/javascript"></script>
+<script src="http://www.wikispaces.com/s/nogz/95z4150v-common.min.js" type="text/javascript"></script>
+<script src="http://www.wikispaces.com/s/nogz/vkz515xz-editorc.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
 ws.namespace('ws.attributes');
 ws.namespace('ws.stream');
+ws.attributes.DISCUSSION_COUNT = null;
+ws.attributes.pageId = 6;
 ws.attributes.version = 531449802;
 ws.attributes.showEditor = true;
-ws.attributes.editUrl = "http:\/\/www.wikispaces.com\/page\/edit\/privacy?goto=http%3A%2F%2Fwww.wikispaces.com%2Fprivacy";
+ws.attributes.editUrl = "http:\/\/www.wikispaces.com\/page\/edit\/Privacy?goto=http%3A%2F%2Fwww.wikispaces.com%2FPrivacy";
 ws.attributes.userCanEdit = false;
 ws.stream.userCanPostMessage = false;
 ws.stream.hideTimeline = true;
@@ -814,7 +817,7 @@ jQuery(document).ready(function($) {
 
 jQuery(document).ready(function() {
   ws.editor.canEdit = false;
-  var editUrl = 'http://www.wikispaces.com/page/edit/privacy?goto=http%3A%2F%2Fwww.wikispaces.com%2Fprivacy';
+  var editUrl = 'http://www.wikispaces.com/page/edit/Privacy?goto=http%3A%2F%2Fwww.wikispaces.com%2FPrivacy';
 
   jQuery('#js-edit-from-template').change(function() {
     window.location = ws.common.addUriParams(editUrl, [['template', jQuery(this).val()]]);
@@ -841,7 +844,7 @@ ws.editor.startEditor = function (moreCoreOptions, moreMainOptions) {
   }
 
   var mainOptions = {
-    'wssave_cancel_url': '/privacy',
+    'wssave_cancel_url': '/Privacy',
     'wsimage_upload_url': 'http://www.wikispaces.com/file/multiupload',
     'wsimage_max_file_size_mb': '50',
     'wsimage_page_view_group': ''
@@ -858,7 +861,7 @@ ws.editor.startEditor = function (moreCoreOptions, moreMainOptions) {
 
 
 
---></script><!-- w4 86 tot:86:86(1) mem:3:23(18) wki:1:1(1) -->
+--></script><!-- w2 105 tot:105:105(1) mem:3:19(19) wki:2:2(1) -->
 
 
 </body></html>
