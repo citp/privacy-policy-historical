@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the autoguide.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007114655id_/http%3A//www.autoguide.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoguide.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510163620id_/http%3A//www.autoguide.com/privacy-statement.html) for the most accurate reproduction.*
 
 # AutoGuide.com Privacy Statement
 
-Privacy Statement
+VerticalScope Inc. – Privacy Statement
 
-VerticalScope Inc. - Privacy Statement
-
-VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. 
+VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
 What this Privacy Statement Covers
 
-  * This privacy statement covers VerticalScope's treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
-  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope's websites link.
+  * This privacy statement covers VerticalScope’s treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope’s websites link.
 
 
 
@@ -33,7 +31,7 @@ Collection and Use of Non-Personal Information
 Information Sharing and Disclosure
 
   * VerticalScope may disclose your personal information to third parties who work on behalf of VerticalScope to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
-  * VerticalScope may otherwise disclose your personal information when: 
+  * VerticalScope may otherwise disclose your personal information when:
     * We have your express consent to share the information for a specified purpose; 
     * We need to respond to subpoenas, court orders or such other legal process;
     * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or 
@@ -44,7 +42,7 @@ Information Sharing and Disclosure
 
 Consent
 
-If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please contact us. 
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please contact us.
 
 How to Access your Personal Information
 
@@ -64,8 +62,8 @@ Security
 
 Changes to this Privacy Statement
 
-VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof. 
+VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
 
 Questions or Suggestions
 
-If you have questions or suggestions about this privacy statement, or your own personal information, please [contact us](https://web.archive.org/contact-us.html). 
+If you have questions or suggestions about this privacy statement, or your own personal information, please [contact us](https://web.archive.org/contact-us.html).
