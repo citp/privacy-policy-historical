@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the batteriesplus.com privacy policy that was archived on 2014-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208165001id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the batteriesplus.com privacy policy that was archived on 2015-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510022515id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy for BatteriesPlus.com</title>
@@ -14,10 +14,9 @@
     <link href="css/GRN-styles4.css" rel="stylesheet" type="text/css">
     <link href="css/geolocation/dialogbox.css" rel="stylesheet">
     <link href="css/jquery-ui.css" rel="stylesheet">
-    <script src="jscripts/jquery-1.9.1.js" type="text/javascript"></script>    
+    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0024/3284.js?438997" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TKQSDB"></script><script src="jscripts/jquery-1.9.1.js" type="text/javascript"></script>    
     <script src="jscripts/jquery-ui.js" type="text/javascript"></script>
     <script type="text/javascript" src="jscripts/CustomJS.js"></script>
-    <script type="text/javascript" src="jscripts/autotagging.js"></script>
     <script type="text/javascript" language="javascript">
         $(function () {           
             $("#CustomerStore span").attr("style", "margin-left:30px");
@@ -35,24 +34,33 @@
 </head>
 
 <body id="_body">     
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TKQSDB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TKQSDB');</script>
+<!-- End Google Tag Manager -->
       <div id="ACCOUNT" style="position: relative; z-index: 99999;">
           
 <script type="text/javascript">
     $(function () {
 
-        pageInit();       
+        pageInit();
 
         var storeCode = $("#YourStore_customerStoreCode").text();
         var isMobile = $("#YourStore_isMobile").text();
 
         LoadStoreInfoWindow(storeCode);
-        if (storeCode == '0'&&isMobile == "True") {
+        if (storeCode == '0' && isMobile == "True") {
             getLocation();
         }
     })
 
-    function pageInit()
-    {
+    function pageInit() {
         var storeCode = $("#YourStore_customerStoreCode").text();
         var isShow = $("#YourStore_isShow").text();
         var isMobile = $("#YourStore_isMobile").text();
@@ -107,10 +115,9 @@
         var long = position.coords.longitude;
         $.getJSON('/GetMobileStore.aspx', { lat: lat, long: long },
               function (data) {
-                if (data != "")
-                {
-                    var store = data;
-                    $("#YourStore_customerStoreCode").text(store.store[0].storeCode);
+                  if (data != "") {
+                      var store = data;
+                      $("#YourStore_customerStoreCode").text(store.store[0].storeCode);
                     $("#YourStore_lblCityState").text(store.store[0].cityState);
                     $("#YourStore_lblAddress").text(store.store[0].address);
                     $("#YourStore_lblPhone").text(store.store[0].phone);
@@ -118,36 +125,36 @@
                     pageInit();
                     LoadStoreInfoWindow(store.store[0].storeCode);
                 }
-            }
+              }
         );
-    }
-
-    function hideDivYourStore() {
-        $("#divYourStore").hide();
-        $("#lblStateCity").text("");
-    }
-
-
-    function checkShowChangeStore() {
-        var url = window.location.href.toLowerCase();
-        if (url.indexOf('checkout1.aspx') > 0 || url.indexOf('checkoutreview.aspx') > 0) {
-            return true;
         }
-        else {
-            return false;
-        }
-    }
 
-    function checkIsMainPage() {
-        var url = window.location.href.toLowerCase();
-        var newUrl = url.split('/')[3];
-        if (newUrl == '' || newUrl.indexOf('default.aspx') > 0 || newUrl.indexOf('checkout1.aspx') > 0 || newUrl.indexOf('checkoutreview.aspx') > 0) {
-            return true;
+        function hideDivYourStore() {
+            $("#divYourStore").hide();
+            $("#lblStateCity").text("");
         }
-        else {
-            return false;
+
+
+        function checkShowChangeStore() {
+            var url = window.location.href.toLowerCase();
+            if (url.indexOf('checkout1.aspx') > 0 || url.indexOf('checkoutreview.aspx') > 0) {
+                return true;
+            }
+            else {
+                return false;
+            }
         }
-    }
+
+        function checkIsMainPage() {
+            var url = window.location.href.toLowerCase();
+            var newUrl = url.split('/')[3];
+            if (newUrl == '' || newUrl.indexOf('default.aspx') > 0 || newUrl.indexOf('checkout1.aspx') > 0 || newUrl.indexOf('checkoutreview.aspx') > 0) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
 </script>
 <style type="text/css">
     .hiddenLabel {
@@ -321,7 +328,7 @@
             </div>
             
 
-            <!-- READ FROM DB --><div id="HELP"></div><div id="NAV"><div style="float:left;display:inline;width:620px; height:45px;margin-top:5px;"><a href="t-promodetails.aspx"><img src="media/nav-specials.png" alt="Specials" width="90" height="45" border="0"></a><a href="t-batteries-plus-recycles.aspx"><img src="media/nav-recycling.png" alt="Recycling" width="70" height="45" border="0"></a><a href="t-we-fix-it.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/navbar3.png" alt="Repair" width="74" height="45" border="0"></a><img src="media/nav4.png" width="32" height="45"><a href="http://www.batteriesplus.com/franchising?navbar" target="_blank"><img src="media/nav-franchise.png" alt="Own A Franchise" width="312" height="45" border="0"></a><img src="media/nav6.png" width="42" height="45"></div></div><!-- END OF DB -->
+            <!-- READ FROM DB --><div id="HELP"></div><div id="NAV"><div style="float:left;display:inline;width:620px; height:45px;margin-top:5px;"><a href="t-promodetails.aspx"><img src="media/nav-specials.png" alt="Specials" width="90" height="45" border="0"></a><a href="t-batteries-plus-recycles.aspx"><img src="media/nav-recycling.png" alt="Recycling" width="70" height="45" border="0"></a><a href="t-we-fix-it.aspx"><img src="media/navbar3.png" alt="Repair" width="74" height="45" border="0"></a><img src="media/nav4.png" width="32" height="45"><a href="http://www.batteriesplus.com/franchising/" target="_blank"><img src="media/nav-franchise.png" alt="Own A Franchise" width="312" height="45" border="0"></a><img src="media/nav6.png" width="42" height="45"></div></div><!-- END OF DB -->
 
 
 
@@ -350,13 +357,14 @@
         </div>
 
         <form name="form1" method="post" action="driver.aspx?Topic=privacy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDkxNzQzNTIPZBYCAgIPZBYEAgEPZBYMZg8PFgIeBFRleHQFC0FzaGJ1cm4sIFZBZGQCAQ8PFgIfAAUcNDQxMTAgQXNoYnVybiBTaG9wcGluZyBQbGF6YWRkAgIPDxYCHwAFDjU3MS4yOTEuMjkxNiAgZGQCAw8PFgIfAAUEMTEwN2RkAgQPDxYCHwAFBFRydWVkZAIFDw8WAh8ABQVGYWxzZWRkAgcPZBYCZg9kFgICAQ9kFgoCAw8QZBAVAQAVAQAUKwMBZ2RkAgcPEGQQFQEAFQEAFCsDAWdkZAILDxBkEBUBABUBABQrAwFnZGQCEQ8WAh8ABZ8SPGRpdiBhbGlnbj0iY2VudGVyIiBzdHlsZT0ibWFyZ2luLXRvcDogMjVweDt3aWR0aDoyNjVweCI+DQo8ZGl2IHN0eWxlPSJjb2xvcjp3aGl0ZTtmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZToxLjVlbTt0ZXh0LWFsaWduOmNlbnRlcjtiYWNrZ3JvdW5kLWNvbG9yOiM0M2IwMmE7Ym9yZGVyLXJhZGl1czoxNXB4Oy1tb3otYm9yZGVyLXJhZGl1czoxNXB4O3BhZGRpbmc6MTBweDsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6LjhlbTsiPkl0IGRvZXNuJ3QgbWF0dGVyIHdobyBicm9rZSBpdC48L3NwYW4+IDxicj4NCiAgV2UgZml4IGl0LjwvZGl2Pg0KDQoNCjxkaXYgYWxpZ249ImNlbnRlciI+PGEgaHJlZj0idC13ZS1maXgtaXQuYXNweCI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy9icm9rZW4tc2NyZWVucy1maXgtaXQyLnBuZyIgYm9yZGVyPSIwIj48L2E+PC9kaXY+DQo8ZGl2IHN0eWxlPSJib3JkZXItYm90dG9tOjhweCBzb2xpZCAjZmY4MjAwO3BhZGRpbmc6MTBweCAwcHg7Zm9udC1zaXplOjEuMWVtO3RleHQtYWxpZ246Y2VudGVyOyI+V2Ugd2lsbCBnZXQgeW91ciBtb2JpbGUgZGV2aWNlIGJhY2sgdXAgYW5kIHJ1bm5pbmcgYXMgcXVpY2tseSBhcyBwb3NzaWJsZSE8L2Rpdj4NCjwvZGl2Pg0KDQoNCjxkaXYgaWQ9InN3ZWVwcy1idXR0b24iIHN0eWxlPSJtYXJnaW4tdG9wOjEwcHg7IG1hcmdpbi1ib3R0b206MTBweDsiPiANCjxhIGhyZWY9Ii90LXN3ZWVwc3Rha2VzLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvRnJlZUJhdHRlcmllc0J1dHRvbi5wbmciIGJvZGVyPSIwIj48L2E+DQo8L2Rpdj4NCg0KDQo8ZGl2IHN0eWxlPSIgd2lkdGg6IDI2NXB4OyBoZWlnaHQ6IDU1MHB4OyI+DQo8dGFibGUgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHdpZHRoPSIyNjUiPjx0Ym9keT48dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vQmF0dGVyaWVzUGx1cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDFmYWNlYm9vay5naWYiIGFsdD0iRmFjZWJvb2sgJmd0OyIgYm9yZGVyPSIwIj48L2E+PGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL2JhdHRlcmllc3BsdXMiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL2Jsb2cuYmF0dGVyaWVzcGx1cy5jb20vd3AtY29udGVudC91cGxvYWRzLzAydHdpdHRlci5naWYiIGFsdD0iVHdpdHRlciAmZ3Q7IiBib3JkZXI9IjAiPjwvYT48YSBocmVmPSJodHRwczovL3BsdXMuZ29vZ2xlLmNvbS91LzAvMTEzNDU3MTIwNjU2OTQ1NTgwMDMyL3Bvc3RzIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wM2dvb2dsZXBsdXMuZ2lmIiBhbHQ9Ikdvb2dsZSsgJmd0OyIgYm9yZGVyPSIwIj48L2E+PGEgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9iYXR0ZXJpZXNwbHVzIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNHlvdXR1YmUuZ2lmIiBhbHQ9IllvdVR1YmUgJmd0OyIgYm9yZGVyPSIwIj48L2E+PGEgaHJlZj0iaHR0cDovL3BpbnRlcmVzdC5jb20vYmF0dGVyaWVzcGx1cy8iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL2Jsb2cuYmF0dGVyaWVzcGx1cy5jb20vd3AtY29udGVudC91cGxvYWRzLzA1cGludGVyZXN0LmdpZiIgYWx0PSJQaW50ZXJlc3QgJmd0OyIgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjx0cj4NCiAgPHRkPjxhIGhyZWY9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNmJsb2cuZ2lmIiBhbHQ9IkJlIFBvc2l0aXZlIC0gYSBCbG9nIHBvd2VyZWQgYnkgQmF0dGVyaWVzIFBsdXMgQnVsYnMiIHdpZHRoPSIxMzIiIGhlaWdodD0iNjMiIGJvcmRlcj0iMCI+PC9hPjxhIGhyZWY9InQtcHNpZGVfc2lnbnVwLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wNy1uZXdzbGV0dGVyLmdpZiIgYWx0PSJOZXdzbGV0dGVyIFNpZ251cCIgd2lkdGg9IjEzMyIgaGVpZ2h0PSI2MyIgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT4NCg0KIDwvZGl2PmQCEw8WAh8AZWRkvE0k67a94Wqa6Z4mIT6gjGe7cSw=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDkxNzQzNTIPZBYCAgIPZBYEAgEPZBYMZg8PFgIeBFRleHQFC0FzaGJ1cm4sIFZBZGQCAQ8PFgIfAAUcNDQxMTAgQXNoYnVybiBTaG9wcGluZyBQbGF6YWRkAgIPDxYCHwAFDjU3MS4yOTEuMjkxNiAgZGQCAw8PFgIfAAUEMTEwN2RkAgQPDxYCHwAFBFRydWVkZAIFDw8WAh8ABQVGYWxzZWRkAgcPZBYCZg9kFgICAQ9kFgoCAw8QZBAVAQAVAQAUKwMBZ2RkAgcPEGQQFQEAFQEAFCsDAWdkZAILDxBkEBUBABUBABQrAwFnZGQCEQ8WAh8ABdcSPGRpdiBhbGlnbj0iY2VudGVyIiBzdHlsZT0ibWFyZ2luLXRvcDogMjVweDt3aWR0aDoyNjVweCI+PGRpdiBpZD0iZnJlZS1iYXR0ZXJ5LWluc3RhbGxhdGlvbiIgc3R5bGU9Im1hcmdpbi10b3A6MjBweDsgbWFyZ2luLWJvdHRvbToyMHB4OyB0ZXh0LWFsaWduOmNlbnRlcjsiPiA8YSBocmVmPSJodHRwOi8vd3d3LmJhdHRlcmllc3BsdXMuY29tL3QtcG9ydGFibGUtYmF0dGVyeS1wb3dlci1iYW5rLmFzcHgiIGNsYXNzPSJwb3J0YWJsZWJhdHQiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvcG93ZXItYmFuay1hZC5qcGciIGJvcmRlcj0iMCIgYWx0PSJQb3J0YWJsZSBCYXR0ZXJ5IFBvd2VyIEJhbmtzIj48L2E+PC9kaXY+PGhyPjxkaXYgc3R5bGU9Im1hcmdpbi1ib3R0b206MjBweDttYXJnaW4tdG9wOjIwcHg7Ij48YSBocmVmPSJ0LXdlLWZpeC1pdC5hc3B4Ij48aW1nIHNyYz0iaHR0cDovL2Jsb2cuYmF0dGVyaWVzcGx1cy5jb20vd3AtY29udGVudC91cGxvYWRzL1dlLUZpeC1JdC5wbmciIGJvcmRlcj0iMCI+PC9hPjwvZGl2PjxkaXYgYWxpZ249ImNlbnRlciI+PGEgaHJlZj0idC13ZS1maXgtaXQuYXNweCI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy9icm9rZW4tc2NyZWVucy1maXgtaXQyLnBuZyIgYm9yZGVyPSIwIj48L2E+PC9kaXY+PGRpdiBzdHlsZT0iIHRleHQtYWxpZ246IGxlZnQ7IHBhZGRpbmc6MTBweCAwcHg7Zm9udC1zaXplOjEuMWVtOyI+SXQgZG9lc24ndCBtYXR0ZXIgd2hvIGJyb2tlIGl0LCB3ZSBmaXggaXQuIDxicj4gV2Ugd2lsbCBnZXQgeW91ciBtb2JpbGUgZGV2aWNlIGJhY2sgdXAgYW5kIHJ1bm5pbmcgYXMgcXVpY2tseSBhcyBwb3NzaWJsZSE8L2Rpdj48L2Rpdj48aHI+PGRpdiBzdHlsZT0iIHdpZHRoOiAyNjVweDsgaGVpZ2h0OiAxNTBweDsgbWFyZ2luLXRvcDoyMHB4OyI+PHRhYmxlIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiB3aWR0aD0iMjY1Ij48dGJvZHk+PHRyPjx0ZD48YSBocmVmPSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9CYXR0ZXJpZXNQbHVzIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wMWZhY2Vib29rLmdpZiIgYWx0PSJGYWNlYm9vayAmZ3Q7IiBib3JkZXI9IjAiPjwvYT48YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vYmF0dGVyaWVzcGx1cyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDJ0d2l0dGVyLmdpZiIgYWx0PSJUd2l0dGVyICZndDsiIGJvcmRlcj0iMCI+PC9hPjxhIGhyZWY9Imh0dHBzOi8vcGx1cy5nb29nbGUuY29tL3UvMC8xMTM0NTcxMjA2NTY5NDU1ODAwMzIvcG9zdHMiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL2Jsb2cuYmF0dGVyaWVzcGx1cy5jb20vd3AtY29udGVudC91cGxvYWRzLzAzZ29vZ2xlcGx1cy5naWYiIGFsdD0iR29vZ2xlKyAmZ3Q7IiBib3JkZXI9IjAiPjwvYT48YSBocmVmPSJodHRwOi8vd3d3LnlvdXR1YmUuY29tL2JhdHRlcmllc3BsdXMiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL2Jsb2cuYmF0dGVyaWVzcGx1cy5jb20vd3AtY29udGVudC91cGxvYWRzLzA0eW91dHViZS5naWYiIGFsdD0iWW91VHViZSAmZ3Q7IiBib3JkZXI9IjAiPjwvYT48YSBocmVmPSJodHRwOi8vcGludGVyZXN0LmNvbS9iYXR0ZXJpZXNwbHVzLyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDVwaW50ZXJlc3QuZ2lmIiBhbHQ9IlBpbnRlcmVzdCAmZ3Q7IiBib3JkZXI9IjAiPjwvYT48L3RkPjwvdHI+PHRyPiAgPHRkPjxhIGhyZWY9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9ibG9nLmJhdHRlcmllc3BsdXMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8wNmJsb2cuZ2lmIiBhbHQ9IkJlIFBvc2l0aXZlIC0gYSBCbG9nIHBvd2VyZWQgYnkgQmF0dGVyaWVzIFBsdXMgQnVsYnMiIHdpZHRoPSIxMzIiIGhlaWdodD0iNjMiIGJvcmRlcj0iMCI+PC9hPjxhIGhyZWY9InQtcHNpZGVfc2lnbnVwLmFzcHgiPjxpbWcgc3JjPSJodHRwOi8vYmxvZy5iYXR0ZXJpZXNwbHVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMDcxM18wNy1uZXdzbGV0dGVyLmdpZiIgYWx0PSJOZXdzbGV0dGVyIFNpZ251cCIgd2lkdGg9IjEzMyIgaGVpZ2h0PSI2MyIgYm9yZGVyPSIwIj48L2E+PC90ZD48L3RyPjwvdGJvZHk+PC90YWJsZT4gPC9kaXY+ZAITDxYCHwBlZGRUObcYhqTH1sr1HD1uO4WJriOVGg==">
 
 
-<script src="/ScriptResource.axd?d=OgKFM2vxcWlyg3e5mmeFnZ5rwWuD8YAW1fYyc9fTQZd6UeC9I9NfAlCCHpAt4Y_koqpPGeUdgLxutexGsYBGgiaUH2mShZHJ81bDzDqpjx9VD2AmuLS6BWmLHi-w-ea7JqmjW_2EnI4hIAx0JlyyRvB34irKP4u83BlWzlbPyPKybG040&amp;t=7d33bd9f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=7X3WJCKDNEGWHnubAMlzk66AflRwE0jMdSgp3Nh9AZmyfdt_F1N5JuFocbd595eSwyGnXoRJKjanKx0YjdspGCUt0PktT-LDB_jcTulBg34T-6ZqgZ5V-yNK7uKInr8NF-lTEMOR4TJCJlVy-aEO6Br8_u41&amp;t=2e0287c4" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=yZpeuv5MQ_4FVVo43HAtzoU7ROA3wLl7lnyQD_GQhK1fYiDraTNLlr4qT1-7z5vWy09wkqcqqt-X0BOWf9NctyQ5EuYX5vjdcC9BqQ7LB0PhpvS_qcZVYlbpHBwSFGNnLJ7ew_muTnoLFzViuLMbwLIZyI_9w8vaOCuX9_ZKQVGYwFBr0&amp;t=2e0287c4" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=mT0wFsLMpMBF9KA5Q2ASKkQKf5Q_Ojq-vTxWa4vCDnORum0SNg-TOGP8rrg0exZX1zBExQcTIPzWM1VdNfStwAAG-4XsE76FtT9yqD7P4f0pBPuYuZTj3-mC0kWTs9rRbQcxSmpQTdOdIXUFlR9VAanWYRsJq1VlooS_Ayf6ayL-zGfwmCkbaYIxT-kPi0R--mjN4w2&amp;t=2e0287c4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OgKFM2vxcWlyg3e5mmeFnZ5rwWuD8YAW1fYyc9fTQZd6UeC9I9NfAlCCHpAt4Y_koqpPGeUdgLxutexGsYBGgiaUH2mShZHJ81bDzDqpjx9VD2AmuLS6BWmLHi-w-ea7JqmjW_2EnI4hIAx0JlyyRvB34irKP4u83BlWzlbPyPKybG040&amp;t=ffffffffb85cc889" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=7X3WJCKDNEGWHnubAMlzk66AflRwE0jMdSgp3Nh9AZmyfdt_F1N5JuFocbd595eSwyGnXoRJKjanKx0YjdspGCUt0PktT-LDB_jcTulBg34T-6ZqgZ5V-yNK7uKInr8NF-lTEMOR4TJCJlVy-aEO6Br8_u41&amp;t=17540b20" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yZpeuv5MQ_4FVVo43HAtzoU7ROA3wLl7lnyQD_GQhK1fYiDraTNLlr4qT1-7z5vWy09wkqcqqt-X0BOWf9NctyQ5EuYX5vjdcC9BqQ7LB0PhpvS_qcZVYlbpHBwSFGNnLJ7ew_muTnoLFzViuLMbwLIZyI_9w8vaOCuX9_ZKQVGYwFBr0&amp;t=17540b20" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mT0wFsLMpMBF9KA5Q2ASKkQKf5Q_Ojq-vTxWa4vCDnORum0SNg-TOGP8rrg0exZX1zBExQcTIPzWM1VdNfStwAAG-4XsE76FtT9yqD7P4f0pBPuYuZTj3-mC0kWTs9rRbQcxSmpQTdOdIXUFlR9VAanWYRsJq1VlooS_Ayf6ayL-zGfwmCkbaYIxT-kPi0R--mjN4w2&amp;t=17540b20" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6B6687F9">
     
 
 <div id="TOPRIGHT">
@@ -398,26 +406,7 @@
  
     <div id="INFO">
      
-        <div align="center" style="margin-top: 25px;width:265px">
-<div style="color:white;font-weight:bold;font-size:1.5em;text-align:center;background-color:#43b02a;border-radius:15px;-moz-border-radius:15px;padding:10px;"><span style="font-size:.8em;">It doesn't matter who broke it.</span> <br>
-  We fix it.</div>
-
-
-<div align="center"><a href="t-we-fix-it.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/broken-screens-fix-it2.png" border="0"></a></div>
-<div style="border-bottom:8px solid #ff8200;padding:10px 0px;font-size:1.1em;text-align:center;">We will get your mobile device back up and running as quickly as possible!</div>
-</div>
-
-
-<div id="sweeps-button" style="margin-top:10px; margin-bottom:10px;"> 
-<a href="/t-sweepstakes.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/FreeBatteriesButton.png" boder="0"></a>
-</div>
-
-
-<div style=" width: 265px; height: 550px;">
-<table border="0" cellpadding="0" cellspacing="0" width="265"><tbody><tr><td><a href="http://www.facebook.com/BatteriesPlus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/01facebook.gif" alt="Facebook >" border="0"></a><a href="http://twitter.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/02twitter.gif" alt="Twitter >" border="0"></a><a href="https://plus.google.com/u/0/113457120656945580032/posts" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/03googleplus.gif" alt="Google+ >" border="0"></a><a href="http://www.youtube.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/04youtube.gif" alt="YouTube >" border="0"></a><a href="http://pinterest.com/batteriesplus/" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/05pinterest.gif" alt="Pinterest >" border="0"></a></td></tr><tr>
-  <td><a href="http://blog.batteriesplus.com" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/06blog.gif" alt="Be Positive - a Blog powered by Batteries Plus Bulbs" width="132" height="63" border="0"></a><a href="t-pside_signup.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_07-newsletter.gif" alt="Newsletter Signup" width="133" height="63" border="0"></a></td></tr></tbody></table>
-
- </div>
+        <div align="center" style="margin-top: 25px;width:265px"><div id="free-battery-installation" style="margin-top:20px; margin-bottom:20px; text-align:center;"> <a href="http://www.batteriesplus.com/t-portable-battery-power-bank.aspx" class="portablebatt"><img src="http://blog.batteriesplus.com/wp-content/uploads/power-bank-ad.jpg" border="0" alt="Portable Battery Power Banks"></a></div><hr><div style="margin-bottom:20px;margin-top:20px;"><a href="t-we-fix-it.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/We-Fix-It.png" border="0"></a></div><div align="center"><a href="t-we-fix-it.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/broken-screens-fix-it2.png" border="0"></a></div><div style=" text-align: left; padding:10px 0px;font-size:1.1em;">It doesn't matter who broke it, we fix it. <br> We will get your mobile device back up and running as quickly as possible!</div></div><hr><div style=" width: 265px; height: 150px; margin-top:20px;"><table border="0" cellpadding="0" cellspacing="0" width="265"><tbody><tr><td><a href="http://www.facebook.com/BatteriesPlus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/01facebook.gif" alt="Facebook >" border="0"></a><a href="http://twitter.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/02twitter.gif" alt="Twitter >" border="0"></a><a href="https://plus.google.com/u/0/113457120656945580032/posts" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/03googleplus.gif" alt="Google+ >" border="0"></a><a href="http://www.youtube.com/batteriesplus" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/04youtube.gif" alt="YouTube >" border="0"></a><a href="http://pinterest.com/batteriesplus/" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/05pinterest.gif" alt="Pinterest >" border="0"></a></td></tr><tr>  <td><a href="http://blog.batteriesplus.com" target="_blank"><img src="http://blog.batteriesplus.com/wp-content/uploads/06blog.gif" alt="Be Positive - a Blog powered by Batteries Plus Bulbs" width="132" height="63" border="0"></a><a href="t-pside_signup.aspx"><img src="http://blog.batteriesplus.com/wp-content/uploads/0713_07-newsletter.gif" alt="Newsletter Signup" width="133" height="63" border="0"></a></td></tr></tbody></table> </div>
      </div>
     
  
@@ -538,7 +527,7 @@ Sys.Application.add_init(function() {
 
             <!-- BEGIN: Unica Page Tag -->
             <!-- Copyright 2004-2006 Unica Corporation.  All rights reserved. -->
-            <script language="JavaScript" type="text/javascript" src="jscripts/ntpagetag.js"></script>
+            
             <!-- END: Unica Page Tag -->
             <!-- OPEN GRAPH --->
             <div id="fb-root"></div><script language="JavaScript" type="text/javascript" src="jscripts/opengraph.js"></script>
@@ -548,7 +537,19 @@ Sys.Application.add_init(function() {
             <!-- END CONTAINER DIV -->
 
 
+	<!--CrazyEgg Start-->
+	<script type="text/javascript">
+	setTimeout(function(){var a=document.createElement("script");
+	var b=document.getElementsByTagName("script")[0];
+	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0024/3284.js?"+Math.floor(new Date().getTime()/3600000);
+	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script> 
+	<!--CrazyEgg End-->
 
+
+	<!--Optimizely Start-->
+	<script src="//cdn.optimizely.com/js/1521200740.js"></script>
+	<!--Optimizely End-->
 
 
         </div>
@@ -556,4 +557,9 @@ Sys.Application.add_init(function() {
     </div>
 
 
-</body></html>
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'KPKJCHFMEOGEGFILJHOKBAHPMBIHLNICGDEMNBOPCFEBDPKNOIELKMMGDEAADGMMAAIBGMDALEFJNMEFAAHPDCKHIAIAOADPOIBPJPOPEKIHKCIOIHLJDHADMHLPOIHK',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avraaaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script></body></html>
