@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatisforex.tv privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208184515id_/http%3A//whatisforex.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatisforex.tv privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510154548id_/http%3A//whatisforex.tv/privacy-policy) for the most accurate reproduction.*
 
 # "What Is Forex?" | Privacy Policy
 
