@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilelikez.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010052128id_/http%3A//www.mobilelikez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilelikez.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510222626id_/http%3A//www.mobilelikez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Likes
 
@@ -16,13 +16,13 @@ What we collect
 
 We may collect the following information:
 
-\- e-mail addresses users who post messages to our forum  
-\- e-mail addresses users and visitors who communicate with us via e-mail  
-\- e-mail addresses of those who make postings to our chat areas or any public areas where users or visitors can supply content  
-\- contact information including email address  
-\- demographic information such as postcode, preferences and interests  
-\- other information relevant to customer surveys and/or offers  
-\- IP Address
+– e-mail addresses users who post messages to our forum  
+– e-mail addresses users and visitors who communicate with us via e-mail  
+– e-mail addresses of those who make postings to our chat areas or any public areas where users or visitors can supply content  
+– contact information including email address  
+– demographic information such as postcode, preferences and interests  
+– other information relevant to customer surveys and/or offers  
+– IP Address
 
 Our web-server also records IP addresses from all visitors to our site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, to administer our site, to analyze trends, to track user movement, and to gather broad demographic information all for the purpose of continually improving our website and delivering personalized, custom content. IP addresses are not linked to personally identifiable information, and their collection is standard procedure in most web-server environments.
 
@@ -58,12 +58,12 @@ Personal information collected may be transferred and shared in the event of a s
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-\- Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes where such a box is available  
-\- If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at talktous@wlkholdings.com  
-\- Members can edit their personal information by clicking on My Profile/ Options located in the upper right corner of each page.  
-\- Registrants can un-register by writing to talktous@wlkholdings.com. Once you have established a member account with us, you can opt-out of future promotional mailings by clicking on My Profile/ Options and changing your settings.  
-\- We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
-\- You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to talktous@wlkholdings.com.
+– Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes where such a box is available  
+– If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at talktous@wlkholdings.com  
+– Members can edit their personal information by clicking on My Profile/ Options located in the upper right corner of each page.  
+– Registrants can un-register by writing to talktous@wlkholdings.com. Once you have established a member account with us, you can opt-out of future promotional mailings by clicking on My Profile/ Options and changing your settings.  
+– We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
+– You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to talktous@wlkholdings.com.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
