@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinegameskingdom.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010175611id_/http%3A//onlinegameskingdom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegameskingdom.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511011620id_/http%3A//onlinegameskingdom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Online Games Kingdom
+# Privacy Policy | Online Games Kingdom
 
 This Privacy Policy provides information about OnlineGamesKingdom.com’s collection and use of certain information, including Personal identifiable Information, about its users obtained by OnlineGamesKingdom.com via this Site only. “Personal Identifiable Information” is specific information about users that enables OnlineGamesKingdom.com to identify you, such as your name, e-mail address and/or home address. BEFORE UTILIZING THIS SITE, BROWSING THIS SITE, SUBMITTING ANY INFORMATION VIA THIS SITE AND/OR USING ANY SERVICES AVAILABLE THROUGH THIS SITE, PLEASE READ ALL OF THIS PRIVACY POLICY AND THE OnlineGamesKingdom.com TERMS and CONDITIONS (“AGREEMENT”) CAREFULLY. BY ACCESSING ANY AREAS OF THIS SITE, USERS (“USERS” OR “YOU”) AGREE TO BE LEGALLY BOUND AND TO ABIDE BY THE TERMS AND CONDITIONS OF THE AGREEMENT AND THIS PRIVACY POLICY. We are committed to working to protect the privacy and security of the information we may gather about you, and we will endeavor to use and share that information carefully and sensibly.
 
