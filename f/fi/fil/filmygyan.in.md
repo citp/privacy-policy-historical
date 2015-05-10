@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the filmygyan.in privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028144127id_/http%3A//filmygyan.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmygyan.in privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510083104id_/http%3A//filmygyan.in/policy) for the most accurate reproduction.*
 
-# Filmygyan
-
-Privacy Policy
+# Filmygyan | Policy
 
 **Privacy on Filmygyan**
 
@@ -32,7 +30,7 @@ Your information is the information that's required when you sign up for the sit
 
 When you sign up for Filmygyan, you are required to provide information such as your name, email address, birthday, and gender. In some cases, you may be able to register using other information, like your telephone number.
 
-User availing services on Filmygyan via other social networking websites allows us to obtain information like (Userâ€™s Email ID, Contacts, Friends etc). By accessing our app and giving any information, user gives us permission to use information for business purpose.
+User availing services on Filmygyan via other social networking websites allows us to obtain information like (User’s Email ID, Contacts, Friends etc). By accessing our app and giving any information, user gives us permission to use information for business purpose.
 
  **Information you choose to share:**
 
@@ -60,7 +58,7 @@ Some people don't like receiving things from people if they don't know who they 
 
 We all know that some people might abuse the option to be anonymous by being mean or by saying horrible things because they know you don't know who they are, but we will take steps to stop them from spoiling it for everyone else.
 
-We may assist the Police or other law enforcement agencies with their requests to the extent required by law â€“ otherwise, will not tell anyone who you are if you want to remain anonymous.
+We may assist the Police or other law enforcement agencies with their requests to the extent required by law – otherwise, will not tell anyone who you are if you want to remain anonymous.
 
 Occasionally, a member may ask us if we can tell them the IP address of someone who sent them an anonymous message. Unfortunately, we are not able to give out that information.
 
@@ -68,7 +66,7 @@ Occasionally, a member may ask us if we can tell them the IP address of someone 
 
 Various methods are employed to gather this data. "Cookies" are used to distinguish and relate non personal data to individuals. These are "small strings of text" that are stored in browsers; cookies are not programs that can damage your computer. If you wish to stop the cookie functionality on your browser, you may do so.
 
-When user use Filmygyan our web server automatically record limited information about user interaction with our service i.e. â€œlog dataâ€, including the information which browser sends whenever user visit Filmygyan. This log data may include user computerâ€™s connection to the internet, including User internet protocol address, browser type and settings, the date and time of user request. And how user used Filmygyan.
+When user use Filmygyan our web server automatically record limited information about user interaction with our service i.e. “log data”, including the information which browser sends whenever user visit Filmygyan. This log data may include user computer’s connection to the internet, including User internet protocol address, browser type and settings, the date and time of user request. And how user used Filmygyan.
 
 Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your login information so you don't have to re-enter it each time you visit our site. Information collected using cookies is never shared with anyone or disclosed to third parties.
 
@@ -78,21 +76,21 @@ We have put in place appropriate security measures to protect and prevent the lo
 
 We also impose appropriate requirements on our vendors/partners in order to protect the security and privacy of our users' confidential information.
 
-While we take reasonable precautions against possible security breaches of our website, our databases and records, you should know that no website or Internet transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur. So, we strongly urge you to take steps to keep your personal information safe (including your password) and to log out of your account after use â€“ this will help keep your information secure. Remember, you decide what information you provide when chatting with people on Filmygyan.
+While we take reasonable precautions against possible security breaches of our website, our databases and records, you should know that no website or Internet transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur. So, we strongly urge you to take steps to keep your personal information safe (including your password) and to log out of your account after use – this will help keep your information secure. Remember, you decide what information you provide when chatting with people on Filmygyan.
 
-Filmygyan use third party advertising companies to serve ads when any user visits the website. These advertising companies may use relevant informationâ€™s may or may not including your name, email address, contact number in order to show advertisements about products, goods and services of respective area of interest to the user.
+Filmygyan use third party advertising companies to serve ads when any user visits the website. These advertising companies may use relevant information’s may or may not including your name, email address, contact number in order to show advertisements about products, goods and services of respective area of interest to the user.
 
  *** Third parties**
 
 We don't sell or give out any personal information specifically about you to any third party. (If we were to sell our business, the buyer would take over all information that we have collected and kept.)
 
-Filmygyan use third party advertising companies to serve ads when any user visits the website. These advertising companies may use relevant informationâ€™s may or may not including your name, email address, contact number in order to show advertisements about products, goods and services of respective area of interest to the user.
+Filmygyan use third party advertising companies to serve ads when any user visits the website. These advertising companies may use relevant information’s may or may not including your name, email address, contact number in order to show advertisements about products, goods and services of respective area of interest to the user.
 
 Filmygyan has the complete authority to remove third party websites / links if found inappropriate as per the Filmygyan Terms & Conditions defined.
 
  *** Information Sharing and Disclosure**
 
-We may share general information that reflects the personal information you have provided to us or anything you have posted publicly (but which doesnâ€™t identify you directly) with third parties for them to use for research and to deliver advertising about other products and services.
+We may share general information that reflects the personal information you have provided to us or anything you have posted publicly (but which doesn’t identify you directly) with third parties for them to use for research and to deliver advertising about other products and services.
 
 In particular, in relation to advertising, we may share your information with third-party advertising companies which we use to serve ads when you visit the Filmygyan site. These companies may use information about your visits to Filmygyan and other websites in order to advertise things which you might be interested in. For more information about this, please see our Terms of Use and Cookies Policy.
 
@@ -124,7 +122,7 @@ If any user wants to deactivate its respective account, user has to write us to 
 
  *** Changes and updates to this Privacy Notice**
 
-Filmygyan has the right to Change or amend its Privacy Policy with or without giving any prior notice to users. It is userâ€™s responsibility to read privacy policy regularly and updates.
+Filmygyan has the right to Change or amend its Privacy Policy with or without giving any prior notice to users. It is user’s responsibility to read privacy policy regularly and updates.
 
 This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. 
 
