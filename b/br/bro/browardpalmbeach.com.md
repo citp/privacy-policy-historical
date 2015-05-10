@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105194321id_/http%3A//www.browardpalmbeach.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510065639id_/http%3A//www.browardpalmbeach.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Fort Lauderdale and Palm Beach Privacy Policy
+# Privacy Policy | Broward/Palm Beach News and Events | New Times Broward-Palm Beach
 
 ### New Times BPB, LLC
 
@@ -86,7 +86,7 @@ We use reasonable efforts to protect your personally identifiable information fr
 
 ### Updates and Changes to Your Information.
 
-If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@browardpalmbeach.com](mailto:community@browardpalmbeach.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
+If your personally identifiable information changes, you may correct and/or update it by sending us [an email](https://web.archive.org/about/contact?category=community). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
 
 ### More Questions? 
 
