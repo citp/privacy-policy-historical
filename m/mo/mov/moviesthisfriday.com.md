@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesthisfriday.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223182921id_/http%3A//www.moviesthisfriday.com/2013/07/moviesthisfridaycom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesthisfriday.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510075109id_/http%3A//www.moviesthisfriday.com/2013/07/moviesthisfridaycom-privacy-policy.html) for the most accurate reproduction.*
 
 # Moviesthisfriday.com Privacy Policy - Moviesthisfriday
 
