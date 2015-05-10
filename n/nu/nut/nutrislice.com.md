@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrislice.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215031328id_/https%3A//s3.amazonaws.com/www.nutrislice.com/ONLINE%2BPRIVACY%2BPOLICY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrislice.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510162949id_/https%3A//s3.amazonaws.com/www.nutrislice.com/ONLINE%2BPRIVACY%2BPOLICY.pdf) for the most accurate reproduction.*
 
 # ONLINE PRIVACY POLICY Nutrislice, Inc.
 
