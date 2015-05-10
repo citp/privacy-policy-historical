@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053903id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510021605id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -35,7 +35,7 @@ We will not use or disclose your personal information unless you have given your
 
 ## Marketing and opting out
 
-We may share your personal data with organisations who are our business partners and we or they may contact you, unless you have asked us or them not to do so, by e-mail, letter or telephone about products, services, promotions or special offers which may be of interest to you. 
+We may share your personal data with organisations who are our business partners and we or they may contact you, unless you have asked us or them not to do so, by email, letter or telephone about products, services, promotions or special offers which may be of interest to you. 
 
 If you prefer not to receive any further marketing communications from us, you can opt out at any time. See below for further information. 
 
@@ -105,7 +105,7 @@ You also have the right to ask us to stop processing your personal data for dire
 
   1. Put your request in writing via the [contact form](https://web.archive.org/contact)
   2. Provide us with enough information to identify you (e.g. account number, user name, registration details).
-  3. If your objection is not to direct marketing in general, but to direct marketing by a particular channel (e.g. e-mail or telephone) please specify the channel you are objecting to.
+  3. If your objection is not to direct marketing in general, but to direct marketing by a particular channel (e.g. email or telephone) please specify the channel you are objecting to.
 
 
 
