@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120112010id_/http%3A//www.hollandandbarrett.com/info/private-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510174701id_/http%3A//www.hollandandbarrett.com/info/private-cookie-policy) for the most accurate reproduction.*
 
-# Holland & Barrett - the UK's Leading Health Retailer > Privacy & cookie policy
+# Holland & Barrett - the UK's Leading Health Retailer> Privacy & cookie policy
 
 At Holland & Barrett we make every effort to ensure we protect your personal information.
 
