@@ -1,43 +1,43 @@
-> *The following text is extracted and transformed from the drmartens.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213183913id_/http%3A//www.dmusastore.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drmartens.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510041811id_/http%3A//www.drmartens.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Official Dr Martens Store - US
 
-General Policy
+**General Policy**
 
-Dr. Martens E-Commerce has created this privacy statement in order to demonstrate our firm commitment to privacy. Dr. Martens E-Commerce does not sell, rent, or otherwise distribute individual user information to outside parties. The following discloses our information gathering and dissemination practices for this website: [ http://www.dmusastore.com](http://www.dmusastore.com/).
+Dr. Martens AirWair USA LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. Dr. Martens AirWair USA LLC does not sell, rent, or otherwise distribute individual user information to outside parties. The following discloses our information gathering and dissemination practices for this website: [ http://www.drmartens.com/us](http://www.drmartens.com/us).
 
-Your privacy is important, so we'd like to explain what information we collect when you visit Dr. Martens E-Commerce (http://www.dmusastore.com), why we collect it and how it is used. We'd also like to explain your options to access and control your information, our data security practices and other matters. This Policy is governed by our Terms of Service.
+Your privacy is important, so we'd like to explain what information we collect when you visit Dr. Martens AirWair USA LLC (http://www.drmartens.com/us), why we collect it and how it is used. We'd also like to explain your options to access and control your information, our data security practices and other matters. This Policy is governed by our Terms of Service.
 
-Your Consent To This Policy
+**Your Consent To This Policy**
 
 By using our Site, you agree to this Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our Terms of Service take precedence over any conflicting Policy provision. We may change our Policy by posting a new version on our Site.
 
-Special Note About Children
+**Special Note About Children**
 
 This Site is not intended for children, especially kids under 13. Children may use this Site only with the direct supervision of their parent.
 
-What Information Do We Collect From You and Why?
+**What Information Do We Collect From You and Why?**
 
-If we collect personal information, you may later access and modify it, but you may not remove it from our system yourself. You may choose simply not to provide personal contact information by opting-out at the point of collection. 
+If we collect personal information, you may later access and modify it, but you may not remove it from our system yourself. You may choose simply not to provide personal contact information by opting-out at the point of collection.
 
-Certain Exceptional Disclosures
+**Certain Exceptional Disclosures**
 
 We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct. Disclosure may be required by law or if we receive legal process.
 
-Information About 'Cookies' & Why We Use Them
+**Information About 'Cookies' & Why We Use Them**
 
-Cookies are small files stored by your browser in your computer when you visit our Site. We mostly use "session cookies" that are automatically deleted after each visit. Cookies from our Site can't be read by other sites. Most browsers will accept cookies until you change browser settings to refuse them. 
+Cookies are small files stored by your browser in your computer when you visit our Site. We mostly use "session cookies" that are automatically deleted after each visit. Cookies from our Site can't be read by other sites. Most browsers will accept cookies until you change browser settings to refuse them.
 
-How We Protect Information We Collect
+**How We Protect Information We Collect**
 
 We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our Site reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
-The Length of Time We Keep Information
+**The Length of Time We Keep Information**
 
 We generally keep user data on our server or in our archives for as long as we reasonably need it. We may alter this practice according to changing requirements. For example, we may delete some data if needed to free up storage space. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely.
 
 Data management requests are administered in an orderly manner to the extent feasible and within our direct control. Note: we have greater control over recently collected data than for archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, our general data retention policy applies.
 
-Legal Disclaimer 
+**Legal Disclaimer**
 
-This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are not responsible for events beyond our direct control. This Policy is governed by Oregon law, excluding conflicts of law principles. Any legal actions against us must be commenced in Oregon within one year after the claim arose, or be barred. 
+This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are not responsible for events beyond our direct control. This Policy is governed by Oregon law, excluding conflicts of law principles. Any legal actions against us must be commenced in Oregon within one year after the claim arose, or be barred.
