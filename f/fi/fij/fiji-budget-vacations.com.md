@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiji-budget-vacations.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008034151id_/http%3A//www.fiji-budget-vacations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiji-budget-vacations.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510074819id_/http%3A//www.fiji-budget-vacations.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy For Fiji Budget Vacations.com
 
@@ -18,15 +18,7 @@ Once information is reviewed, it is discarded or stored in our files. If we make
 
 ### Use of Cookies and Web Beacons
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables Fiji Budget Vacations.com to recall your specific information on subsequent visits.
-
-You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
-
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
-
-We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
-
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the
+Some third-party advertisements may be provided by Google, which uses the DoubleClick cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to sites on the Web. You may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/). 
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
@@ -69,3 +61,24 @@ Some links within this website may lead to other websites, including those opera
 This website and its contents are provided "AS IS" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
 Reproduction, distribution, republication, and/or retransmission of material contained within this website are prohibited unless the prior written permission of Fiji Budget Vacations.com has been obtained.
+
+**You Are Here:**   [Home](http://www.fiji-budget-vacations.com/) Privacy
+
+[**HOME**](http://www.fiji-budget-vacations.com/) | [Contact](https://web.archive.org/web/20150510074819id_/http%3A//www.fiji-budget-vacations.com/contact.html)   
+
+
+### Tourist Information
+
+### Where to Stay/What To Do
+
+### Fijian Culture
+
+### Explore Fiji
+
+### Additional Pages
+
+### HOT DEALS in Fiji
+
+[](http://www.hotfiji.deals/)
+
+### "Fiji Time" Newsletter
