@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uploadfiles.eu privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105419id_/http%3A//uploadfiles.eu/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadfiles.eu privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510235319id_/http%3A//uploadfiles.eu/pages/privacy.html) for the most accurate reproduction.*
 
 # UploadFiles.eu
 
-### Privacy Policy
+## Privacy Policy
 
 Uploadfiles.eu (we or us) is a provider of online file storage service. Your use of the Uploadfiles.eu site is governed by Data File Terms and Conditions and this Privacy Policy.   
 The purpose of this Privacy Policy is to respect the privacy of the visitors on its website, included as: to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website. We may update this policy from time to time, so we ask you to check the policy regularly. 
