@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backgroundalert.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712214307id_/http%3A//backgroundalert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backgroundalert.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510111120id_/http%3A//backgroundalert.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - BackgroundAlert.com
+# background checks: criminal, arrest, marriage/divorce, public records, court records
 
 Updated July 5th, 2013 
 
