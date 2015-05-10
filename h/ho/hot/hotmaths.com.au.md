@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotmaths.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153431id_/http%3A//www.hotmaths.com.au/home/hotmaths/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmaths.com.au privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510034036id_/http%3A//www.hotmaths.com.au/home/hotmaths/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,7 @@ HOTmaths collects information that identifies you when you use Cambridge HOTmath
 Designated Cambridge HOTmaths school administrators can also access this data to help them manage school subscriptions. They are required to treat this information as confidential.
 
   * Your username and password is required so that only you can access your account. 
-  * For students and teachers using HOTmaths as part of a school program, your first and last name is required to allow us to place your subscription into a learning management system. For students and teachers using HOTmaths as an individual, with no affiliation with a school, you may use a pseudonym. 
+  * For students and teachers using Cambridge HOTmaths as part of a school program, your first and last name is required to allow us to place your subscription into a learning management system. For students and teachers using Cambridge HOTmaths as an individual, with no affiliation with a school, you may use a pseudonym. 
   * Your email address is required so that HOTmaths can contact you about changes to the site or advise you of matters regarding your use of the site. 
   * Your email address may also be used occasionally to send you product information. If you do not wish to receive this information, please email us at contactus@hotmaths.com.au or telephone us on 1300 887 907 to advise us. 
   * Your subscription type tells HOTmaths whether you are a student or a teacher, and is required so that we can create the appropriate subscription for you. 
@@ -27,14 +27,14 @@ Designated Cambridge HOTmaths school administrators can also access this data to
 
 ### Collection of information from social media
 
-  * HOTmaths may collect personally identifiable information from social media. This will only be done if you contact us through one of our social media channels, and the collection of this information is in according with the terms of use of the social media channel. 
+  * HOTmaths may collect personally identifiable information from social media. This will only be done if you contact us through one of our social media channels, and the collection of this information is in accordance with the terms of use of the social media channel. 
   * Information collected from social media is covered by this privacy policy.
 
 
 
 ### Use of cookies
 
-  * Cambridge HOTmaths uses cookies.
+  * HOTmaths uses cookies with Cambridge HOTmaths.
   * Cookies are small amounts of information that we transfer to your computer's hard drive through your web browser. They tell us when you have visited our site and where you have been. They do not identify you personally, just the presence of your browser. 
   * Cookies make it easier for you to log on and use the site during future visits. They also ensure that only one person can access your account at any time. 
   * Should you wish to do so, your browser's help section should be able to warn you before accepting cookies and how to filter or disable them, although if you do filter or disable cookies, you may not be able to use certain features on Cambridge HOTmaths. 
@@ -45,8 +45,8 @@ Designated Cambridge HOTmaths school administrators can also access this data to
 ### Information storage, sharing and disclosure
 
   * HOTmaths and our affiliate Cambridge University Press will both have access to your information.
-  * Your information is held in private databases accessible to HOTmaths and Cambridge University Press employees in Australia. 
-  * Your information is also held in commercial customer relationship management databases (CRMs). These CRMs may store your data overseas, but the data can only be accessed by HOTmaths and Cambridge University Press employees in Australia. 
+  * Your information is held in private databases only accessible to HOTmaths and Cambridge University Press employees in Australia. Our private databases are on servers located in the United States, and we have taken steps to ensure that our service providers handle your information in a manner broadly consistent with Australian privacy law. 
+  * Your information is also held in commercial customer relationship management databases (CRMs). These CRMs may store your data overseas, but the data can only be accessed by HOTmaths and Cambridge University Press employees. 
   * We may occasionally provide your information to third party distributors within Australia for the purpose of managing your school subscription. The information we will provide is your first and last name, school, school address, username and password. 
   * If you have nominated an overseas country as your location or the location of your educational institution, we may occasionally provide your information to Cambridge University Press staff and/or third party distributors in this country or region for the purpose of managing your school subscription. The information we will provide is your first and last name, school, school address, username and password. 
   * Please email us if you do not wish for your data to be shared with Cambridge University Press employees outside Australia or third party distributors. 
@@ -55,7 +55,7 @@ Designated Cambridge HOTmaths school administrators can also access this data to
 
 ### Exceptions
 
-  * The only exception to the above information storage, sharing and disclosure terms would be if HOTmaths or Cambridge University Press were required by a court order or subpoena to provide information deemed relevant to legal misuse of the site. 
+  * The only exception to the our information storage, sharing and disclosure terms would be if HOTmaths or Cambridge University Press were required by a court order or subpoena or relevant laws to provide information including where relevant to legal misuse of the site or for enforcement related activity. 
 
 
 
@@ -80,10 +80,8 @@ HOTmaths may change this policy from time to time. If it does so, you will be no
 
 ### Complaints
 
-If you would like to lodge a complaint about our privacy policies or the storage and treatment of your personal information, please email us at contactus@hotmaths.com.au. We will review your complaint and respond to you within 5 business days.
+If you would like to lodge a complaint about our privacy policies or the storage and treatment of your personal information, please email us at contactus@hotmaths.com.au marked for the attention of the HOTmaths Privacy Officer. We will review your complaint and respond to you within 5 business days.
 
 ### Further information
 
 If you would like further information about this policy, or would like to request a printed version of this policy, please email us at contactus@hotmaths.com.au or call us on 1300 887 907.
-
-Print 
