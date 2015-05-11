@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpertravels.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927224744id_/http%3A//www.globaltourismindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpertravels.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511034827id_/http%3A//www.globaltourismindia.com/privacy.html) for the most accurate reproduction.*
 
 # GTI TRAVELS PRIVATE LIMITED - Privacy Policy
 
@@ -16,10 +16,10 @@ When you are on our website and are asked for personal information, you are shar
 **Use of Personal Information :**  
 Our primary goal in collecting personal information is to provide you, with a customized experience on our website. This includes personalization services, interactive communications and many other services, most of which come absolutely free to you. 
 
-We may, from time to time, send you email regarding its new products and services. In addition, if you indicate upon registration that you are interested in receiving offers or information from us, we may occasionally send you direct mails about products and services that we feel may be of interest to you. Only we/our agents (under confidentiality agreements), will send you these direct mailings and only if you do not object to these offers. If you do not wish to receive such mailing, kindly inform us while registering, or at any time by editing your registration information.   
-****
+We may, from time to time, send you email regarding its new products and services. In addition, if you indicate upon registration that you are interested in receiving offers or information from us, we may occasionally send you direct mails about products and services that we feel may be of interest to you. Only we/our agents (under confidentiality agreements), will send you these direct mailings and only if you do not object to these offers. If you do not wish to receive such mailing, kindly inform us while registering, or at any time by editing your registration information.
 
-**Sharing of Information :**  
+Sharing of Information :
+
 As a general rule, we shall will not disclose or share any of your personal information except when we have specifically obtained your permission or under special circumstances, such as when we believe in good faith that the law requires it or as permitted in terms of this policy.   
 **  
 Protection of information :**  
