@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701011833id_/https%3A//www.edfringe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511044556id_/https%3A//www.edfringe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edinburgh Festival Fringe
 
