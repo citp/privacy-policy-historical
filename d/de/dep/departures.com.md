@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the departures.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123061454id_/http%3A//www.departures.com/promo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the departures.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512005215id_/http%3A//www.departures.com/microsites/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
   
 Effective Date: September 12, 2014
 
-Time Inc. Affluent Media Group ("TIAMG," "we," "our" or "us"), a subsidiary of Time Inc., is committed to safeguarding your privacy. We want you to know how we may collect, use, share, and keep information about you and the choices that are available to you. [Click here](https://web.archive.org/web/20141123061454id_/http%3A//www.departures.com/promo/amg-bus-units.html) for a list of the businesses that are governed by this Privacy Policy.
+Time Inc. Affluent Media Group ("TIAMG," "we," "our" or "us"), a subsidiary of Time Inc., is committed to safeguarding your privacy. We want you to know how we may collect, use, share, and keep information about you and the choices that are available to you. 
 
 This online privacy policy applies to TIAMG sites, applications, products, publications and services that reference this policy. 
 
@@ -112,7 +112,7 @@ We may use Online Information we collect about you on its own or combine it with
 
 ## Your California Privacy Rights: Notice to California Customers
 
-California's "Shine the Light" law, Civil Code Section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: TIAMG sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20141123061454id_/http%3A//www.departures.com/promo/optout/amgoffline/), or for email please [click here](https://web.archive.org/web/20141123061454id_/http%3A//www.departures.com/promo/optout/amgemail/). To find out more about your opt-out rights, please contact us as described in the "How to Contact Us" section below.
+California's "Shine the Light" law, Civil Code Section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: TIAMG sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20150512005215id_/http%3A//www.departures.com/microsites/optout/amgoffline/), or for email please [click here](https://web.archive.org/web/20150512005215id_/http%3A//www.departures.com/microsites/optout/amgemail/). To find out more about your opt-out rights, please contact us as described in the "How to Contact Us" section below.
 
 Some Online Information and Other Information is Personal Information, which is information that can identify a person, such as name, address, e-mail address, telephone number, date of birth and credit or debit card information.
 
@@ -124,7 +124,7 @@ We do not share Personal Information with anyone except as described below. We m
   * With our Service Providers, regulatory authorities, and governmental agencies to detect and prevent fraud or criminal activity, and to protect the rights of TIAMG or others;
   * Within the other divisions of Time Inc. Affluent Media Group that share this privacy policy;
   * With our Service Providers who perform services for us and help us operate our business (we require Service Providers to safeguard Personal Information and only use your Personal Information for the purposes we specify);
-  * With Business Partners who may wish to contact you about products, services, and offers that may interest you, either in conjunction with TIAMG or by themselves. These Business Partners' practices are not covered by this privacy policy. (If you do not want us to share your Personal Information with our Business Partners in the future, please [click here](https://web.archive.org/web/20141123061454id_/http%3A//www.departures.com/promo/optout/bpoffline/).);
+  * With Business Partners who may wish to contact you about products, services, and offers that may interest you, either in conjunction with TIAMG or by themselves. These Business Partners' practices are not covered by this privacy policy. (If you do not want us to share your Personal Information with our Business Partners in the future, please [click here](https://web.archive.org/web/20150512005215id_/http%3A//www.departures.com/microsites/optout/bpoffline/).);
   * In the context of a sale of all or part of Time Inc. Affluent Media Group or or their assets; or
   * For specific products or services, when you have given your consent.
   * Also, we may transfer Personal Information to Service Providers or companies within the Time Inc. Affluent Media Group throughout the world, for example, to process transactions and provide you with our products or services. Regardless of where we process your information, we still protect it in the manner described in this privacy policy and according to the applicable laws.
@@ -168,7 +168,7 @@ TIAMG sites sometimes may offer contests, sweepstakes, promotions, editorial fea
 
 We use reputable third parties to serve advertisements, including Online Behavioral Advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). 
 
-For additional information on advertisements and your Online Behavioral Advertising options, visit our [About Ads page](http://www.amexpub.com/privacy/amg-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html). 
+For additional information on advertisements and your Online Behavioral Advertising options, visit our [About Ads page](http://www.departures.com/microsites/privacy/amg-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html). 
 
 ## Accessing, Correcting, and Deleting Your Personal Information
 
