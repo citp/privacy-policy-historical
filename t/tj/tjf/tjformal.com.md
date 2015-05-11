@@ -1,49 +1,61 @@
-> *The following text is extracted and transformed from the tjformal.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102050105id_/http%3A//www.tjformal.com/t2942/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjformal.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511165743id_/http%3A//www.tjformal.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# TJ Formal: Help > Privacy, Security & Accessibility
 
-**This site requires Unique Identifiers.**
+### **Privacy Policy**
 
-This site uses an order form for customers to request information, products, and services. It also collects visitor's contact information (like their email address), in some circumstances their unique identifiers (like their pet's name, or mother's maiden name), and financial information (like their account or credit card numbers).Contact information from the order form is used to send orders and information about our company to customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future informational mailings; see the choice/opt-out section below, users may NOT opt out of receiving order notifications, or other contacts which are deemed essential by TJ Formal.
+ 
 
-**This site requires Financial Information.**
+This notice describes our Privacy Policy.  **By visiting our site, you are accepting the practices described in this Privacy Policy.**
 
-Financial information that is collected is used to bill the customer for products and services. Unique identifiers (such as pet's name, and mother's maiden name) are collected from Web site visitors to verify the user's identity.
+### What Personal Information About Customers Do We Gather?
 
-**This site may have Surveys and/or Contests.**
+Here are the types of information we gather.
 
-Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. This site may also run contests in which case we may ask visitors for contact information (like their email address). Generally this information is used to verify eligibility, however we may also use contact data from our contests to send users information about TJFormal. The customer's contact information is also used to contact the visitor when necessary (for example winners). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration and bill the user for products and services.
+  * **Information You Give Us:**  We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests and communicating with you.
+  * **Automatic Information:**  We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our Web site.
 
-**This site may contain Public Forums.**
 
-This site may include chat rooms, forums, message boards, and/or newsgroups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**About our System Security**
+### What About Cookies?
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Information is stored behind a firewall, against a password protected database system. Whenever sensitive information is accessed it is transmitted using strong SSL encryption.
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser, to provide certain features, and to allow storage of items in your shopping cart between visits.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-**This site provides the choice to Opt In or Out.**
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database not to receive future communications or to no longer receive our service. Each time an information email is distributed, you have the option to use unique unsubscribe url which is attached to each outgoing email. Customers may unsubscribe at any time by simply logging into their accounts. We provide the ability to Correct/Update Your Information.
 
-**Third Party Links**
+### Do We Share the Information We Receive?
 
-This site may contain links to other sites. TJ Formal is not responsible for the privacy practices or the content of such Web sites, unless otherwise specified below. Your information is never shared withother companies.
+We share information as described below.
 
-**Policy Changes**
+  * **Businesses and Individuals:**  We work closely with other businesses and individuals, and we may share information about you with those businesses and individuals.
+  * **Third-Party Service Providers:**  We may employ other companies and individuals to perform functions on our behalf. Examples include providing Web site services, fulfilling orders, delivering packages, sending postal mail and e-mail, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Business Transfers:**  As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise).
+  * **Our Protection and Protection of Others:**  We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect our rights, property, or safety and those of our users, and others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  * **With Your Consent:**  Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-TJ Formal reserves the right to change these policies at any time and make any and all new policies retroactive.
 
-**Contacting the Website**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+### How Secure Is Information About Me?
 
-TJ Formal
+  * Your information is protected during transmission by Secure Sockets Layer (SSL) software, which encrypts information you input.
+  * Only the last four digits of your credit card numbers are revealed when confirming an order. Of course, the entire credit card number is transmitted to the appropriate credit card company during order processing.
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-508 N. Range Line Rd., Suite A
 
-Joplin, Missouri 64801
 
-Email: contact_inquiry@tjformal.com
+### Which Information Can I Access?
 
-[1-417-623-4333](tel:1-417-623-4333)
+We give you access to information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information.
+
+### What Choices Do I Have?
+
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain features.
+  * You can add or update certain information on pages such as those referenced in the " _Which Information Can I Access?_ " section. When you update information, a copy of the prior version may be kept for our records.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+
+
+### Terms of Use, Notices, and Revisions
+
+If you choose to visit this Web site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. Our business changes constantly, and our Privacy Policy and the Terms of Use will change also. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.]]
