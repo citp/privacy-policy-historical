@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the silencershop.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226214819id_/http%3A//www.silencershop.com/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silencershop.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511060728id_/http%3A//www.silencershop.com/silencer-shop-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy notice discloses the privacy practices for SilencerShop.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+## Disclosures
+
+This privacy notice discloses the privacy practices for silencershop.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
@@ -38,4 +40,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (512) 931-4556 or [via email](mailto://support@silencershop.com).
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (512) 931-4556 or [via email](mailto:support@silencershop.com).
