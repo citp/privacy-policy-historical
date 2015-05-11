@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2013-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130721181445id_/http%3A//www.panasonic.co.in/wps/portal/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511040320id_/http%3A//www.panasonic.com/in/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy | Panasonic India
+# Privacy Policy - Panasonic
 
-Panasonic India Pvt Ltd has created this privacy statement in order to disclose our information gathering and dissemination practices for this site: http://www.panasonic.co.in
+Panasonic India Pvt Ltd has created this privacy statement in order to disclose our information gathering and dissemination practices for this site: [http://www.panasonic.co.in](http://www.panasonic.co.in/)
 
 We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address identifies you, and allows us to gather broad demographic information on site visitors.
 
