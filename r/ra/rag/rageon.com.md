@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rageon.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203071032id_/http%3A//rageon.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rageon.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511162312id_/http%3A//www.rageon.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RageOn! - The World's Largest All-Over-Print Online Store
 
@@ -26,7 +26,7 @@ How do I withdraw my consent?
 
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@rageon.com or mailing us at:
 
-Attn: RageOn, 1835 East 30th Street, Cleveland, OH 44114
+Attn: RageOn, 1163 East 40th Street, Suite 211, Cleveland, OH 44114
 
 SECTION 3 - DISCLOSURE
 
@@ -106,4 +106,4 @@ Attn: RageOn
 
 [Re: Privacy Compliance Officer]  
 
-1835 East 30th Street, Cleveland, OH 44114
+1163 East 40th Street, Suite 211, Cleveland, OH 44114
