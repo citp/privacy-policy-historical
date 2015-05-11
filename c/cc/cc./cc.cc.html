@@ -1,101 +1,19 @@
-<!--The following is the downloaded HTML source of the cc.cc privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430081851id_/http%3A//cc.cc/privacy_statment/privacy_statment.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cc.cc privacy policy that was archived on 2015-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511154402id_/http%3A//cc.cc/privacy_statment/privacy_statment.php) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>CC.CC url shortener that pays you. Shorten urls and earn money!</title>
-<meta name="keywords" content="short links, tinyurl, bitly, bit.ly, earn money, link advertising, tiny url, url shortener">
-<meta name="description" content="Earn cash for each visitor to your shortened url links with CC.CC!">
-<link rel="stylesheet" type="text/css" href="/css/style.css">
-<script type="text/javascript" src="/js/jquery-1.6.2.min.js"></script>
-<script type="text/javascript" src="/js/jquery.zclip.min.js"></script>
-<script language="javascript" type="text/javascript" src="/js/cc.cc.js"></script>
-<style>
-.group
-{
-        position:relative;
-        height:40px;
-}
+<title>CC.CC - Screen Capture that pays you. Screen capture and earn money!</title>
+<meta name="keywords" content="short links, tinyurl, bitly, bit.ly, earn money, link advertising, tiny url, screen capture">
+<meta name="description" content="Earn cash for each visitor to your screen capture links with CC.CC!">
+<meta name="viewport" content="initial-scale=1.0; maximum-scale=1.0; minimum-scale=1.0; user-scalable=no;">
 
-#shrink_group
-{
-        position:absolute;
-        top:0px;
-        right:0px;
-        height:40px;
-        font-size:12pt;
-        background-color:#2f6e8b;
-        color: #ffffff;
-        border: 0px solid #ccc;
-        font-family:Verdana;
-        width:160px;
-}
-
-#copy_group
-{
-        position:absolute;
-        top:0px;
-        right:161px;
-        height:40px;
-        font-size:12pt;
-        background-color:#2f6e8b;
-        color: #ffffff;
-        border: 0px solid #ccc;
-        font-family:Verdana;
-        width:100px;
-        display:none;
-}
-
-.shorten_url_input_form_default
-{
-        height:40px;
-        line-height:40px;
-        border: solid 1px #96a6c5;
-        vertical-align:bottom;
-        width:500px;
-        font-size:18pt;
-        background-color:#ffffff;
-        color: #ababab;
-        font-family:Verdana;
-}
-
-.shorten_url_input_form
-{
-        height:40px;
-        line-height:40px;
-        border: solid 1px #96a6c5;
-        vertical-align:bottom;
-        width:500px;
-        font-size:14pt;
-        background-color:#ffffff;
-        color: #303030;
-        font-family:Verdana;
-        padding-right:65px;
-}
-
-
-#shrink_notice
-{
-        font-weight:bold;
-        color:#202020;
-}
-
-#new
-{
-        font-size:6pt;
-        color:#fc5034;
-        vertical-align: top;
-}
-
-
-</style><script type="text/javascript" src="/js/shorten-url.js"></script></head>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<link href="/css/cc.cc.main.css" rel="stylesheet">
 
 
 
-
-
-
-<body bgcolor="#ffffff">
+</head><body bgcolor="#ffffff">
 
 <noscript>
         <br>
@@ -106,79 +24,44 @@
         </table>
 </noscript>
 
-
-<form method="post" name="shorten_url_form" id="shorten_url_form">
-
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
+<table width="300" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
-<td height="30">
-</td></tr></tbody></table>
+<td>
 
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
-<td width="140">
-</td><td valign="bottom">
-        <div id="shrink_notice">Paste your long URL here:</div>
+<td height="10">
 </td></tr></tbody></table>
 
 
-<table width="800" height="50" border="0" cellspacing="0" cellpadding="0" align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
-<td width="120" height="50" align="right" valign="middle">
-        <a href="/"><img src="/img/main/cccc_logo.gif" alt="cc.cc" title="cc.cc" width="110" height="29"></a></td>
-<td width="20" align="right">
-</td><td width="660" align="right">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-        <tbody><tr>
-        <td width="100%" align="left">
-                <div class="group">
-                        <input type="text" id="url" name="url" value="" class="shorten_url_input_form" autocomplete="off">
-                        <input type="button" value="Copy >>" id="copy_group" onclick="shorten_url_copy()">
-                        <input type="submit" value="Shorten URL >>" id="shrink_group">
-                </div>
-        </td></tr></tbody></table>
-</td>
-</tr></tbody></table>
-</form>
-
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr>
-<td width="140">
-</td><td width="500" align="center">
-        Shorten url, earn $7.50 /1000 visitors to your links. 
-</td><td width="160">
-</td></tr></tbody></table>
-
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr>
-<td height="30">
-</td></tr></tbody></table>
-
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr>
-<td height="25" align="center" background="/img/main/menu_bg.gif" bgcolor="393939">
-        <table width="776" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-        <td width="60%">
-                <a href="/"><span class="menu">Home</span></a>
-                &nbsp;|&nbsp; <a href="/my_account/my_account.php"><span class="menu">My Account</span></a>
-        </td><td width="40%" align="right">
-                <a href="/log_in_out/login.php"><span class="menu">Login</span></a>
-
+<td align="right">
+        <a href="http://cc.cc/my_account/my_account.php"><span class="menu">My Account</span></a>
         &nbsp;|&nbsp; 
-        <a href="/regist/regist_account.php"><span class="menu">Join Now</span></a>
+        <a href="http://cc.cc/log_in_out/login.php"><span class="menu">Login</span></a>
 
-        </td>
-        </tr>
-        </tbody></table>
+&nbsp;|&nbsp; 
+<a href="http://cc.cc/regist/regist_account.php"><span class="menu">Join Now</span></a>
+
 </td>
 </tr>
 </tbody></table>
 
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
+
+<table width="100%" height="50" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
-<td valign="top">
-<table width="100%">
+<td align="left">
+        <a href="http://cc.cc"><img src="/img/cc_cc_log.gif" alt="cc.cc" title="cc.cc" width="110" height="29"></a>
+</td>
+</tr></tbody></table>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+<td height="10">
+</td></tr></tbody></table>
+<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
 <td valign="top">
 
@@ -231,29 +114,20 @@ please contact us at : <br>
 </tbody></table>
 
 
-</td></tr></tbody></table>
 
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr>
-<td height="20">
-</td></tr></tbody></table>
+<br>
 
-<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr>
-<td width="20" height="92" background="/img/main/copy_bg_1.gif"></td>
-<td align="center" background="/img/main/copy_bg.gif">
-<a href="/contact_us/contact_us.php"><span class="a_fix_link">Contact</span></a> | 
-<a href="/terms_of_service/terms_of_service.php"><span class="a_fix_link">Terms Of Service</span></a> | 
-<a href="/privacy_statment/privacy_statment.php"><span class="a_fix_link">Privacy Policy</span></a> | 
-<a href="/spam_or_abuse/spam_or_abuse.php"><span class="a_fix_link">Spam or abuse</span></a> | 
-<a href="/payout_rates/payout_rates.php"><span class="a_fix_link">Payout rates</span></a><br>
+<table width="300" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr><td align="center">
+        <a href="http://cc.cc/contact_us/contact_us.php">Contact</a> | 
+        <a href="http://cc.cc/terms_of_service/terms_of_service.php">Terms</a> | 
+        <a href="http://cc.cc/privacy_statment/privacy_statment.php">Privacy</a> | 
+        <a href="http://cc.cc/spam_or_abuse/spam_or_abuse.php">Spam or abuse</a>
 </td>
-<td width="20" background="/img/main/copy_bg_2.gif"></td>
-</tr>
-</tbody></table>
+</tr></tbody></table>
 <br>
 
 
 
 
-</body></html>
+</td></tr></tbody></table></body></html>
