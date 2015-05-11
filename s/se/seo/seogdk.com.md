@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seogdk.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125071112id_/http%3A//www.seogdk.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seogdk.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511073651id_/http%3A//www.seogdk.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Expert : Seogdk
 
