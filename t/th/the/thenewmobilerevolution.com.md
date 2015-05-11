@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewmobilerevolution.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207165844id_/http%3A//thenewmobilerevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewmobilerevolution.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511182758id_/http%3A//thenewmobilerevolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The New Mobile Revolution
 
