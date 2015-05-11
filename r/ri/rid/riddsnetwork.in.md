@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the riddsnetwork.in privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702020107id_/http%3A//riddsnetwork.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riddsnetwork.in privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512011145id_/http%3A//riddsnetwork.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Ridds
 
 Riddsnetwork.in very strongly believes in it’s Privacy Policy. We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to third parties. Unless you ask us not to, we may occasionally contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
