@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805035857id_/http%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511041748id_/https%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
 
 # Gamestar Mechanic - Privacy Policy
 
@@ -22,7 +22,7 @@ If we do not have an email address on file for your user account (either because
 
 If you register your account as a student in a class within Gamestar Mechanic created by a professional educator and subject to the terms of our Educational Licensing Agreement, you may be asked to provide your real First and Last Name. In this event, the teacher and/or school have represented that they have obtained parent/guardian permission to act as an agent with respect to the collection of students' personal information within the school context. This information is stored in our system in a secure manner and displayed only to authorized users at the educational institution to assist them in identifying students in Gamestar Mechanic. Your real First and Last Name are not used or displayed elsewhere in Gamestar Mechanic or shared with any third parties.
 
-Gamestar Mechanic account holders can view the personal information they have provided to us any time they are logged into their account by going to their profile page. At any time, you may request that your personal information be removed from our system and your account be disabled, either from your profile page or by sending a request to [](https://web.archive.org/help/report). If you make such a request, we will disable your account and remove the personal information from our system so that it cannot be used in the future.
+Gamestar Mechanic account holders can view the personal information they have provided to us any time they are logged into their account by going to their profile page. At any time, you may request that your personal information be removed from our system and your account be disabled, either from your profile page or by sending a request to [](https://gamestarmechanic.com/help/report). If you make such a request, we will disable your account and remove the personal information from our system so that it cannot be used in the future.
 
 _Information we track_
 
@@ -80,7 +80,7 @@ Occasionally, we may share non-personal data with third parties such as sponsors
 
 **How to contact us**
 
-If you have questions or concerns regarding this Privacy Policy, you can contact us via email at [](https://web.archive.org/help/report) or at
+If you have questions or concerns regarding this Privacy Policy, you can contact us via email at [](https://gamestarmechanic.com/help/report) or at
 
 Gamestar Mechanic  
 c/o E-Line Media  
