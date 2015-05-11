@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypercargames.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921104549id_/http%3A//www.hypercargames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypercargames.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511064252id_/http%3A//www.hypercargames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HyperCarGames.com
 
