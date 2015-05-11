@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 3dexport.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727210255id_/http%3A//www.3dexport.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dexport.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511102539id_/http%3A//help.netrinomedia.com/item/privacy-policy) for the most accurate reproduction.*
 
-# Buy 3D Models | Sell 3D Models | DOWNLOAD FREE 3D MODELS, TEXTURES | Buy
+# Privacy policy - NetrinoMedia Marketplace's Help CenterNetrinoMedia Marketplace's Help Center
 
 Privacy of our users is a high priority at 3DExport. We do not share any personal information gathered online without permission from the submitting user, and we never will. Your Personal Data shall be strictly kept confidential at all times which have been and will be our policies and practices with respect to the use, collection, retention, transfer, disclosure, security and access of Personal Data.
 
 All information submitted on 3DExport is used exclusively for the purpose of enhancing the functionality of our service level.
 
-We keep only partial credit card information to ensure security and all transactions use SSL security for encryption. Any saved cards utilize your computer to complete the information. 
+We keep only partial credit card information to ensure security and all transactions use SSL security for encryption. Any saved cards utilize your computer to complete the information.
 
 You agree that, by providing us with your Personal Data, you allow us to use and retain your Personal Data for the following purposes and for other purposes as shall be agreed between you and us or required by law from time to time:
 
@@ -21,7 +21,10 @@ You agree that, by providing us with your Personal Data, you allow us to use and
 
 Relating to the above mentioned purposes, you also accept our disclosure and transferring to any third party service providers, any credit providers, banks, financial institutions, any third party collection agencies, any credit reference agencies, any security agencies, our agents, contractors, our professional advisers, any other persons under a duty of confidentiality to us and any of our actual or proposed assignees or transferees of our rights with respect to you of using, disclosing, processing, holding, retaining or transferring such Personal Data.
 
-In case we deemed it necessary, we reserve the right to amend this Statement without prior notice. Thus, regular checking for any amendments is advisable. 
+In case we deemed it necessary, we reserve the right to amend this Statement without prior notice. Thus, regular checking for any amendments is advisable.
 
-Thank you,  
-**3DExport.com**
+Thank you.
+
+### Rate This Article
+
+(11 out of 20 people found this article helpful) 
