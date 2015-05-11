@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkspace.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129085931id_/http%3A//www.talkspace.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkspace.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511204539id_/http%3A//www.talkspace.com/public/privacy-policy) for the most accurate reproduction.*
 
 # therapy for how we live today
 
@@ -116,7 +116,7 @@ We strive to create a global community with consistent standards for everyone, b
 
 Talkspace.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to talkspace.com at he “contact us” link on the website.
 
-Understand, that we treat your use of our platform with the utmost respect to your privacy. We keep all information not disclosed above private between the Therapist and the User, keeping only non-decimated “file” copies for reference in case of legal dispute of by court order as we are required to under Federal Laws for period up to seven years. File retention protects both the User and the Therapists safety. The data will be protected at high levels of security and privacy, and should the user use a pseudonym, will not include their real name in the conversation records. Paying users, and users that use third party services are not included in our privacy (we can't control what Facebook/Google etc. do with the data). 
+Understand, that we treat your use of our platform with the utmost respect to your privacy. We keep all information not disclosed above private between the Therapist and the User, keeping only non-decimated “file” copies for reference in case of legal dispute of by court order as we are required to under Federal Laws for period up to seven years. File retention protects both the User and the Therapists safety. The data will be protected at high levels of security and privacy, and should the user use a pseudonym, will not include their real name in the conversation records. 
 
 Talkspace is not responsible for data lost/exposed/used due to the nature of the Internet and digital environments, illegal actions of hackers and criminals, technical malfunctions of servers and database etc. These are the accepted risks of our Users and users of the Internet in general. You are agreeing to this standard in using our site. 
 
