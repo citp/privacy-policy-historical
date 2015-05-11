@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partsopedia.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231090402id_/http%3A//partsopedia.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partsopedia.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511142557id_/http%3A//partsopedia.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Partsopedia
+# Privacy Notice : Partsopedia, Aftermarket Harley Davidson Products
 
 This privacy policy sets out how Partsopedia Inc uses and protects any information that you give Partsopedia Inc when you use this website.  
 Partsopedia Inc is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
@@ -24,9 +24,7 @@ We require this information to understand your needs and provide you with a bett
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address
 
 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
   * We may use the information to customize the website according to your interests.
-  * We may provide your information to our third party partners for marketing or promotional purposes.
   * We will never sell your information.
 
 
