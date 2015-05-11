@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202160331id_/http%3A//www.mybuys.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512014421id_/http%3A//www.mybuys.com//privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyBuys
 
-UPDATED – June 21, 2013
+UPDATED – January 8, 2015
 
 _This Privacy Policy explains the privacy practices of MyBuys, Inc. and how we collect, use, and disclose information we collect from users of any of our corporate Clients’ websites or mobile websites (each, a “Client” and “Client’s Site”, respectively) and users of our corporate website ([www.mybuys.com](http://www.mybuys.com/)) (“Corporate Site”). We take your privacy seriously and want to help you understand what we do, our practices, and the protections we use to safeguard data._
 
@@ -146,12 +146,6 @@ If we change our Privacy Policy, we will post the updates at[www.mybuys.com/priv
 INTERNATIONAL VISITORS
 
 Our website is hosted in, and we provide our services from, the United States. If you use our services from other regions with laws governing data collection and use that may differ from United States law, you are transferring your Personal Information to the United States and you consent to the use of your information under the terms of this Privacy Policy.
-
-US-EU SAFE HARBOR
-
-MyBuys adheres to the [US-EU Safe Harbor Principles](http://www.export.gov/safeharbor) of Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement, and is registered with the U.S. Department of Commerce’s Safe Harbor Program. MyBuys educates relevant employees about compliance with the Safe Harbor Privacy Principles and has self-assessment procedures in place to ensure our compliance.
-
-If you have any questions, please contact us using the information below. If you believe that MyBuys has not satisfactorily addressed your data privacy concerns related to the US-EU Safe Harbor Principles, you may obtain dispute resolution services through the [International Centre for Dispute Resolution](http://www.adr.org/aaa/faces/aoe/icdr), a division of the American Arbitration Association.
 
 PRIVACY OF CHILDREN
 
