@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120124319id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511235216id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.*
 
-# Union First Market Bank - Support - Disclosures & Terms of Use - Privacy Policy
+# Union Bank & Trust - Support - Disclosures & Terms of Use - Privacy Policy
 
 Union respects the private nature of the personal financial information we collect.  Union takes appropriate precautions to restrict access to this nonpublic personal information about you to only those employees who need to know that information in order to provide products or services to you.
 
