@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125054346id_/http%3A//www.stellarinfo.com/company/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511192408id_/http%3A//www.stellarinfo.com/company/legal/privacy-policy.htm) for the most accurate reproduction.*
 
-# Stellar Information Systems Ltd. - Privacy Policy, Leaders in Hard Drive Data Recovery Software Tools, Disk Recovery Utilities - Stellar
+# Stellar Information Technology Pvt. Ltd. - Privacy Policy
 
-Stellar Information Systems Ltd. is committed to maintaining the privacy of the information you share with us. We will not sell, distribute, or rent information about you and your purchases at [www.stellarinfo.com](http://www.stellarinfo.com/) to a third party. We will use the information you share only for the purposes of improving your use of our web site, and/or, with your permission, sending you information about our products and services. 
+Stellar Information Technology Pvt. Ltd. is committed to maintaining the privacy of the information you share with us. We will not sell, distribute, or rent information about you and your purchases at [www.stellarinfo.com](http://www.stellarinfo.com/) to a third party. We will use the information you share only for the purposes of improving your use of our web site, and/or, with your permission, sending you information about our products and services. 
 
 Please read our Privacy Policy to understand how we protect you and the information you share with us. If you have any questions, please feel free to write to us at [privacy@stellarinfo.com ](mailto:privacy@stellarinfo.com)
 
 This Privacy Policy will explain the following regarding our collection of information:
 
-**Information Collection**
+Information Collection
 
   * Whenever you make a purchase from our web site, at the time of check-out, we obtain the information we need from you to complete your transaction. To process your order, we require you to supply us with your correct billing, shipping and contact information. The information remains secure and cannot be received or read by others.
   * When you "Login" at our support center, we receive your contact information. We require you to submit your name and email address to be able to respond to your inquiry.
@@ -17,7 +17,7 @@ This Privacy Policy will explain the following regarding our collection of infor
 
 
 
-**Use of Information Collected**
+Use of Information Collected
 
   * **Online Order**  
 The personal information you supply when placing an online order is used to ship your order and to send you order confirmation email. We may also use it to contact you in case of seeking any clarification on the order or a related correspondence.
@@ -33,7 +33,7 @@ Stellar may request you for information for a survey or contest. Requested infor
 
 
 **Unsubscribe**  
-If you no longer wish to receive email from us, please follow the unsubscribe instructions located at the bottom of the email or send us an email at [unsubscribe@stellarinfo.com](mailto:unsubscribe@stellarinfo.com) . We will process such unsubscribe requests within 5 business days. 
+If you no longer wish to receive email from us, please follow the unsubscribe instructions located at the bottom of the email or send us an email at [unsubscribe@stellarinfo.com](mailto:unsubscribe@stellarinfo.com) . We will process such unsubscribe requests within 5 business days.
 
 **Check on your personal information**  
 If you wish to access to your information that we have on our records, please send us an email at [privacy@stellarinfo.com ](mailto:privacy@stellarinfo.com)
@@ -43,5 +43,3 @@ We might use cookies, [small pieces of data stored on the user's hard drive] to 
 
 **Notification of changes**  
 If, at some point in the future, there is a change to our Privacy Policy and/or practices that affect your personally identifiable information, we will notify you by email of the relevant changes.
-
-* * *
