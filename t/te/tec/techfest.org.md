@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfest.org privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203002232id_/http%3A//www.techfest.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfest.org privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511171028id_/http%3A//www.techfest.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Techfest 2014-15 | Asia's Largest Science and Technology Festival
 
@@ -38,7 +38,7 @@ The email address you provide for order processing, may be used to send you info
 
 **Note:**
 
-If at any time you would like to unsubscribe from receiving future emails, you can send us a mail at [unsubscribe@techfest.org](https://web.archive.org/web/20141203002232id_/http%3A//www.techfest.org/unsubscribe@techfest.org) to unsubscribe from the periodic mails.   
+If at any time you would like to unsubscribe from receiving future emails, you can send us a mail at [unsubscribe@techfest.org](https://web.archive.org/web/20150511171028id_/http%3A//www.techfest.org/unsubscribe@techfest.org) to unsubscribe from the periodic mails.   
 
 
 ##### **  
@@ -123,3 +123,61 @@ India
 [ www.techfest.org ](http://www.techfest.org/)
 
 This policy is powered by Trust Guard [PCI compliance ](http://www.trust-guard.com/PCI-Compliance-s/65b.htm?utm_expid=1880506-21.toDEndoJSIi68_4iOvcHgQ.1&utm_referrer=http%253A%252F%252Fwww.techfest.org%252Fhome%252Finfo%252Fprivacy)
+
+Anybody can hold the helm when the sea is calm but at this Techfest, you will witness a sea full of competitions, which polishes and brings out knowledge, skills and determination within you. With the fields for competitions this year ranging from sustainability and design to advanced robotics to events based on pure sciences, Techfest has something in store for everyone.
+
+Yes, the time has come when you can prove to the world that you have it in you. No legacy is as rich as that of Competitions at Techfest and we invite all of you to be a part of it. Get ready for the ultimate challenges awaiting you! 
+
+  
+
+
+#####  For further queries please contact:
+
+  
+
+
+##### **[Ayush Bandil](https://www.facebook.com/abandil1)**
+
+|   | 
+
+##### **[Digvijay Ingle](https://www.facebook.com/profile.php?id=100003651248132)**  
+  
+---|---|---  
+  
+##### Manager, Events
+
+|   | 
+
+##### Manager, Events  
+  
+##### [ayushbandil@techfest.org](mailto:%20ayushbandil@techfest.org)
+
+|   | 
+
+##### [digvijay.ingle@techfest.org](mailto:%20digvijay.ingle@techfest.org)  
+  
+##### Ph. +91 976 947 4580
+
+|  | 
+
+##### Ph. +91 773 825 9706  
+  
+Techfest, IIT Bombay has branched out to every genre aiming at concentrating the power of youth towards innovation and development of different sectors. It takes neither armies nor riches to change the world. Over the 17 years of its growth, it has gone through a long way to achieve this glory through its various initiatives. 
+
+Previous editions of Techfest witnessed a grand success in raising initiatives like **ISMOKE** ( **I** **S** upport **M** ovement t **O** **K** ill canc **E** r), **Give-A-Coin** (Financial Child Adoption Campaign), **Techfest Green Campus Challenge** , **Ummeed-e-Milaap** (Initiative for peace between India and Pakistan) and **Reformâ€™nâ€™ation** (Competition to address social problems in India) etc. With an aim to empower the people technologically and creating a better tomorrow, Techfest brings to you its initiatives for this year. 
+
+  
+  
+
+
+For an idea that does not first seem insane, there is no hope. - **Albert Einstein**
+
+The sole motto of Ideate is to discover the best ideas from across the nation that would drive the transformation and empowerment of the society. 
+
+As the saying goes, necessity is the mother of invention. A key problem today is that the society at large still operates with an outdated simile of the mind itself. All that is needed is a newly minted idea, a belief and a vision to spark a revolution. An idea is like a splendid bird that could articulate patterns emerging from chaos. Ideas can evolve and have a life of its own, striving to give the world a small nudge which will set the gears of change in motion on a broad scale. 
+
+Techfest invites the ponderers to the platform of Ideate, bring their ideas to the fore and change the way humans interact with the people and earth to create a real impact. 
+
+**Note:** A team may participate in more than one genre of Ideate. However, if the same idea is presented in more than one genre, then the team stands a chance of winning in only one of those, though it may get other benefits based on the discretion of the judging panel. 
+
+For further queries please contact: 
