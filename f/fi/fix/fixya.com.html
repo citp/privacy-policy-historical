@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fixya.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230122616id_/http%3A//www.fixya.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fixya.com privacy policy that was archived on 2015-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511234016id_/http%3A//www.fixya.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" id="top" lang="en"><!--<![endif]--><!--[if lt IE 9]><script src="/include/js/html5.js"></script><![endif]--><head><meta charset="utf-8"><title>
 	Our Privacy Policy - Fixya
@@ -7,13 +7,9 @@
 	<!--LM-Top-->
 	
 <!--CSS -->
-	<link type="text/css" href="http://r.fixya.net/include/css/fixya3/bootstrap.css?v=301214" rel="stylesheet" id="ManagerProxy11">
-	<link type="text/css" href="http://r.fixya.net/include/css/fixya3/main.css?v=301214" rel="stylesheet" id="ManagerProxy9">
-	<link type="text/css" href="http://r.fixya.net/include/css/fixya3/search-ask.css?v=301214" rel="stylesheet" id="lnkSearchAsk">
-	<link type="text/css" href="http://r.fixya.net/include/css/fixya3/myproducts.css?v=301214" rel="stylesheet" id="lnkMyProducts">
-	<link type="text/css" href="http://r.fixya.net/include/css/ads.css?v=301214" rel="stylesheet" id="Ads">
+	<link type="text/css" href="http://r.fixya.net/include/css/css_master_3.css?v=100515" rel="stylesheet" id="ManagerProxy2">
 	<!--Scripts -->
-	<script type="text/javascript" async="" src="http://edge.quantserve.com/quant.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script><script type="text/javascript" async="" src="http://js.indexww.com/ht/fix.js"></script><script type="text/javascript" async="" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://a.fixya.net/include/js/head.load.min.js?v=301214" id="HeadLoader"></script>
+	<script type="text/javascript" async="" src="http://edge.quantserve.com/quant.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script><script type="text/javascript" async="" src="http://js.indexww.com/ht/fix.js"></script><script type="text/javascript" async="" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://a.fixya.net/include/js/head.load.min.js?v=100515" id="HeadLoader"></script>
 	
 <script type="text/javascript">
 var _gaq = _gaq || [], _comscore = _comscore || []; window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l =+ new Date;
@@ -29,7 +25,7 @@ ga('send', 'timing', {
  'timingValue': 15,
  'timingLabel': 'Server Render'
 });
-_gaq.push(['_setCustomVar', 2, 'Page', 'Privacy', 3],['_setCustomVar', 5, 'DirectTraffic_Fixya30_Control_HighAd', 'True', 3]);
+_gaq.push(['_setCustomVar', 2, 'Page', 'Privacy', 3],['_setCustomVar', 5, 'Fixya30_Control_AdMarketplaceTest', 'True', 3]);
 
 _gaq.push(['_trackPageview']);
 
@@ -95,27 +91,18 @@ _comscore.push({ c1: "2", c2: "10011885" });
 	    var Var_PingdomID = "51861fd6abe53d3d60000000";var PrePopulateAskProduct = 'False'.toLowerCase() == 'true' ? true : false;
 	    var Page = Page || {init: function(){}}, logEventPtype = logEventPtype || function(){}, logEvent = logEvent || function(){}, logCustomEvent = logCustomEvent || function(){};
 	    
-	    head.ready(function(){
-	        Page.init({"searchText":"","productId":0,"productName":"","itemImage":"","categoryId":0,"categoryIsOverride":false,"categoryName":"","brandId":0,"brandName":"","productFullName":"","familyId":0,"familyName":"","threadId":0,"firstMessageID":0,"userId":0,"userName":null,"userTotalSolutions":0,"lastAnswerPageItem":null,"selectedUserId":0,"categoryIsLeaf":false,"proType":0});
-		    Page.enableMotorsAsk = "true";
-		    Page.showBlueHeader = 'False' == 'True' ? true : false;
-		    $(".lazy").lazyload({failure_limit : 50, threshold : 200});
-		    Page.context.AskPageMode = 'True'.toLowerCase() == 'true';
-			Page.context.sessionID = 'k5ujfw45iu21gpuvugkycq5y';
-		    Page.context.MachineName = '6';
-	        Page.context.ShowProfanityError = 'True'.toLowerCase() == 'true';
-	        Page.context.ShowSocialBarOnscroll = 'False'.toLowerCase() == 'true';
-
-	    });
 		var searchHostDomain = 'x.fixya.net';
 		var searchHost = searchHostDomain + '/' + 'HTTPHandlers' + '/' + 'SearchAutoComplete';
 
-		function ReplaceImage(elm, origParam, imgPrefix) {
+		function ReplaceImage(elm, origParam, imgPrefix, ctgFallback) {
 		    if (origParam.indexOf("mobility") > 0) {
 		        elm.src = origParam.replace(" mobility", "").replace("%20mobility", "").replace("_mobility", "").replace("mobility", "");
 		    }
 		    else {
-		        elm.src = imgPrefix + 'images/icons/404_118x100.png';
+		        if(ctgFallback)
+		            elm.src = imgPrefix;
+                else
+		            elm.src = imgPrefix + 'images/icons/404_118x100.png';
 		    }
 		    elm.onerror = null;
 		    return false;
@@ -131,37 +118,31 @@ _comscore.push({ c1: "2", c2: "10011885" });
 	</script>
 	<!--LM-Top-->
 	
-		
-		
-		
-		
-		
+        
         
 		
 		
-		
-		
-		
-		
-    
-		
-		
-		
-		
-		
-		
 	
-        <style>
-            .top-title{
-                padding: 10px 25px 10px 25px!important;
-                border:1px solid #eaeaea!important;
-            }
-            .browse-ad {
-                border-width: 1px 1px 1px 1px;
-                margin: 0;
-            }
-        </style>
-    </head>
+
+    <script type="text/javascript">
+        head.ready(function(){
+            var isIE11 = !!navigator.userAgent.match(/Trident.*rv\:11\./);     
+            var isiPad = navigator.userAgent.match(/(iPad|Android|iPhone|iPod)/i) != null;            
+            Page.init({"searchText":"","productId":0,"productName":"","itemImage":"","categoryId":0,"categoryIsOverride":false,"categoryName":"","brandId":0,"brandName":"","productFullName":"","familyId":0,"familyName":"","threadId":0,"threadTitle":"","threadUrl":"","firstMessageID":0,"userId":0,"userName":null,"userTotalSolutions":0,"lastAnswerPageItem":null,"selectedUserId":0,"categoryIsLeaf":false,"proType":0,"designImagesPrefix":"http://i.fixya.net/"});
+            Page.enableMotorsAsk = "true";
+            Page.showBlueHeader = 'False' == 'True' ? true : false;
+            $(".lazy").lazyload({failure_limit : 50, threshold : 200});
+            Page.context.AskPageMode = 'True'.toLowerCase() == 'true';
+		    Page.context.sessionID = 'yna1bwp4psjc3hjt53s4fqom';
+            Page.context.MachineName = '2';
+            Page.context.ShowProfanityError = 'True'.toLowerCase() == 'true';
+            Page.context.ShowSocialBarOnscroll = 'False'.toLowerCase() == 'true';
+            Page.keys.enableAnnotations = ('True'.toLowerCase() == 'true');
+            Page.keys.enableAnnotationsEdit = (!isiPad) && (!isIE11);
+            Page.keys.SetPopularAsDefault = 'True'.toLowerCase() == 'true'
+        });
+    </script>
+</head>
 <body id="body" class="product headerSubNav" itemscope="" itemtype="http://schema.org/WebPage">
 	<!--DartsMain-->
  <script type="text/javascript">
@@ -199,15 +180,15 @@ _comscore.push({ c1: "2", c2: "10011885" });
  brand: "", product: "", ptype: "home", model: "", year: "", ctype: "p", ab: "cg", category: "", subcat1: "", subcat2: "", kw: [], source: "", placements: ["north", "south"] } </script>
 
 <!--/DartsMain-->
-	<!--header-->
+
+	<!--header-->   
     
-    
-<header id="header" class="header" style="position: fixed">
+<header id="header" class="header">
  <!-- inner -->
  <div class="inner clearfix">
  
  <div class="logo-holder">
- <p id="simpleLogo" class="logo">
+ <p id="simpleLogo" class="logo">                    
  <a href="http://www.fixya.com/" onclick="logEvent(9246);">
  <img src="http://i.fixya.net/images/fixya3/logo2.png" alt="Fixya - Solutions for Everything" width="96" height="39">
  </a>
@@ -215,28 +196,35 @@ _comscore.push({ c1: "2", c2: "10011885" });
  </div>
  
  
+ 
  <!-- search -->
  <div id="mainSearchContainer" class="search site-search">
  <form action="#">
  <p class="txt">
- <label class="visuallyhidden">Search Fixya</label>
+ <label class="visuallyhidden">Search Fixya</label> 
  <input id="txtSearch1" class="search-term" onclick="logEvent(9829);" onfocus="MainSearch.txtSearch='#txtSearch1';MainSearch.autocompleteContainer='#mainAutoComplete1';" autocomplete="off" type="text" placeholder="Search problems &amp; products">
- </p><div style="display: none;" class="autocomplete" id="mainAutoComplete1"><p class="enter-txt">Press enter to search.</p></div>
+ </p><div style="display: none;" class="autocomplete" id="mainAutoComplete1">
+ <p class="enter-txt">Press enter to search.</p>
+ </div>
  <p></p>
  <input class="ir search-btn" type="submit" value="Search Fixya" onclick="MainSearch.DoSearch(); return false;">
  </form>
  <script type="text/javascript">
  head.ready(function ()
  {
- MainSearch.txtSearch='#txtSearch1';
- MainSearch.autocompleteContainer='#mainAutoComplete1';
+ MainSearch.txtSearch = '#txtSearch1';
+ MainSearch.autocompleteContainer = '#mainAutoComplete1';
  MainSearch.InitAutocomplete();
- $(".search .txt input ").focus(function ()
+ $(".search .txt input ").focus(function () {
+ $(".header-ask li:last-child").fadeOut(200);
+ $(this).addClass("expanded");
+ });
+ $(".search .txt input ").blur(function ()
  {
- $(".header-ask li:first-child").fadeOut(200); $(this).addClass("expanded");
- }).blur(function ()
- {
- $(".header-ask li:first-child").fadeIn(1200); $(this).removeClass("expanded");
+ setTimeout(function () {
+ $(".header-ask li:last-child").fadeIn(1200);
+ $(".search .txt input ").removeClass("expanded");
+ }, 500);
  });
  });
  </script>
@@ -246,7 +234,8 @@ _comscore.push({ c1: "2", c2: "10011885" });
  
  
  <div class="header-ask">
- <ul class="clearfix">
+ <ul class="clearfix" id="HeaderNavHolder">
+ 
  <li>
  <a id="browse-toggle" href="/support/forum" onclick="logEvent(100441);">
  Browse Categories 
@@ -268,27 +257,20 @@ _comscore.push({ c1: "2", c2: "10011885" });
  }
  });
  </script>
- </li>
+</li>
  <li class="navAnsweSimple">
  
  <a href="http://www.fixya.com/answer/browsecategories.aspx" onclick="return CommonScripts.GoToAnswerPage();">Answer Questions</a>
  
- </li>                    
  
- <li><a href="https://www.fixya.com/ssl/signup.aspx" onclick="logEvent(100439);return SignUpModal.openModal('signup');">Join</a></li>
- <li><a href="https://www.fixya.com/ssl/signin30.aspx" onclick="logEvent(100440);return SignUpModal.openModal('signin');">Sign In</a></li>
- <li>
- <div class="dropdown">
- <a class="dropdown-toggle active" data-toggle="dropdown" href="/pro/landing-page/local" onclick="logEvent(100574);"><b class="ir pro-dropdown">Fixya Pro</b> <span class="caret"></span></a>
- <ul class="dropdown-menu">
  
- <li><a href="/pro/landing-page/local">Become a Pro</a></li>
- </ul>
- </div>
  </li>
+ <li><a href="https://www.fixya.com/ssl/signup.aspx?from=nav" onclick="logEvent(100439);">Join</a></li>
+ <li><a href="https://www.fixya.com/ssl/signin30.aspx" onclick="logEvent(100440);">Sign In</a></li>                            
  
  <li class="last"><form style="display:inline;" id="frmAsk" action="/ask/askdetails.aspx" method="POST"><input type="hidden" id="pType" name="pType" value="8513"><a class="btn btn-primary ask-primary" id="askDetailsLink" onclick="logEvent(100552);frmAsk.submit();return false;" href="/ask/askdetails.aspx">Ask a Question</a></form></li>
- 
+
+                   
  </ul>
  </div>
  
@@ -310,29 +292,29 @@ _comscore.push({ c1: "2", c2: "10011885" });
  <!-- /search-inner-->
  <div class="modal-backdrop fade in"></div>
  </div>
- <!-- /search-window-->
- <div class="second-header">
- <div class="ask" style="display: none;">
- <a href="/ask/askdetails.aspx" onclick="logEvent(100552);frmAsk.submit();return false;" id="a1" class="btn btn-primary ask-primary">Ask a Question</a>
- </div>
- <div class="social">
- <p>Share this:</p>
- <ul class="share-buttons">
- <li class="fb"><a onclick="logEvent(100569);" data-share="facebook" title="Share on Facebook" class="share-btn ir">Share on Facebook</a></li>
- <li class="twitter"><a onclick="logEvent(100570);" data-share="twitter" title="Share on Twitter" class="share-btn ir">Share on Twitter</a></li>
- <li class="gplus"><a onclick="logEvent(100571);" data-share="google" title="Share on Google+" class="share-btn ir">Share on Google+</a></li>
- <li class="pinterest"><a onclick="logEvent(100572);" data-share="pinterest" title="Share on Pinterest" class="share-btn ir">Share on Pinterest</a></li>
- <li class="email"><a href="#share-modal" data-toggle="modal" id="shareModelId" onclick="logEvent(100573);ModalPopups.Share.checkSharePopup();" class="share-btn ir">Share by Email</a></li>
- </ul>
- </div>
- </div>
+ <!-- /search-window-->       
  </div>
  <!-- /inner --> 
 </header>
 
+ <!--leaderboard-holder-->
+ <div id="leaderboardContainer" class="leaderboardClass">
+ <div id="divDarts1" class="inner">
+ <div style="text-align: center;" class="ad-holder">
+ 
+ </div>
+ </div>
+ </div>
+ <!--/leaderboard-holder-->
+
     <!--/header-->
 	<!-- nav bar --><!-- /nav bar -->
-	
+       
+
+     
+
+
+
 	<!--content-->
 	<div id="content" class="clearfix">
 		
@@ -353,9 +335,18 @@ _comscore.push({ c1: "2", c2: "10011885" });
  <!-- for Server Side - - by Session -->
  
  <!-- /-->
+ <script>
+ head.ready(function(){
+ $(document).on("click", "[data-dismiss='alert']", function(e){
+ $(this).parents("div.alert").fadeOut(); // remove??
+ });
+ });
+ </script>
 
  
  
+ <div class="alert alertTop alert-success" id="wantAnswerAlert" style="display:none;">        
+</div>
 
 		
  
@@ -369,7 +360,7 @@ _comscore.push({ c1: "2", c2: "10011885" });
  <!-- section -->
 <div class="section">  <!-- content --> <div class="content clearfix">  <!-- main --> <div class="main">  <!-- content-page --> <div class="content-page"> <h1 class="xl">Privacy Policy</h1> <p>At Fixya.com, we are committed to protecting online user privacy. This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.</p> <h2 class="lg">User Information:</h2> <p>Fixya.com may request you to provide certain information which may be used to assist in the construction and maintenance of your account, such as your email address and full name. Fixya.com's use of your personally identifiable information is regulated by this Privacy Policy as detailed below.</p> <h2 class="lg">Anonymous User Information:</h2> <p>Fixya.com collects some anonymous information each time you visit Fixya.com so we can improve the overall quality of your online experience. We may collect your IP address, referral data, and browser and platform type, prior to and regardless of whether or not you register with Fixya.com, and serve you with advertising materials. We do not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and knowingly provide such information. Fixya.com does not require you to share information that identifies you personally, such as your name or email address, in order for you to use the Fixya.com search or to log-in to Fixya.com as a guest user. Fixya.com assigns an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited Fixya.com, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. We analyze this information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Fixya.com may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the Fixya.com search.</p> <h2 class="lg">Cookies:</h2> <p>We use a feature of Internet web browsers called a "cookie," which is a small file that is sent to your computer when you visit a website. This enables us to store user preferences and track user trends and search patterns. We use cookies to improve the quality of the Fixya.com services and to better understand how users interact with us. We do not and cannot use Cookies to retrieve individual personally identifiable information about you from your computer unless you knowingly and willingly provided such information. The cookie technology we use cannot obtain information from your hard drive or pass on a computer virus. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Fixya.com features or services may not function properly without cookies.</p> <h2 class="lg">Information Security:</h2> <p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.</p> <h2 class="lg">Aggregated General Information:</h2> <p>We may share aggregated general information about our site with our corporate partners, advertisers or others. Examples of this include the number of users who searched for "Digital Camera", the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. Information sharing: We may share personally identifying information to other companies or individuals in any of the following limited circumstances:</p> <ul> <li>We have your consent.</li> <li>We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.</li> <li>When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Fixya.com's terms of use, or as otherwise required by law.</li> <li>If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent.</li> <li>We may store and process personal information collected on our site in Canada or any other country in which Fixya.com or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country.</li> <li>Fixya.com may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to Fixya.com so that we can provide a better search experience to you. For this purpose, we may also provide these third parties service providers anonymous information about your site navigation.</li> <li>We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. We may also disclose information to third parties who assist us in providing our services to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site.</li> <li>We may share or transfer personally identifiable information in the event of a transfer of our ownership or that of any of Fixya.com's affiliated entities, websites or services, such as acquisition by or merger with another company, or in the event of a sale of all or substantially all of Fixya.com's business related assets or any other change of ownership we may undergo.</li> </ul> <h2 class="lg">Correspondence:</h2> <p>If you contact Fixya.com, we may keep a record of that correspondence and we may collect your email address.</p> <h2 class="lg">Third Party Information Gathering:</h2> <p>Fixya.com includes content and ads from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to "opt-out", please refer to <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>. Please be aware that Fixya.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p> <h2 class="lg">Children's Privacy</h2> <p>Fixya.com does not knowingly request or collect personally identifiable information online or offline contact information from users under 13 years of age nor do we knowingly use or share personal information from users under 13 years of age with third parties.</p> <h2 class="lg">Paid Submissions:</h2> <p>The Information that is gathered when submitting a URL to the Fixya.com directory is only used to contact the customer and will not be sold or otherwise transferred without the submitter's explicit permission.</p> <h2 class="lg">Changes to Privacy Policy:</h2> <p>We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.</p> <p><i>Last updated: May 25, 2014</i></p> </div> <!-- /content-page -->  </div> <!-- /main -->  <!-- secondary --> <div class="secondary">  
 <!-- social-promo -->
-<div class="module last"> <div class="social-promo"> <ul> <li><a lang="9522" rel="me" title="Follow Fixya on Twitter" href="https://twitter.com/fixya" class="twitter">Follow Us on Twitter</a></li> <li><a lang="9523" rel="me" title="Join Fixya on Facebook" target="_blank" href="http://www.facebook.com/pages/FixYa/315217715293" class="fb">Join Us on Facebook</a></li> <li><a lang="9524" rel="me" title="Join Fixya on Google+" href="https://plus.google.com/+fixya" class="google">Join Us on Google+</a></li> </ul> </div>
+<div class="module last"> <div class="social-promo"> <ul> <li><a lang="9522" rel="me" title="Follow Fixya on Twitter" href="https://twitter.com/fixya" class="twitter">Follow Us on Twitter</a></li> <li><a lang="9523" rel="me" title="Join Fixya on Facebook" target="_blank" href="http://www.facebook.com/pages/FixYa/315217715293" class="fb">Join Us on Facebook</a></li> <li><a href="https://www.linkedin.com/company/fixya" target="_blank" class="linkedin">Connect with Us on LinkedIn</a></li> <li><a lang="9524" rel="me" title="Join Fixya on Google+" href="https://plus.google.com/+fixya" class="google">Join Us on Google+</a></li> </ul> </div>
 </div> <!-- social-promo --> </div> <!-- /secondary --> </div> <!-- /content --> 
 </div>
 <!-- /section -->
@@ -382,15 +373,15 @@ _comscore.push({ c1: "2", c2: "10011885" });
 <footer class="clearfix section footer">
  <!-- leaderboard-bottom -->
  <div id="footerBanner" class="leaderboard-bottom"> <div class="inner"> <div style="text-align:center;" class="ad-holder">  
-<!-- begin ad tag (tile=350) -->
+ <!-- begin ad tag (tile=350) -->
 
 
 
-<div class=""><div class="ad-holder" id="div-gpt-ad-8a5845fb-0b75-44b2-9a82-32c7f1ae9386"></div></div>
+<div class=""><div class="ad-holder" id="div-gpt-ad-1567d8de-5df3-498b-a3fa-941baa0e635e"></div></div>
 <script type="text/javascript">
  
  googletag.cmd.push(function () {
- googletag.defineUnit("/21854401/Site_BTF_Leaderboard_Center", [[728,90]],"div-gpt-ad-8a5845fb-0b75-44b2-9a82-32c7f1ae9386" )
+ googletag.defineUnit("/21854401/Site_BTF_Leaderboard_Center", [[728,90]],"div-gpt-ad-1567d8de-5df3-498b-a3fa-941baa0e635e" )
  .addService(googletag.pubads())
  .setTargeting('amznslots', amznads.getTokens())
  .setTargeting("tile", "350")
@@ -400,10 +391,11 @@ _comscore.push({ c1: "2", c2: "10011885" });
  googletag.pubads().collapseEmptyDivs(true);  
  
  googletag.enableServices();
- googletag.display('div-gpt-ad-8a5845fb-0b75-44b2-9a82-32c7f1ae9386');
+ googletag.display('div-gpt-ad-1567d8de-5df3-498b-a3fa-941baa0e635e');
  });
 </script>
- </div> </div> </div>
+
+  </div> </div> </div>
  <!-- /leaderboard-bottom -->
  <div class="inner">
  
@@ -421,7 +413,7 @@ _comscore.push({ c1: "2", c2: "10011885" });
  <h4>Help</h4>
  <ul>
  <li><a href="/contact" onclick="logEvent(9286);">Contact</a></li>
- <li><a href="/FAQ.aspx" onclick="logEvent(9287);">FAQ</a></li>
+ <li><a href="/faq.aspx" onclick="logEvent(9287);">FAQ</a></li>
  <li><a href="/partners" onclick="logEvent(9290);">Partners</a></li>
  <li><a href="/privacy" onclick="logEvent(9291);">Privacy Policy</a></li>
  <li><a href="/terms" onclick="logEvent(9292);">Terms</a></li>
@@ -441,19 +433,21 @@ _comscore.push({ c1: "2", c2: "10011885" });
  <h4>Extras</h4>
  <ul>
    
+ <li><a lang="9634" href="/pro/landing-page/brand">Join as Manufacturer</a></li>
  <li><a lang="9634" href="/fixboard">Fixboard</a></li>
- <li><a lang="9634" href="/pro/landing-page/local">Fixya Pro</a></li>
  <li><a lang="100278" href="/reports">Fixya Reports</a></li>
+ <li><a href="/tipleaderboard">Tip Leaderboard</a></li>
  </ul>
  </div>
  <div class="footer-bottom clearfix">
  <p class="back-top"><a lang="9304" href="#top" title="Return to Top" class="ir scroll">Back to Top</a></p>
- <ul>
+ <ul>               
  <li><a lang="9307" href="https://plus.google.com/+fixya" class="ir google" target="_blank" title="Join Fixya on Google+">Join Fixya on Google+</a></li>
  <li><a lang="9306" href="https://twitter.com/fixya" class="ir twitter" target="_blank" title="Follow Fixya on Twitter">Follow Fixya on Twitter</a></li>
  <li><a lang="9305" href="https://www.facebook.com/pages/FixYa/315217715293" target="_blank" class="ir facebook" title="Join Fixya on Facebook">Join Fixya on Facebook</a></li>
+ <li><a lang="2000" href="https://www.linkedin.com/company/fixya" target="_blank" class="ir linkedin" title="Connect with Fixya on LinkedIn">Connect with Fixya on LinkedIn</a></li>
  </ul>
- <p class="agree">By entering the Fixya site you declare that you have read and agreed to its <a href="/terms" onclick="logEvent(9292);">Terms</a>. You may NOT copy or distribute the content that appears on this site without written permission from Fixya Ltd. © 2005-2014, Fixya, Ltd. or it's affiliates.</p>
+ <p class="agree">By entering the Fixya site you declare that you have read and agreed to its <a href="/terms" onclick="logEvent(9292);">Terms</a>. You may NOT copy or distribute the content that appears on this site without written permission from Fixya Ltd. © 2005-2015, Fixya, Ltd. or it's affiliates.</p>
  </div>
  </div>
 </footer>
@@ -474,20 +468,10 @@ _comscore.push({ c1: "2", c2: "10011885" });
 	<div id="throbber" class="clearfix throbber"><div id="throbberLoading" data-prefix="http://i.fixya.net/"><strong>Loading...</strong></div><div id="throbberError" style="display: none"><strong>Oops :<br>Please try again.</strong></div></div>
 	<script>
 	head.load(["http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",
-	"/handlers/dynamicjs/constantsjs.ashx?v=301214",
+	"/handlers/dynamicjs/constantsjs.ashx?v=100515",
 
-	"http://a.fixya.net/include/js/fixya3/bootstrap.js?v=301214",
-	"http://a.fixya.net/include/js/fixya3/plugins.js?v=301214",
-	"http://a.fixya.net/include/js/jquery.lazyload.min.js?v=301214",
-	"http://a.fixya.net/include/js/fixya3/main.js?v=301214",
-	"http://a.fixya.net/include/js/jquerylibs/jcache.js?v=301214",
-	"http://a.fixya.net/include/js/achievements.js?v=301214",
-	"http://a.fixya.net/include/js/jquerylibs/jquery.validate.1.11.min.js?v=301214",
-	"http://a.fixya.net/include/js/common/eventslogger.js?v=301214",
-	"http://a.fixya.net/include/js/common/validation.js?v=301214",
-	"http://a.fixya.net/include/js/fixya3/autocomplete30.js?v=301214",
-	"http://a.fixya.net/include/js/fixya3/ask30.js?v=301214",
-	"http://a.fixya.net/include/js/fixya3/megabrowsescripts.js?v=301214",
+	"http://a.fixya.net/include/js/js_master_3.js?v=100515",
+	"http://a.fixya.net/include/js/fixya3/jqueryplugins/additional-methods.js?v=100515",
 	]);</script>
 	<script type="text/javascript">
 var m_userId = 0;var m_threadID = 0;var m_productID = 0;var m_categoryID = 0;var m_brandID = 0;var m_campaignID = '';var m_gclid = 0;var m_countryID = 0;var m_us = 8;var m_ptype = 8186;var m_objtype = 0;var m_objid = 0;var m_usrinp = '';var m_referres = [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1];head.ready(function(){Ads.AmazonTrackers.push(new AmazonTracker('.com', 'fixya09-20', 'fixya-autos-20'));Ads.AmazonTrackers.push(new AmazonTracker('.de', 'fixyacom070-21', ''));Ads.AmazonTrackers.push(new AmazonTracker('.ca', 'fixyacom-20', ''));Ads.AmazonTrackers.push(new AmazonTracker('.co.uk', 'fixyacom-21', ''));Ads.AmazonTrackers.push(new AmazonTracker('.es', 'fixyacom01-21', ''));Ads.AmazonTrackers.push(new AmazonTracker('.fr', 'fixyacom04-21', ''));Ads.AmazonTrackers.push(new AmazonTracker('.it', 'fixyacom00-21', ''));Ads.AmazonTrackers.push(new AmazonTracker('.co.jp', 'fixya-22', ''));Ads.TrackAllAmazonLinks();});</script>
@@ -511,7 +495,8 @@ var m_userId = 0;var m_threadID = 0;var m_productID = 0;var m_categoryID = 0;var
 	
 	<!--CSS -->
 	<script type="text/javascript">
-		 head.ready(function () {
+		
+ head.ready(function () {
  $(".dropdown-toggle").click(function () {
  $(".mega-browse").hide();
  });
@@ -632,4 +617,4 @@ var m_userId = 0;var m_threadID = 0;var m_productID = 0;var m_categoryID = 0;var
 
 
 <!--Bucket: C_CONTROL = 0 -->
-<!--T:590811-WAZBOT6:0.016--></body></html>
+<!--T:590207-WAZWEB2:0.016--></body></html>
