@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the unisfair.com privacy policy that was archived on 2014-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141009014645id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unisfair.com privacy policy that was archived on 2015-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511052918id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 184 - published by Open Text Web Solutions 10 - 10.0.1.90 - 30893 -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,6 +7,9 @@
 <meta name="copyright" content="© 2006 InterCall">
 <meta name="keywords" content="InterCall privacy policy, conference call company, web conferencing privacy, audio conferencing privacy">
 <meta name="description" content="View InterCall’s privacy policy about their audio and web conferencing services.">
+<!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <![endif]-->
+<!--[if IE8 ]><meta http-equiv="X-UA-Compatible" content="IE8" /><![endif]--> 
+
 
 <title>InterCall Privacy Policy | Conference Call Company   </title>
 <link href="/includes/mainStyles.css" rel="stylesheet" type="text/css">
@@ -28,6 +31,8 @@ var dropdownPos=265;
 <script type="text/javascript" src="http://www.intercall.com/common/js/effects.core.js"></script>
 <script type="text/javascript" src="http://www.intercall.com/common/js/effects.blind.js"></script>
 <script type="text/javascript" src="http://www.intercall.com/common/js/fancybox/jquery.fancybox-1.3.1.js"></script>
+<script src="http://www.intercall.com/common/js/jquery.cookie.js"></script>
+
 <link rel="stylesheet" type="text/css" href="http://www.intercall.com/common/css/jquery.fancybox-1.3.1.css" media="screen">
 
 <script type="text/javascript">
@@ -106,7 +111,8 @@ navOff();
 
 function navOff () {
 $('.dropDownMenu').show();
-$(".fixedHeader").remove(); 
+$(".fixedHeader").remove();
+$(".backTop").hide();  
 $("body").css({                
 'background-position': '50% 100px',
 'background-attachment':'scroll'              
@@ -125,7 +131,7 @@ $(".fixedHeader").css({
 'width': '100%',                
 'height': '100px',                
 'z-index':'700',                
-'top': '-50px',                
+'top': '-70px',                
  'background-color':'#FFFFFF',
  'float':'left',              
 'display':'none'                                           
@@ -138,7 +144,8 @@ $(".fixedHeader #header").css({
 'background-color':'#FFFFFF'               
 });
 $(".fixedHeader #logo").css({
-'z-index':'1000'                
+'z-index':'1000',
+'top':'38px'               
 }); 
 
 $(".fixedHeader .googleSearch").css({
@@ -154,17 +161,23 @@ $("body").css({
 }); 
 
 
+$(".fixedHeader .blog").css('display', 'none');            
                              
 $(".fixedHeader .regionPopOut").css('display', 'none');            
 //$(".fixedHeader #cse-search-box").css('display', 'none');
 $(".fixedHeader  #smbToggle").css('display','none');
 $(".fixedHeader #toolBar").css({                
-'top': '45px',                
+'top': '50px',                
 'right': '460px'                
+}); 
+
+$(".fixedHeader #topNav").css({                
+'top': '43px'                
 });   
           
  } 
-$(".fixedHeader").fadeIn();    
+$(".fixedHeader").fadeIn();
+$(".backTop").fadeIn();     
 } 
 
 var initOffset = parseInt($(window).scrollTop()); 
@@ -175,7 +188,104 @@ navOn();
 
 
 
+
+
+
+
+
+/* ====== BEGIN MEGA MENU ================= */
+$(".megaContent").append("<div class='closeButton2'></div>");
+ $(".closeButton2").css({
+'position' : 'absolute',
+'display' : 'none',
+'z-index' : '111111',
+'background' : 'url(http://www.intercall.com/images/xDark.png) ',
+'width' : '21px',
+'height' : '21px',
+'top' : '10px',
+'right' : '10px',
+'cursor': 'pointer' 
  });
+function activateMenu (obj) {
+ indicatorOffset = obj.offset();
+indicatorLeft = Math.round(indicatorOffset.left) ;
+leftMarginWidth = ($(window).width() - $("#container").width())/2;
+itemWidth = obj.width()/2;
+var homeNav = $('#homeContainer')[0];
+if(homeNav) {
+ leftMarginWidth = ($(window).width() - $("#homeContainer").width() + 130)/2;
+ $(".megaMenu").css('left','230px');
+}
+//alert(indicatorWidth);
+name = "." + obj.attr('id');
+$(".megaColumns").html($(name).html());
+$(".megaIndicator").css('left', indicatorOffset.left - leftMarginWidth - 160 + itemWidth + 'px');
+if ($(".megaMenu").css('display') == "none") {
+ $(".megaMenu").fadeIn();
+}
+ 
+return;
+}
+var isTouch = (('ontouchstart' in window) || (navigator.msMaxTouchPoints > 0));
+if(isTouch == true ) {
+$("#solutions, #about, #support, #services").click(function(e) {
+ e.preventDefault();
+ $(".closeButton2").show();
+ return activateMenu ($(this));
+});
+$("#solutions").html($("#solutions").html() + " &#x25BE");
+$("#about").html($("#about").html() + " &#x25BE");
+$("#support").html($("#support").html() + " &#x25BE");
+$("#services").html($("#services").html() + " &#x25BE");
+  
+ $(".closeButton2").click(function () {
+   $(".megaMenu").hide();
+   });
+}
+else {
+$("#solutions, #about, #support, #services, .megaMenu").mouseenter(function() {
+clearTimeout(timer);
+ return activateMenu ($(this));
+});
+
+$(".fixedHeader #solutions, .fixedHeader #about, .fixedHeader #support, .fixedHeader #services").mouseenter(function() {
+$(".megaMenu").hide();
+ });
+ 
+$("#solutions, #about, #support, #services, .megaMenu").mouseleave(function() {
+ timer = setTimeout(function(){$('.megaMenu').fadeOut();}, 300); 
+});
+}
+/* ====== END MEGA MENU ================= */
+
+// cache user name and password for IOL login
+var $username;
+var $password;
+$("#username, #passwordTxt").live('mouseout', function() { 
+$username = $("#username").val();
+$password = $("#passwordTxt").val();
+});
+$("#support").mouseover(function() {
+$("#username").val($username);
+$("#passwordTxt").val($password);
+});
+
+$(".backTop").click(function () {
+  $("html, body").animate({ scrollTop: 0 }, "fast");
+  return false;
+  
+ });
+
+ });
+</script>
+
+ <script type="text/javascript">
+// THIS IS DROPDOWN CODE FOR THE OLD DROPDOWN MENU
+
+//tabdropdown.initializetabmenu("topNav");
+</script>
+  <script type="text/javascript">
+//tabdropdown.initializetabmenu("topNav")
 </script><script type="text/javascript">
 $(document).ready(function(){
  $(document).pngFix(); 
@@ -218,26 +328,26 @@ $(document).ready(function(){
 
 
     <ul class="dropDownMenu secondNav" id="dropmenu32">
-        <li><a id="32_1" onmouseover="showThirdNav('dropmenu32_1', 'products&amp;services', 'dropmenu32', '32_1') ;" onmouseout="hideThirdNav('dropmenu32_1', '32_1');" class="flyout" href="/conferencing-services.php"><span>Conferencing Services</span></a></li><li><a id="32_2" onmouseover="showThirdNav('dropmenu32_2', 'products&amp;services', 'dropmenu32', '32_2') ;" onmouseout="hideThirdNav('dropmenu32_2', '32_2');" class="flyout" href="/services/unified-communication/index.php"><span>Unified Communications </span></a></li><li><a id="32_3" onmouseover="showThirdNav('dropmenu32_3', 'products&amp;services', 'dropmenu32', '32_3') ;" onmouseout="hideThirdNav('dropmenu32_3', '32_3');" class="flyout" href="/event-services.php"><span>Event Services </span></a></li><li><a id="32_4" onmouseover="showThirdNav('dropmenu32_4', 'products&amp;services', 'dropmenu32', '32_4') ;" onmouseout="hideThirdNav('dropmenu32_4', '32_4');" class="flyout" href="/services/professional-services/index.php"><span>Professional Services</span></a></li><li><a href="/tools/index.php"><span>Add-on Tools &amp; Technology</span></a></li>
+        <li><a id="32_1" onmouseover="showThirdNav('dropmenu32_1', 'services', 'dropmenu32', '32_1') ;" onmouseout="hideThirdNav('dropmenu32_1', '32_1');" class="flyout" href="/conferencing-services.php"><span>Conferencing Services</span></a></li><li><a id="32_2" onmouseover="showThirdNav('dropmenu32_2', 'services', 'dropmenu32', '32_2') ;" onmouseout="hideThirdNav('dropmenu32_2', '32_2');" class="flyout" href="/services/unified-communication/index.php"><span>Unified Communications </span></a></li><li><a id="32_3" onmouseover="showThirdNav('dropmenu32_3', 'services', 'dropmenu32', '32_3') ;" onmouseout="hideThirdNav('dropmenu32_3', '32_3');" class="flyout" href="/event-services.php"><span>Event Services </span></a></li><li><a id="32_4" onmouseover="showThirdNav('dropmenu32_4', 'services', 'dropmenu32', '32_4') ;" onmouseout="hideThirdNav('dropmenu32_4', '32_4');" class="flyout" href="/services/professional-services/index.php"><span>Professional Services</span></a></li><li><a href="/tools/index.php"><span>Add-on Tools &amp; Technology</span></a></li>
     </ul>
 
-    <ul class="dropDownMenu thirdNav" id="dropmenu32_1" onmouseover="showThirdNav('dropmenu32_1', 'products&amp;services', 'dropmenu32', '32_1') ;" onmouseout="hideAllNav('dropmenu32_1', '32_1', 'products&amp;services');">
+    <ul class="dropDownMenu thirdNav" id="dropmenu32_1" onmouseover="showThirdNav('dropmenu32_1', 'services', 'dropmenu32', '32_1') ;" onmouseout="hideAllNav('dropmenu32_1', '32_1', 'services');">
 <li><a href="/services/audio-conferencing/index.php"><span>Audio Conferencing</span></a></li><li><a href="/services/web-conferencing/index.php"><span>Web Conferencing</span></a></li><li><a href="/services/video-conferencing/index.php"><span>Video Conferencing</span></a></li>
 
     </ul>
 
-    <ul class="dropDownMenu thirdNav" id="dropmenu32_2" onmouseover="showThirdNav('dropmenu32_2', 'products&amp;services', 'dropmenu32', '32_2') ;" onmouseout="hideAllNav('dropmenu32_2', '32_2', 'products&amp;services');">
+    <ul class="dropDownMenu thirdNav" id="dropmenu32_2" onmouseover="showThirdNav('dropmenu32_2', 'services', 'dropmenu32', '32_2') ;" onmouseout="hideAllNav('dropmenu32_2', '32_2', 'services');">
 <li><a href="/services/unified-communication/west-ip-communications.php"><span>West IP Communications</span></a></li><li><a href="/services/unified-communication/office365.php"><span>Microsoft Office 365</span></a></li>
 
     </ul>
 
-    <ul class="dropDownMenu thirdNav" id="dropmenu32_3" onmouseover="showThirdNav('dropmenu32_3', 'products&amp;services', 'dropmenu32', '32_3') ;" onmouseout="hideAllNav('dropmenu32_3', '32_3', 'products&amp;services');">
+    <ul class="dropDownMenu thirdNav" id="dropmenu32_3" onmouseover="showThirdNav('dropmenu32_3', 'services', 'dropmenu32', '32_3') ;" onmouseout="hideAllNav('dropmenu32_3', '32_3', 'services');">
 <li><a href="/services/webcasting/index.php"><span>Webcasting</span></a></li><li><a href="/services/virtual-environments/index.php"><span>Virtual Environments</span></a></li><li><a href="/services/corporateTube.php"><span>CorporateTube</span></a></li><li><a href="/services/operator-assisted/index.php"><span>Operator Assisted</span></a></li><li><a href="/services/operator-assisted/direct-event.php"><span>Direct Event</span></a></li><li><a href="/services/web-event-services/index.php"><span>Web Event Services</span></a></li>
 
     </ul>
 
-    <ul class="dropDownMenu thirdNav" id="dropmenu32_4" onmouseover="showThirdNav('dropmenu32_4', 'products&amp;services', 'dropmenu32', '32_4') ;" onmouseout="hideAllNav('dropmenu32_4', '32_4', 'products&amp;services');">
-<li><a href="/services/professional-services/consulting-system-integration.php"><span>Consulting and System Integration</span></a></li><li><a href="/services/professional-services/managed-services.php"><span>Managed Services</span></a></li>
+    <ul class="dropDownMenu thirdNav" id="dropmenu32_4" onmouseover="showThirdNav('dropmenu32_4', 'services', 'dropmenu32', '32_4') ;" onmouseout="hideAllNav('dropmenu32_4', '32_4', 'services');">
+<li><a href="/services/professional-services/consulting-system-integration.php" style="display:none;"><span>Consulting and System Integration</span></a></li><li><a href="/services/professional-services/managed-services.php" style="display:none;"><span>Managed Services</span></a></li>
 
     </ul>
 
@@ -246,22 +356,22 @@ $(document).ready(function(){
     </ul>
 
     <ul class="dropDownMenu thirdNav" id="dropmenu33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideAllNav('dropmenu33_1', '33_1', 'solutions');">
-<li><a href="/solutions/pharmaceutical.php"><span>Pharmaceutical</span></a></li><li><a href="/solutions/industries/healthcare.php"><span>Health Care</span></a></li><li><a href="/solutions/industries/government.php"><span>Government</span></a></li><li><a href="/solutions/industries/finance.php"><span>Finance</span></a></li><li><a href="/solutions/industries/training.php"><span>Training</span></a></li><li><a href="/solutions/industries/legal-conferencing.php"><span>Legal</span></a></li><li><a href="/solutions/industries/hightech.php"><span>High Tech</span></a></li>
+<li><a href="/solutions/pharmaceutical.php" style="display:none;"><span>Pharmaceutical</span></a></li><li><a href="/solutions/industries/healthcare.php" style="display:none;"><span>Health Care</span></a></li><li><a href="/solutions/industries/government.php" style="display:none;"><span>Government</span></a></li><li><a href="/solutions/industries/finance.php" style="display:none;"><span>Finance</span></a></li><li><a href="/solutions/industries/training.php" style="display:none;"><span>Training</span></a></li><li><a href="/solutions/industries/legal-conferencing.php" style="display:none;"><span>Legal</span></a></li><li><a href="/solutions/industries/hightech.php" style="display:none;"><span>High Tech</span></a></li>
 
     </ul>
 
     <ul class="dropDownMenu thirdNav" id="dropmenu33_2" onmouseover="showThirdNav('dropmenu33_2', 'solutions', 'dropmenu33', '33_2') ;" onmouseout="hideAllNav('dropmenu33_2', '33_2', 'solutions');">
-<li><a href="/solutions/job-functions/sales.php"><span>Sales</span></a></li><li><a href="/solutions/job-functions/marketing.php"><span>Marketing</span></a></li><li><a href="/solutions/job-functions/human-resources.php"><span>Training / HR</span></a></li><li><a href="/solutions/job-functions/investor-relations.php"><span>IR</span></a></li>
+<li><a href="/solutions/job-functions/sales.php" style="display:none;"><span>Sales</span></a></li><li><a href="/solutions/job-functions/marketing.php" style="display:none;"><span>Marketing</span></a></li><li><a href="/solutions/job-functions/human-resources.php" style="display:none;"><span>Training / HR</span></a></li><li><a href="/solutions/job-functions/investor-relations.php" style="display:none;"><span>IR</span></a></li>
 
     </ul>
 
     <ul class="dropDownMenu thirdNav" id="dropmenu33_3" onmouseover="showThirdNav('dropmenu33_3', 'solutions', 'dropmenu33', '33_3') ;" onmouseout="hideAllNav('dropmenu33_3', '33_3', 'solutions');">
-<li><a href="/solutions/uses/meetings.php"><span>Meetings</span></a></li><li><a href="/solutions/uses/event-conferencing.php"><span>Online Events &amp; Webinars</span></a></li><li><a href="/solutions/uses/training.php"><span>Training</span></a></li><li><a href="/solutions/uses/techSupport.php"><span>Tech Support</span></a></li><li><a href="/solutions/uses/crisis-communication.php"><span>Crisis Communication</span></a></li><li><a href="/solutions/voip.php"><span>VOIP Solutions</span></a></li><li><a href="/solutions/travel-reduction.php"><span>Travel Reduction</span></a></li><li><a href="/solutions/global-conferencing/index.php"><span>International Solutions</span></a></li><li><a href="/solutions/mobile-conferencing/index.php"><span>Mobile Solutions</span></a></li>
+<li><a href="/solutions/uses/meetings.php" style="display:none;"><span>Meetings</span></a></li><li><a href="/solutions/uses/event-conferencing.php" style="display:none;"><span>Online Events &amp; Webinars</span></a></li><li><a href="/solutions/uses/training.php" style="display:none;"><span>Training</span></a></li><li><a href="/solutions/uses/techSupport.php" style="display:none;"><span>Tech Support</span></a></li><li><a href="/solutions/uses/crisis-communication.php" style="display:none;"><span>Crisis Communication</span></a></li><li><a href="/solutions/voip.php" style="display:none;"><span>VOIP Solutions</span></a></li><li><a href="/solutions/travel-reduction.php" style="display:none;"><span>Travel Reduction</span></a></li><li><a href="/solutions/global-conferencing/index.php" style="display:none;"><span>International Solutions</span></a></li><li><a href="/solutions/mobile-conferencing/index.php" style="display:none;"><span>Mobile Solutions</span></a></li>
 
     </ul>
 
     <ul class="dropDownMenu thirdNav" id="dropmenu33_5" onmouseover="showThirdNav('dropmenu33_5', 'solutions', 'dropmenu33', '33_5') ;" onmouseout="hideAllNav('dropmenu33_5', '33_5', 'solutions');">
-<li><a href="/solutions/white-papers.php"><span>White Papers</span></a></li><li><a href="/solutions/best-practices.php"><span>Best Practices</span></a></li>
+<li><a href="/solutions/white-papers.php"><span>White Papers</span></a></li><li><a href="/solutions/best-practices.php"><span>Best Practices</span></a></li><li><a href="/solutions/reports.php"><span>Reports</span></a></li>
 
     </ul>
 
@@ -322,14 +432,18 @@ margin-top:2px !important;
 
 
 
-<a class="regionPopOut" href="http://www.intercall.com/intl_selection.php">select your region</a></li><li>
+<a class="regionPopOut" href="http://www.intercall.com/intl_selection.php" rel="nofollow">select your region</a></li><li>
 
 
 <a href="/sign-up.php">sign up</a></li><li>
 
 
 
-<a href="http://www.intercall.com/iol.htm">my account</a></li>
+<a href="http://www.intercall.com/iol.htm" rel="&quot;nofollow&quot;">my account</a></li><li>
+
+
+
+<a href="http://www.intercall.com/blog" class="blog">blog</a></li>
       
 
       
@@ -339,15 +453,133 @@ margin-top:2px !important;
   
 <!--BEGIN HEADER TOP NAV * * * * * * * * * * * * * * * * * * * -->
     <div id="topNav">
-        <a id="aboutus" href="/about-us/index.php" class="dropDownOff noborder" rel="dropmenu28"><span>about us</span></a><a id="support" href="/customer-center/index.php" class="dropDownOff" rel="dropmenu29"><span>support</span></a><a id="solutions" href="/solutions/index.php" class="dropDownOff" rel="dropmenu33"><span>solutions</span></a><a id="products&amp;services" href="/services/index.php" class="dropDownActive" rel="dropmenu32"><span>products &amp; services</span></a>
+        <a id="about" href="/about-us/index.php" class="dropDownOff noborder" rel="dropmenu28"><span>about</span></a><a id="support" href="/customer-center/index.php" class="dropDownOff" rel="dropmenu29"><span>support</span></a><a id="solutions" href="/solutions/index.php" class="dropDownOff" rel="dropmenu33"><span>solutions</span></a><a id="services" href="/services/index.php" class="dropDownActive" rel="dropmenu32"><span>services</span></a>
     </div>
-  <script type="text/javascript">
-//tabdropdown.initializetabmenu("tab_menu_id", optional_selected_tab_number)
-//ie: tabdropdown.initializetabmenu("tab_menu_id", 2)
-tabdropdown.initializetabmenu("topNav")
-</script>
   <!--END HEADER TOP NAV * * * * * * * * * * * * * * * * * * * -->
 </div>
+
+<!--BEGIN PRODUCTS DROPDOWN CONTENT * * * * * * * * * * * * * * * * * * * -->
+<div class="services" style="DISPLAY: none">
+<div class="megaCols2">
+<ul>
+<li class="largeLinkLi"><a class="largeLink megaIcon-conferencing" href="/conferencing-services.php">Conferencing Services</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-events" href="/event-services.php">Event Services</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-uc" href="/services/unified-communication/index.php">Unified Communications</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-opAssist" href="/services/professional-services/index.php">Professional Services</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-addons" href="/tools/index.php">Add-on Tools &amp; Technology</a></li></ul><br><!--BEGIN SEARCH FORM-->
+<div>
+<form id="cse-search-box" action="/search-results.php"><input onfocus="if(this.value==this.defaultValue) this.value='';" class="formElement1 googleSearch" placeholder="Search for products and services" name="q"> <input class="searchSubmit" alt="Search for products &amp; services" src="/images/btn_search.jpg" type="image" border="0"> </form></div><!--END SEARCH FORM--></div>
+<div class="megaCols2 megaDivider"><span class="megaSubhead">FEATURED SERVICES</span> 
+<ul class="megaMenu-sublinks">
+<li><a href="/services/web-conferencing/adobe-connect.php">Adobe Connect</a> </li>
+<li><a href="/services/web-conferencing/meeting-center.php">Cisco WebEx Meeting Center</a> </li>
+<li><a href="/services/web-conferencing/training-center.php">Cisco WebEx Training Center</a> </li>
+<li><a href="/services/web-conferencing/skype-for-business.php">Skype for Business</a> </li>
+<li><a href="/services/audio-conferencing/reservationless-plus.php">Reservationless-Plus</a> </li>
+<li><a href="/services/web-conferencing/unified-meeting.php">Unified Meeting 5</a> </li>
+<li><a href="/services/virtual-environments/index.php">Virtual Environments</a> </li>
+<li><a href="/services/webcasting/index.php">Webcast Studio</a></li></ul><br><span class="megaSubhead">FEATURED TOOLS</span> 
+<ul class="megaMenu-sublinks">
+<li><a href="/tools/call-manager.php">Call Manager</a> </li>
+<li><a href="/tools/intercall-for-hangouts.php">InterCall for Hangouts</a> </li>
+<li><a href="/tools/mobile-meet.php">MobileMeet®</a></li></ul></div></div><!--END PRODUCTS DROPDOWN CONTENT * * * * * * * * * * * * * * * * * * * --><!--BEGIN SOLUTIONS DROPDOWN CONTENT * * * * * * * * * * * * * * * * * * * -->
+<div class="solutions" style="DISPLAY: none">
+<div class="megaCols2">
+<ul>
+<li class="largeLinkLi"><a class="largeLink megaIcon-pharma" href="/solutions/pharmaceutical.php">Pharmaceutical</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-healthcare" href="/solutions/industries/healthcare.php">Healthcare</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-govt" href="/solutions/industries/government.php">Government</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-financial" href="/solutions/industries/finance.php">Finance</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-training" href="/solutions/industries/training.php">Training</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-legal" href="/solutions/industries/legal-conferencing.php">Legal</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-hitech" href="/solutions/industries/hightech.php">High Tech</a></li></ul><br><!--BEGIN SEARCH FORM-->
+<div>
+<form id="cse-search-box" action="/search-results.php"><input onfocus="if(this.value==this.defaultValue) this.value='';" class="formElement1 googleSearch" placeholder="Search for solutions" name="q"> <input class="searchSubmit" alt="Search for products &amp; services" src="/images/btn_search.jpg" type="image" border="0"> </form></div><!--END SEARCH FORM--></div>
+<div class="megaCols2 megaDivider"><span class="megaSubhead"><a href="/solutions/intercall-insights.php">INTERCALL INSIGHTS »</a></span> Take advantage of our thought leadership to <br>build your knowledge.<br><br>
+<ul class="megaMenu-sublinks">
+<li><a href="/solutions/white-papers.php">White Papers</a> </li>
+<li><a href="/solutions/best-practices.php">Best Practices</a> </li>
+<li><a href="http://www.intercall.com/blog/">Blog</a> </li>
+<li><a href="http://www.intercall.com/about-us/in-the-news.php">News</a> </li>
+<li><a href="/solutions/reports.php">Reports</a></li></ul><br><span class="megaSubhead"><a href="/solutions/case-studies.php">CASE STUDIES »</a></span> 
+<ul class="megaMenu-sublinks">
+<li><a href="/solutions/case-studies.php?tab=0">Conferencing &amp; Collaboration </a></li>
+<li><a href="/solutions/case-studies.php?tab=1">Event Services </a></li>
+<li><a href="/solutions/case-studies.php?tab=2">Unified Communications</a></li></ul></div></div><!--END SOLUTIONS DROPDOWN CONTENT * * * * * * * * * * * * * * * * * * * --><!--BEGIN ABOUT US DROPDOWN CONTENT * * * * * * * * * * * * * * * * * * * -->
+<div class="about" style="DISPLAY: none">
+<div class="megaCols2">
+<ul>
+<li class="largeLinkLi"><a class="largeLink megaIcon-arrow" href="/about-us/news.php">News &amp; Events</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-arrow" href="/about-us/management.php">Management</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-arrow" href="/about-us/technology.php">Technology &amp; Security</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-arrow" href="/about-us/awards.php">Awards</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-arrow" href="/about-us/careers.php">Careers</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-arrow" href="/about-us/partners.php">Partners &amp; Resellers</a> </li>
+<li class="largeLinkLi"><a class="largeLink megaIcon-arrow" href="/about-us/contact-us.php">Contact Us</a></li></ul></div>
+<div class="megaCols2 megaDivider"><br>
+<div class="megaCallOut megaIcon-chat"><span class="megaSubhead"><a href="http://www.intercall.com/blog">READ BLOG »</a></span>Get our perspective on everything from conferencing to virtual events. </div>
+<hr>
+<br>
+<div class="megaCallOut megaIcon-careers"><span class="megaSubhead"><a href="/about-us/careers.php">CAREERS »</a></span> <a href="http://www.west.com/Taleo/index.html" target="_blank">Search job listings on our career portal »</a> </div>
+<hr>
+<br>
+<div class="megaCallOut megaIcon-contact"><span class="megaSubhead"><a href="/about-us/contact-us.php">CONTACT US »</a></span> <span class="megaLargerText">Customer Service<br>800.374.2441, +1.706.645.860</span> </div></div></div><!--END ABOUT US DROPDOWN CONTENT * * * * * * * * * * * * * * * * * * * --><!--BEGIN MEGA MENU * * * * * * * * * * * * * * * * * * * -->
+<div class="megaMenu">
+<div class="megaContent">
+<div class="megaIndicator"></div>
+<div class="megaColumns"></div></div>
+<div class="megaFooter">
+<div class="megaInsert"></div></div></div><!--END MEGA MENU * * * * * * * * * * * * * * * * * * * --><!--BEGIN SUPPORT DROPDOWN CONTENT * * * * * * * * * * * * * * * * * * * -->
+<div class="support" style="DISPLAY: none">
+<div class="megaCols60"><span class="megaSubhead">FIND TRAINING &amp; RESOURCES</span> 
+<ul>
+<li><strong>Adobe Connect</strong>—<a href="/services/web-conferencing/adobe-connect-training.php">Training</a> <a href="/services/web-conferencing/adobe-connect-resources.php">Resources</a> <a href="/services/web-conferencing/adobe-connect-resources.php?tab=1">Downloads</a> </li>
+<li><strong>Automated Conferencing</strong>— <a href="/services/audio-conferencing/automated_faq.php">Training</a> <a href="/services/audio-conferencing/automated-resources.php">Resources</a> </li>
+<li><strong>Blue Jeans Network</strong>—<a href="/services/video-conferencing/blue-jeans-network.php">Training</a> <a href="/services/video-conferencing/blue-jeans-network.php">Resources</a> </li>
+<li><strong>Call Manager</strong>—<a href="/tools/call-manager.php?tab=5">Training</a> <a href="/tools/call-manager.php?tab=4">Resources</a> </li>
+<li><strong>Cisco WebEx Meeting Center</strong>—<a href="/services/web-conferencing/meeting-center-training.php">Training</a> <a href="/services/web-conferencing/meeting-center-resources.php">Resources</a> </li>
+<li><strong>Cisco WebEx Training Center</strong>—<a href="/services/web-conferencing/training-center-training.php">Training</a> <a href="/services/web-conferencing/training-center-resources.php">Resources</a> </li>
+<li><strong>InterCall Mobile Assistant</strong>—<a href="/tools/mobile-assistant.php">Resources</a> </li>
+<li><strong>InterCall MobileMeet</strong>—<a href="/tools/mobile-meet.php?tab=2">Training</a> <a href="/tools/mobile-meet.php?tab=2">Resources</a> </li>
+<li><strong>Microsoft Skype for Business</strong>—<a href="/services/web-conferencing/skype-for-business-training.php">Training</a> <a href="/services/web-conferencing/skype-for-business-resources.php">Resources</a> </li>
+<li><strong>Operator Assisted Conferencing</strong>— <a href="/services/operator-assisted/operator-assisted-faq.php">Training</a> <a href="/services/operator-assisted/operator-assisted-resources.php">Resources</a> </li>
+<li><strong>Reservationless-Plus</strong>—<a href="/services/audio-conferencing/reservationless-plus-training.php">Training</a> <a href="/services/audio-conferencing/reservationless-plus-resources.php">Resources</a> </li>
+<li><strong>Unified Meeting 5</strong>—<a href="/services/web-conferencing/unified-meeting-training.php">Training</a> <a href="/services/web-conferencing/unified-meeting-resources.php">Resources</a></li></ul><br><!--BEGIN SEARCH FORM-->
+<div>
+<form id="cse-search-box" action="/search-results.php"><input onfocus="if(this.value==this.defaultValue) this.value='';" class="formElement1 googleSearch" placeholder="Search for training and resources" name="q"> <input class="searchSubmit" alt="Search for products &amp; services" src="/images/btn_search.jpg" type="image" border="0"> </form></div><!--END SEARCH FORM--></div>
+<div class="megaCols40 megaDivider">
+<div class="megaCallOut megaIcon-account"><span class="megaSubhead"><a href="/customer-center/account-management-tools.php">MANAGE MY ACCOUNT »</a></span><a href="https://www.intercallonline.com/">Log into InterCall Online »</a><br><a href="/customer-center/account-management-tools.php">Other logins »</a><br><a href="/customer-center/account-management-tools.php?tab=1">Get user guides &amp; support »</a> </div>
+<hr>
+<br>
+<div class="megaCallOut megaIcon-chat"><!--LIVE CHAT FOR MEGA MENU --><span id="liveagent_button_online_57360000000Kyja-3" class="megaSubhead" style="DISPLAY: none"><a onclick="liveagent.startChat('57360000000Kyja')" style="TEXT-DECORATION: none" href="javascript://Chat">LIVE CHAT »</a></span> 
+<div id="liveagent_button_offline_57360000000Kyja-3" style="DISPLAY: none"><span class="megaSubhead">LIVE CHAT UNAVAILABLE</span></div><strong>Have Questions?</strong> Chat with a live representative now. Live Chat is available <br>8:00 AM - 7:00 PM Eastern.<br>
+<script type="text/javascript"> 
+if (document.getElementById('liveagent_button_offline_57360000000Kyja')) { 
+//add a live chat button to right columns 
+if (!window._laq) { window._laq = []; } 
+window._laq.push(function(){liveagent.showWhenOnline('57360000000Kyja', document.getElementById('liveagent_button_online_57360000000Kyja')); 
+liveagent.showWhenOffline('57360000000Kyja', document.getElementById('liveagent_button_offline_57360000000Kyja')); 
+}); 
+} 
+if (document.getElementById('liveagent_button_online_57360000000Kyja-3')) { 
+//add a live chat button in footer 
+if (!window._laq) { window._laq = []; } 
+window._laq.push(function(){liveagent.showWhenOnline('57360000000Kyja', document.getElementById('liveagent_button_online_57360000000Kyja-3')); 
+liveagent.showWhenOffline('57360000000Kyja', document.getElementById('liveagent_button_offline_57360000000Kyja-3'));
+}); 
+} 
+</script>
+
+<script type="text/javascript" src="https://c.la4.salesforceliveagent.com/content/g/deployment.js"></script>
+
+<script type="text/javascript"> liveagent.init('https://d.la4.salesforceliveagent.com/chat', '57260000000KyjB', '00D300000000FAQ'); </script>
+<!--END LIVE CHAT FOR MEGA MENU--></div>
+<hr>
+<br>
+<div class="megaCallOut megaIcon-questions"><span class="megaSubhead">HAVE QUESTIONS?</span> Get answers from our online knowledge base. <a href="http://intercall.force.com/Kb/" target="_blank">Search for answers »</a> </div>
+<hr>
+<br>
+<div class="megaCallOut megaIcon-support"><span class="megaSubhead">TECH SUPPORT</span> Find phone numbers and email addresses for technical support. <br><a href="/customer-center/techSupport.php">Get support »</a> </div></div></div><!--END SUPPORT DROPDOWN CONTENT * * * * * * * * * * * * * * * * * * * -->
   <!--END HEADER * * * * * * * * * * * * * * * * * * * -->
 <div id="headerBottom"></div>
 
@@ -403,53 +635,68 @@ $(document).ready(function(){
 });
 </script>&nbsp;
 
-<p style="COLOR: grey; FONT-SIZE: smaller">Effective December 31, 2013</p>
-<p>InterCall, Inc. is a leading provider of conferencing and collaboration services. We value the privacy of our customers, users, and any individual that accesses or uses the InterCall websites, products, and services (collectively, the “Services”). This Policy discloses InterCall’s practices with respect to the collection, processing, use and disclosure of user information collected through the access and use of InterCall Services. This Privacy Policy applies to all Personal Information collected and processed by InterCall whether in electronic, paper or verbal format. The virtual event Service allows certain third party organizers and contributors to host virtual events (each, a “Sponsor”). InterCall collects the information described below on behalf of such Sponsors. You should consult the privacy policies of each relevant Sponsor to determine how they may handle your information.</p>
-<h2>Definitions</h2>
-<p>“Personal Information” or “Information” means information that (1) is transferred from the European Economic Area (“EEA”) or Switzerland to the United States or maintained in the United States; (2) is recorded in any form; (3) is about, or pertains to, a specific individual; and (4) can be linked to that individual. </p>
-<p>“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.</p>
+<p style="COLOR: grey; FONT-SIZE: smaller">Effective March 2015</p>
+<p>InterCall is a leading provider of conferencing and collaboration services. We value the privacy of our customers, users, and any individual who accesses or uses the InterCall websites, products, and services (collectively, the “Services”). This Statement discloses InterCall’s practices with respect to the collection, processing, use and disclosure of user information. This Privacy Statement applies to all Personal Information and Sensitive Personal Information collected and processed by InterCall whether in electronic, paper or verbal format. Throughout this Statement, if you are based in the EMEA region, the term “InterCall” predominantly refers to InterCall Conferencing Services Limited (a company registered in England and Wales with registered number 2775270 and whose registered office is at Building C, Imperial Gate Business Park, Barnwood, Gloucester, GL4 3HX, UK), except where the relevant Services are provided by another InterCall group company, in which case references to InterCall shall, in respect of those Services, be references to that InterCall group company. As InterCall is a global provider, the provision of the Services to users may also require Personal Information to be shared with other InterCall group companies around the world. All such InterCall group companies are bound by privacy policies, confidentiality and data transfer agreements as appropriate. In addition, InterCall Inc. adheres to the Safe Harbor Framework concerning the transfer of Personal Information from the EEA and Switzerland to the United States.</p>
 <h2>Collection and Use of Personal Information</h2>
-<p>In connection with the access and use of InterCall Services, we may ask you to provide us with Personal Information when, among other things, you register on the InterCall website, use one of our Services, fill out a survey, make a request for information, or enter a sweepstakes or contest through the InterCall website. We may also capture your telephone number when you use our conferencing Services. Please be aware that any information you choose to share on any publicly available portion of the Services or with third parties, including without limitation your personal page, chat messages, forum posts, blogs, resumes, job applications, business cards, or any other information that you provide to Sponsors or other attendees, may be collected and used by others without restriction. We will use the Personal Information you provide us in these circumstances to operate the InterCall website, to the extent required for the delivery of the InterCall Services, to satisfy InterCall's legitimate business interests (such as customer analysis and internal marketing study and analysis), and to provide information you request from the InterCall website ("Primary Use").</p>
-<p><strong>Important Notes Regarding Virtual Events:</strong> For virtual events, depending upon the type of event, some of the following fields may be displayed throughout the event: first and last name, company, User ID, and User avatar/image. The Sponsor may enable attendees to search for and find other attendees based on a User’s registration information. If you associate your actual name or other personally identifiable information with your User ID, the people to whom you have revealed such information will be able to personally identify your activities on the event. In addition, any information you choose to share on any publicly available portion of a virtual event may be collected and used by others without restriction. résumés that you have posted to or within a virtual event may be available to all Sponsors of any booth, even if you have not filed a job application with such Sponsor. You should consult the respective privacy policies of these Sponsors to determine how they will handle your information. InterCall’s Privacy Policy does not apply to such Sponsors or their use of your information. InterCall does not control Sponsors’ use of your information. If you would prefer that InterCall not disclose your personal information to any such Sponsor, please <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contact our privacy team</a>. Please be reminded, however, that any information you publicly display or share or that is accessible through the event may already be in such Sponsor’s possession, despite such opt-out choice. 
-</p><p>Unless you instruct us not to do so, InterCall may also use the Personal Information you provide us to contact you regarding additional or new services and features offered by InterCall, special offers by InterCall, or important information regarding InterCall ("InterCall Secondary Use"). In addition, with your permission, we may provide your Personal Information to other companies who may contact you regarding products, services, and offers that may be of interest to you, but that are not directly related to InterCall or the InterCall website (“Third Party Secondary Use”).</p>
-<p>InterCall uses display advertising to promote goods and services online through third parties. These third parties use cookies to collect traffic information to inform, optimize and serve advertisements based on past website visit history. These third parties show InterCall advertisements on other Internet sites you may visit based on your visits to the InterCall site.</p>
-<p>InterCall may provide your Personal Information to vendors that assist InterCall in processing such Information or in case you purchase services of Third Parties from InterCall (“Third Party Services”). InterCall requires such vendors to enter into agreements with InterCall prohibiting disclosure of the information to others and restricting its use to providing the contracted services of InterCall.</p>
-<p>InterCall does not respond to Web browser do-not-track signals.</p>
-<h2>Choice</h2>
-<p>As we noted above, we will not use your Personal Information or Sensitive Personal Information for any Third Party Secondary Uses unless you affirmatively choose to participate in such Secondary Uses. You may also stop delivery of informational or promotional contacts from us by following the instructions included in the informational or promotional contact itself or by <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contacting our privacy team</a>.</p>
+<p>In this Privacy Statement, "Personal Information" is any information or data that can be reasonably linked to a data subject, or to a specific computer or other device. "Sensitive Personal Information" is a subset of Personal Information and is data about children, financial information, health information (including PHI as defined by the Health Insurance Portability and Accountability Act), Social Security or other national identification number, racial or ethnic origin, political opinions, religious beliefs, trade union membership, sex life, criminal convictions, and precise geolocation data.</p>
+<h3>By providing your Personal Information, you opt-in and consent to its collection, use, disclosure, sharing, and transfer as described in this Privacy Statement.</h3>
+<p>In connection with the access and use of the Services, you may choose to provide us with your Personal Information when, among other things, you register on the InterCall website, use one of our Services, fill out a survey, register to attend a seminar; make a request for information, ask to be included in an email or other mailing list; or enter a sweepstakes or contest through the InterCall website or more generally when you submit your Personal Information to InterCall for any other reason. We may also capture your telephone number when you use our Services.</p>
+<p>Please be aware any information you choose to share on any publicly available portion of the Services or with third parties, including without limitation your personal page, chat messages, forum posts, blogs, resumes, job applications, business cards, or any other information you provide may be collected and used by third parties or other attendees without restriction.</p>
+<h3>InterCall Primary and Secondary Use</h3>
+<p>InterCall will use the Personal Information you provide us in these circumstances to the extent required for the delivery of the Services (such as account set up, billing, debt-collection, customer services, reporting), to satisfy InterCall's legitimate business interests (such as customer analysis, fraud-prevention and internal marketing study and analysis) and to provide information you request from us ("Primary Use").</p>
+<p>InterCall may provide your Personal Information to business partners or third party suppliers that assist InterCall in processing such Personal Information for Primary Use (such as partners or agents who are involved in delivering the Services you have ordered or used, credit-reference agencies, fraud-prevention agencies, business-scoring agencies or other credit-scoring agencies, debt-collection agencies or other debt-recovery organizations). Unless you instruct us not to do so, and unless prohibited by law, InterCall (either directly or using business partners or third parties used by InterCall) may also use the Personal Information you provide us to contact you regarding additional or new services and features offered by InterCall, special offers by InterCall, or important information regarding InterCall ("InterCall Secondary Use"). </p>
+<p>InterCall requires any such business partners or third parties used to assist InterCall for Primary Use or InterCall Secondary Use to enter into agreements with InterCall including contract terms substantially the same as those contained in this Privacy Statement, prohibiting disclosure of the Personal Information to others and restricting its use in providing the contracted Services of InterCall.</p>
+<h3>Third Party Services</h3>
+<p>InterCall may also provide your Personal Information to business partners in case you purchase services of third parties from InterCall ("Third Party Services"). Third Party Services are not directly controlled operated or maintained by InterCall and InterCall's Privacy Statement does not apply to such Third Party Services. Any use of Third Party Services is subject to the privacy statement of the Third Party Services providers. For any Third Party Services you purchase from InterCall, we recommend you consult the respective privacy policies of the Third Party Services providers to determine how they will handle your Personal Information.</p>
+<h3>Third Party Secondary Use</h3>
+<p>InterCall may also provide your Personal Information to other companies who may contact you regarding products, services, and offers that may be of interest to you, but that are not directly related to the Services or the InterCall website ("Third Party Secondary Use"). Third Party Secondary Use is subject to the privacy statement of such other companies. </p>
+<h3>Other Legitimate Use</h3>
+<p>InterCall may also use your Personal Information to create anonymous data records or aggregations of data, to perform statistical analyses and for other purposes, by omitting or removing information that makes the data personally identifiable to you.</p>
+<p>InterCall may release your Personal Information if required to do so by law or if it is reasonable for the purpose of protecting us against fraud, defending our rights or property, to enforce our terms of use or to protect the interests of our customers.</p>
+<p>InterCall will keep your Personal Information for as long as we have to by law. If there is no legal requirement, InterCall will keep your Personal Information no longer than strictly required for legitimate purpose for which it was collected.</p>
+<p>Any Sensitive Personal Information you provide us will only be used to implement the specific activity or event it was submitted for and will then be destroyed.</p>
+<p>As we noted above, we will not use your Personal Information or Sensitive Personal Information for any Third Party Secondary use unless you affirmatively choose to participate in such Secondary Use. You may also stop delivery of informational or promotional mail from us by following the instructions included in the informational or promotional mail itself.</p>
 <h2>Access</h2>
-<p>When you register to use any of the Services offered by InterCall, InterCall will send you a confirmation of your registration showing the Personal Information we obtained from your registration. Also, we will take reasonable steps to give you the opportunity to correct inaccuracies in the Personal Information we retain concerning you and delete Personal Information concerning you upon your request, unless the burden or expense of providing access would be disproportionate to the risks to your privacy or where the rights of persons other than you would be violated. To correct inaccuracies in your Personal Information or delete your Personal Information, please <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contact our privacy team</a>.</p>
-<p>International transfers and the U.S.-E.U. Safe Harbor and the U.S.-Swiss Safe Harbor By accessing and using the Services and providing us with the requested Personal Information, you consent to the collection and use of the information in accordance with this Privacy Policy including transfers from the EEA and Switzerland to the United States or elsewhere where privacy protections may not have been deemed “adequate” by the EEA or Switzerland. Individuals who do not consent to the collection, use, or disclosure of their personal information as outlined in this Policy should not provide any Personal Information through the InterCall Services and website.</p>
-<p>In accordance with our commitment to protect personal privacy, InterCall adheres to the Safe Harbor Frameworks concerning the transfer of Personal Information from the EEA and Switzerland to the United States. Accordingly, we follow the Safe Harbor Principles and the fifteen FAQs that make up the E.U. Safe Harbor Framework and the Swiss Safe Harbor Framework published by the U.S. Department of Commerce (the “Principles”) with respect to all such Personal Information. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles shall govern. This Privacy Policy outlines our general policy and practices for implementing the Principles, including the types of Information we gather, how we process and use it and the notice and choice affected individuals have regarding our use of and their ability to correct that Information.</p>
+<p>When you register to use any of the Services offered by InterCall, InterCall will send you a confirmation of your registration showing the Personal Information we obtained from your registration. Also, we will take reasonable steps to give you the opportunity to correct inaccuracies in the Personal Information we retain concerning you and delete Personal Information concerning you upon your request, unless the burden or expense of providing access would be disproportionate to the risks to your privacy or where the rights of persons other than you would be violated. To correct inaccuracies in your Personal Information or delete your Personal Information, or for any other questions, please <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contact our privacy team</a> through the directions at this link, or by mail, as directed in the “Contact Us” section, below.</p>
 <h2>Transfers</h2>
-<p>Unless you have already consented to such disclosure, prior to disclosing Personal Information to a third party, InterCall shall notify you of such disclosure and allow you to opt out of such disclosure. InterCall shall ensure that any third party for which Personal Information may be disclosed subscribes to the Principles or are subject to law providing the same level of privacy protection as is required by the Principles and agree in writing to provide an adequate level of privacy protection.</p>
+<p>You are informed and hereby consent that the whole or any part of your Personal Information in connection to the Services, may be processed by InterCall and its affiliates and subcontractors in the United States, in the European Union and the rest of the world, and may be transferred outside the country in which you provided the Personal Information.</p>
+<h3>International transfers and the U.S.-E.U. Safe Harbor and the U.S.-Swiss Safe Harbor</h3>By accessing and using the Services and providing us with the requested Personal Information, you consent to the collection and use of the information in accordance with this Privacy Statement including transfers from the EEA and Switzerland to the United States or elsewhere where privacy protections may not have been deemed “adequate” by the EEA, Switzerland, or your country of residence. Individuals who do not consent to the collection, use, or disclosure of their Personal Information as outlined in this Statement should not provide any Personal Information to InterCall through the Services, the InterCall website, or in any other manner. In accordance with our commitment to protect personal privacy, InterCall adheres to the Safe Harbor Framework concerning the transfer of Personal Information from the EEA and Switzerland to the United States. Accordingly, we follow the Safe Harbor Principles and the fifteen FAQs that make up the E.U. Safe Harbor Framework and the Swiss Safe Harbor Framework published by the U.S. Department of Commerce (the “Principles”) with respect to all such Personal Information. If there is any conflict between this Privacy Statement and the Principles, the Principles shall govern. This Privacy Statement outlines our general statement and practices for implementing the Principles, including the types of information we gather, how we process and use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information. 
+<p></p>
 <h2>Security</h2>
-<p>InterCall shall take reasonable steps to protect your Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. The Personal Information we collect from you is stored in operating environments that employ reasonable security measures and that are not available to the general public. InterCall is not responsible for unauthorized access to such Information by hackers or others that obtain access through illegal measures, in the absence of negligence on the part of InterCall. Further, the other websites you may access through the InterCall website may have different security practices and you should familiarize yourself with those practices. InterCall cannot guarantee the security of Information transmitted via the Internet.</p>
-<p>You are responsible for the confidentiality and security of passwords InterCall issues to you. If you believe a third party has obtained your password in an unauthorized manner, please notify us promptly.</p>
+<p>InterCall shall take reasonable steps to protect your Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. The Personal Information we collect from you is stored in operating environments that employ reasonable security measures and that are not available to the general public. InterCall is not responsible for unauthorized access to such Personal Information by hackers or others who obtain access through illegal measures, in the absence of negligence on the part of InterCall. Further, some other websites you may access through the InterCall website may have different security practices and you should familiarize yourself with those practices. InterCall cannot guarantee the security of Information transmitted via the Internet. You are responsible for the confidentiality and security of passwords InterCall issues to you. If you believe a third party has obtained your password in an unauthorized manner, please notify InterCall promptly.</p>
 <h2>Data Integrity</h2>
 <p>InterCall shall only process Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, InterCall shall take reasonable steps to ensure the Personal Information is accurate, complete, current and reliable for its intended use.</p>
+<h2>Compliance with Legislation</h2>
+<p>In connection with the Services, and if applicable, you and InterCall shall at all times ensure compliance with any privacy and data protection laws including those in the United States (including but not limited to the Gramm-Leach-Bliley Financial Services Modernization Act, the Health Insurance Portability and Accountability Act and the Fair Credit Reporting Act), in the European Union (including but not limited to Directive 95/46/EC and relevant EU member state legislation), in the Asia-Pacific Economic Cooperation (including but not limited to the Privacy Act along with the Australian Privacy Principles, Singapore’s Personal Data Protection Act and Hong Kong’s Personal Data (Privacy) Ordinance) and anywhere around the world. </p>
 <h2>Enforcement/Complaints</h2>
-<p>InterCall uses a self-assessment approach to assure compliance with this Privacy Policy and periodically verifies the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles.</p>
-<p>If at any time you believe we have acted contrary to this Privacy Policy, please <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contact our privacy team</a> and we will take steps to investigate and will use reasonable measures to remedy the problem. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using BBB EU Safe Harbor as a third party resolution provider for disputes arising with regard to privacy in the EEA and Switzerland. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU Safe Harbor website at <a href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">http://www.bbb.org/us/safe-harbor-complaints</a></p>
+<p>InterCall uses a self-assessment approach to assure compliance with this Privacy Statement and periodically verifies the statement is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with its principles. If at any time you believe we have acted contrary to this Privacy Statement, please <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contact our privacy team</a> through the directions at this link, or by mail, as directed in the “Contact Us” section, below, and we will take steps to investigate and will use reasonable measures to solve the problem. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using BBB EU Safe Harbor as a third party resolution provider for disputes arising with regard to privacy in the EEA and Switzerland. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU Safe Harbor website at <a href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">www.bbb.org/us/safe-harbor-complaints</a>. </p>
 <h2>Disclosure for Legal Purposes</h2>
-<p>We may disclose Personal Information if required to do so by law or in the good-faith belief such action is necessary: (a) to conform to the edicts of the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or those of our customers and their users; (c) to protect the personal safety of our customers and their users or the public; or (d) in connection with a merger, consolidation or sale of substantial assets of InterCall. As we continue to develop our business, we might buy or sell assets related to our business. In such transactions Personal Information generally is one of the transferred business assets. Also, in the event InterCall or substantially all of its assets are acquired, Personal Information will be one of the transferred assets. 
-</p><p>
-</p><h2>Anonymous Information</h2>
-<p>Please understand, in addition to collecting Personal Information, InterCall will also gather information that does not personally identify you regarding your use of the InterCall website ("Anonymous Information"). The Anonymous Information we collect regarding your use of the InterCall website may be used by us to measure the effectiveness of marketing efforts on the InterCall website, for improving the services we offer to you, or to improve the InterCall website. Generally, you will not be aware when such Anonymous Information is being collected about you. It may be collected in various ways, such as through traffic data or direct surveys of our customers and may entail the use of, among other things, cookies, IP addresses, or other numeric codes used to identify the computer or other device used to access our website.</p>
+<p>We may disclose Personal Information if required to do so by law or in the good-faith belief such action is necessary: (a) to conform to the edicts of the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or those of our customers and their users; (c) to protect the personal safety of our customers and their users or the public; or (d) in connection with a merger, consolidation or sale of substantial assets of InterCall. As we continue to develop our business, we might buy or sell assets related to our business. In such transactions Personal Information generally is one of the transferred business assets. Also, in the event InterCall or substantially all of its assets are acquired, Personal Information will be one of the transferred assets. </p>
+<h2>Anonymous Information</h2>
+<p>Please understand, in addition to collecting Personal Information, InterCall may also gather information that does not personally identify you regarding your use of the InterCall website ("Anonymous Information"). The Anonymous Information we collect regarding your use of this website may be used by us to measure the effectiveness of our marketing efforts, for improving the Services we offer to you, or to improve the InterCall website. Generally, you will not be aware when such Anonymous Information is being collected about you. It may be collected in various ways, such as through traffic data or direct surveys of our customers and may entail the use of, among other things, cookies, IP addresses, or other numeric codes used to identify the computer or other device used to access the InterCall website.</p>
 <h2>Cookies</h2>
-<p>We use cookies to provide you with better service. We also use display advertising to promote goods and services online through third parties. These third parties use cookies to collect traffic information to inform, optimize and serve advertisements based on past website visit history. Cookies are pieces of information a website transfers to your computer's hard disk for recordkeeping purposes. Cookies can make the Web more useful by storing information about your preferences for a particular website. The use of cookies is an industry standard, and many major websites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of the functionality of the InterCall website or Services if you do so.</p>
-<h2>Venturing off the InterCall website</h2>
-<p>The InterCall website may contain hyperlinks that can take you to websites run by third parties ("Third-Party Websites"). Any hypertext or other links to Third-Party Websites from the InterCall website are provided solely as a convenience to you. If you use these links, you will leave the InterCall website. InterCall has not reviewed all of these Third-Party Websites and does not control and is not responsible for any of these websites or their content or practices. Thus, InterCall does not endorse or make any representations about them, or any information, software, or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the Third-Party Websites linked to the InterCall website, you do this entirely at your own risk.</p>
-<p>Remember, this Privacy Policy only applies to InterCall. When you are no longer on the InterCall website, you may encounter different privacy and security practices and you should familiarize yourself with those practices each time you visit a new website.</p>
+<p>A cookie is a small file, typically of letters and numbers, downloaded on to a device when the user accesses certain websites. Cookies allow a website to recognize a user's device. InterCall use cookies or other similar tracking technologies ("Cookies”) to provide you with better Services. Cookies are pieces of information a website transfers to your computer's hard disk for recordkeeping purposes. Cookies can make the web more useful by storing information about your preferences for a particular website or a service. 
+</p><p>The use of Cookies is an industry standard, and many major websites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer.</p>
+<p>Cookies are typically classified as either session Cookies or persistent Cookies depending on whether they expire at the end of a browser session (from when a user opens the browser window to when they exit the browser) or they can be stored for longer.</p>
+<h3>Session and Persistent Cookies </h3>Session Cookies – allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes such as remembering what a user has put in their shopping basket as they browse around a site. They could also be used for security when a user is accessing internet banking or to facilitate use of webmail. These session Cookies expire after a browser session, so would not be stored longer term. For this reason, session Cookies may sometimes be considered less privacy intrusive than persistent Cookies. Persistent Cookies – are stored on a users' device in between browser sessions which allows the preferences or actions of the user across a site (or in some cases across different websites) to be remembered. Persistent Cookies may be used for a variety of purposes including remembering users' preferences and choices when using a site or to target advertising. 
+<h3>Accepting Cookies from InterCall</h3>Most browsers are initially set to accept Cookies. You may configure your browser to accept all Cookies, reject all Cookies, or notify you when a cookie is set. You can manage your own Cookies preferences by using your browser settings: each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences or delete them. If you prefer, you can set your browser to refuse Cookies. You block Cookies by activating the setting on your browser which allows you to refuse the setting of all or some Cookies. 
+<p><strong>Please note</strong> that you may browse some InterCall websites without accepting Cookies from InterCall; however, you may not be able to take full advantage of the functionality of the InterCall website or the Services if you do so. Other Services, particularly those which require a login and password, require Cookies and cannot be used when you have disabled Cookies in your browser. For more general information you can visit <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>. </p>
+<h3>How do you handle my “Do Not Track” browser settings?</h3>
+<p>InterCall does not track the non-InterCall website activity of any internet user with Do Not Track browser settings engaged.</p>
+<h2>Important Notice regarding certain Services</h2>
+<p>Some Services of InterCall, including in particular virtual event Services allow certain third party organizers and contributors to host virtual events (each, a "Sponsor"). InterCall collects the information described below on behalf of such Sponsors. You should consult the privacy policies of each relevant Sponsor to determine how they may handle your Personal Information.</p>
+<p>For virtual event Services, depending on the type of event, some of the following fields may be displayed throughout the event: first and last name, company, user ID, and user avatar/image. The Sponsor may enable attendees to search for and find other attendees based on a user's registration information. If you associate your actual name or other personally identifiable information with your user ID, the people to whom you have revealed such information will be able to personally identify your activities on the event. In addition, any Personal Information you choose to share on any publicly available portion of a virtual event may be collected and used by others without restriction. Resumes or curriculum vitae that you have posted to or within a virtual event may be available to all Sponsors of any booth, even if you have not filed a job application with such Sponsor. You should consult the respective privacy policies of these Sponsors to determine how they will handle your Personal Information. This Privacy Statement does not apply to such Sponsors or their use of your Personal Information. InterCall does not control Sponsors' use of your Personal Information. If you would prefer that InterCall not disclose your Personal Information to any such Sponsor, please <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contact our privacy team</a> through the directions at this link, or by mail, as directed in the “Contact Us” section, below. Please be reminded, however, that any Personal Information you publicly display or share or that is accessible through the event may already be in such Sponsor's possession, despite such opt-out choice.</p>
+<h2>Venturing off the website</h2>
+<p>The website may contain hyperlinks that can take you to websites run by third parties ("Third-Party Websites"). Any hypertext or other links to Third-Party Websites from the website are provided solely as a convenience to you. If you use these links, you will leave the website. InterCall has not reviewed all of these Third-Party Websites and does not control and is not responsible for any of these websites or their content or practices. Thus, InterCall does not endorse or make any representations about them, or any information, software, or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the Third-Party Websites linked to the website, you do this entirely at your own risk.</p>
+<p>Remember, this Privacy Statement only applies to InterCall. When you are no longer on an InterCall website, you may encounter different privacy and security practices and you should familiarize yourself with those practices each time you visit a new website.</p>
 <h2>Modifications</h2>
-<p>InterCall reserves the right to modify the Privacy Policy at any time. Please review the Privacy Policy each time you access and use the InterCall website, as your continued use of the InterCall website and the InterCall Services signifies your assent to such modifications.</p>
+<p>InterCall reserves the right to modify this Privacy Statement at any time. Please therefore read through this Privacy Statement. Your continued use of the website and the Services signifies your assent to such modifications.</p>
 <h2>Contact Us</h2>
-<p>If at any time you believe InterCall has not followed the above Policy, or if you have questions, comments, or complaints regarding InterCall’s Policy, please <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contact our privacy team</a>. By mail, we can be contacted at:</p>
-<p>InterCall, Inc.<br>ATTN: Legal Department<br>8420 W. Bryn Mawr<br>Suite 1100<br>Chicago, IL 60631</p>
+<p>If at any time you believe InterCall has not followed this Privacy Statement, or if you have questions, comments, or complaints regarding this Privacy Statement, please <a class="iframe" href="http://www.intercall.com/l/privacy/index.php">contact our privacy team</a>. By mail, we can be contacted at:</p>
+<p>Janette Nelson, Vice President &amp; Deputy General Counsel.<br>Legal Department<br>11808 Miracle Hills Drive<br>Omaha, NE 68154</p>
 <p></p>
 <h2>HIPPA Privacy Notice</h2>
-<div class="dottedLines"></div>
-<p style="COLOR: grey; FONT-SIZE: smaller">Effective June 6, 2014</p><a class="pdfLink" href="http://www.west.com/pdfs/West_HIPAA_Privacy_Notice.pdf" target="_blank">Download HIPPA Privacy Notice</a> 
+<div class="dottedLines"></div><a class="pdfLink" href="http://www.west.com/pdfs/West_HIPAA_Privacy_Notice.pdf" target="_blank">Download HIPPA Privacy Notice</a> 
 <div></div>&nbsp;
     </div>
  </div>
@@ -464,117 +711,26 @@ $(document).ready(function(){
 
 
 
-<script src="http://www.intercall.com/common/js/jquery.cookie.js"></script>
-<script>
-$(document).ready(function() {
- $.fn.slideFadeToggled  = function(speed, easing, callback) {
-  if ($("a.flyoutTab").html() == "+ FEEDBACK" ) {
-   $("a.flyoutTab").html("x CLOSE");
- 
-  }
-  else {
-   $("a.flyoutTab").html("+ FEEDBACK"); 
-$.cookie('custSurvey', 'true', { expires: 30, path: '/' });
- 
-   }
-  return this.animate({height: 'toggle'},  easing, callback);
- };
- 
- $('.flyoutTab').click(function() {
-  $(".flyoutContent").slideFadeToggled();
- });
- randomNum = Math.round(Math.random() * 5);
-  
- if (randomNum <= 2) {
-  if (winsz > 1000 && $.cookie('custSurvey') != "true") {
-  //$(".flyoutContent").delay(6000).slideFadeToggled();
-  }
-  }
- 
- $(".noThanks").click(function() {
-  $(".flyoutContent").slideFadeToggled();
- $.cookie('custSurvey', 'true', { expires: 30, path: '/' });
- });
-});
-$(window).load(function() {
-$("#sm_e_s").attr('scrolling', 'yes');
- $("#sm_e_s").load(function() {
-  $(".flyoutContent").delay(1500).slideFadeToggled();
-  $.cookie('custSurvey', 'true', { expires: 30, path: '/' });
- });
-});
-</script>
-
 
 
 <style>
-.flyoutContainer { 
-z-index:1000;
+.backTop {
 position:fixed;
 bottom:0px;
-width:100%;
-}
-.flyoutContent { 
-display:none;
-background: rgb(153,153,153); /* Old browsers */
-background: -moz-linear-gradient(top,  rgba(153,153,153,1) 0%, rgba(249,249,249,1) 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(153,153,153,1)), color-stop(100%,rgba(249,249,249,1))); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top,  rgba(153,153,153,1) 0%,rgba(249,249,249,1) 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top,  rgba(153,153,153,1) 0%,rgba(249,249,249,1) 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top,  rgba(153,153,153,1) 0%,rgba(249,249,249,1) 100%); /* IE10+ */
-background: linear-gradient(to bottom,  rgba(153,153,153,1) 0%,rgba(249,249,249,1) 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#999999', endColorstr='#f9f9f9',GradientType=0 ); /* IE6-9 */
-color:#FFFFFF;
-padding:25px;
-border-top:solid 2px #FFFFFF;
-box-shadow:-5px -5px 20px #cccccc;
-}
-.flyoutContent2 { 
-width:960px;
-margin:0px auto;
-background: url(http://www.intercall.com/images/bkg-surveyArrow.png) no-repeat 0px 0px;
-height:350px;
+right:175px;
+z-index:1000;
+width:30px;
 overflow:hidden;
-}
-.flyoutTitle {
- float:left;
- width:300px;
- margin-right:50px;
-}
-.flyoutTabContainer { 
-position:relative;
-height:22px;
-margin:0px auto;
-}
-a.flyoutTab { 
-position:absolute;
-border-radius: 3px 0px 0px 0px;
-font-size: 14px !important;
-height:15px;
-right:0px;
-font-size:24px;
-background-color:#999999;
-color:#FFFFFF;
 text-align:center;
-padding:3px 10px 10px 10px;
-display:block;
-text-decoration:none;
+font:15px/18px Arial;
+background-color:#CCCCCC;
+cursor:pointer;
+display:none;
+padding:5px;
 }
 </style>
-<!--BEGIN FLYOUT CONTAINER-->
-<div class="flyoutContainer">
-<div class="flyoutTabContainer">
-<a class="flyoutTab" href="#">+ FEEDBACK</a>
-</div>
-<div class="flyoutContent">
-<div class="flyoutContent2">
-<!--place content here-->
-<div class="flyoutTitle"><h1>Please help us  Make this Site Better.</h1> <br>
-<h3 style="margin-left:35px;">Please take a few seconds to fill out a survey. Your feedback is appreciated.<br><br>
-<a href="#" class="ctaButtonSmall noThanks">NO THANKS</a></h3></div>
-<div style="margin-left:400px;">
-<div id="surveyMonkeyInfo"><div><script src="https://www.surveymonkey.com/jsEmbed.aspx?sm=W8IjYO1qegMjHuSUwblmJg_3d_3d"> </script></div></div></div>
-</div></div></div>
+<div class="backTop">▲<br>
+TOP</div>
 <!--BEGIN FOOTER* * * * * * * * * * * * * * * * * * * -->
 <!--Main Footer -101711-->
  <div id="footer"><img src="/images/background/footerSpectrum2.jpg" class="footerSpectrum"><div id="footerContainer"> 
@@ -619,7 +775,7 @@ text-decoration:none;
 <a href="/about-us/resellers.php">Resellers</a> &raquo;</li><li>
 <a href="/about-us/strategic-partners.php">Strategic Partners</a> &raquo;</li><li>
 <a href="/about-us/business-partners.php">Agents &amp; Master Agents</a> &raquo;</li>-->
- <div itemtype="http://www.schema.org/ContactPoint" itemscope=""><span itemprop="contactType">SALES</span>: <br><span style="FONT: bold 18px Arial" itemprop="telephone">800.820.5855</span> <br><br><span itemprop="contactType">CUSTOMER SERVICE</span>: <br><span style="FONT: bold 18px Arial" itemprop="telephone">800.374.2441</span> </div>
+ <div itemtype="http://www.schema.org/ContactPoint" itemscope=""><span itemprop="contactType">NEW CUSTOMERS<br>Sales</span>: <span style="FONT: bold 18px Arial" itemprop="telephone">877.489.7647</span> <br><br><span itemprop="contactType">EXISTING CUSTOMERS<br>Add a service or get help</span>: <br><span style="FONT: bold 18px Arial" itemprop="telephone">800.374.2441</span> </div>
 
 
   </ul>
@@ -629,27 +785,32 @@ text-decoration:none;
 
 <div id="thanks1"><br>THANK YOU FOR<br>SIGNING UP.</div>
 <div id="optinForm2">
-<form name="InterCalldotcomoptin" action="http://s1354.t.eloqua.com/e/f2" method="post" onsubmit="return checkEmail();" target="formFrame">
-
+<form name="InterCalldotcomoptin" id="InterCalldotcomoptin">
 <!-- bot trap -->
 <style>#address{position:absolute;left:-5000px;}</style>
 <label for="address" id="address">Address<input name="address" class="text" type="text" autocomplete="off"></label>
-
 <input type="hidden" name="elqFormName" value="InterCalldotcomoptin">
 <input type="hidden" name="elqSiteID" value="1354">
-
 <strong>Sign up for news and webinars:</strong><br>
-<input type="text" value="Enter email address" name="C_EmailAddress" id="optinEmail" onfocus="this.value='';"><span class="errorMsg">Enter a valid email</span> <button class="elqFormSubmit" style="margin-left:2px; margin-top:1px;">SEND</button>
+<input type="text" value="Enter email address" name="C_EmailAddress" id="optinEmail" onfocus="this.value='';"><span class="errorMsg">Enter a valid email</span> <input type="submit" class="elqFormSubmit" style="margin-left:2px; margin-top:1px;" value="SEND">
  
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Educational1" value="1">
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Promotional1" value="1">
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Conferencing_Compass1" value="1">
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Webinars_Training1" value="1">
         <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Transacational1" value="1">
+        <input class="elqFormField" type="hidden" name="C_ZZ___SUB_MGMT___Address1" value="1">
+
+
 </form>
 </div>
-<iframe src="http://s1354.t.eloqua.com/e/f2" name="formFrame" class="formFrame"></iframe>
 <script>
+$(document).ready(function() {
+$(".elqFormSubmit").click(function (event) {
+ event.preventDefault();
+ checkEmail();
+ });
+  
 function checkEmail() {
 fieldValue = document.InterCalldotcomoptin.C_EmailAddress.value;
  var tester = 0;
@@ -668,14 +829,23 @@ return false;
  }
  
 if (tester == 1) {
-document.InterCalldotcomoptin.submit();
-//alert(document.InterCalldotcomoptin.C_EmailAddress.value);
- document.getElementById('thanks1').style.display = "block";
- document.getElementById('optinForm2').style.display = "none";
+
+ 
+$.ajax({
+ url:"http://s1354.t.eloqua.com/e/f2", 
+ type:'POST', 
+ data: $("#InterCalldotcomoptin").serialize(),
+ success:function(){
+$("#optinForm2").hide();
+$("#thanks1").fadeIn();
+  }});
 return false;
 }
-}
+} 
+ 
+});
 </script>
+
 <style>
 #optinForm {
  width:128px;
