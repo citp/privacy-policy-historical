@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insoft.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002200734id_/http%3A//insoft.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insoft.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511174527id_/http%3A//www.insoft.com/privacypolicy) for the most accurate reproduction.*
 
 # Insoft.com
 
