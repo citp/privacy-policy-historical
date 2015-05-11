@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerorbits.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802073751id_/http%3A//www.careerorbits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerorbits.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511233516id_/http%3A//www.careerorbits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerOrbits
 
@@ -48,4 +48,4 @@ Portions of this website use cookies to keep track of your visit, or to deliver 
 
 ## Contact Us
 
-If you wish to bring to our notice any concern regarding Privacy Policy, please [Contact Us.](http://www.careerorbits.com/contact-us/)
+If you wish to bring to our notice any concern regarding Privacy Policy, please [Contact Us.](http://www.careerorbits.com/contact-us)
