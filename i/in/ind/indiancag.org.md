@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiancag.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205172600id_/http%3A//www.indiancag.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancag.org privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511095415id_/http%3A//indiancag.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
