@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budsgunshop.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055439id_/http%3A//www.budsgunshop.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budsgunshop.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511233437id_/http%3A//www.budsgunshop.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Discount Guns for Sale - Buds Gun Shop
 
