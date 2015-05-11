@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215204432id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511091903id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Rentals.com - Homes for Rent, Apartments, Houses for Rent, Townhomes & Condos
 
@@ -80,6 +80,6 @@ Norcross, Georgia 30092
 
 #### Copyright
 
-Copyright © 2002-2014 RentPath Inc. All rights reserved.
+Copyright © 2002-2015 RentPath Inc. All rights reserved.
 
 Last updated September 4th, 2014
