@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanbet.co.uk privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105051531id_/http%3A//www.titanbet.co.uk/help/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanbet.co.uk privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511210933id_/http%3A//www.titanbet.co.uk/help/privacy-security.html%23cookie) for the most accurate reproduction.*
 
 # Titanbet Security & Privacy Policy
 
