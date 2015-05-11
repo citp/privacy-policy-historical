@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorilla-evolution.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114073920id_/http%3A//fb-gorilla.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorilla-evolution.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511173126id_/http%3A//fb-gorilla.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
