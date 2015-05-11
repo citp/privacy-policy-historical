@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeon.co privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007155238id_/http%3A//aeon.co/magazine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeon.co privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511230625id_/http%3A//aeon.co/magazine/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Aeon Magazine
 
