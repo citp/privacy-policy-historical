@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilelps.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327200405id_/http%3A//mobilelps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilelps.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512011650id_/http%3A//mobilelps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | mobilelps.com
 
@@ -78,4 +78,4 @@ USA
 
 This privacy policy was last updated on 03-17-2011.
 
-Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.mobilelps.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://mobilelps.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
