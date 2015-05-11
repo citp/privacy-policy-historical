@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soulcast.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215002202id_/http%3A//www.soulcast.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulcast.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511204555id_/http%3A//www.soulcast.com/page/privacy) for the most accurate reproduction.*
 
 # SoulCast: Free Uncensored Blogging
 
