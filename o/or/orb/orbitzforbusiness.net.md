@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the orbitzforbusiness.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702033836id_/https%3A//www.orbitzforbusiness.net/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitzforbusiness.net privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511192550id_/https%3A//www.orbitzforbusiness.net/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # Orbitz for Business: Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/Orbitz-Worldwide,-LLC/validation?rid=b3c4abce-18d0-4bf1-8e3e-723558f9e4d1 "TRUSTe European Safe Harbor certification")
 
-Effective January 6, 2012
+Effective July 23, 2014
 
 ## Orbitz for Business® Privacy Policy
 
@@ -51,17 +51,19 @@ The remainder of this policy describes our Personal Information handling practic
 
 > In this Privacy Policy, terms that commence with a capital letter are defined in this Section.
 > 
+> **"Book"** means to reserve.
+> 
+> **"Guest Member"** means an individual who has been invited to register on the Site by an organization with a relationship with Orbitz for Business, Inc. A Guest Member may be given limited rights to access and use the Site, including but not limited to restrictions based on term of membership and access to individual Products or Services.
+> 
 > **"Member"** means an individual who has registered on the www.orbitzforbusiness.net site.
 > 
 > **"Member ID"** means the e-mail address Members use (with their password) to log into our Site.
 > 
 > **"Orbitz for Business," "us," "our"** or **"we"** means Orbitz for Business, Inc.
 > 
-> **"Personal Information"** means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail and mailing address, telephone number, billing and account information and other information incidental to providing Products or Services (including information about individuals traveling with an individual who Books on our Site).
+> **"Personal Information"** means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail and mailing address, telephone number, billing and account information, passport and visa information and other information incidental to providing Products or Services (including information about individuals traveling with an individual who Books on our Site).
 > 
-> **"Products or Services"** means the airline travel, hotel accommodation, car rental, ground transportation, tours, theater tickets, attractions, travel insurance and other items available from our Site.
-> 
-> To **"Book"** means to reserve.
+> **"Products or Services"** means the airline travel, hotel accommodation, car rental, ground transportation, rail transportation, alerts, and other items available from our Site.
 > 
 > **"Session Data"** means usage information, such as the type of Internet browser and operating system an individual uses, the domain name of the site from which the individual came, the date, time and duration of the individual's visit, the number of visits to our Site, the pages viewed and the number of cookies accumulated, and, in the case of the Orbitz for Business mobile site, also means the unique identifier of an individual's mobile device, the type of mobile device the individual uses and the application version.
 > 
@@ -91,9 +93,9 @@ The remainder of this policy describes our Personal Information handling practic
 _What Personal Information we collect_   
 
 
-> **When you register as a Member**
+> **When you register as a Member or a Guest Member**
 > 
-> When you register with us as a Member, you must provide your name, e-mail address and organization's name. If you consented to have your organization share your personal travel information with us, we will match the limited information you provide with the travel profile you may have provided your organization. If you did not consent to your organization sharing your personal travel information with us, we may ask for your consent to obtain your travel profile from your organization. Such travel profile will include Personal Information that you provided your organization, such as your mailing address, travel loyalty numbers and credit card numbers for travel bookings. Your consent for your organization to share your personal travel information with us may be necessary for you to become a Member. You also must choose a password, which will be required to gain access to our Site. We might also request your home zip code.
+> When you register with us as a Member or a Guest Member, you must provide your name, e-mail address and organization's name. If you consented to have your organization share your personal travel information with us, we will match the limited information you provide with the travel profile you may have provided your organization. If you did not consent to your organization sharing your personal travel information with us, we may ask for your consent to obtain your travel profile from your organization. Such travel profile will include Personal Information that you provided your organization, such as your mailing address, travel loyalty numbers and credit card numbers for travel bookings. Your consent for your organization to share your personal travel information with us may be necessary for you to become a Member. You also must choose a password, which will be required to gain access to our Site. We might also request your home zip code passport number, and visa number(s).
 > 
 > You may elect to provide other information. Such information may include, for example, gender, travel loyalty numbers, travel special requests, Personal Information of your administrative assistant (if applicable) and emergency contacts.
 > 
@@ -167,7 +169,7 @@ _What Personal Information we collect_
 
 > From time to time, we may disclose your Personal Information as follows:
 > 
->   * To those travel service providers with which you make arrangements through our Site, for example airlines, car rental, hotel, ground transportation, theater, attraction or travel insurance. We provide them with the Personal Information needed to make and complete the booking or reservation;
+>   * To those travel service providers with which you make arrangements through our Site, for example airlines, car rental, hotel, ground transportation, or rail transportation. We provide them with the Personal Information needed to make and complete the booking or reservation;
 >   * To organizations that perform services for or on behalf of Orbitz for Business, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, data processing, to measure the use of our Site, to facilitate usage by a visitor or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the US and outside the European Economic Area ("EEA').Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Orbitz for Business, and under the instructions of Orbitz for Business, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy. By submitting your personal data, you agree to the transfer, storing and processing of your data outside the US and outside the EEA;
 >   * To your organization about your use or non-use of the Site;
 >   * To protect our Site and our rights under our [Terms and Conditions](https://www.orbitzforbusiness.net/pagedef/content/legal/terms05.jsp?popupsDisabled=false); to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain;
@@ -207,7 +209,7 @@ _What Personal Information we collect_
 
 > **My Trips and My Account**
 > 
-> We store your Personal Information in My Trips, My Account and My Travel Arrangers. You can access My Trips and My Account from the [home page](https://www.orbitzforbusiness.net/Secure/OFBSignIn) of our Site, after logging onto our Site. My Trips contains information about your current, canceled or past trips. My Account contains your name, e-mail address, e-mail and password settings, and departure city from which you usually travel. It may also contain other information so that you do not need to re-enter it each time you Book a Product or Service. For example, My Account may contain your billing information unless you tell us not to store it. It may also contain your preferences for seat selection or special meals, details about your participation in loyalty or awards programs and applicable membership numbers and other travel preferences. We also keep in My Account all other information that your organization has provided or that you have elected to provide us, such as gender, travel loyalty numbers, travel special requests, Personal Information of your administrative assistant (if applicable) and emergency contacts. My Travel Arrangers contains a list of individuals within your organization who have the ability to Book Products and Services on your behalf. 
+> We store your Personal Information in My Trips, My Account and My Travel Arrangers. You can access My Trips and My Account from the [home page](https://www.orbitzforbusiness.net/Secure/OFBSignIn) of our Site, after logging onto our Site. My Trips contains information about your current, canceled or past trips. My Account contains your name, e-mail address, e-mail and password settings, and departure city from which you usually travel. It may also contain other information so that you do not need to re-enter it each time you Book a Product or Service. For example, My Account may contain your billing information unless you tell us not to store it. It may also contain your preferences for seat selection or special meals, details about your participation in loyalty or awards programs and applicable membership numbers, passport number, visa number(s) and other travel preferences. We also keep in My Account all other information that your organization has provided or that you have elected to provide us, such as gender, travel loyalty numbers, travel special requests, Personal Information of your administrative assistant (if applicable) and emergency contacts. My Travel Arrangers contains a list of individuals within your organization who have the ability to Book Products and Services on your behalf. 
 > 
 > You can access, modify or close your account as described in How to access, modify, or close your account.
 > 
