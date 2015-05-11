@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serve.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190158id_/https%3A//www.americanexpress.com/us/content/legal-disclosures/online-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serve.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511084236id_/https%3A//www.americanexpress.com/us/content/legal-disclosures/online-privacy-statement.html) for the most accurate reproduction.*
 
 # American Express | US Online Privacy Statement
 
