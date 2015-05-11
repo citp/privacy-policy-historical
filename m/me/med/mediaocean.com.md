@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaocean.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031102838id_/http%3A//mediaocean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaocean.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511230953id_/http%3A//www.mediaocean.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mediaocean
 
