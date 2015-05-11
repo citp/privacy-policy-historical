@@ -1,9 +1,21 @@
-> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028182221id_/http%3A//worldwebdirectoryindex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511163830id_/http%3A//worldwebdirectoryindex.com/privacy.html) for the most accurate reproduction.*
 
-# worldwebdirectoryindex.com - web directory Resources and Information. This website is for sale!
+# World Web Directory Index - WorldWebDirectoryIndex.com Privacy Policy
 
-This page provided to the domain owner **free** by Sedo's [Domain Parking](http://www.sedo.com/services/parking.php3?language=e&partnerid=20293 "Domain Parking"). Disclaimer: Domain owner and Sedo maintain no relationship with third party advertisers. Reference to any specific service or trade mark is not controlled by Sedo or domain owner and does not constitute or imply its association, endorsement or recommendation.
+### WorldWebDirectoryIndex.com Privacy Policy
 
-By using our site, you consent to this privacy policy: This website allows third-party advertising companies for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities to use Cookies and /or Web Beacons and other monitoring technologies to serve ads and to compile anonymous statistics about you when you visit this website. Cookies are small text files stored on your local internet browser cache. A Web Beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel that is placed on a Web site. Both are created for the main purpose of helping your browser process the special features of websites that use Cookies or Web Beacons. The gathered information about your visits to this and other websites are used by these third party companies in order to provide advertisements about goods and services of interest to you. The information do not include any personal data like your name, address, email address, or telephone number. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+This Privacy Policy covers how WorldWebDirectoryIndex.com treats personal information WorldWebDirectoryIndex.com collects and records when you submit your website for inclusion in our web directory.
 
-Privacy Policies
+This policy does not apply to the practices of companies or individuals that WorldWebDirectoryIndex.com campaigns for. This policy also does not apply to people WorldWebDirectoryIndex.com does not employ or manage.
+
+**Information Collection, Sharing and Disclosure**
+
+To submit a web site or an article for inclusion, visitor has to open an account at WorldWebDirectoryIndex.com. We ask for website details, article and some personal information. Every information is saved for future reference. Email address is only used for sending email when their website or article is either approved, disapproved or when there is a need to contact you. WorldWebDirectoryIndex.com does not rent, sell, or share personal information about you with other people, affiliated and non affiliated companies. WorldWebDirectoryIndex.com stores your personal information inside our premises under safe custody. Access is limited to those employees who we believe reasonably need to come into contact with that information.
+
+**Use of Cookies** **Cookies are used on WorldWebDirectoryIndex.com for the purpose of logging into your account.**
+
+The DoubleClick DART cookie is used by Google in the ads served on worldwebdirectoryindex.com websites displaying AdSense for ads. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+**Changes to this Privacy Policy**
+
+WorldWebDirectoryIndex.com may amend or update this policy from time to time. Please visit this page to view changes if any.
