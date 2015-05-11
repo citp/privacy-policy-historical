@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muzy.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701043006id_/http%3A//muzy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzy.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511135714id_/http%3A//muzy.com/privacy) for the most accurate reproduction.*
 
 # Muzy
 
@@ -73,4 +73,4 @@ The Services may contain links to other websites. If you choose to visit an adve
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@muzy.com](mailto:privacy@muzy.com)
+If you have any questions about this Privacy Policy, please contact us at [muzyfeedback@franklychat.com](mailto:muzyfeedback@franklychat.com)
