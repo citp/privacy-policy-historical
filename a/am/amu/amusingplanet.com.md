@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amusingplanet.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110232329id_/http%3A//www.amusingplanet.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amusingplanet.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511152821id_/http%3A//www.amusingplanet.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Amusing Planet
 
