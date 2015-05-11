@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digikey.ca privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627211725id_/http%3A//dkc1.digikey.com/ca/en/mkt/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.ca privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511130650id_/http%3A//www.digikey.ca/en/help/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | DigiKey
+# Privacy Statement | DigiKey Electronics
 
-We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at Digi-Key.
+> We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at Digi-Key.
 
 ## Web Site Visits
 
@@ -28,11 +28,11 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 > 
 > Occasionally, Digi-Key may make the names and addresses of our customer list available to carefully screened companies that offer products and/or services that may be of interest to you.
 > 
-> You may elect to opt out of either of these uses of your mailing address by completing the "[Opt Out Form](https://ordering.digikey.com/forms/dkc/WWW/ServicesOptOut.aspx?FormSite=ca&FormLang=en&site=ca&lang=en)."
+> You may elect to opt out of either of these uses of your mailing address by completing the "[Opt Out Form](https://www.digikey.ca/classic/forms/dkc/www/servicesoptout.aspx?FormSite=ca&FormLang=en&site=ca&lang=en)."
 
 > ### Email Addresses
 > 
-> Email addresses may be used to communicate information of interest to you about Digi-Key. This includes Order Shipment/Tracking Information, Obsolete Part Bulletins, Service Change Information or other Digi-Key promotional emails. You may elect to opt out of any or all of these emails by completing the "[Opt Out Form](https://ordering.digikey.com/forms/dkc/WWW/ServicesOptOut.aspx?FormSite=ca&FormLang=en&site=ca&lang=en)."
+> Email addresses may be used to communicate information of interest to you about Digi-Key. This includes Order Shipment/Tracking Information, Obsolete Part Bulletins, Service Change Information or other Digi-Key promotional emails. You may elect to opt out of any or all of these emails by completing the "[Opt Out Form](https://www.digikey.ca/classic/forms/dkc/www/servicesoptout.aspx?FormSite=ca&FormLang=en&site=ca&lang=en)."
 > 
 > Emails may be sent by Digi-Key or an authorized agent working for Digi-Key. All authorized agents operate with a confidentiality agreement. Information sent in this manner will always include "opt out" options.
 > 
@@ -54,9 +54,13 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 > 
 > Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Your browser will automatically enter the secure mode when you make purchases.
 > 
-> If you **do not** have a _secure browser_ and would like to place orders, please review [How To Order](http://dkc1.digikey.com/ca/en/mkt/Order.html) for alternative ordering methods. Digi-Key is not liable or responsible for any loss or damage resulting from the use of a browser that is not secure.
+> If you **do not** have a _secure browser_ and would like to place orders, please review [How To Order](https://web.archive.org/en/help/ordering-faqs) for alternative ordering methods. Digi-Key is not liable or responsible for any loss or damage resulting from the use of a browser that is not secure.
 > 
 > When accessing our online order entry system using a secure browser, one can feel secure transmitting credit card or other confidential information sent over the Internet.
+
+## Online Chat
+
+> Your online chat login information and communications conducted via the chat feature are recorded and stored by LivePerson, a third party Application Service Provider ("ASP"). Digi-Key has access to LivePerson's recorded and stored chat information and may monitor or review such information for quality assurance. Digi-Key may also use that information in accordance with Digi-Key's Privacy Policy and Web Site Terms & Conditions. The use of the information by LivePerson is subject to the LivePerson Privacy Policy that can be found at the LivePerson web site: <http://www.liveperson.com/policies/privacy>
 
 ## "Cookies"
 
@@ -82,12 +86,10 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 > 
 > **Spotlight tags:**   Information about Web site usage and visitors to our Web site is shared with a reputable third-party for the purpose of targeting our Internet advertisements in other sites. To do this, we use clear GIFs, or pixel tags, on this site, which allow us to recognize a browser's cookie when a browser visits this site. The information we collect and share through this technology is not personally identifiable. For more information about our third-party advertiser or for your choices about not having this anonymous information used, please [click here](http://www.doubleclick.net/us/corporation/privacy).
 
-## Contact Information
-
 > Please contact us if you have any questions, concerns or comments.  
->  Use the [Communications Center](http://dkc1.digikey.com/ca/en/mkt/Contact.html) (forms based method of communicating with Digi-Key), or by contacting us at:
+>  Use the [Communications Center](https://web.archive.org/ca/en/info/contact-us.html) (forms based method of communicating with Digi-Key), or by contacting us at:
 >
->> Digi-Key Corporation  
+>> Digi-Key Electronics  
 >  701 Brooks Avenue South  
 >  P.O. BOX 677  
 >  Thief River Falls, MN 56701-0677  
