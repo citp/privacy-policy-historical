@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ondemandassessment.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024014934id_/http%3A//www.ondemandassessment.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondemandassessment.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511103800id_/http%3A//www.ondemandassessment.com/terms.htm) for the most accurate reproduction.*
 
 # TERMS AND CONDITIONS OF USE
 
