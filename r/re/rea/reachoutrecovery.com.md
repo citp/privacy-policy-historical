@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reachoutrecovery.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229212035id_/http%3A//reachoutrecovery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachoutrecovery.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511082818id_/http%3A//reachoutrecovery.com/privacy-policy-1) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Reach Out Recovery
 
 Reach Out Recovery is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Reach Out Recovery Web site and governs data collection and usage. By using the Reach Out Recovery website, you consent to the data practices described in this statement.
 
@@ -33,3 +33,9 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 **Security of your Personal Information:**  
 Reach Out Recovery secures your personal information from unauthorized access, use or disclosure. Reach Out Recovery secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+**Changes to this Statement:**  
+Reach Out Recovery will occasionally update this Statement of Privacy to reflect company and customer feedback. Reach Out Recovery encourages you to periodically review this Statement to be informed of how Reach Out Recovery is protecting your information.
+
+**Contact Information:**  
+Reach Out Recovery welcomes your comments regarding this Statement of Privacy. If you believe that Reach Out Recovery has not adhered to this Statement, please contact Reach Out Recovery at [info@reachoutrecovery.com](mailto:info@reachoutrecovery.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
