@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weekday.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214021818id_/http%3A//shop.weekday.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekday.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511153213id_/http%3A//shop.weekday.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Weekday | Privacy Policy
+# Weekday | Welcome to Weekday - Other EUR
 
 Weekday works to ensure that your integrity is maintained on the Internet. We have therefore produced a policy for how your personal information is used. The content of the policy can be changed on an on-going basis and therefore you should read through it again when you visit our website next time.
 
