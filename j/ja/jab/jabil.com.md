@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230204456id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511204128id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
 
-# Jabil | www.jabil.com
+# Jabil | Supply Chain Management, Design Services and Global Manufacturing Partner
 
 ## 1\. Purpose
 
