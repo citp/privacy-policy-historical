@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcita.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230081032id_/http%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcita.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511105815id_/http%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.*
 
 # vCita - Privacy Policy
 
