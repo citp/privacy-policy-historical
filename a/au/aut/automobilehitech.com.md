@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automobilehitech.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702092759id_/http%3A//www.automobilehitech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilehitech.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511231331id_/http%3A//www.automobilehitech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AutomobileHiTech
+# Privacy Policy - AutomobileHiTech | AutomobileHiTech
 
 ## Privacy Policy
 
@@ -17,10 +17,14 @@ Collection of Personal Information
 When visiting automobilehitech.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 Links to third party Websites  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. [Father’s Day 2014](http://happy-fathersday.com/)
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
 Contact Information
 
-Concerns or questions about this privacy policy can be directed to http://automobilehitech.com/contact-us/ for further clarification.
+Concerns or questions about this privacy policy can be directed to http://automobilehitech.com/contact-us/ for further clarification.  
+[labor day posters  
+](http://freeimagesquotes.com/labor-day-poster.html)
 
-[Fathers Day 2014](http://www.fathersdays2014.com/), [4th Of July 2014](http://4thofjuly2014.com/) and [Canadaday-2014.com](http://www.canadaday-2014.com/)
+[labor day wallpapers](http://www.laborday-holiday.com/ "labor day wallpapers")
+
+[labor day festivals 2014](http://labor-days-2014.com/ "labor day festivals 2014")
