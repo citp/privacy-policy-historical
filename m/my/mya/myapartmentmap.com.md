@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myapartmentmap.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702013120id_/http%3A//www.myapartmentmap.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myapartmentmap.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511135709id_/http%3A//www.myapartmentmap.com/privacy_policy.html) for the most accurate reproduction.*
 
 # MyApartmentMap Privacy Statement
 
