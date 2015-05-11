@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarttradefx.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927213946id_/http%3A//www.smarttradefx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarttradefx.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511082305id_/http%3A//www.smarttradefx.com/privacy-policy) for the most accurate reproduction.*
 
 # SmartTradeFX - Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 **PRIVACY STATEMENT**
 
-At SmartTradeFX, Inc. (STFX) protecting your privacy is important to us. Our Company is committed to safeguarding the personally identifiable financial information you provide us as part of the trading account process. We want you to understand what information we collect and how we use consumer information in order to provide our clients premier services and products. The following information outlines STFX's Privacy Policy and briefly describes how we treat non-public personal information.
+At SmartTradeFX, Ltd. (STFX) protecting your privacy is important to us. Our Company is committed to safeguarding the personally identifiable financial information you provide us as part of the trading account process. We want you to understand what information we collect and how we use consumer information in order to provide our clients premier services and products. The following information outlines STFX's Privacy Policy and briefly describes how we treat non-public personal information.
 
 **Information STFX Collects**
 
