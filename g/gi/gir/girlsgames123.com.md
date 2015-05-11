@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgames123.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925095055id_/http%3A//www.girlsgames123.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames123.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511120808id_/http%3A//www.girlsgames123.com/page/privacy) for the most accurate reproduction.*
 
 # Girl Games, Games for Girls, Play Girls Games!
 
