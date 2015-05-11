@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119040553id_/http%3A//www.kutv.com/kutv-info/features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511042250id_/http%3A//www.kutv.com/kutv-info/features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KUTV - 2 News Utah -
 
