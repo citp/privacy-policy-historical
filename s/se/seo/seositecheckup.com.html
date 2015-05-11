@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the seositecheckup.com privacy policy that was archived on 2014-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229221227id_/http%3A//seositecheckup.com/private_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seositecheckup.com privacy policy that was archived on 2015-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511205752id_/http%3A//seositecheckup.com/private_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
 <title>Private Policy | SeoSiteCheckup.com</title>
 <meta name="description" content="View the privacy policy for SEO Site Checkup">
 <meta name="keywords" content="privacy policy, SEO Site Checkup">
@@ -15,7 +16,7 @@
 
     
 <!--======= Basic Metas =======-->
-<meta charset="utf-8">
+
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 <meta name="p:domain_verify" content="3bb77817af47132a9c0192fa65303f2d">
@@ -48,7 +49,11 @@
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <script src="http://css3-mediaqueries-js.googlecode.com/files/css3-mediaqueries.js"></script>
     <![endif]-->
+
+
 <script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=5p2h6xiazxk53gh65ximoblkai"></script>
+
+
 </head>
 
 <body>
@@ -59,7 +64,7 @@
     <!-- end adsense analytics code snippet -->
 
     <!--notification start-->
-    <section id="success_notification" class="notification success" onclick="$('#success_notification').addClass('bounce-up');">
+    <section id="success_notification" class="notification success" onclick="$('#success_notification').addClass('bounce-up');" style="z-index:11000;">
         <span>
             <div class="icon"><div class="sprite big-check"></div></div>
             <h2>Success: Query sent.</h2>
@@ -87,7 +92,7 @@
                 <ul class="nav-mobi">
                     <li><a href="http://seositecheckup.com/pricing" data-pricing="pricing-plan">Pricing</a></li>
                     <li><a href="http://seositecheckup.com/articles/list">Articles</a></li>
-                    <li><a href="http://seositecheckup.com/custom_seo_analysis">Custom SEO</a></li>
+                    <!--<li><a href="http://seositecheckup.com/custom_seo_analysis"  >Custom SEO</a></li>-->
                     <li><a href="http://seositecheckup.com/tools">Free Tools</a></li>
                     <!--<li><a href="#modal-text" >Free SEO Report</a></li>-->
                     <!--<li><a href="http://seositecheckup.com/widgets"  >SEO Widgets</a></li>-->
@@ -195,7 +200,7 @@ Anonymous information is collected in the form of site and page   traffic perfor
                 <div class="row">
                     <div class="col8">
                         <h2 class="semi">Try out our new SEO ToolBox</h2>
-                        <strong>Everything SeoSiteCheckup already has, plus more powerful tools and faster execution.</strong> Try the new features of our supercharged SEO ToolBox using a 30 days free trial account. Optimize &amp; monitor your website's performances, and grow your business!                    </div>
+                        <strong>Everything SeoSiteCheckup already has, plus more powerful tools and faster execution.</strong> Try the new features of our supercharged SEO ToolBox using a 30 day free trial account. Optimize &amp; monitor your website's performance, and grow your business!                    </div>
 
                     <div class="col4">
                         <a href="https://toolbox.seositecheckup.com/user/register" class="flat-orange" target="_blank">Register for Free</a>
@@ -216,7 +221,7 @@ Anonymous information is collected in the form of site and page   traffic perfor
                         <div class="col4">
                             <h2>Top Read Articles</h2>
                             <ul>
-                                <li><a href="http://seositecheckup.com/articles/85">How Using GZIP Compression Helps Your Site's SEO</a></li><li><a href="http://seositecheckup.com/articles/82">How to Optimize Your Meta-titles, Descriptions and Keywords</a></li><li><a href="http://seositecheckup.com/articles/109">How Page Caching Optimizes Your Site Performance</a></li><li><a href="http://seositecheckup.com/articles/87">How to Protect Your Website From Hackers and Cyberthugs</a></li><li><a href="http://seositecheckup.com/articles/83">The Importance of a Robots.txt File for Your SEO</a></li>                            </ul>
+                                <li><a href="http://seositecheckup.com/articles/85">How Using GZIP Compression Helps Your Site's SEO</a></li><li><a href="http://seositecheckup.com/articles/82">How to Optimize Your Meta-titles, Descriptions and Keywords</a></li><li><a href="http://seositecheckup.com/articles/109">How Page Caching Optimizes Your Site Performance</a></li><li><a href="http://seositecheckup.com/articles/83">The Importance of a Robots.txt File for Your SEO</a></li><li><a href="http://seositecheckup.com/articles/87">How to Protect Your Website From Hackers and Cyberthugs</a></li>                            </ul>
                         </div><!--articles end-->
 
                         <!--company start-->
@@ -252,7 +257,7 @@ Anonymous information is collected in the form of site and page   traffic perfor
 
                         <!--copy start-->
                         <div class="col12">
-                            © SEO Site Checkup 2009-2014. All rights reserved.
+                            © SEO Site Checkup 2009-2015. All rights reserved.
                         </div><!--copy end-->
 
                     </div>
@@ -272,11 +277,17 @@ Anonymous information is collected in the form of site and page   traffic perfor
       ga('create', 'UA-61238-13', 'seositecheckup.com');
       ga('send', 'pageview');
 
-    function GATrackEvent(category, action, label){
-          ga('send', 'event', category, action, label);
-       
-    }
+        // function GATrackEvent(category, action, label){
+        //       ga('send', 'event', category, action, label);
+           
+        // }
 
+        function GATrackEvent(category, action, label, callback){        
+            if(!callback){
+                callback = function(){};
+            }
+            ga('send', 'event', category, action, label, {'hitCallback': callback});                
+        }
 
     </script>
 
