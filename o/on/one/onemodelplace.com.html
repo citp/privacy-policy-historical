@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onemodelplace.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231030943id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onemodelplace.com privacy policy that was archived on 2015-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511111607id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="https://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# onemodelplace_dev:
                   http://ogp.me/ns/apps/onemodelplace_dev#">
@@ -17,16 +17,16 @@
   <link rel="dns-prefetch" href="//cdn9.onemodelplace.com">
   <link rel="dns-prefetch" href="//d2mb2i699cc2iv.cloudfront.net">
 
-			
+	
 		<title>One Model Place -  Privacy Statement</title>
-		
+	
 		<meta name="description" content="OneModelPlace.com: The worlds largest professional modeling and photography community. An online community for Models, Photographers, Artists, Agents and more...">
 	
 		<meta name="keywords" content="models, modeling, photography, glamour models, fashion, teen models, model portfolio, search talent, model available, model for hire, find model and talent, fashion models, Modeling forum, message board, glamour model, amateur models, find photographers, photographers directory modeling, models, modeling agency, fashion, talent, modeling information, modeling advice">
-		
-														
 	
-	<meta name="robots" content="noarchive,noindex,follow">
+													
+
+	<meta name="robots" content="index,follow">
 
   
 
@@ -35,7 +35,14 @@
 <!--[if lt IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie_style.css" /><![endif]-->
 <!--[if gte IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie8_style.css" /><![endif]-->
 <link rel="stylesheet" type="text/css" media="screen" href="http://cdn8.onemodelplace.com/uploads/all.min.css?ver=20141210">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn8.onemodelplace.com/uploads/all.min.js?ver=20141210"></script>
+<link rel="stylesheet" href="/js/slick/slick/slick.css">
+<link rel="stylesheet" href="/js/slick/slick/slick-theme.css">
+<link rel="stylesheet" href="/css/update1.css">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/handlebars.min.js"></script>
+<script type="text/javascript" src="http://cdn8.onemodelplace.com/uploads/all.min.js?ver=20141210"></script>
+<script src="/js/slick/slick/slick.min.js"></script>
+<script src="/js/update1.js"></script>
 
 <style type="text/css">
   .error_border { border: 1px solid red;}
@@ -107,8 +114,8 @@
   config.iT['iok'].s = 'Unlike';
   config.iT['iok'].t = 'Like';
   config.iT['iticket'] = new Object();
-  config.iT['iticket'].s = 'Tag';
-  config.iT['iticket'].t = 'Tag';
+  config.iT['iticket'].s = 'Credit';
+  config.iT['iticket'].t = 'Credit';
   config.iT['ieye'] = new Object();
   config.iT['ieye'].t = 'Views';
   config.iT['iheart'] = new Object();
@@ -283,6 +290,8 @@
 		</script>
 
 
+
+
 </head>
 <body>
 
@@ -380,7 +389,7 @@
 	<a class="fav_close" href="#"></a>
 
 	<div class="fav_in">
-		<h6><div style="text-transform:none !important;font-weight:normal;width:120px;margin-left:-10px;margin-top:-7px;font-size:11px;">Credits other members involved in creating this image. Tag yourself to receive credit and a link to your portfolio.</div></h6>
+		<h6><p style="text-transform:none !important;font-weight:normal;width:120px;margin-left:-10px;margin-top:-7px;font-size:11px;">Credit yourself in this image. Once the credit is approved by this member, your name and a link to your profile will appear when viewing the full-size version of this image</p></h6>
 				<div class="fav_list">
 			<ul>
 				<li>
@@ -423,8 +432,8 @@
   <a class="popup_top sprite_popup_top">&nbsp;</a>
     <div class="popup_in">
         <div class="box b833 mt20">
-            <span class="close top">close</span>
-            <span class="close bottom">close</span>
+            <span class="close top">Close</span>
+            <span class="close bottom">Close</span>
 		        <div class="put"></div>
         </div>
     </div>
@@ -440,18 +449,18 @@
 		window.location='/user/register';
 	}
 
-	var tooltipThisFeatureIsNotYetDeveloped = {"buttons":[{"name":"close"}],"title": "","text":"<p>This feature is not yet available</p>"};
+	var tooltipThisFeatureIsNotYetDeveloped = {"buttons":[{"name":"Close"}],"title": "","text":"<p>This feature is not yet available</p>"};
 	$(".tooltip_notyetdeveloped").live('click', function() {
 		uniPopup($(this), tooltipThisFeatureIsNotYetDeveloped);
 	})
-	var tooltipClassAuthenticated = {"buttons":[{"name":"Login","func":"tooltipLoginFunc"}, {"name":"Join","func":"tooltipJoinFunc"}, {"name":"close"}],"title": "","text":"<p>You should be authenticated to use this feature</p>"};
+	var tooltipClassAuthenticated = {"buttons":[{"name":"Login","func":"tooltipLoginFunc"}, {"name":"Join","func":"tooltipJoinFunc"}, {"name":"Close"}],"title": "","text":"<p>Login or join OMP now to use this feature</p>"};
 	$(".unitooltip.privilege_tooltip.privilege_tooltip_class_authenticated").live('click', function(e) {
 		uniPopup($(this), tooltipClassAuthenticated);
 		e.preventDefault();
 		e.stopPropagation();
 	})
 
-	var tooltipClassFan = {"buttons":[{"name":"close"}],"title": "","text":"<p>This feature is not available for fan</p>"};
+	var tooltipClassFan = {"buttons":[{"name":"Close"}],"title": "","text":"<p>This feature is not available for fan</p>"};
 	$(".unitooltip.privilege_tooltip.privilege_tooltip_class_fan").live('click', function(e) {
 		uniPopup($(this), tooltipClassFan);
 		e.preventDefault();
@@ -459,21 +468,21 @@
 	})
 
 
-	var tooltipClassApproved = {"buttons":[{"name":"close"}],"title": "","text":"<p>This feature is only available for approved users</p>"};
+	var tooltipClassApproved = {"buttons":[{"name":"Close"}],"title": "","text":"<p>This feature is only available for approved users</p>"};
 	$(".unitooltip.privilege_tooltip.privilege_tooltip_class_approved").live('click', function(e) {
 		uniPopup($(this), tooltipClassApproved);
 		e.preventDefault();
 		e.stopPropagation();
 	})
 
-	var tooltipClassUploadUpgrade = {"buttons":[{"name":"close"}],"title": "","text":"<p>You uploaded the maximal amount of photos for your membership level.<br> If You want to upload more images check if a membership upgrade is available!</br></p>"};
+	var tooltipClassUploadUpgrade = {"buttons":[{"name":"Close"}],"title": "","text":"<p>You have uploaded the maximum amount of images for your membership level.<br> If you would like to upload more images, please upgrade your membership level by clicking on the \"Edit Membership\" link at the top of your profile.</br></p>"};
 	$(".unitooltip.privilege_tooltip.privilege_tooltip_class_upload_upgrade").live('click', function(e) {
 		uniPopup($(this), tooltipClassUploadUpgrade);
 		e.preventDefault();
 		e.stopPropagation();
 	})
 
-	var tooltipClassUpgrade = {"buttons":[{"name":"close"}],"title": "","text":"<p> If you want use this feature you should upgrade your account. Please login <a href='http://www113.onemodelplace.com/login_general.cfm'>here</a> and click on Upgrade on the top-right corner. Thank you!</p>"};
+	var tooltipClassUpgrade = {"buttons":[{"name":"Close"}],"title": "","text":"<p> If you want use this feature you should upgrade your account. Please login <a href='http://www113.onemodelplace.com/login_general.cfm'>here</a> and click on Upgrade on the top-right corner. Thank you!</p>"};
 	$(".unitooltip.privilege_tooltip.privilege_tooltip_class_upgrade").live('click', function(e) {
 		uniPopup($(this), tooltipClassUpgrade);
 		e.preventDefault();
@@ -481,7 +490,7 @@
 	})
 
 
-	var blockedClassUpgrade = {"buttons":[{"name":"close"}],"title": "","text":"<p>You are blocked by this person</p>"};
+	var blockedClassUpgrade = {"buttons":[{"name":"Close"}],"title": "","text":"<p>You are blocked by this person</p>"};
 	$(".unitooltip.privilege_tooltip.privilege_tooltip_class_blocked").live('click', function(e) {
 		uniPopup($(this), blockedClassUpgrade);
 		e.preventDefault();
@@ -555,7 +564,7 @@ function rRatedInfo(button, event) {
   </div>
 
   <div class="right_pane">
-    <a href="#" class="shadow_close">close <img src="/images/shadow_close.png"></a>
+    <a href="#" class="shadow_close">Close <img src="/images/shadow_close.png"></a>
     <a href="#" class="popup_arrow_right"></a>
     <a href="#" class="next_gal">Next<br> Gallery</a>
   </div>
@@ -576,7 +585,10 @@ function rRatedInfo(button, event) {
 		<div id="ctop">
 			<!-- TOP -->
 			<div id="top" class="clearfix">
-				<div id="logo"><a href="/"><img width="229" height="52" src="http://cdn9.onemodelplace.com/images/logo.png"></a></div>
+				<div id="logo">
+                                        <a href="/">
+                        <img alt="One Model Place" width="229" height="52" src="http://cdn9.onemodelplace.com/images/logo.png">                    </a>
+                                    </div>
 
 
 				<script type="text/javascript">
@@ -747,6 +759,10 @@ function rRatedInfo(button, event) {
 						<li><a href="/casting-calls" class="thisisnottab">CASTING CALLS</a></li>
 						<li><a target="_blank" class="thisisnottab" href="http://blog.onemodelplace.com">Blog</a></li>
                         
+                        <li class="friends-invitations-menu-item">
+                            
+                        </li>
+
 					</ul>
 
                     				</div>
@@ -899,7 +915,7 @@ practice or to opt-out of this type of advertising, you can visit* *<br>
       if (document.context) document.write ("&context=" + escape(document.context));
       if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
       document.write ("'><\/scr"+"ipt>");
-      //]]>--></script><script type="text/javascript" src="https://marketing.onemodelplace.com/openx-2.8.10/www/delivery/ajs.php?zoneid=4&amp;cb=54625305718&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141231030943id_/http%253A//www.onemodelplace.com/content/omp-privacy-statement.html"></script><noscript><a rel="nofollow" href='http://marketing.onemodelplace.com/openx-2.8.10/www/delivery/ck.php?n=a2ed0dc0&amp;cb=1677884868' target='_blank'><img src='http://marketing.onemodelplace.com/openx-2.8.10/www/delivery/avw.php?zoneid=4&amp;cb=1677884868&amp;n=a2ed0dc0' border='0' alt='' /></a></noscript>
+      //]]>--></script><script type="text/javascript" src="https://marketing.onemodelplace.com/openx-2.8.10/www/delivery/ajs.php?zoneid=4&amp;cb=68158496568&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150511111607id_/http%253A//www.onemodelplace.com/content/omp-privacy-statement.html"></script><noscript><a rel="nofollow" href='http://marketing.onemodelplace.com/openx-2.8.10/www/delivery/ck.php?n=a2ed0dc0&amp;cb=1953023345' target='_blank'><img src='http://marketing.onemodelplace.com/openx-2.8.10/www/delivery/avw.php?zoneid=4&amp;cb=1953023345&amp;n=a2ed0dc0' border='0' alt='' /></a></noscript>
 							
 					</div>
 				
@@ -917,13 +933,13 @@ practice or to opt-out of this type of advertising, you can visit* *<br>
 								<a href="/gallery/featured" target="_self">Featured Models</a>		
 		</li>
 															<li>
+								<a href="/gallery/newImages" target="_self">New Images</a>		
+		</li>
+															<li>
 								<a href="/content/n-a.html" target="_self"></a>		
 		</li>
 															<li>
 								<a href="/gallery/memberFeatured" target="_self">Featured Members</a>		
-		</li>
-															<li>
-								<a href="/gallery/newImages" target="_self">New Images</a>		
 		</li>
 															<li>
 								<a href="/galleries/showcases" target="_self">Showcases</a>		
@@ -950,10 +966,10 @@ practice or to opt-out of this type of advertising, you can visit* *<br>
 								<a href="/content/knowledge-base-home.html" target="_self">Knowledge Base Home</a>		
 		</li>
                               <li>
-								<a href="/content/how-to-become-a-model.html" target="_self">How to Become a Model</a>		
+								<a href="/content/modeling-jobs-1.html" target="_self">Modeling Jobs</a>		
 		</li>
                               <li>
-								<a href="/content/modeling-jobs-1.html" target="_self">Modeling Jobs</a>		
+								<a href="/content/how-to-become-a-model.html" target="_self">How to Become a Model</a>		
 		</li>
                                     </ul>
 					<ul class="ulbox">
@@ -991,9 +1007,6 @@ practice or to opt-out of this type of advertising, you can visit* *<br>
 																		</ul>
 					<ul class="ulbox smaller">
 													<li><h6>Social</h6></li>
-															<li>
-								<a href="#" class="contact_show" data-href="/contact">FAQ</a>
-		</li>
 															<li>
 								<a href="http://pinterest.com/onemodelplace/" target="_blank" rel="nofollow">Pinterest</a>		
 		</li>
