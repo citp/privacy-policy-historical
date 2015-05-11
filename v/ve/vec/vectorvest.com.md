@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227210025id_/http%3A//www.vectorvest.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511203645id_/http%3A//www.vectorvest.com/privacy.aspx) for the most accurate reproduction.*
 
 # VectorVest Privacy Policy
 
@@ -29,6 +29,8 @@ The personal information and data users of the Services supply to VectorVest may
 The personal information and data users of the Services supply to VectorVest may also be given, transferred, disseminated, or disclosed to third parties under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce any terms of use of the Services, (iii) respond to claims that any content provided by using the Services violates the rights of third parties, (iv) protect the rights, property, or personal safety of VectorVest, its users, or the public, (v) enter into or comply with a contract, or (vi) complete an audit of any kind. We are not responsible, accountable, or liable for what any third parties do with such user personal information and data.
 
 Before any user’s personal information or data will be transferred by us to third parties for commercial purposes, including for sales and marketing, we will first obtain from the third party a statement and assurance that it too abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland, or in the alternative we will obtain a written agreement from the third party that it will adhere to such safe harbor framework and principles.
+
+To learn more about the Safe Harbor program, and to view VectorVest’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
 **4\. What is a cookie?**
 
