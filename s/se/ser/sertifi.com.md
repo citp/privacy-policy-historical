@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929155336id_/http%3A//www.sertifi.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511142112id_/http%3A//www.sertifi.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Sertifi Privacy Policy | Sertifi: Electronic Signatures & eSignatures
 
@@ -100,6 +100,6 @@ Please address any questions or concerns regarding our Safe Harbor Privacy Notic
 [support@sertifi.com](mailto:support@sertifi.com)  
 1.866.983.8877
 
-Sertifi Inc.  
-325 W. Huron St. Suite 207  
+Sertifi, Inc.  
+350 N. LaSalle Suite 1020  
 Chicago, IL 60654
