@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630145848id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511050739id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
 
 # DebtSteps.com Privacy Policy
 
