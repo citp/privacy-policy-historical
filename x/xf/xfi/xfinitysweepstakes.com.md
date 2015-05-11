@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xfinitysweepstakes.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326033838id_/http%3A//xfinity.comcast.net/privacy/2013-12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfinitysweepstakes.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511133002id_/http%3A//xfinity.comcast.net/privacy/2015-01) for the most accurate reproduction.*
 
 # XFINITY Privacy Policy
 
-**Effective December 5, 2013[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
+**Effective January 17, 2015[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
 
 If you are accessing this Web Services Privacy Policy from a mobile device, and would like to read a mobile-optimized and TRUSTe-approved summary privacy notice for [http://m.comcast.net](http://m.comcast.net/) and the XfinityTV Player mobile application, please click here. <http://privacy-policy.truste.com/certified-policy/mobile/app/en/comcast.com/index.html>
 
@@ -187,7 +187,7 @@ We will retain Your Data for as long as your account is active or as needed to p
 
 A cookie is a small file that is stored on a user's computer. Among other things, cookies enable the Comcast Web Services to store Preferences Data, as further described in this Privacy Policy. For example, cookies enable Xfinity.com to remember your preferred ZIP code for weather forecasts and also enable XfinityTV.com to remember where you stopped watching a movie, so the next time you use XfinityTV.com you have the option to resume watching that movie where you left off. Cookies can also hold information like an anonymous but unique string of numbers and letters, that Comcast may use to help it collect Activity Data, as further described in this Privacy Policy.
 
-The Comcast Web Services may use different types of cookies, like HTTP cookies (sometimes referred to as "browser cookies") and Flash cookies (sometimes referred to as "Flash LSOs"). For more information on controlling HTTP cookies and Flash cookies, please see Section 7, below.
+The Comcast Web Services may use different types of cookies, like HTTP cookies (sometimes referred to as "browser cookies") and Flash cookies (sometimes referred to as "Flash LSOs"). For more information on controlling HTTP cookies and Flash cookies, please see Section 8, below.
 
 We may also use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to help us collect Activity Data, as further described in this Privacy Policy. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to HTTP cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. If you are a registered user of the Comcast Web Services, we may associate the data we collect using cookies and/or clear gifs with your personal information and use it as further described in this Privacy Policy. If your web browser is configured not to accept cookies, you may still use the Comcast Web Services, but your ability to use some areas or functionality may be limited.
 
@@ -222,29 +222,41 @@ You may authorize other Websites such as Facebook to access and publish on their
 
 On pages of the Comcast Site that contain social network functionality, the social network providing the functionality may be able to collect information about you, even if you don't use that functionality. For example, if a page within the Comcast Site contains a Facebook "Like" button, Facebook may be able to collect data about your visit to that page, even if you don't click on the "Like" button. Please review the privacy policy of the relevant social network and/or log out of it before you use the Comcast Web Services. As with other Websites, you may be able delete any cookies placed on your device by the social network using your browser.
 
-6\. Advertisements
+6\. Online Tracking Policy
 
-Comcast, or advertising network providers acting at Comcast's request, may deliver advertisements to you through the Comcast Web Services, depending on whether you are a registered user or not, as described in more detail below.
+Some of the third-party service providers that Comcast uses to deliver services, content, and advertising on the Comcast Web Services may collect information from those services, as disclosed in this Privacy Policy. This information may include PII or may be used to contact you online.
 
-## All Users
+As stated in this Privacy Policy, in the sections titled "7. Advertisements sold by Comcast" and "8. Advertising Networks and Advertising Sold by Content Providers," we and our service providers may also use cookies to deliver relevant advertising to you when you visit other websites, including advertising based on the products and services you viewed on the Comcast Web Services.
 
-We, or our advertising providers, automatically deliver ads to all users of the Comcast Web Services, whether the users are registered or not, based on non-personal information including: (i) the IP address associated with your device for purposes of determining your approximate geographic location; (ii) the type of web page that is being displayed, such as a news or sports page; or (iii) the content on the page that is shown, such as a sports article about a certain team or a movie review for a particular movie. Because this advertising activity automatically applies to all users and it is purely contextual, this type of advertising delivery cannot be customized or controlled by individual users.
+Comcast participates in the World Wide Web Consortium's (W3C) process to develop a "Do Not Track" standard. Given that the definitions and rules for such a standard have not yet been defined, Comcast does not yet respond to "Do Not Track" signals sent from browsers.
 
-## Registered Users
-
-If you are a registered user, Comcast may use Your Data, regardless of where we gathered such information, to determine what type of ad to display to you on the Comcast Web Services. For example, Comcast may use portions of Your Data that it gathered on www.comcast.net to determine which ad to show you when you visit xfinitytv.comcast.net. In addition, Comcast may send certain demographic information, like ZIP code, age, and gender to its advertising network providers, so that the advertising you see is more relevant to you. These advertising network providers will only use such information to display an ad to you on the Comcast Web Services. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out using the links provided here. Please note this does not opt you out of being served advertising. You will continue to receive generic advertisements.
-
-7\. Advertising Networks and Advertising Sold By Content Providers
-
-The advertising networks and/or content providers that deliver ads on the Comcast Web Services may use HTTP cookies and Flash cookies to uniquely distinguish your web browser and keep track of information relating to serving ads on your web browser, such as the type of ads shown and the web pages on which the ads appeared. In addition, the third parties that provide Web Log services for Comcast may use cookies to uniquely distinguish your web browser and to keep track of the Websites that your web browser visits across the service provider's network of Websites. For more information on controlling HTTP cookies, please visit our "Customer Control" FAQ [here](http://customer.comcast.com/%28S%28shfddi55euzxgy55jkrbmi45%29%29/Pages/FaqDisplay.aspx?Guid=dfcbf43e-91b2-4444-a04d-8d7c68fcb356#custcontrol). Cookie management tools provided by your browser may not affect Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
-
-Some of these companies may combine information they collect from the Comcast Web Services with other informationthey have independently collected relating to your web browser's activities across their network of Websites.These companies collect and use this information (which may include personally identifiable information or information that can be used to contact you online) under their own privacy policies. More information about thesecompanies, their privacy policies, and the opt-outs they offer can be found here:
-
-[Content providers that sell ads on the Comcast Web Services](https://web.archive.org/privacy/providers/)
+The Comcast Web Services comply with the applicable rules of the Digital Advertising Alliance's (DAA) "Ad Choices" program. The Ad Choices program permits you to opt out of receiving online behavioral advertising by making choices at
 
 ### [Ad Choices](https://web.archive.org/adinformation/)
 
-8\. Communicating with You 
+7\. Advertisements sold or purchased by Comcast
+
+Comcast, or third parties acting at Comcast's request, may deliver advertisements to you through the Comcast Web Services and other websites, depending on whether you are a registered user or not, as described in more detail below.
+
+## All Users
+
+We, or our advertising providers, automatically deliver ads to all users on the Comcast Web Services, whether the users are registered or not, based on non-personal information including: (i) the IP address associated with your device for purposes of determining your approximate geographic location; (ii) the type of web page that is being displayed, such as a news or sports page; or (iii) the content on the page that is shown, such as a sports article about a certain team or a movie review for a particular movie. Because this advertising activity automatically applies to all users and it is purely contextual, this type of advertising delivery cannot be customized or controlled by individual users.
+
+We may also use one or more advertising networks and/or other audience segmenting technology providers to help select and deliver: advertisements sold by Comcast on the Comcast Web Services and other websites, other content on the Comcast Web Services, and Comcast-purchased advertisements on other websites. These providers help us deliver advertisements or content tailored to interests you have shown by the way you interact with the Comcast Web Services, and other websites and web-based content that contains their technology, such as opening an HTML-formatted e-mail that contains their web beacon. This is intended to provide you with an opportunity to look at advertising that may be of interest to you. These providers may collect and use data subject to their own privacy policies, not Comcast's Web Services Privacy Policy. If you do not want the benefits of the data collected by these providers, you may opt-out here:
+
+### [Ad Choices](https://web.archive.org/adinformation/)
+
+## Registered Users
+
+If you are a registered user, Comcast, or service providers acting at Comcast's request, may use Your Data, regardless of where we gathered such information, to determine what type of ad to display to you on the Comcast Web Services and other websites. For example, Comcast may use portions of Your Data that it gathered on www.comcast.net to determine which ad to show you when you visit xfinitytv.comcast.net. In addition, some of the graphical display, text, and other ads sold or purchased by Comcast on the Comcast Web Services and other websites are customized for you based on the ZIP code of your XFINITY Internet service address, information about your current subscription, or use of Comcast products and services. If you do not want this information to be used to serve you targeted ads, you may opt-out [here](https://web.archive.org/adinformation/). Please note this does not opt you out of being served advertising. You will continue to receive generic advertisements.
+
+8\. Advertising Networks and Advertising Sold By Content Providers
+
+The advertising networks and/or content providers that deliver ads on the Comcast Web Services may use technologies such as HTTP cookies and Flash cookies to uniquely distinguish your web browser and keep track of information relating to serving ads on your web browser, such as the type of ads shown and the web pages on which the ads appeared. In addition, the third parties that provide Web Log services for Comcast may use cookies to uniquely distinguish your web browser and to keep track of the Websites that your web browser visits across the service provider's network of Websites. For more information on controlling HTTP cookies, please visit our "Customer Control" FAQ [here](http://customer.comcast.com/%28S%28shfddi55euzxgy55jkrbmi45%29%29/Pages/FaqDisplay.aspx?Guid=dfcbf43e-91b2-4444-a04d-8d7c68fcb356#custcontrol). Cookie management tools provided by your browser may not affect Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+Some of these companies may combine information they collect in connection with the Comcast Web Services with other information they have independently collected relating to your web browser's activities across their network of Websites. These companies collect and use this information (which may include personally identifiable information or information that can be used to contact you online) under their own privacy policies. More information about these companies, their privacy policies, and the opt-outs they offer can be found [here](https://web.archive.org/adinformation/).
+
+9\. Communicating with You 
 
 Comcast may use your Registration Data to send you a confirmation e-mail verifying the ownership of the e-mail addresses provided in your Registration Data and to send you service-related communications about the Comcast Web Services. In addition, Comcast may send you promotional or commercial e-mail relating to each Comcast Web Services for which you have activated your account as permitted by applicable law. You can opt-out from receiving such promotional or commercial e-mail by following the instructions contained in the e-mails or by going to:
 
@@ -262,45 +274,45 @@ Non-members may elect to permanently opt-out from receiving invite requests from
 
 <http://www.plaxo.com/opt_out>
 
-9\. Signing in Using Non-Comcast Credentials 
+10\. Signing in Using Non-Comcast Credentials 
 
 Comcast may allow you to access portions of the Comcast Web Services by signing in using your username or other identifier from another Internet service (" **Non-Comcast Username** "). Comcast will treat your Non-Comcast Username and any additional data that the relevant Internet service provides to Comcast about you as Your Data. 
 
-10\. Participating in Blogs and Forums
+11\. Participating in Blogs and Forums
 
 If you post comments to any of the blogs, forums, or other editorial sections of the Comcast Web Services, any information you submit there can be read, collected, or used by other users of the Comcast Web Services and any PII you post could be used to contact you. We are not responsible for PII you choose to submit through these features.
 
 Children under the age of 13 should not post in any of the blogs, forums, or other editorial sections of the Comcast Web Services.
 
-11\. Security
+12\. Security
 
 Comcast uses industry standard approaches to securely store, control access to, and make appropriate use of Your Data, and we require our contractors and other providers to do so as well. However, no security measure is completely effective and Comcast cannot guarantee the complete security of Your Data. If you don't want Comcast to know any particular information about you, you should not register to use the Comcast Web Services or include it in anything that you submit or post to Comcast, including posts on the Comcast Sites or e-mails to Comcast. More information on Internet security can be found here: <http://security.comcast.net/>. 
 
-Comcast also takes additional steps to increase the security and reliability of customer communications. We do not read your outgoing or incoming e-mail, file attachments, video mail, private chat, or instant messages. However, we (along with our third party providers) use software and hardware tools to help prevent and block "spam" e-mails, viruses, spyware, and other harmful or unwanted communications and programs from bring sent and received over Comcast.net e-mail and the Comcast Sites. These tools may automatically scan your e-mails, video mails, instant messages, file attachments, and other files and communications in order to help us protect you and the Service against these harmful or unwanted communications and programs. You can learn more about Comcast's anti-spam approach at <http://customer.comcast.com/help-and-support/internet/reducing-spam-email/>.
+Comcast also takes additional steps to increase the security and reliability of customer communications. We do not read your outgoing or incoming e-mail, file attachments, video mail, private chat, or instant messages. However, we (along with our third party providers) use software and hardware tools to help prevent and block "spam" e-mails, viruses, spyware, and other harmful or unwanted communications and programs from being sent and received over Comcast.net e-mail and the Comcast Sites. These tools may automatically scan your e-mails, video mails, instant messages, file attachments, and other files and communications in order to help us protect you and the Service against these harmful or unwanted communications and programs. You can learn more about Comcast's anti-spam approach at <http://customer.comcast.com/help-and-support/internet/reducing-spam-email/>.
 
 We follow generally-accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us.
 
 As an additional security precaution, neither Comcast nor any of our authorized service providers will ask you for your Comcast password in an e-mail, over the telephone, or in an online support forum or chat area. **Do not give your Comcast password to anyone in an e-mail, over the telephone, or in an online support area**.
 
-12\. Disclosures of Information
+13\. Disclosures of Information
 
 Comcast holds customer privacy in the highest regard and we make every reasonable effort to protect your privacy as described in this Privacy Policy. Nevertheless, we may be required by law to disclose Personally Identifiable Information or other information about you or other users of the Comcast Web Services. These disclosures may be made with or without your consent, and with or without notice, in compliance with the terms of a subpoena, court order, search warrant, or other valid legal process. We may also disclose information about you or users of the Comcast Web Services when we believe in good faith that the disclosure of information is necessary to prevent financial loss, address suspected illegal activity, protect our rights or property, or prevent imminent physical harm.
 
-13\. Special Note About Children
+14\. Special Note About Children
 
 Comcast does not knowingly collect Personally Identifiable Information from anyone under the age of 13 through the Comcast Web Services. Children should always get permission from a parent or legal guardian before sending any information about themselves (such as their names, e-mail addresses, and telephone numbers) over the Internet, to Comcast or to anyone else.
 
-14\. Your California Privacy Rights
+15\. Your California Privacy Rights
 
 California law permits its residents to request and receive information about a business' disclosure of certain categories of PII to other companies for their use for direct marketing. If you are a California resident and a user of any of the Comcast Web Services, you can request a copy of this information from Comcast by sending e-mail to Comcast_Web_Privacy at Comcast dot com or a letter to Comcast Cable Communications Management, LLC, Attn: California Direct Marketing Information, One Comcast Center, Philadelphia, PA 19103. Please include your name and e-mail address in e-mail requests, and your name and postal address in mail requests.
 
-15\. Change of Ownership or Other Business Transaction
+16\. Change of Ownership or Other Business Transaction
 
 In the event Comcast enters into a business transition, such as a merger, acquisition, or the sale of all or part of its assets (a " **Business Transition** "), Your Data (including PII and non-PII associated with the Comcast Web Services) will likely be part of the assets transferred. 
 
 In this event, we will notify you of any Business Transition. We will also notify you of any subsequent material changes to this Privacy Policy as a result of a Business Transaction and give you the opportunity to opt-out for information that we have collected before, or may collect after, a new Privacy Policy containing material changes takes effect.
 
-16\. Plaxo
+17\. Plaxo
 
 The following terms in this section apply only to your use of the Plaxo Service and www.plaxo.com (collectively the " **Plaxo Offerings** "). 
 
@@ -320,7 +332,7 @@ To help Plaxo determine whether a piece of publicly available contact informatio
 
 Anyone, whether a Plaxo member or not, can prevent Plaxo from suggesting updates to their contact info as it appears in a Plaxo member's address book by [opting out](http://www.plaxo.com/optOut/nonMember).
 
-17\. Tunerfish
+18\. Tunerfish
 
 The following terms in this section apply only to your use of the Tunerfish Service and www.tunerfish.com (collectively the " **Tunerfish Offerings** ").
 
@@ -331,20 +343,20 @@ Comcast uses Your Data to enable you to use the Tunerfish Offerings as follows.
 
 
 
-18\. Changes to this Privacy Policy
+19\. Changes to this Privacy Policy
 
 Comcast reserves the right to change this Privacy Policy from time to time consistent with applicable privacy laws. When we do change it, we will make a copy of the updated Privacy Policy available to you before it takes effect. If we make material changes to this Privacy Policy, we will also notify you by e-mail, direct mail, or other reasonable methods that we select. In the event of material changes to this Privacy Policy, we will give you the opportunity to opt-out for information that we have collected before, or may collect after, a new Privacy Policy containing material changes takes effect.
 
 You understand and agree that if you use the Comcast Web Services after the effective date of the updated Privacy Policy, Comcast will consider your use as acceptance of the updated Privacy Policy.
 
-19\. International Visitors
+20\. International Visitors
 
 Our computer systems are currently based in the United States, so your PII will be processed by us in the United States, where data protection and privacy regulations may be different than other parts of the world, such as the European Union. If you create an online account to use the Comcast Sites as a visitor from outside the United States, you will have agreed to the terms of the Privacy Policy and our Web Services Terms of Service and you will have consented to the transfer to and processing of all such information in the United States, which many not offer an equivalent level of protection of that in the European Union or certain other countries. 
 
-20\. Contacting Comcast & Customer Support
+21\. Contacting Comcast & Customer Support
 
 You can direct questions regarding this Privacy Policy to Comcast by e-mailing us at Comcast_Web_Privacy at Comcast dot com. You can also send a letter by mail to Comcast Cable Communications Management, LLC, Attn: Web Services Privacy Policy Questions, One Comcast Center, Philadelphia, PA 19103 USA.
 
 You can find customer support and help information at <http://customer.comcast.com/Pages/Help.aspx>. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your device's or network's settings, or collect information from your device or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
 
-Revised and Effective: December 5, 2013
+Revised and Effective: January 17, 2015
