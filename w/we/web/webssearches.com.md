@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webssearches.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018203306id_/http%3A//airzip.webssearches.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webssearches.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512010418id_/http%3A//www.webssearches.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
