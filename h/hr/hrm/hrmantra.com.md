@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hrmantra.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107052058id_/http%3A//www.hrmantra.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrmantra.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511204817id_/http%3A//hrmantra.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # HR Software Solutions India, SaaS Service Provider India.
 
-HRMantra respects the confidentiality of anyone who uses this HRMantra Web site [www.HRMantra.com](https://web.archive.org/web/20141107052058id_/http%3A//www.hrmantra.com/Default.aspx) and HRMantra online applications. 
+HRMantra respects the confidentiality of anyone who uses this HRMantra Web site [www.HRMantra.com](https://web.archive.org/web/20150511204817id_/http%3A//hrmantra.com/Default.aspx) and HRMantra online applications. 
 
 HRMantra provides its service to you subject to the HRMantra software and services terms of service and this Privacy Policy, which shall be considered a part of the Terms of Service. We reserve the right to change this Privacy Policy anytime. We gather  important information from our customers and visitors. We publish this Privacy Policy to communicate how we gather and use information about our customers & visitors, how we protect it, and how you can participate in its protection. 
 
