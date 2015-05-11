@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126005817id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512011959id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | Bulbs.com
 
@@ -7,6 +7,8 @@ When you visit any Web site, your computer exchanges information with other comp
 At Bulbs.com, we take security very seriously. All of our employees have reviewed our privacy policy and must log in to a secure administration site with an username and password to view any customer/sales information. A Bulbs.com technical team checks our security monthly, so you can rest assured that your information is private. For transferring sensitive information such as credit card accounts, we rely on _Verisign_ secure encryption technology. 
 
 _If this policy is ever changed, all users will be notified via email of the changes._
+
+## Questions & Answers
 
 What visitor information does Bulbs.com gather or keep track of? Why? What does Bulbs.com do with this information? Does Bulbs.com ever share such information? With whom? Can I tell Bulbs.com not to gather or keep track of information I've provided? How? How do I correct or update my account information and order(s)? Can I have my name removed from Bulbs.com's active records? How? How do I contact Bulbs.com with any questions about this policy?
 
@@ -50,6 +52,8 @@ We record how many people visit each page on our Web site. This helps answer que
 We may also record which Web site or search engine referred you to Bulbs.com. This information enhances your shopping experience by making images look better, allowing pages to load more quickly and ensures Bulbs.com remains compatible with more browsers and systems. 
 
 When you visit Bulbs.com, we send you back a cookie - a list of data that enhances your shopping convenience. This information is only available to be sent back to the computer that sent it to you so that you can create a list of those items you are purchasing. 
+
+Bulbs.com uses Google AdWords Conversion Tracking — an analytics service provided by Google that tells us how many customers click on our Google Ads and proceed to place an order on the website. This is similar to your regular customer shopping experience on the website, but in this case a cookie is only placed when you click on a Google Ad. This cookie expires in 30 days and does not identify personal information about the customer. The cookie provides conversion data as it related to the Google ad that was clicked — allowing Bulbs.com to provide a better website experience to its customers. Users who do not want to participate in this tracking can easily disable the Google conversion tracking cookie on their Internet browser via the user settings. See the [Google Privacy Policy](http://www.google.com/policies/privacy/) for more information about conversion tracking and the ability to opt out. 
 
 Back to top
 
