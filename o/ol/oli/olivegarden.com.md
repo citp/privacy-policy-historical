@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the olivegarden.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020044010id_/http%3A//www.olivegarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivegarden.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511204351id_/http%3A//www.olivegarden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olive Garden Italian Restaurant
 
 ## Darden: Online Privacy Notice
 
-Effective Date: August 20, 2014 
+Effective Date: April 16, 2015 
 
 We at Darden Corporation, along with our affiliates (collectively, "Darden"), respect your concerns about privacy. This Privacy Notice applies to personal information we collect on the Darden websites on which we have posted this Privacy Notice (collectively, the "Sites"). 
 
@@ -54,6 +54,7 @@ We may use the information we obtain through the Sites to:
   * Offer and provide products and services to you;
   * Process and collect payments for gift cards;
   * Communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions;
+  * Combine it with information we receive offline to send you offers or promotions;
   * Send information to others if you ask us to do so;
   * Respond to and communicate with you about your requests, questions and comments;
   * Manage your application for employment with Darden and contact you in connection with potential employment opportunities;
