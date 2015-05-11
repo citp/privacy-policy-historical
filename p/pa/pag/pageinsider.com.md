@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageinsider.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229045321id_/http%3A//www.pageinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageinsider.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511114941id_/http%3A//www.pageinsider.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
