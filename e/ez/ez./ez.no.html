@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ez.no privacy policy that was archived on 2014-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140910080950id_/http%3A//ez.no/Privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ez.no privacy policy that was archived on 2015-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511170851id_/http%3A//ez.no/Privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="loaded"><head>
 
@@ -61,19 +61,19 @@
 </script><link rel="Alternate" href="/layout/set/print/Privacy-policy" media="print" title="Printable version">    <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="">
 <meta name="twitter:title" content="Privacy policy">
-<meta name="twitter:url" content="http://ez.no">    <meta name="twitter:creator" content="@ezsystems">    <meta name="twitter:image" content="http://ez.no/extension/ez_ezno/design/ezno_2011/images/ez-logo-twitter-card.png"><meta name="twitter:site" content="@ezsystems">
+<meta name="twitter:url" content="http://ez.no">    <meta name="twitter:creator" content="@ezsystems">    <meta name="twitter:image" content="https://ez.no/extension/ez_ezno/design/ezno_2011/images/ez-logo-twitter-card.png"><meta name="twitter:site" content="@ezsystems">
 <meta name="twitter:site:id" content="17441973">
     <meta property="fb:app_id" content="174721666040593">
     <meta property="og:title" content="Privacy policy">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://ez.no/Privacy-policy">    <meta property="og:image" content="http://ez.no/extension/ez_ezno/design/ezno_2011/images/ez-logo-open-graph.png"><meta property="og:description" content="">
+<meta property="og:url" content="http://ez.no/Privacy-policy">    <meta property="og:image" content="https://ez.no/extension/ez_ezno/design/ezno_2011/images/ez-logo-open-graph.png"><meta property="og:description" content="">
     
 
-    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/5e62af9aa91a7701138edca8185604c4_all.css">
+    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/8c6a8345e1283dcfd52ad2c33feab924_all.css">
 
 
 
-                <link rel="stylesheet" type="text/css" href="/extension/ez_ezno/design/ezno_2014/stylesheets/2014/landing_pages.css">
+                <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/75d40c4b07a49a477968a591d50f7c52_all.css">
 
         
     
@@ -83,7 +83,7 @@
 <link rel="stylesheet" type="text/css" href="/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print">
 
 <!-- Fontawesome for Bootstrap-->
-<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<link href="http://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" rel="stylesheet">
 
 <!-- Google Web Fonts -->
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic" rel="stylesheet" type="text/css">
@@ -98,7 +98,7 @@
 
 
 
-<script type="text/javascript" src="/extension/ez_ezno/design/ezno_2014/javascript/jquery-1.8.3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/87e98479c9eda9518aaac9674e656ead.js" charset="utf-8"></script>
 
 
 <script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/2084d574229eab7fb25f04922cdd3d89.js" charset="utf-8"></script>
@@ -108,6 +108,65 @@
 
 </head>
 <body>
+
+<!-- Privacy cookies: START -->
+
+<script>
+    $(document).ready(function() {
+        if ($.cookie('privacy') == null) {
+            $( "#navbar-privacy" ).animate({
+                opacity: 1,
+                height: "toggle"
+            }, 500, function() {
+                // Animation complete.
+            });
+        }
+    });
+
+    function optIn($opted){
+        $.cookie('privacy', 'agreed', {expires: new Date(2020, 0, 1, 1, 00, 00), path: '/' });
+
+        $( "#navbar-privacy" ).animate({
+            opacity: 0.25,
+            height: "toggle"
+        }, 500, function() {
+            // Animation complete.
+        });
+    }
+
+</script>
+
+
+<div class="navbar navbar-default navbar-fixed-bottom" id="navbar-privacy" style="overflow: hidden; opacity: 1;">
+        <div id="privacy" class="clearfix row privacy">
+            <div class="message col-md-offset-1 col-md-6">
+                <p>Cookies help us create a good experience. By using our website, you agree to our use of cookies.</p>
+            </div>
+            <div class="action col-md-4 col-md-offset-1">
+                <div class="btns attribute-link pull-left">
+                    <a class="btn btn-xs btn-primary" href="#" onclick="javascript:optIn()" title="Agree">
+                        OK
+                    </a>
+                </div>
+                                <div class="btns attribute-link pull-left">
+                    <a id="learn-more" class="btn btn-xs btn-secondary" href="/Privacy-policy" title="Learn More">
+                        <i class="fa fa-chevron-right"></i> Learn More
+                    </a>
+                </div>
+                <div class="btns attribute-link pull-right">
+                    <a class="btn btn-xs btn-secondary" href="#" onclick="javascript:optIn()" title="Agree">
+                        <i class="fa fa-times"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+</div>
+<!-- Privacy cookies: END -->
+
+<!-- Website Switcher: START -->
+
+<!-- Website Switcher: END -->
+
 
 <!--[if IE]><div id="ie"><![endif]-->
 
@@ -123,8 +182,8 @@
 <header class="header-3">
     
         <div id="hub" class="clearfix">
-            <div class="searchboxes pull-right">
 
+            <div class="searchboxes pull-right">
                 <form action="/content/search" role="form" class="navbar-form navbar-right">
     <label for="searchtext" class="hide">Search text:</label>
    
@@ -139,44 +198,138 @@
         </div>
 
 	    
-    </form>
+    </form>            </div>
+
+            <div id="languages" class="dropdown pull-right">
+                <div class="dropdown">
+    <a data-toggle="dropdown" href="#" class="btn btn-transparent dropdown-toggle">
+                                                
+
+            
+                <i id="current-language" class="eng"></i>English
+                <i class="fa fa-caret-down"></i>
+            </a>
+    <span class="dropdown-arrow"></span>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+        
+			
+				                        
+	                        	                        
+
+					<li class=" eng
+								 active								 first">
+
+						<a href="/eng">
+							<i class="eng"></i>
+							English
+							<span></span>
+						</a>
+					</li>
+								                        
+	                        	                        
+
+					<li class=" fr
+																">
+
+						<a href="/fr">
+							<i class="fr"></i>
+							Français
+							<span></span>
+						</a>
+					</li>
+								                        
+	                        	                        
+
+					<li class=" de
+																">
+
+						<a href="/de">
+							<i class="de"></i>
+							Deutsch
+							<span></span>
+						</a>
+					</li>
+								                        
+	                        	                        
+
+					<li class=" no
+																">
+
+						<a href="/no">
+							<i class="no"></i>
+							Norsk
+							<span></span>
+						</a>
+					</li>
+								                        
+	                        	                            	                        
+	                        	                        
+
+					<li class=" jp
+																">
+
+						<a href="/jp">
+							<i class="jp"></i>
+							日本語
+							<span></span>
+						</a>
+					</li>
+								                        
+	                        	                        
+
+					<li class=" pt
+																">
+
+						<a href="/pt">
+							<i class="pt"></i>
+							Português
+							<span></span>
+						</a>
+					</li>
+								                        
+	                        	                        
+
+					<li class=" fi
+																">
+
+						<a href="/fi">
+							<i class="fi"></i>
+							Suomi
+							<span></span>
+						</a>
+					</li>
+								                        
+	                        	                        
+
+					<li class=" se
+																">
+
+						<a href="/se">
+							<i class="se"></i>
+							Svenska
+							<span></span>
+						</a>
+					</li>
+								                        
+	                        	                        
+
+					<li class=" es
+																">
+
+						<a href="/es">
+							<i class="es"></i>
+							Español
+							<span></span>
+						</a>
+					</li>
+							    </ul>
+		
+		</div>
+
+
             </div>
 
-            <div id="header-social-connect" class="pull-right">
-
-                
-    	
-	
-		
-			<a href="http://www.youtube.com/user/ezpublish/" target="_blank">
-							<i class="fa fa-youtube"></i>
-					</a>
-		
-		
-			<a href="https://google.com/+ezsystems" target="_blank">
-							<i class="fa fa-google-plus"></i>
-					</a>
-		
-		
-			<a href="http://www.linkedin.com/groups?gid=2759&amp;trk=myg_ugrp_ovr" target="_blank">
-							<i class="fa fa-linkedin"></i>
-					</a>
-		
-		
-			<a href="https://www.facebook.com/eZPublishEnterprise" target="_blank">
-							<i class="fa fa-facebook"></i>
-					</a>
-		
-		
-			<a href="http://twitter.com/#!/ezsystems" target="_blank">
-							<i class="fa fa-twitter"></i>
-					</a>
-	
-             
-            </div>
-
-            <div id="links" class="pull-left">
-
+            <div id="links" class="pull-right">
                 
     	
 
@@ -214,116 +367,7 @@
 					</a>
 				</li>
 				
-						</ul>
-            </div>
-
-            <div id="languages" class="dropdown pull-left">
-
-                <div class="dropdown">
-    <a data-toggle="dropdown" href="#" class="btn btn-transparent dropdown-toggle">
-                                                
-
-            
-
-                English
-                <i class="fa fa-caret-down"></i>
-            </a>
-    <span class="dropdown-arrow"></span>
-    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-        
-			
-				                        
-	                        	                        
-					                	                	                    	                	                
-	                	                    	                									<li class=" eng
-								 active								 first">
-
-						<a href="#">
-							<i class="eng"></i>
-							English
-							<span></span>
-						</a>
-					</li>
-								                        
-	                        	                        
-					                	                	                    	                	                
-	                	                    
-	                    	                        	                        	                    
-	                    
-	                									<li class=" fr
-																">
-
-						<a href="/fr/Privacy-policy" "="" privacy-policy"="">
-							<i class="fr"></i>
-							Français
-							<span></span>
-						</a>
-					</li>
-								                        
-	                        	                        
-					                	                	                    	                	                
-	                	                    	                									<li class=" de
-																">
-
-						<a href="/de/Impressum-und-Datenschutz" "="" impressum-und-datenschutz"="">
-							<i class="de"></i>
-							Deutsch
-							<span></span>
-						</a>
-					</li>
-								                        
-	                        	                        
-					                	                	                    	                	                
-	                	                    
-	                    	                        	                        	                    
-	                    
-	                									<li class=" no
-																">
-
-						<a href="/no/Privacy-policy" "="" privacy-policy"="">
-							<i class="no"></i>
-							Norsk
-							<span></span>
-						</a>
-					</li>
-								                        
-	                        	                            	                        
-	                        	                        
-					                	                	                    	                	                
-	                	                    
-	                    	                        	                        	                    
-	                    
-	                									<li class=" jp
-																">
-
-						<a href="/jp/Privacy-policy" "="" privacy-policy"="">
-							<i class="jp"></i>
-							日本語
-							<span></span>
-						</a>
-					</li>
-								                        
-	                        	                        
-					                	                	                    	                	                
-	                	                    
-	                    	                        	                        	                    
-	                    
-	                									<li class=" pt
-																">
-
-						<a href="/pt/Privacy-policy" "="" privacy-policy"="">
-							<i class="pt"></i>
-							Português
-							<span></span>
-						</a>
-					</li>
-							    </ul>
-		
-		</div>
-
-
-
-            </div>
+						</ul>            </div>
 
         </div>
 
@@ -364,7 +408,7 @@
                     <ul class="dropdown-menu">
                         
                                                         
-                            <li id="node_id_2270" class="li-second-level ">
+                            <li id="node_id_21578" class="li-second-level ">
                                 <a href="/Products/The-eZ-Publish-Platform" title="The eZ Publish Platform">
                                 The eZ Publish Platform
                                 </a>
@@ -396,6 +440,14 @@
 
                         
                                                         
+                            <li id="node_id_22646" class="li-second-level ">
+                                <a href="/Products/Technology" title="Technology">
+                                Technology
+                                </a>
+                            </li>
+
+                        
+                                                        
                             <li id="node_id_14954" class="li-second-level ">
                                 <a href="/Products/Compare-Versions" title="Compare Versions">
                                 Compare Versions
@@ -413,8 +465,8 @@
                         
                                                         
                             <li id="node_id_20778" class="li-second-level ">
-                                <a href="/Products/Knowledge-Base" title="Knowledge Base">
-                                Knowledge Base
+                                <a href="/Products/Resources" title="Resources">
+                                Resources
                                 </a>
                             </li>
 
@@ -428,7 +480,7 @@
 
                         
                                                         
-                            <li id="node_id_2558" class="li-second-level ">
+                            <li id="node_id_20872" class="li-second-level ">
                                 <a href="/Products/About-our-Software" title="About our Software">
                                 About our Software
                                 </a>
@@ -508,17 +560,9 @@
 
                         
                                                         
-                            <li id="node_id_2271" class="li-second-level ">
-                                <a href="/Customers/Success-Stories" title="Success Stories">
-                                Success Stories
-                                </a>
-                            </li>
-
-                        
-                                                        
                             <li id="node_id_1825" class="li-second-level ">
-                                <a href="/Customers/By-Industry" title="By Industry">
-                                By Industry
+                                <a href="/Customers/Customers-by-Industry" title="Customers by Industry">
+                                Customers by Industry
                                 </a>
                             </li>
 
@@ -588,9 +632,17 @@
 
                         
                                                         
+                            <li id="node_id_20956" class="li-second-level ">
+                                <a href="/About-eZ/Careers" title="Careers">
+                                Careers
+                                </a>
+                            </li>
+
+                        
+                                                        
                             <li id="node_id_1839" class="li-second-level ">
-                                <a href="/About-eZ/Events-News" title="Events &amp; News">
-                                Events &amp; News
+                                <a href="/About-eZ/Events" title="Events">
+                                Events
                                 </a>
                             </li>
 
@@ -604,7 +656,7 @@
 
                         
                                                         
-                            <li id="node_id_1840" class="li-second-level ">
+                            <li id="node_id_24432" class="li-second-level ">
                                 <a href="/About-eZ/Contact-Us" title="Contact Us">
                                 Contact Us
                                 </a>
@@ -737,6 +789,45 @@
 
             <a href="/pt/Privacy-policy" "="" privacy-policy"="">
                 <i class="pt"></i>
+
+            </a>
+        </li>
+                    
+                
+                                                                        
+                            
+                                                                            
+                
+                            <li class="pull-right">
+
+            <a href="/fi/Privacy-policy" "="" privacy-policy"="">
+                <i class="fi"></i>
+
+            </a>
+        </li>
+                    
+                
+                                                                        
+                            
+                                                                            
+                
+                            <li class="pull-right">
+
+            <a href="/se/Privacy-policy" "="" privacy-policy"="">
+                <i class="se"></i>
+
+            </a>
+        </li>
+                    
+                
+                                                                        
+                            
+                                                                            
+                
+                            <li class="pull-right">
+
+            <a href="/es/Privacy-policy" "="" privacy-policy"="">
+                <i class="es"></i>
 
             </a>
         </li>
@@ -830,10 +921,22 @@ Privacy policy                    </h1>
 
                                                                 <div class="attribute-short">
                             
-<p>At eZ Systems, your privacy is important to us. For that reason, we have adopted this Privacy Policy to explain our information gathering practices. This policy may change over time, so you should check back for updates.</p>                        </div>
+<p>
+                        At eZ Systems, your privacy is important to us. For that reason, we have adopted this Privacy Policy to explain our information gathering practices. This policy may change over time, so you should check back for updates.
+            </p>                        </div>
                                                                 <div class="attribute-long">
                             
-<a name="eztoc213053_0_0_1" id="eztoc213053_0_0_1"></a><h4>No Required Information</h4><p>In general, you may visit our Web sites <a href="http://www.ez.no" target="_self">www.ez.no </a>or <a href="http://share.ez.no" target="_self">share.ez.no</a> without identifying yourself or revealing any personal information. eZ Systems collects domain information from your visit to customize and improve your experience on our Web site.</p><p>eZ Systems’ Web site(s) may collect certain information from your visit, including the date and time of your access, the pages you have accessed, the name of the Internet Service Provider and the Internet Protocol (IP) address by which you are accessing the Internet, and the Internet address from which you linked to our site, if applicable. We use this information to better understand how our Web site is being used so that we can improve its quality and make it more beneficial to our users.</p><a name="eztoc213053_0_0_2" id="eztoc213053_0_0_2"></a><h4>Personal Information</h4><p>Certain areas of our Web site may request personal information. If you choose to provide this information, the information will be used to respond to your requests for particular information about us or from our site. We may also use the personal information you provide to us to send you additional information about us by e-mail. You may, at any time, opt-out of receiving future e-mail communications from us by following the instructions in the e-mail you receive. Please note that you might start receiving e-mail communication again if you subsequently submit personal information at this Web site. We do not share any personal information you choose to provide to us with any third party.</p><a name="eztoc213053_0_0_3" id="eztoc213053_0_0_3"></a><h4>Linked Sites</h4><p>Our privacy policy only covers our Web sites at <a href="http://www.ez.no" target="_self">www.ez.no</a> and <a href="http://share.ez.no" target="_self">share.ez.no</a>. Some areas of our Web site might contain links to third party sites. We do not control the linked sites and we are not responsible for their privacy practices. We suggest that you check the privacy policies of these sites before providing any personal information to them.&nbsp;</p><a name="eztoc213053_0_0_4" id="eztoc213053_0_0_4"></a><h4>Community Site</h4><p>Our community site - located at <a href="http://share.ez.no" target="_self">share.ez.no</a> - may request personal details from you as part of your community profile. Any information you share is voluntary and might be accessible to other members of the community. Certain areas of the community are accessible to everyone.eZ Systems may terminate your community account if you engage in any practice that is, in eZ Systems' sole discretion, objectionable, unlawful, obscene, threatening or hateful, or that encourages conduct which would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, national or international law. &nbsp;</p>                        </div>
+<a name="eztoc213053_0_0_1" id="eztoc213053_0_0_1"></a><h4>No Required Information</h4><p>
+                        In general, you may visit our Web sites <a href="http://www.ez.no" target="_self">www.ez.no </a>or <a href="http://share.ez.no" target="_self">share.ez.no</a> without identifying yourself or revealing any personal information. eZ Systems collects domain information from your visit to customize and improve your experience on our Web site.
+            </p><p>
+                        eZ Systems’ Web site(s) may collect certain information from your visit, including the date and time of your access, the pages you have accessed, the name of the Internet Service Provider and the Internet Protocol (IP) address by which you are accessing the Internet, and the Internet address from which you linked to our site, if applicable. We use this information to better understand how our Web site is being used so that we can improve its quality and make it more beneficial to our users.
+            </p><a name="eztoc213053_0_0_2" id="eztoc213053_0_0_2"></a><h4>Personal Information</h4><p>
+                        Certain areas of our Web site may request personal information. If you choose to provide this information, the information will be used to respond to your requests for particular information about us or from our site. We may also use the personal information you provide to us to send you additional information about us by e-mail. You may, at any time, opt-out of receiving future e-mail communications from us by following the instructions in the e-mail you receive. Please note that you might start receiving e-mail communication again if you subsequently submit personal information at this Web site. We do not share any personal information you choose to provide to us with any third party.
+            </p><a name="eztoc213053_0_0_3" id="eztoc213053_0_0_3"></a><h4>Linked Sites</h4><p>
+                        Our privacy policy only covers our Web sites at <a href="http://www.ez.no" target="_self">www.ez.no</a> and <a href="http://share.ez.no" target="_self">share.ez.no</a>. Some areas of our Web site might contain links to third party sites. We do not control the linked sites and we are not responsible for their privacy practices. We suggest that you check the privacy policies of these sites before providing any personal information to them.&nbsp;
+            </p><a name="eztoc213053_0_0_4" id="eztoc213053_0_0_4"></a><h4>Community Site</h4><p>
+                        Our community site - located at <a href="http://share.ez.no" target="_self">share.ez.no</a> - may request personal details from you as part of your community profile. Any information you share is voluntary and might be accessible to other members of the community. Certain areas of the community are accessible to everyone.eZ Systems may terminate your community account if you engage in any practice that is, in eZ Systems' sole discretion, objectionable, unlawful, obscene, threatening or hateful, or that encourages conduct which would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, national or international law. &nbsp;
+            </p>                        </div>
                                        
                 </div>
             </div>
@@ -879,36 +982,16 @@ Privacy policy                    </h1>
 
 
 <div class=" col-xs-12 col-sm-12 col-md-4 col-lg-4">    
-     <a name="eztoc157686_0_0_0_0_1" id="eztoc157686_0_0_0_0_1"></a><h6>
-    	
-
-<i class="fa fa-rocket fa"> </i>PRODUCTS
-</h6>
+     <a name="eztoc157686_0_0_0_0_1" id="eztoc157686_0_0_0_0_1"></a><h6><i class="fa fa-rocket fa"> </i>PRODUCTS</h6>
 <ul>
 
-<li><a href="/Products/The-eZ-Publish-Platform" target="_self">
-    	
+<li><a href="/Products/The-eZ-Publish-Platform" target="_self"><i class="fa fa-angle-right fa"> </i>eZ Publish 5 Platform</a></li>
 
-<i class="fa fa-angle-right fa"> </i>eZ Publish 5 Platform
-</a></li>
+<li><a href="/Products/Compare-Versions" target="_self"><i class="fa fa-angle-right fa"> </i>Compare Versions</a></li>
 
-<li><a href="/Products/Compare-Versions" target="_self">
-    	
+<li><a href="/Products/Demos-Videos" target="_self"><i class="fa fa-angle-right fa"> </i>Demos &amp; Videos</a></li>
 
-<i class="fa fa-angle-right fa"> </i>Compare Versions
-</a></li>
-
-<li><a href="/Products/Demos-Videos" target="_self">
-    	
-
-<i class="fa fa-angle-right fa"> </i>Demos &amp; Videos
-</a></li>
-
-<li><a href="/Products/eZ-Market" target="_self">
-    	
-
-<i class="fa fa-angle-right fa"> </i>eZ Market
-</a></li>
+<li><a href="/Products/eZ-Market" target="_self"><i class="fa fa-angle-right fa"> </i>eZ Market</a></li>
 
 </ul>
 
@@ -918,42 +1001,18 @@ Privacy policy                    </h1>
 
 
 <div class=" col-xs-12 col-sm-12 col-md-4 col-lg-4">    
-     <a name="eztoc157686_0_0_0_0_2" id="eztoc157686_0_0_0_0_2"></a><h6>
-    	
-
-<i class="fa fa-user fa"> </i>eZ FOR YOU
-</h6>
+     <a name="eztoc157686_0_0_0_0_2" id="eztoc157686_0_0_0_0_2"></a><h6><i class="fa fa-user fa"> </i>eZ FOR YOU</h6>
 <ul>
 
-<li><a href="/Solutions/eZ-For-You/For-Executives" target="_self">
-    	
+<li><a href="/Solutions/eZ-For-You/For-Executives" target="_self"><i class="fa fa-angle-right fa"> </i>For Executives</a></li>
 
-<i class="fa fa-angle-right fa"> </i>For Executives
-</a></li>
+<li><a href="/Solutions/eZ-For-You/For-Online-Digital-Strategists" target="_self"><i class="fa fa-angle-right fa"> </i>For Online Digital Strategists</a></li>
 
-<li><a href="/Solutions/eZ-For-You/For-Online-Digital-Strategists" target="_self">
-    	
+<li><a href="/Solutions/eZ-For-You/For-Marketing-Professionals" target="_self"><i class="fa fa-angle-right fa"> </i>For Marketing Professionals</a></li>
 
-<i class="fa fa-angle-right fa"> </i>For Online Digital Strategists
-</a></li>
+<li><a href="/Solutions/eZ-For-You/For-Business-Systems-Managers" target="_self"><i class="fa fa-angle-right fa"> </i>For Business Systems Managers</a></li>
 
-<li><a href="/Solutions/eZ-For-You/For-Marketing-Professionals" target="_self">
-    	
-
-<i class="fa fa-angle-right fa"> </i>For Marketing Professionals
-</a></li>
-
-<li><a href="/Solutions/eZ-For-You/For-Business-Systems-Managers" target="_self">
-    	
-
-<i class="fa fa-angle-right fa"> </i>For Business Systems Managers
-</a></li>
-
-<li><a href="http://doc.ez.no" target="_blank">
-    	
-
-<i class="fa fa-angle-right fa"> </i>For Developers
-</a></li>
+<li><a href="http://doc.ez.no" target="_blank"><i class="fa fa-angle-right fa"> </i>For Developers</a></li>
 
 </ul>
 
@@ -963,36 +1022,16 @@ Privacy policy                    </h1>
 
 
 <div class=" col-xs-12 col-sm-12 col-md-4 col-lg-4">    
-     <a name="eztoc157686_0_0_0_0_3" id="eztoc157686_0_0_0_0_3"></a><h6>
-    	
-
-<i class="fa fa-thumbs-up fa"> </i>eZ DELIVERS RESULTS
-</h6>
+     <a name="eztoc157686_0_0_0_0_3" id="eztoc157686_0_0_0_0_3"></a><h6><i class="fa fa-thumbs-up fa"> </i>eZ DELIVERS RESULTS</h6>
 <ul>
 
-<li><a href="/Solutions/eZ-Delivers-Results/Monetize-Your-Content" target="_self">
-    	
+<li><a href="/Solutions/eZ-Delivers-Results/Monetize-Your-Content" target="_self"><i class="fa fa-angle-right fa"> </i>Monetize Your Content</a></li>
 
-<i class="fa fa-angle-right fa"> </i>Monetize Your Content
-</a></li>
+<li><a href="/Solutions/eZ-Delivers-Results/Digitize-Your-Business" target="_self"><i class="fa fa-angle-right fa"> </i>Digitalize Your Business</a></li>
 
-<li><a href="/Solutions/eZ-Delivers-Results/Digitize-Your-Business" target="_self">
-    	
+<li><a href="/Solutions/eZ-Delivers-Results/Deliver-a-Better-Brand-Experience" target="_self"><i class="fa fa-angle-right fa"> </i>Deliver a Better Brand Experience</a></li>
 
-<i class="fa fa-angle-right fa"> </i>Digitalize Your Business
-</a></li>
-
-<li><a href="/Solutions/eZ-Delivers-Results/Deliver-a-Better-Brand-Experience" target="_self">
-    	
-
-<i class="fa fa-angle-right fa"> </i>Deliver a Better Brand Experience
-</a></li>
-
-<li><a href="/Solutions/eZ-Delivers-Results/Engage-With-Customers" target="_self">
-    	
-
-<i class="fa fa-angle-right fa"> </i>Engage With Customer
-</a></li>
+<li><a href="/Solutions/eZ-Delivers-Results/Engage-With-Customers" target="_self"><i class="fa fa-angle-right fa"> </i>Engage With Customer</a></li>
 
 </ul>
 
@@ -1038,15 +1077,21 @@ Privacy policy                    </h1>
 			</div>
 </div>
 </div><p>
+                        
 &nbsp;<br>
-eZ Systems has been providing Web Content Management Solutions since 1999. With a global presence in Europe, Asia and the Americas, we are the power platform driving more than 250,000 sites in over 170 countries.<br><a href="/About-eZ/Contact-Us" target="_self">Cologne, London </a>,<a href="/About-eZ/Contact-Us" id="__mce_tmp" target="_self">&nbsp;Lyon, New York</a>,<a href="/About-eZ/Contact-Us" id="__mce_tmp" target="_self">&nbsp;Oslo, Paris</a>,<a href="/About-eZ/Contact-Us" id="__mce_tmp" target="_self">&nbsp;Skien, Katowice, Lisbon, Tokyo</a></p>
+eZ Systems has been providing Web Content Management Solutions since 1999. With a global presence in Europe, Asia and the Americas, we are the power platform driving more than 250,000 sites in over 170 countries.<br><a href="/" target="_self">Cologne, London </a>,<a href="/" id="__mce_tmp" target="_self">&nbsp;Lyon, New York</a>,<a href="/" id="__mce_tmp" target="_self">&nbsp;Oslo, Paris</a>,<a href="/" id="__mce_tmp" target="_self">&nbsp;Skien, Katowice, Lisbon, Tokyo</a>
+            </p>
 </div>
 
 				
 			
 
 <div class=" col-xs-12 col-sm-3 col-md-3 col-lg-3 col-sm-offset-1 col-md-offset-1 col-lg-offset-1">    
-     <a name="eztoc157431_0_0_0_0_1" id="eztoc157431_0_0_0_0_1"></a><h6>Subscribe</h6><p>Sign up if you would like to receive occasional information from eZ.</p><p>&nbsp;</p><div id="MAform-f32e608a-4512-4031-b573-4c61216d7126">
+     <a name="eztoc157431_0_0_0_0_1" id="eztoc157431_0_0_0_0_1"></a><h6>Subscribe</h6><p>
+                        Sign up if you would like to receive occasional information from eZ.
+            </p><p>
+                        &nbsp;
+            </p><div id="MAform-f32e608a-4512-4031-b573-4c61216d7126">
     <script type="text/javascript" src="http://forms.ez.no/f32e608a-4512-4031-b573-4c61216d7126/form.js"></script>
 </div>
 
@@ -1056,27 +1101,9 @@ eZ Systems has been providing Web Content Management Solutions since 1999. With 
 			
 	
 <div class=" col-xs-12 col-sm-4 col-md-4 col-lg-4 col-sm-offset-1 col-md-offset-1 col-lg-offset-1 footer-social">    
-     <a name="eztoc157431_0_0_0_0_2" id="eztoc157431_0_0_0_0_2"></a><h6>We're social</h6><p><a href="http://www.youtube.com/user/ezpublish/" target="_blank">
-    	
-
-<i class="fa fa-youtube fa"> </i>
-</a> <a href="https://google.com/+ezsystems" target="_blank">
-    	
-
-<i class="fa fa-google-plus fa"> </i>
-</a> <a href="http://www.linkedin.com/groups?gid=2759&amp;trk=myg_ugrp_ovr" target="_blank">
-    	
-
-<i class="fa fa-linkedin fa"> </i>
-</a> <a href="https://www.facebook.com/eZPublishEnterprise" target="_blank">
-    	
-
-<i class="fa fa-facebook fa"> </i>
-</a> <a href="http://twitter.com/#!/ezsystems" target="_self">
-    	
-
-<i class="fa fa-twitter fa"> </i>
-</a></p>
+     <a name="eztoc157431_0_0_0_0_2" id="eztoc157431_0_0_0_0_2"></a><h6>We're social</h6><p>
+                        <a href="http://www.youtube.com/user/ezpublish/" target="_blank"><i class="fa fa-youtube fa"> </i></a> <a href="https://google.com/+ezsystems" target="_blank"><i class="fa fa-google-plus fa"> </i></a> <a href="http://www.linkedin.com/groups?gid=2759&amp;trk=myg_ugrp_ovr" target="_blank"><i class="fa fa-linkedin fa"> </i></a> <a href="https://www.facebook.com/eZPublishEnterprise" target="_blank"><i class="fa fa-facebook fa"> </i></a> <a href="http://twitter.com/#!/ezsystems" target="_self"><i class="fa fa-twitter fa"> </i></a>
+            </p>
 </div>	            </div>
 	        </div>
 	    </section>
@@ -1087,8 +1114,10 @@ eZ Systems has been providing Web Content Management Solutions since 1999. With 
 	                <div id="footer-connect-copyright" class="col-sm-12">
 	                    
 <p>
-Copyright © 2014 eZ Systems AS (except where otherwise noted). All rights reserved. <a href="/Privacy-policy" target="_self">Privacy policy</a><br>
-&nbsp;<br>Powered by <a href="http://ez.no/ezpublish" title="eZ Publish Platform" target="_self">the eZ Publish Platform</a>.</p>    
+                        
+Copyright © 2015 eZ Systems AS (except where otherwise noted). All rights reserved. <a href="/Privacy-policy" target="_self">Privacy policy</a><br>
+&nbsp;<br>Powered by <a href="http://ez.no/ezpublish" title="eZ Publish Platform" target="_self">the eZ Publish Platform</a>.
+            </p>    
 	                </div>
 	            </div>
 	        </div>
@@ -1177,7 +1206,7 @@ Copyright © 2014 eZ Systems AS (except where otherwise noted). All rights reser
                     <ul class="dropdown-menu">
                         
                                                         
-                            <li id="node_id_2270" class="li-second-level ">
+                            <li id="node_id_21578" class="li-second-level ">
                                 <a href="/Products/The-eZ-Publish-Platform" title="The eZ Publish Platform">
                                 The eZ Publish Platform
                                 </a>
@@ -1209,6 +1238,14 @@ Copyright © 2014 eZ Systems AS (except where otherwise noted). All rights reser
 
                         
                                                         
+                            <li id="node_id_22646" class="li-second-level ">
+                                <a href="/Products/Technology" title="Technology">
+                                Technology
+                                </a>
+                            </li>
+
+                        
+                                                        
                             <li id="node_id_14954" class="li-second-level ">
                                 <a href="/Products/Compare-Versions" title="Compare Versions">
                                 Compare Versions
@@ -1226,8 +1263,8 @@ Copyright © 2014 eZ Systems AS (except where otherwise noted). All rights reser
                         
                                                         
                             <li id="node_id_20778" class="li-second-level ">
-                                <a href="/Products/Knowledge-Base" title="Knowledge Base">
-                                Knowledge Base
+                                <a href="/Products/Resources" title="Resources">
+                                Resources
                                 </a>
                             </li>
 
@@ -1241,7 +1278,7 @@ Copyright © 2014 eZ Systems AS (except where otherwise noted). All rights reser
 
                         
                                                         
-                            <li id="node_id_2558" class="li-second-level ">
+                            <li id="node_id_20872" class="li-second-level ">
                                 <a href="/Products/About-our-Software" title="About our Software">
                                 About our Software
                                 </a>
@@ -1321,17 +1358,9 @@ Copyright © 2014 eZ Systems AS (except where otherwise noted). All rights reser
 
                         
                                                         
-                            <li id="node_id_2271" class="li-second-level ">
-                                <a href="/Customers/Success-Stories" title="Success Stories">
-                                Success Stories
-                                </a>
-                            </li>
-
-                        
-                                                        
                             <li id="node_id_1825" class="li-second-level ">
-                                <a href="/Customers/By-Industry" title="By Industry">
-                                By Industry
+                                <a href="/Customers/Customers-by-Industry" title="Customers by Industry">
+                                Customers by Industry
                                 </a>
                             </li>
 
@@ -1401,9 +1430,17 @@ Copyright © 2014 eZ Systems AS (except where otherwise noted). All rights reser
 
                         
                                                         
+                            <li id="node_id_20956" class="li-second-level ">
+                                <a href="/About-eZ/Careers" title="Careers">
+                                Careers
+                                </a>
+                            </li>
+
+                        
+                                                        
                             <li id="node_id_1839" class="li-second-level ">
-                                <a href="/About-eZ/Events-News" title="Events &amp; News">
-                                Events &amp; News
+                                <a href="/About-eZ/Events" title="Events">
+                                Events
                                 </a>
                             </li>
 
@@ -1417,7 +1454,7 @@ Copyright © 2014 eZ Systems AS (except where otherwise noted). All rights reser
 
                         
                                                         
-                            <li id="node_id_1840" class="li-second-level ">
+                            <li id="node_id_24432" class="li-second-level ">
                                 <a href="/About-eZ/Contact-Us" title="Contact Us">
                                 Contact Us
                                 </a>
@@ -1550,6 +1587,45 @@ Copyright © 2014 eZ Systems AS (except where otherwise noted). All rights reser
 
             <a href="/pt/Privacy-policy" "="" privacy-policy"="">
                 <i class="pt"></i>
+
+            </a>
+        </li>
+                    
+                
+                                                                        
+                            
+                                                                            
+                
+                            <li class="pull-right">
+
+            <a href="/fi/Privacy-policy" "="" privacy-policy"="">
+                <i class="fi"></i>
+
+            </a>
+        </li>
+                    
+                
+                                                                        
+                            
+                                                                            
+                
+                            <li class="pull-right">
+
+            <a href="/se/Privacy-policy" "="" privacy-policy"="">
+                <i class="se"></i>
+
+            </a>
+        </li>
+                    
+                
+                                                                        
+                            
+                                                                            
+                
+                            <li class="pull-right">
+
+            <a href="/es/Privacy-policy" "="" privacy-policy"="">
+                <i class="es"></i>
 
             </a>
         </li>
