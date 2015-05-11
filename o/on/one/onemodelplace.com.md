@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemodelplace.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231030943id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemodelplace.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511111607id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.*
 
 # One Model Place - Privacy Statement
 
