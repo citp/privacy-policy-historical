@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430081851id_/http%3A//cc.cc/privacy_statment/privacy_statment.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511154402id_/http%3A//cc.cc/privacy_statment/privacy_statment.php) for the most accurate reproduction.*
 
-# CC.CC url shortener that pays you. Shorten urls and earn money!
+# CC.CC - Screen Capture that pays you. Screen capture and earn money!
 
 CC.CC Network Privacy Statement
 
