@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacydr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082402id_/http%3A//www.privacydr.com/docs/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacydr.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511023516id_/http%3A//privacydr.com/docs/pp.php) for the most accurate reproduction.*
 
 # 
 
@@ -53,3 +53,6 @@ We may change this Privacy Policy at any time without notice to you in order to 
 Acceptance of Terms 
 
 By using the PrivacyDr services, accessing the PrivacyDr web site and/or PrivacyDr software sites, or purchasing PrivacyDr products you are consenting to the practices relating to information collection and use that are described in this Privacy Policy. 
+
+Operated by EuroTrade A.L Ltd   
++1(855)7343597
