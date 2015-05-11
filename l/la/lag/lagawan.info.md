@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lagawan.info privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805095421id_/http%3A//www.lagawan.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagawan.info privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511091427id_/http%3A//www.lagawan.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | lagawan.info
+# Privacy Policy | Lagawan
 
 **Lagawan** respects your privacy and is committed to safeguarding it while you are online at my site www.lagawan.info. The following discloses the information gathering and dissemination practices for this Web site.
 
