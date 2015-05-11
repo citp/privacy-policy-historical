@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addocart.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813095050id_/http%3A//www.addocart.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addocart.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511150248id_/http%3A//www.addocart.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Most of the information collected in the registration process will be used to pr
 
 ## Cookies
 
-We customize certain Web page content based upon your browser type and other information provided by our cookie. If you choose to reject the cookie, you can still browse our store but will be unable to use the shopping cart to buy merchandise. The [Addocart.com](http://www.addocart.com/) shopping cart cannot function without cookies enabled so that the necessary information to process your order is retained. If you disable cookies, [Addocart.com](http://www.addocart.com/) will be unable to accept your online order. We will not share any personally identifiable information provided by this cookie with any third party. We will, however, link data stored in cookies to the personally identifiable information you submitted while on our site. This allows us to personalize your shopping experience and discern user preferences to evoke subconscious feelings of familiarity and assurance.
+We customize certain Web page content based upon your browser type and other information provided by our cookie. If you choose to reject the cookie, you can still browse our store but will be unable to use the shopping cart to buy merchandise. The [Addocart.com](http://www.addocart.com/) shopping cart cannot function without cookies enabled so that the necessary information to process your order is retained. If you disable cookies, [Addocart.com](http://www.addocart.com/) will be unable to accept your online order. We will not share any personally identifiable information provided by this cookie with any third party. We will, however, link data stored in cookies to the personally identifiable information you submitted while on our site. This allows us to personalize your shopping experience and discern user preferences to evoke subconscious feelings of familiarity and assurance. 
 
   * Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
   * This privacy statement covers the use of cookies by [Addocart.com](http://www.addocart.com/) only and does not cover the use of cookies by any advertisers.
