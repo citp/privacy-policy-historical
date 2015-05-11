@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virool.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223125422id_/http%3A//www.virool.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virool.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511034913id_/http%3A//www.virool.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virool
 
@@ -62,7 +62,7 @@ We may occasionally update this Policy. When we do, we will also revise the effe
 
 **Contacting Us**
 
-If you have any questions, comments or concerns about this Policy, please email us at [[privacy@virool.com](mailto:privacy@sharethrough.com)]. You may also contact us by calling
+If you have any questions, comments or concerns about this Policy, please email us at [[privacy@virool.com](mailto:privacy@virool.com)]. You may also contact us by calling
 
 (415) 735-5560 or sending a letter to:
 
