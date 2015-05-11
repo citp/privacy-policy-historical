@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammoseek.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016014448id_/http%3A//ammoseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoseek.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511054752id_/http%3A//ammoseek.com/privacy.html) for the most accurate reproduction.*
 
 # Ammoseek.com Privacy Policy
 
@@ -11,7 +11,7 @@ Thank you for visiting AmmoSeek.com. This privacy policy tells you how we use pe
 **Note** : the privacy practices set forth in this privacy policy are for this AmmoSeek.com only. If you link to other web sites, please review the privacy policies posted at those sites.
 
 **Collection of Information**  
-We collect personally identifiable information, like [names](http://ammoseek.com/ash2014_puzz2_9c278hcfk.jpg), postal addresses, email addresses, etc., ONLY when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. 
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., ONLY when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. 
 
 **Cookie/Tracking Technology**  
 AmmoSeek.com may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the site. Cookies can also help customize the site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
