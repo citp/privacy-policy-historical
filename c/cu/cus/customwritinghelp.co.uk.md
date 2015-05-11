@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customwritinghelp.co.uk privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706040944id_/http%3A//www.customwritinghelp.co.uk/cwh/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customwritinghelp.co.uk privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511042805id_/http%3A//www.customwritinghelp.co.uk/cwh/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement - Assures Privacy Concerns of Students
 
