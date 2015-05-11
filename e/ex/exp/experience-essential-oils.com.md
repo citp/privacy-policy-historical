@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701084437id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511141413id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -56,41 +56,37 @@ Your use of this site indicates acceptance of this privacy policy. Thank you for
 
 [Return from **Privacy Policy** to **Experience Essential Oils**](http://www.experience-essential-oils.com/)
 
-**Share this page:  **  
+_**Ready to Discover All of   YOU in 2015?**_
+
+[ **Find the Gift of You   and Your Inner GPS with Nan's Coaching and Intuitive Guidance **](http://www.experience-essential-oils.com/nan-martin-client-testimonials.html)  
 
 
-What's This?
+_**  **__**"Nan's   coaching helped me quickly change my self-sabotaging beliefs so I could discover &  follow my dream career!"-Deb C.**_
 
-| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...  
-  
+ _ **  "Nan nails it and gets right to the core root issues every time I work with her.  What a fantastic investment for yourself!"-Diane G.**_
+
+[ **NanMartinCoaching.com**](http://www.nanmartincoaching.com/)  
+
+
+* * *
+
+[_**Want to Transform Stress to Success?**_](http://www.experiencestressfreeliving.com/stress-less-transforming-stress-to-success.html)
+
+ _ **Read Nan's Book!  
+**_
+
+**Learn howEssential Oils and Coaching can help you _Break Through Emotional Barriers Now_! **
+
+[**Listen to the Free Teleseminar Here!**](http://www.experience-essential-oils.com/breaking-through-emotional-barriers-with-essential-oils.html)  
+
+
+* * *
+
 ### **_Sign up for the Free E-zine and Receive  
 _**
 
 _a copy of_   
 **_"How Therapeutic Essential Oils Help Us Recover our Emotional Wellbeing One Oil at a Time!"_**
-
-* * *
-
-_**Ready to Change Your Life?**_
-
-[ **Find Your True Inner Self with Intuitive Life Coaching with Nan**](http://www.experience-essential-oils.com/nan-martin-client-testimonials.html)  
-
-
- _ **  "Nan's intuitive coaching has helped me make the necessary changes in my life so I could follow my dream career.  I have attracted so many more rewarding experiences into my life since meeting Nan, I am so blessed!"-Deb C.**_
-
-  
- _ **  "Nan nails it and gets right to the core root issues every time I work with her.  What a fantastic investment for yourself!"-Diane G.**_
-
-* * *
-
-**Learn how Essential Oils and Coaching can help you _Break Through Emotional Barriers Now_! **
-
-[**Listen to the Free Teleseminar Here!**](http://www.experience-essential-oils.com/breaking-through-emotional-barriers-with-essential-oils.html)  
-
 
 * * *
 
