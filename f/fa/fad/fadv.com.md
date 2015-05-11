@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221212121id_/http%3A//fadv.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511053740id_/http%3A//fadv.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,12 +8,12 @@ First Advantage has a separate privacy statement that applies to personal inform
 * * *
 
 **Canada & Singapore Data Protection Officer**  
-Our **Data Protection Officer** for Canada and Singapore is **Kerstin Bagus**.
+Our **Data Protection Officer** for Canada and Singapore is **Bret Jardine, Esq.**
 
 To request information or receive **help with data protection issues** , contact our Data Protection Officer at: 
 
-Kerstin.Bagus@fadv.com  
-Singapore: +1.678.710.7138 direct: +65 6534 3262  
+Bret Jardine, Esq.  
+Singapore: +1.678.710.7260 direct: +65 6534 3262  
 Canada: 800.833.7511
 
 **All other requests, including customer and job applicant, help, support or additional information please [visit our contact page](https://web.archive.org/our-company/contact-support.aspx) or call:**
@@ -21,7 +21,7 @@ Canada: 800.833.7511
 U.S. client support: 800.888.5773  
 APAC client support: +65 6534 3262  
 Canadian client support: 1.800.833.7511  
-EMEA client support: +44 (0) 8448 243 401
+EMEA client support: +44 (0) 8448 24 34 44
 
 * * *
 
@@ -118,10 +118,10 @@ Personal Information Disclosure: United States or Overseas – In connection wit
 To obtain additional information about the privacy practices and policies of First Advantage in connection with its preparation and processing of investigative consumer reports, please contact: 
 
 First Advantage Corporation  
-Kerstin Bagus  
-Director, Global Regulatory Compliance  
+Bret Jardine, Esq.  
+General Counsel  
 United States  
-+1-678-710-7138  
++1.678.710.7260  
 privacy@fadv.com
 
 For additional information about privacy or consumer reporting, visit the following Web sites: 
@@ -319,10 +319,10 @@ To request information relating to your EU Personal Data, please contact: 
 privacy@fadv.com. If you have questions regarding our Safe Harbor Privacy Policy contact:  
 
 First Advantage Corporation  
-Kerstin Bagus  
-Director, Global Regulatory Compliance  
+Bret Jardine, Esq.  
+General Counsel  
 United States  
-+1-678-710-7138  
++1.678.710.7260  
 privacy@fadv.com
 
 **Switzerland Safe Harbor Privacy Policy**
@@ -419,10 +419,10 @@ To request information relating to your Switzerland Personal Data, please contac
 If you have questions regarding our Safe Harbor Privacy Policy contact:  
 
 First Advantage Corporation  
-Kerstin Bagus  
-Director, Global Regulatory Compliance  
+Bret Jardine, Esq.  
+General Counsel  
 United States  
-+1-678-710-7138  
++1.678.710.7260  
 privacy@fadv.com[](mailto:privacy@fadv.com)
 
 **Australian and New Zealand Privacy Policy**
