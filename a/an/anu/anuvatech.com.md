@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the anuvatech.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921060146id_/http%3A//www.anuvatech.com/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anuvatech.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511111712id_/http%3A//www.anuvatech.com/about-us/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# SEO Privacy Policy | Consider Us For Private Label SEO Services
+
+## Privacy Policy
 
 Our goal is to provide an Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, from time to time we may collect information during your visits. This Privacy Policy is designed to help you learn more about the personal information we collect, who we might share it with, and how we protect it.
 
-**Note** :Additional terms and conditions, if any, regarding the collection and use of your information may also be provided to you before you sign up for a particular ANUVA Technologies service - privacy policies for those services will be linked from those particular areas or sections of our site.
+Note:Additional terms and conditions, if any, regarding the collection and use of your information may also be provided to you before you sign up for a particular ANUVA Technologies service - privacy policies for those services will be linked from those particular areas or sections of our site.
 
 ## What Information Do We Collect?
 
@@ -20,9 +22,7 @@ ANUVA Technologies records and saves information about you from our web server l
 
 ## Information from Cookies
 
-In order to offer and provide you with personalized services, ANUVA Technologies may use "cookies" to store and help track your information. A cookie is a piece of data that identifies you as a unique user. ANUVA Technologies will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.
-
-**Note:** Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies. You should be aware though that some parts of the ANUVA Technologies Web sites and services may not function properly if you refuse cookies.
+In order to offer and provide you with personalized services, ANUVA Technologies may use "cookies" to store and help track your information. A cookie is a piece of data that identifies you as a unique user. ANUVA Technologies will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order. Note: Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies. You should be aware though that some parts of the ANUVA Technologies Web sites and services may not function properly if you refuse cookies.
 
 ## Links to Other Sites
 
@@ -30,9 +30,7 @@ ANUVA Technologies encourages you to review the privacy statements of Web sites 
 
 ## Use or Disclosure of your Personal Information to Third Parties and Co-Brand Partners
 
-ANUVA Technologies will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission. ANUVA Technologies may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on ANUVA Technologies, protect and defend the rights or property of ANUVA Technologies or act under exigent circumstances to protect the personal safety of users of ANUVA Technologies or members of the public.
-
-Certain ANUVA Technologies services and content may be co-branded with another company. If you register for or use such services, both ANUVA Technologies and the other company may receive information collected in conjunction with the co-branded services. In such cases, either a joint privacy statement or a link to the other company's privacy statement will be provided, which will provide you with information about how the other company will use the information and how you can contact the other company with requests to access the information or other inquiries.
+ANUVA Technologies will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission. ANUVA Technologies may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on ANUVA Technologies, protect and defend the rights or property of ANUVA Technologies or act under exigent circumstances to protect the personal safety of users of ANUVA Technologies or members of the public. Certain ANUVA Technologies services and content may be co-branded with another company. If you register for or use such services, both ANUVA Technologies and the other company may receive information collected in conjunction with the co-branded services. In such cases, either a joint privacy statement or a link to the other company's privacy statement will be provided, which will provide you with information about how the other company will use the information and how you can contact the other company with requests to access the information or other inquiries.
 
 ## Protecting Your Information
 
@@ -42,4 +40,4 @@ While ANUVA Technologies is committed to protecting your personal information, n
 
 When you sign up for ANUVA Technologies's products and service, we may send you an e-mail confirming your new account. The message will be sent to the address that you supplied to us at the time of sign-up and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services.
 
-We would be happy to talk to you for any queries you might have. [Contact Us](https://web.archive.org/web/20140921060146id_/http%3A//www.anuvatech.com/contactus.php) and we would gladly call you back.
+We would be happy to talk to you for any queries you might have. [Contact Us](https://web.archive.org/web/20150511111712id_/http%3A//www.anuvatech.com/contact-us.php) and we would gladly call you back. 
