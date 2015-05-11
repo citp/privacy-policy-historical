@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227020430id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511053728id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
 
-# Privacy Policy - Care.com
+# About Care.com
 
-**(POSTED JUNE 14, 2013. EFFECTIVE IMMEDIATELY FOR USERS WHO JOIN CARE.COM ON OR AFTER JUNE 14, 2013 AND ON AUGUST 20, 2013 FOR USERS WHO JOINED CARE.COM PRIOR TO JUNE 14, 2013. SUPERSEDES ALL PREVIOUS VERSIONS OF THE CARE.COM PRIVACY POLICY.)**
+**Last Updated: January 2, 2015**
 
 Care.com offers various services to help its users find, coordinate, and maintain quality care. Care.com's Privacy Policy ("Privacy Policy") is designed to provide a clear understanding of the information we collect and how we use it to provide our services and give users a better experience. It applies to any users of www.care.com and any US affiliated websites, web pages, mobile applications and mobile websites operated by Care.com (the "Site"), including those who are seeking to find a service provider through Care.com ("Care Seekers") as well as those who are looking to promote their services through Care.com ("Care Providers"), and any users of any of the various services that Care.com provides through the Site or any other channels, including over the telephone ("Services"). For purposes of this Agreement, the terms "Care.com," "we," "us," and "our" refer to Care.com, Inc. "You" refers to you, as a visitor or user or the Site or the Services. Please note that our subsidiaries have separate privacy policies. In addition, this Privacy Policy does not apply to third party entities that may use the Care.com Site or Services. Such entities' use of the Care.com Site and Services are subject to separate terms that they agreed when they registered with Care.com. 
 
@@ -295,7 +295,7 @@ If you have any questions on our Privacy Policy, you can contact us via email at
 
 Legal Department  
 Care.com, Inc.  
-201 Jones Road, Suite 500  
+77 Fourth Avenue, 5th Floor  
 Waltham, MA 02451 USA 
 
 
