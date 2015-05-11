@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adamoads.com privacy policy that was archived on 2014-07-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140715223730id_/http%3A//adamoads.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adamoads.com privacy policy that was archived on 2015-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511103446id_/http%3A//www.adamoads.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js no-touch csstransforms csstransitions js cssanimations csstransitions"><!--<![endif]--><head>
     <title>Welcome to ADAMO Advertising</title>
@@ -14,13 +14,13 @@
     
     <!-- CSS Global Compulsory-->
     <link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/style.css?v=1.1">
     <link rel="stylesheet" href="/css/header1.css">
     <link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap-responsive.min.css">
-    <link rel="stylesheet" href="/css/style_responsive.css">
+    <link rel="stylesheet" href="/css/style_responsive.css?v=1.1">
 
     <!-- CSS Implementing Plugins -->
-    <link rel="stylesheet" href="/plugins/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="/plugins/font-awesome-4.3.0/css/font-awesome.css">
     <link rel="stylesheet" href="/plugins/parallax-slider/css/parallax-slider.css" type="text/css">
 
     <!-- CSS Theme -->
@@ -30,24 +30,27 @@
         </head>
 
 <body>
-<div class="top">
+<div class="top custom">
     <div class="container">
         <ul class="loginbar pull-right">
             <li>&nbsp;</li>
-                <li><a href="http://ui.adamoads.com/site/login" class="login-btn">Login</a></li>
+                <li class="purchase"><a href="http://ui.adamoads.com/site/register" class="btn-buy hover-effect">Join now</a></li>
+            <li class="devider">&nbsp;</li>
+            <li><a href="http://ui.adamoads.com/site/login" id="homeloginbtn" class="login-btn">Login</a></li>
         </ul>
     </div>
 </div><!--/top-->
 
-<div class="header">
+<div class="header custom">
     <div class="container">
         <!-- Logo -->
         <div class="logo">
             <a href="/"><img id="logo-header" src="/img/logo.jpg" alt="ADAMO Advertising"></a>
-        </div><!-- /logo -->
-
+        </div>
+        <!-- /logo -->
         <!-- Menu -->
-                <div class="navbar">
+                <!-- Menu -->
+                <div id="desktop_menu" class="navbar">
             <div class="navbar-inner">
                 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                     <span class="icon-bar"></span>
@@ -56,15 +59,47 @@
                 </a><!-- /nav-collapse -->
                 <div class="nav-collapse collapse">
                     <ul class="nav top-2">
-                        <li class="active"><a href="/">Home</a></li><li><a href="/advertiser.php">Advertiser</a></li><li><a href="/publisher.php">Publisher</a></li><li><a href="/technology.php">Technology</a></li><li><a href="/blog">Blog</a></li><li><a href="/contact.php">Contact</a></li>
+                        <li class="active"><a href="/">Home</a></li><li><a href="/advertiser.php">Advertiser</a></li><li><a href="/publisher.php">Publisher</a></li><li><a href="/technology.php">Technology</a></li><li><a href="https://support.adamoads.com/kb/">FAQ</a></li><li><a href="/contact.php">Contact</a></li>
                                             </ul>
                                     </div><!-- /nav-collapse -->
             </div><!-- /navbar-inner -->
         </div><!-- /navbar -->
+        <!-- org menue end --> 
+
+
+                <div id="menu-btn"><i class="fa fa-bars"></i></div>
+        
     </div><!-- /container -->
+    <div id="menu_conatiner" style="display:none;">
+        <div class="custom_menu">
+    <a href="/advertiser.php"><div class="custom_menu_item"><i style="font-size: 40px;" class="fa fa-group"></i><br>Advertiser<p>DRIVE MORE SALES WITH ADAMO</p></div></a><div class="custom_divider"></div><a href="/publisher.php"><div class="custom_menu_item"><i style="font-size: 40px;" class="fa fa-globe"></i><br>Publisher<p>START YOUR REVENUE ENGINES WITH ADAMO</p></div></a>        </div>
+        <div class="custom_divider"></div>
+        <div class="custom_list_menu">
+            <ul class="nav top-2 custom"><li class="custom_menu_item active"><a href="/"><span class="fa-stack fa-md" style="display: inline-block;">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-home fa-stack-1x fa-inverse"></i>
+                     </span>Home</a></li><li class="custom_menu_item"><a href="http://ui.adamoads.com/site/register"><span class="fa-stack fa-md" style="display: inline-block;">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-user-plus fa-stack-1x fa-inverse"></i>
+                     </span>Join</a></li><li class="custom_menu_item"><a href="http://ui.adamoads.com/site/login"><span class="fa-stack fa-md" style="display: inline-block;">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-user fa-stack-1x fa-inverse"></i>
+                     </span>Login</a></li><li class="custom_menu_item"><a href="https://support.adamoads.com/kb/"><span class="fa-stack fa-md" style="display: inline-block;">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-question fa-stack-1x fa-inverse"></i>
+                     </span>FAQ</a></li><li class="custom_menu_item"><a href="/contact.php"><span class="fa-stack fa-md" style="display: inline-block;">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                     </span>Contact</a></li>            </ul>
+        </div>
+        <div class="bottom_menu"></div>
+    </div>
 </div><!--/header -->
 
 
+
+<div id="dimlayer"></div>
+<div id="login-form"><iframe src="http://ui.adamoads.com/site/homelogin/"></iframe></div>
 <!--=== Breadcrumbs ===-->
 <div class="row-fluid breadcrumbs margin-bottom-40">
 	<div class="container">
@@ -122,7 +157,7 @@
 		        <div class="headline"><h3>About us</h3></div>
 				<p class="margin-bottom-10"><a href="/about.php">The company</a></p>
 				<p class="margin-bottom-10"><a href="/contact.php">Contact us</a></p>
-				<p class="margin-bottom-10"><a href="/events.php">Events</a></p>
+				
 				
                 <!-- Stay Connected -->
 		        <div class="headline"><h3>Stay Connected</h3></div>
@@ -138,11 +173,39 @@
 
 			<div class="span4">
                 <div class="posts">
-                        <div class="headline"><h3>Recent Blog Entries</h3></div>
-                        <p><a href="/blog/enjoy-your-adamo-summer-bonus/">Enjoy your ADAMO Summer Bonus</a></p>
-                        <p><a href="/blog/check-out-this-special-easter-surprise-from-adamo-today/">Check Out This Special Easter Surprise from ADAMO Today!</a></p>
-                        <p><a href="/blog/reach-out-to-us-today-and-schedule-a-meeting/">Reach out to us TODAY and schedule a meeting!!</a></p>
-                        <p><a href="/blog/adamo-advertising-platinum-sponsor-of-tes-in-barcelona/">ADAMO Advertising Platinum Sponsor of TES in Barcelona</a></p>
+                        <div class="headline"><h3>Upcoming Events</h3></div>
+                        <p>
+                            <strong>Eurowebtainment 2015</strong>
+                            </p><p class="event-loc-date">
+                                <a href="http://www.eurowebtainment.com/" target="_blank">
+                                    Mallorca, May 20 - 23, 2015
+                                </a>
+                            </p>
+                        <p></p>
+                        <p>
+                            <strong>Adult Webmaster Meeting</strong>
+                            </p><p class="event-loc-date">
+                                <a href="http://www.webmaster-meeting.com/" target="_blank">
+                                    Suderbruch, Aug 14 - 15, 2015
+                                </a>
+                            </p>
+                        <p></p>
+                        <p>
+                            <strong>Webmaster Access</strong>
+                            </p><p class="event-loc-date">
+                                <a href="http://www.webmasteraccess.com/" target="_blank">
+                                    Amsterdam, Sep 18 - 21, 2015
+                                </a>
+                            </p>
+                        <p></p>
+                        <p>
+                            <strong>The European Summit Fall 2015</strong>
+                            </p><p class="event-loc-date">
+                                <a href="http://www.theeuropeansummit.com/" target="_blank">
+                                    Praha, Prague, Sep 22 - 25, 2015
+                                </a>
+                            </p>
+                        <p></p>
                     </div>			</div><!--/span4-->
 
 			<div class="span4">
@@ -180,7 +243,7 @@
 	<div class="container">
 		<div class="row-fluid">
 			<div class="span8">
-	            <p>2014 © Adamo D.O.O. All Rights Reserved. <a href="/privacy_policy.php">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+	            <p>2015 © Adamo D.O.O. All Rights Reserved. <a href="/privacy_policy.php">Privacy Policy</a> | <a href="/terms_of_service.php">Terms of Service</a></p>
 			</div>
 			<div class="span4">
 				<a href="/"><img id="logo-footer" src="/img/logo-footer.png" class="pull-right" alt="Adamo Advertising"></a>
@@ -209,10 +272,133 @@
 <script type="text/javascript" src="/js/pages/contact.js"></script>
 <script type="text/javascript" src="/js/pages/newsletter.js"></script>
 <script type="text/javascript">
-    jQuery(document).ready(function() {
-      	App.init();
-        Index.initParallaxSlider();
+jQuery(document).ready(function()
+{
+    App.init();
+    Index.initParallaxSlider();
+    
+    $('#homeloginbtn').on("click", function()
+    {
+        $("#dimlayer").fadeIn();
+        $("#login-form").fadeIn();
+        return false;
     });
+    $("#dimlayer").on("click", function()
+    {
+        $("#dimlayer").fadeOut();
+        $("#login-form").fadeOut();
+    });
+    $("#menu-btn").on("click", function()
+    {
+        $("#menu_conatiner").slideToggle();
+    });
+    $( window ).resize(function()
+    {
+        var scroll = $(window).scrollTop();
+        $("#menu_conatiner").slideUp();
+        if($( window ).width() >= 980)
+        {
+            $('.top.custom').css('top', '0px');
+            $('.header.custom').css('top', '48px');
+            $('.logo > a > img').css('max-width', '100%');
+            $('.logo').css('top', '-40px');
+            $('.header.custom').css('border-bottom', '2px solid #EEE');
+            $("#desktop_menu").css('display','block');
+            $("#menu-btn").css('display', 'none');
+        }
+        else
+        {
+            $("#desktop_menu").css('display','none');
+            $("#menu-btn").css('display', 'block');
+        }
+            
+        if($( window ).width() > 370 & $( window ).width() < 980)
+        {
+            if($(window).scrollTop() >= 60 )
+            {
+                $('.logo > a > img').css('max-width', '50%');
+                $('.header.custom').css('top', '0px');
+            }
+            else
+                $('.header.custom').css('top', '48px');
+        }
+        else if($( window ).width() <= 370)
+        {
+            
+            if($(window).scrollTop() >= 85 )
+            {
+                $('.logo > a > img').css('max-width', '50%');
+                $('.header.custom').css('top', '0px');
+            }
+            else
+                $('.header.custom').css('top', '85px');
+        }
+    });
+    $(window).scroll(function (e)
+    {
+        $(window).clearQueue();
+        $(window).stop();
+
+        var scroll = $(window).scrollTop();
+        $("#menu_conatiner").slideUp();
+        if($(window).width() > 370)
+            var scroll_top = 60;
+        else
+            var scroll_top = 85;
+        if(scroll < scroll_top)
+        {
+            $('.top.custom').css('top', '0px');
+            if($( window ).width() > 370)
+                $('.header.custom').css('top', '48px');
+            else
+                $('.header.custom').css('top', '85px');
+            $('.logo > a > img').css('max-width', '100%');
+            $('.logo').css('top', '-40px');
+            if($( window ).width() >= 980)
+            {
+                $('.header.custom').css('border-bottom', '2px solid #EEE');
+                $("#desktop_menu").css('display','block');
+                $("#menu-btn").css('display', 'none');
+            }
+        }
+        if($( window ).width() < 980)
+        {
+            if(scroll > scroll_top)
+            {
+                var header = 48;
+                var logo_w = 95;
+                var logo_t = -40;
+
+                header = header - (scroll - scroll_top);
+                logo_w = logo_w - (scroll - 60);
+                logo_t = logo_t + (scroll - 60);
+
+                if(header <= 0)
+                {
+                    header = 0;
+                    if($( window ).width() >= 980)
+                    {
+                        $("#desktop_menu").css('display','none');
+                        $("#menu-btn").css('display', 'block');
+                    }
+                }
+
+                if(logo_w < 50)
+                    logo_w = 50;
+
+                if(logo_t > 0)
+                    logo_t = 0;
+
+                $('.top.custom').css('top', '-'+ (scroll-60) +'px');
+                $('.logo > a > img').css('max-width', logo_w +'%');
+                $('.logo').css('top', logo_t +'px');
+                $('.header.custom').css('top', header +'px');
+                $('.header.custom').css('border-bottom', '2px solid #8666A7');
+            }
+        }
+    });
+
+});
 </script>
 <!--[if lt IE 9]>
     <script src="/js/respond.js"></script>
