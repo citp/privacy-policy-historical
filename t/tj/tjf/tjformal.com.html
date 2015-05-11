@@ -1,890 +1,1684 @@
-<!--The following is the downloaded HTML source of the tjformal.com privacy policy that was archived on 2014-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141102050105id_/http%3A//www.tjformal.com/t2942/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tjformal.com privacy policy that was archived on 2015-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150511165743id_/http%3A//www.tjformal.com/info/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>Privacy Policy</title>
-<base href="http://www.tjformal.com">
-
-    <link href="http://www.efashioncentral.com/ar/assetssty/general.css" rel="stylesheet" type="text/css">
-        <link href="http://www.efcftp.com/users/352/ftp/styles.css" rel="stylesheet" type="text/css">
-
-        <meta name="keywords" content="privacy policy tjformal ">
-    
-        <meta name="description" content="Privacy Policy for TJ Formal">
-    
-
-
-
-
-    
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.efashioncentral.com/ar/js/anylinkcssmenu.js"></script>
-
-
-<script data-cfasync="false" type="text/javascript">
-anylinkcssmenu.init("anchorclass");
-</script>
-
-<script data-cfasync="false" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script data-cfasync="false" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-<link rel="stylesheet" href="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.10.3/themes/smoothness/jquery-ui.min.css">
-<link rel="stylesheet" type="text/css" href="http://www.efashioncentral.com/ar/js/cldzm/cloudzoom.css">
-<script data-cfasync="false" type="text/javascript" src="http://www.efashioncentral.com/ar/js/cldzm/cloudzoom.js"></script>
-<script data-cfasync="false" type="text/javascript" src="http://www.efashioncentral.com/ar/js/fancy2/jquery.fancybox.js?v=2.1.5"></script>
-<link rel="stylesheet" type="text/css" href="http://www.efashioncentral.com/ar/js/fancy2/jquery.fancybox.css?v=2.1.5" media="screen">
-<script type="text/javascript" src="http://www.efashioncentral.com/ar/js/fancy2/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
-
-
-<link rel="stylesheet" href="http://www.efashioncentral.com/ar/js/jqzoom/jquery.jqzoom.css" type="text/css" media="screen">        
-        
-<script data-cfasync="false" type="text/javascript">
-    $(function(){
-        $('#myFancyCloudZoom').bind('click',function(){  // Bind a click event to a Cloud Zoom instance.
-            var cloudZoom = $(this).data('CloudZoom');  // On click, get the Cloud Zoom object
-            cloudZoom.closeZoom();
-            
-            $.fancybox.open(cloudZoom.getGalleryList(),{
-		
-		fitToView	: false,
-		width		: '95%',
-		height		: '95%',
-		autoSize	: false,
-		closeClick	: true,
-		openEffect	: 'none',
-		closeEffect	: 'none',
-                autoResize      : true,
-                autoWidth       : true,
-                maxWidth        : '100%'
-	});
-            return false;
-        });
-        
-        $('.groups').find('.isCurrentCat').parent().show();
-        $('.groups').find('.isCurrentCat').css('font-weight','bold');
-    });
-</script>
-<script data-cfasync="false" type="text/javascript">
-    CloudZoom.quickStart();
-</script>   
-        
-
-
-    <style type="text/css">
-    .ui-slider { position: relative; text-align: left; }
-    .ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 10px; height: 10px; cursor: default; }
-    .ui-slider .ui-slider-range { position: absolute; z-index: 1; font-size: 12px; display: block; border: 0; background-position: 0 0; }
-    .ui-slider-horizontal { height: 8px; }
-    .ui-slider-horizontal .ui-slider-handle { top: -1px; margin-left: -2px; }
-    .ui-slider-horizontal .ui-slider-range { top: 0; height: 100%; }
-    .ui-slider-horizontal .ui-slider-range-min { left: 0; }
-    .ui-slider-horizontal .ui-slider-range-max { right: 0; }
-    </style>
-    
-<script data-cfasync="false" type="text/javascript">
-    $(function() {
-            $( "#slider-range" ).slider({
-                    range: true,
-                    min: 0,
-                    max: 2000,
-                    values: [ 0, 2000 ],
-                    slide: function( event, ui ) {
-                            $( "#amount" ).val( "$" + ui.values[ 0 ] + " - $" + ui.values[ 1 ] );
-                    },
-                    start: function(event, ui) { 
-                            document.getElementById('priceFilterOnId').checked=true;
-                    }
-            });
-
-            $( "#amount" ).val( "$" + $( "#slider-range" ).slider( "values", 0 ) +
-                    " - $" + $( "#slider-range" ).slider( "values", 1 ) );                     
-
-            $('.attChk').change(function() {                    
-                if($(this).is(":checked")) {                       
-                    $(this).parent().parent().parent().prev().find('.attClear').html(" <a href='#' class=attClearBtn>Clear</a>");
-                }                         
-            });
-    });
-
-    $(document).on("click", ".attClearBtn", function (e) {    
-        e.preventDefault();
-             $(this).parent().parent().next().find('.attChk').removeAttr('checked');
-
-    });  
-</script>
-<script data-cfasync="false" type="text/javascript">
-$(document).ready(function() {
-
-    var marginl;
-    $('.tImage').load(function() {        
-        if($(this).width()>$(this).height()){
-           $(this).css({
-               'width' : 164
-           });
-       }else{
-           //square and portrait
-           if($(this).width()>164){
-               marginl=parseInt(($(this).width()-164)/2)+6;
-
-               $('.limiter2').css({
-                   'position' : 'relative',
-                   'right'  :   ''+marginl+'px'
-               });
-               $('.banner').css({                    
-                   'left'  :   ''+marginl+'px'
-               });
-           }
-       }
-    });
-     
-    $(".filterToggle").click(function () {
-
-        $header = $(this);
-        $content = $header.next('div');
-        $content.slideToggle(500, function () {
-            $("span.filterInd",$header).text(function () {
-                return $content.is(":visible") ? "-" : "+";
-            });
-
-        });
-
-    });
-    $(".filterToggleCB").click(function () {
-        $header = $(this).parent();
-        $content = $header.next('div');
-        $content.slideToggle(200, function () {
-            $("span.filterInd",$header).text(function () {
-                return $content.is(":visible") ? "-" : "+";
-            });
-        });
-    });   
-    
-    $(".variousFancyBox").fancybox({
-            maxWidth	: 800,
-            maxHeight	: 600,
-            fitToView	: false,
-            width	: '70%',
-            height	: '70%',
-            autoSize	: false,
-            closeClick	: false,
-            openEffect	: 'none',
-            closeEffect	: 'none'
-    });
-});
-
-</script>
-
-    
-       <meta name="google-site-verification" content="Ke8N4ke-vBishKczgd0LZ8f1HDoMGNF4zZPEP3ccvK4">
-<meta name="p:domain_verify" content="797975a67ee4cdf5abb257af258fdcdb">
- <script type="text/javascript" src="http://www.efcftp.com/users/352/ftp/js/jquery.nivo.slider.js"></script>
-
-
-<link href="http://fonts.googleapis.com/css?family=Cabin:400,600,700|Duru+Sans|Cabin+Condensed:400,700|Francois+One|Oxygen" rel="stylesheet" type="text/css">
-
-<style type="text/css">
-.subcathead2 a{
-
-font-weight:bold;
-
-}
-</style>    
-    
-<script data-cfasync="false" type="text/javascript">
-       $(document).ready(function() {
-            $( "#pSortLink" ).change(function (e) {
-
-
-
-                $.ajax({
-                  type: "GET",
-                  url: "./index.php",
-                  data: { action: "togglePsort", svalue:$(this).val() }
-                }).done(function( msg ) {
-                    location.reload();
-                });
-
-            });
-            
-            $( ".pSortLinkGD" ).click(function (e) {
-
-
-
-                $.ajax({
-                  type: "GET",
-                  url: "./index.php",
-                  data: { action: "togglePsort", svalue:$(this).data('id') }
-                }).done(function( msg ) {
-                    location.reload();
-                });
-
-            });
-
-
-
-        });
-    </script>
-</head>
-<body class="">
-    <div class="checkout">
-
-<ul>
-<li><a href="http://www.tjformal.com/cart.php" class="btn1">Shopping cart</a>
-</li>
-
-<li><a href="http://www.tjformal.com/cart.php" class="btn2">Checkout</a></li></ul>
-</div>    <div id="submenu4" class="anylinkcss"><ul><li><a href="./t4/blog.html">Blog</a></li><li><a href="./t2309/terms-of-use.html">Terms of Use</a></li><li><a href="./t2942/privacy-policy.html">Privacy Policy</a></li></ul></div><div id="submenu6" class="anylinkcss"><ul><li><a href="sub.php">Shop for Prom Dresses!</a></li><li><a href="./t562/562.html"></a></li><li><a href="./t563/563.html"></a></li></ul></div><div id="submenu7" class="anylinkcss"><ul><li><a href="./t7/about-us.html">About Us</a></li><li><a href="./t2307/local-store-events-joplin.html">Local Store Events - Joplin</a></li></ul></div>        <div align="center" id="outer">
-        <!--[if IE 7]><style type="text/css"> #Table_01{ table-layout:fixed; } </style><![endif]-->  
-<table id="Table_01" width="100%" border="0" cellpadding="0" cellspacing="0">
-    
-	<tbody><tr>
-		<td class="topL"></td>
-                <td width="995" style="position:relative;" class="head2" id="head2"><div class="headLayer2"><div class="logoClass"><a href="http://www.tjformal.com/"><img style="border:0px" src="http://www.efashioncentral.com/usersimg/352/localimg/topusaheader-edited.jpg" alt=""></a></div></div>
-                                    </td>
-                <td class="topR"></td>
-        </tr>
-        <tr>
-                                    <td valign="top" class="midL"><div class="midLleftLayer2"></div></td>
-                                    <td width="995" valign="top" class="midColLayer1">
-			<table id="Table_03" width="995" border="0" cellpadding="0" cellspacing="0" class="midColLayer2">
-				
-				<tbody><tr>
-					<td width="995" class="head3" valign="top">
-					<div class="mainmenu" style="margin-right:30px; margin-left:15px" id="mainmenu2"><a name="subtitle"></a>
-												<span class="mainmenu"><a href="sub.php" class="anchorclass" rel="submenu6" title="Shop for Prom Dresses!">Shop for Prom Dresses!</a> | </span>
-						<span class="mainmenu"><a href="./t7/about-us.html" class="anchorclass" rel="submenu7" title="About Us">About Us</a>
-						 | <a href="./t8/contact-us.html" title="Contact Us">Contact Us</a>
-						 | <a href="./t1/prom-dress-tips.html" title="Prom Dress Tips">Prom Dress Tips</a> | <a href="./t2/designers.html" title="Designers">Designers</a> | <a href="./t3/testimonials.html" title="Testimonials">Testimonials</a> | <a href="./t4/blog.html" title="Blog" class="anchorclass" rel="submenu4">Blog</a> | <a href="./t5/wedding-gown-tips.html" title="Wedding Gown Tips">Wedding Gown Tips</a></span></div>						</td>
-				</tr>
-				<tr>
-					<td width="995" height="457" class="hometextback" valign="top">
-        
-        
-        
-		
-                                            
-    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-	<td valign="top"><div class="subLeftPane">
-	<div class="menubox1">
-	<div class="menubox2"><div class="subCatsDiv" style="margin-bottom:10px">
-	<div class="searchModule">
-	<form action="sub.php" method="GET"><div id="searchTitle" class="subcathead">Search by Style/Keywords</div>
-	<input style="width:85px; margin-left:5px;" class="searchBox" name="sStyle" type="text" value=""><input class="searchButton" name="submit" type="submit" value="Search">
-	<div style="padding-top:5px; padding-bottom:10px;" class="searchModuleSub">
-	       
-        <div>
-            <input type="checkbox" class="filterToggleCB" name="priceFilterOn" id="priceFilterOnId" value="1">
-             <span class="subcat filterInd">+</span><span class="subcat">Price Filter:</span> 
-	<input type="text" name="priceRange" id="amount" class="subcat" style="border:0; width:80px; background-color:transparent;">
-        </div>
-	<div id="slider-range" class="filterTogTarget" style="width:150px; margin-top:5px; margin-bottom:10px; "></div>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	
-	<input type="hidden" name="sType" value="sStyle">
-	<input type="hidden" name="Page" value="Search">
-        
-                    <script>
-            $(function() {
-              $( "#check" ).button();
-              $( "#sizes" ).buttonset();
-            });
-            </script>
-            
-            <div><input type="checkbox" class="filterToggleCB" name="inStock" value="1"> <span class="subcat filterInd">+</span><span id="searchTitleSub" class="subcat">Search Only In-Stock</span>
-            </div>
-                  <div class="filterTogTarget">
-                  <div class="subcat">Narrow by Size</div>
-                  
-                  <div id="sizes">
-                    <input type="checkbox" name="sz[]" value="00" id="check1"><label for="check1">00</label>
-                    <input type="checkbox" name="sz[]" value="0" id="check2"><label for="check2">0</label>
-                    <input type="checkbox" name="sz[]" value="2" id="check3"><label for="check3">2</label>
-                    <input type="checkbox" name="sz[]" value="4" id="check4"><label for="check4">4</label>
-                    <input type="checkbox" name="sz[]" value="6" id="check5"><label for="check5">6</label>
-                    <input type="checkbox" name="sz[]" value="8" id="check6"><label for="check6">8</label>
-                    <input type="checkbox" name="sz[]" value="10" id="check7"><label for="check7">10</label>
-                    <input type="checkbox" name="sz[]" value="12" id="check8"><label for="check8">12</label>
-                    <input type="checkbox" name="sz[]" value="14" id="check9"><label for="check9">14</label>
-                    <input type="checkbox" name="sz[]" value="16" id="check10"><label for="check10">16</label>
-                    <input type="checkbox" name="sz[]" value="18" id="check11"><label for="check11">18</label>
-                    <input type="checkbox" name="sz[]" value="20" id="check12"><label for="check12">20</label>
-                    <input type="checkbox" name="sz[]" value="22" id="check13"><label for="check13">22</label>
-                    <input type="checkbox" name="sz[]" value="24" id="check14"><label for="check14">24</label>
-                    <input type="checkbox" name="sz[]" value="26" id="check15"><label for="check15">26</label>
-                    <input type="checkbox" name="sz[]" value="28" id="check16"><label for="check16">28</label>
-                    <input type="checkbox" name="sz[]" value="30" id="check17"><label for="check17">30</label>
-                    <input type="checkbox" name="sz[]" value="32" id="check18"><label for="check18">32</label>
-                    </div>
-                
-                    <input class="searchButton" name="submit" type="submit" value="Apply">
-                    <br><br>
-                  </div>
-            
-                              <div><input type="checkbox" class="filterToggleCB" name="attNarrow" value="1"> <span class="subcat filterInd">+</span><span id="searchTitleSub" class="subcat">Narrow by Feature</span>
-                </div>
-                <div class="filterTogTarget">
-                <div id="attributes">
-                    <div class="subcat attTitle"><b>Occasion</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="159">Bat Mitzvah</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="160">Bridal</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="161">Bridesmaids</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="162">Casual Dresses</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="163">Cocktail Dresses</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="164">Communion</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="165">Flower Girl</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="166">Graduation Dresses</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="167">Homecoming</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="168">Mother of the Bride/Groom</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="169">Prom Dresses</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="170">Quinceanera</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="171">Red Carpet</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="172">Sweet 16</li></ul></div> 
-                    <div class="subcat attTitle"><b>Type</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="187">Ball Gowns</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="188">Dress and Jacket</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="189">Lace Dresses</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="190">Little Black Dress</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="191">Little White Dress</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="192">Long Dresses</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="193">Modest</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="205">Pants</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="194">Print Dresses</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="195">Sexy and Sleek</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="196">Sheer Sexy</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="197">Short Dresses</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="206">Skirt</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="198">Suit</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="204">Tops</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="202">Tutu</li></ul></div>     
-                    <div class="subcat attTitle"><b>Feature</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="132">Celebrity Dresses</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="207">Center Keyhole</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="133">Corset</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="134">High Low</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="201">Multi-Layered</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="135">Open Back</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="136">Pleated</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="137">Ruched</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="138">Slit</li></ul></div>                    <div class="subcat attTitle"><b>Back Style</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="99">Covered Button</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="100">Crossed Straps</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="101">Lace Up</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="102">Low open</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="103">Shear</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="104">Zipper Up</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="105">Zipper Up at Side</li></ul></div>                                                                    
-                    <div class="subcat attTitle"><b>Color Scheme</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="106">Metallic</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="107">Neon</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="108">Ombre</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="109">Pastel</li></ul></div>                                                                    
-                    <div class="subcat attTitle"><b>Embellishment</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="110">Appliques</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="111">Beading</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="112">Bows</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="113">Crystal Brooch</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="114">Embroidered</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="115">Feather</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="116">Flower(s)</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="117">Lace</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="118">Ruffle</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="119">Sash</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="120">Sequins</li></ul></div>                                                                    
-                    <div class="subcat attTitle"><b>Fabric</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="121">Charmeuse</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="122">Chiffon</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="123">Feather</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="124">Jersey</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="125">Lace</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="208">Mesh</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="126">Organza</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="127">Satin</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="128">Sequined</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="129">Silk</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="130">Taffeta</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="131">Tulle</li></ul></div>   
-                    <div class="subcat attTitle"><b>Hemline/Train</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="139">Ankle-Length</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="140">Asymmetrical</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="141">Chapel Train</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="142">Court Train</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="143">Floor-Length</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="144">Knee Length</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="145">Short/Mini</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="146">Sweep Train</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="199">Tea-Length</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="147">Watteau Train</li></ul></div>                                                                    
-                    <div class="subcat attTitle"><b>Neckline</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="148">Cowl Neck</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="149">Halter</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="150">High Neck</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="200">Jewel-Neck</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="151">Low V-Neck</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="152">Off-the-Shoulder</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="153">One-Shoulder</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="154">Scalloped Neck</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="155">Scoop Neck</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="203">Sheer Neck</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="156">Strapless</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="157">Sweetheart</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="158">V-neck</li></ul></div>                                                        
-                     
-                    <div class="subcat attTitle"><b>Silhouette</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="173">A-Line/Princess</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="174">Empire Waist</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="175">Mermaid</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="176">Sheath</li></ul></div>                                                                    
-                    <div class="subcat attTitle"><b>Sleeve</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="177">1/2 Sleeves</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="178">3/4 Sleeves</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="179">Long Sleeves</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="180">Sheer Long Sleeves</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="181">Short Sleeves</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="182">Sleeveless</li></ul></div>                                                                    
-                    <div class="subcat attTitle"><b>Straps</b><span class="attClear"></span></div><div class="subcat attGroup"><ul><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="183">Cap Straps</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="184">Regular Straps</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="185">Spaghetti Straps</li><li class="subcat attItem"><input type="checkbox" name="atCh[]" class="attChk" value="186">Strapless</li></ul></div>                                                                    
-                    
-                </div>    
-                <input class="updateSearchBtn" name="submit" type="submit" value="Update Results">
-                
-                </div>
-                
-                    
-	</div>
-	</form>
-	</div>
-		<script type="text/javascript">
-	<!--
-	function toggle(groupId){
-		var element='group'+groupId;
-		if(document.getElementById(element).style.display == 'none')
-		{
-			document.getElementById(element).style.display = 'block';
-		}
-		else if(document.getElementById(element).style.display == 'block')
-		{
-			document.getElementById(element).style.display = 'none';
-		}
 
+
+    
+    
+       <title>TJ Formal: Help &gt; Privacy, Security &amp; Accessibility</title>
+    
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	
+
+    
+    
+<script type="text/javascript" async="" src="http://z-ecx.images-amazon.com/images/I/51N9gCJJn5L.js"></script><script type="text/javascript">
+	function KeyValuePair() 
+	{
+		this.keyValuePair = {};
+		this.put = function(key, value)
+		{
+			this.keyValuePair[key] = value;
+		}
+		this.get = function(key)
+		{
+			return this.keyValuePair[key];
+		}
 	}
-	//-->
-	</script>
+	// The variable to store the world server string ids and thier values
+	var ws_strings  = new KeyValuePair();
+</script>
+    
+
+
+      <!--base.css--> <link rel="stylesheet" type="text/css" href="http://a2ws3m8rtc4fa-aflmjkufwolop-w-en-us.webstore-images.com/media/base.css?language=en_US&amp;isDebugJS=0">
+
+      <!--page_overrides.css--> <link rel="stylesheet" type="text/css" href="http://a2ws3m8rtc4fa-aflmjkufwolop-w-en-us.webstore-images.com/media/page_overrides.css?language=en_US&amp;isDebugJS=0">
+
+      <!--widgets_master.css--> <link rel="stylesheet" type="text/css" href="http://a2ws3m8rtc4fa-aflmjkufwolop-w-en-us.webstore-images.com/media/widgets_master.css?language=en_US&amp;isDebugJS=0">
+
+      <!--layouts.css--> <link rel="stylesheet" type="text/css" href="http://a2ws3m8rtc4fa-aflmjkufwolop-w-en-us.webstore-images.com/media/layouts.css?language=en_US&amp;isDebugJS=0">
+
+      <!--personalization.css--> <link rel="stylesheet" type="text/css" href="http://a2ws3m8rtc4fa-aflmjkufwolop-w-en-us.webstore-images.com/media/personalization.css?language=en_US&amp;isDebugJS=0">
+
+
+
+
+
+<script type="text/javascript">
+{
+  window.mediaReferences = {};
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
 	
-	
-	<div class="subcathead catA"></div><div class="subcat" id="catGroup1"><div class="subcathead2"><b><a onclick="toggle(226718); return false;" href="#"><span style="color:#692558"><u>Homecoming Dresses 2014</u></span></a></b></div><div class="groups" id="group226718" style=" display:none;"><a href="./c62376/cheap-homecoming-dresses.html#subtitle">Cheap Homecoming Dresses</a><br>
-<a href="./c68912/alyce-paris-homecoming-dresses.html#subtitle">Alyce Paris Homecoming Dresses</a><br>
-<a href="./c68913/claudine-for-alyce-homecoming-dresses.html#subtitle">Claudine for Alyce Homecoming Dresses</a><br>
-<a href="./c68906/hannah-s-homecoming-dresses.html#subtitle">Hannah S Homecoming Dresses</a><br>
-<a href="./c68698/la-femme-homecoming-dresses.html#subtitle">La Femme Homecoming Dresses</a><br>
-<a href="./c68221/mac-duggal-homecoming-dresses.html#subtitle">Mac Duggal Homecoming Dresses</a><br>
-<a href="./c68222/mac-duggal-royalty-homecoming-dresses.html#subtitle">Mac Duggal Royalty Homecoming Dresses</a><br>
-<a href="./c69685/mignon-homecoming-dresses.html#subtitle">Mignon Homecoming Dresses</a><br>
-<a href="./c75152/shail-k-homecoming-dresses.html#subtitle">Shail K. Homecoming Dresses</a><br>
-<a href="./c68219/sherri-hill-homecoming-dresses.html#subtitle">Sherri Hill Homecoming Dresses</a><br>
-<a href="./c70747/tiffany-homecoming-dresses.html#subtitle">Tiffany Homecoming Dresses</a><br>
-<a href="./c68942/tony-bowls-evenings-homecoming-dresses.html#subtitle">Tony Bowls Evenings Homecoming Dresses</a><br>
-<a href="./c68220/tony-bowls-shorts-homecoming-dresses.html#subtitle">Tony Bowls Shorts Homecoming Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226719); return false;" href="#"><span style="color:#692558"><u>Prom Dresses 2014</u></span></a></b></div><div class="groups" id="group226719" style=" display:none;"><a href="./c73172/prom-dresses.html#subtitle">Prom Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=prom&amp;submit=Search&amp;priceFilterOn=1&amp;priceRange=%240+-+%24200&amp;CatId=25219&amp;sType=sStyle&amp;Page=Search#subtitle">Cheap Prom Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=prom&amp;submit=Search&amp;CatId=73172&amp;priceFilterOn=1&amp;priceRange=%240+-+%24101&amp;sType=sStyle&amp;Page=Search#subtitle">Prom Dresses Under $100</a><br>
-<a href="./c59885/celebrity-prom-dresses.html#subtitle">Celebrity Prom Dresses</a><br>
-<a href="./c25219/alyce-paris-prom-dresses.html#subtitle">Alyce Paris Prom Dresses</a><br>
-<a href="./c71823/angela-and-alison-prom-dresses.html#subtitle">Angela and Alison Prom Dresses</a><br>
-<a href="./c36212/blush-prom-dresses.html#subtitle">Blush Prom Dresses</a><br>
-<a href="./c66223/cassandra-stone-prom-dresses.html#subtitle">Cassandra Stone Prom Dresses</a><br>
-<a href="./c59886/claudine-for-alyce-paris-prom-dresses.html#subtitle">Claudine for Alyce Paris Prom Dresses</a><br>
-<a href="./c74469/colors-dress-prom-dresses.html#subtitle">Colors Dress Prom Dresses</a><br>
-<a href="./c55459/gigi-by-la-femme.html#subtitle">Gigi by La Femme</a><br>
-<a href="./c32242/hannah-s-prom-dresses.html#subtitle">Hannah S Prom Dresses</a><br>
-<a href="./c40121/jasz-couture-prom-dresses.html#subtitle">Jasz Couture Prom Dresses</a><br>
-<a href="./c60013/jovani-prom-dresses.html#subtitle">Jovani Prom Dresses</a><br>
-<a href="./c28387/la-femme-prom-dresses.html#subtitle">La Femme Prom Dresses</a><br>
-<a href="./c59943/la-femme-short-cocktail-dresses.html#subtitle">La Femme Short Cocktail Dresses</a><br>
-<a href="./c21982/le-gala-prom-dresses.html#subtitle">Le Gala Prom Dresses</a><br>
-<a href="./c66222/mac-duggal-prom-dresses.html#subtitle">Mac Duggal Prom Dresses</a><br>
-<a href="./c21986/me-prom-dresses.html#subtitle">ME Prom Dresses</a><br>
-<a href="./c67417/mignon-prom-dresses.html#subtitle">Mignon Prom Dresses</a><br>
-<a href="./c41839/mori-lee-prom-dresses.html#subtitle">Mori Lee Prom Dresses</a><br>
-<a href="./c40106/night-moves-prom-dresses.html#subtitle">Night Moves Prom Dresses</a><br>
-<a href="./c71779/nina-canacci-prom-dresses.html#subtitle">Nina Canacci Prom Dresses</a><br>
-<a href="./c32406/panoply-prom-dresses.html#subtitle">Panoply Prom Dresses</a><br>
-<a href="./c21974/paris-by-tony-bowls-prom-dresses.html#subtitle">Paris by Tony Bowls Prom Dresses</a><br>
-<a href="./c50964/party-time-prom-dresses.html#subtitle">Party Time Prom Dresses</a><br>
-<a href="./c70016/precious-formals-prom-dresses.html#subtitle">Precious Formals Prom Dresses</a><br>
-<a href="./c30703/riva-designs-prom-dresses.html#subtitle">Riva Designs Prom Dresses</a><br>
-<a href="./c74453/shail-k-prom-dresses.html#subtitle">Shail K. Prom Dresses</a><br>
-<a href="./c36211/sherri-hill-prom-dresses.html#subtitle">Sherri Hill Prom Dresses</a><br>
-<a href="./c22237/terani-prom-dresses.html#subtitle">Terani Prom Dresses</a><br>
-<a href="./c32405/tiffany-designs-prom-dresses.html#subtitle">Tiffany Designs Prom Dresses</a><br>
-<a href="./c61909/tiffany-presentation.html#subtitle">Tiffany Presentation</a><br>
-<a href="./c59919/tj-formal-prom-catalog-dresses.html#subtitle">TJ Formal Prom Catalog Dresses</a><br>
-<a href="./c21981/tony-bowls-evenings-prom-dresses.html#subtitle">Tony Bowls Evenings Prom Dresses</a><br>
-<a href="./c41576/tony-bowls-short-prom-dresses.html#subtitle">Tony Bowls Short Prom Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226720); return false;" href="#"><span style="color:#692558"><u>SALE - Cheap Dresses</u></span></a></b></div><div class="groups" id="group226720" style=" display:none;"><a href="./c60564/sale-prom-dresses.html#subtitle">Sale Prom Dresses</a><br>
-<a href="./c68702/sale-prom-dresses-sizes-0-2.html#subtitle">Sale Prom Dresses - Sizes 0-2</a><br>
-<a href="./c68703/sale-prom-dresses-sizes-4-6.html#subtitle">Sale Prom Dresses - Sizes 4-6</a><br>
-<a href="./c68704/sale-prom-dresses-sizes-8-10.html#subtitle">Sale Prom Dresses - Sizes 8-10</a><br>
-<a href="./c68705/sale-prom-dresses-sizes-12-14.html#subtitle">Sale Prom Dresses - Sizes 12-14</a><br>
-<a href="./c68706/sale-prom-dresses-sizes-16-18.html#subtitle">Sale Prom Dresses - Sizes 16-18</a><br>
-<a href="./c68707/sale-prom-dresses-plus-size.html#subtitle">Sale Prom Dresses - Plus Size</a><br>
-<a href="./c62584/sale-mothers-dresses.html#subtitle">Sale Mothers Dresses</a><br>
-<a href="./c68689/sale-mothers-dresses-sizes-4-6.html#subtitle">Sale Mothers Dresses - Sizes 4-6</a><br>
-<a href="./c68666/sale-mothers-dresses-sizes-8-10.html#subtitle">Sale Mothers Dresses - Sizes 8-10</a><br>
-<a href="./c68667/sale-mothers-dresses-sizes-12-14.html#subtitle">Sale Mothers Dresses - Sizes 12-14</a><br>
-<a href="./c68690/sale-mothers-dresses-sizes-16-18.html#subtitle">Sale Mothers Dresses - Sizes 16-18</a><br>
-<a href="./c68691/sale-mothers-dresses-plus-size.html#subtitle">Sale Mothers Dresses - Plus Size</a><br>
-<a href="./c62214/sale-bridesmaid-dresses.html#subtitle">Sale Bridesmaid Dresses</a><br>
-<a href="./c64200/sale-special-occasion-dresses.html#subtitle">Sale Special Occasion Dresses</a><br>
-<a href="./c67813/sale-wedding-dresses.html#subtitle">Sale Wedding Dresses</a><br>
-<a href="./c68454/sale-girls-dresses.html#subtitle">Sale Girls Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226721); return false;" href="#"><span style="color:#692558"><u>In Stock Dresses</u></span></a></b></div><div class="groups" id="group226721" style=" display:none;"><a href="./c68288/in-stock-prom-dresses-size-0-2.html#subtitle">In Stock Prom Dresses - Size 0-2</a><br>
-<a href="./c68289/in-stock-prom-dresses-size-4-6.html#subtitle">In Stock Prom Dresses - Size 4-6</a><br>
-<a href="./c68290/in-stock-prom-dresses-size-8-10.html#subtitle">In Stock Prom Dresses - Size 8-10</a><br>
-<a href="./c68291/in-stock-prom-dresses-size-12-14.html#subtitle">In Stock Prom Dresses - Size 12-14</a><br>
-<a href="./c68292/in-stock-prom-dresses-size-16-18.html#subtitle">In Stock Prom Dresses - Size 16-18</a><br>
-<a href="./c68293/in-stock-prom-dresses-plus-size.html#subtitle">In Stock Prom Dresses - Plus Size</a><br>
-<a href="./c68294/in-stock-short-dresses.html#subtitle">In Stock Short Dresses</a><br>
-<a href="./c60613/in-stock-mothers-dresses.html#subtitle">In Stock Mothers Dresses</a><br>
-<a href="./c68692/in-stock-mothers-dresses-size-4-6.html#subtitle">In Stock Mothers Dresses - Size 4-6</a><br>
-<a href="./c68664/in-stock-mothers-dresses-size-8-10.html#subtitle">In Stock Mothers Dresses - Size 8-10</a><br>
-<a href="./c68665/in-stock-mothers-dresses-size-12-14.html#subtitle">In Stock Mothers Dresses - Size 12-14</a><br>
-<a href="./c68693/in-stock-mothers-dresses-size-16-18.html#subtitle">In Stock Mothers Dresses - Size 16-18</a><br>
-<a href="./c68694/in-stock-mothers-dresses-plus-size.html#subtitle">In Stock Mothers Dresses - Plus Size</a><br>
-<a href="./c60615/in-stock-pageant-gowns.html#subtitle">In Stock Pageant Gowns</a><br>
-<a href="./c60647/in-stock-wedding-dresses.html#subtitle">In Stock Wedding Dresses</a><br>
-<a href="./c60627/in-stock-girls-dresses.html#subtitle">In Stock Girls Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226722); return false;" href="#"><span style="color:#692558"><u>Best Sellers</u></span></a></b></div><div class="groups" id="group226722" style=" display:none;"><a href="./c67579/prom-homecoming-best-sellers.html#subtitle">Prom/Homecoming Best Sellers</a><br>
-<a href="./c67590/mother-of-the-bride-best-sellers.html#subtitle">Mother-of-the-Bride Best Sellers</a><br>
-<a href="./c67593/other-best-sellers.html#subtitle">Other Best Sellers</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226723); return false;" href="#"><span style="color:#692558"><u>Mother-of-the-Bride Dresses</u></span></a></b></div><div class="groups" id="group226723" style=" display:none;"><a href="./c74912/alex-evenings-mothers-dresses.html#subtitle">Alex Evenings Mothers Dresses</a><br>
-<a href="./c59867/alyce-paris-mothers-dresses.html#subtitle">Alyce Paris Mothers Dresses</a><br>
-<a href="./c59876/capri-mothers-dresses.html#subtitle">Capri Mothers Dresses</a><br>
-<a href="./c59869/caterina-mothers-dresses.html#subtitle">Caterina Mothers Dresses</a><br>
-<a href="./c59868/cameron-blake-mothers-dresses.html#subtitle">Cameron Blake Mothers Dresses</a><br>
-<a href="./c59870/damianou-mothers-dresses.html#subtitle">Damianou Mothers Dresses</a><br>
-<a href="./c59871/daymor-couture-mothers-dresses.html#subtitle">Daymor Couture Mothers Dresses</a><br>
-<a href="./c67770/ivonne-d-mothers-dresses.html#subtitle">Ivonne D Mothers Dresses</a><br>
-<a href="./c59872/montage-mothers-dresses.html#subtitle">Montage Mothers Dresses</a><br>
-<a href="./c59864/rina-di-montella-mothers-dresses.html#subtitle">Rina Di Montella Mothers Dresses</a><br>
-<a href="./c59877/social-occasions-mothers-dresses.html#subtitle">Social Occasions Mothers Dresses</a><br>
-<a href="./c59873/soulmates-mothers-dresses.html#subtitle">Soulmates Mothers Dresses</a><br>
-<a href="./c59874/ursula-of-switzerland-mothers-dresses.html#subtitle">Ursula of Switzerland Mothers Dresses</a><br>
-<a href="./c60184/petite-mothers-dresses.html#subtitle">Petite Mothers Dresses</a><br>
-<a href="./c74484/sydneys-closet-mothers-dresses.html#subtitle">Sydney's Closet Mothers Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226724); return false;" href="#"><span style="color:#692558"><u>Special Occasion Dresses</u></span></a></b></div><div class="groups" id="group226724" style=" display:none;"><a href="./c62341/alyce-paris-black-label.html#subtitle">Alyce Paris Black Label</a><br>
-<a href="./c62342/alyce-paris-special-occasion-gowns.html#subtitle">Alyce Paris Special Occasion Gowns</a><br>
-<a href="./c65420/la-femme-evenings-dresses.html#subtitle">La Femme Evenings Dresses</a><br>
-<a href="./c66228/mac-duggal-black-white-red-dresses.html#subtitle">Mac Duggal Black White Red Dresses</a><br>
-<a href="./c70386/mac-duggal-couture-dresses.html#subtitle">Mac Duggal Couture Dresses</a><br>
-<a href="./c74454/shail-k-cocktail-dresses.html#subtitle">Shail K. Cocktail Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226725); return false;" href="#"><span style="color:#692558"><u>Plus Size Dresses</u></span></a></b></div><div class="groups" id="group226725" style=" display:none;"><a href="./c71824/angela-and-alison-plus-prom-dresses.html#subtitle">Angela and Alison Plus Prom Dresses</a><br>
-<a href="./c70895/blush-w-plus-prom-dresses.html#subtitle">Blush W Plus Prom Dresses</a><br>
-<a href="./c66226/mac-duggal-fabulouss-plus-size-dresses.html#subtitle">Mac Duggal Fabulouss Plus Size Dresses</a><br>
-<a href="./c54077/night-moves-plus-prom-dresses.html#subtitle">Night Moves Plus Prom Dresses</a><br>
-<a href="./c60228/party-time-plus-size-dresses.html#subtitle">Party Time Plus Size Dresses</a><br>
-<a href="./c44127/sydneys-closet-prom-dresses.html#subtitle">Sydney's Closet Prom Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226726); return false;" href="#"><span style="color:#692558"><u>Girls Pageant Dresses</u></span></a></b></div><div class="groups" id="group226726" style=" display:none;"><a href="./c62338/lil-allie-pageant-dresses.html#subtitle">Lil Allie Pageant Dresses</a><br>
-<a href="./c74026/little-rosie-baby-girls-pageant-dresses.html#subtitle">Little Rosie Baby Girls Pageant Dresses</a><br>
-<a href="./c60924/little-rosie-long-pageant-dresses.html#subtitle">Little Rosie Long Pageant Dresses</a><br>
-<a href="./c74027/little-rosie-short-pageant-dresses.html#subtitle">Little Rosie Short Pageant Dresses</a><br>
-<a href="./c59925/tiffany-girls-pageant-dresses.html#subtitle">Tiffany Girls Pageant Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226727); return false;" href="#"><span style="color:#692558"><u>Bridesmaid Dresses</u></span></a></b></div><div class="groups" id="group226727" style=" display:none;"><a href="http://www.tjformal.com/sub.php?sStyle=bridesmaid&amp;submit=Search&amp;priceFilterOn=1&amp;priceRange=%240+-+%24200&amp;CatId=25219&amp;sType=sStyle&amp;Page=Search#subtitle">Cheap Bridesmaid Dresses</a><br>
-<a href="./c59755/bari-jay-bridesmaid-dresses.html#subtitle">Bari Jay Bridesmaid Dresses</a><br>
-<a href="./c59840/bill-levkoff-bridesmaid-dresses.html#subtitle">Bill Levkoff Bridesmaid Dresses</a><br>
-<a href="./c65445/damas-dresses.html#subtitle">Damas Dresses</a><br>
-<a href="/sub.php?sStyle=maternity&amp;submit=Search&amp;priceRange=%240+-+%242000&amp;CatId=59905&amp;sType=sStyle&amp;Page=Search#subtitle">Maternity Bridesmaid Dresses</a><br>
-<a href="./c59843/pretty-maids-bridesmaid-dresses.html#subtitle">Pretty Maids Bridesmaid Dresses</a><br>
-<a href="./c59844/sophia-tolli-bridesmaid-dresses.html#subtitle">Sophia Tolli Bridesmaid Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226728); return false;" href="#"><span style="color:#692558"><u>Pageant Dresses</u></span></a></b></div><div class="groups" id="group226728" style=" display:none;"><a href="./c67621/jovani-pageant-dresses.html#subtitle">Jovani Pageant Dresses</a><br>
-<a href="./c67550/mac-duggal-pageant-gowns.html#subtitle">Mac Duggal Pageant Gowns</a><br>
-<a href="./c68642/sherri-hill-pageant-dresses.html#subtitle">Sherri Hill Pageant Dresses</a><br>
-<a href="./c62399/tony-bowls-collection-pageant-dresses.html#subtitle">Tony Bowls Collection Pageant Dresses</a><br>
-<a href="./c70087/jamye-shaw-pageant-swimsuits.html#subtitle">Jamye Shaw Pageant Swimsuits</a><br>
-<a href="./c59902/pageant-interview-dresses.html#subtitle">Pageant Interview Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226729); return false;" href="#"><span style="color:#692558"><u>Wedding Dresses</u></span></a></b></div><div class="groups" id="group226729" style=" display:none;"><a href="./c59915/brides-reception-dresses.html#subtitle">Brides' Reception Dresses</a><br>
-<a href="./c59917/short-wedding-dresses.html#subtitle">Short Wedding Dresses</a><br>
-<a href="./c59849/allure-bridals-wedding-dresses.html#subtitle">Allure Bridals Wedding Dresses</a><br>
-<a href="./c64078/casablanca-bridal-gowns.html#subtitle">Casablanca Bridal Gowns</a><br>
-<a href="./c67771/david-tutera-wedding-dresses.html#subtitle">David Tutera Wedding Dresses</a><br>
-<a href="./c73426/dere-kiang-wedding-dresses.html#subtitle">Dere Kiang Wedding Dresses</a><br>
-<a href="./c59913/destination-wedding-dresses.html#subtitle">Destination Wedding Dresses</a><br>
-<a href="./c60107/moonlight-tango-wedding-dresses.html#subtitle">Moonlight Tango Wedding Dresses</a><br>
-<a href="./c59852/mori-lee-bridal-gowns.html#subtitle">Mori Lee Bridal Gowns</a><br>
-<a href="./c59862/mori-lee-julietta-plus-size-bridal-gowns.html#subtitle">Mori Lee Julietta Plus Size Bridal Gowns</a><br>
-<a href="./c59863/mori-lee-voyage-destination-wedding-dresses.html#subtitle">Mori Lee Voyage Destination Wedding Dresses</a><br>
-<a href="./c67769/sophia-tolli-bridal-gowns.html#subtitle">Sophia Tolli Bridal Gowns</a><br>
-<a href="./c74293/sydneys-closet-wedding-dresses.html#subtitle">Sydney's Closet Wedding Dresses</a><br>
-<a href="./c65378/quick-delivery-wedding-dresses.html#subtitle">Quick Delivery Wedding Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226730); return false;" href="#"><span style="color:#692558"><u>Flower Girl Dresses</u></span></a></b></div><div class="groups" id="group226730" style=" display:none;"><a href="./c59882/sweet-beginnings-flower-girl-dresses.html#subtitle">Sweet Beginnings Flower Girl Dresses</a><br>
-<a href="./c59881/joan-calabrese-flower-girl-dresses.html#subtitle">Joan Calabrese Flower Girl Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226731); return false;" href="#"><span style="color:#692558"><u>Quinceanera Dresses</u></span></a></b></div><div class="groups" id="group226731" style=" display:none;"><a href="./c41205/quinceanera-collection-dresses.html#subtitle">Quinceanera Collection Dresses</a><br>
-<a href="./c59884/vizcaya-quinceanera-dresses.html#subtitle">Vizcaya Quinceanera Dresses</a><br>
-<a href="./c67896/damas-gowns.html#subtitle">Damas Gowns</a><br>
-<a href="./c73237/quick-delivery-quinceanera-dresses.html#subtitle">Quick Delivery Quinceanera Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226732); return false;" href="#"><span style="color:#692558"><u>Dresses by Occasion</u></span></a></b></div><div class="groups" id="group226732" style=" display:none;"><a href="http://www.tjformal.com/sub.php?sStyle=bridesmaid&amp;submit=Search&amp;CatId=46123&amp;sType=sStyle&amp;Page=Search#subtitle">Bridesmaid Dresses</a><br>
-<a href="./c59907/club-dresses.html#subtitle">Club Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=cocktail&amp;submit=Search&amp;CatId=46123&amp;sType=sStyle&amp;Page=Search#subtitle">Cocktail Dresses</a><br>
-<a href="./c59908/debutante-gowns.html#subtitle">Debutante Gowns</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=girl&amp;submit=Search&amp;CatId=46123&amp;sType=sStyle&amp;Page=Search#subtitle">Flower Girl Dresses</a><br>
-<a href="./c59901/girls-pageant-dresses.html#subtitle">Girls Pageant Dresses</a><br>
-<a href="./c59922/graduation-dresses.html#subtitle">Graduation Dresses</a><br>
-<a href="./c59909/guest-of-the-wedding-dresses.html#subtitle">Guest of the Wedding Dresses</a><br>
-<a href="./c62671/holiday-dresses.html#subtitle">Holiday Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=homecoming&amp;submit=Search&amp;priceRange=%240+-+%242000&amp;CatId=60887&amp;sType=sStyle&amp;Page=Search#subtitle">Homecoming Dresses</a><br>
-<a href="./c59910/little-black-dresses.html#subtitle">Little Black Dresses</a><br>
-<a href="./c59906/mardi-gras-dresses.html#subtitle">Mardi Gras Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=mother&amp;submit=Search&amp;CatId=46123&amp;sType=sStyle&amp;Page=Search#subtitle">Mother of the Bride Dresses</a><br>
-<a href="./c62672/new-years-eve-dresses.html#subtitle">New Year's Eve Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=pageant&amp;submit=Search&amp;CatId=46123&amp;sType=sStyle&amp;Page=Search#subtitle">Pageant Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=prom&amp;submit=Search&amp;CatId=59755&amp;sType=sStyle&amp;Page=Search#subtitle">Prom Gowns</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=quinceanera&amp;submit=Search&amp;CatId=46123&amp;sType=sStyle&amp;Page=Search#subtitle">Quinceanera Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=occasion&amp;submit=Search&amp;CatId=46123&amp;sType=sStyle&amp;Page=Search#subtitle">Special Occasion Gowns</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=wedding&amp;submit=Search&amp;CatId=46123&amp;sType=sStyle&amp;Page=Search#subtitle">Wedding Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226733); return false;" href="#"><span style="color:#692558"><u>Dresses by Style</u></span></a></b></div><div class="groups" id="group226733" style=" display:none;"><a href="http://www.tjformal.com/sub.php?sStyle=ball&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Ball Gowns</a><br>
-<a href="./c67680/detachable-skirts.html#subtitle">Detachable Skirts</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=sleeves&amp;submit=Search&amp;priceRange=%240+-+%242000&amp;sType=sStyle&amp;Page=Search#subtitle">Dresses with Sleeves</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=halter&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Halter Dresses</a><br>
-<a href="./c59831/high-low-dresses.html#subtitle">High Low Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=long&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Long Dresses</a><br>
-<a href="./c59920/long-sleeve-dresses.html#subtitle">Long Sleeve Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=mermaid&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Mermaid Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=modest&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Modest Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=one+shoulder&amp;submit=Search&amp;sType=sStyle&amp;Page=Search#subtitle">One-Shoulder Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=print&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Printed Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?thisOffset=0&amp;sStyle=pant%20pants&amp;sType=sStyle&amp;Page=Search&amp;#subtitle#subtitle">Pants</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=sequin&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Sequined Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=short&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Short Dresses</a><br>
-<a href="./c67687/shorts-hot-pants.html#subtitle">Shorts / Hot Pants</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=strapless&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Strapless Dresses</a><br>
-<a href="./c59921/suit-dresses.html#subtitle">Suit Dresses</a><br>
-<a href="./c71656/two-piece-prom-dresses.html#subtitle">Two-Piece Prom Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226734); return false;" href="#"><span style="color:#692558"><u>Accessories</u></span></a></b></div><div class="groups" id="group226734" style=" display:none;"><a href="./c60129/belts.html#subtitle">Belts</a><br>
-<a href="./c59984/bras-hosiery-slips.html#subtitle">Bras, Hosiery &amp; Slips</a><br>
-<a href="./c59924/extras.html#subtitle">Extras</a><br>
-<a href="./c59905/handbags.html#subtitle">Handbags</a><br>
-<a href="./c59986/jackets-shawls.html#subtitle">Jackets &amp; Shawls</a><br>
-<a href="./c59923/veils-headpieces.html#subtitle">Veils &amp; Headpieces</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226735); return false;" href="#"><span style="color:#692558"><u>In Stock Shoes</u></span></a></b></div><div class="groups" id="group226735" style=" display:none;"><a href="./c70704/in-stock-shoes-sizes-5-to-75.html#subtitle">In-Stock Shoes - Sizes 5 to 7.5</a><br>
-<a href="./c70705/in-stock-shoes-sizes-8-to-12.html#subtitle">In-Stock Shoes - Sizes 8 to 12</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226736); return false;" href="#"><span style="color:#692558"><u>Shoes</u></span></a></b></div><div class="groups" id="group226736" style=" display:none;"><a href="./c45830/alisha-hill.html#subtitle">Alisha Hill</a><br>
-<a href="./c59892/colorful-creations.html#subtitle">Colorful Creations</a><br>
-<a href="./c44092/coloriffics.html#subtitle">Coloriffics</a><br>
-<a href="./c59893/dyeables.html#subtitle">Dyeables</a><br>
-<a href="./c60148/girls-shoes.html#subtitle">Girls Shoes</a><br>
-<a href="./c59677/helens-heart.html#subtitle">Helen's Heart</a><br>
-<a href="./c36288/johnathan-kayne.html#subtitle">Johnathan Kayne</a><br>
-<a href="./c72761/lady-couture-shoes.html#subtitle">Lady Couture Shoes</a><br>
-<a href="./c70616/menbur-shoes.html#subtitle">Menbur Shoes</a><br>
-<a href="./c67578/pageant-shoes.html#subtitle">Pageant Shoes</a><br>
-<a href="./c73967/paradox-london-shoes.html#subtitle">Paradox London Shoes</a><br>
-<a href="./c71230/special-occasions-shoes.html#subtitle">Special Occasions Shoes</a><br>
-<a href="./c60074/tony-bowls-shoes.html#subtitle">Tony Bowls Shoes</a><br>
-<a href="./c36290/touch-ups.html#subtitle">Touch Ups</a><br>
-<a href="./c67779/your-party-shoes.html#subtitle">Your Party Shoes</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226737); return false;" href="#"><span style="color:#692558"><u>Jewelry</u></span></a></b></div><div class="groups" id="group226737" style=" display:none;"><a href="./c59897/bracelets-.html#subtitle">Bracelets </a><br>
-<a href="./c59895/earrings.html#subtitle">Earrings</a><br>
-<a href="./c59896/necklaces-jewelry-sets.html#subtitle">Necklaces &amp; Jewelry Sets</a><br>
-<a href="./c59899/pageant-jewelry.html#subtitle">Pageant Jewelry</a><br>
-<a href="./c62587/rings-brooches.html#subtitle">Rings &amp; Brooches</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226738); return false;" href="#"><span style="color:#692558"><u>Your Prom Style</u></span></a></b></div><div class="groups" id="group226738" style=" display:none;"><a href="http://www.tjformal.com/sub.php?sStyle=classic&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Classic Chic Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=glam&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Glam Girl Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=modern&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Modern Urban Chic Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=princess&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Princess Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=rocker&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Rocker Glam Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=sexy&amp;submit=Search&amp;priceRange=%240+-+%242000&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Sexy Diva Dresses</a><br>
-<a href="http://www.tjformal.com/sub.php?sStyle=short&amp;submit=Search&amp;CatId=41842&amp;sType=sStyle&amp;Page=Search#subtitle">Short 'n 'Sweet Dresses</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226739); return false;" href="#"><span style="color:#692558"><u>Dresses by Color</u></span></a></b></div><div class="groups" id="group226739" style=" display:none;"><a href="./c73441/color-of-the-year-2014-orchid.html#subtitle">Color of the Year 2014 - Orchid</a><br>
-<a href="./c73447/color-of-the-year-2013-emerald.html#subtitle">Color of the Year 2013 - Emerald</a><br>
-<a href="./c59932/black-dresses.html#subtitle">Black Dresses</a><br>
-<a href="./c59927/blue-dresses.html#subtitle">Blue Dresses</a><br>
-<a href="./c59936/brown-dresses.html#subtitle">Brown Dresses</a><br>
-<a href="./c59938/fuchsia-dresses.html#subtitle">Fuchsia Dresses</a><br>
-<a href="./c59939/gold-dresses.html#subtitle">Gold Dresses</a><br>
-<a href="./c60344/gray-dresses.html#subtitle">Gray Dresses</a><br>
-<a href="./c59933/green-dresses.html#subtitle">Green Dresses</a><br>
-<a href="./c60342/ivory-dresses.html#subtitle">Ivory Dresses</a><br>
-<a href="./c59937/navy-dresses.html#subtitle">Navy Dresses</a><br>
-<a href="./c60343/nude-dresses.html#subtitle">Nude Dresses</a><br>
-<a href="./c59941/orange-dresses.html#subtitle">Orange Dresses</a><br>
-<a href="./c59931/pink-dresses.html#subtitle">Pink Dresses</a><br>
-<a href="./c59930/purple-dresses.html#subtitle">Purple Dresses</a><br>
-<a href="./c59929/red-dresses.html#subtitle">Red Dresses</a><br>
-<a href="./c59934/silver-dresses.html#subtitle">Silver Dresses</a><br>
-<a href="./c59942/turquoise-dresses.html#subtitle">Turquoise Dresses</a><br>
-<a href="./c59928/white-dresses.html#subtitle">White Dresses</a><br>
-<a href="./c59935/yellow-dresses.html#subtitle">Yellow Dresses</a>
-</div>
-</div><div class="subcathead catB"></div><div class="subcat" id="catGroup0"><div class="subcathead2"><b><a onclick="toggle(226901); return false;" href="#"><span style="color:#692558"><u>Celebrity Style Dresses</u></span></a></b></div><div class="groups" id="group226901" style=" display:none;"><a href="./c74941/scarlett-johansson-at-met-gala.html#subtitle">Scarlett Johansson at Met Gala</a><br>
-<a href="./c74612/leighton-meester-on-opening-night.html#subtitle">Leighton Meester on Opening Night</a><br>
-<a href="./c74485/greer-grammer-at-mtv-movie-awards.html#subtitle">Greer Grammer at MTV Movie Awards</a><br>
-<a href="./c74434/kellie-pickler-at-music-awards.html#subtitle">Kellie Pickler at Music Awards</a><br>
-<a href="./c74404/faith-hill-at-the-acm-awards-2014.html#subtitle">Faith Hill at the ACM Awards 2014</a><br>
-<a href="./c74157/lupita-nyongo-at-oscars-2014.html#subtitle">Lupita Nyong'o at Oscars 2014</a><br>
-<a href="./c74159/charlize-theron-at-the-academy-awards.html#subtitle">Charlize Theron at the Academy Awards</a><br>
-<a href="./c73811/naomi-watts-at-golden-globe-awards.html#subtitle">Naomi Watts at Golden Globe Awards</a><br>
-<a href="./c72998/jennifer-lawrence-at-golden-globes.html#subtitle">Jennifer Lawrence at Golden Globes</a><br>
-<a href="./c72083/kelly-clarkson-christmas-special.html#subtitle">Kelly Clarkson Christmas Special</a><br>
-<a href="./c71215/sofia-vergara-at-the-emmys.html#subtitle">Sofia Vergara at the Emmys</a><br>
-<a href="./c70983/carrie-underwood-at-2013-cmas.html#subtitle">Carrie Underwood at 2013 CMAs</a><br>
-<a href="./c70982/miranda-lambert-at-country-music-awards.html#subtitle">Miranda Lambert at Country Music Awards</a><br>
-<a href="./c70802/heidi-klum-at-golden-globes.html#subtitle">Heidi Klum at Golden Globes</a><br>
-<a href="./c70800/kerry-washington-on-scandal.html#subtitle">Kerry Washington on Scandal</a><br>
-<a href="./c70799/miley-cyrus-cosmo-cover.html#subtitle">Miley Cyrus Cosmo Cover</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226902); return false;" href="#"><span style="color:#692558"><u>Tuxedos</u></span></a></b></div><div class="groups" id="group226902" style=" display:none;"><a href="./c73943/tuxedo-rentals.html#subtitle">Tuxedo Rentals</a>
-</div>
-<div style="margin-top:2px" class="menuspacer"></div><div class="subcathead2"><b><a onclick="toggle(226903); return false;" href="#"><span style="color:#692558"><u>Young Living Essential Oils</u></span></a></b></div><div class="groups" id="group226903" style=" display:none;"><a href="./c73427/young-living-essential-oils.html#subtitle">Young Living Essential Oils</a>
-</div>
-<br><br><div class="groups" id="group0" style=" display:block;"><a href="./c62593/-.html#subtitle"> </a>
-</div>
-</div></div>	</div></div></div>
-	</td>
-<td valign="top">
-		<!--top-->
-				<table width="568" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td width="568" align="left" valign="top"><h1 class="subname">Privacy Policy</h1></td>
-			</tr>
-		</tbody></table>
-				<!--end top-->
-		<br><div class="normal"><p dir="ltr"><strong><span>This site requires Unique Identifiers.</span></strong></p>
-
-
-<p dir="ltr"><span>This site uses an order form for customers to request information, products, and services. It also collects visitor's contact information (like their email address), in some circumstances their unique identifiers (like their pet's name, or mother's maiden name), and financial information (like their account or credit card numbers).Contact information from the order form is used to send orders and information about our company to customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future informational mailings; see the choice/opt-out section below, users may NOT opt out of receiving order notifications, or other contacts which are deemed essential by TJ Formal.</span></p>
-
-
-<p dir="ltr"><strong><span>This site requires Financial Information.</span></strong></p>
-
-
-<p dir="ltr"><span>Financial information that is collected is used to bill the customer for products and services. Unique identifiers (such as pet's name, and mother's maiden name) are collected from Web site visitors to verify the user's identity.</span></p>
-
-
-<p dir="ltr"><strong><span>This site may have Surveys and/or Contests.</span></strong></p>
-
-
-<p dir="ltr"><span>Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. This site may also run contests in which case we may ask visitors for contact information (like their email address). Generally this information is used to verify eligibility, however we may also use contact data from our contests to send users information about TJFormal. The customer's contact information is also used to contact the visitor when necessary (for example winners). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration and bill the user for products and services.</span></p>
-
-
-<p dir="ltr"><strong><span>This site may contain Public Forums.</span></strong></p>
-
-
-<p dir="ltr"><span>This site may include chat rooms, forums, message boards, and/or newsgroups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</span></p>
-
-
-<p dir="ltr"><strong><span>About our System Security</span></strong></p>
-
-
-<p dir="ltr"><span>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Information is stored behind a firewall, against a password protected database system. Whenever sensitive information is accessed it is transmitted using strong SSL encryption.</span></p>
-
-
-<p dir="ltr"><strong><span>This site provides the choice to Opt In or Out.</span></strong></p>
-
-
-<p dir="ltr"><span>Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database not to receive future communications or to no longer receive our service. Each time an information email is distributed, you have the option to use unique unsubscribe url which is attached to each outgoing email. Customers may unsubscribe at any time by simply logging into their accounts. We provide the ability to Correct/Update Your Information.</span></p>
-
-
-<p dir="ltr"><strong>Third Party Links</strong></p>
-
-
-<p dir="ltr">This site may contain links to other sites. TJ Formal is not responsible for the privacy practices or the content of such Web sites, unless otherwise specified below. Your information is never shared withother companies.</p>
-
-
-<p dir="ltr"><strong><span>Policy Changes</span></strong></p>
-
-
-<p dir="ltr"><span>TJ Formal reserves the right to change these policies at any time and make any and all new policies retroactive.</span></p>
-
-
-<p dir="ltr"><strong><span>Contacting the Website</span></strong></p>
-
-
-<p dir="ltr"><span>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:</span></p>
-
-
-<p>&nbsp;</p>
-
-
-<p dir="ltr"><span>TJ Formal</span></p>
-
-
-<p dir="ltr"><span>508 N. Range Line Rd., Suite A</span></p>
-
-
-<p dir="ltr"><span>Joplin, Missouri 64801<br>
- <br>
- Email: contact_inquiry@tjformal.com</span></p>
-
-
-<p dir="ltr"><span><a href="tel:1-417-623-4333" target="_blank">1-417-623-4333</a></span></p>
-
- <br><br></div>	</td>
+	    
 		
-	</tr>
+		
 	
-</tbody></table>
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+		    <!--Key value pairs for variationPopOver.js -->
+			ws_strings.put("ws2_unable_to_process", "Sorry, We're unable to process your request. Please try later."); ws_strings.put("ws2_loading_colors", "Loading Colors"); ws_strings.put("ws2_view_more_colors", "View More Colors");		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+	    
+		
+		
+	
+</script>
 
-    </td></tr></tbody></table></td>
-     <td valign="top" class="midR"><div class="midRrightLayer2"></div></td>
-				</tr>
-				
-				<tr>
-					<td class="bottomL"></td>
-                                        <td width="995" class="footLayer1" valign="top">
-                                            <table width="995" cellpadding="0" cellspacing="0" class="footLayer2"><tbody><tr><td width="995" class="foot1" valign="top"></td></tr></tbody></table>
-					</td>
-                                        <td class="bottomR"></td>
-				</tr>
-			</tbody></table>
-    <div class="footerText"><div class="footerarea">
-				    <table cellpadding="0" cellspacing="0" border="0">
-					  <tbody><tr>					
+<!--jquery.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/51p-iHVKWzL.js"></script>
+
+<!--amazon.jquery.globalNav.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/019OQNnzRTL.js"></script>
+
+<!--amazon.jquery.expander.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/014kr36jfmL.js"></script>
+
+<!--amazon.jquery.quickinfo.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01efcGr-OjL.js"></script>
+
+<!--amazon.jquery.accessibleClick.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01S1pbfUujL.js"></script>
+
+<!--amazon.jquery.carousel.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/31Vc%2Bck%2BTSL.js"></script>
+
+<!--Analytics.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/016Z6isScsL.js"></script>
+
+<!--AnalyticsReporter.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/215NnH2CF%2BL.js"></script>
+
+<!--analyticsLib.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/31IV6krrFML.js"></script>
+
+<!--cartAddCapture.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/016DvjBQjRL.js"></script>
+
+<!--swfobject.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/213wmg3rFoL.js"></script>
+
+<!--global.js--> <script type="text/javascript" src="http://a2ws3m8rtc4fa-aflmjkufwolop-w-en-us.webstore-images.com/media/global.js?language=en_US&amp;isDebugJS=0"></script>
+
+<!--jquery.cluetip.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/31M3QYgb3BL.js"></script>
+
+<!--variationPopOver.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/21A0pyuwWNL.js"></script>
+
+<!--themes.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01ErspE30fL.txt"></script>
+
+<!--miniDetailInteg.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/211XeTRWq9L.js"></script>
+
+<!--affiliateTracking.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/31WDfJk6LJL.js"></script>
+
+<!--amzn_locked_Jquery_Initialize.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01rc6MRyu5L.js"></script>
+
+<!--jquery.ba-bbq.min.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/11Y6fcyWgOL.js"></script>
+
+<!--ws.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/010h8szIR8L.js"></script>
+
+<!--webstoreCache.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01nhbSnBTuL.js"></script>
+
+<!--preloader.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/11%2B3gXZIN0L.js"></script>
+
+<!--searchSuggestions.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/21zOlkFjzQL.js"></script>
+
+<!--imageCarousel.js--> <script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/11b3yQzQ9hL.js"></script>
+
+<!--JavaScript HTML Head widget rendered-->
+    
+    
+
+
+
+    
+    
+
+
+
+<script type="text/javascript">
+{
+  window.mediaReferences = {};
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	
+</script>
+
+<!--JavaScript HTML Head widget rendered-->
+        
+    
+
+<meta name="Keywords" content="">
+                <meta name="Description" content="">
+                
+
+    <link rel="canonical" href="http://www.tjformal.com/info/privacy">
+
+
+
+
+
+
+
+
+
+
+		<!-- reserved for Template Manager Customer Information -->	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!-- reserved for Template Manager Customer Information -->	
+
+
+
+
+
+
+    <script type="text/javascript">
+
+     function getCookieValue(name) {
+         var value = "; " + document.cookie;
+    	 var parts = value.split("; " + name + "="); // split cookie into 2 arrays. Second array will have the value of the cookie if present
+    	 if (parts.length == 2){ 
+    	     return parts.pop().split(";").shift(); // This will get the second array and split it with ; and return the first array
+    	 }
+    	 return null;
+    	}
+    
+      try 
+        {   
+    	    var googleAnalyticsCookie = "ws-google-analytics";
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', "UA-2564334-3"]);
+            _gaq.push(['_setDomainName', 'none']); 
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_gat._anonymizeIp']);
+            
+                
+                    _gaq.push(['_trackPageview']);
+                
+                
+            
+    
+      
+
+    (function()
+    {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = "http://z-ecx.images-amazon.com/images/I/51N9gCJJn5L.js";
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    }
+    catch(err)
+    {
+
+    }
+    
+    
+    </script>
+
+
+
+
+</head>
+
+<body id="pageIdinfoprivacy" class="info">
+  
+    
+    
+        
+<div id="wrapper">
+ 
+    <div id="innerWrapper">
+ 
+      <div id="headerSlots">
+        <div id="header-1"><div class="starter-amazon-com-ImageWidget-1-latest">
+
+
+
+
+	
+	
+		<!-- Image Widget --> 
+
+<!-- Site Files/Merchandising Files/logo.png -->    
+    
+		
+		
+			<div class="imageWidget">
+		
+	
+	
+		
+			
+			<a href="http://www.tjformal.com/"> 
+                
+            		
+	
+	
+		<img src="http://ecx.images-amazon.com/images/I/02%2BPfTc86pL.png" alt="Site Logo" title="Your Logo Here!!!" height="77" width="5">
+	
+
+
+            </a>
+		
+		
+	
+	</div>	
+
+
+	
+	
+		
+	
+	
+</div></div>
+        <div id="header-2"><script type="text/javascript">
+//<![CDATA[
+amznAnalytics.setElement("language","en_US");
+amznAnalytics.setElement("visitorStatus","Unregistered");
+//]]>
+</script><noscript></noscript><div class="com-amazon-webstore-SignInWidget-2">
+
+
+
+<div class="signInMenu">
+  <ul class="linkList signInLinkList">
+    
+      
+      
+        
+          
+            <li class="signIn">
+              <a href="https://www-tjformal-com.webstorepowered.com/jump?cartSessionId=000-0000000-0000000&amp;path=%2Fsignin">
+                Sign in
+              </a>
+            </li>
+
+            <li class="createAccount">
+              <a href="https://www-tjformal-com.webstorepowered.com/jump?cartSessionId=000-0000000-0000000&amp;pageFlowType=CREATE_NEW_ACCOUNT_MAIN&amp;path=%2Fsignin">
+                New Customer?
+              </a>
+            </li>
+          
+
+          
+        
+      
+    
+  </ul>
+
+  <ul class="linkList">
+    <li class="yourAccount">
+      <a href="https://www-tjformal-com.webstorepowered.com/jump?cartSessionId=000-0000000-0000000&amp;path=%2Fyouraccount">Your Account</a>
+    </li>
+    
+    <li class="help">
+      <a href="http://www.tjformal.com/info/help">Help</a>
+    </li>
+  </ul>
+
+</div>
+</div></div>
+        <div id="header-3"></div>
+        <div id="header-4"><div class="com-amazon-webstore-SearchNav-2">
+
+
+
+
+<div class="miniSearchForm">
+  
+    
+    
+      <form method="get" action="http://www.tjformal.com/s" class="searchForm" name="searchNav" id="searchForm">
+    
+  
+  <fieldset class="minorFieldset search">
+    <legend><span>Search</span></legend>
+    
+    
+    
+    <input type="hidden" id="defaultSearchTextValue" name="defaultSearchTextValue" value="Search">
+    
+    
+    <ol class="formFields">
+      <li class="formField searchFor">
+        <label for="searchKeywords">Search for</label>
+        <input type="text" name="searchKeywords" id="searchKeywords" value="" size="34" maxlength="75">
+      </li>
+    </ol>
+    <ul class="buttonGroup searchActions">
+      <li class="searchButton">
+        <button class="primaryAction" type="submit">
+           <span>Go</span>
+        </button>
+      </li>
+    </ul>
+    <input type="hidden" name="Action" value="submit">
+  </fieldset>
+  </form>
+  <ul id="suggestionResults" class="suggestionResults">
+  </ul>
+</div>
+
+</div></div>
+        <div id="header-5"></div>
+        <div id="header-6"><div class="com-amazon-base-webstore-prime-home-branding-pagelet-1">
+
+	<div class="imageWidget">
+	
+		<img src="&#10;http://g-ecx.images-amazon.com/images/G/01/webstore2/pagelets/prime/prime_header_horiz_darkbg_sm._V158550821_.png&#10;">
+		
+	</div>
+</div></div>
+        <div id="header-7"><div class="com-amazon-webstore-MiniCart-3">
+
+
+<div class="miniCart" id="miniCart">
+     <input type="hidden" name="miniCartLayoutDomain" value="Webstore/SSR">
+  <script type="text/javascript">
+    var addToCartPageSecureURL = "http://www.tjformal.com/secureSimpleApp?mn_ssa_keys=%2CpageletName&mn_ssa_token=e1WgrVOGhkfPiHT_LjTHy6rQGPo%3D&pageletName=inca-cart-mini-pagelet";
+  </script>
 
   
 
-					            <td class="sm-blck">
-	                             
 
-       <a href="http://www.tjformal.com/sub.php?Page=Text&amp;PT=2306" title="FAQs" class="link footer">FAQs</a><br>
-	                             
 
-       <a href="http://www.tjformal.com/sub.php?Page=Text&amp;PT=2302" title="Shipping" class="link footer">Shipping</a><br>
-	                     
+<div class="staticMiniCart">
+  <div class="cartInformation">
+    <p class="itemsInCart">
+      <span class="itemCount">0</span> item(s) in <a href="http://www.tjformal.com/cart">My Cart</a>
+    </p>
+  </div>
+  <div class="viewCart">
+    <form action="http://www.tjformal.com/cartPreview" method="get">
+      <ul class="buttonGroup miniCartControls">
+        
+          
+          
+            <li class="checkoutDisabled">
+              <button class="secondaryAction" disabled="disabled" type="submit" name="proceedToCheckout">
+                <span>Checkout</span>
+              </button>
+            </li>
+          
+        
+      </ul>
+    </form>
+  </div>
+</div>
 
-               <a href="http://www.tjformal.com/sub.php?Page=Text&amp;PT=2304" title="Return Policy" class="link footer">Return Policy</a>
-   
+  
 
-                               <a href="" title="" class="link 
 
-footer"></a>
-	                                    <a href="" title="" class="link footer"></a>
-	                                    <a href="" title="" class="link footer"></a>
-	                             
+<div class="dynamicMiniCart" role="dialog" aria-hidden="true" aria-labelledby="dynamicMiniCartTitle">
 
-       <a href="" title="" class="link footer"></a>
-	             
+  
+  
+  
 
-                       <a href="" title="" class="link footer"></a>
-	                            </td>            
-
-                
-					            <td class="sm-blck">
-	             
-
-                       <a href="http://www.tjformal.com/sub.php?Page=Text&amp;PT=2305" title="Measuring" class="link footer">Measuring</a><br>
-	             
-
-                       <a href="http://www.tjformal.com/sub.php?Page=Text&amp;PT=2307" title="Local Shopping and Events" class="link footer">Local Shopping</a><br>
-	                                    	<a href="http://www.tjformal.com/sub.php?Page=Text&amp;PT=ContactUs" title="Hours &amp; Location" class="link footer">Hours &amp; Location</a>
-
-<a href="" title="" class="link footer"></a>
-	                     
-
-               <a href="" title="" class="link footer"></a>
-	                                    <a href="" title="" class="link 
-
-footer"></a>
-	                                    <a href="" title="" class="link footer"></a>
-	                            </td>    
-
-                        
-					            <td class="sm-blck">
-	     
-
-                      <a href="http://www.tjformal.com/sub.php?Page=Text&amp;PT=2173" title="Celebrity and Fashion News" class="link footer">Fashion News</a><br>
-	                                    <a href="http://www.tjformal.com/sub.php?Page=Text&amp;PT=2172" title="Layaway" class="link footer">Layaway</a><br>
-<a href="http://www.tjformal.com/sub.php?Page=Text&amp;PT=2169" title="Avoid Counterfeits" class="link 
-
-footer">Avoid Counterfeits</a>
-	             
-
-                       <a href="" title="" class="link footer"></a>
-	                                    <a href="" title="" class="link footer"></a>
-	     
-
-                               <a href="" title="" class="link footer"></a>
-	                                    <a href="" title="" class="link footer"></a>
-	                            
-
-</td>
-						  <td class="lg-blck">
-						
-
-	    <div class="newsletter">						
-				
-
-			       <div class="title"><a href="http://visitor.r20.constantcontact.com/d.jsp?llr=tsg8yfkab&amp;p=oi&amp;m=1110442875475" target="_blank">Join Our Mailing 
-
-List</a></div>
-							        <div class="newsbar">
-						     
-
-       </div>
-							    </div>
-					
-
-		    <div class="clear"></div>
-							    <div class="share">
-						            <div class="title">Find TJFormal 
-
-Online</div>
-			                        <a href="https://www.facebook.com/TJFormalDresses" target="new" class="icon"><img src="http://www.efcftp.com/users/352/ftp/images/but_mini_facebook.gif" width="29" height="29" alt="Facebook" title="Facebook"></a>
-			                        <a href="http://twitter.com/TJFormal" target="new" class="icon"><img src="http://www.efcftp.com/users/352/ftp/images/but_mini_twitter.gif" width="29" height="29" alt="Twitter" title="Twitter"></a>
-			                        <a href="http://pinterest.com/tjformal/" target="new" class="icon"><img src="http://www.efcftp.com/users/352/ftp/images/but_mini_pinterest.gif" width="29" height="29" alt="Pinterest" title="Pinterest"></a>
-			                        <a href="http://wanelo.com/tjformal" target="new" class="icon"><img src="http://www.efcftp.com/users/352/ftp/images/but_mini_wanelo.gif" width="29" height="29" alt="Wanelo" title="Wanelo"></a>
-<a href="http://www.tjformaldresses.com/" target="new" class="icon"><img src="http://www.efcftp.com/users/352/ftp/images/but_mini_blogger.gif" width="29" height="29" alt="Blogger" title="Blogger"></a>
-			                        <a href="http://www.youtube.com/tjformal" target="new" class="icon"><img src="http://www.efcftp.com/users/352/ftp/images/but_mini_youtube.gif" width="29" height="29" alt="YouTube" title="YouTube"></a>
-   <a href="http://dynalog.catalogs.com/g186/tj-formal-main?merchantID=175" target="new" class="icon"><img src="http://www.efcftp.com/users/352/ftp/images/TJFormal_catalog-social.png" width="29" height="29" alt="YouTube" title="YouTube"></a>
-			                    </div>
-						
-
-  </td>
-					  </tr>
-				    </tbody></table>
-<br>
-<a href="http://www.bbb.org/southwestern-missouri/business-reviews/formal-wear/t-j-formal-in-joplin-mo-15683" alt="BBB Accredited Business" target="_blank"><img src="http://www.efcftp.com/users/352/ftp/images/bbb.png"></a>
-<a title="Prom Websites Association" href="http://promwebsitesassociation.com/" target="_blank"><img src="http://www.efcftp.com/users/352/ftp/images/pwa_seal.jpg" alt="Seal of Approval-Prom Websites Association" border="0"></a>
-<script type="text/javascript" src="http://www.sherrihill.net/seal.php?key=e93e633ce21ba7b329f0b0c9cab76d61" width="180"></script>
-<a href="http://www.blushprom.com" target="_blank">
-<img src="http://www.efcftp.com/users/352/ftp/images/blush-prom-dress-store.png" alt="Blush Prom Dresses - Authorized Dealer" width="150">
-</a>
-
-<a target="_blank" class="ww-bottom" href="http://www.weddingwire.com/reviews/tj-formal-joplin/9567a72fdaccecdb.html" title="TJ Formal Reviews , Springfield, Branson, Joplin Dress &amp; Attire"><img src="http://www.efcftp.com/users/352/ftp/images/wedding-wire-badge.png"></a>
-    </div>
-<script type="text/javascript">
-
-                  var _gaq = _gaq || [];
-
-                  _gaq.push(['_setAccount', 'UA-2564334-1']);
-
-                  _gaq.push(['_trackPageview']);
-
-                 
-
-                  (function() {
-
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-
-                  })();
-
-                </script></div>
-
-        </div>
+  
     
+    
+
+      
+
+      
+      
+
+      <p class="itemsJustAdded">0 item(s) just added</p>
+
+      
+
+
+
+
+
+
+
+
+
+<dl class="attributeList priceBlock miniCartSummary">
+  <dt class="subtotal">Subtotal:</dt>
+  <dd class="subtotal">$0.00</dd>
+</dl>
+
+      
+
+
+
+
+
+    
+  	
+
+</div>
+
+
+  
+
+</div>
+</div></div>
+        <div id="header-8"><div class="com-amazon-webstore-GlobalSiteNav-2">
+
+
+<ul class="linkList navigationLinks" id="globalNav">
+  
+	<li class="navigationGroup" id="globalNavItem1">
+      
+
+
+
+
+
+
+
+        
+                <a href="http://www.tjformal.com/Prom-Dresses/b/10460925011?title=Prom+Dresses" class="mainNode">
+                        <span>Prom Dresses</span>
+                </a>
+        
+        
+
+
+
+
+	</li>
+  
+	<li class="navigationGroup" id="globalNavItem2">
+      
+
+
+
+
+
+
+
+        
+                <a href="http://www.tjformal.com/Mother-Bride-Dresses/b/10460989011?title=Mother+of+the+Bride+Dresses" class="mainNode">
+                        <span>Mother of the Bride Dresses</span>
+                </a>
+        
+        
+
+
+
+
+	</li>
+  
+	<li class="navigationGroup" id="globalNavItem3">
+      
+
+
+
+
+
+
+
+        
+                <a href="http://www.tjformal.com/Formal-Dresses/b/10460917011?title=Formal+Dresses" class="mainNode">
+                        <span>Formal Dresses</span>
+                </a>
+        
+        
+
+
+
+
+  <ul class="linkList navigationLinks">
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Wedding-Dresses-Formal-Dresses/b/10460991011?title=Wedding+Dresses">
+                                        <span>Wedding Dresses</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Cocktail-Dresses-Formal-Dresses/b/11118405011?title=Cocktail+Dresses">
+                                        <span>Cocktail Dresses</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Pageant-Dresses-Formal-Dresses/b/10460990011?title=Pageant+Dresses">
+                                        <span>Pageant Dresses</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/All-Dresses-Formal-Dresses/b/10460993011?title=All+Dresses">
+                                        <span>All Dresses</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+  </ul>
+
+	</li>
+  
+	<li class="navigationGroup" id="globalNavItem4">
+      
+
+
+
+
+
+
+
+        
+                <a href="http://www.tjformal.com/Girls-Dresses/b/10461118011?title=Girls+Dresses" class="mainNode">
+                        <span>Girls Dresses</span>
+                </a>
+        
+        
+
+
+
+
+	</li>
+  
+	<li class="navigationGroup" id="globalNavItem5">
+      
+
+
+
+
+
+
+
+        
+                <a href="http://www.tjformal.com/Accessories/b/10460916011?title=Accessories" class="mainNode">
+                        <span>Accessories</span>
+                </a>
+        
+        
+
+
+
+
+  <ul class="linkList navigationLinks">
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Shoe-Accessories-Accessories/b/10460913011?title=Shoe+Accessories">
+                                        <span>Shoe Accessories</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Wedding-Dress-Preservation-Accessories/b/10460920011?title=Wedding+Dress+Preservation">
+                                        <span>Wedding Dress Preservation</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Dress-Lingerie-Tape-Accessories/b/10460923011?title=Dress+%26+Lingerie+Tape">
+                                        <span>Dress &amp; Lingerie Tape</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Slips-Accessories/b/11351918011?title=Slips">
+                                        <span>Slips</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+  </ul>
+
+	</li>
+  
+	<li class="navigationGroup" id="globalNavItem6">
+      
+
+
+
+
+
+
+
+        
+                <a href="http://www.tjformal.com/Shoes/b/10460910011?title=Shoes" class="mainNode">
+                        <span>Shoes</span>
+                </a>
+        
+        
+
+
+
+
+  <ul class="linkList navigationLinks">
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Pumps-Shoes-Shoes/b/10460928011?title=Pumps+Shoes">
+                                        <span>Pumps Shoes</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Sandals-Shoes/b/10460929011?title=Sandals">
+                                        <span>Sandals</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                                <a href="http://www.tjformal.com/Boots-Shoes/b/10460927011?title=Boots">
+                                        <span>Boots</span>
+                                </a>
+                        
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+  </ul>
+
+	</li>
+  
+	<li class="navigationGroup" id="globalNavItem7">
+      
+
+
+
+
+
+
+
+        
+        
+                
+                        
+                        
+                                <a href="http://www.tjformal.com/info/Prom_Tips" class="mainNode">
+                                        <span>Tips &amp; Info</span>
+                                </a>
+                        
+                
+        
+
+
+
+
+  <ul class="linkList navigationLinks">
+    
+      <li>
+                
+                        
+                        
+                                <a href="http://www.tjformal.com/info/Prom_Tips">
+                                        <span>Prom Tips</span>
+                                </a>
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                        
+                                <a href="http://www.tjformal.com/info/Wedding_Tips">
+                                        <span>Wedding Tips</span>
+                                </a>
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                        
+                                <a href="http://www.tjformal.com/info/Avoiding_Knock_Off_Websites">
+                                        <span>Avoiding Counterfeiters</span>
+                                </a>
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                        
+                                <a href="http://www.tjformal.com/info/Testimonials">
+                                        <span>Testimonials</span>
+                                </a>
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                        
+                                <a href="http://www.tjformal.com/info/Dress_Style_Guide">
+                                        <span>Dress Style Guide</span>
+                                </a>
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                        
+                                <a href="http://www.tjformal.com/info/Fashion_Glossary">
+                                        <span>Fashion Glossary</span>
+                                </a>
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+      <li>
+                
+                        
+                        
+                                <a href="http://www.tjformal.com/info/sizeGuide">
+                                        <span>Size Guide &amp; Measuring</span>
+                                </a>
+                        
+                
+                
+                
+
+
+
+      </li>
+    
+  </ul>
+
+	</li>
+  
+</ul></div></div>
+        <div id="header-9"></div>
+        <div id="header-10"></div>
+      </div><!-- headerSlots -->
+ 
+      <div id="mainContentWrapper">
+        <div id="top-1"></div>
+        <div id="top-2"></div>
+        <div id="top-3"></div>
+        <div id="top-4"></div>
+        <div id="top-5"></div>
+        <div id="top-6"></div>
+        <div id="top-7"></div>
+        <div id="top-8"></div>
+        <div id="top-9"></div>
+        <div id="top-10"></div>
+ 
+        <div id="columns">
+          <div id="leftColumn">
+            <div id="left-1"></div>
+            <div id="left-2"></div>
+            <div id="left-3"></div>
+            <div id="left-4"></div>
+            <div id="left-5"></div>
+            <div id="left-6"></div>
+            <div id="left-7"></div>
+            <div id="left-8"></div>
+            <div id="left-9"></div>
+            <div id="left-10"></div>
+          </div><!-- leftColumn -->
+ 
+          <div id="centerColumn">
+            <div id="center-1"></div>
+            <div id="center-2"></div>
+            <div id="center-3"></div>
+            <div id="center-4"></div>
+            <div id="center-5"></div>
+            <div id="center-6"></div>
+            <div id="center-7"></div>
+            <div id="center-8"></div>
+            <div id="center-9"></div>
+            <div id="center-10"><div class="starter-amazon-com-CKEditorHTML-1">
+
+
+
+
+
+
+	<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/webstore2/Webfonts/tahoma.css" type="text/css">
+
+	<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/webstore2/Webfonts/inherit.css" type="text/css">
+
+
+<!-- Safe HTML Widget -->
+
+    <h3 style="margin: 0px; padding: 0px; border: 0px; font-size: 1em; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><strong><font face="verdana,arial,helvetica,sans-serif" size="2">Privacy Policy</font></strong></h3>
+&nbsp;
+
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">This notice describes our Privacy Policy.&nbsp;<b>By visiting our site, you are accepting the practices described in this Privacy Policy.</b></font></p>
+
+<h3 style="margin: 0px; padding: 0px; border: 0px; font-size: 1em; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">What Personal Information About Customers Do We Gather?</font></h3>
+
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">Here are the types of information we gather.</font></p>
+
+<ul style="margin: 0px 0px 1.5em; padding-right: 0px; padding-left: 3em; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);">
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2"><b>Information You Give Us:</b>&nbsp;We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests and communicating with you.</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2"><b>Automatic Information:</b>&nbsp;We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our Web site.</font></li>
+</ul>
+
+<h3 style="margin: 0px; padding: 0px; border: 0px; font-size: 1em; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">What About Cookies?</font></h3>
+
+<ul style="margin: 0px 0px 1.5em; padding-right: 0px; padding-left: 3em; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);">
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2">Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser, to provide certain features, and to allow storage of items in your shopping cart between visits.</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2">The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.</font></li>
+</ul>
+
+<h3 style="margin: 0px; padding: 0px; border: 0px; font-size: 1em; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">Do We Share the Information We Receive?</font></h3>
+
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">We share information as described below.</font></p>
+
+<ul style="margin: 0px 0px 1.5em; padding-right: 0px; padding-left: 3em; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);">
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2"><b>Businesses and Individuals:</b>&nbsp;We work closely with other businesses and individuals, and we may share information about you with those businesses and individuals.</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2"><b>Third-Party Service Providers:</b>&nbsp;We may employ other companies and individuals to perform functions on our behalf. Examples include providing Web site services, fulfilling orders, delivering packages, sending postal mail and e-mail, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2"><b>Business Transfers:</b>&nbsp;As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise).</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2"><b>Our Protection and Protection of Others:</b>&nbsp;We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect our rights, property, or safety and those of our users, and others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2"><b>With Your Consent:</b>&nbsp;Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.</font></li>
+</ul>
+
+<h3 style="margin: 0px; padding: 0px; border: 0px; font-size: 1em; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">How Secure Is Information About Me?</font></h3>
+
+<ul style="margin: 0px 0px 1.5em; padding-right: 0px; padding-left: 3em; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);">
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2">Your information is protected during transmission by Secure Sockets Layer (SSL) software, which encrypts information you input.</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2">Only the last four digits of your credit card numbers are revealed when confirming an order. Of course, the entire credit card number is transmitted to the appropriate credit card company during order processing.</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2">It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.</font></li>
+</ul>
+
+<h3 style="margin: 0px; padding: 0px; border: 0px; font-size: 1em; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">Which Information Can I Access?</font></h3>
+
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">We give you access to information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information.</font></p>
+
+<h3 style="margin: 0px; padding: 0px; border: 0px; font-size: 1em; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">What Choices Do I Have?</font></h3>
+
+<ul style="margin: 0px 0px 1.5em; padding-right: 0px; padding-left: 3em; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);">
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2">As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain features.</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2">You can add or update certain information on pages such as those referenced in the "<u>Which Information Can I Access?</u>" section. When you update information, a copy of the prior version may be kept for our records.</font></li>
+	<li style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;"><font face="verdana,arial,helvetica,sans-serif" size="2">The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.</font></li>
+</ul>
+
+<h3 style="margin: 0px; padding: 0px; border: 0px; font-size: 1em; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">Terms of Use, Notices, and Revisions</font></h3>
+
+<p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px; font-size: 12px; font-family: Tahoma; vertical-align: baseline; color: rgb(0, 0, 0); line-height: 18px; -webkit-text-fill-color: rgb(0, 0, 0); -webkit-text-stroke-color: rgb(0, 0, 0);"><font face="verdana,arial,helvetica,sans-serif" size="2">If you choose to visit this Web site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. Our business changes constantly, and our Privacy Policy and the Terms of Use will change also. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.]]</font></p>
+
+
+
+</div></div>
+            <div id="center-11"></div>
+            <div id="center-12"></div>
+            <div id="center-13"></div>
+            <div id="center-14"></div>
+            <div id="center-15"></div>
+            <div id="center-16"></div>
+            <div id="center-17"></div>
+            <div id="center-18"></div>
+            <div id="center-19"></div>
+            <div id="center-20"></div>
+          </div><!-- centerColumn -->
+ 
+          <div id="rightColumn">
+            <div id="right-1"></div>
+            <div id="right-2"></div>
+            <div id="right-3"></div>
+            <div id="right-4"></div>
+            <div id="right-5"></div>
+            <div id="right-6"></div>
+            <div id="right-7"></div>
+            <div id="right-8"></div>
+            <div id="right-9"></div>
+            <div id="right-10"></div>
+          </div><!-- rightColumn -->
+        </div><!-- columns -->
+ 
+        <div id="bottom-1"></div>
+        <div id="bottom-2"></div>
+        <div id="bottom-3"></div>
+        <div id="bottom-4"></div>
+        <div id="bottom-5"></div>
+        <div id="bottom-6"></div>
+        <div id="bottom-7"></div>
+        <div id="bottom-8"></div>
+        <div id="bottom-9"></div>
+        <div id="bottom-10"></div>
+      </div> <!-- mainContentWrapper -->
+ 
+      <div id="footer">
+        <div id="footer-1"></div>
+        <div id="footer-2"></div>
+        <div id="footer-3"></div>
+        <div id="footer-4"></div>
+        <div id="footer-5"><div class="starter-amazon-com-LinksWidget-2">
+
+
+
+<div class="dynamicMenu">
+
+
+	
+	
+		
+		
+		<ul>
+    	    
+      	        
+      	        	
+                    <li class="dynamicMenuItem dynamicMenuItem1 oddRow">
+                         
+                            
+                            
+                                <a href="http://www.tjformal.com/">Home</a>
+                            
+                            
+                        
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+      	        	
+                    <li class="dynamicMenuItem dynamicMenuItem2 evenRow">
+                         
+                            
+                            
+                            
+                                <a href="http://www.tjformal.com/info/About_Us">About Us</a>
+                           
+                        
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+      	        	
+                    <li class="dynamicMenuItem dynamicMenuItem3 oddRow">
+                         
+                            
+                            
+                            
+                                <a href="http://www.tjformal.com/info/FAQ">FAQ</a>
+                           
+                        
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+      	        	
+                    <li class="dynamicMenuItem dynamicMenuItem4 evenRow">
+                         
+                            
+                            
+                            
+                                <a href="http://www.tjformal.com/info/sizeGuide">Size Guide</a>
+                           
+                        
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+      	        	
+                    <li class="dynamicMenuItem dynamicMenuItem5 oddRow">
+                         
+                            
+                            
+                            
+                                <a href="http://www.tjformal.com/info/shipping">Shipping</a>
+                           
+                        
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+      	        	
+                    <li class="dynamicMenuItem dynamicMenuItem6 evenRow">
+                         
+                            
+                            
+                            
+                                <a href="http://www.tjformal.com/info/returns">Returns</a>
+                           
+                        
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+      	        	
+                    <li class="dynamicMenuItem dynamicMenuItem7 oddRow">
+                         
+                            
+                            
+                            
+                                <a href="http://www.tjformal.com/info/contactUs">Contact Us</a>
+                           
+                        
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+      	        	
+                    <li class="dynamicMenuItem dynamicMenuItem8 evenRow">
+                         
+                            
+                            
+                            
+                                <a href="http://www.tjformal.com/info/privacy">Privacy Policy</a>
+                           
+                        
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+      	        
+      	        	
+                    <li class="dynamicMenuItem dynamicMenuItem9 oddRow">
+                         
+                            
+                            
+                            
+                                <a href="http://www.tjformal.com/info/terms">Terms and Conditions</a>
+                           
+                        
+      	            </li>
+      	        
+                
+                    <!-- Link Supressed -->
+                
+            
+  	    </ul>
+  	
+	
+	
+	
+
+</div>
+</div></div>
+        <div id="footer-6"><div class="starter-amazon-com-CKEditorHTML-1">
+
+
+
+
+
+
+
+<!-- Safe HTML Widget -->
+
+    <table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 1000px;">
+	<tbody>
+		<tr>
+			<td style="width: 439px; text-align: left;">
+				<a href="http://www.bbb.org/southwestern-missouri/business-reviews/formal-wear/t-j-formal-in-joplin-mo-15683"><img alt="TJ Formal BBB Accredited Business" src="/media/Site%20Files/Merchandising%20Files/bbb-logo.png" style="width:180px; height:69px" title="Better Business Bureau Logo"></a>
+				&nbsp; 
+				<a href="http://promwebsitesassociation.com/"><img alt="Approved by Prom Websites Association" src="/media/Site%20Files/Merchandising%20Files/pwa_seal.jpg" style="width:150px; height:69px" title="Shop with Confidence"></a>
+			</td>
+			<td style="width: 206px; text-align: left;"><img alt="TJ Formal Email List" src="/media/Site%20Files/Merchandising%20Files/join-mailing-list.png" style="width:135px; height:69px" title="Join Email list"></td>
+			<td style="width: 337px;">
+				<table align="right" border="0" cellpadding="1" cellspacing="1" style="width: 310px; height: 70px;">
+					<tbody>
+						<tr>
+							<td style="width: 232px; text-align: left;"><span style="color:#FFFFFF;">Find us on:</span></td>
+						</tr>
+						<tr>
+							<td style="width: 232px; text-align: left;">
+								<a href="https://www.facebook.com/TJFormalDresses" target="_blank"><img alt="TJ Formal Facebook" src="/media/Site%20Files/Merchandising%20Files/but_mini_facebook.gif" style="width:29px; height:29px" title="Facebook"></a>
+								&nbsp;&nbsp; 
+								<a href="http://twitter.com/TJFormal" target="_blank"><img alt="TJ Formal Twitter" src="/media/Site%20Files/Merchandising%20Files/but_mini_twitter.gif" style="width:30px; height:29px" title="Twitter"></a>
+								&nbsp;&nbsp; 
+								<a href="http://pinterest.com/tjformal/" target="_blank"><img alt="TJ Formal Pinterest" src="/media/Site%20Files/Merchandising%20Files/but_mini_pinterest.gif" style="width:29px; height:29px" title="Pinterest"></a>
+								&nbsp;&nbsp; 
+								<a href="https://instagram.com/tjformal/" target="_blank"><img alt="TJ Formal Instagram" src="/media/Site%20Files/Merchandising%20Files/but_mini_instagram.gif" style="width:29px; height:29px" title="Instagram"></a>
+								&nbsp;&nbsp; 
+								<a href="http://wanelo.com/tjformal" target="_blank"><img alt="TJ Formal Wanelo" src="/media/Site%20Files/Merchandising%20Files/but_mini_wanelo.gif" style="width:29px; height:29px" title="Wanelo"></a>
+								&nbsp;&nbsp; 
+								<a href="http://www.tjformaldresses.com/" target="_blank"><img alt="TJ Formal Blog" src="/media/Site%20Files/Merchandising%20Files/but_mini_blogger.gif" style="width:30px; height:29px" title="Blog"></a>
+								&nbsp;&nbsp; 
+								<a href="https://www.youtube.com/user/tjformal" target="_blank"><img alt="TJ Formal You Tube" src="/media/Site%20Files/Merchandising%20Files/but_mini_youtube.gif" style="width:29px; height:29px" title="You Tube"></a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+</div></div>
+        <div id="footer-7"><div class="com-amazon-webstore-Copyright-2">
+
+<div class="dynamicText">
+	Copyright 2015 Tuxedo Junction LLC
+</div>
+</div></div>
+        <div id="footer-8"><div class="starter-amazon-com-ImageWidget-1-latest">
+
+<div class="imageWidget">
+<a href="http://webstore.amazon.com/?ld=ELWBAPoweredByAmazonUS" target="_blank">
+	<img src="http://ecx.images-amazon.com/images/I/11EXAWc84mL.png" alt="eCommerce Service Provided by Amazon" title="Service Provided by Amazon" width="126" height="45">
+</a>
+</div>	</div></div>
+        <div id="footer-9"></div>
+        <div id="footer-10"></div>
+      </div><!-- footer -->
+ 
+      <div id="javascript-slot"></div>
+          
+    
+    
+    
+    
+    
+    
+    
+    
+
+ 
+      <div id="analytics-1"></div>
+      <div id="analytics-2"><div class="starter-amazon-com-OmnitureAccountIDWidget-1">
+
+                                                                                                                                                             
+
+</div></div>
+      <div id="analytics-3"><script type="text/javascript">
+//<![CDATA[
+amznAnalytics.setElement("server","www.tjformal.com");
+amznAnalytics.setElement("channel","Info");
+//]]>
+</script><noscript></noscript><div class="starter-amazon-com-InfoPagesAnalyticsVariablesWidget-1"><script type="text/javascript">
+  //
+  amznAnalytics.setElement("pageTitle", document.title);
+  //
+</script>
+</div></div>
+      <div id="analytics-4"><div class="starter-amazon-com-AnalyticsMappingWidget-1">
+
+
+                                                                                                                                                             
+
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript">
+if('' != amznAnalytics.getElement("accountId") && null != amznAnalytics.getElement("accountId")){
+        
+    
+           
+               s.pageName = amznAnalyticsLib.getInfoPageName();
+               
+    
+           
+               s.channel = amznAnalyticsLib.getInfoChannel();
+               
+    
+               
+    
+           
+               s.prop1 = amznAnalyticsLib.getInfoPageName();
+               
+    
+           
+               s.prop3 = amznAnalyticsLib.getInfoCategory();
+               
+        
+    
+    
+    if(null == s.events){
+        s.events="";
+         
+    }
+    
+    
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code=s.t();if(s_code)document.write(s_code)//-->
+}
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://amazonwebstore.122.2o7.net/b/ss/webstoretemplatedev/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+                                                                                                                                                             
+
+</div></div>
+      <div id="analytics-5"><div class="starter-amazon-com-AnalyticsGlobalMappingWidget-1">
+
+
+
+<!-- test -->
+
+
+<script type="text/javascript">
+    var s_am_account = "amznstorefront2global"; 
+</script>
+
+                                                                                                                                                                 
+<!-- s_am_code.js --><script language="JavaScript" type="text/javascript" src="http://z-ecx.images-amazon.com/images/G/01/webstore2/analytics/s_am_code_en_US.js"></script>
+
+
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript">
+    
+
+       
+           s_am.prop33 = amznAnalyticsLib.getInfoChannel();
+           
+
+       
+           s_am.prop31 = amznAnalyticsLib.getInfoPageName();
+           
+
+       
+           s_am.prop48 = amznAnalyticsLib.getInfoCategory();
+           
+
+       
+           s_am.pageName = amznAnalyticsLib.getInfoPageName();
+           
+
+       
+           s_am.channel = amznAnalyticsLib.getInfoChannel();
+           
+    
+
+
+if(null == s_am.events){
+    s_am.events="";
+     
+}
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_am_code=s_am.t();if(s_am_code)document.write(s_am_code)//-->
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+    src="https://amazonwebstore.122.2o7.net/b/ss/amznstorefront2global/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+                                                                                                                                                             
+
+
+</div></div>
+      <div id="analytics-6"></div>
+      <div id="analytics-7"><div class="starter-amazon-com-AffiliatesWidget-1">
+
+
+
+
+<input type="hidden" id="shareASaleId" value="">
+<input type="hidden" id="pmgId" value="">
+<input type="hidden" id="adCenterId" value="">
+<input type="hidden" id="linkShareId" value="">
+<input type="hidden" id="googleAdwordsId" value="">
+<input type="hidden" id="webgainsId" value="">
+<input type="hidden" id="webgainsEventId" value="">
+<input type="hidden" id="cjId" value="">
+<input type="hidden" id="cjActionId" value="">
+</div></div>
+ 
+    </div> <!-- innerWrapper -->
+ 
+  </div> <!-- wrapper -->
+
+    
+ 
+
+
+<script>
+     var iframeChecker = iframeChecker || {};
+     iframeChecker.getNonSecureDomain = function(){
+       		const nonSecureDomain = "www.tjformal.com";
+       		return nonSecureDomain;
+     }();
+     
+     iframeChecker.getAapSecureDomain = function(){
+         const aapSecureDomain = "poweredby.amazon.com";
+    		return aapSecureDomain;
+  	 }();
+  
+ 	 iframeChecker.getLapSecureDomain = function(){
+ 			const lapSecureDomain = "www-tjformal-com.webstorepowered.com";
+ 			return lapSecureDomain;
+	 }();
+
+</script>
+
+	<!--ws.iframe-js-insert.js-->
+	<script type="text/javascript" src="http://z-ecx.images-amazon.com/images/I/01hj30QYdJL.js"></script>
+
+
+
+
+
+<script>
+/* <![CDATA[ */
+jQuery(window).load(function() {
+	var prefetchListSource = 'http://www.tjformal.com/secureSimpleApp?mn_ssa_keys=%2CpageletName%2CprefetchBaseAppName&mn_ssa_token=h9PPoBwx0q9aFRyO4y37ZnWfb6E%3D&pageletName=webstore-iframe-prefetch-list&prefetchBaseAppName=IncaContentApplication';
+	jQuery.getJSON(prefetchListSource, {asinsCSV : (typeof searchResultsAsins != "undefined" ? searchResultsAsins : '')}, function(prefetchUrlList) {
+		if (prefetchUrlList == null || typeof prefetchUrlList != "object" 
+				|| typeof prefetchUrlList.length == "undefined") {
+			
+			return;
+		}
+
+		var bodyTag = document.getElementsByTagName('body')[0];
+		for (urlIdx in prefetchUrlList) {
+	        	var prefetchMedia = prefetchUrlList[urlIdx];
+	        	var prefetchUrl = prefetchMedia.url;
+	        	var mediaType = prefetchMedia.type; 
+	        	if (prefetchUrl == null || (typeof prefetchUrl == "string" && prefetchUrl.length == 0))
+		        	continue;
+	        	
+		       appendIFrame(prefetchUrl);
+		}
+	});
+});
+
+function appendIFrame(src) {
+	        iFrm = document.createElement('IFRAME');
+            iFrm.setAttribute("src", src);         
+	        iFrm.style.display = 'none'; 	        
+	        document.body.appendChild(iFrm);
+	         
+	  }
+/* ]]>*/
+</script>
+
+
+
+
+<script>
+/* <![CDATA[ */
+     if(typeof ws === "undefined"){
+    	 	var ws = {};
+     };
+     ws.WebstoreOverallPageProperties = {
+		'clientSidePreLoadingEnabled' : "true"
+	 };
+/* ]]> */
+</script>
+
 
 </body></html>
