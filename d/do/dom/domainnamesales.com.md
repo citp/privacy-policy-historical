@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainnamesales.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111012428id_/http%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainnamesales.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511095635id_/http%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.*
 
 # DomainNameSales.com
 
@@ -21,17 +21,17 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 DomainNameSales.com collects and uses Users personal information for the following purposes:
 
   * _To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * _To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you. 
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
   * _To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs. 
+Your information helps us to more effectively respond to your customer service requests and support needs.
   * _To process transactions_  
-We may use the information Users provide about themselves when listing domain names for brokerage and in receiving offers or inquiries about listed domain names. This information may be shared with other listing services and brokers for the purpose of acting on your inquiry. 
-  * _To share your information with third parties_  
+We may use the information Users provide about themselves when listing domain names for brokerage and in receiving offers or inquiries about listed domain names. This information may be shared with other listing services and brokers for the purpose of acting on your inquiry.
+  *  _To share your information with third parties_  
 We may share information with third parties for marketing or other purposes.
   * _To send periodic emails_  
-The email address Users provide to us will only be used to send them information and updates pertaining to their listings and/or inquiries. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
+The email address Users provide to us will only be used to send them information and updates pertaining to their listings and/or inquiries. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
