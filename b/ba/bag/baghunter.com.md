@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baghunter.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207104515id_/http%3A//baghunter.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baghunter.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511021519id_/http%3A//baghunter.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Baghunter.com | Baghunter
 
