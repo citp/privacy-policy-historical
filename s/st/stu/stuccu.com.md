@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stuccu.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107035021id_/http%3A//www.stuccu.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuccu.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512015142id_/https%3A//stuccu.com/privacypolicy) for the most accurate reproduction.*
 
-# stuccu.com - Find Your Product
+# stuccu.com - Discover your next product
 
 ## Privacy Policy
 
@@ -64,4 +64,5 @@ What happens when you link to another site?
 
 Our websites contain links to other websites. This privacy policy applies only to our sites, so you should always be aware when you are moving to another site and read the privacy statement of any site which collects personal information. 
 
-For more information please send us an email to [contact@Stuccu.com](mailto:contact@Stuccu.com)
+|   
+---|---
