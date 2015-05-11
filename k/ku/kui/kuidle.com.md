@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuidle.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121005626id_/http%3A//www.kuidle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuidle.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512005227id_/http%3A//www.kuidle.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Kuidle.com
 
@@ -12,8 +12,8 @@ The processing of personal data means any operation or set of operations, also c
 According to the rules set out by the Data Protection Code, data processing carried out by MOQU ADV will be based on principles of correctness, lawfulness and transparency and the protection of the User’s privacy and rights.
 
  **Owner and Responsible for processing  **  
-The identification of the owner for processing is: MOQU ADV Srl, registered office in Piazza Pietro Annigoni 9 / b, Florence, Zip code 50122.   
-The responsible for processing is:  Register.it SpA, with registered office in Piazza Pietro Annigoni 9 / b, Florence, Zip Code 50122, duly appointed Responsible for processing pursuant to art. 29 of the Privacy Code, as the systems management service provider of the Site.   
+The identification of the owner for processing is: MOQU ADV Srl, registered office in Viale Giovine Italia 17, Florence, Zip code 50122.   
+The responsible for processing is:  Register.it SpA, with registered office in Viale Giovine Italia 17, Florence, Zip Code 50122, duly appointed Responsible for processing pursuant to art. 29 of the Privacy Code, as the systems management service provider of the Site.   
 The updated list of data processors (if any), is available at the headquarters of the processing owner. You can contact the data processors at any time - through the owner offices MOQU - to exercise your rights under Article 7 of the Privacy Code.  
  **  
 Purpose of Data Processing**     
@@ -83,7 +83,7 @@ Contact Information**
 For further information and to exercise the rights stated under Article 7 of Legislative Decree 196/2003 mentioned above, please write to:
 
 _MOQU ADV Srl  
-Piazza Pietro Annigoni 9/b   
+Viale Giovine Italia 17  
 Firenze - CAP 50122  
 _  
 The party concerned may also send their request using the [contact form](http://www.kuidle.com/contacts.html). 
