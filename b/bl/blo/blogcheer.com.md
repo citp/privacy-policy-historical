@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogcheer.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129225303id_/http%3A//blogcheer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogcheer.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511102709id_/http%3A//blogcheer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | How to Blog - Best Blogging Tips
+# Privacy Policy - How to Blog - Best Blogging Tips
 
 By using [**Blogcheer**](http://blogcheer.com/ "How to blog and Best Blogging Tips").com you agree to our terms and conditions and privacy policy of this website. Blogcheer terms and conditions apply to all the users who visit our website and if you don’t agree to our terms and condition, then kindly don’t visit the website. Blogcheer respect your privacy and will not use your personal information with anyone. Blogcheer has created this privacy policy in order to demonstrate our determination to your privacy policy.
 
@@ -16,9 +16,9 @@ We use your information for contacting you if required. Other than that, we use 
 
 Yes, we use cookies to count return visits to our website, for enabling automatic logins, for personalizing the site and to deliver interest based content. For monitoring traffic on our website.
 
-**Do we show third party[advertisement](http://blogcheer.com/advertisement/ "advertisement")?**
+**Do we show third party[advertisement](http://blogcheer.com/advertisement/)?**
 
-Yes, we display some paid advertisement on our website which may take you to some other website or any external source. [Google](http://blogcheer.com/category/google/ "Google") as a third party vendor uses cookies to serve ads. Google’s use of DART cookies enable it to serve ads, based on their visit to your website and other sites on the internet. We are not responsible for the content of the external website.
+Yes, we display some paid advertisement on our website which may take you to some other website or any external source. [Google](http://blogcheer.com/category/google/) as a third party vendor uses cookies to serve ads. Google’s use of DART cookies enable it to serve ads, based on their visit to your website and other sites on the internet. We are not responsible for the content of the external website.
 
 **Do we use Third Party Links?**
 
