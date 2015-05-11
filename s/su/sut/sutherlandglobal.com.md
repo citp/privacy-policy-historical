@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121071554id_/http%3A//www.sutherlandglobal.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511040700id_/http%3A//www.sutherlandglobal.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Corporate Policy | Sutherland Global Services
 
