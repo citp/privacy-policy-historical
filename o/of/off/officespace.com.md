@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officespace.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703235300id_/http%3A//officespace.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officespace.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512164608id_/http%3A//www.officespace.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,6 +23,8 @@ The Site may collect and store information, personal or otherwise, that you volu
 The Site also collects and stores information that is generated automatically as you navigate through the Site and use the Site. For example, to enhance your experience on the Site, the Site uses a standard feature found in browser software called a "cookie." Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us track user trends and patterns. Other examples of information that the Site may collect as you navigate it include, but are not limited to, date and time of visit, referring URL address (location from which a visitor comes to the Site), type of Internet browser, and visitor's IP address. This information allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. 
 
 Cookie data is linked to personally identifiable information for the purposes of data analysis and quality control. However, data from individual cookies will never be shared with or sold to third parties without your permission. 
+
+The Site uses Google Analytics to track User Sessions. This tracking does not connect any of your personally identifiable information back to Google. 
 
   3. Merging of Information. 
 
