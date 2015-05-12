@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akposjokes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626165004id_/http%3A//www.akposjokes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akposjokes.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512193901id_/http%3A//www.akposjokes.com/privacy) for the most accurate reproduction.*
 
 # Akpos Jokes: Largest collection of Akpos Jokes, Funny Akpos Jokes, Nigerian Jokes, Ghanaian Jokes, African jokes
 
