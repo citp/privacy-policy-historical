@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the zotezo.com privacy policy that was archived on 2014-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141205093435id_/http%3A//www.zotezo.com/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zotezo.com privacy policy that was archived on 2015-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150512183346id_/http%3A//www.zotezo.com/Privacy-Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta charset="utf-8">
+<meta property="fb:admins" content="1719369526">
 <title>Privacy Policy - Zotezo.com</title>
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,7 +16,8 @@
   <meta name="keywords" content="privacy policy,Zotezo, Health Shop, health and beauty products">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-                   <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//np.lexity.com/embed/XC/d13ea8ce1cc559b722b9f46433831b28?id=3fa9721b"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>                                                               <script type="text/javascript">
+
+                   <script type="text/javascript" async="" src="//cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>                                                               <script type="text/javascript">
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -27,12 +29,89 @@ ga('require', 'displayfeatures');
 ga('send', 'pageview');
 
 </script> 
-           
+           <script type="text/javascript">
+//<![CDATA[
+
+var Cloud_Search = {
+  apiKey: '7e7f478fea3c3d18fc3c0cead2b27163',
+  price_template: '<span class="currency">INR 0.00</span>',
+    lang: {
+    'lbl_showing_results_for': 'Showing results for',
+    'lbl_see_details': 'See details',
+    'lbl_see_more_results_for': 'See more results for',
+    'lbl_suggestions': 'Suggestions',
+    'lbl_products': 'Products',
+    'lbl_categories': 'Categories',
+    'lbl_manufacturers': 'Manufacturers',
+    'lbl_pages': 'Pages',
+    'lbl_did_you_mean': 'Did you mean'
+  }
+};
+
+    
+
+    (function () {
+        var ajax = null;
+
+        Cloud_Search.EventHandlers = {
+            OnPopupRender: [
+                function () {
+                    var popup = $('#instant_search_menu'),
+                        products = $('.block-products dd', popup),
+                        prices = products.find('.price .currency'),
+                        pids = [];
+
+                    prices.hide();
+
+                    ajax !== null && ajax.abort();
+
+                    products.each(function () {
+                        pids.push($(this).attr('data-id'));
+                    });
+
+                    if (pids) {
+                        ajax = $.getJSON(
+                            xcart_web_dir + '/cloud_search_api.php',
+                            { method: 'get_prices', ids: pids.join(',') },
+                            updatePrices
+                        );
+                    }
+
+                    function updatePrices(actualPrices) {
+                        prices.each(function (index) {
+                            var e = $(this),
+                                priceHtml = e.html(),
+                                price = actualPrices[index];
+
+                            price !== null && e.html(priceHtml.replace(/[\d\.\,]+/, price));
+                        }).show();
+                    }
+                }
+            ]
+        };
+    })();
+
+    
 
 
-<script type="text/javascript" src="//cloudsearch.x-cart.com/static/cloud_search_xcart.js"></script>      
+(function () {
+  var cs = document.createElement('script'); cs.type = 'text/javascript'; cs.async = true;
+  cs.src = '//cdn-qualiteamsoftwar.netdna-ssl.com/cloud_search_xcart.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(cs, s);
+})();
 
-                                        
+
+
+//]]>
+</script>
+
+
+
+
+
+       
+
+                                          
 
 
 
@@ -46,7 +125,6 @@ ga('send', 'pageview');
 
   
 
-  
 
 
 
@@ -69,40 +147,39 @@ ga('send', 'pageview');
 .sf-menu, .sf-menu li { background: ; }
 .sf-menu ul li { background: #015B8E; }
 .sf-menu a { color: #ffffff }
-.sf-menu li:hover, .sf-menu li.sfHover { background: #F6821F; }
+.sf-menu li:hover, .sf-menu li.sfHover { background: #e05717; }
 .sf-menu a:hover { color: #FFFFFF }
 .mean-container .mean-bar { background: #00407F; }
 body,.content_bg_container { background: #FFFFFF url(http://www.zotezo.com/skin/reboot/images/backgrounds/)!important; }
 .container_main { background: #FEFEFE; }
 a { color: #015B8E; text-decoration: none; }
-a:hover { color: #F6821F; text-decoration: none; }
+a:hover { color: #f15a22; text-decoration: none; }
 .panel-default-m { border-color: #FFFFFF!important; }
 .panel-default-m > .panel-heading { color: #000000; background-color: #EEEEEE; border-color: #FFFFFF; }
 .panel-default-d { border-color: #FFFFFF; }
 .panel-default-d > .panel-heading { color: #000000; background-color: #EEEEEE; border-color: #FFFFFF; }
-.d_underlined h2 { border-bottom: 3px solid #ED3B24; }
-.m_underlined h3 { border-bottom: 3px solid #ED3B24; }
-.f_underlined h3 { border-bottom: 3px solid #FFFFFF; }
+.d_underlined h2 { border-bottom: 3px solid #f15a22; }
+.m_underlined h3 { border-bottom: 3px solid #f15a22; }
+.f_underlined h3 { border-bottom: 3px solid #0085ca; }
 .resp-tab-item.resp-tab-active { border-top: 3px solid #1DC6FF; }
 div.resp-vtabs .resp-tab-item.resp-tab-active { border-left: 3px solid #1DC6FF; }
 .resp-arrow { border-top: 12px solid #1DC6FF; }
 .resp-accordion.resp-tab-active, .resp-accordion.resp-tab-active:hover { background: #1DC6FF!important; color: #fff; }
 ul.row_view li .product_block:hover { border: 1px solid #FFFFFF; }
-.footer_bg_container { background: #FFFFFF; }
-.container_footer { background: #015B8E; color: #FFFFFF; }
-.container_footer a:link, .container_footer a:visited { color: #FFFFFF; }
-.container_footer a:hover { color: #FFFFFF; }
+.footer_bg_container { background: #0085ca; }
+.container_footer { background: #E6E6E6; color: #0085ca; }
+.container_footer a:link, .container_footer a:visited { color: #0085ca; }
+.container_footer a:hover { color: #0085ca; }
 .btn-custom { color: #fff; background-color: #015B8E; border-color: #ffffff; }
-.btn-custom:hover { color: #fff; background-color: #F6821F; border-color: #fff; }
+.btn-custom:hover { color: #fff; background-color: #f26134; border-color: #fff; }
 .btn-custom:active, .btn-custom.active { background-color: #666; }
 .pagination > li > a, .pagination > li > span { color: #fff!important; background-color: #015B8E!important; border: 1px solid #ffffff!important; }
-.pagination > li > a:hover, .pagination > li > a:focus { background-color: #F6821F!important; }
+.pagination > li > a:hover, .pagination > li > a:focus { background-color: #f26134!important; }
 .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus { color: #fff!important; background-color: #666!important; border-color: #ffffff!important; }
 
 </style>
 
 <link rel="stylesheet" type="text/css" href="http://www.zotezo.com/skin/reboot/css/themes/Custom.css">
-
 
 
 
@@ -129,31 +206,11 @@ ul.row_view li .product_block:hover { border: 1px solid #FFFFFF; }
     
     
   
-  
-
-<script type="text/javascript">
-//<![CDATA[
-(function(d, w) {
-var x = d.getElementsByTagName('SCRIPT')[0];
-var f = function () {
-var s = d.createElement('SCRIPT');
-s.type = 'text/javascript';
-s.async = true;
-s.src = '//np.lexity.com/embed/XC/d13ea8ce1cc559b722b9f46433831b28?id=3fa9721b';
-x.parentNode.insertBefore(s, x);
-};
-w.attachEvent ? w.attachEvent('onload', f) : w.addEventListener('load', f, false);
-}(document, window));
-//]]>
-</script>
 
 
 
-<meta property="fb:app_id" content="268364423236485">
-<meta property="fb:admins" content="152521471443786">
-
-<link rel="stylesheet" type="text/css" href="http://www.zotezo.com/var/cache/1.3bec10877c971c3a82cda1db3747b9b0.css">
-<script type="text/javascript" src="http://www.zotezo.com/var/cache/1.cdb83a6b24a5880214f599796835f9e4.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.zotezo.com/var/cache/1.62e3f5bfcab360888d3212ad69c2f94e.css">
+<script type="text/javascript" src="http://www.zotezo.com/var/cache/1.550f59b101cc14f24aea46ff3a3b0c0e.js"></script>
 
 
 
@@ -168,34 +225,34 @@ w.attachEvent ? w.attachEvent('onload', f) : w.addEventListener('load', f, false
 .sf-menu, .sf-menu li { background: ; }
 .sf-menu ul li { background: #015B8E; }
 .sf-menu a { color: #ffffff }
-.sf-menu li:hover, .sf-menu li.sfHover { background: #F6821F; }
+.sf-menu li:hover, .sf-menu li.sfHover { background: #e05717; }
 .sf-menu a:hover { color: #FFFFFF }
 .mean-container .mean-bar { background: #00407F; }
 .content_bg_container { background: #FFFFFF url(http://www.zotezo.com/skin/reboot/images/backgrounds/); }
 .container_main { background: #FEFEFE; }
 a { color: #015B8E; text-decoration: none; }
-a:hover { color: #F6821F; text-decoration: none; }
+a:hover { color: #f15a22; text-decoration: none; }
 .panel-default-m { border-color: #FFFFFF!important; }
 .panel-default-m > .panel-heading { color: #000000; background-color: #EEEEEE; border-color: #FFFFFF; }
 .panel-default-d { border-color: #FFFFFF; }
 .panel-default-d > .panel-heading { color: #000000; background-color: #EEEEEE; border-color: #FFFFFF; }
-.d_underlined h2 { border-bottom: 3px solid #ED3B24; }
-.m_underlined h3 { border-bottom: 3px solid #ED3B24; }
-.f_underlined h3 { border-bottom: 3px solid #FFFFFF; }
+.d_underlined h2 { border-bottom: 3px solid #f15a22; }
+.m_underlined h3 { border-bottom: 3px solid #f15a22; }
+.f_underlined h3 { border-bottom: 3px solid #0085ca; }
 .resp-tab-item.resp-tab-active { border-top: 3px solid #1DC6FF; }
 div.resp-vtabs .resp-tab-item.resp-tab-active { border-left: 3px solid #1DC6FF; }
 .resp-arrow { border-top: 12px solid #1DC6FF; }
 .resp-accordion.resp-tab-active, .resp-accordion.resp-tab-active:hover { background: #1DC6FF!important; color: #fff; }
 ul.row_view li .product_block:hover { border: 1px solid #FFFFFF; }
-.footer_bg_container { background: #FFFFFF; }
-.container_footer { background: #015B8E; color: #FFFFFF; }
-.container_footer a:link, .container_footer a:visited { color: #FFFFFF; }
-.container_footer a:hover { color: #FFFFFF; }
+.footer_bg_container { background: #0085ca; }
+.container_footer { background: #E6E6E6; color: #0085ca; }
+.container_footer a:link, .container_footer a:visited { color: #0085ca; }
+.container_footer a:hover { color: #0085ca; }
 .btn-custom { color: #fff; background-color: #015B8E; border-color: #ffffff; }
-.btn-custom:hover { color: #fff; background-color: #F6821F; border-color: #fff; }
+.btn-custom:hover { color: #fff; background-color: #f26134; border-color: #fff; }
 .btn-custom:active, .btn-custom.active { background-color: #666; }
 .pagination > li > a, .pagination > li > span { color: #fff; background-color: #EEEEEE; border: 1px solid #ffffff; }
-.pagination > li > a:hover, .pagination > li > a:focus { background-color: #F6821F; }
+.pagination > li > a:hover, .pagination > li > a:focus { background-color: #f26134; }
 .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus { color: #fff; background-color: #666; border-color: #ffffff; }
 
 </style>
@@ -217,7 +274,11 @@ __fts_params += "title=" + encode64(__fts_title) + "&";
 __fts_params += "url=" + encode64(__fts_url) + "&";
 __fts_params += "referrer=" + encode64(__fts_referrer);
 document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/mm_tmon_script.php?" + __fts_params + "\"></sc"+"ript>");
-</script><script type="text/javascript" src="http://www.zotezo.com/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeSBQb2xpY3kgLSBab3Rlem8uY29t&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTQxMjA1MDkzNDM1aWRfL2h0dHAlM0EvL3d3dy56b3Rlem8uY29tL1ByaXZhY3ktUG9saWN5Lmh0bWw=&amp;referrer=AA=="></script>
+</script><script type="text/javascript" src="http://www.zotezo.com/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeSBQb2xpY3kgLSBab3Rlem8uY29t&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTUwNTEyMTgzMzQ2aWRfL2h0dHAlM0EvL3d3dy56b3Rlem8uY29tL1ByaXZhY3ktUG9saWN5Lmh0bWw=&amp;referrer=AA=="></script>
+
+
+
+
 </head>
 <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
@@ -313,7 +374,7 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 	<input type="hidden" name="posted_data[including]" value="all">
 	<span id="fluid_search_button" style="margin-right: 309px;color:#075586;"><i class="fa fa-search"></i></span>
 	<input type="text" class="fluid_search_input" name="posted_data[substring]" placeholder="Good health begins here!
-" autocomplete="off" id="dynamic_search_products" style="border-color:#075586;border-width: 1px;">
+" autocomplete="off" style="border-color:#075586;border-width: 1px;">
 	<button id="fluid_search_button" type="submit" style="margin-right:1px;height: 32px; width: 60px; font-size: 15px;background-color:#075586;color:#FFFFFF; margin-top:1px;"> <p style="margin-top: -1px;">Search</p></button>
 	</form>
 </div>
@@ -328,6 +389,9 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 
  
  <!-- TheXCartStore xMenus: MENU BEGIN -->
+
+
+     <div class="nav">
 <ul class="breadcrumb" style="margin-top: -1px;background: url('http://www.healthiza.com/skin/reboot/images/row-bg.png');height:50px;"></ul>
 <ul class="xm-menu xm-menu-2 xm-horizontal xm-baby-girl" style="margin-left: 21px; margin-right:-47px;">
 	<li class="xm-top xm-full">
@@ -405,6 +469,21 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 			<div class="xm-sub-column">
 						<ul>
 							<li>
+						<a href="http://www.zotezo.com/First-Aid/"><b>First Aid</b></a>
+							</li>
+							<li>
+						<a href="home.php?cat=10724">Thermometers</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Cold-and-Hot-Pack/">Cold &amp; Hot Pack</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Antibiotic-and-Antiseptic/">Antibiotic &amp; Antiseptic</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Bandage-Support-and-Dressing/">Bandage,Support &amp; Dressing</a>
+							</li>
+							<li>
 						<a href="http://www.zotezo.com/Children-s-Health/"><b>Children's Health</b></a>
 							</li>
 							<li>
@@ -418,9 +497,6 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 							</li>
 							<li>
 						<a href="home.php?cat=10693">Children's Multivitamins</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Health-Cards/"><b>Health Cards</b></a>
 							</li>
 						</ul>
 					</div>
@@ -436,19 +512,10 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Women-s-Sexual-Health/">Women's Sexual Health</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/First-Aid/"><b>First Aid</b></a>
+						<a href="http://www.zotezo.com/Health-Cards/"><b>Health Cards</b></a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Antibiotic-and-Antiseptic/">Antibiotic &amp; Antiseptic</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Bandage-Support-and-Dressing/">Bandage,Support &amp; Dressing</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Cold-and-Hot-Pack/">Cold &amp; Hot Pack</a>
-							</li>
-							<li>
-						<a href="home.php?cat=10724">Thermometers</a>
+						<a href="http://www.zotezo.com/gene-test/"><b>Gene Test</b></a>
 							</li>
 						</ul>
 					</div>
@@ -547,7 +614,7 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Hair-Conditioner/">Conditioners</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Hair-Oil-c-4910/">Hair Oils</a>
+						<a href="http://www.zotezo.com/best-hair-oil-india/">Hair Oils</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Hair-Mask-and-Treatment/">Hair Masks &amp; Treatments</a>
@@ -642,9 +709,6 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Cleaners/">Cleaners and Detergents</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Baby-Proofing/">Baby Proofing</a>
-							</li>
-							<li>
 						<a href="http://www.zotezo.com/Humidifier-and-air-purifier-baby/">Humidifiers &amp; Air Purifiers</a>
 							</li>
 							<li>
@@ -655,9 +719,6 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Diaper/">Diapers</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Diaper-Bag/">Diaper Bags</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Diaper-Rash-Creams/">Diaper Rash Creams</a>
@@ -746,9 +807,6 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Towel-Wrap/">Towel Wraps</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Baby-Clothes-and-Shoes/"><b>Baby Clothes &amp; Shoes</b></a>
-							</li>
-							<li>
 						<a href="http://www.zotezo.com/Booties-and-Shoes/">Booties &amp; Shoes</a>
 							</li>
 							<li>
@@ -759,25 +817,10 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 			<div class="xm-sub-column">
 						<ul>
 							<li>
-						<a href="http://www.zotezo.com/Baby-Toys/"><b>Baby Toys</b></a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Baby-Rattle/">Baby Rattles</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Teethers-and-Soothers/">Teethers &amp; Soothers</a>
-							</li>
-							<li>
 						<a href="http://www.zotezo.com/Nursing-and-Gear/"><b>Baby Gear</b></a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Stroller-and-Pram/">Strollers &amp; Prams</a>
-							</li>
-							<li>
 						<a href="http://www.zotezo.com/Baby-Carrier/">Baby Carriers</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Travel-and-Gear/">Travel Accessories</a>
 							</li>
 						</ul>
 					</div>
@@ -799,19 +842,16 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Children-s-multivitamins/">Children's Multivitamins</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Men-s-Health-Product/">Men's Health</a>
+						<a href="http://www.zotezo.com/Women-s-Health-Product/">Women's Health</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Women-s-Health-Product/">Women's Health</a>
+						<a href="http://www.zotezo.com/Men-s-Health-Product/">Men's Health</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Prenatal-Multivitamins/">Prenatal Multivitamins</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Vitamin-a-z/"><b>Vitamin A-Z</b></a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Vitamin-A/">Vitamin A</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Vitamin-B-Complex/">Vitamin B Complex</a>
@@ -848,9 +888,6 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Multiminerals/">Multiminerals</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Chromium/">Chromium</a>
-							</li>
-							<li>
 						<a href="http://www.zotezo.com/Iron/">Iron</a>
 							</li>
 							<li>
@@ -867,9 +904,6 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Flax-and-Flax-Seed-Oil/">Flax &amp; Flax Seed Oil</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Krill-Oil/">Krill Oil</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/DHA/">DHA</a>
@@ -956,7 +990,7 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 	</li>
 
 	<li class="xm-top xm-full">
-<a href="http://www.zotezo.com/Diet-and-Fitness/">Diet &amp; Fitness</a>
+<a href="http://www.zotezo.com/Diet-and-Fitness/"><p style="width:98px;">Diet &amp; Fitness</p></a>
 			<div class="xm-sub-holder" style="width:400px;">			
 				<div class="xm-sub-menu">
 			<div class="xm-sub-column">
@@ -1008,16 +1042,10 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Fitness-Equipment/"><b>Fitness Equipment</b></a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Abdominal-Exercise-Equipment/">Abdominal Exercise Equipments</a>
-							</li>
-							<li>
 						<a href="http://www.zotezo.com/Elliptical-Trainer/">Elliptical Trainers</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Treadmill/">Treadmills</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Vibration-Plate-Massager/">Vibration Plate Massagers</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Exercise-and-Fitness-Stepper/">Exercise &amp; Fitness Steppers</a>
@@ -1027,6 +1055,18 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Exercise-Bike/">Exercise Bikes</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Sports-Apparel/"><b>Sports Apparel</b></a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Men-Sports-Wear/">Men Sports Wear</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Women-Sports-Wear/">Women Sports Wear</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Kids-Sports-Wear/">Kids Sports Wear</a>
 							</li>
 						</ul>
 					</div>
@@ -1042,10 +1082,34 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Sports-and-Outdoor/"><b>Sports &amp; Outdoors</b></a>
 							</li>
 							<li>
+						<a href="http://www.zotezo.com/Football-and-Soccer/">Football</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Cricket/">Cricket</a>
+							</li>
+							<li>
 						<a href="http://www.zotezo.com/Badminton/">Badminton</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Tennis/">Tennis</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Boxing/">Boxing</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Camping-and-Hiking/">Camping &amp; Hiking</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Table-Tennis/">Table Tennis</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Yoga/">Yoga</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Karate-and-Martial-Arts/">Karate &amp; Martial Arts</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Sports-and-Outdoor/"><b>More</b></a>
 							</li>
 						</ul>
 					</div>
@@ -1064,32 +1128,19 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Free-From/"><b>Free From</b></a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Egg-Free/">Egg Free</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Lactose-Free/">Lactose Free</a>
-							</li>
-							<li>
 						<a href="http://www.zotezo.com/Gluten-Free/">Gluten Free</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Sugar-Free/">Sugar Free</a>
 							</li>
 							<li>
+						<a href="http://www.zotezo.com/Egg-Free/">Egg Free</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Lactose-Free/">Lactose Free</a>
+							</li>
+							<li>
 						<a href="http://www.zotezo.com/Wheat-Free/">Wheat Free</a>
-							</li>
-						</ul>
-					</div>
-			<div class="xm-sub-column">
-						<ul>
-							<li>
-						<a href="http://www.zotezo.com/Healthy-and-Organic/"><b>Healthy &amp; Organic</b></a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Bars/">Bars</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Natural-Sweetener/">Natural Sweeteners</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Tea/"><b>Tea Shop</b></a>
@@ -1111,25 +1162,62 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 			<div class="xm-sub-column">
 						<ul>
 							<li>
-						<a href="http://www.zotezo.com/World-Foods/"><b>World Foods</b></a>
+						<a href="http://www.zotezo.com/Healthy-and-Organic/"><b>Organic &amp; Natural</b></a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Breakfast-Range-Healthy-Organic/">Organic Breakfast Range</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Juices-and-Syrups-Healthy-Organic/">Organic Juices &amp; Syrups</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Bars/">Organic Snacks &amp; Bars</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Dry-Fruit/">Organic Dry Fruits</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Oil-and-Ghee-Organic/">Organic Edible Oil &amp; Ghee</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Flour-and-Meal-Healthy-Organic/">Organic Flour &amp; Grains</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Pulses-Healthy-Organic/">Organic Pulses</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Spices-organic/">Organic Spices</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Honey/">Organic Honey</a>
+							</li>
+						</ul>
+					</div>
+			<div class="xm-sub-column">
+						<ul>
+							<li>
+						<a href="http://www.zotezo.com/World-Foods/"><b>Groceries</b></a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Breakfast-Range/">Breakfast Range</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Coffee/">Coffee</a>
+						<a href="http://www.zotezo.com/Bars-c-5136/">Bars</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Energy-drinks/">Energy Drinks</a>
+						<a href="http://www.zotezo.com/Sweets1/">Sweets</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Grocery/">Grocery</a>
+						<a href="http://www.zotezo.com/Beverages/">Beverages</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Ready-to-Cook/">Ready to Cook</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/Snacks-and-Cookies/">Snacks &amp; Cookies</a>
+						<a href="http://www.zotezo.com/Mixture-and-Crispy-Snacks/">Mixture &amp; Crispy Snacks</a>
+							</li>
+							<li>
+						<a href="http://www.zotezo.com/Oil-and-Ghee/">Cooking Oil &amp; Ghee</a>
 							</li>
 						</ul>
 					</div>
@@ -1139,7 +1227,7 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 	</li>
 
 	<li class="xm-top xm-full">
-<a href="http://www.zotezo.com/Home-and-Living/">Home &amp; Living</a>
+<a href="http://www.zotezo.com/Home-and-Living/"><p style="width:115px">Home &amp; Living</p></a>
 			<div class="xm-sub-holder" style="width:400px;">			
 				<div class="xm-sub-menu">
 			<div class="xm-sub-column">
@@ -1158,9 +1246,6 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Rice-Cookers-and-Steamers/">Rice Cookers &amp; Steamers</a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Blenders/">Blenders</a>
 							</li>
 							<li>
 						<a href="http://www.zotezo.com/Induction-Cookers/">Induction Cookers</a>
@@ -1198,25 +1283,13 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 	</li>
 
 	<li class="xm-top xm-full">
-<a href="http://www.zotezo.com/Gifts-and-Offers/">Gift Ideas</a>
+<a href="http://www.zotezo.com/Offer-Zone/"><p style="width:100px;">Offer Zone</p></a>
 			<div class="xm-sub-holder" style="width:400px;">			
 				<div class="xm-sub-menu">
 			<div class="xm-sub-column">
 						<ul>
 							<li>
-						<a href="http://www.zotezo.com/For-Her/"><b>For Her</b></a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/For-Him/"><b>For Him</b></a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/NewBorn/"><b>New Born</b></a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Anniversaries/"><b>Anniversaries</b></a>
-							</li>
-							<li>
-						<a href="http://www.zotezo.com/Gift-Packs/"><b>Gift Packs</b></a>
+						<a href="http://www.zotezo.com/International-Fragrance-Store/">International Fragrance Store </a>
 							</li>
 						</ul>
 					</div>
@@ -1287,9 +1360,6 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 						<a href="http://www.zotezo.com/Azzaro/">Azzaro</a>
 							</li>
 							<li>
-						<a href="http://www.zotezo.com/L-Oreal/">L'Oreal</a>
-							</li>
-							<li>
 						<a href="http://www.zotezo.com/ESN/">ESN</a>
 							</li>
 							<li>
@@ -1323,6 +1393,34 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 			</div>
 	</li>
 </ul>
+
+</div>
+
+
+
+<script>
+    $(document).ready(function() {  
+    var stickyNavTop = $('.nav').offset().top;  
+      
+    var stickyNav = function(){  
+    var scrollTop = $(window).scrollTop();  
+           
+    if (scrollTop > stickyNavTop) {   
+        $('.nav').addClass('sticky');  
+    } else {  
+        $('.nav').removeClass('sticky');   
+    }  
+    };  
+      
+    stickyNav();  
+      
+    $(window).scroll(function() {  
+        stickyNav();  
+    });  
+    });  
+</script>
+
+
 <!-- TheXCartStore xMenus: MENU END -->
 
 </div>
@@ -1350,7 +1448,6 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
       
                             
             
-                
       
       
       
@@ -1435,7 +1532,8 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 
 </div>
 
-<div class="footer_bg_container">
+<div style="margin-top: -11px;"><img width="100%" height="5px" src="http://zotezo.com/skin/reboot/custom/image/bc-01.png"></div>
+<div class="footer_bg_container" style="background-color:#E6E6E6;  margin-top: -6px;">
 
 <div class="container">
 
@@ -1452,17 +1550,33 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 <ul class="footer_links">
 <li><a href="http://www.zotezo.com/About-Us1.html"><i class="fa fa-angle-right"></i> About Us</a></li>
 <li><a href="http://www.zotezo.com/Safety-Notice.html"><i class="fa fa-angle-right"></i> Safety Notice</a></li>
-<li><a href="http://www.zotezo.com/Exchange-Policy.html"><i class="fa fa-angle-right"></i> Exchange Policy</a></li>
-<li><a href="http://www.zotezo.com/FAQ.html"><i class="fa fa-angle-right"></i> FAQ</a></li>
-<li><a href="http://www.zotezo.com/Shipping-and-Delivery.html"><i class="fa fa-angle-right"></i> Shipping &amp; Delivery</a></li>
-<li><a href="http://www.zotezo.com/Refunds-and-Cancellation.html"><i class="fa fa-angle-right"></i> Refunds &amp; Cancellation</a></li>
-<li><a href="http://www.zotezo.com/Return-and-Exchange-Policy.html"><i class="fa fa-angle-right"></i> Return &amp; Exchange Policy</a></li>
 <li><a href="http://www.zotezo.com/Terms-and-Conditions1.html"><i class="fa fa-angle-right"></i> User Agreement</a></li>
 <li><a href="http://www.zotezo.com/Privacy-Policy.html"><i class="fa fa-angle-right"></i> Privacy Policy</a></li>
-<li><a href="http://www.zotezo.com/Career.html"><i class="fa fa-angle-right"></i> Career</a></li>
+<li><a href="http://www.zotezo.com/FAQ.html"><i class="fa fa-angle-right"></i> FAQ</a></li>
 <li><a href="help.php?section=contactus&amp;mode=update"><i class="fa fa-angle-right"></i>&nbsp;Contact Us</a></li>
-</ul>
 
+
+</ul><br><br>
+
+
+<div class="f_underlined">
+<h3 class="footer_title">Payment Options</h3>
+</div>
+
+<div class="payment_logos" style="width: 428px; margin-left: -25px;">
+<ul>
+    <li><span class="p_sprite p_American-Express">American-Express</span></li>
+   <li><span class="p_sprite p_Visa2">Visa</span></li>
+	<li><span class="p_sprite p_MasterCard">MasterCard</span></li>
+	<li><span class="p_sprite p_Maestro-1" style="margin-top: 4px;">Maestro-1</span></li>
+	<li><span><img src="skin/reboot/images/EMI.png" style="margin-top: -32px;"></span></li>
+	<li><span><img src="skin/reboot/images/Payu-money.png" style="margin-top: -32px;"></span></li>
+	<li><span><img src="skin/reboot/images/Cash-on-delivery.png" style="margin-top: -109px; margin-left: 222px;"></span></li>
+	
+
+
+</ul>
+</div>
 		</div>
 		<div class="col-md-3">
 		
@@ -1470,10 +1584,10 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 <a name="newsletter_subscribe" id="newsletter_subscribe"></a>
 
 <div class="f_underlined">
-<h3 class="footer_title">Sign Up for Special Offers</h3>
+<h3 class="footer_title">Sign Up to Live Better</h3>
 </div>
 
-<form method="post" action="news.php" name="subscribeform" id="subscribeform_footer">
+<form method="post" action="news.php" name="subscribeform" id="subscribeform_footer" style="margin-top: 9px;">
 <input type="hidden" name="subscribe_lng" value="en">
 
 
@@ -1493,15 +1607,75 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 <br>
 
 
+<div class="f_underlined">
+<h3 class="footer_title">Get The Deals</h3>
+</div>
 
+<ul class="footer_links">
+
+<li><a href="http://www.zotezo.com/Offer-Zone/"><i class="fa fa-angle-right"></i>&nbsp;Offer Zone</a></li>
+<li><a href="http://www.zotezo.com/Coupon-Page1.html"><i class="fa fa-angle-right"></i> Coupon Page</a></li>
+<li><a href="http://www.zotezo.com/crp_referral.php"><i class="fa fa-angle-right"></i>&nbsp;Refer a Friend</a></li>
+
+</ul><br>
+
+
+
+
+
+
+
+
+		</div>
+		<div class="col-md-3">
+		<div class="clearing"></div>
+
+<div class="f_underlined">
+<h3 class="footer_title">Merchant Area</h3>
+</div>
+
+<ul class="footer_links">
+<li><a href="provider/register.php"><i class="fa fa-angle-right"></i> Merchant Registration</a></li>
+<li><a href="/provider"><i class="fa fa-angle-right"></i> Merchant Sign In</a></li>
+
+</ul><br>
 
 
 <div class="f_underlined">
-<h3 class="footer_title">Join The Conversation</h3>
+<h3 class="footer_title">Shipping &amp; Returns</h3>
 </div>
 
-<div class="social-icons centered mt20" style="width:78%; margin-left: -15px;">
-<a class="social-link" href="https://www.facebook.com/healthiza" target="_blank" rel="nofollow">
+<ul class="footer_links">
+
+<li><a href="http://www.zotezo.com/Shipping-and-Delivery.html"><i class="fa fa-angle-right"></i> Shipping &amp; Delivery</a></li>
+<li><a href="http://www.zotezo.com/Refunds-and-Cancellation.html"><i class="fa fa-angle-right"></i> Refunds &amp; Cancellation</a></li>
+<li><a href="http://www.zotezo.com/Return-and-Exchange-Policy.html"><i class="fa fa-angle-right"></i> Return &amp; Exchange Policy</a></li>
+</ul><br>
+
+
+
+<div class="clearing"></div>
+
+<div class="f_underlined">
+<h3 class="footer_title">Shipping Partners</h3>
+</div>
+
+<div class="payment_logos" style="margin-left:-22px;"><ul class="footer_links">
+<li><span><img src="skin/reboot/images/fedex.png"></span></li>
+<li><span><img src="skin/reboot/images/DTDC.png"></span></li>
+<li><span><img src="skin/reboot/images/Overnite.png"></span></li>
+<!--<li><span><img src="skin/reboot/images/AJ-Express-logo.jpg" style="margin-left: -90px; margin-top: 2px;"></span></li>--->
+</ul></div>
+
+		</div>
+		<div class="col-md-3">
+		
+<div class="f_underlined">
+<h3 class="footer_title">Join the Conversation</h3>
+</div>
+
+<div class="social-icons centered mt20" tyle="margin-left: -9px; font-size: 19px; width: 96%;">
+<a class="social-link" href="https://www.facebook.com/ZotezoCom" target="_blank" rel="nofollow">
 <span class="fa-stack ttip_s" title="Facebook">
 	<i class="fa fa-square fa-stack-2x social-facebook"></i>
 	<i class="fa fa-facebook fa-inverse fa-stack-1x"></i>
@@ -1548,74 +1722,99 @@ document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.zotezo.com/
 
 <br>
 
-
-
-<div class="f_underlined">
-<h3 class="footer_title">Payment Options</h3>
+<div class="f_underlined" style="margin-top: -3px;">
+<h3 class="footer_title">Facebook</h3>
 </div>
 
-<div class="payment_logos" style="margin-left:-22px;">
-<ul>
 
-	<li><span class="p_sprite p_Maestro-1" style="margin-top: 4px;">Maestro-1</span></li>
-	<li><span class="p_sprite p_Visa2">Visa</span></li>
-	<li><span class="p_sprite p_MasterCard">MasterCard</span></li>
-	
+<div id="fb-root"></div>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!---<style>.fb-like-box,.fb-like-box span,.fb-like-box span iframe{width:100%!important;background:#fff!important;position:relative!important;}</style>-->
+<style>.fb-like-box,.fb-like-box span,.fb-like-box span iframe{width:100%!important;position:relative!important;}</style>
 
 
-</ul>
-</div><br>
+<div class="fb-like-box" data-href="http://www.facebook.com/ZotezoCom" data-border-color="#fff" data-show-faces="true" data-stream="false" data-header="false" data-colorscheme="light" data-width="50" data-height="50"></div>
 
 <div class="clearing"></div>
+<br>
 
-<div class="f_underlined">
-<h3 class="footer_title">Merchants Area</h3>
-</div>
 
-<ul class="footer_links">
-<li><a href="provider/register.php"><i class="fa fa-angle-right"></i> Merchants Registration</a></li>
-<li><a href="/provider"><i class="fa fa-angle-right"></i> Merchants Sign In</a></li>
-
-</ul>		</div>
-		<div class="col-md-3">
-		<div class="f_underlined">
-<h3 class="footer_title">Latest Tweets</h3>
-</div>
-
-<a class="twitter-timeline" width="100%" height="200" href="https://twitter.com/" data-widget-id="534297692583624704">Tweets by @</a>
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-		</div>
-		<div class="col-md-3">
-		<div class="f_underlined">
-<h3 class="footer_title">Contact Us</h3>
+<div class="f_underlined" style="margin-top: -8px;">
+<h3 class="footer_title">Join the Revolution</h3>
 </div>
 
 <ul class="footer_links">
 
-<li><a href="help.php?section=contactus&amp;mode=update"><i class="fa fa-comments fa-lg"></i> Contact Us</a></li>
-
-<li><script type="text/javascript">eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%6c%76%65%72%6d%61%40%7a%6f%74%65%7a%6f%2e%63%6f%6d%3f%73%75%62%6a%65%63%74%3d%7a%6f%74%65%7a%6f%2e%63%6f%6d%25%32%30%45%6e%71%75%69%72%79%22%20%3e%3c%69%20%63%6c%61%73%73%3d%5c%27%66%61%20%66%61%2d%65%6e%76%65%6c%6f%70%65%20%66%61%2d%6c%67%5c%27%3e%3c%2f%69%3e%26%6e%62%73%70%3b%26%6e%62%73%70%3b%45%6d%61%69%6c%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:lverma@zotezo.com?subject=zotezo.com%20Enquiry"><i class="fa fa-envelope fa-lg"></i>&nbsp;&nbsp;Email</a></li>
-
-<li><i class="fa fa-phone fa-lg"></i>&nbsp;&nbsp;0810 000 7777</li>
-
+<li><a href="http://www.zotezo.com/Career.html"><i class="fa fa-angle-right"></i>Work with Us</a></li>
 
 
 </ul>
 		</div>
 	</div>
+    
+         <div class="row" style="margin-left:2px">
+ <p><a href="http://www.zotezo.com/Beauty-and-Personal-Care/"><b style="font-weight: 800;">Health</b></a> - <a href="http://www.zotezo.com/Health-Devices/">Health Devices</a> | <a href="http://www.zotezo.com/Blood-Glucose-Monitor/">Blood Glucose Monitors</a> | <a href="http://www.zotezo.com/Blood-Pressure-Monitor/">Blood Pressure Monitors</a> | <a href="http://www.zotezo.com/Patient-and-Elderly-Care/">Elderly Care</a> | <a href="http://www.zotezo.com/Support-products/">Body Supports</a> | <a href="http://www.zotezo.com/Diabetic-care-products/">Diabetic Care</a> | <a href="http://www.zotezo.com/Digestion/">Digestive Health</a> | <a href="http://www.zotezo.com/Children-s-Health/">Children's Health</a> | <a href="http://www.zotezo.com/Sexual-Health/">Sexual Health</a> | <a href="http://www.zotezo.com/First-Aid/">First Aid</a>
+
+</p><p style="margin-top: -11px;">Top Brands -  <a href="http://www.zotezo.com/Beurer/">Beurer</a> | <a href="http://www.zotezo.com/Dr.-Gene/">Dr.Gene</a> | <a href="http://www.zotezo.com/Dr-Morepen/">Dr.Morepen</a> | <a href="http://www.zotezo.com/Johnson-and-Johnson/">Johnson &amp; Johnson</a> | <a href="http://www.zotezo.com/Vicks/">Vicks</a> | <a href="http://www.zotezo.com/Kamasutra/">Kamasutra</a> | <a href="http://www.zotezo.com/Moods/">Moods</a> | <a href="http://www.zotezo.com/Durex/">Durex</a> | <a href="http://www.zotezo.com/Nutriveda/">Nutriveda</a> | <a href="http://www.zotezo.com/Omron/">Omron</a> </p>
+<p></p>
+
+<p><a href="http://www.zotezo.com/Beauty-and-Personal-Care/"><b style="font-weight: 800; ">Beauty &amp; Personal Care</b></a> - <a href="http://www.zotezo.com/Cosmetics/">Cosmetics</a> | <a href="http://www.zotezo.com/Deodrants-and-Anti-perspirants/">Deodorants &amp; Anti-Perspirants</a> | <a href="http://www.zotezo.com/Hair-Shampoo/">Shampoos</a> | <a href="http://www.zotezo.com/Hair-Colour/">Hair Colour</a> | <a href="http://www.zotezo.com/Shaving/">Shaving &amp; Grooming</a> | <a href="http://www.zotezo.com/Face-washes/">Face Wash</a> | <a href="#">Skin Protection</a>
+
+</p><p style="margin-top: -11px;">Top Brands - <a href="http://www.zotezo.com/Calvin-Klein/">Calvin Klein</a> | <a href="http://www.zotezo.com/Davidoff/">Davidoff</a> | <a href="http://www.zotezo.com/Park-Avenue/">Park Avenue</a> | <a href="http://www.zotezo.com/Olay/">Olay</a> | <a href="http://www.zotezo.com/Clinique/">Clinique</a> | <a href="http://www.zotezo.com/Lotus-Herbals/">Lotus Herbals</a> | <a href="http://www.zotezo.com/Himalaya/">Himalaya</a> | <a href="http://www.zotezo.com/Richfeel/">Richfeel</a></p>
+<p></p>
+
+<p><a href="http://www.zotezo.com/Mother-and-Baby/"><b style="font-weight: 800;">Baby &amp; Mother</b></a> - <a href="http://www.zotezo.com/Diaper/">Diapers</a> | <a href="http://www.zotezo.com/Diaper-Rash-Creams/">Diaper Rash Creams</a> | <a href="http://www.zotezo.com/Pacifiers-Teether-and-Soother/">Pacifiers, Teethers &amp; Soothers</a> | <a href="http://www.zotezo.com/Pregnancy-Test/">Pregnancy Tests</a> | <a href="http://www.zotezo.com/Soap-and-Shampoo/">Soaps &amp; Shampoos</a> | <a href="http://www.zotezo.com/Creams-Lotions-and-Ointments/">Creams, Lotions &amp; Ointments</a> | <a href="http://www.zotezo.com/Baby-Carrier/">Baby Carriers</a> 
+
+</p><p style="margin-top: -11px;">Top Brands - <a href="http://www.zotezo.com/Pigeon/">Pigeon</a> | <a href="http://www.zotezo.com/Palmers/">Palmers</a> | <a href="http://www.zotezo.com/HomeCheck/">HomeCheck</a> | <a href="http://www.zotezo.com/Mankind/">Mankind</a> | <a href="http://www.zotezo.com/Pampers/">Pampers</a> | <a href="http://www.zotezo.com/Coolababy/">Coolababy</a> | <a href="http://www.zotezo.com/Himalaya/">Himalaya</a></p>
+<p></p>
+
+<p><a href="http://www.zotezo.com/Vitamins/"><b style="font-weight: 800;">Vitamins</b></a> - <a href="http://www.zotezo.com/Multivitamin/">Multivitamins</a> | <a href="http://www.zotezo.com/Vitamin-a-z/">Vitamin A-Z</a> | <a href="http://www.zotezo.com/Calcium-and-Minerals/">Calcium &amp; Minerals</a> | <a href="http://www.zotezo.com/Omega-3-6-9/">Omega 3-6-9</a> | <a href="http://www.zotezo.com/Flax-and-Flax-Seed-Oil/">Flax &amp; Flax Seed Oil</a> | <a href="http://www.zotezo.com/Hair-skin-and-Nails1/">Hair, Skin &amp; Nails</a> | <a href="http://www.zotezo.com/Weight-Loss2/">Weight Loss</a> | <a href="http://www.zotezo.com/Anti-oxidants1/">Antioxidants</a> | <a href="http://www.zotezo.com/Heart-health1/">Heart &amp; Cholestrol</a> | <a href="http://www.zotezo.com/Blood-Pressure/">Blood Pressure</a> | <a href="http://www.zotezo.com/Stress/">Anti Stress &amp; Depression</a> 
+
+</p><p style="margin-top: -11px;">Top Brands - <a href="http://www.zotezo.com/HealthAid/">HealthAid</a> | <a href="http://www.zotezo.com/INLIFE/">INLIFE</a> | <a href="http://www.zotezo.com/Zenith-Nutrition/">Zenith Nutrition</a> | <a href="http://www.zotezo.com/Unived/">Unived</a> | <a href="http://www.zotezo.com/Organic-India/">Organic India</a> | <a href="http://www.zotezo.com/HealthVit/">HealthVit</a> | <a href="http://www.zotezo.com/Herbal-Hills/">Herbal Hills</a> </p>
+<p></p>
+
+<p><a href="http://www.zotezo.com/Diet-and-Fitness/"><b style="font-weight: 800;">Diet &amp; Fitness</b></a> - <a href="http://www.zotezo.com/Proteins/"> Whey Protein</a> | <a href="http://www.zotezo.com/Sports-Mutlivitamins/">Sports Mutlivitamins</a>  | <a href="http://www.zotezo.com/Fat-Burners/">Fat Burners</a> | <a href="http://www.zotezo.com/Diet-Bars1/">Diet Bars</a> | <a href="http://www.zotezo.com/Treadmill/">Treadmills</a> | <a href="http://www.zotezo.com/Exercise-Bike/">Exercise Bikes</a> | <a href="http://www.zotezo.com/Men-Sports-Wear/">Men Sports Wear </a> | <a href="http://www.zotezo.com/Women-Sports-Wear/">Women Sports Wear </a> | <a href="http://www.zotezo.com/Sports-and-Outdoor/">Sports &amp; Outdoors</a> 
+
+</p><p style="margin-top: -11px;">Top Brands - <a href="http://www.zotezo.com/SSN/">SSN</a> | <a href="http://www.zotezo.com/Muscle-Nutrition/">Muscle Nutrition</a> | <a href="http://www.zotezo.com/High-Voltage/">High Voltage</a> | <a href="http://www.zotezo.com/Ronnie-Coleman/">Ronnie Coleman</a> | <a href="http://www.zotezo.com/Quechua/">Quechua</a> | <a href="http://www.zotezo.com/Domyos/">Domyos</a> | <a href="http://www.zotezo.com/Btwin/">Btwin</a> | <a href="http://www.zotezo.com/Yonex/">Yonex</a> | <a href="http://www.zotezo.com/Magnum/">Magnum</a></p>
+<p></p>
+
+<p><a href="http://www.zotezo.com/Health-Food/"><b style="font-weight: 800;">Health Food</b></a> - <a href="http://www.zotezo.com/Gluten-Free/">Gluten Free</a> | <a href="http://www.zotezo.com/Sugar-Free/">Sugar Free</a> | <a href="http://www.zotezo.com/Egg-Free/">Egg Free</a> | <a href="http://www.zotezo.com/Lactose-Free/">Lactose Free</a> | <a href="http://www.zotezo.com/Tea/">Tea Shop</a> | <a href="http://www.zotezo.com/Grocery/">Grocery</a> | <a href="http://www.zotezo.com/Energy-drinks/">Energy Drinks</a>  
+
+</p><p style="margin-top: -11px;">Top Brands - <a href="http://www.zotezo.com/Wheafree/">Wheafree</a> | <a href="http://www.zotezo.com/Stevias/">Stevias</a> | <a href="http://www.zotezo.com/Zero-G/">Zero G</a> | <a href="http://www.zotezo.com/Sugarless-bliss/">Sugarless bliss</a> | <a href="http://www.zotezo.com/Bobs-Red-Mill/">Bobs Red Mill</a> | <a href="http://www.zotezo.com/Chamong/">Chamong</a> | <a href="http://www.zotezo.com/Coffee-Day/">Cafe Coffee Day</a> | <a href="http://www.zotezo.com/goodwyn/">Goodwyn</a> | <a href="http://www.zotezo.com/Dabur/">Dabur</a> | <a href="http://www.zotezo.com/Down-to-Earth/">Down to Earth</a></p>
+<p></p>
+
+<p><a href="http://www.zotezo.com/Home-and-Living/"><b style="font-weight: 800;">Home &amp; Living</b></a> - <a href="http://www.zotezo.com/Coffee-and-Tea-Maker/">Coffee &amp; Tea Maker</a> | <a href="http://www.zotezo.com/Purifiers/">Purifiers</a> | <a href="http://www.zotezo.com/Induction-Cookers/">Induction Cookers</a> | <a href="http://www.zotezo.com/FoodProcessors/">Food Processors</a> | <a href="http://www.zotezo.com/Home-Fragrance/">Home Fragrance</a> 
+
+</p><p style="margin-top: -11px;">Top Brands - <a href="http://www.zotezo.com/Braun/">Braun</a> | <a href="http://www.zotezo.com/Philips/">Philips</a> | <a href="http://www.zotezo.com/Coffee-Day/">Cafe Coffee Day</a> | <a href="http://www.zotezo.com/4Sure/">4Sure</a> | <a href="http://www.zotezo.com/Classic/">Classic</a> | <a href="http://www.zotezo.com/DampFree/">DampFree</a> | <a href="http://www.zotezo.com/Aroma-Naturals/">Aroma Naturals</a> | <a href="http://www.zotezo.com/Fresh-Valley/">Fresh Valley</a> | <a href="http://www.zotezo.com/Rustic-Art/">Rustic Art</a>
+</p>
+</div>
+
+
 
 
 		<hr class="white">
+    <div>
+	<p style="text-align: justify;">
+	<span style="font-size:12px;">Information provided on this site is meant for information and reference only, and must not be used for diagnosing, treating, curing or preventing any disease or medical problem. If you have any medical problem, please consult a registered medical practitioner before using any products or services. For further details, please refer to the "Safety Notice" section on this website.<br>
+All products sold on Zotezo.com are brand new and 100% genuine. Images shown are indicative only and may differ at the time of delivery.</span></p>
+
+	</div>
 
 		<div class="container_copyright" style="margin-top:-24px;">
     <div>
 	<p style="text-align: justify;">
-	<span style="font-size:12px;">Information provided on this site is meant for information and reference only, and must not be used for diagnosing, treating, curing or preventing any disease or medical problem. If you have any medical problem, please consult a registered medical practitioner before using any products or services. For further details, please refer to the "Safety Notice" section on this website.</span></p>
+	<span style="font-size:12px;">Information provided on this site is meant for information and reference only, and must not be used for diagnosing, treating, curing or preventing any disease or medical problem. If you have any medical problem, please consult a registered medical practitioner before using any products or services. For further details, please refer to the "Safety Notice" section on this website.<br>
+All products sold on Zotezo.com are brand new and 100% genuine. Images shown are indicative only and may differ at the time of delivery.</span></p>
 
 	</div>
-	  <div style="margin-left: -136px; margin-top: 2px;">©</div> <div style="font-size: 17px; font-weight: 500; margin-top: -25px;">zotezo.com 2014 </div>
+	  <div style="margin-left: -178px; margin-top: 2px;">©</div> <div style="font-size: 17px; font-weight: 500; margin-top: -25px;">zotezo.com 2014-2015 </div>
 
 	
 	
@@ -1690,9 +1889,6 @@ olark.identify('1332-418-10-1887');/*]]>*/</script><noscript><a href="https://ww
 
   
 
-  
-
-  
 
 
 
@@ -1706,14 +1902,14 @@ olark.identify('1332-418-10-1887');/*]]>*/</script><noscript><a href="https://ww
 
 
 
-  
+
 
 
 
 <script type="text/javascript"> GlossaryJS_autohighlight = true; </script>
 
-<script type="text/javascript" src="http://www.zotezo.com/var/cache/2.159748702fc4703c45add413e5ab46ae.js"></script>
-
+<script type="text/javascript" src="http://www.zotezo.com/var/cache/2.3a9465ec381d2c8afb281f2dd453f0a3.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.zotezo.com/var/cache/2.9972e84007ab9636c40f5a0bd75f8408.css">
 
 
 
@@ -1759,13 +1955,7 @@ olark.identify('1332-418-10-1887');/*]]>*/</script><noscript><a href="https://ww
 	<div id="side-icons-right">
 					<span class="ttip_w" title="0810 000 7777" style="margin-left: 15px;"><img src="http://www.zotezo.com/skin/reboot/images/icons/call-us.png"></span>
 		<span style="font-size:10px;font-weight:bold;margin-left: 19px;">Call Us</span>
-		<a href="http://www.zotezo.com/blog/expertnet/">
-			<span class="ttip_w" title="Expertnet" style="margin-left: 15px;"><img src="http://www.zotezo.com/skin/reboot/images/icons/expertnet.png"></span>
-		</a><span style="font-size:10px;font-weight:bold;margin-left: 10px;">Expertnet</span>
-		<a href="http://www.zotezo.com/blog/events/">
-			<span class="ttip_w" title="Events" style="margin-left: 15px;"><img src="http://www.zotezo.com/skin/reboot/images/icons/Events.png"></span>
-		</a><span style="font-size:10px;font-weight:bold;margin-left: 19px;">Events</span>
-		<a href="http://www.zotezo.com/blog/">
+				<a href="http://www.zotezo.com/lifebook/">
 			<span class="ttip_w" title="LifeBook" style="margin-left: 15px;"><img src="http://www.zotezo.com/skin/reboot/images/icons/Lifebook.png"></span>
 		</a><span style="font-size:10px;font-weight:bold;margin-left: 13px;">LifeBook</span>
 	</div>
@@ -1773,44 +1963,14 @@ olark.identify('1332-418-10-1887');/*]]>*/</script><noscript><a href="https://ww
 
 
 
-<!-- Facebook Conversion Code for checkouts for mother and baby -->
-<script>(function() {
-var _fbq = window._fbq || (window._fbq = []);
-if (!_fbq.loaded) {
-var fbds = document.createElement('script');
-fbds.async = true;
-fbds.src = '//connect.facebook.net/en_US/fbds.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(fbds, s);
-_fbq.loaded = true;
-}
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', '6017294852719', {'value':'0.01','currency':'INR'}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6017294852719&amp;cd[value]=0.01&amp;cd[currency]=INR&amp;noscript=1" /></noscript>
 
 
 
 
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1041387408;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1041387408/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
+<script type="text/javascript">var showButton = true;</script>
+<script type="text/javascript">var apiKey = "169779d3852b32ce8b1a1724dbf5217d";</script>
+<script type="text/javascript" src="//cdn.refiral.com/libs/refiral-1.0.min.js"></script>
+
 
 
 
