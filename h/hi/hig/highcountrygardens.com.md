@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124052922id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512034248id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
 
 # HCG - Privacy Policy
 
@@ -24,10 +24,12 @@ If you supply us your postal address or phone number, you may receive periodic c
 
 This privacy policy was updated on October 22, 2013 and describes the information we collect and how it is used.
 
-If you have any questions about these policies or your dealings with the website, please contact us at:  
+If you have any questions about these policies or your dealings with the website, please contact us at:
+
 High Country Gardens  
 www.highcountrygardens.com  
-PO Box 22398  
-Santa Fe, NM 87502  
+223 Ave D, Suite 30  
+Williston, VT 05495
+
 800-925-9387  
-plants@highcountrygardens.com
+[Email Us](http://www.highcountrygardens.com/contact-us)
