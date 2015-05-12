@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatsbydre.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228150709id_/http%3A//www.beatsbydre.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatsbydre.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512111908id_/http%3A//www.beatsbydre.com/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Beats by Dr. Dre - Privacy Policy
 
@@ -92,17 +92,17 @@ When you have clicked on a third party logo or URL displayed on our Site which l
 
 * ## HOW CAN YOU ACCESS YOUR PERSONAL INFORMATION?
 
-You can access the personal information we have relating to your online account by visiting the [My Account](https://www.beatsbydre.com/account) section of our Site. You can access other personal information we have collected from you through our Site by sending us an email [here](https://www.beatsbydre.com/contactus).
+You can access the personal information we have relating to your online account by visiting the [My Account](https://www.beatsbydre.com/account) section of our Site. You can access other personal information we have collected from you through our Site by sending us an email [here](https://www.beatsbydre.com/on/demandware.store/Sites-beats-Site/en_US/CustomerService-ContactUs).
 
 * ## WHAT CHOICES DO YOU HAVE ABOUT THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION?
 
 **Control of Your Information**
 
-You can change certain personal information we have about you by going to the [My Account](https://www.beatsbydre.com/account) section of our Site. You may also request us to change or delete any information you've shared with use by sending us an email [here](https://www.beatsbydre.com/contactus). We will retain certain information to prevent fraud, and for customer and order management purposes, to enforce our agreements, and as otherwise required or permitted by law. 
+You can change certain personal information we have about you by going to the [My Account](https://www.beatsbydre.com/account) section of our Site. You may also request us to change or delete any information you've shared with use by sending us an email [here](https://www.beatsbydre.com/on/demandware.store/Sites-beats-Site/en_US/CustomerService-ContactUs). We will retain certain information to prevent fraud, and for customer and order management purposes, to enforce our agreements, and as otherwise required or permitted by law. 
 
 **Opting Out of Receiving Communications from Us**
 
-If you no longer want to receive our newsletter, emails or other announcements, you may unsubscribe by sending us an email [here](https://www.beatsbydre.com/contactus) or replying to the unsubscribe link at the bottom of our emails. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your transactions.
+If you no longer want to receive our newsletter, emails or other announcements, you may unsubscribe by sending us an email [here](https://www.beatsbydre.com/on/demandware.store/Sites-beats-Site/en_US/CustomerService-ContactUs) or replying to the unsubscribe link at the bottom of our emails. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your transactions.
 
 **Mediation**
 
@@ -128,7 +128,7 @@ This Privacy Policy may change from time to time. If we make a material change w
 
 * ## QUESTIONS? CONTACT US
 
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by emailing [here](https://www.beatsbydre.com/contactus). You can also contact us by phone using the support number for your country listed [here](http://www.beatsbydre.com/support/international-numbers.html). 
+If you have any questions about our privacy practices or this Privacy Policy, please contact us by emailing [here](https://www.beatsbydre.com/on/demandware.store/Sites-beats-Site/en_US/CustomerService-ContactUs). You can also contact us by phone using the support number for your country listed [here](http://www.beatsbydre.com/support/international-numbers.html). 
 
 * ## TERMS OF USE
 
