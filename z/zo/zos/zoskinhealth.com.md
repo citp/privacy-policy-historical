@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoskinhealth.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221203219id_/http%3A//www.zoskinhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoskinhealth.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512031023id_/https%3A//zoskinhealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZO Skin Health by Dr Zein Obagi
 
@@ -140,13 +140,12 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows:
 
-ZO Skin Health, Inc.  
-1 Technology Drive  
-Suite B-123  
+ **ZO Skin Health, Inc.**  
+5 Technology Drive  
 Irvine, CA  
-92618 USA  
+92618-2302 USA  
 Email: [customerservice@zoskinhealth.com](mailto:customerservice@zoskinhealth.com)
 
 Please e-mail ZO at [customerservice@zoskinhealth.com](mailto:customerservice@zoskinhealth.com) if you have any questions about this Privacy Policy.
 
-This Privacy Policy was last updated on December 4, 2013.
+This Privacy Policy was last updated on February 2, 2015.
