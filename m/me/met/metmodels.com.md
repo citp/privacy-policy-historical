@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metmodels.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102334id_/http%3A//www.eroticbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metmodels.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512172930id_/http%3A//guests.met-art.com/privacy) for the most accurate reproduction.*
 
-# Erotic Beauty: Privacy Policy
+# MetArt Privacy Policy
 
 **Hydentra Privacy Policy**
 
@@ -12,7 +12,7 @@ Please be advised that the practices described in this Privacy Policy apply to i
 
 By visiting our Website, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Website. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website and our affiliate sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively, we will provide you with notice of the modifications or amendments.
 
-If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should contact us by email at [support@eroticbeauty.com](mailto:support@eroticbeauty.com).
+If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should contact us by email at [support@met-art.com](mailto:support@met-art.com).
 
 **Controllers of Personal Information**
 
@@ -100,8 +100,8 @@ We are committed to maintaining our position as a premier Website on the Interne
 
 **How Do I Opt-Out or Correct Information About Me**
 
-You may always opt-out of receiving future e-mail messages and newsletters from Company. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. We also give you access to a broad range of information about your account to permit you to correct or update Personal Information that you have previously provided to us. To do so, you can send us a message at [support@eroticbeauty.com](mailto:support@eroticbeauty.com).
+You may always opt-out of receiving future e-mail messages and newsletters from Company. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. We also give you access to a broad range of information about your account to permit you to correct or update Personal Information that you have previously provided to us. To do so, you can send us a message at [support@met-art.com](mailto:support@met-art.com).
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@eroticbeauty.com](mailto:support@eroticbeauty.com).
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@met-art.com](mailto:support@met-art.com).
