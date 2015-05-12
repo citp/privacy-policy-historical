@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707233111id_/http%3A//www.winterrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winterrowd.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512173101id_/http%3A//www.winterrowd.com/privacy) for the most accurate reproduction.*
 
 # Winterrowd World - Privacy
 
