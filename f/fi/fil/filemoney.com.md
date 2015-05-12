@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filemoney.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216210442id_/http%3A//filemoney.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemoney.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512204037id_/http%3A//www.filemoney.com/pages/privacy.html) for the most accurate reproduction.*
 
 # FileMoney Cloud File Sharing - Easy way to share your files
 
