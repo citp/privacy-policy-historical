@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humaxdigital.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002193749id_/http%3A//www.humaxdigital.com/am/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humaxdigital.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512120506id_/http%3A//humaxdigital.com/am/privacy.php) for the most accurate reproduction.*
 
 # HUMAX
 
