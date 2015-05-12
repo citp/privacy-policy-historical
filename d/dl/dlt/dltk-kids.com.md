@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dltk-kids.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108231954id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dltk-kids.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512091420id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,15 +32,12 @@ We will not disclose your personal information to third parties without your con
 
 There are some circumstances where we may share some personal information about our users with a third party.  For example:
 
-  1. We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).  They may also use the typical advertising tools such as cookies - cookies are commonly used as way to compile long-term records of individuals' browsing histories and are used all over the internet. Most web browsers have the ability to turn off cookies if you don't like them.  
- 
+  1. We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).  They may also use the typical advertising tools such as cookies - cookies are commonly used as way to compile long-term records of individuals' browsing histories and are used all over the internet. Most web browsers have the ability to turn off cookies if you don't like them.
   2. There are a few features on the sites that we have offered in conjunction with a third party because we do not have the expertise to create these ourselves.  Because they are provided by third parties we do not control the technical backbone so you may wish to refer to the privacy policy of these third parties to be sure you are comfortable with the way they may handle the information you are providing.  Here are some links:  
   
     * [ Java Jigsaw Puzzles](http://www.dltk-kids.com/puzzles/archives.asp?t=Jigzone) by Jigzone.com ([Jigzone Privacy Policy](http://www.jigzone.com/faq/privacy))
-    * [ Playtonium Jigsaw Puzzles](http://www.dltk-kids.com/puzzles/archives.asp?t=Playtonium) by Playtonium.com ([Playtonium Privacy Policy](http://www.playtonium.com/privacy.php))  
- 
-  3. Subject to applicable regulations, we may disclose your personal information to a government agency, court, or law enforcement personnel.  
- 
+    * [ Playtonium Jigsaw Puzzles](http://www.dltk-kids.com/puzzles/archives.asp?t=Playtonium) by Playtonium.com ([Playtonium Privacy Policy](http://www.playtonium.com/privacy.php))
+  3. Subject to applicable regulations, we may disclose your personal information to a government agency, court, or law enforcement personnel.
 
 
 
