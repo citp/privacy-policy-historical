@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rock.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906004648id_/http%3A//www.rock.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rock.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513005558id_/http%3A//www.rock.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -8,7 +8,9 @@ We collect information from you when you register on our site, place an order, s
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, billing address, phone number, or credit card information. 
 
-Various third party vendors use cookies to serve targeted ads on sites you visit after visiting rock.com. Some of our third party vendors allow you to opt out of receiving such ads. For more information, please visit http://www.networkadvertising.org/choices/#completed 
+Various third party vendors use cookies to serve targeted ads on sites you visit after visiting Rock.com, including potentially ads from Rock.com. Some of our third party vendors allow you to opt out of receiving such ads. For more information, please visit http://www.networkadvertising.org/choices/#completed
+
+Further, we have enabled Google Analytics to collect information about the nature of our users experience while visiting Rock.com including but not limited to Google Analytics Demographics and Interest Reporting. This will enable us to continually improve the services we provide to our customers. However, to opt out of Google Analytics, visit https://tools.google.com/dlpage/gaoptout/ 
 
 **What do we use your information for?**
 
