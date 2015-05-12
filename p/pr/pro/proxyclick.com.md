@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxyclick.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024024820id_/http%3A//www.proxyclick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyclick.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512053205id_/http%3A//www.proxyclick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -104,7 +104,7 @@ _Google’s Privacy Policy is available at_[ _http://www.google.com/privacypolic
 
 _We use HubSpot_ _to connect with our already active clients, as well as to reach out to inactive clients_ _and candidates in the hopes of sparking new successful business relationships. HubSpot is a tool that enables us to_ _enhance how we communicate with our customers and, more broadly, our visitors_ _. HubSpot_ _complies with the U.S.-EU Safe Harbor Framework, as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries._ _HubSpot has certified that it adheres to the Safe Harbor Privacy Principles_ _of notice, choice, onward transfer, security, data integrity, access, and enforcement._
 
-_For more information about HubSpot’s Privacy Policy, go to:_[ _http://www.hubspot.com/legal/privacy-policy_](http://www.hubspot.com/legal/privacy-policy) _._
+_For more information about HubSpot’s Privacy Policy, go to:_[ _http://www.hubspot.com/legal/privacy-policy_](https://www.hubspot.com/legal/privacy-policy) _._
 
   * Intercom
 
