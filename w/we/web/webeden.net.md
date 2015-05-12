@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webeden.net privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720082917id_/http%3A//www.webeden.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webeden.net privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512175742id_/http%3A//webeden.net/privacy.html) for the most accurate reproduction.*
 
-# Webeden
+# Privacy | WebEden
 
 At WebEden.co.uk we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. 
 
