@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the downloadbox.me privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828065058id_/http%3A//downloadbox.to/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbox.me privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512164138id_/https%3A//downloadbox.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - DownloadBox
+
+## Privacy Policy
 
 Effective date: 
 
@@ -17,4 +19,4 @@ Links to Other Sites:
 Our Site contains links to other web sites. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. If You choose to visit an advertiser by clicking third party link, or a banner ad or other type of advertisement, You will be directed to that third party's web site. We link to a web site or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party web sites. These other web sites may place their own cookies or other files on Your computer, collect data or solicit personal information from You. Other sites follow different rules regarding the use or disclosure of the personal information You submit to them. We encourage You to read the privacy policies or statements of the other web sites You visit.
 
  **Modification of Privacy Policy**  
-Downloadbox.to reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
+Downloadbox.to reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
