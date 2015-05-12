@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the collegeweeklive.com privacy policy that was archived on 2014-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141231062432id_/http%3A//www.collegeweeklive.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegeweeklive.com privacy policy that was archived on 2015-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150512230859id_/http%3A//www.collegeweeklive.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" onclick="$('#loginButton').removeClass('open');" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     
@@ -13,7 +13,7 @@
 <link rel="stylesheet" type="text/css" href="/css/_platformq.css">
 <link rel="stylesheet" type="text/css" href="/css/cwl-custom.css">
 
-<link href="http://fonts.googleapis.com/css?family=Roboto:100,400,500,600,700,400italic,100italic,700italic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Roboto:100,400,500,600,700,400italic,100italic,700italic" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 6]>
     <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.css">
@@ -33,7 +33,7 @@
 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <!--
     <link rel="stylesheet" href="/css/bootstrap.css" type="text/css"/>
@@ -154,7 +154,7 @@
           </li>
         </ul>
         <ul class="nav pull-right border-top-none visible-desktop">
-            <li id="loginButton" style="width: 100% !important" onclick="(event.stopPropagation ? event.stopPropagation() : event.cancelBubble=true); $('#loginButton').toggleClass('open');"> <button class="dropdown-toggle login">Login/Sign up</button>
+            <li id="loginButton" style="width: 100% !important" onclick="(event.stopPropagation ? event.stopPropagation() : event.cancelBubble=true); $('#loginButton').toggleClass('open'); notifyOthers();"> <button class="dropdown-toggle login">Login/Sign up</button>
             <ul class="dropdown-menu border-top-none padding-bottom-none" id="profile" style="padding: none !important; margin:none !important" onclick="(event.stopPropagation ? event.stopPropagation() : event.cancelBubble=true);">
 
              
@@ -179,7 +179,16 @@
     </div>
   </div>
 </div>
-<div class="nav-spacer fixed-width"> </div><!--
+<div class="nav-spacer fixed-width"> </div>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+function notifyOthers(){
+   if ($('.campusConnect').length > 0) {
+       var oldTopValue = $('.campusConnect').css('top'); 
+       var newTopValue = $('#loginButton').hasClass('open') ? 265 : 65; 
+       $('.campusConnect').css('top', newTopValue);
+   }
+}
+</script><!--
     <nav class="span2">
       <ul class="nav nav-pills nav-stacked">
     
@@ -511,7 +520,7 @@
             </div>
             <!--
             <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5166f88754b60a56"></script>--> 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5166f88754b60a56"></script>-->
 
 <!-- 
     <aside class="span4">
@@ -560,7 +569,7 @@
       <div class="row-fluid">
         <div class="span12 padding-bottom-20 padding-top-20">© CollegeWeekLive 
           <!--Copyright code--> 
-          <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+          <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
                 var dteNow = new Date();
                 var intYear = dteNow.getFullYear();
                 document.write(intYear);
