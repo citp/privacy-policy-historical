@@ -1,105 +1,109 @@
-> *The following text is extracted and transformed from the adonit.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231134712id_/http%3A//www.adonit.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonit.net privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512174946id_/http%3A//www.adonit.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Best Fine Point Stylus for iPad & iPhone
+# Privacy Policy
 
-## Website Privacy Policy
+### **Adonit Creative Inc.**
 
-### Information that is gathered from visitors
+#### **Privacy Policy**
 
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit. Cookies may be used to remember visitor preferences when interacting with the website. Where registration is required, the visitor's email and a username will be stored on the server. 
+##### **(Revised February 2015)**
 
-### How the Information is used
+Adonit Creative Inc. **(“Adonit,” “our,” “us,” or "we")** respects your privacy. We created this Privacy Policy to let you know what information we collect and how we use it, as well as our information sharing and protection practices.
 
-The information is used to enhance the visitor's experience when using the website to display personalized content and possibly advertising. E-mail addresses will not be sold, rented or leased to 3rd parties. E-mail may be sent to inform you of news of our services or offers by us or our affiliates. 
+This Privacy Policy applies to:
 
-### Visitor Options
-
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive. You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website. 
-
-### Cookies
-
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. 
-
-* * *
-
-## SDK Privacy Policy
-
-**Last updated August 12, 2014**
-
-This Policy explains how information collected is used by Adonit and Adonit Creative ("Adonit", “we”, “us”, “our”). 
-
-This Policy only applies to information collected by Adonit from applications or apps (“applications”) that integrate our Adonit SDK. Applications may also collect information of their own, to which their own policies, if any, may apply. 
-
-This Policy does not apply to Adonit’s websites or services that display or link to different privacy statements. 
-
-### INFORMATION WE COLLECT
-
-The information Adonit collects with the Adonit SDK includes: stylus serial number, stylus model and version, stylus user settings, application used, iPad model, iOS version, Adonit SDK version, stylus connection and disconnection times, and IP address. 
-
-Although none of this information is directly personally identifying, because the IP address and stylus serial number may potentially be used in a personally identifying manner, Adonit has chosen to implement this Privacy Policy and is taking steps to join the US-EU and US-Swiss Safe Harbor Programs. 
-
-### HOW WE USE INFORMATION WE COLLECT
-
-Adonit collects information from the Adonit SDK primarily to provide improved cross-application multi-device stylus experiences for you. Secondarily, the information Adonit collects may be used by us to help you if you contact us for customer support for your stylus. Adonit may also use the information in aggregate to discover problems with our SDK and applications that use it, and to work to improve the stylus experience for our customers in general. 
-
-For example, we may use your information to:
-
-  * Improve the Adonit SDK and application integration of the Adonit SDK; 
-  * Enhance your experience using our stylus products across applications; 
-  * Increase our understanding of how users prefer to use our stylus products to help us improve our products 
-  * Provide individual customer support to you at your request; and 
-  * Respond to your comments or questions.
+  * The website www.adonit.net (the **“Website”** );
+  * The Forge mobile application (the **“App”** );
+  * Information collected by Adonit from third party applications ( **“Non-Adonit Apps”** ) that integrate our Adonit software development kit ( **“SDK”** ); and
+  * Any email, text and other electronic communications you send to Adonit through the Website or the App.
 
 
 
-Adonit may store and process personal information in the United States and other countries. By using the Adonit SDK you consent to this transfer of your personal information. 
+This Privacy Policy does _not_ apply to:
 
-### SHARING OF PERSONAL INFORMATION
-
-##### Information You Share
-
-Adonit’s privacy policy does not extend to the applications that integrate the Adonit SDK. To learn about those applications’ privacy policies, please read their policies. 
-
-##### Information We Share
-
-We do not share your personal information with third parties without your consent other than: 
-
-  * To comply with laws or to respond to lawful requests and legal process; or 
-  * For the purposes of a business deal (or negotiation of a business deal) involving sale or transfer of all or a part of our business or assets (business deals may include, for example, any merger, financing, acquisition, divestiture or bankruptcy transaction or proceeding). 
+  * Information we collect offline or by any other means (such as through other websites, products or services we may offer);
+  * Information collected by any third parties, including through Non-Adonit Apps, which may have their own privacy policies.
 
 
 
-We do not share aggregate or de-identified information derived from your personal information. 
+Please read this Privacy Policy carefully and save it. If you do not agree with it, you should not access the Website or download the App or Non-Adonit Apps that interface with our SDK. By using the Website, the App or Non-Adonit Apps, you consent to the practices prescribed in this Privacy Policy.
 
-##### Personal Information Security
+**What information does Adonit collect?**
 
-Adonit takes reasonable steps to help protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration and destruction. 
-
-### CHILDREN
-
-If you are under 18, or the age of majority in the jurisdiction in which you reside, you may only use the Adonit SDK with the consent of your parent or legal guardian. 
-
-YOUR INFORMATION CHOICES AND CHANGES
-
-Contact Adonit customer support to stop data collection.
-
-### CHANGES TO THIS POLICY
-
-Adonit may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. You agree that your continued use of our Services after such changes have been published to our Services will constitute your acceptance of such revised Policy. 
-
-Contacting Adonit and Dispute Resolution
-
-Adonit provides periodic training for its employees involved in the collection and use of personal information. We periodically self-assess and review the training, our internal policies, and our procedures to review compliance. 
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Adonit commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should contact Adonit at: 
-
-  * A. Email: support@adonit.net
-  * B. Postal mail: Adonit Creative Inc., 1524 S. IH 35, Ste. 302, Austin, TX 78704 
+  * **Personal Information.** When we refer to **"Personal Information"** in this Privacy Policy, we mean any information by which you may be personally identified or contacted, whether online or offline. When you purchase products on the Website or otherwise fill out any forms located on the Website, we may collect certain Personal Information from you, such as your first and last name, email address, phone number, mailing address or other contact information and credit card or other payment information. When you download the App, we collect your email address. It is always your choice whether or not to provide Personal Information. If you choose not to provide requested Personal Information, you may not be able to participate in certain activities or use certain features of the Website.
+  * **Technical Information.** We may also collect and use technical data and related information, such as information about your device, system and application software, peripherals and other data related to your interactions with the Website, the App and our SDK ( **“Technical Information”** ). We may automatically collect Technical Information through cookies and log files. The information we collect from these technologies includes your stylus serial number, stylus model and version, stylus user settings, application used, iPad model, iOS version, Adonit SDK version, stylus connection and disconnection times, usage data, crash analytics, IP address, browser type, referring page and time of visit. Adonit does not consider this information to be Personal Information, but note that the IP address and stylus serial number may potentially be used in a personally identifying manner.
 
 
 
-In addition, the United States Federal Trade Commission is the statutory body that has jurisdiction to hear any claims against Adonit regarding possible unfair or deceptive practices and violations of laws or regulations governing privacy. 
+**Information You Voluntarily Disclose**
 
-### QUESTIONS
+Please keep in mind that whenever you voluntarily disclose Information through any public-facing features of the Website, the App or Non-Adonit Apps that interface with our SDK (for example, via message boards), that information can be collected and used by others. You submit this information at your own risk. We are not responsible for the security or privacy of any information you choose to submit in connection with these public features.
 
-If you have any questions about this Policy, please contact us at [support@adonit.net](mailto:support@adonit.net). 
+**How does Adonit use Information?**
+
+Except as described in this Privacy Policy or in our Terms of Use or similar document, Personal Information and Technical Information (collectively, **“Information”** ) that you provide or that we collect will be kept confidential and used to support your relationship with Adonit.
+
+We may use your Information, including your Personal Information, as follows:
+
+  * To improve, market or promote Adonit’s products (including our stylus products) and services.
+  * To increase our understanding of how users prefer to use our stylus products
+  * To improve the SDK and application integration of the SDK
+  * To enhance the user experience, display personalized content or enable you to participate in features of the Website or the App.
+  * To communicate with you, including about the Website, the App or the SDK.
+  * To alert you to product upgrades, special offers, updated information and other new products and services offered by Adonit or its third party partners.
+  * To respond to comments, questions or requests for customer service.
+  * To display advertisements, including advertisements from third parties.
+  * For any other purpose we may describe when you provide the Information.
+
+
+
+We may also use your Information for any other purpose with your consent.
+
+**Information We Share**
+
+Except as described in this Privacy Policy, Adonit does not share, rent or sell your Personal Information collected through the Website, the App or the SDK with third parties.
+
+Adonit or its agents, vendors or contractors may disclose Information, including your Personal Information, to third parties in the following circumstances:
+
+  * To our agents, vendors or contractors that we use to support the internal operations of our business (including Shopify, our ecommerce partner) who are required to keep the Information confidential and use it only for the purposes for which we disclose it to them.
+  * If required to do so by law, comply with legal process or to comply with a governmental or regulatory request; 
+  * To protect and defend the rights or property of Adonit or its agents or contractors; 
+  * To enforce our Terms of Use or other Adonit agreements;
+  * To act in urgent circumstances to protect the personal safety of users of the Website or the public; and 
+  * As part of a transaction or potential transaction where Adonit merges with another organization, files for bankruptcy, or sells its assets or capital stock.
+
+
+
+**Security of Your Information**
+
+We maintain physical, electronic, and procedural safeguards designed to protect the Information. These safeguards include only storing Technical Information on our servers. Despite the actions and precautions we take, no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of the Information and you acknowledge and agree that you transmit it to us at your own risk.
+
+**Third-Party Websites, Services and Technologies**
+
+We may provide links to Non-Adonit Apps and third party websites on the Website or in other communications to you. These links may appear as a specific domain name or URL or may be activated by clicking on an advertisement or other icon or graphic. Please be aware that other websites and services, including Non-Adonit Apps that integrate with our SDK, may collect personally identifiable information about you. We cannot control and are not responsible for the information collection practices of any Non-Adonit Apps or other third party websites or services. We encourage you to carefully review their terms of use, privacy policies, and any other legal notifications before using or providing information through such Non-Adonit Apps, websites, or services.
+
+Further, the Website or the App may employ third party technologies that require you to accept such third party’s terms. This Privacy Policy does not cover the information practices of those third-party technologies.
+
+**International Transfers**
+
+Information collected from you may be stored and processed in the United States or any other country in which Adonit or its affiliates, subsidiaries, agents or contractors maintain facilities. If you are accessing the Website from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your data to the United States and processing globally. By providing your Information, you consent to any transfer and processing in accordance with this Privacy Policy. 
+
+**Children’s Privacy**
+
+The Website, the App and the SDK are not intended for children under the age of 13. We do not knowingly collect Information from children under 13. If you believe that we may have collected Information from a child under the age of 13, please contact us at support@adonit.net.
+
+**Information Choices and Changes**
+
+We may need to communicate with you about the Website, the App or the SDK, and we would like to make certain commercial offers available to you from time to time. As such, by signing up for our newsletter or by providing your email address through the use of our App, you consent to receive commercial messages (whether by phone, email, text or push notifications) from us or our third party partners, and acknowledge and agree that your primary phone numbers and email addresses and other information may be used for the purpose of initiating commercial messages. We will allow you to opt-out of receiving commercial messages. If you have subscribed to one of our services, you may unsubscribe by following the instructions that are included in e-mail that you receive. 
+
+Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the Website. Depending on your browser, you may be able to remove and reject cookies from our Website by changing your browser settings. The default setting of many browsers is set to accept cookies until you change your settings. Please note that if you disable or refuse cookies, certain features of the Website may become inaccessible or may not function properly.
+
+**Information Choices and Changes**
+
+This is our entire Privacy Policy and it replaces any earlier version. We may change this Privacy Policy by posting a new version on the Website or distributing a new version via the App, and it is your responsibility to review this Privacy Policy periodically. If we make material changes to our practices regarding the collection, use and sharing of your Personal Information, we will notify you via e-mail to the email address you provide to us and/or through a notice in the App or on the Website home page.
+
+When we do change the Privacy Policy, we will also revise the “revised” date. Your continued use of the Website, the App or the SDK after such date constitutes your agreement to this Privacy Policy and any updates. 
+
+**Contacting Adonit**
+
+For questions or comments regarding this Privacy Policy, please contact us at Adonit Creative Inc., 1524 S I-35, Suite 302, Austin, TX 78704, and support@adonit.net.
