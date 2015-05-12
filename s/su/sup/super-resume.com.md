@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the super-resume.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208131211id_/http%3A//www.super-resume.com/PrivacyPolicy.jtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the super-resume.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512093108id_/http%3A//www.super-resume.com/PrivacyPolicy.jtp) for the most accurate reproduction.*
 
 # Super-Resume: Privacy Policy
 
@@ -16,7 +16,7 @@ This Privacy Policy specifies the manner in which Super-Resume.com ( **Super-Res
     * Whether or not you have viewed or are viewing the content;
     * Date and time you viewed the content;
     * Number of times and length of time the content was viewed;
-    * Your IP address and location.
+    * Your IP address and geographic location.
 We collect this information in order to provide the User who sent you the link with reporting and analytics relating to your interaction with their content and our services. Super-Resume does not sell this information. Super-Resume will not allow other Super-Resume Users to access this information. 
 
 
@@ -47,4 +47,4 @@ Super-Resume utilizes certain third parties for the normal operation of our serv
 
 Super-Resume reserves the right to modify this privacy policy at any time in our sole discretion. Please review our privacy policy frequently. Your continued use of our Services and Site following any changes to this privacy policy constitute your acceptance of such changes, and any amended privacy policy will apply to information previously collected. 
 
-**Effective Date of this Privacy Policy** : November 12, 2013 
+**Effective Date of this Privacy Policy** : February 21, 2014 
