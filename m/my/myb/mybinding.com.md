@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006045815id_/http%3A//www.mybinding.com/privacy-policy-cookie-restriction-mode.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybinding.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512070330id_/http%3A//www.mybinding.com/privacy-policy-cookie-restriction-mode.html) for the most accurate reproduction.*
 
 # Privacy Policy | MyBinding.com
 
