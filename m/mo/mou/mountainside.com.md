@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainside.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231174358id_/http%3A//www.mountainside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainside.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512063911id_/http%3A//www.mountainside.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mountainside
 
@@ -29,7 +29,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 ## Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ## California Online Privacy Protection Act Compliance
 
@@ -45,7 +45,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.Mountainside.com/](http://www.mountainsidenew.agdeploy.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.Mountainside.com/](https://web.archive.org/)
 
 ## Your Consent
 
@@ -59,7 +59,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.Mountainside.com](http://www.mountainsidenew.agdeploy.com/ "http://www.Mountainside.com")  
+[http://www.Mountainside.com](https://web.archive.org/ "http://www.Mountainside.com")  
 187 South Canaan Road  
 Canaan, CT 06018  
 United States  
