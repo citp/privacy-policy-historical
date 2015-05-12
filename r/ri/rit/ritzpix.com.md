@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026023956id_/http%3A//www.ritzpix.com/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512120424id_/http%3A//www.ritzpix.com/help/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -171,9 +171,9 @@ We do our best to send you the highest quality prints and products. Please keep 
 **_Please ship Mail Order returns to:_** _
 
 ATTN: Customer Service  
-Ritz Camera & Image  
-2 Bergen Turnpike  
-Ridgefield Park, NJ 07660
+RitzPix.com  
+3036 Commerce Way  
+Hapeville, GA 30354
 
 _
 
