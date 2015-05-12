@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasertekservices.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113045id_/http%3A//lasertekservices.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasertekservices.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512173040id_/http%3A//lasertekservices.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Laser Tek Services, Toner Refill Kits For All Major Brands Toner for Laser Printers Fax Copier Cartridges
 
