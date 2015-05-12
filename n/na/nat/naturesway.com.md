@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the naturesway.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115163734id_/http%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturesway.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513002702id_/http%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nature's Way®.
 
 ###  Schwabe North America, Inc. - Website Privacy Policy  
-Date Last Modified: August 15th, 2012
+_Date Last Modified: August 15th, 2012_
 
 Your privacy is important to us. Schwabe North America and affiliates ("Schwabe North America") are committed to maintaining the privacy and accuracy of your personal information and to protecting such information from loss, misuse, unauthorized access, disclosure, alteration and destruction.
 
-This Statement of Privacy describes how Schwabe North America treats information received about you when you become a Schwabe North America subscriber, when you provide information to us, and when you use the Schwabe North America web site. This statement addresses the following
+This Statement of Privacy describes how Schwabe North America treats information received about you when you become a Schwabe North America subscriber, when you provide information to us, and when you use the Schwabe North America web site. This statement addresses the following.
 
 Please read this Statement of Privacy carefully. Questions regarding this statement should be directed to privacy@enzy.com.
 
