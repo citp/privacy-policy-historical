@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ampxchange.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110111653id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampxchange.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512052600id_/http%3A//www.admarketplace.com/privacy-statement.php) for the most accurate reproduction.*
 
-# adMarketplace | Programmatic Search Advertising
+# adMarketplace | Leading Search Advertising Marketplace
 
 adMarketplace, Inc.'s ("adMarketplace's") website, [www.adMarketplace.com](http://www.admarketplace.com/), serves two basic functions. First, it is a portal for information about adMarketplace products and services as well as online advertising generally. Second, it contains password-protected pages where adMarketplace partners (Partners) can access partner-only materials.
 
-adMarketplace follows generally accepted practices for stewardship of data, including transparency, accountability and choice regarding the collection, use, and disclosure of information collected through our website [www.adMarketplace.com](https://web.archive.org/web/20141110111653id_/http%3A//www.admarketplace.com/www.adMarketplace.com) and our service accessible from [http://my.adMarketplace.com](http://my.admarketplace.com/). The use of information collected through our service shall be limited to the purpose of providing the service for which our Partner has engaged adMarketplace. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@admarketplace.com](mailto:privacy@admarketplace.com).
+adMarketplace follows generally accepted practices for stewardship of data, including transparency, accountability and choice regarding the collection, use, and disclosure of information collected through our website [www.adMarketplace.com](https://web.archive.org/web/20150512052600id_/http%3A//www.admarketplace.com/www.adMarketplace.com) and our service accessible from [http://my.adMarketplace.com](http://my.admarketplace.com/). The use of information collected through our service shall be limited to the purpose of providing the service for which our Partner has engaged adMarketplace. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@admarketplace.com](mailto:privacy@admarketplace.com).
 
 adMarketplace complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at : <http://export.gov/safeharbor>
-
-The TRUSTe program covers our collection, use and disclosure of information we collect through our website [www.admarketplace.com](http://www.admarketplace.com/) and our service accessible from [http://my.admarketplace.com](http://my.admarketplace.com/). The use of information collected through our service shall be limited to the purpose of providing the service for which our Partner has engaged adMarketplace.
 
 #### Personal Information Collected on this Website
 
