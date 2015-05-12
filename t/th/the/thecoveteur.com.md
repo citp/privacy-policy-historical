@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecoveteur.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029181812id_/http%3A//www.thecoveteur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoveteur.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512160414id_/http%3A//www.thecoveteur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Coveteur
 
@@ -52,3 +52,9 @@ We will make every reasonable effort to keep your Personal Information accurate 
 **Contact Us.**
 
 If you have any questions or concerns regarding this privacy statement and/or our practices in relation to data, please contact us at customersupport@thecoveteur.com.
+
+Wake up to Louboutins with our newsletter.
+
+Sign up Already!
+
+It's the internet equivalent of a friendship bracelet.
