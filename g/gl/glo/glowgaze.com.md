@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glowgaze.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107221838id_/http%3A//g2g.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowgaze.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512091415id_/http%3A//g2g.fm/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - G2G - Watch and Download Movies and TV Shows
 
