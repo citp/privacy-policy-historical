@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafirstlife.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111144221id_/http%3A//indiafirstlife.com/web/insurancestore/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafirstlife.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512151005id_/http%3A//www.indiafirstlife.com/web/insurancestore/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaFirst Life Insurance
 
