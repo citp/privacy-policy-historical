@@ -1,75 +1,43 @@
-> *The following text is extracted and transformed from the worldwidefred.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602165202id_/http%3A//fredandfriends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidefred.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512114344id_/http%3A//www.fredandfriends.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Fred & Friends » Privacy Policy
+# Privacy Policy
 
-_**What information do we collect?**_
+We are committed to protecting your privacy and security. We cherish the relationship we have with you, and will do nothing to violate your trust in us. Because of this commitment, we never sell, rent or trade email addresses with any other company. And we utilize state-of-the-art security software to protect your financial information.
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
+### What information do you need to provide?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or Easy Aces Inc. You may, however, visit our site anonymously.
+When you place an order, we need to know your name, address, phone number, e-mail address, credit card number and expiration date. This allows us to process and deliver your order, and to send you online order and shipping confirmations and, with your permission, special promotional offers.
 
-_**What do we use your information for?**_
+When you send a gift to another address, we need to have the name, address and phone number of that person as well, so we are able to correctly deliver your gift.
 
-Any of the information we collect from you may be used in one of the following ways:
+### Do we share any information with other companies?
 
-\- To personalize your experience (your information helps us to better respond to your individual needs)
+We never sell, rent or trade email addresses with any other company.
 
-\- To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Access to such information is limited to FredAndFriends.com employees and business partners engaged in the business of serving its customers. FredAndFriends.com employees and business partners are trained in policies regarding safeguarding of customer information and preventing unauthorized access and disclosure. FredAndFriends.com may store this information and use it to better understand customer needs, to improve FredAndFriends.com products, and to contact customers with offers that may be of interest to them.
 
-\- To send periodic emails
+### How can I discontinue promotional emails?
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+At the bottom of each email is information about removing your name from our email list. Simply follow the instructions and we'll remove your name. Or call FredAndFriends.com Customer Service at 1-855-739-1500. Please note that it may take several hours for the change to take effect, and you may receive emails during that time.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+After you make a purchase, for your convenience we will still send confirmations and information about your order. We may also contact you by phone or postal mail if we have questions regarding your order.
 
-_**How do we protect your information?**_
+### What about cookies?
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+FredAndFriends.com does use cookies to make your shopping experience more efficient, convenient and personalized. They can only be read by our servers, and are ready to go to work for you every time you return to FredAndFriends.com.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential.
+Just so you'll know, a cookie is a very small text file placed on your hard drive. It helps us improve our site design, product selection, services and promotions in ways that serve you better. Cookies are your unique identifier and cannot be executed as a code to deliver viruses.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to automatically process reorders.
+### How can you contact us with your questions or comments? 
 
-_**Do we use cookies?**_
+You can choose from several methods available to get in touch with us. We're always happy to answer your questions or listen to your comments.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+### How do we protect your personal information?
 
-We use cookies to understand and save your preferences for future visits.
+We use state-of-the-art technology to encrypt your financial information before it is sent. The ordering area of our site is protected this way and is referred to as "secure." Secure transmission is not necessary for our product pictures or general site information and is not used there. This keeps our site faster and your shopping experience more enjoyable. And you never have to worry about sending us your credit card information.
 
-_**Do we disclose any information to outside parties?**_
+### Does FredAndFriends.com use SSL technology?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. In addition, if we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personal information will likely be among the assets transferred.
+Yes, we do. Secure Socket Layer (SSL) technology is the gold standard in Internet encryption. This highly sophisticated system scrambles your financial data as it travels from your computer to our Web site, making it useless to anyone but FredAndFriends.com.
 
-_**California Online Privacy Protection Act Compliance**_
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all registered wholesale users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Account' page.
-
-Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-_**Online Privacy Policy Only**_
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-_**Your Consent**_
-
-By using our site, you consent to our websites privacy policy.
-
-_**Changes to our Privacy Policy**_
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-This policy was last modified on October 20, 2012
-
-_**Contacting Us**_
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-www.fredandfriends.com  
-30 Martin St  
-Cumberland, RI 02864  
-USA  
-webmaster@fredandfriends.com
+As this site continues to expand and offer more products and services, we will update this Privacy Policy. We will post the changes on this page, so you will always be aware of what information we collect, and how we use it.
