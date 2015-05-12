@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robooption.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703152009id_/https%3A//my.robooption.com/uploads/appdocument/10/privacy_policy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robooption.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512065945id_/https%3A//my.robooption.com/uploads/appdocument/10/privacy_policy_en.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
