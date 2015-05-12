@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204042817id_/http%3A//assets.socialstrata.com/docs/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512060857id_/http%3A//assets.socialstrata.com/docs/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy For Social Strata
+
+Effective January 23, 2014 
 
 This Privacy Policy ("Policy") applies to all products, services, and websites operated by Social Strata, Inc. ("Social Strata"). Social Strata is registered with the U.S. Department of Commerce's Safe Harbor Program. This means that we comply with the Safe Harbor principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. To learn more about the Safe Harbor program, and to view Social Strata's certification, please visit <http://www.export.gov/safeharbor>. 
 
