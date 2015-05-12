@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the firstsource.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214182039id_/http%3A//www.firstsource.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstsource.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513001818id_/http%3A//www.firstsource.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Firstsource Solutions
 
-[](http://www.firstsource.com/) > Legal > Privacy Policy 
+[](http://www.firstsource.com/)
+
+> Legal > Privacy Policy 
 
 Firstsource Solutions Limited (which expression means and includes its affiliates and subsidiaries) has created this Privacy Policy in order to demonstrate the company's commitment to privacy. This Privacy Policy demonstrates Firstsource Solutions Limited’s (‘we’, ‘our’) information gathering and dissemination practices for [www.firstsource.com](http://www.firstsource.com/) and [www.firstsource.com/blog](http://www.firstsource.com/blog)
 
