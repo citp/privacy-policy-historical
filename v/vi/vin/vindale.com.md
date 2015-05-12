@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225110149id_/https%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512033011id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
 # Free Online Surveys - Get Paid to Take Surveys Online - Vindale Research
 
@@ -54,7 +54,7 @@ Vindale Research contains links to other websites. Vindale Research is in no way
 
 Single Sign On
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.Â Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
 
 Correcting/updating information
 
