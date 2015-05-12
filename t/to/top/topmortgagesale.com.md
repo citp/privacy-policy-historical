@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topmortgagesale.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103121306id_/http%3A//www.topmortgagesale.com/%3Fpage_id%3D904) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topmortgagesale.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513012358id_/http%3A//topmortgagesale.com/-page_id%3D904.htm) for the most accurate reproduction.*
 
 # Privacy Policy | TopMortgageSale.com
 
