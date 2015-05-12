@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tnuck.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114242id_/http%3A//tnuck.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnuck.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512173029id_/http%3A//tnuck.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tuckernuck, preppy clothing
+# Privacy Policy – Tuckernuck
 
 **PRIVACY POLICY**
 
-Uscoop Inc., the operator of Tuckernuck, or [http://tnuck.com](http://tnuck.com/) (“Website”), is committed to protecting your privacy. We are an online boutique and lifestyle site. Please read the following privacy policy (“Privacy Policy”) to learn what information we collect from our users (“you”) and how we use and disclose that information. If you have any questions about our privacy policy, feel free to email us at stayclassy@tnuck.com.
+Uscoop Inc., the operator of Tuckernuck, or [http://tnuck.com](http://tnuck.com/) (“Website”), is committed to protecting your privacy. We are an online boutique and lifestyle site. Please read the following privacy policy (“Privacy Policy”) to learn what information we collect from our users (“you”) and how we use and disclose that information. If you have any questions about our privacy policy, feel free to email us at info@tnuck.com.
 
 The Website is not directed to children and children are not eligible to use our Services.  Protecting the privacy of children is very important to us.  We do not collect or maintain Personally Identifiable Information (defined below) from people we actually know are under 18 years of age, and no part of our Site or Services is designed to attract people under 18 years of age. If we later learn that a user is under 18 years of old, we will take steps to remove that user’s Personally Identifiable Information from our databases and to prevent the user from utilizing the Site and the Services.  
 
@@ -13,11 +13,11 @@ The Website is not directed to children and children are not eligible to use our
 
 We reserve the right to change this Privacy Policy at any time, so please review it frequently. If we make any changes to our Privacy Policy, we will update this Privacy Policy and provide notice through other means and on other portions of the Website that we think are necessary so that you know what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this Privacy Policy, we will send an email to the last email address you have provided to us.
 
-**2\. Information Tuckernuck Collects and How We Use it**
+ **2\. Information Tuckernuck Collects and How We Use it**
 
 We may collect both Personally Identifiable Information and Non-Personally Identifiable Information through the Website and Service. 
 
-**Personally Identifiable Information**
+ **Personally Identifiable Information**
 
 Collection
 
@@ -33,11 +33,11 @@ We want our Website to be the best that it can be for you. This is why we use Pe
 
 We may also contact you via mail to let you know about these upcoming events, specials or other contests.  We may also use Personally Identifiable Information to troubleshoot issues, resolve disputes, accomplish administrative tasks, communicate with you, enforce our agreements with you, including our Website Terms of Service, comply with applicable law, and cooperate with law enforcement activities.
 
-**Publicly Available Information**
+ **Publicly Available Information**
 
 Helping you to protect your information is a vital part of our mission. It is up to you to make sure you are comfortable with the information you choose to provide us and the information you choose to publish. You understand that when you use the Website, certain information you post or provide through the Website, such as your name, profile, comments, collections and reviews, may be shared with other users and posted on publicly available portions of the Website, including without limitation, bulletin and message boards, along with other public forums.  Please keep in mind that if you choose to disclose Personally Identifiable Information when posting comments or other information or content through the Website, this information may become publicly available and may be collected and used by others, including people outside the Tuckernuck community. We will not have any obligations with respect to any information that you post on parts of the Website that are available to others, and we recommend that you use caution when giving out information to others in public forums online or otherwise.  We may also share the information you publish with other third parties.
 
-**Non-Personally Identifiable Information**
+ **Non-Personally Identifiable Information**
 
 Non-Personally Identifiable Information is information that is not used or intended to be used to identify a specific individual. This type of information may include things like the Uniform Resource Locator (URL) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol address. We, and/or our authorized third party service providers and advertisers, may passively collect this information when you visit our Website through the use of electronic tools like Cookies (defined below) and web beacons, as described in Section 8 of this Privacy Policy.
 
@@ -45,7 +45,7 @@ We use Non-Personally Identifiable Information to troubleshoot, administer the W
 
 We may combine Non-Personally Identifiable Information with certain of your Personally Identifiable Information, but we will provide you with notice thereof prior to such combination and offer you the opportunity to opt out of such aggregation. We may also de-identify or anonymize your Personally Identifiable Information (thereby creating Non-Personally Identifiable Information).
 
-**3\. Releasing Personally Identifiable Information**
+ **3\. Releasing Personally Identifiable Information**
 
 We will only release your Personally Identifiable Information with other parties in the following situations:
 
@@ -63,11 +63,11 @@ Otherwise: We do not currently sell your Personally Identifiable Information or 
 
 Generally: This Privacy Policy addresses our use and disclosure of information we collect from and/or about you on the Website or through the Services.  If you disclose information to others, different rules may apply to their use or disclosure of the information you disclose to them.  The use and disclosure restrictions contained in this Privacy Policy will not apply to any third party.  We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. Please be aware that any Personally Identifiable Information you make available to us on Facebook may also be made available generally on Facebook, including to third parties, pursuant to your privacy settings on Facebook. Similarly, please be thoughtful about your privacy settings. The Website may contain links to other websites that are not owned or controlled by us, including our partner sites. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other websites. When you click on such a link, you will leave our Website and go to another site.  During this process, another entity may collect information from you. The Website may also contain links to other websites controlled by us but which operates under different privacy policies.
 
-**4\. Releasing Non-Personally Identifiable Information**
+ **4\. Releasing Non-Personally Identifiable Information**
 
 We reserve the right to disclose Non-Personally Identifiable Information publicly without restriction, including to third party vendors who may help us enhance or provide the Site or Services or to third parties.
 
-**5\. Updating and Correcting Your Information**
+ **5\. Updating and Correcting Your Information**
 
 We provide you the right to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by signing into your account and sending us an email at Please indicate your name and email address, and what information you would like to update when you contact us.
 
@@ -75,8 +75,8 @@ We encourage you to promptly update your Personally Identifiable Information if 
 
 If you choose to store Payment Information on the site, this is stored on a secure page and you may delete your Payment Information at any time.
 
-**6\. Your Choices on Collection and Use of Information**
+ **6\. Your Choices on Collection and Use of Information**
 
 As discussed above, you can always choose not to provide information, although it may be required to engage in certain activities on the Website.
 
-We may send you both administrative and promotional emails. You cannot opt-out of “Administrative Emails”, which relate to your activity on the Website or the Services, and include communication regarding your Account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. “Promotional Emails” from us advertise our or third party’s products and services, including exclusive discounts and other offers. If you do not want to receive Promotional Emails from us, you may elect to unsubscribe to Promotional Emails at any time after registering by e-mailing us at info@tnuck.com.[](https://web.archive.org/web/20140625114242id_/http%3A//tnuck.com/pages/helpme@shoptuckernuck.com)[](mailto:stayclassy@tnuck.com?subject=Customer-Service)
+We may send you both administrative and promotional emails. You cannot opt-out of “Administrative Emails”, which relate to your activity on the Website or the Services, and include communication regarding your Account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. “Promotional Emails” from us advertise our or third party’s products and services, including exclusive discounts and other offers. If you do not want to receive Promotional Emails from us, you may elect to unsubscribe to Promotional Emails at any time after registering by e-mailing us at info@tnuck.com.[](https://web.archive.org/web/20150512173029id_/http%3A//tnuck.com/pages/helpme@shoptuckernuck.com)[](mailto:stayclassy@tnuck.com?subject=Customer-Service)
