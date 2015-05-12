@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productreportcard.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131400id_/http%3A//www.productreportcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productreportcard.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512105444id_/http%3A//www.productreportcard.com/privacy-policy) for the most accurate reproduction.*
 
 # Product Report Card Privacy Policy
 
