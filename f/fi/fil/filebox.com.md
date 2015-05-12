@@ -1,111 +1,57 @@
-> *The following text is extracted and transformed from the filebox.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221114016id_/http%3A//www.filebox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filebox.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512042038id_/http%3A//filebox.com/privacy.html) for the most accurate reproduction.*
 
-# Filebox.com
+# FileBox - Cloud Storage without limits!
 
-### Privacy Policy
+FileBox.com is a provider of online file storage service. Your use of the [FileBox.com](http://filebox.com/) site is governed by FileBox.com Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
 
-_Last updated May 12, 2010_
+FileBox.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate. 
 
-Our Commitment to Your Privacy 
+#### **Your information during the registration**
 
-Filebox.com is an online service where members upload files that can be shared with other members of Filebox.com. To allow our members to identify each other and expand their download volumes, members can display personal files and other information to other members of and visitors to Filebox.com.
+FileBox.com stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. FileBox.com does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions. 
 
-Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy to explain our information practices and the choices you can make about the way your information is collected, used and disclosed. This Privacy Policy is accessible by a link at the bottom of every page on Filebox.com and applies to all information collected through or submitted to the Filebox website.
+#### **Your account password**
 
-We are particularly committed to protecting the privacy of minors. For that reason, we will refuse to open an account for a person under the age of 13. If you are under 13, please do not attempt to register for Filebox.com or send any information about yourself to us. If we learn that information from a child under the age of 13 has been submitted to us, we will delete that account and information as soon as possible.
+Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving FileBox.com site. You are solely responsible for keeping your password inviolable. 
 
-For persons between the ages of 13 and 18, we require parental or guardian consent prior to opening an account and we reserve the right to verify the existence of that consent.
+#### **Certain exceptional disclosures**
 
-We will fully cooperate with any request to release information to any law enforcement agency when a proper request is received. We may also take steps to protect the health and well being of members, visitors and other parties if we have reason to believe that any of these persons are in danger.
+We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. The disclosure of personal information may be required by court or law enforcement officials. 
 
-Collection and Use of Personal Information by Filebox.com 
+#### **Your account at our service**
 
-When you register with and use Filebox.com, you create your own profile and privacy settings and the information you submit/post, such as personal information, comments, messages, photos, etc. may be shared with other members and visitors in accordance with the privacy settings you select. Therefore, it is important that you understand what information is displayed to the public. **Except as described in this Privacy Policy, any information included in your Profile or files that are accessible to the general public and not just registered members.** We encourage you to view your Profile as others would view it by visiting http://www.Filebox.com/users/YOURUSERNAME. All posting and sharing is done at your own risk.
+When you upload a file to our server, we give you a unique URL to download the file. We do not share download URLs with anyone, however we will provide the file to any browser requesting the file by its unique URL address.
 
-When opening an account, Filebox.com collects identifiable information submitted by you (Personal Information), including but not limited to: username and email address. Profile Data is not Personal Information collected by Filebox. 
+We reserve a right to review your account content for violations of our Terms and Conditions. If we determine that your files violate the Terms and Conditions, we may ban your account and will attempt to contact you. We reserve the right to cancel your account and remove the files from our servers.
 
-Members communicate on Filebox.com with each other through the Filebox.com service, without revealing their email addresses. To facilitate searching for and finding friends on the service, Filebox.com allows members to search by name, age, gender, location, school, interests, sexuality and to limit searches only to members with pictures.
+We do not own your account content, and will access your files for troubleshooting only. All your files are allowed to be downloaded only according to the security settings you define. We guarantee safety of your files, for that purpose we make backups of all files. 
 
-In addition, Filebox.com allows searches by real names, usernames, and email addresses of members. The default will be that your username and email address are searchable, however, you may disable this option through your Preferences. If you allow your username and/or email address to be searchable, the user performing the search will be able to access your profile.
+#### **Using cookies**
 
-Filebox.com also encourages member interaction within the network community by displaying random member profile information, including members' pictures, files, video.
+FileBox.com uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie.
 
-We may use your external email address to respond to your inquiries or send updates or other news regarding the Filebox service. 
+We also collect such information as your operating system, browser version and the size of your screen. We use these details for marketing purposes also. This information is collected in the form of the usual web server logs and cookies. 
 
-From time to time, Filebox.com may hold a promotion, sweepstake or contest on Filebox.com. Members may be asked to provide Personal Information such as name, email address or home address or to answer questions in order to participate. If you participate, Filebox.com may collect and use Personal Information to administer the promotion, sweepstake or contest. What information is being collected and how it may be used or disclosed (and to whom) will be made evident at the time of collection through the relevant promotion, sweepstake or contest rules.
+#### **Third party cookies**
 
-Filebox.com also logs non-personally-identifiable information of members and visitors to the site, including IP address, aggregate user data, and browser type. This information helps us manage the website, track usage and improve the website services. Aggregated information may be shared with third parties to provide more relevant services and advertisements to members. For example, we may tell an advertiser that X number of individuals visited a certain area on our website or that Y number of men or Z number of women filled out our registration form. Filebox.com also records user IP addresses for the purposes of security and monitoring.
+In case of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
-While we do not generally, or undertake any obligation to do so, we may monitor content, messages and other exchanges if we suspect members of being under the age of 13 or using our services in violation of our Terms of Use or Privacy Policy. Postings that appear on the public area of the site may be edited, deleted or removed in accordance with our Terms of Use.
+#### **Access to your information**
 
-Disclosure of Personal Information 
+You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your account files to other users through sharing linklists or file download links.
 
-Filebox will disclose Personal Information about payment and member Profile Data to our third party credit card process provider for billing and payment purposes and where there is suspicious credit card use or a dispute concerning a charge. We may also contact financial institutions directly to verify credit card information provided. In doing so, we may share the information we received about the credit card and member.
+If you want to change any personal information provided to us, feel free to contact our support team at Array. 
 
-We sometimes receive calls from and/or attempt to call parents or guardians about a minor’s use of a credit card belonging to someone other than the member. Where a credit card belonging to a person other than the member has been submitted, we will first attempt to verify the identity of the caller as being the credit card holder and, if this is verified, we may release the name of the member who submitted the credit card information to us. It is important that you have the full consent of the credit card holder before submitting their card number to us to pay for services. We reserve the right to cancel your account at any time and prohibit your future use of the Filebox.com site if you attempt to use a credit card without prior authorization.
+#### **How we protect your information**
 
-We may share some or all of your Personal Information with any parent company, any subsidiaries, joint ventures, or other companies under a common control we may have (collectively, “Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.
+Any information collected and processed within FileBox.com is treated with the utmost confidentiality. FileBox.com will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We encrypt the information you submit to FileBox.com with VeriSign 256-bit SSL certificate.
 
-In the event Filebox goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of Filebox or its assets may continue to use your Personal Information as set forth in this Privacy Policy.
+Automated and scheduled backups of your files make the service secure and safe for you. 
 
-Filebox expressly reserves the right, and in some states may be legally required, to report certain materials, such as, but not limited to, child pornography or terror plans, that we may become aware of in the course of providing the Services to the authorities in charge.
+#### **Credit card security**
 
-Some Personal Information may be stored or processed by third parties, including contractors, business partners and affiliates located in the United States. Therefore, your information may be processed and stored in the United States. As a result, the governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States.
+All purchases on [FileBox.com](http://filebox.com/) are handled by third party card processing company. [FileBox.com](http://filebox.com/) does not arrange and/or save numbers or any information from your credit cards. **External links** If any part of the FileBox.com website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information. 
 
-Except as otherwise described in this Privacy Policy, Filebox.com will not disclose Personal Information to any third party unless we believe that disclosure is necessary for one of the following reasons: (1) as required by law, including to respond to a subpoena, search warrant or other legal process received by Filebox.com; (2) to enforce the Filebox.com Terms of Use or to protect our rights; or (3) to protect the safety of the public and members of and visitors to the service.
+#### **Contact information**
 
-Notification of Changes 
-
-If we decide to change our Privacy Policy, we will post any changes on our site and provide notification so that users will always be aware of what changes have been made to how information is collected, used and disclosed, and continued use of Filebox.com shall constitute consent to the changes in the Privacy Policy.
-
-Cookies 
-
-A “cookie” is a small piece of information/text sent by a web server to be stored on a user’s web browser so it can later be read back from that browser on subsequent visits to a website. Filebox.com uses cookies to store visitors' preferences and to record session information, and allows communications, advertising, and Web page content to be customized according to browser type and member profile information. You may be able to configure your browser to accept or reject all or some cookies, or to notify you when a cookie is set, however, cookies must be enabled in order to access most functions on the site. Since each browser is different, check the "Help" menu of your browser to learn how to change your cookie preferences.
-
-Links 
-
-Filebox.com contains links to other sites. Filebox.com is not responsible for the privacy policies and/or practices on other sites. A member should read the privacy policy stated on any site being accessed. The Filebox Privacy Policy only governs the privacy policies and practices of Filebox.com.
-
-Advertising 
-
-Ads that appear on Filebox.com may be sent to members and visitors by us. Filebox.com uses personal information from your Profile to deliver targeted advertisements that we think will most interest you. Filebox.com does not provide Personal Information to advertisers, however, if you click on an ad appearing on Filebox.com, you may be taken to an advertiser’s or other third’s party web-site. Your use of these other web-sites is subject to the privacy policies of those web-sites and Filebox.com expressly disclaims all representations and responsibilities in relation to those web-sites.
-
-Security 
-
-Filebox.com uses physical and electronic precautions to protect member Personal Information stored within our database, and we restrict access to member information to those employees who need access it to perform their job functions, such as our customer service personnel and technical staff.
-
-Filebox.com uses member-created passwords to assist in the security of member accounts. It is your responsibility to protect your password as disclosure of it allows anyone to access your account, including all of your sent and received messages. You should also take precautions to protect your email account as anyone can request that your password be sent to your email address. As such, if you allow someone else to use or control your email account, that person may be able to gain access to your Filebox account. To protect your Filebox account, please logout when using public computers as your account will remain logged in even after you close the browser.
-
-While we take measures to attempt to protect your Personal Information and privacy, we cannot guarantee the absolute security of Personal Information due to actions of other members with whom you share your pages and information and factors such as unauthorized third party entry or use, or hardware or software failure which may compromise security.
-
-For any additional information about the security measures we use on Filebox.com, please contact us at privacy@Filebox.com.
-
-Access to Personal Information 
-
-As set out below, Filebox permits requests for access to and review of Personal Information collected by Filebox about an individual by the individual concerned. An individual can request to access and/or update Personal Information collected about them by Filebox by sending an email request to privacy@Filebox.com. Filebox reserves the right not to change any Personal Information but may append any alternative text the individual concerned believes appropriate. An individual may also request that Filebox delete an individual's Personal Information from Filebox's system and records. However, due to technical constraints and the fact that Filebox backs up its systems, Personal Information may continue to reside in Filebox's systems after deletion. Individuals, therefore, should not expect that their Personal Information would be completely removed from Filebox systems in response to an accepted request for deletion.
-
-Filebox reserves the right to decline access to Personal Information where the information requested: 
-
-  1. Would disclose the Personal Information of another individual or of a deceased individual;
-  2. Was not collected by Filebox from the individual;
-  3. Would disclose business confidential information that may harm Filebox or the competitive position of a third party;
-  4. Is subject to solicitor-client or litigation privilege;
-  5. Could reasonably result in: 
-    1. serious harm to the treatment or recovery of the individual concerned;
-    2. serious emotional harm to the individual or another individual; or
-    3. serious bodily harm to another individual;
-  6. May harm or interfere with law enforcement activities and other investigative or regulatory functions of a body authorized by statute to perform such functions;
-  7. Is not readily retrievable and the burden or cost of providing would be disproportionate to the nature or value of the information; or
-  8. Does not exist, is not held, or cannot be found by Filebox.
-
-
-
-Where information will not or cannot be disclosed, the individual making the request will be provided with the reasons for non-disclosure.
-
-Where information will be disclosed, Filebox will endeavor to provide the information in question within a reasonable time and no later than 30 days following the request. Filebox will not respond to repetitious or vexatious requests for access. In determining whether a request is repetitious or vexatious, it will consider such factors as the frequency with which information is updated, the purpose for which the information is used, and the nature of the information.
-
-To guard against fraudulent requests for access, Filebox will require sufficient information to allow it to confirm the identity of the person making the request before granting access or making corrections.
-
-How to Contact Us 
-
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact our privacy officer at: support [@] Filebox.com
+Should you have any questions or concerns regarding this Privacy Policy, please [contact us](http://filebox.com/contact.html). 
