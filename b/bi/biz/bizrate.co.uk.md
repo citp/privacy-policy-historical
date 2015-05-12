@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizrate.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231140056id_/http%3A//www.bizrate.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.co.uk privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512213454id_/http%3A//www.bizrate.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Bizrate - Privacy Policy
 
@@ -75,7 +75,7 @@ You may be able to direct your internet browser not to allow cookies and you can
 
 A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that Shopzilla works with, but also many that Shopzilla does not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”) – for a general explanation of how Opt-out Cookies work, please [click here](http://www.youronlinechoices.com/). Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.
 
-For more information about our use of cookies, please see our [cookies policy](https://web.archive.org/cookies).
+For more information about our use of cookies, please see our [cookies policy](https://web.archive.org/cookie-policy).
 
 ## IV. Sale of business and disclosure by law
 
