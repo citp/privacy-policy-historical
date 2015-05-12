@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the velogames.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526135208id_/http%3A//velogames.com/spring-classics/2014/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velogames.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512062822id_/http%3A//www.velogames.com/tirreno-adriatico/2015/privacy.php) for the most accurate reproduction.*
 
-# Velogames Fantasy Cycling Spring Classics 2014
-
-### Privacy Policy
+# Velogames Fantasy Cycling 2015 | Fantasy Paris-Nice 2015
 
 ## Overview
 
