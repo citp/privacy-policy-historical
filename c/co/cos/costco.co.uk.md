@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326223229id_/http%3A//www.costco.co.uk/your_rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512144444id_/http%3A//www.costco.co.uk/your_rights) for the most accurate reproduction.*
 
 # Costco UK - Your Rights
 
-## Privacy Policy Last updated 18/04/2013
+## Privacy Policy Last updated 07/05/2015
 
-This privacy statement (also referred to as Costco's Online Privacy Policy) explains our privacy practices for our Subscribers, Members and customers who use our website: www.costco.co.uk. This policy does not alter the privacy policies of any other Costco Companies. We draw your attention to the [Costco Wholesale Privacy Policy](http://warehouses.costco.co.uk/privacy/), and also to the fact that this policy does not apply to Costco’s Online Digital Photo Centre.
+This privacy statement (also referred to as Costco's Online Privacy Policy) explains our privacy practices for our Members and customers who shop in our UK warehouse stores or use our website: www.costco.co.uk. We draw your attention to the fact that this policy does not apply to Costco’s [Online Digital Photo Centre](http://warehouses.costco.co.uk/privacy/).
 
 #### Costco's Commitment to Privacy
 
@@ -15,44 +15,45 @@ B. Collection of Personal Data
 C. Use of Personal Data by Costco  
 D. Sharing of Personal Data  
  1\. Order Fulfilment  
- 2\. Our Contractors  
+ 2\. Service Providers and Contractors  
  3\. Primary Costco Account Holder  
  4\. Services  
 E. Cross-Border Transfers   
 F. Other Uses and Disclosures   
 G. Protection of Personal and Credit Card Information   
 H. Choice; Updating Your Account Data   
-I. Cookies   
-J. Links to Other Websites   
+I. Optical and Hearing Centres   
+J. Cookies and Online Specifics   
+ 1\. Cookies; Links and Accessing Costco via a Mobile Device  
+ 2\. Links to Other Sites  
+ 3\. Accessing Costco on your Mobile Device  
 K. Use of the Costco.co.uk Site by Minors   
 L. Questions or Concerns   
 M. Changes to this Statement
 
 #### A. What is Personal Data?
 
-Personal Data is information that identifies an individual or that can be reasonably associated with a specific person or entity, such as a name, contact information, telephone number, Internet (IP) address and information about an individual’s purchases and online shopping.
+Personal Data is information that identifies an individual or that can be reasonably associated with a specific person or entity, such as a name, contact information, telephone number, Internet (IP) address and information about an individual’s purchases and online shopping. Personal information also includes medical information collected through our pharmacies, hearing aid centers and optical centers (see Health Care Centers below). As a convenience to our Members, we allow the primary cardholder to add his/her spouse or others to a membership account.
 
 #### B. Collection of Personal Data
 
 We collect the Personal Data that you provide us, such as when you: 
 
-  * Register to use Costco.co.uk;
-  * Consent to receive news about specials or other promotions on costco.co.uk;
-  * Place an order or purchase products or services;
+  * Sign up for or renew your Costco membership
+  * Register to use Costco.co.uk or consent to receive news about specials or other promotions;
+  * Place an order or purchase products or services, at our warehouse stores or online;
   * Contact us for any reason;
   * Sign up for or renew your Costco membership or online subscription;
-  * Participate in a survey or promotion; or
   * Sign up for or participate in our various Services (see Services below).
 
 
 
-We may automatically collect some information when you visit our website, such as your computer's IP address and operating system, the site from which you linked to us, your site activity, the time and date of your visit, and your purchases. This information may be collected through the use of "cookies" and web beacons (see Cookies below). We also receive information from third parties who help us correct our records, prevent fraud, and provide Services (see Services below) or special promotions or products. We may combine any of this information with the other Personal Data we maintain about you.
+We may automatically collect some information when you visit our website, such as your computer's IP address or your device ID and operating system, the site from which you linked to us, your site activity, the time and date of your visit, and your purchases. This information may be collected through the use of "cookies" and web beacons (see Cookies below). We also receive information from third parties who help us correct our records, prevent fraud, and provide Services (see Services below) or special promotions or products. We may combine any of this information with the other Personal Data we maintain about you.
 
 #### C. Use of Personal Data by Costco
 
-The Personal Data we collect is generally used to process your requests or transactions, provide you with high-quality service, tell you about opportunities we think will be of interest and administer your account, including distribution of our own surveys and publications. For example, we may:
+The Personal Data we collect is generally used to process your requests or transactions, provide you with high-quality service, tell you about opportunities we think will be of interest and administer your account, including distribution of our own surveys and publications. For example, we may: 
 
-  * Process and deliver your order;
   * Alert you about product recalls or safety issues;
   * Send notifications (via email or SMS/text message) related to your purchases, such as purchase confirmations or delivery schedules;
   * If you consent to receive it, provide you with promotional information, such as coupons, offers and product recommendations ("Promotional Information"). You may contact us at any time to decline Promotional Information (see Choice below).
@@ -64,11 +65,11 @@ The Personal Data we collect is generally used to process your requests or trans
 We share information in these circumstances: 
 
   1. **Order Fulfilment**  
-We may provide to a third party information necessary to fulfil an order you have placed with us. However, we give suppliers, and others involved in the distribution chain only the information needed to provide you the products or services you order, and we require them to keep the information confidential and not to use it for other purposes. We are not responsible for any information you provide directly to these parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
+We may provide to a third party information necessary to process a transaction or fulfil an order you have placed with us. However, we give suppliers, and others involved in the distribution chain only the information needed to provide you the products or services you order, and we require them to keep the information confidential and not to use it for other purposes. We are not responsible for any information you provide directly to these parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
   
 
-  2. **Order Contractors**  
-We may contract with others to perform services on our behalf. For example, we retain companies to process credit card payments, ship merchandise, manage our customer care centre, distribute emails, process rebates or analyse and correct or update our data. If any of these service providers need access to your Personal Data, we require them to use it only to perform the services for us. We also require that they maintain the confidentiality of the information and/or return the information to us when they no longer need it.
+  2. **Service Providers and Contractors**  
+We may contract with others to perform services on our behalf. For example, we retain companies to process debit and credit card payments, ship merchandise, manage our customer care centre, distribute emails, process rebates or analyse and correct or update our data. If any of these service providers need access to your Personal Data, we require them to use it only to perform the services for us. We also require that they maintain the confidentiality of the information and/or return the information to us when they no longer need it.
   
 
   3. **Primary Costco Account Holder**
@@ -81,7 +82,7 @@ Similarly each online subscription account has a primary Subscriber. We may disc
 
   4. **Services**
 
-You may purchase products and services offered by us through third parties, such as financial, travel, insurance and other business and consumer services ("Services"). We may share your name, postal address, email address and membership or subscriber status, number and type ("Information") with these third parties so they may notify you of their offerings, to determine whether, or at what level, you qualify for the products, offerings or services, and to evaluate new and existing products, offerings or services. If you prefer that we do not share Information with these third parties, you can contact us at any time (see ‘Choice; Updating Your Account Data’ below).
+You may purchase products and services offered by us through third parties, such as financial, travel, insurance and other business and consumer services ("Services"). We may share your name, postal address, email address and membership or subscriber status, number and type ("Information") with these third parties so they may notify you of their offerings, to determine whether, or at what level, you qualify for the products, offerings or services, and to evaluate new and existing products, offerings or services. If you prefer that we do not share Information with these third parties, you can contact us at any time (see Choice below).
 
 If you purchase, apply for or request Services, information you provide will be shared directly with the third party offering the Services.
 
@@ -94,7 +95,7 @@ If you apply for an American Express Card through Costco Wholesale, Costco Whole
 
 #### E. Cross-Border Transfers
 
-In some cases Personal Data may be transferred outside of the European Economic Area (EEA) in order to carry out processes, including but not limited to e-mail communications and customer call-centre services. Costco.co.uk ensures that Personal Data transferred outside the EEA is maintained with at least the same level of security and protection for the rights and freedoms of data subjects that is required under the UK Data Protection Act of 1998. By submitting Personal Data to Costco.co.uk you consent to the transfer and storage of your personal data outside the EEA.
+In some cases Personal Data may be transferred outside of the European Economic Area (EEA) in order to carry out processes, including but not limited to e-mail communications and customer call-centre services. Costco ensures that Personal Data transferred outside the EEA is maintained with at least the same level of security and protection for the rights and freedoms of data subjects that is required under the UK Data Protection Act of 1998. By submitting Personal Data to us you consent to the transfer and storage of your personal data outside the EEA.
 
 #### F. Other Uses and Disclosures
 
@@ -108,13 +109,21 @@ Online account information is accessible only by using a password. You must keep
 
 #### H. Choice; Updating Your Account Data
 
-We will not send you promotional emails or SMS (text) messages unless you explicitly consent to receive them. If you wish to give or withdraw your consent or update your online account information, or if you have questions concerning our information practices, you may call our Customer Care Centre on Freehone 0800 0324 324, or access "My Account" if you are a registered user of costco.co.uk.
+We give you choices related to your personal information, and numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse and any add-on members.
+
+We will not send you promotional emails or SMS (text) messages unless you explicitly consent to receive them. If you wish to give or withdraw your consent or update your online account information, or if you have questions concerning our information practices, you may call our Customer Care Centre on Freehone **0800 0324 324** , or access "My Account" if you are a registered user of costco.co.uk.
 
 Your choice not to receive promotional materials means that we also will not share your information with our providers of Services.
 
 If you have more than one email address, you will need to make separate privacy elections for each. If you receive emails from the online Photo Center or have separately opted to receive materials from one of our Services providers (see Services) you will need to change your privacy elections separately for these communications as well.
 
-#### I. Cookies
+#### I. Optical and Hearing Centres
+
+If you purchase eyeglasses, contact lens, hearing devices and accessories from us, we collect and retain in our files your prescription information as well as a limited amount of background health information that you give us so that we may properly provide the service and/or medical device you have requested. We have extraordinary procedures in place to protect your health-related information. If you request or receive NHS funding for optical or hearing devices or services, we may share your health information with the NHS.
+
+#### J. Cookies and Online Specifics
+
+  1. **Cookies; Links and Accessing Costco via a Mobile Device.**
 
 Cookies are small files that are stored on your computer. They enable us to monitor online activity. When you first access the website, you will be asked if you consent to our use of cookies. If you do not consent, the web site will not load properly.
 
@@ -126,9 +135,22 @@ Finally, we use web beacons to determine when and how many times a page has been
 
 If you would like help clearing cookies, please call our Customer Care Centre on Freephone **0800 0324 324**. If you clear cookies you will need to accept our cookie policy upon your next visit to our website.
 
-#### J. Links to Other Sites
+  2. **Links to Other Sites**
 
 From our web site you can link to websites of third parties who we allow to offer goods, information and/or Services. If it is not clear from the context that you are being directed to a third party site, we endeavour to notify you that you are visiting a site where a different privacy policy applies. In general, any Personal Data you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of websites to which we link. We encourage you to learn about their privacy and security practices and policies before providing them with Personal Data.
+
+  3. **Accessing Costco on Your Mobile Device**
+
+Before we collect or send location –specific information, we will ask for your consent. You may use our apps or mobile site without consenting to this, and you may withdraw your consent by changing your selection within the app. Your general consent to your mobile service provider to allow (or disallow) location-based services does not automatically apply to us.
+
+In general, you do not need to provide any personal information to connect with us via your mobile device. If you wish to make a purchase, however, you must create an account. Personal information you provide is subject to this Privacy Policy. In addition, as with any online service, our apps and mobile site automatically collect information such as an IP address, the unique identifier of your mobile device and the URL from which you accessed our app (see Online Specifics). Neither your name nor telephone number are automatically collected. It is not possible to opt out of providing information automatically collected through our apps.
+
+Providers who supply the technology necessary for us to provide the app may share in the receipt of automatically collected information. We restrict their use of Personal Information to the purpose of providing services to Costco. In addition, you should review the privacy statements published by your mobile carrier and by your device manufacturer. Either or both of them also may automatically collect information. Costco does not have access to information you provide to or that is automatically collected by these third parties.
+
+Our apps and mobile site may provide links to Costco service providers (see [Member Services](http://warehouses.costco.co.uk/membership/services/)) and other third parties (see Links to Other Sites).
+
+
+
 
 #### K. Use of costco.co.uk Website by Minors
 
@@ -379,7 +401,7 @@ For further information about Consumer statutory rights, please see our Consumer
 
 If you experience difficulties in using the website or wish to report any matter relating to this website, please contact us:   
 By phone: freephone number **0800 0324 324**.   
-By e-mail: [customercare@online.costco.co.uk](mailto:customercare@online.costco.co.uk).  
+By e-mail: [customercare@costco.co.uk](mailto:customercare@costco.co.uk).  
 By mail: Costco.co.uk, Building 4400 Harris Parkway Magna Park Lutterworth LE17 4XJ 
 
 #### EXHIBIT A
@@ -390,23 +412,21 @@ Currently, the registered trade marks owned by the Costco Companies include the 
 
 #### What is my statutory cancellation right as a consumer?
 
-Under the UK's Consumer Protection (Distance Selling) Regulations 2000 (the "Regulations") you have the right to cancel orders for goods and services made through the website. This right ("statutory cancellation right") applies only where you make your purchase as a Consumer. You can only use this right within a period of 7 working days. The period of 7 working days begins on the day after the day on which you receive the goods relating to your order or (in the case of services) the day after the day on which the contract is concluded.
-
-Please note that the statutory cancellation right only applies to contracts concluded exclusively by means of distance communication such as by email or telephone. It does not apply to other contracts. In particular, it will not apply if we specify special contract arrangements for the sale of Higher Value Goods, where you are given the opportunity for direct physical inspection of the items at the delivery address before the contract is concluded.
+In most circumstances, Costco’s return policy provides consumers with the most favourable return privileges available.  Under the UK's Consumer Protection Regulations of 2013 (as amended) (the "Regulations") , however, you have an additional, statutory right to cancel orders for goods and services made through the website. This right ("statutory cancellation right") applies only where you make your purchase as a Consumer. You can only use this right within a period of 14 days. The period of 14 days begins on the day after the day on which you receive the goods relating to your order or (in the case of services) the day after the day on which the contract is concluded.
 
 #### Are there any exceptions to the statutory cancellation right?
 
-The statutory cancellation right also does not apply to certain types of goods namely:
+The statutory cancellation right also does not apply to certain types of goods, namely:
 
   * goods that have been personalised or otherwise made to your specifications;
-  * goods such as flowers, food, plants or other goods which by their nature are liable to deteriorate rapidly or cannot be returned (such as pierced jewellery), underwear or swimming costumes where the hygiene strips have been removed);
+  * goods such as flowers, food, plants or other goods which by their nature are liable to deteriorate or expire rapidly or cannot be returned (such as pierced jewellery), underwear or swimming costumes where the hygiene strips or seals have been removed);
   * audio or video recordings or computer software that has been unsealed;
   * newspapers, periodicals or magazines; or
-  * goods where the price is dependent on fluctuations in the financial market.
+  * goods where the price is dependent on fluctuations in the financial market (such as vintage wines).
 
 
 
-The statutory cancellation right does not apply to certain kinds of services, or to any kind of service where (by agreement) performance has begun before the end of the cancellation period.
+The statutory cancellation right does not apply to certain kinds of services, or to any kind of service that has been fully performed where (by your express request) performance has begun before the end of the cancellation period.
 
 #### What are my obligations?
 
@@ -414,17 +434,17 @@ Costco requires customers using the statutory cancellation right to return the g
 
 #### How do I exercise my statutory cancellation right?
 
-If you wish to exercise your statutory cancellation right please contact our Customer Care Centre at freephone **0800 0324 324** or by email, fax or hand/postal delivery to the addresses [here]. Please state that you "wish to cancel under the Distance Selling Regulations".
+If you wish to exercise your statutory cancellation right please contact our Customer Care Centre at freephone **0800 0324 324** or by email, fax or hand/postal delivery to the address here; Customer Care Manager, Costco Online UK Ltd., UK Home Office, Hartspring Lane, Watford, WD25 8JS, United Kingdom. Alternatively, you can complete our cancellation form which is available **[here](http://warehouses.costco.co.uk/_docs/CostcoUK_Cancellation_Form.doc)** and send this to us by email, fax or hand/postal delivery to the address above.
 
-#### How do I return goods for any cancelled order?
+#### What must I do with the goods?
 
-Customers using the statutory cancellation right are required to:
+Customers using the statutory cancellation right are required to return the goods to us (in their original packaging, wherever possible) as soon as possible and in any event within 14 days after the day you informed us that you wish to cancel their order, and in the manner we direct. For items that, due to their nature cannot be returned by post, you should contact us for information about the cost of return shipping.
 
-(i) return the goods to us (in their original packaging, wherever possible) as soon as possible after informing us that they wish to cancel their order, and in the manner we direct; and
+Costco will instruct you how to make the returns to us. We may ask you to send the item to us using labels that we will provide. Alternatively, we may arrange for our carrier to collect them from you within five days following your notifying us of your wish to return the goods. You may request a later collection date, and we will accommodate you if circumstances permit.
 
-(ii) take reasonable care of the goods and not use them prior to their return.
+#### When should I expect my refund?
 
-Costco will instruct you how to make the delivery. We will ordinarily arrange for our carrier to collect them from you but we may alternatively ask you to send them to us using labels that we will provide. You will be responsible for the carriage costs you incur or (if we collect the goods) the direct costs of such collection (of which we shall inform you of at the time). We may deduct the direct costs of recovering the goods from the amount that we reimburse you for the goods in question.
+If you exercise your statutory cancellation right we will reimburse you within 14 days following the day on which we receive the goods from you. Refunds will be made in the same way as your original payment.
 
 Please note that this is not a full statement of your statutory cancellation right. For further information, please consult [www.adviceguide.org.uk](http://www.adviceguide.org.uk/).
 
@@ -443,3 +463,23 @@ The buyer of this relevant EEE acknowledges and agrees that the buyer shall:
   3. Provide Costco Online UK Ltd with such co-operation, assistance and information as may be reasonably required in relation to WEEE. The information will be used for Costco Online UK Ltd obligations under the WEEE regulations.
 
 
+
+#### Recycling your old electricals is easy!
+
+Recycle your electrical and electronic devices free at your local recycling centre. To find your nearest centre, visit the [Recycle More](http://www.recycle-more.co.uk/) website and type in your postcode.
+
+#### Why recycle?
+
+Unwanted electrical equipment is the UK's fastest growing type of waste.
+
+Many electrical items can be repaired or recycled, saving natural resources and the environment. If you do not recycle electrical equipment will end up in landfill where hazardous substances will leak out and cause soil and water contamination – harming wildlife and also human health.
+
+We're proud to support your local authority in providing local recycling facilities for electrical equipment.
+
+To remind you that old electrical equipment can be recycled, it is now marked with the crossed-out wheeled bin symbol. Please do not throw any electrical equipment (including those marked with this symbol) in your bin.
+
+#### How are we helping?
+
+In the UK, distributors including retailers must provide a system which allows all customers buying new electrical equipment the opportunity to recycle their old items free of charge. As a responsible retailer, we have met the requirements placed on us by financially supporting the national network of WEEE recycling centres established by local authorities. This is achieved through membership of the national Distributor Take-back scheme (DTS).
+
+To find more information on WEEE recycling and to locate your nearest recycling centre please visit the [Recycle More](http://www.recycle-more.co.uk/) website.
