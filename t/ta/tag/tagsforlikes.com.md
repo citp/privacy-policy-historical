@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagsforlikes.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231153633id_/http%3A//www.tagsforlikes.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagsforlikes.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512203208id_/http%3A//www.tagsforlikes.com/Privacy.html) for the most accurate reproduction.*
 
 # 
 
