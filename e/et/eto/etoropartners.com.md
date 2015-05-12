@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etoropartners.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916070827id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoropartners.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512093636id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
 # eToro Social Trading Privacy Policy | eToro
 
@@ -53,7 +53,7 @@ If you are a new trader, who started trading with us in a “real account” aft
 
 Whether you are a trader by or after July 6, 2010, you can always opt-in and out the OpenBook community, very simply, at your discretion.
 
-The information that is shown on the eToro OpenBook is as following: username (but never your real name), country, eToro Club type (gold, silver etc.), ranking, trading activity (open / close position, creating an order, earning profit), challenges activity (climbed to the Xth Position), social/community activities (following other user(s), writing comments, like / dislike), statistics [gain in % (but never amounts), winning rate in %, risk levels (low/medium/high) and instruments traded).
+The information that is shown on the eToro OpenBook is as following: username, full name (can be changed in the privacy settings), country, eToro Club type (gold, silver etc.), ranking, trading activity (open / close position, creating an order, earning profit), challenges activity (climbed to the Xth Position), social/community activities (following other user(s), writing comments, like / dislike), statistics [gain in % (but never amounts), winning rate in %, risk levels (low/medium/high) and instruments traded).
 
 Click [here](https://openbook.etoro.com/settings/ "OpenBook privacy settings") to change your privacy settings.
 
