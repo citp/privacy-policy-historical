@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayi.net privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121001034id_/http%3A//www.jayi.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayi.net privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512094015id_/http%3A//www.jayi.net/privacy.php) for the most accurate reproduction.*
 
 # Jayi.Net - Protect your links With Captcha and Password!
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20141121001034id_/http%3A//www.jayi.net/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20150512094015id_/http%3A//www.jayi.net/contact.php). 
