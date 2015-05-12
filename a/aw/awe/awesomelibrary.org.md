@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomelibrary.org privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125085021id_/http%3A//www.awesomelibrary.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomelibrary.org privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512194050id_/http%3A//www.awesomelibrary.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Here: [Home](http://www.awesomelibrary.org/) > Privacy **Privacy Policy**
 >> 
 >> **The Awesome Library does not:**
 >> 
->> Collect online contact information from a child under 13.   If Awesome Library ever does collect such information, it will gain prior verifiable parental consent or direct parental notification of the nature and intended use of this information, which shall include an opportunity for the parent to prevent use of the information and participation in the activity.   Where prior parental consent is not obtained,online contact information shall only be used to directly respond to the child's request and shall not be used to re-contact the child for other purposes. Emails from children are not saved after responding to their questions.
+>> Collect online contact information from a child under 13.   If Awesome Library ever does collect such information, it will gain prior verifiable parental consent or direct parental notification of the nature and intended use of this information, which shall include an opportunity for the parent to prevent use of the information and participation in the activity.   Where prior parental consent is not obtained,online contact information shall only be used to directly respond to the child's request and shall not be used to re-contact the child for other purposes (by [testsforge solution](http://www.testsforge.com/) [pulido](http://www.testsforge.com/expert/daniel_pulido.html)). Emails from children are not saved after responding to their questions.
 >> 
 >> **The Awesome Library does not:**
 >> 
@@ -40,7 +40,7 @@ Here: [Home](http://www.awesomelibrary.org/) > Privacy **Privacy Policy**
   
 [Russian](http://www.awesomelibrary.org/Russian.html), [Dutch](http://www.awesomelibrary.org/dutch.html), [Greek](http://www.awesomelibrary.org/Greek.html), [Portuguese](http://www.awesomelibrary.org/portuguese.html), [Chinese](http://www.awesomelibrary.org/Chinese.html), [Korean](http://www.awesomelibrary.org/Korean.html), [Japanese](http://www.awesomelibrary.org/Japanese.html),  
 Try [Index](http://www.awesomelibrary.org/ind.html), [ New](http://www.awesomelibrary.org/Office/Main/New_and_Exciting/New_and_Exciting.html), [Search Engines](http://www.awesomelibrary.org/searche.html), [Dictionary](http://www.m-w.com/dictionary.htm), or the [Bookstore](http://www.awesomelibrary.org/books.html), [Licenses](http://www.awesomelibrary.org/licenses.html),  
-[Email Us](https://web.archive.org/web/20141125085021id_/http%3A//www.awesomelibrary.org/%3Ca), [About Us](http://www.awesomelibrary.org/about.html), [Link to Us](http://www.awesomelibrary.org/codes-directories.html), or [Privacy Policy](http://www.awesomelibrary.org/privacy.html).
+[Email Us](https://web.archive.org/web/20150512194050id_/http%3A//www.awesomelibrary.org/%3Ca), [About Us](http://www.awesomelibrary.org/about.html), [Link to Us](http://www.awesomelibrary.org/codes-directories.html), or [Privacy Policy](http://www.awesomelibrary.org/privacy.html).
 
 © 2013 EDI and Dr. R. Jerry Adams  
 
