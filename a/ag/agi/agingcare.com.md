@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agingcare.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130002441id_/http%3A//www.agingcare.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agingcare.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512033739id_/http%3A//www.agingcare.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -71,6 +71,6 @@ From time to time we may revise our Privacy Policy. We will post any such change
 If you have any questions regarding this Privacy Policy, please send an e-mail to info@AgingCare.com or write to:
 
 AgingCare.com Privacy Policy  
-720 Goodlette Road North  
-4th Floor  
+9015 Strada Stell Court  
+Suite 203  
 Naples, FL 34102
