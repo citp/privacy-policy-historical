@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106062422id_/http%3A//www.party411.com/PrivacyPolicy/tabid/5089/List/0/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512172532id_/http%3A//www.party411.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We want you to know that we respect your privacy and value you as a customer. To this end, we have initiated policies to ensure that your personal information is handled safely and responsibly.  
+Privacy PolicyWe want you to know that we respect your privacy and value you as a customer. To this end, we have initiated policies to ensure that your personal information is handled safely and responsibly.  
 Please note:
 
 Whether or not you have viewed this Privacy Policy, or the terms and conditions of use of this Web site, and whether or not you have chosen to not receive notices from us, this Privacy Policy and those terms and conditions will still govern your use of the Party411.com Web site. We may update or change our Terms of Use and this Privacy Policy at any time and from time to time, as we determine is appropriate. It is your responsibility to review them for changes.
