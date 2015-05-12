@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the overseaspropertymall.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108062450id_/http%3A//www.overseaspropertymall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overseaspropertymall.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512073059id_/http%3A//www.overseaspropertymall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Overseas Property Mall
-
-[Home](http://www.overseaspropertymall.com/) Privacy Policy
 
 OverseasPropertyMall.com is committed to protecting your information. Any details that we collect from you will be treated in the strictest of confidence and will not be divulged to any person or persons without your written consent.
 
