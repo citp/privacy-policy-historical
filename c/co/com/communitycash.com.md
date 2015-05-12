@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communitycash.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001004229id_/http%3A//www.communitycash.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communitycash.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512142111id_/http%3A//www.communitycash.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # CommunityCash : Privacy Policy
 
