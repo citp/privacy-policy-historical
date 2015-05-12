@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jammulinksnews.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227001928id_/http%3A//jammulinksnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jammulinksnews.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512154446id_/http%3A//www.jammulinksnews.com/privacy.aspx) for the most accurate reproduction.*
 
 # Jammu Links
 
@@ -55,5 +55,5 @@ Users of this Site may contact Jammu Links to modify or correct any of their per
 ---  
 NEWS VIDEO  
   
-[ ](https://web.archive.org/web/20141227001928id_/http%3A//jammulinksnews.com/videos.aspx)  
+[ ](https://web.archive.org/web/20150512154446id_/http%3A//www.jammulinksnews.com/videos.aspx)  
  
