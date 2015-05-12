@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robschmuecker.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202170028id_/http%3A//www.robschmuecker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robschmuecker.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512114125id_/http%3A//www.robschmuecker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rob Schmuecker
 
