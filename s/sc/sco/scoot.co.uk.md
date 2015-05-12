@@ -1,107 +1,84 @@
-> *The following text is extracted and transformed from the scoot.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509120930id_/http%3A//www.scoot.co.uk/assets/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoot.co.uk privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512165607id_/http%3A//www.scoot.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy: Scoot, the UK Business Finder
+# Scoot the UK Business Finder | Privacy Policy
 
-Scoot is owned and operated by Enable Media Limited.
+By using this website you give your consent that all personal data that you submit may be processed by Scoot in the manner and for the purposes described in the following Privacy Policy. 
 
-In this Privacy Policy, references to “we” or “us” or “our” are references to Enable Media Limited and references to “you” or “your” are references to the person accessing the Scoot service (“Scoot”).
+## Definitions
 
-We are committed to protecting your privacy. You can provide us with as much, or as little, personal information as you feel comfortable with. We use the information we collect to make your experience using Scoot a rewarding one.
+The terms "Enable Media Limited”, "Enable Media Ltd", “Enable Media”, “Scoot”, "we", "us", "our" and "ours" when used in these Terms and Conditions mean Enable Media Limited. The terms "you", "your" and "yours" when used in these Terms and Conditions mean any user of this website. 
 
-The following discloses our information gathering and dissemination practices for Scoot at http://www.scoot.co.uk
+The term “Personal Data” refers to personally identifiable information about you, such as your name, job title, email or mailing address. 
 
-Moreover, however you use Scoot, our data collection and usage policy allows you to control the personal information you give to us and what we can do with it. In this way your privacy is guaranteed.
+## About your privacy
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. This information will not include information that can be used to identify any individual.
+We are committed to safeguarding the privacy of our website visitors whilst providing the highest possible quality of service. We will only use the information that we collect about you lawfully in accordance with the UK Data Protection Act 1998 (Enable Media Ltd registration number Z8702255). 
 
-We aim to build your trust and confidence in Scoot and we will not hold or use your personal details without your permission.
+If you have any questions concerning your personal information or regarding our practices, please contact: The Financial Controller, Enable Media Ltd, Scoot House, 19 Falcon Court, Preston Farm Industrial Estate, Stockton-on-Tees TS18 3TU, telephone +44 (0)1642 881088 or send us an [email](mailto:info@scoot.co.uk). 
 
-## What are cookies?
+## Collection of personal data
 
-A cookie is a data file that certain web sites write to your computer's hard drive when you visit such sites. Our website uses cookies to log search types and frequency. We use cookies to deliver content specific to your interests and to safeguard our information from illegal theft and data mining. We use this data on an anonymous basis and we do not correlate this information with personal data of any user.
+We collect information from details you give us when you use our website and from any email messages you may send to us. When you use this website to register to receive additional information or support from us, we ask you for contact information like your name, job title, company details, telephone number and email address. 
 
-Most web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our web site, you may not be able to use certain features of Scoot.
+We may also collect email addresses via marketing events such as trade shows and exhibitions. In such cases, we assume that people providing their email addresses are opting in to receive email messages from us. Therefore, we do not include an email opt-out mechanism when collecting event leads. 
 
-## What information do we collect?
+If, at any time, you wish to opt out of receiving information from Scoot via email, please telephone +44 (0)1642 881088 or send us an [email](mailto:info@scoot.co.uk). 
 
-We only collect information that personally identifies you or allows us to contact you with your permission for example your name, address, email address, and telephone number.
+## Anonymous data collected through this website
 
-We will also collect data when you request products and services so that we can tailor Scoot to your specific needs. For example, if you are a regular user of our Cinema Guide and you have given us permission to contact you by email, we may send you information of any cinema-related competitions or promotions that we run.
+We also use software tools to collect information automatically about your visit to our website. The information obtained in this way, which includes demographic data and browsing patterns, is only used in aggregate form and, as such, cannot be used to identify you personally. Such aggregate information helps us to audit usage of our website and improve the service provided. 
 
-We also monitor general call centre requests, web site traffic, and user opinions to help us to continually improve Scoot.
+## Cookies
 
-## Why do we collect this information?
+In order to collect the anonymous data described above, we may use temporary "cookies" that collect the domain name of the user and the date and time you visited this website. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie and this enables you to decide if you want to accept it or not. 
 
-We collect personal information to provide you with the most relevant service possible. This means in terms of related products and services, and targeted advertising, you only receive information you are interested in.
+## Use of personal data
 
-## How do we use personal information?
+We process your personal data only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. When we ask you for personal data, we tell you the purposes for which we will process that data. Some of these purposes include: 
 
-We use personal information:
-
-  * To understand more about you so that we can tailor Scoot whenever you access it.
-  * To summarise usage behaviour for advertisers and partners, and to describe our service and performance. This is not based on individual behaviour but is generic.
-  * To improve Scoot.
-  * For other personalised value-added services to which you have specifically subscribed to.
-
-
-
-By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. Continued use of Scoot will mean that you agree to any such changes. Owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. By submitting your information you consent to these transfers.
-
-## What information is collected automatically?
-
-Our web servers automatically collect information about a site user's IP address, browser type, and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used (in an aggregated, anonymous manner) in our internal analysis of traffic patterns within our web site.
-
-This information is automatically logged by most web sites.
-
-## How do we offer links to third party websites?
-
-This site contains links to other sites. We are not responsible for, without limitation, the privacy practices or the accuracy, relevance, copyright compliance, legality, decency of any content or services contained in such websites which are not directly controlled by us. You acknowledge that the search results may contain links to websites and contents that contain offensive or objectionable material. We will not be responsible if the search results reveal such objectionable or offensive content and you release us from all liability in respect of the same. We reserve the right to disable links from third party websites to Scoot.
-
-You should read the terms and conditions of use of any third party website carefully before using that site or proceeding with any online or offline transaction with that third party. Your correspondence or business dealings with, or participation in the promotions of, third parties found on or through Scoot, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings (including any implied terms) are solely between you and such third parties.
-
-The inclusion of a link to a third party’s site does not imply endorsement by us of the third party, its site, or any goods, services, information or content featured on or available from that site. We exclude its liability for inter alia:
-
-  * The failure of a third party site to comply with applicable laws or regulations from time to time
-  * Any goods, services or content you acquire or access on a third party site
-  * Any damage, loss, cost or expense arising from: any link to or from a third party site on Scoot, any third party content on Scoot, any third party content on Scoot or your use of a third party site.
+  * Providing you with information about our products or services, special offers and events or articles and case studies we think will be of interest to you
+  * Sending you regular newsletters by email or by post
+  * Providing you with product or service information and promotional material that you have specifically requested
+  * Processing any other requests that you make
+  * To summarise usage behaviour for advertisers and partners, and to describe our service and performance. This is not based on individual behaviour, but is generic
+  * Conducting marketing research.
 
 
 
-We do not give any warranties or representations as to the security of any information you might be requested to give to any third party, and you irrevocably waive any claim against us with respect to such sites and third party content.
+## Disclosure of your personal data
 
-## How do we protect your information?
+We do not share, sell or distribute your personal data with unrelated third parties, except under the following limited circumstances: 
 
-The internet is not a secure medium. However, in order to prevent unauthorised access, we use strict security procedures in the storage and disclosure of information that you have given to us. We use all reasonable endeavours to ensure the security of personal data stored on our system.
+  * Personal data may occasionally be transferred to third parties who act for or on behalf of Scoot, or in connection with the business of Scoot for further processing in accordance with the purposes to which you have subsequently consented.
+  * We may share or transfer the information in our databases to comply with a legal requirement, for the administration of justice, to protect your vital interest, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of a corporate sale, merger, reorganisation, dissolution or similar event.
 
-All your personal information is password protected and only certain customers who have purchased certain specific products from us have limited password protected access to their own information.
 
-## What about sensitive personal information?
 
-Sensitive personal information such as religious beliefs, details on mental/physical health, etc will be not stored by us or used in any way other than for the immediate search taking place. For example, if you search for a restaurant that has disabled access, we will not store this information for future use.
+## Data integrity and security
 
-## What choice do we offer in relation to the collection, use and distribution of personal information?
+We keep your personal data only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements. 
 
-When you register, or when you give us your personal details while using Scoot, you acknowledge and accept that your information may be used for marketing activities, or to receive additional offers and information from us and/or third parties. This is called “permission marketing”. You can amend your permission marketing status with us so as not to receive information tailored to your needs by advising us of that wish.
+In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. Our servers and our databases are protected by industry standard security technology, such as industry standard firewalls and password protection. 
 
-## Do we share information?
+The employees who have access to personal data have been trained to handle such data properly and in accordance with our security protocols and strict standards of confidentiality. Although we cannot guarantee against any loss, misuse, unauthorised disclosure, alteration or destruction of data, we try to prevent such unfortunate occurrences. 
 
-We will not disclose your personally identifiable information to any person or company except where you have given us permission to do so, or if the law requires it, or where in good faith we believe such action is necessary to fulfil the service.
+## Data access and corrections
 
-## What happens if we sell the Scoot business?
+We will disclose to you the personal data we hold about you upon receipt of your written request addressed to The Financial Controller at the address given above. We will also correct, amend or delete any personal data that is inaccurate and notify any third party recipients of the necessary changes. 
 
-If this business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.
+## Links to other websites
 
-## In summary
+This Privacy Policy applies only to www.scoot.co.uk and www.scoot.com. These websites contain hyperlinks to websites that are not operated by Scoot. These hyperlinks are provided for your reference and convenience only and you should note that we do not have any control over these other websites. We cannot, therefore, be responsible for the protection and privacy of any data which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and review the privacy statement posted on any site you visit before using the site or providing any personal data about yourself. 
 
-We want to make your Scoot experience a good one. Your privacy is important. We want you to feel happy about the information you are giving us and to be able to retain control over the way it is used.
+## Updates and changes to privacy policy
 
-If you have any queries or comments, please contact us:
+We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on this website. Any such change, update or modification will be effective immediately upon posting on the site. 
 
-Enable Media Limited  
-Eaglescliffe Logistics Centre  
-Durham Lane  
-Eaglescliffe  
-TS16 0RW  
-United Kingdom 
+## Governing law
 
-[info@scoot.co.uk](mailto:info@scoot.co.uk "link - mail to info@scoot.co.uk")
+This Privacy Policy forms part of our website Terms and Conditions and as such shall be governed by and construed in accordance with the laws of England. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England. 
+
+Back to the top
+
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.  
+[Learn more](https://web.archive.org/cookie-policy)Accept
