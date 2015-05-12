@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the archanaskitchen.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108092049id_/http%3A//www.archanaskitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archanaskitchen.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512104545id_/http%3A//www.archanaskitchen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Archana's Kitchen - Simple and Easy to Cook Vegetarian Recipes and Videos
+# Privacy Policy | Simple and Easy to Make Healthy Vegetarian Recipes and Videos
 
 PRIVACY POLICY
 
@@ -95,4 +95,4 @@ We cannot ensure that all of your private communications and other personal info
 12\. QUESTIONS AND SUGGESTIONS
 
   
-If you have questions about this privacy policy, please send an email to info@archanaskitchen.com
+If you have questions about this privacy policy, please send an email to [info@archanaskitchen.com](mailto:info@archanaskitchen.com)
