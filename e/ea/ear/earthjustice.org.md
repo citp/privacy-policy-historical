@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206165351id_/http%3A//earthjustice.org/site_info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthjustice.org privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512144135id_/http%3A//earthjustice.org/site_info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Earthjustice
 
@@ -20,7 +20,7 @@ Earthjustice may use service providers (such as merchant banks and ecommerce int
 
 ### Donor Privacy Policy
 
-Earthjustice will never share donor giving information with other organizations. However, like many other groups, Earthjustice may exchange its donor mailing list with like-minded organizations – many of which we represent through our environmental law work. If you wish to opt out of having your name and address shared with other organizations, call, email, or write to us at:
+Earthjustice will never share donor giving information with other organizations. However, like many other groups, Earthjustice may exchange its donor mailing list with like-minded organizations—many of which we represent through our environmental law work. If you wish to opt out of having your name and address shared with other organizations, call, email, or write to us at:
 
 Earthjustice  
 50 California Street, Suite 500  
@@ -51,12 +51,11 @@ For questions:
   * Regarding this policy statement,
   * The practices of this site,
   * If you feel that this site is not following its stated information policy,
-  * Or to review or request changes to your contact information,
+  * Or to review or request changes to your contact information.
 
 
 
-You may contact us at:
-
+You may contact us at:  
 Earthjustice  
 50 California Street, Suite 500  
 San Francisco, CA  94111  
