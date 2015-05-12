@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203223735id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512214455id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
 # Software Advice Privacy Policy
 
-We've helped **249,288** companies choose the right software  
-by sharing our extensive research on over 1,429 systems.
+We've helped **293,639** companies choose the right software  
+by sharing our extensive research on over 1,551 systems.
 
 You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by Software Advice™, Inc. (“Software Advice”) or (b) includes content, including but not limited to registration and other forms, owned by Software Advice or drawn from a website owned and operated by Software Advice. Software Advice is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Software Advice. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
 
@@ -55,11 +55,22 @@ For each visitor to the Website, whenever possible, our Web server automatically
 We collect IP addresses and related information for the purposes of system administration, to assess the traffic to the Website and to maintain and improve the Website. Although it is not our practice to link IP addresses to your personally identifiable information, we reserve the right to use IP addresses to identify a user when we feel it is necessary to protect the compelling interest of our business, the Website, users of the Website or others or to comply with laws, court orders, or law enforcement requests.
 
 **Use of Cookies**  
-Cookies are short strings of text sent from a Web server to a Web browser when the browser accesses a website. In simplest terms, when the browser requests a page from the Web server that originally sent it the cookie, the browser sends a copy of the cookie back to that Web server. A cookie typically contains, among other things, the name of the cookie, a unique identification number, and an expiration date and domain name information. Cookies are used for personalization, tracking and other purposes. Cookies may be "session-only" or "persistent." Persistent cookies last for more than one visit and are typically used to allow a visitor to the Website to personalize their experience.
+Software Advice may employ a cookie, or small piece of information stored on a file in the Software Advice User’s browser or hard drive, which enables Web servers to "identify" that Software Advice User each time he/she initiates a session on a Software Advice Web site. Unless the Software Advice User has adjusted his/her browser settings to refuse cookies, the Software Advice system will issue a cookie when the Software Advice User visits a Software Advice Web site.
 
-We may use cookies to analyze the traffic on the Website (such as total visitors and pages viewed), to personalize features or save you the trouble of retyping your name or other information, and to make improvements to the Website based on the data we collect. We do not save passwords or other sensitive information in cookies. The use of cookies has become a standard in the Internet industry, especially at websites that provide any kind of personalized service.
+Here is what Software Advice Users need to know about cookies:
 
-Cookies may also be placed by third parties prior to or during your visit to the Website. Our Affiliates and business partners may use these cookies in connection with pixel tracking (discussed below) or otherwise. We do not control these cookies. The use of cookies by content providers and advertisers has become standard practice in the Internet industry.
+  * First Party cookies are set by the Software Advice Web site you are visiting.
+  * Third Party cookies are set by a domain outside of the Software Advice Web sites.
+  * Persistent cookies remain on your computing device for the period specified in the cookie and are activated each time you revisit the website that set such cookie.
+  * Session cookies remain on your computing device until you close your browser window, at which point they are automatically deleted.
+
+
+
+While Software Advice Users may block cookies at any time by changing their browser settings, it is important to note that First Party cookies may be necessary in order to identify Software Advice Users and ensure they fully access and use the content and features on the Software Advice Web sites.
+
+Software Advice uses cookie technology to enable registered Software Advice Users (i) to move quickly and securely through access-controlled areas of the Software Advice Web sites; and (ii) to take advantage of certain useful features on the sites.
+
+First and Third party cookies do not store any Software Advice User Personal Information on the Software Advice Web sites; they are simply identifiers. By continuing to use the Software Advice Web sites, Software Advice Users consent to the placement of these cookies on their computing device in accordance with the terms above.
 
 **Pixel Tracking**  
 Software Advice may employ a common technique usually referred to as "pixel tracking" to measure the effectiveness of marketing and advertisements, as well as compile aggregate usage statistics. Pixel tracking, which may be used in connection with advertisements on other sites, on the Website or in e-mail messages, involves the use of pixel tags (also known as "clear gifs," "Web beacons" or "1-by-1 gifs") that are not visible to the user of the site and consist of a few lines of computer coding. For example, if you visit the Website from an advertisement on another site, the pixel tag will reference the cookie you received when you clicked on the advertisement. The pixel tag also may register this activity with a business partner to allow us to count the number of times or when an advertisement is accessed. This data is collected for use in our marketing and research. Personally identifiable information about you is not collected by pixel tracking, nor is any tracking information generated from the pixel tag allowed to be used for any other purpose other than to report Website activity to us.
@@ -133,4 +144,4 @@ If you have any specific questions regarding any issues about privacy on the Web
 
 Our collection and use of information shall be governed by laws of the United States.
 
-Updated: July 2012.
+Updated: February 2015.
