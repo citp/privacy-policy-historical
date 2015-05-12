@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217140339id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512193338id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
 
 # Huddle Privacy Policy | Huddle.com
 
-## Last Updated: April 3rd, 2014
+## Last Updated: January 21st, 2014
 
-Ninian Solutions Ltd (t/a Huddle) whose registered offices are Maersk House, 1 Braham Street, London, UK and it’s US subsidiary Huddle Inc (dba Huddle) a Delaware Corporation whose offices are at 835 Howard Street, 3rd Floor, San Francisco, CA 94103  (“we”, “us” “our” or “Huddle”) are committed to protecting and respecting Your privacy. When we collect personal information from You, we follow the privacy principles and comply with the Data Protection Act 1998 and the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from the European Union. Huddle’s US-EU and US Swiss Safe Harbor framework policy can be found [here](http://www.huddle.com/safe-harbor/).
+Ninian Solutions Ltd (t/a Huddle) whose registered offices are Maersk House, 1 Braham Street, London, UK and it’s US subsidiary Huddle Inc (dba Huddle) a Delaware Corporation whose offices are at 835 Howard Street, 3rd Floor, San Francisco, CA 94103 (“we”, “us” “our” or “Huddle”) are committed to protecting and respecting Your privacy. When we collect personal information from You, we follow the privacy principles and comply with the Data Protection Act 1998 and the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from the European Union. Huddle’s US-EU and US Swiss Safe Harbor framework policy can be found [here](http://www.huddle.com/safe-harbor/).
 
-This policy, together with our Subscriber Agreement for Huddle Services <http://www.huddle.com/subscriber-agreement/> and our End User License Agreement (“Terms of Use”) <http://www.huddle.com/terms-of-use/> and any other documents referred to in them, sets out the basis on which any personal data we collect from You, or that You provide to us, will be processed by us. Please read the following information carefully to understand our views and practices regarding Your personal data and how we will treat it.
+This policy, together with our Subscriber Agreement for Huddle Services <http://www.huddle.com/subscriber-agreement/>, our Master Services Agreement and our End User License Agreement (“Terms of Use”) <http://www.huddle.com/terms-of-use/> and any other documents referred to in them, sets out the basis on which any personal data we collect from You, or that You provide to us, will be processed by us. Please read the following information carefully to understand our views and practices regarding Your personal data and how we will treat it. 
 
 ### Changes to our Privacy Policy
 
@@ -18,7 +18,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the Data Controller f
 
 We may collect and process the following data about You:
 
-  * We collect information from You when You complete forms on our websites ([www.huddle.com](http://www.huddle.com/) or my.huddle.net which can also be accessed using a custom domain name e.g. myaccount.huddle.net) – “our sites” – including when registering to use our Sites or subscribing to our services or updating Your profile. Information You provide is stored in Huddle databases. The information we may collect  about You includes, Your name and email address; Your title, company and other profile information You provide as well as aggregate information about Your use of the features of the Services we provide to You such as the number of times You upload/download files and documents.
+  * We collect information from You when You complete forms on our websites ([www.huddle.com](http://www.huddle.com/) or my.huddle.net which can also be accessed using a custom domain name e.g. myaccount.huddle.net) – “our sites” – including when registering to use our Sites or subscribing to our services or updating Your profile. Information You provide is stored in Huddle databases. The information we may collect about You includes, Your name and email address; Your title, company and other profile information You provide as well as aggregate information about Your use of the features of the Services we provide to You such as the number of times You upload/download files and documents.
   * Information that You provide to us by completing surveys on our site or as carried out by our approved third parties.
   * If You contact us for customer or technical support, we may keep a record of that correspondence or conversation.
   * Information we receive from third party search engines such as but not limited to Google, Yahoo and Microsoft (Bing and MSN) relating to Your search activity.
@@ -116,6 +116,8 @@ You may at anytime opt-out of receiving this information by clicking on the opt-
 
 ### How You can change or remove information
 
+You understand that by accepting an invitation into Huddle, those who are in a workspace with you, will be able to identify you by your Huddle profile.
+
 You may change or remove Your profile information displayed through our site at any time by going to Your profile and editing Your information. However, if You want to change the personal information we hold about You in our systems, You will need email Your request to privacy@huddle.com.
 
 If You want to stop using Your account You may deactivate it. When You deactivate an account, You will not be able to use our Sites or services and Your information will not be capable of being viewed through our sites. However, even after You deactivate Your account, copies of Your information including but not limited to name and email address may be retained by us as backup copies for legal and compliance reasons.
@@ -130,7 +132,7 @@ Although we will do our best to protect Your personal data, we cannot guarantee 
 
 ### Security of Your personal information
 
-Huddle’s Information Security Management is 3rd party ISO 27001:2005 certified by BSi.  We will take all reasonable technical and organisational precautions to prevent loss or misuse of Your personal information. Your information is stored on password protected servers and transmission of data is encrypted. You acknowledge that the transmission of information over the internet is inherently insecure and we cannot guarantee the security of data that is sent over the internet. You are responsible for Your passwords to our Services.
+Huddle’s Information Security Management is 3rd party ISO 27001:2005 certified by BSi. We will take all reasonable technical and organisational precautions to prevent loss or misuse of Your personal information. Your information is stored on password protected servers and transmission of data is encrypted. You acknowledge that the transmission of information over the internet is inherently insecure and we cannot guarantee the security of data that is sent over the internet. You are responsible for Your passwords to our Services.
 
 ### Disclosure of Your information
 
