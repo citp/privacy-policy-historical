@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131441id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512130756id_/http%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ We do not sell, trade, or rent your personal information to others without your 
 
 5\. _A Note to Parents_
 
-Use of the Sites by children (defined as persons under the age of 18) (permitted under the [User Agreement](http://www.donorschoose.org/help/user_agreement.html) with parental consent and supervision) does not require disclosure of any personal information about the child. DC does not wish or intend for any child to provide personally identifiable data to DC through use of the Sites. 
+Use of the Sites by children (defined as persons under the age of 18) (permitted under the [User Agreement](http://www.donorschoose.org/user-agreement) with parental consent and supervision) does not require disclosure of any personal information about the child. DC does not wish or intend for any child to provide personally identifiable data to DC through use of the Sites. 
 
 6\. _Teachers._
 
