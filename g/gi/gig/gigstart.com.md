@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gigstart.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228184934id_/http%3A//www.gigstart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigstart.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512145131id_/http%3A//www.gigstart.com/privacy) for the most accurate reproduction.*
 
 # Gigstart | Privacy Policy
 
-##### External Links
+### External Links
 
 This site contains links to other sites. [gigstart.com](https://web.archive.org/ "gigstart.com") is not responsible for the privacy practices or the content of such Web sites.
 
