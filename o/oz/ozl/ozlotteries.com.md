@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216201345id_/https%3A//www.ozlotteries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512112432id_/http%3A//www.ozlotteries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Oz Lotteries Privacy Policy**
 
-This policy sets out the approach TMS Global Services Pty Ltd ("TMS", “We” and “Us”) has adopted in its collection and management of personal information in accordance with the Australian Privacy Principles (“APPs”) under the Privacy Act 1988.
+This policy sets out the approach TMS Global Services Pty Ltd ("TMS", "We" and "Us") has adopted in its collection and management of personal information in accordance with the Australian Privacy Principles ("APPs") under the Privacy Act 1988.
 
 Top
 
