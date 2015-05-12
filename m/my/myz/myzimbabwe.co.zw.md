@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the myzimbabwe.co.zw privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211143id_/http%3A//www.myzimbabwe.co.zw/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D55%26Itemid%3D276) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzimbabwe.co.zw privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512053232id_/http%3A//www.myzimbabwe.co.zw/home/privacy-policy.html) for the most accurate reproduction.*
 
-# My Zimbabwe Privacy Policy
+# Privacy Policy - My Zimbabwe News
+
+     Published on 06 January 2015
+     Written by Staff Reporter 
 
 **Privacy Notice**
 
@@ -37,4 +40,7 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via email on **[**http://www.myzimbabwe.co.zw/index.php?option=com_contact &view=contact&id=1&Itemid=126**](http://www.myzimbabwe.co.zw/index.php?option=com_contact&view=contact&id=1&Itemid=126)[ ** ******](http://www.myzimbabwe.co.zw/feedback/contacts/name)
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately**
+
+  
+
