@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insureme.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117145753id_/http%3A//www.insureme.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insureme.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512093526id_/http%3A//www.insureme.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -155,10 +155,10 @@ Our Services are operated in the United States. If you are located in the Europe
 We reserve the right to update, amend and/or change this Privacy Policy at any time in our sole discretion. Amendments will take effect immediately upon us posting the updated Privacy Policy on our Services. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. The date on which this Privacy Policy was last updated will be noted immediately above this Privacy Policy. Your continued access and use of our Services following the posting of any such changes shall automatically be deemed your acceptance of all changes.
 
 **Contacting Us**  
-If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at info@bankrateinsurance.com.
+If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at info@insurancequotes.com.
 
 **Special Notification for California Residents -- Your California Privacy Rights**  
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at info@bankrateinsurance.com or in writing at:
+Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at info@insurancequotes.com or in writing at:
 
 InsureMe  
 1860 Blake St. Suite 900  
