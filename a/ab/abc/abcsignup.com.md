@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010102159id_/https%3A//www.abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512082454id_/https%3A//www.abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy With Registration Software | ABC Signup
 
-_"The ABC Signup system is so user friendly that we felt comfortable using it after just one hour-long training session. ABC listened to our unique challenges and gave us solutions we never thought possible. There was a real effort to ensure that it was not just a cookie cutter system but one that provided the solutions we needed."_  
- **Tiffany, Medical Minds in Motion**
+"The ABC Signup system is so user friendly that we felt comfortable using it after just one hour-long training session. ABC listened to our unique challenges and gave us solutions we never thought possible. There was a real effort to ensure that it was not just a cookie cutter system but one that provided the solutions we needed."   **Tiffany, Medical Minds in Motion**
 
 [](https://web.archive.org/customers.html)
 
