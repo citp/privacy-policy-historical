@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfrrs.org privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207123032id_/http%3A//xc.tfrrs.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfrrs.org privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512214643id_/http%3A//www.tfrrs.org/privacy.html) for the most accurate reproduction.*
 
 # TFRRS | Track & Field Results Reporting System
 
