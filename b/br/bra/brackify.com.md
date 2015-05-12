@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brackify.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208064827id_/http%3A//brackify.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brackify.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512231839id_/http%3A//brackify.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Brackify
 
