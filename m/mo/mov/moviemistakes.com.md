@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviemistakes.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008115958id_/http%3A//www.moviemistakes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemistakes.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512135622id_/http%3A//www.moviemistakes.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -22,4 +22,4 @@ I reserve the right to publish e-mails sent to moviemistakes.com in their entire
 
 This product includes GeoLite data created by MaxMind, available from [http://www.maxmind.com](http://www.maxmind.com/).
 
-All images on the site are © copyright their respective owners. If anyone has any questions or concerns about use of copyrighted material on moviemistakes.com, please [e-mail me](https://web.archive.org/web/20141008115958id_/http%3A//www.moviemistakes.com/contact.php).
+All images on the site are © copyright their respective owners. If anyone has any questions or concerns about use of copyrighted material on moviemistakes.com, please [e-mail me](https://web.archive.org/web/20150512135622id_/http%3A//www.moviemistakes.com/contact.php).
