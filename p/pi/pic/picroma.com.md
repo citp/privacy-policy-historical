@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picroma.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702130204id_/https%3A//picroma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picroma.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512171210id_/https%3A//picroma.com/privacy) for the most accurate reproduction.*
 
 # Index
 
