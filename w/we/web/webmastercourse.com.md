@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011190823id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512200925id_/http%3A//www.webmastercourse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy WebmasterCourse.Com
+# Privacy Policy | Webmaster Course
 
-* * *
+## Privacy Policy – Webmaster Course .Com
 
-The privacy of our visitors to webmastercourse.com is very crucial to us. 
+The privacy of our visitors to webmastercourse.com is very crucial to us.
 
-At webmastercourse.com , we realize how important the safety of your personal information is to you. To ease your mind, we would like you to know that we never sell your personal information to third parties. Below is a break-down on what types of personal information we receive and collect when you use visit webmastercourse.com , and how we protect your information. 
+At webmastercourse.com , we realize how important the safety of your personal information is to you. To ease your mind, we would like you to know that we never sell your personal information to third parties.
+
+Below is a break-down on what types of personal information we receive and collect when you use visit webmastercourse.com , and how we protect your information.
 
 Privacy Policy
 
@@ -18,17 +20,17 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 DoubleClick Cookie
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
 
-Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the ads preference manager. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the ads preference manager. (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting aboutads.info.)
 
-You can read more about Google's Advertising and Cookies here: http://www.google.com/policies/privacy/ads/
+You can read more about Google’s Advertising and Cookies here: http://www.google.com/policies/privacy/ads/
 
 What Are Cookies?
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
 IP Addresses
 
@@ -60,20 +62,15 @@ For site security purposes and to ensure that this service remains available to 
 
 Policy Changes
 
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy
+
+Policy, without your prior consent.
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
 Contact
 
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
-
-Bob Pardue Photography
-
-2099 S. Potter Rd., Lancaster, SC, 29720
-
-803-283-2853
-
-bob [at] bobpardue.com  
-  
-© Copyright WebMasterCourse.com - All Rights Reserved. - Cheap web design
+If you have any questions regarding this Policy, or your dealings with our web site, please contact us.  
+Bob Pardue Photography  
+2099 S. Potter Rd., Lancaster, SC, 29720  
+bob [at] bobpardue.com
