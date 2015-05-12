@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpddl.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105052823id_/http%3A//jpddl.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpddl.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512032658id_/http%3A//www.jpddl.com/page/privacy) for the most accurate reproduction.*
 
 # JPDDL
 
