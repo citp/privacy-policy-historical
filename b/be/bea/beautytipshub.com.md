@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautytipshub.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014193624id_/http%3A//www.beautytipshub.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautytipshub.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512065851id_/http%3A//www.beautytipshub.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Beauty Tips Hub
 
 We at beautytipshub.com are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. Beautytipshub.com may collect the information explained herein under.
 
