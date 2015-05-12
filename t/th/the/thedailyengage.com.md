@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the thedailyengage.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122190355id_/http%3A//www.thedailyengage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyengage.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512163802id_/http%3A//thedailyengage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Daily Engage
+# Privacy Policy - The Daily EngageThe Daily Engage
+
+[](http://thedailyengage.com/) Menu
+
+
+
 
 This Privacy Policy governs the manner in which The Daily Engage collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.dailyengage.dev.belugalab.com website (“Site”). This privacy policy applies to the Site and all products and services offered by The Daily Engage.
 
@@ -20,19 +25,19 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 The Daily Engage may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.
 
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.
 
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 ### How we protect your information
@@ -46,6 +51,8 @@ We do not sell, trade, or rent Users personal identification information to othe
 ### Third party websites
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20150512163802id_/http://thedailyengage.com/privacy-policy/We%20use%20third-party%20advertising%20companies%20to%20serve%20ads%20when%20you%20visit%20our%20Web%20site.%20These%20companies%20may%20use%20aggregated%20information%20\(not%20including%20your%20name,%20address,%20email%20address%20or%20telephone%20number\)%20about%20your%20visits%20to%20this%20and%20other%20Web%20sites%20in%20order%20to%20provide%20advertisements%20about%20goods%20and%20services%20of%20interest%20to%20you.%20If%20you%20would%20like%20more%20information%20about%20this%20practice%20and%20to%20know%20your%20choices%20about%20not%20having%20this%20information%20used%20by%20these%20companies,%20click%20here%20http://www.networkadvertising.org/managing/opt_out.asp.).
 
 ### Advertising
 
@@ -68,10 +75,10 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 The Daily Engage  
-www.dailyengage.dev.belugalab.com  
+www.thedailyengage.com  
 12 Desbrosses Street  
 Suite 281  
 Manhattan,NY 10013  
-info@dailyengage.dev.belugalab.com
+info@thedailyengage.com
 
-This document was last updated on March 15, 2014
+This document was last updated on January 30, 2015
