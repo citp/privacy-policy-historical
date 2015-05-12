@@ -1,29 +1,80 @@
-> *The following text is extracted and transformed from the oyyy.co.uk privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826180000id_/http%3A//www.oyyy.co.uk/page.php%3FxPage%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyyy.co.uk privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512142314id_/http%3A//www.shima-uma.com/privacy-policy) for the most accurate reproduction.*
 
-# Oyyy.co.uk > Security & Privacy
+# Privacy Policy | Shima Uma UK
 
-#### Our Security & Privacy Policy 
+**Privacy Policy**
 
-You can be assured that Oyyy.co.uk respect your privacy and be confident that you can browse our site without revealing any personal information about yourself. We do however collect some data regarding visits to and usage of our web site and analyze this data to help us provide a better service to our customers. 
+Shima Uma (We) commit ourselves to protecting and respecting your privacy when visiting our website. This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting Shima Uma. Please read the following information to understand our practices with regards to your personal data and how we will treat it.
 
-Some features or restricted areas may require you to provide us with some information e.g. placing an order. This information may include your name, address, other contact details, credit or debit card details and personal preferences. 
+**Information we may collect from you**
 
-We will only ever use this information to process your order securely and to help us provide you with a better service. This information will not be provided to any other parties, unless we are required to do so by law, or to enable us to complete your order e.g. providing the carrier with your delivery address details.
+We may collect and process the following data about you:
 
-Any information we do collect is stored securely at all times according to the requirements of the UK Data Protection Acts of 1984 and 1998. 
+  * Any information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site, posting material, requesting further services or subscribing to any service offered by us on the site. We might also request further information if you should report a problem with our site.
+  * We may keep a record of any correspondence if you should contact us.
+  * Details of the resources you access and of your visits to our site.
+  * Details of transactions you may carry out through our site and of the completion of your orders.
 
-You can choose not to provide us with this information, however some or all of the features of this site may not be accessible in those circumstances. 
 
-#### Credit / Debit Card Security
 
-We treat your card security very seriously and on occasions we will carry out extra checks to help prevent fraudulent misuse of your credit / debit card.
+**Cookies**
 
-#### Cookies
+Visiting our website with your browser settings adjusted to accept cookies tells us that you want to use our products and services and that you consent to our use of cookies and other technologies to provide them to you as described below. See below for information on how to modify the settings in your browser to notify you when you receive a new cookie, and how to disable cookies altogether.
 
-"Cookies" are small pieces of information that are stored on your computer's hard drive by your browser. These allow us to enhance your shopping experience and provide features to make your visit to our web site easier and more fun. 
+**Cookies and How We Use Them**
 
-The cookies we use cannot be used to get data from your hard drive, get your email address or steal sensitive information about your person. 
+Cookies are small files that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise your browser and to provide services. Our cookies do not contain any personal information about you and are used only to determine your browser and user preferences for our site. We believe that this can greatly assist us in providing you with the service that you desire and to enhance your browsing experience.
 
-If you're still concerned about cookies, then most browsers allow the cookie function to be turned off. If you want to know how to do this look at the help menu on your browser. 
+We also use cookies for additional purposes, including:
 
-Turning off cookies is not recommended for our site and might actually stop you from being able to shop with us! 
+  * Identifying you when you sign in to our site. This allows us to provide you with product recommendations and display personalised content
+  * Keeping track of items stored in your shopping basket.
+  * For web analytics to help us understand how our site is performing and to help us improve areas of the site that do not perform as well.
+  * Preventing fraudulent activities.
+  * Improving security.
+  * Providing Social Media content.
+
+
+
+**Cookies and Browser Settings**
+
+The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the 
+
+**Uses made of the Information**
+
+We use the information held about you in the following ways:
+
+  * To notify you of any changes to our service.
+  * To ensure that the content of our site is presented in the most effective manner for you and your computer.
+  * Where you have consented to be contacted, to provide you with the information, products and services requested from us or in the event that we feel will be of interest to you.
+  * To allow you to participate in interactive features of our service, should you choose to do so.
+  * To allow ourselves to carry out our obligations concerning any contracts entered into between you and us.
+
+
+
+**Disclosure of your Information**
+
+As defined in section 736 of the UK Companies Act 1985, we may disclose your personal information to any member of our group. These include our subsidiaries, our ultimate holding company, and its subsidiaries. We may disclose your personal information to third parties:
+
+  * To the prospective buyer or seller of any business or assets in the event that we sell or buy.
+  * If we are under a duty to comply with any legal obligation to disclose or share your personal data.
+  * To protect the rights, property and safety of our customers or others, or to enforce our terms of use for the site.
+  * For the purposes of fraud protection and credit risk reduction this may include exchanging information with other companies and organisations.
+
+
+
+**Third Party Websites**
+
+From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates. If you visit any of these sites, please note that they have their own privacy policies and you should check these before submitting any personal data. We cannot accept any responsibility or liability for these policies.
+
+**Access to Information**
+
+In accordance with the Act you can exercise the right to access any information we hold about you.
+
+**Changes to our Privacy Policy**
+
+We will, where appropriate, notify you by email of any changes made to our privacy policy and these changes will also be posted on this page.
+
+**Contact**
+
+We welcome any questions, comments and requests regarding this privacy policy. Please email [sales@shima-uma.com](mailto:sales@shima-uma.com).
