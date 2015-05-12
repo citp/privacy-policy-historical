@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allmovie.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708025953id_/http%3A//www.allmovie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmovie.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512225623id_/http%3A//www.allmovie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - All Media Network Privacy Policy - AllMovie
+# Privacy Policy | All Media Network Property | AllMovie
 
 Review All Media Network, LLC's ("AMN") legal and privacy notices for details on how we collect, use and protect your personal information on the website. 
 
@@ -24,7 +24,6 @@ We respect your privacy. If you have any privacy concerns or questions about thi
   * Your consent
   * Your rights
 
-  
 
 
 ## About Us and This Policy
