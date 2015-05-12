@@ -1,43 +1,59 @@
-> *The following text is extracted and transformed from the health-shoppe.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230220545id_/http%3A//www.health-shoppe.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health-shoppe.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512183346id_/http%3A//www.zotezo.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Help zone :: health-shoppe.com
+# Privacy Policy - Zotezo.com
 
-|  [](https://web.archive.org/web/20101230220545id_/http%3A//www.health-shoppe.com/quickfind.php)  
-
-
-[Gift certificates](https://web.archive.org/web/20101230220545id_/http%3A//www.health-shoppe.com/giftcert.php)
-
-[Special offers](http://www.health-shoppe.com/offers.php)
+**Privacy Policy**
 
   
-  
-[ ](http://www.health-shoppe.com/provider)
-
-        [](http://www.health-shoppe.com/pages.php?pageid=89)
-
-[](http://health-shoppe-blog.blogspot.com/)
-
-[](https://web.archive.org/popupcc.html) [](https://web.archive.org/friend1.php) [](https://web.archive.org/feedback.php) | 
-
-health-shoppe.com and its subsidiaries and affiliates respects your privacy. This Privacy Statement (Policy) provides succinctly the manner your data is collected and used by health-shoppe.com. You are advised to please read the Privacy Statement Policy carefully. By accessing the services provided by health-shoppe.com you agree to the collection and use of your data by health-shoppe.com in the manner provided in this Privacy Statement (Policy). We want you to feel comfortable using our web sites feel secure submitting information to us contact us with your questions or concerns about privacy on this site know that by using our sites you are consenting to the collection of certain data WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU? We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a: web server cookie stored on your hard drive an IP address, assigned to the computer which you use the domain server through which you access our service the type of computer you're using the type of web browser you're using We may collect the following personally identifiable information about you: name including first and last name alternate email address mobile phone number and contact details ZIP/Postal code demographic profile (like your age, gender, occupation, education, address and durables owned); preferences and interests (such as news, sports, travel and so on); financial information (like account or credit card numbers); and opinions of features on our websites. We may also collect the following information: about the pages you visit/access the links you click on our site the number of times you access the page You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. WHO COLLECTS THE INFORMATION? We will collect anonymous traffic information from you when you visit our site. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof. Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control. We would also make chat rooms, forums, instant messenger and message boards and other services available to you from time to time. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone. HOW IS THE INFORMATION USED? We use your personal information to: help us provide personalized features tailor our sites to your interest to get in touch with you when necessary to provide the services requested by you to preserve social history as governed by existing law or policy We use contact information internally to: direct our efforts for product improvement contact you as a survey respondent notify you if you win any contest; and send you promotional materials from our contest sponsors or advertisers Generally, we use anonymous traffic information to: remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective; recognize your access privileges to our Web sites track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings make sure that you don't see the same ad repeatedly help diagnose problems with our server administer our Web sites track your session so that we can understand better how people use our sites WITH WHOM WILL YOUR INFORMATION BE SHARED? We will not use your financial information for any purpose other than to complete a transaction with you. We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless: we have your permission to provide products or services you've requested to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of health-shoppe.com's terms of use or to defend against legal claims; special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure. We share your information with advertisers on an aggregate basis only. WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION? Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register. You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. health-shoppe.com reserves the right to send you certain service related communication, considered to be a part of your health-shoppe account without offering you the facility to opt-out. You may update your information and change your account settings at any time. Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes. You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/faq/. WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION? To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you. Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties. HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION? To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options: * Send an e-mail to care@health-shoppe.com * Call the following telephone number: +91 33 3053 0101 POLICY UPDATES We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site. You are can offer your views, suggestions, if any, by submitting the filled in feedback form online. CONTACT INFORMATION You can contact us at: health-shoppe.com 53, Chowringhee Road, Kolkata. 700 071 INDIA. Tel.: 91 33 3053 0101 Email id: care@health-shoppe.com  
+We value the trust that you place in us and we have committed ourselves in protecting your privacy with utmost care and responsibility. This Privacy Policy describes the kinds of information we collect from you, where we get it, how we safeguard it, and with whom (if anyone at all) we may share it.
 
   
-  
-         (The images of items are indicative only, may vary at the time of shipping)   
-Best Viewed on -Mozila Firefox 3.5.7,Google Chrome 3.0.195.38,Internet Explorer 8 and upper  [](http://www.addthis.com/bookmark.php?v=20) |  [](https://web.archive.org/recform.php)   
-
+We use the information gathered to enable your account on our website and to enhance your online experience. Please read on for more details about our privacy policy.
 
   
-Bananas are valuable in kidney disorder because of their low protein and salt content and high carbohydrate content. 
-
-[](http://www.health-shoppe.com/form.php)
+Zotezo.com will not sell its database of customer details or details about customers to any third party. Any and all the information collected on this website will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned. We respect the right of users to remain anonymous and will endeavour not to knowingly disclose user identities unless directed by a court of law.
 
   
+**Disclosure of information to any third party**
 
+  
+Zotezo.com does not sell, trade, or rent your personal information to others. Zotezo.com may release customer information when we believe, in good faith, that such release is reasonably necessary to (i) comply with laws, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of Zotezo.com, our users, or others. This may include exchanging information with other companies and organizations to help prevent fraud.
 
-     [](http://www.angels-scrap-shop.com/home.php)  
   
----|---|---  
+**What information do we collect and how do we use it?**
+
   
-|   
----
+When you register, place an order or subscribe for newsletters through this website, we need to know your name, e-mail, phone number, address and debit card / credit card or banking details if any transaction is done by you by using your debit card / credit card or bank details. This allows us to process and fulfill your order successfully. It also helps us in maintaining your user account.
+
+  
+**How does Zotezo.com protect customer information?**
+
+  
+When you place orders, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, several layers of encryption and several layers of security to prevent unauthorised access protect all of the sensitive customer data we collect.
+
+  
+**Debit Card / Credit Card or Bank Details**
+
+  
+All debit card / credit card or bank payments are processed securely through the various payment gateways. Payment by debit card / credit card or bank is the fastest way to receive your order, as there is no clearance delay. Zotezo.com does not store any debit card / credit card or bank information on our servers.
+
+  
+**Protection for Children**
+
+  
+Zotezo.com does not knowingly provide any internet-based product or service to persons under the age of 18. We will make reasonable efforts to avoid receiving personally identifying information of any kind from persons under the age of 18.
+
+  
+**Cookie Policy**
+
+  
+‘Cookies’ are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. They allow you to place your online order and to login once you are subscribed. Most Web browsers automatically accept cookies, but you can usually change your browser settings to prevent that. You will need cookies enabled to use the Zotezo.com website.
+
+  
+**Your Consent as a User**
+
+  
+By using Zotezo.com, you consent to the collection and use of this information by Zotezo.com. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+  
+If you wish to discuss any aspect of this Privacy Policy Statement, please feel free to contact us by writing at [care@zotezo.com](mailto:care@zotezo.com).
