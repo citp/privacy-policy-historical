@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921015544id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512083831id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
 
 # Privacy for Tadpoles
 
 **Personal Information**
 
-We consider all information captured using Tadpoles to be a private communication between childcare providers and parents. No personal information is shared with any external parties unless a provider has explicitly invited a parent to establish communications. All communications are handled via the parent's email address. In order to create an account on tadpoles.com parents are required to validate their email address and only have visibility to information shared to that specific email address. 
+We consider all information captured using Tadpoles to be a private communication between childcare providers and parents. No personal information is shared with any external parties, and communications are only shared with a parent if a provider has explicitly invited the parent to establish communications. All communications are handled via the parent's email address. In order to create an account on tadpoles.com parents are required to validate their email address and only have visibility to information shared to that specific email address. 
 
 **What do we use your information for?**
 
@@ -18,6 +18,18 @@ Any of the information we collect from you may be used in one of the following w
 **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information. All supplied sensitive information is transmitted between providers and Tadpoles via Secure Socket Layer (SSL) technology and encrypted. 
+
+**Google authentication**
+
+For those users who have Gmail accounts, we require that they authenticate through Google. This is for the following security and privacy reasons: 
+
+  * Authenticating directly to Google prevents the user from ever having to send any password information to our system
+  * Authenticating directly to Google allows for the user to use the most secure authentication mechanisms such as two factor authentication
+  * Authenticating directly to Google allows us to know absolutely certainly that the user is the owner of the email address provided
+
+
+
+In order to ensure that the user authenticating via Google is the actual owner of the email address and therefore allowed to view communications that have been sent to that email address, we ask for access to verify the user's Google profile and email address. This does not grant any access to any user content stored with Google, nor does it grant access to post any information to the user's Google+ account. We do not and will never request access to any emails, photos, Google+ posts or any content in the user's Google+ account. 
 
 **Contacting Us**
 
