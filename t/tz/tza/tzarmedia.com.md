@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tzarmedia.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314162916id_/http%3A//www.tzarmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tzarmedia.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512075552id_/http%3A//www.tzarmedia.com/privacy) for the most accurate reproduction.*
 
 # tzarmedia.com - Privacy Policy
 
