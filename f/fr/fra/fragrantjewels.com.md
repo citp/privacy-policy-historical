@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragrantjewels.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805114914id_/http%3A//www.fragrantjewels.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrantjewels.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512024627id_/http%3A//www.fragrantjewels.com/pages/privacy) for the most accurate reproduction.*
 
 # privacy – Fragrant Jewels
 
@@ -32,6 +32,12 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 **Questions or Conerns**
 
-If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to info@fragrantjewels.com and we will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to support@fragrantjewels.com and we will make every effort to resolve your concerns.
 
 Effective Date: July 6, 2014
+
+FragrantJewels LLC
+
+148 South Anderson Street
+
+Los Angeles, California 90033
