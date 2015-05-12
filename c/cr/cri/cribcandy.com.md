@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cribcandy.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116115431id_/http%3A//cribcandy.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cribcandy.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512200729id_/http%3A//cribcandy.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy | CribcandyThe Best from Household and Interior Design Blogs Around the World, Every Day
 
