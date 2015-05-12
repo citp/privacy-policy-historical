@@ -1,36 +1,58 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708115333id_/http%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512141428id_/http%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FranchiseGator.com
 
-### Effective June 25, 2012
+### Effective March 20, 2015
 
 [](https://privacy.truste.com/privacy-seal/Franchise-Gator,-LLC/validation?rid=1bd7a05a-9faf-4400-bf7f-4ccc3a19b3c6 "TRUSTe online privacy certification")
 
-At Franchise Gator, we only use personal information you provide in the way we specify when we collect it on [www.franchisegator.com](https://web.archive.org/). We take your privacy seriously, and this privacy policy describes how we handle the data we collect from you.
+At Franchise Gator, LLC ("Franchise Gator"), we only use personal information you provide in the way we specify when we collect it on our website: [www.franchisegator.com](https://web.archive.org/). We take your privacy seriously, and this policy covers data used in our websites, mobile apps, email and text-messaging services.
 
-Franchise Gator has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the Web site [www.franchisegator.com](https://web.archive.org/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Franchise Gator has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only the Web site [www.franchisegator.com](https://web.archive.org/) and does not cover information that may be collected through our mobile apps. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or concerns regarding this policy, you should first contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchisegator.com](http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchisegator.com). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+[](http://www.bbb.org/atlanta/business-reviews/franchising/franchise-gator-in-roswell-ga-10000651#bbblogo "Franchise Gator, LLC, Franchising, Roswell, GA")
 
-#### Our Web site
+Franchise Gator has also received an **A+ Rating** as a **Better Business Bureau[Accredited Business](http://www.bbb.org/atlanta/business-reviews/franchising/franchise-gator-in-roswell-ga-10000651)**.
+
+We strive to maintain transparency and accountability regarding the collection and use of your personal information. If you have questions or concerns regarding this policy, please first contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. TRUSTe will then serve as a liaison with the Franchise Gator to resolve your concerns.
+
+#### Our Web Site
 
 All users can view content on our Web site without submitting any personal information (such as name, address, phone number, etc.) to us. However, in order to provide you with a better user experience, we may collect non-personal information from your computer using cookies. More information on this process is below.
 
-#### Our information request form
+#### Mobile Apps and Location Information
+
+When you download or use our mobile apps, you may give permission to share your device's real-time location (from cell towers or GPS). This information is used to provide services like localized search results. You can disable location-sharing at any time in your device settings. We also use an encrypted version of your device's unique device ID to track app usage, and to send any mobile alerts that you ask you to receive.
+
+#### Our Information Request Form
 
 When you request information from one or more of our Sponsors by submitting your contact information (name, address, phone number, e-mail, etc.) on our registration form, we pass your information only to the businesses that you specify. No other business receives your contact information. Your information, however, is often stored in the receiving company's database, as well as ours. Collected data may be stored in a database outside your home country.
 
-#### Our newsletter program
+#### Our Newsletter Program
 
-We offer opportunities to register to receive our e-mail newsletter, both in various locations on our Web site and on our Information Request Form. We only add you to our mailing list if you authorize us to. Moreover, we do not share your e-mail address or other personal information with other companies unless authorized by you.
+We offer opportunities to register to receive our e-mail newsletter, both in various locations on our Web site and on our Information Request Form. We only add you to our mailing list if you authorize us to. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing our [unsubscribe](https://web.archive.org/newsletter/unsubscribe.php) page, or you can contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com). Moreover, we do not share your e-mail address or other personal information with other companies unless authorized by you.
 
 #### Our use of tracking technologies
 
 In many cases, we collect non-personal information from your computer using cookies, which are standard Internet technologies used to measure user traffic. For example, cookie data is useful in measuring user visits, browsing patterns, or e-mail message views. This information helps us to provide you with a better user experience by enabling us to compile statistics and measures of user satisfaction, and thereby to continually improve our Web site. Some of this information is collected and compiled by third-party service providers. The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. 
 
-We employ, as do some of our third party advertising partners, a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user�s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers� personally identifiable information in some instances.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We link this automatically collected data to other information we collect about you.
+
+We employ, as do some of our third party advertising partners, a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers' personally identifiable information in some instances.
 
 A cookie is a small amount of data that a Web sites server sends to your browser, which is stored on your computer's hard drive. Cookies can be removed from your hard drive. Also, depending on the type and version of web browser you are using, you may be able to change how your computer treats cookies so that cookies are not used or saved. Please check with your browser provider for more information on removing cookies.
+
+Technologies such as tags and scripts are used by Franchise Gator, our advertisers, affiliates, and web analytics service providers  [Google Analytics, Adobe Marketing Cloud Analytics]. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+#### Behavioral Targeting
+
+We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the pupose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+#### Information Sharing
+
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+
+We may, however, provide your personal information to companies that provides services to help us with our business activities, such as analytics and web metric services. These companies are authorized to use your personal information _only as necessary_ to provide these services to us.
 
 #### Special cases
 
@@ -38,11 +60,11 @@ In a limited number of cases, we may choose to share either personal or non-pers
 
 #### Business Transfers
 
-As we continue to develop our business we might sell or buy companies, subsidiaries or business units. In such transactions, customer information is generally one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless the customer consents otherwise). Also, in the event that we are acquired or assigned, customer information will be one of the transferred assets.
+As we continue to develop our business we might sell or buy companies, subsidiaries or business units. In such transactions, customer information is generally one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless the customer consents otherwise). Also, in the event that we are acquired or assigned, customer information will be one of the transferred assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 #### Links to third parties
 
-Although Franchise Gator provides links to other sites that may provide valuable information, we cannot control how they collect or manage personal information from their Web sites. We encourage you to review their privacy policies and data collection procedures.
+Although Franchise Gator provides links to other sites that may provide valuable information, we cannot control how they collect or manage personal information from their Web sites. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to review their privacy policies and data collection procedures.
 
 #### Security measures
 
@@ -52,9 +74,17 @@ We use a variety of security technologies and procedures to help protect your pe
 
 We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+#### Articles
+
+Our site also offers an articles section where you can leave comments which may include your personal information. You should be aware that any information you provide in these comments are publicly available to other users of the site, therefore this information may be read, collected, and used by others who access them. To request removal of your information from any of the publicly-available pages of our site, contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com). In some cases, we may not be able to remove your information, in which case we will let you know if we are unable to do so and why.
+
 #### Social Media Features and Widgets
 
-Our Web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Web site. Your interactions with these features are governed by the privacy policy of the company providing it.
+Our Web site includes social media features, such as the Facebook Like button and widgets. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Web site. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+#### Single Sign-On
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 #### Children's privacy
 
