@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210225759id_/http%3A//www.mypizza.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512150516id_/http%3A//mypizza.com/pages/privacy) for the most accurate reproduction.*
 
 # MyPizza.com - Order Pizza Online, Find Pizza Restaurants, Pizza Menu, Pizza Delivery
 
