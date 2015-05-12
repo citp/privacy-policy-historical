@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016012832id_/http%3A//www.compacc.com/e/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513013717id_/http%3A//www.compacc.com/e/privacy-statement) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ The personal information you provide to Competition Accessories will not be sold
 
 Competition Accessories does not "rent out" our customers' e-mail addresses to third parties for unsolicited e-mail communications. From time to time, we send out e-mails providing our customers with the latest information that we think they will find useful, including information about our new products and services.
 
-You may OPT-OUT of emails or catalog mailings at any time by simply opting out of the e-mails we send or by emailing us at supervisors@compacc.com or using the [Contact US](http://www.compacc.com/e/contact-us) section on the site.  Additionally you may call customer service at 1-800-543-6321.
+You may OPT-OUT of emails or catalog mailings at any time by simply opting out of the e-mails we send or by emailing us at supervisors@compacc.com or using the [Contact US](http://www.compacc.com/e/Contact-Us) section on the site.  Additionally you may call customer service at 1-855-518-6681.
 
 **Cookies:**
 
@@ -22,16 +22,12 @@ In order for Competition Accessories to customize your visit to our site, we may
 
 Competition Accessories understands customer concerns when it comes to safety on the Internet. We guarantee that each purchase you make is safe. If fraudulent charges are ever made, you will not be held responsible for reimbursement. The credit card information that you provide during the checkout process is encrypted using the latest 128-bit Secure Socket Layer (SSL) technology provided by Verisign. This protection means that it is actually safer for our customers to use their credit cards over the Internet rather than in a retail establishment where credit card numbers appear on hard copies and receipts. When your browser is in "secure mode", an unbroken key or padlock icon will appear at the bottom of your browser window.
 
-Naples Direct, LLC
+Competition Accessories LLC.
 
-dba. Competition Accessories
+700 US 31 East
 
-3049 SouthCross Blvd
-
-Suite 105
-
-Rock Hill, SC 29730
+Clarksville, IN 47129, US
 
 cservice@compacc.com
 
-1-800-543-6321
+1-855-518-6681
