@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buybluesteel.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045703id_/http%3A//www.buybluesteel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buybluesteel.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513030805id_/http%3A//www.buybluesteel.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blue Steel
+# Privacy Policy | Blue Steel Jewelry, featuring Stainless Steel, Tungsten and Titanium Jewelry
 
 BLUE STEEL is committed to ensuring that our customers’ personal privacy and information is protected. 
 
@@ -8,7 +8,7 @@ This privacy notice sets out how 'BLUE STEEL' uses and protects any information 
 
 Should we ask you to provide certain identifiable information to us when using this website, please be assured that it will only be used in accordance with this privacy statement. 
 
-BLUE STEEL may change this or update this policy in future. Please check this page occasionally to ensure that you are happy with any changes. This policy is effective from 06-24-2013. Continuing to use this site following any changes/modifications constitutes your acceptance of our updated information. 
+BLUE STEEL may change this or update this policy in future. Please check this page occasionally to ensure that you are happy with any changes. This policy is effective from 07-23-2014. Continuing to use this site following any changes/modifications constitutes your acceptance of our updated information. 
 
 ### **What we collect** : 
 
@@ -40,7 +40,7 @@ This information helps us better understand your needs and allows us to provide 
 
 We are committed to ensuring that the information you provide is secure. In order to prevent unauthorized access or disclosure, we have appropriate physical, electronic and managerial procedures in place to safeguard all information we collect online. BLUE STEEL encrypts your personal information using industry standard GeoTrust SSL Certification.
 
-### **Links to other websites**
+###  **Links to other websites**
 
 Occasionally, our website may include links to other websites of interest. These links are provided for your convenience, but please note that we have no control or responsibility for the content of any linked websites. Therefore, we cannot be responsible for the protection and privacy of any information you provide when visiting linked sites and they are not governed by BLUE STEEL’s privacy notice. Please exercise due caution and read the privacy statement applicable to the website in question. 
 
