@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxcasino.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074847id_/http%3A//maxcasino.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxcasino.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513071717id_/https%3A//maxcasino.com/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Maxcasino.com
 
@@ -22,4 +22,4 @@ Credit Card Security - using your Credit Card at Maxcasino is perfectly safe. CV
 
 If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our friendly online Customer Support Team or send your questions to [support@maxcasino.com](mailto:support@maxcasino.com). Our representatives will be more than happy to assist you.
 
-The services and the Content on the Website are provided by Invicta Networks N.V., Curacao, Netherlands Antilles (Invicta Networks N.V. E-Commerce Park Vredenberg / Landhuis Groot Kwartier Groot Kwarierweg 12, Curacao, +442088167903) based company which is fully licensed and regulated by the laws of that country. Daughter company Brivio LTD, Address: Arch. Makariou III, 135Emelle Building, 4 floor, 3021, Limassol, Cyprus.
+The services and the Content on the Website are provided by Invicta Networks N.V., Curacao, Netherlands Antilles (Invicta Networks N.V. E-Commerce Park Vredenberg, Curacao, +442088167903) based company which is fully licensed and regulated by the laws of that country. Daughter company Brivio LTD, Address: Arch. Makariou III, 135Emelle Building, 4 floor, 3021, Limassol, Cyprus.
