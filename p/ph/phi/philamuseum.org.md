@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117174808id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513180637id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
 
 # Philadelphia Museum of Art - Web Policies
 
@@ -40,6 +40,7 @@ In addition to using cookies and related technologies as described above, we als
 
   * Google’s tracking [Google advertising Privacy and Terms](http://www.google.com/policies/technologies/ads/).
   * OwnerIQ tracking [OwnerIQ Privacy and Terms](http://owneriq.com/privacy-policy).
+  * SiteScout tracking [SiteScout Privacy Policy](http://www.sitescout.com/privacy/).
 
 
 
