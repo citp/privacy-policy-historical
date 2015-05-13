@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldline.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206091640id_/http%3A//worldline.com/en-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldline.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513020327id_/http%3A//worldline.com/en-us/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@ You are currently visiting the Worldline website.
 
 Because data protection and security matters, the Worldline website is hosted in the European Union in order to guarantee an appropriate level of protection to all data that are collected and processed. Application support may be made from Worldline India. The transfers resulting from such support would be framed with the EU model clauses to ensure that the Personal data transferred to India benefit from the same level of protection as if they had stayed in the EU.
 
-  Of course, you have the right to request access, amendment or erasure of your Personal Data. To exercise this right, you can contact the Group Data Protection Office at [dpo-global@atos.net](mailto:dpo-global@Worldline.net).
+  Of course, you have the right to request access, amendment or erasure of your Personal Data. To exercise this right, you can contact the Group Data Protection Office at [dpo-global@atos.net](mailto:dpo-global@atos.net).
 
 This Privacy Notice was published on 3 July 2014 and may be amended from time to time. We invite you to consult this page regularly.
 
