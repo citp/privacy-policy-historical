@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219011149id_/http%3A//www.dogeared.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513040027id_/http%3A//www.dogeared.com/privacy-policy.html) for the most accurate reproduction.*
 
-# eCommerce Solutions On-Demand | Dogeared Privacy Policy
+# Privacy Policy | Dogeared
 
 This Web site is owned by Dogeared, Inc. (Dogeared). We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Dogeared. This Privacy Policy is intended to comply with all applicable laws and regulations in effect, including without limit laws and regulations of the United States and Canada. The following discloses our Privacy Policy. 
 
@@ -29,5 +29,3 @@ Please Note: If you decide not to receive marketing e-mails from Dogeared, you m
 6047 Bristol Parkway  
 Culver City, CA 90230  
 [1(888) 846-0444](tel:+18888460444)
-
-[ ](https://web.archive.org/on/demandware.store/Sites-Dogeared-Site/default/CustomerService-ContactUs)
