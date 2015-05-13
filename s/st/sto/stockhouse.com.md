@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108195227id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513034035id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Stockhouse-Privacy Policy
 
@@ -45,13 +45,13 @@ This Privacy Policy applies to personal information collected by Stockhouse and 
 
 ####  How to Contact Us:
 
-If you have any questions about this policy or wish to make a complaint regarding the treatment of your personal information by us you can write to us using the web form located here: [https://support.stockhouse.com/anonymous_requests/new](https://web.archive.org/web/20141108195227id_/http%3A//www.stockhouse.com/legal/%22https://support.stockhouse.com/anonymous_requests/new%22)
+If you have any questions about this policy or wish to make a complaint regarding the treatment of your personal information by us you can write to us using the web form located here: [https://support.stockhouse.com/anonymous_requests/new](https://web.archive.org/web/20150513034035id_/http%3A//www.stockhouse.com/legal/%22https://support.stockhouse.com/anonymous_requests/new%22)
 
 ###  Complete Privacy Policy
 
 Stockhouse Publishing Ltd. takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-NOTICE: Please visit: [http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm](https://web.archive.org/web/20141108195227id_/http%3A//www.stockhouse.com/legal/%22http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm%22) for important information about safe surfing from the U.S. Federal Trade Commission
+NOTICE: Please visit: [http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm](https://web.archive.org/web/20150513034035id_/http%3A//www.stockhouse.com/legal/%22http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm%22) for important information about safe surfing from the U.S. Federal Trade Commission
 
 This Privacy Policy applies to Stockhouse Publishing Ltd., its subsidiaries, and any of its websites containing the Stockhouse name.
 
