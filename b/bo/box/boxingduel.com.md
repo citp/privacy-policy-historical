@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxingduel.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126090100id_/http%3A//s2.boxingduel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxingduel.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513101715id_/http%3A//s2.boxingduel.com/privacy-policy) for the most accurate reproduction.*
 
 # Boxing Duel
 
@@ -6,7 +6,7 @@
 Privacy Policy
 
 Operator: POWERPLAY MANAGER, s.r.o.  
-(valid and effective as of 04/04/2014)
+(valid and effective as of 01/07/2015)
 
 This privacy policy applies to all services offered on www.boxingduel.com operated by POWERPLAY MANAGER, s.r.o., registered seat at Budatínska 57, 851 06 Bratislava, Slovak Republic, Identification number: 36 722 405, registered in the Business Register of the District Court Bratislava I, Section: Sro, Insert No.: 43978/B (hereinafter as "operator"). In case the user makes use of services provided by third parties, the Privacy Policy conditions of these third parties apply exclusively. The operator does not revise Privacy Policy conditions of third parties. 
 
@@ -20,7 +20,7 @@ The operator bears no liability for the user's disclosure of his/her personal da
 
 The operator may automatically store such data as the user's IP address or browser type. The operator may also store cookies on the user's machine without which the user would be unable to sign into his/her account and use operator's services. 
 
-Cookies are small amounts of data in the form of text files which the website stores on the user's device. Cookies allow the operator to monitor traffic on the website, simplify the user's visits to the website (for example, by remembering which language the user selected the last time he/she logged into the application). A temporary cookie is also used to keep track of the user's "session". Without that temporary cookie (which is not stored after the user quits the browser), the user would have had to log in again on each page. 
+Cookies are small amounts of data in the form of text files which the website stores on the user's device. Cookies allow the operator to monitor traffic on the website, simplify the user's visits to the website (for example, by remembering which language the user selected the last time he/she logged on to the website). A temporary cookie is also used to keep track of the user's "session". Without that temporary cookie (which is not stored after the user quits the browser), the user would have had to log in again on each page. 
 
 Except for the purpose of prosecuting unauthorized use of www.boxingduel.com and all offered services on this website, the operator evaluates such data only for statistical and performance-related purposes. 
 
@@ -80,7 +80,9 @@ The operator uses on its websites service of Google AdSense for video and AdSens
 
   10. **Removal of personal data**
 
-The user may request the removal of his/her personal data from the application (e-mail address, IP addresses and login times) by sending an e-mail to support[a]boxingduel.com. The message must contain an explicit request to remove the user's personal data. If a user requests removal of his/her personal data, his/her account will be blocked, personal data will be deleted and username in the application will be changed. If the e-mail message does not contain the explicit request of the user to remove his/her personal data, his/her personal data will not be removed. 
+The user may request the removal of his/her personal data from the game (e-mail address, IP addresses and login times) by sending an e-mail to support[a]boxingduel.com. The message must contain an explicit request to remove the user's personal data. If a user requests removal of his/her personal data, his/her account will be blocked, personal data will be deleted and username in the game will be changed. If the e-mail message does not contain the explicit request of the user to remove his/her personal data, his/her personal data will not be removed. 
+
+The operator is, however, entitled to store the user's IP address even without the user's assent if necessary for the purposes of fulfilling its legal obligations regarding article 58 of directive 2006/112/EC on common system of value added tax and article 24f of the Council implementing regulation (EU) No 1042/2013. In such case, the operator will store the user's IP address for the period necessary to fulfill its obligations even if the user requests removal of his/her personal data. 
 
   
 
