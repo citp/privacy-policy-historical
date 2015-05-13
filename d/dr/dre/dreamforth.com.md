@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamforth.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090532id_/http%3A//www.dreamforth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamforth.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513043445id_/http%3A//www.dreamforth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dream Interpretation | Dream Meanings | Dreams Dictionary
 
