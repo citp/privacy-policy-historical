@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030071000id_/http%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513020532id_/http%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # StrategyWiki:Privacy policy — StrategyWiki, the video game walkthrough and strategy guide wiki
 
@@ -6,15 +6,15 @@
 
 **This is a proposed policy. It is not yet binding.** While it is a good idea to follow what is written on this page, note that it is not final and thus is subject to change. Please make use of the [discussion page](https://web.archive.org/wiki/StrategyWiki_talk:Privacy_policy "StrategyWiki talk:Privacy policy") to propose changes or to finalize this policy.
 
-##  General scope
+## General scope
 
 This policy covers personally identifiable information collected or stored by StrategyWiki on its servers in relation to the guides and their communities. Consistent with its Data Retention Policy, StrategyWiki collects and retains the least amount of personally identifiable information needed to fulfill the site's operational needs.
 
-##  The public and collaborative nature of the guides
+## The public and collaborative nature of the guides
 
 All guides on StrategyWiki are collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a guide, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions.
 
-##  Activities on StrategyWiki guides
+## Activities on StrategyWiki guides
 
 In general, this Policy only applies to private information stored or held by StrategyWiki which is not publicly available.
 
@@ -26,7 +26,7 @@ Users may also interact with one another outside of StrategyWiki, via email, IRC
 
 StrategyWiki does not require editors to register with a guide. Anyone can edit without logging in with a username, in which case they will be identified by network IP address. Users that do register are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their account. Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed.
 
-##  Purpose of the collection of private information
+## Purpose of the collection of private information
 
 StrategyWiki limits the collection of personally identifiable user data to purposes which serve the well-being of its guides, including but not limited to the following:
 
@@ -34,33 +34,33 @@ StrategyWiki limits the collection of personally identifiable user data to purpo
     To provide site statistics. StrategyWiki statistically samples raw log data from users' visits. These logs are used to produce the site statistics pages; the raw log data is not made public.
     To solve technical problems. Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site.
 
-##  Details of data retention
+## Details of data retention
 
-###  IP and other technical information
+### IP and other technical information
 
     When a visitor requests or reads a page, no more information is collected than is typically collected by web sites. StrategyWiki may keep raw logs of such transactions, but these will not be published or used to track legitimate users.
 
     When a page is edited by a logged-in editor, the server confidentially stores related IP information for a limited period of time. This information is automatically deleted after a set period. For editors who do not log in, the IP address used is publicly and permanently credited as the author of the edit. It may be possible for a third party to identify the author from this IP address in conjunction with other information available. Logging in with a registered username allows for better preservation of privacy.
 
-###  Cookies
+### Cookies
 
     The sites set a temporary session cookie on a visitor's computer whenever a guide page is visited. Readers who do not intend to log in or edit may deny this cookie; it will be deleted at the end of the browser's session. More cookies may be set when one logs in to maintain logged-in status. If one saves a user name or password in one's browser, that information will be saved for up to 30 days, and this information will be resent to the server on every visit to the site. Contributors using a public machine who do not wish to show their username to future users of the machine should clear these cookies after use.
 
-###  Page history
+### Page history
 
     Edits or other contributions to a guide on its articles, user pages and talk pages are generally retained forever. Removing text from a guide does not permanently delete it. Normally, in guides, anyone can look at a previous version of an article and see what was there. Even if an article is "deleted", a user entrusted with higher level of access may still see what was removed from public view. Information can be permanently deleted by individuals with access to StrategyWiki servers, but aside from the rare circumstance when StrategyWiki is required to delete editing-history material in response to a court order or equivalent legal process, there is no guarantee any permanent deletion will happen.
 
-###  User contribution
+### User contribution
 
     User contributions are also aggregated and publicly available. User contributions are aggregated according to their registration and login status. Data on user contributions, such as the times at which users edited and the number of edits they have made, are publicly available via user contributions lists, and in aggregated forms published by other users.
 
-####  Reading guides
+#### Reading guides
 
     
 
     No more information on users and other visitors reading pages is collected than is typically collected in server logs by web sites. Aside from the above raw log data collected for general purposes, page visits do not expose a visitor's identity publicly. Sampled raw log data may include the IP address of any user, but it is not reproduced publicly.
 
-####  Editing guides
+#### Editing guides
 
     
 
@@ -72,7 +72,7 @@ StrategyWiki limits the collection of personally identifiable user data to purpo
     Unlogged-in registered users and unregistered users:
     Editors who have not logged in may be identified by network IP address. Depending on one's connection, this IP address may be traceable to a large Internet service provider or more specifically to a school, place of business or home. It may be possible to use this information in combination with other information, including editing style and preferences, to identify an author completely.
 
-####  Discussions
+#### Discussions
 
     
 
@@ -84,7 +84,7 @@ StrategyWiki limits the collection of personally identifiable user data to purpo
     On IRC:
     IRC channels are not officially part of the StrategyWiki and are not operated on StrategyWiki controlled servers. The IP address of users who chat over such a service may be exposed to other participants. IRC users' privacy on each channel can only be protected according to the policies of the respective service and channel. Different channels have different policies on whether logs may be published.
 
-##  Access to and release of personally identifiable information
+## Access to and release of personally identifiable information
 
 Access:
 
@@ -119,6 +119,6 @@ If StrategyWiki receives a court-filed motion to quash or otherwise limit the su
 
 Registered users are not required to provide an email address. However, when an affected registered user does not provide an email address, StrategyWiki will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user.
 
-##  Disclaimer
+## Disclaimer
 
 StrategyWiki believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by StrategyWiki, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, StrategyWiki cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, StrategyWiki can make no guarantee against unauthorized access to information provided in the course of participating in StrategyWiki guides or related communities.
