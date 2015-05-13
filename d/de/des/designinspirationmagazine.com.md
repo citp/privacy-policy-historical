@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designinspirationmagazine.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927202748id_/http%3A//designinspirationmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designinspirationmagazine.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513041600id_/http%3A//designinspirationmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Design Inspiration
+# Privacy Policy - Design Inspiration Magazine
 
 Design Inspiration Magazine respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Design Inspiration Magazine.  
   
