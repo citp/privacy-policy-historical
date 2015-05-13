@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exclusivebooks.co.za privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518083623id_/http%3A//www.exclus1ves.co.za/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivebooks.co.za privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513052742id_/http%3A//www.exclus1ves.co.za/help/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Exclusives
 
   1. This privacy policy ("this Privacy Policy") must be read together with the Terms and Condition. Unless defined elsewhere, terms in this Privacy Policy shall bear the meaning ascribed to them in the Terms and Conditions.
   2. The Owner is committed to bringing You information tailored to Your individual needs and recognises the importance of protecting the privacy of personally identifiable information collected about our users. 
