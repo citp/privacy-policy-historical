@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilqueens.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020010738id_/http%3A//www.tamilqueens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilqueens.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513190918id_/http%3A//www.tamilqueens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tamil actress photos-pictures & images of Tamil actors-TamilQueens
 
