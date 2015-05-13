@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwindhoek.com.na privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916103057id_/http%3A//www.bankwindhoek.com.na/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwindhoek.com.na privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513234245id_/http%3A//www.bankwindhoek.com.na/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
