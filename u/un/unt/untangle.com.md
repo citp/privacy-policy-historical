@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untangle.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228170836id_/http%3A//www.untangle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untangle.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513103732id_/http%3A//www.untangle.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Untangle
 
@@ -13,10 +13,10 @@ Personal information on this Site is collected by Untangle, Inc.
 
 Untangle’s address is:
 
-100 W. San Fernando St., Suite 565  
+100 W. San Fernando St, Suite 565  
 San Jose, CA 95113
 
-and its telephone is: +1 (408) 598-4299
+and its telephone is: [+1 (408) 598-4299](tel:+14085984299)
 
 **What Personal Information We Collect**  
 Untangle may ask you to register and provide information when you place orders on the site for products or services, register products, request information, subscribe to marketing or support materials, download software or online documents, or apply for jobs at Untangle. The types of personal information we collect may include name, address, phone number, e-mail address, user IDs and passwords, contact preferences, educational and employment background, job interest data and the IP Internet address and the URL of the web site that sent you to the Untangle site.  Providing much of this information is voluntary, however please note that we do not allow you to opt out of information that is required for the functionality of our products and services.
@@ -39,11 +39,11 @@ The Untangle web site may provide links to third-party web sites for your conven
 You have the right to access and correct your personal information and privacy preferences at any time. You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Untangle) by contacting us at:
 
 Untangle, Inc.  
-100 W. San Fernando St., Suite 565  
+100 W. San Fernando St, Suite 565  
 San Jose, CA 95113  
 USA
 
-Telephone: +1 (408) 598-4299
+Telephone: [+1 (408) 598-4299](tel:+14085984299)
 
 Please include your name, address, and/or e-mail address when you contact us. In your correspondence, please indicate with as much detail as possible the location on this Site where you provided your personal information.
 
