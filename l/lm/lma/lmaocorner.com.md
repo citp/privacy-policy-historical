@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lmaocorner.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226011539id_/http%3A//www.lmaocorner.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmaocorner.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513192242id_/http%3A//lmaocorner.com/page/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Lmao Photo Corner
+# Top Funniest Videos Online | Lmao Corner - Privacy Policy
 
-PRIVACY POLICY   
+PRIVACY POLICY   
 At LmaoCorner.com, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order..
 
  **Cookies**
@@ -27,4 +27,4 @@ At Our Sites While we use cookies in other parts of our website, cookies receive
 This site contains links to other sites. LmaoCorner.com, Inc. is not responsible for the privacy practices or the content of such websites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we  
 have no control. Please contact us immediately by emailing us if there is a problem with any of our links.
 
-If you have any questions about this privacy statement, the practices of this site, or your concern about this website please contact us. 
+If you have any questions about this privacy statement, the practices of this site, or your concern about this website please contact us.
