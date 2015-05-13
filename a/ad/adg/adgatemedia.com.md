@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgatemedia.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818130738id_/http%3A//adgatemedia.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgatemedia.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513131920id_/https%3A//adgatemedia.com/pp.php) for the most accurate reproduction.*
 
 # AdGate Media - Privacy Policy
 
@@ -44,8 +44,8 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 
 support@adgatemedia.com
 
-469 West 7th Ave  
-Suite 353  
-New York, New York 10019 
+241 W 37th St  
+Suite 923  
+New York, New York 10018 
 
 This privacy policy was last updated on February 15, 2013.
