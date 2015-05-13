@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809233748id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513230215id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
 
 # MalekTips - Privacy Policy
 
