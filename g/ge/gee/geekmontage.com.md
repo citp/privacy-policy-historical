@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekmontage.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219033014id_/http%3A//geekmontage.com/sitemap/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekmontage.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513200841id_/http%3A//geekmontage.com/sitemap/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geek Montage
 
