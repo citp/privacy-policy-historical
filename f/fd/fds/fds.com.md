@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fds.com privacy policy that was archived on 2014-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140721023636id_/http%3A//fds.com/privacy-policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fds.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513173256id_/http%3A//fds.com/privacy-policy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Macy’s, Inc.
 
