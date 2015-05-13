@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefirstgroup.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211045727id_/http%3A//www.thefirstgroup.com/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefirstgroup.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513210532id_/http%3A//www.thefirstgroup.com/en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - The First Group
 
@@ -31,6 +31,11 @@ The First Group Web sites use "cookies" to help you personalise your online expe
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize The First Group pages, or register with The First Group or its family of sites or services, a cookie helps The First Group to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same The First Group Web site, the information you previously provided can be retrieved, so you can easily use The First Group features that you customised.
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of The First Group services or web sites you visit.
+
+(a) third parties may use cookies, web beacons, and similar technologies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads,
+
+  
+(b) Users can opt-out of the collection and use of information for ad targeting anytime by going to [www.aboutads.info/choices](http://www.aboutads.info/choices/) and exercise their choice.
 
 **Security of your Personal Information**
 
