@@ -1,244 +1,225 @@
-> *The following text is extracted and transformed from the lowesbuildandgrow.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829210556id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowesbuildandgrow.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513083629id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.*
 
-# Privacy and Security Statement
+# Privacy-and-Security-Statement
 
-**Effective Date: April 25, 2013**
+### Effective Date: February 19, 2015
 
-Lowe's respects your concerns about privacy. This Privacy Statement applies to personal information we collect on Lowes.com and other official Lowe's sites (including mobile sites) that link to this Privacy Statement, the Lowe's Career Website hosted on brassring.com, official Lowe's survey forms and sweepstakes entry forms on third-party sites and applications that link to this Privacy Statement, official Lowe's mobile applications that link to this Privacy Statement (the "Mobile Applications"), and from use of the in-store Wi-Fi network (the "Store Wi-Fi") (collectively, the "Site"). The credit-related areas of the Site are covered by different privacy notices that appear on the credit application pages or that you receive in connection with your credit accounts, as applicable; the term "Site" does not refer to these areas. The term "Site" also does not refer to the Weekly Ads pages at lowes.shoplocal.com, the Iris Smart Home website www.irissmarthome.com or the login page for that website on Lowes.com. In some cases, a website or online service covered by this Privacy Statement may provide additional detail about privacy practices specific to the website or online service.
+[Spanish Version](http://www.lowes.com/en_us/l/privacy-and-security-statement-spanish.html)
 
-This Privacy Statement describes the types of personal information we collect on the Site, how we may use that information and with whom we may share it. The Privacy Statement also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to update your preferences regarding how we communicate with you or answer any questions you may have about our privacy practices.
+Lowe's respects your privacy. This Privacy Statement describes how Lowe’s collects, uses, shares, and protects information from and about our customers, visitors, and job applicants, along with choices you can make about such information. It also contains other important privacy disclosures, such as how we may update the Statement and how you can contact us.
+
+* * *
+
+## Scope
+
+This Privacy Statement applies to the U.S. practices of Lowe’s Companies, Inc. and its U.S. operating subsidiaries and affiliates except as outlined below. It applies to most interactions with our customers, visitors, and job applicants, including:
+
+  * Use of our websites that point to this Statement;
+  * Use of our mobile applications;
+  * Phone, email and other electronic or written communications;
+  * Visits to our stores or other in-person events;
+  * Social media interactions;
+  * Surveys, contests and sweepstakes;
+  * Use of our in-store Wi-Fi; and
+  * Online Advertisements
+
+
+
+In some cases, we may provide additional details about privacy practices specific to a particular operation or location. For example, some of our websites may provide additional privacy details unique to that website, or some stores may post additional privacy details specific to that store or an event.
+
+This Privacy Statement _does not apply_ to:
+
+  * Certain U.S. subsidiaries, affiliates and product lines, which are subject to their own privacy statements and policies, including [Orchard Supply Company, LLC](http://www.osh.com/PrivacyPolicy), [Iris Smart Home](https://www.irissmarthome.com/myhome/terms), [ATGStores.com](http://www.atgstores.com/about/privacy.aspx) and [Alacrity Services](http://www.alacrityservices.com/privacy.aspx) or Lowe’s relationship with [Porch.com](http://porch.com/about/privacy/);
+  * Credit-related products (such as Lowe’s branded credit cards issued by banks), which are covered by the issuing banks’ privacy notices that appear on the credit applications or that you receive in connection with your credit accounts;
+  * Third-party websites that are linked to or accessible from Lowe’s websites or that are operated by unaffiliated parties, even though the website may contain references to Lowe’s. For example, it does not apply to the Lowe’s Weekly Ads pages at lowes.shoplocal.com, which is operated by ShopLocal LLC, and governed by ShopLocal’s [privacy notice](http://lowes.shoplocal.com/Lowes/Legal/SLTerms/?ispartial=y&amp;amp;amp;amp;amp;amp;amp;amp;amp;StoreID=2595833#privacy); and
+  * Lowe’s employment-related records (other than job applicant information submitted through the Career Portal).
+
+
+
+This Privacy Statement also _does not apply_ to the practices of our international subsidiaries and affiliates, including [Lowe’s Companies Canada ULC](http://www.lowes.ca/about/privacy.aspx) or [Lowe’s Companies Mexico S. de R.L. de C.V.](http://www.lowes.com.mx/terminos-condiciones) and their subsidiaries and affiliates.
 
 * * *
 
 ## Information We Collect
 
-You may choose to provide us with personal information (such as name, contact details and payment information), such as:
+We may collect information that identifies you or that is associated with you in a number of ways, including information you provide to us, information we automatically collect, and information we obtain from third parties.
 
-  * Contact information, such as your name, address, telephone number, and email address, and your title or occupation.
-  * Login and access credentials (such as username and password) for Lowe's accounts.
-  * Payment information, such as your payment card number and expiration date.
-  * Date of birth.
-  * The geolocation of your device (such as if you opt to use the "Find Near Me" feature of the mobile-optimized portion of our websites or our Mobile Applications).
-  * The unique ID number associated with certain Lowe's accounts.
-  * Certain information about your Lowe's purchases returns or exchanges.
-  * Personal information in communications and other content you submit, such as photographs, product information and details about your projects and property.
-  * Social media IDs, such as for Facebook or Twitter
-  * Personal information you submit in your capacity as an independent contractor of Lowe's, such as gender, ethnicity and identification numbers such as your NRDS ID number.
-  * Personal information you submit in connection with a job application on the Career Website, such as your name, contact information, Social Security Number, date of birth, employment status, employment history, education information, references, résumé, immigration status and ability to work legally in the United States, driver license information, personal or family employment affiliation with Lowe's, criminal record, and, on a voluntary basis for our Equal Employment Opportunity compliance purposes for jobs located in the US, gender, race and ethnic background.
+### Information You Provide
 
+You may choose to provide us with information. Examples include:
 
-
-**Information We Collect by Automated Means**
-
-When you use our Site, we may collect certain information by automated means, using technologies such as cookies, Web server logs, Web beacons and JavaScript. 
-
-Cookies are files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings on your device. Our Site may use HTTP cookies, HTML5 cookies, Flash cookies and other types of local storage (such as browser-based or plugin-based local storage). Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). Please note, however, that without cookies you may not be able to use all of the features of our Site or other websites and online services. 
-
-In conjunction with the gathering of information through cookies, our Web servers may log information such as your device type, operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Site and the IP address of the device you use to connect to the Internet. They also may log information about your interaction with this Site, such as which pages you visit. To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons," which are small files that link Web pages to particular Web servers and their cookies. We also may send instructions to your device using JavaScript or other computer languages to gather the sorts of information described above and other details your interactions with the Site.
-
-We may use third-party Web analytics services on our Site, such as those of Google Analytics. These service providers use the technology described above to help us analyze how users use the Site. The information collected by the technology (including your IP address) will be disclosed to these service providers, who use the information to evaluate your use of the Site. To learn about opting out of Google Analytics, please [click here](http://tools.google.com/dlpage/gaoptout).
-
-We may use the information collected through automated means to provide a better tailored shopping experience and for market research, data analytics and system administration purposes, such as to determine whether you've visited us before or are new to the Site, and for compliance with our legal obligations, policies and procedures. We also may use this information to target custom content and ads to you on this and other websites, including as described in the Interest-Based Advertising section below.
-
-**Information Collected Automatically by the Mobile Applications**
-
-If you elect to install the Mobile Applications, the information we collect may include the following:
-
-  * Your geographic location, including within a Lowe's store and the surrounding area.
-  * Information about your use of the Mobile Applications.
-  * The type of device you use and its operating system.
-  * Identification details of your device (e.g., unique device identifier).
-  * IP address.
-  * Your use of mobile coupons in a Lowe's transaction. 
+  * Contact and identification information, such as your name, address, telephone number, email address, driver’s license number, date of birth and social security number;
+  * Payment information, such as your payment card number and expiration date, or gift card information;
+  * Demographic information, such as your age, gender, income range and occupation;
+  * Login and access credentials, such as your username and password for Lowe's accounts, or social media IDs;
+  * Information about your Lowe's purchases, returns and exchanges, including warranty and rebate information;
+  * Information you include in your communications with us or in connection with a satisfaction survey;
+  * Content you submit, such as photographs, product reviews and details about your projects and property;
+  * Location information, when you choose to allow the use of your device’s location; and
+  * Information you submit in connection with a job application, including the types of information described above, plus other examples like employment status, employment history, education information, references, résumé, immigration status and ability to work legally in the United States, personal or family employment affiliation with Lowe's, criminal record, and, on a voluntary basis, for our Equal Employment Opportunity compliance purposes for jobs located in the U.S., gender, race and ethnic background.
 
 
 
-This information will allow push notifications and other targeted marketing designed specifically for your shopping preferences such as special offers based upon areas in which you may be shopping in the store, and shopping lists with specific items located for your convenience when you are shopping a particular store, as well as for other in-store mapping and routing services. It also may be used for the other purposes specified in this Privacy Statement.
+### Information We Collect by Automated Means Online
 
-**Information Collected Automatically by Store Wi-Fi**
+When you use our websites or applications (“online services”), we may collect certain information by automated means, using technologies such as cookies, Web server logs and Web beacons. This information may be used to provide a better-tailored shopping experience, and for market research, data analytics, and system administration purposes. For instance, we may use this information to determine whether you've visited us before or are new to our website, to store your preferences and settings, to provide sign-in authentication, and for compliance with our legal obligations, policies and procedures. We also may use this information to target custom content and ads to you on this and other websites, including as described in the Interest-Based Advertising section below.
 
-If you elect to use the free Store Wi-Fi available at Lowe's stores, we will collect information such as the following:
+Our online services may use HTTP cookies, HTML5 cookies, Flash cookies and other types of local storage (such as browser-based or plugin-based local storage). Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings. Your browser may provide the ability to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. These settings generally do not work for Flash cookies, but you may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). Please note, however, that if you disable cookies, you may not be able to use all of the features and functions of our online services.
 
-  * The URLs and content of the pages you visit on any website (e.g., on yahoo.com or Lowes.com) using your mobile device, and, on some websites, information you submit through online forms. 
-  * The apps on your mobile device that use the Store Wi-Fi.
-  * Your geographic locations within a Lowe's store and the surrounding area within the range of the Store Wi-Fi.
-  * How long you use the Store Wi-Fi at particular locations.
-  * The type of device you use and its operating system.
-  * Identification details of your device (e.g., unique device identifier and MAC address).
-  * Browser information and IP address.
-  * The address of the store where you use the Store Wi-Fi.
+Our online services generally use Web server logs to record information about your use of the services, such as your device type, operating system type, browser type, domain, system settings, and IP address, as well as the language your system uses and the country and time zone where your device is located. These logs also may record information such as the address of the Web page that referred you to our website, and other information about your interaction with our websites, such as which pages you visit. This is a common practice that supports the operation of our online services.
 
+Our Web pages, emails and electronic newsletters may contain tags known as “Web beacons” or “single-pixel gifs,” which are small electronic images used to help deliver cookies on our sites, count visitors to our webpages, determine whether emails are opened, and deliver co-branded services. We may also work with other companies by sharing information about the use of our beacons or to place Web beacons on their sites or in their advertisements to let us develop statistics on how often clicking on an advertisement or product on our sites results in a purchase or other action on other sites. Our Web pages may also contain Web beacons from third parties, which help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other website operations. These Web beacons may allow the third parties to set or read a cookie on your computer.
 
+We may also use third-party Web analytics services in our online services, such as those of Google Analytics. These service providers help us analyze how users use our online services. Information collected as a part of Google Analytics (including your IP address) is automatically sent to Google, and Google may place cookies to help with the analysis. To learn more about Google Analytics and download an opt-out browser add-on, please [click here](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-This information will allow targeted marketing designed specifically for your shopping preferences such as specific coupons based upon the sites and pages you visited, special offers based upon areas in which you may be shopping in the store, including competitive offers based upon other websites that you may be viewing, shopping lists with specific items located for your convenience when you are shopping a particular store, as well as for other in-store mapping and routing services. It also may be used for the other purposes specified in this Privacy Statement.
+If you choose to install our mobile applications, we may collect certain information about your precise location, including your location when you are within our stores. You can control and change the mobile applications’ use of your location through your device’s operating system controls.
 
-**Interest-Based Advertising**
+If you choose to connect your mobile device to the free in-store Wi-Fi available at Lowe's stores, we may collect information about your device, such as the type of device, its operating system, browser type, and applications that use the Wi-Fi connection. We may also collect information about how the Wi-Fi is used, including how long a device is connected and the nature of the use (for instance, whether the device is browsing the Internet or using an app). We may also collect aggregate URL data and may block access to certain URLs.
 
-Data about your activities online is being collected on our Site for use in providing advertising tailored to your individual interests. You may choose whether or not to have your information collected for that purpose. This section of the Privacy Statement provides details and explains how to exercise that choice.
+### Information We Collect by Automated Means Offline
 
-You may see certain ads on other websites because we participate in advertising networks administered by third parties. These networks track your online activities over time by collecting information through automated means, including through the use of the technologies described in the Information We Collect By Automated Means section above, and they use this information to show you advertisements that are tailored to your individual interests. The information they collect includes information about your visits to our Site, such as the pages you have viewed. This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network. This process also helps us track the effectiveness of our marketing efforts.
+When you call our customer service centers or other phone support lines, we may record audio of the conversations for quality control, training, security and analytics purposes. 
 
-To learn more about ad networks, including how to opt out, [click here](http://www.aboutads.info/choices/).
+We use video monitoring and recording at Lowe’s stores to enhance security, protect against theft and other crimes, and to monitor in-store traffic patterns, customer counts and interests, and perform similar analytics. In some stores, we may use facial recognition technologies to identify known shoplifters. Specifically, we may use specialized cameras to scan the faces of persons entering the facility and create a unique set of data points. These data points are compared – in real time – against data points of faces of shoplifters who have previously agreed in writing that they will no longer be allowed in our stores. The scan data is retained only if we identify a biometric match to our database of known shoplifters. Otherwise, the scan data is immediately deleted. We do not use facial recognition or other biometric identifiers for marketing purposes or to build profiles of shoppers.
 
-  
+### Information We Collect From Other Sources
+
+We may obtain certain information about you from other businesses, such as updated addresses or phone numbers we obtain from vendors who maintain such data. We may also obtain information about you from individuals, such as through “Refer a Friend” programs or if someone purchases a product and asks that it be delivered to you. We may also obtain information from public sources, such as information you submit in a public forum (for example, a customer review).
+
+We may also obtain information about you from Lowe’s affiliates.
+
+* * *
+
+## How We Use Information
+
+We may use the information we collect for a range of business purposes, including to:
+
+  * Provide and deliver products and services and fulfill your orders;
+  * Process, record and track your purchases, payments, returns, warranties, and rebates;
+  * Communicate with you through various channels;
+  * Evaluate and respond to your requests, inquiries, and applications;
+  * Create and manage your account registrations, such as your MyLowe's account;
+  * Conduct and administer contests, surveys, and sweepstakes;
+  * Customize your experiences in our stores and online, including customized advertisements and offers;
+  * Publish public product reviews as submitted by you and other customers;
+  * Provide you with in-store navigation and mapping services and help you find store locations near you;
+  * With respect to information we collect through our Careers website, evaluate your application for employment and contact you regarding possible employment;
+  * Operate, evaluate, and improve our business, products, and services (including developing new products and services; managing our communications; performing market research, and data analytics; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services, websites and applications; administering our websites and applications; and perform accounting, auditing, billing, reconciliation and collection activities);
+  * Protect against and prevent fraud and unauthorized transactions, investigate and manage claims, risk exposure, and quality, and generally improve and provide security; and
+  * Comply with and enforce applicable legal requirements, industry standards, and our policies and terms, such as our [Terms and Conditions of Use](http://www.lowes.com/cd_Terms+and+Conditions+of+Use_360300527_).
+
 
 
 * * *
 
-## How We Use the Information We Collect
+We do not sell, trade or otherwise transfer personally identifiable information to unaffiliated third parties (companies outside the Lowe’s family) without your consent, except as described below.
 
-We may use the information we collect through the Site to:
+### Service Providers and Business Partners
 
-  * Provide, administer and communicate with you about products, services, events and promotions (including by sending you newsletters, coupons and other marketing communications).
-  * Process, record and track your purchases, payments and rebates.
-  * Process, evaluate and respond to your requests, inquiries and applications.
-  * Manage our customer information databases.
-  * Operate registrations, including on MyLowe's and Lowes.com.
-  * Administer contests, sweepstakes and surveys.
-  * Create, administer and communicate with you about your accounts.
-  * Customize your experience with our Site.
-  * Provide you with in-store navigation and mapping services.
-  * Allow you to find locations near you.
-  * With respect to personal information we collect through our Career Website, evaluate your application for employment and contact you regarding possible employment. 
-  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research, data analytics and data appends; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services and Site; administering our Site; and performing accounting, auditing, billing, reconciliation and collection activities). 
-  * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality.
-  * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our [Terms and Conditions of Use](https://web.archive.org/cd_Terms+and+Conditions+of+Use_360300527_).
+We may disclose your personal information to companies that provide services to us (such as providers of hosting, support, delivery, printing, email, data enhancement, and repair services) or that help us market our products and services. These companies may need access to information about you in order to perform their functions. These companies are generally not authorized to use the information we disclose to them for any other purpose.
 
+In limited cases, we may disclose information about you to a third party who may also use the information for their own specific purpose. For instance, we may provide information on your behalf to a supplier in connection with warranty or product safety issues, or with a business partner who is jointly providing a product or service to you, or is running a jointly branded promotion with us. We may also share limited information with the banks that issue Lowe’s branded credit cards and accounts so that they may offer such accounts.
 
+### Legal, Enforcement, Security and Investigation
 
-We also may use the information in other ways for which we provide notice at the time of the collection.
+We may disclose information about you (1) if we believe we are required to do so by law, regulation or legal process, such as a court order or subpoena; (2) as we deem appropriate or necessary in response to requests by government agencies, such as law enforcement authorities or tax authorities; (3) when we believe disclosure is appropriate or necessary to protect the rights, property, or safety of Lowe’s, our customers, or others, including to prevent physical, financial or other harm, injury or loss, or to collect debt you owe; or (4) in connection with an investigation of suspected or actual unlawful activity.
 
-  
+### Sale or Transfer of Business or Assets
 
+We reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including, without limitation, in the event of a reorganization, dissolution, or liquidation).
+
+### Aggregate or De-Identified Data
+
+We may share or make public aggregate or de-identified data derived from personally identifiable information. Such information, however, will not identify you or any other individual.
 
 * * *
 
-## Sharing of Information
+## How We Protect Information
 
-We may share personal information we collect on the Site with certain service providers, some of whom may use the information for their own purposes. For example, (i) our websites may feature live chat functionality, and the information gathered in the chat feature may be collected by or shared with a provider such as LivePerson, whose privacy policies are available at [www.liveperson.com/policies/privacy](http://www.liveperson.com/policies/privacy), (ii) information you submit on our Site in connection with a product review may be collected by or shared with a product review company such as Bazaarvoice, whose privacy policy is at [www.bazaarvoice.com/privacy-policy](http://www.bazaarvoice.com/privacy-policy) and who may publish the information in locations not affiliated with Lowe's, such as the website of the manufacturer of the product you review, and (iii) information submitted on our Careers Website is collected by or shared with the Careers Website provider, Kenexa, whose Privacy Policy is at [www.kenexa.com/privacypolicy](http://www.kenexa.com/privacypolicy). We also may share your information among our affiliates, joint marketing partners and companies that fulfill orders placed with us, who may send you marketing information. In addition, we may share personal information we collect on the Site at your request.
+We maintain administrative, technical, and physical safeguards designed and intended to protect personal information against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure or use. Despite these safeguards, due to inherent uncertainty in the use of the Internet and information systems and the potential for unlawful attacks by third parties, we cannot guarantee that the use of our systems, websites or applications will be completely safe or secure.
 
-We may disclose information about you (i) if we are required to do so by law, regulation or legal process, such as a court order or subpoena; (ii) in response to requests by government agencies, such as law enforcement authorities; or (iii) when we believe disclosure is necessary or appropriate to prevent physical, financial or other harm, injury or loss; (iv) in connection with an investigation of suspected or actual unlawful activity; or (v) to assist in collecting debt owed by you.
-
-We reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including, without limitation, in the event of a reorganization, dissolution or liquidation). Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Statement.
-
-  
-
+Information we collect and use may be transferred, stored and accessed globally to support our operations. We retain information for as long as it is needed or useful to provide and improve our products and services, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 * * *
 
-## Your Choices
+## Your Information Choices
 
-Where applicable, you may amend your preferences regarding how we communicate with you by updating your profile within your Lowe's authenticated account, using the settings pages on certain websites or contacting us as described in the How to Contact Us section below.
+Where applicable, you may manage and amend your preferences regarding how we communicate with you as outlined in more detail below. We strive to comply with all reasonable requests, but there may be a short delay in the processing of such requests.
 
-To be removed from all of Lowe's official email, telephone and postal mail marketing, choose one of the following options: email [customercare@lowes.com](mailto:customercare@lowes.com) and type "REMOVE FROM ALL MARKETING" in the subject line; call 1-800-44-LOWES; or send your request by mail to:
+To be removed from all Lowe's email, telephone and postal mail marketing, you may choose one of the following options: (1) email [customercare@lowes.com](mailto:customercare@lowes.com) and type "REMOVE FROM ALL MARKETING" in the subject line; (2) call 1-800-44-LOWES; or (3) send your request by mail to: Lowe's Customer Care – CON8, P.O. Box 1111, North Wilkesboro, N.C. 28659. Please include your name, address, phone number and email address in the request, and if possible, let us know how you initially provided us with the information.
 
-Lowe's Customer Care – CON8  
-P.O. Box 1111  
-North Wilkesboro, NC 28659
+### Account Profile
 
-For any of these options, please include your name, address, phone number and email address in the request, and let us know how you provided us with the information.
+You may access the profile page of certain accounts that you maintain on our websites (such as MyLowe’s) to modify certain personal information associated with your profile and manage certain communications preferences.
 
-**Account Profile and Communications Preferences Generally**
+### Email
 
-You may access the profile page of certain accounts you maintain on our Site to modify certain personal information associated with your profile and indicate certain communications preferences.
+To stop receiving marketing emails, you may click on the "Unsubscribe" link in any marketing email you receive from us and update your preferences on the resulting Web page. You may also update your email subscription choices within certain Lowe's authenticated accounts (such as MyLowe’s), or by contacting us as described in the How to Contact Us section below.
 
-**Email**
+To stop receiving newsletters from Lowes.com, you also may email [customercare@lowes.com](mailto:customercare@lowes.com) with the phrase "REMOVE FROM NEWSLETTER LIST" in the subject line, and we will apply your preference to the email address from which you send us the request.
 
-Where applicable, you may amend your preferences regarding how we communicate with you through email by clicking on the "unsubscribe" link in an email you receive from us, by updating certain subscriptions within certain Lowe's authenticated accounts, within settings pages or by contacting us as described in the How to Contact Us section below. To stop receiving newsletters from Lowes.com, you also may email [customercare@lowes.com](mailto:customercare@lowes.com) with the phrase "REMOVE FROM NEWSLETTER LIST" in the subject line, and we will apply your preference to the email address from which you send us the request.
+Please note that we may continue to send transactional emails, which contain information about a prior purchase or an ongoing service, even if you opt-out of marketing emails or newsletters.
 
-**Interest-Based Advertising**
+### Interest-Based Advertising
 
-To exercise your preferences regarding the collection of data for targeted advertising, please follow the directions in the Interest-Based Advertising section above.
+To exercise your preferences regarding the collection and use of data for online, interest-based advertising, please follow the directions in the Interest-Based Advertising section below.
 
-**Store Wi-Fi**
+### In-Store Wi-Fi
 
-To stop the collection of information via Store Wi-Fi, disconnect from the Store Wi-Fi network. Please note that disconnecting from the Store Wi-Fi network will not prevent you from taking advantage of our Mobile Applications' collection of your location. To deactivate that collection of information, follow the instructions in the Mobile Applications section below.
+To stop the collection of information via in-store Wi-Fi, disconnect from the in-store Wi-Fi network.
 
-**Mobile Applications**
+### Mobile Applications
 
-To stop collection of information by the Mobile Applications, delete the applications from your device. To stop only the collection of information from the geolocation services available on your device (such as your device's GPS functionality), use your device's settings to deactivate the Mobile Applications' access to those services. Please note that deactivating this access will not prevent you from taking advantage of our Store Wi-Fi's collection of your location. To deactivate that collection of information, follow the instructions in the Store Wi-Fi section above.
-
-**Do Not Track**
-
-We do not process or respond to "Do Not Track" signals from your browser or other mechanisms that enable consumer choice regarding the collection of personal information about one's online activities over time and across third-party websites or online services.
-
-  
-
+To stop collection of information by our mobile applications, uninstall the applications from your device. To stop only the collection of precise location information in connection with your use of our mobile applications, use your device's settings to deactivate our mobile applications' access to the device’s location services.
 
 * * *
 
-## The Lowe's Privacy and Security Statement
+## Other Important Considerations
 
-To exercise a choice under a prior version of this statement, contact us as described in the How to Contact Us section below.
+### Do Not Track
 
-  
+We do not collect personally identifiable information about users’ online activities over time and across third-party websites and we do not process or respond to "Do Not Track" signals from your browser or other mechanisms that enable consumer choice regarding the collection of personal information about one's online activities over time and across third-party websites or online services.
 
+As described in the Interest-Based Advertising section below, however, we do participate in online advertising networks administered by third parties, and we may share information about activities on our websites with those networks, which may track your online activities over time and across third-party websites.
 
-* * *
+### Interest-Based Advertising
 
-## Notice to California Customers
+We collect data about your activities on our websites and applications for use in providing advertising tailored to your individual interests, and we may share information about activities on our websites with advertising networks administered by third parties. These ad networks track your online activities over time and across websites by collecting information through automated means, and they use this information to show you advertisements that are tailored to your individual interests. The information they collect includes information about your visits to our websites, such as the pages you have viewed. This collection and ad targeting takes place both on our websites and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network. As a result, you may see certain ads on other websites based on prior activity on our websites.
 
-Subject to certain limitations under California Civil Code § 1798.83, if you are a California resident, you may ask us to provide you with (i) a list of certain categories of personal information that we have disclosed to certain third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of certain third parties that received personal information from us for their direct marketing purposes during that calendar year. To make such a request, please contact us as follows:
+The Digital Advertising Alliance (DAA) has created guidance for online advertisers and provided a mechanism for such advertisers to comply with users’ choices regarding interest-based ads. To learn more about ad networks, including how to opt out of interest-based ads, [click here.](http://www.aboutads.info/choices/)
+
+Our online services may include social media features (for example, a Facebook “Like” button). These features are connected to third-parties and may allow such third parties to collect certain information, such as your IP address and which pages you visit on our websites. These social media features are not operated by Lowe’s. Your interactions with these features are governed by the privacy policies of the company providing the features.
+
+### Links to Other Websites
+
+Our websites may link to other websites for your convenience and information. For instance, they may link to websites of product suppliers, manufacturers and service providers. These websites may be operated by companies not affiliated with us. Linked websites, including those operated by Lowe's, may have their own privacy notices, which we strongly suggest you review if you visit them. We are not responsible for the content or privacy practices of any website that we do not control and that does not point to this Privacy Statement. Your interactions with these websites are governed by the privacy policies of the company operating the websites.
+
+### Children
+
+We do not knowingly collect personally identifiable information from children under the age of 13. If a child under the age of 13 has provided us with personally identifiable information, we ask that a parent or guardian contact us so that the information can be deleted.
+
+### Notice to California Customers
+
+Subject to certain limitations under California Civil Code § 1798.83, if you are a California resident and have an established business relationship with us, you may ask us to provide you with (i) a list of certain categories of personal information that we have disclosed to certain third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of certain third parties that received personal information from us for their direct marketing purposes during that calendar year. To make such a request, please contact us as follows:
 
 Lowe's Customer Care   
 Attn: Privacy Team – California Marketing Choices – CON8   
 P.O. Box 1111   
-North Wilkesboro, NC 28656
-
+North Wilkesboro, N.C. 28659   
 1-800-445-6937
 
-  
+### Updates
 
+This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our information practices or relevant laws. We will post a notice on Lowes.com and other websites that point to this Privacy Statement to notify you of any substantive changes to the way we collect and use information. We will indicate at the top of the Privacy Statement when it was last updated.
 
-* * *
+### How to Contact Us
 
-## How We Protect Personal Information
+If you have questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us as indicated below.
 
-We maintain administrative, technical and physical safeguards to protect the personal information you provide on our Site against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. 
-
-  
-
-
-* * *
-
-## Links to Other Websites
-
-This Site contains links to other websites for your convenience and information. These websites may be operated by companies not affiliated with us. Linked websites, including those operated by Lowe's, may have their own privacy notices, which we strongly suggest you review if you visit them. We are not responsible for the content of any websites that we do not control, any use of those websites or the privacy practices of those websites.
-
-  
-
-
-* * *
-
-## Updates to Our Privacy Statement
-
-This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our personal information practices or relevant laws. We will post a notice on Lowes.com and certain other parts of the Site to notify you of any significant changes to our Privacy Statement and indicate at the top of the Privacy Statement when it was updated.
-
-  
-
-
-* * *
-
-## BBB Online
-
-We participate in the Council of Better Business Bureau's BBBOnLine program. Further information about this program and its dispute resolution process is available at the [Better Business Bureau's website](http://www.bbb.org/online/).
-
-  
-
-
-* * *
-
-## How to Contact Us
-
-If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us as indicated below. When you contact us about personal information we hold about you, please let us know where you provided us with the information.
-
-Lowe's Customer Care  
+Lowe's Customer Care   
 Attn: Privacy Team – CON8   
 P.O. Box 1111   
-North Wilkesboro, NC 28656   
+North Wilkesboro, N.C. 28659   
 1-800-445-6937
 
 [customercare@lowes.com](mailto:customercare@lowes.com)
-
-  
-
