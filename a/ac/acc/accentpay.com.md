@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accentpay.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109092017id_/http%3A//accentpay.com/en/terms_en/privacy-statement-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accentpay.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513230316id_/http%3A//accentpay.com/en/terms_en/privacy-statement-3) for the most accurate reproduction.*
 
 # Global Payment Provider I Customised Payment Gateway I ECommPay
 
