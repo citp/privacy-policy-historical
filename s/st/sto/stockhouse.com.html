@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2014-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108195227id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2015-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150513034035id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9L7TF"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"88d46cb767","applicationID":"2269267","transactionName":"MV0DMUIFChAAVhFRDAgXIDZgSwcOEkUEXwYVFxEKQhAFDxVQCEgPB0wES1EXFBs=","queueTime":0,"applicationTime":74,"ttGuid":"D6779E9A584FEC23","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMAWFFSGwECUlhQAQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N9L7TF"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"88d46cb767","applicationID":"2269267","transactionName":"MV0DMUIFChAAVhFRDAgXIDZgSwcOEkUEXwYVFxEKQhAFDxVQCEgPB0wES1EXFBs=","queueTime":0,"applicationTime":43,"ttGuid":"3E3CED21DF57DFF6","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMAWFFSGwECUlhQAQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <title>
 	Stockhouse-Privacy Policy
 </title><meta charset="UTF-8"> 
@@ -19,21 +19,22 @@
 <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
 <link rel="shortcut icon" href="/media/ui/icons/favicon.ico">
 <style>
-	body .membership{ margin-top:0px !important;}
+	/* body .membership, body .hwrap{ margin-top:0px !important;} */
+    body .membership{ margin-top:0px !important;}  
+    body .hwrap{ margin-top:32px !important;} 
 </style>
 <script src="//load.sumome.com/" data-sumo-site-id="69a2cf6f9d9fee777e38a3aadcc813367c214e96c7fbbe83ae5f0be2bf420f14" async=""></script> 
 <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
 <link href="/favicon.ico" type="image/x-icon" rel="icon"> 
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" type="text/css">
-<link rel="stylesheet" href="//ajax.aspnetcdn.com/ajax/bootstrap/3.2.0/css/bootstrap.min.css" type="text/css">
-<link rel="stylesheet" href="//ajax.aspnetcdn.com/ajax/bootstrap/3.2.0/css/bootstrap.css.map" type="text/css">
-<link rel="stylesheet" href="/stockhouse/assets/css/sh-theme.min.css?v=1.0.0.24642" type="text/css">
+<link href="/stockhouse/assets/css/bootstrap.min.css" rel="stylesheet">
+<link href="/stockhouse/css/lightbox.css" rel="stylesheet">
+<link rel="stylesheet" href="/stockhouse/assets/css/sh-theme.min.css?v=1.0.0.28320" type="text/css">
 <link rel="stylesheet" href="/stockhouse/assets/css/sh-theme.css.map" type="text/css">
 
 
 <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <script src="/Stockhouse/js/lib/html5shiv.js"></script>
+    <script src="/Stockhouse/js/lib/respond.min.js"></script>
 <![endif]--><script type="text/javascript">
 //<![CDATA[
 var _sf_startpt = (new Date()).getTime();
@@ -74,34 +75,8 @@ scpt.parentNode.insertBefore(elem, scpt);
     <form method="post" action="/legal/privacy-policy" id="form">
 <div class="aspNetHidden">
 <input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA3NzY5NTY4MmQYAQUucCRsdCR6b25lTWVtYmVyc2hpcCRNZW1iZXJCYXJMaWdodCRtdkxvZ2luVmlldw8PZGZk">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA3NzY5NTY4MmQYAQUucCRsdCR6b25lTWVtYmVyc2hpcCRNZW1iZXJCYXJMaWdodCRtdkxvZ2luVmlldw8PZGZkMORzLYE8vOCOpqocsmJy6yntzTU=">
 </div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form'];
-if (!theForm) {
-    theForm = document.form;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="http://ajax.aspnetcdn.com/ajax/4.5/6/WebForms.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=eM-5zo3Z31sPnS1MpqPM6pUh2Uuw1FRRvzake36uWJ0awS3RjjMfCNKVoLM2zO4CQIfJN3QXkHMqv49fFMirfDx6MOs1&amp;t=635086466580000000"><\/script>');//]]>
-</script><script type="text/javascript" src="/WebResource.axd?d=eM-5zo3Z31sPnS1MpqPM6pUh2Uuw1FRRvzake36uWJ0awS3RjjMfCNKVoLM2zO4CQIfJN3QXkHMqv49fFMirfDx6MOs1&amp;t=635086466580000000"></script>
-
 
 <input type="hidden" name="lng" id="lng" value="en-US">
 <script type="text/javascript">
@@ -181,30 +156,18 @@ ctrlPressed = false;
 */
 //]]>
 </script>
-<script src="/ScriptResource.axd?d=WWgk9I_oO7L6X9mtE59rRYHs0c7AxJzT93l8KkoWp2fwfRqlHpq-tr8VeE4scY9lJwuY6InrwjfA1MnEWjng9oj0kGZZkCp71FERMt7e4SdRf_BV0&amp;t=3a1336b1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=QybAMhHGFCe0XQogKthNw7Lym6Dj77_FaQ-7P4s45R5kMrTnuba1xjDVI3_VVFdMxwU_WkHtOVTz3yFZNU5ea6DNLNMk-INbz2PYvZpiQ62JprG20&amp;t=3a1336b1" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
-(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=WWgk9I_oO7L6X9mtE59rRYHs0c7AxJzT93l8KkoWp2fwfRqlHpq-tr8VeE4scY9lJwuY6InrwjfA1MnEWjng9oj0kGZZkCp71FERMt7e4SdRf_BV0&t=3a1336b1"><\/script>');//]]>
-</script><script type="text/javascript" src="/ScriptResource.axd?d=WWgk9I_oO7L6X9mtE59rRYHs0c7AxJzT93l8KkoWp2fwfRqlHpq-tr8VeE4scY9lJwuY6InrwjfA1MnEWjng9oj0kGZZkCp71FERMt7e4SdRf_BV0&amp;t=3a1336b1"></script>
-
-<script src="/ScriptResource.axd?d=YrML1YH6ci-9MQ-Hi0Ywv1BBWX3s7cdtVWh3b_RNWwzxVfG-VcPaQxXYvGh4hjIhWVma2Ije0TGNLBd0R1W8dFIiTw6rMCkXGIgAJ-lbGaBs8t2GjCLQEQYM1E8_Gj_Igr5uNg2&amp;t=3a1336b1" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=YrML1YH6ci-9MQ-Hi0Ywv1BBWX3s7cdtVWh3b_RNWwzxVfG-VcPaQxXYvGh4hjIhWVma2Ije0TGNLBd0R1W8dFIiTw6rMCkXGIgAJ-lbGaBs8t2GjCLQEQYM1E8_Gj_Igr5uNg2&t=3a1336b1"><\/script>');//]]>
-</script><script type="text/javascript" src="/ScriptResource.axd?d=YrML1YH6ci-9MQ-Hi0Ywv1BBWX3s7cdtVWh3b_RNWwzxVfG-VcPaQxXYvGh4hjIhWVma2Ije0TGNLBd0R1W8dFIiTw6rMCkXGIgAJ-lbGaBs8t2GjCLQEQYM1E8_Gj_Igr5uNg2&amp;t=3a1336b1"></script>
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=QybAMhHGFCe0XQogKthNw7Lym6Dj77_FaQ-7P4s45R5kMrTnuba1xjDVI3_VVFdMxwU_WkHtOVTz3yFZNU5ea6DNLNMk-INbz2PYvZpiQ62JprG20&t=3a1336b1"><\/script>');//]]>
+</script><script type="text/javascript" src="/ScriptResource.axd?d=QybAMhHGFCe0XQogKthNw7Lym6Dj77_FaQ-7P4s45R5kMrTnuba1xjDVI3_VVFdMxwU_WkHtOVTz3yFZNU5ea6DNLNMk-INbz2PYvZpiQ62JprG20&amp;t=3a1336b1"></script>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
-	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185">
 </div>
-        <input type="hidden" name="shusercookie" id="shusercookie" value="F07C8190-2A1B-4175-96A2-80ED3718FBD6[new]">
-        <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','tdm$pM$pMP',''], [], [], 90, '');
-//]]>
-</script>
-<div id="CMSHeaderDiv">
+        <input type="hidden" name="shusercookie" id="shusercookie" value="d269196c-200c-424c-95e1-2c7c7eb49d15[new]">
+        <div id="CMSHeaderDiv">
 	<!-- -->
 </div><div id="dm_pM_pMP">
 
@@ -218,14 +181,11 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 <div class="mwrap">
-  <div id="notifications" data-userid="65" data-numrows="3">
-	
-    <div id="gritter-notice-wrapper">
-    </div>
-
-</div>
   
-<span id="p_lt_zoneMembership_chartbeat_lblErr"></span><div class="membership clearfix">
+  
+<span id="p_lt_zoneMembership_chartbeat_lblErr"></span>
+
+<div class="membership clearfix">
 
     <ul class="left">
         <li class="first"><a class="dropdown-trigger" style="margin-left: 0">Quick Links</a>
@@ -248,7 +208,8 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
         <ul class="right">
           <li class="first">
               <a class="registration-required">Join the Community</a> | 
-              <a class="login-required">Sign In</a></li></ul>
+              <a class="login-required">Sign In</a></li></ul></div>
+    <div id="login-container">
         
     <div id="user-membership-login" class="membership-container">
         <div class="container-fluid bootstrap clearfix">
@@ -256,7 +217,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
                 
                 <a class="membership-close-btn" title="close"><span aria-hidden="true">×</span><span class="sr-only">Close</span></a>
 
-                <div id="user-membership-login-form" class="validationGroup" data-bind="enterkey: doLogin"><input type="hidden" id="userLoginToken" value="d75816ea67c843e986ee4706a755c197">
+                <div id="user-membership-login-form" class="validationGroup" data-bind="enterkey: doLogin"><input type="hidden" id="userLoginToken" value="c76a3308f94f4e7a818faf098417c942">
 
                     <div class="row">
                         <p class="m-title">Welcome back to Stockhouse <br>Member Sign In</p></div>                   
@@ -268,9 +229,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
                                 <span class="glyphicon glyphicon-user"></span>
                             </span>
                             <input type="text" id="login-user-name" class="form-control" data-rule-required="true" data-msg-required="Email or username is required." data-bind="value: userName" placeholder="Email or Username">
-                        </div>
-                        <span class="control-label" data-bind="validationMessage: userName"></span>
-                    </div>
+                        </div></div>
 
                     <div class="form-group row">
                         <span class="ie-label">Password:</span>
@@ -279,11 +238,9 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
                                 <span class="glyphicon glyphicon-lock"></span>
                             </span>
                             <input type="password" id="login-user-password" class="form-control" data-rule-required="true" data-msg-required="Password is required." data-bind="value: userPassword" placeholder="Password">
-                        </div>
-                        <span class="control-label" data-bind="validationMessage: userPassword"></span>
-                    </div>
+                        </div></div>
 
-                    <div class="row password-hint-container"><input type="hidden" id="passwordHintToken" value="59a9cf98f1c3451594dcca67b2d63ca2">
+                    <div class="row password-hint-container"><input type="hidden" id="passwordHintToken" value="e1f16be54f9b4a68be0e75481bff8a01">
                         <span id="user-password-hint" class="text-muted"></span>      
                     </div>
 
@@ -300,6 +257,12 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
                             </label></div>
                         <div class="pull-right">
                             <a href="javascript:void(0)" class="forgot-password" data-bind="click: showForgotPassword">I don't know my password</a></div></div>
+                    
+                    <div class="form-group row social-buttons">
+                        <p class="social-sep"><span>or</span></p>
+                        <p><strong>Sign in with one of the following accounts.</strong></p>
+                        <div id="interfacecontainerdiv" class="interfacecontainerdiv"></div>
+                    </div>
 
                     <div class="row clearfix text-left" data-bind="css: errorMsgCssClass">
                         <div class="col-sm-offset-1 col-xs-10">
@@ -310,7 +273,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
                 <div id="user-membership-resetpassword" class="validationGroup" style="display:none" data-bind="enterkey: doReset">
 
                     <div class="row">
-                        <p class="m-title">Send my password</p><input type="hidden" id="passwordResetToken" value="f2422f6026154351ada5e1a89ec19cf9"></div>
+                        <p class="m-title">Send my password</p><input type="hidden" id="passwordResetToken" value="68a5187272d546b3b83b9ed01d3116e1"></div>
 
                     <div id="reset-password-form">
                         <div class="form-group row">
@@ -320,9 +283,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
                                     <span class="glyphicon glyphicon-lock"></span>
                                 </span>
                                 <input type="text" class="form-control" id="membership-password-reset-userName" data-rule-required="true" data-msg-required="Email or Username is required." data-bind="value: userName" placeholder="Enter Email or Username">
-                            </div>
-                            <span class="control-label" data-bind="validationMessage: userName"></span>
-                        </div>
+                            </div></div>
 
                         <div class="form-group row">
                             <button type="button" id="btnResetPassword" class="btn btn-primary btn-block orangeButton" data-bind="click: doReset, enable: submitEnabled">Submit</button></div>
@@ -349,7 +310,13 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 
                     <div class="row">
                         <p class="m-title">Become a member today, It's free!</p>
-                        <p>We will not release or resell your information to third parties without your permission.</p><input type="hidden" id="userRegToken" value="3451a4aa275c4c9aa7747ab902ad10ff"></div>
+                        <p>We will not release or resell your information to third parties without your permission.</p><input type="hidden" id="userRegToken" value="106471bbe7cd4400bc3899a51fc7dc9e"></div>
+                    
+                    <div class="form-group row social-buttons">
+                        <p><strong>Use one of the following accounts.</strong></p>
+                        <div id="interfacecontainerdiv" class="interfacecontainerdiv"></div>
+                        
+                        <p class="social-sep"><span>or</span></p></div>
 
                     <div class="form-group row">
                         <span class="ie-label">Enter your email address:</span>
@@ -358,9 +325,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
                                 <span class="glyphicon glyphicon-user"></span>
                             </span>
                             <input type="text" class="form-control" id="membership-register-userEmail" data-rule-required="true" data-msg-required="Email is required." data-rule-email="true" data-msg-rule-email="Invalid email." data-bind="value: userEmail" placeholder="Enter your email address">
-                        </div>
-                        <span class="control-label" data-bind="validationMessage: userEmail"></span>
-                    </div>
+                        </div></div>
 
                     <div class="form-group row">
                         <button type="button" id="btnRegisterEmail" class="btn btn-primary btn-block orangeButton" data-bind="click: submitEmail, enable: submitEnabled">Submit</button></div>
@@ -378,7 +343,177 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
                     <div class="form-group row pull-right">
                         <span class="control-label">
                             <a href="/legal/disclaimer">Disclaimer</a> and <a href="/legal/privacy-policy">Privacy Policy</a></span></div></div></div></div></div></div>
-<span id="p_lt_zoneMembership_StockhouseControls_lblErr"></span><span id="shuc" data-guid=""></span>
+<span id="p_lt_zoneMembership_StockhouseControls_lblErr"></span><span id="shuc" data-guid="d269196c-200c-424c-95e1-2c7c7eb49d15"></span>
+        <div class="rightTrueSidebar">
+    
+        
+    <div class="spacing">
+            <span class="close-fly-in">×</span>
+    <input id="flyinsidebarsubscriptions-feature-tokens" type="hidden" data-regtoken="8c9c2570465c469f9d08b254438a1bed" data-logintoken="b96dfe49788b438a8da7d4aca71039ff" data-passhinttoken="5797d11c645f45238a8ae4803f7cd760" data-passresettoken="c3f65e6594d4468e904e4e554e2db32b">
+<div id="flyin-subscribe-to-list-feature-container">
+    <div class="mailing-list">
+            <h4 class="p-bottom10">Get our best content in your email.</h4>
+        
+                <div class="clearfix row">
+                    <div class="col-sm-12 col-xs-12 feature-disabled">
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" class="subscription-checkbox" data-featureref="2_21837" data-featurename="Best of Stockhouse">
+                                <span title="Get our top news and opinion in your inbox every week">Best of Stockhouse</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="clearfix row">
+                    <div class="col-sm-12 col-xs-12 feature-disabled">
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" class="subscription-checkbox" data-featureref="2_12621" data-featurename="Stockhouse @ The Bell">
+                                <span title="Receive a daily market wrap-up on small to mid-cap company news and includes other market highlights.">Stockhouse @ The Bell</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="clearfix row">
+                    <div class="col-sm-12 col-xs-12 feature-disabled">
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" class="subscription-checkbox" data-featureref="2_12622" data-featurename="Stockhouse Alert">
+                                <span title="Receive information about investment opportunities, breaking financial news, company profiles, analysis and more.">Stockhouse Alert</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="clearfix row">
+                    <div class="col-sm-12 col-xs-12 feature-disabled">
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" class="subscription-checkbox" data-featureref="2_12623" data-featurename="Stockhouse News Blast">
+                                <span title="Receive the latest press releases on featured small to mid-cap companies.">Stockhouse News Blast</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="clearfix row">
+                    <div class="col-sm-12 col-xs-12 feature-disabled">
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" class="subscription-checkbox" data-featureref="2_12620" data-featurename="Stockhouse Short Report">
+                                <span title="Receive weekly Short Report showing you some of the market's biggest scams and overvalued stocks as well as Q&amp;A with some of the industry's biggest movers and shakers.">Stockhouse Short Report</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="clearfix row">
+                    <div class="col-sm-12 col-xs-12 feature-disabled">
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" class="subscription-checkbox" data-featureref="2_21835" data-featurename="Private Equity">
+                                <span title="Access exclusive Private Equity deals and information.">Private Equity</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div></div>
+    
+    <div id="flyinsidebarsubscriptions" class="clearfix validationGroup">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="form-group feat-pass-email">
+                    <div class="input-group">
+                        <div class="input-group-addon">
+                            <span class="glyphicon glyphicon-envelope"></span>
+                        </div>
+                        <input type="email" class="form-control input-sm" name="email" data-rule-required="true" data-rule-email="true" data-msg-required="Email is required" data-msg-email="Invalid email" placeholder="Enter your email address">
+                    </div>
+                    <span class="pass-required-msg control-label collapse">You are already a member! Please enter your password to sign in.</span>
+                </div>
+
+                <div class="form-group feat-pass-email-confirm collapse">
+                    <div class="input-group">
+                        <div class="input-group-addon">
+                            <span class="glyphicon glyphicon-envelope"></span>
+                        </div>
+                        <input type="email" class="form-control input-sm ignore" name="email2" data-rule-required="true" data-msg-required="Please confirm your email address" placeholder="Please confirm your email address">
+                    </div>
+                </div>
+
+                <div class="form-group feat-pass-remind collapse">
+                    <div class="input-group">
+                        <div class="input-group-addon">
+                            <span class="glyphicon glyphicon-user"></span>
+                        </div>
+                        <input type="text" class="form-control input-sm" name="username" placeholder="Email or username">
+                    </div>
+                </div>
+
+                <div class="form-group feat-signup-pass collapse">
+                    <div class="feat-pass-hint"></div>
+                    <div class="input-group">
+                        <div class="input-group-addon">
+                            <span class="glyphicon glyphicon-lock"></span>
+                        </div>
+                        <input type="password" class="form-control input-sm" name="password" placeholder="Password">
+                    </div>
+                </div>
+
+                <div class="form-group feat-signup-remember collapse">
+                    <div class="input-group" style="width:100%">    
+                        <div class="checkbox">
+                            <label>
+                                <input id="flyinsidebarsubscriptions-remember-me" type="checkbox" value="remember-me" class="ignore"> Remember me
+                            </label>
+                            
+                            <a href="javascript:void(0)" id="flyinsidebarsubscriptions-forgot-link" class="pull-right">Forgot password?</a>
+                        </div>
+                       
+                    </div>
+                </div>
+                
+                <div class="form-group feat-back-container collapse">
+                    <div>
+                        <div class="pull-right">
+                            <p><a href="javascript:void(0)" id="flyinsidebarsubscriptions-user-back-link">Go Back...</a></p>
+                        </div>
+                    </div>
+                </div>            
+        
+            </div>
+        </div>
+
+        
+        <div class="row p-bottom10 clearfix resp-buttons">
+            <div class="col-xs-6 lft">
+                <button type="button" id="flyinsidebarsubscriptions-subscribe" class="btn btn-sm btn-primary btn-block orangeButton causesValidation" value="Submit">
+                    Submit
+                </button>               
+            </div>
+            <div class="col-xs-6 rght">
+                <button type="button" class="btn btn-sm btn-block orangeButton close-btn" value="close">
+                    Close
+                </button>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 feature-msg-container">
+                <span class="feat-msg control-label"></span>
+            </div>            
+        </div>
+        <div class="row consent-msg">
+            <div class="col-sm-12">
+                By providing my email address, I consent to receiving messages from Stockhouse.
+            </div>
+        </div>
+    </div>
+
+</div></div>
+<span id="p_lt_zoneMembership_sidebar_lblErr"></span>
 </div>
 
 <div class="hwrap">
@@ -386,10 +521,10 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
         <div class="column span-6 banner">
             <div class="top-ad"><div id="p_lt_zoneBannerAds_IFrameAd_panelAd" class="ad-container" style="height:90px;">
 	
-    <iframe id="p_lt_zoneBannerAds_IFrameAd_dynamicIFrame" scrolling="no" width="728px" class="ad-iframe" height="90px" style="overflow:hidden;z-index:1;display:none" data-src="/cmspages/iframes/ads.aspx?cb=06f659f540c24f199d1217be413455fb&amp;apl=Top,Middle,Right,Right1&amp;cap=Top&amp;cpp=%2flegal%2fprivacy-policy" data-crossscript="False" data-height="90" data-allow-resize="False"></iframe>
-   
+    <iframe id="p_lt_zoneBannerAds_IFrameAd_dynamicIFrame" scrolling="no" width="728px" class="ad-iframe" height="90px" style="overflow:hidden;z-index:1;display:none" data-src="/cmspages/iframes/ads.aspx?cb=2bf0090218534eb39d669a83becb2f1f&amp;apl=Top,Middle,Right,Right1&amp;cap=Top&amp;cpp=%2flegal%2fprivacy-policy" data-crossscript="False" data-height="90" data-allow-resize="False"></iframe>
 
-</div></div>        
+</div>
+</div>        
             <a href="/" title="Return to the homepage" class="mainlogo">
               <img src="/Stockhouse/images/stockhouse-logo.png" alt="Stockhouse.com Logo">
             </a>
@@ -422,6 +557,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 			<li class="right-column" style=""><a href="/markets/market-movers" style="">Market Movers</a></li>
 			<li class="right-column" style=""><a href="/markets/currencies" style="">Currencies</a></li>
 			<li class="right-column" style=""><a href="/markets/bonds" style="">Bonds</a></li>
+			<li class="right-column" style=""><a href="/markets/etfs" style="">ETFs</a></li>
 			<li class="right-column" style=""><a href="/markets/funds" style="">Funds</a></li>
 			<li class="right-column" style=""><a href="/portfolio/stock-screener" style="">Stock Screener</a></li>
 		</ul>
@@ -429,8 +565,8 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 		<li style=""><a href="/news" style="">News</a>
 		<ul>
 			<li style=""><a href="/news/newswire" style="">Featured News</a></li>
-			<li style=""><a href="/news/bulletins" style="">Breaking News</a></li>
 			<li style=""><a href="/news/natural-resources" style="">Natural Resources</a></li>
+			<li style=""><a href="/news/bulletins" style="">Breaking News</a></li>
 			<li><a href="/news/micro-cap-report">Micro Cap Report</a></li>
 			<li><a href="/news/canadian-press-releases">Canadian Press Releases</a></li>
 			<li><a href="/news/us-press-releases">US Press Releases</a></li>
@@ -438,6 +574,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 		</li>
 		<li style=""><a href="/opinion" style="">Opinion</a>
 		<ul>
+			<li><a href="/opinion/private-equity">Private Equity</a></li>
 			<li><a href="/opinion/short-report">Short Report</a></li>
 			<li><a href="/opinion/ticker-trax">Ticker Trax</a></li>
 			<li><a href="/opinion/interviews">Interviews</a></li>
@@ -455,6 +592,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 		</ul>
 		</li>
 		<li class="video" style=""><a href="http://www.stockhouse.tv/" style="">Video</a></li>
+		<li class="right-column" style=""><a href="/markets-etfs" style="">ETFs</a></li>
 	</ul>
 
 
@@ -481,9 +619,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','td
 
 <div class="column span-4">
     <h1 class="p-top20">Privacy Policy</h1>
-<hr class="thin">
-<div class="editable">
-  <div class="generic-content"><style type="&quot;text/css&quot;">
+<hr class="thin"><div class="generic-content"><style type="&quot;text/css&quot;">
 div.column.span-2.last {
 display: none;
 }
@@ -742,24 +878,17 @@ Last Updated: May 2014
 
 
 </div>
-</div><div class="webpart-container ">
-    
-
-
-
-     
-</div>
 </div>
 <div class="column span-2 last">
     <div class="webpart-container ">
     <div id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd_panelAd" class="ad-container" style="height:250px;">
 	
-    <iframe id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd_dynamicIFrame" scrolling="no" width="300px" class="ad-iframe" height="250px" style="overflow:hidden;z-index:1;display:none" data-src="/cmspages/iframes/ads.aspx?cb=c50a2a8c575d40fabb95426b58399557&amp;apl=Top,Middle,Right,Right1&amp;cap=Right&amp;cpp=%2flegal%2fprivacy-policy" data-crossscript="False" data-height="250" data-allow-resize="False"></iframe>
-   
+    <iframe id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd_dynamicIFrame" scrolling="no" width="300px" class="ad-iframe" height="250px" style="overflow:hidden;z-index:1;display:none" data-src="/cmspages/iframes/ads.aspx?cb=4999bc8db9f845a09a4dc58ec80e1061&amp;apl=Top,Middle,Right,Right1&amp;cap=Right&amp;cpp=%2flegal%2fprivacy-policy" data-crossscript="False" data-height="250" data-allow-resize="False"></iframe>
 
-</div>     
+</div>
+     
 </div><div class="side-box">
-<h4>Featured News Links</h4><a class="newslinks" href="http://bit.ly/1u3vc19" target="_blank" title="http://bit.ly/1u3vc19">EnerDynamic (V.EHT) Enters Into JV Agreement with Leading West African Electrical Company</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1wzN0Cf" target="_blank" title="http://bit.ly/1wzN0Cf">TEST RESULTS ARE IN : GLK Confirms High Purity Graphite at Lochaber</a><hr class="thin"><a class="newslinks" href="http://bit.ly/13I6ycP" target="_blank" title="http://bit.ly/13I6ycP">Wildflower Takes it to The Next Level! Second License Application Completed with Health Canada</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1vEejXF" target="_blank" title="http://bit.ly/1vEejXF">IC Potash’s (T.ICP) Investment Opportunity!  </a><hr class="thin"><a class="newslinks" href="http://bit.ly/1x43XWQ" target="_blank" title="http://bit.ly/1x43XWQ">Mega Precious Metals’ (V.MGP) President &amp; CEO Presents the Monument Bay Project at the European Precious Metals Summit. </a><hr class="thin"><a class="newslinks" href="http://bit.ly/1x3ZYcW" target="_blank" title="http://bit.ly/1x3ZYcW">IC Potash (T.ICP) appoints Dr. Ross Bhappu to the BOD and receives federal preference right mining leases</a> <div class="clear"></div>
+<h4>Featured News Links</h4><a class="newslinks" href="http://bit.ly/1KGmyLx" target="_blank" title="http://bit.ly/1KGmyLx">Calculate Value per Share in Minutes with our Powerful new Software: Stockcalc</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1cPhoCP" target="_blank" title="http://bit.ly/1cPhoCP">Frontier Announces Positive Pre-feasibility Study for Zandkopsdrift Rare Earth Project- South Africa</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1EAvSvU" target="_blank" title="http://bit.ly/1EAvSvU">C.MQ Results For First Human Test Of Blood Glucose Monitoring System</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1zVT0d0" target="_blank" title="http://bit.ly/1zVT0d0">NEW Copper Drill Results - Initial 5 Holes</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1PBX57z" target="_blank" title="http://bit.ly/1PBX57z">Calculate Value per Share in Minutes with our Powerful new Software: Stockcalc</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1IOvYGu" target="_blank" title="http://bit.ly/1IOvYGu">Pair The Highest Grade Cannabis With The Most Advanced Technology</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1PoN4L1" target="_blank" title="http://bit.ly/1PoN4L1">INVESTOR ALERT - Manufacturer Secured for Hemp-Based Supplements</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1E1950D" target="_blank" title="http://bit.ly/1E1950D">Security Holders of Baja Mining Corp. Have Legal Rights in Class Action</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1JOnAIp " target="_blank" title="http://bit.ly/1JOnAIp ">Canadian Investor Conference 2015</a> <div class="clear"></div>
 </div><div class="webpart-container ">
     
 
@@ -769,10 +898,10 @@ Last Updated: May 2014
 </div><div class="webpart-container ">
     <div id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd1_panelAd" class="ad-container" style="height:0px;">
 	
-    <iframe id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd1_dynamicIFrame" class="ad-iframe" scrolling="no" width="300px" data-crossscript="False" data-src="/cmspages/iframes/ads.aspx?cb=7b11ecce3fc94b53bb953bfc9526c732&amp;apl=Top,Middle,Right,Right1&amp;cap=Right1&amp;cpp=%2flegal%2fprivacy-policy" data-height="0" data-allow-resize="True" style="overflow:hidden;z-index:1;display:none"></iframe>
-   
+    <iframe id="p_lt_zoneContent_SubContent_p_lt_zoneRight_IFrameAd1_dynamicIFrame" class="ad-iframe" scrolling="no" width="300px" data-crossscript="False" data-src="/cmspages/iframes/ads.aspx?cb=52edc470bab9487ea3e265f6ba74b10b&amp;apl=Top,Middle,Right,Right1&amp;cap=Right1&amp;cpp=%2flegal%2fprivacy-policy" data-height="0" data-allow-resize="True" style="overflow:hidden;z-index:1;display:none"></iframe>
 
-</div>     
+</div>
+     
 </div>
 </div>
     
@@ -787,6 +916,7 @@ Last Updated: May 2014
     <div class="clear"></div>   
 
 </div>  
+    <br class="clear">
 </div>
 
 <div class="lwrap">
@@ -822,6 +952,10 @@ Last Updated: May 2014
 </li><li>
   <a href="/corporate/advertising">
     Advertising
+  </a>
+</li><li>
+  <a href="/corporate/ir-resource-center">
+    IR Resource Center
   </a>
 </li><li>
   <a href="/corporate/careers">
@@ -912,18 +1046,21 @@ var google_remarketing_only = true;
         
 
         
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
-<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/jquery.validate.min.js"></script>
 <script>
     (window.jQuery || document.write('<script src="/stockhouse/js/lib/jquery.min.js"><\/script>')); 
 </script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/jquery.validate.min.js"></script>
+<script src="https://hub.loginradius.com/include/js/LoginRadius.js"></script>
 <script src="//ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
 <script>
     (window.ko || document.write("<script src='/stockhouse/js/lib/knockout-2.2.1.js'><\/script>"));
 </script><script src="/stockhouse/js/lib/knockout-2.2.1.js"></script>
-<script src="/stockhouse/js/configuration.js?v=01cc8ce43a5245ae8fae4cc979de3635"></script>
-<script src="//ajax.aspnetcdn.com/ajax/bootstrap/3.2.0/bootstrap.min.js" type="text/javascript"></script>
-<script src="/stockhouse/assets/js/sh.min.js?v=1.0.0.24642" type="text/javascript"></script>
+<script src="/stockhouse/js/lib/Placeholders.js"></script>
+<script src="/stockhouse/js/configuration.js?v=753c45f69fda47ada16f22219575c5b9"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="/stockhouse/assets/js/sh.min.js?v=1.0.0.28320" type="text/javascript"></script>
+
 
 
 
@@ -931,26 +1068,14 @@ var google_remarketing_only = true;
 
 <script type="text/javascript">
 //<![CDATA[
-(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();
-WebForm_InitCallback();//]]>
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
 </script>
 
 <script type="text/javascript">
 	//<![CDATA[
 document.pageLoaded = true;
 //]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-
-theForm.oldSubmit = theForm.submit;
-theForm.submit = WebForm_SaveScrollPositionSubmit;
-
-theForm.oldOnSubmit = theForm.onsubmit;
-theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
-//]]>
-</script>
-</form>
+</script></form>
   
     <script type="text/javascript">
 
@@ -989,6 +1114,30 @@ _qevents.push( { qacct:'p-ZsB88wt2KmZ_X'} )
 </div>
 </noscript>
 <script type="text/javascript">
+   
+        var lrCallbackUrl = 'http://www.stockhouse.com/registration/social-login?ec=d269196c-200c-424c-95e1-2c7c7eb49d15&returnUrl=/legal/privacy-policy';
+        var lrApiKey = '6d4ddaa4-b21f-4a0d-a32c-b3af94febb92'
+
+        if (lrCallbackUrl){
+
+        var options = {};
+        options.login = true;
+
+        var ui = window.$ui;
+
+        LoginRadius_SocialLogin.util.ready(function() {
+        $ui = LoginRadius_SocialLogin.lr_login_settings;
+        $ui.interfacesize = "";
+        $ui.apikey = lrApiKey;
+
+        $ui.callback = encodeURIComponent(lrCallbackUrl);
+        $ui.lrinterfacecontainer = "interfacecontainerdiv";
+        LoginRadius_SocialLogin.init(options);
+        });
+        }
+
+    </script>
+<script type="text/javascript">
 //<![CDATA[
 //this uses sh.membership.loginViewModel.js and sh.membership.resetPasswordViewModel
         stockhouse.web.UI.setupLogin();
@@ -1006,10 +1155,39 @@ _qevents.push( { qacct:'p-ZsB88wt2KmZ_X'} )
     stockhouse.web.UI.setupMemberbar();
 //]]>
 </script>
+<script type="text/javascript">
+//<![CDATA[
 
+//]]>
+</script>
+<script type="text/javascript">
+        new stockhouse.web.featureRegistration('flyinsidebarsubscriptions', 'flyin-subscribe-to-list-feature-container', true).initialize();
+        new stockhouse.web.flyInSidebar().initialize('flyinsidebarsubscriptions');
+    </script>
+
+    
+
+    
+    
+    <script>
+
+        var $buoop = {
+            vs: { i: 7, f: 10, o: 12.1, s: 5.1 },
+            reminder: 24                   // atfer how many hours should the message reappear
+        }; 
+
+        function $buo_f() {
+            var e = document.createElement("script");
+            e.src = "//browser-update.org/update.js";
+            document.body.appendChild(e);
+        };
+        
+        try { document.addEventListener("DOMContentLoaded", $buo_f, false) }
+        catch (e) { window.attachEvent("onload", $buo_f) }
+    </script> 
     
 
 
 
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<script src="//browser-update.org/update.js"></script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
