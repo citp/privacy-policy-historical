@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiowide.co.uk privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321011554id_/http%3A//www.studiowide.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiowide.co.uk privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513043802id_/http%3A//www.studiowide.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
