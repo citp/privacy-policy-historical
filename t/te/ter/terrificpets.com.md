@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrificpets.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008112626id_/http%3A//www.terrificpets.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrificpets.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513034514id_/http%3A//www.terrificpets.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Dogs for Sale - Cats for Sale : TerrificPets.com
 
