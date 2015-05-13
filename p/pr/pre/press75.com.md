@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the press75.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206082352id_/http%3A//press75.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the press75.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513185810id_/http%3A//press75.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Premium WordPress Themes by Press75
 
