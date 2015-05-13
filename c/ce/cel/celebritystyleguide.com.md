@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626073024id_/http%3A//celebritystyleguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513161009id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Celebrity Style Guide
 
@@ -64,6 +64,11 @@ Any updates or changes to the terms of this Privacy Statement will be posted her
 Contact Us   
 If you have any concerns about our use of your information or about this Privacy Statement, please send an e-mail to support@celebritystyleguide.com. We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention. 
 
-Updated and effective September 20th, 2007. 
+AFFILIATES   
+Celebrity Style Guide is affiliated with RewardStyle. This means that Celebrity Style Guide will periodically post on products through affiliation links provided. In return Celebrity Style Guide may receive a small commission for purchases associated with that link (i.e., a percentage of the sales price of sales originating from the linked product). So, if you click on a link and make a purchase from an affiliate site, there are some instances where we may make a commission from your purchase. Not all of the products we link are through the affiliate program and the affiliate program does not affect what we choose to cover in our posts. All of the items we choose to blog about are genuinely things that we like and want to share. 
 
-© 2005-2013 Celebrity Style Guide, Inc., U.S.A, all rights reserved. 
+Readers: Celebrity Style Guide will not accept any products or sponsored posts from companies that we would not otherwise post about. All opinions are our own and will be written to reflect our true thoughts. Any posts that are sponsored will be disclosed as a sponsored post. Moreover, any products which have been gifted or provided gratis to Celebrity Style Guide shall be noted with “c/o” (courtesy of) or “gifted” at the bottom of the post and are only posted if we believe they are a good fit for the Celebrity Style Guide aesthetic and content. 
+
+Updated October 13, 2014. 
+
+© 2005-2014 Celebrity Style Guide, Inc., U.S.A, all rights reserved. 
