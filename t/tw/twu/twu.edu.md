@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twu.edu privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207224855id_/http%3A//twu.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twu.edu privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514013327id_/http%3A//twu.edu/privacy.asp) for the most accurate reproduction.*
 
 # TWU - Privacy Policy
 
