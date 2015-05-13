@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energy.com.au privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201024307id_/http%3A//www.ausgrid.com.au/Common/About-us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energy.com.au privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513222726id_/http%3A//www.ausgrid.com.au/Common/About-us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Ausgrid
 
