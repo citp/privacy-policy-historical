@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805222158id_/http%3A//www.promopeddler.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513160412id_/http%3A//www.promopeddler.com/info/privacy) for the most accurate reproduction.*
 
 # Promopeddler: Help > Privacy, Security & Accessibility
 
