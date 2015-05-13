@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baydin.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701180059id_/http%3A//www.baydin.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baydin.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513041740id_/http%3A//www.baydin.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Real email productivity | Baydin
 
