@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bms.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112150700id_/http%3A//www.bms.com/legal/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bms.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513033645id_/http%3A//bms.com/legal/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Bristol-Myers Squibb: Privacy Statement
 
 Privacy Policy
 
-Effective Date: December 23, 2013
+Effective Date: December 5, 2014
 
 **Purpose of the Privacy Statement**. Bristol-Myers Squibb respects the privacy of visitors to this Web site and understands that information about you, your health, and your health care is sensitive. Except as provided in the Transfer of Control section of this Web site's Internet Privacy Statement, Bristol-Myers Squibb will not sell or rent your personally identifiable information. Bristol-Myers Squibb developed this Internet Privacy Statement to provide information about our practices regarding the collection, use, and disclosure of information that you may provide when you visit this Web site. This privacy statement applies to this web site and other Bristol-Myers Squibb web sites providing resources such as consumer and health care professional product related information and services. 
 
@@ -23,6 +23,8 @@ For non-healthcare providers and consumers, if you do opt-in and provide us with
 For healthcare professionals, we may contact you through a variety of means such as postal mail, phone, or e-mail to provide you with information and offers we believe may be of interest to you unless you opt out of these communications by contacting us as indicated below. Also, if you do not opt out of these communications, we may also share this information with providers of services to Bristol-Myers Squibb who help Bristol-Myers Squibb to develop programs and provide services that may be of interest to you, or for information processing, mailing, and/or Internet-based delivery purposes. 
 
 From time to time we may obtain from 3rd party sources personally identifiable information on physicians and other healthcare professionals. This information is used to verify such things as professional status, identity and specialty when providing tailored information, communications or products/and or services. 
+
+Bristol-Myers Squibb has established a set of [binding corporate rules (BCR)](https://web.archive.org/Documents/legal/binding-corporate-rules.pdf) ensuring that personal data from the European Economic Area (EEA) is adequately protected while being processed by Bristol-Myers Squibb. 
 
 **Use and Disclosure of Non-Personally Identifiable Information**. Bristol-Myers Squibb will not treat as confidential any information that you provide that is not personally identifiable, such as questions, comments, ideas, or suggestions. You should be aware that Bristol-Myers Squibb will be free to disclose through any means and use for any purpose such information in its sole discretion. By providing such information to Bristol-Myers Squibb, you understand and agree that no relationship has been created between Bristol-Myers Squibb and you, and Bristol-Myers Squibb has no obligation to you whatsoever regarding that information. 
 
