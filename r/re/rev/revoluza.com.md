@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the revoluza.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142735id_/https%3A//www.revoluza.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revoluza.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513055322id_/https%3A//www.revoluza.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D89) for the most accurate reproduction.*
 
-# Revoluza Privacy Policy
-
-PRIVACY POLICY
+# New Revoluza
 
 Our Company is committed to protect your privacy when you visit or communicate with our site or support personnel.
 
@@ -12,7 +10,7 @@ The Policy is updated occasionally hence we request you to review the Privacy Po
 
 Disclaimer: It is imperative here to mention that Revoluza does not share any data with any third party websites and even if we plan to use the data in future for any analytics we will seek approval from our privileged members.
 
-1\. Data and Information Collected
+### 1\. Data and Information Collected
 
 To operate our website it is essential to collect or process certain data, such as the following:
 
@@ -22,7 +20,7 @@ To operate our website it is essential to collect or process certain data, such 
 
 
 
-2\. How we use Cookies
+### 2\. How we use Cookies
 
 It is possible that we may gather information regarding your computer for our services. This collection of data is used for statistical analysis about our website for use by us or our advertisers.
 
@@ -34,7 +32,7 @@ All computers can block cookies by activating proper browser settings. There is 
 
 Advertisers can use cookies, which we do not control. If cookies are used they will be downloaded if you click on any advertisement we have on this site.
 
-3\. Information Use
+### 3\. Information Use
 
 Any information collected and stored regarding you is to enable us to offer better services to you. We may also use the data collected for the following:
 
@@ -49,7 +47,7 @@ Any information collected and stored regarding you is to enable us to offer bett
 
 
 
-4\. Personal Data Storage
+### 4\. Personal Data Storage
 
   * It is possible that we may collect transfer data from you regarding locations outside of the European Economic Area. This information is used for storing and processing. It may be processed by staff outside the European Economic Area, by a company who works for us or a supplier we have. An example is where we may process and conclude your order by using payment details or offering support services. You have agreed to this communication by processing and finalizing your order. At any time you provide personal data, you agree to a information transfer for processing and storage. We take all reasonable steps to ensure the safety of the data transfer in agreement with this privacy policy
   * Data you provide us will be stored on secure servers. Any transaction details will be encrypted to provide you safety. It is also to be noted that any payment method transaction and financial information pertaining to the same are not hosted or stored on our servers and are the property of the payment processors and we cannot be held responsible for their terms of use.
@@ -57,24 +55,24 @@ Any information collected and stored regarding you is to enable us to offer bett
 
 
 
-5\. Sharing Your Information
+### 5\. Sharing Your Information
 
   * If applicable, we may share your personal information to group members. This will include subsidiaries or holding companies we may work with, as well as their subsidiaries if any
-  * Personal Information may be shared with third parties:
+  * Personal Information may be shared with third parties: 
     * If we sell part or all of our business or assets we may share personal information to a third party.
     * When legally requested, we may share your information.
     * Fraud protection and to minimize credit risk may require a sharing of your information.
 
 
 
-6\. Third Party Links
+### 6\. Third Party Links
 
 Third Party Links to websites on our website are not included in our privacy policy. You will need to check their privacy policy regarding data. We do not accept liability or responsibility for third party links and their privacy policies.
 
-7\. Information Access
+### 7\. Information Access
 
 The Data Protection Act 1998 provides you with rights to access any information we may collect and store about you. If you wish to have access to this information it may be subject to a 10 € payment fee, used to cover our costs regarding the information you requested. If you wish to access this data please contact us on the details mentioned below.
 
-8\. Contacting Us
+### 8\. Contacting Us
 
-We are happy to receive any queries, comments, or requests you may have regarding our Privacy Policy. Feel free and do not hesitate to use the following email to contact us 
+We are happy to receive any queries, comments, or requests you may have regarding our Privacy Policy. Feel free and do not hesitate to use the following email to [contact us](mailto:support@revoluza.com)
