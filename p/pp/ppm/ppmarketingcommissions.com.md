@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppmarketingcommissions.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210085625id_/http%3A//ppmarketingcommissions.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppmarketingcommissions.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513211856id_/http%3A//ppmarketingcommissions.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # PP Marketing Commission - Lifetime Membership
 
