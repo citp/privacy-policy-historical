@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the outdoorgearlab.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122414id_/http%3A//www.outdoorgearlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorgearlab.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513021000id_/http%3A//www.outdoorgearlab.com/privacy) for the most accurate reproduction.*
 
 # OutdoorGearLab Privacy Policy
 
 _Last updated: January 21, 2013_
 
-We recognize that your privacy is very important and take it seriously. This Privacy Policy describes OutdoorGearLab's policies and procedures on the collection, use and disclosure of your information when you use the OutdoorGearLab Service, via the OutdoorGearLab website, your mobile phone, or through one of OutdoorGearLab's applications. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](http://www.outdoorgearlab.com/terms).
+We recognize that your privacy is very important and take it seriously. This Privacy Policy describes OutdoorGearLab's policies and procedures on the collection, use and disclosure of your information when you use the OutdoorGearLab Service, via the OutdoorGearLab website, your mobile phone, or through one of OutdoorGearLab's applications. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms).
 
-Information Collection and Use  
+### Information Collection and Use
+
 OutdoorGearLab uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track User Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws.
 
 **User-Provided Information** : You provide us information about yourself, such as your name and e-mail address, if you register for a member account with the Service. Your name and other information you choose to add to your profile will be available for public viewing on the Service. You may provide us with your mobile phone number if you choose to submit questions and receive answers via text message. We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). You can control receipt of certain Service-related messages on your Settings page. We may also use your contact information to send you marketing email messages. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
@@ -27,7 +28,8 @@ We may collect different types of information about your location, including gen
 
 OutdoorGearLab may allow third parties to serve advertisements on the Service and use other third parties to help us collect and analyze information about your use of the service, generate aggregate site usage statistics and provide content sharing services to support the Service. These third parties may also use cookies and similar technologies to collect similar non-personal information about your use of the Service. OutdoorGearLab does not control the third parties' use of such technologies and their use is governed by those parties' privacy policies. For more information about third-party ad networks that use these technologies, and to opt-out of their collection of information, see <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-How We Share Your Information  
+### How We Share Your Information
+
 Personally Identifiable Information: OutdoorGearLab may share your personally identifiable information with third parties for the purpose of providing the Service to you or with third parties offering combined services with OutdoorGearLab. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of OutdoorGearLab (for instance, on servers or databases co-located with hosting providers).
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
@@ -40,21 +42,26 @@ OutdoorGearLab may disclose your personal information if required to do so by la
 
 OutdoorGearLab may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on OutdoorGearLab. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. OutdoorGearLab does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks OutdoorGearLab to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The OutdoorGearLab Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
-How We Protect Your Information  
+### How We Protect Your Information
+
 OutdoorGearLab uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to OutdoorGearLab or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 In the event that personal information is compromised as a result of a breach of security, OutdoorGearLab will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-Your Choices About Your Information  
+### Your Choices About Your Information
+
 You may, of course, decline to submit personally identifiable information through the Service, in which case OutdoorGearLab may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account.
 
-Children's Privacy  
+### Children's Privacy
+
 Protecting the privacy of young children is especially important. OutdoorGearLab does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information.
 
-Links to Other Web Sites  
+### Links to Other Web Sites
+
 We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies.
 
-Changes to Our Privacy Policy  
+### Changes to Our Privacy Policy
+
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
 If you have any questions about our practices or this privacy policy, please contact us using legal@outdoorgearlab.com, or send mail to:
