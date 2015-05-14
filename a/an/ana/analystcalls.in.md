@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analystcalls.in privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214023514id_/http%3A//www.analystcalls.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analystcalls.in privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514105028id_/http%3A//www.analystcalls.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnalystCalls
 
