@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockstotrade.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016145125id_/http%3A//www.stockstotrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockstotrade.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514061416id_/http%3A//www.stockstotrade.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | StocksToTrade.com
+# Privacy Policy - StocksToTrade.com
 
 StocksToTrade.com collects Personal Information from registered participants. As a condition of registration, participants provide their name and email address. StocksToTrade.com may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below.
 
