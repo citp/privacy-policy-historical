@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladypopular.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230181821id_/http%3A//help.madmoo.com/en_EN/madmoo-1209.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladypopular.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514050609id_/http%3A//help.madmoo.com/en_EN/madmoo-1209.html) for the most accurate reproduction.*
 
 # XS Software | MADMOO help section | Privacy Policy
 
