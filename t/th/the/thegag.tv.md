@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegag.tv privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208035731id_/http%3A//www.thegag.tv/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegag.tv privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514122953id_/http%3A//www.thegag.tv/policy) for the most accurate reproduction.*
 
 # TheGag.TV
 
