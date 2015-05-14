@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208095324id_/http%3A//www.adea.org/about_adea/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514074232id_/http%3A//www.adea.org/about_adea/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : American Dental Education Association
 
@@ -8,7 +8,7 @@ Last Updated July 13, 2006
 
 The American Dental Education Association ("ADEA") respects your privacy and we have developed the following policy to demonstrate our commitment to you. This privacy policy applies to personally identifiable information we collect on the ADEA website located at www.adea.org (the "Site") and describes the types of information collected, how that information is used, and the choices users have about collection and use of this information.
 
-If you have any questions or concerns about our privacy policy, please send us an email at membership@adea.org or write us at 1400 K Street, NW, Suite 1100, Washington, DC 20005.
+If you have any questions or concerns about our privacy policy, please send us an email at [membership@adea.org](mailto:membership@adea.org "membership@adea.org") or write us at 655 K Street, NW, Suite 800, Washington, DC 20001.
 
   
 **Information we collect**
@@ -85,8 +85,7 @@ We will occasionally update this privacy policy. When we do, we will also revise
   
 © 2006 American Dental Education Association. All Rights Reserved.
 
-1400 K Street, NW  
-Suite 1100  
-Washington, DC 20005  
+655 K Street, NW, Suite 800  
+Washington, DC 20001  
 202-289-7201  
 
