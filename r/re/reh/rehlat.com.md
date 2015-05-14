@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rehlat.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055610id_/http%3A//www.rehlat.com/en/Shared/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rehlat.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515003648id_/http%3A//www.rehlat.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rehlat Travel
+# Privacy Policy | Rehlat.com
 
 At Rehlat we know that your privacy is important to you. We are committed to ensuring that we keep the information that you share with us when you use this website as securely as possible.
 
@@ -17,8 +17,6 @@ We may collect the following information:
          • Name and title
 
          • Contact information including email address and telephone number
-
-         • Billing information
 
          • Information relevant to your booking, query, customer surveys and/or offers
 
@@ -40,14 +38,12 @@ We need this information to providea better service and understand your needs. I
 
                • To customize the website to meet your interests
 
-               • We will only share your personal information with third parties when this is necessary to complete a booking eg the hotel or airline involved or with 3rd parties contracted by us to provide market research or promotional activities.
-
-               • We will never sell or give your information to third parties unless we are required by law to do so.
-
   
 **Security**  
-We cannot emphasise how much we are dedicated to ensuring that your information is secure. To keep it safe we are committed to having the most up to date and secure physical, electronic and managerial procedures.
+We cannot emphasise how much we are dedicated to ensuring that your information is secure. To keep it safe we are committed to having the most up to date and secure physical, electronic and managerial procedures.  
+SSL (Secure Socket Layer) security is activated and enabled on Rehlat.com.
 
+  
 **Cookies**  
 We use cookies to help us identify which of our website pages are being used most. This helps us make the website more relevant for you, to save you time and make your visit online more interesting and useful.  
 Cookies are files that act like tracking devices. You can choose whether or not you allow them onto your computer. Once you give them permission they sit on your computer's hard drive and analyse web traffic or allow a website to recognise you when you make a repeat visit.  
@@ -55,9 +51,13 @@ Using cookies allows us to treat you as an individual. We can tailor our operati
 Allowing a cookie on your hard drive does not give us access to your computer or any information about you apart from the information that we directly ask for. If you prefer not to allow cookies access to your hard drive you will still be able to use our website but your use might be limited in some ways.
 
 **Credit Card Data**  
-When you make an online payment all transactions are protected by a secure server.  
-We will only keep your credit card information for the minimum amount of time to ensure that your booking is completed.
+When you make an online payment, all transactions are protected by a secure server.  
+The Website Policies and Terms & Conditions may be changed or updated occasionally to meet requirements and standards. Therefore, Customers and 
 
+Payment Gateway Provider/Bank will be notified about these changes. Such modifications will become effective on the day they are posted, and we encourage you to frequently review the Privacy Policy for any modifications.  
+All credit/debit cards' details and personally identifiable information will NOT be store, sold, shared, rented or leased to any third parties.
+
+  
 **Links to other websites**  
 Our website may include links to other websites that we think might be useful for you. Please remember that this privacy policy only applies to information you provide on this website. If you use a link to leave our site we cannot be held responsible for the protection of any information that you provide while on another website. Please safeguard yourself and look at the privacy policy of the website you are visiting.
 
