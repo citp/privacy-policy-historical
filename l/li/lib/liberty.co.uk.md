@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberty.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225011548id_/http%3A//www.liberty.co.uk/PrivacyPolicy/article/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberty.co.uk privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514053547id_/http%3A//www.liberty.co.uk/PrivacyPolicy/article/fcp-content) for the most accurate reproduction.*
 
 # Liberty - Article
 
@@ -45,15 +45,17 @@ Contact information such as email addresses and telephone numbers
 2.7   
 Demographic information such as post code, preferences and interests  
 2.8   
-Financial information such as credit / debit card numbers 2.9   
+Financial information such as credit / debit card numbers  
+2.9   
 IP address (automatically collected)  
 2.10  
-Web browser type and version (automatically collected) 2.11   
+Web browser type and version (automatically collected)  
+2.11   
 Operating system (automatically collected)  
 2.12   
 A list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected)  
 2.13   
-Cookie information (see clause 10 below).
+Cookie information ([click here](http://www.liberty.co.uk/Cookies/article/fcp-content)).
 
 ### 3\. Our Use of Data
 
@@ -91,7 +93,7 @@ In the event that any Data submitted by Users will be transferred in such a mann
 You may access certain areas of the Web Site without providing any Data at all. However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.
 
 6.2   
-You may restrict your internet browser’s use of Cookies. For more information see clause 10.4 below.
+You may restrict your internet browser’s use of Cookies. [Click here for more information](http://www.liberty.co.uk/Cookies/article/fcp-content).
 
 ### 8\. Accessing your own Data
 
