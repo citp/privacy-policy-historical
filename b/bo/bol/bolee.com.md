@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bolee.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227113847id_/http%3A//bolee.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bolee.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514115433id_/http%3A//bolee.com/privacy_policy) for the most accurate reproduction.*
 
 # Free Classified in Pakistan for Mobile Phones Jobs Cars Property and More - Bolee.com
 
