@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812231800id_/http%3A//dreammails.net/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammails.net privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514063033id_/http%3A//www.dreammails.net/pages/privacy.php) for the most accurate reproduction.*
 
 # DreamMails
 
   
 **::** [**HOME**](https://web.archive.org/pages/index.php) **::** [**JOIN US**](https://web.archive.org/pages/confirm.php) **::** [**MEMBERS **](https://web.archive.org/pages/enter.php) **::** [**TERMS**](https://web.archive.org/pages/terms.php) **::** [**HELP**](https://web.archive.org/pages/help.php) **::** [**PRIVACY**](https://web.archive.org/pages/privacy.php) **::** [**ADVERTISE**](https://web.archive.org/pages/advertise2.php) **::** [**UPGRADE**](https://web.archive.org/pages/gold.php) **::** [**BEEN PAID**](https://web.archive.org/pages/beenpaid.php) **::** [**FORUM**](http://www.globalfriendsonline.com/index.php/board,77.0.html) **::** [**SUPPORT**](http://my-ptr.info/support/dreammails/)
 
+[**Multi-Site Purchase/Redemption Contest - 30 prizes. April 1 - May 31, 2015**](http://www.globalfriendsonline.com/index.php/topic,12302.0.html)
+
 | 
 
-[](http://dreammails.net/scripts/runner.php?BA=15281&hash=16d3d57883421fc6969410feff88ae28&url=http%3A%2F%2Fyouve-got-ads.com%2Fpages%2Fptppaid.php%3Frefid%3Dalleks)  
+[](http://dreammails.net/scripts/runner.php?BA=17071&hash=fd86b985b0a0a5dc0003590b96c3ef90&url=http%3A%2F%2Fmonkeybizs.com%2Fpages%2Findex.php%3Frefid%3Dkh80)  
 
 
 |   
