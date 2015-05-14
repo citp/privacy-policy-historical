@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moviestrailer.org privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814071151id_/http%3A//www.moviestrailer.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviestrailer.org privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514233533id_/http%3A//www.moviestrailer.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MoviesTrailer.org
-
-## Privacy Policy
+# Privacy Policy | Movie trailers, Upcoming movies, High Definition Trailers – MoviesTrailer.org
 
 ### **Privacy Policy for MoviesTrailer.org**
 
