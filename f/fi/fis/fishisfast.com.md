@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fishisfast.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075321id_/http%3A//fishisfast.com/%3Fpage_id%3D151) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishisfast.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514051443id_/https%3A//www.fishisfast.com/en/privacy) for the most accurate reproduction.*
 
-# Fishisfast Privacy Policy | fishisfast
+# Privacy Policy | Fishisfast
+
+####  __Privacy Policy
 
 ##### What information do we collect?
 
