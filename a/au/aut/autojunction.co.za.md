@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autojunction.co.za privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210103911id_/http%3A//www.autojunction.co.za/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autojunction.co.za privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514135350id_/http%3A//www.autojunction.co.za/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
