@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the code4share.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216190333id_/http%3A//www.code4share.net/pages/privacy-policy/XRGXIby.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the code4share.net privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514063727id_/http%3A//www.code4share.net/pages/privacy-policy/XRGXIby.html) for the most accurate reproduction.*
 
 # Privacy Policy | Code 4 Share | Thousands of resources for free download
 
