@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renspets.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217112706id_/http%3A//www.renspets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renspets.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514184757id_/http%3A//www.renspets.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Online Pet Store
 
@@ -6,23 +6,23 @@
 
 At Ren’s, we greatly value your privacy. We live by a few guiding principles when it comes to your personal information:
 
-  1. We only ask for information where we truly feel there's a need. Providing us with more information beyond what's required helps us improve your shopping experience but it's 100% up to you what information you choose to divulge.
+  1. We only ask for information where there's a need. Providing us with more information beyond what's required helps us improve your shopping experience but it's 100% up to you what information you choose to divulge.
   2. We won’t share your personal information with anyone except to comply with the law, further develop our online services or to protect our rights.
   3. We don’t store personal information on our servers unless it’s required for the ongoing operation of one of our services.
 
 
 
-Below is our privacy policy which incorporates these goals. If you have questions about any of your personal data please contact our support team.
+Below is our privacy policy which incorporates these goals. If you have questions about any of your personal data please contact our support team at info@renspets.com
 
 ### Website Visitors
 
-Like most website operators, Ren's collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Ren's purpose in collecting non-personally identifying information is to better understand how Ren's visitors use its website. From time to time, Ren's  may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Ren's collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Ren's purpose in collecting non-personally identifying information is to better understand how Ren's visitors use its website. From time to time, Ren's  may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 Ren's also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Ren's does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Ren's websites choose to interact with Ren's in ways that require Ren's to gather personally-identifying information. The amount and type of information that Ren's gathers depends on the nature of the interaction. For example, we may ask visitors to create an account on our site and provide a username and email address. Those who engage in transactions with Ren's – by purchasing any products, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Ren's collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Ren's. Ren's does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Ren's websites choose to interact with Ren's in ways that require Ren's to gather personally-identifying information. The amount and type of information that Ren's gathers depends on the nature of the interaction. For example, we may ask visitors to create an account on our site and provide an email address. Those who engage in transactions with Ren's – by purchasing any products, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Ren's collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Ren's. Ren's does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -38,7 +38,7 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ### Choice/Opt-out
 
-Users are given the opportunity to unsubscribe from Ren's monthly newsletters and special offers email communications or they may send an email to [info@renspets.com](mailto:info@renspets.com) to have their email address removed from our database.
+Users are given the opportunity to subscribe to our monthly newsletter, and are given the option to unsubscribe from Ren's monthly newsletters and special offers email communications at any time. They may send an email to [info@renspets.com](mailto:info@renspets.com) to have their email address removed from our database.
 
 ### Privacy Policy Changes
 
