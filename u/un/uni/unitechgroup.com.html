@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the unitechgroup.com privacy policy that was archived on 2014-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141203073839id_/http%3A//www.unitechgroup.com/information/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unitechgroup.com privacy policy that was archived on 2015-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150514040438id_/http%3A//www.unitechgroup.com/information/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable = no" name="viewport">
@@ -419,8 +419,8 @@ if (windowWidthIni < 1200){
 			
 			$(".hos_div1").hide();
 			$(".hos_div2").hide();
-			$(".hos_m1").removeClass("menusidelinks_active");
-			$(".hos_m2").removeClass("menusidelinks_active");
+			$(".hos_m1").removeClass("menusidelinks_active, menusidelinks1_active");
+			$(".hos_m2").removeClass("menusidelinks_active, menusidelinks1_active");
 		}
 		
 		$(".res_m1").hover(function(){
@@ -494,7 +494,7 @@ if (windowWidthIni < 1200){
 			hideAllMenu();
 			hideAllLoc();
 			$(".hos_div1").stop(true, true).fadeIn(500);
-			$(".hos_m1").addClass("menusidelinks_active");
+			$(".hos_m1").addClass("menusidelinks_active, menusidelinks1_active");
 		}, function(){
 		});
 		
@@ -502,7 +502,7 @@ if (windowWidthIni < 1200){
 			hideAllMenu();
 			hideAllLoc();
 			$(".hos_div2").stop(true, true).fadeIn(500);
-			$(".hos_m2").addClass("menusidelinks_active");
+			$(".hos_m2").addClass("menusidelinks_active, menusidelinks1_active");
 		}, function(){
 		});
 		
@@ -584,6 +584,7 @@ if (windowWidthIni < 1200){
 							
 			
 			$(".loctabs a").removeClass("menuacccont_active");
+			$(".menuacccont1 a").removeClass("menuacccont1_active");
 		}
 		
 		
@@ -596,6 +597,10 @@ if (windowWidthIni < 1200){
 		}, function(){
 		});
 		
+		
+		$(".menuacccont1 a").hover(function(){
+			$(this).addClass("menuacccont1_active");		
+		});
 		
 		/*newWindowwidth = $(window).width();
 		totalSlides = 3;
@@ -795,7 +800,7 @@ if (windowWidthIni < 1200){
 				$(".ret_m1").addClass("menusidelinks_active");
 		
 				$(".hos_div1").show();
-				$(".hos_m1").addClass("menusidelinks_active");
+				$(".hos_m1").addClass("menusidelinks_active, menusidelinks1_active");
 				
 				
 			}, function(){
@@ -1152,7 +1157,7 @@ _TConnecto.licenseKey = 'UWWTQ1QWANL1STXB';
 
 	<!--<div style="position:fixed; top:0px; left:0px; z-index:1000000; background-color:#ffffff;" id="screenSize"></div>-->
 
-<div><img src="http://www.unitechgroup.com/images/top-line.gif" border="0" width="100%" height="14"></div>
+<div><img src="http://www.unitechgroup.com/images/top-line.jpg" border="0" width="100%" height="14"></div>
 
 <style>
 .emical-box{
@@ -1543,11 +1548,11 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
 
 
 <!---->
-<div id="header">
+<span itemprop="brand" itemscope="" itemtype="http://schema.org/Brand"><div id="header">
 
 	<div class="hdleft">
 		<a class="btnmenu" href="javascript:;"><img src="http://www.unitechgroup.com/images/but_menu.png" border="0"></a>
-		<div class="hdlogo"><a href="http://www.unitechgroup.com/index.asp"><img src="http://www.unitechgroup.com/images/logo-demo.gif" border="0" alt="Unitech Group" title="Unitech Group"></a></div>
+		<div class="hdlogo"><a href="http://www.unitechgroup.com/index.asp"><img itemprop="logo" src="http://www.unitechgroup.com/images/logo-demo.gif" border="0" alt="Unitech Group" title="Unitech Group"></a></div>
 		<div class="hdicons">
 			<div class="linktip"><img src="http://www.unitechgroup.com/images/tiparrow.png" alt="" title="" border="0"><span></span></div>
 <!--<a href="https://www.facebook.com/UnitechGroup" alt="Unitech Group on Facebook" title="Unitech Group on Facebook" target="_blank" rel="Facebook" class="facebook" data-left="-15"><div class="icon1"></div></a>
@@ -1642,7 +1647,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_greater">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:164px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -1660,7 +1665,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
 			  <div class="res_cur_gurgaon">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:188px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -1679,7 +1684,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_noida">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:250px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -1687,7 +1692,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
 						<a href="http://www.unitechgroup.com/residential-properties/noida/the-residences.asp">The Residences</a>
 						<a href="http://www.unitechgroup.com/residential-properties/noida/unihomes-2gh.asp">Unihomes 2 G, H</a>
 						<a href="http://www.unitechgroup.com/residential-properties/noida/unihomes-3.asp">Unihomes 3</a>
-						<a href="http://www.unitechgroup.com/residential-properties/noida/unihomes-superb.asp">Unihomes Superb</a>
+						<!--<a href="http://www.unitechgroup.com/residential-properties/noida/unihomes-superb.asp">Unihomes Superb</a>-->
 						<a href="http://www.unitechgroup.com/residential-properties/noida/uniworld-gardens.asp">Uniworld Gardens</a>
 						
 					</div>
@@ -1701,7 +1706,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_chennai">
               
-              <div class="menublock menublock_noright">
+              <div class="menublock menublock_noright" style="margin-top:120px;">
               
               <div class="menutitle spacetop">Apartments</div>
 
@@ -1748,7 +1753,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_bengaluru">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:75px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -1767,7 +1772,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_kolkata">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:210px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -1787,7 +1792,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_mohali">
               
-              <div class="menublock menublock_noright">
+              <div class="menublock menublock_noright" style="margin-top:230px;">
               
               <div class="menutitle spacetop">Apartments</div>
 
@@ -1823,7 +1828,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_ambala">
               
-              <div class="menublock menublock_noright">
+              <div class="menublock menublock_noright" style="margin-top:55px;">
               
               <div class="menutitle spacetop">Apartments</div>
 
@@ -1853,7 +1858,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_rewari">
               
-              <div class="menublock menublock_noright">
+              <div class="menublock menublock_noright" style="margin-top:273px;">
               
               <div class="menutitle spacetop">Apartments</div>
 
@@ -1882,7 +1887,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_bhopal">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:100px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -1900,7 +1905,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur_dehradun">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:143px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -1919,7 +1924,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur2_gurgaon">
               
-              <div class="menublock menublock_noright">
+              <div class="menublock menublock_noright" style="margin-top:83px;">
               
               <div class="menutitle spacetop">Apartments</div>
 
@@ -1953,7 +1958,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur2_noida">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:128px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -1972,7 +1977,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur2_kolkata">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:105px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -1989,15 +1994,23 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur3_gurgaon">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:115px;">
               
 	               <div class="menutitle">Villas</div>
 
-                   <div class="menuacccont">
+                   <div class="menuacccont" style="border:none;">
 						<a href="http://www.unitechgroup.com/residential-properties/gurgaon/espace-premiere.asp">Espace Premiere</a>
 						<a href="http://www.unitechgroup.com/residential-properties/gurgaon/karma-lake-lands.asp">Karma Lake Lands</a>
 						<a href="http://www.unitechgroup.com/residential-properties/gurgaon/opulence.asp">Opulence</a>
 						<a href="http://www.unitechgroup.com/residential-properties/gurgaon/the-villas.asp">The Villas</a>
+					</div>
+                    
+                    <div class="menutitle">Plots</div>
+
+                   <div class="menuacccont">
+						<a href="http://www.unitechgroup.com/residential-properties/gurgaon/nirvana-country-plots.asp">Nirvana Country Plots</a>
+                        <a href="http://www.unitechgroup.com/residential-properties/gurgaon/greenwood-city-plots.asp">Greenwood City Plots</a>
+						
 					</div>
                     
               </div>
@@ -2010,7 +2023,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_cur3_noida">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:140px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -2065,7 +2078,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_comp_gurgaon">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:70px;">
               
               <div class="menutitle spacetop">Apartments</div>
 
@@ -2104,7 +2117,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
 			  
 			  
 			  
-			   <div class="menublock  menublock_noright">
+			   <div class="menublock  menublock_noright" style="margin-top:70px;">
               
 					
 					<div class="menutitle">Villas</div>
@@ -2137,7 +2150,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_comp_kolkata">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:95px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -2155,7 +2168,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_comp_lucknow">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:122px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -2172,7 +2185,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_comp_greater">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:55px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -2231,7 +2244,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_sold_gurgaon">
               
-              <div class="menublock menublock_noright">
+              <div class="menublock menublock_noright" style="margin-top:98px;">
               
               <div class="menutitle spacetop">Apartments</div>
 
@@ -2247,7 +2260,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
 	               <div class="menutitle">Floors</div>
 
                    <div class="menuacccont" style="border:none;">
-                        <a href="http://www.unitechgroup.com/residential-properties/gurgaon/floors-at-south-city-ii.asp">Floors at South City-II</a>
+                        <a href="http://www.unitechgroup.com/residential-properties/gurgaon/floors-at-south-city-2.asp">Floors at South City 2</a>
 						<a href="http://www.unitechgroup.com/residential-properties/gurgaon/independent-floors-at-nirvana-country.asp">Independent Floors at Nirvana Country</a>
 						
 					</div>
@@ -2271,7 +2284,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_sold_noida">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:185px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -2289,7 +2302,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_sold_chennai">
               
-              <div class="menublock menublock_noright">
+              <div class="menublock menublock_noright" style="margin-top:55px;">
               
               <div class="menutitle spacetop">Apartments</div>
 
@@ -2325,7 +2338,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_sold_kolkata">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:120px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -2345,7 +2358,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_sold_mohali">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:160px;">
               
 	               <div class="menutitle">Floors</div>
 
@@ -2361,7 +2374,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_sold_lucknow">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:140px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -2378,7 +2391,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="res_sold_greater">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:73px;">
               
 	               <div class="menutitle">Apartments</div>
 
@@ -2483,7 +2496,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="com_cur_gurgaon">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:55px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2510,7 +2523,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="com_cur_noida">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:95px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2529,7 +2542,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="com_cur_kolkata">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:75px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2573,7 +2586,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="com_comp_gurgaon">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:55px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2676,7 +2689,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_cur_kochi">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:140px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2691,7 +2704,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_cur_mohali">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:207px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2709,7 +2722,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_cur_lucknow">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:182px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2741,7 +2754,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_cur_noida">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:230px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2757,7 +2770,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_cur_kolkata">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:160px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2775,7 +2788,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_cur_bhubaneswar">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:98px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2791,7 +2804,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_cur_bhopal">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:75px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2807,7 +2820,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_cur_dehradun">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:122px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2852,7 +2865,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_comp_delhi">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:55px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2868,7 +2881,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_comp_noida">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:97px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2884,7 +2897,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="ret_comp_gurgaon">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-top:73px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2919,7 +2932,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
             
             
               <div class="menublock">
-              	<div class="menusidelinks">
+              	<div class="menusidelinks1">
                 	<a href="javascript:;" class="hos_m1">Current Projects</a>
                     <a href="javascript:;" class="hos_m2">Completed Projects</a>
                 </div>
@@ -2929,13 +2942,13 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="hos_div1">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-left:-342px;">
               
 				   <div class="menulocdiv">
               
 		               <div class="menutitleloc">Location</div>
 
-    	               <div class="menuacccont loctabs">
+    	               <div class="menuacccont1 loctabs">
     	                    <a href="javascript:;" rel="hos_cur_bengaluru">Bangalore</a>
 							<a href="javascript:;" rel="hos_cur_noida">Noida</a>
 							
@@ -2948,7 +2961,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="hos_cur_noida">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-left:-511px; margin-top:78px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -2964,7 +2977,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="hos_cur_bengaluru">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-left:-511px; margin-top:55px;">
               
 	               <div class="menutitle">Projects</div>
 	
@@ -2989,13 +3002,13 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="hos_div2">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-left:-342px;">
               
 				   <div class="menulocdiv">
               
 		               <div class="menutitleloc">Location</div>
 
-    	               <div class="menuacccont loctabs">
+    	               <div class="menuacccont1 loctabs">
 							<a href="javascript:;" rel="hos_comp_gurgaon">Gurgaon</a>
 							<a href="javascript:;" rel="hos_comp_kolkata">Kolkata</a>
 						</div>
@@ -3007,7 +3020,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="hos_comp_gurgaon">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-left:-511px; margin-top:55px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -3023,7 +3036,7 @@ $("#slide-value3").change(function () {$("#slider3").slider("value",this.value);
               
               <div class="hos_comp_kolkata">
               
-              <div class="menublock">
+              <div class="menublock" style="margin-left:-511px; margin-top:78px;">
               
 	               <div class="menutitle">Projects</div>
 
@@ -3804,7 +3817,7 @@ countrynameEWU = document.frmEWU.country.value;
 
 	<div class="mobilemenucontent">
 
-		<ul class="browser"><ul class="browser">
+		<ul class="browser">
         
         
 			<li style="-webkit-border-radius: 6px 6px 0px 0px; -moz-border-radius: 6px 6px 0px 0px; border-radius: 6px 6px 0px 0px;"><span>Residential Projects</span>
@@ -3883,7 +3896,7 @@ countrynameEWU = document.frmEWU.country.value;
 							<li><a href="http://www.unitechgroup.com/residential-properties/noida/unihomes-3.asp">Unihomes 3</a></li>
 							<li><a href="http://www.unitechgroup.com/residential-properties/noida/unihomes-2gh.asp">Unihomes 2 G, H</a></li>
 							<li><a href="http://www.unitechgroup.com/residential-properties/noida/uniworld-gardens.asp">Uniworld Gardens</a></li>
-							<li><a href="http://www.unitechgroup.com/residential-properties/noida/unihomes-superb.asp">Unihomes Superb</a></li>
+							<!--<li><a href="http://www.unitechgroup.com/residential-properties/noida/unihomes-superb.asp">Unihomes Superb</a></li>-->
                           </ul>
                        </li>
                        
@@ -3931,6 +3944,8 @@ countrynameEWU = document.frmEWU.country.value;
 							<li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/karma-lake-lands.asp">Karma Lake Lands</a></li>
 							<li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/the-villas.asp">The Villas</a></li>
 							<li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/opulence.asp">Opulence</a></li>
+                            <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/nirvana-country-plots.asp">Nirvana Country Plots</a></li>
+                            <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/greenwood-city-plots.asp">Greenwood City Plots</a></li>
                          </ul>	
                        </li>
                        <li><span>Noida</span>
@@ -3954,7 +3969,7 @@ countrynameEWU = document.frmEWU.country.value;
                    	 <ul>
 					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/aspen-greens.asp">Aspen Greens</a></li>
 					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/greenwoodcity.asp">Green Wood City</a></li>
-					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/floors-south-city-1.asp">Floors South City I</a></li>
+					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/floors-south-city-1.asp">Floors South City 1</a></li>
 					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/the-world-spa.asp">The World Spa</a></li>
 					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/uniworld-gardens.asp">Uniworld Gardens</a></li>
 					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/the-palms.asp">The Palms</a></li>
@@ -4007,7 +4022,7 @@ countrynameEWU = document.frmEWU.country.value;
                    <li><span>Gurgaon</span>
                      <ul>
 					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/independent-floors-at-nirvana-country.asp">Independent Floors at Nirvana Country</a></li>
-					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/floors-at-south-city-ii.asp">Floors at South City-II</a></li>
+					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/floors-at-south-city-2.asp">Floors at South City 2</a></li>
                        <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/sunbreeze.asp">Sunbreeze</a></li>
 					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/vistas.asp">Vistas</a></li>
 					   <li><a href="http://www.unitechgroup.com/residential-properties/gurgaon/the-residences.asp">The Residences</a></li>
@@ -4316,13 +4331,13 @@ countrynameEWU = document.frmEWU.country.value;
 				</ul>
 			</li>
 	
-		</ul></ul>
+		</ul>
         
 	</div>
 
 </div>
 
-	<div class="breadcrumb"><div style="float:right; font-weight:700;" class="">Call Us Toll Free 1800 102 0277</div><div class="bctext"><a href="../index.asp">Home</a>   /   <b>Privacy Policy</b></div><div class="clear"></div></div>    
+	<div class="breadcrumb"><div style="float:right; font-weight:700;" class="">Call Us Toll Free 1800 102 0277</div><div class="bctext"><a href="../index.asp">Unitech Property</a>   /   <b>Privacy Policy</b></div><div class="clear"></div></div>    
         
 	<div class="maintextcontainer">
     
@@ -4412,7 +4427,7 @@ countrynameEWU = document.frmEWU.country.value;
 				<li><a href="http://www.unitechgroup.com/investor-relations/shareholding-pattern.asp">Shareholding Pattern</a></li>
 				<li><a href="http://www.unitechgroup.com/investor-relations/presentations.asp">Presentations</a></li>
 				<li><a href="http://www.unitechgroup.com/investor-relations/notice.asp">Notice</a></li>
-				<li><a href="http://www.unitechgroup.com/investor-relations/market-tracker.asp">Market Tracker</a></li>
+				<li><a href="http://www.unitechgroup.com/investor-relations/market-tracker.asp">Unitech Stock Price</a></li>
                 <li><a href="http://www.unitechgroup.com/investor-relations/unitech-stock.asp">Unitech Stock</a></li>
 				<li><a href="http://www.unitechgroup.com/investor-relations/corporate-governance.asp">Corporate Governance</a></li>
 				<li><a href="http://www.unitechgroup.com/investor-relations/insider-trading-policy.asp">Insider Trading Policy</a></li>
@@ -4478,7 +4493,7 @@ countrynameEWU = document.frmEWU.country.value;
 		
 		
 		
-		<div class="ftbotleft"><a href="http://www.unitechgroup.com/information/privacy-policy.asp">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/legal-disclaimer.asp">Legal Disclaimer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/blog-disclaimer.asp">Blog Disclaimer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/subscriptions.asp">Subscriptions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/website-feedback.asp">Website Feedback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/channel-partner-association.asp">Channel Partner Association</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<div class="ftbotleft"><a href="http://www.unitechgroup.com/information/privacy-policy.asp">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/legal-disclaimer.asp">Legal Disclaimer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/blog-disclaimer.asp">Blog Disclaimer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/subscriptions.asp">Subscriptions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/website-feedback.asp">Website Feedback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.unitechgroup.com/information/channel-partner-association.asp">Channel Partner Association</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
         
 
         
@@ -4492,14 +4507,14 @@ countrynameEWU = document.frmEWU.country.value;
 		<div class="fticons">
 			<div class="fticonscont">
 				<div class="linktip"><img src="http://www.unitechgroup.com/images/tiparrow.png" alt="" title="" border="0"><span></span></div>
-<a href="https://www.facebook.com/UnitechGroup" alt="Unitech Group on Facebook" title="Unitech Group on Facebook" target="_blank" rel="Facebook" class="facebook" data-left="-15"><div class="icon1"></div></a>
-<a href="https://www.twitter.com/unitechltd" alt="Unitech Group on Twitter" title="Unitech Group on Twitter" target="_blank" rel="Twitter" data-left="20"><div class="icon2"></div></a>
-<a href="http://www.linkedin.com/company/unitech-limited" alt="Unitech Group on Linkedin" title="Unitech Group on Linkedin" target="_blank" rel="Linkedin" data-left="45"><div class="icon3"></div></a>
-<a class="hideicon" href="/contact/regional-offices.asp" alt="Regional Offices" title="Regional Offices" rel="Contact" data-left="75"><div class="icon4"></div></a>
-<a class="hideicon" href="/media-centre/video-gallery.asp" alt="Unitech Group on YouTube" title="Unitech Group on YouTube" rel="Video Gallery" data-left="90"><div class="icon5"></div></a>
-<a class="hideicon" href="/customer-relations/construction-updates.asp" alt="Construction Updates" title="Construction Updates" rel="Construction Updates" data-left="97"><div class="icon8"></div></a>
-<a class="hideicon" href="/information/download-ambala.asp" alt="Downloads" title="Downloads" rel="Download" data-left="155"><div class="icon6"></div></a>
-<a class="hideicon" href="http://blog.unitechgroup.com" alt="Unitech Blog" title="Unitech Blog" target="_blank" rel="Blog" data-left="197"><div class="icon7"></div></a>
+<a href="https://www.facebook.com/UnitechGroup" alt="Unitech Group on Facebook" title="Unitech Group on Facebook" target="_blank" rel="Facebook" class="facebook" data-left="-19"><div class="icon1"></div></a>
+<a href="https://www.twitter.com/unitechltd" alt="Unitech Group on Twitter" title="Unitech Group on Twitter" target="_blank" rel="Twitter" data-left="26"><div class="icon2"></div></a>
+<a href="http://www.linkedin.com/company/unitech-limited" alt="Unitech Group on Linkedin" title="Unitech Group on Linkedin" target="_blank" rel="Linkedin" data-left="61"><div class="icon3"></div></a>
+<a class="hideicon" href="/contact/regional-offices.asp" alt="Regional Offices" title="Regional Offices" rel="Contact" data-left="100"><div class="icon4"></div></a>
+<a class="hideicon" href="/media-centre/video-gallery.asp" alt="Unitech Group on YouTube" title="Unitech Group on YouTube" rel="Video Gallery" data-left="121"><div class="icon5"></div></a>
+<a class="hideicon" href="/customer-relations/construction-updates.asp" alt="Construction Updates" title="Construction Updates" rel="Construction Updates" data-left="138"><div class="icon8"></div></a>
+<a class="hideicon" href="/information/download-ambala.asp" alt="Downloads" title="Downloads" rel="Download" data-left="203"><div class="icon6"></div></a>
+<a class="hideicon" href="http://blog.unitechgroup.com" alt="Unitech Blog" title="Unitech Blog" target="_blank" rel="Blog" data-left="255"><div class="icon7"></div></a>
 <div class="clear"></div>
 			</div>
 		</div>
@@ -4509,9 +4524,9 @@ countrynameEWU = document.frmEWU.country.value;
 
 
 
-		<div class="ftbotright">© Copyright 2014, all rights reserved with Unitech Group&nbsp;&nbsp;|&nbsp;&nbsp;Site by: <a href="http://www.csipl.net/" target="_blank">Cross Section</a></div>
+		<div class="ftbotright">© Copyright 2014, all rights reserved with Unitech Group&nbsp;&nbsp;|&nbsp;&nbsp;Site by: <a href="http://www.csipl.net/" target="_blank" rel="nofollow">Cross Section</a></div>
 		<div class="clear"></div>
-        <div style="margin-top:5px;"><img src="http://www.unitechgroup.com/images/bottom-line.gif" border="0" style="width:100%;"></div>
+        <div style="margin-top:5px;"><img src="http://www.unitechgroup.com/images/bottom-line.jpg" border="0" style="width:100%;"></div>
 	</div>
     
 </div>
@@ -4522,7 +4537,7 @@ countrynameEWU = document.frmEWU.country.value;
 	</div>
        
 
-</div>
+</span></div>
    
 </div>
 
