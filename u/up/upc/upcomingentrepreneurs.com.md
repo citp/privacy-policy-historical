@@ -1,32 +1,58 @@
-> *The following text is extracted and transformed from the upcomingentrepreneurs.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407102938id_/http%3A//oneyearplan.net/zprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcomingentrepreneurs.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514104916id_/http%3A//upcomingentrepreneurs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Upcoming Entrepreneurs
 
-**PRIVACY POLICY**
+This privacy policy sets out how [TS Consulting] uses and protects any information that you give [TS Consulting] when you use this website.  
+[TS Consulting] is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
+[TS Consulting] may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
 
-This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future. 
+**What we collect**
 
-By visiting our site or sending us information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to continue operating this website, including the variety of information and services it contains. Similarly, we need you to provide accurate personal information so that you can be contacted and, if you purchase anything, so that we can complete the transaction. You can opt-out and decide not to provide the requested personal information. However, by doing so, you will not receive the information, product, and/or service you are requesting.
+We may collect the following information: 
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-The personal information we collect includes your name and e-mail address. Other personal information that you submit is clearly labeled at the time you submit it. We use the information that we collect to provide our services, fulfill any purchase you may have made, send you our newsletter, contact you regarding new promotions, and to improve our site. We also use this information—directly, indirectly, and in combination with data we exchange with other parties—to introduce you to informational, service, and/or product offerings from us, our subsidiaries, affiliated companies, partners, select unaffiliated companies, assigns, and/or brands that are owned by, licensed by, and/or partnering with us (collectively, the “PRO Companies”). We do this by transferring, licensing, and/or sharing your personal information with the PRO Companies and hope you will be interested in their marketing materials and/or promotions. The PRO Companies may subsequently transfer, and/or share your personal information. Once a third-party obtains your personal information, its subsequent use is controlled by the business practices of the third party, which is beyond our control. Note, however, that your payment information is used only for order processing purposes.
 
-When submitting any information on our website you expressly authorize us to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from us, CarbonCopyPRO, and all of the PRO Companies. You can expect to receive newsletters, promotions, and other similar offers. Should you wish to discontinue receiving these e-mailings simply unsubscribe using the link in the email you receive.
 
-We automatically collect certain information from visitors to, the site, such as Internet addresses, browser type, Internet Service Provider (ISP), referring and exit page, operating system, timestamps, and clickstream data. We also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers. This information is logged to help diagnose technical problems, and to administer our site so that we can constantly improve it.
+**What we do with the information we gather**
 
-If you pay for anything on our site using a credit or debit card, we collect the personal information needed to complete the transaction. This information includes your name, card number, and other necessary information, all of which is clearly labeled on the form you use to submit payment. We use an unaffiliated, credit card processing company to process your payment. We transfer your payment information—and you authorize us to do so—to this company solely for this purpose. The company does not retain, share, store, or use personally identifiable information for any other purposes.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Anything you send us, post on our site, or use with our service, such as blog postings or videos, or if others send us anything about your activities or postings, we may collect such information into a file specific to you. We use this information to resolve disputes, troubleshoot problems, and enforce our customer agreements.
 
-We take measures to prevent the loss, misuse, and alteration of your information by carefully limiting access to the database in which your personal information is stored. We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of wrongful conduct. We may also (and you authorize us to) disclose personal information about you to credit agencies, collection agencies, and/or merchant database agencies, as we deem necessary
 
-We do not knowingly collect personally identifiable information from children under the age of 13, nor do we knowingly distribute such information. If we become aware that we have inadvertently received personally identifiable information from someone under the age of 13, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of 13. 
+**Security**
 
-Contact us at the address below if you want us to change or delete any information that we have about you. We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-This website is owned and operated, or operated under agreement, by:  
-CarbonCopyPRO, 2300 Candelaria Rd. Suite 107, Albuquerque, NM 87107
+**How we use cookies**
 
-This privacy policy is effective as of July 13, 2009.
+A cookie is a small file which asks permission to be placed on your computer?s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**  
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [contact(a)upcomingentrepreneurs.com] 
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [Soedal Terrasse 32, 4630 Kristiansand, Norway].
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
