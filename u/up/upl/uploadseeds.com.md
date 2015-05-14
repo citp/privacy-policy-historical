@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadseeds.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301032917id_/http%3A//www.uploadseeds.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadseeds.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514223156id_/http%3A//www.uploadseeds.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
