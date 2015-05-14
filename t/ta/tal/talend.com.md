@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talend.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220071113id_/http%3A//www.talend.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talend.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514205224id_/https%3A//www.talend.com/privacy-policies) for the most accurate reproduction.*
 
-# Talend Website Privacy Policy | Talend
+# Privacy Policy - Talend
 
 ### Your Privacy Matters
 
@@ -8,8 +8,8 @@ Talend (“Talend”) is committed to respecting and protecting your privacy. Vi
 
 Talend, Inc.  
 Attention: Privacy Request  
-105 Fremont Avenue  
-Los Altos, CA 94022  
+800 Bridge Parkway, Suite 200  
+Redwood City, CA 94065  
 USA
 
 Or:
