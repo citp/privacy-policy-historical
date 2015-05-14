@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgalgames.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626105204id_/http%3A//www.topgalgames.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgalgames.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515005252id_/http%3A//www.topgalgames.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Top Gal Games - Privacy Policy
 
