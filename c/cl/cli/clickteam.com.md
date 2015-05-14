@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickteam.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025034643id_/http%3A//www.clickteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickteam.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515001235id_/http%3A//www.clickteam.com/privacy-policy) for the most accurate reproduction.*
 
 # Clickteam - Privacy Policy
 
@@ -32,7 +32,7 @@ We do not store credit card numbers or other payment information on our online s
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the following means:
 
- **By e-mail:** Visit our [contact us](https://web.archive.org/web/20141025034643id_/http%3A//www.clickteam.com/contact-us-support) page  
+ **By e-mail:** Visit our [contact us](https://web.archive.org/web/20150515001235id_/http%3A//www.clickteam.com/contact-us-support) page  
 **By Phone:** USA: 1-888-471-4884 – UK: 07949-600-231 – World-wide: +33 472 39 94 59
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
