@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalstore.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701205633id_/http%3A//www.universalstore.com/default/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalstore.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514050555id_/http%3A//www.universalstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Universal Store - Privacy Policy
 
