@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtaximeter.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209164804id_/http%3A//www.worldtaximeter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtaximeter.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514095503id_/http%3A//www.worldtaximeter.com/privacy-policy) for the most accurate reproduction.*
 
 # Taxi Fare Calculator
 
