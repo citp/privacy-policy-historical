@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubfurniture.com.au privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225171404id_/http%3A//www.hubfurniture.com.au/docs/hub-privacy-statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubfurniture.com.au privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514123609id_/http%3A//www.hubfurniture.com.au/docs/hub-privacy-statement.pdf) for the most accurate reproduction.*
 
 # Privacy Statement
 
