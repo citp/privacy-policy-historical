@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226033630id_/http%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515014048id_/http%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ACMA
 
@@ -28,7 +28,7 @@ The key activities undertaken by the ACMA under these laws are:
 
 1\. **R[egulation](https://web.archive.org/theACMA/About/Corporate/Responsibilities/regulation-responsibilities-acma)**—including the development of codes of practice in consultation with industry groups and the maintenance of statutorily prescribed public registers. 
 
-2\. **C[ompliance and enforcement](https://web.archive.org/theACMA/About/Corporate/Responsibilities/compliance-enforcement-policy)**—including the conduct of [investigations](https://web.archive.org/theACMA/ACMAi/Investigation-reports/Investigation-news) of alleged breaches of an Act, legislative instrument or registered code. 
+2\. **C[ompliance and enforcement](https://web.archive.org/theACMA/About/Corporate/Responsibilities/compliance-enforcement-policy)**—including the conduct of [investigations](https://web.archive.org/theACMA/Newsroom/Newsroom) of alleged breaches of an Act, legislative instrument or registered code. 
 
 3\. **P[lanning and management of radiofrequency spectrum](https://web.archive.org/Industry/Spectrum/Spectrum-planning/About-spectrum-planning)**
 
@@ -117,7 +117,7 @@ There is a range of forms and notices which may be used to collect personal info
 
 The ACMA’s purpose and legal authority to collect personal information will typically be set out in the form or notice.  
 
-The purpose of the collection will vary according to the law which authorises or requires the collection, for example, [investigations](https://web.archive.org/theACMA/ACMAi/Investigation-reports/Investigation-news); **** licence applications, renewals and transfers; control and compliance notifications; ****[payment of licensing fees, taxes and charges](https://web.archive.org/theACMA/About/Making-payments); **** applications for exemptions/exceptions; declarations of conformity. 
+The purpose of the collection will vary according to the law which authorises or requires the collection, for example, [investigations](https://web.archive.org/theACMA/Newsroom/Newsroom); **** licence applications, renewals and transfers; control and compliance notifications; ****[payment of licensing fees, taxes and charges](https://web.archive.org/theACMA/About/Making-payments); **** applications for exemptions/exceptions; declarations of conformity. 
 
 In some instances, the form or notice will also explain how the information provided will be managed, for example, the ‘[Application for apparatus licence(s) (R057)](https://web.archive.org/theACMA/help-with-acma-apparatus-licence-application-forms)’ form has a number of fields marked with an asterisk. A note on the form advises the applicant that the personal information provided in the fields so marked will be included in the [Register of Radiocommunications Licences](https://web.archive.org/Industry/Spectrum/Radiocomms-licensing/Register-of-radiocommunications-licences) ** ** and will be made available to the public.
 
