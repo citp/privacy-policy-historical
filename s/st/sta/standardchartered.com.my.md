@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.com.my privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929030250id_/http%3A//www.standardchartered.com.my/website-privacy-statement-tnc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.my privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514125606id_/https%3A//www.sc.com/my/website-privacy-statement.html) for the most accurate reproduction.*
 
 # Website Privacy Statement - Standard Chartered Bank Malaysia
 
@@ -22,9 +22,11 @@ The Website is designed to use Cookies to collect information about how people u
 
 Cookies are small data files which are placed on your Device when you visit certain parts of our Website or click on our online advertisements. Cookies and similar technologies are used to assist our understanding of your interest in our Website, products and services and to improve our services to you.
 
-The cookies may be placed on your Device by us or by third parties on our behalf (for example, advertising networks and providers of external services like web traffic analysis services).
+The cookies may be placed on your Device by us or by third parties on our behalf (for example, advertising service providers like Google and DoubleClick and other service providers for analytics).
 
 Most web browsers are initially set up to accept cookies. You can choose to 'not accept' cookies by changing the settings on your web browser but if you block all cookies, including strictly necessary cookies, you may find that certain features on our Website will not work properly.
+
+You can opt out of Google’s use of cookies by visiting Google’s Ad Settings and DoubleClick’s use of cookies by visiting the DoubleClick opt-out page.
 
 **(b) Online Forms**
 
@@ -112,9 +114,9 @@ Malaysia
 
 We update our Website Privacy Statement from time to time and ask that you regularly check this Website to make sure you are familiar with the most recent version.
 
-This Website Privacy Statement was last updated on 24 August 2012.
+This Website Privacy Statement was last updated on 4 November 2013.
 
-**Copyright © Standard Chartered plc 2012. All rights reserved.**
+**Copyright © Standard Chartered plc 2013. All rights reserved.**
 
 
 
