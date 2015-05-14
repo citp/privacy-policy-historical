@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartertrack.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004055828id_/https%3A//www.smartertrack.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertrack.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514115717id_/http%3A//www.smartertrack.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy, SmarterTrack.com
 
