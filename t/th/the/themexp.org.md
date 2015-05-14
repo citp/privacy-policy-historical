@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709172142id_/http%3A//www.themexp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514121213id_/http%3A//www.themexp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at ThemeXP
 
