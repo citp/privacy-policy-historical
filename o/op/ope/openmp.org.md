@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openmp.org privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614101042id_/http%3A//openmp.org/wp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openmp.org privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514051815id_/http%3A//openmp.org/wp/privacy) for the most accurate reproduction.*
 
 # OpenMP.org » OpenMP ARB Privacy Policy
 
