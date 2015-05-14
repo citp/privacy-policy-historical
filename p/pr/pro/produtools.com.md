@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the produtools.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028114710id_/http%3A//www.produtools.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the produtools.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514021122id_/http%3A//www.produtools.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
