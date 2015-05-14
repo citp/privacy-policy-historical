@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222211707id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514185158id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Iodine
+# Privacy Policy - Iodine.com
 
 ### About this privacy policy
 
@@ -173,7 +173,11 @@ Please note that in general, once submitted, your User Content can’t be delete
 
 If you want to remove some of your User Content from Iodine, please email us at [privacy@iodine.com](mailto:privacy@iodine.com). We may request further information from you to verify that you are the user who submitted the User Content in question. We’ll consider your request on an individual basis, and we may (but are not obligated to) take steps to delete your User Content. Even if we take steps to delete specific User Content at your request, some of your User Content may remain in archived/backup copies for our records or as otherwise required by law. We’re not responsible or liable for the removal or deletion of (or the failure to remove or delete) any of your User Content.
 
-In general, we can’t delete User Content because we don’t know who submitted it. We’ll consider removal requests, but we’re not obligated to remove User Content. Contact [privacy@iodine.com](mailto:privacy@iodine.com).
+In general, we can’t delete User Content because we don’t know who submitted it. We’ll consider removal requests, but we’re not obligated to remove User Content.
+
+You can choose to unsubscribe from any email from Iodine via the link provided in the email.
+
+You can opt-out of all communications from Iodine by sending an e-mail to [privacy@iodine.com](mailto:privacy@iodine.com) or by calling (415) 935-3463.
 
 ### Links to other sites
 
