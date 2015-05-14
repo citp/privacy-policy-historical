@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leedsbeckett.ac.uk privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128113934id_/http%3A//www.leedsbeckett.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsbeckett.ac.uk privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514044913id_/http%3A//www.leedsbeckett.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Leeds Beckett University
 
