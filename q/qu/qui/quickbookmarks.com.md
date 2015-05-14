@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbookmarks.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030425id_/http%3A//www.quickbookmarks.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbookmarks.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514061650id_/http%3A//www.quickbookmarks.com/Privacy.html) for the most accurate reproduction.*
 
 # Quick Bookmarks - Privacy Policy
 
