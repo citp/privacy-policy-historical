@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appfolio.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216210942id_/http%3A//www.appfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appfolio.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514134524id_/http%3A//www.appfolio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
