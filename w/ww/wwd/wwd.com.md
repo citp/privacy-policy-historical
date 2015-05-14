@@ -1,55 +1,46 @@
-> *The following text is extracted and transformed from the wwd.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630095036id_/http%3A//www.wwd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwd.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514123323id_/https%3A//wwd.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - WWD.com
+# Privacy Policy | WWD
 
-  
+Effective: January 4, 2011
 
+PMC is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users and customers, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.
 
-The following Privacy Policy summarizes the various ways that Fairchild Fashion Group, a division of Advance Magazine Publishers Inc. ("Service Provider," "we" or "our") treats the information you provide while using www.wwd.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
+## Cookies:
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.wwd.com/privacy. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website. 
+We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number)å about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-In addition to reviewing this Privacy Policy, please read our [User Agreement](https://web.archive.org/terms). Your use of the Website constitutes agreement to its terms and conditions as well. 
+Links: Be aware that when you click on ad banners, you may be redirected to other sites not operated by PMC. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.
 
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
+General Information Collected: When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., Earthlink, Verizon).
 
-The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested. 
+The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web Site and to continually improve our products and services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
 
-Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. 
+## Third Party Service Providers:
 
-Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs. 
+Agents and affiliates of PMC may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by PMC.
 
-Unless otherwise specified on the Website, Service Provider may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your personally identifying information shared, write to us at the street address set forth at the end of this document. If you do not wish to receive future commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such date accurate and up-to-date. Otherwise, contact our Privacy Policy Coordinator as described below with your changes. 
+From time to time we partner with third party service providers to offer additional products and services within the Web Site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information.
 
-We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process. 
+## Personal Information:
 
-In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website. 
+It is the responsibility of each user to provide PMC with accurate information at all times. Personal information collected during the account registration process includes: name, street address, city, state, zip code, country, age, gender as well as an alternate email address (optional). Payment information will also be collected if users have registered for a premium account.
 
-While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
+## Changes to our Privacy Policy:
 
-In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets. 
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. We recommend that you check the Privacy Policy when you visit our Web Site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web Site visitors information on material changes to this Privacy Policy.
 
-You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies. 
+## Your California Privacy Rights:
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information PMC shares with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: PMC, 11175 Santa Monica Blvd., Los Angeles, CA 90025. In your request, please specify that you want a “PMC California Privacy Rights Notice”. Please allow at least 30 days for a response.
 
-We may also use advertising service vendors to help present advertisements on the Website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting <http://www.networkadvertising.org/optout_nonppii.asp>. 
+## Questions?  
+For any questions or comments concerning PMC’s privacy policy, please write to:
 
-If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly. 
-
-Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Service Provider can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the Website you agree to assume all risk in connection with the information sent to us or collected by us when you use the Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail (provided we have your e-mail address).   
-
-
-This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
-
-If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
-
-If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below. 
-
-If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows: 
-
-Privacy Policy Coordinator  
-The Condé Nast Publications  
-1313 Market Street  
-Wilmington, DE 19801  
-[Policy_administration@advancemags.com](mailto:Policy_administration@advancemags.com)
+[PrivacyDirector@pmc.com](mailto:PrivacyDirector@pmc.com)  
+Or send a letter to:  
+11175 Santa Monica Blvd  
+Los Angeles, Ca. 90025  
+(310) 321-5000  
+Law Enforcement inquiries can be directed to [LegalCompliance@pmc.com](mailto:LegalCompliance@pmc.com).  
+All spam, UCE and general abuse issues should be directed to: [abuse@pmc.com](mailto:abuse@pmc.com).
