@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hauntedhouse.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104095333id_/http%3A//www.hauntedhouse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hauntedhouse.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514165941id_/http%3A//www.hauntedhouse.com/privacy.html) for the most accurate reproduction.*
 
-# HauntedHouse.com Privacy Policy
+# HauntedHouse.com
 
 Privacy Policy
 
