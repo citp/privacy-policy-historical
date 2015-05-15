@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proctorgallagherinstitute.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122033345id_/http%3A//www.proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proctorgallagherinstitute.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515060401id_/http%3A//www.proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Proctor Gallagher Institute
+# Privacy Policy
 
 Proctor Gallagher Institute (the “Company”) is dedicated to protecting privacy while using the services of [www.proctorgallagherinstitute.com](http://www.proctorgallagherinstitute.com/) and its affiliated websites (the “Site”).  This privacy policy statement explains information collection and use practices for the Site. By accessing the Site, you are agreeing with and consenting to the data collection and use practices described in this privacy policy. This privacy policy statement expressly incorporates and is subject to the Terms of Use (“TOU”) for the Site, which may be separately accessed via a hypertext link located on its homepage. The provisions, terms and conditions set forth in the TOU shall supersede, govern and control in the event of any actual or potential inconsistency or conflict with the contents of this privacy policy statement.
 
