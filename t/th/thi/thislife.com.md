@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thislife.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224075127id_/http%3A//shutterflyinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thislife.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515185549id_/http%3A//shutterflyinc.com/privacy.html) for the most accurate reproduction.*
 
 # Shutterfly, Inc. - Privacy Policy
 
-Last Updated: February 19, 2014
+Last Updated: January 21, 2015
 
 Shutterfly, Inc. and our family of brands take your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -75,6 +75,8 @@ When you add personal messages to your products, an order-processing representat
 
 We use anonymous information, such as that pertaining to web or mobile pages you have viewed, in order to analyze trends, track user's movements, provide a better user experience and gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally. See "Authorized Third Parties."
 
+As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling all or a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that we or substantially all of our assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your personal information can continue to be used as set forth in this privacy policy.
+
 ## 5\. Information Sharing With Third Parties
 
 From time to time we share the personal information we collect with trusted companies who work with or on behalf of us. We may share personal information within our family of brands. We may also combine personal information with publicly available information and information we receive from or cross-reference with our partners. These companies may use your personal information to enhance and personalize your shopping experience with us, to communicate with you about products and events that may be of interest to you and for other promotional purposes. Information sharing allows us to introduce new resources based on your interests and needs. With that in mind, when you purchase an item, your customer information may be shared with other select companies whose products and services you may find useful and those select companies will handle, store, retain, use, share and access personal information in accordance with their own privacy policies, and we disclaim any and all liability relating thereto.
@@ -123,7 +125,7 @@ ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CON
 
 ## 13\. Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20141224075127id_/http%3A//shutterflyinc.com/contact.html) page of any of our brands.
+If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20150515185549id_/http%3A//shutterflyinc.com/contact.html) page of any of our brands.
 
 ## 14\. Updates to Privacy Policy
 
