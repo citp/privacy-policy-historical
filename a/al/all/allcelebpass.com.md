@@ -1,57 +1,53 @@
-> *The following text is extracted and transformed from the allcelebpass.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922000230id_/http%3A//cheatinggfexposed.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcelebpass.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515234647id_/http%3A//www.pornstar.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Privacy
+# Pornstar.com live camsPrivacy Policy
 
-Privacy Policy for TR Financial Resources Inc   
+[Home](http://www.pornstar.com/) / Privacy Policy
 
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-Adults Only Service   
+pornstar.com respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use pornstar.com, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the pornstar.com website.
 
+pornstar.com will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
-**THIS IS AN ADULTS _ONLY_ SERVICE**. We will suspend or terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Sites; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.    
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
+When you do provide us with personal identifying information, such information will be gathered solely by pornstar.com, and is for use solely by pornstar.com and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
-Disclosures Made as Necessitated by Law or Safety   
+pornstar.com may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
+pornstar.com may request personal identifying information on specific pages that allow users to contact pornstar.com. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
-Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.   
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of pornstar.com or those of pornstar.com customers or chat hosts, (4) under exigent circumstances to protect the physical safety of pornstar.com, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
 
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
 
-Information We Collect From You   
+Cookies used on the website by category:
 
-
-During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password), Financial Data (i.e., credit card/billing information) along with Demographic Information. Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.    
-
-
-How is this Information Used?   
-
-
-Financial Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
-
-We may use cookies and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. 
-
-We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites.   
+  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
+  * Performance cookies - These cookies collect anonymous information on the pages visited. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
 
 
-You Are Responsible For Information You Provide to Third Parties   
 
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
-We process credit card transactions via industry standard encryption through third party processors, which processors only use your information for that purpose. Financial Data is considered private information and will not be shared by us with third parties except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third party. Financial or other Data provided by you to any companies or websites advertising on the Sites or in response to emails sent to you by the Sites are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third partys terms and conditions and privacy policy.    
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. pornstar.com does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
-Advertisements   
+Members areas of pornstar.com may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@webcamassist.com](https://web.archive.org/contactsupport.php?).
 
+pornstar.com does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from pornstar.com, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
 
-We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or action tags to measure advertising effectiveness on an anonymous basis. Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertisers website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers website(s).    
+pornstar.com also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if pornstar.com becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, pornstar.com reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the pornstar.com program, termination of pornstar.com services, and forfeiture of all commissions.
 
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@webcamassist.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your pornstar.com login name, and any information you feel is important.
 
-Changes to the Privacy Policy   
+The address for correspondence by post is
 
-
-We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.   
-
-
-Changes in the Ownership of the Sites   
-
-
-The Sites are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA
