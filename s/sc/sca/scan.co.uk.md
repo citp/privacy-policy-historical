@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113072958id_/http%3A//www.scan.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516005135id_/http%3A//www.scan.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Award winning supplier, performance hardware & systems - Scan.co.uk
 
