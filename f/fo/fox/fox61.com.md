@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox61.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230081123id_/http%3A//privacy.tribune.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox61.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515091732id_/http%3A//privacy.tribune.com) for the most accurate reproduction.*
 
 # Privacy Policy - Tribune - privacy.tribune.com
 
