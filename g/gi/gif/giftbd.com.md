@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftbd.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516174733id_/http%3A//www.giftbd.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftbd.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515081051id_/http%3A//giftbd.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # GiftBD.com - Send gifts to bangladesh
 
@@ -31,8 +31,8 @@ Giftbd  also allows any customer to create an account with giftbd .com. This al
   
 Welcome to giftbd.com. Send Gifts to Bangladesh for All occasions. A site that understands the value of quality and   
 great customer service. Let us be your ambassador in finding and sending gifts to Bangladesh.   
-Nationwide Free Delivery.   
-Call us : 02 8900144 , 01731515372,  01971515372 .
+US / Canada / Aus / UK Please call 1-562-682-3494  
+Bangladesh: +8801714091656  .
 
   
 
