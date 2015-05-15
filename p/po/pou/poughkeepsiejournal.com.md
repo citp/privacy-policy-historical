@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poughkeepsiejournal.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020001141id_/http%3A//static.poughkeepsiejournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poughkeepsiejournal.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515132319id_/http%3A//static.poughkeepsiejournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Poughkeepsie Journal
 
