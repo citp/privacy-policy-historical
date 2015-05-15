@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dentalplans.com privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216073052id_/http%3A//www.dentalplans.com/discountdentalplans/privacystatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dentalplans.com privacy policy that was archived on 2015-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150515092329id_/http%3A//www.dentalplans.com/discountdentalplans/privacystatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,10 +12,10 @@
         <link rel="canonical" href="http://www.dentalplans.com/discountdentalplans/privacy-policy">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cabin+Condensed">
     
-    <link href="/Content/css?v=kSX8qbqBBeiMxO7k7dHBMFYElbAmLbui6IlqE_Wlgkk1" rel="stylesheet">
+    <link href="/Content/css?v=rt707uSl1qSTk6bMscR8xQeN-Ht-uongaq212oOXGww1" rel="stylesheet">
 
     <link href="/Areas/s2/Content/jqModal.css" rel="stylesheet" type="text/css">
-    <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/Scripts/js?v=flM_MrjJhWVnoAJAPVYYGo6XOLEuq8B65vZsbcrV2Vc1"></script>
+    <script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NGTVJG"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/Scripts/js?v=flM_MrjJhWVnoAJAPVYYGo6XOLEuq8B65vZsbcrV2Vc1"></script>
 
     <script src="/Scripts/jquery.tablesorter.js" type="text/javascript"></script>
     <script src="/Scripts/MP_JavaScriptCode_Dentalplans_enes.js" type="text/javascript"></script>
@@ -27,6 +27,151 @@
     <meta name="keywords" content="dental plans privacy policy, privacy policy, www.dentalplans.com privacy policy">
 
     <script type="text/javascript">
+        /* Placeholder support for IE */
+
+
+
+        var _debug = false;
+        var nativePlaceholderSupport = (function () {
+            var i = document.createElement('input');
+            return i.placeholder !== undefined;
+        })();
+
+        /*if(nativePlaceholderSupport){
+        return false;
+        }*/
+
+        window.onload = function () {
+            var arrInputs = document.getElementsByTagName("input");
+            var arrTextareas = document.getElementsByTagName("textarea");
+            var combinedArray = [];
+            for (var i = 0; i < arrInputs.length; i++)
+                combinedArray.push(arrInputs[i]);
+            for (var i = 0; i < arrTextareas.length; i++)
+                combinedArray.push(arrTextareas[i]);
+            for (var i = 0; i < combinedArray.length; i++) {
+                var curInput = combinedArray[i];
+                if (!curInput.type || curInput.type == "" || curInput.type == "text" || curInput.type == "textarea")
+                    HandlePlaceholder(curInput);
+                else if (curInput.type == "password")
+                    ReplaceWithText(curInput);
+            }
+
+            if (!nativePlaceholderSupport) {
+                for (var i = 0; i < document.forms.length; i++) {
+                    var oForm = document.forms[i];
+                    if (oForm.attachEvent) {
+                        oForm.attachEvent("onsubmit", function () {
+                            PlaceholderFormSubmit(oForm);
+                        });
+                    }
+                    else if (oForm.addEventListener)
+                        oForm.addEventListener("submit", function () {
+                            PlaceholderFormSubmit(oForm);
+                        }, false);
+                }
+            }
+        };
+
+        function PlaceholderFormSubmit(oForm) {
+            for (var i = 0; i < oForm.elements.length; i++) {
+                var curElement = oForm.elements[i];
+                HandlePlaceholderItemSubmit(curElement);
+            }
+        }
+
+        function HandlePlaceholderItemSubmit(element) {
+            if (element.name) {
+                var curPlaceholder = element.getAttribute("placeholder");
+                if (curPlaceholder && curPlaceholder.length > 0 && element.value === curPlaceholder) {
+                    element.value = "";
+                    window.setTimeout(function () {
+                        element.value = curPlaceholder;
+                    }, 100);
+                }
+            }
+        }
+
+        function ReplaceWithText(oPasswordTextbox) {
+            if (nativePlaceholderSupport)
+                return;
+            var oTextbox = document.createElement("input");
+            oTextbox.type = "text";
+            oTextbox.id = oPasswordTextbox.id;
+            oTextbox.name = oPasswordTextbox.name;
+            //oTextbox.style = oPasswordTextbox.style;
+            oTextbox.className = oPasswordTextbox.className;
+            for (var i = 0; i < oPasswordTextbox.attributes.length; i++) {
+                var curName = oPasswordTextbox.attributes.item(i).nodeName;
+                var curValue = oPasswordTextbox.attributes.item(i).nodeValue;
+                if (curName !== "type" && curName !== "name") {
+                    oTextbox.setAttribute(curName, curValue);
+                }
+            }
+            oTextbox.originalTextbox = oPasswordTextbox;
+            oPasswordTextbox.parentNode.replaceChild(oTextbox, oPasswordTextbox);
+            HandlePlaceholder(oTextbox);
+            if (!nativePlaceholderSupport) {
+                oPasswordTextbox.onblur = function () {
+                    if (this.dummyTextbox && this.value.length === 0) {
+                        this.parentNode.replaceChild(this.dummyTextbox, this);
+                    }
+                };
+            }
+        }
+
+        function HandlePlaceholder(oTextbox) {
+            if (!nativePlaceholderSupport) {
+                var curPlaceholder = oTextbox.getAttribute("placeholder");
+                if (curPlaceholder && curPlaceholder.length > 0) {
+                    Debug("Placeholder found for input box '" + oTextbox.name + "': " + curPlaceholder);
+                    oTextbox.value = curPlaceholder;
+                    oTextbox.setAttribute("old_color", oTextbox.style.color);
+                    oTextbox.style.color = "#c0c0c0";
+                    oTextbox.onfocus = function () {
+                        var _this = this;
+                        if (this.originalTextbox) {
+                            _this = this.originalTextbox;
+                            _this.dummyTextbox = this;
+                            this.parentNode.replaceChild(this.originalTextbox, this);
+                            _this.focus();
+                        }
+                        Debug("input box '" + _this.name + "' focus");
+                        _this.style.color = _this.getAttribute("old_color");
+                        if (_this.value === curPlaceholder)
+                            _this.value = "";
+                    };
+                    oTextbox.onblur = function () {
+                        var _this = this;
+                        Debug("input box '" + _this.name + "' blur");
+                        if (_this.value === "") {
+                            _this.style.color = "#c0c0c0";
+                            _this.value = curPlaceholder;
+                        }
+                    };
+                }
+                else {
+                    Debug("input box '" + oTextbox.name + "' does not have placeholder attribute");
+                }
+            }
+            else {
+                Debug("browser has native support for placeholder");
+            }
+        }
+
+        function Debug(msg) {
+            if (typeof _debug !== "undefined" && _debug) {
+                var oConsole = document.getElementById("Console");
+                if (!oConsole) {
+                    oConsole = document.createElement("div");
+                    oConsole.id = "Console";
+                    document.body.appendChild(oConsole);
+                }
+                oConsole.innerHTML += msg + "<br />";
+            }
+        }
+
+        /* Support Code ends*/
 
         // Document Ready
         $(document).ready(function () {
@@ -73,7 +218,7 @@
             }
 
 
-            $('#submit-go').click(function () {
+            $('#btngo').click(function () {
 
                 LoadVirtualGoogleEventTracking('Button', 'Email-Submit');
 
@@ -151,6 +296,23 @@
             return cookieValue;
         }
     </script>
+    
+    <script type="text/javascript">
+    $(document).ready(function () {
+        if ($(".dpcouponcode").length > 0) {
+            var affzone = $.cookie("AffZone");
+            var zoneValues = affzone.split("|");
+            if (zoneValues.length >= 35)
+            {
+                var couponCode = zoneValues[35];
+                var couponcodeZoneValues = couponCode.split("~");
+                var couponCodeValueToReplace = couponcodeZoneValues[2];
+                $(".dpcouponcode").text(couponCodeValueToReplace);
+            }
+        }
+    });
+</script>
+
     <script type="text/javascript" language="javascript">
 
         var _gaq = _gaq || [];
@@ -179,8 +341,11 @@ use_existing_jquery = false,
         // DO NOT EDIT BELOW THIS LINE
 f = false, d = document; return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
     } ()); _vwo_settings_timer = _vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=12210&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141216073052id_%2Fhttp%253A%2F%2Fwww.dentalplans.com%2Fdiscountdentalplans%2Fprivacystatement&amp;r=0.7514882263241451" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=12210&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150515092329id_%2Fhttp%253A%2F%2Fwww.dentalplans.com%2Fdiscountdentalplans%2Fprivacystatement&amp;r=0.3345166564416038" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
+
+<!-- TrustPilot -->
+<script async="" type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
     <style type="text/css">
         #subscribeform_container #submit-go:hover
         {
@@ -208,80 +373,122 @@ f = false, d = document; return { use_existing_jquery: function () { return use_
             }
         }
     </style>
-<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=41449062"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body>
-    <div id="wrapper_outer" style="">
-        <div id="wrapper_inner">
-            <table class="table_homepage_wrapper">
-                <tbody>
-                    <tr>
-                        <td class="hp_middle_cell">
-                            <div id="header_container">
-<div id="logo">
-    <div id="logo2">
-        <!-- using StandardImage -->
-        <a href="/" onclick="LoadVirtualGoogleEventTracking('Image', 'DP Logo');">
-            <img alt="Individual and Family Discount Dental Plans, Affordable Dental Care Starting at $79.95 a Year!" src="/Content/images/logo.jpg">
-        </a>
-        <!---end  header check img -->
-    </div>
-</div>
-    <div id="topinfo">
-        <!-- header menu -->
-        <nav>
-            <ul id="headermenu">
-                <li style="border:0;">
-                    <a href="/members" onclick="LoadVirtualGoogleEventTracking('Text Link', 'Login');">Member Login</a>
-                </li>
-                <li>
-                            <!-- mp_trans_remove_start -->
-                            <a href="/enroll" onclick="LoadVirtualGoogleEventTracking('Text Link', 'Cart');">My Cart</a>
-                            <!-- mp_trans_remove_end -->
-                </li>
-                <li>
-                    <!-- mp_trans_supressurljs_start -->
-                    <!--mp_trans_disable_start-->
-                    <a id="_lpChatBtn" target="chat41449062" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/41449062/?cmd=file&amp;file=visitorWantsToChat&amp;site=41449062&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat41449062','width=475,height=400,resizable=yes ');  LoadVirtualGoogleEventTracking('Text Link', 'LiveChat'); return false;">LiveChat</a>
-                    <!--mp_trans_disable_end-->
-                    <!-- mp_trans_supressurljs_end -->
-                </li>
-            </ul>
-        </nav>
-        <!--End of header menu-->
-        <div id="phonehrs" class="phonetop">
-            <img src="/Content/Images/phone-icon.png">
-            <span class="phoneJoinNow">JOIN NOW:</span><span class="phone">&nbsp;Call
-1-888-632-5353            </span>
-        </div>
-        
-        <!--style="font-size: 13px; margin-right: 15px;"-->
-        <div class="brokerCode">
-                <span>M-F 8am - 9pm | Sat 9 am - 6pm | Sun 10am – 5pm EST</span>
-        </div>
-    </div>
+    <link href="/Content/StaticCss/StaticMenu.css" rel="stylesheet" type="text/css">
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7a9bec90a4","applicationID":"4797182","transactionName":"NFZRMEZQWxJVABEMWg0ccgdAWFoPGycMFlYMRl0QcFRbFVUPNQlUDUBwC1pFRw5YDwAXGhNBWhJVUkwSQAIRAFgGXUc=","queueTime":0,"applicationTime":142,"ttGuid":"4806A970C7A31E30","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8EVlFVGwcHXVZTDwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=41449062"></script></head>
+    <body>
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NGTVJG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGTVJG');</script>
+<!-- End Google Tag Manager -->
 
-                            </div>
-                            <!-- End of header_container -->
-                            <div class="bg1">
-                                <!--menu -->
-                                <nav id="cssmenu">
-                                    <ul>
-                                        <li id="homeMenu">
-<a href="/" onclick="LoadVirtualGoogleEventTracking('Nav', 'Home');">Home</a>                                        </li>
-                                        <li id="plansMenu">
-<a href="/dentalsearch/comparedentaldiscountplans" onclick="LoadVirtualGoogleEventTracking('Nav', 'Procedure');">Plans By Procedure</a>                                        </li>
-                                        <li id="dentistMenu">
-<a href="/dentalsearch/howtofinddentists" onclick="LoadVirtualGoogleEventTracking('Nav', 'Dentist');">Plans By Dentist</a>                                        </li>
-                                        <li id="visionMenu">
-<a href="/prescriptionplans-visionplans-hearingplans" onclick="LoadVirtualGoogleEventTracking('Nav', 'Vision');">Vision, Hearing &amp; More</a>                                        </li>
-                                        <li id="aboutMenu">
-<a href="/discountdentalplans/whymember" onclick="LoadVirtualGoogleEventTracking('Nav', 'About');">About US</a>                                        </li>
-                                    </ul>
-                                </nav>
-                                <!--menu-->
-                            </div>
-                            <!-- mainContent Here -->
-                            
+        <div id="wrapper_outer" style="">
+            <div class="staticHeader">
+
+<table align="center" width="1000">
+    <tbody>
+        <tr>
+            <td width="50%">
+                <a href="/" onclick="LoadVirtualGoogleEventTracking('Image', 'DP Logo');">
+                    <img alt="Individual and Family Discount Dental Plans, Affordable Dental Care Starting at $79.95 a Year!" height="42" src="http://www.dentalplans.com/content/images/logo.png" style="vertical-align:middle;">
+                </a>
+            </td>
+            <td><table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td align="right">
+                                <div style="font-size:12px; padding-top:10px;">
+                                    <a style="text-decoration: none;" class="link" id="_lpChatBtn" target="chat41449062" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/41449062/?cmd=file&amp;file=visitorWantsToChat&amp;site=41449062&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat41449062','width=475,height=400,resizable=yes ');  LoadVirtualGoogleEventTracking('Text Link', 'LiveChat'); return false;">LIVECHAT </a> &nbsp;
+                                    | &nbsp;                                                    <!-- mp_trans_remove_start -->
+                                                    <a class="link" href="/enroll" onclick="LoadVirtualGoogleEventTracking('Text Link', 'Cart');">MY CART</a>
+                                                    <!-- mp_trans_remove_end -->
+ &nbsp;
+                                    | &nbsp;<a class="link" href="/members" onclick="LoadVirtualGoogleEventTracking('Text Link', 'Login');">MEMBER LOGIN</a>
+                                </div>
+                                <div style="font-size:18px; padding-bottom:7px; padding-top:5px;">
+                                    <img src="http://www.dentalplans.com/content/images/phone-icon.png" alt="" class="icon-call">Join Now: 
+                                    <span style="font-size:18px; color:#0094a6;">Call </span>
+                                    <span style="font-size:18px; color:#0094a6; font-weight:normal;" class="phone">1-888-632-5353</span>
+                                </div>
+                                <div style="font-size:12px; line-height:12px; padding-bottom:3px; padding-bottom:20px;">
+                                        M-F 8am - 9pm | Sat 9 am - 6pm | Sun 10am – 5pm EST
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+                <table cellspacing="0" cellpadding="0" width="100%" id="orangebar">
+                    <tbody><tr>
+                               <td style="background-color:#f99104;">
+                                   <table cellspacing="0" cellpadding="0" align="center" width="1000">
+                                       <tbody><tr>
+                                                  <td align="right">
+                                                      <div id="dpmenu_wrapper">
+                                                          <ul class="dpmenu_menulist css_menu" id="dpmenu_table">
+                                                              <li style="border-left:#FFFFFF 1px solid;">
+                                                                  <div style="width: 79px;" class="buttonbg gradient_button gradient53 active">
+                                                                      <a class="" href="/" onclick="LoadVirtualGoogleEventTracking('Nav', 'Home');">Home</a>
+                                                                  </div>
+                                                              </li>
+                                                              <li>
+                                                                  <div style="width: 160px;" class="buttonbg gradient_button gradient53">
+                                                                      <div class="arrow">
+                                                                          <a class="" href="/dentalsearch/comparedentaldiscountplans" onclick="LoadVirtualGoogleEventTracking('Nav', 'Procedure');">Plans By Procedure</a>
+                                                                      </div>
+                                                                  </div>
+                                                              </li>
+                                                              <li>
+                                                                  <div style="width: 140px;" class="buttonbg gradient_button gradient53">
+                                                                      <a class="" href="/dentalsearch/howtofinddentists" onclick="LoadVirtualGoogleEventTracking('Nav', 'Dentist');">Plans By Dentist</a>
+                                                                  </div>
+                                                              </li>
+                                                              <li>
+                                                                  <div style="width: 200px;" class="buttonbg gradient_button gradient53">
+                                                                      <a class="" href="/prescriptionplans-visionplans-hearingplans" onclick="LoadVirtualGoogleEventTracking('Nav', 'Vision');">Telemedicine, Vision &amp; RX</a>
+                                                                  </div>
+                                                              </li>
+                                                              <li>
+                                                                  <div style="width: 90px;" class="buttonbg gradient_button gradient53">
+                                                                      <a class="" href="/discountdentalplans/whymember" onclick="LoadVirtualGoogleEventTracking('Nav', 'About');">About Us</a>
+                                                                  </div>
+                                                              </li>
+                                                          </ul>
+                                                      </div>
+                                                  </td>
+                                              </tr>
+                                       </tbody>
+                                   </table>
+                               </td>
+                           </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="wrapper_inner">
+                <table class="table_homepage_wrapper">
+                    <tbody>
+                        <tr>
+                            <td class="hp_middle_cell">
+                                    <div id="divCouponBanner" style="width: 100%; text-align: center; background-color: #eaeaea;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              padding: 5px 0px 5px 0px;">
+                                        %3cspan+style%3d%22font-size%3a20px%3b+font-family%3a%27Cabin+Condensed%27%3b+color%3a%23333333%3b%22%3eJ
+                                        <div style="float: right; margin-right: 10px; font-size: 10px;">
+                                            <a href="#" id="closeCouponBanner">Close X</a>
+                                        </div>
+                                    </div>
+                                <!-- mainContent Here -->
+                                
 <div id="section1container">
     <div align="center">
         <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -310,7 +517,14 @@ f = false, d = document; return { use_existing_jquery: function () { return use_
                                    <p> DentalPlans.com also automatically receives and records information on our server              logs from your browser, including your IP address, DentalPlans.com cookie information,              and the page you request. "Cookies" are small pieces of information that are stored              by an Internet User's browser on the Internet User's hard drive. </p>    <p>&nbsp;</p>
                                    <p> DentalPlans.com uses information for the following general purposes: to customize              the advertising and content you see, fulfill your requests for products and services,              improve our customer services, contact you, conduct research, and to provide anonymous              reporting for internal and external clients. </p>    <p>&nbsp;</p>
                                    <p class="pd_heading_1" style="font-size: 20px; color: rgb(0, 165, 180);">Information Sharing and Disclosure</p>
-                                   <p> DentalPlans.com does not rent, sell, or share personal identifying information about              you with nonaffiliated individuals or companies except 1) where it is necessary              to provide the information to acquire the products or services that you've requested              and where we have your permission to do so; or 2) under the following circumstances:              (a) we provide the information to nonaffiliated individuals or companies under confidentiality              agreements for the purpose of allowing them to use your personal information to              help DentalPlans.com communicate with you about offers from DentalPlans.com and/or              our marketing partners, however, these companies do not have any independent right              to share this information or to use this information for any purpose not consistent              with the limited use identified in the foregoing sentence; or 3) we also share your              personal identifying information in response to subpoenas, court orders, or other              legal process, and/or to establish and/or exercise our legal rights and/or to defend              against legal claims, and we will also share your information at such times and              under such circumstances that we determine, in our sole discretion, that it is necessary              to share the information in order to investigate, prevent, or take action regarding              illegal activities, suspected fraud, situations involving potential threats to the              physical safety of any person, violations of the DentalPlans.com Terms of Use, or              as otherwise required by law; and 4) we will transfer information about you if DentalPlans.com              is acquired by or merged with another company, and in this event, DentalPlans.com              will notify you before information about you is transferred and becomes subject              to a different privacy policy. </p>
+                                   <p> DentalPlans.com does not rent, sell, or share personal identifying information about              
+                                       you with nonaffiliated individuals or companies except 1) where it is necessary     
+                                       to provide the information to acquire the products or services that you've requested       
+                                       and where we have your permission to do so; or 2) under the following circumstances:   
+                                       (a) we provide the information to nonaffiliated individuals or companies under confidentiality 
+                                       agreements for the purpose of allowing them to use your personal information to  
+                                       help DentalPlans.com communicate with you or others about offers from DentalPlans.com and/or
+                                       our marketing partners, however, these companies do not have any independent right              to share this information or to use this information for any purpose not consistent              with the limited use identified in the foregoing sentence; or 3) we also share your              personal identifying information in response to subpoenas, court orders, or other              legal process, and/or to establish and/or exercise our legal rights and/or to defend              against legal claims, and we will also share your information at such times and              under such circumstances that we determine, in our sole discretion, that it is necessary              to share the information in order to investigate, prevent, or take action regarding              illegal activities, suspected fraud, situations involving potential threats to the              physical safety of any person, violations of the DentalPlans.com Terms of Use, or              as otherwise required by law; and 4) we will transfer information about you if DentalPlans.com              is acquired by or merged with another company, and in this event, DentalPlans.com              will notify you before information about you is transferred and becomes subject              to a different privacy policy. </p>
                                    <p>&nbsp;</p>
                                    <p>Additionally, DentalPlans.com displays targeted advertisements based on personal              information. Advertisers (including ad serving companies) may assume that people              who interact with, view, or click on targeted ads meet their targeting criteria              - for example, women ages 18-24 from a particular geographic area. DentalPlans.com              does not provide any personal information to the advertiser when you interact with              or view a targeted ad. However, by interacting with or viewing an ad, you are consenting              to the possibility that the advertiser will make the assumption that you meet the              targeting criteria used to display the ad. DentalPlans.com advertisers include financial              service providers (such as banks, insurance agents, stock brokers and mortgage lenders)              and non-financial companies (such as stores, airlines, and software companies). </p>
                                    <h3>&nbsp; </h3>
@@ -344,189 +558,216 @@ f = false, d = document; return { use_existing_jquery: function () { return use_
     <div id="blueline" style="height:10px;"></div>
 </div>
          
-                            <!-- mainContent Here -->
-                            <div id="footercontainer">
-                                <div class="footerlinks_container">
-                                    <div class="footerlinks_1">
-                                        <h4 class="footer_list_heading">
-                                            All About Us</h4>
-                                        <ul class="footer_list">
-                                            <li><a href="/press-room/companyoverview" onclick="LoadVirtualGoogleEventTracking('Footer', 'Corporate Overview');">
-                                                Corporate Overview </a></li>
-                                            <li><a href="/discountdentalplans/whymember" onclick="LoadVirtualGoogleEventTracking('Footer', 'About Us');">
-                                                About Us </a></li>
-                                            <li><a href="/discountdentalplans/careeropportunities" onclick="LoadVirtualGoogleEventTracking('Footer', 'Careers');">
-                                                Careers</a> </li>
-                                            <li><a href="/press-room" onclick="LoadVirtualGoogleEventTracking('Footer', 'Press Center');">
-                                                Press Center</a> </li>
-                                        </ul>
-                                    </div>
-                                    <!-- End of footer_list_container1 -->
-                                    <div class="footerlinks_1">
-                                        <h4 class="footer_list_heading">
-                                            Just for Fun</h4>
-                                        <ul class="footer_list">
-                                            
-                                            <li><a href="http://blog.dentalplans.com" target="_blank" onclick="LoadVirtualGoogleEventTracking('Footer', 'Blog');">
-                                                Blog</a> </li>
-                                            <li><a href="https://www.facebook.com/dentalplans" target="_blank" onclick="LoadVirtualGoogleEventTracking('Footer', 'Facebook');">
-                                                Facebook</a> </li>
-                                            <li><a href="https://twitter.com/dentalplans" target="_blank" onclick="LoadVirtualGoogleEventTracking('Footer', 'Twitter');">
-                                                Twitter</a> </li>
-                                            <li><a href="http://pinterest.com/dentalplans/" target="_blank" onclick="LoadVirtualGoogleEventTracking('Footer', 'Pinterest');">
-                                                Pinterest</a> </li>
-                                        </ul>
-                                    </div>
-                                    <!-- End of footer_list_container1 -->
-                                    <div class="footerlinks_1">
-                                        <h4 class="footer_list_heading">
-                                            Let Us Help</h4>
-                                        <ul class="footer_list">
-                                            <li><a href="/discountdentalplans/contactus" onclick="LoadVirtualGoogleEventTracking('Footer', 'Contact Us');">
-                                                Contact Us</a> </li>
-                                            <li><a href="/discountdentalplans/faq" onclick="LoadVirtualGoogleEventTracking('Footer', 'Questions Answered');">
-                                                Questions Answered</a> </li>
-                                            <li><a href="/affordable-care-act" onclick="LoadVirtualGoogleEventTracking('Footer', 'ObamaCare Dental');">
-                                                ObamaCare Dental</a> </li>
-                                            <li><a href="/regpop" onclick="javascript: LoadVirtualGoogleEventTracking('Footer', 'Email Request'); return NewWindow(this.href,'mywin','450','400','yes','center'); ">
-                                                Email Request</a> </li>
-                                            <li><a href="/members" onclick="LoadVirtualGoogleEventTracking('Footer','Account Access');">
-                                                Account Access</a> </li>
-                                            <li><a href="/discountdentalplans/sitemap" onclick="LoadVirtualGoogleEventTracking('Footer', 'Site Map');">
-                                                Site Map</a> </li>
-                                        </ul>
-                                    </div>
-                                    <!-- End of footer_list_container1 -->
-                                    <div class="footerlinks_1">
-                                        <h4 class="footer_list_heading">
-                                            Products &amp; Services</h4>
-                                        <ul class="footer_list">
-                                            <li><a href="/dentalsearch/plan-finder" onclick="LoadVirtualGoogleEventTracking('Footer', 'Plan Finder');">
-                                                Plan Finder</a> </li>
-                                            <li><a href="/dentalsearch/howtofinddentists" onclick="LoadVirtualGoogleEventTracking('Footer', 'Dentist Finder');">
-                                                Dentist Finder</a> </li>
-                                            <li><a href="/dentalplans/groupdentalplans" onclick="LoadVirtualGoogleEventTracking('Footer', 'Plans for Business');">
-                                                Plans for Business</a> </li>
-                                            <li><a href="/dentalinsuranceindex" onclick="LoadVirtualGoogleEventTracking('Footer', 'Plans By State');">
-                                                Plans By State</a> </li>
-                                            <li><a href="/dentalplansaffiliate" onclick="LoadVirtualGoogleEventTracking('Footer', 'Affiliates');">
-                                                Affiliates</a> </li>
-                                            <li><a href="/brokers" onclick="LoadVirtualGoogleEventTracking('Footer', 'Brokers');">
-                                                Brokers</a> </li>
-                                            <li><a href="/pmpdentists" onclick="LoadVirtualGoogleEventTracking('Footer', 'Dental Providers');">
-                                                Dental Providers</a> </li>
-                                        </ul>
-                                    </div>
-                                    <!-- End of footer_list_container1 -->
-                                    <div class="footerlinks_1">
-                                        <h4 class="footer_list_heading">
-                                            Legal</h4>
-                                        <ul class="footer_list">
-                                            <li><a href="/discountdentalplans/termsofuse" onclick="LoadVirtualGoogleEventTracking('Footer', 'Terms of Use');">
-                                                Terms of Use</a> </li>
-                                            <li><a href="/discountdentalplans/refundandcancellation" onclick="LoadVirtualGoogleEventTracking('Footer', 'Refund Policy');">
-                                                Refund Policy</a> </li>
-                                            <li><a href="/discountdentalplans/privacystatement" onclick="LoadVirtualGoogleEventTracking('Footer', 'Privacy');">
-                                                Privacy</a> </li>
-                                            <li><a href="/discountdentalplans/yoursecurity" onclick="LoadVirtualGoogleEventTracking('Footer', 'Security');">
-                                                Security</a> </li>
-                                        </ul>
-                                    </div>
-                                    <div class="dottedborder2">
-                                        &nbsp;</div>
-                                    <div id="socialmediacontainer">
-                                        <div id="contactformtitle">
-                                            Let's Get Connected</div>
-                                        <div id="socialmediaicons">
-                                            <a href="http://www.facebook.com/dentalplans" target="_blank" onclick="LoadVirtualGoogleEventTracking('Button', 'Face Book');">
-                                                <img src="/Areas/s2/Content/Images/sm_1.jpg" alt="Like Us on Facebook" title="Like Us on Facebook"></a>
-                                            <a target="_blank" href="http://twitter.com/#!/dentalplans" onclick="LoadVirtualGoogleEventTracking('Button', 'Twitter');">
-                                                <img src="/Areas/s2/Content/Images/sm_2.jpg" class="icon" alt="Follow Us on Twitter" title="Follow Us on Twitter"></a> <a target="_blank" href="http://www.youtube.com/dentalplans" onclick="LoadVirtualGoogleEventTracking('Button', 'You Tube');">
-                                                        <img src="/Areas/s2/Content/Images/sm_3.jpg" class="icon" alt="View Our YouTube Channel" title="View Our YouTube Channel"></a> <a target="_blank" href="https://plus.google.com/113102273764286342677?prsrc=3" rel="publisher" onclick="LoadVirtualGoogleEventTracking('Button', 'Google Plus');">
-                                                                <img src="/Areas/s2/Content/Images/sm_4.jpg" class="icon" alt="Google+" style="border: 0;
-                                                                    width: 25px; height: 25px;"></a> <a target="_blank" href="http://blog.dentalplans.com" onclick="LoadVirtualGoogleEventTracking('Button', 'DP Blog');">
-                                                                        <img src="/Areas/s2/Content/Images/sm_5.jpg" class="icon" alt="DentalPlans.com Blog, Dental Insurance Alternatives" title="DentalPlans.com Blog, Dental Insurance Alternatives"></a>
-                                        </div>
-                                        <div id="contactformtitle2">
-                                            Email Me Savings &amp; Updates</div>
-                                        <div id="contactformtitle">
-                                            <table border="0" cellspacing="0" cellpadding="0" id="subscribeform_container">
-                                                <tbody>
-                                                    <tr>
-                                                        <td width="186" style="padding-top: 3px;">
-                                                            <input class="smallform" type="text" value="Enter Email" onfocus="if (this.value == 'Enter Email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter Email';}" id="txtenteremail" placeholder="Enter Email">
-                                                        </td>
-                                                        <td width="114" style="padding-left: 16px;">
-                                                            <button type="button" id="submit-go" onclick="LoadVirtualGoogleEventTracking('Button', 'Email Me');">
-                                                                Submit</button>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
-                                        <div id="clear">
-                                        </div>
-                                        <div id="privacy">
-                                            <a href="/discountdentalplans/privacystatement" onclick="LoadVirtualGoogleEventTracking('Text Link','Privacy Policy');">
-                                                Privacy Policy</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End of footer_upper_container -->
-                                <div id="clear">
-                                </div>
-                                <div class="dottedline">
-                                </div>
-                                <div id="disclaimer_container">
-                                    <div id="disclaimer">
-                                        <p>
-                                            Savings plans are NOT insurance and the savings will vary by provider, plan and
-                                            zip code. These plans are not considered to be qualified health plans under the
-                                            Affordable Care Act. Please consult with the respective plan detail page for additional
-                                            plan terms. The discounts are available through participating healthcare providers
-                                            only. To check that your provider participates, visit our website or call us. Since
-                                            there is no paperwork or reimbursement, you must pay for the service at the time
-                                            it’s provided. You will receive the discount off the provider’s usual and customary
-                                            fees when you pay. We encourage you to check with your participating provider prior
-                                            to beginning treatment. Special promotions including, but not limited to, additional
-                                            months free are not available to California residents. Note – not all plans and
-                                            offers available in all markets.
-                                        </p>
-                                          <p>   © 1999-2014 DentalPlans.com, Inc. All Rights Reserved. Patents Pending.</p>
-                                    </div>
-                                    <div id="disclaimer_logos">
-                                        <table>
-    <tbody>
-        <tr>
-            <td colspan="2">
-                <a href="http://www.bbb.org/south-east-florida/business-reviews/dentist-referral-services/dentalplanscom-in-plantation-fl-4008612#sealclick" title="Click for the Business Review of DENTALPLANS.COM, a Dental Service Plans in Plantation FL" target="_blank" onclick="LoadVirtualGoogleEventTracking('Icon', 'BBB');">
-                    <img alt="Click for the BBB Business Review of this Dental Service Plans in Plantation FL" src="https://seal-Seflorida.bbb.org/seals/blue-seal-120-61-dentalplanscom-4008612.png" style="border: 0;">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <script src="https://seal.thawte.com/getthawteseal?host_name=www.dentalplans.com&amp;size=M&amp;lang=en" type="text/javascript"></script>
-            </td>
-            <td>
-                <a href="https://www.securitymetrics.com/site_certificate.adp?s=p1%2edentalplans%2ecom&amp;i=501776" target="_blank" onclick="LoadVirtualGoogleEventTracking('Icon', 'SecurityMetrics');">
-                    <img alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0" src="https://www.securitymetrics.com/images/sm_ccsafe_check1.gif">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+                                <!-- mainContent Here -->
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <div class="staticFooter">
+                <table width="100%" height="427px" border="0" cellspacing="0" cellpadding="0">
+                    <tbody>
+                        <tr>
+                            <td bgcolor="#333333">
+                                &nbsp;
+                            </td>
+                            <td width="954" align="left" valign="top" bgcolor="#333333" style="padding-top: 36px;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            padding-bottom: 36px;">
+                                <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                                    <tbody>
+                                        <tr>
+                                            <td width="14%" height="158" align="left" valign="top">
+                                                <h4>About Us</h4>
+                                                <span style="line-height: 22px;">
+                                                    <a href="/press-room/companyoverview" onclick="LoadVirtualGoogleEventTracking('Footer', 'Corporate Overview');">Overview</a><br>
+                                                    <a href="/discountdentalplans/whymember" onclick="LoadVirtualGoogleEventTracking('Footer', 'About Us');">About Us</a><br>
+                                                    <a href="/discountdentalplans/careeropportunities" onclick="LoadVirtualGoogleEventTracking('Footer', 'Careers');">Careers</a><br>
+                                                    <a href="/press-room" onclick="LoadVirtualGoogleEventTracking('Footer', 'Press Center');">Press Center</a><br>
+                                                     <a href="http://blog.dentalplans.com/" target="_blank" onclick="LoadVirtualGoogleEventTracking('Footer', 'Blog');">Blog</a>
+                                                </span>
+                                            </td>
+                                            <td width="14%" align="left" valign="top">
+                                                <h4>
+                                                    Find A Plan</h4>
+                                                <span style="line-height: 22px;">
+                                                    <a href="/dentalsearch/plan-finder" onclick="LoadVirtualGoogleEventTracking('Footer', 'Plan Finder');">Plan Finder</a><br>
+                                                    <a href="/dentalsearch/howtofinddentists" onclick="LoadVirtualGoogleEventTracking('Footer', 'Dentist Finder');">Dentist Finder</a><br>
+                                                    <a href="/dentalplans/groupdentalplans" onclick="LoadVirtualGoogleEventTracking('Footer', 'Plans for Business');">Plans for Business</a><br>
+                                                    <a href="/dentalinsuranceindex" onclick="LoadVirtualGoogleEventTracking('Footer', 'Plans By State');">Plans By State</a><br>
+                                                    <a href="/regpop" onclick="javascript: LoadVirtualGoogleEventTracking('Footer', 'Email Request'); return NewWindow(this.href,'mywin','450','400','yes','center'); ">Email Me Info</a><br>
+                                                </span>
+                                            </td>
+                                            <td width="14%" align="left" valign="top">
+                                                <h4>
+                                                    Let Us Help</h4>
+                                                <span style="line-height: 22px;">
+                                                    <a href="/discountdentalplans/contactus" onclick="LoadVirtualGoogleEventTracking('Footer', 'Contact Us');">Contact Us</a><br>
+                                                    <a href="/discountdentalplans/faq" onclick="LoadVirtualGoogleEventTracking('Footer', 'Questions Answered');">FAQ's</a><br>
+                                                    <a href="/affordable-care-act" onclick="LoadVirtualGoogleEventTracking('Footer', 'ObamaCare Dental');">ObamaCare Dental</a><br>
+                                                    <a href="/dental-information" onclick="LoadVirtualGoogleEventTracking('Footer', 'Dental Information Center');">Dental Information Center</a><br>
+                                                    <a href="/members" onclick="LoadVirtualGoogleEventTracking('Footer','Account Access');">Account Access</a><br>
+                                                    <a href="/discountdentalplans/sitemap" onclick="LoadVirtualGoogleEventTracking('Footer', 'Site Map');">Site Map</a><br>
+                                                </span>
+                                            </td>
+                                            <td width="14%" align="left" valign="top">
+                                                <h4>
+                                                    :DP Programs</h4>
+                                                <span style="line-height: 22px;"><a href="/dentalplansaffiliate" onclick="LoadVirtualGoogleEventTracking('Footer', 'Affiliates');">Affiliates</a><br>
 
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End of footer_container -->
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div id="givefeedback_container">
+                                                  
+
+                                                    <a href="/brokers" onclick="LoadVirtualGoogleEventTracking('Footer', 'Brokers');">Brokers</a><br>
+                                                    <a href="/dentist/providerportal" onclick="LoadVirtualGoogleEventTracking('Footer', 'For Dental Professionals');">For Dental Professionals</a><br>
+                                                </span>
+                                            </td>
+                                            <td width="23%" align="left" valign="top">
+                                                <h4>
+                                                    Savings &amp; Updates</h4>
+                                                <p style="font-size: 12px;">
+                                                    Sign up if you would like to receive<br>
+                                                    occasional treats</p>
+                                                <table width="88%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="65%" height="34" align="right" valign="top">
+                                                                <span class="input-group">
+                                                                    <input type="text" value="Enter Email" onfocus="if (this.value == 'Enter Email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter Email';}" id="txtenteremail" placeholder="Enter Email">
+                                                                </span>
+                                                            </td>
+                                                            <td width="35%" align="left">
+                                                                <form class="form-inline">
+                                                                    <div class="input-group">
+                                                                        <span class="input-group-btn">
+                                                                            <input type="image" src="/Content/StaticCss/images/go.jpg" id="btngo" alt="GO!" width="43">
+                                                                             
+                                                                        </span>
+                                                                    </div>
+                                                                </form>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <p style="font-size: 12px;">
+                                                </p>
+                                            </td>
+                                            <td align="left" valign="top" style="padding-left: 10px;" width="21%">
+                                                <h4>
+                                                    Let's Get Connected</h4>
+                                                <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td height="55" align="left">
+                                                                <a href="http://www.facebook.com/dentalplans" target="_blank">
+                                                                    <img src="http://www.dentalplans.com/Content/images/emoticons/facebook.png" onclick="LoadVirtualGoogleEventTracking('Footer', 'Facebook');" alt="Like Us on Facebook" title="Like Us on Facebook"></a>
+                                                            </td>
+                                                            <td align="left">
+                                                                <a href="https://plus.google.com/113102273764286342677?prsrc=3" target="_blank">
+                                                                    <img src="http://www.dentalplans.com/Content/images/emoticons/googleplus.png" onclick="LoadVirtualGoogleEventTracking('Footer', 'GooglePlus');" alt="Add Us to Your Circle on Google+" title="Add Us to Your Circle on Google+"></a>
+                                                            </td>
+                                                            <td align="left">
+                                                                <a href="http://blog.dentalplans.com/" target="_blank">
+                                                                    <img src="http://www.dentalplans.com/Content/images/emoticons/blog.png" onclick="LoadVirtualGoogleEventTracking('Footer', 'Blog');" alt="Read Our Blog" title="Read Our Blog"></a>
+                                                            </td>
+                                                            <td align="left">
+                                                                <a href="http://twitter.com/#!/dentalplans" target="_blank">
+                                                                    <img src="http://www.dentalplans.com/Content/images/emoticons/twitter.png" onclick="LoadVirtualGoogleEventTracking('Footer', 'Twitter');" alt="Follow Us on Twitter" title="Follow Us on Twitter"></a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left" valign="top">
+                                                                <a href="http://www.pinterest.com/dentalplans/" target="_blank">
+                                                                    <img src="http://www.dentalplans.com/Content/images/emoticons/pintrest.png" onclick="LoadVirtualGoogleEventTracking('Footer', 'Pinterest');" alt="Follow Us on Pinterest" title="Follow Us on Pinterest"></a>
+                                                            </td>
+                                                            <td align="left" valign="top">
+                                                                <a href="http://www.youtube.com/dentalplans" target="_blank">
+                                                                    <img src="http://www.dentalplans.com/Content/images/emoticons/iconyoutube.png" onclick="LoadVirtualGoogleEventTracking('Footer', 'YouTube');" alt="View Our YouTube Channel" title="View Our YouTube Channel"></a>
+                                                            </td>
+                                                            <td align="left" valign="top">
+                                                                &nbsp;
+                                                            </td>
+                                                            <td align="left" valign="top">
+                                                                &nbsp;
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                &nbsp;
+                                            </td>
+                                            <td>
+                                                &nbsp;
+                                            </td>
+                                            <td>
+                                                &nbsp;
+                                            </td>
+                                            <td>
+                                                &nbsp;
+                                            </td>
+                                            <td>
+                                                &nbsp;
+                                            </td>
+                                            <td>
+                                                &nbsp;
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="6" style="font-size: 12px; color: #FFF; line-height: 24px; border-top: 1px solid #444;">
+                                                &nbsp;
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="6" style="font-size: 12px; color: #FFF; line-height: 24px;">
+                                                Savings plans are NOT insurance and the savings will vary by provider, plan and
+                                                zip code. These plans are not considered to be qualified health plans under the
+                                                Affordable Care Act. Please consult with the respective plan detail page for additional
+                                                plan terms. The discounts are available through participating healthcare providers
+                                                only. To check that your provider participates, visit our website or call us. Since
+                                                there is no paperwork or reimbursement, you must pay for the service at the time
+                                                it’s provided. You will receive the discount off the provider’s usual
+                                                and customary fees when you pay. We encourage you to check with your participating
+                                                provider prior to beginning treatment. Special promotions including, but not limited
+                                                to, additional months free are not available to California residents or on Fully Insured Plans. Note –
+                                                not all plans and offers available in all markets.
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="36" colspan="6">
+                                                <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="74%" style="font-size: 12px; color: #FFF; line-height: 24px;">
+                                                                <p>
+    © 1999-2015 DentalPlans.com, Inc. All Rights Reserved.
+    Patents Pending. <a href="/discountdentalplans/termsofuse" onclick="LoadVirtualGoogleEventTracking('Text Link','Terms of Use');">
+        Terms of Use</a> | <a href="/discountdentalplans/privacystatement" onclick="LoadVirtualGoogleEventTracking('Text Link','Privacy Policy');">
+            Privacy Policy</a> | <a href="/discountdentalplans/refundandcancellation" onclick="LoadVirtualGoogleEventTracking('Text Link','Refund Policy');">
+                Refund Policy</a>
+</p>
+
+                                                            </td>
+                                                            <td width="26%">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                            <td bgcolor="#333333">
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div id="givefeedback_container">
             <!--Start Kampyle Feedback Form Button-->
             <div id="k_close_button" class="k_float kc_bottom kc_right" style="display: block;">X</div>
             <div style="height: 81px; width: 81px">
@@ -537,14 +778,15 @@ f = false, d = document; return { use_existing_jquery: function () { return use_
             <script src="/Scripts/k_button.js" type="text/javascript"></script>
             <script src="/Scripts/k_push.js" type="text/javascript"></script>
             <!--End Kampyle Feedback Form Button-->
+            </div>
         </div>
-    </div>
+
     
 
-    <div id="zoom" style="position: fixed; top: 100px; right: 0px; color: white;">
+    <div id="zoom" style="position:fixed; display:none; top:100px; right: 0px; color: white">
         <a id="zoomIn"><img src="/Content/Images/zoom_in.png"></a>
         <br>
-        <a id="zoomOut" style="display: none;"><img src="/Content/Images/zoom_out.png"></a>
+        <a id="zoomOut"><img src="/Content/Images/zoom_out.png"></a>
     </div>
 <script src="/Scripts/Zoom?v=3HsahhITgYZIh9XKMWTgcbIGAk3iRZ-hg4fBK1zbFNk1"></script>
 
@@ -583,26 +825,6 @@ lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = 'vtid=';
             <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072713809/?value=0&amp;label=ntEiCLCumgMQ0aDB_wM&amp;guid=ON&amp;script=0" />
         </div>
     </noscript>
-    <!-- AddRoll Tracking Pixel Start -->
-    <script type="text/javascript">
-        adroll_adv_id = "QC3OUOGFXND4HDKDAXUXGQ";
-        adroll_pix_id = "MBN7LBZ62FCYHLJ7F56YCR";
-        (function () {
-            var oldonload = window.onload;
-            window.onload = function () {
-                __adroll_loaded = true;
-                var scr = document.createElement("script");
-                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                scr.setAttribute('async', 'true');
-                scr.type = "text/javascript";
-                scr.src = host + "/j/roundtrip.js";
-                ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                if (oldonload) { oldonload() }
-            };
-        } ());
-    </script>
-    <!-- AddRoll Tracking Pixel End -->
     <script type="text/javascript">
 
     SetColors();
@@ -708,24 +930,6 @@ lpMTagConfig.visitorVar[lpMTagConfig.visitorVar.length] = 'vtid=';
 
 
       
-      <!-- Piwik --> 
-<script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.videoactivenetwork.tv/" : "http://piwik.videoactivenetwork.tv/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://piwik.videoactivenetwork.tv/piwik.js" type="text/javascript"></script>
-<script type="text/javascript">
-try 
-{
-	var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 34);
-	piwikTracker.trackPageView();
-	piwikTracker.enableLinkTracking();
-} 
-catch( err ) 
-{
-}
-</script>
-<noscript><p><img src="http://piwik.videoactivenetwork.tv/piwik.php?idsite=34" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tracking Code -->
 
       
 
