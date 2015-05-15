@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamlivesports.net privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124225537id_/http%3A//www.streamlivesports.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamlivesports.net privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515211206id_/http%3A//www.streamlivesports.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Live Football Matches | Stream Football Live | Soccer Live Stream | Free Football Live | Football Games Online | StreamLiveSports.net
 
