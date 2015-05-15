@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eblastengine.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230184437id_/http%3A//secondstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eblastengine.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515070532id_/http%3A//secondstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Second Street Online Promotions Platform
 
