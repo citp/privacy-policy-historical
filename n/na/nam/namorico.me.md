@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namorico.me privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224033105id_/http%3A//namorico.me/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namorico.me privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515211418id_/http%3A//namorico.me/privacypolicy) for the most accurate reproduction.*
 
 # Namorico – website for meetings! Communication without limits
 
