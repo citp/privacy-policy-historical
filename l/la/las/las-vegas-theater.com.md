@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129140001id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515065910id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.*
 
 # Las Vegas Theater - Privacy Policy
 
@@ -32,10 +32,6 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 ### LINKS
 
 This site contains links to other sites. [Las Vegas Theater](http://www.las-vegas-theater.com/) is not responsible for the privacy practices or the content of such Web sites. We encourage you to read posted privacy statements whenever interacting with any Web site. We will not share any specific information that you provide to us without your explicit permission to share it.
-
-### ORDER FORM
-
-This Web site uses the internet's leading ticket reseller [TicketNetwork.com](http://www.ticketnetwork.com/) for the purchase of tickets. Please refer to [TicketNetwork.com](http://www.ticketnetwork.com/) for their privacy policy
 
 ### SECURITY
 
