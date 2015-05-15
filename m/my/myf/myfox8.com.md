@@ -1,67 +1,144 @@
-> *The following text is extracted and transformed from the myfox8.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419135037id_/http%3A//myfox8.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfox8.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515091732id_/http%3A//privacy.tribune.com) for the most accurate reproduction.*
 
-# Privacy Policy | MyFOX8.com
+# Privacy Policy - Tribune - privacy.tribune.com
 
-**PRIVACY POLICY**
+Tribune Company is a diverse multimedia company and, together with its Affiliates, operates daily newspapers, television stations, a digital broadcast program network, and news, entertainment, and information websites. In this Privacy Policy, “Affiliates” refers to our subsidiaries and entities that Tribune or its subsidiaries operate or have an ownership interest in. 
 
-Your privacy is important to us. We have created this Privacy Policy (the “Policy”) to notify you how we treat personally identifiable information and other information that we collect and store. This Policy applies only to information collected by myfox8.com (the “Site”) and does not protect information you post to public areas on the Site. This Policy is not a contract between you and us, and this Policy imposes no duties on us not imposed by state or federal law.
+This Privacy Policy applies only to the information we collect through the websites, mobile applications, electronic devices, kiosks, and all other interactive services whereby data is transmitted (hereinafter “the Services”) operated by Tribune Company and its subsidiaries (collectively “we” or “us”) regardless of how you access the Services, unless such website, mobile application, electronic device, kiosk, or other interactive service has a separate Privacy Policy specific to such website, application, device, kiosk, or interactive service. The Policy describes: 
 
-The Site is owned and operated by Local TV, LLC, dba WGHP Television.
+  * The information we collect and how we collect it;
+  * What we do with the information we collect;
+  * Information sharing and disclosure;
+  * How you can access and update your information;
+  * How we protect information;
+  * Linked sites and advertisements;
+  * Users from outside the United States;
+  * Children;
+  * How to contact us;
+  * Your California privacy rights;
+  * No rights of third parties; and 
+  * Changes to this policy.
 
-Any inquiries about this Policy should be directed to:
 
-WGHP Television  
-Attn: Webmaster – Privacy Policy  
-2005 Francis Street  
-High Point, NC  27263  
-Email: webmaster@wghp.com
 
-This Policy is incorporated by reference into the Terms and Conditions of Use Agreement to which you agreed upon entering the Site.
+**The information we collect and how we collect it.**
 
-**How we gather information from users:**
+How we collect and store information depends on the websites you visit, the activities in which you participate and the Services you use. You can use some of the Services without providing any information other than that automatically collected as described below. 
 
-The information we learn from you helps us personalize and improve your experience at the Site. The following are the types of information we gather:
+We may collect information about you during your use of the Services, including your name, username, password, email address, postal address, phone number, mobile phone number, payment information, gender, birth year, and information you provide or post on our Services or allow us to access when you do certain things, such as:
 
-Information You Voluntarily Give Us: We receive information when you register for the Site, sign up for membership, request certain features, or make a purchase. Additionally, you may provide information when you participate in sweepstakes or contests, voting and polling activities, and other interactive areas of the Site. Any personally identifiable information you provide is voluntary. This personal data (such as age and gender) may be used to create personalized content, services, and advertising on our Site, as well as to better understand your preferences. The Site may combine information that you voluntarily give us with information provided by third parties and affiliates.
+  * Enter registration information for one or more of our Services;
+  * Enter a sweepstakes or contest or register for a promotion;
+  * Participate in voting or polling activities;
+  * Make a purchase;
+  * Request certain features (e.g., newsletters, updates, and other products);
+  * Sign up to receive SMS (text message) notifications;
+  * Download or use one of our mobile applications;
+  * Connect with the Services or otherwise allow us to access certain information about you via a social networking site (“SNS”); or
+  * Post user-generated content to or on any of our Services. 
 
-Please note: Determinations of eligibility for contests or sweepstakes will be made without regard to a contestant’s race, sex, religion, marital status, sexual orientation, national origin, veteran status, or any other status protected by law.
 
-E-mail / Opt-Out: When we ask for your personally identifiable information, such as email address, to share with our third party promotional partners or non-affiliated advertisers, you have the opportunity to ‘opt-out’ of providing such information. During the registration process or at other places on the Site, you may have the opportunity to indicate areas about which you would like to receive more information. Participation in any of these programs is at your option, and you will not be enrolled automatically in any of these programs. If you opt-in, you may opt out at any time if you change your mind by logging into your profile and changing your email preferences, if applicable.
 
-Automatic Information: We automatically receive and record certain types of information whenever you interact with us. This information, which is recordable any time you use the Internet, includes the Internet Protocol (IP) address used to connect your computer to the Internet; your domain name, if any; and computer and connection information, such as browser type and version. In addition, like many Web sites, we use a technology called “cookies” to record your activity while visiting the Site. We use this information to learn how you use the Site, to remember your preferences, and to diagnose problems.
+We may collect and store your user ID associated with a SNS account that you use to sign in to your Tribune account or connect or use with the Services. When you sign in to your Tribune account or mobile application with your SNS account information or otherwise connect to your SNS account with the Services, you authorize Tribune to collect, store, and use in accordance with this Privacy Policy any and all information available to Tribune through the SNS interface, including without limitation any information that you have made public in connection with your SNS account, information that the SNS shares with us, or information that is disclosed as being shared during the sign-in process. 
 
-Aggregated Usage Information: We may provide aggregated usage information to third parties, such as content licensors and advertisers, for diagnostic, billing and sales purposes. However, such information will not include any personally identifiable user information. This information is purely statistical in nature and cannot be tied to you.
+We may also combine information that we collect from you with information we obtain about you from third parties and Affiliates and information derived from any other subscription, product, or service we provide.
 
-Links & Advertisements: To better serve you, we may provide you with external links to other sites which we believe can offer you useful information and services. Any external (non-myfox8.com) Web sites to which we provide links are subject to their own privacy policies, and you will need to review those policies. We have no control over or responsibility for the privacy practices of any external sites. Additionally, we use third-party technology to serve advertisements to you and allow third parties to access their own cookies on your computer. Use of cookies by third parties is subject to their own privacy policies and not this Policy.
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose information through the Services, such as via SNSs, on message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. 
 
-More Information about Cookies. Cookies are small text files placed on your computer’s hard drive through your Web browser that enable us to personalize your Web browsing experience. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, disabling cookies may prevent you from taking full advantage of some of the features on the Site.
+**Cookies and other electronic technologies.**
 
-**Do We Share Your Personal Information?**
+When you use the Services, we use persistent and session cookies and other tracking technologies to: (a) store your username and password; (b) analyze the usage of our sites and Services; (c) customize the Services to your preferences; and (d) control the advertising displayed by the Services. We may also use other Internet technologies, such as Flash technologies, Web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of the Services (including to serve you ads when you are on other websites or the Internet when we can access those cookies). We also may include Web beacons in e-mail messages or newsletters to determine whether the message has been opened. As we adopt additional technology, we may also gather additional information through other methods.
 
-In addition to the third-party sharing discussed above, the Site may share your personal information as follows:
+We use these automated technologies to collect and analyze certain types of information we consider to be non-personal information, including: (a) information related to the devices you use to access or interact with our services, such as: IP addresses, geolocation information (as described further below), unique device identifiers and other information about your mobile phone or other mobile device(s), browser types, browser language; and (b) information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, and other similar information. We may also capture other data, such as search criteria and results. In some cases, we will associate this information with a unique Tribune identifier (that cannot be used by itself to identify you) for our internal use, in which case your Tribune identifier will be considered Tribune information and nothing in this Privacy Policy restricts how Tribune may use this information. 
 
-We may rent, sell, or share personally identifiable information about you with third parties only in order to provide services or products that you have requested; when we have your permission; or as otherwise described in this Policy.
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the [Adobe website](http://www.adobe.com/) and make changes at the [Global Privacy Settings Panel.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html)
 
-We may share your information with our affiliates or agents in order to provide services or communicate with you on our behalf.
+**Third party advertising and your choices.**
 
-We will disclose information if required by law, such as in response to a subpoena or similar legal process, or as necessary to enforce the Terms and Conditions of Use for the Site. If we or substantially all of our assets are acquired, user information may be one of the transferred assets. We will not be liable for your information no longer in our possession.
+Third parties whose products or services are accessible or advertised via the Services may also place cookies or other tracking technologies on your computer, mobile phone, or other device to collect non-personal information about your use of the Services. We also allow other third parties (e.g., ad networks and ad servers) to serve tailored ads to you on the Services, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services. We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below. You may receive tailored advertising on your computer through a web browser. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer to deliver tailored advertising, you may visit the [Network Advertising Initiative’s website](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Digital Advertising Alliance’s website](http://www.aboutads.info/choices/). You also can control advertising cookies from Google, by using its [ Ads Preference Manager ](https://www.google.com/settings/ads/onweb/?sig=ACi0TChRwpbntAMM2njihdXfozJJeFxAHpjCee18n5ZUFrx0f8Ag81ZmI54vN5AJDgezZbJiXkYJzMoIPZZ5IrzDPFotiE02HNJqcwNz6mqlWRRkiULVCbvp_56vm0MKiu_uNlIoIfHLZNZk4nM3PMRYKe24CwR6JlanqGrd1kJrWrKSpv82qlzOgEH_yTJ2vTcw2LO912QV&hl=e). Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising. 
 
-We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. By way of example, without limiting the foregoing, we may be forced to disclose personal information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications.
+When using a mobile application you may receive tailored in-application advertisements. Each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator. 
 
-**How Is The Collected Information Protected?**
+**Device location information.**
 
-We use state-of-the-art technology to protect your data from unauthorized third parties. Currently, we use Secure Socket Layer (SSL) software to protect your personal data. SSL encrypts personal information as it is transmitted over the Internet. We use firewalls between our internal network and the Web to allow only clearly defined traffic to access specific services. The Site is registered with a site identification authority that enables your browser to confirm our identity before you send any information.
+We may collect different types of information about your location, including general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Services), and may use that information to customize the Services with location-based information, advertising, and features. For example, if you provide a zip code that indicates that you live in Chicago, the Services may be customized with Chicago-specific information and advertisements. In order to do this, your location information may be passed along to our Affiliates, agents, vendors or advertisers. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details. 
 
-During the registration process, we use a server ID (or a digital certificate) together with industry-standard 128-bit SSL encryption to protect sensitive Member information, if any, during both transmission and storage. You can confirm the presence of security measures when transmitting data through your security-enabled browser by looking for: A URL beginning with “https://” rather than “http://”. If you’re using Microsoft Internet Explorer® or Mozilla Firefox®, a closed lock icon at the bottom of the browser window.
+**What we do with the information we collect.**
 
-Privacy Rights of California Residents. If you are a California resident, you are entitled to additional privacy rights under California law. If you submit a written request to the address above, myfox8.com will provide you with a California Customer Choice Notice that you may use to opt-out of third party personal information sharing. Please specify on your request that you are seeking your “California Customer Choice Notice” and allow at least 30 days for a response.
+We use the information that we collect for the following purposes:
 
-**How Do I Learn More About The Information Collected?**
+  * For the purposes for which you provided it;
+  * To send you information about your relationship or transactions with us;
+  * To send you alerts or other communications via SMS messages or other media or networks;
+  * To notify you about new features of the Services, special events, or products, services, and special offers;
+  * To administer sweepstakes and contests;
+  * To process and respond to your inquiries;
+  * To contact you with information that we believe will be of interest to you;
+  * To attribute content that you make available through the Services;
+  * To generate and review reports and data about our user base and Service usage patterns;
+  * To analyze the accuracy, effectiveness, usability, or popularity of the Services;
+  * To improve the content and features of the Services or develop new Services;
+  * To allow us to personalize the content and advertising that you see on the Services;
+  * To enforce the legal terms that govern your use of the Services; and
+  * To administer and troubleshoot the Services.
 
-If you have any questions or concerns about the information collected about you or this Policy, please contact us at the following email address: webmaster@wghp.com.
 
-When you use the Site, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort (for instance, requests concerning information residing on backup tapes), jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site.  These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you.  These companies typically use a cookie or third party web beacon to collect this information.
+The Services are supported by advertising revenue. We will send you commercial email on behalf of ourselves, our Affiliates, and advertisers. Each such email we send you will have an opt-out that you can use to stop receiving such communications. 
 
-To learn or more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.networkadvertising.org/managing/opt_out.asp>
+We may aggregate and/or anonymize information collected by the Services or via other means so that the information does not identify you. Our use and disclosure of aggregated, anonymized, and other non-personal information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
+
+**Information sharing and disclosure.**
+
+We will make your information available to other companies, websites, applications or people in the circumstances described below:
+
+  * We may rent, sell, or share your information with non-affiliated third parties: (a) in order to provide services or products that you have requested; (b) when we have your permission; or (c) as described in this Privacy Policy.
+  * We may share your information with any Affiliate or agent of Tribune Company in order to provide the Services or advertising or to communicate with you on our behalf.
+  * When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest advertisers, operators, or sponsors and the use of that information will be also governed by those advertisers’, operators’, or sponsors’ privacy policies or practices.
+  * We may disclose your information in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
+  * We may share your information with third-party advertisers and advertising networks or others with which we have a contractual relationship.
+  * We may disclose your information when we believe it appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service for the Services you accessed, and/or to protect our rights and property.
+
+
+
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. 
+
+**How you can access and update your information.**
+
+To ensure that you have some control over the information we have about you, you may review and update certain user profile information by logging in to the relevant portions of the Services where such information may be updated (may be available on some Services and not others) or by contacting us at [privacy@tribune.com](mailto:privacy@tribune.com).
+
+**How we protect information.**
+
+We have implemented reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information. Despite our best efforts, however, no security measures are completely impenetrable. 
+
+**Linked sites and advertisements.**
+
+The Services may contain links to third-party websites. We are not responsible for the privacy practices or the content of those third-party websites. 
+
+We have relationships with third-party providers to provide content, products, services, and functionality through the Services. When you visit sites or use any Services provided in conjunction with one or more of these third-party providers and the brands of those providers appear on the site or Services in connection with such content, products, services, or functionality, we may share any information you provide or that is collected during your use of those Services with those providers. In some cases, the provider may collect information from you directly, in which case the provider’s privacy policy (which may differ from this Privacy Policy) would apply. If you have any questions regarding the privacy policy of any of our providers, you should contact the provider directly for more information. 
+
+**Users from outside the United States.**
+
+The Services are hosted in the United States and are governed by United States law. If you are using the Services from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our databases are operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy. 
+
+**Children.**
+
+The Services are not intended for persons under the age of 13. We require that only persons 13 years of age or older use the Services. By using the Services, you hereby represent that you are at least 13 years old. Some third parties, such as platform providers like the iTunes Store or Google Play may provide age-based ratings on some of the Services. These ratings shall have no bearing on this limitation. Third parties may also provide content categories on some of the Services. These categories shall have no bearing on this limitation. 
+
+**How to contact us.**
+
+If you have any questions, comments, or concerns regarding our Privacy Policy or practices, please send an email to [privacy@tribune.com](mailto:privacy@tribune.com).
+
+**Your California privacy rights.**
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@tribune.com](mailto:privacy@tribune.com). 
+
+**No rights of third parties.**
+
+This Privacy Policy does not create rights enforceable by third parties. 
+
+**Changes to this policy.**
+
+Tribune Company reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this policy will mean you accept those changes. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by email or by means of a notice on our website. 
+
+Copyright © 2013 Tribune Company.
