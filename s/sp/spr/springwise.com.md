@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228151224id_/http%3A//www.springwise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springwise.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515050500id_/http%3A//www.springwise.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Springwise
 
 Springwise has created this privacy statement in order to demonstrate our firm commitment to your privacy. We will never offer any information about you to any outside company unless we receive your prior consent. The following discloses our information gathering and dissemination practices for the Springwise website and newsletter.
 
-If for any reason you feel that your privacy or security has been compromised, contact us immediately at [info@springwise.com](mailto:info@springwise.com).
+If for any reason you feel that your privacy or security has been compromised, contact us immediately at [info@www.springwise.com](mailto:info@www.springwise.com).
 
 **Information we gather and track**  
 Information on general usage and any optional personal details you provide to us will be used to provide you with enhanced features such as customized content, access to special sections on our websites and so on.
@@ -26,12 +26,11 @@ Our site uses a sign-up form for readers to subscribe to our newsletter. We coll
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact:
 
 Springwise  
-+44 20 7251 6811  
 19-20 Great Sutton Street  
 EC1V 0DR, London  
 United Kingdom
 
-[info@springwise.com](mailto:info@springwise.com)
+[info@www.springwise.com](mailto:info@www.springwise.com)
 
 Springwise and its logo are trademarks of Springwise. The Springwise website and newsletter are copyright © Springwise. All rights reserved.
 
