@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bloggersideas.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131914id_/http%3A//www.bloggersideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggersideas.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515053820id_/http%3A//www.bloggersideas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bloggers IdeasBloggers Ideas
+# Privacy Policy - Bloggers Ideas
 
 This privacy policy sets out how “Bloggersideas.com” uses and protects any information that you give “Bloggersideas.com” when you use this website.  
 “Bloggersideas.com” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
-“Bloggersideas.com” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 24/10/2013.
+“Bloggersideas.com” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/2/2015.
 
 ## **What we collect**  
 We may collect the following information:
@@ -60,18 +60,20 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [www.bloggersideas.com](http://www.bloggersideas.com/)
 
-Pashan Sus Road , Baner
+Noidas sector 61 , Noida
 
-DSK Vidyanagari ,
+U.P ,
 
-Pune
+Delhi NCR
 
-Pin Code: 411045
+Pin Code: 201301
 
-Contact Number: +917350068128
+Contact Number: +918800446103
 
   
 [](http://www.bloggersideas.com/wp-content/uploads/2014/02/Jitendra-Vaswani-Signature.png)[  
 ](http://www.bloggersideas.com/wp-content/uploads/2014/02/Jitendra-Vaswani-Signature.png)
 
-This Document was last Updated on 24/10/2013
+This Document was last Updated on 1/2/2015
+
+No related posts.
