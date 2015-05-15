@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awok.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923141740id_/http%3A//www.awok.com/help-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awok.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516012046id_/http%3A//www.awok.com/help-info/privacy-policy) for the most accurate reproduction.*
 
 # Buy Laptop, Tablet, Mobile Phones, Cameras & More - Awok.com
 
@@ -47,6 +47,8 @@ Each time we use your personal information for advertising purposes such as prom
 **Storing and Securing Your Personal Information**
 
 We are committed to maintaining the confidentiality of the information that you provide us and we will take all reasonable precautions and necessary measures to protect your personal information. Our electronic information systems are password protected to prevent unauthorized access. We have adopted security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Our staff are trained and required to protect the privacy of your personal information.
+
+All credit/debit cards details and personally identifiable information will _NOT_ be stored, sold, shared, rented or leased to any third parties
 
 In order to maintain this protection, we caution you not to provide your password to anyone. We recommend that, if you share your computer with other people, you close your browser window when your session is completed. Signing off will protect your information if you share a computer with someone else or are using a computer in a public place.
 
