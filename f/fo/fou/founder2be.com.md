@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003525id_/http%3A//www.founder2be.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515150712id_/http%3A//www.founder2be.com/privacy) for the most accurate reproduction.*
 
-# Your privacy is very important to Founder2be
+# Privacy Policy | Legal | Site
 
 Your privacy is very important to us. We protect it from third parties and from other users of this service.
 
@@ -32,7 +32,7 @@ Please note that the information you provide as it is visible to other users on 
 
 **Communications**
 
-An integral part of Founder2be are the communications we send to help you find a co-founder. These include notifications, for example, when someone comments on an idea you shared, visits your profile, or sends you a message via the built-in messaging system, as well as our monthly newsletter, which includes useful information regarding everything start-up and co-founder related. Should you choose to no longer receive the monthly newsletter or other notifications, you can do so any time either by adjusting your message settings, clicking the unsubscribe link contained in the footer, or simply contacting us at info@founder2be.com.
+An integral part of Founder2be are the communications we send to help you find a co-founder. These include notifications, for example, when someone comments on an idea you shared, visits your profile, or sends you a message via the built-in messaging system, as well as our monthly newsletter, which includes useful information regarding everything start-up and co-founder related. Should you choose to no longer receive the monthly newsletter or other notifications, you can do so any time either by adjusting your message settings, clicking the unsubscribe link contained in the footer, or simply contacting us at [info@founder2be.com](mailto:info@founder2be.com).
 
 **Keeping your information secure**
 
@@ -46,7 +46,7 @@ While we would certainly like to be able to, we cannot guarantee the security of
 
 **Account deletion**
 
-Should you ever wish to delete your account, for example after you decide to start a project or found a company with some fellow members you got on touch with here, simply let us know by contacting us at info@founder2be.com. We will delete your account including the personal information you provided. Please note that we may have back-ups of your information for 90 days after we deleted your account. This is the price we pay for running this service in an as reliable way as we can.
+Should you ever wish to delete your account, for example after you decide to start a project or found a company with some fellow members you got on touch with here, simply let us know by contacting us at [info@founder2be.com](mailto:info@founder2be.com). We will delete your account including the personal information you provided. Please note that we may have back-ups of your information for 90 days after we deleted your account. This is the price we pay for running this service in an as reliable way as we can.
 
 On the other hand, why delete your account even after you found a co-founder? Let us know and we'll write a success story to inspire others and help drive traffic to your new startup's website or app!
 
@@ -60,6 +60,6 @@ We may amend this Privacy Policy from time to time. If we make significant chang
 
 **Questions**
 
-In case you have any questions or concerns, please do not hesitate to contact us any time at info@founder2be.com.
+In case you have any questions or concerns, please do not hesitate to contact us any time at [info@founder2be.com](mailto:info@founder2be.com).
 
 Effective Date: January 1st, 2011
