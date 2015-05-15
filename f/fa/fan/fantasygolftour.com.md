@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the fantasygolftour.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105081839id_/http%3A//www.fantasygolftour.com/Fantasy/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasygolftour.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515115721id_/http%3A//fantasygolftour.com/Fantasy/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Fantasy Golf Tour ~ Weekly Fantasy Golf Contests with HUGE Weekly Cash Payouts!
+# FGT
+
+|    
+---  
+|    
+---  
+  
+  
+  
+   
+  
+
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
@@ -14,5 +25,31 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.   
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+[What is FGT](https://web.archive.org/Fantasy/What-is-FGT.aspx)   •   [How to Play](https://web.archive.org/Fantasy/How-To-Play.aspx)   •   [Official Rules](https://web.archive.org/Fantasy/Official-Rules.aspx)   •   [Contest Prizes](https://web.archive.org/Fantasy/Contest-Prizes.aspx)   •   [Leaderboard](https://web.archive.org/Fantasy/Leaderboard.aspx)   •   [Schedule](https://web.archive.org/Fantasy/Schedules.aspx)   •   [Past Winners](https://web.archive.org/Fantasy/Winners.aspx)   •   [Grand Prize Winners](https://web.archive.org/Fantasy/Grand-Prize-Winners.aspx)   •   [Testimonials](https://web.archive.org/Fantasy/Testimonials.aspx)   
+  
+[Technology](https://web.archive.org/Fantasy/Technology.aspx)   •   [How is it Legal?](https://web.archive.org/Fantasy/How-is-it-Legal.aspx)   •   [FAQs](https://web.archive.org/Fantasy/FAQs.aspx)   •   [Media](https://web.archive.org/Fantasy/Media.aspx)   •   [Referral Program](https://web.archive.org/Fantasy/Referral-Program.aspx)   •   [Affiliate Program](https://web.archive.org/Fantasy/Affiliates.aspx)   •   [Contact](https://web.archive.org/Fantasy/Contact.aspx)   •   [Login](https://web.archive.org/backoffice/Login.aspx)
+
+© 2013-2015 Ultimate Golf Fantasy, Inc.  ~  All Rights Reserved.    [Terms of Use](https://web.archive.org/Fantasy/Terms-of-Use.aspx) | [Privacy Policy](https://web.archive.org/Fantasy/Privacy-Policy.aspx) | [Refund Policy](https://web.archive.org/Fantasy/Refund-Policy.aspx)
+
+|  |   |  |   | 
+
+[](https://www.sitelock.com/verify.php?site=fantasygolftour.com)
+
+|   |   
+---|---|---|---|---|---|---  
+  
+  
+  
 
