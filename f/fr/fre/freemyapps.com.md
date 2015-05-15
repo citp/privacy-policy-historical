@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemyapps.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220025526id_/http%3A//welcome.freemyapps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemyapps.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515110532id_/http%3A//welcome.freemyapps.com/privacy.html) for the most accurate reproduction.*
 
 # Free My Apps
 
