@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iimb.ernet.in privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050656id_/http%3A//www.iimb.ernet.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimb.ernet.in privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516003150id_/http%3A//www.iimb.ernet.in/node/5723) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Institute of Management Bangalore
 
@@ -26,5 +26,5 @@ IIMB does not knowingly collect identifiable personal information from children 
 **Privacy protection**  
 IIMB does not utilize direct mail services or telemarketing so your information will never be used for solicitation.
 
-  **Contacting Us**  
+**Contacting Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, please email: [info@iimb.ernet.in](mailto:info@iimb.ernet.in)
