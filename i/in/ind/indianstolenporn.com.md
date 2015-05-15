@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the indianstolenporn.com privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104031935id_/http%3A//www.indianstolenporn.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianstolenporn.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516000545id_/http%3A//www.indianstolenporn.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 YellowPlum Ltd.  
-Stasikratous, 16,   
-1065, Nicosia  
+Avlonos 1,  
+Maria House,   
+1075, Nicosia  
 Cyprus
 
 We can be reached via e-mail at [ support@247mg.com](mailto:support@247mg.com)
