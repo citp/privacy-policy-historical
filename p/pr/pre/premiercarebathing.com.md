@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiercarebathing.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221180542id_/http%3A//premiercarebathing.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiercarebathing.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515123936id_/http%3A//www.premiercarebathing.com/content/components/modals/privacy-policy/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy for Premier Care in Bathing
+# Privacy Policy | Premier Care in Bathing®
 
 This privacy policy describes Premier Care in Bathing's current policies and practices with regard to personal data collected by Premier Care through this web site. This privacy policy does not apply to information collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, e-mail address or mailing address, and any other information that identifies you personally.
 
@@ -38,4 +38,4 @@ This privacy policy applies only to this web site. This site contains many hyper
 
 Questions About Our Privacy Policy
 
-If you have any questions about this privacy policy or concerns about the way Premier Care uses personal data, please contact us via the "[Contact Us](https://web.archive.org/contact-us/)" link on the home page. If you would like to unsubscribe from the database and the uses described in this policy, please, click [here](https://web.archive.org/email-opt-out/) or write to us at 2330A S. Nova Rd. South Daytona, FL 32119.
+If you have any questions about this privacy policy or concerns about the way Premier Care uses personal data, please contact us via the "Contact Us" link on the home page. If you would like to unsubscribe from the database and the uses described in this policy, please visit www.premiercarebathing.com/email-opt-out/ or write to us at 2330A S. Nova Rd. South Daytona, FL 32119.
