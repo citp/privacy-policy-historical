@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-forums.net privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827220122id_/http%3A//www.my-forums.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-forums.net privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515033411id_/http%3A//www.my-forums.net/privacy.php) for the most accurate reproduction.*
 
 # My-Forums.net - Free phpBB2 Forum Hosting, free hosting for phpBB forums, free image hosting
 
@@ -19,4 +19,4 @@ This site does not allow the parent to obtain the information collected from the
 **5\. Change of privacy policy**  
 My-Forums.net reserves the right to change our privacy policy at any time without prior notices. 
 
-If you have any questions on our site, please [click here](https://web.archive.org/web/20140827220122id_/http%3A//www.my-forums.net/contactus.php) to contact us.
+If you have any questions on our site, please [click here](https://web.archive.org/web/20150515033411id_/http%3A//www.my-forums.net/contactus.php) to contact us.
