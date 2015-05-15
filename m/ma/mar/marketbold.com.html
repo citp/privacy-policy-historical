@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marketbold.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625070150id_/http%3A//marketbold.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketbold.com privacy policy that was archived on 2015-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150515065940id_/http%3A//marketbold.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -32,6 +32,120 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 <link rel="alternate" type="application/rss+xml" title="MarketBold.com™ » Privacy Policy Comments Feed" href="http://marketbold.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/marketbold.com\/wp-includes\/js\/wp-emoji.js?ver=4.2.2","twemoji":"http:\/\/marketbold.com\/wp-includes\/js\/twemoji.js?ver=4.2.2"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://marketbold.com/wp-includes/js/twemoji.js?ver=4.2.2" type="text/javascript"></script><script src="http://marketbold.com/wp-includes/js/wp-emoji.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
 </head>
 <body class="custom privacy-policy pattern-noise">
 <div id="header_area" class="full_width">
@@ -114,7 +228,8 @@ by our company in an accessible form, and may include any of the  			following:<
 year, information about third parties with whom we have shared  			information about you<br>
 or your family for their marketing purposes during the previous  			calendar year, if any, and a<br>
 description of the categories of personal information shared. To  			make such a request,<br>
-please send an email to privacy@marketbold.com and please include the phrase<br>
+please send an email to privacy@marketbold.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> and please include the phrase<br>
 “California Privacy Request” in the subject line, the domain name of the  Web site you are inquiring about, along with your name,&nbsp; address and  email address. We will respond to you within thirty days of receiving&nbsp;  such a request.</p>
 <p>“Cookies” and How Our Company Uses Them. A “cookie” is a small data  file that can be placed on your hard drive when you visit certain Web  sites. Our company may use cookies to collect, store, and sometimes  track information for statistical purposes to improve the products and  services we provide and to manage our telecommunications networks.</p>
 <p>If you are a Visitor or Member we may use a cookie to save your  settings and to provide customizable and personalized services. These  cookies do not enable third parties to access any of your customer  information. Additionally, be aware that if you visit other Web sites  where you are prompted to log in or that are customizable, you may be  required to accept cookies.</p>
@@ -158,21 +273,21 @@ please send an email to privacy@marketbold.com and please include the phrase<br>
 <br><br>
 <a href="http://marketbold.com/ShortReportSecrets/" target="_blank"><img alt="Short Report Secrets" src="http://www.marketbold.com/images/SRSiconbanner.jpg" title="Short Report Secrets"></a></div>
 		</li><li class="widget widget_categories" id="categories-3"><h3>MarketBold™ Skills:</h3>		<ul>
-	<li class="cat-item cat-item-7"><a href="http://marketbold.com/marketing/distribution/" title="View all posts filed under Distribution Strategy">Distribution Strategy</a>
+	<li class="cat-item cat-item-7"><a href="http://marketbold.com/marketing/distribution/">Distribution Strategy</a>
 </li>
-	<li class="cat-item cat-item-10"><a href="http://marketbold.com/marketing/market-research/" title="View all posts filed under Market Research">Market Research</a>
+	<li class="cat-item cat-item-10"><a href="http://marketbold.com/marketing/market-research/">Market Research</a>
 <ul class="children">
-	<li class="cat-item cat-item-11"><a href="http://marketbold.com/marketing/market-research/keyword-research/" title="View all posts filed under Keyword Research">Keyword Research</a>
+	<li class="cat-item cat-item-11"><a href="http://marketbold.com/marketing/market-research/keyword-research/">Keyword Research</a>
 </li>
 </ul>
 </li>
-	<li class="cat-item cat-item-1"><a href="http://marketbold.com/marketing/marketing-strategy/" title="View all posts filed under Marketing Strategy">Marketing Strategy</a>
+	<li class="cat-item cat-item-1"><a href="http://marketbold.com/marketing/marketing-strategy/">Marketing Strategy</a>
 </li>
-	<li class="cat-item cat-item-4"><a href="http://marketbold.com/marketing/media-planning/" title="View all posts filed under Media Planning">Media Planning</a>
+	<li class="cat-item cat-item-4"><a href="http://marketbold.com/marketing/media-planning/">Media Planning</a>
 </li>
-	<li class="cat-item cat-item-6"><a href="http://marketbold.com/marketing/product-development/" title="View all posts filed under Product Development">Product Development</a>
+	<li class="cat-item cat-item-6"><a href="http://marketbold.com/marketing/product-development/">Product Development</a>
 </li>
-	<li class="cat-item cat-item-9"><a href="http://marketbold.com/marketing/sales-management/" title="View all posts filed under Sales management">Sales management</a>
+	<li class="cat-item cat-item-9"><a href="http://marketbold.com/marketing/sales-management/">Sales management</a>
 </li>
 		</ul>
 </li>		<li class="widget widget_recent_entries" id="recent-posts-3">		<h3>MarketBold™ Tips:</h3>		<ul>
