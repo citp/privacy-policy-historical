@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkshut.info privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520211228id_/http%3A//bookmarkshut.info/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkshut.info privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515104309id_/http%3A//bookmarkshut.info/help/privacy) for the most accurate reproduction.*
 
 # BookmarksHut - Your Source for Social News and Networking
 
