@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreevod.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212204124id_/http%3A//www.myfreepaysite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreevod.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515123032id_/http%3A//www.myfreepaysite.com/privacy.html) for the most accurate reproduction.*
 
 # MYFREEPAYSITE.COM - PRIVACY POLICY
 
