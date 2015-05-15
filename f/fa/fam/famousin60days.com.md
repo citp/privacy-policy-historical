@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the famousin60days.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108124419id_/http%3A//famousin60days.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousin60days.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515024938id_/http%3A//famousin60days.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MyLeadSystemPRO Training
+# Privacy Policy | MyLeadSystemPRO
 
 This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for the website that linked you here. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our current practices, as they may change in the future.
 
