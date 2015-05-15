@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawsonera.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701120306id_/https%3A//www.bertrams.com/BertWeb/index.jsp%3Fs%3D361) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawsonera.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515120922id_/https%3A//www.bertrams.com/BertWeb/index.jsp%3Fs%3D361) for the most accurate reproduction.*
 
 # Bertram Books - Connect Group PLC Privacy & Legal Policy
 
@@ -19,7 +19,7 @@ The Group includes (inter alia) each of the following group companies, each of w
 
 
 
-together with any other trading subsidiaries or business units of the same, whether incorporated in the United Kingdomor internationally.
+together with any other trading subsidiaries or business units of the same, whether incorporated in the United Kingdom or internationally.
 
 This policy (and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following material carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -66,8 +66,8 @@ When you enter into a business relationship with a company or business unit with
 
 Any contractual relationship we have with you will be governed either by specific business terms and conditions standard to a member of the Group or elsewhere governed within bespoke contractual documentation agreed with our customers. To the extent the former is applicable to you, you can view our standard business terms and conditions for further information on the ways in which we will use personal data provided to us for Business Purposes. Please see:
 
-i) Smiths News’ Terms and Conditions - [Click Here](http://www.newsellingpoint.co.uk/nsp/terms.html)  
-ii) Bertrams’ Terms and Conditions - [Click Here](http://www.bertrams.com/BertWeb/index.jsp?s=96)  
+i) Smiths News’ Terms and Conditions - [Click Here](https://www.centralretailservices.co.uk/crs/documents/terms_conditions.pdf)  
+ii) Bertrams’ Terms and Conditions - [Click Here](https://www.bertrams.com/BertWeb/index.jsp?s=888)  
 iii) The Consortium’s Terms and Conditions - [Click Here](http://www.educationsupplies.co.uk/legal/terms-and-conditions)  
 iv) West Mercia Supplies’ Terms and Conditions - [Click Here](http://www.westmerciasupplies.co.uk/legal/terms-and-conditions)  
 v) Wordery’s Terms and Conditions - [Click Here](https://wordery.com/cs/terms_sale)
