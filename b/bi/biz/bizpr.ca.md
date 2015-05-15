@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizpr.ca privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328205839id_/http%3A//www.bizpr.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizpr.ca privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516000736id_/http%3A//www.bizpr.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - BizPR.ca
 
@@ -10,11 +10,11 @@ By using our Site you are consenting to our processing of your information as se
 
 ## Summary
 
-BizPR takes your privacy seriously and bears responsibility for protecting the data that you provide us in the normal course of interacting with our site. In order to maintain the confidentiality of all information you provide to us we strictly adhere to the following Privacy Policy outlined below.
+BizPR takes your privacy seriously and bears responsibility for protecting the data that you provide us in the normal [course](http://www.bizpr.ca/2015/04/03/course/) of interacting with our site. In order to maintain the confidentiality of all information you provide to us we strictly adhere to the following Privacy Policy outlined below.
 
 BIZPR has in place what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to BizPR Shop is protected against unauthorized use by 256-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and BizPR Shop’s server can decipher it. However, no Internet, e-mail or mobile transmission is ever fully secure or error free. Because most e-mail and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via e-mail, SMS or text message, or other mobile transmission.
 
-Under 13: You must be at least 13 years old in order to register for e-mail newsletters or other features of BizPR Services. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
+Under 13: You must be at least 13 years old in order to register for e-mail newsletters or other features of BizPR [Services](http://www.bizpr.ca/services/). If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
 
 13-18: You must be at least 18 years old in order to Submit any User Materials on or through BizPR Services, create a profile in BizPR Community, participate in any online contests, or place an order on BizPR Shop. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for e-mail newsletters or other features of BizPR Services (excluding BizPR Community, for which they cannot register) or otherwise sending any personally-identifying information.
 
@@ -86,7 +86,7 @@ h. MUST BE a press release but not an ad that advocates your business with boast
 
 The above provisions also apply to the followings:
 
-**Press release TITLE:**
+**Press release[TITLE](http://www.bizpr.ca/2015/04/02/title/):**
 
 a. Your TITLE MUST Be in upper and lower case letters with the first letter of each major word capitalized. We will not accept your TITLE in all CAPS.
 
