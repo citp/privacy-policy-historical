@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127083710id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515231625id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy,
 
@@ -95,3 +95,11 @@ If you have any questions or concerns about this privacy statement or would like
 ## J. Changes to this Statement
 
 We reserve the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how information you provide will be used. If there is ever a material change to how we use information you provide and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance. 
+
+## K. Analytics Data Disclaimer
+
+Analytics is a web analysis service. We have implemented Analytics features known as Demographics and Interest Reporting on this website. 
+
+The Analytics Demographics and Interest Reporting feature allows us to collect data relating to the demographics (age and gender) and interests of visitors to our site. We collect such data to analyze how visitors engage with our website to develop the site and content around our users' interests.. We do not collect or store personally identifiable information about visitors. We will use the data provided by Analytics Demographics and Interest Reporting to develop the site and content around our users' interests. 
+
+By using this website, you consent to the processing of the data by Google as set out in Google's Privacy Policy. 
