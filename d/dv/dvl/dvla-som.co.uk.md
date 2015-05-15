@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208210204id_/http%3A//dvlaregistrations.direct.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515054907id_/http%3A//dvla-som.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
