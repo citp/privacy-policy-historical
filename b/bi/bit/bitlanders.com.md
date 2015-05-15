@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bitlanders.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223020052id_/http%3A//www.bitlanders.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitlanders.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515174528id_/http%3A//www.bitlanders.com/pages/about/privacy) for the most accurate reproduction.*
 
 # About bitLanders
-
-## Privacy policy
 
 Effective as of May 11th, 2012
 
