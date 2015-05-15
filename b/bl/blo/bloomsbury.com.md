@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomsbury.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007074444id_/http%3A//www.bloomsbury.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomsbury.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516005634id_/https%3A//www.bloomsbury.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Bloomsbury - Privacy & Cookies
 
@@ -73,3 +73,62 @@ We may disclose your personal information to third parties:
 •  If Bloomsbury Publishing Plc. or substantially all of its assets is acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.  
 •  To the extent necessary to enable us to carry out our obligations arising from any contracts entered into between you and us.  
 •  If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/uk/terms/) and other agreements; to operate our systems properly; or to protect the rights, property, or safety of Bloomsbury Publishing Plc, its subsidiaries, affiliates, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+ **Your rights**
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by choosing not to check certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [customerservices@bloomsbury.com](mailto:customerservices@bloomsbury.com) and asking us to cease contacting you for such purposes.
+
+Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+ **Access to information**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+ **Changes to our privacy policy**
+
+Any changes we may make to our Privacy & Cookie Policy in the future will be posted on this page and you should check this page from time to time to take notice of any changes we might make.
+
+ **Links to other websites**
+
+This Privacy & Cookie Policy does not cover the links within the Website linking to other websites. We encourage you to read the privacy statements on the other websites you visit. 
+
+**Contact us**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [contact@bloomsbury.com](mailto:contact@bloomsbury.com) or write to the Legal Department, Bloomsbury Publishing Plc., 50 Bedford Square, London WC1B 3DP or call 020 76315600.
+
+ **Bloomsbury Children’s Apps - Privacy policy**
+
+ **What this privacy policy covers**  
+Bloomsbury cares about your privacy and aims to comply with The Children’s Online Privacy Protection Act (COPPA) and EU Data Protection legislation. This privacy policy explains what we do with the information we collect through our apps for children.
+
+ **Personal information**
+
+•    We do not collect any personal information about the users of our apps.  
+•    Content produced on the app, such as drawings, photographs and recordings are stored on your device only and are not accessible to us.   
+•    We do collect anonymous usage information but this is not linked to the app user’s account and contains no personal information. We do this through Flurry Analytics who hold information securely and do not share it. The only reason we collect information about usage is to help improve the app for future updates.  
+
+Here’s an idea of what we collect:
+
+o    Which device and operating system is used  
+o    Country of use  
+o    Crash reports  
+o    For how long and how often the app is used   
+o    Popularity of features and pages 
+
+**Links from apps**
+
+Links within our apps for children are all set behind a parental gate which aims to prevent children from following links out of an app to other websites without the knowledge of their parent or guardian. The following links exist in our apps. [Bloomsbury](http://www.bloomsbury.com/uk/privacy-policy/) and [](http://aimermedia.com/privacy-policy/)[Aimer Media](http://aimermedia.com/privacy-policy/) each have their own privacy policy available to view online.
+
+ **Let’s Do Mental Maths**  
+•    Bloomsbury Publishing – information about [products offered by Bloomsbury Publishing](http://www.bloomsbury.com/uk/education/primary/andrew-brodie/apps/).   
+•    Aimer Media – information about the app’s developer, [Aimer Media](http://aimermedia.com/)   
+•    Support Email address – [contact details for support queries](mailto:contact@bloomsbury.com)
+
+             **In-app purchases**  
+Let’s Do Mental Maths does not contain any in-app purchases.
+
+ **Advertising**  
+Our apps do not contain any third party advertising.
+
+ **Privacy questions**  
+If you have any questions about our app or our privacy policy, please contact [contact@bloomsbury.com](mailto:contact@bloomsbury.com) or write to the Legal Department, Bloomsbury Publishing Plc., 50 Bedford Square, London WC1B 3DP.
