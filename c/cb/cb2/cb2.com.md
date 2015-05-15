@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231230124id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515032239id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # CB2 - Privacy Policy
 
@@ -88,7 +88,7 @@ We take our customers’ personal information seriously and take steps to protec
 
 ### ABOUT SSL CERTIFICATES
 
-When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact CB2 at 800.967.6696 to complete your purchase.
+When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact CB2 at (800) 967-6696 to complete your purchase.
 
 ## your responsibilities
 
@@ -114,7 +114,7 @@ If you have any questions regarding our Privacy Policy, we will do our best to a
 
 **Phone:**  
 Customer Service Department  
-800.606.6252  
+(800) 606-6252  
 Monday - Sunday, 7 days a week 
 
 **Email:**  
