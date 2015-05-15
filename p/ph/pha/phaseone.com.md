@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217060926id_/http%3A//www.phaseone.com/en/FooterMenu/ServiceFooters/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515060040id_/http%3A//www.phaseone.com/en/FooterMenu/ServiceFooters/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -78,6 +78,6 @@ Our website may contain links to other sites. Please be aware that Phase One is 
 
 Our cookie policy explains what cookies are, how we use them on phaseone.com and what benefits they bring.
 
-[Go to Cookie policy](https://web.archive.org/web/20141217060926id_/http%3A//www.phaseone.com/en/FooterMenu/ServiceFooters/~/link.aspx?_id=44A57BD385F84E2D9633D2C4DDC3CC8F&_z=z)
+[Go to Cookie policy](https://web.archive.org/web/20150515060040id_/http%3A//www.phaseone.com/en/FooterMenu/ServiceFooters/~/link.aspx?_id=44A57BD385F84E2D9633D2C4DDC3CC8F&_z=z)
 
 We reserve the right, at any time and without notice, to add, change, update or modify this Privacy statement, simply by posting such change, update or modification on the website. Any such change, update or modification will be effective immediately upon getting posted.
