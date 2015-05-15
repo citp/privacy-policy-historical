@@ -1,77 +1,72 @@
-> *The following text is extracted and transformed from the maxmailhq.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411053239id_/http%3A//www.maxmailhq.com/email-marketing/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmailhq.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516002318id_/https%3A//www.maxmailhq.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Maxmail
 
-### Information Collection and Use
+This policy sets out the way that Optimizer collects and uses information collected on this website.
 
-Optimizer is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We do not sell your personal information to third parties. Optimizer collects information from our users at several different points on our website.
+ **Information Collection**
 
-### Registration
+Optimizer is the sole owner of any information collected.
 
-In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest.
+In order to provide this service to you Optimizer collects information from its users at various points on our website:
 
-### Account Activation
+  * Account registration: when registering to use the website users are required to provide their name and contact information such as an email address. This is used to verify their identity (by sending a confirmation email) and to contact them about our services for example if we have problems processing a credit card payment.
+  * Account activation: in order to activate the account the user must provide valid credit card details including the number and expiry date. This information is used for credit reference enquiries and billing purposes 
 
-We request information from the user on our account activation and credit purchase. Here a user must provide financial information (credit card number, expiration date). This information is used for billing and credit reference purposes for filling customers' orders. If we have trouble processing an order, this contact information is used to (contact) the user.
 
-Updating/Accessing/Amending/Correcting Personally Identifiable Information If your personally identifiable information changes, or if you no longer desire our service, you may deactivate it by making the change on our member information page [or by emailing our Customer Supportsupport@OptimizerHQ.com or by contacting us by telephone or postal mail at the contact information listed below.
 
-### Newsletters & Communication from Optimizer
+We will not sell, share, or rent your information to third parties.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe, simply click the unsubscribe link at the bottom of the email to opt-out of our newsletters
+ **Changes to Your Personal Information and Cancelling Your Account**
 
-### Service Related Information
+You can cancel your account, or change or update any of the personal information that you have provided to us by notifying us through the website, emailing us at [customersupport@optimizerhq.com](mailto:customersupport@optimizerhq.com), or by contacting us by phone or post.
 
-We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
+Cancellation of your account is subject to the terms set out in the Service Agreement concerning notice periods and billing.
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account, write to us at support@OptimizerHQ.comor call +64 9 368 5017 to close your account.
+ **Communication from Optimizer**
 
-### Cookies
+You can elect to subscribe to newsletters from us. If you no longer wish to receive these there is a “unsubscribe” option at the bottom of the email which you can select if you want to opt out of receiving newsletters.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. Optimizer's website will log people out of a secure session after 2 hours of inactivity by a user.
+From time to time we may need to send you information about our service, which we will do by email. You cannot opt out of these communications. If you do not want to receive them you will need to cancel your account.
 
-### Log Files
+ **Cookies**
 
-We use IP addresses to analyze trends, administer the site, track user's movement(s), and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+A cookie is a piece of data stored on the your hard drive containing information about the you. By setting a cookie on our site you do not have to log in your password more than once which saves you time while on the site. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once you close your browser, the cookie simply terminates. Optimizer's website automatically logs you out of a secure session after 2 hours of inactivity.
 
-### Sharing of Information
+ **Log Files**
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+We use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-We use an outside credit card processing company to bill users for services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
+ **Sharing Your Information with Third Parties**
 
-We partner with other parties to provide specific services. When the user signs up for these services, we will share names or other contact information that is necessary for the third party to provide these services.
+We do share aggregated demographic information with our partners and advertisers. We do this to improve the quality of the service we offer. However, this is not linked to personal information which can be linked to any particular individual. 
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+If you sign up with one of our partners for another service we will share details such as your name and contact information so that they can provide the service you have requested. 
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+We use an outside credit card processing company to handle our billing. They are authorised to use the information they obtain for billing purposes only and they do not retain, store or use personally identifiable information for other purposes. 
 
-### Customer Testimonials/Reviews/Comments
+None of the third parties are allowed to use your personal information except for providing the specific services set out in this policy and they will not disclose it further.
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+We will only disclose your personal information if required by law, or to protect our rights under the Maxmail Service Agreement or if we are required to do so by an order of the court or governmental agency. 
 
-### Data Retention
+**Import Contacts**
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@optimizerhq.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You can import contacts from your Outlook or other email account address book to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose.
 
-### Security
+ **Use on our Website**
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
+From time to time we may post customer comment, testimonials or reviews on our website which may contain personally identifiable information. We will always obtain your consent to use this information prior to posting anything on the website. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with industry-standard strong encryption - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
+**Data Retention**
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked door.
+We retain the personal information you have provided for as long as your account is active. If you cancel your account we will retain your information for as long as we are required to in order to comply with any statutory obligations, resolve any disputes and enforce any agreements. 
 
-Users of the Maxmail Service must realize that although Optimizer employs high levels of security, no data transmission over the internet can be 100% safe.
+**Security**
 
-Therefore, use of Optimizer's Messaging is at the client's own risk.
+Optimizer employs high levels of security to ensure that your personal information is protected both online and offline. We encrypt sensitive information such as credit card information and secure pages are locked and we ensure that our office environment is secure with restricted access and password protected computers. We place a high emphasis on staff training in privacy and security issues. 
 
-Furthermore, users must be aware that sending messages with Optimizer will have a similar level of security and reliability as that of Mobile Phone Networks.
+Users should be aware that although Optimizer takes every practicable precaution no data transmission over the internet is ever 100% safe. Use of the Service is entirely at the User’s own risk. 
 
-Optimizer, its employees and contractors will not be held liable for any loss or damage whatsoever, incurred through the use of Optimizer SMS Messaging, including loss of information due to carrier failure, network failure or negligence on the part of Optimizer, its employees or contractors.
+**Changes to the Privacy Policy**
 
-Please refer to our Terms and Conditions and Disclaimer for more information.
-
-### Changes
-
-We may update this privacy statement to reflect changes to our information practices. You are responsible for keeping yourself up to date with any such changes to this Privacy Policy. We encourage you to periodically review this page for the latest information on our privacy practices.
+We will update this policy from time to time and post the changes on the website. You are responsible for reviewing this policy periodically for the latest information on our privacy practices.
