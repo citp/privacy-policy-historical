@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automatedtoolkit.com privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924195009id_/http%3A//automatedtoolkit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automatedtoolkit.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516061201id_/http%3A//automatedtoolkit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
