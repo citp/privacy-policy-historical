@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sublet.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103232102id_/http%3A//www.sublet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sublet.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516215508id_/http%3A//www.sublet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for landlords and tenants that use Sublet.com to rent sublets, apartments, houses, and rooms for rent.
 
 | 
 
-[ ](https://web.archive.org/web/20141103232102id_/http%3A//www.sublet.com/subletsearch.html)
+[ ](https://web.archive.org/web/20150516215508id_/http%3A//www.sublet.com/subletsearch.html)
 
 |   
 ---|---  
