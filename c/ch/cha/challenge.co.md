@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the challenge.co privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023050807id_/http%3A//www.30dcsecure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challenge.co privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516160806id_/http%3A//www.30dcsecure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 30DC Inc
 
