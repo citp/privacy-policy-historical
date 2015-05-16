@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmi-calculator.net privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703195840id_/http%3A//www.bmi-calculator.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmi-calculator.net privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517014155id_/http%3A//www.bmi-calculator.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ To try and bring you offers that are of interest to you, we have relationships w
 
 Google's use of the DART cookie enables it and its partners to serve ads to you based on your visit to our website and other sites on the internet. This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).
 
-This site contains links to other sites. [BMI Calculator](http://www.bmi-calculator.net/ "BMI Calculator") is not responsible for the privacy practices or the content of such Web Sites.
+This site contains links to other sites. [BMI Calculator](http://www.bmi-calculator.net/) is not responsible for the privacy practices or the content of such Web Sites.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
