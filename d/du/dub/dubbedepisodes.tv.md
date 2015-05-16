@@ -1,30 +1,9 @@
-> *The following text is extracted and transformed from the dubbedepisodes.tv privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629053740id_/http%3A//www.dubbedepisodes.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubbedepisodes.tv privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516190903id_/http%3A//www.dubbedepisodes.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dubbed Anime Online
+# Watch Privacy Policy | DubbedEpisodes Online
 
-Game advertisements by [Game Advertising Online](http://www.game-advertising-online.com) require iframes.
+**Cookies & 3rd Party Advertisements**
 
-DubbedEpisodes is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-### How we collect and use personal information
-
-Commenting on episodes at DubbedEpisodes does require you provide your name and email.
-
-We offer links to other Web sites. Please note: When you click on links to other Web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
-
-### How we protect your personal information
-
-All personal data you enter on DubbedEpisodes is stored on our secure server protected by hardware and software firewalls at a limited access datacenter.
-
-### How we use “cookies”
-
-“Cookies” are small pieces of information that some Web sites store on your computer’s hard drive when you visit them. Like many other Web sites, DubbedEpisodes uses cookies to identify members so they don’t have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit.
-
-### What we provide to third parties
-
-While DubbedEpisodes does not provide any third-party access to your personal information, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during thousands of customer visits to our Web site each month, but it does not contain behavioral or identifying information about any individual member.
-
-DubbedEpisodes uses third-party advertising companies to serve ads when you visit our site. This company may use information about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our site with these companies for the purpose of managing and targeting advertisements on our sites. For this purpose, we and our third-party advertising companies note some of the pages you visit on our sites through the use of pixel tags (also called “clear gifs”). In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.  
-If you feel that this site is not following its stated information policy, you may contact us.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
