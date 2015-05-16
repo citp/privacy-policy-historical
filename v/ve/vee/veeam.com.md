@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213459id_/http%3A//www.veeam.com/privacy_policy.html%3Fad%3Dfooter-bottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516033522id_/http%3A//www.veeam.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Veeam: Privacy Policy- safeguarding your privacy online.
+# Veeam: Privacy Policy – how we use your personal information, use of third party services, cookies
 
 Veeam is recognizing the importance of protecting your personal information and is committed to safeguarding your privacy online.
 
