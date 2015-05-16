@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201090140id_/http%3A//www.parkwhiz.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516082703id_/http%3A//www.parkwhiz.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Guaranteed Parking - ParkWhiz
 
