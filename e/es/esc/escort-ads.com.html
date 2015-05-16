@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the escort-ads.com privacy policy that was archived on 2014-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125091833id_/http%3A//escort-ads.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the escort-ads.com privacy policy that was archived on 2015-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516073204id_/http%3A//www.escort-ads.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=""><head>
 <meta name="keywords" content="escort,escort directory,adult directory,escort ads,escort agency,companions">
@@ -7,8 +7,8 @@
 <title>Privacy Policy - ESCORT-ADS.COM - Worldwide Escort Directory</title>
 
 <meta http-equiv="Content-Language" content="hu-hu">
-<meta name="Copyright" content="Copyright AB plusz Bt">
-<meta name="Author" content="AB Plusz Bt. www.abplusz.hu">
+<meta name="Copyright" content="Copyright Escort-ads.com">
+<meta name="Author" content="ESCORT-ADS www.escort-ads.com">
 <meta name="language" content="hu">
 <meta name="revisit-after" content="1 days">
 <meta name="Expires" content="1 days">
@@ -19,6 +19,8 @@
 <meta name="doc-type" content="Web Page">
 <meta name="google-site-verification" content="CrLs6ZHD-l00yOU1UKL3cv1C9OXL7EBIKSHpzdZPcGI">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
 
 <link rel="stylesheet" href="/css/base.css" charset="ISO-8859-2" type="text/css">
 
@@ -177,6 +179,121 @@ function applyPasswordType(elem, val, typ) {
 	</div> <!-- / top -->
 	
 </div> <!--panel -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script>
+<script>
+
+$(document).ready(function() {	
+
+	launchWindow('#dialog1');
+
+	//select all the a tag with name equal to modal
+	$('a[name=modal]').click(function(e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		//Get the A tag
+		var id = $(this).attr('href');
+	
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(document).width();
+	
+		//Set height and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+		
+		//transition effect		
+		$('#mask').fadeIn(1000);	
+		$('#mask').fadeTo("slow",0.8);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(2000); 
+	
+	});
+	
+	//if close button is clicked
+	$('.window .close').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		$('#mask, .window').hide();
+	});		
+	
+	$('.window .readterm').click(function() {
+		popupWin = window.open('http://www.escort-ads.com/inc/terms2.php','','width=600,height=800,location=no,menubar=no,resizable=no,status=no,titlebar=no,toolbar=no,scrollbars=yes')
+	});		
+
+	$('.window .advertagreement').click(function() {
+		popupWin = window.open('http://www.escort-ads.com/inc/advertisement_agreement2.php','','width=600,height=800,location=no,menubar=no,resizable=no,status=no,titlebar=no,toolbar=no,scrollbars=yes')
+	});		
+
+	//if mask is clicked
+//	$('#mask').click(function () {
+//		$(this).hide();
+//		$('.window').hide();
+//	});			
+	
+});
+
+function launchWindow(id) {
+	
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+		
+		//transition effect		
+		$('#mask').fadeIn(1000);	
+		$('#mask').fadeTo("slow",0.8);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height());
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(2000); 
+	
+
+}
+
+
+</script>
+
+<div id="boxes">
+	
+	<!-- #customize your modal window here -->
+
+	<div id="dialog1" class="window" style="top: -19px; left: 395.5px; opacity: 0.228779; display: block;">
+    <table border="0" cellpadding="0" cellspacing="0" background="/pics/entersite_bg.png" width="575" height="403">
+    <tbody><tr><td width="300"></td>
+    <td width="275">
+    	<table border="0" cellpadding="0" cellspacing="0" width="275">
+        <tbody><tr><td height="260"></td></tr>
+        <tr><td align="center"><a href="#" class="close"><img src="/pics/entersite.png" border="0" alt="ENTER site"></a></td></tr>
+        <tr><td height="20"></td></tr>
+        <tr><td align="right"><a href="http://www.google.com" target="_parent">Exit</a></td></tr>
+        <tr><td align="right"><a href="#" class="readterm">Read Terms &amp; Conditions</a></td></tr>
+        <tr><td align="right"><a href="#" class="advertagreement">Advertisement Agreement</a></td></tr>
+        </tbody></table>
+    </td>
+    </tr>
+    </tbody></table>
+	</div>
+	
+	<!-- Do not remove div#mask, because you'll need it to fill the whole screen -->	
+ 	<div id="mask" style="width: 1366px; height: 2605px; opacity: 0.728394; display: block;"></div>
+</div>
 
 		<div style="width:100%; height:51px; background-color:#000; text-align:left; padding-top:5px; min-width:1500px;">
 
@@ -261,7 +378,8 @@ Further, other than what is stated hereunder, we do not provide User information
 <br>
 <h2 class="titleblack3">X. Where to Direct Questions About Our Privacy Policy.</h2><br>
 <br>
-If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us at contact@escort-ads.com<br>
+If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us at contact@escort-ads.com<script cf-hash="f9e31" type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script><br>
 <br>
 - End - 
 
@@ -269,9 +387,13 @@ If you have any questions about this Privacy Policy or the practices described h
 </tbody></table></div>
 <div style="height:30px; width:100%;"></div>
 
+<!--<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "26d13d5e-5bd2-4b2d-8fa8-3892d545d682", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script> -->
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "26d13d5e-5bd2-4b2d-8fa8-3892d545d682", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<script type="text/javascript">stLight.options({publisher: "25c8e8d7-b872-40fd-b904-83a2b4159160", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
                     <!--===========================FreiChat=======START=========================-->
 <!--	For uninstalling ME , first remove/comment all FreiChat related code i.e below code
 	 Then remove FreiChat tables frei_session & frei_chat if necessary
@@ -323,13 +445,13 @@ If you have any questions about this Privacy Policy or the practices described h
 	    <tr><td><a href="/escorts/United Kingdom&amp;city=London" target="_self" class="footer">London escorts</a></td></tr>
 	    <tr><td><a href="/escorts/United States&amp;city=New York" target="_self" class="footer">New York escorts</a></td></tr>
 	    <tr><td><a href="/escorts/United States&amp;city=Los Angeles" target="_self" class="footer">Los Angeles escorts</a></td></tr>
-	    <tr><td><a href="/escorts/United States&amp;city=Dallas" target="_self" class="footer">Dallas escorts</a></td></tr>
 	    <tr><td><a href="/escorts/United States&amp;city=Las Vegas" target="_self" class="footer">Las Vegas escorts</a></td></tr>
 	    <tr><td><a href="/escorts/United Arab Emirates&amp;city=Dubai" target="_self" class="footer">Dubai escorts</a></td></tr>
-	    <tr><td><a href="/escorts/United States&amp;city=Houston" target="_self" class="footer">Houston escorts</a></td></tr>
-	    <tr><td><a href="/escorts/Canada&amp;city=Toronto" target="_self" class="footer">Toronto escorts</a></td></tr>
-	    <tr><td><a href="/escorts/United States&amp;city=Chicago" target="_self" class="footer">Chicago escorts</a></td></tr>
+	    <tr><td><a href="/escorts/United States&amp;city=Dallas" target="_self" class="footer">Dallas escorts</a></td></tr>
 	    <tr><td><a href="/escorts/France&amp;city=Paris" target="_self" class="footer">Paris escorts</a></td></tr>
+	    <tr><td><a href="/escorts/Canada&amp;city=Toronto" target="_self" class="footer">Toronto escorts</a></td></tr>
+	    <tr><td><a href="/escorts/United States&amp;city=Houston" target="_self" class="footer">Houston escorts</a></td></tr>
+	    <tr><td><a href="/escorts/United States&amp;city=Chicago" target="_self" class="footer">Chicago escorts</a></td></tr>
 	    <tr><td><a href="/escorts/Germany&amp;city=Berlin" target="_self" class="footer">Berlin escorts</a></td></tr>
 	    <tr><td><a href="/escorts/Russia&amp;city=Moscow" target="_self" class="footer">Moscow escorts</a></td></tr>
 	    </tbody></table>
@@ -341,9 +463,9 @@ If you have any questions about this Privacy Policy or the practices described h
 	    <tbody><tr><td><h2 style="color:#DDD; font-size:16px;">Statistics</h2></td></tr>
 			<tr><td>
 			<table border="0" cellpadding="0" cellspacing="0" style="color:#CCC">
-			<tbody><tr><td width="100" align="left">Escorts : </td><td width="30" align="right"><strong>12466</strong></td></tr>
-<!--			<tr><td width="100" align="left">Members : </td><td width="30" align="right"><strong>791</strong></td></tr> -->
-			<tr><td width="100" align="left">Agencies : </td><td width="30" align="right"><strong>707</strong></td></tr>
+			<tbody><tr><td width="100" align="left">Escorts : </td><td width="30" align="right"><strong>15081</strong></td></tr>
+<!--			<tr><td width="100" align="left">Members : </td><td width="30" align="right"><strong>1219</strong></td></tr> -->
+			<tr><td width="100" align="left">Agencies : </td><td width="30" align="right"><strong>921</strong></td></tr>
 			</tbody></table>
 		</td></tr>
 	    </tbody></table>
@@ -356,19 +478,32 @@ If you have any questions about this Privacy Policy or the practices described h
 </tbody></table>
 </div>
 
-<div style="background-color:#000000; width:100%; height:30px; text-align:left; color:#ccccccc; min-width:1500px;">
+<div style="background-color:#000000; width:100%; height:40px; text-align:left; color:#ccccccc; min-width:1500px;">
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody><tr><td height="4"></td><td></td><td></td></tr>
 <tr><td align="left" valign="middle" style="color:#CCCCCC">Copyright © 2013 escort-ads.com</td><td width="30"></td>
 <td valign="middle">
-<span class="st_facebook_hcount" displaytext="Facebook"></span>
-<span class="st_googleplus_hcount" displaytext="Google +"></span>
-<span class="st_twitter_hcount" displaytext="Tweet"></span>
-<span class="st_linkedin_hcount" displaytext="LinkedIn"></span>
-<span class="st_digg_hcount" displaytext="Digg"></span>
-<span class="st_tumblr_hcount" displaytext="Tumblr"></span>
-<span class="st_pinterest_hcount" displaytext="Pinterest"></span>
-<span class="st_email_hcount" displaytext="Email"></span>
+<!--<span class='st_facebook_hcount' displayText='Facebook'></span>
+<span class='st_googleplus_hcount' displayText='Google +'></span>
+<span class='st_twitter_hcount' displayText='Tweet'></span>
+<span class='st_linkedin_hcount' displayText='LinkedIn'></span>
+<span class='st_digg_hcount' displayText='Digg'></span>
+<span class='st_tumblr_hcount' displayText='Tumblr'></span>
+<span class='st_pinterest_hcount' displayText='Pinterest'></span>
+<span class='st_email_hcount' displayText='Email'></span> -->
+<span class="st_twitter_large" displaytext="Tweet"></span>
+<span class="st_facebook_large" displaytext="Facebook"></span>
+<span class="st_googleplus_large" displaytext="Google +"></span>
+<span class="st_pinterest_large" displaytext="Pinterest"></span>
+<span class="st_tumblr_large" displaytext="Tumblr"></span>
+<span class="st_linkedin_large" displaytext="LinkedIn"></span>
+<span class="st_vkontakte_large" displaytext="Vkontakte"></span>
+<span class="st_blogger_large" displaytext="Blogger"></span>
+<span class="st_stumbleupon_large" displaytext="StumbleUpon"></span>
+<span class="st_reddit_large" displaytext="Reddit"></span>
+<span class="st_sina_large" displaytext="Sina"></span>
+<span class="st_email_large" displaytext="Email"></span>
+<span class="st_sharethis_large" displaytext="ShareThis"></span>
 </td>
 <td width="30"></td><td><img src="/pics/88x31_RTA-5042-1996-1400-1577-RTA_c.gif" alt="RTA" height="26"></td>
 </tr>
