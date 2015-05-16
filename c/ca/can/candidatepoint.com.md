@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025153820id_/http%3A//www.candidatepoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517000057id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.*
 
 # CandidatePoint | Privacy Policy
 
@@ -33,6 +33,8 @@ We may use other companies as necessary to perform services required for our ope
 ## Email Communication
 
 You may receive email communication from CandidatePoint or our partners regarding job alerts, account notifications, promotions, and other communications by email. By registering on our Website and submitting your information, you are consenting to receiving email communications.
+
+If you do not want to receive particular types of email messages from CandidatePoint, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or [click here](https://web.archive.org/unsubscribe.php).
 
 ## Children's Privacy
 
