@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marketingfunnelautomation.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122190242id_/http%3A//marketingfunnelautomation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingfunnelautomation.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516194617id_/http%3A//marketingfunnelautomation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Marketing Funnel Automation
+# Privacy Policy | Marketing Funnel Automation
 
-MarketingFunnelAutomation.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website. 
+MarketingFunnelAutomation.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
 You or Your means you as a participant in or as a user of the MarketingFunnelAutomation .com website. We or Our or Us means MarketingFunnelAutomation.com or SixFigureFunnelFormula.com. Our site means MarketingFunnelAutomation.com or SixFigureFunnelFormula.com.
 
