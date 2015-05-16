@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotto.com.au privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231195942id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotto.com.au privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516065828id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tatts Group
 
