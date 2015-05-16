@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelentz.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224084208id_/http%3A//www.travelentz.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelentz.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517011341id_/http%3A//www.travelentz.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Travelentz
 
