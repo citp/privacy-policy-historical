@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coverpageapp.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108144753id_/http%3A//www.coverpageapp.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverpageapp.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516065641id_/http%3A//www.coverpageapp.com/en/policy) for the most accurate reproduction.*
 
 # CoverPage - Privacy Policy
 
-_This document was last updated: 22. October 2013 by CoverPage Team_
+_This document was last updated: 12. February 2015 by CoverPage Team_
 
-**MONOGRAM Interactive s.r.o. (MONOGRAM)** wants you to be informed and comfortable about all our actions that help us provide our services and deliver you best and secure user experience.
+**CoverPage s.r.o. (CoverPage)** wants you to be informed and comfortable about all our actions that help us provide our services and deliver you best and secure user experience.
 
 ## What information do we collect?
 
@@ -56,8 +56,8 @@ We have implemented these features based on Display Advertising:
 
 
 
-We are using Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. MONOGRAM and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to this website.  
-MONOGRAM and third-party vendors, including Google, also use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to this site.  
+We are using Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. CoverPage and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to this website.  
+CoverPage and third-party vendors, including Google, also use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to this site.  
 Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings.](https://www.google.com/settings/ads)
 
 ## Third party links
@@ -74,11 +74,11 @@ We are in compliance with the requirements of online privacy protection of child
 
 ## Data Storage
 
-Monogram uses third party hosting partners to provide the hardware, networking, storage and related technology required to run our services.
+CoverPage uses third party hosting partners to provide the hardware, networking, storage and related technology required to run our services.
 
-## Use of the Monogram CoverPage Service
+## Use of the CoverPage Service
 
-The Monogram CoverPage Service is accessible through the Site and installed Authoring software tool. This service enables customers to create digital publications, upload videos and pictures and publish digital content into customer's account or to decide whether it will be published to the public space viewable within CoverPage iPad Reader application. This iPad Reader application is available for free to anybody without needed registration on our site. Please note that any information you disclose through this content uploaded via the Monogram CoverPage Service may become public information and may be available to users within iPad Reader application where they are posted and to the general public. **We are not responsible for the content that you publish through the Monogram CoverPage Service.** For more information about terms and conditions about nature of your content, please visit our Terms and Conditions section at <http://www.coverpageapp.com/en/terms>
+The CoverPage Service is accessible through the Site and installed Authoring software tool. This service enables customers to create digital publications, upload videos and pictures and publish digital content into customer's account or to decide whether it will be published to the public space viewable within CoverPage iPad Reader application. This iPad Reader application is available for free to anybody without needed registration on our site. Please note that any information you disclose through this content uploaded via the CoverPage Service may become public information and may be available to users within iPad Reader application where they are posted and to the general public. **We are not responsible for the content that you publish through the CoverPage Service.** For more information about terms and conditions about nature of your content, please visit our Terms and Conditions section at <http://www.coverpageapp.com/en/terms>
 
 ## Terms and Conditions 
 
@@ -99,7 +99,7 @@ By using the Site, you agree to the terms and conditions of this Privacy Policy.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.coverpageapp.com  
-Cintorínska 3/B  
-Bratislava 811 08  
+Ilkovicova 6276  
+Bratislava 842 16  
 Slovakia, EU  
 info@coverpageapp.com
