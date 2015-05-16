@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citiservi.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202548id_/http%3A//corp.citiservi.com/en/about-citiservi/policies/privacy__114.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiservi.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517003121id_/http%3A//corp.citiservi.com/en/about-citiservi/policies/privacy__114.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
