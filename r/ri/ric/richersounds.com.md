@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the richersounds.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929200004id_/http%3A//www.richersounds.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richersounds.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516155036id_/http%3A//www.richersounds.com/information/privacy) for the most accurate reproduction.*
 
-# Richer Sounds - The UK's Hi-Fi, Home Cinema & Flat Panel TV Specialists!
+# Richer Sounds - The UK's Hi-Fi, Home Cinema & TV Specialists!
 
 This privacy policy applies only to www.richersounds.com
 
@@ -118,7 +118,7 @@ Users 16 and under
 If you are aged 16 or under, please get your parent/guardian's permission before hand whenever you provide personal information to RS Plc's website. Users without this consent are not allowed to provide us with personal information.
 
 Data Protection  
-RS Plc will process any personal information that it collects in accordance with the [Data Protection Act 1998](http://www.opsi.gov.uk/Acts/Acts1998/ukpga_19980029_en_1). If you wish to access personal information collected from you via this website or if you have an enquiry or concern regarding the processing of personal data by RSCR Direct Marketing Limited, please contact: [customerservices@richersounds.com](mailto:customerservices@richersounds.com)
+RS Plc will process any personal information that it collects in accordance with the [Data Protection Act 1998](http://www.opsi.gov.uk/Acts/Acts1998/ukpga_19980029_en_1). If you wish to access personal information collected from you via this website or if you have an enquiry or concern regarding the processing of personal data, please contact: [customerservices@richersounds.com](mailto:customerservices@richersounds.com)
 
 Or write to:  
 Richer Sounds Plc,  
