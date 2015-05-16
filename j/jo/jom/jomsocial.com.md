@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jomsocial.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213015841id_/http%3A//www.jomsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jomsocial.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516233914id_/https%3A//www.jomsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JomSocial
 
@@ -15,9 +15,9 @@ By using Jomsocial, you agree to the collection and use of your personal and/or 
 We collect limited account information and store and maintain your account and profile information on our servers.
 
   * We will never rent, sell, or share information that personally identifies you for marketing purposes except to provide products or services you’ve requested, when we have your permission or under the following circumstances:
-    * We may share general information to trusted partners who work on behalf of or with Jomsocial under confidentiality agreements. General information may be used to help Jomsocial communicate offers to you from Jomsocial and our marketing partners. Our partners do not have any independent right to share this general information and any offers will include a URL and email address where you can unsubscribe from future mailings,
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims,
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Jomsocial’s terms of use, or as otherwise required by law,
+    * We may share general information to trusted partners who work on behalf of or with Jomsocial under confidentiality agreements. General information may be used to help Jomsocial communicate offers to you from Jomsocial and our marketing partners. Our partners do not have any independent right to share this general information and any offers will include a URL and email address where you can unsubscribe from future mailings.
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Jomsocial’s terms of use, or as otherwise required by law.
     * Jomsocial displays targeted advertisements based on personal or group information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria.
 
 
