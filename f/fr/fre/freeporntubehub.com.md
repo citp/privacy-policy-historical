@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeporntubehub.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726234925id_/http%3A//www.freeporntubehub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeporntubehub.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517000739id_/http%3A//www.freeporntubehub.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
