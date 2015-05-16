@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcperformancetools.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212023059id_/http%3A//www.pcperformancetools.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcperformancetools.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516114136id_/http%3A//www.pcperformancetools.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # PCPerformanceTools.com Privacy Policy
 
