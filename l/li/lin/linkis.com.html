@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the linkis.com privacy policy that was archived on 2014-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141223054603id_/http%3A//linkis.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linkis.com privacy policy that was archived on 2015-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516025031id_/http%3A//linkis.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -24,9 +24,9 @@
 <title>Privacy - Linkis.com</title><meta name="title" content="Privacy - Linkis.com">
 <meta name="keywords" content="Privacy, Linkis.com">
 <meta name="description" content="Privacy - Linkis.com"><link href="/favicon.ico" rel="icon" type="image/png">
-<link href="/js/prod/secondary.css?652" media="all" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript">
+<link href="/js/prod/secondary.css?716" media="all" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript">
     /*<![CDATA[*/
-var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";var url_tpl="https://www.facebook.com/dialog/oauth?client_id=318962828183539&redirect_uri=http%3A%2F%2Flinkis.com%2Fauth%2Ffb%2Fredirect_url%2F__url__&state=69490db55f59e88700389a0ecaf12fec&display=popup&scope=publish_stream&skip_api_login=1";if(typeof rurl=="string")url=rurl;url=url_tpl.replace("__url__",encodeURIComponent(encodeURIComponent(url)));awo_fb=true;win=openWindowCentered(url,"fb",500,500);var sid=setInterval(function(){if(win.closed){awo_fb=false;clearInterval(sid)}},500);return win};    /*]]>*/
+var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";var url_tpl="https://www.facebook.com/dialog/oauth?client_id=318962828183539&redirect_uri=http%3A%2F%2Flinkis.com%2Fauth%2Ffb%2Fredirect_url%2F__url__&state=5713b94d6447a3798cdc23ee41cd7000&display=popup&scope=publish_stream&skip_api_login=1";if(typeof rurl=="string")url=rurl;url=url_tpl.replace("__url__",encodeURIComponent(encodeURIComponent(url)));awo_fb=true;win=openWindowCentered(url,"fb",500,500);var sid=setInterval(function(){if(win.closed){awo_fb=false;clearInterval(sid)}},500);return win};    /*]]>*/
 </script>
 <script>
     var LNG = {};
@@ -58,7 +58,6 @@ var awo_fb=false;function fbAuth(rurl){if(awo_fb)return null;var url="/privacy";
     var addthis_config = window.addthis_config || {};
     addthis_config.data_track_clickback = false;
 </script>
-
 
 <script type="text/javascript">
 
@@ -92,12 +91,14 @@ function lnEvent(action, label, category)
     var e = function(str){ return str ? encodeURIComponent(str) : ''; };
     var theme = window.LinkData ? LinkData.curTheme : 0;
     var linkId = window.LinkData ? LinkData.id : 0;
+    var profId = LnProf.profId ? LnProf.profId : 0;
     (new Image()).src = path +
         '?c=' + e(category) +
         '&a=' + e(action) +
         '&l=' + e(label) +
         '&t=' + e(theme) +
-        '&li=' + e(linkId);
+        '&li=' + e(linkId) +
+        '&id=' + e(profId);
 }
 
 </script>
@@ -117,7 +118,6 @@ window.NL_APP_DATA = {
     },
     show_notify_popup: 0,
     show_silent_popup_old_usr: 0,
-    show_aw_popup: 0,
     stat_id: null,
     nopopups: 0,
     addThisSrc: 'http://s7.addthis.com/js/300/addthis_widget.js#async=1&pubid=',
@@ -125,7 +125,6 @@ window.NL_APP_DATA = {
     referrer_link: '',
     cookie_domain: '.linkis.com',
 	sessCookieName: 'LNSID',
-    popupForceLang: Math.random() < 0.3 ? 'en' : null,
     popupsHtml: {}
 };
 
@@ -138,6 +137,8 @@ var LnProf = {
     err: [],
     path: ['', 'index', 'save-ln-prof?'], // prevent simple url parsing
     iframeLoad: false,
+    page: 'index/privacy',
+    recordId: 0,
 
     // receive profId in this function
     start: function()
@@ -147,7 +148,7 @@ var LnProf = {
         if (!LnProf.enabled)
             return;
         var uri = location.pathname + location.search + location.hash;
-        var src = LnProf.path.join('/') + 'type=start&time='+now+'&uri='+encodeURIComponent(uri)+'&theme='+LnProf.theme;
+        var src = LnProf.path.join('/') + 'type=start&page=' + LnProf.page + '&time='+now+'&uri='+encodeURIComponent(uri)+'&theme='+LnProf.theme;
         document.write('<' + 'script type="text/javascript" src="' + src + '"><' + '/script>');
     },
     prodLoad: function(minifyVersion)
@@ -157,10 +158,10 @@ var LnProf = {
 
         var browser = $.browser.platform + ' ' + $.browser.name + ' ' + $.browser.versionNumber;
         var time = (new Date()).getTime() - LnProf.startedAt;
-        var linkId = window.LinkData ? LinkData.id : 0;
+        var recordId = LnProf.recordId ? LnProf.recordId : 0;
         (new Image()).src = LnProf.path.join('/') + 'type=prod&id=' + LnProf.profId
             + '&browser=' +encodeURIComponent(browser) + '&time=' + time + '&ver=' + (minifyVersion || '')
-            + '&dur=' + LnProf.startDuration + '&linkid=' + linkId;
+            + '&dur=' + LnProf.startDuration + '&recid=' + recordId;
     },
     stopApp: function()
     {
@@ -179,6 +180,22 @@ var LnProf = {
             return;
 
         (new Image()).src = LnProf.path.join('/') + 'type=iframe&id=' + LnProf.profId + '&time=' + time
+            + '&rnd=' + LnProf._rnd();
+    },
+    adblock: function()
+    {
+        if (!LnProf.profId || !LnProf.enabled)
+            return;
+
+        (new Image()).src = LnProf.path.join('/') + 'type=adblock&id=' + LnProf.profId + '&adblock=1'
+            + '&rnd=' + LnProf._rnd();
+    },
+    blocked: function(block)
+    {
+        if (!LnProf.profId || !LnProf.enabled)
+            return;
+
+        (new Image()).src = LnProf.path.join('/') + 'type=blocked&id=' + LnProf.profId + '&block=' + block
             + '&rnd=' + LnProf._rnd();
     },
     popup: function(popup)
@@ -219,7 +236,7 @@ var LnProf = {
 LnProf.start();
 window.onerror = LnProf.onError;
 
-</script><script type="text/javascript" src="/index/save-ln-prof?type=start&amp;time=1580481949508&amp;uri=%2Fweb%2F20141223054603id_%2Fhttp%253A%2F%2Flinkis.com%2Fprivacy&amp;theme=0"></script>
+</script><script type="text/javascript" src="/index/save-ln-prof?type=start&amp;page=index/privacy&amp;time=1580481951819&amp;uri=%2Fweb%2F20150516025031id_%2Fhttp%253A%2F%2Flinkis.com%2Fprivacy&amp;theme=0"></script>
 <script type="text/javascript">
     /*
      * use Ga array lika goole gaq array
@@ -348,7 +365,7 @@ While we do our best to protect your personal information, we cannot guarantee t
     window.steal = { loaded:["prod/production.css"] };
     </script>
 
-    <script src="/js/steal/steal.production.js?prod/production.js&amp;644"></script>
+    <script src="/js/steal/steal.production.js?prod/production.js&amp;676"></script>
 
 
     <!-- UserVoice JavaScript SDK (only needed once on a page) -->
@@ -383,9 +400,10 @@ While we do our best to protect your personal information, we cannot guarantee t
         </div>
         <div class="links">
             <a href="/about">About</a> | <a href="http://blog.linkis.com">Blog</a> | <a href="/privacy" class="current">Privacy</a> | <a href="/terms">Terms</a> | <a href="/faq">FAQ</a> | <a href="/plugin">Plugin</a> | <a href="/bookmarklet">Bookmarklet</a>        </div>
-        <div class="copyright">© Copyright 2014 by Linkis.com. All rights reserved.</div>
+        <div class="copyright">© Copyright 2015 by Linkis.com. All rights reserved.</div>
     </div>
 
+</div>
 
 
-</div></body></html>
+</body></html>
