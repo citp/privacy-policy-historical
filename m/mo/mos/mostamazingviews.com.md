@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostamazingviews.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217114630id_/http%3A//mostamazingviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostamazingviews.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516214122id_/http%3A//mostamazingviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Most Amazing Views
 
