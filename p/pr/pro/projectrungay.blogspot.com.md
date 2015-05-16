@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectrungay.blogspot.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822024154id_/http%3A//tomandlorenzo2.blogspot.com/2010/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectrungay.blogspot.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516103314id_/http%3A//tomandlorenzo2.blogspot.com/2010/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Tom & Lorenzo Archives: 2006 -2011
 
