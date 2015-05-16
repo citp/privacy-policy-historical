@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationsphotolab.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705043037id_/http%3A//www.nationsphotolab.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationsphotolab.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517014735id_/http%3A//www.nationsphotolab.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Terms: Nations Photo Lab
+# Nations Photo Lab Privacy Policy
 
 We collect personal information when you register with Nations Photo Lab and when you use any of our products or services. Personal information is any information about you that is personally identifiable like your name, address, email address or phone number, Facebook Connect sign-in information (if applicable), and any other information that is not otherwise publicly available. If you order products or pay for services, we will need your shipping address, billing name and address, as well as the credit card number and expiration date.
 
