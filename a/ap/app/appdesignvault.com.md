@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the appdesignvault.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009222741id_/http%3A//www.appdesignvault.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdesignvault.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516022336id_/http%3A//www.appdesignvault.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone and iOS App UI Design Templates
+
+[ ](http://www.appdesignvault.com/ "iPhone and iOS App UI Design Templates")
 
 This privacy policy sets out how App Design Vault uses and protects any information that you give App Design Vault when you use this website.
 
