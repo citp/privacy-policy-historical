@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the definitions.net privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121220115id_/http%3A//www.definitions.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the definitions.net privacy policy that was archived on 2015-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516220105id_/http%3A//www.definitions.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -7,6 +7,7 @@
 <title>Privacy Policy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <base href="http://www.definitions.net/">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic">
@@ -14,8 +15,9 @@
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,300,400,700">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster+Two:400,700,400italic,700italic">
-<link rel="stylesheet" href="root/app_common/css/normalize.css">
-<link rel="stylesheet" href="root/app_common/css/smoothness/jquery-ui-1.10.3.custom.min.css">
+<link rel="stylesheet" href="root/app_common/css/bootstrap.min.css">
+<!--<link rel="stylesheet" href="--><!--/app_common/css/normalize.css">-->
+<link rel="stylesheet" href="root/app_common/css/smoothness/jquery-ui-1.11.3.custom.min.css">
 <link rel="stylesheet" href="root/app_common/css/defn.css">
 <!--[if lt IE 9]> <link rel="stylesheet" href="root/app_common/css/defn-ie8.css"> <![endif]-->
 <!--[if lt IE 8]> <link rel="stylesheet" href="root/app_common/css/defn-ie7.css"> <![endif]-->
@@ -23,7 +25,7 @@
 <link rel="stylesheet" href="root/app_common/css/media.css">
 <link rel="shortcut icon" type="image/x-icon" href="root/app_common/img/favicon_defn.ico">
 <link rel="search" type="application/opensearchdescription+xml" title="Definitions.net" href="http://www.definitions.net/open-search.xml">
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=393997013979407"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="root/app_common/js/libs/modernizr-2.6.2.custom.min.js"></script><script type="text/javascript">
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=393997013979407&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="root/app_common/js/libs/modernizr-2.8.3.custom.min.js"></script><script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-172613-3']);
   _gaq.push(['_trackPageview']);
@@ -42,7 +44,7 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=393997013979407";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=393997013979407&version=v2.3";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -50,12 +52,13 @@
 <header id="header">
 	<div id="header-int" class="clearfix">		
 					<div id="user-login"><a href="login.php">Log in</a></div>
-				<div id="network-header"><span id="network-header-trigger">The STANDS4 Network<span class="arw">▼</span></span>
+				<div id="network-header"><span id="network-header-trigger">The&nbsp;STANDS4&nbsp;Network<span class="arw">☰</span></span>
 	<ul id="network-header-links" style="display:none;">
 		<li class="nw-abbreviations"><a href="http://www.abbreviations.com/">ABBREVIATIONS</a></li>
 		<li class="nw-biographies"><a href="http://www.biographies.net/">BIOGRAPHIES</a></li>
 		<li class="nw-convert"><a href="http://www.convert.net/">CONVERSIONS</a></li>
 		<li class="nw-definitions"><a href="http://www.definitions.net/">DEFINITIONS</a></li>
+		<li class="nw-grammar"><a href="http://www.grammar.com/">GRAMMAR</a></li>
 		<li class="nw-lyrics"><a href="http://www.lyrics.net/">LYRICS</a></li>
 		<li class="nw-phrases"><a href="http://www.phrases.net/">PHRASES</a></li>
 		<li class="nw-poetry"><a href="http://www.poetry.net/">POETRY</a></li>
@@ -67,11 +70,9 @@
 		<li class="nw-uszip"><a href="http://www.uszip.com/">USZIP</a></li>
 	</ul>
 </div>	</div>
-</header><div id="main" role="main">
-<div id="content-container" class="clearfix">
-	
-	<div id="content-top">
-	<form id="search-frm" method="get" action="subserp.php">
+</header><div id="main" role="main" class="container"><div id="content-top" class="content-top">
+	<div class="view-desktop hidden-xs hidden-sm">
+		<form id="search-frm" method="get" action="subserp.php">
 <input type="hidden" id="page-word-search-lang" name="lang" value="EN">
 <div id="page-top-search" class="rc5">
 	<div id="page-word-search">
@@ -86,9 +87,29 @@
 	</div>
 </div>
 <div id="page-letter-search" class="rc5"><a href="/definitions/0">#</a><a href="/definitions/A">A</a><a href="/definitions/B">B</a><a href="/definitions/C">C</a><a href="/definitions/D">D</a><a href="/definitions/E">E</a><a href="/definitions/F">F</a><a href="/definitions/G">G</a><a href="/definitions/H">H</a><a href="/definitions/I">I</a><a href="/definitions/J">J</a><a href="/definitions/K">K</a><a href="/definitions/L">L</a><a href="/definitions/M">M</a><a href="/definitions/N">N</a><a href="/definitions/O">O</a><a href="/definitions/P">P</a><a href="/definitions/Q">Q</a><a href="/definitions/R">R</a><a href="/definitions/S">S</a><a href="/definitions/T">T</a><a href="/definitions/U">U</a><a href="/definitions/V">V</a><a href="/definitions/W">W</a><a href="/definitions/X">X</a><a href="/definitions/Y">Y</a><a href="/definitions/Z">Z</a><span class="vbar">&nbsp;</span><a href="justadded.php" class="z">NEW</a><a href="random.php" class="z">RANDOM</a></div>
-</form>	<div id="page-top-logo" onclick="location.href='http://www.definitions.net/';"><img src="/root/app_common/img/top_logo_def.png" alt="Definitions.net" title="Definitions.net"></div>
-</div>	
-	<div id="content-main">
+</form>		<div id="page-top-logo" onclick="location.href='http://www.definitions.net/';"><img src="root/app_common/img/top_logo_def.png" alt="Definitions.net" title="Definitions.net"></div>
+	</div>
+	<div class="view-mobile visible-xs visible-sm">
+		<form id="search-frm" method="get" action="subserp.php">
+	<div id="page-top-search" class="rc5">
+		<div id="page-word-search">
+			<input type="text" id="page-word-search-query" class="rc5" name="st" value="" autocomplete="off">
+			<div id="page-word-search-icon"></div>
+			<button type="submit" class="btn primary" id="page-word-search-button">Search</button>
+		</div>
+		<div id="page-word-search-ops">
+			<div><input type="radio" class="custom-rb" name="qtype" id="page-word-search-m-op1" value="1" checked="checked"><label for="page-word-search-m-op1"><span>Term</span></label></div>
+			<div><input type="radio" class="custom-rb" name="qtype" id="page-word-search-m-op2" value="2"><label for="page-word-search-m-op2"><span>Word in Definition</span></label></div>
+			<div><input type="radio" class="custom-rb" name="qtype" id="page-word-search-m-op3" value="3"><label for="page-word-search-m-op3"><span>Translations</span></label></div>
+		</div>
+	</div>
+	<div id="page-letter-search" class="rc5"><a href="/definitions/0">#</a><a href="/definitions/A">A</a><a href="/definitions/B">B</a><a href="/definitions/C">C</a><a href="/definitions/D">D</a><a href="/definitions/E">E</a><a href="/definitions/F">F</a><a href="/definitions/G">G</a><a href="/definitions/H">H</a><a href="/definitions/I">I</a><a href="/definitions/J">J</a><a href="/definitions/K">K</a><a href="/definitions/L">L</a><a href="/definitions/M">M</a><a href="/definitions/N">N</a><a href="/definitions/O">O</a><a href="/definitions/P">P</a><a href="/definitions/Q">Q</a><a href="/definitions/R">R</a><a href="/definitions/S">S</a><a href="/definitions/T">T</a><a href="/definitions/U">U</a><a href="/definitions/V">V</a><a href="/definitions/W">W</a><a href="/definitions/X">X</a><a href="/definitions/Y">Y</a><a href="/definitions/Z">Z</a><span class="vbar">&nbsp;</span><a href="justadded.php" class="z">NEW</a><a href="random.php" class="z">RANDOM</a></div>
+</form>		<div id="page-top-logo" onclick="location.href='http://www.definitions.net/';"><img src="root/app_common/img/top_logo_def.png" alt="Definitions.net" title="Definitions.net"></div>
+	</div>
+</div>
+<div class="row">
+
+	<div id="content-main" class="col-md-8 col-md-push-4">
 		
 		<hgroup class="hg1b">
 			<h1>Privacy Policy</h1>
@@ -141,23 +162,25 @@
 		
 	</div>
 	
-	<div id="content-aside">
-		<hr class="sep">
+	<div id="content-aside" class="col-md-4 col-md-pull-8">
+		<div class="hidden-xs hidden-sm">
+    <hr class="sep">
 <div class="tagline">
 	<h2>The Web's Largest Resource for</h2>
 	<h1>Definitions <span>&amp;</span> Translations</h1>
-</div><div class="nsep"><hr><h3>A Member Of The <span>STANDS4 Network</span></h3></div>
-<div id="sb-social">
+</div>    <div class="nsep"><hr><h3>A Member Of The <span>STANDS4 Network</span></h3></div>
+    <div id="sb-social">
 	<div class="clearfix">
 	<div class="social" title="Share this page on Facebook"><a id="share-facebook" href="javascript:void(0);" target="_blank"><div class="fb"></div></a></div>
 	<div class="social" title="Share this page on Twitter"><a id="share-twitter" href="javascript:void(0);" target="_blank"><div class="tw"></div></a></div>
 	<div class="social" title="Share this page on Google+"><a id="share-googleplus" href="javascript:void(0);" target="_blank"><div class="gp"></div></a></div>
 	<div class="social" title="Share this page with AddThis"><a id="share-addthis" href="javascript:void(0);" target="_blank"><div class="at"></div></a></div>
 	</div>
-</div><hr class="sep">		
-<section class="adunit rc5"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- NEW-DEF-250_250 -->
-<ins class="adsbygoogle" style="display:inline-block;width:250px;height:250px" data-ad-client="ca-pub-6071864913982699" data-ad-slot="4357808211"></ins>
+</div>    <hr class="sep">
+</div>		
+<section><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- DEF_NEW_TRANS_300_250 -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-6071864913982699" data-ad-slot="2453973741"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></section>
@@ -186,89 +209,178 @@
 //--></script>
 <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Definitionsnet/ROS/tags.js"></script>
 </section>
-<section><!--JavaScript General Redirect Tag // Tag for network 9533: Marketplace: STANDS4 LLC // Website: Definitions.net // Page: Definitions.net // Placement: Definitions 300x250 ATF (3219702) // created at: Jun 19, 2014 10:08:06 AM-->
-<script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/9533.1/3219702/0/170/ADTECH;loc=100;target=_blank;misc=[TIMESTAMP];rdclick=[CLICKMACRO]"></script>
-<!-- End of JavaScript Tag --></section>
+<section>	
+<!-- Async Tag // Tag for network 9533: Marketplace: STANDS4 LLC // Website: Definitions.net // Page: Definitions.net // Placement: Definitions 300x250 ATF (3219702) // created at: Dec 8, 2014 8:38:50 AM -->
+<script type="text/javascript" src="http://aka-cdn-ns.adtechus.com/dt/common/DAC.js"></script>
+<div id="3219702"></div>
+<script>
+ADTECH.config.page = { protocol: 'http', server: 'adserver.adtechus.com', network: '9533.1', pageid: 693114, params: { loc: '100' }};
+ADTECH.config.placements[3219702] = { sizeid: 170, params: { alias: '', target: '_blank' }};
+ADTECH.loadAd(3219702);
+</script></section>
 	</div>
 	
 </div></div>
 <footer id="footer">
-	<div id="footer-int" class="clearfix">
-		<ul>
-			<h5>Company</h5>
-			<li><a href="http://www.definitions.net/">Home</a></li>
-			<li><a href="about.php?slc=Definitions">About</a></li>
-			<li><a href="news.php">News</a></li>
-			<li><a href="press.php">Press</a></li>
-			<li><a href="awards.php">Awards</a></li>
-			<li><a href="testimonials.php">Testimonials</a></li>
-		</ul>
-		<ul>
-			<h5>Editorial</h5>
-			<li><a href="login.php">Login</a></li>			
-			<li><a href="adddefinition.php">Add a New Entry</a></li>
-			<li class="ex"><a href="signup.php">Become an Editor</a></li>			
-			<li><a href="editors.php">Meet the Editors</a></li>
-			<li><a href="justadded.php">Recently Added</a></li>
-			<li class="ex"><a href="pending.php">Pending Definitions</a></li>
-			<li><a href="random.php">Random Entry</a></li>
-		</ul>
-		<ul>
-			<h5>Services</h5>
-			<li><a href="http://www.abbreviations.com/tools.php">Tools</a></li>
-			<li class="ex"><a href="http://www.abbreviations.com/mylist.php">Your Saved Items</a></li>
-			<li><a href="invite.php">Tell a Friend</a></li>
-			<li><a id="page-bookmark" href="">Bookmark Us</a></li>
-			<li><a href="definitions_api.php">Definitions API</a></li>
-		</ul>
-		<ul class="last">
-			<h5>Legal &amp; Contact</h5>
-			<li><a href="terms.php">Terms of Use</a></li>
-			<li><a href="privacy.php">Privacy Policy</a></li>
-			<li><a href="contact.php">Contact Us</a></li>
-			<li class="ex"><a href="advertise.php">Advertise</a></li>
-			<li><img src="root/app_common/img/hotchalk.png" alt="hotchalk" class="hotchalk"></li>
-		</ul>
-		
-<div id="s4-network">
-	<h5>The STANDS4 Network</h5>
-	<div class="clearfix">
-		<ul>
-			<li class="nw-abbreviations"><a rel="nofollow" href="http://www.abbreviations.com/">Abbreviations</a></li>
-			<li class="nw-biographies"><a rel="nofollow" href="http://www.biographies.net/">Biographies</a></li>
-			<li class="nw-convert"><a rel="nofollow" href="http://www.convert.net/">Conversions</a></li>
-			<li class="nw-definitions"><a rel="nofollow" href="http://www.definitions.net/">Definitions</a></li>
-			<li class="nw-kamus"><a rel="nofollow" href="http://www.kamus.net/">Kamus</a></li>
-		</ul>
-		<ul>
-			<li class="nw-lyrics"><a rel="nofollow" href="http://www.lyrics.net/">Lyrics</a></li>
-			<li class="nw-phrases"><a rel="nofollow" href="http://www.phrases.net/">Phrases</a></li>
-			<li class="nw-poetry"><a rel="nofollow" href="http://www.poetry.net/">Poetry</a></li>
-			<li class="nw-quotes"><a rel="nofollow" href="http://www.quotes.net/">Quotes</a></li>
-			<li class="nw-references"><a rel="nofollow" href="http://www.references.net/">References</a></li>
-		</ul>
-		<ul class="last">
-			<li class="nw-rhymes"><a rel="nofollow" href="http://www.rhymes.net/">Rhymes</a></li>
-			<li class="nw-symbols"><a rel="nofollow" href="http://www.symbols.com/">Symbols</a></li>
-			<li class="nw-synonyms"><a rel="nofollow" href="http://www.synonyms.net/">Synonyms</a></li>
-			<li class="nw-uszip"><a rel="nofollow" href="http://www.uszip.com/">Zip Codes</a></li>
-		</ul>
+	<div id="footer-int" class="clearfix container-fluid">
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-3">
+				<div class="row">
+					<div class="col-xs-6 col-sm-6 col-md-5">
+						<ul>
+							<h5>Company</h5>
+							<li><a href="http://www.definitions.net/">Home</a></li>
+							<li><a href="about.php?slc=Definitions">About</a></li>
+							<li><a href="news.php">News</a></li>
+							<li><a href="press.php">Press</a></li>
+							<li><a href="awards.php">Awards</a></li>
+							<li><a href="testimonials.php">Testimonials</a></li>
+						</ul>
+					</div>
+					<div class="col-xs-6 col-sm-6 col-md-7">
+						<ul>
+							<h5>Editorial</h5>
+							<li><a href="login.php">Login</a></li>
+							<li><a href="adddefinition.php">Add a New Entry</a></li>
+							<li class="ex"><a href="signup.php">Become an Editor</a></li>
+							<li><a href="editors.php">Meet the Editors</a></li>
+							<li><a href="justadded.php">Recently Added</a></li>
+							<li class="ex"><a href="pending.php">Pending Definitions</a></li>
+							<li><a href="random.php">Random Entry</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-12 col-md-4">
+				<div class="row">
+					<div class="col-xs-6 col-sm-6 col-md-6">
+						<ul>
+							<h5>Services</h5>
+							<li><a href="http://www.abbreviations.com/tools.php">Tools</a></li>
+							<li class="ex"><a href="http://www.abbreviations.com/mylist.php">Your Saved Items</a></li>
+							<li><a href="invite.php">Tell a Friend</a></li>
+							<li><a id="page-bookmark" href="">Bookmark Us</a></li>
+							<li class="ex"><a href="wotd.php">Word of the Day</a></li>
+							<li><a href="definitions_api.php">Definitions API</a></li>
+							<li><a href="http://www.definitions.net/vocabulary-builder">Vocabulary Builder</a></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 col-sm-6 col-md-6">
+						<ul class="last">
+							<h5>Legal &amp; Contact</h5>
+							<li><a href="terms.php">Terms of Use</a></li>
+							<li><a href="privacy.php">Privacy Policy</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
+							<li class="ex"><a href="advertise.php">Advertise</a></li>
+							<li><img src="root/app_common/img/hotchalk.png" alt="hotchalk" class="hotchalk"></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+
+			
+<div id="s4-network" class="col-xs-12 col-sm-12 col-md-5">
+	<div class="row">
+		<h5 class="col-xs-12 col-sm-12 col-md-12">The STANDS4 Network</h5>
 	</div>
+
+	<!-- Desktop version -->
+	<div class="clearfix row hidden-xs hidden-sm">
+		<div class="col-xs-12 col-sm-12 col-md-8">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6">
+					<ul>
+						<li class="nw-abbreviations"><a rel="nofollow" href="http://www.abbreviations.com/">Abbreviations</a></li>
+						<li class="nw-biographies"><a rel="nofollow" href="http://www.biographies.net/">Biographies</a></li>
+						<li class="nw-convert"><a rel="nofollow" href="http://www.convert.net/">Conversions</a></li>
+						<li class="nw-definitions"><a rel="nofollow" href="http://www.definitions.net/">Definitions</a></li>
+						<li class="nw-grammar"><a rel="nofollow" href="http://www.grammar.com/">Grammar</a></li>
+					</ul>
+				</div>
+
+				<div class="col-xs-6 col-sm-6 col-md-6">
+					<ul>
+						<li class="nw-kamus"><a rel="nofollow" href="http://www.kamus.net/">Kamus</a></li>
+						<li class="nw-lyrics"><a rel="nofollow" href="http://www.lyrics.net/">Lyrics</a></li>
+						<li class="nw-phrases"><a rel="nofollow" href="http://www.phrases.net/">Phrases</a></li>
+						<li class="nw-poetry"><a rel="nofollow" href="http://www.poetry.net/">Poetry</a></li>
+						<li class="nw-quotes"><a rel="nofollow" href="http://www.quotes.net/">Quotes</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="col-xs-12 col-sm-12 col-md-4">
+			<ul class="last">
+				<li class="nw-references"><a rel="nofollow" href="http://www.references.net/">References</a></li>
+				<li class="nw-rhymes"><a rel="nofollow" href="http://www.rhymes.net/">Rhymes</a></li>
+				<li class="nw-symbols"><a rel="nofollow" href="http://www.symbols.com/">Symbols</a></li>
+				<li class="nw-synonyms"><a rel="nofollow" href="http://www.synonyms.net/">Synonyms</a></li>
+				<li class="nw-uszip"><a rel="nofollow" href="http://www.uszip.com/">Zip Codes</a></li>
+			</ul>
+		</div>
+
+	</div>
+
+
+	<!-- Mobile version -->
+	<div class="clearfix row hidden-md hidden-lg">
+		<div class="col-xs-12 col-sm-12 col-md-8">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6 col-md-6">
+					<ul>
+						<li class="nw-abbreviations"><a rel="nofollow" href="http://www.abbreviations.com/">Abbreviations</a></li>
+						<li class="nw-biographies"><a rel="nofollow" href="http://www.biographies.net/">Biographies</a></li>
+						<li class="nw-convert"><a rel="nofollow" href="http://www.convert.net/">Conversions</a></li>
+						<li class="nw-definitions"><a rel="nofollow" href="http://www.definitions.net/">Definitions</a></li>
+						<li class="nw-grammar"><a rel="nofollow" href="http://www.grammar.com/">Grammar</a></li>
+						<li class="nw-kamus"><a rel="nofollow" href="http://www.kamus.net/">Kamus</a></li>
+						<li class="nw-lyrics"><a rel="nofollow" href="http://www.lyrics.net/">Lyrics</a></li>
+						<li class="nw-phrases"><a rel="nofollow" href="http://www.phrases.net/">Phrases</a></li>
+					</ul>
+				</div>
+
+				<div class="col-xs-6 col-sm-6 col-md-6">
+					<ul>
+
+						<li class="nw-poetry"><a rel="nofollow" href="http://www.poetry.net/">Poetry</a></li>
+						<li class="nw-quotes"><a rel="nofollow" href="http://www.quotes.net/">Quotes</a></li>
+						<li class="nw-references"><a rel="nofollow" href="http://www.references.net/">References</a></li>
+						<li class="nw-rhymes"><a rel="nofollow" href="http://www.rhymes.net/">Rhymes</a></li>
+						<li class="nw-symbols"><a rel="nofollow" href="http://www.symbols.com/">Symbols</a></li>
+						<li class="nw-synonyms"><a rel="nofollow" href="http://www.synonyms.net/">Synonyms</a></li>
+						<li class="nw-uszip"><a rel="nofollow" href="http://www.uszip.com/">Zip Codes</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
 	<div class="clearfix">
-		<div class="copyright"><strong>© 2001-2014 STANDS4 LLC.</strong><br>All rights reserved.</div>
+		<div class="copyright"><strong>© 2001-2015 STANDS4 LLC.</strong><br>All rights reserved.</div>
 		<div id="social-icons">
 			<a rel="nofollow" href="http://www.facebook.com/STANDS4" target="_blank"><div class="social fb"></div></a>
 			<a rel="nofollow" href="http://twitter.com/justadded" target="_blank"><div class="social tw"></div></a>
 			<a rel="nofollow" href="https://plus.google.com/+abbreviations/" target="_blank"><div class="social gp"></div></a>
 		</div>
 	</div>
-</div>	</div>
+</div>		</div>
+	</div>
 </footer></div>
-<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
-<script>window.jQuery || document.write('<script src="root/app_common/js/libs/jquery-1.10.2.min.js"><\/script>')</script><script src="root/app_common/js/libs/jquery-1.10.2.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+<script>window.jQuery || document.write('<script src="root/app_common/js/libs/jquery-1.11.2.min.js"><\/script>')</script><script src="root/app_common/js/libs/jquery-1.11.2.min.js"></script>
 
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write('<script src="root/app_common/js/libs/jquery-ui-1.10.3.custom.min.js"><\/script>')</script><script src="root/app_common/js/libs/jquery-ui-1.10.3.custom.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write('<script src="root/app_common/js/libs/jquery-ui-1.11.3.custom.min.js"><\/script>')</script><script src="root/app_common/js/libs/jquery-ui-1.11.3.custom.min.js"></script>
 
 <script src="root/app_common/js/libs/jquery.placeholder.min.js"></script>
 <script src="root/app_common/js/libs/wselect.js"></script>
@@ -281,4 +393,4 @@
 </script>
 <script type="text/javascript" src="http://ads.doclix.com/adserver/serve/js/doclix_synd_overlay.js" async="async" charset="utf-8"></script>-->
 
-<!-- Timer: 0.0177 secs | Server: 10.93.170.247 --></body></html>
+<!-- Timer: 0.0135 secs | Server: 10.93.170.247 --></body></html>
