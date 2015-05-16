@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elvoline.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122064839id_/http%3A//www.elvoline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elvoline.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516152607id_/http%3A//www.elvoline.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Elvoline.com - Cheap Hotel Booking World Wide
+# Privacy Policy | Elvoline.com
 
 **Elvoline** is owned and operated by **Elvoline Limited**. Floor 2, Heritage House, 235 Main street, Gibraltar, Gibraltar. Registered Company Number: 108473 ("henceforward Elvoline"). The following Privacy Policy describes how we collect, use, disclose, and otherwise process personally identifiable information that we collect about individuals ("Personal Data") in connection with the services available from Elvoline through the web site located at Elvoline ("Site"). By visiting the Site, you are consenting to the collection, use, disclosure and processing of your Personal Data as described in this Privacy Policy. All data that we collect and process is stored on servers located in Hungary, a country that may not provide an equivalent level of data protection to the laws in your home jurisdiction.
 
