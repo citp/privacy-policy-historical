@@ -1,35 +1,6 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124152803id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517003721id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
-
-  
-| Alphabetical   
----  
-[#](https://web.archive.org/alphabetical/0) | [A](https://web.archive.org/alphabetical/A) | [B](https://web.archive.org/alphabetical/B) | [C](https://web.archive.org/alphabetical/C) | [D](https://web.archive.org/alphabetical/D) | [E](https://web.archive.org/alphabetical/E) | [F](https://web.archive.org/alphabetical/F) | [G](https://web.archive.org/alphabetical/G) | [H](https://web.archive.org/alphabetical/H)  
-[I](https://web.archive.org/alphabetical/I) | [J](https://web.archive.org/alphabetical/J) | [K](https://web.archive.org/alphabetical/K) | [L](https://web.archive.org/alphabetical/L) | [M](https://web.archive.org/alphabetical/M) | [N](https://web.archive.org/alphabetical/N) | [O](https://web.archive.org/alphabetical/O) | [P](https://web.archive.org/alphabetical/P) | [Q](https://web.archive.org/alphabetical/Q)  
-[R](https://web.archive.org/alphabetical/R) | [S](https://web.archive.org/alphabetical/S) | [T](https://web.archive.org/alphabetical/T) | [U](https://web.archive.org/alphabetical/U) | [V](https://web.archive.org/alphabetical/V) | [W](https://web.archive.org/alphabetical/W) | [X](https://web.archive.org/alphabetical/X) | [Y](https://web.archive.org/alphabetical/Y) | [Z](https://web.archive.org/alphabetical/Z)  
-  
-Genre   
----  
-[Action](https://web.archive.org/genre/Action) | [Adventure](https://web.archive.org/genre/Adventure) | [Animation](https://web.archive.org/genre/Animation)  
-[Comedy](https://web.archive.org/genre/Comedy) | [Crime](https://web.archive.org/genre/Crime) | [Drama](https://web.archive.org/genre/Drama)  
-[Family](https://web.archive.org/genre/Family) | [Fantasy](https://web.archive.org/genre/Fantasy) | [Film-Noir](https://web.archive.org/genre/Film-Noir)  
-[Horror](https://web.archive.org/genre/Horror) | [Musical](https://web.archive.org/genre/Musical) | [Mystery](https://web.archive.org/genre/Mystery)  
-[Romance](https://web.archive.org/genre/Romance) | [Sci-Fi](https://web.archive.org/genre/Sci-Fi) | [Short](https://web.archive.org/genre/Short)  
-[Thriller](https://web.archive.org/genre/Thriller) | [War](https://web.archive.org/genre/War) | [Western](https://web.archive.org/genre/Western)  
-  
-  
-  
-  
-Latest Comments   
----  
-[Harry Potter and the Half-Blood Prince](https://web.archive.org/Movie%20Scripts/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20Script.html)| 10/10  
-[Fury](https://web.archive.org/Movie%20Scripts/Fury%20Script.html)| 7/10  
-[Bodyguard](https://web.archive.org/Movie%20Scripts/Bodyguard%20Script.html)| 10/10  
-[Silver Linings Playbook](https://web.archive.org/Movie%20Scripts/Silver%20Linings%20Playbook%20Script.html)| 9/10  
-[Alien: Resurrection](https://web.archive.org/Movie%20Scripts/Alien:%20Resurrection%20Script.html)| 3/10  
-  
-| 
 
 **_Privacy Policy_**  
 
