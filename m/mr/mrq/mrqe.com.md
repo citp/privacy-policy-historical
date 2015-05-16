@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrqe.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121072716id_/http%3A//www.mrqe.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrqe.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516191529id_/http%3A//www.mrqe.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | MRQE - The Movie Review Query Engine
 
