@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216205117id_/http%3A//www.group.com/customer-support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516181624id_/http%3A//www.group.com/customer-support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Group
+# Privacy Policy
 
 At Group Publishing our goal is to be the first source that you turn to for tips and resources to help you maximize the effectiveness of your ministry. Group Publishing respects your privacy and holds it as a priority. Our privacy policy is intended to keep you informed about the information we collect about you, when and with whom we share your information, and to give you a choice in how we use and disclose your information.
 
@@ -22,7 +22,7 @@ When you submit content to a Group Publishing Web site (such as the Rough Edit W
 
 ## How to "Opt Out" of Group Communications
 
-If you prefer that we not (a) contact you about new products, services, events, membership benefits or important information relating to Group or a selected ministry partners we work with, or (b) share your postal contact information with select catalog publishers, other book and magazine publishers, charitable organizations, or other church and/or general use resource providers, you can "opt out." To do so, please e-mail your request to [info@group.com](mailto:info@group.com) or visit <http://www.group.com/preference-center>. Be sure to include your name, church name, and address so the appropriate changes are made to your account and/or record. Or you can call one of our customer representatives at 1-800-447-1070.
+If you prefer that we not (a) contact you about new products, services, events, membership benefits or important information relating to Group or a selected ministry partners we work with, or (b) share your postal contact information with select catalog publishers, other book and magazine publishers, charitable organizations, or other church and/or general use resource providers, you can "opt out." To do so, please e-mail your request to [info@group.com](mailto:info@group.com) or visit <http://www.group.com/preference-center>. Be sure to include your name, church name, and address so the appropriate changes are made to your account and/or record. Or you can call one of our customer representatives at 1-800-447-1070.
 
 When you [subscribe](http://www.group.com/preference-center) to our online newsletters there are instructions at the bottom of your e-mail newsletter telling you how to unsubscribe if you ever wish to do so.
 
