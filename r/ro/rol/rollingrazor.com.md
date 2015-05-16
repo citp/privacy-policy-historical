@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollingrazor.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610054628id_/http%3A//www.rollingrazor.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingrazor.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516190652id_/http%3A//www.rollingrazor.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Rolling Razor - Privacy Policy
 
