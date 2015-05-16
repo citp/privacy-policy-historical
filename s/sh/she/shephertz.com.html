@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shephertz.com privacy policy that was archived on 2014-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141023204914id_/http%3A//shephertz.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shephertz.com privacy policy that was archived on 2015-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516214342id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -7,18 +7,31 @@
 <meta name="keywords" content="Privacy Policy">
 <meta name="description" content="If there are any questions regarding Shephertz privacy policy,  you may contact us.">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" type="text/css" href="http://shephertz.com/css/main.css?shep11112014">
-<link rel="stylesheet" type="text/css" href="http://shephertz.com/css/login.css?shep11112014">
-<link rel="stylesheet" type="text/css" href="http://shephertz.com/css/liquid.css?shep11112014">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://shephertz.com/js/main.js?shep11112014"></script>
-<script type="text/javascript" src="http://shephertz.com/js/login.js?shep11112014"></script>
-<script type="text/javascript" src="http://shephertz.com/js/fbLogin.js?shep11112014"></script>
-<script src="//connect.facebook.net/en_US/all.js"></script>
-<link rel="shortcut icon" type="http://shephertz.com/image/x-icon" href="images/favicon.ico">
-<link rel="apple-touch-icon" href="http://shephertz.com/images/apple-touch-icon.png"></head>
+<link rel="stylesheet" type="text/css" href="http://www.shephertz.com/css/main.css?shep20042015">
+<link rel="stylesheet" type="text/css" href="http://www.shephertz.com/css/login.css?shep20042015">
+<link rel="stylesheet" type="text/css" href="http://www.shephertz.com/css/liquid.css?shep20042015">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.shephertz.com/js/main.js?shep20042015"></script>
+<script type="text/javascript" src="http://www.shephertz.com/js/login.js?shep20042015"></script>
+<script type="text/javascript" src="http://www.shephertz.com/js/fbLogin.js?shep20042015"></script>
+<script src="//connect.facebook.net/en_US/all.js?shep20042015"></script>
+<script type="text/javascript" src="http://www.shephertz.com/js/take-a-tour/jquery-ui.js?shep20042015"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+$('div.center a').bind('click',function(event){
+var $anchor = $(this);
+$('html, body').stop().animate({
+scrollTop: $($anchor.attr('href')).offset().top
+}, 1500,'easeInOutExpo');
+event.preventDefault();
+});
+});
+</script>
+<link rel="shortcut icon" type="http://www.shephertz.com/image/x-icon" href="images/favicon.ico">
+<link rel="apple-touch-icon" href="http://www.shephertz.com/images/apple-touch-icon.png"></head>
 <body>
-<link rel="stylesheet" type="text/css" href="http://shephertz.com/css/navigation.css">
-<script type="text/javascript"> 
+
+<link rel="stylesheet" type="text/css" href="http://www.shephertz.com/css/navigation.css?shep18032015">
+<script>
 $(document).ready(function(){
 	$("nav ul li").hover(function() {
 		$(this).addClass("active");
@@ -29,67 +42,61 @@ $(document).ready(function(){
 	});
 	$('nav ul li:first-child').addClass('first');
 	$('nav ul li:last-child').addClass('last');
-	$('nav ul li ul').parent().append('<span class="dropdown"></span>').addClass('drop');
 	jQuery(' #da-thumbs > li ').each( function() { jQuery(this).hoverdir(); } );
 });
 </script>
-<header>
-
-<div class="header_inner" id="top">
-  <div class="header_container">
-    <div id="logo">
-      <figure><a href="http://shephertz.com/"><img src="http://shephertz.com/images/logo.png" alt="ShepHertz Technologies" border="0"></a></figure>
+<header id="header-toggle">
+  <div class="header_inner" id="top">
+    <div class="header_container">
+      <div id="logo">
+        <figure><a href="http://www.shephertz.com/"><img src="http://www.shephertz.com/images/logo.png" alt="ShepHertz Technologies" border="0"></a></figure>
+      </div>
+      <nav id="menuTop" class="top nevigation navTop_tgl">
+        <ul class="clear top_tgl" id="menu">
+          <li><a href="#" id="DD">About</a> <span class="dropdown"></span>
+            <ul>
+              <li><a href="http://www.shephertz.com/about_us.php">Team</a></li>
+              <li><a href="http://www.shephertz.com/investors.php">Investors</a></li>
+              <li><a href="http://www.shephertz.com/partners.php">Partners</a></li>
+            </ul>
+          </li>
+          <li><a href="#" id="DD">Products</a> <span class="dropdown"></span>
+            <ul>
+              <li><a href="http://shephertz.com/api" target="_blank">App42 Cloud APIs</a></li>
+              <li><a href="http://shephertz.com/appwarp" target="_blank">AppWarp</a></li>
+              <li><a href="http://app42paas.shephertz.com/" target="_blank">App42 PaaS</a></li>
+            </ul>
+          </li>
+          <li><a href="#" id="DD">Dev Center</a> <span class="dropdown"></span>
+            <ul>
+              <li><a href="http://api.shephertz.com/app42-dev.php" target="_blank">App42 Cloud APIs</a></li>
+              <li><a href="http://appwarp.shephertz.com/game-development-center/" target="_blank">AppWarp</a></li>
+              <li><a href="http://shephertz.com/app42paas/dev-center/" target="_blank">App42 PaaS</a></li>
+            </ul>
+          </li>
+          
+          <li><a href="#" id="DD">Blog</a> <span class="dropdown"></span>
+            <ul>
+              <li><a href="http://blogs.shephertz.com/" target="_blank">English</a></li>
+              <li><a href="http://blogs.shephertz.com/ja/" target="_blank">Japanese</a></li>
+              <li><a href="http://blogs.shephertz.com/es/" target="_blank">Español</a></li>
+            </ul>
+          </li>
+		  <li><a href="showcase.php">Showcase</a></li>
+		  <li><a href="http://forum.shephertz.com/" target="_blank">Forum</a></li>
+          <li><a href="http://www.shephertz.com/contact_us.php">Contact Us</a></li>
+                  </ul>
+      </nav>
+            <!-- <div class="login_wrapperM"><a href="https://apphq.shephertz.com/register/app42Login" target="_blank" style="width:80px">Sign in</a>   <a href="https://apphq.shephertz.com/register" target="_blank" style="width:80px">Sign up</a></div> --> 
+      
     </div>
-    <nav id="menuTop" class="top nevigation navTop_tgl">
-      <ul class="clear top_tgl" id="menu">
-        <li><a href="#">About</a>
-          <ul>
-            <li><a href="http://shephertz.com/about_us.php">Team</a></li>
-            <li><a href="http://shephertz.com/investors.php">Investors</a></li>
-            <li><a href="http://shephertz.com/partners.php">Partners</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Products</a>
-          <ul>     <li><a href="http://shephertz.com/api" target="_blank">App42 Cloud APIs</a></li>
-                   <li><a href="http://shephertz.com/appwarp" target="_blank">AppWarp</a></li>
-				   <li><a href="http://app42paas.shephertz.com/" target="_blank">App42 PaaS</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Dev Center</a>
-          <ul>
-            <li><a href="http://api.shephertz.com/app42-dev.php" target="_blank">App42 Cloud APIs</a></li>
-            <li><a href="http://appwarp.shephertz.com/game-development-center/" target="_blank">AppWarp</a></li>
-            <li><a href="http://shephertz.com/app42paas/dev-center/" target="_blank">App42 PaaS</a></li>
-          </ul>
-        </li>
-        <li id="showCaseli"><a href="showcase.php">App/Games Showcase</a></li>
-        <li><a href="#">Blog</a>
-          <ul>
-            <li><a href="http://blogs.shephertz.com/" target="_blank">English</a></li>
-            <li><a href="http://blogs.shephertz.com/ja/" target="_blank">Japanese</a></li>
-            <li><a href="http://blogs.shephertz.com/es/" target="_blank">Español</a></li>
-          </ul>
-        </li>
-        <li><img src="http://shephertz.com/images/forum_new.png" class="form_n_bg"><a href="http://forum.shephertz.com/" target="_blank">Forum</a></li>
-        <li><a href="http://shephertz.com/events.php">Events</a></li>
-        <li><a href="http://shephertz.com/career.php">Career</a></li>
-        <li><a href="http://shephertz.com/contact_us.php">Contact Us</a></li>
-        </ul>
-    </nav>
-    
-	
-	              
-			<div class="login_wrapperM"><a href="http://shephertz.com/login.php">Sign in / Sign up</a></div>
-                  
-        
   </div>
-</div>
-<script src="http://shephertz.com/js/jquery.slicknav.js"></script> 
-<script type="text/javascript">
+  <script src="http://www.shephertz.com/js/jquery.slicknav.js"></script> 
+  <script type="text/javascript">
 $(document).ready(function(){
 	$('#menu').slicknav();
 });
-</script>
+</script> 
 </header>
 <div class="clear"></div>
 <div class="menuSlide"></div>
@@ -104,19 +111,18 @@ $(document).ready(function(){
   <div class="ShepHertz_body_inner">
     <div class="ShepHertz_body">
       <h1 class="heading">Privacy Policy</h1>
-      <br>
-      <br>
       <p class="paddingtp"><strong>What information do we collect?</strong></p>
       <p>We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.</p>
       <p class="paddingtp"><strong>What do we use your information for?</strong></p>
-      <p>Any information we collect from you may be used in one of the following ways: <br>
-      </p><div style="padding-left:20px; float:left; clear:both">- To personalize your experience <br>
+      <p>Any information we collect from you may be used in one of the following ways:</p>
+      <div style="padding-left:20px; float:left; clear:both">
+	  <p>- To personalize your experience <br>
         (Your information helps us to better respond to your individual needs) <br>
         - To improve our website <br>
         (We continually strive to improve our website offerings based on the information and feedback we receive    from  you) <br>
         - To improve customer service <br>
-        (Your information helps us to more effectively respond to your customer service requests and support needs)</div>
-      <p></p>
+        (Your information helps us to more effectively respond to your customer service requests and support needs)</p></div>
+      
       <p class="paddingtp"><strong>How do we protect your information?</strong></p>
       <p>We implement a variety of security measures to maintain the safety of your personal information when you enter,  submit or access your personal information.</p>
       <p class="paddingtp"><strong>Do we use cookies?</strong></p>
@@ -140,25 +146,26 @@ $(document).ready(function(){
     </div>
   </div>
 </div>
-
-<footer>
+<footer id="footer">
   <div class="footer_inner">
     <div class="footer_container">
       <section class="centerbox">
         <ul>
           <li>ShepHertz </li>
-          <li><a href="http://shephertz.com/about_us.php">About Us</a></li>
-          <li><a href="http://shephertz.com/contact_us.php">Contact Us</a></li>
-          <li><a href="http://shephertz.com/career.php">Careers</a></li>
-          <li><a href="http://shephertz.com/terms_conditions.php">Terms</a></li>
-          <li><a href="http://shephertz.com/privacy_policy.php">Privacy</a></li>
+          <li><a href="http://www.shephertz.com/about_us.php">Team</a></li>
+          <li><a href="http://www.shephertz.com/investors.php">Investors</a></li>
+          <li><a href="http://www.shephertz.com/partners.php">Partners</a></li>
+          <li><a href="http://www.shephertz.com/career.php">Careers</a></li>
+          <li><a href="http://www.shephertz.com/events.php">Events</a></li>
+          <li><a href="http://www.shephertz.com/contact_us.php">Contact Us</a></li>
           <li><a href="mailto:support@shephertz.com">Support</a></li>
+		  <li><a target="_blank" href="http://status.shephertz.com/">Status</a></li>
         </ul>
         <ul>
           <li>Resources</li>
           <li><a href="http://forum.shephertz.com/" target="_blank">Forum</a></li>
           <li><a href="http://blogs.shephertz.com/" target="_blank">Blog</a></li>
-          <li><a href="http://shephertz.com/showcase.php">Showcase</a></li>
+          <li><a href="http://www.shephertz.com/showcase.php">Showcase</a></li>
           <li><a href="http://blogs.shephertz.com/product-resources/" target="_blank">Resources Center</a></li>
           <li><a href="http://api.shephertz.com/app42-dev.php" target="_blank">App42 Cloud API Dev Centre (BaaS)</a></li>
           <li><a href="http://appwarp.shephertz.com/game-development-center/" target="_blank">AppWarp Dev Center</a></li>
@@ -172,53 +179,46 @@ $(document).ready(function(){
         </ul>
       </section>
       <aside class="followus-on">
-        <h3 class="know_more_f">To know more about us</h3>
-        <p class="newsletter_sub">Sign up to receive News &amp; updates, etc directly in your inbox</p>
-        <div class="clear"></div>
-        <article class="newsletter_input_box">
-          <form method="post" action="http://shephertz.com/newsletter.php" name="newsL" id="newsL">
-            <input type="text" name="email2" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" id="email" class="newsletter_inputbg">
-            <input type="image" src="http://shephertz.com/images/go.png" alt="go" onclick="return subNews();" class="news_sub_btn">
-          </form>
-        </article>
-        <div class="clear"></div>
+        <div class="newsletter-wrappernew">
+          <div class="newsletter-text-box">
+          <div class="newsletter-text-box">
+            <h3 class="know_more_f">Join Our Newsletter</h3>
+          </div>
+          <article class="newsletter_input_box">
+          <form id="signup" action="/privacy_policy.php" method="post">
+			<input type="text" name="email" id="email" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" class="newsletter_inputbg">
+             <input type="button" name="submit" id="subscribebtn" value="Join" onclick="storeAddress()" class="newsL"> 
+			 <span id="response"></span>
+            </form>
+			<script type="text/javascript" src="js/mailing-list.js"></script>
+          </article>
+        </div>
         <h4 class="follow_social">FOLLOW US ON</h4>
         <div class="clear"></div>
         <div class="footer_social_img">
           <figure><a href="http://www.facebook.com/pages/Shephertz-Technologies/171218912901660" target="_blank" title="Facebook"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/facebook-shephertz.png" alt="Shephertz"></a></figure>
           <figure><a href="https://twitter.com/#!/shephertz" target="_blank" title="Twitter"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/twitter-shephertz.png" alt="twitter"></a></figure>
           <figure><a href="http://www.linkedin.com/company/shephertz-technologies" target="_blank" title=" Linkedin"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/linkedin-shephertz.png" alt="linkedin"></a></figure>
-          <figure><a href="https://plus.google.com/+Shephertz" target="_blank" title=" Linkedin"><img src="http://www.shephertz.com/images/shep-google-plus.png" alt="Google Plus"></a></figure>
+          <figure><a href="https://plus.google.com/+Shephertz" target="_blank" title=" Linkedin"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/shep-google-plus.png" alt="Google Plus"></a></figure>
         </div>
         <h3 class="goToTop">Go to top</h3>
-        <div class="toggle_top center"><a href="#top"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/gotoggle_btn.png" alt="go to top "></a></div>
-      </aside>
+<div class="toggle_top center"><a href="#top"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/gotoggle_btn.png" alt="go to top "></a></div>
+      </div></aside>
       <div class="clear"></div>
     </div>
   </div>
   <div class="treams_condition">
     <div class="footerbtm_inner">
       <div class="footerbtn_ctn">
-        <details>
-          <summary>Copyright © 2014 ShepHertz Technologies Pvt Ltd. All rights reserved.</summary>
-        </details>
+        
+          
+            Copyright © 2015            ShepHertz Technologies Pvt Ltd. All rights reserved.&nbsp;&nbsp; | <a href="http://www.shephertz.com/terms_conditions.php">Terms &amp; Conditions</a> | <a href="http://www.shephertz.com/privacy_policy.php">Privacy Policy</a>
+       
       </div>
     </div>
   </div>
 </footer>
-<script>function isValidEmailAddress(e){var t=new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);return t.test(e)}function subNews(){var e=document.getElementById("email").value;if(!e){dhtmlx.alert({type:"alert-error",text:"Please enter your email-Id."});return false}else if(!isValidEmailAddress(e)){dhtmlx.alert({type:"alert-error",text:"Please enter correct email-Id"});return false}}
-</script> 
-<script type="text/javascript">
-$(function() {
-  $('div.center a').bind('click',function(event){
-	  var $anchor = $(this);
-	  $('html, body').stop().animate({
-		  scrollTop: $($anchor.attr('href')).offset().top
-	  }, 1500,'easeInOutExpo');
-	  event.preventDefault();
-  });
-});
-</script> 
+<script>function isValidEmailAddress(e){var t=new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);return t.test(e)}function subNews(){var e=document.getElementById("email2").value;if(!e){dhtmlx.alert({type:"alert-error",text:"Please enter your email-Id."});return false}else if(!isValidEmailAddress(e)){dhtmlx.alert({type:"alert-error",text:"Please enter correct email-Id"});return false}}</script> 
 <script type="text/javascript">
 $(document).ready(function(){
 	$('#slider1').bxSlider({
