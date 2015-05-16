@@ -1,112 +1,120 @@
-> *The following text is extracted and transformed from the grindplay.com privacy policy that was archived on 2007-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070915200724id_/http%3A//www.grindplay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grindplay.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516042345id_/http%3A//www.grindplay.com/privacy) for the most accurate reproduction.*
 
-# Grindplay - Amateur & Pro Skaters |Sign up Now! FREE!|
+# grindplay
 
-  | CodeAve.com(Random JavaScript Text) **NUDE GIRLS INSIDE** **** |  | [Home](http://www.grindplay.com/) | | | [Login](http://www.grindplay.com/login.php) |  |   | [](http://www.grindplay.com/rss/new/)  
----|---|---|---|---|---|---|---|---  
-  
-[](http://www.grindplay.com/) | [](http://www.grindplay.com/recent/) | [](http://www.grindplay.com/channels.php) | [](http://www.grindplay.com/groups.php) | [](http://www.grindplay.com/detailed/featured/)  
----|---|---|---|---  
-|  |   |  |   |   
----|---|---|---|---|---  
-  
-Privacy Policy     Created
+## Privacy Policy
 
-**Grindplay.com** ("Grindplay") recognizes that its customers, visitors, users, and others who use [www.grindplay.com](http://www.grindplay.com/) or other web sites owned or operated by grindplay (the "grindplay Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Grindplay Sites. Grindplay provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Grindplay Sites.
+Chalon Corporation ("grindplay") operates a variety of web sites ("Web Site" or "Site") including www.Grindplay.com and is committed to protecting the privacy of our Web Site users ("Users") and Chalon Corporation members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. Chalon Corporation will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
-This Privacy Notice is incorporated into and is subject to the [Grindplay Terms of Use](http://www.grindplay.com/terms.php). Your use of the Grindplay Sites and any personal information you provide on the Grindplay Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](http://www.grindplay.com/terms.php).
+Chalon Corporation defines personal information as information about an individual that enables someone to identify or contact a person and includes, among other things, a person's full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form in combination with one of the foregoing identifiers, such as account history, financial information, titles rented or purchased or categories of products rented or purchased. Categories of personal information that we collect include, for example:
 
-Please note that any video, image, or other content posted at the direction of Users onto the Grindplay Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
-
-## The Information Grindplay Collects
-
-  * **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to Grindplay when choosing to participate in various activities on the Grindplay Sites such as uploading videos, posting messages in our forums or in the video comments section, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.  
- 
-  * **Cookies Information:** When you visit the Grindplay Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Grindplay uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Grindplay Sites may not function properly if the ability to accept cookies is disabled.  
- 
-  * **Log File Information:** When you use the Grindplay Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.  
- 
-  * **Clear GIFs Information:** When you use the Grindplay Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+  * Basic identifying information such as e-mail address and first and last names
+  * Security information such as password
+  * Contact information such as address
+  * Billing information such as credit card, expiration date, billing address and account history
+  * Site preferences such as game categories you frequently browse
+  * Ratings and reviews of games
+  * Lists of games, such as for online subscription, rental or purchase
+  * E-newsletter selections and preferences
+  * Direct marketing contact preferences
+  * Rental and purchase history
+  * Sweepstakes entries
+  * Complaints, questions and information submitted to customer service agents or similar individuals either in person, by phone, by e-mail or by entry on a Site
+  * Site behavior such as pages visited or searches requested
+  * Browser information such as browser version, connection speed, IP address and the presence of various related plug-ins and tools such as media players
 
 
 
-## The Way Grindplay Uses Information
+## When Does Chalon Corporation Collect Personal Information?
 
-  * If you submit personally identifiable information to us through the Grindplay Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Grindplay Sites.  
- 
-  * Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Grindplay Sites and other Users can contact you through messages. Any videos that you submit to the Grindplay Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.  
- 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Grindplay Site changes or for customer service purposes).  
- 
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Grindplay Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.  
- 
-  * We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Grindplay Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, status in promotions, and contests.
+Chalon Corporation collects personal information from you when you voluntarily submit that information to Chalon Corporation, for example: when you register on a Site; sign up for a subscription service; register for our e-newsletter service; participate in one of our sweepstakes, contests, or surveys; respond to an offer; purchase or rent products; or request to be on a mailing list. After you have registered your e-mail address on the Site and if you have clicked "Remember Me" or signed in to the Site, Chalon Corporation collects Site behavior and browser information as you navigate through the Site. This information may be used to create a profile that we keep on individual Users that details their preferences, personal information and behavior. Consequently, collected information is tied to the User's personally identifiable information and may be used to provide offers and improve the content of the Site for the User. This profile may also be used to tailor a User's visit to our Web Site, and to direct pertinent marketing promotions to them.
 
+## What Happens When I Register On The Web Site?
 
+In order to use certain features of this Web Site, a User must first complete a registration process. During registration a User is required to provide basic contact information (such as name and e-mail address) and establish a password. Depending on the feature being used, the User may be required to provide other information associated with the use of that particular feature. For example, a User signing up for our subscription service will be required to provide an address for proof of location and financial information in the form of a credit card and expiration date for billing purposes,licensing porposes and future charges. Users signing up for our e-newsletter service may enter the types of games or games in which they are interested and about which they wish to receive information in the newsletter.
 
-## When Grindplay Discloses Information
+## What Happens When I Place An Order On The Web Site?
 
-  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.  
- 
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.  
- 
-  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Grindplay Sites.  
- 
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.  
- 
-  * Grindplay also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Grindplay believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](http://www.grindplay.com/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Grindplay, our Users or others.
+Certain features of the Web Site do not require registration but may still require personal information to be entered, such as placing an order for a product. We request information from the User during the ordering process. For example, a User will be required to provide contact information (such as name, e-mail, and shipping address) and financial information (such as credit card and expiration date). This information is used for billing purposes and to fill Users' orders. If we have trouble processing an order, the information is used to contact the User.
 
+## Does Chalon Corporation Use Cookie Technology?
 
+Chalon Corporation uses cookie technology to make your use of the Sites more convenient and to support our internal business purposes. A cookie is a piece of information that is transferred to a User's hard drive for record-keeping purposes. For example, Chalon Corporation uses cookies to remember your e-mail address so that you will not have to re-enter this information each time you visit the Site. Chalon Corporation also uses cookies to help track referrals from third party web sites. Most browsers are initially set up to accept cookies, but you can set up your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can use and visit the Site with cookies disabled, but you will not automatically be recognized by the Site upon re-visiting. However, cookies allow you to take full advantage of some of our Sites' best features, so we recommend that you leave them turned on.
 
-## Your Choices About Privacy
+## What Other Mechanisms Does Chalon Corporation Use to Track User Behavior?
 
-You may, of course, decline to submit personally identifiable information through the Grindplay Sites, in which case Grindplay may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](http://www.grindplay.com/my_profile.php). Please note that media files uploaded by Users to the Grindplay Sites cannot be removed and remain subject to our [Terms of Use](http://www.grindplay.com/terms.php).
+Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies. 
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+Chalon Corporation and its third party vendors use web beacons to track and analyze non-personally identifiable usage information and to compile statistical information about our Users in order to improve the Web Site's quality and to support our business. All data collected on behalf of Chalon Corporation is owned and used by Chalon Corporation. Chalon Corporation reserves the right to publish non-personally identifiable, summary information regarding its Web Site visitors for promotional purposes and as a representative audience for business partners.
 
-## Third-party Advertisers, Links to Other Sites
+We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
-Grindplay allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Grindplay Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Grindplay Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+## How Does Chalon Corporation Handle Information from Children?
 
-Grindplay does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Grindplay to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Grindplay Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+Please note that Chalon Corporation has no intention of collecting personal information from individuals under the age of 13 ("children"). We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). Where appropriate, we will instruct children not to provide such information to us. If a parent becomes aware that a child has provided us with personal information, we ask that the parent or legal guardian of the child contact us by visiting www.Grindplay.com, selecting 'Contact Us'
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Grindplay's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+## How Does Chalon Corporation Use Personal Information?
 
-Currently, Grindplay has relationships with the following third-party ad servers or ad networks:
+Use of Personal Information is for our internal business purposes. Chalon Corporation uses the personal information you provide for the purposes for which it was provided, for example, to process an order; to record your rental of a product and its return date; to support an online subscription service; to collect debts and recover overdue rental products; to notify you that you have won a contest or sweepstakes; to respond to your inquiries or complaints or to contact you or send you information about your membership. In addition, Chalon Corporation, its subsidiaries and affiliates may share and use information collected through the Site to administer and manage our business, including, for example for account maintenance and collections purposes, and in connection with information technology services. In addition, personal information may be used to create a profile that we keep on individual Users that details their preferences and behavior. This profile may be used by Chalon Corporation, its subsidiaries or affiliates to develop and improve the products, benefits and services, Chalon Corporation, its subsidiaries, affiliates and business partners offer to our Members or Users, to improve the Site and the associated user experience, and to develop pertinent marketing promotions to Users and Members.
 
-  * **Google, Inc.  
-**
-  * **Etology, Inc.  
-**http://www.etology.co
+Where permitted or required by law, Chalon Corporation may collect, use or disclose your personal information without your consent, for example in response to a court order or subpoena or to comply with a legally permitted inquiry by a government agency.
 
+## When Will I Be Contacted by Chalon Corporation?
 
+You may receive products and communications associated with your transactions with Chalon Corporation, such as rentals, purchases, subscriptions, sweepstakes and contests. You may also receive communications from Chalon Corporation related to transactions that appear to be from you or which appear to be fraudulent. You may be contacted in regards to an issue on your account or in response to a customer service contact by you or in response to a specific request from you such as clicking on a "forgot my password" link. Users who sign up for e-newsletter subscriptions will receive e-mails in accordance with their selection and preferences. These administrative communications also may be accompanied by information about products and services, special offers and upcoming promotions or events offered by Chalon Corporation, our subsidiaries, our affiliates or our marketing partners that we think may be of interest to you ("direct marketing").
 
-## Our Commitment To Data Security
+You may periodically receive from Chalon Corporation, its subsidiaries and affiliates unsolicited direct marketing communications by mail (delivered via the United States Postal Service). Chalon Corporation, its affiliates and its subsidiaries will send standalone direct marketing e-mail communications to you only if you have agreed previously. We support the option to not receive these types of communications. Please see the following section: How Can I Opt Out of Receiving Direct Marketing from Chalon Corporation?
 
-Grindplay uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Grindplay and you do so at your own risk. Once we receive your transmission of information, Grindplay makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+## How Can I Opt Out of Receiving Direct Marketing from Chalon Corporation?
 
-If Grindplay learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Grindplay may post a notice on the Grindplay Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](http://www.google.com/support/youtube/bin/request.py?hl=en-US).
+By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. Chalon Corporation is the owner of the personal information collected on our Web Site. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us.
 
-## Our Commitment To Childrens' Privacy
+E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from Chalon Corporation are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action. 
 
-Protecting the privacy of young children is especially important. For that reason, Grindplay does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Grindplay Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Grindplay Sites at any time or in any manner. If Grindplay learns that personally identifiable information of persons under 13 years of age has been collected on the Grindplay Sites without verified parental consent, then Grindplay will take the appropriate steps to delete this information.
+## What Personal Information Does Chalon Corporation Give to Others?
 
-## Special Note to International Users
+Transfer of Personal Information to Third Party Goods and Services Providers. Chalon Corporation employs third party vendors, service providers, and suppliers to perform various functions on our behalf. Such services include: fulfilling orders; processing credit card or check card payments; collecting debts; removing repetitive information from customer lists; analyzing data; developing, hosting and maintaining our Web Sites and databases; sending and receiving e-mail and other communications; and staffing customer service call centers. These third parties may have access to personally identifiable information as reasonably necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Certain information collected in connection with transactions may be provided to third parties for use in transaction authorization, fraud scoring and payment card fraud prevention modeling.
 
-The Grindplay Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Grindplay Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Grindplay Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](http://www.grindplay.com/terms.php), you are transferring your personal information to the United States and you consent to that transfer.
+Chalon Corporation, its affiliates and its subsidiaries (if permitted by Chalon Corporation) on occasion may disclose to their affiliates and business partners certain data, such as names and addresses and the genre of products rented or purchased by Users or Members, so that the business partner may send their own direct marketing communications to Users and Members. Chalon Corporation will not provide User or Member e-mail addresses to affiliates or business partners, unless the User or Member has provided express permission to Chalon Corporation. If you would prefer that Chalon Corporation not disclose your personal information to its affiliates or business partners for direct marketing purposes, subject to legal, or contractual restrictions and legal notice you may opt out of such uses and/or disclosures by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) visiting www.Grindplay.com, selecting 'Contact Us'.
 
-## In the Event of Merger, Sale, or Bankruptcy
+Third Party Features. From time to time Chalon Corporation may include additional features and functionality from third parties on our Web Sites. Certain of these features and functions, may require Chalon Corporation to send selected information about you, such as information about your game queue, to the third party. If you do not wish for Chalon Corporation to share this information, you will have a reasonable opportunity to opt-out of these third-party features and functions. Chalon Corporation will never send your password or your financial information to any third party through these features or functions.
 
-In the event that Grindplay is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+Cleaned Data. We periodically remove from personal information data that can be used to identify individuals for example by summarizing, aggregating or removing certain data elements. The resulting cleaned data is no longer considered personal information and is not subject to this Privacy Policy. The cleaned data may be published by Chalon Corporation and provided to various third parties.
 
-## Changes and updates to this Privacy Notice
+Disclosures Attendant to a Merger or Acquisition. If Chalon Corporation or its assets are acquired by another company, your personal information may be disclosed to the acquiring company to allow it to fulfill your order or provide the products, services or information that Chalon Corporation would otherwise provide to you and generally to carry on the Chalon Corporation business. We may also use and disclose your personal information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this privacy policy and to use and disclose it only for the purposes for which it was collected.
 
-This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Grindplay Sites constitutes your agreement to this Privacy Notice and any future revisions.
+Public postings. If you disclose your personal information in a manner that will be posted publicly such as in a product review your posting will be seen by others. In addition, if you elect to participate in certain community features offered from time to time, selected information about you, including information about your game queue, may be shared with other participants in these community features. Also, Chalon Corporation may make it possible for certain third party web sites to be accessed directly from our Web Sites and for selected information about you to be provided to these third party web sites if you are also a user of these third party web sites. If a third party web site allows other users to view information about you (e.g., through posting to a publicly available profile page), the information provided by Chalon Corporation will be visible to other users of the third party web site.
 
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+## How does Chalon Corporation Protect Personal Information?
 
-**Contact Information:**  
-Please contact Grindplay with any questions or comments about this Privacy Notice using this [support@grindplay.com](mailto:support@grindplay).
+Chalon Corporation takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Chalon Corporation. For example, Chalon Corporation uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. 
 
-**Copyright © 2007 Grindplay. All rights reserved.  
-Powered by [Grindplay](http://www.grindplay.com/)**
+## What About Links to Other Web Sites?
+
+This Privacy Policy applies solely to information collected by Chalon Corporation. However, our Site contains links to other web sites owned and operated by third parties. The third parties who operate these sites may treat the collection, use and disclosure of personal information differently than we do. This could be the case even for those web sites that carry Chalon Corporation's or its affiliates' trademarks or logos or which are framed by a Site. Please be aware that Chalon Corporation is not responsible for the data collection, use and disclosure practices of companies or organizations to which our Sites may provide links. We encourage our Users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+
+## How Can I Access or Correct My Personal Information?
+
+If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
+
+You can review and change certain account related information by visiting Chalon Corporation, submiting suitable identification and giving the Chalon Corporation your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc. 
+
+You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area. 
+
+Note that in most cases, Chalon Corporation will retain the previously entered data.
+
+## Legal Notices
+
+Video Privacy Protection Act of 1988. Chalon Corporation supports the Video Privacy Protection Act of 1988 and will use reasonable commercial efforts to require employee and business partner compliance with the Act.
+
+REQUIRED BY NEW YORK LAW: This videotape service provider from time to time provides to marketers of goods and services, the names and addresses of customers and a description or subject matter of materials rented by video customers. You have the right to elect not to have your name, address or the description or subject matter of any material rented included in such lists. This election may be changed by you, in writing, at any time.
+
+## Can Chalon Corporation Change This Privacy Policy?
+
+Chalon Corporation reserves the right to change this Privacy Policy from time to time. If Chalon Corporation makes a change, this Privacy Policy will be updated accordingly. We recommend that you review this Privacy Policy periodically so that you are aware of any changes. If we make a material change to this Privacy Policy we will make reasonable efforts to notify you. For example, your continued consent to our collection, use and disclosure of your personal information or your continued use of our Sites following the notification or posting of any changes to this Privacy Policy shall constitute your acceptance of these changes.
+
+## How Do I Contact Chalon Corporation Regarding The Web Site And This Privacy Policy?
+
+If Users have any questions or suggestions regarding our privacy policy, please contact us at:
+
+Web: visit www.Grindplay.com, select 'Contact Us' and complete the contact form
