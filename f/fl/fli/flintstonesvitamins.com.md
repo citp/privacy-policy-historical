@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flintstonesvitamins.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121000811id_/http%3A//bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flintstonesvitamins.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516075723id_/http%3A//bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
 
 # Bayer Consumer Care Products
 
@@ -148,6 +148,6 @@ Bayer Business & Technology Services LLC
 U.S. Data Privacy Officer  
 100 Bayer Road  
 Pittsburgh, PA 15205  
-[E-mail](https://web.archive.org/web/20141121000811id_/http%3A//bayercare.com/contactdataprotectionoffice.cfm)
+[E-mail](https://web.archive.org/web/20150516075723id_/http%3A//bayercare.com/contactdataprotectionoffice.cfm)
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
