@@ -1,27 +1,95 @@
-> *The following text is extracted and transformed from the covershut.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703135633id_/http%3A//www.covershut.com/prvivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covershut.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517014529id_/http%3A//www.covershut.com/prvivacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Covers Hut
+# 
 
-Privacy Policy for www.covershut.com
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
-The privacy of our visitors to www.covershut.com is important to us.
 
-We recognize that privacy of your personal information is important. Here we list what types of information we obtain and collect when you use visit www.covershut.com, and how we safeguard your information. We never sell your personal information to third parties. 
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-## Log Files
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+ **When do we collect information?**
 
-## Cookies
+We collect information from you when you register on our site or enter information on our site.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
+ **How do we use your information?**
 
-We also use third party advertisements on www.covershut.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+  
 
-## DoubleClick DART cookies
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (interest based targeting). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+ **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+ **•** To improve our website in order to better serve you.
+
+ **How do we protect visitor information?**
+
+  
+
+
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We use regular Malware Scanning.
+
+We do not use an SSL certificate
+
+ **•** We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
+
+ **Do we use 'cookies'?**
+
+We do not use cookies for tracking purposes 
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+
+
+If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders .
+
+ **Third Party Disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Google**
+
+  
+
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We have not enabled Google AdSense on our site but we may do so in the future.
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+ **CAN SPAM Act**
+
+  
+
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **To be in accordance with CANSPAM we agree to the following:**
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Last Edited on 2015-03-20
