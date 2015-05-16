@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the degreescout.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121193357id_/http%3A//www.degreescout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreescout.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516115514id_/http%3A//www.degreescout.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online MBA
+# DegreeScout Privacy Policy
 
 The privacy practices of this statement apply to our services available under the domain and sub-domains of DegreeScout. Please note that this Privacy Policy applies only to sites maintained by DegreeScout and not to websites maintained by other companies or organizations to which we link. In addition, this Policy applies only to information collected by DegreeScout online, not offline. By visiting our websites you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services.
 
@@ -68,7 +68,7 @@ To exercise your right to opt out of having your Personal Information used for a
 
 401 West A St, Suite 360  
 San Diego, CA 92101  
-remove@DegreeScout.com 
+remove@DegreeScout.com
 
 You may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request. Please note that DegreeScout can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their email communications. If you do not opt out, your Personal Information may be used as described in this Privacy Policy.
 
