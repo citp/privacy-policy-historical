@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129233504id_/http%3A//www.ansys.com/Footer/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516091215id_/http%3A//www.ansys.com/Footer/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This notice provides highlights of the full [ANSYS, Inc. Online Privacy Statemen
 
   * When you register for certain services or products pertinent information is collected
   * This information may be combined with third party organizations or channel partners
-  * We use [cookies](https://web.archive.org/web/20141129233504id_/http%3A//www.ansys.com/Footer/vgn_ext_templ_rewrite?vgnextoid=54d115f29b1cc210VgnVCM1000004201c90aRCRD&vgnextchannel=54d115f29b1cc210VgnVCM1000004201c90aRCRD/vgn_ext_templ_rewrite/#cookies) to keep track of interactions with our site to improve performance and site usability
+  * We use [cookies](https://web.archive.org/web/20150516091215id_/http%3A//www.ansys.com/Footer/vgn_ext_templ_rewrite?vgnextoid=54d115f29b1cc210VgnVCM1000004201c90aRCRD&vgnextchannel=54d115f29b1cc210VgnVCM1000004201c90aRCRD/vgn_ext_templ_rewrite/#cookies) to keep track of interactions with our site to improve performance and site usability
 
 
 
