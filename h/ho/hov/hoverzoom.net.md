@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the hoverzoom.net privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210191645id_/http%3A//hoverzoom.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoverzoom.net privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517004633id_/http%3A//hoverzoom.net/privacy-policy) for the most accurate reproduction.*
 
 # Hover Zoom Privacy Policy
 
 Hover Zoom respects your privacy as a user and makes every effort to be transparent. Please read our privacy policy below in order to understand what Hover Zoom can and cannot do with data it collects.
 
 Any data collection mentionned in this Privacy Policy can be disabled by unchecking "Enable anonymous usage statistics" in the options page.
+
+### Collection and Use of Usage Data
+
+When users access or use Hover Zoom, certain browsing behavior information is collected, stored, and then used on an aggregated basis such that no individual is identifiable. The data collected includes, but is not limited to: IP address, unique identifier number, user agent, and webpage URLs visited. We may share with and sell this data to third parties who provide research and analytics services, such as measuring online consumer trends and usage.
 
 ### User Consent
 
@@ -53,12 +57,6 @@ We will not disclose your Personal Information to any third party, unless:
 #### Statistical Information
 
 Google Analytics is used to collect and aggregate non-identifying information regarding users use of Hover Zoom. Information about this data collection can be found in [Google's privacy policy](https://www.google.com/intl/en/policies/privacy/).
-
-### Third Party Advertisements
-
-Hover Zoom may use third-party advertising companies in order to serve advertisements. Such parties may use cookies placed on your computer in order to a adjust the advertisements presented by Hover Zoom. Note that such use is subject to the privacy policy of said parties and is not subject to these terms.
-
-Note that although our partners take measures to secure the information and reduce the risk of unwanted disclosure, they cannot guarantee the information will not be exposed as a result of unauthorized penetration to their servers.
 
 ### Use By Children
 
