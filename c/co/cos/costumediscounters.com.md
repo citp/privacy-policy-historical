@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the costumediscounters.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731140755id_/http%3A//www.costumediscounters.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumediscounters.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516042258id_/http%3A//www.costumediscounters.com/privacy-security.html) for the most accurate reproduction.*
 
-# Cheap Halloween Costumes with the Lowest Prices Guaranteed Buy at Costume Discounters
+# Privacy Policy
 
-At **Costume Discounters** , we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy  Security Policy. This will give you a summary of how informationis collected from you and how it is used.
+At **Costume Discounters** , we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy Security Policy. This will give you a summary of how informationis collected from you and how it is used.
 
 ### Your Personal and Payment Information is Safe
 
@@ -30,5 +30,3 @@ When checking out, you can opt out of email promotions. Also, every email will h
 45 Fernwood Ave.  
 Edison, NJ 08837  
 [customerservice@costumediscounters.com](mailto:customerservice@costumediscounters.com)
-
-[Terms & Conditions](http://www.costumediscounters.com/terms-conditions.html) [Privacy](http://www.costumediscounters.com/privacy-security.html) Copyright © 2013 Costume Discounters. All Rights Reserved. 
