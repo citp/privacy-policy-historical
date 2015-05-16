@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tppcrpg.net privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022041052id_/http%3A//www.gorillanation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tppcrpg.net privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516202107id_/http%3A//www.gorillanation.com/privacy-policy) for the most accurate reproduction.*
 
 # Gorilla Nation - Evolve Privacy Policy
 
