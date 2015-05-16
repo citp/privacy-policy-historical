@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219155446id_/http%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516165852id_/http%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | someecards.com
 
@@ -122,7 +122,7 @@ Someecards may amend this Privacy Policy from time to time. If we decide to chan
 
 someecards, inc. P.O. Box 695 New York, NY 10159
 
-or
+## When you care enough to hit send
 
 Almost Done!
 
@@ -142,6 +142,8 @@ There's one last annoying step. Please confirm your account by clicking the acti
 
 Almost Done!
 
+We require an email to sign up
+
 Choose an available username to complete sign up
 
 Reactivate Account
@@ -152,9 +154,17 @@ Reactivate Account
 
 A reactivation link has been sent to your email address.
 
+Confirm Your Email Address
+
+We have sent you an email with a link to confirm and activate your account.
+
 Enter your email to subscribe to our newsletter
 
 You're really close. To complete your subscription, click on the activation link in the email you've been sent.
+
+Enter your email to unsubscribe from our newsletter
+
+We're sorry to see you go. To complete your unsubscription, click on the link in the email you've been sent.
 
 Email:
 
@@ -169,3 +179,13 @@ To:
 Message:
 
 Delivery:
+
+Hi ,
+
+We need to confirm your email address for this account.
+
+Email
+
+Thanks for Signing Up!
+
+We have sent you an email so you can confirm the email address you provided.
