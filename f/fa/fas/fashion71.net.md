@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashion71.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220163642id_/http%3A//www.fashion71.net/privacy-security-a45.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion71.net privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516041535id_/http%3A//www.fashion71.net/privacy-security-a45.html) for the most accurate reproduction.*
 
 # Privacy & Security_Policies_Wholesale clothing from China fashion online shop. Cheap Korean fashion clothes, high heels shoes, T shirts, dresses and clothing on sale.
 
