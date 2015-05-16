@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the secure.serve.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407003344id_/http%3A//www.americanexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure.serve.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516124834id_/http%3A//www.americanexpress.com/privacy) for the most accurate reproduction.*
 
 # American Express | US Online Privacy Statement
 
-** If you have questions about our online privacy statement, call us at the number on the back of your Card or at the following:**
+** 
+
+If you have questions about our online privacy statement, call us at the number on the back of your Card or call us at the number for your product at [contact us](https://www.americanexpress.com/contactus "contact us")
+
+**
 
 Card Members can log in to their Card accounts at [americanexpress.com](https://americanexpress.com/ "American Express") to correct or update their Personal Information . They can also call the number on the back of their Card. Non Card Members can call the customer service number associated with their product.
 
