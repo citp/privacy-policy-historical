@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the m2epro.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120083135id_/http%3A//m2epro.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the m2epro.com privacy policy that was archived on 2015-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516233922id_/http%3A//m2epro.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
         <meta charset="utf-8">
@@ -10,6 +10,7 @@
 <link href="http://m2epro.com/css/normalize.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://m2epro.com/css/foundation.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://m2epro.com/css/magnific-popup.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://m2epro.com/css/flexslider.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://m2epro.com/css/jquery-ui-1.10.4.custom.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://m2epro.com/css/custom.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://m2epro.com/css/local.css" media="screen" rel="stylesheet" type="text/css">
@@ -21,6 +22,7 @@
 <script type="text/javascript" src="http://m2epro.com/js/vendor/foundation.min.js"></script>
 <script type="text/javascript" src="http://m2epro.com/js/vendor/foundation/popup.js"></script>
 <script type="text/javascript" src="http://m2epro.com/js/vendor/jqueryClass.js"></script>
+<script type="text/javascript" src="http://m2epro.com/js/vendor/flexslider.js"></script>
 <script type="text/javascript" src="http://m2epro.com/js/vendor/jquery-ui-1.10.4.custom.min.js"></script>
 <script type="text/javascript" src="http://m2epro.com/js/generalSite/CommonHandler.js"></script>
 <script type="text/javascript" src="http://m2epro.com/js/generalSite/UrlHandler.js"></script>
@@ -50,6 +52,9 @@
     <section class="top-bar-section">
         <!-- Right Nav Section -->
         <ul class="right">
+            <li class="has-form community-link">
+                <a class="green" target="_blank" href="http://community.m2epro.com/">Community</a>
+            </li>
             <li class="has-form">
                 <a target="_blank" href="https://clients.m2epro.com/" class="button">My Account</a>
             </li>
@@ -79,8 +84,9 @@
                     <li><a href="/support/">Support Plans</a></li>
                     <li><a href="/premium-services/">Premium Services</a></li>
                     <li><a target="_blank" href="http://docs.m2epro.com/">Documentation</a></li>
-                    <li><a target="_blank" href="http://support.m2epro.com/knowledgebase/">Knowledge Base </a></li>
-                    <li><a target="_blank" href="http://support.m2epro.com/forums/175205-sales-channel-integrations/">Idea’s workshop </a></li>
+                    <li><a target="_blank" href="http://community.m2epro.com/">Forum</a></li>
+                    <li><a target="_blank" href="http://support.m2epro.com/knowledgebase/">Knowledge Base</a></li>
+                    <li><a target="_blank" href="http://support.m2epro.com/forums/175205-sales-channel-integrations/">Idea’s workshop</a></li>
                 </ul>
             </li>
             <li><a href="/how-to-install/">How to install</a></li>
@@ -202,6 +208,14 @@
     
 </script>
 
+<div id="message-popup" class="reveal-modal large" data-reveal="">
+        <a class="close-reveal-modal">×</a>
+</div>            
+<script type="text/javascript">
+
+    
+</script>
+
 <div class="main-footer">
     <div class="row">
         <div class="small-13 columns">
@@ -305,11 +319,6 @@
             <li><a target="_blank" href="/privacy/">Privacy Policy</a></li>
         </ul>
     </div>
-</div>
-
-<div id="mail-message-popup" class="reveal-modal large" data-reveal="">
-    <p class="text-normal"></p>
-    <a class="close-reveal-modal">×</a>
 </div>        </footer>
 
         <script type="text/javascript">
@@ -348,21 +357,7 @@
     }]);
 
     $(document).ready(function(){
-
-        $(document).foundation({orbit: {
-            animation: 'slide',
-            timer_speed: 1000,
-            pause_on_hover: false,
-            resume_on_mouseout: true,
-            animation_speed: 500,
-            navigation_arrows: false,
-            bullets: true,
-            circular: true,
-            swipe: true,
-            slide_number: false,
-            timer_show_progress_bar: false
-        }});
-
+        $(document).foundation();
         $(document).tooltip({ tooltipClass: "tooltip-custom" });
     });
 
