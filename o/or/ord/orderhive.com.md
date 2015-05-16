@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderhive.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120142412id_/http%3A//www.orderhive.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderhive.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516030707id_/http%3A//www.orderhive.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Orderhive
 
@@ -32,6 +32,6 @@ We at Orderhive are committed towards respecting your privacy; this policy will 
   6. Edit or change your information: 
     * You can access all your information provided via the software, you can easily change or edit your information at given point of time.
   7. Contacting Us: 
-    * Orderhive welcomes queries or suggestions related to privacy policy, feel free to connect with us by dropping an email to [support@orderhive.com](mailto:support@orderhive.com) or call on 079-65445102.
+    * Orderhive welcomes queries or suggestions related to privacy policy, feel free to connect with us by dropping an email to [support@orderhive.com](mailto:support@orderhive.com) or call on +91-999-822-2929.
 
 
