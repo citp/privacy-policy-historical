@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the websitevalue.co.uk privacy policy that was archived on 2014-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226072546id_/http%3A//www.websitevalue.co.uk/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websitevalue.co.uk privacy policy that was archived on 2015-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516042621id_/http%3A//www.websitevalue.co.uk/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Web Site Value Calculator and Website Valuation Tool</title>
 <meta name="keywords" content="$url2 Web Worth, Domain Information, Website stats, PageRank, Alexa Rank, Whois">
 <meta name="description" content="$url2 Complete Website Information and Worth">
-<link href="Css/stylesheet.css" rel="stylesheet" type="text/css">
+<link href="Css/stylesheet.css?ez_orig=1" rel="stylesheet" type="text/css">
 
 <!-- START EZHEAD -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">var soc_app_id = '0';</script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var soc_app_id = '0';</script>
 <script type="text/javascript">var did = 131;</script>
 <script src="https://www.google.com/jsapi?key=ABQIAAAAWvH7lmtbXPVbvOqmVVU9VRQdDxq4C7wyBnVikl0uwU8F0c1b7hTtX9ZL_MgGQCkMAayuC2BlaK4QRQ" type="text/javascript"></script><script type="text/javascript">
 google.load("jquery", "1.4.3");
@@ -30,23 +30,162 @@ GS_googleEnableAllServices();
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
-
-
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-29096671-10";
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29096671-10']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
 
 <!-- END EZHEAD -->
-<script type="text/javascript">var ezouid = "818156213";</script><script type="text/javascript">window.google_analytics_uacct = "UA-29096671-10";</script><link rel="canonical" href="http://www.websitevalue.co.uk/policy.php"><base href="http://www.websitevalue.co.uk/policy.php"><!--[if lt IE 9]>
+<script type="text/javascript">var ezouid = "444924467";</script><!--[if lt IE 9]>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <![endif]-->
 <!--[if (gte IE 9) | (!IE)]><!-->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-<!--<![endif]--><script src="/utilcave_com/templates/js/ezjquery-noconflict.js"></script><script type="text/javascript">
-var ezoTemplate = 'orig_site';
-if(typeof ezouid == 'undefined')
-{
-    var ezouid = 'none';
+<!--<![endif]--><script src="http://cdn.websitevalue.co.uk/utilcave_com/templates/js/ezjquery-noconflict.js"></script><script type="text/javascript">
+    var ezoTemplate = '';
+
+    if(typeof ezouid == 'undefined') {
+        var ezouid = 'none';
+    }
+
+    var ezoFormfactor = '';
+
+    if(typeof ezpaq == "undefined") {
+        var ezpaq = "-";
+    }
+
+    ezo_elements_to_check = Array();
+
+
+if(typeof $ !== "undefined") {
+
+    $(document).ready(function($) {
+
+        /* ---
+           Overwrite print functionality
+         -------------------------------------- */
+        $(document).bind("keydown", function(e){
+            if (e.ctrlKey && e.keyCode == 80) { /* ctrl + p */
+                e.preventDefault();
+                ezPrintThis();
+            }
+        });
+
+        /* ---
+         getComputedStyle() doesn't do what you think it does. To get styles dynamically added
+         to elements by scripts, there is no unified cross-browser way to do it, so you have to 
+         construct a string (like cssText in Chrome) and use that instead. FF/IE do not work
+         --------------------------------------------------------------------------------------- */
+        function ezoGetCurrentStyles( element ) {
+            if (typeof(__JASS) !== 'undefined' && typeof(__JASS.isChrome) === 'function' && __JASS.isChrome()) return window.getComputedStyle(element).cssText;
+            var styles = window.getComputedStyle(element);
+            var cssText = [];
+            for (var prop in styles) {
+                if (typeof(styles[prop]) === 'string' && styles[prop] !== '') {
+                    cssText[cssText.length] = (prop.replace(/[A-Z]/g, function(x) { return '-'+(x.toLowerCase())}))+': '+styles[prop];
+                }
+            }
+            return cssText.join('; ')+';';
+        }
+
+        /* ---
+         Moves every class from the body tag to the stylesheet_body element
+         --------------------------------------------------------------------------------------- */
+        function ezoBodyEventListener() {
+            var attr = $ezJQuery('body').attr('class');
+            if (typeof attr !== typeof undefined && attr !== false) {
+                var ezBodyClass = "";
+                $ezJQuery.each(attr.split(' '), function (k, v) {
+                    if (v.indexOf('ez') !== 0) { /* remove ezn-332 or ezCSS classes */
+                        ezBodyClass = ezBodyClass.length > 0 ? ezBodyClass + " " + v : v;
+                    }
+                });
+                var newStyle = typeof ezoOrigSBStyle !== "undefined" ? ezoOrigSBStyle + ' ' + ezBodyClass : ezBodyClass;
+                if (newStyle.length > 0) {
+                    $ezJQuery('#stylesheet_body').attr('class', newStyle);
+                }
+            }
+            setTimeout(ezoBodyEventListener, ezoBELTime);
+            ezoBELTime = ezoBELTime * 2;
+        }
+
+        var ezoBELTime = 10;
+        var ezoOrigSBStyle = $ezJQuery('#stylesheet_body').attr('class');
+        setTimeout(ezoBodyEventListener, ezoBELTime);
+        /* ------------------------------------------------------------------------------------- */
+
+
+        if (ezoFormfactor != "2") {
+
+            var ezIgnoreTags = ['SCRIPT','IFRAME','STYLE','LINK','BODY','HEAD'];
+
+            $(document).bind('DOMNodeInserted', function(e) {
+                var element = e.target;
+
+                //move our before and after spans to be first or last sibling elements
+                var after_span = $(element).prev('.ezoic-after-el');
+                if(after_span != null)
+                {
+                    after_span.insertAfter($(element));
+                }
+                var before_span = $(element).next('.ezoic-before-el');
+                if(before_span != null)
+                {
+                    before_span.insertBefore($(element));
+                }
+
+                if(ezIgnoreTags.indexOf(element.tagName) == -1)
+                {
+                    if($(element).hasClass('ezoic-wrapper') == false && $(element).hasClass('ezoic-no-wrapper') == false)
+                    {
+                        if($(element).closest('.ezoic-no-wrapper').length < 1 && $(element).closest('.ezoic-ad').length < 1 && $(element).closest('.ezo_ad').length < 1 && $(element).closest('.ezoic-wrapper').length < 1  && $(element).css('position') != 'fixed' && $(element).css('position') != 'absolute')
+                        {
+                            $(element).addClass('ezoic-wrapper');
+                            /* this is a kludgy failsafe to prevent the array from going crazy. the checker runs every 200ms, btw. */
+                            if (ezo_elements_to_check.length < 100) {
+                                ezo_elements_to_check.push(element);
+                            }
+                            ezo_resize_interval_count=0; //reset interval timer
+                            if($(element).hasClass('ez_wrap_ins') == false && $(element).parent().is('body'))
+                            {
+                                $(element).wrap("<ins class='ezoic-wrapper ez_wrap_ins'></ins>");
+                                $(element).css('max-width','none');
+                                //var ezo_style = getComputedStyle(element);
+                                var cssText = ezoGetCurrentStyles(element);
+
+                                var rand_class = 'ezo_wrapper_'+Math.floor((Math.random()*100000)+1);
+
+                                var ezoTempStyle = document.createElement('style');
+                                /*
+                                var cssText = '';
+                                if (ezo_style != null) {
+                                    cssText = ezo_style.cssText;
+                                }
+                                */
+                                ezoTempStyle.innerHTML = '.'+rand_class+'{'+cssText+'}';
+                                document.getElementsByTagName('head')[0].insertBefore(ezoTempStyle,document.getElementsByTagName('head')[0].firstChild)
+                                $(element).addClass('ez_wrap_ins');
+                                $(element).addClass(rand_class);
+                                $(element).unwrap('ins');
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    });
 }
-var ezoFormfactor = '1';
-var ezo_elements_to_check = Array();
+
 </script>
 
 <script>
@@ -70,9 +209,10 @@ function close_jquery_wrapper()
         jQuery = old_jquery;
     }
 }
-//minified table_resize_js.txt - http://refresh-sf.com/yui/
-function ez_get_widest_cells(c){var b=0;var d=0;var a=new Array();$ezJQuery("td,th",c).each(function(){if($ezJQuery(this).css("word-break")!="break-all"&&$ezJQuery(this).css("word-break")!="break-word"){if($ezJQuery(this).width()>b){b=$ezJQuery(this).width();d=0;a=new Array()}if($ezJQuery(this).width()==b){if($ezJQuery(this).data("ez_lpw")>d){d=$ezJQuery(this).data("ez_lpw");a=new Array()}if($ezJQuery(this).data("ez_lpw")==d){a.push(this)}}}});return a}function ez_scale_font(a){if($ezJQuery(a).children().length>0){$ezJQuery(a).children().each(function(){ez_scale_font(this)})}$ezJQuery(a).css("font-size",parseInt($ezJQuery(a).css("font-size"))-1)}function ez_get_min_font(a){var b=16;$ezJQuery("*",a).each(function(){if(parseInt($ezJQuery(this).css("font-size"))<b){b=parseInt($ezJQuery(this).css("font-size"))}});return b}function ez_get_max_font(b){var a=10;$ezJQuery("*",b).each(function(){if(parseInt($ezJQuery(this).css("font-size"))>a){a=parseInt($ezJQuery(this).css("font-size"))}});return a}function ez_get_max_padding(b){var a=0;$ezJQuery("td",b).each(function(){if(parseInt($ezJQuery(this).css("padding-left"))>a){a=parseInt($ezJQuery(this).css("padding-left"))}if(parseInt($ezJQuery(this).css("padding-right"))>a){a=parseInt($ezJQuery(this).css("padding-left"))}});return a}function ez_scale_padding(a){$ezJQuery("td",a).each(function(){if(parseInt($ezJQuery(this).css("padding-left"))>1){$ezJQuery(this).css("padding-left",parseInt($ezJQuery(this).css("padding-left"))-1)}if(parseInt($ezJQuery(this).css("padding-right"))>1){$ezJQuery(this).css("padding-right",parseInt($ezJQuery(this).css("padding-left"))-1)}})}var ez_word_break_tables=[];function ez_word_break_table(a){if(typeof $ezJQuery=="undefined"){ez_word_break_tables.push(a);if(ez_word_break_tables.length==1){ez_queue.push({method:run_ez_word_break_tables,priority:1})}}else{run_ez_word_break_table(a)}}function ez_reset_width(a){if($ezJQuery(a).data("ez-no-defined-width")===true){$ezJQuery(a).css("width","")}return 1}function run_ez_word_break_tables(){$ezJQuery.each(ez_word_break_tables,function(a,b){run_ez_word_break_table(b)})}function run_ez_word_break_table(a){var l=$ezJQuery("#ez_script_id_"+a).prev("table");var d=11;if($ezJQuery(l).data("ez-gwidth")!=null){var g=$ezJQuery(l).data("ez-gwidth");var m=false;if(String(g).indexOf("%")>=0){m=true;g=Math.ceil((parseInt(g)/100)*$ezJQuery(l).parent()[0].clientWidth)}if($ezJQuery(l).width()<=g){return ez_reset_width(l)}var b=true;if(m==false&&$ezJQuery(l).data("ez-no-defined-width")===true){b=false;$ezJQuery(l).css("width",g)}var j=false;$ezJQuery("td,th",l).each(function(){var q=$ezJQuery(this).clone().find("script").remove().end().text();var n=q.split(/[.,\/ -]/);var p=n.reduce(function(r,s){return r.length>s.length?r:s}).length;var i=ez_get_max_font(this);var o=p*i*0.6;$ezJQuery(this).data("ez_lpw",o);if($ezJQuery(this).width()>0&&o>($ezJQuery(this).width()*0.65)){j=true}});if(j==false){return ez_reset_width(l)}var c=ez_get_min_font(l);if(c==12){d=10}else{if(c==11){d=9}}while(c>d+1&&$ezJQuery(l).width()>g){var f=$ezJQuery(l).width();ez_scale_font(l);c--;if(f==$ezJQuery(l).width()){return ez_reset_width(l)}}if($ezJQuery(l).width()<=g){return ez_reset_width(l)}var k=ez_get_max_padding(l);var f=$ezJQuery(l).width();while(k>1&&$ezJQuery(l).width()>g){ez_scale_padding(l);k--;if($ezJQuery(l).width()<=g){return ez_reset_width(l)}}while(c>d&&$ezJQuery(l).width()>g){var f=$ezJQuery(l).width();ez_scale_font(l);c--;if(f==$ezJQuery(l).width()){return ez_reset_width(l)}}if($ezJQuery(l).width()<=g){return ez_reset_width(l)}var h=ez_get_widest_cells((l));while(h.length!=0&&$ezJQuery(l).width()>g){for(var e=0;e<h.length;e++){if(b===true){$ezJQuery(h[e]).css("width",$ezJQuery(h[e]).width())}$ezJQuery(h[e]).css("word-break","break-all");$ezJQuery(h[e]).css("word-break","break-word")}h=ez_get_widest_cells(l)}return ez_reset_width(l)}};
+//minified table_resize_js.txt - http://gpbmike.github.io/refresh-sf/
+function ez_console_log(){}function ez_get_widest_cells(e){var t=0,r=0,i=new Array;return $ezJQuery("td,th",e).each(function(){"break-all"!=$ezJQuery(this).css("word-break")&&"break-word"!=$ezJQuery(this).css("word-break")&&($ezJQuery(this).width()>t&&(t=$ezJQuery(this).width(),r=0,i=new Array),$ezJQuery(this).width()==t&&($ezJQuery(this).data("ez_lpw")>r&&(r=$ezJQuery(this).data("ez_lpw"),i=new Array),$ezJQuery(this).data("ez_lpw")==r&&r>10&&i.push(this)))}),i}function ez_scale_font(e,t,r){$ezJQuery(e).find("*").addBack().each(function(){var e=$ezJQuery(this).data("ez-ofs")-t;e>=r&&$ezJQuery(this).css("font-size",e)})}function ez_get_min_font(e){var t=16;return $ezJQuery("*",e).each(function(){parseInt($ezJQuery(this).css("font-size"))<t&&(t=parseInt($ezJQuery(this).css("font-size")))}),t}function ez_get_max_font(e){var t=10;return $ezJQuery("*",e).each(function(){parseInt($ezJQuery(this).css("font-size"))>t&&(t=parseInt($ezJQuery(this).css("font-size")))}),t}function ez_get_max_padding(e){var t=0;return $ezJQuery("td",e).each(function(){parseInt($ezJQuery(this).css("padding-left"))>t&&(t=parseInt($ezJQuery(this).css("padding-left"))),parseInt($ezJQuery(this).css("padding-right"))>t&&(t=parseInt($ezJQuery(this).css("padding-left")))}),t}function ez_scale_padding(e){$ezJQuery("td",e).each(function(){parseInt($ezJQuery(this).css("padding-left"))>1&&$ezJQuery(this).css("padding-left",parseInt($ezJQuery(this).css("padding-left"))-1),parseInt($ezJQuery(this).css("padding-right"))>1&&$ezJQuery(this).css("padding-right",parseInt($ezJQuery(this).css("padding-left"))-1)})}function ez_word_break_table(e){"undefined"==typeof $ezJQuery?(ez_word_break_tables.push(e),1==ez_word_break_tables.length&&ez_queue.push({method:run_ez_word_break_tables,priority:1})):run_ez_word_break_table(e)}function ez_reset_width(e){$ezJQuery(e).data("ez-no-defined-width")===!0&&$ezJQuery(e).css("width","");var t=$ezJQuery(e).data("ezoic-orig-max-width");return null==t?$ezJQuery(e).css("max-width",""):$ezJQuery(e).css("max-width",t),1}function run_ez_word_break_tables(){$ezJQuery.each(ez_word_break_tables,function(e,t){run_ez_word_break_table(t)})}function run_ez_word_break_table(e){ez_console_log("shrinking "+e);var t=$ezJQuery("#ez_script_id_"+e).prev("table"),r=11;if(ez_console_log("$ezJQuery(table).data('ez-gwidth')"+$ezJQuery(t).data("ez-gwidth")),null!=$ezJQuery(t).data("ez-gwidth")){1==$ezJQuery(t).data("ez-no-defined-width")&&(null!=$ezJQuery(t).get(0).style.width&&$ezJQuery(t).get(0).style.width.match(/^$|auto/)||($ezJQuery(t).removeAttr("data-ez-no-defined-width"),$ezJQuery(t).removeData("ez-no-defined-width")));var i=$ezJQuery(t).get(0).style.getPropertyValue("max-width");null!=i&&$ezJQuery(t).data("ezoic-orig-max-width",i),$ezJQuery(t).css("max-width","none");var n=$ezJQuery(t).data("ez-gwidth"),a=n,u=!1;if(String(a).indexOf("%")>=0&&(ez_console_log("goal width % "+String(a)),u=!0,a=Math.ceil(parseInt(a)/100*$ezJQuery(t).parent()[0].clientWidth)),ez_console_log("goal width px "+String(a)),$ezJQuery(t).outerWidth()<=a)return ez_reset_width(t);var s=!0;$ezJQuery(t).data("ez-no-defined-width")===!0&&(s=!1,$ezJQuery(t).css("width",n));var d=!1,z=0,o=null,h=null;if($ezJQuery("td,th",t).each(function(){$ezJQuery(this).find("*").addBack().contents().addBack().filter(function(){return 3==this.nodeType&&"script"!=this.parentNode.nodeName}).each(function(){var e=this.nodeValue.split(/[.,\/ -]/),t=e.reduce(function(e,t){return e.length>t.length?e:t}).length,r=parseInt($ezJQuery(this).parent().css("font-size"));null==o?o=r:r>o&&(o=r),null==h?h=r:h>r&&(h=r);var i=t*r*.6;i>=z&&(z=i)});$ezJQuery(this).data("ez_lpw",z),$ezJQuery(this).outerWidth()>0&&z>.65*$ezJQuery(this).outerWidth()&&(d=!0)}),0==d)return ez_reset_width(t);h>12&&(r=9),12==h?r=9:9>h&&(r=h);for(var _=parseInt($ezJQuery(t).css("border-spacing"));_>2&&$ezJQuery(t).outerWidth()>a;)_--,$ezJQuery(t).css("border-spacing",_),ez_console_log("changing border-spacing to "+_+", "+$ezJQuery(t).outerWidth());if($ezJQuery(t).outerWidth()<=a)return ez_reset_width(t);$ezJQuery(t).find("*").addBack().each(function(){$ezJQuery(this).data("ez-ofs",parseInt($ezJQuery(this).css("font-size")))});for(var c=0;o-c>r+1&&$ezJQuery(t).outerWidth()>a;){c++;var y=$ezJQuery(t).outerWidth();if(ez_console_log("scaling font increment "+c+", "+$ezJQuery(t).outerWidth()>a),ez_scale_font(t,c,r),y==$ezJQuery(t).outerWidth())break}if($ezJQuery(t).outerWidth()<=a)return ez_reset_width(t);for(var l=ez_get_max_padding(t),y=$ezJQuery(t).outerWidth();l>1&&$ezJQuery(t).outerWidth()>a;)ez_console_log("scaling padding to "+l+", "+$ezJQuery(t).outerWidth()>a),ez_scale_padding(t),l--;if($ezJQuery(t).outerWidth()<=a)return ez_reset_width(t);for(;h-c>r&&$ezJQuery(t).outerWidth()>a;){c++;var y=$ezJQuery(t).outerWidth();if(ez_console_log("scaling font increment "+c+", "+$ezJQuery(t).outerWidth()>a),ez_scale_font(t,c,r),y==$ezJQuery(t).outerWidth())return ez_reset_width(t)}if($ezJQuery(t).outerWidth()<=a)return ez_reset_width(t);for(var $=ez_get_widest_cells($ezJQuery(t));0!=$.length&&$ezJQuery(t).outerWidth()>a;){ez_console_log("adding word break to tables, "+$ezJQuery(t).outerWidth()>a);for(var J=0;J<$.length;J++){if(s===!0){var Q=(100*$ezJQuery($[J]).width()/$ezJQuery(t).outerWidth()).toFixed(4)+"%";$ezJQuery($[J]).css("min-width",Q)}$ezJQuery($[J]).css("word-break","break-all"),$ezJQuery($[J]).css("word-break","break-word")}$=ez_get_widest_cells(t)}return ez_reset_width(t)}}var ez_word_break_tables=[];
 </script>
+
 
 <!-- START EZHEAD -->
 <script type="text/javascript">
@@ -81,7 +221,7 @@ var did = 131;
 var ezdomain = 'websitevalue.co.uk';
 var ezoicSearchable = 0;
 </script>
-<!---->
+<!--{jquery}-->
 <!--start_menu-->
 <link href="http://cdn.utilcave.com/menu/themes/css/dropdown/dropdown.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://cdn.utilcave.com/menu/themes/css/dropdown/themes/nvidia.com/default.advanced.css" media="screen" rel="stylesheet" type="text/css">
@@ -233,101 +373,141 @@ qacct:"p-31iz6hfFutd16"
 </noscript>
 <!-- End Quantcast tag -->
 <!-- END EZFOOT -->
+<script type="text/javascript" src="http://cdn.websitevalue.co.uk/utilcave_com/inc/tb.php?cb=64-0"></script>
+<script language="javascript">
 
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-29096671-10']);
-_gaq.push(['_setCustomVar',1,'template','orig_site',1]);
-_gaq.push(['_setCustomVar',2,'v','{ezoic_variation_id}',1]);
-_gaq.push(['_setCustomVar',3,'t','5',1]);
-_gaq.push(['_setAllowAnchor',true]);
-_gaq.push(['_setSiteSpeedSampleRate', 10]);
-_gaq.push(['_trackPageview']);
-_gaq.push(['b._setAccount', 'UA-38339005-1']);
-_gaq.push(['b._setCustomVar',1,'template','orig_site',1]);
-_gaq.push(['b._setCustomVar',2,'domain','websitevalue.co.uk',3]);
-_gaq.push(['b._setSiteSpeedSampleRate', 20]);
-_gaq.push(['b._trackPageview']);
+(function ($) {
+    var opt;
+    $.fn.printThis = function (options) {
+        opt = $.extend({}, $.fn.printThis.defaults, options);
+        var $element = this instanceof $ ? this : $(this);
+
+            var strFrameName = "printThis-" + (new Date()).getTime();
+
+            if(window.location.hostname !== document.domain && navigator.userAgent.match(/msie/i)){
+                var iframeSrc = "javascript:document.write(\"<he" + "ad><scr" + "ipt>document.domain='" + document.domain + "';</scr" + "ipt><\/he" + "ad><bo" + "dy><\/bo" + "dy>\")";
+                var printI= document.createElement('iframe');
+                printI.name = "printIframe";
+                printI.id = strFrameName;
+                printI.className = "MSIE";
+                document.body.appendChild(printI);
+                printI.src = iframeSrc;
+
+            } else {
+                 // other browsers inherit document.domain, and IE works if document.domain is not explicitly set
+                var $frame = $("<iframe id='" + strFrameName +"' name='printIframe' />");
+                $frame.appendTo("body");
+            }
 
 
-(function() {
- var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
- ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
- var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-var ez_tos_track_count = 0;
-var ez_last_activity_count = 0;
-(function (__ez_tos) {
-  window.setInterval(function () {
-    __ez_tos = (function (t) {
-      return t[0] == 45 ? (parseInt(t[1]) + 1) + ':00' : (t[1] || '0') + ':' + (parseInt(t[0]) + 15);
-    })(__ez_tos.split(':').reverse());
+            var $iframe = $("#" + strFrameName);
 
-    ez_tos_track_count++;
-    if(ez_tos_track_count > 1 && ez_tos_track_count < (ez_last_activity_count + 4) && ez_tos_track_count < 240)
-    {
-        if(window.pageTracker)
-        {
-            pageTracker._trackEvent('Time', 'Log', __ez_tos)
-        }
-        else
-        {
-           _gaq.push(['_trackEvent', 'Time', 'Log', __ez_tos]);
-           _gaq.push(['b._trackEvent', 'Time', 'Log', __ez_tos]);
-        }
+            // show frame if in debug mode
+            if (!opt.debug) $iframe.css({
+                position: "absolute",
+                width: "0px",
+                height: "0px",
+                left: "-600px",
+                top: "-600px"
+            });
+
+
+            var $result = null;
+            var sep = (window.location.href.indexOf('?') > -1) ? '&' : '?';
+            var scriptUrl = window.location.href + sep + "ez_orig=1";
+            $.ajax({
+               url: scriptUrl,
+               type: 'get',
+               dataType: 'html',
+               async: false,
+               success: function(data) {
+                   $result = data;
+               }
+            });
+
+
+        // $iframe.ready() and $iframe.load were inconsistent between browsers
+        setTimeout ( function () {
+
+            var $doc = $iframe.contents();
+
+            //just get the ez_orig and pass it on
+            //$doc.find("body").append($result);
+            $iframe.get(0).contentWindow.document.open();
+            $iframe.get(0).contentWindow.document.write($result);
+            $iframe.get(0).contentWindow.document.close();
+
+            var myInterval = setInterval(function () {
+
+                if ($iframe.get(0).contentWindow.document.readyState == 'complete') {
+
+                    clearInterval(myInterval);
+
+                    if($iframe.hasClass("MSIE")){
+                        // check if the iframe was created with the ugly hack
+                        // and perform another ugly hack out of neccessity
+                        window.frames["printIframe"].focus();
+                        $doc.find("head").append("<scr" + "ipt> window.print(); </scr" + "ipt>");
+                    } else {
+                        // proper method
+                        $iframe.get(0).contentWindow.focus();
+                        $iframe.get(0).contentWindow.print();
+                    }
+
+                    $element.trigger( "done");
+
+                    //remove iframe after print
+                    if (!opt.debug) {
+                        setTimeout(function () {
+                            $iframe.remove();
+                        }, 1000);
+                    }
+                }
+
+            }, opt.printDelay);
+
+        }, 333 );
+
+    };
+
+    // defaults
+    $.fn.printThis.defaults = {
+        debug: false, // show the iframe for debugging
+        importCSS: false, // import parent page css
+        printContainer: false, // print outer container/$.selector
+        loadCSS: "", // load an additional css file
+        pageTitle: "", // add title to print page
+        removeInline: false, // remove all inline styles
+        printDelay: 500, // variable print delay S. Vance
+        header: null // prefix to html
+    };
+
+    // $.selector container
+    $.fn.outer = function () {
+        return $($("<div></div>").html(this.clone())).html()
     }
-  }, 15000);
-})('00');
+})($ezJQuery);
 
+function ezPrintThis()
+{
+    $ezJQuery('html').printThis();
+};</script>
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.websitevalue.co.uk",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://www.websitevalue.co.uk/ez-site-search/?q={search_term_string}",
+     "query-input": "required name=search_term_string"
+   }
+}
 </script>
 
-<script type="text/javascript">
-
-
-if(typeof $ezJQuery == 'undefined')
-{
-    if (typeof jQuery == 'undefined')
-    {
-        document.write('<scr'+'ipt type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></sc'+'ript>');
-    }
-    else
-    {
-        $ezJQuery = jQuery;
-    }
-}
-
-</script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-
-<script type="text/javascript">
-
-
-if (typeof $ezJQuery == 'undefined' && typeof jQuery != 'undefined')
-{
-    $ezJQuery = jQuery.noConflict();
-}
-
-</script>
-
-<script type="text/javascript">
-if(typeof $ezJQuery != 'undefined')
-{
-    $ezJQuery("body").mousemove(function(e){
-      ez_last_activity_count = ez_tos_track_count;
-    });
-    $ezJQuery("body").keypress(function(e){
-      ez_last_activity_count = ez_tos_track_count;
-    });
-    $ezJQuery(window).scroll(function(e){
-      ez_last_activity_count = ez_tos_track_count;
-    });
-}
-else
-{
-    ez_last_activity_count = 8;
-}
-</script>
-<script type="text/javascript" src="/utilcave_com/inc/tb.php?cb=0&amp;template=orig"></script>
+<script id="jass-data" type="text/javascript">var __JASS_DATA = {"ffId":1,"dim":[]};</script><script id="jass-entry-point" src="{jass_domain_name}/jass/jass.js?cb=69" type="text/javascript"></script>
 <script>
+
 $ezJQuery(function() {
     if (typeof run_body_onload == 'function') {
         run_body_onload();
@@ -336,6 +516,23 @@ $ezJQuery(function() {
         ezoicJSPageLoad($ezJQuery);
     }
 });
+
+function ezoic_block_page_ad_placement(lid, el) {
+    $ezJQuery.ajax({
+        url: "/utilcave_com/bap.php?l="+lid+"&p="+window.location.pathname+"&d="+did,
+        context: document.body,
+        statusCode: {
+            403: function () {
+                window.location.replace("http://www.ezoic.com/publisher.php?msg=Please%20log%20in%20to%20your%20ezoic%20account%20to%20block%20ad%20positions%20on%20your%20site.&rurl=" + encodeURIComponent("http://" + window.location.host + "/utilcave_com/auth.php?rurl=" + window.location.href));
+            }
+        },
+        success: function(){
+            $ezJQuery(el).closest('.ezoic-ad').hide();
+            $ezJQuery(el).closest('.ezoic-ad').parent().hide();
+        }
+    });
+}
+
 </script>
 
 </div></body></html>
