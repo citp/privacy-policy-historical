@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miiduu.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202534id_/http%3A//www.miiduu.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miiduu.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516235632id_/http%3A//www.miiduu.com/index/privacy) for the most accurate reproduction.*
 
 # Miiduu Privacy Policy
 
