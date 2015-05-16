@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226235846id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516025746id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoAbroad.com
 
