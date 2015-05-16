@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the brightspace.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917020017id_/http%3A//www.brightspace.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightspace.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517012310id_/http%3A//www.brightspace.com/legal/privacy) for the most accurate reproduction.*
 
-# Brightspace | D2L† Privacy Statement
+# D2L Privacy Statement | Brightspace
 
 ## General
 
 We at the D2L family of companies (“we” or “us”) are committed to protecting the privacy of our users.
 
-This Privacy Statement applies to personal information collected (1) at D2L Web sites and other sites that we own or control that link to this policy (“D2L Web sites”), (2) for or by D2L enterprise offerings that are hosted by D2L or its service providers, and (3) for or by D2L consumer offerings. There are two main classes of users of D2L offerings: enterprise users and consumer users. Enterprise users access offerings by virtue of an agreement that we have with the user’s employer, institution (educational or otherwise) or other organization (“Organization”). Consumer users access D2L offerings by virtue of an agreement directly with us.
+This Privacy Statement applies to personal information collected (1) at D2L Web sites and other sites that we own or control that link to this policy (“D2L Web sites”), (2) for or by D2L enterprise offerings that are [hosted](http://www.brightspace.com/products/ "hosted") by D2L or its service providers, and (3) for or by D2L consumer offerings. There are two main classes of users of D2L offerings: enterprise users and consumer users. Enterprise users access offerings by virtue of an agreement that we have with the user’s employer, institution (educational or otherwise) or other organization (“Organization”). Consumer users access D2L offerings by virtue of an agreement directly with us.
 
 If you are an enterprise user, this statement does not affect the terms of any agreement between you and your Organization. You should read and understand the terms of any privacy statements or policies that you enter into with parties other than us, including your Organization, as those policies may also explain how your personal information is used by those parties.
 
@@ -167,13 +167,11 @@ Our Privacy Officer is responsible for ensuring our compliance with this Privacy
 
 If you have any comments, questions or concerns about this Privacy Statement, the data that we collect from you or how that data is being used, or to report suspected misuse of your information, please contact us at [privacy@D2L.com](mailto:privacy@desire2learn.com) or write to us at:
 
-Desire2Learn Incorporated  
+D2L Corporation  
 Attn: Privacy Officer  
 151 Charles Street West, Suite 400  
 Kitchener, Ontario  
 N2G 1H6  Canada  
 cc: Legal Department
 
-Last Modified: 10/10/2013
-
-† The D2L family of companies Desire2Learn Incorporated, D2L Ltd., Desire2Learn UK Ltd., Desire2Learn Australia Pty Ltd., Desire2Learn Singapore Pte. Ltd. and D2L Brasil Soluções de Tecnologia para Educação Ltda.
+Last Modified: 10/10/2013 (contact information updated 9/29/2014)
