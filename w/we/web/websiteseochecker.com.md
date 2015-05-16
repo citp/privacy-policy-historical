@@ -1,100 +1,55 @@
-> *The following text is extracted and transformed from the websiteseochecker.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteseochecker.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516123253id_/http%3A//websiteseochecker.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy: Website SEO Checker
 
-**Go Daddy Respects Your Privacy**
+We encourage you to browse this Policy fastidiously. If you've got any questions about this Policy, our use of your Personal data, or your dealings with this web site, please be at liberty to contact America. we tend to could update this Policy from time to time in our sole discretion to replicate changes in our use of your Personal data and/or applicable law. Any changes created to the current Policy are going to be mirrored in associate updated policy (denoted by associate updated date above) announce on our web site at websiteseochecker.com.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+websiteseochecker.com client Privacy
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Collection of non-public data
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Customers UN agency use the product and services on the market through our web site (collectively, the "Services") do therefore voluntarily. so as to use our Services, a client is needed to make associate account by registering and providing America with basic contact, asking and web site data, including, however not restricted to, such customer's name, email address, mastercard data and web site universal resource locator. By providing America with Personal data, customers ar willing to the gathering, use and speech act of such Personal data in accordance with the terms and conditions set forth during this Policy.
 
-**Information Collection and Use**
+How we tend to Use Personal data
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Any Personal data collected and hold on by America is employed strictly for asking functions, contacting our customers, evaluating a prospective customer's web site content, and for such alternative functions as ar represented during this Policy. websiteseochecker.com doesn't share any client Personal data with any third party aside from those business partners that ar directly concerned in managing our day to day business operations, such as, while not limitation, our asking and payment processes. we tend to reserves the correct to disclose your Personal data by surprise or consent because it deems necessary (a) to adapt to applicable law; (b) once we believe that speech act is critical to shield our rights and property; (c) to shield the security of our users, us, or alternative third parties; (d) to befits any proceeding, writ, or legal method served on us; and/or (e) consistent to a procurement, merger, sale of assets or alternative business transfer.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Direct Email
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Our customers could voluntarily elect to receive their websites applied mathematics data via email. we tend to could from time to time embody necessary news, data, or offers among these emails. However, you will opt to opt-out of receiving any such emails, or amendment the frequency with that you receive such e-mails, at any time by work on to your personal account page and ever-changing the applicable preferences contained in that.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Log Files
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+By accessing our web site, our web servers mechanically record data that your web browser sends once you visit an internet site. These logs could contain data like your web protocol (IP) address, browser version, name, language, date and time, the referring web site and knowledge in your cookie files.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Third Party Advertisements
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+The advertisements showing on our web site from time to time ar provided by a range of our third party advertising partners. we tend to solely share web site usage data regarding our users with well-thought-of third party advertisers for the only real purpose of higher targeting our web site banner advertisements.
 
-**Security**
+websiteseochecker.com web site Cookies
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+To allow our customers the convenience of not having to recollect their login data once accessing our web site, websiteseochecker.com could place a short lived or persistent "cookie" on your computer's Winchester drive. These cookies ar easy, harmless text files that keep in mind the web browser you utilize to access the web. However, if you are doing no wish to receive cookies, you will change the settings in your web browser to reject cookies or to warn you once a cookie is placed on your pc. we tend to don't collect or store any Personal data via cookies.
 
-**Updating Your Information**
+General web User Privacy
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+In order to assemble and mixture applied mathematics knowledge for our customers, we tend to could from time to time place persistent or temporary cookies on a visitor's Winchester drive once visiting a customer's web site. These cookies aren't capable of chase, retaining, or storing any Personal data, and that they ar used for no alternative reason than to assemble identical general web data that's on the market to any or all web service suppliers, search engines, and websites. samples of this data embody, while not limitation, a visitor's general location supported science address, data from the visitor's browser like browser sort, variety of software package, keywords used whereas looking, websites visited, monitor resolution settings. we tend to could from time to time additionally authorize and facilitate the utilization of cookies from trusty third party business partners to assemble and mixture extra, anonymous, and non-Personal data knowledge from general web guests for the aim of providing our customers with extra data regarding their viewers. we tend to doesn't gather, retain or store any knowledge from these third party partners. we tend to has additionally chosen to partner solely with businesses that have shown a powerful commitment to on-line privacy and have diagrammatic and bonded to America that any and every one knowledge collected on our behalf is non-Personal data. we tend to don't excuse, support, or participate in any activities that might probably gather, retrieve or store any Personal data regarding or from web users.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Links to alternative Websites
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Our web site contains links to alternative sites that aren't closely-held or controlled by America. Please bear in mind that we tend to aren't liable for the privacy practices of such third party websites and this Policy doesn't govern such alternative websites or your use of them. This Policy applies solely to data collected by our web site. we tend to encourage you to bear in mind once you leave our website and to browse the privacy policies of every and each web site that collects in person recognizable data.
 
-      iii.      You may call us at: (480) 505-8800
+1\. For a comprehensive list of definitions and what constitutes "personally recognizable information" please visit http://www.w3.org/TR/1998/WD-P3P10-harmonization-19980330
 
-       iv.      You may fax us at: (480) 505-8844
+2\. For additional data concerning Cookies please see - http://www.bbbonline.org/UnderstandingPrivacy/toolbox/cookies.asp
 
-**Sending Emails**
+Additional data concerning on-line Privacy is Found At:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+http://www.bbbonline.org  
+http://www.privacyalliance.org  
+http://www.truste.org
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Cookies & third Party Advertisements
 
-**Compliance with Laws and Law Enforcement**
+Google, as a 3rd party vender, uses cookies to serve ads on your website. Google's use of the DART cookie allows it to serve ads to your users supported their visit to your sites and alternative sites on the web. Users could prefer of the utilization of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We enable third-party firms to serve ads and/or collect sure anonymous data once you visit our computing device. These firms could use non-personally recognizable data (e.g., click stream data, browser sort, time and date, subject of advertisements clicked or scrolled over) throughout your visits to the current and alternative websites so as to produce advertisements regarding product and services seemingly to be of larger interest to you. These firms usually use a cookie or third party internet beacon to gather this data. to be told additional regarding this behavioural advertising apply or to opt-out of this kind of advertising
