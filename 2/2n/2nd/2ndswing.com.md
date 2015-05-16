@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228074433id_/http%3A//www.2ndswing.com/t-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516080659id_/http%3A//www.2ndswing.com/t-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,7 +100,7 @@ This online privacy policy applies only to information collected through our web
 
 ##### Terms and Conditions
 
-Please visit our Terms and Conditions section establishing the use, disclaimer, and limitations of liability governing the use of our website at <https://www.2ndswing.com/t-TermsConditons.aspx>
+Please visit our Terms and Conditions section establishing the use, disclaimer, and limitations of liability governing the use of our website at <https://www.2ndswing.com/t-terms-and-conditions.aspx>
 
 ##### Your Consent
 
