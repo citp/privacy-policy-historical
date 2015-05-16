@@ -1,71 +1,47 @@
-> *The following text is extracted and transformed from the curriculumonline.ie privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206074809id_/http%3A//www.curriculumonline.ie/Footer/Cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriculumonline.ie privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516110136id_/http%3A//www.curriculumonline.ie/Footer/Privacy-Statement) for the most accurate reproduction.*
 
-# Cookie policy
+# Privacy Statement
 
 [NCCA Home](https://web.archive.org/) » [Footer](https://web.archive.org/Footer) » 
 
-NCCA is committed to protecting and respecting your privacy. This Cookie Policy sets out how NCCA uses and protects any information we collect from you, or that you provide to us, when you use our website www.curriculum.ie.
+##  Website of the National Council for Curriculum and Assessment (NCCA)
 
-Please read the policy to understand our views and practices regarding cookie data and how we will treat it. By using our site, you indicate that you accept these terms of use and that you agree to abide by them.
+This statement relates to the privacy practices in connection with this website. The NCCA is not responsible for the content or privacy practices of other websites. Any external links to other websites are clearly identifiable as such. Some technical terms used in this statement are explained at the end of this page.
 
-In order to provide full access to our website we sometimes need to collect information about you and how it will be used. This Cookie Policy provides details on the use of cookies on the website and how you can control and delete these cookies. This policy therefore applies to information we collect about:
+##  General statement
 
-  * Visitors to our website;
-  * Feedback information you provide to us through the website
+The NCCA fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information which you volunteer to the NCCA will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988 and 2003.
 
-  
+##  Collection and use of personal information
 
+The NCCA does not collect any personal data about you on this website, apart from information which you volunteer (for example by e-mailing us or by using an online survey or feedback form). Where you voluntarily provide personal information in response to a questionnaire or survey, the data will be used for research or analysis purposes only. Any information which you provide in this way is not made available to any third parties, and is used by the NCCA solely for the purpose for which you provided it.
 
-##  Visitors to our website
+##  Collection and use of technical information
 
-  
+This website does not use cookies, apart from temporary ‘session’ cookies which enable a visitor’s web browser to remember which pages on this website have already been visited. Visitors can use this website with no loss of functionality if cookies are disabled from the web browser.
 
+Technical details in connection with visits to this website are logged by our internet service provider for our statistical purposes. No information is collected that could be used by us to identify website visitors. The technical details logged are confined to the following items:
 
-When someone visits our website at www.curriculum.ie we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting any part of our website. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and we will explain what we intend to do with it.
-
-The table below explains the cookies we use and why
-
-##  STRICTLY NECESSARY COOKIES  
-  
----  
-**COOKIE** |  **NAME** |  **PURPOSE**  
-Online notification form cookie |  ASP.NET SessionID |  Session cookie sent to the web browser. Used when you open the browser and then go to a website that implements ASP.NET session state. This cookie is deleted when you close your browser.  
-  |  CMSPreferredCulture |  Cookie used to determine website users browser language, expires 24 hours after the site is first accessed.  
-  |  CMSCurrentTheme |  Cookie used to determine website visitor preference of colour scheme, expires 24 hours after the site is first accessed.  
-  
-##  PERFORMANCE COOKIES  
-  
-**COOKIE** |  **NAME** |  **PURPOSE**  
-Google Analytics |  __utma  
-__utmb  
-__utmc  
-__utmv  
-__utmz |  USED TO TRACK VISITORS. Collect information about how visitors use our website. We use this information to complie reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-  
-##  THIRD PARTY COOKIES  
-  
-**COOKIE** |  **NAME** |  **PURPOSE**  
-Flash cookies |    |  There are additional cookies that are not manageable by your website but will require mentioning in your cookie policy. This one is used to control the rotating banner in the website.  
-  
+  * the IP address of the visitor’s web server
+  * the top-level domain name used (for example .ie, .com, .org, .net)
+  * the previous website address from which the visitor reached us, including any search terms used
+  * clickstream data which shows the traffic of visitors around this web site (for example pages accessed and documents downloaded)
+  * the type of web browser used by the website visitor.
 
 
-##  Use of cookies and how to control and delete cookies
 
-NCCA will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by the NCCA website, or indeed any other website, you can do this through your browser settings.  The Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.  Please be aware that restricting cookies may impact on the functionality of the website.  
- 
+The NCCA will make no attempt to identify individual visitors, or to associate the technical details listed above with any individual. It is the policy of the NCCA never to disclose such technical information in respect of individual website visitors to any third party (apart from our internet service provider, which records such data on our behalf and which is bound by confidentiality provisions in this regard), unless obliged to disclose such information by a rule of law. The technical information will be used only by the NCCA, and only for statistical and other administrative purposes. You should note that technical details, which we cannot associate with any identifiable individual, do not constitute "personal data" for the purposes of the Data Protection Acts, 1988 & 2003.
 
-##  Third Party Cookies
+##  Glossary of technical terms used
 
-  
+web browser
 
+The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Netscape Navigator and Opera.
 
-We use Google Analytics to supply site analytics for our website usage to improve the way we present our website.  Google – [www.google.com/intl/en/privacypolicy.html](http://www.google.com/intl/en/privacypolicy.html).
+IP address
 
-When you visit a page with content embedded from, for example, Facebook, or Twitter, you may be presented with cookies from these websites.  NCCA does not control the dissemination of these cookies.  You should check the relevant third party website for more information about these and urge you to review these as they will govern the use of information you submit or which is collected by cookies whilst visiting these websites.
+The identifying details for your computer (or your internet company’s computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
 
-Facebook – [www.facebook.com/about/privacy](http://www.facebook.com/about/privacy)  
-Twitter - [www.twitter.com/privacy](http://www.twitter.com/privacy)
+cookies
 
-To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-  To opt out of being tracked by Google Analytics across all websites visit [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
+Small pieces of information, stored in simple text files, placed on your computer by a website. Cookies can be read by the website on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the website can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the website.
