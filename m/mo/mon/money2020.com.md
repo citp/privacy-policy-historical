@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money2020.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073243id_/http%3A//money2020.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money2020.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516040122id_/http%3A//money2020.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Money20/20
 
@@ -71,6 +71,6 @@ If you have any questions or comments about this Privacy Policy, or if you would
 E-mailing us at:  [info@money2020.com](mailto:info@money2020.com)  
 Writing us at:  
 Money20/20, LLC  
-317 Madison Avenue, Suite 1717  
-New York, NY 10017  
+19 W. 44th Street, Suite 1108  
+New York, NY 10036  
 ***** 
