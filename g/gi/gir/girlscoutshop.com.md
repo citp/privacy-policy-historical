@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlscoutshop.com privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114115308id_/http%3A//www.girlscouts.org/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlscoutshop.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517005803id_/http%3A//www.girlscouts.org/help/privacy.asp) for the most accurate reproduction.*
 
 # Girl Scouts | Privacy Policy
 
