@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the woodlandsonline.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231140059id_/http%3A//www.woodlandsonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlandsonline.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516110213id_/http%3A//www.woodlandsonline.com/privacy.cfm) for the most accurate reproduction.*
 
 # Woodlands Online Privacy Policy
-
-### Woodlands Online Privacy Policy
 
   
 As an Internet user, you have the right to expect any website to disclose its privacy policies which explain how your personal information is collected, used, and shared. You also have a responsibility to choose which websites you feel comfortable disclosing such information to.   
