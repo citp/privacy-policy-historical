@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sixfigurefunnelformula.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506035756id_/http%3A//sixfigurefunnelformula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigurefunnelformula.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516194617id_/http%3A//marketingfunnelautomation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Six-Figure Funnel Formula
+# Privacy Policy | Marketing Funnel Automation
 
-**Privacy Policy**
-
-MarketingFunnelAutomation.com (and SixFigureFunnelFormula.com) is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
+MarketingFunnelAutomation.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
 You or Your means you as a participant in or as a user of the MarketingFunnelAutomation .com website. We or Our or Us means MarketingFunnelAutomation.com or SixFigureFunnelFormula.com. Our site means MarketingFunnelAutomation.com or SixFigureFunnelFormula.com.
 
@@ -81,7 +79,7 @@ To ensure compliance with the Can-Spam Act, MarketingFunnelAutomation.com has im
 
 Web site: MarketingFunnelAutomation.com  
 Email Address: infoATmarketingfunnelautomationDOTcom  
-(Please replace AT with @ and DOT with .)
+(Please replace AT with @ and DOT with .) 
 
 MarketingFunnelAutomation.com understands consumers concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies.MarketingFunnelAutomation.com and its affiliated sites use only an opt-in or opt out method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. MarketingFunnelAutomation.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
 
