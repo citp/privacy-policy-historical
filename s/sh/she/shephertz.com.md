@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shephertz.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023204914id_/http%3A//shephertz.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shephertz.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516214342id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,8 +8,7 @@ We collect information from you when you register on our site, place an order, s
 
 **What do we use your information for?**
 
-Any information we collect from you may be used in one of the following ways:   
-
+Any information we collect from you may be used in one of the following ways:
 
 \- To personalize your experience   
 (Your information helps us to better respond to your individual needs)   
