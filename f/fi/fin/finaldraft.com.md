@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045244id_/http%3A//www.finaldraft.com/company/legal/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517015002id_/http%3A//finaldraft.com/company/legal/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Final Draft
 
 #### Online Privacy Policy
 
-(Last updated on January 5, 2014)
+(Last updated on February 27, 2015)
 
 This document sets forth the Final Draft, Inc. (“FDI”) Online Privacy Policy (the “Privacy Policy”) for these web sites, www.finaldraft.com and www.store.finaldraft.com (the “Sites”). If you have objections to the Privacy Policy, you should not access or use these Sites. This Privacy Policy does not govern privacy practices associated with offline activities or other FDI web sites.
 
 FDI is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
-
-FDI adheres to the European Union Safe Harbor principles as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal information from the European Union.
 
   
 **Changes in Privacy Policy**
@@ -85,4 +83,4 @@ Please note that if you provide FDI with inconsistent privacy preferences (for e
 Also, please note that FDI is not responsible for the content or privacy practices of non-FDI Web sites to which these sites or any other FDI Web site may link. You should review the privacy policy of such sites before using the sites.  
  
 
-© 2014 Final Draft, Inc. All rights reserved.
+© 2015 Final Draft, Inc. All rights reserved.
