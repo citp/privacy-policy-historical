@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheapfareguru.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929173446id_/http%3A//www.cheapfareguru.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapfareguru.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516022720id_/http%3A//www.cheapfareguru.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CheapFareGuru.com Privacy Policy
 
 November 8th, 2008
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.CheapFareGuru.com/privacypolicy.php](https://web.archive.org/web/20140929173446id_/http%3A//www.cheapfareguru.com/privacypolicy.php). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.   
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.CheapFareGuru.com/privacypolicy.php](https://web.archive.org/web/20150516022720id_/http%3A//www.cheapfareguru.com/privacypolicy.php). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.   
   
 
 
