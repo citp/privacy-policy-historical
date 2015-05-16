@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinebootycall.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204140319id_/http%3A//www.onlinebootycall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinebootycall.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516183727id_/http%3A//onlinebootycall.com/privacy-policy) for the most accurate reproduction.*
 
 # onlinebootycall.com | Privacy Policy
 
