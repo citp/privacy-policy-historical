@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the clinique.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011011348id_/http%3A//www.clinique.com/customer-care/general-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinique.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516210939id_/http%3A//www.clinique.com/customer-care/general-info/privacy-policy) for the most accurate reproduction.*
 
 # Customer Care - Privacy Policy | Clinique
 
-Effective Date: July 29, 2014
+Effective Date: October 17, 2014
 
 Clinique Laboratories LLC United States Privacy Policy
 
-Clinique Laboratories LLC (“we, us, or our”) respect your concerns about privacy and value the relationship we have with you. This Privacy Policy describes the types of personal information we collect about our customers, how we use the information, with whom we share it, and the choices available to our customers regarding our use of the information. We also describe the measures we take to protect the security of the information and how our customers can contact us about our privacy practices.
+Pravin Clinique Laboratories LLC (“we, us, or our”) respect your concerns about privacy and value the relationship we have with you. This Privacy Policy describes the types of personal information we collect about our customers, how we use the information, with whom we share it, and the choices available to our customers regarding our use of the information. We also describe the measures we take to protect the security of the information and how our customers can contact us about our privacy practices.
 
 Click on one of the links below to jump to the listed section:
 
@@ -99,7 +99,12 @@ We may obtain personal information about you from various sources. We may collec
 >>> 
 >>> Third Party Web Analytics Services
 >>> 
->>> We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications, such as those of Coremetrics and Google Analytics.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of Coremetrics to analyze your browsing activities on this site. To learn more about Coremetrics, and exercise your choice with respect to their collection of information on this site, please [click here](https://web.archive.org/customer_service/coremetrics_optout.tmpl). To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+>>> We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications, such as those of Adobe Site Catalyst, Coremetrics and/or Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of these analytics services to analyze your browsing activities on this site. To exercise your choice with respect to their collection of information on this site:
+>>> 
+>>>   * For Adobe Site Catalyst, please [click here](http://www.adobe.com/privacy/opt-out.html);
+>>>   * To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+>>> 
+
 >> 
 >> * * *
 >> 
