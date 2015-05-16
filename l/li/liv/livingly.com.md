@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the livingly.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220041147id_/http%3A//www.livingly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingly.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516191742id_/http%3A//www.livingly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Livingly Media | Fashion. Beauty. Entertainment. Pop Culture. Deeply Engaging.
 
 ## Privacy Policy
 
-Last Updated: March 25, 2008
+Last Updated: September 9, 2013
 
 **We take the privacy of our users very seriously.** Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [privacy@livingly.com](mailto:privacy@zimbio.com "privacy@livingly.com") or in writing at: Privacy Director, Livingly Media, Inc., 990 Industrial Road, Suite 204, San Carlos, CA 94070.
 
