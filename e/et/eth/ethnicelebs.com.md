@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethnicelebs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133049id_/http%3A//ethnicelebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethnicelebs.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517011641id_/http%3A//ethnicelebs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — EthniCelebs - Celebrity Ethnicity |What Nationality Background Ancestry Race
+# Privacy Policy — Ethnicity of Celebs | What Nationality Background Ancestry Race
 
 **ETHNICELEBS.COM PRIVACY POLICY**
 
