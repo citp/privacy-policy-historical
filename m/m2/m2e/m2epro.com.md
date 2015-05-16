@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m2epro.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120083135id_/http%3A//m2epro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m2epro.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516233922id_/http%3A//m2epro.com/privacy) for the most accurate reproduction.*
 
 # M2E Pro Privacy Policy - eBay / Amazon / Rakuten Magento Integration
 
