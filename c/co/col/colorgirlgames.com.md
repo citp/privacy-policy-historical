@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorgirlgames.com privacy policy that was archived on 2014-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140831161747id_/http%3A//www.colorgirlgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorgirlgames.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518014038id_/http%3A//www.colorgirlgames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
