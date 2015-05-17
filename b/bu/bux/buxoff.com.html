@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buxoff.com privacy policy that was archived on 2014-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208025017id_/http%3A//buxoff.com/static/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buxoff.com privacy policy that was archived on 2015-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150517061859id_/http%3A//www.buxoff.com/static/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js borderradius boxshadow textshadow opacity cssanimations cssgradients csstransitions video audio" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		
@@ -45,7 +45,7 @@
 				document.getElementById("search-suggestions").innerHTML = xmlhttp.responseText;
 			}
 		}
-		xmlhttp.open("GET", "http://buxoff.com/searchsuggestioncode/livesearch.php?q=" + str, true);
+		xmlhttp.open("GET", "http://www.buxoff.com/searchsuggestioncode/livesearch.php?q=" + str, true);
 		xmlhttp.send();
 	}
 	$(document).click(function(){
@@ -60,50 +60,103 @@
 <!-- /title.tpl -->	<!-- END TITLE -->
 	
 		
-	<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		 <script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  	ga('create', 'UA-54127683-1', 'auto');
-  	ga('send', 'pageview');
+ ga('create', 'UA-54127683-1', 'auto');
+ ga('send', 'pageview');
 
-	</script>
+</script>
 	
-	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://buxoff.com/rss.php">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.buxoff.com/rss.php">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	</head>
+	
+<script>
+var my_buxoff_base='';
+
+function fb_story(htmlid, linkid)
+{
+	var url = my_buxoff_base + "/modules/fb/sendfb.php";
+	var mycontent = "htmlid=" + htmlid + "&linkid=" + linkid;
+
+	$('#fb-'+htmlid).html("Sending...");
+
+    	$.post(url, mycontent, function (data) {
+		if (data.match (new RegExp ("^ERROR:"))) {
+			$('#fb-'+htmlid).html('<font color=red>'+data.substring(6, data.length)+'</font>');
+   		} else {
+			$('#fb-'+htmlid).html(data);
+		}
+	}, "text");
+}
+</script>
+
+	
+
+<script type="text/javascript">
+$(document).ready(function(){
+		$("#subsmodal").modal('show');
+	});   
+</script>
+
+</head>
 <body dir="ltr">
 		
-		
+	
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+var logout_url = "/login.php?op=logout&amp;return=";
+var appid = "1506487062971620";
+
+
+
+  window.fbAsyncInit = function() {
+    FB.init({appId: appid, status: true, cookie: true, xfbml: true});
+  };
+
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+
+	function FBredirect(response) {
+    	    window.location = logout_url;
+    	    return;
+    	}
+
+
+</script>
+	
 	<!-- START HEADER -->
 		
 
 <!-- header.tpl -->
-<header role="banner" class="navbar navbar-inverse navbar-fixed-top custom_header" style="border-bottom: 1px solid #999;">
+<header role="banner" class="navbar navbar-inverse navbar-fixed-top custom_header" style="border-bottom: 1px solid #aaa;">
 	<div class="container">
 		<div class="navbar-header">
-			<button data-target=".bs1-navbar-collapse" data-toggle="collapse" type="button" class="navbar-toggle" style="background:#2a77db;margin-top:13px;">
+			<button data-target=".bs1-navbar-collapse" data-toggle="collapse" type="button" class="navbar-toggle" style="background:#329bc2;margin-top:13px;">
 				<span class="sr-only">Toggle navigation</span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<button data-target=".bs2-navbar-collapse" data-toggle="collapse" type="button" class="navbar-toggle" style="height:34px;width:34px;background:#2a77db;margin-top:13px;">
+			<button data-target=".bs2-navbar-collapse" data-toggle="collapse" type="button" class="navbar-toggle" style="height:34px;width:34px;background:#329bc2;margin-top:13px;">
 				<i class="fa fa-search" style="color:#fff;opacity:1;height:16px;vertical-align:top;"></i>
 	
 			</button>
-			<a class="navbar-brand" href="http://buxoff.com" style="padding-top:19px;height:58px;">buxoff.com</a>			
+			<a class="navbar-brand" href="http://www.buxoff.com" style="padding-top:19px;height:58px;">buxoff.com<!-- <span style="position:relative; bottom: 2ex; font-size: 38%; font-weight:normal; color:#777">IN</span> --></a>			
 		</div>
 		<nav role="navigation" id="mobileheader" class="collapse bs1-navbar-collapse">
-				<a class="dropdown-toggle" href="http://buxoff.com/static/about" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  About Us </a>
-				<a class="dropdown-toggle" href="http://buxoff.com/c/" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  Forums </a>
-				<a class="dropdown-toggle" href="http://buxoff.com/stores-display" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  Stores </a>
-				<a class="dropdown-toggle" href="http://buxoff.com/categories" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  Categories </a>
+				<a class="dropdown-toggle" href="http://www.buxoff.com/products-display/" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  <b>Shop At Buxoff</b> </a>
+				<a class="dropdown-toggle" href="http://www.buxoff.com/stores-display/india" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  Stores </a>
+				<a class="dropdown-toggle" href="http://www.buxoff.com/categories" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  Categories </a>
 				<a class="dropdown-toggle" href="http://blog.buxoff.com/" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  Blog </a>
-				<a class="dropdown-toggle" href="http://buxoff.com/contact/" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  Contact </a>
-				<a class="dropdown-toggle" href="http://buxoff.com/suggest-store" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  Suggest Store </a>
+				<a class="dropdown-toggle" href="http://www.buxoff.com/contact/" style="border-top:1px solid #666;padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;display:block;">  Contact </a>
 		</nav>
 		<nav role="navigation" id="mobileheader" class="collapse bs2-navbar-collapse">
 				<!-- START SEARCH BOX 1-->
@@ -115,7 +168,7 @@
 		var some_search='Search..';
 </script>
 <div class="search">
-	<form action="/search.php" method="get" name="thisform-search" class="form-inline search-form" role="form" id="thisform-search" onsubmit="document.location.href=&quot;http://buxoff.com/search/&quot;+this.search.value.replace(/\//g,&quot;|&quot;).replace(/\?/g,&quot;%3F&quot;); return false;">
+	<form action="/search.php" method="get" name="thisform-search" class="form-inline search-form" role="form" id="thisform-search" onsubmit="document.location.href=&quot;http://www.buxoff.com/search/&quot;+this.search.value.replace(/\//g,&quot;|&quot;).replace(/\?/g,&quot;%3F&quot;); return false;">
 		
 			<div class="input-group">
 		
@@ -144,22 +197,33 @@
 		<nav role="navigation" class="collapse navbar-collapse bs-navbar-collapse">
 				<ul class="nav navbar-nav" style="margin-left:20px;">
 				
-										
+														<!--
+					<li class="dropdown" id="cat-header">
+						<a data-toggle="dropdown" class="dropdown-toggle" href="" style="padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;" rel="nofollow"><img src="http://buxoff.com/avatars/country/5.png" class="img-thumbnail" style="margin-top:-8px;" /><b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="http://www.buxoff.com?gl=US">United States<img src="http://buxoff.com/avatars/country/1.png" style="margin-left:45px;" /></a> </li>
+							<li><a href="http://www.buxoff.com?gl=UK">United Kingdom <img src="http://buxoff.com/avatars/country/2.png" style="margin-left:26px;" /></a></li>
+							<li><a href="http://www.buxoff.com?gl=CA">Canada <img src="http://buxoff.com/avatars/country/3.png" style="margin-left:75px;" /></a></li>
+							<li><a href="http://www.buxoff.com?gl=AU">Australia <img src="http://buxoff.com/avatars/country/4.png" style="margin-left:71px;" /></a></li>
+							<li><a href="http://www.buxoff.com?gl=IN">India <img src="http://buxoff.com/avatars/country/5.png" style="margin-left:95px;" /></a></li>
+						</ul>
+					</li>	
+					 -->
 			<ul class="nav navbar-nav"> 
-				<li><a href="http://buxoff.com/stores-display/" style="padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;"><span><i class="fa fa-shopping-cart" style="opacity:1;"></i> Stores</span></a></li>
+				<li><a href="http://www.buxoff.com/products-display/" style="padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;"><span><i class="fa fa-shopping-cart" style="opacity:1;"></i> Shop</span></a></li>
 		</ul>
-		<li id="cat-header"><a href="http://buxoff.com/c/" style="padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;"><span><i class="fa fa-comment" style="opacity:1;"></i> Forums</span></a></li>
 		
 						
 				<li class="dropdown">
 						<a data-toggle="dropdown" class="dropdown-toggle" href="" style="padding:5px;padding-top:22px;height:58px;vertical-align:middle;font-size:16px;font-weight:normal;color:#666;opacity:1;" rel="nofollow"> <i class="fa fa-cog" style="opacity:1;"></i> More <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							
-							<li><a href="http://buxoff.com">Home</a></li>
-								<li><a href="http://buxoff.com/c/submit/">Start a Discussion</a></li>
-															
+							<li><a href="http://www.buxoff.com">Home</a></li>
+								<li><a href="http://www.buxoff.com/products-display/">Buxoff Shop</a></li>
+				<li><a href="http://www.buxoff.com/stores-display/india">Stores</a></li>
+								<li><a href="/submit/">Submit an Offer</a></li>
+							
 								<li><a href="http://buxoff.com/static/about/" rel="nofollow">About Us</a></li>
-				<li><a href="http://buxoff.com/c/">Forums</a></li>
 				<li><a href="http://blog.buxoff.com">Blog</a></li>
 				<li><a href="http://buxoff.com/contact" rel="nofollow">Contact Us</a></li>
 				<li><a href="http://buxoff.com/suggest-store" rel="nofollow">Suggest a Store</a></li>
@@ -175,7 +239,7 @@
 		var some_search='Search..';
 </script>
 <div class="search">
-	<form action="/search.php" method="get" name="thisform-search" class="form-inline search-form" role="form" id="thisform-search" onsubmit="document.location.href=&quot;http://buxoff.com/search/&quot;+this.search.value.replace(/\//g,&quot;|&quot;).replace(/\?/g,&quot;%3F&quot;); return false;">
+	<form action="/search.php" method="get" name="thisform-search" class="form-inline search-form" role="form" id="thisform-search" onsubmit="document.location.href=&quot;http://www.buxoff.com/search/&quot;+this.search.value.replace(/\//g,&quot;|&quot;).replace(/\?/g,&quot;%3F&quot;); return false;">
 		
 			<div class="input-group">
 		
@@ -221,13 +285,23 @@
 	<div class="container">
 		<section id="maincontent">
 			<div class="row">
-											<div class="col-md-9" style="background:#fff;padding:0;border:1px solid #aaa;border-radius:4px;margin-bottom:10px;">
+																<div class="col-md-12" style="padding-left:30px;margin-bottom:10px;">
+						<div style="padding:0px 10px 10px 10px; float:left" id="cat-header">
+							<div style="color:#292f33;font-weight:bold;font-size:20px;">
+															</div>
+						</div>
+					</div>
+					<div class="col-md-12" style="padding-left:30px;margin-bottom:20px;">
+						
+					</div>
+							
+				<div class="col-md-9" style="background:#fff;padding:0;border:1px solid #ddd;border-radius:4px;margin-bottom:10px;">
 								<!-- START BREADCRUMB -->
 						
 
 <!-- breadcrumb.tpl -->
 <ul class="breadcrumb">
-	<li><a href="http://buxoff.com">Home</a></li>
+	<li><a href="http://www.buxoff.com">Home</a></li>
 																															 
 		<li>Privacy Policy</li>		</ul>
 <!--/breadcrumb.tpl -->					<!-- END BREADCRUMB -->
@@ -249,99 +323,51 @@
 
 <!-- page_center.tpl -->
 
-<b>Buxoff.com Privacy Policy</b>
-<br><br>
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
-<br><br>
-What personal information do we collect from the people that visit our blog, website or app?
-<br><br>
-When ordering or registering on our site, as appropriate, you may be asked to enter your Email address or other details to help you with your experience.
-<br><br>
-When do we collect information?
-<br><br>
-We collect information from you when you subscribe to a newsletter or enter information on our site.
- <br><br>
-How do we use your information?
-<br><br>
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;To personalise user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;To improve our website in order to better serve you.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;To allow us to better service you in responding to your customer service requests.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;To administer a contest, promotion, survey or other site feature.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;To send periodic emails regarding your order or other products and services.<br><br>
-<br><br>
-<b>How do we protect visitor information?</b>
-<br><br>
-We do not use vulnerability scanning and/or scanning to PCI standards.
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
-<br><br>
-We implement a variety of security measures enters, submits, or accesses their information
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
-<br><br>
-<b>Do we use 'cookies'?</b>
-<br><br>
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognise your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
- We use cookies to:<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;Understand and save user's preferences for future visits.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.<br><br>
- You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
-<br><br>
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
-<br><br>
-However, you can still place orders .
- <br><br>
-Third Party Disclosure
-<br><br>
-No, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
-<br><br>
-Third party links
-<br><br>
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-<br><br>
-<b>Google</b>
-<br><br>
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en&nbsp;
-We have not enabled Google AdSense on our site but we may do so in the future.
-<br><br>
-<b>California Online Privacy Protection Act</b>
-<br><br>
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
- According to CalOPPA we agree to the following:
-Users can visit our site anonymously<br><br>
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.<br><br>
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
- Users will be notified of any privacy policy changes:<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;On our Privacy Policy Page<br><br>
-Users are able to change their personal information:<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;By emailing us<br><br>
- How does our site handle do not track signals?<br><br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Buxoff.com Privacy Policy</b></h5>
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
- Does our site allow third party behavioral tracking?
-It's also important to note that we allow third party behavioral tracking
-
-COPPA (Children Online Privacy Protection Act)
-
-When it comes to the collection of personal information from children under 13, the Childrenâ€™s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nationâ€™s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect childrenâ€™s privacy and safety online.
-We do not specifically market to children under 13.
-<br><br>
-<b>Fair Information Practices</b>
-<br><br>
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.<br><br>
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-We will notify the users via email<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;Within 7 business days<br><br>
- We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.<br><br>
-<br><br>
-Contacting Us<br><br>
-
-If there are any questions regarding this privacy policy you may contact us using the information below.<br><br>
-buxoff.com<br><br>
-Bangalore<br><br>
-india<br><br>
-Karnataka<br><br>
-contact@buxoff.com<br><br>
- Last Edited on 2014-09-11<br><br><hr><!-- page_center.tpl -->					<!-- END CENTER CONTENT -->
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We are Buxoff.com, a service provided by Buxoff from, Bengaluru, Karnataka, India - 560043. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site.
+If you have any comments or suggestions, we would be pleased to receive them at our Karnataka address or by emailing us at <b>support@buxoff.com</b></p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.</p>
+<br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Data that we collect</b></h5>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We may collect various information if you seek to place an order for a product to us on the Site.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We collect, store and process your data for processing your purchase on the Site and any possible later claims, and to provide you with our services. We may collect your title, name, gender, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We need this information in order to allow you to go ahead with placing your order for a product. We may use that data to process payment for the product and deliver the product to you. We also use that data to inform you when the product is about to be delivered.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier).</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We may also share your data with our franchisor. You further authorise the franchisor to use this information to sell products to you, directly or indirectly.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We may also use your data in order to manage the Site, collect payment from you, enable you to subsequently use parts of the Site, detect any fraud or Site abuses, send you information relevant to the Site or our products, and in case we have any queries. Payments that you make will be made through a secured third party payment gateway ( such as Citrus ) </p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">You must only submit to us or our agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">Your actual order details may be stored with us and you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We shall not share any of your personal information with third parties without your explicit consent. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and Your Information is one of our most important assets. We store and process Your Information on computers located in the India that are protected by physical as well as technological security devices. We use third parties to verify and certify our privacy principles. If you object to your Information being transferred or used in this way please do not use the site.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">Under no circumstances do we rent, trade or share your personal information that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure.</p>
+<br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Credit Check and Fraud Prevention</b></h5>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We use standard and authorized payment services and our Credit Check and Fraud Prevention policies are aligned to these companies. All disputes would be handled by Karnataka courts</p>
+<br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Other uses of your personal information</b></h5>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, SMS updates, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the “unsubscribe” link in any email that we send to you or follow the unsubscription process as detailed in the SMS. Kindly note that unsubscribing from one medium does not automatically lead to unsubscription from the other.. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in India) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.</p>
+<br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Competitions</b></h5>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.</p>
+<br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Third Parties and Links</b></h5>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.</p>
+<br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Cookies</b></h5>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the some functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">The Site uses technology from Google Analytics through which data is collected and stored for marketing and optimization purposes and data use profiles are prepared under a pseudonym. Cookies may be used for this. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this website and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.</p>
+<br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Security</b></h5>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We have in place appropriate technical and security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction or damage to your information. Currently, we do not store any user date related to credit cards, debit cards, net banking etc. All payments take place on a secure third party payment gateway.</p>
+<br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Consent</b></h5>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">By submitting data to us or our agent or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy.</p>
+<br>
+<h5 style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color:#666;"><b>Copyright</b></h5>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.</p>
+<p style=" font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size:14px; color:#666;">This Privacy Policy can change at any time to include / exclude clauses and Buxoff.com does not bear responsibility for updating Users on the same.</p><!-- page_center.tpl -->					<!-- END CENTER CONTENT -->
 					</div>
 														</div><!--/span-->
 	  
@@ -361,35 +387,61 @@ contact@buxoff.com<br><br>
 
 <!-- about_box.tpl -->
 
+<!--
 <div id="aboutcontent">
-	<p>"Welcome to buxoff.com, the first truly Free Online Platform for offers <a href="http://buxoff.com/static/opo">[OPO]</a> in America."</p>
+	<p>"Welcome to buxoff.com, the first truly Free Online Platform for offers <a href="http://buxoff.com/static/opo">[OPO]</a>."</p>
 </div>
+-->
+
 <!--/about_box.tpl -->
 		<!-- END ABOUT BOX -->
 	<!-- Start Subs BOX -->
+	<!-- do not show subscription until further notice -->
+	
 	<div class="headline" style="margin-bottom:0;">
 	<div class="sectiontitle">Subscribe for Latest offers</div>
 	</div>
-	<form name="form1" method="post" action="http://buxoff.com/subscription/NLprocess.php">
+	<form name="form1" method="post" action="http://www.buxoff.com/subscription/NLprocess.php">
 		<div class="subscription">
 			<input name="user_email" type="text" size="20" class="txtbox">
 			<input type="submit" name="Submit" value="Sign Me Up" class="subscribe-button">
 			<div style="color:#aaa;font-size:10px;margin-left:20px;margin-top:2px;">We repect your privacy</div>
 		</div>
 	</form>
+	
+	<div class="headline" style="margin-bottom:0;">
+	<div class="sectiontitle">Android Mobile App</div>
+	</div>
+		<div class="appsidebar">
+			<div style="color:#0393be;font-size:12px;margin-left:12px;padding-top:20px;color:">The only customisable App for Coupons</div>
+			<img src="http://www.buxoff.com/avatars/img/app.jpg" class="img-thumbnail" style="height:190px;width:400px;margin-top:30px;border:0px;">
+			<a class="buy_button_view buy_button_view_default" style="width:150px;margin-top:20px;margin-left:20px;" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.buxoff.feedex">Download App</a>
+		</div>
+	
+	<!-- 
+	<div class="sidebar-button-menu">
+		<a href="/submit/"><button class="sidebar-button">Submit an Offer</button></a>
+		<a href="http://www.buxoff.com/suggest-store/"><button class="sidebar-button" onclick="window.location=/submit/">Suggest a Store</button></a>
+	</div>
+	-->
+	
+	<!--
 	<div class="headline" style="margin-bottom:0;">
 	<div class="sectiontitle">Quick Links</div>
 	</div>
 	<div class="boxcontent" style="padding:10px;">
+	<a href="http://www.buxoff.com/verified-stores/"><b>Verified Stores</b></a><br>
 	<a href="http://www.buxoff.com/c/submit/">Start a Forum Discussion</a><br>
-	<a href="http://www.buxoff.com/c/categories/">Forum Categories</a><br>
-	<a href="http://www.buxoff.com/stores-display/">Browse Stores</a><br>
+	<a href="http://www.buxoff.com/c/">Forums</a><br>
+	<a href="http://www.buxoff.com/stores-display/india">Browse Stores</a><br>
 	<a href="http://www.buxoff.com/categories">Coupon Categories</a><br>
 	<a href="http://blog.buxoff.com/">Buxoff Blog</a><br>
-	</div>
+		</div>
+	
+	-->
 	
 	<!-- END Subs BOX -->
-	<!--/sidebar.tpl -->								<!-- END FIRST SIDEBAR -->
+		<!--/sidebar.tpl -->								<!-- END FIRST SIDEBAR -->
 								<!-- START SECOND SIDEBAR -->
 									
 
@@ -401,65 +453,65 @@ contact@buxoff.com<br><br>
 	<div class="sectiontitle"><a href="/tagcloud/">Top Trending Tags  </a></div>
 </div>
 <div class="boxcontent tagformat">
-			<span style="font-size: 9.685618729097pt">
-			<a href="/tag/15%25+off/">15% off</a>
+			<span style="font-size: 9.6140567200986pt">
+			<a href="/tag/20%25+off/" rel="nofollow">20% off</a>
 		</span>
-			<span style="font-size: 10.625418060201pt">
-			<a href="/tag/20%25+off/">20% off</a>
+			<span style="font-size: 9.4870530209618pt">
+			<a href="/tag/25%25+off/" rel="nofollow">25% off</a>
 		</span>
-			<span style="font-size: 10.294314381271pt">
-			<a href="/tag/25%25+off/">25% off</a>
+			<span style="font-size: 9.4340320591862pt">
+			<a href="/tag/30%25+off/" rel="nofollow">30% off</a>
 		</span>
-			<span style="font-size: 10.147157190635pt">
-			<a href="/tag/30%25+off/">30% off</a>
+			<span style="font-size: 9.4488286066584pt">
+			<a href="/tag/40%25+off/" rel="nofollow">40% off</a>
 		</span>
-			<span style="font-size: 10.210702341137pt">
-			<a href="/tag/40%25+off/">40% off</a>
-		</span>
-			<span style="font-size: 11.060200668896pt">
-			<a href="/tag/50%25+off/">50% off</a>
-		</span>
-			<span style="font-size: 9.8260869565217pt">
-			<a href="/tag/60%25+off/">60% off</a>
-		</span>
-			<span style="font-size: 9.6120401337793pt">
-			<a href="/tag/70%25+off/">70% off</a>
-		</span>
-			<span style="font-size: 9.7123745819398pt">
-			<a href="/tag/beauty+deals/">beauty deals</a>
-		</span>
-			<span style="font-size: 9.6688963210702pt">
-			<a href="/tag/beauty+offers/">beauty offers</a>
+			<span style="font-size: 9.7829839704069pt">
+			<a href="/tag/50%25+off/" rel="nofollow">50% off</a>
 		</span>
 			<span style="font-size: 13pt">
-			<a href="/tag/clothing+deals/">clothing deals</a>
+			<a href="/tag/clothing+deals/" rel="nofollow">clothing deals</a>
 		</span>
-			<span style="font-size: 12.612040133779pt">
-			<a href="/tag/clothing+offers/">clothing offers</a>
+			<span style="font-size: 11.176325524044pt">
+			<a href="/tag/clothing+discount+offers/" rel="nofollow">clothing discount offers</a>
 		</span>
-			<span style="font-size: 11.899665551839pt">
-			<a href="/tag/free+shipping/">free shipping</a>
+			<span style="font-size: 12.112207151665pt">
+			<a href="/tag/clothing+offers/" rel="nofollow">clothing offers</a>
 		</span>
-			<span style="font-size: 10.397993311037pt">
-			<a href="/tag/furniture+deals/">furniture deals</a>
+			<span style="font-size: 9.5043156596794pt">
+			<a href="/tag/electronics+deals/" rel="nofollow">electronics deals</a>
 		</span>
-			<span style="font-size: 10.150501672241pt">
-			<a href="/tag/furniture+offers/">furniture offers</a>
+			<span style="font-size: 11.418002466091pt">
+			<a href="/tag/free+shipping/" rel="nofollow">free shipping</a>
 		</span>
-			<span style="font-size: 9.8394648829431pt">
-			<a href="/tag/jewelry+deals/">jewelry deals</a>
+			<span style="font-size: 10.4130702836pt">
+			<a href="/tag/furniture+deals/" rel="nofollow">furniture deals</a>
 		</span>
-			<span style="font-size: 9.7959866220736pt">
-			<a href="/tag/jewelry+offers/">jewelry offers</a>
+			<span style="font-size: 9.6905055487053pt">
+			<a href="/tag/furniture+discount+offers/" rel="nofollow">furniture discount offers</a>
 		</span>
-			<span style="font-size: 9.7591973244147pt">
-			<a href="/tag/shoes+deals/">shoes deals</a>
+			<span style="font-size: 9.9469790382244pt">
+			<a href="/tag/furniture+offers/" rel="nofollow">furniture offers</a>
 		</span>
-			<span style="font-size: 9.6354515050167pt">
-			<a href="/tag/shoes+offers/">shoes offers</a>
+			<span style="font-size: 9.6300863131936pt">
+			<a href="/tag/jewelry+deals/" rel="nofollow">jewelry deals</a>
 		</span>
-			<span style="font-size: 10.528428093645pt">
-			<a href="/tag/site+wide/">site wide</a>
+			<span style="font-size: 9.5314426633785pt">
+			<a href="/tag/jewelry+offers/" rel="nofollow">jewelry offers</a>
+		</span>
+			<span style="font-size: 9.7459926017263pt">
+			<a href="/tag/shoes+deals/" rel="nofollow">shoes deals</a>
+		</span>
+			<span style="font-size: 9.4290998766954pt">
+			<a href="/tag/shoes+discount+offers/" rel="nofollow">shoes discount offers</a>
+		</span>
+			<span style="font-size: 9.5351418002466pt">
+			<a href="/tag/shoes+offers/" rel="nofollow">shoes offers</a>
+		</span>
+			<span style="font-size: 9.5647348951911pt">
+			<a href="/tag/site+wide/" rel="nofollow">site wide</a>
+		</span>
+			<span style="font-size: 9.5228113440197pt">
+			<a href="/tag/sporting+goods+deals/" rel="nofollow">sporting goods deals</a>
 		</span>
 	</div>
 	<!--/sidebar2.tpl -->								<!-- END SECOND SIDEBAR -->
@@ -467,218 +519,9 @@ contact@buxoff.com<br><br>
 						</div><!--/.panel -->
 					</div><!--/span-->
 					<!-- END RIGHT COLUMN -->
-										</div><!--/.row-->
+														</div><!--/.row-->
 		</section><!--/#maincontent-->
-					<div style="margin-top: 10px;background: #fff;margin-left: -15px;padding: 10px;overflow: hidden;margin-right: 0px;border-radius:4px;border:1px solid #aaa;">
-			<ul style="list-style-type:none;padding:0px 10px;text-align:center;">
-			
-
-<!-- categories.tpl --><li style="display:inline;"><a style="padding:5px;color:#666;">Coupon Categories </a></li><br>
-																									<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/school-supplies/" style="padding:0px 5px;">School Supplies </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/automobiles/" style="padding:0px 5px;">Automobiles </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/speakers/" style="padding:0px 5px;">Speakers </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/car-seats/" style="padding:0px 5px;">Car Seats </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/brakes/" style="padding:0px 5px;">Brakes </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/books/" style="padding:0px 5px;">Books </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/clothing/" style="padding:0px 5px;">Clothing </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/shoes/" style="padding:0px 5px;">Shoes </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/boys-clothes/" style="padding:0px 5px;">Boys Clothes </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/mens-clothing/" style="padding:0px 5px;">Men's Clothing </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/womens-clothing/" style="padding:0px 5px;">Women's Clothing </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/jeans/" style="padding:0px 5px;">Jeans </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/girls-clothing/" style="padding:0px 5px;">Girl's Clothing </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/sweaters/" style="padding:0px 5px;">Sweaters </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/swim-wear/" style="padding:0px 5px;">Swim Wear </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/accessories1/" style="padding:0px 5px;">Accessories </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/pants/" style="padding:0px 5px;">Pants </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/electronics/" style="padding:0px 5px;">Electronics </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/laptops/" style="padding:0px 5px;">Laptops </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/tv/" style="padding:0px 5px;">TV </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/dell-category/" style="padding:0px 5px;">Dell </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/accessories/" style="padding:0px 5px;">Accessories </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/eyewear/" style="padding:0px 5px;">Eyewear </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/bags/" style="padding:0px 5px;">Bags </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/luggage/" style="padding:0px 5px;">Luggage </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/purses/" style="padding:0px 5px;">Purses </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/watches/" style="padding:0px 5px;">Watches </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/flowers/" style="padding:0px 5px;">Flowers </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/furniture/" style="padding:0px 5px;">Furniture </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/home-furniture/" style="padding:0px 5px;">Home Furniture </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/food/" style="padding:0px 5px;">Food </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/gifts/" style="padding:0px 5px;">Gifts </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/health/" style="padding:0px 5px;">Health </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/home-garden/" style="padding:0px 5px;">Home and Garden </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/kitchen-dining/" style="padding:0px 5px;">Kitchen And Dining </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/jewelry/" style="padding:0px 5px;">Jewelry </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/musical-instruments/" style="padding:0px 5px;">Musical Instruments </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/office-supplies/" style="padding:0px 5px;">Office Supplies </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/party-supplies/" style="padding:0px 5px;">party Supplies </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/costumes/" style="padding:0px 5px;">Costumes </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/pets/" style="padding:0px 5px;">Pets </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/photography/" style="padding:0px 5px;">Photography </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/services/" style="padding:0px 5px;">Services </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/sporting-goods/" style="padding:0px 5px;">Sporting Goods </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/ski-gears/" style="padding:0px 5px;">Ski Gears </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/toys/" style="padding:0px 5px;">Toys </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/action-figures/" style="padding:0px 5px;">Action Figures </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/travel/" style="padding:0px 5px;">Travel </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/flights/" style="padding:0px 5px;">Flights </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/camping/" style="padding:0px 5px;">Camping </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/hotels/" style="padding:0px 5px;">Hotels </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/car-rentals/" style="padding:0px 5px;">Car Rentals </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/baby-products/" style="padding:0px 5px;">Baby Products </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/pregnancy/" style="padding:0px 5px;">Pregnancy </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/baby-clothing/" style="padding:0px 5px;">Baby Clothing </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/domain-names/" style="padding:0px 5px;">Domain Names </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/beauty/" style="padding:0px 5px;">Beauty </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/fragrances/" style="padding:0px 5px;">Fragrances </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/bath-body/" style="padding:0px 5px;">Bath and Body </a>
-											</li>
-																																	
-															<li style="display:inline-block;">
-						<a class="dropdown-toggle active" href="http://buxoff.com/category/entertainment/" style="padding:0px 5px;">Entertainment </a>
-																																					
-										</li><li style="display:inline-block;">
-						<a href="http://buxoff.com/category/movies/" style="padding:0px 5px;">Movies </a>
-											</li>
-																																					<li style="display:inline-block;">
-						<a href="http://buxoff.com/category/games/" style="padding:0px 5px;">Games </a>
-											</li>
-																										
-					
-					
-<!--/categories.tpl -->
- 
-			</ul>
-			</div>
+				
 			<hr>
 			<footer class="footer">
 				<!-- START FOOTER -->
@@ -687,16 +530,19 @@ contact@buxoff.com<br><br>
 <!-- footer.tpl -->
 <div id="footer">
 		<div style="font-size:12px;padding:10px;margin-left:-15px;background:#fff;margin-bottom:10px;border-radius:4px;border:1px solid #aaa;color:#999;text-align:center;">
-	<a href="http://buxoff.com/stores-display/">Stores</a> | 
-	<a href="http://buxoff.com/categories/">Coupon Categories</a> | 
-	<a href="http://buxoff.com/c/categories/">Forum Categories</a> | 
-	<a href="http://blog.buxoff.com/">Blog</a> | 
-	<a href="" rel="noindex, nofollow">Rss</a> | 
-	<a href="http://buxoff.com/rssfeeds.php">Coupon Feeds</a> |
-	<a href="http://buxoff.com/c//rssfeeds.php">Forum Feeds</a> | 
-	<a href="http://buxoff.com/tagcloud/">Top Tags</a> |
-	<a href="http://buxoff.com/c/store-trends/">Discussion Trends</a> |
-	<a href="http://buxoff.com/static/sitemaps/" rel="noindex, nofollow">SiteMaps</a> | 
+	<a href="http://www.buxoff.com/stores-display/india">Stores</a> | 
+	<a href="http://www.buxoff.com/categories/">Coupon Categories</a> | 
+	<a href="http://www.buxoff.com/c/">Online Shopping Forum</a> |
+	<a href="http://www.buxoff.com/c/categories/">Forum Categories</a> | 
+	<a href="http://blog.buxoff.com/">Blog</a> |  
+	<a href="http://www.buxoff.com/tagcloud/">Top Tags</a> |
+	<a href="http://www.buxoff.com/c/store-trends/">Discussion Trends</a> |
+	<a href="http://www.buxoff.com/static/sitemaps/" rel="noindex, nofollow">SiteMaps</a> |
+	 <a href="http://www.buxoff.com/usa/" rel="noindex, nofollow">USA</a> |
+	 <a href="http://www.buxoff.com/uk/" rel="noindex, nofollow">UK</a> |
+	 <a href="http://www.buxoff.com/canada/" rel="noindex, nofollow">Canada</a> |
+	 <a href="http://www.buxoff.com/australia/" rel="noindex, nofollow">Australia</a> |
+	 <a href="http://www.buxoff.com">India</a> |
 	Follow : 
 	<a href="https://www.facebook.com/buxoff" rel="nofollow"><i class="fa fa-facebook-square"></i></a> | 
 	<a href="https://twitter.com/Buxoffdotcom" rel="nofollow"><i class="fa fa-twitter-square"></i></a> | 
@@ -704,14 +550,14 @@ contact@buxoff.com<br><br>
 	<a href="https://plus.google.com/u/1/b/102878936243522814490/102878936243522814490/posts" rel="nofollow"><i class="fa fa-google-plus-square"></i></a> |
 	</div>
 	<span class="subtext" style="text-align:center;"> 
-		Copyright © 2014 buxoff.com
-	<a href="http://buxoff.com/static/about/">About Buxoff</a> |
-	<a href="http://buxoff.com/c/">Discussions</a> | 
-	<a href="http://buxoff.com/static/help/">Help</a> | 
-	<a href="http://buxoff.com/contact/">Contact Us</a> | 
-	<a href="http://buxoff.com/static/privacy-policy/">Privacy Policy</a> | 
-	<a href="http://buxoff.com/static/terms/">Terms Of Use</a> | 
-	<a href="http://buxoff.com/suggest-store/">Suggest a Store</a> | 
+		Copyright © 2015 buxoff.com
+	<a href="http://www.buxoff.com/static/about/">About Buxoff</a> |
+	<a href="http://www.buxoff.com/c/">Discussions</a> | 
+	<a href="http://www.buxoff.com/static/faq/">FAQ</a> | 
+	<a href="http://www.buxoff.com/contact/">Contact Us</a> | 
+	<a href="http://www.buxoff.com/static/privacy-policy/">Privacy Policy</a> | 
+	<a href="http://www.buxoff.com/static/terms/">Terms Of Use</a> | 
+	<a href="http://www.buxoff.com/suggest-store/">Suggest a Store</a> | 
 	</span>
 	</div>
 <!--/footer.tpl -->				<!-- END FOOTER -->
@@ -740,7 +586,7 @@ function show_hide_user_links(thediv)
 			<!-- START UP/DOWN VOTING JAVASCRIPT -->
 			
 <script>
-var my_base_url='http://buxoff.com';
+var my_base_url='http://www.buxoff.com';
 var my_buxoff_base='';
 var anonymous_vote = false;
 var Voting_Method = '1';
@@ -876,6 +722,9 @@ function unvote (user, id, htmlid, md5, value)
 	<script type="text/javascript" src="/templates/bootstrap/js/registration_verify.js"></script>
 	<script type="text/javascript" src="/templates/bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="/templates/bootstrap/js/bootstrap-fileupload.js"></script>
+	
+	<script type="text/javascript" src="/templates/bootstrap/js/ZeroClipboard.js"></script>
+	
 	<script type="text/javascript" src="/templates/bootstrap/js/jquery/jquery.pnotify.min.js"></script>
 	
 		
@@ -914,7 +763,21 @@ function unvote (user, id, htmlid, md5, value)
 									<input type="hidden" name="return" value="">
 									<input class="btn btn-primary col-md-12" id="signin_submit" value="Sign In" tabindex="4" type="submit">
 								</div>
-																<hr class="soften" id="login_modal_spacer">
+								
+
+
+<style type="text/css">
+.facebook-login{ 
+margin-bottom:5px;
+}
+</style>
+
+
+	<a style="background:#3b5998;margin-top:10px;color:#fff;font-weight:bold;width:100%;" class="btn btn-primary facebook-login" title="Register via Facebook" href="/modules/fb/fb.php?mode=start" onclick="window.open(&quot;/modules/fb/fb.php?mode=start&quot;,&quot;new&quot;,&quot;width=300, height=300, toolbar=no, location=yes, directories=no, menubar=no, fullscreen=no&quot;); return false;" tabindex="2"><img src="/modules/fb/images/fb-logo-white.png" style="margin-top:-2px;"> Facebook Connect</a>
+
+								<div class="login_modal_remember_label"><label for="remember">To Register/Sign Up Please use Facebook Connect</label>&nbsp;&nbsp;<a title="We presently use Facebook Connect to prevent Spam and other Unwanted activities on Buxoff. We respect your privacy and your data security. Please read our Terms of Use for more information."><i class="fa fa-info-circle" style="font-size:14px;"></i></a></div>
+								
+								<hr class="soften" id="login_modal_spacer">
 								<div class="login_modal_forgot">
 									<a class="btn btn-default col-md-12" id="forgot_password_link" href="/login.php?return=%2Fstatic%2Fprivacy-policy%2F" rel="nofollow, noindex">Forgotten Password?</a>
 								</div>
@@ -925,7 +788,8 @@ function unvote (user, id, htmlid, md5, value)
 				</div><!-- /.modal-content -->
 			</div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
-	
+		
+
 		
 		
 		
@@ -936,6 +800,7 @@ function unvote (user, id, htmlid, md5, value)
 		</script>
 	
 
-	
+		
+
 
 </body></html>
