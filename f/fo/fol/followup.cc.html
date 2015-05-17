@@ -1,38 +1,46 @@
-<!--The following is the downloaded HTML source of the followup.cc privacy policy that was archived on 2014-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140916151432id_/https%3A//followup.cc/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the followup.cc privacy policy that was archived on 2015-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150517065621id_/http%3A//followup.cc/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/a2e8d747f1f68939230ffcab0b3353dbec3ca26c.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?onload=onLoadCallback"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"c789d5fe44","applicationID":"2461724","transactionName":"IAwNF0AMVFRcRE1FVwQGEExCEVFOWFUb","queueTime":3,"applicationTime":123,"agentToken":null,"agent":"js-agent.newrelic.com/nr-412.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQMEU1VWGwEEUlBVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&&r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/55efa7a59b0e1c67270a2c010b29231ce28f6c3a.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?onload=onLoadCallback"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PMZ3SR"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"bea9599435","applicationID":"5833215","transactionName":"clldQURfCF9TQRwTWFZTQBpGQg1FV1BK","queueTime":0,"applicationTime":59,"agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="t16cOBygulLCwK3dxzRju8j3hkUSVUNFl_M-QEjH93I">
-	<title>Privacy Policy | FollowUp.cc</title>
+  <title>Privacy Policy | FollowUp.cc</title>
   <meta name="description" content="Get Free Email Reminders today! Easy Email Reminder System. FollowUp creates reminders from your inbox! Schedule emails for event, meetings and birthdays now.">
 
-    <link data-turbolinks-track="true" href="https://d1pkb72vmzqhil.cloudfront.net/assets/home-bd8b4f70cb667dc627a6f884638c034c.css" media="all" rel="stylesheet">
+    <link data-turbolinks-track="true" href="https://d1pkb72vmzqhil.cloudfront.net/assets/home-68d8e9a33fb2b8adf3f66b9143fe662e.css" media="all" rel="stylesheet">
+  
+  <!-- Optimizely -->
+  <script src="//cdn.optimizely.com/js/431350469.js"></script>
 
   
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,400italic,700italic" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" type="text/css" href="//d2dubfq97s02eu.cloudfront.net/appcues.min.css">
+  <link rel="stylesheet" type="text/css" href="//fast.appcues.com/appcues.min.css">
 
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
-    <script data-turbolinks-track="true" src="https://d1pkb72vmzqhil.cloudfront.net/assets/page-2acf5e97f54c7f506546daf604b1f575.js"></script>
+    <script data-turbolinks-track="true" src="https://d1pkb72vmzqhil.cloudfront.net/assets/page-ecb6978e7af2bbffde8fdaa5f8769881.js"></script>
+
+  <!-- Google Analytics -->
+  <script data-turbolinks-track="true" src="https://d1pkb72vmzqhil.cloudfront.net/assets/analytics-1acb174aeca0827e5a30368dd4a50260.js"></script>
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="olxGR4LuBnvUzXNHNvCrNkgC/gY/BNvVVSrbPviS2i0=" name="csrf-token">
+<meta content="nqIsBpoMefjr34hyKmSnXBKtLj/HVw31THPQGZNZYxs=" name="csrf-token">
   <meta name="ROBOTS" content="INDEX, FOLLOW">
-	<!--[if lt IE 9]>
-		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <!--[if lt IE 9]>
+  	<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <script data-turbolinks-track="true" src="https://d1pkb72vmzqhil.cloudfront.net/javascripts/PIE.js"></script>
     <script data-turbolinks-track="true" src="https://d1pkb72vmzqhil.cloudfront.net/assets/respond.min-60342d1604159c385cdc874f797e9f3e.js"></script>
     <link data-turbolinks-track="true" href="https://d1pkb72vmzqhil.cloudfront.net/assets/ie-2ba84de3625b3555dfe9f2ee8b56c544.css" media="all" rel="stylesheet" />
-	<![endif]-->
+  <![endif]-->
+
+  <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/annoaihhfdegphdkkkbahheignkgigpd">
 <script>
 //<![CDATA[
       var _kmq = _kmq || [];
-      var _kmk = _kmk || 'a2e8d747f1f68939230ffcab0b3353dbec3ca26c';
+      var _kmk = _kmk || '55efa7a59b0e1c67270a2c010b29231ce28f6c3a';
       function _kms(u){
         setTimeout(function(){
           var d = document, f = d.getElementsByTagName('script')[0],
@@ -45,9 +53,19 @@
       _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 
 //]]>
-</script></head>
-
+</script><script src="https://s3.amazonaws.com/V3-Assets/prod/client_super_tag/init_super_tag.js"></script></head>
   <body>
+      <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PMZ3SR"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PMZ3SR');</script>
+  <!-- End Google Tag Manager -->
+
+
     <header id="header" class="">
   <div class="container">
     <nav class="navbar navbar-default " role="navigation">
@@ -66,8 +84,8 @@
 
       <div class="collapse navbar-collapse" id="navbar-collapse-1">
 
-          
           <ul class="nav links">
+              <li><a class="btn btn-subtle" href="/pages/tour">Tour</a></li>
             <li><a class="btn btn-primary" href="/users/sign_in">Login</a></li>
           </ul><!-- / nav -->
       </div>
@@ -141,7 +159,7 @@
 
     You can change your FollowUp account settings at any time in the "Settings" section of your account.<br>
     <br>
-    You can terminate your account at any time, by going to the Delete Account page. We typically deactivate accounts within two business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.<br>
+    You can terminate your account at any time, by going to the Billing page. We typically deactivate accounts within two business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.<br>
     <br>
     We hope you will enjoy using FollowUp.
 
@@ -204,12 +222,25 @@
             </li>
         <br>
         <br>
+        </ul>
 
         <h3>Security</h3>
 
         You must promptly notify FollowUp of any breach of security related to the Services, including but not limited to unauthorized use of your password or account.
+        <br>
+        <br>
 
-</ul></div>	</div><!-- / info-area -->
+        <h3>Safe Harbor</h3>
+
+        FollowUp.cc and its controlled U.S. subsidiaries, are participants in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. FollowUp.cc has certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the European Union and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the <a href="http://www.export.gov/safeharbor/" target="_blank">U.S. Department of Commerce's Safe Harbor Web site</a>.
+        <br>
+        <br>
+        In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to: <a href="mailto:support@followup.cc"> support@followup.cc</a>.
+        <br>
+        <br>
+        Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at <a href="http://www.bbb.org/us/safe-harbor-complaints">www.bbb.org/us/safe-harbor-complaints</a> for more information on how to file a complaint.
+
+</div>	</div><!-- / info-area -->
 
 
       <div id="footer">
@@ -242,9 +273,11 @@
             <section>
               <ul>
                 
+                <li><a href="/pages/team">About</a></li>
                 <li><a href="/pages/media">Media &amp; Press</a></li>
                 <li><a href="/pages/contact">Contact</a></li>
                 <li><a href="http://blog.followup.cc">Blog</a></li>
+                <li><a href="http://docs.followup.cc">API</a></li>
               </ul>
             </section>
           </div>
@@ -276,7 +309,7 @@
       <div class="container">
         <div class="row">
           <div class="col-xs-12">
-            ©2014 FollowUp.cc
+            ©2015 FollowUp.cc
           </div>
         </div>
       </div>
@@ -291,39 +324,31 @@
 
     $LAB.script("//platform.linkedin.com/in.js")
   </script>
-  <script src="//cdn.optimizely.com/js/431350469.js"></script>
+
     <script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-47200823-1', 'followup.cc');
-  ga('send', 'pageview');
-</script>
-
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 973564177;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/973564177/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
+    window.liveSettings = {
+      api_key: "7d9990ab307f442b882df0b61b9f4d83",
+      detectlang: true,
+      dynamic: true,
+      autocollect: true
+    };
+  </script>
+  <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
 
 
-
-
+  <!-- Start of ReTargeter Tag -->
+  <script type="text/javascript" src="https://s3.amazonaws.com/V3-Assets/prod/client_super_tag/json3.js"></script>
+  <script type="text/javascript">
+      if( typeof _rt_cgi == "undefined" ){
+      var _rt_cgi = 2439;
+      var _rt_base_url = "https://lt.retargeter.com/";
+      var _rt_js_base_url = "https://s3.amazonaws.com/V3-Assets/prod/client_super_tag/";
+      var _rt_init_src = _rt_js_base_url+"init_super_tag.js";
+      var _rt_refresh_st = false;
+      var _rt_record = function(params){if(typeof document.getElementsByTagName("_rt_data")[0]=="undefined"){setTimeout(function(){_rt_record(params);},25);}};
+      (function() {var scr = document.createElement("script");scr.src = _rt_init_src;document.getElementsByTagName("head")[0].appendChild(scr);})();}
+      </script>
+  <!-- End of ReTargeter Tag -->
     <div class="modal fade" id="upgradeModal" tabindex="-1" role="dialog" aria-labelledby="upgradeMeModal" aria-hidden="true">
   <div class="modal-dialog modal-sm">
     <div class="modal-content">
@@ -386,13 +411,13 @@ var google_remarketing_only = true;
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-body-index">
-        <img alt="Home ouibounce 2" src="https://d1pkb72vmzqhil.cloudfront.net/assets/home-ouibounce-2-d133d9a266fcf754d0041955ad8f3131.png" usemap="#index-modal">
+        <img alt="Home ouibounce" src="https://d1pkb72vmzqhil.cloudfront.net/assets/home-ouibounce-f9e298ca54fb3b9761069823efb2446c.png" usemap="#index-modal">
         <map name="index-modal">
-          <area shape="rect" coords="970,8,890,39" style="outline:none;" target="_self" data-dismiss="modal" href="#">
+          <area shape="rect" coords="770,8,790,39" style="outline:none;" target="_self" data-dismiss="modal" href="#">
         </map>
 
       <div class="form">
-        <form accept-charset="UTF-8" action="/users" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="olxGR4LuBnvUzXNHNvCrNkgC/gY/BNvVVSrbPviS2i0="></div>
+        <form accept-charset="UTF-8" action="/users" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="nqIsBpoMefjr34hyKmSnXBKtLj/HVw31THPQGZNZYxs="></div>
           <fieldset>
             <div class="holder">
               <div>
@@ -411,11 +436,11 @@ var google_remarketing_only = true;
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-body-pricing">
-        <img alt="Pricing modal" src="https://d1pkb72vmzqhil.cloudfront.net/assets/pricing-modal-64f95b59dca2a81679dcaedf15557d65.jpg" usemap="#pricingmodal">
+        <img alt="Pricing modal" src="https://d1pkb72vmzqhil.cloudfront.net/assets/pricing-modal-51bef14e37398d5c039b5e8caf6509d0.png" usemap="#pricingmodal">
         <map name="pricingmodal">
-          <area shape="rect" coords="106,419,474,529" style="outline:none;" target="_self" href="/users/subscribe?plan_code=professional-annual&amp;coupon=w4itlucky">
-          <area shape="rect" coords="505,418,873,528" style="outline:none;" target="_self" data-dismiss="modal" href="#">
-          <area shape="rect" coords="970,8,890,39" style="outline:none;" target="_self" data-dismiss="modal" href="#">
+          <area shape="rect" coords="85,343,387,430" style="outline:none;" target="_self" href="/users/subscribe?plan_code=professional-annual&amp;coupon=w4itlucky2">
+          <area shape="rect" coords="412,343,717,430" style="outline:none;" target="_self" data-dismiss="modal" href="#">
+          <area shape="rect" coords="761,1,799,34" style="outline:none;" target="_self" data-dismiss="modal" href="#">
         </map>
       </div>
     </div>
@@ -431,7 +456,7 @@ var google_remarketing_only = true;
           <area shape="rect" coords="970,8,890,39" style="outline:none;" target="_self" data-dismiss="modal" href="#">
         </map>
       <div class="form">
-        <form accept-charset="UTF-8" action="/users" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="olxGR4LuBnvUzXNHNvCrNkgC/gY/BNvVVSrbPviS2i0="></div>
+        <form accept-charset="UTF-8" action="/users" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="nqIsBpoMefjr34hyKmSnXBKtLj/HVw31THPQGZNZYxs="></div>
           <fieldset>
             <div class="holder">
               <div>
@@ -464,7 +489,7 @@ var google_remarketing_only = true;
         <div class="row" style="padding: 50px 0 40px 0 ;">
           <div class="col-md-8 col-md-offset-2">
             <div class="form">
-                <form accept-charset="UTF-8" action="/pages/contact_team" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="olxGR4LuBnvUzXNHNvCrNkgC/gY/BNvVVSrbPviS2i0="></div>
+                <form accept-charset="UTF-8" action="/pages/contact_team" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="nqIsBpoMefjr34hyKmSnXBKtLj/HVw31THPQGZNZYxs="></div>
                   <fieldset>
                     <table>
                       <tbody><tr>
@@ -474,6 +499,7 @@ var google_remarketing_only = true;
                       <tr>
                         <td style="padding-right:5px;"><input autofocus="autofocus" class="team_input" id="size" name="size" placeholder="#" size="10" type="text" value=""></td>
                         <td style="padding-right:5px;"><input class="team_input" id="email" name="email" placeholder="Email Address" size="40" type="text" value=""></td>
+                        <td style="position: absolute; left: -9999px;"><input class="team_input" id="content" name="content" placeholder="Email Address" size="40" tabindex="-1" type="text" value=""></td>
                         <td><button type="submit" class="btn btn-primary btn-lg team-submit"><span>Get in touch</span></button></td>
                       </tr>
                     </tbody></table>
@@ -499,7 +525,7 @@ var google_remarketing_only = true;
         <h4 class="modal-title" id="cancelMeModal">Cancelling your account</h4>
       </div>
       <div class="modal-body">
-        To securely cancel your account, <a href="http://www.meetme.so/FollowUpcc">please schedule a call with us.</a>
+        Please call us at 855-467-0420 to securely cancel your account. Thank you.
       </div>
 <!--       <div class="modal-footer">
         <a class="btn btn-default btn-sm" data-dismiss="modal" data-style="btn-default" href="#">Maybe later</a>
@@ -519,15 +545,48 @@ var google_remarketing_only = true;
         <h4 class="modal-title" id="upgradePlanMeModal">Change your subscription</h4>
       </div>
       <div class="modal-body">
-        You're switching to the <span class="planNameText"></span> plan.  Confirm below!
+        <form accept-charset="UTF-8" action="/users/update_subscription" class="upgrade-modal-form" method="post" style="display: inline"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="nqIsBpoMefjr34hyKmSnXBKtLj/HVw31THPQGZNZYxs="></div>
+            <div class="alert alert-warning" style="display:none">
+              <button type="button" class="close" data-dismiss="alert" aria-hidden="true">x</button>
+              <div class="flash" id="flash_notice">
+                <!-- validation message goes here -->
+              </div>
+            </div>
 
-        <div class="planDescription"></div>
-      </div>
+            You're switching to the <span class="planNameText"></span> plan.  Confirm below!
 
-      <div class="modal-footer">
-        <a class="btn btn-default btn-sm" data-dismiss="modal" data-style="btn-default" href="#" style="float: left">Maybe later</a>
-        <span>
-          <a class="btn btn-green btn-sm" href="/users/subscribe?plan_code=team">Switch now</a>
+            <div class="planDescription"></div>
+            <div class="emails-over-the-limit" style="display:none">
+              <div class="emails-over-the-limit alert-warning">
+                <p>
+                  <br>
+                  The number of emails you have on your account is more than the number allowed on the plan you're switching too.
+                  <br>
+                  Note that deleting emails below will also delete all related reminders associated with this email address.
+                  <br>
+                  <br>
+                  <strong>Please select <span id="need_to_delete_num"></span> email addresses you'd like to remove below.</strong>
+                </p>
+              </div>
+              <table class="email-table table">
+                <thead>
+                  <tr>
+                    <th>Email</th>
+                    <th class="text-center actions">Delete</th>
+                  </tr>
+                </thead>
+
+                <tbody>
+                </tbody>
+
+              </table>
+            </div>
+          </form></div>
+
+          <div class="modal-footer">
+            <a class="btn btn-default btn-sm" data-dismiss="modal" data-style="btn-default" href="#" style="float: left">Maybe later</a>
+            <span>
+              <a class="btn btn-green btn-sm" href="/users/subscribe?plan_code=team">Switch now</a>
         </span>
       </div>
     </div>
@@ -546,7 +605,7 @@ var google_remarketing_only = true;
         <br>
       </div>
       <div class="modal-footer">
-        <form accept-charset="UTF-8" action="/pages/contact_feature" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="olxGR4LuBnvUzXNHNvCrNkgC/gY/BNvVVSrbPviS2i0="></div>
+        <form accept-charset="UTF-8" action="/pages/contact_feature" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="nqIsBpoMefjr34hyKmSnXBKtLj/HVw31THPQGZNZYxs="></div>
           <input class="planField" id="feature" name="feature" type="hidden">
           <input class="btn btn-green btn-sm" name="commit" type="submit" value="Request access">
 </form>      </div>
@@ -565,7 +624,7 @@ var google_remarketing_only = true;
         <div class="">
           <div class="">
             <div class="form">
-              <form accept-charset="UTF-8" action="/pages/contact_team" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="olxGR4LuBnvUzXNHNvCrNkgC/gY/BNvVVSrbPviS2i0="></div>
+              <form accept-charset="UTF-8" action="/pages/contact_team" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="nqIsBpoMefjr34hyKmSnXBKtLj/HVw31THPQGZNZYxs="></div>
                 <fieldset>
                   <div class="holder">
                     <div class="input">
@@ -587,12 +646,13 @@ var google_remarketing_only = true;
                     <div class="input">
                       <input class="txt" id="size" name="size" placeholder="Approximately how many team members?" type="text">
                     </div>
+                    <div style="position: absolute; left: -9999px;"><input class="team_input" id="content" name="content" placeholder="Email Address" size="40" tabindex="-1" type="text" value="">
                   </div>
                   <br>
                   <div class="btn-holder">
                     <button class="btn btn-green"><span>Send request</span></button>
                   </div>
-                </fieldset>
+                </div></fieldset>
 </form>            </div>
           </div><!-- / contact-block -->
         </div>
@@ -622,7 +682,7 @@ var google_remarketing_only = true;
         </div>
       </div>
       <!-- <div class="modal-footer">
-        <form accept-charset="UTF-8" action="/pages/contact_feature" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="olxGR4LuBnvUzXNHNvCrNkgC/gY/BNvVVSrbPviS2i0=" /></div>
+        <form accept-charset="UTF-8" action="/pages/contact_feature" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="nqIsBpoMefjr34hyKmSnXBKtLj/HVw31THPQGZNZYxs=" /></div>
           <input class="planField" id="feature" name="feature" type="hidden" />
           <input class="btn btn-green btn-sm" name="commit" type="submit" value="Request access" />
 </form>      </div> -->
@@ -631,34 +691,37 @@ var google_remarketing_only = true;
 </div>
 
 
-      <script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<div class="modal fade modal_last_chance" id="last_chance_modal" tabindex="-1" role="dialog" aria-labelledby="ouibounceMeModal" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="text-center">
+          <img alt="Img last chance modal" src="https://d1pkb72vmzqhil.cloudfront.net/assets/img_last_chance_modal-49e9eab9a3c768a9437f1210fca329dd.png" usemap="#pricingmodal">
+          <p class="price_up">
+            Get 2014 pricing while it is still available.
+            Prices are going up in the new year!
+          </p>
+        </div>
+        <form accept-charset="UTF-8" action="/pages/contact_team" class="form-inline text-center" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="nqIsBpoMefjr34hyKmSnXBKtLj/HVw31THPQGZNZYxs="></div>
+          <p class="total">&nbsp;</p>
+          <div class="form-group">
+            <label>Team size</label>
+            <input class="form-control team_size" id="content_size" name="content[size]" type="number">
+          </div>
+          <div class="form-group">
+            <label>Your email address</label>
+            <input class="form-control email_address" id="content_email" name="content[email]" placeholder="example@example.com" type="email">
+          </div>
+          <button type="submit" class="btn-green btn">Get started</button>
 
-  ga('create', 'UA-47200823-1', 'followup.cc');
-  ga('send', 'pageview');
-</script>
-
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 973564177;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/973564177/?value=0&amp;guid=ON&amp;script=0"/>
+</form>
+        <p class="text-center js_close_last_chance_modal">
+          <a>No thanks. I'll wait for prices to go up.</a>
+        </p>
+      </div>
+    </div>
+  </div>
 </div>
-</noscript>
 
 
   <script>
@@ -667,4 +730,4 @@ var google_remarketing_only = true;
 //]]>
 </script>
 
-<script src="https://js-agent.newrelic.com/nr-412.min.js"></script></body></html>
+</body></html>
