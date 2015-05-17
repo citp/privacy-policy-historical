@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldieblox.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013161052id_/http%3A//www.goldieblox.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldieblox.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517052901id_/http%3A//www.goldieblox.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GoldieBlox
 
