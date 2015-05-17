@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201182523id_/http%3A//www.nbnco.com.au/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517034617id_/http%3A//www.nbnco.com.au/utility/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy | NBN Co - National Broadband Network - Australia
+# Privacy policy | nbn - Australia's new broadband network
 
-NBN Co Limited ACN 136 533 741 (NBN Co) is bound by the Australian Privacy Principles of the Privacy Act 1988 and Part 13 of the Telecommunications Act 1997 with respect to NBN Co's handling of personal information and sensitive information. 
-
-This privacy policy applies to all the activities of NBN Co and its wholly owned subsidiaries.  It does not apply to entities and activities outside of NBN Co's control, such as websites operated by others.
+This privacy policy applies to all the activities of NBN Co Limited ACN 136 533 741 (NBN Co) and its wholly owned subsidiaries.  It does not apply to entities and activities outside of NBN Co's control, such as websites operated by others.
 
 ### What is personal information?
 
@@ -18,7 +16,7 @@ Sensitive information is any personal information about your racial or ethnic or
 
 ### What personal information does NBN Co collect and why?
 
-NBN Co may collect personal information about you for the following purposes:
+NBN Co may collect hold, use and disclose personal information about you for the following purposes:
 
   * for your current or future connection to the National Broadband Network (including for purposes arising from quality assurance), and for ongoing management and support for your connection;
   * to deal with specific inquiries or issues that you have raised with NBN Co;
@@ -35,7 +33,7 @@ Depending on the circumstances, the kind of personal information NBN Co collects
 
 If you do not provide the information NBN Co requests, NBN Co may not be able to provide services effectively or at all. 
 
-### How NBN Co collects your personal information
+### How NBN Co collects and holds your personal information
 
 NBN Co may collect your personal information in a number of ways, including:
 
@@ -47,6 +45,8 @@ NBN Co may collect your personal information in a number of ways, including:
 
 
 NBN Co may also collect personal information (including sensitive information) from or about you when legally required or authorised to do so.
+
+NBN Co holds personal information from or about you electronically and in paper form.
 
 ### How NBN Co uses your personal information
 
@@ -92,21 +92,16 @@ When making such disclosures NBN Co will take reasonable steps to ensure that th
 
 ### Is personal information disclosed to recipients outside of Australia?
 
-NBN Co will only disclose your personal information outside Australia if:
+NBN Co is likely to disclose personal information to overseas recipients, including service providers in the United States of America, the United Kingdom, New Zealand, India, Singapore and Thailand.
 
-  * NBN Co has received agreement from the recipient that the recipient takes appropriate steps to comply with the Australian Privacy Principles; or 
-  * the recipient is subject to laws or binding schemes that are substantially similar to the Australian Privacy Principles including mechanisms that can be accessed by an individual to enforce protection of the law or binding scheme; or
-  * you have consented to the disclosure in accordance with the Australian Privacy Principles. 
+Where NBN Co does disclose personal information to an overseas recipient, it will take steps to ensure that the recipient complies with the applicable Australian Privacy Principles.  
 
-
-
-NBN Co has contracted service providers in countries including the United States of America, the United Kingdom, New Zealand and India, to whom NBN Co discloses personal information.
 
 ### Access and correction
 
-You may request access to any of the personal information NBN Co holds about you by making an application under the Freedom of Information Act (FOI Act).  For more information about this, please visit the [FOI Act page](https://web.archive.org/corporate-information/about-nbn-co/freedom-of-information.html) on NBN Co's website or contact NBN Co by one of the means set out under How to Contact NBN Co.
+You may access personal information about you and seek to correct or update that information by contacting us via the contact details [below](https://web.archive.org/utility/privacy-policy.html/#contactus). Please identify, as clearly as possible, the type/s of information you’d like to access, correct or update as this will help us deal with your request within a reasonable time.  
 
-NBN Co will take all reasonable steps to ensure that the personal information collected, used or disclosed by NBN Co is accurate, complete and up to date. To ensure your personal information is accurate, please use the methods set out under How to Contact NBN Co to notify NBN Co of any errors or changes to your personal information and NBN Co will take appropriate steps to update or correct such information in NBN Co's possession.
+You may also request access to any of the personal information NBN Co holds about you in documents we hold by making an application under the Freedom of Information Act (FOI Act).  For more information about this, please visit the [FOI Act page](https://web.archive.org/corporate-information/about-nbn-co/freedom-of-information.html) on NBN Co's website or contact NBN Co by one of the means set out under How to Contact NBN Co.
 
 ### Complaints
 
@@ -116,15 +111,15 @@ If you feel that NBN Co is not handling your complaint satisfactorily, you can t
 
 ### Security
 
-NBN Co will take all reasonable precautions to safeguard your information from misuse and loss and from unauthorised access, modification or disclosure. You should keep in mind that no internet, transmission or technology is ever completely secure or error-free. In particular, e-mails sent to or from this website may not be secure.
+NBN Co will take reasonable precautions to safeguard your information from misuse and loss and from unauthorised access, modification or disclosure. You should keep in mind that no internet, transmission or technology is ever completely secure or error-free. In particular, e-mails sent to or from this website may not be secure.
 
 ### How to Contact NBN Co
 
-If you have any questions or concerns about this Privacy Policy please contact the NBN Co Privacy Officer at privacyofficer@nbnco.com.au  or by mail to Privacy Officer, Level 11, Arthur Street, North Sydney, NSW 2060.
+If you have any questions or concerns about this Privacy Policy please contact the NBN Co Privacy Officer at [privacyofficer@nbnco.com.au](mailto:privacyofficer@nbnco.com.au)  or by mail to Privacy Officer, Level 11, Arthur Street, North Sydney, NSW 2060.
 
 Alternatively there are several other ways you can contact NBN Co:
 
-  * By using the online form on the website
+  * By using the [online form](https://web.archive.org/corporate-information/contact-us-form.html) on the website
   * By emailing NBN Co at [info@nbnco.com.au](mailto:info@nbnco.com.au)
   * By calling NBN Co on 1800 OUR NBN (1800 687 626)
 
@@ -134,4 +129,4 @@ Alternatively there are several other ways you can contact NBN Co:
 
 NBN Co's Privacy Policy may change from time to time. Before providing NBN Co with personal information, please check this Privacy Policy on the website.
 
-This Privacy Policy was last updated 23 October 2014.
+This Privacy Policy was last updated 16 February 2015.
