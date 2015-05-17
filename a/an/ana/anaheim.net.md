@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anaheim.net privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206231602id_/http%3A//www.anaheim.net/article.asp%3Fid%3D498) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anaheim.net privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517064726id_/http%3A//www.anaheim.net/article.asp%3Fid%3D498) for the most accurate reproduction.*
 
 # City of Anaheim - Anaheim.Net Privacy and Disclosure Policy
 
