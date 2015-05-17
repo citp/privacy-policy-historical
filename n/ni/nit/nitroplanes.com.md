@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nitroplanes.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111205525id_/http%3A//www.nitroplanes.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitroplanes.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517032611id_/http%3A//www.nitroplanes.com/privacypolicy.html) for the most accurate reproduction.*
 
-# NitroPlanes.com - Shop for the Best R/C Planes RC Airplane Electric Brushless Nitro Gas Jet Aircraft
+# NitroPlanes.com - Shop for the Best R/C Planes RC Airplane Electric Brushless Nitro Gas Jet Aircraft RC Quadcopters RC Drones DJI Phantom UAV
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
@@ -66,7 +66,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.nitroplanes.com/teandco.html](https://web.archive.org/web/20141111205525id_/http%3A//www.nitroplanes.com/terms_and_conditions.htm)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.nitroplanes.com/teandco.html](https://web.archive.org/web/20150517032611id_/http%3A//www.nitroplanes.com/terms_and_conditions.htm)
 
 **Your Consent**
 
