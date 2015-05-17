@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mizunousa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235449id_/http%3A//www.mizunousa.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mizunousa.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517030531id_/http%3A//www.mizunousa.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mizuno USA
 
