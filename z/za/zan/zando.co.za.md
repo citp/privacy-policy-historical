@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zando.co.za privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730184046id_/http%3A//www.zando.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zando.co.za privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517235525id_/http%3A//www.zando.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,8 @@ When you visit Zando, our company servers will automatically record information 
 
 
 
-This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information. 
+This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information.   
+Take note that our website makes use of “cookies” to automatically collect non-personal browsing habits and click patterns and to provide you with certain features on the website. If you do not wish for your information to be collected through the use of cookies, there is a simple procedure in most browsers which allows you to disable the cookie feature. If you do not disable the “cookie” feature, you consent to our use of the information collected by using that cookie. 
 
 ## Changes to the Privacy Policy
 
