@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the northerntool.com privacy policy that was archived on 2014-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141011192825id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the northerntool.com privacy policy that was archived on 2015-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150517021559id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" style="" class="js no-touch dj_webkit dj_chrome dj_contentbox dj_webkit dj_chrome dj_contentbox"><head>
+<!DOCTYPE html><html lang="en-US" class="dj_webkit dj_chrome dj_contentbox dj_webkit dj_chrome dj_contentbox"><head>
 
 
    <meta http-equiv="X-UA-Compatible" content="IE=10,chrome=1">
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
    <meta name="viewport" content="width=1024">
+	<meta name="format-detection" content="telephone=no">
 
    <meta http-equiv="Pragma" content="no-cache">
    <meta http-equiv="Cache-Control" content="private, max-age=0, s-maxage=0, no-cache, no-store">
@@ -16,8 +17,7 @@
   
 
 <link rel="stylesheet" href="/wcsstore/dojo15/dijit/themes/claro/claro.css" type="text/css" media="all">
-<link rel="stylesheet" href="/css/global.css?v=23911" type="text/css" media="all">
-<link rel="stylesheet" href="/css/jquery.loadmask.css?v=23911" type="text/css" media="all">
+<link rel="stylesheet" href="/css/global.css?v=25022" type="text/css" media="all">
 
 <!-- Tablet Icons -->
 <link href="/images/apple-touch-icon-precomposed.png" rel="apple-touch-icon">
@@ -84,9 +84,9 @@ var GlobalJS = {
 </script>
 
 
-<script type="text/javascript" src="/javascript/global.js?v=23911"></script>
-<script type="text/javascript" src="/javascript/productMedia/BrightcoveExperiences_all.js?v=23911"></script>
-<script type="text/javascript" src="/javascript/CheckoutArea/ShippingCalculator.js?v=23911'"></script>
+<script type="text/javascript" src="/javascript/global.js?v=25022"></script>
+<script type="text/javascript" src="/javascript/productMedia/BrightcoveExperiences_all.js?v=25022"></script>
+<script type="text/javascript" src="/javascript/CheckoutArea/ShippingCalculator.js?v=25022'"></script>
 
 <!-- BEGIN /Tealium/Head.jsp x.x.x -->
 <script type="text/javascript">
@@ -127,29 +127,32 @@ site_store : "web"
 
 <script type="text/javascript">
 $(document).ready( function($) {
-   var SesCookies = getSesCookies();
-   if (typeof (SesCookies) == 'undefined' || SesCookies == '') {
-      $.ajax({
-         type : 'GET',
-         url : '/shop/tools/GetSesCookies'
+   var ajaxUrl = hideUrlFromBots('/GetSesCookies'
             + '?storeId=' + '6970'
             + '&catalogId=' + '11652'
             + '&langId=' + '-1'
             + '&noCacheDateMS=' + (new Date()).getTime()
-            + '&noCacheRand=' + Math.floor((Math.random()*100)+1),
-         dataType : 'json',
-         cache    : false,
-         success  : function(result) {
-            SesCookies = result.SesCookies;
-            setSesCookies(SesCookies);
-            $(document).trigger('SesCookiesChanged', ['SesCookiesCreated', SesCookies]);
-         },
-         error : function (xhr, ajaxOptions, thrownError) {
-            if(window.console && console.error){
-               console.error('GetSesCookies error status: "' + xhr.status + '" message: "' + thrownError + '"');
+            + '&noCacheRand=' + Math.floor((Math.random()*100)+1));
+   if (typeof (ajaxUrl) != 'undefined' && ajaxUrl != null && ajaxUrl != "") {
+      var SesCookies = getSesCookies();
+      if (typeof (SesCookies) == 'undefined' || SesCookies == '') {
+         $.ajax({
+            type : 'GET',
+            url : ajaxUrl,
+            dataType : 'json',
+            cache    : false,
+            success  : function(result) {
+               SesCookies = result.SesCookies;
+               setSesCookies(SesCookies);
+               $(document).trigger('SesCookiesChanged', ['SesCookiesCreated', SesCookies]);
+            },
+            error : function (xhr, ajaxOptions, thrownError) {
+               if(window.console && console.error){
+                  console.error('GetSesCookies error status: "' + xhr.status + '" message: "' + thrownError + '"');
+               }
             }
-         }
-      });
+         });
+      }
    }
 });
 </script>
@@ -163,7 +166,7 @@ $(document).ready( function($) {
       <script>dojoConfig = {parseOnLoad: true}</script>
       
 
-<script type="text/javascript" src="/javascript/StoreCommonUtilities.js?v=23911"></script>
+<script type="text/javascript" src="/javascript/StoreCommonUtilities.js?v=25022"></script>
 
 <div id="progress_bar_dialog" dojotype="dijit.Dialog" style="display:none;">
 	<div id="progress_bar">
@@ -187,75 +190,537 @@ $(document).ready( function($) {
 
 <div id="page">
    
-   <div id="header-wrapper">
+   <div id="header-wrapper" class="clearfix">
       
 
 <div id="header">
+<ul id="secondary-nav">
+		<li id="store-nav-link"><a href="http://www.northerntool.com/stores/" class="has-drop-down">Find a Store</a>
+		<div class="clear"></div>
+		<div class="drop-down">
+				<div id="frm-header-container">
+            <form id="frm-header" name="frm-header">
+            <label for="fldAddress-header">ZIP Code</label>
+						<div style="border:1px solid #cfcac0;">
+							<input type="text" maxlength="5" size="12" autocomplete="off" id="fldAddress-header">
+							<input id="searchBtn-header" value="Search" type="image" src="/images/header/search-icon-gold.gif">
+						</div>
+            </form>
+					<a href="http://www.northerntool.com/stores/">Over 85 Stores - Find By State</a>
+					
+				</div>
+				<div class="float-left">
+					<a href="http://www.northerntool.com/stores/">
+						<img src="/images/header/us-map.gif" width="169" height="142" alt="">
+					</a>
+				</div>
+				<div class="clear"></div>
+		</div>
+	</li>
+		<li id="catalog-nav-link"><a href="http://www.northerntool.com/shop/tools/catalog_free-catalog" class="has-drop-down">Catalog</a>
+		<div class="clear"></div>
+		<div class="drop-down">
+			<ul>
+            
+               <li><a href="http://www.northerntool.com/shop/tools/catalog_free-catalog">Request a Free Catalog</a></li>
+               
+               <li><a href="http://www.northerntool.com/shop/tools/NTEQuickOrderFormView?first=true&amp;catalogId=11652&amp;langId=-1&amp;storeId=6970">Order From a Catalog</a></li>
+               
+			</ul>
+		</div>
+	</li>
+		<li id="hotline-nav-link" class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/hotline-membership_hotline-membership-index" class="has-drop-down">Hotline Membership</a>
+		<div class="clear"></div>
+		<div class="drop-down">
+			<ul>
+            
+               <li><a href="http://www.northerntool.com/shop/tools/hotline-membership_hotline-membership-index?hl_ind=t">See Membership Benefits</a></li>
+               
+               <li><a href="http://www.northerntool.com/shop/tools/LogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970&amp;hl_ind=t">Already a Member? Sign In</a></li>
+               
+			</ul>
+		</div>
+	</li>
+</ul>
 
+<div class="float-right">
+<ul id="customer-nav">
+	<li id="my-account-nav-link"><a href="https://www.northerntool.com/shop/tools/LogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970" rel="nofollow" class="has-drop-down"><span id="account_given_name">My</span> Account</a>
+      <script type="text/javascript">
+         if (UserHelper.getGivenName() != '') {
+            $("#account_given_name").html(UserHelper.getGivenName() + "'s");
+         }
+      </script>
+		<div class="clear"></div>
+		<div class="drop-down">
+			<ul>
+	<script type="text/javascript">
+      if(!UserHelper.isUserLoggedIn()){
+									document.write('<li><a href="https://www.northerntool.com/shop/tools/LogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970">Sign In</a></li>'
+											+ '<li><a href="/shop/tools/UserRegistrationForm?new=Y&catalogId=11652&myAcctMain=1&langId=-1&storeId=6970">Create Account</a></li>');
+      } else {
+								if(UserHelper.isHotlineMember()){
+								document.write('<li class="hotline-exclusive-section member-signed-in"><a href="/shop/tools/hotline-membership_hotline-membership-index?hl_ind=t">Hotline Membership Benefits</a></li>'
+								+'<li class="hotline-exclusive-section member-signed-in"><div id="hotline-exclusives-link"><a href="/shop/tools/category_hotline-exclusives">Shop Hotline Exclusives</a></div></li>');
+								}
+					
+								document.write('<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970" rel="nofollow">Account Settings</a></li>'
+									+ '<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;langId=-1&amp;storeId=6970&amp;page=orderstatus" rel="nofollow">Order Status</a></li>'
+						+ '<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;listId=.&amp;langId=-1&amp;storeId=6970&amp;page=customerlinkwishlist" rel="nofollow">Saved Items</a></li>'
+									+ '<li><div id="sign-out-link"><a href="javascript:void(0);" onclick="logOff();" rel="nofollow">Sign Out</a></div></li>');
+      }
+   </script>
+			</ul>
+		</div>
+	</li>
+			<script>
+			if(UserHelper.isHotlineMember()){
+				$('#my-account-nav-link').addClass('hotline-account');
+				$('#hotline-nav-link').hide();
+			}
+			</script>
+   <li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;langId=-1&amp;storeId=6970&amp;page=orderstatus" rel="nofollow">Order Status</a></li>
+   <li id="help-nav-link"><a href="http://www.northerntool.com/shop/tools/help_help-index" rel="nofollow" class="has-drop-down">Help</a>
+      <div class="clear"></div>
+      <div class="drop-down">
+         <ul>
+            
+                  <li><a href="http://www.northerntool.com/shop/tools/contact_contact-index">Contact Us</a></li>
+               
+                  <li><a href="http://www.northerntool.com/shop/tools/help_shipping-delivery">Shipping + Delivery</a></li>
+               
+                  <li><a href="http://www.northerntool.com/shop/tools/help_returns">Return Policy</a></li>
+               
+                  <li><a href="http://www.northerntool.com/shop/tools/products_parts-finder">Replacement Parts</a></li>
+               
+                  <li><a href="http://www.northerntool.com/shop/tools/help_help-index">See All Help Topics</a></li>
+               
+                  <li>
+                     <div class="phone">1-800-222-5381 </div>
+                  </li>
+                  
+                  <li>
+                     <div class="details">7AM - 6PM Central, Mon - Fri<br>7AM - 3PM Central, Sat</div>
+                  </li>
+                  
+         </ul>
+      </div>
+	</li>
+</ul>
+	<div id="lpButtonContainer">
+		<div id="lpbutton-northerntool-sales-DIV">&nbsp;</div>
+	</div>
+	<div id="phone-line">
+		<span class="sales_phn_nbr">1-800-221-0516</span>
+	</div>
+</div>
 
-   
+<div class="clear hr6"></div>
+
 
       <div id="logo"><a id="forFocus" href="http://www.northerntool.com">Northern Tool + Equipment, Generators, pressure washers, air compressors, power tools, trailers, heaters, stoves, food processing, go karts, and more!</a></div>
    
 
-<ul id="customer-nav">
-   <script type="text/javascript">
-      if(!UserHelper.isUserLoggedIn()){
-         document.write('<li id="hotline-link">'
-            +    '<a href="https://www.northerntool.com/shop/tools/LogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970&hl_ind=t">Hotline Sign In</a>'
-            + '</li>'
-            + '<li>'
-            +    '<a href="https://www.northerntool.com/shop/tools/LogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970" rel="nofollow">My Account</a>'
-            + '</li>');
-      } else {
-         document.write('<li id="hotline-link" style="display:none;" class="hotline-exclusive-section member-signed-in">'
-            +    '<a href="/shop/tools/hotline-membership_hotline-membership-index?hl_ind=t">Hotline Member</a>'
-            + '</li>'
-            + '<li>'
-            +    '<a href="#" onclick="logOff();" rel="nofollow">Sign Out</a>'
-            + '</li>'
-            + '<li>'
-            +    '<a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970" rel="nofollow">My Account</a>'
-            + '</li>'
-            + '<li>'
-            +    '<a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;listId=.&amp;langId=-1&amp;storeId=6970&amp;page=customerlinkwishlist" rel="nofollow">Wish List</a>'
-            + '</li>');
-      }
-   </script><li id="hotline-link"><a href="https://www.northerntool.com/shop/tools/LogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970&amp;hl_ind=t">Hotline Sign In</a></li><li><a href="https://www.northerntool.com/shop/tools/LogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970" rel="nofollow">My Account</a></li>
-   <li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;langId=-1&amp;storeId=6970&amp;page=orderstatus" rel="nofollow">Order Status</a></li>
-   <li><a href="http://www.northerntool.com/shop/tools/help_help-index" rel="nofollow">Help</a></li>
-</ul>
-<div class="float-right">
-   <div class="header-communication">
-      <table>
-         <tbody><tr>
-            <td>
-               <div id="phone-line">
-                  <span class="sales_phn_nbr">1-800-221-0516</span>
-               </div>
-               <div id="lpButtonContainer">
-                  <div id="lpbutton-northerntool-sales-DIV">&nbsp;</div>
-               </div>
-            </td>
-         </tr>
-      </tbody></table>
-   </div>
-
+<ul id="main-nav">
    
+<li id="categories">
+   <a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_top-categories" alt="Shop By Category">Shop By Category</a>
+   <a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_top-categories" alt="Shop By Category">Shop By Category</a>
+   
+   <div class="clear"></div>
+   <div class="drop-down">
+      
+      <span class="subhead">Shop By Category</span>
+      <div class="clear"></div>
+      <ul>
+         
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_abrasive-sand-blasters">Abrasive + Sand Blasters</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_abrasive-sand-blasters">Abrasive + Sand Blasters</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_air-tools-compressors">Air Tools + Compressors</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_air-tools-compressors">Air Tools + Compressors</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_alternative-renewable-energy">Alternative + Renewable Energy</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_alternative-renewable-energy">Alternative + Renewable Energy</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_automotive">Automotive</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_automotive">Automotive</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_clothing-work-wear">Clothing + Work Wear</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_clothing-work-wear">Clothing + Work Wear</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_construction">Construction</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_construction">Construction</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_electrical">Electrical</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_electrical">Electrical</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_engines">Engines</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_engines">Engines</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_fans">Fans</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_fans">Fans</a></li>
+            <!-- new list --></ul><ul>
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_farm-acreage">Farm + Acreage</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_farm-acreage">Farm + Acreage</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_food-processing">Food Processing</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_food-processing">Food Processing</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_fuel-transfer-lubrication">Fuel Transfer + Lubrication</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_fuel-transfer-lubrication">Fuel Transfer + Lubrication</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_generators">Generators</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_generators">Generators</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_hand-tools">Hand Tools</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_hand-tools">Hand Tools</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_heaters-stoves-fireplaces">Heaters, Stoves + Fireplaces</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_heaters-stoves-fireplaces">Heaters, Stoves + Fireplaces</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_hydraulics">Hydraulics</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_hydraulics">Hydraulics</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_lawn-garden">Lawn + Garden</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_lawn-garden">Lawn + Garden</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_lighting">Lighting</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_lighting">Lighting</a></li>
+            <!-- new list --></ul><ul>
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_logging">Logging</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_logging">Logging</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_material-handling">Material Handling</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_material-handling">Material Handling</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_metal-fabrication">Metal Fabrication</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_metal-fabrication">Metal Fabrication</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="/shop/tools/products_parts-finder">Parts</a><a class="non-hotline-exclusive-section" href="/shop/tools/products_parts-finder">Parts</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_power-tools">Power Tools</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_power-tools">Power Tools</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_pressure-washers">Pressure Washers</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_pressure-washers">Pressure Washers</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_safety">Safety</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_safety">Safety</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_seats">Seats</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_seats">Seats</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_security-equipment">Security Equipment</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_security-equipment">Security Equipment</a></li>
+            <!-- new list --></ul><ul>
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_sporting-goods-toys">Sporting Goods + Toys</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_sporting-goods-toys">Sporting Goods + Toys</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_lawn-garden+sprayers">Sprayers</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_lawn-garden+sprayers">Sprayers</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_storage-organizers">Storage + Organizers</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_storage-organizers">Storage + Organizers</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_tarps-canopies-shelters">Tarps, Canopies + Shelters</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_tarps-canopies-shelters">Tarps, Canopies + Shelters</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_tires-wheels">Tires + Wheels</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_tires-wheels">Tires + Wheels</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_trailers-towing">Trailers + Towing</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_trailers-towing">Trailers + Towing</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_water-pumps">Water Pumps</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_water-pumps">Water Pumps</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_welding">Welding</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_welding">Welding</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_winches">Winches</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_winches">Winches</a></li>
+            <!-- new list -->
+      </ul>
+   </div>
+</li>
+
+<li id="brands">
+   <a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/shop_brands" alt="Shop by Brand">Most Popular Brands</a>
+   <a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/shop_brands" alt="Shop by Brand">Most Popular Brands</a>
+   
+   <div class="clear"></div>
+   <div class="drop-down">
+      
+      <span class="subhead">Most Popular Brands</span>
+      <div class="clear"></div>
+      <ul>
+         
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_bendpak">BendPak</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_bendpak">BendPak</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_briggs-stratton">Briggs &amp; Stratton</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_briggs-stratton">Briggs &amp; Stratton</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_buyers-products">Buyers Products</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_buyers-products">Buyers Products</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_carhartt">Carhartt</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_carhartt">Carhartt</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_dewalt">DEWALT</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_dewalt">DEWALT</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_fill-rite">Fill-Rite</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_fill-rite">Fill-Rite</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_generac">Generac</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_generac">Generac</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_gravel-gear">Gravel Gear</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_gravel-gear">Gravel Gear</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_hobart">Hobart</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_hobart">Hobart</a></li>
+            <!-- new list --></ul><ul>
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_honda-engines">Honda Engines</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_honda-engines">Honda Engines</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_honda-power-equipment">Honda Power Equipment</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_honda-power-equipment">Honda Power Equipment</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_husqvarna">Husqvarna</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_husqvarna">Husqvarna</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_ingersoll-rand">Ingersoll Rand</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_ingersoll-rand">Ingersoll Rand</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_ironton">Ironton</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_ironton">Ironton</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_jet">JET</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_jet">JET</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_klutch">Klutch</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_klutch">Klutch</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_lincoln-electric">Lincoln Electric</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_lincoln-electric">Lincoln Electric</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_metaltech">Metaltech</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_metaltech">Metaltech</a></li>
+            <!-- new list --></ul><ul>
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_milwaukee">Milwaukee</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_milwaukee">Milwaukee</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_mr.-heater">Mr. Heater</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_mr.-heater">Mr. Heater</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_northern-industrial-tools">Northern Industrial Tools</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_northern-industrial-tools">Northern Industrial Tools</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_northstar">NorthStar</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_northstar">NorthStar</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_nortrac">NorTrac</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_nortrac">NorTrac</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_npower">NPower</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_npower">NPower</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_powerhorse">Powerhorse</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_powerhorse">Powerhorse</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_procom">ProCom</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_procom">ProCom</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_quincy-compressor">Quincy Compressor</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_quincy-compressor">Quincy Compressor</a></li>
+            <!-- new list --></ul><ul>
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_rds">RDS</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_rds">RDS</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_roughneck">Roughneck</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_roughneck">Roughneck</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_shelterlogic">ShelterLogic</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_shelterlogic">ShelterLogic</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_strongway">Strongway</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_strongway">Strongway</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_swisher">Swisher</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_swisher">Swisher</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_ultra-tow">Ultra-Tow</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_ultra-tow">Ultra-Tow</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_vestil">Vestil</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_vestil">Vestil</a></li>
+            
+               <li><a class="hotline-exclusive-section" style="display:none;" href="http://www.northerntool.com/shop/tools/category_warn">WARN</a><a class="non-hotline-exclusive-section" href="http://www.northerntool.com/shop/tools/category_warn">WARN</a></li>
+            
+            <li><a class="shop-link" href="http://www.northerntool.com/shop/tools/shop_brands">See All Brands</a></li>
+         
+      </ul>
+   </div>
+</li>
+
+				
+	<li id="deals" class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/category_all-deals" alt="Shop Deals">Shop Deals</a>
+      
+      <div class="clear"></div>
+				
+      <div class="drop-down">
+         
+         <div class="clear"></div>
+         
+            <div class="clear"></div>
+				
+						<ul>
+							
+							<li class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/category_all-deals">All Deals</a></li>
+							
+							<li class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/category_on-sale">On Sale</a></li>
+							
+							<li><a href="http://www.northerntool.com/shop/tools/category_clearance">Clearance - Save 20% or More!</a></li>
+							
+							<li class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/category_free-shipping">Everyday Free Shipping</a></li>
+							
+							<li><a href="http://www.northerntool.com/shop/tools/category_rebates-special-offers">Rebates + Special Offers</a></li>
+							
+							<li><a href="http://www.northerntool.com/shop/tools/category_reconditioned">Reconditioned</a></li>
+							
+							<li><a href="http://www.northerntool.com/shop/tools/email-deals_sign-up">Email Exclusive Deals</a></li>
+							
+							<li class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/hotline-membership_hotline-membership-index">Save With Hotline Membership</a></li>
+							
+					</ul>
+				
+			</div>
+		</li>
+   
+            
+   <li id="deals-hotline" class="hotline-exclusive-section" style="display:none;"><a href="http://www.northerntool.com/shop/tools/category_all-hotline-deals" alt="Shop Deals">Shop Deals</a>
+      
+      <div class="clear"></div>
+      
+      <div class="drop-down">
+         
+         <div class="clear"></div>
+         
+            <div class="clear"></div>
+            
+                  <ul>
+                     
+                     <li class="hotline-exclusive-section" style="display:none;"><a href="http://www.northerntool.com/shop/tools/category_all-hotline-deals">All Deals</a></li>
+                     
+                     <li><a href="http://www.northerntool.com/shop/tools/category_hotline-exclusives">Hotline Exclusives</a></li>
+                     
+                     <li><a href="http://www.northerntool.com/shop/tools/category_hotline-on-sale">On Sale</a></li>
+                     
+                     <li><a href="http://www.northerntool.com/shop/tools/category_clearance">Clearance - Save 20% or More!</a></li>
+                     
+                     <li><a href="http://www.northerntool.com/shop/tools/category_hotline-free-shipping">Everyday Free Shipping</a></li>
+                     
+                     <li><a href="http://www.northerntool.com/shop/tools/category_rebates-special-offers">Rebates + Special Offers</a></li>
+                     
+                     <li><a href="http://www.northerntool.com/shop/tools/category_reconditioned">Reconditioned</a></li>
+                     
+                     <li><a href="http://www.northerntool.com/shop/tools/email-deals_sign-up">Email Exclusive Deals</a></li>
+                     
+               </ul>
+            
+         </div>
+      </li>
+</ul>
+
+
+
+<div id="search">
+   <div id="catalog-search-header">
+      <div class="claro"><input type="text" size="18" name="Ntt" maxlength="100" id="Ntt" value=""><a href="javascript:catalogSearch('13');"><img alt="Search" title="" src="/images/header/search-icon-gold.gif" width="30" height="36" style="vertical-align: bottom"></a></div>
+   </div>
+</div>
+
+<script type="text/javascript">
+function catalogSearch(key) {
+   var searchTermValue = $.trim(document.getElementById("Ntt").value);
+   var encodedSearchTermValue = encodeURIComponent(searchTermValue)
+   var updatedSearchTermValue = encodedSearchTermValue.replace(/%20/g, "+") // needed for endeca search to function properly
+
+   if (searchTermValue == "") {
+      // Trigger Tealium Tags
+      utag.link( {
+         event_flag : 'event3'
+      });
+      
+      alert("Please enter a search term or item # in the search box.");
+   } else {
+      var ipp = 24;
+      
+      if (getCookie("ipp") != null) {
+         ipp = getCookie("ipp");
+      }
+      
+      var defaultSort = '';
+      if (UserHelper.isHotlineMember()){      
+         defaultSort = '';
+      }
+      
+      if (key == '13') {
+         document.location.href = 'http://www.northerntool.com/shop/tools/NTESearch?storeId=6970' + defaultSort +'&ipp=' + ipp + '&Ntt=' + updatedSearchTermValue;
+      } else {
+         document.location.href = 'http://www.northerntool.com/shop/tools/CatalogSearchRedirectView?storeId=6970' + defaultSort +'&ipp=' + ipp + '&Ntt=' + updatedSearchTermValue;
+      }
+   }
+}
+
+/*
+   Adding for Typeahead functinality
+*/
+
+dojo.require("dijit.form.ComboBox");
+dojo.require("dojox.data.QueryReadStore");
+
+var zeroMatchPrefix = '';
+
+function searchBoxInit() {
+   var queryReadStore = new dojox.data.QueryReadStore( {
+      url : 'http://www.northerntool.com/shop/tools/GetTypeView?storeId=6970'
+   });
+   
+   // create ComboBox widget, populating its options from the store
+   var searchBox = new dijit.form.ComboBox( {
+            id : "Ntt",
+            name : "Ntt",
+            placeHolder : "Search",
+            store : queryReadStore,
+            autoComplete : false,
+            hasDownArrow : false,
+            searchAttr : "name",
+            searchDelay : 500,
+            minKeyCount : 2,
+            highlightMatch : "all",
+            // override search method, count the input length
+            _startSearch : function(/* String */key) {
+               // If this query ends with a space the resuts will be the same
+               // as without the space.  Leave the drop down open.
+               if (key.slice(-1) == ' ') {
+                  return;
+               }
+               
+               // Count the number of alphanumeric characters.
+               var length = 0;
+               for ( var i = 0; i < key.length; i++) {
+                  if (key[i].match(/^[0-9a-zA-Z]+$/)) {
+                     length++;
+                  }
+               }
+               
+               // Wait until at least the minimum number of characters is
+               // entered before submitting the query.
+               if (!key || length < this.minKeyCount) {
+                  this._hideResultList();
+                  return;
+               }
+               
+               // If this query starts with the current zero match prefix, there
+               // is nothing to do.  Any query that started with the zero match
+               // prefix will return zero results.
+               if (zeroMatchPrefix != '' && key.indexOf(zeroMatchPrefix) == 0) {
+                  console.debug("'" + key + "' starts with '" + zeroMatchPrefix + "' which will not return any results.");
+                  this._hideResultList();
+                  return;
+               }
+               
+               this.inherited('_startSearch', arguments);
+            },
+            _openResultList : function(results, query, options) {
+               // If this query returned no results then any subsequent query
+               // starting with these characters will also return no results.
+               if (typeof (results) != 'undefined' && results != null && results.length == 0) {
+                  // If this query already starts with the previous zero
+                  // match prefix, there is nothing to do.
+                  if (zeroMatchPrefix == '' || query.query.name.indexOf(zeroMatchPrefix) < 0) {
+                     zeroMatchPrefix = query.query.name;
+                     
+                     // Remove the wild card from the end of the query.
+                     if (zeroMatchPrefix.slice(-1) == '*') {
+                        zeroMatchPrefix = zeroMatchPrefix.slice(0, -1);
+                     }
+                  }
+               }
+               
+               this.inherited('_openResultList', arguments);
+            },
+            _selectOption : function(/* Event */evt) {
+               this.inherited('_selectOption', arguments);
+               catalogSearch(null);
+            },
+            doHighlight : function(label, find) {
+               // Add greedy when this.highlightMatch == "all"
+               var modifiers = "i" + (this.highlightMatch == "all" ? "g" : "");
+               
+               var ret = label.replace(new RegExp("(" + find + ")", modifiers), '<span style="font-weight: bold">$1</span>');
+               
+               return ret;
+            }
+   }, "Ntt");
+   
+   searchBox.startup();
+}
+</script>
+
+
       <div id="cart">
+         <a id="checkout" href="http://www.northerntool.com/shop/tools/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=11652&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=6970&amp;URL=AjaxOrderItemDisplayView" rel="nofollow">Checkout</a>
          
                <span id="outerCartContainer">
                   <div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all">
                      <!-- BEGIN AkamaiMiniShopCartDisplay.jsp -->
 
 <a href="http://www.northerntool.com/shop/tools/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=11652&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=6970&amp;URL=AjaxOrderItemDisplayView" tabindex="0" id="shoppingCartBar" waistate:controls="ShopCartDisplay">
-	<div id="minicartcontent"><span id="miniShopCartBody">0</span>
+	<div id="minicartcontent"><span id="miniShopCartBody">
+		
+	</span>
 	</div>
 </a>
 
 
 
-<script language="javascript" src="/javascript/MiniCartCookie.js?v=23911"></script>
+<script language="javascript" src="/javascript/MiniCartCookie.js?v=25022"></script>
 <script language="javascript"> 
 	var msgNumItemsInCart = "{0}";
 	//var miniCartCookieFound = true;
@@ -283,379 +748,10 @@ $(document).ready( function($) {
                   });
                </script>
             
-         <a href="http://www.northerntool.com/shop/tools/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=11652&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=6970&amp;URL=AjaxOrderItemDisplayView" id="checkout" rel="nofollow">Checkout</a>
       </div>
    
+
 </div>
-<div class="clear"></div>
-
-
-<div id="navigation-bar">
-
-
-<div id="search">
-   <div id="catalog-search-header">
-      <div class="claro"><div class="dijit dijitReset dijitInlineTable dijitLeft dijitTextBox dijitComboBox" id="widget_Ntt" dojoattachpoint="comboNode" wairole="combobox" role="combobox" widgetid="Ntt"><div class="dijitReset dijitRight dijitButtonNode dijitArrowButton dijitDownArrowButton dijitArrowButtonContainer" dojoattachpoint="downArrowNode" wairole="presentation" dojoattachevent="onmousedown:_onArrowMouseDown" role="presentation" style="display: none;"><input class="dijitReset dijitInputField dijitArrowButtonInner" value="▼ " type="text" tabindex="-1" readonly="" wairole="presentation" role="presentation"></div><div class="dijitReset dijitValidationContainer"><input class="dijitReset dijitInputField dijitValidationIcon dijitValidationInner" value="Χ " type="text" tabindex="-1" readonly="" wairole="presentation" role="presentation"></div><div class="dijitReset dijitInputField dijitInputContainer"><input class="dijitReset dijitInputInner" name="Ntt" type="text" autocomplete="off" dojoattachevent="onkeypress:_onKeyPress,compositionend" dojoattachpoint="textbox,focusNode" wairole="textbox" waistate="haspopup-true,autocomplete-list" role="textbox" aria-haspopup="true" aria-autocomplete="list" id="Ntt" tabindex="0" value=""><span class="dijitPlaceHolder dijitInputField" style="display: none;"></span></div></div><a href="javascript:catalogSearch('13');"><img alt="Search" title="" src="/images/buttons/search-btn-big.gif" width="40" height="32" style="vertical-align: bottom"></a></div>
-   </div>
-</div>
-
-<script type="text/javascript">
-function catalogSearch(key) {
-   var searchTermValue = $.trim(document.getElementById("Ntt").value);
-   var updatedSearchTermValue = searchTermValue.replace(/ /gi, "+")
-
-   if (searchTermValue == "") {
-      // Trigger Tealium Tags
-      utag.link( {
-         event_flag : 'event3'
-      });
-      
-      alert("Please enter a search term or item # in the search box.");
-   } else {
-      var ipp = 24;
-      
-      if (getCookie("ipp") != null) {
-         ipp = getCookie("ipp");
-      }
-         
-      if (key == '13') {
-         document.location.href = 'http://www.northerntool.com/shop/tools/NTESearch?storeId=6970' + '&ipp='+ipp+'&Ntt=' + encodeURIComponent(updatedSearchTermValue);
-      } else {
-         document.location.href = 'http://www.northerntool.com/shop/tools/CatalogSearchRedirectView?storeId=6970' + '&ipp=' + ipp + '&Ntt=' + encodeURIComponent(updatedSearchTermValue);
-      }
-   }
-}
-
-/*
-   Adding for Typeahead functinality
-*/
-
-dojo.require("dijit.form.ComboBox");
-dojo.require("dojox.data.QueryReadStore");
-
-function searchBoxInit() {
-   var queryReadStore = new dojox.data.QueryReadStore( {
-      url : 'http://www.northerntool.com/shop/tools/GetTypeView?storeId=6970'
-   });
-   
-   // create ComboBox widget, populating its options from the store
-   var searchBox = new dijit.form.ComboBox( {
-            id : "Ntt",
-            name : "Ntt",
-            placeHolder : "",
-            store : queryReadStore,
-            autoComplete : false,
-            hasDownArrow : false,
-            searchAttr : "name",
-            minKeyCount : 2,
-            highlightMatch : "all",
-            // override search method, count the input length
-            _startSearch : function(/* String */key) {
-               var length = 0;
-               for ( var i = 0; i < key.length; i++) {
-                  if (key[i].match(/^[0-9a-zA-Z]+$/)) {
-                     length++;
-                  }
-                  
-               }
-               if (!key || length < this.minKeyCount) {
-                  this._hideResultList();
-                  return;
-               }
-               
-               this.inherited('_startSearch', arguments)
-            },
-            _selectOption : function(/* Event */evt) {
-               this.inherited('_selectOption', arguments)
-               catalogSearch(null);
-            },
-            doHighlight : function(label, find) {
-               // Add greedy when this.highlightMatch == "all"
-            var modifiers = "i" + (this.highlightMatch == "all" ? "g" : "");
-            
-            var ret = label.replace(new RegExp("(" + find + ")", modifiers), '<span style="font-weight: bold">$1</span>');
-            return ret;
-         }
-   }, "Ntt");
-   
-   searchBox.startup();
-}
-</script>
-
-
-<ul id="main-nav">
-   
-         <li id="categories"><a href="http://www.northerntool.com/shop/tools/category_top-categories" alt="Shop By Category">Shop By Category</a>
-         
-         <div class="clear"></div>
-         <div class="drop-down">
-         
-                  <span class="subhead">Shop By Category</span>
-               
-               <div class="clear"></div>
-               <ul>
-            
-               <li><a href="http://www.northerntool.com/shop/tools/category_abrasive-sand-blasters">Abrasive + Sand Blasters</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_air-tools-compressors">Air Tools + Compressors</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_alternative-renewable-energy">Alternative + Renewable Energy</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_automotive">Automotive</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_clothing-work-wear">Clothing + Work Wear</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_construction">Construction</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_electrical">Electrical</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_engines">Engines</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_fans">Fans</a></li>
-               <!-- new list -->
-         </ul>
-      <ul>
-   
-               <li><a href="http://www.northerntool.com/shop/tools/category_farm-acreage">Farm + Acreage</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_food-processing">Food Processing</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_fuel-transfer-lubrication">Fuel Transfer + Lubrication</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_generators">Generators</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_hand-tools">Hand Tools</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_heaters-stoves-fireplaces">Heaters, Stoves + Fireplaces</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_hydraulics">Hydraulics</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_lawn-garden">Lawn + Garden</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_lighting">Lighting</a></li>
-               <!-- new list -->
-         </ul>
-      <ul>
-   
-               <li><a href="http://www.northerntool.com/shop/tools/category_logging">Logging</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_material-handling">Material Handling</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_metal-fabrication">Metal Fabrication</a></li>
-               
-               <li><a href="/shop/tools/products_parts-finder">Parts</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_power-tools">Power Tools</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_pressure-washers">Pressure Washers</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_safety">Safety</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_seats">Seats</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_security-equipment">Security Equipment</a></li>
-               <!-- new list -->
-         </ul>
-      <ul>
-   
-               <li><a href="http://www.northerntool.com/shop/tools/category_snow-ice-removal">Snow + Ice Removal</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_sporting-goods-toys">Sporting Goods + Toys</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_storage-organizers">Storage + Organizers</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_tarps-canopies-shelters">Tarps, Canopies + Shelters</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_tires-wheels">Tires + Wheels</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_trailers-towing">Trailers + Towing</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_water-pumps">Water Pumps</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_welding">Welding</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_winches">Winches</a></li>
-               <!-- new list -->
-</ul>
-</div>
-</li>
-
-         <li id="brands"><a href="http://www.northerntool.com/shop/tools/shop_brands" alt="Shop by Brand">Most Popular Brands</a>
-         
-         <div class="clear"></div>
-         <div class="drop-down">
-         
-                  <span class="subhead">Most Popular Brands</span>
-               
-               <div class="clear"></div>
-               <ul>
-            
-               <li><a href="http://www.northerntool.com/shop/tools/category_briggs-stratton">Briggs &amp; Stratton</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_carhartt">Carhartt</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_dewalt">DEWALT</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_generac">Generac</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_gravel-gear">Gravel Gear</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_hobart">Hobart</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_honda-engines">Honda Engines</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_honda-power-equipment">Honda Power Equipment</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_husqvarna">Husqvarna</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_ingersoll-rand">Ingersoll Rand</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_ironton">Ironton</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_klutch">Klutch</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_milwaukee">Milwaukee</a></li>
-               <!-- new list -->
-         </ul>
-      <ul>
-   
-               <li><a href="http://www.northerntool.com/shop/tools/category_mr.-heater">Mr. Heater</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_northern-industrial-tools">Northern Industrial Tools</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_northern-industrial-welders">Northern Industrial Welders</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_northstar">NorthStar</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_nortrac">NorTrac</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_npower">NPower</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_powerhorse">Powerhorse</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_roughneck">Roughneck</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_swisher">Swisher</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_torin-big-red">Torin Big Red</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_ultra-tow">Ultra-Tow</a></li>
-               
-               <li><a href="http://www.northerntool.com/shop/tools/category_warn">WARN</a></li>
-               
-      <li><a class="shop-link" href="http://www.northerntool.com/shop/tools/shop_brands">See All Brands</a></li>
-   
-</ul>
-</div>
-</li>
-
-         <li id="sale"><a href="http://www.northerntool.com/shop/tools/category_on-sale" alt="Shop Sales + Specials">SHOP SALES + SPECIALS</a>
-         
-         <div class="clear"></div>
-         <div class="drop-down">
-         
-               <div class="clear"></div>
-            
-      <span class="subhead">Special Savings</span>
-      
-      <div class="clear"></div>
-      <ul>
-         
-            <li class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/category_all-deals">All Deals</a></li>
-            
-            <li class="hotline-exclusive-section" style="display:none;"><a href="http://www.northerntool.com/shop/tools/category_all-hotline-deals">All Deals</a></li>
-            
-            <li class="hotline-exclusive-section" style="display:none;"><a href="http://www.northerntool.com/shop/tools/category_hotline-exclusives">Hotline Exclusives</a></li>
-            
-            <li class="hotline-exclusive-section" style="display:none;"><a href="http://www.northerntool.com/shop/tools/category_hotline-on-sale">On Sale</a></li>
-            
-            <li class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/category_on-sale">On Sale</a></li>
-            
-            <li><a href="http://www.northerntool.com/shop/tools/category_clearance">Clearance - Save 20% or More!</a></li>
-            
-            <li class="hotline-exclusive-section" style="display:none;"><a href="http://www.northerntool.com/shop/tools/category_hotline-free-shipping">Everyday Free Shipping</a></li>
-            
-            <li class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/category_free-shipping">Everyday Free Shipping</a></li>
-            
-            <li><a href="http://www.northerntool.com/shop/tools/category_rebates-special-offers">Rebates + Special Offers</a></li>
-            
-            <li><a href="http://www.northerntool.com/shop/tools/category_reconditioned">Reconditioned</a></li>
-            
-            <li><a href="http://www.northerntool.com/shop/tools/email-deals_sign-up">Our Best Deals by Email</a></li>
-            
-</ul>
-</div>
-</li>
-
-         <li id="catalog" class="non-hotline-exclusive-section"><a href="http://www.northerntool.com/shop/tools/catalog_free-catalog" alt="Catalog">CATALOG</a>
-         
-         <div class="clear"></div>
-         <div class="drop-down">
-         
-                  <span class="subhead">Catalog Resources</span>
-               
-               <div class="clear"></div>
-               <ul>
-            
-      <li><a href="http://www.northerntool.com/shop/tools/catalog_free-catalog">Request a Free Catalog</a></li>
-      
-      <li><a href="http://www.northerntool.com/shop/tools/NTEQuickOrderFormView?first=true&amp;catalogId=11652&amp;langId=-1&amp;storeId=6970">Order From a Catalog</a></li>
-      
-      <li><a href="http://www.northerntool.com/shop/tools/hotline-membership_hotline-membership-index">Save With Hotline Membership</a></li>
-      
-</ul>
-</div>
-</li>
-
-         <li id="hotline" class="hotline-exclusive-section" style="display:none;"><a href="http://www.northerntool.com/shop/tools/category_hotline-exclusives" alt="Hotline">Start Saving with Hotline</a>
-         
-         <div class="clear"></div>
-         <div class="drop-down">
-         
-                  <span class="subhead">Start Saving with Hotline</span>
-               
-               <div class="clear"></div>
-               <ul>
-            
-      <li><a href="http://www.northerntool.com/shop/tools/category_all-hotline-deals">All Deals</a></li>
-      
-      <li><a href="http://www.northerntool.com/shop/tools/category_hotline-exclusives">Hotline Exclusives</a></li>
-      
-      <li><a href="http://www.northerntool.com/shop/tools/hotline-membership_hotline-membership-index?hl_ind=t">Review Your Membership Benefits</a></li>
-      
-</ul>
-</div>
-</li>
-
-         <li id="stores"><a href="http://www.northerntool.com/stores/" alt="Store Locator">Over 85 Store Locations</a>
-         
-         <div class="clear"></div>
-         <div class="drop-down">
-         
-                  <span class="subhead"><a href="http://www.northerntool.com/stores/">Over 85 Store Locations</a></span>
-               
-               <div class="clear"></div>
-               <a href="http://www.northerntool.com/stores/"><img src="/images/header/us-map.gif" width="169" height="142" alt="" class="float-left"></a>
-               <form id="frm-header" name="frm-header">
-               <label for="fldAddress-header">ZIP Code</label>
-               <input type="text" maxlength="5" size="12" class="text-input" autocomplete="off" id="fldAddress-header">
-               <br>
-               <input id="searchBtn-header" value="Search" type="submit" class="button red medium">
-               </form>
-               <ul>
-            
-      <li><a class="shop-link" href="http://www.northerntool.com/stores/">See All Stores</a></li>
-   
-</ul>
-</div>
-</li>
-
-</ul>
-</div>
-</div>
-   
- 
- 
 
 
    </div>
@@ -674,23 +770,21 @@ function searchBoxInit() {
       }
    });
    
-   //$('#search').appendTo('#search-new');
-   //$('#cart').appendTo('#cart-new');
-   //$('#lpButtonContainer').appendTo('#live-chat-new');
-   
    searchBoxInit();
    </script>
-   <div id="content-wrapper">
-      <div id="content">
+   <div id="content-wrapper" class="clearfix">
+      <div id="content" class="clearfix">
       <img id="print-logo" src="/images/logos/northerntool_logo_black.gif">
 
-<!--MAIN CONTENT STARTS HERE--><div class="grid960_5">
-    <div class="col col5">
-        <div class="nt-header">
-			<h1>Privacy Policy</h1><span>Secure shopping.</span>
-        </div>
-    </div>
-    <div class="clear"></div>
+<!--MAIN CONTENT STARTS HERE--><div class="subhead-wrapper">
+	<div class="new-subhead">
+		<div class="nt-header">
+			<h1>Privacy Policy</h1>
+		</div>
+	</div>
+</div>
+
+<div class="grid960_5">
     <div class="col col4">
         <h2>What does Northern Tool + Equipment do with my personal information?</h2>
         <p>Northern Tool + Equipment uses personal information to enhance the overall shopping experience by providing you with better customer care. Positive customer identification allows us to contact the customer and ensure all their needs are met and handled appropriately and accurately. All personal information that we acquire is provided by each individual customer. It is this personal information, given to us by the customer, which allows Northern to provide knowledgeable support by our customer care team. Benefits you may receive by allowing us to keep your personal information on hand include:</p>
@@ -720,7 +814,7 @@ function searchBoxInit() {
         <h2>Will Northern Tool + Equipment sell my email address?</h2>
         <p><span style="font: bold 16px">NO!</span> Northern will not sell, trade, share or rent your email address to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer care support, and to update you on Northern Internet specials that you have requested.</p>
         <p>If you purchase with Northern Tool, we may share your information with third party catalog companies. Your name, address and details about products you have purchased from us could be shared so that you can receive catalog offers for other products that may interest you.  If you would not like us to share your information for this intent, please
-		<a href="/contactus/">email</a> us or call 1-800-222-5381.</p> 
+		<a href="/shop/tools/contact_contact-index">email</a> us or call 1-800-222-5381.</p> 
 <p> You can also write us at:
 <br>Northern Tool + Equipment
 		<br>Customer Care
@@ -779,196 +873,143 @@ function searchBoxInit() {
 <script type="text/javascript">
 if ( typeof (showHideHotlineSection) == 'function' ) { 
    showHideHotlineSection();
+	leftNavUtils();
 }
 </script>
 <div id="footer-wrapper">
    <div id="footer">
-      <div class="grid960_5">
+      <div class="grid960_5 clearfix">
          <div id="email-deals" class="col col1">
             <span class="footer-title">Email Deals</span><br>
             <span class="intro">Sales, Specials + Exclusives</span>
-            <form action="http://ebm.cheetahmail.com/r/regf2" method="post" class="email-deals-signup" name="EmailSubscribe">
-               <input value="NTE_OPTIN_SOURCE" name="nc" type="hidden">
-               <input value="NTE_FOOTER" name="NTE_OPTIN_SOURCE" type="hidden">
-               <input value="2091712578" name="aid" type="hidden">
-               <input value="100" name="n" type="hidden">
-               <input value="2092616279" name="fsub" type="hidden">
-               <input value="217800" name="eid" type="hidden">
-               <input value="http://www.northerntool.com/shop/tools/email-deals_subscription-confirmation" name="re" type="hidden">
-               <input value="NH" name="BUSINESSCONSUMER" type="hidden">
-               <input value="C" name="CUST_BUS_TYPE" type="hidden"> 
+            <form id="EmailSubscribe" name="EmailSubscribe" action="https://ebm.cheetahmail.com/r/regf2" method="post" class="email-deals-signup">
+               <input name="nc" type="hidden" value="NTE_OPTIN_SOURCE">
+               <input name="NTE_OPTIN_SOURCE" type="hidden" value="NTE_FOOTER">
+               <input name="aid" type="hidden" value="2091712578">
+               <input name="n" type="hidden" value="100">
+               <input name="fsub" type="hidden" value="2092616279">
+               <input name="eid" type="hidden" value="217800">
+               <input name="re" type="hidden" value="http://www.northerntool.com/shop/tools/email-deals_subscription-confirmation">
+               <input name="BUSINESSCONSUMER" type="hidden" value="NH">
+               <input name="CUST_BUS_TYPE" type="hidden" value="C"> 
                <label for="email">Email</label>
-               <input name="email" type="text" maxlength="60" class="text-input" value=""><br>
-               <label for="firstname">First Name</label>
-               <input name="FNAME" type="text" maxlength="25" class="text-input" value=""><br>
-               <label for="zipcode">ZIP Code</label>
-               <input name="ZIP" type="text" maxlength="7" class="text-input" value=""><br>
+               <input id="email" name="email" type="text" maxlength="60" class="text-input" value=""><br>
+               <label for="FNAME">First Name</label>
+               <input id="FNAME" name="FNAME" type="text" maxlength="25" class="text-input" value=""><br>
+               <label for="ZIP">ZIP Code</label>
+               <input id="ZIP" name="ZIP" type="text" maxlength="7" class="text-input" value=""><br>
                <input type="button" class="submit button red small" value="Sign Up" title="">
             </form>
          </div>
             
         <div class="col col1">
-         <span class="footer-title" style="padding-left:24px;">Products</span>
-         <ul class="link-list">
-			<li><a style="margin-left:24px;" href="/shop/tools/category_top-categories">All Products</a></li>
-			<li><a style="margin-left:24px;" href="/shop/tools/category_all-deals">All Deals</a></li>
-			<li><a style="margin-left:24px;" href="/shop/tools/shop_brands">All Brands</a></li>
-			<li><a style="margin-left:24px;" href="http://www.northerntool.com/shop/tools/gift-cards_gift-cards-index">Gift Cards</a></li>
-			<li><a style="margin-left:24px;" href="http://www.northerntool.com/shop/tools/buyers-guides_buyers-guides-index">Buyer's Guides</a></li>
-			<!--<li><a href="http://www.northerntool.com/shop/tools/help_product-recalls" rel="nofollow">Product Recalls</a></li>-->
-          </ul>
+			  <span class="footer-title" style="padding-left:24px;">Products</span>
+			  <ul class="link-list">
+					<li><a style="margin-left:24px;" href="/shop/tools/category_top-categories">All Products</a></li>
+					<li><a style="margin-left:24px;" href="/shop/tools/category_all-deals">All Deals</a></li>
+					<li><a style="margin-left:24px;" href="/shop/tools/shop_brands">All Brands</a></li>
+					<li><a style="margin-left:24px;" href="http://www.northerntool.com/shop/tools/gift-cards_gift-cards-index">Gift Cards</a></li>
+					<li><a style="margin-left:24px;" href="http://www.northerntool.com/shop/tools/buyers-guides_buyers-guides-index">Buyer's Guides</a></li>
+					<li id="product-recall-link"><a style="margin-left:24px;" href="http://www.northerntool.com/shop/tools/help_product-recalls" rel="nofollow">Product Recalls</a></li>
+			  </ul>
         </div>
 
         <div class="col col1">
-         <span class="footer-title">Account Options</span>
-         <ul class="link-list">
-			<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970" rel="nofollow">Account Updates</a></li>
-			<li><a href="http://www.northerntool.com/shop/tools/hotline-membership_hotline-membership-index">Hotline Membership</a></li>
-			<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;langId=-1&amp;storeId=6970&amp;page=orderstatus" rel="nofollow">Order Status</a></li>
-			<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;listId=.&amp;langId=-1&amp;storeId=6970&amp;page=customerlinkwishlist" rel="nofollow">Wish List</a></li>
-			<li><a href="http://www.northerntool.com/shop/tools/credit-options_credit-options-index">Credit</a></li>
-          </ul>
+			  <span class="footer-title">Account Options</span>
+			  <ul class="link-list">
+					<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;myAcctMain=1&amp;langId=-1&amp;storeId=6970" rel="nofollow">Account Updates</a></li>
+					<li><a href="http://www.northerntool.com/shop/tools/hotline-membership_hotline-membership-index">Hotline Membership</a></li>
+					<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;langId=-1&amp;storeId=6970&amp;page=orderstatus" rel="nofollow">Order Status</a></li>
+					<li><a href="https://www.northerntool.com/shop/tools/AjaxLogonForm?catalogId=11652&amp;listId=.&amp;langId=-1&amp;storeId=6970&amp;page=customerlinkwishlist" rel="nofollow">Saved Items</a></li>
+					<li><a href="http://www.northerntool.com/shop/tools/credit-options_credit-options-index">Credit</a></li>
+			  </ul>
         </div>
         
         <div class="col col1">
-         <span class="footer-title">Customer Care</span>
-         <ul class="link-list">
-			<li><a href="http://www.northerntool.com/shop/tools/help_help-index" rel="nofollow">Help</a></li>
-			<li><a href="http://www.northerntool.com/shop/tools/contact_contact-index" rel="nofollow">Contact Us</a></li>
-			<li><a href="http://www.northerntool.com/shop/tools/help_returns" rel="nofollow">Return Policy</a></li>
-			<li><a href="http://www.northerntool.com/shop/tools/help_shipping-delivery" rel="nofollow">Shipping + Delivery</a></li>
-			<li><a href="http://www.northerntool.com/shop/tools/help_ordering-payment" rel="nofollow">Order + Payment</a></li>
-			<!--li><a href="http://www.northerntool.com/shop/tools/government-buyers_government-buyers-index">Government</a></li-->
-          </ul>
+			  <span class="footer-title">Customer Care</span>
+			  <ul class="link-list">
+					<li><a href="http://www.northerntool.com/shop/tools/help_help-index" rel="nofollow">Help</a></li>
+					<li><a href="http://www.northerntool.com/shop/tools/contact_contact-index" rel="nofollow">Contact Us</a></li>
+					<li><a href="http://www.northerntool.com/shop/tools/help_returns" rel="nofollow">Return Policy</a></li>
+					<li><a href="http://www.northerntool.com/shop/tools/help_shipping-delivery" rel="nofollow">Shipping + Delivery</a></li>
+					<li><a href="http://www.northerntool.com/shop/tools/help_ordering-payment" rel="nofollow">Order + Payment</a></li>
+					<!--li><a href="http://www.northerntool.com/shop/tools/government-buyers_government-buyers-index">Government</a></li-->
+			  </ul>
         </div>
         
-        <div class="col col1">
-         <span class="footer-title">About</span>
-         <ul class="link-list">
-			<li><a href="http://www.northerntool.com/shop/tools/company-info_company-info-index">Company Info</a></li>
-			<li><a href="http://www.northerntool.com/shop/tools/careers_careers-index" rel="nofollow">Careers</a></li>
-			<li><a href="http://www.northerntool.com/stores/">Find A Store</a></li>
-			<li><a href="http://www.northerntool.com/shop/tools/catalog_free-catalog">Free Catalog</a></li>
-			<li><a href="http://www.kotulas.com" target="_kotulas">Gifts + Gadgets</a></li>
-            <li>
-				<div style="display:inline; float:left; padding-right:12px;"><a target="_facebook" href="http://www.facebook.com/northerntool"><img src="/images/icons/facebook_26x26.png" width="26" height="26" alt="" title=""></a></div>
-				<div style="display:inline; float:left; padding-right:12px;"><a target="_twitter" href="http://twitter.com/NorthernTool"><img src="/images/icons/twitter_26x26.png" width="26" height="26" alt="" title=""></a></div>
-				<div style="display:inline; float:left; padding-right:12px;"><a target="_youtube" href="http://www.youtube.com/user/NorthernToolCo"><img src="/images/icons/youtube_26x26.png" width="26" height="26" alt="" title=""></a></div>
-				<div style="display:inline; float:left; padding-right:12px;"><a target="_pinterest" href="http://www.pinterest.com/NorthernTool"><img src="/images/icons/pinterest_26x26.png" width="26" height="26" alt="" title=""></a></div>
-			</li>
-         </ul>
-        </div>
-    <div class="clear"></div>
-    </div>
- </div>
- 
- <div class="grid960_12">
-   <div class="col col6" id="copyright">
-      <p>Copyright ©  Northern Tool + Equipment.  All Rights Reserved.</p>
-      <p><a href="http://www.northerntool.com/shop/tools/sitemap">Sitemap</a> | <a href="http://www.northerntool.com/shop/tools/help_privacy-policy" rel="nofollow">Privacy Policy</a> | <a href="http://www.northerntool.com/shop/tools/help_terms" rel="nofollow">Terms + Conditions</a> | <a href="http://www.northerntool.com/shop/tools/espanol_espanol-index">Español</a></p>
-   </div>
-      <div class="col col6 col-right" id="badges">
-         <a href="http://www.northerntool.com/shop/tools/company-info_company-info-index"><img src="/images/footer/over-30-years.png" width="99" height="61" alt="Over 30 Years in Business!" title=""></a>
-            <img src="/images/footer/security.png" width="99" height="61" alt="Secure Site">
-         <a class="pop-up last" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.NORTHERNTOOL.COM&amp;lang=en" target="_blank"><img src="/images/footer/norton.png" width="99" height="80" alt="Click to Verify" title=""></a>
-      </div>
+			<div class="col col1">
+				<span class="footer-title">About</span>
+				<ul class="link-list">
+					<li><a href="http://www.northerntool.com/shop/tools/company-info_company-info-index">Company Info</a></li>
+					<li><a href="http://www.northerntool.com/shop/tools/careers_careers-index" rel="nofollow">Careers</a></li>
+					<li><a href="http://www.northerntool.com/stores/">Find A Store</a></li>
+					<li><a href="http://www.northerntool.com/shop/tools/catalog_free-catalog">Free Catalog</a></li>
+					<li><a href="http://www.kotulas.com" target="_kotulas">Gifts + Gadgets</a></li>
+				</ul>
+			</div>
+		  
+			<div class="clear spacer10"></div>
+	 
+			<div class="clear hr20"></div>
+	 
+			<div class="col col3">
+				<p><a href="http://www.northerntool.com/shop/tools/sitemap?catalogId=11652&amp;langId=-1&amp;storeId=6970">Sitemap</a> | <a href="http://www.northerntool.com/shop/tools/help_privacy-policy" rel="nofollow">Privacy Policy</a> | <a href="http://www.northerntool.com/shop/tools/help_terms" rel="nofollow">Terms + Conditions</a> | <a href="http://www.northerntool.com/shop/tools/espanol_espanol-index">Español</a></p>
+				
+				<div id="social-icons">
+					<a target="_facebook" href="http://www.facebook.com/northerntool"><img src="/images/social-media/facebook-gray.png" width="32" height="32" alt="Facebook" title=""></a>
+					<a target="_google" href="http://plus.google.com/+northerntool"><img src="/images/social-media/googleplus-gray.png" width="32" height="32" alt="Google+" title=""></a>
+					<a target="_twitter" href="http://twitter.com/NorthernTool"><img src="/images/social-media/twitter-gray.png" width="32" height="32" alt="Twitter" title=""></a>
+					<a target="_youtube" href="http://www.youtube.com/user/NorthernToolCo"><img src="/images/social-media/youtube-gray.png" width="32" height="32" alt="Youtube" title=""></a>
+					<a target="_pinterest" href="http://www.pinterest.com/NorthernTool"><img src="/images/social-media/pinterest-gray.png" width="32" height="32" alt="Pinterest" title=""></a>
+					<a target="_instagram" href="http://instagram.com/northern_tool"><img src="/images/social-media/instagram-gray.png" width="32" height="32" alt="Instagram" title=""></a>
+				</div>
+			</div>
+			
+			<div class="col col2">
+				<span class="footer-title">Shop With Confidence</span>
+				<div class="trust-logos">
+					<a href="http://www.northerntool.com/shop/tools/company-info_company-info-index"><img style="margin-right:36px;" src="/images/footer/over-30-years.png" width="99" height="61" alt="Over 30 Years in Business!" title=""></a>
+					<img style="margin-right:36px;" src="/images/footer/security.png" width="99" height="61" alt="Secure Site">
+					<a class="pop-up last" href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.northerntool.com&amp;lang=en" target="_blank"><img src="/images/footer/norton-security.png" width="99" height="58" alt="Click to Verify" title=""></a>
+				</div>
+			</div>
+			
+			<div class="clear hr20"></div>
+			
+			<div class="col col5 col-center" id="copyright">
+				<p>2800 Southcross Drive West, Burnsville, Minnesota 55306 | <span class="sales_phn_nbr">1-800-221-0516</span></p>
+				<p>Copyright ©  Northern Tool + Equipment.  All Rights Reserved.</p>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
 </div>
 
 <!-- BEGIN Recently Viewed Products -->
 <script type="text/javascript">
-var cookieValue = getCookie("rviState");
-
-if (cookieValue == null) {
-   cookieValue = "show";
-}
-
-if ($.returnCookie("rvi")) {
-   document.write('<div class="clear">'
-      + '</div>');
-   if (cookieValue == "show") {
-      document.write('<div id="footer-rvi">');
-   } else {
-      document.write('<div id="footer-rvi" style="display:none;">');
-   }
-   document.write('<div id="inner">'
-      + '<div class="footer-rvi-bug">'
-      + '<img src="/images/icons/footer-rvi-bug.png" width="50" height="44" alt="Northern Tool + Equipment">'
-      + '</div>'
-      + '<p>Recently<br>Viewed</p>');
-   
-   $.returnCookie("rvi").slice(0, 10).each(
-            function(i) {
-               var thisCookie = this;
-               if (thisCookie[1] != null && thisCookie[1].toLowerCase().indexOf("noimage") < 0) {
-                  document.write('<div class="footer-rvi-image">'
-                     + '<a class="small" href="http://www.northerntool.com/shop/tools/product_' + thisCookie[0].toLowerCase() + '_' + thisCookie[0] + '">'
-                     + '<img class="small" id="' + thisCookie[1] + '" style="display:none;" width="34"  height="34"  title="View Product Details">'
-                     + '<img class="large" id="' + thisCookie[1] + '" style="display:none;" width="114" height="114" title="View Product Details">'
-                     + '</a>'
-                     + '</div>');
-               }
-            });
-   
-   $("div.footer-rvi-image img.small").each(function(){
-      $(this).attr("src", imageFromPartNumber($(this).attr("id"), 65, 65));
-      $(this).show();
-   });
-   
-   $("div.footer-rvi-image img.large").each(function(){
-      $(this).attr("src", imageFromPartNumber($(this).attr("id"), 114, 114));
-      $(this).show();
-   });
-   
-   document.write('<div id="footer-rvi-hide">'
-      + '<a href="#" class="button small gray" style="margin-top:12px"; onclick="$(\'#footer-rvi-show\').show(); $(\'#footer-rvi-inner\').show(); $(\'#footer-rvi-hide, #footer-rvi\').hide(); SetSessionCookie(\'rviState\', \'hide\', \'/\'); return false;">Hide</a>'
-      + '</div>'
-      + '</div>'
-      + '</div>');
-   
-   if (cookieValue == "show") {
-      document.write('<div id="footer-rvi-show" style="display:none;">'
-         + '<p>Recently<br>Viewed</p>'
-         + '<a class="button small gray" style="margin-top:12px"; href="#" onclick="$(\'#footer-rvi-show\').hide(); $(\'#footer-rvi-hide, #footer-rvi\').show(); SetSessionCookie(\'rviState\', \'show\', \'/\'); return false;">+</a>'
-         + '</div>');
-   } else {
-      document.write('<div id="footer-rvi-show">'
-         + '<p>Recently<br>Viewed</p>'
-         + '<a class="button small gray" style="margin-top:12px"; href="#" onclick="$(\'#footer-rvi-show\').hide(); $(\'#footer-rvi-hide, #footer-rvi\').show(); SetSessionCookie(\'rviState\', \'show\', \'/\'); return false;">+</a>'
-         + '</div>');
-   }
-}
-</script>
-
-<!-- END Recently Viewed Products -->
-</div>
-<script type="text/javascript">
-   $(function() { 
-      //Make sure page is loaded at this point
-      //Set requestedSubmitted to false
+		
+	$(function(){
+		buildRVI();
+		
+      //Make sure page is loaded at this point, Set requestedSubmitted to false
       requestSubmitted = false;
-   });   
-</script>
-</div>
-
-  <script type="text/javascript">
-  
-   $(document).ready( function() {
-      var isHotlineUser = getCookie("WC_HOTLINEUSER");
-      if (isHotlineUser == null){
-         var isHotlineUser = "X";
-      }
-          
-      //if user is not logged in and they are a hotline member, prompt HL login
-      if ((!UserHelper.isUserLoggedIn()) && (isHotlineUser.indexOf('Y')>-1) && (window.location.href.indexOf("shop/tools/Logon") <= -1) && (window.location.href.indexOf("shop/tools/ResetPasswordGuestErrorView") <= -1) && (window.location.href.indexOf("shop/tools/ReLogonFormView") <= -1 )&& (window.location.href.indexOf("shop/tools/ResetPasswordForm") <= -1 )){
-         var Template1 = '/shop/tools/JSPTemplate1View?emsName=welcome-hotline-layer&catalogId=11652&langId=-1&storeId=6970';
-         jQuery.facebox({ ajax: Template1 });        
-
-        }
-      });
-    
-   </script>  
-
+		
+		var isHotlineUser = getCookie("WC_HOTLINEUSER");
+		if (isHotlineUser == null){
+			var isHotlineUser = "X";
+		}
+		
+		//if user is not logged in and they are a hotline member, prompt HL login
+		if ((!UserHelper.isUserLoggedIn()) && (isHotlineUser.indexOf('Y')>-1) && (window.location.href.indexOf("shop/tools/Logon") <= -1) && (window.location.href.indexOf("shop/tools/ResetPasswordGuestErrorView") <= -1) && (window.location.href.indexOf("shop/tools/ReLogonFormView") <= -1 )&& (window.location.href.indexOf("shop/tools/ResetPasswordForm") <= -1 )){
+			var Template1 = '/shop/tools/JSPTemplate1View?emsName=welcome-hotline-layer&catalogId=11652&langId=-1&storeId=6970';
+			jQuery.facebox({ ajax: Template1 });
+	  }
+	});
+</script>  
 <!-- END /include/styles/style1/CachedFooterDisplay.jsp --><!-- Footer End --><!-- BEGIN /Tealium/Footer.jsp x.x.x -->
+
 <script type="text/javascript">
 
 
