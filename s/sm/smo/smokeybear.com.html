@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smokeybear.com privacy policy that was archived on 2014-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141120123031id_/http%3A//www.smokeybear.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smokeybear.com privacy policy that was archived on 2015-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150517035200id_/http%3A//www.smokeybear.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -244,52 +244,6 @@ Your notification must include the following: (1) an electronic or physical sign
         </div>
     </div>
 </div>
-
-<link rel="stylesheet" type="text/css" href="/css/jquery.fancybox.css">
-<script type="text/javascript" src="/js/jquery.fancybox.js"></script>
-<script type="text/javascript" src="/js/jquery.cookie.js"></script>
-<script type="text/javascript">//<![CDATA[ 
-$(function(){
-function openFancybox() {
-    setTimeout(function () {
-        $('#usersurvey').trigger('click');
-		$.cookie('visited', 'yes', {
-			expires: 1 // the number of days cookie  will be effective
-		});
-    }, 2000);
-};
-$(document).ready(function () {
-    
-	var visited = $.cookie('visited');
-	
-    if (visited == 'yes') {
-        return false; // second page load, cookie active
-    } else {
-		openFancybox(); // first page load, launch fancybox
-    }
-
-	openFancybox();
-    $("#usersurvey").click(function () {
-        $.fancybox({
-            href: this.href,
-            type: 'iframe',
-			scrolling: 'no',
-			width: 460,
-			height: 530,
-            fitToView: false,
-            autoSize: false,
-            autoScale: false,
-			//closeClick: false, // prevents closing when clicking INSIDE fancybox
-			helpers: { 
-				overlay: {closeClick: false} // prevents closing when clicking OUTSIDE fancybox
-			}
-        });
-        return false;
-    });
-});
-});//]]>  
-</script>
-<a id="usersurvey" href="/survey.asp"></a>
 
 
 </body></html>
