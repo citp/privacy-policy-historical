@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtheme.net privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101062805id_/http%3A//bigtheme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtheme.net privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517020105id_/http%3A//bigtheme.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,6 +68,6 @@ For any questions or inquiries about our privacy policy, you can contact us at b
   
 
 
-(6 votes, average 4.17 out of 5)
+(9 votes, average 4.22 out of 5)
 
-Privacy Policy4.17 out of 51 based on 6 voters.
+Privacy Policy4.22 out of 51 based on 9 voters.
