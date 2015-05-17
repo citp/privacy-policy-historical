@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelywifehookup.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205030836id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelywifehookup.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517074000id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds23) for the most accurate reproduction.*
 
 # Lonely Housewife Sex - Local Cheating Housewife at LonelyWifeHookup
 
@@ -45,14 +45,3 @@ Visitors who wish to access or change the information they provided to our Web s
 
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**   
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service section of this site and contact us via Email. 
-
-LonelyWifeHookup.com - Find the good wife in your city that is part of those mature women that is horny and ready for sex. Locate a hot wife or feel a nude wife in your bed. You will be happy knowing that the hot MILF you have watched down the street has her husband telling you "fuck my wife". Yes its true that many mature ladies are also ready for fast sex action. We can say they are cheating wives but really they are just swingers that want to satisfy there hot desires. So start today and meet a real local horny wife! Create your free profile and start browsing thousands of lonely wives & hookup for sex tonight! 
-
-  * © 2014 LonelyWifeHookup.com - All Rights Reserved - 
-  * [**Member Login**](https://web.archive.org/web/20141205030836id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22?wm_login=admin&ps=s&page=login&from=s22)
-  * | [Customer Service](http://datingsitesupport.com/)
-  * | [Terms of Service](https://web.archive.org/web/20141205030836id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22?wm_login=admin&ps=s&page=terms&from=s22)
-  * | [Privacy Policy](https://web.archive.org/web/20141205030836id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22?wm_login=admin&ps=s&page=pp&from=s22)
-  * | [18 U.S.C. 2257 Record-keeping Requirements](https://web.archive.org/web/20141205030836id_/http%3A//www.lonelywifehookup.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds22?wm_login=admin&ps=s&page=2257&from=s22)
-
-
