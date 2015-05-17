@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the favouritehobbies.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214100115id_/http%3A//www.favouritehobbies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favouritehobbies.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517052206id_/http%3A//www.favouritehobbies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Favourite Hobbies
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bservice4u@gmail.com.
 
