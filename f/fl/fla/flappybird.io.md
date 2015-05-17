@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flappybird.io privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201130220id_/http%3A//www.iubenda.com/privacy-policy/807148/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flappybird.io privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517061605id_/http%3A//www.iubenda.com/privacy-policy/807148/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of flappybird.io
 
@@ -16,7 +16,7 @@ The individual using this Application, which must coincide with or be authorized
 
 #### Data Subject
 
-The legal or natural person to whom the Personal Data refers to.
+The legal or natural person to whom the Personal Data refers.
 
 #### Data Processor (or Data Supervisor)
 
