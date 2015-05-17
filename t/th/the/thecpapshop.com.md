@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecpapshop.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319161757id_/http%3A//www.thecpapshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecpapshop.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517091357id_/http%3A//www.thecpapshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The CPAP Shop
 
 The privacy policy was developed to protect all current and potential customers coming to Agile Medical’s, dba The CPAP Shop, website. The privacy policy explains how we gather and use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, it grants consent and acceptance of our Privacy Policy and User Agreement. It also grants your consent with the collection, storing and using your personal information as described in our privacy policy. Note, the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
