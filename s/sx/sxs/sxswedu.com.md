@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123195027id_/http%3A//www.sxswedu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517192142id_/http%3A//sxswedu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SXSWedu.com
 
