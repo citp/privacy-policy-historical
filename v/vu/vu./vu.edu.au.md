@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128011818id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517022831id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Victoria University | Melbourne Australia
 
 ## University privacy policy
 
-Victoria University takes your privacy seriously. Please refer to our [privacy policy](https://policy.vu.edu.au/view.current.php?id=00166) for specific information. If you're a student completing any forms you should read the [Students Information Privacy Collection Statement](https://web.archive.org/sites/default/files/student-connections/pdfs/students-information-privacy-collection-statement.pdf) beforehand.
+Victoria University takes your privacy seriously. Please refer to our [privacy policy](https://policy.vu.edu.au/view.current.php?id=00166) for specific information. If you're a student completing any forms you should read the [Students Information Privacy Collection Statement](https://policy.vu.edu.au/download.php?id=156&i=00166&v=1) beforehand.
 
 If you have any questions or concerns, please check our frequently asked questions at [AskVU](http://askvu.vu.edu.au/) or phone us on 9919 6100 or free-call in Australia 1300 VIC UNI (or 1300 842 864).
 
@@ -41,3 +41,11 @@ Some University sites contain links to other sites. The University is not respon
 ### Public Forums
 
 Some University sites may have chat rooms, forums, on-line teaching environments, message boards and news groups available to their users. Please remember that any information that is disclosed in these arenas becomes public information and you should exercise caution when disclosing your personal information.
+
+## Freedom of Information (FOI)
+
+Under the Victorian Freedom of Information Act (1982), you have a general right to request information held by VU.
+
+We will release the information to you unless it is covered by a specific exemption in the Act.
+
+Find out more about FOI at VU and [making a request for information](https://web.archive.org/privacy/freedom-of-information-foi).
