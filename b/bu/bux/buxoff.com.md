@@ -1,107 +1,98 @@
-> *The following text is extracted and transformed from the buxoff.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208025017id_/http%3A//buxoff.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxoff.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517061859id_/http%3A//www.buxoff.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | buxoff.com
 
-**Buxoff.com Privacy Policy**
+##### **Buxoff.com Privacy Policy**
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
+We are Buxoff.com, a service provided by Buxoff from, Bengaluru, Karnataka, India - 560043. In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site. If you have any comments or suggestions, we would be pleased to receive them at our Karnataka address or by emailing us at **support@buxoff.com**
 
-What personal information do we collect from the people that visit our blog, website or app? 
+Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your Email address or other details to help you with your experience. 
+We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.
 
-When do we collect information? 
+You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
-We collect information from you when you subscribe to a newsletter or enter information on our site. 
+  
 
-How do we use your information? 
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+##### **Data that we collect**
 
-      • To personalise user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+We may collect various information if you seek to place an order for a product to us on the Site.
 
-      • To improve our website in order to better serve you.
+We collect, store and process your data for processing your purchase on the Site and any possible later claims, and to provide you with our services. We may collect your title, name, gender, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details.
 
-      • To allow us to better service you in responding to your customer service requests.
+We need this information in order to allow you to go ahead with placing your order for a product. We may use that data to process payment for the product and deliver the product to you. We also use that data to inform you when the product is about to be delivered.
 
-      • To administer a contest, promotion, survey or other site feature.
+We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier).
 
-      • To send periodic emails regarding your order or other products and services.
+We may also share your data with our franchisor. You further authorise the franchisor to use this information to sell products to you, directly or indirectly.
 
-**How do we protect visitor information?**
+We may also use your data in order to manage the Site, collect payment from you, enable you to subsequently use parts of the Site, detect any fraud or Site abuses, send you information relevant to the Site or our products, and in case we have any queries. Payments that you make will be made through a secured third party payment gateway ( such as Citrus ) 
 
-We do not use vulnerability scanning and/or scanning to PCI standards. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
+You must only submit to us or our agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.
 
-We implement a variety of security measures enters, submits, or accesses their information All transactions are processed through a gateway provider and are not stored or processed on our servers. 
+Your actual order details may be stored with us and you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault.
 
-**Do we use 'cookies'?**
+We shall not share any of your personal information with third parties without your explicit consent. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and Your Information is one of our most important assets. We store and process Your Information on computers located in the India that are protected by physical as well as technological security devices. We use third parties to verify and certify our privacy principles. If you object to your Information being transferred or used in this way please do not use the site.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognise your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We use cookies to:
+Under no circumstances do we rent, trade or share your personal information that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure.
 
-      • Understand and save user's preferences for future visits.
+  
 
-      • Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. 
+##### **Credit Check and Fraud Prevention**
 
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly. 
+We use standard and authorized payment services and our Credit Check and Fraud Prevention policies are aligned to these companies. All disputes would be handled by Karnataka courts
 
-However, you can still place orders . 
+  
 
-Third Party Disclosure 
 
-No, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. 
+##### **Other uses of your personal information**
 
-Third party links 
+We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, SMS updates, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the “unsubscribe” link in any email that we send to you or follow the unsubscription process as detailed in the SMS. Kindly note that unsubscribing from one medium does not automatically lead to unsubscription from the other.. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in India) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+  
 
-**Google**
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en  We have not enabled Google AdSense on our site but we may do so in the future. 
+##### **Competitions**
 
-**California Online Privacy Protection Act**
+For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf According to CalOPPA we agree to the following: Users can visit our site anonymously
+  
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above. Users will be notified of any privacy policy changes:
+##### **Third Parties and Links**
 
-      • On our Privacy Policy Page
+We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
 
-Users are able to change their personal information:
+  
 
-      • By emailing us
 
-How does our site handle do not track signals?
+##### **Cookies**
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. Does our site allow third party behavioral tracking? It's also important to note that we allow third party behavioral tracking COPPA (Children Online Privacy Protection Act) When it comes to the collection of personal information from children under 13, the Childrenâ€™s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nationâ€™s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect childrenâ€™s privacy and safety online. We do not specifically market to children under 13. 
+The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the some functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses.
 
-**Fair Information Practices**
+The Site uses technology from Google Analytics through which data is collected and stored for marketing and optimization purposes and data use profiles are prepared under a pseudonym. Cookies may be used for this. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this website and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+  
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur: We will notify the users via email
 
-      • Within 7 business days
+##### **Security**
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+We have in place appropriate technical and security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction or damage to your information. Currently, we do not store any user date related to credit cards, debit cards, net banking etc. All payments take place on a secure third party payment gateway.
 
-Contacting Us
+  
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
 
-buxoff.com
+##### **Consent**
 
-Bangalore
+By submitting data to us or our agent or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy.
 
-india
+  
 
-Karnataka
 
-contact@buxoff.com
+##### **Copyright**
 
-Last Edited on 2014-09-11
+We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.
 
-* * *
+This Privacy Policy can change at any time to include / exclude clauses and Buxoff.com does not bear responsibility for updating Users on the same.
