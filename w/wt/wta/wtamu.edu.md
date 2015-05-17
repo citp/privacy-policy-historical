@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220171923id_/http%3A//www.wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517041331id_/https%3A//www.wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
 
 # West Texas A&M University
 
@@ -16,7 +16,7 @@ In instances where West Texas A&M University, or its entities, manage content on
 
 ### Accessibility of External Content 
 
-West Texas A&M University has assembled an accessibility workgroup committed to making its electronic and information resources (EIR) accessible for all users in accordance with [Section 508](http://www.section508.gov/) of the Federal Rehabilitation Act (29 U.S.C. 794d), [Texas Government Code Chapter 2054](http://www.statutes.legis.state.tx.us/docs/gv/pdf/gv.2054.pdf), Subchapter M, and the standards and specifications set forth by Texas Administrative Code Title 1, Chapter 206, Subchapter C, §§206.70 – 206.71 ([TAC 206](http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=1&pt=10&ch=206)) and Texas Administrative Code Title 1, Chapter 213, Subchapter C, §§213.30 – 213.41 ([TAC 213](http://info.sos.state.tx.us/pls/pub/readtac$ext.ViewTAC?tac_view=4&ti=1&pt=10&ch=213)). Visit [WTAMU's Accessibility page](http://www.wtamu.edu/about/web-accessibility.aspx) for more information.
+West Texas A&M University has assembled an accessibility workgroup committed to making its electronic and information resources (EIR) accessible for all users in accordance with [Section 508](http://www.section508.gov/) of the Federal Rehabilitation Act (29 U.S.C. 794d), [Texas Government Code Chapter 2054](http://www.statutes.legis.state.tx.us/docs/gv/pdf/gv.2054.pdf), Subchapter M, and the standards and specifications set forth by Texas Administrative Code Title 1, Chapter 206, Subchapter C, §§206.70 – 206.71 ([TAC 206](http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=9&p_dir=N&p_rloc=155464&p_tloc=&p_ploc=1&pg=2&p_tac=&ti=1&pt=10&ch=206&rl=72)) and Texas Administrative Code Title 1, Chapter 213, Subchapter C, §§213.30 – 213.41 ([TAC 213](http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=1&pt=10&ch=213)). Visit [WTAMU's Accessibility page](http://www.wtamu.edu/about/web-accessibility.aspx) for more information.
 
 WTAMU does not have direct control over the accessibility of external content and therefore disclaims any responsibility in the neglect or absence of standards set forth for institutions of higher education by the state or federal government. In instances where West Texas A&M University, or its entities, manage content on external webpages (i.e. Facebook, Twitter or external websites) administrator(s) should abide by the guidelines set by the Office of Communication and Marketing to ensure the most accessible content available on the medium. Questions or concerns should be addressed to the web communication manager, [droach@wtamu.edu](mailto:droach@wtamu.edu).
 
@@ -59,7 +59,7 @@ The following information is collected from server logs for analysis. Note that 
 **Access to Information**  
 Except for education records governed by FERPA, all information collected from this website, including the summary server log information, emails sent to the website, and information collected from web-based forms, may be subject to the Texas Public Information Act. This means that while WTAMU does not actively share information, but in some cases may be compelled by law to release information gathered from its web servers.
 
-The Texas Public Information Act, with a few exceptions, gives you the right to be informed about the information that this website collects about you. It also gives you the right to request a copy of that information, and to have the university correct any information that is wrong. You may request to receive and review any of that information, or request corrections to it, by contacting Gary Barnes, WT Box 60188, Canyon, Texas, 79016, at 806-651-2095.
+The Texas Public Information Act, with a few exceptions, gives you the right to be informed about the information that this website collects about you. It also gives you the right to request a copy of that information, and to have the university correct any information that is wrong. You may request to receive and review any of that information, or request corrections to it, by contacting Sherry Bays, WT Box 60188, Canyon, Texas, 79016, at 806-651-2095.
 
 **Forms**
 
@@ -67,7 +67,6 @@ Consistent with the [Texas DIR State Website Linking and Privacy Policy](http://
 
 In accordance with TAC Rule 206.72, any web-based form on an official University website that requests information from the public must have a link to the [WTAMU Link Policy and Privacy Statement](http://www.wtamu.edu/privacy).
 
-  
 **Security**  
 Extensive security measures consistent with the Texas Administrative Code (TAC) "Information Security Standards" and WTAMU Rules and Standard Administrative Procedures have been employed to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of this website and/or associated electronic information resources. The information resources that support this site undergo an annual information security risk assessment via the Information Security Awareness Assessment and Compliance (ISAAC) system. The ISAAC system is used to assess the security posture of information systems and measure compliance with information security standards. View our [Security Policy](https://web.archive.org/webres/File/About/Administration/Rules/24.99.99.W1_RULE_Security%20of%20Electronic%20Information%20Resources_7.13.10.pdf).  
   
