@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247sports.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203105609id_/http%3A//247sports.com/Article/Privacy-Policy-35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247sports.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517055005id_/http%3A//247sports.com/Article/Privacy-Policy-35) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,8 +74,8 @@ The information we collect on or through our Website may include:
 • Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.   
 • Your search queries on the Website. 
 
-You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on the Website and transmitted to others at your own risk. Although we limit access to certain pages to subscribers only, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. 
-
+You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on the Website and transmitted to others at your own risk. Although we limit access to certain pages to subscribers only, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.   
+  
 We may provide a referral service to enable you to tell a friend about the Services, in which case we will ask you for your friend’s name and email address and then send your friend a one-time email inviting him or her to try the Services. 
 
 **Third-party Advertiser Use of Cookies and Other Tracking Technologies.**
@@ -84,7 +84,7 @@ Some advertisements on the Website are served by third-party advertisers, ad net
 
 You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly. 
 
-We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the [NAI website](http://www.networkadvertising.org/). We are committed to complying with the Self-Regulatory Program for Online Behavioral Advertising. To learn more and make choices about interest-based ads from participating third parties, please visit the [DAA consumer opt out page](http://www.aboutads.info/choices/). 
+We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the [NAI website](https://web.archive.org/tu/MTgyNTg2dGlueTI0Nw==). We are committed to complying with the Self-Regulatory Program for Online Behavioral Advertising. To learn more and make choices about interest-based ads from participating third parties, please visit the [DAA consumer opt out page](https://web.archive.org/tu/MTgyNTg3dGlueTI0Nw==). 
 
 **How We Use Your Information**
 
@@ -122,7 +122,8 @@ For the purposes hereof, “Preferred Content Providers” are as follows:
 
 \- CBS Interactive, Inc. (CBSSports.com)   
 \- Saturday Down South (SDS)   
-\- Comicbook.com, LLC (Comicbook.com) 
+\- Comicbook.com, LLC (Comicbook.com)   
+\- Facebook, Inc. 
 
 We will update the list of Preferred Content Providers from time to time as the list of parties changes. We will not notify you of any modifications to the list of Preferred Content Providers, so it is your responsibility to check this list frequently so that you are aware of any changes to the list. 
 
