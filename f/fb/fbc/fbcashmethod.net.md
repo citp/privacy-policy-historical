@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbcashmethod.net privacy policy that was archived on 2014-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141104131007id_/http%3A//www.fbcashmethod.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbcashmethod.net privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517041418id_/http%3A//www.fbcashmethod.net/privacy) for the most accurate reproduction.*
 
 # 
 
