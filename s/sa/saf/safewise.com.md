@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safewise.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019004559id_/http%3A//www.safewise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safewise.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517050437id_/http%3A//www.safewise.com/privacy-policy) for the most accurate reproduction.*
 
 # SafeWise Privacy Policy
 
@@ -40,7 +40,7 @@ To opt out from receiving further communications from us regarding other offers 
 
 ## Telemarketing
 
-IMPORTANT - PLEASE READ: By providing your contact information, including your telephone number, on this Web site, you are expressly granting us permission to contact you even though you may have previously chosen to have your telephone number added to any Do-Not-Call List including lists maintained by us, or any local, state or federal government agency. In addition, your state may have laws that prevent us from calling you on your mobile/cellular telephone. If you use a mobile/cellular telephone as your primary means of communication, please call us toll-free in the U.S. and Canada at 1-855-212-3093.
+IMPORTANT - PLEASE READ: By providing your contact information, including your telephone number, on this Web site, you are expressly granting us permission to contact you even though you may have previously chosen to have your telephone number added to any Do-Not-Call List including lists maintained by us, or any local, state or federal government agency. In addition, your state may have laws that prevent us from calling you on your mobile/cellular telephone. If you use a mobile/cellular telephone as your primary means of communication, please call us toll-free in the U.S. and Canada at 1-800-580-5494.
 
 ## Changes to This Privacy Policy
 
