@@ -1,85 +1,111 @@
-> *The following text is extracted and transformed from the randstad.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103651id_/http%3A//www.randstad.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstad.ca privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518014356id_/http%3A//www.randstad.ca/about/privacy.aspx) for the most accurate reproduction.*
 
-# Randstad Technologies - privacy statement
+# randstad canada - privacy
 
-**Your privacy is important to us**  
-Protecting the privacy and confidentiality of personal information has always been a fundamental principle in our business relationships. We want you to know that Randstad Canada adheres to privacy legislation that governs what information may be collected, how it is used and how it is protected. This Privacy Statement explains our privacy policies and information handling practices. 
+Preserving the confidentiality of personal information – including that of our candidates, contractors, clients, and our employees – has always been a foundation of our business practices at Randstad Interim Inc. (“Randstad Canada”). 
 
-**Protecting your privacy means:**
+The purpose of this personal information protection policy is to provide Randstad Canada with a framework to ensure that we handle personal information with a view to managing our privacy-related risks and complying with applicable law. It governs the collection, use and disclosure of personal information in the course of our commercial activity and in the course of employing corporate employees. 
 
-• We keep your personal information and the business you do with us in strict confidence 
+The policy sets a minimum standard for handling personal information and sets out guidance for the handling of personal information. This policy is consistent with and supportive of Randstad’s Business Principles.
 
-• We do not sell your personal information 
+## Personal Information
 
-• You have control over how we obtain, use, and give out personal information about you 
+"Personal information" includes factual or subjective information about an identifiable individual. 
 
-• You have reasonable access to the personal information we have about you 
+## Privacy protection principles
 
-• We respect your privacy when we market our services 
+Employees and others who collect, use and disclose personal information on Randstad Canada’s behalf must comply with the following principles. Personal information must at all times be:
 
-**Why we collect personal information**  
-We collect information in order to represent you for employment opportunities with our clients, to carry out contests or surveys, to administer our web site, and to provide information about our services. We understand that some of this information is personal. We collect, use and disclose personal information only for purposes that a reasonable person would consider appropriate in the circumstances. The information we will collect from you includes, but is not limited to: 
+  1. Processed fairly, lawfully and as authorized 
+  2. Processed for reasonable and specified purposes 
+  3. Processed only as reasonably necessary 
+  4. Subject to reasonable measures to ensure accuracy 
+  5. Subject to reasonable measures to ensure security 
+  6. Subject to retention rules that limit unnecessary retention 
+  7. Subject to a process that allows for access and correction 
 
-• Your personal profile via your resume and information supplied by you 
 
-• Your employment preferences, such as work location, salary, and other personal factors important to you 
 
-You can visit our web site without sharing any personal information. While visiting our site, you may choose to provide information in the form of a resume or by creating a profile using our online My Randstad tool. In order to be considered for opportunities with our clients, you may choose to provide references. While using our web site, you may choose to provide personal information in order to enter a contest or complete a survey. 
+Each of these principles is described in more detail in the following sections.
 
-**What we do with personal information**  
-When you provide personal information to us in the form of a resume, references, complete a profile using our My Randstad tool, or by participating in a contest or survey, the information will be stored in our secure database. We may use your personal information to: 
+## Accountability 
 
-• Match your profile against our clients’ requirements 
+Randstad Canada accepts responsibility for treating all personal information in an appropriate and lawful manner. Our Privacy Officer is responsible for ensuring compliance with this policy and applicable privacy legislation and answering related questions.
 
-• Contact you regarding profile matches 
+## Fair, lawful and authorized processing
 
-• Contact and obtain information about you from references supplied by you (upon your approval, see Your Information is Obtained or Used Only With Your Consent) 
+This policy allows Randstad Canada to collect, use and disclose personal information for its legitimate purposes provided it does so in a fair and lawful manner. 
 
-• Provide your information to clients (upon your approval, see Your Information is Obtained or Used Only With Your Consent) 
+Randstad Canada should ordinarily identify itself as accountable for the personal information it collects and should ordinarily identify anyone to whom it will routinely disclose or transfer personal information, including other companies within the Randstad Group. 
 
-• Carry out contests and/or surveys 
+Randstad Canada collects, uses and discloses personal information based on informed consent unless permitted or required by law.
 
-• Improve our site and, where applicable, the services we offer 
+Randstad Canada only relies on implied consent when appropriate in light of the sensitivity of personal information and individuals’ reasonable expectations. The Company relies on implied consent to collect, use and disclose the personal information of corporate employees for the purpose of establishing, managing or terminating its employment relationships.
 
-• We may send you information about our company and promotional material from some of our partners from time to time. If you have concerns about receiving occasional communication from us, please contact our [Privacy Officer](mailto:privacyofficer@randstadgroup.ca). 
+## Processing for reasonable and specified purposes
 
-• Demographic data collected while visiting our site is used to tailor your experience at our site and to display content that we think you might be interested in. We also use this data to learn more about the demographics of our site visitors and to refine our marketing plans. 
+Randstad Canada collects, uses and discloses personal information for reasonable business purposes that it identifies to individuals at the time of collection except as permitted or required by law.
 
-• For other similar or related purposes that are reasonably necessary for the proper management of Randstad Canada’s business. 
+Randstad Canada refrains from collecting personal information for one purpose and then using it for another without consent except as permitted or required by law.
 
-**Randstad Canada consultants/placements**  
-When you are placed with one of our clients, we will collect additional information in order to complete the placement process. In addition, we will survey you to ensure that we are offering our consultants the best possible opportunities and to provide our clients with constructive feedback. We will survey clients to verify and confirm the information we currently have in your file and to ensure our consultants are consistently meeting client expectations.   
-Please note that all active contract consultants will receive communication from Randstad Canada containing pertinent information related to current placements. 
+## Processing only as reasonably necessary
 
-**Your information is obtained and used only with your consent**  
-We want to assure you that any personal information you provide to Randstad Canada will remain completely confidential until you request otherwise, unless required by law. We do not sell or provide candidate or client information to third parties. We will always obtain your authorization to contact references and we will always contact you via email or telephone before we submit your profile to a client requirement. 
+Randstad Canada only collects, uses and discloses personal information to the extent that it is reasonably required for a reasonable and stated business purpose.
 
-**Your consent can be express or implied**  
-Express consent can be verbal or written. You imply consent when we reasonably conclude that you have given consent by some action you have taken, or when you decide not to take action. For example, by providing your contact information, profile or other personal information to a recruitment specialist or through our web site, you are granting your consent to allow Randstad Canada to use your profile information in the matching process, and to contact you regarding any such matches. 
+Randstad Canada specifies the type of personal information it collects as part of its recordkeeping and information-handling policies and practices.
 
-**You can withdraw your consent after you’ve given it**  
-While we would like your consent to continue to collect and use your information as outlined above, we want you to know that you do have choices. In addition, you can request to have your information removed from our database, or opt out of receiving optional future mailings at any time by contacting our [Privacy Officer](mailto:privacyofficer@randstadgroup.ca). 
+In the course of its commercial activity, the Company ordinarily collects, uses and discloses personal information for the following reasonable business purposes: to provide services, including staffing services, search & selection and MSP services.
 
-**We protect your information from error, loss, and unauthorized access**  
-Our employees who have access to your information are made aware of how to keep it confidential. Each employee is governed by policies regarding information handling. Only employees who require access to your information in the course of their duties will have access to your information.   
-We respect the confidential information that we receive from others and therefore will not release any personal information provided to us by third parties without their explicit authorization.  
-As a member of the Randstad Canada online community, you have access to your own information, information about positions that match your profile, plus additional information and tools. Select Randstad Canada personnel have password-protected access to your information. Authorized client/employer contacts are able to view candidate information without seeing your identity. No client/employer contact may view your personal information (identity or contact information) without your prior permission. 
+As an employer of corporate employees, Randstad Canada collects, uses and discloses personal information for the purpose of establishing, managing or terminating its employment relationships and managing and auditing its operations. These purposes include preventing and responding to work-related misconduct, breaches of law and other activities that may harm Randstad Canada’s interests.
 
-**You can see and verify the accuracy of your information**  
-You can update your personal information at any time through our web site or by contacting [Privacy Officer](mailto:privacyofficer@randstadgroup.ca).   
-If you would like access to the personal information we have on file for you, we will ask you to put your request in writing. You will be given reasonable access to your personal information to verify or correct information. Every effort will be made to respond to your inquiry within 30 days. There may be circumstances where Randstad Canada will not provide you with access or may require additional time to meet your request, in which case you will be informed. 
+## Accuracy
 
-**Links to other sites**  
-Our site may contain links to other sites that we think you might be interested in. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. 
+Randstad Canada employs reasonable measures to ensure that personal information is kept as accurate as required for its purposes. 
 
-**Cookies**  
-Our site uses cookies to keep track of user sessions. We use cookies to deliver content specific to your choice of language. Cookies improve functionality and in some cases, provide visitors with a customized online experience. 
+Requests for correction of personal information are handled in accordance with rights granted under applicable legislation and good recordkeeping practices.
 
-**Password protection**  
-Portions of our web site are password protected to help safeguard your information. When you complete your registration, you will create a password in order to access portions of the site. Randstad Canada reserves the right to change passwords at any time to protect the security of our site. We require that you keep confidential the password you select for accessing our site. We require that you email us immediately at [Customer Support](mailto:CustomerSupport@randstadgroup.ca) if you feel that your password has been compromised. If you forget your password, email us and we will issue a reminder of your password via email. 
+## Data security
 
-**Resolving your concerns, inquiries, or listening to your suggestions is important to us**  
-In order to continually monitor and strengthen our privacy procedures, we have appointed a Privacy Officer who can be contacted through our head office at 416.962.9262 or 1.800.540.3594. Please contact our Privacy Officer if you have any questions about privacy that were not answered above. We welcome your suggestions. 
+Randstad Canada takes reasonable security measures to protect personal information against unlawful or unauthorized access, loss and damage.
 
-**Changes to this privacy statement**  
-Randstad Canada reserves the right to modify or supplement our privacy statement at any time. If we make any changes, we will update this site to include such changes and post a notice on our home page for a period of 30 days, with a link to the updated privacy statement. If you return to this site after a period of more than 30 days, please check this privacy statement to confirm you are familiar with the most recent update. Your continued use of the site will constitute your consent to the changes, including use of personal information previously provided, as if they were the initial terms. However, we will seek your consent if we want to use your personal information for purposes other than those agreed to previously. 
+Randstad Canada maintains policies, procedures and technologies (in accordance with the Group IT-security policy) to maintain the security of personal information from the point of collection to the point of destruction.
+
+## Limited retention
+
+Record retention schedules are created and enforced for records containing personal information.
+
+Randstad Canada establishes record retention rules so that it does not retain personal information longer than necessary for the purposes it was collected unless required by law.
+
+## Access and correction
+
+Randstad Canada provides individuals with access to personal information and a means of correcting personal information in accordance with applicable privacy legislation.
+
+## Providing information over the telephone or by email
+
+Any corporate employee dealing with telephone or email enquiries should be careful about disclosing any personal information held by Randstad Canada. In particular, they should:
+
+  1. Check the requesting person's identity to make sure that information is only given to a person who is entitled to it. In case of uncertainty about the requesting person’s identity and therefore legitimacy of the request, no information should be provided. 
+  2. Suggest that the caller puts the request in writing or that the requesting person comes by in person if they are not sure about the caller's identity and/or where their identity cannot be checked. 
+  3. Refer to the Privacy Officer for assistance in difficult situations. No one should allow themselves to be pressured into disclosing personal information. 
+
+
+
+Where third parties, in person, are requesting personal information, e.g. authorities demanding information in a Randstad office, the same principles as in (a) and (c) apply.
+
+## Transferring and disclosing personal information
+
+Randstad Canada only transfers personal information to another entity (whether within the Randstad Group or outside it) if the transfer complies with the principles and the other rules set out in this policy and with applicable privacy legislation.
+
+Randstad Canada (i) employs due diligence in selecting organizations to process personal information on its behalf, (ii) imposes reasonable contractual terms on such organizations with a view to maintaining comparable data security and (iii) oversees such organizations with a view to maintaining comparable data security.
+
+Transfers of Personal information from Canada to processors in countries outside Canada may be made subject to the terms of this policy and subject to any notification requirements under applicable legislation. 
+
+## Promoting compliance
+
+All requests for copies of personal information must be made in writing and directed to the Randstad Canada Privacy Officer ([privacyofficer@randstad.ca](mailto:privacyofficer@randstad.ca)). The Privacy Officer will work with you to respond to all inquiries and resolve any concerns. Randstad Canada will respond in a timely manner to inquires and investigation by privacy regulators. Corporate employees who are contacted by a privacy regulator should promptly notify our Privacy Officer. 
+
+If a corporate employee considers that the policy has not been followed they should raise the matter with their Manager or Privacy Officer. The local Privacy Officer is Rob Hamilton, he may be reached by email [privacyofficer@randstad.ca](mailto:privacyofficer@randstad.ca) or by mail: 
+
+> 777 Bay Street, Suite 2000   
+>  Toronto, ON M5G 2C8   
+>  Attention: Privacy Officer 
