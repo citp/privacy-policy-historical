@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aimersoft.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010112id_/http%3A//www.aimersoft.com/other/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimersoft.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517035932id_/http%3A//www.aimersoft.com/other/privacy-policy.html) for the most accurate reproduction.*
 
 # Aimersoft Software Privacy Policy
 
@@ -51,4 +51,4 @@ We may use the information you provide us with for our own internal statistical 
 In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our web site and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.   
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages. 
 
-[Check The End User License Agreement >>](https://web.archive.org/web/20140626010112id_/http%3A//www.aimersoft.com/other/end-user-license-agreement.html)
+[Check The End User License Agreement >>](https://web.archive.org/web/20150517035932id_/http%3A//www.aimersoft.com/other/end-user-license-agreement.html)
