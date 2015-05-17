@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followup.cc privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916151432id_/https%3A//followup.cc/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followup.cc privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517065621id_/http%3A//followup.cc/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FollowUp.cc
 
@@ -48,7 +48,7 @@ We reserve the right to transfer your personal information in the event of a tra
 
 You can change your FollowUp account settings at any time in the "Settings" section of your account.
 
-You can terminate your account at any time, by going to the Delete Account page. We typically deactivate accounts within two business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.
+You can terminate your account at any time, by going to the Billing page. We typically deactivate accounts within two business days of such requests. You should be aware, however, that residual copies of information may remain stored on our systems even after the deletion of information or the termination of your account.
 
 We hope you will enjoy using FollowUp. 
 
@@ -75,7 +75,16 @@ In addition to (and/or as some examples of) the violations described in the Term
   * Remove any copyright, trademark or other proprietary rights notices contained in or on the FollowUp Service 
   * Reformat or frame any portion of the web pages that are part of the FollowUp Service 
 
+
+
 ### Security
 
 You must promptly notify FollowUp of any breach of security related to the Services, including but not limited to unauthorized use of your password or account. 
 
+### Safe Harbor
+
+FollowUp.cc and its controlled U.S. subsidiaries, are participants in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. FollowUp.cc has certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the European Union and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://www.export.gov/safeharbor/). 
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to: [ support@followup.cc](mailto:support@followup.cc). 
+
+Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information on how to file a complaint. 
