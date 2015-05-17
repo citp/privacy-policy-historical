@@ -1,373 +1,200 @@
-<!--The following is the downloaded HTML source of the pepperfry.com privacy policy that was archived on 2014-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230043827id_/http%3A//www.pepperfry.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pepperfry.com privacy policy that was archived on 2015-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150517074418id_/http%3A//www.pepperfry.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="http://c1.pfstat.com">
-<link rel="dns-prefetch" href="http://j1.pepperfry.com">
-<link rel="dns-prefetch" href="http://i1.pfstat.com">
-<link rel="dns-prefetch" href="http://i2.pfstat.com">
-<link rel="dns-prefetch" href="http://i3.pfstat.com">
-<link rel="dns-prefetch" href="//www.pepperfry.com">
-<title>Privacy Policy</title>
-<meta name="description" content="																																																																																																				Privacy Policy																																																																																										">
-<meta name="keywords" content="																																																																																																				Privacy Policy																																																																																										">
-
-<link rel="stylesheet" type="text/css" href="http://c1.pepperfry.com/css/common-ui.css?v=0.818">
-<link rel="stylesheet" type="text/css" href="http://c1.pepperfry.com/css/multiselect/jquery-ui.css?v=0.818">
-             	<link rel="stylesheet" href="http://c1.pepperfry.com/css/static_page.css?v=0.818" type="text/css">
-            	<link rel="stylesheet" href="http://c1.pepperfry.com/css/flexslider.css?v=0.818" type="text/css">
-            	<link rel="stylesheet" href="http://c1.pepperfry.com/css/scrollpane.css?v=0.818" type="text/css">
-      
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TWGMR3"></script><script type="text/javascript">
-	var root_url = 'http://www.pepperfry.com';
-        var secure_url = 'https://www.pepperfry.com';
-	var $current = '/privacy-policy.html';
-	var server_name = 'www.pepperfry.com';
-	var block_reg_popup;
-	var page_type = 'static_pages';
-	var dataLayer=[];
-	var itemData = {};
-        var image_url = 'http://i1.ppfry.com/';
-        var mreg = "";
-</script>
-            <script type="text/javascript">
-                    //mreg = "true";
-                    //mreg = "new";
-                    //mreg = "return";
-                    // get query parameters
-					function getParameterByName(name) {
-						name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-						var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-						results = regex.exec(location.search);
-						return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-					}
-                    mreg = getParameterByName("mreg");
-                    if(!mreg && (mreg == "true" || mreg == "new" || mreg == "return"))
-						first_event = false;
-            </script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <link rel="dns-prefetch" href="http://c1.pfstat.com">
+    <link rel="dns-prefetch" href="http://j1.pepperfry.com">
+    <link rel="dns-prefetch" href="http://i1.pfstat.com">
+    <link rel="dns-prefetch" href="http://i2.pfstat.com">
+    <link rel="dns-prefetch" href="http://i3.pfstat.com">
+    <link rel="dns-prefetch" href="//www.pepperfry.com">
+            <title>Privacy Policy</title>
+                <meta name="description" content="																																																																																																				Privacy Policy																																																																																										">
+                <meta name="keywords" content="																																																																																																				Privacy Policy																																																																																										">
     
-<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery-1.10.0.min.js?v=0.818"></script>
-<script type="text/javascript" src="http://j1.pepperfry.com/js/ui/jquery-ui-1.10.2.custom.js?v=0.818"></script>
-<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.cycle.all.js?v=0.818"></script>
-<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.jscrollpane.js?v=0.818"></script>
-<script type="text/javascript" src="http://j1.pepperfry.com/js/modernizr.js?v=0.818"></script>
-
-<script>
-        var skip_header = 0;
-        var loginFlag=false;
-        function getTopBarLinks() {
-            $.ajax({
-                url:'/site_page/getUserInfo',
-                type:'get',
-                cache: false,
-                success: function (data){
-                        var d = $.parseJSON(data);
-                        var html = '';
-                        if(d.login){
-                            loginFlag=true;
-                            html+='<ul>';
-                                html+= '<li class="user_name">';
-                                html+= 'Hi '+d.name+'</li>';
-
-                                html+='<li class="needhelp">';
-                                    html+='<a href="'+secure_url+'/customer/dashboard">Your Account</a>';
-                                    html+='<div class="drop_tip_cover"><div class="drop_tip">';
-                                        html+='<div class="drop_tip_arrow"><img src="'+image_url+'img/drop_tip_arrow.png" width="13" height="8" /></div>';
-                                        html+='<ul style="width:90px;">';
-                                            html+='<li><a href="'+secure_url+'/customer/account">Account Details</a></li>';
-                                            html+='<li><a href="'+secure_url+'/customer/myorders">Your Orders</a></li>';
-                                            html+='<li><a href="'+secure_url+'/customer/wishlist">Your Wishlist</a></li>';
-                                            html+='<li><a href="'+secure_url+'/customer/logout/">Logout</a></li>';
-                                        html+=' </ul>';
-                                    html+='</div></div>';
-                                html+='</li>';
-
-                                if(!skip_header){
-                                    html+='<li class="minicart_link" id="shoppingcart">';
-                                        $.ajax({
-                                            url:'/site_page/getCartInfo',
-                                            type:'get',
-                                            async:false,
-                                            cache: false,
-                                            success: function (data){
-                                                var abc = createMiniCart(data);
-                                                html+=abc;
-                                            },
-                                            error : function(){
-                                            }
-                                        });
-                                    html+='</li>';
-                                }
-                            html+='</ul>';
-							customer_email = d.email;
-							$("#emailid").val(customer_email);
-							$("#emailid").hide();
-							$("#customer-email").html('<label>'+customer_email+'</label><span id = "emailedit" style = "display:inline;" class="logE"><a onclick="changeEmail();" href="javascript://">edit</a></span>');
-							if($("#emailhidden").length > 0)
-							{
-								$("#emailhidden").val(d.email);
-							}
-							$("#customer-email").show();
-                            $("#signupBox").find("#content").html('<a class="cross" onclick="closeSignin()" href="javascript:void(0)"></a><div class="reg_user_info_wrapper"><p >Hi <strong>'+d.name+'</strong></p><p >You\'re already registered and logged in as <strong>'+d.email+'</strong>. We have exciting discounts on an unlimited range of Furniture, Décor, Furnishings and Kitchen items.</p><p ><a onclick="closeSignin()" href="javascript://">So go ahead and shop!</a></p><p >Warm Regards,<br/>Team Pepperfry.</p></div>');
 
 
-                        }else{
-                            html+='<ul>';
-								customer_email = "";
-								if($("#emailhidden").length > 0)
-								{
-									$("#emailhidden").val("");
-									$("#li-reauth-msg").hide();
-									$("#customer-email").html("");
-									$("#customer-email").hide();
-								}
-								$("#emailid").val("");
-								$("#emailid").show();
-								html+='<li><a href = "javascript://" id = "loginpop" rel="nofollow"  style="color:#ec1e20;"><u><span>Login</span></u></a> or <a href = "javascript://" id = "signuppop" rel="nofollow" style="color:#ec1e20;"><u>Register</u></a></li>';
-                                if(!skip_header){
-                                    html+='<li class="minicart_link" id="shoppingcart">';
-                                        $.ajax({
-                                            url:'/site_page/getCartInfo',
-                                            type:'get',
-                                            async:false,
-                                            cache: false,
-                                            success: function (data){
-                                                var abc = createMiniCart(data);
-                                                html+=abc;
-                                            },
-                                            error : function(){
-                                            }
-                                        });
-                                    html+='</li>';
-                                }
-                            html+='</ul>';
 
-                            if(mreg=='true'){
-                                openModel('mregSignupBox');
-                            }
-                            if(mreg=='new'){
-                                openModel('signupBox');
-                            }
-                            if(mreg=='return'){
-                                $("#loginBox").fadeIn(50);
-                            }
-                        }
-
-
-                        html+='<div class="clearfix"></div>';
-                        $('.right_links').append(html);
-
-                },
-                error : function(){
-                }
-            });
-        }
-
-        function createMiniCart(cart_data) {
-            var cdata = $.parseJSON(cart_data);
-            var cartHtml='';
-            if(cart_data) {
-                var cart_item_count=0;
-                var obj = cdata['cart_item'];
-                for(var prop in obj) {
-                   if (obj.hasOwnProperty(prop)) {
-                      ++cart_item_count;
-                   }
-                }
-                cartHtml = '<div id="parent"><a href="'+root_url+'/checkout/cart" id="item_info" rel="nofollow">';
-                if(cart_item_count > 0){
-                    cartHtml+='My Cart -'+cdata['total_items']+' ';
-                    if(cdata['total_items'] == 1){
-                        cartHtml+='Item,';
-                    }else{
-                        cartHtml+='Items,';
-                    }
-                    cartHtml+='<span class="WebRupee">Rs.</span> '+cdata['total_amount']+'';
-                }else{
-                    cartHtml+='Checkout';
-                }
-                cartHtml+='</a>';
-                cartHtml+='<input id="status" type="hidden" name="status" value="0">';
-                if(cart_item_count > 1){
-                    cartHtml+='<div class="minicart_open"  style="display: none;width:554px;" id="cart_popup"><div class="drop_tip_arrow"><img src="'+image_url+'img/drop_tip_arrow.png" width="13" height="8"></div>';
-                }else{
-                    cartHtml+='<div class="minicart_open"  style="display: none;" id="cart_popup"><div class="drop_tip_arrow"><img src="'+image_url+'img/drop_tip_arrow.png" width="13" height="8"></div>';
-                }
-
-                if(cart_item_count > 0){
-                    cartHtml+='<div class="minicart_open_inner"><div class="product_container"><p style="display: none;" id="message_added" class="empty">Done! Item successfully added to your cart</p>';
-
-                    var i=1;
-                    var display=1;
-                    var total_display_item=0;
-                    $.each(cdata['cart_item'], function(index, val){
-                        //console.log(index+' : '+val['url']+'       ');
-                        if(i > 4) {
-                            display=0;
-                        } else if(i%2 == 0) {
-                            cartHtml+='<div class="product_block last">';
-                        } else {
-                            cartHtml+='<div class="product_block">';
-                        }
-                        if(display == 1)
-                        {
-                            cartHtml+='<div class="min_car_img">';
-                            if(val['image'] != '' || val['image'] != null){
-                                cartHtml+='<a href="'+root_url+'/'+val["url"]+'" class="min_cart"><img src="'+image_url+''+val["image"]+'" width="60" height="66" /></a>';
-                            } else {
-                                cartHtml+='<span style="width="60";height="66";">No Image Found.</span>';
-                            }
-                            cartHtml+='</div>';
-
-                            cartHtml+='<div class="min_car_pro_detail">';
-                            cartHtml+='<p><a  href="'+root_url+'/'+val["url"]+'">';
-                            cartHtml+=val['display_name'];
-                            cartHtml+='</a></p>';
-                            cartHtml+='<p>Price : ';
-                            if(val['is_promo']==0){
-                                cartHtml+='<span class="WebRupee">Rs.</span> '+val['price'];
-                            } else {
-                                cartHtml+='FREE';
-                            }
-                            cartHtml+='</p>';
-                            cartHtml+='<p>Qty :'+val['quantity'];
-                            total_display_item = total_display_item + Number(val['quantity']);
-                            cartHtml+='<a onclick="return validateDelete('+index+');" title="Remove This Item"  class="delete" href="'+root_url+'/Cart/removeitem/'+index+'"></a>';
-                            cartHtml+='</p>';
-                            cartHtml+='</div></div>';
-                        }
-                        i++;
-                    });
-                    cartHtml+='<div class="clearfix"></div>';
-                    if(cart_item_count > 4){
-                        cartHtml+='<div class="price_block extra_item"><p><a href="'+root_url+'/checkout/cart">+'+(cdata['total_items'] - total_display_item)+' item in your cart. See all items in your Shopping Cart</a></p><div class="clearfix"></div></div>';
-                    }
-                    cartHtml+='<div class="clearfix"></div><div class="price_block">';
-                        cartHtml+='<p>Total: <span class="WebRupee">Rs.</span> '+cdata['total_amount']+'</p>';
-                        cartHtml+='<a onclick="minicart_Checkout();" class="button checkout_button" title="Checkout" href="javascript://">';
-                        cartHtml+='<span>Proceed to Secure Checkout</span>';
-                        cartHtml+='</a><div class="clearfix"></div>';
-                    cartHtml+='</div></div>';
-                } else {
-                    cartHtml+='<div class="minicart_open_inner"><p class="empty">You have no items in your shopping cart.</p></div>';
-                }
-                cartHtml+='</div></div>';
-            }
-            return cartHtml;
-        }
-
-        function minicart_Checkout(){
-            setTimeout(function() {
-                dataLayer.push({'category' : 'Header', 'action': 'Click', 'label' : 'Minicart Checkout', 'opt' : true, 'event' : 'legacyevent'});
-                setLocation(root_url+"/checkout/cart/");
-            },100);
-        }
-
-        getTopBarLinks();
+<link rel="stylesheet" type="text/css" href="http://c1.pepperfry.com/css/common.css?v=0.979">
+<link rel="stylesheet" type="text/css" href="http://c1.pepperfry.com/css/fonts/gotham/HCo_fonts.css?v=0.979">
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/scrollpane.css?v=0.979">
+<link rel="stylesheet" type="text/css" href="http://c1.pepperfry.com/css/multiselect/jquery-ui.css?v=0.979">
+          <link rel="stylesheet" href="http://c1.pepperfry.com/css/flexslider.css?v=0.979" type="text/css">
+          <link rel="stylesheet" href="http://c1.pepperfry.com/css/scrollpane.css?v=0.979" type="text/css">
+          <link rel="stylesheet" href="http://c1.pepperfry.com/css/static_page.css?v=0.979" type="text/css">
+    <link rel="stylesheet" href="http://c1.pepperfry.com/css/1850-1750-responsive.css?v=0.979">
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/1650-1500-responsive.css?v=0.979">
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/1250-1130-responsive.css?v=0.979">
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/1090-1024-responsive.css?v=0.979">
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/980-600-responsive.css?v=0.979">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TWGMR3"></script><script type="text/javascript" src="http://j1.pepperfry.com/js/newrelic.js?v=0.979"></script>
+<script type="text/javascript">
+    var root_url = 'http://www.pepperfry.com';
+    var secure_url = 'https://www.pepperfry.com';
+    var $current = '/privacy-policy.html?';
+    var server_name = 'www.pepperfry.com';
+    var block_reg_popup;
+    var page_type = 'static_pages';
+    var dataLayer=[];
+    var itemData = {};
+    var image_url = 'http://i1.ppfry.com/';
+    var product_image_url = 'http://i1.ppfry.com/media/catalog/product/';
+    var max_cart_qty = 20;
+    var mreg = "";
+    var actionFieldGtm = 'Listing';
+    var donation = 35;
+    
+    </script>
+<script type="text/javascript">
+    // get query parameters
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+    
+    mreg = getParameterByName("mreg");
+    if(!mreg && (mreg == "true" || mreg == "new" || mreg == "return")) first_event = false;
 </script>
 
-<!--[if lt IE 7]>
-<script type="text/javascript" src="http://j1.pepperfry.com/js/ie-jquery.js?v=0.818"></script>
-<![endif]-->
+<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery-1.10.0.min.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.cycle-2.js?v=0.979"></script>
+<!--<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.cookie.js?v=0.979"></script>-->
+<script type="text/javascript" src="http://j1.pepperfry.com/js/carousel.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/cycle-swipe.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/site.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/recently_view.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/header.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/customer/validate.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/ui/jquery-ui-1.10.2.custom.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/mousewheel.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/mwheelIntent.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.jscrollpane.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/modernizr.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/gtm.js?v=0.979"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/responsive.js?v=0.979"></script>
+
+<script type="text/javascript">
+    var skip_header = 0;
+    var loginFlag=false;
+    var skip_mini_cart = 0;
+    getTopBarLinks();
+    var _prum = [['id', '5481af64abe53da529e27e27'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+	(function() {
+		var s = document.getElementsByTagName('script')[0]
+		  , p = document.createElement('script');
+		p.async = 'async';
+		p.src = '//rum-static.pingdom.net/prum.min.js';
+		s.parentNode.insertBefore(p, s);
+	})();
+</script>
+
 </head>
 <body>
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TWGMR3"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TWGMR3');</script>
-<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TWGMR3"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TWGMR3');</script>
+    <!-- End Google Tag Manager -->
+   
+  <link rel="publisher" href="https://plus.google.com/+pepperfry">
+<div class="header-wrap">
+        <div class="topbar">
+                <ul>	
+                		<li><a href="/designdemocracy.html">Design Democracy</a></li>
+                        <!--<li><a href="http://blog.pepperfry.com/">bon-homie magazine</a></li>-->
+                        <li><a href="/brands.html">Brands</a></li>
+                        <li class="sellonpepperfry"><a href="javascript:void(0);">Connect with designers</a>
+                        	<div class="drop_tip_cover">
+                                <div class="drop_tip">
+                                <div class="drop_tip_arrow"><img src="http://i1.ppfry.com/img/dec/drop_tip_arrow.png" width="13" height="8"></div>
+                                <ul style="width:170px;">
+                                    <li><a href="/designgurus/join_community" target="_blank">Be a <span class="red">design-guru</span></a></li>
+                                    <li><a href="/designgurus/directory" target="_blank"><span class="red">design-gurus</span> directory</a></li>
+                                </ul>
+                            </div>
+                            </div>
+                        </li>
+                        <li class="sellonpepperfry"><a href="javascript:void(0);">Sell on pepperfry</a>
+                            <div class="drop_tip_cover">
+                                <div class="drop_tip">
+                                    <div class="drop_tip_arrow"><img src="http://i1.ppfry.com/img/dec/drop_tip_arrow.png" width="13" height="8"></div>
+                                    <ul style="width:225px;">
+                                        <li><a href="/merchant/register" target="_blank">Register as a Merchant</a></li>
+                                        <li><a href="/merchant/login" target="_blank">Merchant Dashboard</a></li>
+                                        <li><a href="/sell-with-us.html">Contact Category Manager</a></li>
+                                        <li><a href="/marketplace_policies.html">Pepperfry Marketplace Policies</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="/bulkorder.html">Placing large orders</a></li>
+                        <li><a href="/contact-us.html">Customer support</a></li>
+                </ul>
+        </div>
+        <div class="header">
+            <div class="header_inner middle_wrapper clearfix">
+            	<a href="javascript:void(0)" class="mobilemenu_icon"></a>
+                <a href="http://www.pepperfry.com" class="logo" id="site-logo"></a>
+                <div class="search_wrapper">
+                	<div itemscope="" itemtype="http://schema.org/WebSite" id="header_search"><meta itemprop="url" content="http://www.pepperfry.com/">
+                		<form onsubmit="javascript:return checkForm();" method="get" action="http://www.pepperfry.com/site_product/search" id="search_mini_form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction"><meta itemprop="target" content="http://www.pepperfry.com/site_product/search?q={q}">
+                                        <input class="search_input" autocomplete="off" name="q" id="search" placeholder="Search for more..." type="text" itemprop="query-input"> 
+                                        <div class="searchButtons">
+                                            <span class="clearTextBox"></span>
+                                            <input type="button" id="searchButton">
+                                        </div>
+                			<input name="src" id="search_os" value="os" type="hidden">
+                			<input name="cat" id="cat" value="" type="hidden">
+							<div id="site_auto_suggest"></div>
+							<!--<input name="search_submit" id="search_submit" value="" type="submit" />-->
+						</form>
+						<script type="text/javascript">$(function (){initAutoComplete();});</script>
+					</div>
+                </div>
+                <a href="javascript:void(0)" class="acc_mob_icon"></a>
+                <div class="header_right">
+                	
+                </div>
+               	<div id="white_overlay_2"></div>
+               	
+            </div>
+        </div>
+        <div class="fix_pos"></div>
 
-<!--<div id="main">-->
-	<!--<div class="header">	-->
-    		 <link rel="publisher" href="https://plus.google.com/+pepperfry">
-<div id="floating_menu">
-<div class="top_menu">
-    <div class="top_menu_main">
-        <div class="left_links">
-            	<ul>
-                	<!--<li><a href="/contact-us.html#free_shipping">Free Shipping Over Rs.499</a>&nbsp;  |</li> -->
-                    <li> <a href="http://blog.pepperfry.com/">Blog</a>&nbsp; |</li>
-                    <li class="sellonpepperfry"> <a href="javascript:void(0);">design-gurus</a>&nbsp; | <div class="drop_tip_cover">
-                    	<div class="drop_tip">
-                        <div class="drop_tip_arrow"><img src="http://i1.ppfry.com/img/drop_tip_arrow.png" width="13" height="8"></div>
-                        <ul style="width:131px;">
-                            <li><a href="http://www.pepperfry.com/designgurus/join_community" target="_blank">Be a <span class="red">design-guru</span></a></li>
-                            <li><a href="http://www.pepperfry.com/designgurus/directory" target="_blank"><span class="red">design-gurus</span> directory</a></li>
-                        </ul>
-                    </div>
-                    </div></li>
-                    <li class="brands"><a href="http://www.pepperfry.com/brands.html" id="top_brands">Brands</a>&nbsp; | </li>
-                    <!--<li class="engage"> <a href="javascript:void(0);">Engage</a>&nbsp; |<div class="drop_tip_cover">
-                    <div class="drop_tip">
-                        <div class="drop_tip_arrow"><img src="http://i1.ppfry.com/img/drop_tip_arrow.png" width="13" height="8"></div>
-                        <ul class="footer_social" style="width:174px;">
-                            <li class="f_icon"><a target="_blank" href="http://twitter.com/pepperfry">Twitter</a></li>
-                            <li class="t_icon"><a target="_blank" href="http://www.facebook.com/Pepperfry">Facebook</a></li>
-                            <li class="p_icon"><a target="_blank" href="http://pinterest.com/pepperfry/">Pinterest</a></li>
-                            <li class="y_icon"><a target="_blank" href="http://www.youtube.com/user/Pepperfrytv"></a> </li>
-                            <li class="pflive_icon"><a target="_blank" href="http://www.pepperfry.com/community.html"></a> </li>
-                        </ul>
-                    </div>
-                </div></li>-->
-
-                    <li class="sellonpepperfry"> <a href="javascript:void(0);">Sell On Pepperfry</a>&nbsp; | <div class="drop_tip_cover">
-                    <div class="drop_tip">
-                        <div class="drop_tip_arrow"><img src="http://i1.ppfry.com/img/drop_tip_arrow.png" width="13" height="8"></div>
-                        <ul style="width:176px;">
-                            <li><a href="https://www.pepperfry.com/merchant/register" target="_blank">Register as a Merchant</a></li>
-                            <li><a href="https://merchant.pepperfry.com/merchant/login" target="_blank">Merchant Dashboard</a></li>
-                            <li><a href="http://www.pepperfry.com/sell-with-us.html">Contact Category Manager</a></li>
-                            <li><a href="http://www.pepperfry.com/marketplace_policies.html">Pepperfry Marketplace Policies</a></li>
-                        </ul>
-                    </div>
-                </div></li>
-                    <li> <a href="http://www.pepperfry.com/bulkorder.html">Bulk Orders</a>&nbsp; |</li>
-                    <li> <a href="http://www.pepperfry.com/contact-us.html">Customer Support</a>&nbsp; |</li>
-                    <li> <a href="http://www.pepperfry.com/contact-us.html#track_wrapper" style="color:#ec1e20;">Track Your Package</a></li>
-               </ul>
-            <div class="clearfix"></div>
-       </div>
-        <div class="right_links">
-	</div>
-        <div class="clearfix"></div>
-    </div>
-    <div class="clearfix"></div>
+        <div class="menu_wrapper" id="menu_wrapper">
+<ul>
+<li><a href="/furniture.html" rel="nav_furniture" class="level-top">FURNITURE</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/home-decor.html" rel="nav_home" class="level-top">HOME DÉCOR</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/furnishings.html" rel="nav_furnishings" class="level-top">FURNISHINGS</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/lamps-lighting.html" rel="nav_lamps" class="level-top">LAMPS &amp; LIGHTING</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/kitchen-dining.html" rel="nav_kitchen" class="level-top">KITCHEN &amp; DINING</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/appliances.html" rel="nav_appliances" class="level-top">APPLIANCES</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/bath.html" rel="nav_bath" class="level-top">BATH</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/laundry-housekeeping.html" rel="nav_housekeeping" class="level-top">HOUSEKEEPING</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/pet-supplies.html" rel="nav_pet" class="level-top">PET SUPPLIES</a></li>
+</ul>		</div>
+        <div id="megamenu"></div>
 </div>
-
-<div class="clearfix" id="logo_wrapper">
-        <a href="http://www.pepperfry.com"><img src="http://www.pepperfry.com/img/redesign/pfry_logo.png" alt=""></a>
-</div>
-
-    		<div id="navigation_holder" class="clearfix"> <div class="navigation">
-
-		<ul id="navigation">
-<li class="level0 nav-2 level-top"><a class="level-top sf-with-ul" href="http://www.pepperfry.com/furniture.html?type=hover-cat-nav"><span>Furniture</span></a></li>
-<li class="level0 nav-3 level-top"><a class="level-top sf-with-ul" href="http://www.pepperfry.com/home-decor.html?type=hover-cat-nav"><span>Home Décor</span></a></li>
-<li class="level0 nav-4 level-top"><a class="level-top sf-with-ul" href="http://www.pepperfry.com/furnishings.html?type=hover-cat-nav"><span>Furnishings &amp; Lamps</span></a></li>
-<li class="level0 nav-7 level-top"><a class="level-top sf-with-ul" href="http://www.pepperfry.com/bed-bath.html?type=hover-cat-nav"><span>Bed &amp; Bath</span></a></li>
-<li class="level0 nav-5 level-top"><a class="level-top" href="http://www.pepperfry.com/kitchen-dining.html?type=hover-cat-nav"><span>Kitchen</span></a></li>
-<li class="level0 nav-4 level-top"><a class="level-top sf-with-ul" href="http://www.pepperfry.com/appliances.html?type=hover-cat-nav"><span>Appliances</span></a></li>
-<li class="level0 nav-9 level-top"><a class="level-top sf-with-ul" href="http://www.pepperfry.com/laundry-housekeeping.html?type=hover-cat-nav"><span>Housekeeping</span></a></li>
-<li class="level0 nav-13 level-top"><a class="level-top sf-with-ul nomargin_right" href="http://www.pepperfry.com/pet-supplies.html?type=hover-cat-nav"><span>Pets &amp; Gardening</span></a></li>
-<li class="search_li">
-<div itemscope="" itemtype="http://schema.org/WebSite" id="header_search"><meta itemprop="url" content="http://www.pepperfry.com/"><form onsubmit="javascript:return checkForm();" method="get" action="/site_product/search" id="search_mini_form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction"><meta itemprop="target" content="http://www.pepperfry.com/site_product/search?q={q}"><input class="srch_input" autocomplete="off" name="q" id="search" placeholder="Search" type="text" itemprop="query-input"> <input name="src" id="search_os" value="os" type="hidden"><input name="cat" id="cat" value="" type="hidden">
-<div id="site_auto_suggest"><input name="search_submit" id="search_submit" value="" type="submit"></div>
-</form></div>
-</li>
-</ul>		</div></div>
-		    	<script>
-				$("#first, .menudropbox").mouseover(function () {
-				  //$(".menudropbox").show("slow");
-				});
-		</script>
-</div>
-<div id="main_container">
     <script>
         var cid = '';
     </script>
@@ -376,14 +203,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
 
-  	<!--</div>-->
-  	<script type="text/javascript">
-  		$('.menudropbox').hide();
-  	</script>
-
-
-  <div id="container">
-      																				<div class="static_container privacy_policy">
+  
+	<!-- Main Wrapper starts -->
+<div id="wrapper">
+ 																				<div class="static_container privacy_policy">
 <h1><span class="red">privacy</span> policy</h1>
 <div class="data_container">
 
@@ -429,16 +252,14 @@ isloggedin = 0;
  font-weight: 400;
  src: url(http://www.pepperfry.com/css/m/fonts/M2Jd71oPJhLKp0zdtTvoMzpKUtbt71woJ25xl7KOGD0.ttf) format('truetype');
 }
-</style>    <div class="content">
-        <a class="hotoffer" id="hotoffer"> </a>
-        
+</style>
+<div id="search-loader-container">
+    <div id="search-loader">
+        <img width="187" src="http://i1.ppfry.com/img/grey_loader.gif">
     </div>
-	<!--<a href="/careers.html" class="were_hiring">We're <br />Hiring!</a>-->
- </div>
-<!--</div>-->
-
-<div id="spicy-offer" class="transparent_bg" style="display:none;">
-	   <div id="box" class="popup_container" style="top: -450px; z-index: 1000001;"><img id="boxclose" class="cross" style="margin: 0; top: 10px; right: 10px; border: 0px; background: #fff; cursor: pointer;" src="/img/cross_spicy.jpg" alt="">
+</div> 
+    <div class="content"><a class="hotoffer" id="hotoffer"> </a></div>
+    <div id="spicy-offer" class="transparent_bg" style="display:none;">   <div id="box" class="popup_container" style="top: -450px; z-index: 1000001;"><img id="boxclose" class="cross" style="margin: 0; top: 10px; right: 10px; border: 0px; background: #fff; cursor: pointer;" src="http://i1.ppfry.com/img/cross_spicy.jpg" alt="">
 <div class="overlay-inner-bg" style="width: auto;">
 <div class="popup">
 <table style="border: 1px solid #dedede; width: 100%;" border="0" cellspacing="0" cellpadding="0">
@@ -467,525 +288,214 @@ $('#boxclose').click(function(){
 			});
 // ]]></script>        
       </div>
-
-<!-- Footer Start Here -->
-<div class="clearfix"></div>
-</div><!-- close main div which is opened in header -->
-<div class="footer">
-           	<script type="text/javascript">
-var first_event = false;
-var show_reg_popup=true;
-var otp_register=false;
-var show_reg_popup=true;
-
-			
-		
-	//console.log(show_reg_popup);
-	if(show_reg_popup==true)
-	{
-		$(window).load(function() 
-		{
-			setTimeout(function() {
-				if (typeof block_reg_popup !=='undefined')
-				{
-					show_reg_popup=false;
-				}
-				else
-				{
-					var date = new Date();
-					
-					var date_value=new Date();
-
-					
-					
-
-					var cookie_data_counter=readCookie('popup_counter');
-					var cookie_data_date=readCookie('popup_date');
-					var dt = new Date(cookie_data_date);
-
-					var new_counter=1;
-
-					if(cookie_data_counter && cookie_data_counter > 0)
-					{
-						if(cookie_data_counter==3) // 3rd day
-						{
-							if(cookie_data_date)
-							{
-								var hours = Math.abs(date_value.getTime() - dt.getTime()) / 3600000;
-								//hours=97;
-								if(hours <=96 )
-								{
-									show_reg_popup=false;
-									new_counter=3;
-								}
-								else
-								{
-									new_counter=4;
-								}
-							}
-						}
-						else if(cookie_data_counter==4) // after 96 hours reset it to 1
-						{
-							new_counter=1;	
-						}
-						else
-						{
-							if(parseInt(cookie_data_counter) > 0)
-							{
-								new_counter=parseInt(cookie_data_counter) + 1;
-							}
-							else
-							{
-								new_counter=2;
-							}
-						}
-					}
-
-					if(show_reg_popup==true)
-					{
-						first_event = true;
-						openModel('signupBox');
-						//$("#signupBox").fadeIn(50);
-						dataLayer.push({'category' : 'reg_modal', 'action': 'modal_launch', 'label' : 'modal_open', 'opt' : true, 'event' : 'legacyevent'});
-						createCookie('display_popup','1',-1);
-						createCookie('popup_counter',new_counter,5);
-						createCookie('popup_date',date_value,5);
-					}					
-				}
-			},10000);
-		});	
-	}
-	
-	$(document).ready(function(){
-		var frgpx = readCookie('frgpx');
-		if(parseInt(frgpx) == 1) {
-			createCookie('frgpx',0,1800);
-		} else {
-			frgpx = 0;
-		}
-		if(parseInt(frgpx) == 1)
-		{ 
-			$("#offerPopups").fadeIn(50);
-			//Google Code for Registration Conversion Page
-			/* <![CDATA[ */
-			var google_conversion_id = 1012760616;
-			var google_conversion_language = "en";
-			var google_conversion_format = "3";
-			var google_conversion_color = "ffffff";
-			var google_conversion_label = "wBKZCIjoywIQqID24gM";
-			var google_conversion_value = 0;
-			/* ]]> */
-			
-			var script = document.createElement('script');
-			script.src = '//www.googleadservices.com/pagead/conversion.js';
-			document.documentElement.firstChild.appendChild(script);
-			
-			//Non checkout Registration pixel
-			dataLayer.push({'category' : 'Registration', 'action': 'Signup', 'label' : 'Non_checkout', 'opt' : true, 'event' : 'legacyevent'});
-		}
-	});
-</script>
-	<div id="offerPopups" class="transparent_bg" style="display:none;">
-		 	<div class="popup_container" style="width:650px; top:50%; left:50%;">       
-		<img src="http://i1.ppfry.com/img/reg_congratulations_new_25_sep_2014.jpg">		    
-    		<a href="#" class="cross" onclick="closeoffer()" style="margin-top:0px;"></a>
-	</div>
-  <script>
-	function closeoffer(){
-		$('.transparent_bg').hide();
-		$('.popups').html('');
-}
- </script>
- 
-		
-	</div>     
-<div id="footer">
-    <div id="footer_inner" class="clearfix">
-         <div class="footer_nav" id="footer_nav_1">
-            <h3><a href="/buying-furniture-online.html">Buying Furniture Online</a></h3>
-            <ul>
-                <li><a href="/buying-furniture-online.html#bfo_slide">Buy From the Comfort of Your Home</a></li>
-                <li><a href="/buying-furniture-online.html#bfo_testimonials_wrap">Customer Testimonials</a></li>
-                <li><a href="/buying-furniture-online.html#bfo_customize_wrap">Customize Your Furniture</a></li>
-                <li><a href="/buying-furniture-online.html#bfo_form_container">Design Your Own Furniture</a></li>
-                <li><a href="/buying-furniture-online.html#bfo_caring_wrap">Care For Your Furniture</a></li>
-<!--                <li><a href="/buying-furniture-online.html#bfo_download_wrap">Pepperfry Furniture Assurance</a></li>-->
-            </ul>
-        </div>
-        <div class="footer_nav" id="footer_nav_2">
-            <h3><a href="/merchant/register">Sell on Pepperfry</a></h3>
-            <ul>
-                <li><a href="/sell-with-us.html">Contact a Category Manager</a></li>
-                <li><a href="/merchant/register#merchant_register">Register as a Merchant</a></li>
-                <li><a href="/merchant/register#sop_policies_wrap">Pepperfry Marketplace Policies</a></li>
-                <li><a href="/merchant/login">Login to Your Merchant Dashboard</a></li>
-            </ul>
-        </div>
-        <div class="footer_nav" id="footer_nav_3">
-            <h3><a href="/home-inspiration.html">Home Inspiration</a></h3>
-            <ul>
-                <li><a href="/home-inspiration.html#brows_guru_dir">Our Blog <span class="bonhomie_text"><font class="black">bon-</font>homie!</span></a></li>
-                <li><a href="/home-inspiration.html#inspiration_middle">design-gurus</a></li>
-                <li><a href="/home-inspiration.html#explore_bon_homie_btn">Design Your Own Furniture</a></li>
-            </ul>
-        </div>
-        <div class="footer_nav" id="footer_nav_4">
-            <h3><a href="/about.html">About Us</a></h3>
-            <ul>
-                <li><a href="/about.html#about_story">Our Story</a></li>
-                <li><a href="/about.html#about_news">In the News</a></li>
-                <li><a href="/about.html#about_interesting">Cool Stats</a></li>
-                <li><a href="/furniture-studio-pepperfry-products.html" class="red">Studio Pepperfry</a></li>
-            </ul>
-        </div>
-        <div class="footer_nav" id="footer_nav_5">
-            <h3><a href="/contact-us.html">Customer Support</a></h3>
-            <ul>
-                <li><a href="/contact-us.html">Track Your Package</a></li>
-                <li><a href="/contact-us.html">Contact Customer Support</a></li>
-                <li><a href="/easy_returns.html">Returns &amp; Refunds</a></li>
-                <li><a href="/contact-us.html#faq_main_wrap">FAQs</a></li>
-            </ul>
-        </div>
-        <div class="clear15"></div>
-        <div class="footer_mainlinks clearfix">
-            <div class="footer_main_link_wrap">
-                    <a href="/bulkorder.html">Buy In <span class="red">Bulk</span></a>
-                <a href="#" id="footer_testimonial">Write a <span class="red">Testimonial</span></a>
-                <a href="http://blog.pepperfry.com/"><img src="http://i1.ppfry.com/img/redesign/bon-homie-blog.png" alt=""></a>
-            </div>
-        </div>
-        <div class="clearfix"></div>
-        <h3 class="footer_sub_header">Engage With Us</h3>
-        <div class="aligncenter" id="footer_socialmedia">
-            <a href="http://twitter.com/pepperfry" target="_blank"><img src="http://i1.ppfry.com/img/redesign/twitter-icon.gif" alt=""></a>
-            <a href="http://www.facebook.com/Pepperfry" target="_blank"><img src="http://i1.ppfry.com/img/redesign/facebook-icon.gif" alt=""></a>
-            <a href="http://pinterest.com/pepperfry/" target="_blank"><img src="http://i1.ppfry.com/img/redesign/pinterest-icon.gif" alt=""></a>
-            <a href="http://www.youtube.com/user/Pepperfrytv" target="_blank"><img src="http://i1.ppfry.com/img/redesign/youtube-icon.gif" alt=""></a>
-            <div class="fb_like">
-            <div id="fb-root"></div>
-<script>
-$( window ).load(function() {
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-});</script>
-
-<div class="fb-like" data-href="https://www.facebook.com/Pepperfry/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></div>
-        </div>
-        <div class="clearfix"></div>
-        <h3 class="footer_sub_header">Popular Categories</h3>
-<div class="aligncenter foot_links_wrap"><a title="Queen Size Beds" href="http://www.pepperfry.com/furniture-beds-queen-size.html?type=hp-footer-links-1">Queen Size Beds</a>, <a title="King Size Beds" href="http://www.pepperfry.com/furniture-beds-king-size.html?type=hp-footer-links-2">King Size Beds</a>, <a title="Coffee &amp; Centre Tables" href="http://www.pepperfry.com/furniture-tables-coffee-centre-tables.html?type=hp-footer-links-3">Coffee &amp; Centre Tables</a>, <a title="Dining Sets" href="http://www.pepperfry.com/furniture-dining-dining-sets.html?type=hp-footer-links-4">Dining Sets</a>, <a title="Recliners" href="http://www.pepperfry.com/furniture-sofas-recliners.html?type=hp-footer-links-5">Recliners</a>, <a title="Sofa cum Beds" href="http://www.pepperfry.com/furniture-sofas-sofa-cum-beds.html?type=hp-footer-links-6">Sofa cum Beds</a>, <a title="Rocking Chairs" href="http://www.pepperfry.com/furniture-chairs-rocking-chairs.html?type=hp-footer-links-7">Rocking Chairs</a>, <a title="Crockery Cabinets" href="http://www.pepperfry.com/furniture-cabinets-crockery-cabinets.html?type=hp-footer-links-8">Crockery Cabinets</a>, <a title="Book Shelves" href="http://www.pepperfry.com/furniture-book-shelves.html?type=hp-footer-links-9">Book Shelves</a>, <a title="Entertainment Units" href="http://www.pepperfry.com/furniture-entertainment-units.html?type=hp-footer-links-10">Entertainment Units</a>, <a title="Wardrobes" href="http://www.pepperfry.com/furniture-wardrobes.html?type=hp-footer-links-11">Wardrobes</a>, <a title="Garden &amp; Outdoor" href="http://www.pepperfry.com/furniture-garden-outdoor-furniture.html?type=hp-footer-links-12">Garden &amp; Outdoor</a>, <a title="Bar Furniture" href="http://www.pepperfry.com/furniture-bar-furniture.html?type=hp-footer-links-13">Bar Furniture</a>, <a title="Wall Shelves" href="http://www.pepperfry.com/home-decor-wall-shelves.html?type=hp-footer-links-15">Wall Shelves</a>, <a title="Wall Art" href="http://www.pepperfry.com/home-decor-wall-art.html?type=hp-footer-links-16">Wall Art</a>, <a title="Photo Frames" href="http://www.pepperfry.com/home-decor-photo-frames.html?type=hp-footer-links-17">Photo Frames</a>, <a title="Bed Sheets" href="http://www.pepperfry.com/furnishings-bed-spreads.html?type=hp-footer-links-18">Bed Sheets</a>, <a title="Mattresses" href="http://www.pepperfry.com/furnishings-mattresses.html?type=hp-footer-links-19">Mattresses</a>, <a title="Blankets &amp; Quilts" href="http://www.pepperfry.com/furnishings-blankets-quilts.html?type=hp-footer-links-20">Blankets &amp; Quilts</a>, <a title="Table Linen" href="http://www.pepperfry.com/kitchen-linen-textiles.html?type=hp-footer-links-21">Table Linen</a>, <a title="Water Purifiers" href="http://www.pepperfry.com/appliances-water-purifiers.html?type=hp-footer-links-22">Water Purifiers</a>, <a title="Gas Stoves" href="http://www.pepperfry.com/appliances-gas-stoves.html?type=hp-footer-links-23">Gas Stoves</a>, <a title="Microwave &amp; OTG" href="http://www.pepperfry.com/appliances-microwave-otg.html?type=hp-footer-links-24">Microwave &amp; OTG</a>, <a title="Geysers" href="http://www.pepperfry.com/appliances-geysers.html?type=hp-footer-links-25">Geysers</a>, <a title="Dinner Sets" href="http://www.pepperfry.com/kitchen-dining-dinner-sets.html?type=hp-footer-links-26">Dinner Sets</a>, <a title="Cookware Sets" href="http://www.pepperfry.com/kitchen-dining-cookware-cookware-sets.html?type=hp-footer-links-27">Cookware Sets</a>, <a title="Food Storage" href="http://www.pepperfry.com/kitchen-dining-storage.html?type=hp-footer-links-28">Food Storage</a>, <a title="Bathroom Scales" href="http://www.pepperfry.com/bed-bath-bathroom-scales.html?type=hp-footer-links-29">Bathroom Scales</a>, <a title="Bath Robes" href="http://www.pepperfry.com/bath-body-towels-bath-robes-gowns.html?type=hp-footer-links-30">Bath Robes</a>, <a title="Bathroom Cabinets" href="http://www.pepperfry.com/bed-bath-bathroom-cabinets.html?type=hp-footer-links-31">Bathroom Cabinets</a>, <a title="Shower Curtains" href="http://www.pepperfry.com/bath-body-shower-curtains.html?type=hp-footer-links-32">Shower Curtains</a>, <a title="Clothes Dryers" href="http://www.pepperfry.com/home-utility-laundry-cloth-dryers.html?type=hp-footer-links-33">Clothes Dryers</a>, <a title="Laundry Baskets" href="http://www.pepperfry.com/home-utility-laundry-baskets.html?type=hp-footer-links-34">Laundry Baskets</a></div>
-<div class="clearfix"></div>
-<h3 class="footer_sub_header">Popular Brands</h3>
-<div class="aligncenter foot_links_wrap"><a title="Mudra" href="http://www.pepperfry.com/brands/mudra.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-1">Mudra</a>, <a title="Tupperware" href="http://www.pepperfry.com/brands/tupperware.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-2">Tupperware</a>, <a title="Nilkamal" href="http://www.pepperfry.com/brands/nilkamal.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-3">Nilkamal</a>, <a title="Prestige" href="http://www.pepperfry.com/brands/prestige.html?cat=8&amp;type=brands-page-11&amp;type=hp-footer-link-brands-4">Prestige</a>, <a title="Morphy Richards" href="http://www.pepperfry.com/brands/morphy-richards.html?cat=8&amp;type=brands-page-19&amp;type=hp-footer-link-brands-5">Morphy Richards</a>, <a title="Housefull" href="http://www.pepperfry.com/housefull.html?type=hp-footer-link-brands-6">Housefull</a>, <a title="Fos Lighting" href="http://www.pepperfry.com/brands/fos-lighting.html?type=hp-footer-link-brands-7">Fos Lighting</a>, <a title="Little India" href="http://www.pepperfry.com/brands/little-india.html?type=brands-page-8&amp;type=hp-footer-link-brands-8">Little India</a>, <a title="Bombay Dyeing" href="http://www.pepperfry.com/brands/bombay-dyeing.html?type=hp-footer-link-brands-9">Bombay Dyeing</a>, <a title="Bajaj" href="http://www.pepperfry.com/brands/bajaj.html?cat=8&amp;type=brands-page-12&amp;type=hp-footer-link-brands-10">Bajaj</a>, <a title="Springfit" href="http://www.pepperfry.com/springfit.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-11">Springfit</a>, <a title="Swayam" href="http://www.pepperfry.com/brands/swayam.html?cat=11&amp;type=brands-page-21&amp;type=hp-footer-link-brands-12">Swayam</a>, <a title="Stellar" href="http://www.pepperfry.com/brands/stellar.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-13">Stellar</a>, <a title="Eureka Forbes" href="http://www.pepperfry.com/brands/eureka-forbes.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-14">Eureka Forbes</a>, <a title="Coirfit" href="http://www.pepperfry.com/brands/coirfit.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-15">Coirfit</a>, <a title="Hawkins" href="http://www.pepperfry.com/brands/hawkins.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-16">Hawkins</a></div>        <div class="clearfix"></div>
-        <h3 class="footer_sub_header">Pay With Confidence</h3>
-        <div class="aligncenter trusted_box">
-            <img src="http://i1.ppfry.com/img/redesign/mastercard-icon.jpg" alt="">
-            <img src="http://i1.ppfry.com/img/redesign/visa-icon.jpg" alt="">
-            <img src="http://i1.ppfry.com/img/redesign/etrust-icon.jpg" alt="">
-            <img src="http://i1.ppfry.com/img/redesign/paypal-icon.jpg" alt="">
-            <img src="http://i1.ppfry.com/img/redesign/pci-icon.jpg" alt="">
-        </div>
-    </div>
-</div>
-<div id="lowerfooter">
-    <div id="lowerfooter_inner" class="clearfix">
-            <span class="copyright_text">© Trendsutra platform services</span>
-        <div class="copyright_menu">
-            <ul>
-                <li><a href="http://www.pepperfry.com/careers.html">Careers</a></li>
-                <li><a href="http://www.pepperfry.com/sitemap.html">Sitemap</a></li>
-                <li><a href="http://www.pepperfry.com/terms-of-use.html">Terms of Use</a></li>
-                <li><a href="http://www.pepperfry.com/privacy-policy.html">Privacy Policy</a></li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="transoverlay"></div>
-        	            </div>
-<div id="quick_view" class="transparent_bg" style="display:none;">
-	<div class="popup_container" style="width:930px; left:39%; top:44%;">
-		<div class="quick_look">
-
-		</div>
-	</div>
-</div>
-<div id="guide_pop" class="transparent_bg" style="display:none;">
-	<div class="popup_container" style="width:486px; top:43%; left:55%;">
-    <div class="popup_inner">
-    </div>
-    </div>
-</div>
-<!-- Footer Ends Here -->
-
+   
+    <!-- Quick view container -->
+    <div id="quick_view" class="transparent_bg" style="display:none;"><div class="popup_container" style="width:930px; left:39%; top:44%;"><div class="quick_look"></div></div></div>
+    <!-- Size Guide Container -->
+    <div id="guide_pop" class="transparent_bg" style="display:none;"><div class="popup_container" style="width:486px; top:43%; left:55%;"><div class="popup_inner"></div></div></div>
 
 <!-- login signup and forget and spicy offer div -->
-<div id="back-top">
-	<a href="#">Back to Top</a>
-</div>
-	<div id="loginBox" class="transparent_bg" style="display:none;">
-		<div class="popup_container sign_in_modal" style="left:60%;">
-			<div class="overlay-inner-bg" style="width:310px;">
-				 <script type="text/javascript">var customer_email = '';</script>
-<a href="javascript:void(0)" onclick="closeSignin()" class="cross"></a>
-	<div class="left_block">
-    	<div class="heading">
-        	<img src="http://i1.ppfry.com/img/pf_logo.png?v=4" width="158" height="47"><br>
-        	<div class="login_subheading">Your Home, <span class="red">Unlimited</span></div>
-        </div>
-        <div class="clearfix"></div>
-      		<div class="sign_signup_form">
-				<form name="myLoginForm" onload="reset()" id="login-form" method="post" action="https://www.pepperfry.com/customer/authenticate">
-					<div class="red" id="login_error"></div>
-         
-					<ul>
-					
-						<li>
-						    <input type="text" placeholder="Email ID - eg: taaza.tamatar@domain.com" name="user[new]" id="emailid" autocomplete="off">
-							<span id="email" style="color:#EB340A" class="logE"></span>
-							<div id="email_Error" class="validation-advice" style="display:none">Please enter a valid email address. For example taaza.tamatar@domain.com.</div>
-						    							 <div class="clearfix"></div>
-						</li>
-                        						<li>
-							<input type="password" placeholder="Password" class="login_input" name="password" id="password" autocomplete="off">
-							<span id="password" style="color:#EB340A" class="logE"></span>
-							<div id="passwordError" class="validation-advice" style="display:none">Please enter Password.</div>
-							 <div class="clearfix"></div>
-						</li>
-						<li>
-							<div class="forgot_password"><label><input name="rememberMe" type="checkbox" value=""> Remember me</label> <a href="javascript:void(0)" class="forgot-password" id="frgtPass">Forgot Password?</a></div>
-						</li>
-						<li>
-						   	<input type="button" id="logSubmit" title="Submit" class="loginSubmit" onclick="return loginValidation(this.id)" name="submit" value="Log In">
-						</li>
-					</ul>
-				</form>
-            </div>
-           <div class="clearfix"></div>
-			 <div class="no_account">Do not have an account? <a class="register-now red" href="javascript:void(0)" style="text-decoration:none;" id="signuppop1">Register Now</a></div>
-        </div>
-       
-       <script>
 
-       function closeSignin(){
-    		$('#login-form')[0].reset();
-	  		$('#login-form .validation-advice').css("display","none");
-			$('.transparent_bg').hide();
-			$('.popups').html('');
-		}	
-	$('.input').keypress(function (e) {
-		  if (e.which == 13) {
-		$('#login-formn').submit();
-		return true;    //<---- Add this line
-	  }
-	});
-	</script>
-	<script type="text/javascript">var server_name = "www.pepperfry.com";</script>			</div>
-		</div>
-	</div>
-	<div id="signupBox" class="transparent_bg" style="display:none;">
-		<div class="popup_container sign_in_modal" style="left: 49%;top: 46%;">
-			<div id="content" class="overlay-inner-bg" style="width:620px;">
-				 		<a class="cross" onclick="closeSignup()" href="javascript:void(0)"></a>
-		
-        <div class="reg_msg"><img src="/img/reg_message_10000.png" width="249" height="235" class="reg_msg_img"></div>
-        
-		<div class="left_block left_block_new" style="width:272px;">
-			<h2>Register</h2>
-          	<div class="sign_signup_form">
-				<form name="myFrom" id="signup-form" method="post" action="https://www.pepperfry.com/customer/ajax_register" rel="signupBox">
-					<input type="hidden" name="csrf_token" value="93dd4d9afd3d719577b732b05b6a89c81551e3522685f3576afec9d457574e66">					<span style="color:#990000; font-size:14px;">
-											</span>
-					<div id="error_msg" class="error"></div>
-					<ul>
-						<li>  
-							<input type="text" placeholder="Email ID - eg: taaza.tamatar@domain.com" value="" name="email" id="email" maxlength="100" autocomplete="off"><br>
-							<div id="emailError" class="validation-advice" style="display:none">Please enter a valid email address. For example taaza.tamatar@domain.com</div>
-							<span class="error_msg" id="email"></span>
-							<span><em>Coupons worth <span class="WebRupee" style="display:inline;">Rs.</span> 10,000* will be sent to this email id.</em></span>
-						</li>
-						<li>
-							<div class="form_field_left">
-								<input type="text" placeholder="First Name" value="" name="firstname" maxlength="35" id="firstname" autocomplete="off">
-								<span class="error_msg" id="firstname"></span>
-								<div id="fnameError" class="validation-advice" style="display:none">Please use letters only (a-z or A-Z) in this field.</div>
-							</div>
-							<div class="form_field_right">
-								<input type="text" placeholder="Last Name" value="" name="lastname" maxlength="35" id="lastname" autocomplete="off">
-								<span class="error_msg" id="lastname"></span>
-								<div id="lnameError" class="validation-advice" style="display:none">Please use letters only (a-z or A-Z) in this field.</div>
-							</div>
-							<div class="clearfix"></div>
-						</li>
-						<li>
-						    <input type="text" maxlength="10" pattern="[0-9]*" placeholder="Mobile - eg: 9800000000" value="" class="login_input onlynumbers" id="mobile" name="mobile" autocomplete="off"><br>
-							<span class="error_msg" id="mobile"></span>
-							<div id="mobileError" class="validation-advice" style="display:none">Enter correct mobile number (Eg:9800000000)</div>
-							 <div class="clearfix"></div>
-						</li><li>
-						    Gender : <label> <input name="gender" type="radio" id="gen" value="123"> Male</label> &nbsp;&nbsp;<label><input type="radio" value="124" name="gender" id="gen"> Female</label>
-							<span class="error_msg" id="gender"></span>
-							<div id="genderError" class="validation-advice" style="display:none">Please select gender.</div>
-							 <div class="clearfix"></div>
-						</li>								
-						<li>
-							<div class="form_field_left">
-								<input type="password" placeholder="Password" name="password1" id="password1" maxlength="30" autocomplete="off">
-								<span class="error_msg" id="password1"></span>
-								<div id="passwordError" class="validation-advice" style="display:none">Please enter password.</div>
-							</div>
-							<div class="form_field_right">
-							    <input type="password" placeholder="Confirm Password" name="password2" maxlength="30" id="password2" autocomplete="off">
-								<span class="error_msg" id="password2"></span>
-								<div id="confirmPasswordError" class="validation-advice" style="display: none;">Please make sure your passwords match.</div>
-							</div>
-							<div class="clearfix"></div>
-						</li>                        
-						<li><label> <input name="terms" class="terms" type="checkbox" value=""> I agree to the  <a class="term-condi" href="/terms-of-use.html" target="_blank">Terms and Conditions </a></label>
-						<div id="terms" class="validation-advice" style="display:none">Please accept terms and conditions.</div></li>
-						<li>
-							<input type="button" id="formSubmit" onclick="return formValidation(this.id)" class="grey-btn" name="register" value="Sign Up">
-						</li>
-					</ul>
-				</form>
-       		</div>
-       		<div class="clearfix"></div>
-            <div class="no_account">Already have an account?   <a onclick="signin_clicked()" href="javascript:void(0)" id="loginpop1" class="red" style="text-decoration:none;">Sign In</a></div>
+                <div class="popup_box" id="loginBox">
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <script type="text/javascript">var customer_email = '';</script>
+<div class="popup_logo_wrap">
+    <img src="http://i1.ppfry.com/img/dec/logo-black.png?v=1" alt="" height="52">
+</div>
+<span class="title_1">Your home, unlimited</span>
+<form name="myLoginForm" onload="reset()" id="login_popup_login_form" method="post" onsubmit="loginValidation(this.id);return false;" action="https://www.pepperfry.com/customer/authenticate">
+    <div class="red" id="login_error"></div>
+        <div class="input_wrap clearfix">
+        <input type="text" name="user[new]" id="emailid" class="inputbox" placeholder="Email ID - e.g. taaza.tamatar@domain.com" autocomplete="off">
+        <div id="email_Error" class="validation-advice" style="display:none">Invalid email ID</div>
             
-            <div class="reg_trems">*<a href="http://www.pepperfry.com/contact-us.html#reg_terms" target="_blank">T &amp; C Apply</a></div>
-       	</div>
-   	
-   <script>
-   	
-	</script>
-	<script type="text/javascript">var server_name = "www.pepperfry.com";</script>
-						</div>
-		</div>
-	</div>
-	<div id="mregSignupBox" class="transparent_bg" style="display:none;">
-		<div class="popup_container sign_in_modal mreg_true" style="left:50%;top: 46%;">
-			<div class="overlay-inner-bg" style="width:585px;">
-				 
-	<div class="heading">Sign up &amp; Get <span class="WebRupee">Rs.</span> 10,000* to shop Immediately <a href="#" onclick="closeMreg()" class="cross"></a></div>
-		<div class="left_block mreg_signup" style="width:272px;">
-			 <h2>Register</h2>			 
-          		<div class="sign_signup_form">
-          			<form action="https://www.pepperfry.com/customer/ajax_register" name="mreg_signup" id="mreg_signup" method="post" rel="mregSignupBox">
-          			<input type="hidden" name="csrf_token" value="93dd4d9afd3d719577b732b05b6a89c81551e3522685f3576afec9d457574e66">                	<span style="color:#990000; font-size:14px;"></span>
-                	<div id="error_msg" class="error"></div>
-                	<ul>
-                    	<li>
-                            <input type="text" placeholder="Email ID - eg: taaza.tamatar@domain.com" value="" name="email" id="email" maxlength="100" autocomplete="off"><br>
-							<div id="emailError" class="validation-advice" style="display:none">Please enter a valid email address. For example taaza.tamatar@domain.com.</div>
-							<span class="error_msg" id="email"></span>
-							<span><em>Coupons worth <span class="WebRupee" style="display:inline;">Rs.</span> 10,000* will be sent to this email id.</em></span>
-                        </li>
-                    	<li>
-                        	<div class="form_field_left">
-                            	<input type="text" placeholder="First Name" value="" name="firstname" maxlength="35" id="firstname" autocomplete="off">
-									<span class="error_msg" id="firstname"></span>
-									<div id="fnameError" class="validation-advice" style="display:none">Please use letters only (a-z or A-Z) in this field.</div>
-                            </div>
-                            <div class="form_field_right">
-                            	<input type="text" placeholder="Last Name" value="" name="lastname" maxlength="35" id="lastname" autocomplete="off">
-									<span class="error_msg" id="lastname"></span>
-									<div id="lnameError" class="validation-advice" style="display:none">Please use letters only (a-z or A-Z) in this field.</div>
-                            </div>
-                            <div class="clearfix"></div>
-                        </li>
-       					<li>
-							 <input type="text" placeholder="Mobile - eg: 9800000000" value="" class="login_input" id="mobile" name="mobile" maxlength="10" autocomplete="off"><br>
-							<span class="error_msg" id="mobile"></span>
-							<div id="mobileError" class="validation-advice" style="display:none">Enter correct mobile number (Eg:9800000000)</div>
-							<div class="clearfix"></div>
-						</li>
-                        <li>
-							Gender : <label> <input name="gender" type="radio" id="gen" value="123"> Male</label> &nbsp;&nbsp;<label><input type="radio" value="124" name="gender" id="gen"> Female</label>
-								<span class="error_msg" id="gender"></span>
-								<div id="genderError" class="validation-advice" style="display:none">Please select gender.</div>
-								 <div class="clearfix"></div>
-						</li>
-                        <li>
-                        	<div class="form_field_left">
-                            	<input class="login_input" type="password" placeholder="Password" name="password1" id="password1" maxlength="30" autocomplete="off">
-									<span class="error_msg" id="password1"></span>
-									<div id="passwordError" class="validation-advice" style="display:none">Please enter password.</div>
-                            </div>
-                            <div class="form_field_right">
-                            	<input class="login_input" type="password" placeholder="Confirm Password" name="password2" maxlength="30" id="password2" autocomplete="off">
-									<span class="error_msg" id="password2"></span>
-									<div id="confirmPasswordError" class="validation-advice" style="display: none;">Please make sure your passwords match.</div>
-                            </div>
-                            <div class="clearfix"></div>
-                        </li>                        
-                        <li>
-							<input name="terms" class="terms" type="checkbox" value=""> I agree to the  <a class="term-condi" href="/terms-of-use.html" target="_blank">Terms and Conditions </a>
-							<div id="terms" class="validation-advice" style="display:none">Please accept terms and conditions.</div></li>
-						<li>
-							<input type="button" id="mregSubmit" onclick="return formValidation(this.id)" class="grey-btn" name="register" value="Sign Up">
-						</li>
-                    </ul>
-                    </form>
-                </div>				
-                <div class="clearfix"></div>
-                 <div class="reg_trems mreg_true">*<a href="http://www.pepperfry.com/contact-us.html#reg_terms" target="_blank">T &amp; C Apply</a></div>
-           </div>
-           <div class="right_block">
-				<form action="https://www.pepperfry.com/customer/authenticate" name="mreg_signin" id="mreg_signin" method="post">
-               <div class="sign_signup_form">
-               <h2>Sign In</h2>
-                        <ul>
-                            <li>
-                                <input autocomplete="off" type="text" placeholder="Email Id" name="email" id="emailid">
-								<span id="email" style="color:#EB340A" class="logE"></span>
-								<div id="email_Error" class="validation-advice" style="display:none">Please enter a valid email address. For example taaza.tamatar@domain.com.</div>
-								 <div class="clearfix"></div>
-                            </li>
-                            
-                          <li>
-                               <input autocomplete="off" type="password" placeholder="Password" class="login_input" name="password" id="password">
-							<span id="password" style="color:#EB340A" class="logE"></span>
-							<div id="passwordError" class="validation-advice" style="display:none">Please enter Password.</div>
-							 <div class="clearfix"></div>
-                              
-                          </li>
-                           
-							<li>
-							<label> <input name="rememberMe" type="checkbox" value=""> Remember me </label> 
-							<a href="javascript:void(0)" id="frgtPassMreg">Forgot Password?</a></li>
-							<li>
-							<input type="button" id="mregloginSubmit" class="loginSubmit" title="Submit" onclick="return loginValidation(this.id)" name="submit" value="Sign In">
-						</li>
-                        </ul>
-				</div>
-                </form>
-               
             </div>
+    <div class="input_wrap clearfix">
+        <input type="password" name="password" id="password" class="inputbox" placeholder="Password">
+        <div id="passwordError" class="validation-advice" style="display:none">Need password</div>
     </div>
-<script type="text/javascript">var server_name = "www.pepperfry.com";</script>
-<script>
-function closeMreg(){
-	   $('#mreg_signin')[0].reset();
-	   $('#mreg_signin .validation-advice').css("display","none");
-	   $('#mreg_signup')[0].reset();
-	   $('#mreg_signup .validation-advice').css("display","none");
-	$('.transparent_bg').hide();
-	$('.popups').html('');
-	
-}
-</script>
-			</div>
-		</div>
-	
-	<div id="otp_box" class="transparent_bg" style="display:none;">
-		<div class="popup_container sign_in_modal mreg_true" style="left:50%;top: 46%;">
-			<div class="overlay-inner-bg" style="width:585px;">
-				 <div class="heading">
+    <div class="login_options_wrap clearfix">
+        <label class="remember_me"><input type="checkbox" name="rememberMe" class="rememberme invisible" id="rememberme" value="1">Remember Me.</label>
+        <a href="javascript:void(0)" class="link_popup  p_right forgot_link" rel="forgetPassBox">Forgot Password?</a>
+    </div>
+    <input type="submit" name="logSubmit" id="popup_login_form" class="btn btn_green" value="Log In">
+</form><div class="textaligncenter">Do not have an account? <a href="javascript:void(0)" class="link_popup  red_underline" rel="signupBox">Register Now</a></div>
+
+
+<a href="javascript:void(0)" class="popup_close"></a>
+<script type="text/javascript">var server_name = "www.pepperfry.com";</script>        </div>
+        <div class="popup_box" id="signupBox">
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <span class="title_1">REGISTER NOW &amp; GET Rs. 10,000 TO SHOP</span>
+<div class="p_left club_data_list">
+    <ul>
+        <li>Get coupons worth <strong class="red">Rs. 10,000</strong></li>
+        <li>Participate in a thriving community of designers and home owners</li>
+        <li>Create a wishlist and save a product for future purchase</li>
+        <li>Get exclusive deals and offers</li>
+    </ul>
+    <div class="bottom_20">Already have an account? <a href="javascript:void(0)" class="link_popup  red_underline" rel="loginBox">Sign In</a></div>
+    <a href="/terms-of-use.html" target="_blank" class="red_underline">*T &amp; Cs Apply</a>
+</div>
+<div class="p_right popup_register_box">
+    <span class="title_2"><strong>Register Now</strong></span>
+    <form name="myFrom" id="popup_reg_form" method="post" onsubmit="formValidation(this.id); return false;" action="https://www.pepperfry.com/customer/ajax_register" rel="signupBox">
+        <div id="error_msg" class="error"></div>
+    <div class="input_wrap clearfix">
+        <input class="inputbox1" type="text" placeholder="Email ID - eg: taaza.tamatar@domain.com" value="" name="email" id="email" maxlength="100" autocomplete="off">
+        <div id="emailError" class="validation-advice" style="display:none">Invalid email ID</div>
+        <span class="error_msg validation-advice" id="email"></span>
+        <small>Coupons worth Rs. 10,000* will be sent to this email id.</small>
+    </div>
+    <div class="input_wrap p_left width_48 clearfix">
+        <input type="text" class="inputbox1" placeholder="First Name" value="" name="firstname" maxlength="35" id="firstname" autocomplete="off">
+        <span class="error_msg validation-advice" id="firstname"></span>
+        <div id="fnameError" class="validation-advice" style="display:none">Letters only</div>
+    </div>
+    <div class="input_wrap p_right width_48 clearfix">
+        <input type="text" class="inputbox1" placeholder="Last Name" value="" name="lastname" maxlength="35" id="lastname" autocomplete="off">
+        <span class="error_msg validation-advice" id="lastname"></span>
+        <div id="lnameError" class="validation-advice" style="display:none">Letters only</div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="input_wrap clearfix">
+        <input type="number" maxlength="10" pattern="[0-9]*" placeholder="Mobile - eg: 9800000000" value="" class="inputbox1 login_input onlynumbers" id="mobile" name="mobile" autocomplete="off">
+        <span class="error_msg validation-advice" id="mobile"></span>
+        <div id="mobileError" class="validation-advice" style="display:none">Invalid number (10 digit)</div>
+    </div>
+    <div class="input_wrap clearfix">
+        <label class="gender_label">
+            <span>Male</span>
+            <input name="gender" class="gender_select invisible" type="radio" id="gen" value="123">
+        </label>
+        <label class="gender_label">
+            <span>Female</span>
+            <input type="radio" class="gender_select invisible" value="124" name="gender" id="gen">
+        </label>
+        <span class="error_msg validation-advice" id="gender"></span>
+        <div id="genderError" class="validation-advice" style="display:none">Choose gender</div>
+    </div>
+    <div class="input_wrap p_left width_48 clearfix">
+        <input type="password" placeholder="Password" class="inputbox1" name="password1" id="password1" maxlength="30" autocomplete="off">
+        <span class="error_msg validation-advice" id="password1"></span>
+        <div id="passwordError" class="validation-advice" style="display:none">Need password</div>
+    </div>
+    <div class="input_wrap p_right width_48 clearfix">
+        <input type="password" class="inputbox1" placeholder="Confirm Password" name="password2" maxlength="30" id="password2" autocomplete="off">
+        <span class="error_msg validation-advice" id="password2"></span>
+        <div id="confirmPasswordError" class="validation-advice" style="display: none;">Match Passwords</div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="login_options_wrap clearfix">
+        <label class="remember_me">
+            <input name="terms" class="rememberme invisible terms" type="checkbox" value="">  I agree to the  
+        </label>
+        <a class="term-condi" target="_blank" href="/terms-of-use.html">Terms and Conditions </a>
+        <div id="terms" class="validation-advice" style="display:none">Please accept T&amp;C</div>
+    </div>
+    <div class="clearfix"></div>
+    <input type="submit" name="register" id="formSubmit-popup_reg_form" class="btn btn_green" value="Sign Me Up!">
+</form></div>
+<div class="clearfix"></div>
+
+<a href="javascript:void(0)" class="popup_close"></a>        </div>
+        <div class="popup_box" id="mregSignupBox">
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <span class="title_1">REGISTER NOW &amp; GET Rs. 10,000 TO SHOP</span>		
+<div class="p_left popup_register_box">
+    <span class="title_2"><strong>Register Now</strong></span>
+    <form name="myFrom" id="signup-form" method="post" onsubmit="formValidation(this.id); return false;" action="https://www.pepperfry.com/customer/ajax_register" rel="signupBox">
+        <div id="error_msg" class="error"></div>
+    <div class="input_wrap clearfix">
+        <input class="inputbox1" type="text" placeholder="Email ID - eg: taaza.tamatar@domain.com" value="" name="email" id="email" maxlength="100" autocomplete="off">
+        <div id="emailError" class="validation-advice" style="display:none">Invalid email ID</div>
+        <span class="error_msg validation-advice" id="email"></span>
+        <small>Coupons worth Rs. 10,000* will be sent to this email id.</small>
+    </div>
+    <div class="input_wrap p_left width_48 clearfix">
+        <input type="text" class="inputbox1" placeholder="First Name" value="" name="firstname" maxlength="35" id="firstname" autocomplete="off">
+        <span class="error_msg validation-advice" id="firstname"></span>
+        <div id="fnameError" class="validation-advice" style="display:none">Letters only</div>
+    </div>
+    <div class="input_wrap p_right width_48 clearfix">
+        <input type="text" class="inputbox1" placeholder="Last Name" value="" name="lastname" maxlength="35" id="lastname" autocomplete="off">
+        <span class="error_msg validation-advice" id="lastname"></span>
+        <div id="lnameError" class="validation-advice" style="display:none">Letters only</div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="input_wrap clearfix">
+        <input type="number" maxlength="10" pattern="[0-9]*" placeholder="Mobile - eg: 9800000000" value="" class="inputbox1 login_input onlynumbers" id="mobile" name="mobile" autocomplete="off">
+        <span class="error_msg validation-advice" id="mobile"></span>
+        <div id="mobileError" class="validation-advice" style="display:none">Invalid number (10 digit)</div>
+    </div>
+    <div class="input_wrap clearfix">
+        <label class="gender_label">
+            <span>Male</span>
+            <input name="gender" class="gender_select invisible" type="radio" id="gen" value="123">
+        </label>
+        <label class="gender_label">
+            <span>Female</span>
+            <input type="radio" class="gender_select invisible" value="124" name="gender" id="gen">
+        </label>
+        <span class="error_msg validation-advice" id="gender"></span>
+        <div id="genderError" class="validation-advice" style="display:none">Choose gender</div>
+    </div>
+    <div class="input_wrap p_left width_48 clearfix">
+        <input type="password" placeholder="Password" class="inputbox1" name="password1" id="password1" maxlength="30" autocomplete="off">
+        <span class="error_msg validation-advice" id="password1"></span>
+        <div id="passwordError" class="validation-advice" style="display:none">Need password</div>
+    </div>
+    <div class="input_wrap p_right width_48 clearfix">
+        <input type="password" class="inputbox1" placeholder="Confirm Password" name="password2" maxlength="30" id="password2" autocomplete="off">
+        <span class="error_msg validation-advice" id="password2"></span>
+        <div id="confirmPasswordError" class="validation-advice" style="display: none;">Match Passwords</div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="login_options_wrap clearfix">
+        <label class="remember_me">
+            <input name="terms" class="rememberme invisible terms" type="checkbox" value="">  I agree to the  
+        </label>
+        <a class="term-condi" target="_blank" href="/terms-of-use.html">Terms and Conditions </a>
+        <div id="terms" class="validation-advice" style="display:none">Please accept T&amp;C</div>
+    </div>
+    <div class="clearfix"></div>
+    <input type="submit" name="register" id="formSubmit-signup-form" class="btn btn_green" value="Sign Me Up!">
+</form></div>
+<div class="p_right popup_login_box">
+    <div class="popup_login_box_1" style="display:none">
+        <span class="text_1">Already have an account?</span>
+        <a href="javascript:void(0)" class="login_link"><span class="btn btn_green">Log In</span></a>
+    </div>
+    <div class="popup_login_box_2">
+        <span class="title_2"><strong>LOGIN</strong></span>
+        <form name="myLoginForm" onload="reset()" id="login_login-form" method="post" onsubmit="loginValidation(this.id);return false;" action="https://www.pepperfry.com/customer/authenticate">
+    <div class="red" id="login_error"></div>
+        <div class="input_wrap clearfix">
+        <input type="text" name="user[new]" id="emailid" class="inputbox" placeholder="Email ID - e.g. taaza.tamatar@domain.com" autocomplete="off">
+        <div id="email_Error" class="validation-advice" style="display:none">Invalid email ID</div>
+            
+            </div>
+    <div class="input_wrap clearfix">
+        <input type="password" name="password" id="password" class="inputbox" placeholder="Password">
+        <div id="passwordError" class="validation-advice" style="display:none">Need password</div>
+    </div>
+    <div class="login_options_wrap clearfix">
+        <label class="remember_me"><input type="checkbox" name="rememberMe" class="rememberme invisible" id="rememberme" value="1">Remember Me.</label>
+        <a href="javascript:void(0)" class="link_popup  p_right forgot_link" rel="forgetPassBox">Forgot Password?</a>
+    </div>
+    <input type="submit" name="logSubmit" id="login-form" class="btn btn_green" value="Log In">
+</form>    </div>
+</div>
+<div class="clearfix"></div>
+<div class="true_step_reg_links">
+    <div class="p_left font_12">Already have an account? <a href="javascript:void(0)" class="link_popup  red_underline" rel="loginBox">Sign In</a></div>
+    <a href="/terms-of-use.html" target="_blank" class="p_right red_underline font_12">*T &amp; Cs Apply</a>
+</div>
+
+<a href="javascript:void(0)" class="popup_close"></a>        </div>
+        <div class="popup_box" id="otp_box">
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <div class="heading">
 	<span id="auth" class="otp_headers">Sign up &gt;  Mobile number authentication </span>
 	<span id="change_number" class="otp_headers" style="display:none;">Sign up &gt; Change your mobile number</span>
 	<span id="otp_fail_header" class="otp_headers" style="display:none;">Sign up &gt; Mobile number authentication failed</span>
@@ -1014,7 +524,7 @@ function closeMreg(){
 			<p class="red">Error on request. Please try later!</p><br>
 		</div>
 		<div class="otp_left otp_left_div" id="loss_data" style="display:none">
-			<p>Your session has expired. <a href="javascript:void(0);" onclick="window.location.reload()">Click here</a> to try again!</p><br>
+			<p>Your session has expired. <a href="javascript:void(0);" onclick="delete_otp_cookie()">Click here</a> to try again!</p>
 		</div>
 
 		<div class="otp_left otp_left_div" id="exist_account" style="display:none">
@@ -1023,15 +533,16 @@ function closeMreg(){
                         <div class="otp_clear10"></div>
 			<input type="button" value="Verify Your Account" style="width:200px; text-transform:uppercase;" class="submit_btn" onclick="openModel('forgetPassBox','otp_box')">
 		</div>
+                <div class="otp_right">
+                        <div class="sample_heading">Sample Message:</div>
+                        <img width="207" height="196" src="http://www.pepperfry.com/img/otp_messages.png">
+                </div>
 		<div id="otp_input_area">
-			<div class="otp_right">
-				<div class="sample_heading">Sample Message:</div>
-				<img width="207" height="196" src="http://www.pepperfry.com/img/otp_messages.png">
-			</div>
+			
 			<div class="clearfix"></div>
 			<form id="otp_verification_form" name="otp_verification_form" onsubmit="otp_submit(&quot;otp_verification_form&quot;); return false;">
 			
-			<input type="hidden" name="csrf_token" value="93dd4d9afd3d719577b732b05b6a89c81551e3522685f3576afec9d457574e66">			<ul>
+						<ul>
 				<li class="otp_pbottom_5">Please enter the code in the box below:</li>
 				<div class="clearfix"></div>
 				<li>
@@ -1055,115 +566,164 @@ function closeMreg(){
 			</p>
 		</div>
 	</div>
-	<div id="change_number_form" style="display:none;">
-		<a class="go_back otp_request" href="javascript:void(0);" rel="back_auth">go back</a>
-		<div class="clearfix"></div>
-		<form id="otp_mobile_change" name="otp_mobile_change" onsubmit="otpmobile_change(&quot;otp_mobile_change&quot;); return false;">
-		<div id="error_msg" class="error"></div>
-		<span id="mobile_otp_error" class="red"></span>
-		<div class="otp_left" id="mobile_max_change" style="display:none">
-			<p>You've exceeded the maximum number of tries. <br> 
-			<a href="contact-us.html" target="_blank">Can we help?</a> Or try back after some time.</p><br>
-		</div>
-		<ul>
-			<li>
-				Please enter your mobile number<br>
-			</li>
-			<div class="clearfix"></div>
-			<li>
-				<input type="text" placeholder="Enter Your Mobile Number" name="otp_mobile_change" id="otp_mobile_change">
-				<div id="mobileError" class="validation-advice" style="display: none;">Enter correct mobile number (Eg:9800000000)</div>
-			</li>
-			<li>
-				<input type="submit" value="Submit" style="width:100px; text-transform:uppercase;" class="submit_btn" id="otpmobile_submit">				
-			</li>
-		</ul>
-		</form>
-		<div class="clearfix"></div>
-	</div>
-</div>
-
+                <div id="change_number_form" style="display:none;">
+                        <a class="go_back otp_request" href="javascript:void(0);" rel="back_auth">go back</a>
+                        <div class="clearfix"></div>
+                        <form id="otp_mobile_change" name="otp_mobile_change" onsubmit="otpmobile_change(&quot;otp_mobile_change&quot;); return false;">
+                        <div id="error_msg" class="error"></div>
+                        <span id="mobile_otp_error" class="red"></span>
+                        <div class="otp_left" id="mobile_max_change" style="display:none">
+                                <p>You've exceeded the maximum number of tries. <br> 
+                                <a href="contact-us.html" target="_blank">Can we help?</a> Or try back after some time.</p><br>
+                        </div>
+                        <ul>
+                                <li>
+                                        Please enter your mobile number<br>
+                                </li>
+                                <div class="clearfix"></div>
+                                <li>
+                                        <input type="text" placeholder="Enter Your Mobile Number" name="otp_mobile_change" id="otp_mobile_change">
+                                        <div id="mobileError" class="validation-advice" style="display: none;">Enter correct mobile number (Eg:9800000000)</div>
+                                </li>
+                                <li>
+                                        <input type="submit" value="Submit" style="width:100px; text-transform:uppercase;" class="submit_btn" id="otpmobile_submit">				
+                                </li>
+                        </ul>
+                        </form>
+                        <div class="clearfix"></div>
+                </div>
 			</div>
-		</div>
-	</div>
-	<div id="forgetPassBox" class="transparent_bg" style="display:none;">
-		<div class="popup_container sign_in_modal" style="top:50%; left:58%;">
-			<div class="overlay-inner-bg" style="width:340px;">
-				 
-	<div class="heading">Retrieve Your Password Here <a href="javascript:void(0)" onclick="closePassword()" class="cross"></a></div>
-	<div class="left_block" style="min-height:136px!important; background:none; margin-right:0px; padding-right:0px;width:auto;">
-		<div class="sign_signup_form">
-			<form name="myForm" id="reset-form" method="post" action="https://www.pepperfry.com/customer/forgetPassword">
-				<input type="hidden" name="csrf_token" value="93dd4d9afd3d719577b732b05b6a89c81551e3522685f3576afec9d457574e66">				<ul>
-					<li>
-						Please enter your email address below. You will receive a link to reset your password.
-						<div id="success_message" style="color: rgb(2, 186, 2); font-size: 11px; line-height: 24px;"></div>
-					</li>
-					<li>
-						<input type="text" class="rec_box" placeholder="Email ID - eg: taaza.tamatar@domain.com" id="emailId" name="email" value="" autocomplete="off"> 
-						<div id="email_Error_forgotpass" class="validation-advice" style="display:none">Please enter a valid email address. For example taaza.tamatar@domain.com</div>
-					</li>
-					<li>
-						<input type="button" onclick="return validatePassRecover()" id="forgotPass" name="submit" value="Submit">
-					</li>
-				</ul>
-			</form>
-		</div>
-	</div>
-</div>
-<div>
-<script>
- function closePassword(){
-	 	$('#reset-form')[0].reset();
-	 	$('#reset-form .validation-advice').css("display","none");
-		$('.transparent_bg').hide();
-		$('.popups').html('');
-		
-	}
-</script>
-	<script type="text/javascript">var server_name = "www.pepperfry.com";</script>			</div>
-		</div>
-	</div>
 
-
-
-	<script type="text/javascript">
-		$("#testimonial").click(function(){
-                    if(loginFlag){
-                        $("#testimonialBox").fadeIn(50);
-                    }else{
-			document.cookie = 'testimonial_cookie=1';
-			$("#loginBox").fadeIn(50);
-			//openModel('loginBox');
-			block_reg_popup=true;
-                    }
-		});
-
-		$("#footer_testimonial").click(function(){
-                    if(loginFlag){
-                        $("#testimonialBox").fadeIn(50);
-                    }else{
-			document.cookie = 'testimonial_cookie=1'
-			$("#loginBox").fadeIn(50);
-			//openModel('loginBox');
-                    }
-		});
-	</script>
-<!-- script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.autocomplete.js?v=0.818"></script-->
-<!--
-<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.tinyscrollbar.min.js?v=0.818"></script>
-<script type="text/javascript" src="http://j1.pepperfry.com/js/hoverIntent.js?v=0.818"></script>
--->
-<script type="text/javascript" src="http://j1.pepperfry.com/js/customer/validate.js?v=0.818"></script>
-<script type="text/javascript" src="http://j1.pepperfry.com/js/site.js?v=0.818"></script>
-<script type="text/javascript" src="http://j1.pepperfry.com/js/gtm.js?v=0.818"></script>
-<!--MTAuMTcyLjEyOC4xODk=-->	  		<script type="text/javascript" src="http://j1.pepperfry.com/js/static_page.js?v=0.818"></script>
-      		<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.maphighlight.min.js?v=0.818"></script>
-      		<script type="text/javascript" src="http://j1.pepperfry.com/js/tabcontent-min.js?v=0.818"></script>
-      		<script type="text/javascript" src="http://j1.pepperfry.com/js/slider.js?v=0.818"></script>
-      		<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.flexslider.js?v=0.818"></script>
+        </div>
+        <div class="popup_box" id="forgetPassBox">
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <span class="popup_heading">Forgot password</span>
+<form name="myForm" id="reset-form" method="post" onsubmit="return false;" action="https://www.pepperfry.com/customer/forgetPassword">
+        <div class="input_wrap bottom_30">
+        <div id="success_message" style="color: rgb(2, 186, 2); font-size: 11px; line-height: 24px;"></div>
+        <input type="text" name="email" id="emailId" class="inputbox rec_box" value="" autocomplete="off" placeholder="Email ID - e.g. taaza.tamatar@domain.com">
+        <div id="email_Error_forgotpass" class="validation-advice" style="display:none">Please enter a valid email address</div>
+    </div>
+    <input type="submit" onclick="return validatePassRecover()" name="submit" id="forgotPass" class="btn btn_green no_margin_bottom" value="Retrieve Password">
+    <a href="javascript:void(0)" class="popup_close"></a>
+</form>        </div>
+                
+        <script>
     
-    <!-- Google Code for Remarketing tag -->
+$(document).on({
+	click: function(e){
+		$('.popup_box').fadeOut(800);
+                //to reset form error
+                $('.popup_box .validation-advice').css('display','none').parent().removeClass('input_error');
+                //$(".popup_box form")[0].reset();
+                
+		if($('#mini_cart').hasClass('active'))
+		{
+			$('#mini_cart').removeClass('active').animate({right:-400}, 300);
+		}
+		popup_ref = $(this).attr('rel');
+		$('#popup_overlay').addClass('active');
+                
+            /*  Following 'if else' structure is for displaying either otp_box or registration page based on cookie 'otp_box_show' when 'Registration' link is clicked (this is whn the site is opened using link on affiliated pgs)    */
+                if(popup_ref == 'signupBox'){
+                    if(readCookie('otp_box_show') == '1') {
+                        $('#otp_box').fadeIn(50);
+                    } else {
+                        $('#'+popup_ref).delay(200).fadeIn(200);
+                    }
+                } else{
+                    $('#'+popup_ref).delay(200).fadeIn(200);
+                }
+            /* *** */
+		block_reg_popup=true;
+		e.preventDefault();
+	}
+},".link_popup");
+    
+    
+         $(document).ready(function(){
+             /* Style for Popup  */
+            var popup_ref;
+            $('.link_popup').click(function(e){
+                //hide previously opened modals
+               
+            });
+            $('.popup_close').click(function(){
+                $('.popup_box').fadeOut(800, function(){
+                    $('#popup_overlay').removeClass('active');
+                });
+            });
+
+
+            // Script for Login popup
+            $('.rememberme').change(function(){
+                if($(this).is(':checked')){
+                        $(this).parent().addClass('active');
+                }else{
+                        $(this).parent().removeClass('active');
+                }
+            });    
+
+            //gender select for reg page
+            $('.gender_select').change(function(){
+                radio_group_name = $(this).attr('name');
+                $('input[name='+radio_group_name+']').parent().removeClass('active');
+                //$('input[name='+radio_group_name+']').attr('selected','selected');
+                $(this).parent().addClass('active');
+            });
+             
+         });
+         
+        </script>
+        
+                
+	
+                
+                
+                
+	
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#testimonial").click(function(){
+				if(loginFlag){
+					$("#testimonialBox").fadeIn(50, function(){
+						$('#popup_overlay').addClass('active');
+					});
+					
+				}else{
+					document.cookie = 'testimonial_cookie=1';
+					$("#loginBox").fadeIn(50, function(){
+						$('#popup_overlay').addClass('active');
+					});
+					block_reg_popup=true;
+				}
+			});
+			
+			
+			$("#footer_testimonial,#bulkorder_testimonial").click(function(){
+				if(loginFlag){
+					$("#testimonialBox").fadeIn(50, function(){
+						$('#popup_overlay').addClass('active');
+					});
+				}else{
+					document.cookie = 'testimonial_cookie=1';
+					$("#loginBox").fadeIn(50, function(){
+						$('#popup_overlay').addClass('active');
+					});
+				}
+			});
+			
+		});
+		
+		
+	</script>
+        
+
+<!--MTAuMTY3LjEzMS40Ng==-->	  		<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.cycle-2.js?v=0.979"></script>
+      		<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.lazy.min.js?v=0.979"></script>
+      		<script type="text/javascript" src="http://j1.pepperfry.com/js/carousel.js?v=0.979"></script>
+      		<script type="text/javascript" src="http://j1.pepperfry.com/js/static_page.js?v=0.979"></script>
+        <!-- Google Code for Remarketing tag -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -1186,21 +746,20 @@ var google_remarketing_only = true;
 <script>
     $(window).load(function() {
     (function() {
+		var _fbq = window._fbq || (window._fbq = []);
+		if (!_fbq.loaded) {
+			var fbds = document.createElement('script');
+			fbds.async = true;
+			fbds.src = '//connect.facebook.net/en_US/fbds.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(fbds, s);
+			_fbq.loaded = true;
+		}
+		_fbq.push(['addPixelId', '747482925285183']);
 
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '747482925285183']);
-
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', 'PixelInitialized', {}]);
     });
 </script>
 <noscript>
@@ -1254,12 +813,256 @@ $( window ).load(function() {
 
 <!-- socialmatics -->
 <script type="text/javascript">
-	    </script>
+function setGtmData(itemData){
+    if (itemData.length > 0) {
+        var chunk_size = 20;
+        for(var i=0; i < itemData.length; i += chunk_size) {
+            var tmp = itemData.slice(i, i + chunk_size);
+            dataLayer.push({
+                'event':'impression',
+                'ecommerce': {
+                    'currencyCode': 'INR',
+                    'impressions': tmp
+                }
+            });
+        }
+    }
+}
+</script>
+
 <!-- socialmatics -->
-<!-- plumb5 starts -->
+</div>
+ <!-- Footer Start Here -->
+    <div class="clearfix"></div>
+    <div class="footer">
+            <script type="text/javascript">
+var first_event = false;
+var show_reg_popup=true;
+var otp_register=false;
+var show_reg_popup=true;
 
-<!-- plumb5 ends -->
+
+	
+        //show_reg_popup = true;
+	//console.log(show_reg_popup);
+	if(show_reg_popup==true)
+	{
+		$(window).load(function()
+		{ 
+			setTimeout(function() {
+				if (typeof block_reg_popup !=='undefined')
+				{
+					show_reg_popup=false;
+				}
+				else
+				{
+					var date = new Date();
+
+					var date_value=new Date();
 
 
+
+
+					var cookie_data_counter= readCookie('popup_counter');
+					var cookie_data_date=readCookie('popup_date');
+					var dt = new Date(cookie_data_date);
+
+					var new_counter=1;
+
+					if(cookie_data_counter && cookie_data_counter > 0)
+					{
+						if(cookie_data_counter==3) // 3rd day
+						{
+							if(cookie_data_date)
+							{
+								var hours = Math.abs(date_value.getTime() - dt.getTime()) / 3600000;
+								//hours=97;
+								if(hours <=96 )
+								{
+									show_reg_popup=false;
+									new_counter=3;
+								}
+								else
+								{
+									new_counter=4;
+								}
+							}
+						}
+						else if(cookie_data_counter==4) // after 96 hours reset it to 1
+						{
+							new_counter=1;
+						}
+						else
+						{
+							if(parseInt(cookie_data_counter) > 0)
+							{
+								new_counter=parseInt(cookie_data_counter) + 1;
+							}
+							else
+							{
+								new_counter=2;
+							}
+						}
+					}
+
+					if(show_reg_popup==true)
+					{
+						first_event = true;
+						openModel('signupBox');
+                                                $('#popup_overlay').addClass('active'); 
+						//$("#signupBox").fadeIn(50);
+						dataLayer.push({'category' : 'reg_modal', 'action': 'modal_launch', 'label' : 'modal_open', 'opt' : true, 'event' : 'legacyevent'});
+						createCookie('display_popup','1',-1);
+						createCookie('popup_counter',new_counter,5);
+						createCookie('popup_date',date_value,5);
+					}
+				}
+			},10000);
+		});
+	}
+
+	$(document).ready(function(){
+		var frgpx = readCookie('frgpx');
+		if(parseInt(frgpx) == 1) {
+			createCookie('frgpx',0,1800);
+		} else {
+			frgpx = 0;
+		}
+		if(parseInt(frgpx) == 1)
+		{
+			if(document.location.protocol == 'http:')
+			{
+				$("#offerPopups").fadeIn(50);
+                $('#popup_overlay').addClass('active');
+            }
+			//Google Code for Registration Conversion Page
+			/* <![CDATA[ */
+			var google_conversion_id = 1012760616;
+			var google_conversion_language = "en";
+			var google_conversion_format = "3";
+			var google_conversion_color = "ffffff";
+			var google_conversion_label = "wBKZCIjoywIQqID24gM";
+			var google_conversion_value = 0;
+			/* ]]> */
+
+			var script = document.createElement('script');
+			script.src = '//www.googleadservices.com/pagead/conversion.js';
+			document.documentElement.firstChild.appendChild(script);
+
+			//Non checkout Registration pixel
+			dataLayer.push({'category' : 'Registration', 'action': 'Signup', 'label' : 'Non_checkout', 'opt' : true, 'event' : 'legacyevent'});
+		}
+	});
+</script>
+
+<div class="popup_box reg_success" id="offerPopups">
+    <a href="javascript:void(0)" class="popup_close"></a>
+        <div class="">       
+        <img src="http://i1.ppfry.com/img/reg_congratulations_new_25_sep_2014.jpg">		    
+    </div>
+</div>
+        
+<!--yrs code starts-->
+<div id="footer">
+    <div class="middle_wrapper clearfix" id="footer_inner">
+  
+        <div class="footer_nav" id="footer_nav_1">
+            <h4><a href="/buying-furniture-online.html?type=footer">Buying Furniture Online</a></h4>
+            <ul>
+                <li><a href="/buying-furniture-online.html?type=footer#bfo_slide">Buy From the Comfort of Your Home</a></li>
+                <li><a href="/buying-furniture-online.html?type=footer#bfo_testimonials_wrap">Customer Testimonials</a></li>
+                <li><a href="/buying-furniture-online.html?type=footer#bfo_customize_wrap">Customize Your Furniture</a></li>
+                <li><a href="/buying-furniture-online.html?type=footer#bfo_form_container">Design Your Own Furniture</a></li>
+                <li><a href="/buying-furniture-online.html?type=footer#bfo_caring_wrap">Care For Your Furniture</a></li>
+            </ul>
+        </div>
+        <div class="footer_nav" id="footer_nav_2">
+            <h4><a href="/merchant/register?type=footer">Sell On Pepperfry</a></h4>
+            <ul>
+                <li><a href="/sell-with-us.html?type=footer">Contact a Category Manager</a></li>
+                <li><a href="/merchant/register?type=footer#merchant_register">Register as a Merchant</a></li>
+                <li><a href="/merchant/register?type=footer#marketplace_policies">Pepperfry Marketplace Policies</a></li>
+                <li><a href="/merchant/login?type=footer">Login to Your Merchant Dashboard</a></li>
+            </ul>
+        </div>
+        <div class="footer_nav" id="footer_nav_3">
+            <h4><a href="/home-inspiration.html?type=footer">Home Inspiration</a></h4>
+            <ul>
+                <li><a class="scroll_link" href="http://blog.pepperfry.com?type=footer" rel="scroll_from_bon_homie" add="50" target="_blank">Our Blog bon-homie!</a></li>
+                <li><a class="scroll_link" href="/home-inspiration.html?type=footer#scroll_from_design_guru" rel="scroll_from_design_guru" add="50">design-gurus</a></li>
+                <li><a class="scroll_link" href="/home-inspiration.html?type=footer#scroll_from_custome_design" rel="scroll_from_custome_design" add="50">Design Your Own Furniture</a></li>
+                <li><a class="scroll_link" href="http://www.pepperfry.com/ad?type=footer" target="_blank">AD Design Showcase</a></li>
+            </ul>
+        </div>
+        <div class="footer_nav" id="footer_nav_4">
+            <h4><a href="/about.html?type=footer">About Us</a></h4>
+            <ul>
+                <li><a href="/about.html?type=footer#about_story">Our Story</a></li>
+                <li><a href="/about.html?type=footer#about_news">In the News</a></li>
+                <li><a href="/about.html?type=footer#about_interesting">Cool Stats</a></li>
+                <li><a href="/studio-pepperfry-products-mumbai.html?type=footer">Studio Mumbai</a></li>
+				 <li><a href="/studio-pepperfry-products-bangalore.html?type=footer">Studio Bangalore <sup class="red">New</sup></a></li>
+				<li><a href="/careers.html?type=footer">Careers</a></li>
+
+            </ul>
+        </div>
+        <div class="footer_nav" id="footer_nav_5">
+            <h4><a href="/contact-us.html?type=footer">Customer Support</a></h4>
+            <ul>
+                <li><a href="/contact-us.html?type=footer#track_wrapper">Track Your Package</a></li>
+                <li><a href="/contact-us.html?type=footer">Contact Customer Support</a></li>
+                <li><a href="/easy_returns.html?type=footer">Returns &amp; Refunds</a></li>
+                <li><a href="/contact-us.html?type=footer#faq">FAQs</a></li>
+            </ul>
+        </div>
+        <div class="clearfix"></div>
+        <h3 class="footer_title_1">Popular Categories</h3>
+<div class="popular_cats"><a title="Queen Size Beds" href="http://www.pepperfry.com/furniture-beds-queen-size.html?type=hp-footer-links-1">Queen Size Beds</a>, <a title="King Size Beds" href="http://www.pepperfry.com/furniture-beds-king-size.html?type=hp-footer-links-2">King Size Beds</a>, <a title="Coffee &amp; Centre Tables" href="http://www.pepperfry.com/furniture-tables-coffee-centre-tables.html?type=hp-footer-links-3">Coffee &amp; Centre Tables</a>, <a title="Dining Sets" href="http://www.pepperfry.com/furniture-dining-dining-sets.html?type=hp-footer-links-4">Dining Sets</a>, <a title="Recliners" href="http://www.pepperfry.com/furniture-sofas-recliners.html?type=hp-footer-links-5">Recliners</a>, <a title="Sofa cum Beds" href="http://www.pepperfry.com/furniture-sofas-sofa-cum-beds.html?type=hp-footer-links-6">Sofa cum Beds</a>, <a title="Rocking Chairs" href="http://www.pepperfry.com/furniture-chairs-rocking-chairs.html?type=hp-footer-links-7">Rocking Chairs</a>, <a title="Crockery Cabinets" href="http://www.pepperfry.com/furniture-cabinets-crockery-cabinets.html?type=hp-footer-links-8">Crockery Cabinets</a>, <a title="Book Shelves" href="http://www.pepperfry.com/furniture-book-shelves.html?type=hp-footer-links-9">Book Shelves</a>, <a title="Entertainment Units" href="http://www.pepperfry.com/furniture-entertainment-units.html?type=hp-footer-links-10">Entertainment Units</a>, <a title="Wardrobes" href="http://www.pepperfry.com/furniture-wardrobes.html?type=hp-footer-links-11">Wardrobes</a>, <a title="Garden &amp; Outdoor" href="http://www.pepperfry.com/furniture-garden-outdoor-furniture.html?type=hp-footer-links-12">Garden &amp; Outdoor</a>, <a title="Bar Furniture" href="http://www.pepperfry.com/furniture-bar-furniture.html?type=hp-footer-links-13">Bar Furniture</a>, <a title="Wall Shelves" href="http://www.pepperfry.com/home-decor-wall-shelves.html?type=hp-footer-links-15">Wall Shelves</a>, <a title="Wall Art" href="http://www.pepperfry.com/home-decor-wall-art.html?type=hp-footer-links-16">Wall Art</a>, <a title="Photo Frames" href="http://www.pepperfry.com/home-decor-photo-frames.html?type=hp-footer-links-17">Photo Frames</a>, <a title="Bed Sheets" href="http://www.pepperfry.com/furnishings-bed-spreads.html?type=hp-footer-links-18">Bed Sheets</a>, <a title="Mattresses" href="http://www.pepperfry.com/furnishings-mattresses.html?type=hp-footer-links-19">Mattresses</a>, <a title="Blankets &amp; Quilts" href="http://www.pepperfry.com/furnishings-blankets-quilts.html?type=hp-footer-links-20">Blankets &amp; Quilts</a>, <a title="Table Linen" href="http://www.pepperfry.com/kitchen-linen-textiles.html?type=hp-footer-links-21">Table Linen</a>, <a title="Water Purifiers" href="http://www.pepperfry.com/appliances-water-purifiers.html?type=hp-footer-links-22">Water Purifiers</a>, <a title="Gas Stoves" href="http://www.pepperfry.com/appliances-gas-stoves.html?type=hp-footer-links-23">Gas Stoves</a>, <a title="Microwave &amp; OTG" href="http://www.pepperfry.com/appliances-microwave-otg.html?type=hp-footer-links-24">Microwave &amp; OTG</a>, <a title="Geysers" href="http://www.pepperfry.com/appliances-geysers.html?type=hp-footer-links-25">Geysers</a>, <a title="Dinner Sets" href="http://www.pepperfry.com/kitchen-dining-dinner-sets.html?type=hp-footer-links-26">Dinner Sets</a>, <a title="Cookware Sets" href="http://www.pepperfry.com/kitchen-dining-cookware-cookware-sets.html?type=hp-footer-links-27">Cookware Sets</a>, <a title="Food Storage" href="http://www.pepperfry.com/kitchen-dining-storage.html?type=hp-footer-links-28">Food Storage</a>, <a title="Bathroom Scales" href="http://www.pepperfry.com/bed-bath-bathroom-scales.html?type=hp-footer-links-29">Bathroom Scales</a>, <a title="Bath Robes" href="http://www.pepperfry.com/bath-body-towels-bath-robes-gowns.html?type=hp-footer-links-30">Bath Robes</a>, <a title="Bathroom Cabinets" href="http://www.pepperfry.com/bed-bath-bathroom-cabinets.html?type=hp-footer-links-31">Bathroom Cabinets</a>, <a title="Shower Curtains" href="http://www.pepperfry.com/bath-body-shower-curtains.html?type=hp-footer-links-32">Shower Curtains</a>, <a title="Clothes Dryers" href="http://www.pepperfry.com/home-utility-laundry-cloth-dryers.html?type=hp-footer-links-33">Clothes Dryers</a>, <a title="Laundry Baskets" href="http://www.pepperfry.com/home-utility-laundry-baskets.html?type=hp-footer-links-34">Laundry Baskets</a></div>
+<div class="clearfix"></div>
+<h3 class="footer_title_1">Popular Brands</h3>
+<div class="popular_brands"><a title="Woodsworth" href="http://www.pepperfry.com/brands/woodsworth.html?cat=3&amp;type=hp-footer-link-brands-1">Woodsworth</a>, <a title="Mintwud" href="http://www.pepperfry.com/brands/mintwud.html?cat=3&amp;p=1&amp;order=price&amp;dir=asc&amp;type=hp-footer-link-brands-2">Mintwud</a>, <a title="Casacraft" href="http://www.pepperfry.com/brands/casacraft.html?cat=3&amp;type=hp-footer-link-brands-3">Casacraft</a>, <a title="Mudramark" href="http://www.pepperfry.com/site_product/search?q=mudramark&amp;src=mudramark&amp;cat=3&amp;type=hp-footer-link-brands-4">Mudramark</a>, <a title="Tupperware" href="http://www.pepperfry.com/brands/tupperware.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-2">Tupperware</a>, <a title="Nilkamal" href="http://www.pepperfry.com/brands/nilkamal.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-3">Nilkamal</a>, <a title="Prestige" href="http://www.pepperfry.com/brands/prestige.html?cat=8&amp;type=brands-page-11&amp;type=hp-footer-link-brands-4">Prestige</a>, <a title="Morphy Richards" href="http://www.pepperfry.com/brands/morphy-richards.html?cat=8&amp;type=brands-page-19&amp;type=hp-footer-link-brands-5">Morphy Richards</a>, <a title="Housefull" href="http://www.pepperfry.com/housefull.html?type=hp-footer-link-brands-6">Housefull</a>, <a title="Fos Lighting" href="http://www.pepperfry.com/brands/fos-lighting.html?type=hp-footer-link-brands-7">Fos Lighting</a>, <a title="Little India" href="http://www.pepperfry.com/brands/little-india.html?type=brands-page-8&amp;type=hp-footer-link-brands-8">Little India</a>, <a title="Bombay Dyeing" href="http://www.pepperfry.com/brands/bombay-dyeing.html?type=hp-footer-link-brands-9">Bombay Dyeing</a>, <a title="Bajaj" href="http://www.pepperfry.com/brands/bajaj.html?cat=8&amp;type=brands-page-12&amp;type=hp-footer-link-brands-10">Bajaj</a>, <a title="Springfit" href="http://www.pepperfry.com/springfit.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-11">Springfit</a>, <a title="Swayam" href="http://www.pepperfry.com/brands/swayam.html?cat=11&amp;type=brands-page-21&amp;type=hp-footer-link-brands-12">Swayam</a>, <a title="Stellar" href="http://www.pepperfry.com/brands/stellar.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-13">Stellar</a>, <a title="Eureka Forbes" href="http://www.pepperfry.com/brands/eureka-forbes.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-14">Eureka Forbes</a>, <a title="Coirfit" href="http://www.pepperfry.com/brands/coirfit.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-15">Coirfit</a>, <a title="Hawkins" href="http://www.pepperfry.com/brands/hawkins.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-16">Hawkins</a></div>          <div class="footer_main_img"></div>
+    </div>
+</div>
+<div class="copyright">
+    <div class="middle_wrapper clearfix">
+        <div class="p_left">
+            <a href="/bulkorder.html?type=footer">Buy In Bulk</a>
+            <a href="javascript:;" id="footer_testimonial">Write a Testimonial</a>
+            <a href="http://blog.pepperfry.com?type=footer">bon-homie!</a>
+        </div>
+        <div class="p_right">
+            <a href="http://www.facebook.com/Pepperfry" target="_blank"><img src="http://i1.ppfry.com/img/dec/facebook-icon.png" alt=""></a>
+            <a href="http://twitter.com/pepperfry" target="_blank"><img src="http://i1.ppfry.com/img/dec/twitter-icon.png" alt=""></a>
+            <a href="http://pinterest.com/pepperfry/" target="_blank"><img src="http://i1.ppfry.com/img/dec/pinterest-icon.png" alt=""></a>
+            <a href="http://www.youtube.com/user/Pepperfrytv" target="_blank"><img src="http://i1.ppfry.com/img/dec/youtube-icon.png" alt=""></a>
+            <a href="https://plus.google.com/+pepperfry/about" target="_blank"><img src="http://i1.ppfry.com/img/dec/gplus-icon35.png" alt=""></a>
+        </div>
+    </div>
+</div>
+<div class="flooring"></div>
+<div class="flooring_links">
+   	<a href="/sitemap.html?type=footer">Sitemap</a> |  <a href="/terms-of-use.html?type=footer">Terms of Use</a> |  <a href="/privacy-policy.html?type=footer">Privacy Policy</a></div>
+
+<!--yrs code ends-->
+    <script>
+    setTimeout(function(){
+        $('iframe[name=google_conversion_frame]').hide();
+    }, 250);
+    
+    /* Following code (if structure) reads 'pixel' cookie and accordingly fires pixel depending upon campaign */
+    $(function (){
+        if(readCookie('pixel')){
+            $('body').append(readCookie('pixel'));
+            eraseCookie('pixel');
+        }
+    });
+    
+</script>
+    </div>
+<div id="mini_cart" style="right: -400px;"></div>
+<div id="popup_overlay"></div>
+<div id="white_overlay"></div>
+<div id="menu_transoverlay"></div>
+<a href="javascript:void(0)" id="back-top">Back to Top</a>
 
 </body></html>
