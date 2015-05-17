@@ -1,36 +1,24 @@
-> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611114143id_/http%3A//www.home.agilent.com/agilent/editorial.jspx%3Fpmode%3DPrivacy%26lc%3Deng%26cc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517021846id_/https%3A//www.agilent.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Agilent Technologies OnLine Privacy Statement | Agilent
+# Agilent | Chemical Analysis, Life Sciences, and Diagnostics
 
-_This statement was last revised on August 12, 2011._
+_This Privacy Statement was last revised on August 1, 2014._
 
-Agilent Technologies, Inc. and its subsidiaries (also referred to in this document as "Agilent Technologies", "Agilent" or “we”) provides this Privacy Statement to make you aware of our privacy practices and the choices you can make about how your personal information is collected and used, both on-line and off-line. To make this notice easy to access, it is available on the bottom of every Agilent web page.
+Agilent Technologies, Inc. and its subsidiaries (also referred to in this document as “Agilent Technologies”, “Agilent”, “we”, “our” and “us”) are committed to protecting and maintaining your privacy and provide this privacy statement (“Privacy Statement”) to make you aware of our privacy practices and the choices you can make about how your personal information is collected and used, both online and offline. To make this notice easy to access, a link to it is available on the bottom of every Agilent web page.
 
-Customers are Agilent's most valuable asset. We recognize that building a long-term business relationship with you depends a great deal on trust. This trust begins with our commitment to respecting as well as protecting your privacy.
+Customers are Agilent’s most valuable asset. We recognize that building a long-term business relationship with you depends a great deal on trust. To show our commitment to privacy, Agilent Technologies, Inc. has entered into two voluntary data privacy programs, the US-EU Safe Harbor and U.S.-Swiss Safe Harbor and has been awarded TRUSTe’s privacy seal, further details of which are available below.
 
-To show our commitment to privacy, we have entered into three voluntary data privacy programs: the [US-EU Safe Harbor, U.S.-Swiss Safe Harbor _ _](http://www.export.gov/safeharbor/ "This link takes you outside Agilent.com") and [TRUSTe _ _](http://www.truste.org/ "This link takes you outside Agilent.com").
+We’ve structured our website ([www.agilent.com](http://www.agilent.com/)) so that you can visit us without identifying yourself or revealing any personal information, however, some functionality, such as profile management or entitlements, may be limited. Throughout this Privacy Statement, “personal information” refers to any information that identifies you (either alone or together with other information), such as your name, address, e-mail address, phone number, etc. If you do share your personal information with us, you can be assured that it will only be used to support your relationship with Agilent or as otherwise set out in this Privacy Statement. 
 
-Agilent complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Agilent has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Agilent’s certification, please visit [http://www.export.gov/safeharbor/. _ _](http://www.export.gov/safeharbor/ "This link takes you outside Agilent.com")
-
-In addition, Agilent has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements _ _](http://watchdog.truste.com/pvr.php?page=complaint "This link takes you outside Agilent.com") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy_advocate@agilent.com.](mailto:privacy_advocate@agilent.com)
-
-If you are not satisfied with our response you can contact [TRUSTe here. _ _](http://watchdog.truste.com/pvr.php?page=complaint "This link takes you outside Agilent.com")
-
-[**Truste EU Safe Harbor**](http://privacy.truste.com/privacy-seal/Agilent-Technologies,-Inc-/validation?rid=bd54a23d-e45a-45b7-b886-683a78913995)
-
-As part of our participation in the Safe Harbor Frameworks, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Frameworks. If you have any complaints regarding our compliance with the Safe Harbor Frameworks you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRU STe by Internet at [TRUSTe _ _](http://watchdog.truste.com/pvr.php?page=complaint "This link takes you outside Agilent.com"), fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see [TRUSTe _ _](http://watchdog.truste.com/pvr.php?page=complaint "This link takes you outside Agilent.com") or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
-
-We've structured our web site [www.agilent.com](http://www.agilent.com/) so that you can visit us without identifying yourself or revealing any personal information; however, some functionality, such as profile management or entitlements, may be limited. Throughout this Privacy Statement, personal information refers to any information that is unique to an individual, such as name, address, e-mail address, phone number, etc. If you do share your personal information with us, you can be assured that it will only be used to support your relationship with Agilent.
-
-Agilent's privacy statement covers 8 main areas:
+This Privacy Statement covers 8 main areas:
 
   * Notice
   * Choice
   * Onward Transfer
   * Access & Accuracy
   * Security
-  * Tailoring Email Communications and Web Experiences
   * How Agilent Uses Cookies
+  * Safe Harbor and TRUSTe
   * Additional Information
 
 
@@ -39,144 +27,189 @@ These areas are described in detail below. Please keep in mind that our privacy 
 
 Comments or questions about our privacy practices can be sent to: [privacy_advocate@agilent.com](mailto:privacy_advocate@agilent.com)
 
-##  1\. Notice
+##  1\. NOTICE
 
-###  What information we collect
+**Scope of Privacy Statement**
 
-During the course of your relationship with us, we collect personal information to enable you to order products or services, download software updates, make requests, register for customized communications programs and enhance your experience on our websites.
+This Privacy Statement covers the collection, treatment and use of any personal information gathered by Agilent from customers, suppliers, vendors and other entities that Agilent does business with (“Vendors”) and from job applicants.
 
-We may collect such personal information as your name, e-mail address, contact and billing information, transaction and credit card information. While you are visiting our website, we may collect some technical data related to your browsing session such as IP address, browser type and language, number of times of you visited our website and the hyperlinks you visited.
+This Privacy Statement does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications that you elect to access through our websites.
+
+**What Information We Collect**
+
+**Customers and Vendors**
+
+During the course of your relationship with us, we collect personal information to enable you to order or sell products or services, download software updates, make requests, register for customized communications programs and enhance your experience on our websites.
+
+We may collect such personal information as your name, postal address, telephone number, fax number, e-mail address, contact and billing information, transaction history (including order, lead, demo and service/repair history) and credit card or other financial information (which shall be encrypted).
+
+Through your in-person communications and/or online interactions with Agilent, we may ask you to provide information regarding your personal or professional interests, demographics, experience with our products and contact preferences. We may combine the information you provide to us through different communications and contact channels, such as combining data collected online with information provided offline.
+
+In addition, personal information will be required to determine access eligibility for certain restricted parts of our website.
+
+**All visitors to Agilent websites**
+
+While you are visiting our website, we may collect some technical data related to your browsing session such as IP address, browser type and language, number of visits to our website and the hyperlinks you visited.
 
 In most cases, we use such technical data in aggregate form without identifying you personally for Agilent’s own reporting, statistics and website enhancements, as well as for information security purposes.
 
-Through your in-person communications and/or on-line interactions with Agilent, we may ask you to provide information regarding your personal or professional interests, demographics, experience with our products and contact preferences. In order to best serve you, we may correlate the information you provide to us through different communications and contact channels, such as data collected on-line may be combined with information provided off-line; for example, information provided via hard-copy form while attending an Agilent-sponsored seminar.
+Login or other tracking information that may identify you through website navigation will be stored for short time periods for technical security, website improvements, customer relationship purposes and so far as you continue interacting with Agilent.
 
-In addition, personal information will be required to determine access eligibility for certain restricted parts of our site.
+**How We Use The Information**
 
-We are committed to keeping your personal data only as long as required to respond to your request, provide you with the product/service you are interested in, or for the time period necessary to fulfill our own legal obligations. Login or other tracking information that may identify you through website navigation will be stored for short time periods for technical security, website improvements, customer relationship purposes and so far as you continue interacting with Agilent.
+Agilent uses your personal information to better understand your needs and provide you with better service. Specifically, we use your personal information to respond to your correspondence, help you complete a transaction, provide updates on service and benefits, and personalize our websites and communications (including marketing communications) with you. 
 
-###  **How we use the information**
+Whenever we collect credit card numbers or other financial data, these are used only for payment processing and are not retained for other purposes.
 
-Agilent uses your personal information to better understand your needs and provide you with better service. Specifically, we use your personal information to help you complete a transaction, to communicate back to you, provide updates on service and benefits, and to personalize our web sites and communications with you. 
+From time to time in accordance with applicable law, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest.  To unsubscribe from promotional emails, please follow the unsubscribe instructions included in each marketing email or in Section 2 below (“Choice”).
 
-Whenever we collect credit card numbers or other financial data, these are used only for payment processing and are not retained for other purposes. 
+Furthermore Agilent and its third-party service providers may use cookies (as described below) to provide a more relevant and personal online experience and to analyze and improve our services, which may include tracking traffic, usage and navigation patterns related to your activities on our websites.
 
-From time to time and with your permission, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. To unsubscribe from promotional emails, please follow the unsubscribe instructions included in each marketing email. 
+For more information about how you can express your choice regarding the use of your personal information, please read Section 2 below (“Choice”). 
 
-Furthermore Agilent and its third party service providers may use cookies (as described below) to provide a more relevant and personal online experience.
+##  2\. CHOICE
 
-For more information about how you can express your choice regarding the use of your personal information, please read below (“Choice”). 
+Agilent will not use or share your personal information in ways unrelated to the ones described in this Privacy Statement above without first notifying you and offering a choice, or if required by applicable law, seeking your consent.
 
-##  2\. Choice
+To the extent permitted by applicable laws, we may send you periodic messages from Agilent, including newsletters, promotions and special offers. We will use your name and email address to send them to you. You may choose to opt out of receiving these messages without any negative effect to your relationship with Agilent by following the unsubscribe instructions included in each marketing email. However, please note that opting out may prevent you from receiving email messages regarding updates, improvements, or special offers. If you opt out we may continue to send you non-marketing emails, e.g. emails about our business dealings with you. We also reserve the right to contact you when we believe it necessary, including where required by law.
 
-Agilent will not use or share your personal information in ways unrelated to the ones described above without first notifying you and offering a choice.
+We will also provide you the opportunity to let us know if you wish to opt out at any time of other contacts from Agilent and without any negative effect to your relationship with Agilent, and we will do everything we can to honor such requests. This choice may be offered at the bottom of our online or offline communications to you as well as on our web registration pages.
 
-We will also provide you the opportunity to let us know if you wish to opt-out at any time of certain or all contacts from Agilent, and we will do everything we can to honor such requests. This choice may be offered at the bottom of our on-line or off-line communications to you as well as on our web registration pages.
+If you have any difficulty exercising your choices or feel that choices you made on particular websites have not been taken into account, please use this Unsubscribe form [<http://www.agilent.com/agilent/globaloptout.jspx>].
 
-You can choose to opt out from an offer or service you have previously accepted at any moment, at no cost and without any negative effect to your relationship with Agilent. To do so or if you have any difficulty exercising your choices or feel that choices you made on particular websites have not been taken into account, please use this [Unsubscribe form](https://web.archive.org/agilent/globaloptout.jspx).
+Except as provided in Section 3, “Onward Transfer”, your permission will always be secured first, should we ever decide to share your personal information with third parties that are not acting on our behalf and governed by our Privacy Statement. 
 
-Your permission will always be secured first, should we ever decide to share your personal information with third parties that are not acting on our behalf and governed by our privacy policy. 
-
-##  3\. Onward Transfer
+##  3\. ONWARD TRANSFER
 
 ###  Whom we share the information with
 
-Agilent does not sell, rent, or lease your personal information to others except as described in this privacy statement. 
+Agilent does not sell, rent, or lease your personal information to others except as described in this Privacy Statement. 
 
-We only share your personal information with other Agilent entities or distributors of Agilent products and services or service providers (e.g., a shipper, credit card processor, market research company, etc.) who are acting on our behalf for the uses described above. Such Agilent entities and business partners are required to keep this data confidential and may not use it for any purpose other than to carry out the services they are performing for Agilent. 
+We only share your personal information among Agilent Technologies, Inc. and its subsidiaries or with distributors or other resellers of Agilent products and services or service providers (e.g., a shipper, credit card processor, market research company, etc.) who are acting on our behalf for the purposes of fulfilling your order or responding to your inquiry. Such Agilent entities and business partners are required to keep this data confidential and may not use it for any purpose other than to carry out the services they are performing for Agilent.
 
-– Agilent may also disclose your personal information (i) if we are required to do so by law; (ii) if we believe that it is necessary to protect and defend the rights of Agilent; (iii) in order to comply with a judicial proceeding, court order, or government inquiry; or (iv) if Agilent is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+Agilent may also disclose your personal information: (i) if we are required to do so by law; (ii) if we believe that it is necessary to enforce or apply our terms of use and other agreements or otherwise protect and defend the rights, property or safety of Agilent or that of our customers; (iii) in order to comply with a judicial proceeding, court order or other legal obligation or government inquiry; or (iv) to any entity that acquires any part of Agilent’s current operations by way of merger, de-merger, acquisition, reorganization or sale of assets. You will be notified via email and/or a prominent notice on our Website of any change in ownership or usage of your personal information, as well as any choices you may have regarding your personal information.
 
-Subject to your permission or as permitted by law, the personal information that you provide to us may be transferred across state or country borders to consolidate data storage, simplify information management or synchronize customer relationship activities globally. 
+Agilent’s global organizational structure requires the global transfer of personal data within the Agilent group of companies. As a consequence and as permitted by applicable law, the personal information that you provide to us may be transferred across state or country borders, including to countries outside the country in which you reside (including to countries outside of the European Economic Area ("EEA")), to consolidate data storage, simplify information management or synchronize customer relationship activities globally. It may also be processed by staff operating outside the country in which you reside (including countries outside of the EEA) who work for us or one of our resellers, distributors, service providers or suppliers. Such staff may be engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Statement. 
 
-##  4\. Access and Accuracy
+##  4\. **ACCESS, ACCURACY AND RETENTION**
 
-Agilent strives to keep your personal information accurate. We will provide you reasonable access to personal information you provided to Agilent and reasonable ability to review and correct it or ask for deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections.
+Agilent strives to keep your personal information accurate. We will provide you access to personal information you provide to Agilent and the ability to review and correct it or ask for it to be deleted, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections.
 
-To access your personal information, return to the web page where you originally entered it and follow the instructions on that web page. 
+To access your personal information, return to the web page where you originally entered it and follow the instructions on that web page.
 
-If you cannot access your information on the web page, please telephone the nearest Agilent Call Center for assistance, or send your request to  [privacy_advocate@agilent.com](mailto:mailto:privacy_advocate@agilent.com)
+If you cannot access your information on the web page, please telephone the nearest Agilent Call Center for assistance, or send your request to [privacy_advocate@agilent.com](mailto:privacy_advocate@agilent.com).
 
-We will respond to your request for access within 30 days. 
+We will respond to your request for access as soon as is reasonably practicable and in any event within 30 days. 
 
-##  5\. Security
+We will retain your information for as long as your account is active or as required to respond to your request, provide you with the products/services you are interested in or complete Agilent purchases of your products/services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Agilent is committed to ensuring the security of your personal information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of personal information, we have put in place appropriate physical, electronic and organizational measures to safeguard and secure it. When you provide sensitive information (such as a credit card number) the information is encrypted using secure socket layer technology (SSL).
+##  5\. **SECURITY**
 
-##  6\. Tailoring E-Mail Communications and Web Experiences
+Agilent is committed to ensuring the security of your personal information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of personal information, we have put in place appropriate physical, electronic and organizational measures to safeguard and secure it. We may store personal information in locations outside our direct control (e.g. on servers or databases co-located with hosting providers).
 
-Agilent may employ technologies, such as web-tracking tools (described in section “7. How Agilent Uses Cookies”), designed for website session analysis and profiling of the users of our website. Such technologies enable us to optimize our website content and tailor it and other communications to you.
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share this password with anyone.
 
-##  7\. How Agilent Uses Cookies
+Unfortunately, the transmission of information over the internet is not completely secure. We cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk.
 
-**Types of data collected through cookies and purposes of cookies’ use**
+If you have any questions about security on our websites, you can contact us at [privacy_advocate@agilent.com](mailto:privacy_advocate@agilent.com). 
 
-A cookie is a piece of information either stored temporarily (session cookie) or placed on your computer's hard drive (stored cookie). The main purpose of a cookie is to allow a web server to identify a user and serve up customized web pages and/or login information to the user's web browser when revisiting a web page.
+##  6\. **HOW AGILENT USES COOKIES**
 
-We may use session and stored cookies (which may be provided by a third party operating on our behalf) to help us analyze web traffic or to improve your web navigation experience. To facilitate the analysis, an ID is assigned to help us uniquely identify you each time you return to our web site. One of the major concerns about stored cookies is the fear that they contain personal information and information identifying you that could be accessed by other web sites. No personal information stored in Agilent cookies can be accessed by other websites.
+**Types of Data Collected Through Cookies and Purposes of Cookies’ Use**
 
-The cookies help you avoid entering identification details each time you visit our website or repeatedly type the same information you are looking for on our website (search terms, key words, names of products, etc.). Cookies help us promptly display the information you need and other information which we consider may be of interest to you. 
+Agilent uses technologies, such as web-tracking tools designed for website session analysis and profiling of the users of our website. Such technologies enable us to optimize our website content and tailor it and other communications to you.
 
-**Cookie and Clear gif usage and your choices about tracking technologies**
+A cookie is text file containing small amounts of information stored on your computer’s hard drive when you visit a webpage. You can find more information about cookies and how to manage them at <http://www.allaboutcookies.org/>.
 
-By gathering and remembering information about your website preferences through cookies we can provide a better web and marketing experience. Examples include, but are not limited to:
+The main purpose of a cookie is to allow a web server to identify a user and serve up customized web pages and/or login information to the user's web browser when revisiting a web page. These cookies help you avoid entering identification details each time you visit our website or repeatedly type the same information you are looking for on our website (search terms, key words, names of products, etc.).
 
-  * Tailor its operation to your needs, likes and dislikes 
-  * Provide an automated log-in process as a convenience for previously registered customers. This insures that you will be accurately identified and linked with your registration data. 
-  * Be placed on your computer to ensure you are not surveyed multiple times during your visit(s) to an Agilent web site. This cookie has a limited life span and will not personally identify you.
+Cookies also help us to promptly display the information you need and other information which we consider may be of interest to you.
 
+We may use session cookies (which are deleted after each session) and stored cookies (which remain on your hardware after your session has ended). Cookies may be set by a third party operating on our behalf (e.g., to help us analyze web traffic or to improve your web navigation experience).
 
+**Cookie. Clear Gif. Tag and ScriptUsage and Your Choices About Tracking Technologies**
 
-Website analysis operated through the cookies help us provide a better web experience by letting us monitor what is working and what is not. Agilent wants to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you choose to share with us. This practice is strictly enforced in Agilent. While acknowledging the concerns that some visitors have about cookie usage, we believe that the benefit our webpage visitors gain from the use of cookies is worthwhile.
+We use the following types of cookies on our websites to help us analyze web traffic, to improve your web experience and to better target our marketing of products and services:
 
-As a user you have the ability to accept or decline the use of cookies. Agilent tries to indicate data tracking through cookies and strives to find ways to display you relevant information and provide consent options when it dynamically interacts with you (e.g. on “sign-in” session or upon your registration on certain websites).
-
-Cookies can be removed explicitly through functionality built into most web browsers. You may also set your web browser (e.g. Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, to ask for permission to accept them, or to decline cookies completely.
-
-**Clear Gifs (Web Beacons/Web Bugs)**
-
-We may also employ Clear Gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We also may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, clear gifs may be tied to personally- identifiable information.  
- 
-
-**Adjusting Browser Cookie Settings**
-
-For information on how to adjust your browser regarding cookies, please visit:
-
-  * Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>[_ _](http://www.microsoft.com/info/cookies.htm "This link takes you outside Agilent.com")
-  * Firefox: <http://support.mozilla.com/en-US/home>[_ _](http://support.mozilla.com/en-US/home "This link takes you outside Agilent.com")
-  * Chrome: <http://www.google.com/support/chrome/?hl=en>[_ _](http://www.google.com/support/chrome/?hl=en "This link takes you outside Agilent.com")
-  * Safari: <http://www.apple.com/support/safari/>[_ _](http://www.apple.com/support/safari/ "This link takes you outside Agilent.com")
-  * Opera: <http://www.opera.com/browser/tutorials/security/>[_ _](http://www.opera.com/browser/tutorials/security/ "This link takes you outside Agilent.com")
+  * _Strictly necessary cookies,_ which are essential in order to enable you to move around the website and use its features.
+  * _Performance cookies,_ which collect information about how you use the website, for instance which pages you visit most often. __
+  * _Functionality cookies_ , which allow the website to remember choices you make (e.g. remembering your user name, language or the region you are in) and provide enhanced, more personal features. __
+  * _Advertising cookies_ , which are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign.
 
 
 
-﻿If you choose to decline cookies, some functionalities of the website may not be available. 
+To facilitate the analysis of web traffic, an ID is assigned to help us uniquely identify you each time you return to our website.
 
-##  8\. Additional Information
+By gathering and remembering information about your website preferences through cookies we can provide a better web and marketing experience. Specifically, cookies enable us to:
 
-###  Links to Third Party Web Sites
+  * Tailor our website’s operation to your needs, likes and dislikes. 
+  * Provide an automated log-in process as a convenience for previously registered customers, ensuring that you will be identified accurately and linked with your registration data. 
+  * Ensure you are not surveyed multiple times during your visit(s) to an Agilent website.
+  * Provide a better web experience by letting us monitor what is working and what is not. 
 
-Links to third party websites are provided solely as a convenience to you. If you use these links, you will leave the Agilent site. Agilent has not reviewed all of these third party sites, does not control and is not responsible for any of these sites, their content or their privacy policies. Thus, we do not endorse or make any representations about them, or any information, software or other products or materials found there, or any results of using them. If you decide to access any of the third party sites linked to this site, you do so entirely at your own risk.
 
-###  Jobs@Agilent
 
-When you choose to post a resume to our site and apply to become part of the Agilent team, please note that you will be taken to a third party url (apply2jobs.com) and these pages will be branded as Agilent. The information collected and used while on these hosted pages is governed by our privacy policy.
+We also partner with third party ad networks to either display advertising on our website or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-###  Email a Page
+As a user you have the ability to accept or decline the use of cookies. Where required by law, Agilent indicates its use of cookies through a prominent banner on our website. Cookies can be removed explicitly using functionality built into most web browsers and you may refuse to accept cookies by activating this setting on your browser. You may also set up your web browser to notify you of cookie placement requests, to ask for permission to accept them, or to decline cookies completely. For information on how to adjust your browser regarding cookies, please visit:
+
+Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>  
+Firefox: <http://support.mozilla.com/en-US/home>  
+Chrome: <http://www.google.com/support/chrome/?hl=en>  
+Safari: <http://www.apple.com/support/safari/>  
+Opera: <http://www.opera.com/browser/tutorials/security/>
+
+If you choose to decline cookies, some of the website may not be available to you.
+
+**Log Files**
+
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We use this information to improve services we offer you, analytics and site functionality. We do not use this data for any other purpose
+
+**Clear Gifs (Web Beacons/Web Bugs), Tags, and Scripts**
+
+Technologies such as: cookies (as detailed above), clear gifs, tags and scripts are used by us and our analytics company.  These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We also may use Clear Gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, Clear Gifs may be tied to personally identifiable information.
+
+##  7\. **SAFE HARBOR AND TRUSTE**
+
+Agilent Technologies, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Agilent has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Agilent’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+[**Truste EU Safe Harbor**](http://privacy.truste.com/privacy-seal/Agilent-Technologies,-Inc-/validation?rid=bd54a23d-e45a-45b7-b886-683a78913995)
+
+In addition, Agilent Technologies, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program requirements, including transparency, accountability and choice in collecting and using your personal information, viewable on the validation page available by clicking the TRUSTe seal.
+
+##  8\. **DISPUTE RESOLUTION**
+
+If you have questions or complaints regarding our Privacy Statement or practices, please contact us at [privacy_advocate@agilent.com](mailto:privacy_advocate@agilent.com).
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe](https://feedback-form.truste.com/watchdog/request).  Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English.
+
+The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site or through other means.
+
+##  9\. **ADDITIONAL INFORMATION**
+
+**Links to Third-Party Websites**
+
+Links to third-party websites are provided solely as a convenience to you. If you use these links, you will leave the Agilent website. Agilent has not reviewed, does not control and is not responsible for these websites, their content or their privacy statement. Thus, we do not endorse or make any representations about them, any information, software or other products or materials found there, or any results of using them. If you decide to access any of the third-party sites linked to Agilent’s website, you do so entirely at your own risk.
+
+**Jobs@Agilent**
+
+When you choose to post a resume to our website and apply to become part of the Agilent team, please note that you will be taken to a third-party URL ([jobs.agilent.com](http://jobs.agilent.com/)) and these pages will be branded as Agilent. The information you provide via the URL will be used solely for the purposes for which it is provided (including the processing of your application) and will be retained for such period as is necessary to comply with Agilent’s legal and administrative requirements. The information collected and used while on these hosted pages is subject to the following sections of this Privacy Statement to the extent applicable to resumes: Notice (specifically What Information We Collect – all visitors to Agilent websites), Choice (excluding the provision on marketing communications), Onward Transfer, Access and Accuracy and Security.
+
+**Email a Page**
 
 If you choose to use our Email a Page service, your name, comments and the email addresses you provide will not be used for any other purpose than to complete this page-forwarding transaction.
 
-###  User Forums
+**User Forums**
 
-This site may contain areas where users can transmit or post communications, for example on blogs, chat rooms, bulletin boards or user forums. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in such public areas.
+This website may contain areas where users can transmit or post communications, for example on blogs, chat rooms, bulletin boards or user forums. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in such public areas.
 
-###  Changes to the Privacy Statement
+**Changes to the Privacy Statement**
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our home page. The revision date shown at the top of the page will be updated accordingly. Unless we ask for your explicit agreement to certain terms of our policy in certain cases, we consider that your continuous use of our website means that you accept the terms of this Privacy Statement.
+This Privacy Statement is effective as of the date stated at the start of this Privacy Statement. We reserve the right to modify this Privacy Statement at any time by posting the revised policy on our websites and updating the date the statement was last revised at the start of this Privacy Statement, so please review it frequently. If we make material changes to this Privacy Statement, we will notify you by email or by means of a prominent notice on our home page. Unless we ask for your explicit agreement to certain terms of our policy, we consider that your continuous use of our website means that you accept the terms of this Privacy Statement 
 
-###  Contact Information
+**Contact Information**
 
-Please e-mail questions or comments about our privacy practices to:
+Please send/contact us with questions or comments about our privacy practices at:
 
 [privacy_advocate@agilent.com](mailto:privacy_advocate@agilent.com)
 
@@ -184,5 +217,6 @@ Agilent Technologies, Inc.
 5301 Stevens Creek Boulevard  
 PO Box 58059 - MS 1B-CQ  
 Santa Clara, CA 95052-8058  
-United States  
-Phone: (408) 345-8061
+United States
+
+Phone: (408) 553 -4417
