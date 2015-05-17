@@ -1,61 +1,79 @@
-> *The following text is extracted and transformed from the quizwow.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113002911id_/http%3A//www.quizwow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizwow.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518010815id_/http%3A//www.quizwow.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Quizwow - #1 Quiz Website
+# Quizwow
 
-## Privacy Policy 
+This Privacy Policy governs the manner in which QuizWow collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.quizwow.com](http://www.quizwow.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by QuizWow.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@quizwow.com.
+Personal identification information
 
-At www.quizwow.com, the privacy of our visitors is extremely important to us. This privacy policy document outlines the types of personal information is received and collected by www.quizwow.com and how it is used.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**What information do we collect?**
+Non-personal identification information
 
-We collect information from you when you subscribe to our newsletter.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your e-mail address. You may, however, visit our site anonymously.
+Web browser cookies
 
-**What do we use your information for?**
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Any of the information we collect from you may be used in one of the following ways: To administer a contest, promotion, survey or other site feature
+How we use collected information
 
-**How do we protect your information?**
+QuizWow may collect and use Users personal information for the following purposes:
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+\- To improve customer service
 
-**Do we use cookies?**
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+\- To personalize user experience
 
-www.quizwow.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.quizwow.com  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.quizwow.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+\- To improve our Site
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+We may use feedback you provide to improve our products and services.
 
-**DoubleClick DART Cookie**  
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.quizwow.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+\- To run a promotion, contest, survey or other Site feature
 
-www.quizwow.com has no access to or control over these cookies that are used by third-party advertisers.
+To send Users information they agreed to receive about topics we think will be of interest to them.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.quizwow.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+\- To send periodic emails
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-**Do we disclose any information to outside parties?**
+How we protect your information
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**Third party links**
+Sharing your personal information
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**Childrens Online Privacy Protection Act Compliance**
+Google Adsense
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-**Your Consent**
+Compliance with children's online privacy protection act
 
-By using our site, you consent to our privacy policy.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+Changes to this privacy policy
+
+QuizWow has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+Thinkwise, Inc.
+
+550 Adams Street
+
+Suite 288
+
+Quincy, MA 02169
+
+This document was last updated on February 27, 2015
