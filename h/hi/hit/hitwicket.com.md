@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022103413id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517022555id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
 
 # Hitwicket - Privacy Site
+
+[ ](https://web.archive.org/site/index "Online T20 Cricket Management Game | Hitwicket")
 
 Octathorpe Web-Consultants Pvt Ltd, a company with its registered address at Hyderabad, India, the publisher of Hitwicket.com, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website, [www.hitwicket.com](http://www.hitwicket.com/)
 
@@ -29,12 +31,16 @@ We collect information from you in two ways:
 
 ### Using, processing, storing and sharing the information collected by Hitwicket
 
-  * (a) All the information collected through the Hitwicket website is used and processed only by Octathorpe Web Consultants Pvt. Ltd., its employees and consultants, including legal advisors as required for the purpose of administering the functions of Hitwicket.
-  * (b) All information collected by Octathorpe Web Consultants Pvt. Ltd. is stored on secure third party servers.
+  * (a) All the information collected through the Hitwicket website is used and processed only by Hitwicket Digital Pvt. Ltd., its employees and consultants, including legal advisors as required for the purpose of administering the functions of Hitwicket.
+  * (b) All information collected by Hitwicket Digital Pvt. Ltd. is stored on secure third party servers.
   * (c) We do not share or sell any of the information collected by us with advertisers or third parties. Sponsors, business partners, co-branded sites or content providers may get the opportunity to offer products and services to you within the Hitwicket web site, but we will ask you before passing on any of your personal information to other parties.
   * (d) We may share information with law enforcement authorities as required by applicable laws.
 
 
+
+### DoubleClick
+
+We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using theDoubleClick opt-out page or the Network Advertising Initiative opt-out page.
 
 ### Information visible to other players
 
