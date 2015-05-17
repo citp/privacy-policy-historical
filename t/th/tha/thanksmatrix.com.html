@@ -1,0 +1,633 @@
+<!--The following is the downloaded HTML source of the thanksmatrix.com privacy policy that was archived on 2015-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150517102001id_/http%3A//www.thanksmatrix.com/Privacy-Policy) for the most accurate reproduction.-->
+
+<html><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript">
+function pop(url,win_name,option)
+{
+	href = url;
+	if (option==1)
+	{option = 'toolbar=no,scrollbars=yes,resizable=yes,width=800,height=1024,left=0,top=0';}
+	else
+	{option=''}
+
+	window.open( href, win_name, option );
+}
+
+function formatMoney(num) {
+    num = isNaN(num) || num === '' || num === null ? 0.00 : num;
+    return parseFloat(num).toFixed(2);
+}
+
+/*
+48-57 = UPPER 1-0 KEY
+8 = BACK SPACE
+9 = TAB
+13 = ENTER
+16 = Shift
+17 = L Ctrl
+25 = R Ctrl
+46 = DELETE
+96-105 = NUMPAD 1-0 KEY
+110 = DOT (NUMPAD)
+190 = DOT
+229 = ?? Error in Safari
+*/
+function numberChk() {
+	//alert(event.keyCode);
+    if ((48 <= event.keyCode && event.keyCode <= 57)||(96 <= event.keyCode && event.keyCode <= 105)||(event.keyCode==8)||(event.keyCode==9)||(event.keyCode==13)||(event.keyCode==46)||(event.keyCode==110)||(event.keyCode==190)) {
+        return;
+    } else {
+        event.returnValue = false;
+        alert('Only Numbers are allowed to input.');
+    }
+}
+
+function numsChk() {
+	//alert(event.keyCode);
+    if ((48 <= event.keyCode && event.keyCode <= 57)||(event.keyCode==13)) {
+        return;
+    } else {
+        event.returnValue = false;
+        alert('Only Numbers are allowed to input.');
+    }
+}
+
+function moneyChk() {
+	//alert(event.keyCode);
+    if ((48 <= event.keyCode && event.keyCode <= 57)||(event.keyCode==13)||(event.keyCode==46)) {
+        return;
+    } else {
+        event.returnValue = false;
+        alert('Please input money type Only! ex) 25.00');
+    }
+}
+
+function ChkMin(theInput,theQty,MinQty)
+{
+	//alert(event.keyCode);
+	if ((48 <= event.keyCode && event.keyCode <= 57)||(96 <= event.keyCode && event.keyCode <= 105)||(event.keyCode==8)||(event.keyCode==9)||(event.keyCode==13)||(event.keyCode==16)||(event.keyCode==17)||(event.keyCode==25)||(event.keyCode==46)||(event.keyCode==229)) {
+        if (0 < theQty && theQty < MinQty)
+		{
+			alert('Minimum Quantity is ' + MinQty);
+		    theInput.value = MinQty;
+		}
+    } else {
+        //alert('Only Numbers are allowed to input.');
+        theInput.value = '';
+    }
+}
+
+function URLDecode(sText)
+	sDecoded = sText
+	Set oRegExpr = Server.CreateObject("VBScript.RegExp")
+	oRegExpr.Pattern = "%[0-9,A-F]{2}"
+	oRegExpr.Global = True
+	Set oMatchCollection = oRegExpr.Execute(sText)
+	For Each oMatch In oMatchCollection
+	sDecoded = Replace(sDecoded,oMatch.value,Chr(CInt("&H" &
+	Right(oMatch.Value,2))))
+	Next
+	URLDecode = sDecoded
+End function
+
+function ChangeText(fieldid,fieldvalue)
+{
+	document.getElementById(fieldid).innerHTML=fieldvalue;
+}
+
+function getCurrentPageSize() {
+	var xScroll, yScroll;
+	if (window.innerHeight && window.scrollMaxY) {
+	xScroll = window.innerWidth + window.scrollMaxX;
+	yScroll = window.innerHeight + window.scrollMaxY;
+	} else if (document.body.scrollHeight > document.body.offsetHeight) { // all but Explorer Mac
+	xScroll = document.body.scrollWidth;
+	yScroll = document.body.scrollHeight;
+	} else { // Explorer Mac...would also work in Explorer 6 Strict, Mozilla and Safari
+	xScroll = document.body.offsetWidth;
+	yScroll = document.body.offsetHeight;
+	}
+	var windowWidth, windowHeight;
+	if (self.innerHeight) { 
+	// all except Explorer
+	if (document.documentElement.clientWidth) {
+	windowWidth = document.documentElement.clientWidth;
+	} else {
+	windowWidth = self.innerWidth;
+	}
+	windowHeight = self.innerHeight;
+	} else if (document.documentElement && document.documentElement.clientHeight) { // Explorer 6 Strict Mode
+	windowWidth = document.documentElement.clientWidth;
+	windowHeight = document.documentElement.clientHeight;
+	} else if (document.body) { // other Explorers
+	windowWidth = document.body.clientWidth;
+	windowHeight = document.body.clientHeight;
+	}
+	// for small pages with total height less then height of the viewport
+	if (yScroll < windowHeight) {
+	pageHeight = windowHeight;
+	} else {
+	pageHeight = yScroll;
+	}
+	// for small pages with total width less then width of the viewport
+	if (xScroll < windowWidth) {
+	pageWidth = xScroll;
+	} else {
+	pageWidth = windowWidth;
+	}
+	return [pageWidth, pageHeight];
+}
+
+function CheckCurrentWindowResize() {
+	var arrayPageSize = getCurrentPageSize()
+	document.getElementById("overlayCover").style.width = arrayPageSize[0];
+	document.getElementById("overlayCover").style.height = arrayPageSize[1];
+}
+
+function LoadingOverlay() {
+	var arrayPageSize = getCurrentPageSize()
+	document.getElementById("overlayCover").style.display = 'block';
+	document.getElementById("overlayCover").style.width = arrayPageSize[0];
+	document.getElementById("overlayCover").style.height = arrayPageSize[1];
+}
+window.onresize = CheckCurrentWindowResize
+</script>
+
+<script language="JavaScript">
+function pop(url,win_name,option)
+{
+	href = url;
+	if (option==1)
+	{option = 'toolbar=no,scrollbars=yes,resizable=yes,width=800,height=1024,left=0,top=0';}
+	else
+	{option=''}
+
+	window.open( href, win_name, option );
+}
+
+function formatMoney(num) {
+    num = isNaN(num) || num === '' || num === null ? 0.00 : num;
+    return parseFloat(num).toFixed(2);
+}
+
+/*
+48-57 = UPPER 1-0 KEY
+8 = BACK SPACE
+9 = TAB
+13 = ENTER
+16 = Shift
+17 = L Ctrl
+25 = R Ctrl
+46 = DELETE
+96-105 = NUMPAD 1-0 KEY
+110 = DOT (NUMPAD)
+190 = DOT
+229 = ?? Error in Safari
+*/
+function numberChk() {
+	//alert(event.keyCode);
+    if ((48 <= event.keyCode && event.keyCode <= 57)||(96 <= event.keyCode && event.keyCode <= 105)||(event.keyCode==8)||(event.keyCode==9)||(event.keyCode==13)||(event.keyCode==46)||(event.keyCode==110)||(event.keyCode==190)) {
+        return;
+    } else {
+        event.returnValue = false;
+        alert('Only Numbers are allowed to input.');
+    }
+}
+
+function numsChk() {
+	//alert(event.keyCode);
+    if ((48 <= event.keyCode && event.keyCode <= 57)||(event.keyCode==13)) {
+        return;
+    } else {
+        event.returnValue = false;
+        alert('Only Numbers are allowed to input.');
+    }
+}
+
+function moneyChk() {
+	//alert(event.keyCode);
+    if ((48 <= event.keyCode && event.keyCode <= 57)||(event.keyCode==13)||(event.keyCode==46)) {
+        return;
+    } else {
+        event.returnValue = false;
+        alert('Please input money type Only! ex) 25.00');
+    }
+}
+
+function ChkMin(theInput,theQty,MinQty)
+{
+	//alert(event.keyCode);
+	if ((48 <= event.keyCode && event.keyCode <= 57)||(96 <= event.keyCode && event.keyCode <= 105)||(event.keyCode==8)||(event.keyCode==9)||(event.keyCode==13)||(event.keyCode==16)||(event.keyCode==17)||(event.keyCode==25)||(event.keyCode==46)||(event.keyCode==229)) {
+        if (0 < theQty && theQty < MinQty)
+		{
+			alert('Minimum Quantity is ' + MinQty);
+		    theInput.value = MinQty;
+		}
+    } else {
+        //alert('Only Numbers are allowed to input.');
+        theInput.value = '';
+    }
+}
+
+function URLDecode(sText)
+	sDecoded = sText
+	Set oRegExpr = Server.CreateObject("VBScript.RegExp")
+	oRegExpr.Pattern = "%[0-9,A-F]{2}"
+	oRegExpr.Global = True
+	Set oMatchCollection = oRegExpr.Execute(sText)
+	For Each oMatch In oMatchCollection
+	sDecoded = Replace(sDecoded,oMatch.value,Chr(CInt("&H" &
+	Right(oMatch.Value,2))))
+	Next
+	URLDecode = sDecoded
+End function
+
+function ChangeText(fieldid,fieldvalue)
+{
+	document.getElementById(fieldid).innerHTML=fieldvalue;
+}
+
+function getCurrentPageSize() {
+	var xScroll, yScroll;
+	if (window.innerHeight && window.scrollMaxY) {
+	xScroll = window.innerWidth + window.scrollMaxX;
+	yScroll = window.innerHeight + window.scrollMaxY;
+	} else if (document.body.scrollHeight > document.body.offsetHeight) { // all but Explorer Mac
+	xScroll = document.body.scrollWidth;
+	yScroll = document.body.scrollHeight;
+	} else { // Explorer Mac...would also work in Explorer 6 Strict, Mozilla and Safari
+	xScroll = document.body.offsetWidth;
+	yScroll = document.body.offsetHeight;
+	}
+	var windowWidth, windowHeight;
+	if (self.innerHeight) { 
+	// all except Explorer
+	if (document.documentElement.clientWidth) {
+	windowWidth = document.documentElement.clientWidth;
+	} else {
+	windowWidth = self.innerWidth;
+	}
+	windowHeight = self.innerHeight;
+	} else if (document.documentElement && document.documentElement.clientHeight) { // Explorer 6 Strict Mode
+	windowWidth = document.documentElement.clientWidth;
+	windowHeight = document.documentElement.clientHeight;
+	} else if (document.body) { // other Explorers
+	windowWidth = document.body.clientWidth;
+	windowHeight = document.body.clientHeight;
+	}
+	// for small pages with total height less then height of the viewport
+	if (yScroll < windowHeight) {
+	pageHeight = windowHeight;
+	} else {
+	pageHeight = yScroll;
+	}
+	// for small pages with total width less then width of the viewport
+	if (xScroll < windowWidth) {
+	pageWidth = xScroll;
+	} else {
+	pageWidth = windowWidth;
+	}
+	return [pageWidth, pageHeight];
+}
+
+function CheckCurrentWindowResize() {
+	var arrayPageSize = getCurrentPageSize()
+	document.getElementById("overlayCover").style.width = arrayPageSize[0];
+	document.getElementById("overlayCover").style.height = arrayPageSize[1];
+}
+
+function LoadingOverlay() {
+	var arrayPageSize = getCurrentPageSize()
+	document.getElementById("overlayCover").style.display = 'block';
+	document.getElementById("overlayCover").style.width = arrayPageSize[0];
+	document.getElementById("overlayCover").style.height = arrayPageSize[1];
+}
+window.onresize = CheckCurrentWindowResize
+</script>
+
+
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="/css/style.css?22801.31">
+	
+	<title>Thanks Matrix | United States</title>
+	
+	<meta name="description" content="Esolutions in Business and Personal Management; TEXT message, E-Cards, E-Books, DM Contents, Schedule Management, CRM Service, Printing">
+	<meta name="keywords" content="virtual assistants, virtual assistant services, affiliate network, affiliate program, scheduled text, scheduled sms, personal esolutions, busines esolutions, businessl esolutions, personal assistants, virtual personal assistant">
+	
+	<script src="/js/jquery-1.7.1.min.js"></script>
+	
+	<script language="JavaScript" type="text/javascript">
+	<!--
+	function showhide(lid){
+	  $("#"+lid).toggle();
+	}
+	// -->
+	</script>
+	
+	<!--[ Google Analytics -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-45568701-3', 'auto');
+	  ga('send', 'pageview');
+	
+	</script>
+	<!--] Google Analytics -->
+	
+	<meta name="google-translate-customization" content="8f6c61807857ea94-ab294d4810370017-g9e08e124a30ba8cb-14">
+	
+</head>
+
+<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
+
+<table cellpadding="0" cellspacing="0" class="topMenuFrame">
+    <tbody><tr>
+        <td valign="top" align="left">
+        	
+        	<img src="/img/logo_TM.gif" style="cursor:pointer; margin:0px 0 0 0px;" onclick="location.href='/'">
+        	
+        </td>
+        <td valign="top" align="right">
+	        <table height="60" cellpadding="0" cellspacing="0" bgcolor="black" style="margin:0 30px 0 0;">
+	        	<tbody><tr>
+	        		<td colspan="5" class="topMenuTop" align="right" style="padding:0 30px 0 0;"><a onclick="location.href='https://www.thanksmatrix.com/Login';" class="topMenuTop" style="cursor:pointer; text-decoration:underline;">Member Login</a></td>
+	        	</tr>
+	        	<tr>
+	        		<td onclick="location.href='/';" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" class="topmenu">HOME</td>
+	        		<td onclick="showhide('sub_esolutions');" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" class="topmenu">
+	        		ESOLUTIONS
+	        		<div id="sub_esolutions" style="top:60px; position:absolute; z-index:1; display:none;">
+					<table cellpadding="10" cellspacing="0" bgcolor="#000000" width="160" style="margin-left:-30px; font-size:11px; line-height:180%; border-width:1px; border-color:rgb(153,153,153); border-style:solid;">
+						<tbody><tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/Esolutions-Preview';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							SMS/TEXT
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/Esolutions-Preview#ecards';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							E-Cards
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/Esolutions-Preview#ebooks';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							E-Books
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/Esolutions-Preview#dmcontents';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							DM Contents
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/Esolutions-Preview#schedule';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							Schedule Management
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/Esolutions-Preview#crm';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							CRM Service
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/Esolutions-Preview#printing';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							Printing/Publishing
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/Esolutions-Preview#go7shop';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							GO7SHOP
+							</td>
+						</tr>
+					</tbody></table>
+					</div>
+	        		</td>
+	        		<td onclick="location.href='http://www.thanksmatrix.com/Affiliates';" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" class="topmenu">AFFILIATES</td>
+	        		<td onclick="location.href='https://www.thanksmatrix.com/SignUp';" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" class="topmenu">SIGN UP</td>
+	        		<td onclick="showhide('sub_help');" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" class="topmenu">
+	        		HELP
+	        		<div id="sub_help" style="top:60px; position:absolute; z-index:1; display:none;">
+					<table cellpadding="10" cellspacing="0" bgcolor="#000000" width="60" style="margin-left:-30px; font-size:11px; line-height:180%; border-width:1px; border-color:rgb(153,153,153); border-style:solid;">
+						<tbody><tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/FAQ';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							FAQ
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/About-Us';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							About Us
+							</td>
+						</tr>
+						<tr>
+							<td nowrap="" onclick="location.href='http://www.thanksmatrix.com/Contact-Us';" style="font-size:14px; color:#ffffff;" onmouseover="this.style.backgroundColor='#4585f2';" onmouseout="this.style.backgroundColor='';" align="center">
+							Contact Us
+							</td>
+						</tr>
+					</tbody></table>
+					</div>
+	        		</td>
+	        	</tr>
+	        </tbody></table>
+	        
+	        <div id="google_translate_element" style="margin:0 30px 0 0;"></div><script type="text/javascript">
+			function googleTranslateElementInit() {
+			  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-45568701-3'}, 'google_translate_element');
+			}
+			</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			
+        </td>
+    </tr>
+    <tr>
+    	<td colspan="2" height="20" bgcolor="#46CF3B">&nbsp;</td>
+    </tr>
+</tbody></table>
+
+<!-- START OF CONTENTS -->
+
+<table border="0" class="contentTable">
+	<tbody><tr>
+		<td><img src="/img/1px.gif"></td>
+		<td width="855px" valign="top">
+			
+			
+			
+			<br>
+			<br>
+			<h1 style="margin-bottom:22.5pt;"><span style="font-size:23.5pt;font-family:&quot;Arial&quot;;font-weight:normal">PRIVACY POLICY</span></h1>
+
+Last Modified: March 1, 2015<br>
+<br>
+<b>PERSONS OR PARTIES COVERED</b><br>
+This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".<br>
+<br>
+<b>PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED</b><br>
+In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use<br>
+<br>
+<b>PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE</b><br>
+This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA). If you are under the age of 18 you must leave this site immediately. Fraudulent use of this website may make you subject to civil or criminal sanctions.<br>
+<br>
+<b>VIEWING AND/OR USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS POLICY</b><br>
+Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website. If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site.<br>
+<br>
+<b>A NOTE TO CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 --OPPA)</b><br>
+It is the intent of the Privacy Policy to comply with the California Act. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. This is not usually personally identifiable. If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties. There is no way you can modify this information and you have no right to do so. Under the terms of the purchase agreement, you have no right to view or receive any information about our database. In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in insure that the website is releasing information to the correct party. Other provisions of the OPPA may exempt this website from complying. While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information. (You should know that merchant service providers do not allow us access to your credit card information.) This Privacy Policy also is subject to change without notice. You are required to read it prior to using the website. By interacting with the website you agree to the terms and conditions of the Privacy Policy. By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.<br>
+<br>
+<b>ABOUT THE PERSONAL INFORMATION THIS WEBSITE COLLECTS AND HOW IT IS USED</b><br>
+This website routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as:<br>
+<br>
+<b>VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM 'REGISTRATION'</b><br>
+Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or 'pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product. Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing. This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.<br>
+<br>
+<b>ONLINE ORDERING</b><br>
+Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website but does not provide complete credit card numbers. In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, and, occasionally a member password. You should consider all this information available to the website. This information is used to deliver the product, but under the Purchase Agreement you also approve its use for general solicitation purposes<br>
+<br>
+<b>VISITOR EMAIL INQUIRIES</b><br>
+Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any 'submission' provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.<br>
+<br>
+<b>CUSTOMER EMAIL OR TESTIMONIALS</b><br>
+If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit. Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.<br>
+<br>
+<b>INFORMATION OBTAINED FROM VISITOR INTERACTION WITH BANNERS, POPUPS, OR SITE ADVERTISERS</b><br>
+Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that 'cookies' will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.<br>
+<br>
+<b>INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS</b><br>
+If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend. You must assume that referred emails or web pages may appear to come from your email. You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.<br>
+<br>
+<b>INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS</b><br>
+Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.<br>
+<br>
+<b>INFORMATION OBTAINED FROM ELECTRONIC MEANS AND 'COOKIES'</b><br>
+Many websites, including this one, collect information about your computer, your email address, your IP address. You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected. This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.<br>
+<br>
+"Cookies" is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you 'logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.<br>
+<br>
+Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.<br>
+<br>
+<b>HOW INFORMATION MAY BE USED</b><br>
+The use of information as described below may or may not be how information that is collected is customarily used by this site. While actual use of any information collected may be used quite conservatively, you must assume that it is not. You must assume that information collected is shared with other persons or entities for commercial purposes. While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website. This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information. This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.<br>
+<br>
+<b>INFORMATION THAT IS NOT SHARED</b><br>
+Credit card information or other financial information is not usually known to the website. However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies. However, the provider of such information gives express permission to use it in fraud investigation or for litigation.<br>
+<br>
+<b>BULLETIN BOARDS AND PUBLIC FORUMS</b><br>
+Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk. You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.<br>
+<br>
+<b>SPAM</b><br>
+By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.<br>
+<br>
+<b>DATA SECURITY</b><br>
+This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.<br>
+<br>
+<b>REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE</b><br>
+This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.<br>
+<br>
+<b>DISPUTES</b><br>
+As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.<br>
+<br>
+<b>APPLICABLE LAW</b><br>
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).<br>
+			<br>
+			<br>
+			<br>
+			
+			
+			
+		</td>
+		<td><img src="/img/1px.gif"></td>
+	</tr>
+</tbody></table>
+
+
+<div id="overlayCover"><table width="100%" height="100%"><tbody><tr><td align="center"><img src="/img/loading/processing.gif" style="margin:300px 0 20px 0;"><br>PLEASE WAIT UNTIL PROCESSING IS DONE.<br><span style="color:red;">DO NOT CLOSE THIS PAGE TO PREVENT YOUR DATA LOSS.<br>DO NOT RELOAD THIS PAGE TO PREVENT YOUR DATA LOSS.</span></td></tr></tbody></table></div>
+
+<!-- END OF CONTENTS -->
+<table width="100%" height="200px" cellpadding="20" cellspacing="0" align="center" border="0" bgcolor="#464645">
+	<tbody><tr>
+		<td><img src="/img/1px.gif"></td>
+		<td width="" 855px="" align="center" style="color:#f2f2f2;" valign="top">
+			<a href="http://www.thanksmatrix.com/Privacy-Policy" style="color:#f2f2f2;">Privacy Policy</a>
+			 &nbsp;&nbsp;|&nbsp;&nbsp; 
+			<a href="http://www.thanksmatrix.com/T&amp;A/Terms_of_Use.pdf" target="_blank" style="color:#f2f2f2;">Terms of Use</a>
+			 &nbsp;&nbsp;|&nbsp;&nbsp; 
+			<a href="http://www.thanksmatrix.com/T&amp;A/Affiliate_Agreement.pdf" target="_blank" style="color:#f2f2f2;">Affiliate Agreement</a>
+			 &nbsp;&nbsp;|&nbsp;&nbsp; 
+			<a href="http://www.thanksmatrix.com/Anti-Spam-Policy" style="color:#f2f2f2;">Anti-Spam Policy</a>
+			 &nbsp;&nbsp;|&nbsp;&nbsp; 
+			<a href="http://www.thanksmatrix.com/Electronic-Signature-and-Consent" style="color:#f2f2f2;">Electronic Signature &amp; Consent</a>
+			 &nbsp;&nbsp;|&nbsp;&nbsp; 
+			<a href="http://www.thanksmatrix.com/Income-Disclaimer" style="color:#f2f2f2;">Income Disclaimer</a>
+			
+			<br><br>
+			<!-- (c) 2005, 2015. Authorize.Net is a registered trademark of CyberSource Corporation -->
+			<script type="text/javascript" language="javascript">var ANS_customer_id="9452c12a-f9d7-4bb8-8451-11f14d1a22f4";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script>
+			 &nbsp;&nbsp;&nbsp; 
+			<img src="/img/icon_ssl.png" height="72" title="SSL Secure Data Transfer">
+			 &nbsp;&nbsp;&nbsp; 
+			<img src="/img/icon_secure.png" height="72" title="www.thanksmatrix.com is secured website.">
+			&nbsp;&nbsp;&nbsp; 
+			<img src="/img/icon_paySimple.gif" width="118" style="margin:0 0 20px 0;">
+			<br>
+			
+			<p>© 2015 Thanks Matrix - ESOLUTIONTG LLC. All rights reserved.</p>
+			
+		</td>
+		<td><img src="/img/1px.gif"></td>
+	</tr>
+</tbody></table>
+
+
+
+
+<script type="text/javascript">
+function timeoutLogin() {
+    top.location.href="http://www.thanksmatrix.com/Session-Expired";
+    //var url = "http://www.thanksmatrix.com/logout_proc.asp?timeout=1";
+    //var timeout_win = window.open(url, "timeout_win", "width=650 height=350 scrollbars=no");
+    //timeout_win.focus();
+}
+
+var sessionTimeout = "30"; //session minute
+function DisplaySessionTimeout()
+{
+    //assigning minutes left to session timeout to Label
+    //divTimeout.innerText = sessionTimeout;
+    sessionTimeout = sessionTimeout - 1;
+    
+    //if session is not less than 0
+    if (sessionTimeout >= 0)
+        //call the function interval : 1000 = 1 second
+        window.setTimeout("DisplaySessionTimeout()", 1000*60);
+    else
+    {
+    	//A8.innerText = "Logged Out - Session TImeout"
+        timeoutLogin();
+        //show message box
+        //location.href='/logout_proc.asp?timeout=1';
+    }
+}
+
+
+
+//Disable right click script 
+//For full source code, visit http://www.dynamicdrive.com
+
+var message="";
+///////////////////////////////////
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+
+// --> 
+</script></body></html>
