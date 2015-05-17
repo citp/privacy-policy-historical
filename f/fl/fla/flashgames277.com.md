@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashgames277.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224041913id_/http%3A//flashgames277.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgames277.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517235941id_/http%3A//flashgames277.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flash games
 
@@ -41,7 +41,7 @@ Our cookies cannot be used to run programs or deliver viruses to your computer. 
 
 If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature, but you should note that cookies may be necessary to provide you with such special features as customized content delivery. Cookies can be removed from your computer by following Internet browser “help” file directions.
 
-**_What do I need to know about third party sites, co-branded sites, and Flashgames277′s online business partners?_**
+**_What do I need to know about third party sites, co-branded sites, and Flashgames277’s online business partners?_**
 
 We have established relationships that allow visitors to the Site to go directly to sites operated by third parties. Some of these sites may be co-branded with our logos; however, they are not operated or maintained by Flashgames277. We are not responsible for the content or practices of web sites operated by third parties that are linked to the Site. These links are meant for the user’s convenience only. Links to third party sites do not constitute our sponsorship, endorsement or approval of the content, policies or practices of such third party sites. Once you have left the Site via such a link, you should check the applicable privacy policy of the third party site.
 
