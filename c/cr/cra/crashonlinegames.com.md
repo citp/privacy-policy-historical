@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crashonlinegames.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328201444id_/http%3A//www.crashonlinegames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crashonlinegames.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517035106id_/http%3A//www.crashonlinegames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Crash Online Games
 
