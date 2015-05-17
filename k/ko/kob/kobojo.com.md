@@ -1,85 +1,78 @@
-> *The following text is extracted and transformed from the kobojo.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222081049id_/http%3A//www.kobojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobojo.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518002248id_/http%3A//www.kobojo.com/en/policy) for the most accurate reproduction.*
 
-# Privacy | Kobojo
+# 
 
- (Last Updated January 6, 2010)
+### Privacy Policy
 
-Welcome to Goobox, a personal online service which consists of applications created by Kobojo and available through social networking sites. Your privacy is important to us and, as described in this Privacy Policy, we have designed the Service to protect information about you from unauthorized disclosure to others. This Privacy Policy explains how we collect, use and, in certain circumstances, share your personally identifying information. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us.
+Welcome to Kobojo online games (“Games”), a service comprising applications created by the company Kobojo (“Kobojo” and/or “we”) available on social networks. The present Privacy Policy aims to inform you about Kobojo’s policy concerning the protection of personal data (“Personal Data”) collected and processed when using our Games and governed by our Terms of Use and Guidelines. Please read this document and do not hesitate to contact us if you have any questions.  
+Access to and/or use of our Games implies your express adhesion to the conditions provided for in the Privacy Policy concerning, in particular, the collection and use of your Personal Data as described below. The present Privacy Policy may be updated at any time by Kobojo. Therefore, we recommend that you consult it regularly.
 
-By using the Service, you consent to the collection and use of your personal information as outlined in this Privacy Policy. We may update the Privacy Policy and if we do, we will post a notice that changes have been made. You should visit this page periodically to review any changes to the Privacy Policy.
+#### **The Personal Data collected**
 
-### What We Collect
+In particular, we collect and process your surname, first name, e-mail address, gender, country of residence, activities on our Games, connection and browsing data and all other Personal Data available from your profile on the social networks on which you use our Games. This Personal Data may be collected:
 
-\- When you register a profile with a Kobojo game, your profile including any information (name, address, gender) will be registered with Kobojo.
+  * when you register for our Games,
+  * when you identify yourself on a social network or via our mobile applications, and
+  * when you use one of our Games.
 
-\- When you identify yourself through a social network account, Kobojo may receive additional information about your profile.
 
-In each case, we will collect and record the information you have provided. Other than names and email addresses provided at your discretion, we don’t generally collect any “Personally Identifying Information” about our users, exception being for billing and payments. We may offer you the opportunity to submit other information about yourself (such as gender, age, occupation, hobbies, interests, zip code, etc.), or we may be able to collect that information from social networking systems on which you have used Kobojo games, which would then also be covered by this Privacy Policy.
 
-In addition to information about yourself, you may choose to share information about yourself in other content (“Content”), such as in games. Any action you perform with other players are considered public, and at your own discretion.
+For the requirements of our Games, certain information about you, in particular your score, your level or ranking, may be accessible and visible to Kobojo and all other users. When you invite new members to your network, or when you send messages using our services, we collect and store the information associated with these exchanges on our secure servers, in particular their content and e-mail addresses. Our Games may:
 
-When you invite new members into your network or send messages through the Service, we collect and maintain on secure servers the information associated with those messages, including email addresses and content.
+  * contain links to third-party websites,
+  * include content hosted by third-party websites, and
+  * utiliser des moyens de paiement sécurisés proposés par des entités tierces.
 
-Kobojo games may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Kobojo.
 
-You should also be aware that most content delivered through Kobojo games originates with another content provider. Such other content providers may place “cookies” on your browser, or otherwise gather information about you, including by asking you to provide information through the site itself.
 
-Finally, in order to provide the best possible service and to allow us to make certain internal reports and make recommendations, we collect aggregate information about the use of the Service, including information about users playing Kobojo games, such as internet protocol addresses, browser type, browser language…
+Kobojo may not be held responsible for the non-respect of Personal Data protection on these websites and/or by these entities. We recommend that our users consult the section concerning privacy and Personal Data protection before using these websites and/or online payment solutions. Kobojo may also not be held responsible for practices concerning how Personal Data is processed by the platforms (especially social networks) on which Kobojo offers its Games.
 
-By using the Service, you consent to our retaining all the above-described information in anonymous form as long as Kobojo sees fit.
+#### **Minors**
 
-### Children Between The Ages of 13 and 18
+Minors must request the authorisation of their parents or their legal representatives before transmitting their Personal Data.
 
-We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
+#### **The use of Personal Data**
 
-### How We Use Your Information
+The Personal Data collected and processed by Kobojo enables you to access and/or use our Games.  
+It also enables us to:
 
-We do not sell or rent your “Personally Identifiable Information” to any third party. We may, however, use certain information about you that is not personally.
+  * analyse users’ trends and behaviours with a view to improving our Games,
+  * ensure maintenance for our Games,
+  * target the advertising content present on our Games, and
+  * communicate with you, in particular by e-mail, in order to inform you about new features or evaluate your satisfaction.
 
-We use public information collected to determine the kinds of content that you would like to view and to assist any advertisers in targeting their advertising.
 
-We also use your name, email address and other information on our system to notify you of new product releases, service notifications, and to solicit your feedback and input. Those emails will contain an “unsubscribe” link should you ever decide you do not want to receive further emails.
 
-You understand and agree that we may access, preserve, and disclose any information we may have about you and the contents of your account if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to avoid liability, to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of our affiliates or the public. Kobojo is not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that Kobojo receives.
+The e-mails we send you contain a link which you can use to unsubscribe if you do not want to receive other e-mails from us.
 
-Kobojo may maintain copies of your Content indefinitely, or delete certain Content in whole or in part if Kobojo determines, in its sole discretion, that such Content constitutes an “Infringing Posting” or a “Prohibited Posting” as defined in our Terms of Use or for any or no reason.
+#### **Cookies**
 
-We also use non-Personally Identifiable Information and certain technical information about your computer and your access of the Service (including your internet protocol address) in order to operate, maintain and manage the Service.
+The use of our Games may lead to cookies being introduced into your computer with a view to facilitating access and browsing on our applications. You may, at any time, choose to delete or refuse these cookies. To find out how to do this, we recommend that you consult your Internet browser’s “Help” section. Nevertheless, we do recommend that you leave them active in order to benefit from all of our personalised services.
 
-Kobojo may disclose information about you to its partners in order to provide the Service, resolve service problems and correct errors in the Service, to communicate with you about the Service, to provide you with advertising and promotional information in connection with the Service, and to enhance your experience on the Service. However, we do not give our partners an independent right to share this information.
+#### **The transfer and cession of Personal Data**
 
-Due to our contractual obligations with these third parties and the need to share information to deliver and support the Service, we cannot provide you with the opportunity to opt-out of sharing information (whether Personally Identifiable Information or other information) with these third parties.
+Your Personal Data will not be communicated to third parties except in the following cases:
 
-Kobojo, certain of its partners, and each of their contractors and employees may view the Content that you transmit to the service to provide the Service and otherwise perform the tasks set forth in this Privacy Policy.
+  * subject to your agreement when you tick the box when registering for our Games: the communication of your Personal Data to our partners and the sub-contractors which we call upon in the frame of the execution of our services, in particular for marketing and advertising related to our Games,
+  * \- the communication of your Personal Data to our partners and the sub-contractors which we call upon in the frame of the execution of our services, in particular for technical maintenance and problem solving,
+  * \- the transfer of your Personal Data in the case of a change of control of Kobojo, or the partial or full cession of its assets and, if applicable, following notification of any changes made to the present Privacy Policy, and
+  * \- the communication of your Personal Data to any competent authority in application of a regulatory or legal provision and/or by virtue of any legal or administrative ruling.
 
-### Controlling Your Personal Information
 
-Be advised that if you send messages or post material containing personal information, that information may be collected and used by others.
 
-You can terminate your account at any time which will remove your profile and other personal information from view. Kobojo, however, may (but is not obligated to) keep information about you that is on its system following your termination. Please contact Kobojo to terminate your account or for any other questions about your personal information.
+#### **Users’ control over their Personal Data**
 
-### Transfer of Information
+You may choose to voluntarily share and make your Personal Data public in our Games by posting messages or content. When you do this, you are responsible for any damages which may arise as a result of this disclosure.  
+You may close your account at any time and this will delete your profile and make all of your personal details invisible. However, Kobojo may conserve your Personal Data for a reasonable period of time even once your account has been closed.
 
-We reserve the right to transfer your personal information in the event of a transfer of ownership of Kobojo or the acquisition of substantially all the assets of Kobojo related to the business which collected such information, such as acquisition by or merger with another company. In such an event, Kobojo will notify users who have provided email addresses when information about those users is transferred and becomes subject to a different privacy policy.
+#### **Users’ rights concerning the Data Protection Act**
 
-### Cookies
+In accordance with Act No. 78-17 of 6 January 1978 concerning information technology, files and civil liberties, modified by Act No. 2004-801 of 6 August 2004, you have the right to access, modify, rectify, delete and oppose information which concerns you. To exercise this right, just send an e-mail to: [contact@kobojo.com](mailto:contact@kobojo.com)
 
-The Service sends “cookies” to your computer when you access the Kobojo site, or otherwise view content through a Kobojo game. The Service uses cookies to improve the quality of our service, make recommendations, and make the Service easier to use for our users. A cookie is a small text file recorded on your hard drive that identifies you as a unique user and contains certain information about your particular login session and/or your use of the Service.
+#### **Security of Personal Data**
 
-### Use of Information
+Kobojo accords particular importance to the security of your Personal Data and takes all the necessary precautions to limit the risk of loss, deterioration or improper use of it. Your account data is stored on a secure server equipped with a firewall. Your Personal Data, such as password and credit card number, is encrypted using Secure Socket Layer (SSL) technology. We recommend that you do not send Personal Data using non-secure communication methods, such as e-mails and instant messages.
 
-Kobojo may contain links to other web sites, and content in Kobojo game. In addition, as described above, most content offered through Kobojo games is served or hosted by other sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information. It is up to you to review those policies yourself.
+#### **Additional questions**
 
-### Third-Party Advertising Companies
-
-We use third-party advertising companies to serve ads on certain Kobojo games. Our system and the third-party advertising technology uses information derived from Activity Information, Kobojo’s cookies on your hard drive, your visits to our site, the Kobojo games that you view to target advertising within our site or Kobojo games. In addition, our advertisers may use other third-party advertising technology to target advertising on our site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called “clear gifs” or “beacons”) to help manage and optimize our online advertising. Beacons enable us to recognize a browser’s cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site.
-
-Kobojo does not provide any Personally Identifiable Information to third-party advertising companies. Note, however, that if an advertiser asks Kobojo to show an advertisement to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the third-party advertising company may conclude that you have the characteristics of the audience that they are trying to reach.
-
-### Security
-
-Kobojo takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
-
-### Additional Questions
-
-Again, feel free to contact us by sending an email to contact@kobojo.com , any time, if you have further questions about Kobojo or this Privacy Policy, or if you want to receive a previous version of this document.
+Do not hesitate to contact us by e-mail at [contact@kobojo.com](mailto:contact@kobojo.com) if you have any questions about how Kobojo uses your Personal Data, and, in particular, about the provisions of the present Privacy Policy.
