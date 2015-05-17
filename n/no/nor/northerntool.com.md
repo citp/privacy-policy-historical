@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011192825id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntool.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517021559id_/http%3A//www.northerntool.com/shop/tools/help_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Help | Northern Tool + Equipment
 
@@ -36,7 +36,7 @@ To learn more about Criteo, their privacy policies or how to opt-out of their se
 
 NO! Northern will not sell, trade, share or rent your email address to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer care support, and to update you on Northern Internet specials that you have requested.
 
-If you purchase with Northern Tool, we may share your information with third party catalog companies. Your name, address and details about products you have purchased from us could be shared so that you can receive catalog offers for other products that may interest you. If you would not like us to share your information for this intent, please [email](https://web.archive.org/contactus/) us or call 1-800-222-5381.
+If you purchase with Northern Tool, we may share your information with third party catalog companies. Your name, address and details about products you have purchased from us could be shared so that you can receive catalog offers for other products that may interest you. If you would not like us to share your information for this intent, please [email](https://web.archive.org/shop/tools/contact_contact-index) us or call 1-800-222-5381.
 
 You can also write us at:   
 Northern Tool + Equipment   
