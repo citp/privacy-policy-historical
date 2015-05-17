@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benefithub.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122034031id_/http%3A//www.benefithub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefithub.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517054104id_/http%3A//www.benefithub.com/privacy-policy) for the most accurate reproduction.*
 
-# BenefitHub
+# Privacy Policy - BenefitHub
 
 At BenefitHub, we know that you care how information about you is used and shared. When you use BenefitHub, we know that you are trusting us with your personal information and want us to tell you what information we are gathering and how we are sharing it. We appreciate your trust that we promise to only share your personal information carefully and sensibly. This notice describes our privacy policy. By visiting BenefitHub, you are accepting the practices described in this Privacy Notice.
 
@@ -10,7 +10,7 @@ The information we learn from you and other customers helps us personalize and c
 
 **Information You Give Us:** We receive and store any information you give us or enter on our Web site. If you choose not to provide certain information, you might not be able to take advantage of features that relate to that information. We use the information that you provide for such purposes as responding to your requests, customizing your shopping experience, finding benefits that match your profile, improving our marketplace, and communicating with you.
 
-**Automatic Information:** Whenever you interact with us, we receive and store certain types of information. For example, we use "cookies," like many Web sites, and we obtain certain types of information when your Web browser accesses BenefitHub or advertisements and other content served by or on behalf of BenefitHub on other Web sites.
+**Automatic Information:** Whenever you interact with us, we receive and store certain types of information. For example, we use “cookies,” like many Web sites, and we obtain certain types of information when your Web browser accesses BenefitHub or advertisements and other content served by or on behalf of BenefitHub on other Web sites.
 
 **E-mail Communications:** We often receive a confirmation when you open e-mail from BenefitHub, to help us make e-mails more useful and interesting. If you do not want to receive e-mail or other mail from us, you may opt out by adjusting your Customer Communication Preferences.
 
@@ -20,7 +20,7 @@ The information we learn from you and other customers helps us personalize and c
 
 Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide numerous features that require remembering who you are (e.g. remembering your User Name).
 
-The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of BenefitHub's essential features, we recommend that you leave them turned on.
+The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of BenefitHub’s essential features, we recommend that you leave them turned on.
 
 ### Does BenefitHub Share the Information It Receives?
 
@@ -28,7 +28,7 @@ We never sell information about our customers to anyone. We also do not share in
 
 **Communicating Offers:** Sometimes we send offers to you if you have opted in or subscribed to receiving special offers. If you do not want to receive such offers, please opt out of these communications in your Profile.
 
-**Protection of BenefitHub:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of BenefitHub, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+**Protection of BenefitHub:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of BenefitHub, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
 
 **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
@@ -44,15 +44,15 @@ Our site includes third-party advertising and links to other Web sites. When lin
 
 ### What Choices Do I Have?
 
-As discussed above, in some circumstances you can choose not to provide information, even though it might be needed to make a purchase or to take advantage of such BenefitHub features as Your Profile, Subscriptions, Customer Reviews, and Cash Back. 
+As discussed above, in some circumstances you can choose not to provide information, even though it might be needed to make a purchase or to take advantage of such BenefitHub features as Your Profile, Subscriptions, Customer Reviews, and Cash Back.
 
-If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of BenefitHub, and it is your responsibility to review them for changes.) 
+If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of BenefitHub, and it is your responsibility to review them for changes.)
 
-The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of BenefitHub's essential features, we recommend that you leave them turned on.
+The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of BenefitHub’s essential features, we recommend that you leave them turned on.
 
 ### Are Children Allowed to Use BenefitHub?
 
-BenefitHub does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use BenefitHub only with the involvement of a parent or guardian.
+BenefitHub does not sell products for purchase by children. We sell children’s products for purchase by adults. If you are under 18, you may use BenefitHub only with the involvement of a parent or guardian.
 
 ### Conditions of Use, Notices, and Revisions
 
