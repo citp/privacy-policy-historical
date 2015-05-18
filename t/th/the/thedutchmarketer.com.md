@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedutchmarketer.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407155341id_/http%3A//thedutchmarketer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedutchmarketer.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518120721id_/http%3A//thedutchmarketer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HTTP://THEDUTCHMARKETER.COM
+# Privacy Policy « Internet Marketing Tips
 
 Your privacy is important to TDM Global Marketing LLP the owner of **thedutchmarketer.com** (site)
 
