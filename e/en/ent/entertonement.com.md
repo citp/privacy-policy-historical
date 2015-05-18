@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertonement.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208133647id_/http%3A//www.hark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertonement.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519013610id_/http%3A//www.hark.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hark
 
