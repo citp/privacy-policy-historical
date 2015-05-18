@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220032742id_/http%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518224508id_/http%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
 
-# Mobile Apps Marketing analytics & Tracking | Privacy Policy
+# Privacy Policy - AppsFlyer
 
-AppsFlyer provides a software development kit which allows the tracking of mobile application use, installations and downloads. This privacy policy explains how we make use of data and information received from our customers that integrate our software development kit with their mobile application (“ **Customers** ”) and the end-users of those Customers (“ **End Users** ”). If not specifically defined herein, capitalized terms have the meaning given to them in the AppsFlyer Terms and Conditions, which is available at [www.appsflyer.com/privacy-policy](https://web.archive.org/web/20141220032742id_/http%3A//www.appsflyer.com/www.appsflyer.com/privacy-policy)
+AppsFlyer provides a software development kit which allows the tracking of mobile application use, installations and downloads. This privacy policy explains how we make use of data and information received from our customers that integrate our software development kit with their mobile application (“ **Customers** ”) and the end-users of those Customers (“ **End Users** ”). If not specifically defined herein, capitalized terms have the meaning given to them in the AppsFlyer Terms and Conditions, which is available at [www.appsflyer.com/privacy-policy](http://www.appsflyer.com/privacy-policy)
 
 We respect the right to privacy of Customers and End Users. Your ability to make informed choices about the use of your information is important to us. This privacy statement explains our policy regarding the collection, use, disclosure and protection of any information we receive.
 
@@ -16,7 +16,7 @@ Customers that use our Services to track the use of their mobile application wil
 
 **End User Opt-Out Provision**
 
-Your End Users can opt-out of AppsFlyer Analytics tracking by clicking the <http://www.appsflyer.com/opt-out> or by emailing privacy@appsflyer.com
+Your End Users can opt-out of AppsFlyer Analytics tracking by emailing privacy@appsflyer.com
 
 The opt-out is specific to AppsFlyer activities and does not affect the activities of other ad networks or analytics providers that you use. If an End User opts-out, AppsFlyer will stop tracking data for that device going forward. The AppsFlyer Analytics tracking will stop across all applications.
 
