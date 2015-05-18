@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairfinity.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024232557id_/http%3A//www.hairfinity.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairfinity.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518235451id_/http%3A//www.hairfinity.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Hairfinity | Privacy Policy
 
@@ -46,18 +46,18 @@ Our website may contain links to and from the other affiliate websites, advertis
 
 Hairfinity Vitamins are formulated with essential nutrients for healthy hair growth. Our vitamins nourish your hair from the **inside out**. See results in the first month.
 
-[Learn More](https://web.archive.org/web/20141024232557id_/http%3A//www.hairfinity.com/VitaminsforFasterHairGrowth.htm)
+[Learn More](https://web.archive.org/web/20150518235451id_/http%3A//www.hairfinity.com/VitaminsforFasterHairGrowth.htm)
 
 ### Get a Free Hair  
 Care Regimen
 
 Do you suffer with, breakage, or shedding? Your hair care regimen may be to blame. Learn which products to use with your Hairfinity hair vitamins for the best results.
 
-[Get Yours Now](https://web.archive.org/web/20141024232557id_/http%3A//www.hairfinity.com/HealthyHairConsultation1.htm)
+[Get Yours Now](https://web.archive.org/web/20150518235451id_/http%3A//www.hairfinity.com/HealthyHairConsultation1.htm)
 
 ### Place Your  
 Order Online
 
 Ready to get faster growing, longer, stronger hair. Get your Hairfinity Hair Vitamins and the hair products you need to begin your journey to healthier hair.
 
-[Order Now](https://web.archive.org/web/20141024232557id_/http%3A//www.hairfinity.com/Order.htm)
+[Order Now](https://web.archive.org/web/20150518235451id_/http%3A//www.hairfinity.com/Order.htm)
