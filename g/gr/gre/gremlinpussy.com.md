@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gremlinpussy.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223115700id_/http%3A//www.gremlinpussy.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gremlinpussy.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519003458id_/http%3A//www.gremlinpussy.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.gremlinpussy.com](http://www.gremlinpussy.com/)  
-Effective Date: December 23, 2014  
+Effective Date: May 19, 2015  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.gremlinpussy.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
