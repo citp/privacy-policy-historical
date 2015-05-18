@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lmtdefense.com privacy policy that was archived on 2014-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225195702id_/http%3A//www.lmtdefense.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lmtdefense.com privacy policy that was archived on 2015-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150519011128id_/http%3A//www.lmtdefense.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,6 +14,7 @@
 
 <!--[if !IE]--><link rel="stylesheet" type="text/css" href="style.css">
 <!--[endif]-->
+
 <link rel="shortcut icon" href="images/LMT.ico">
 <style type="text/css">
 <!--
@@ -25,7 +26,7 @@
 -->
 </style>
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript">
+<script language="JavaScript">
 <!-- Original:  Dion (biab@iinet.net.au) -->
 <!-- Web Site:  http://www.iinet.net.au/~biab -->
 
@@ -104,37 +105,19 @@ return 1;
 }
 //  End -->
 </script>
-
 </head>
-
-<body><div id="wrap">
-<div id="header">
-	<div class="column1">
-		<span class="hstyle1">100%</span>
-    </div>
-        
-    <div class="column2">
-    	 <img src="images/usmade.png">
-    </div>
-    
-    <div class="column3">
-    	<span class="hstyle1">USA made</span>
-    </div>
-    
-    <div class="column4">
-    
-		<form method="get" action="javascript:void(0)" onsubmit="search(this); return false;">
-        <input type="text" name="srchval" class="textInput" value="search..." onfocus="if(this.value == 'search...'){this.value=''}" onblur="if(this.value == ''){this.value='search...'}">
-          <input type="image" value="submit" name="submit" id="submit" src="images/search_submit.gif">
-        
-		</form>
-    </div>
+<body>
+	<div id="wrap">
+		<div id="header">
+			<div class="column1"><span class="hstyle1">100%</span></div>
+        	<div class="column2"><img src="images/usmade.png"></div>
+    		<div class="column3"><span class="hstyle1">USA made</span></div>
+    		<div class="column4">
+			<form method="get" action="javascript:void(0)" onsubmit="search(this); return false;">
+			<input type="text" name="srchval" class="textInput" value="search..." onfocus="if(this.value == 'search...'){this.value=''}" onblur="if(this.value == ''){this.value='search...'}"><input type="image" value="submit" name="submit" id="submit" src="images/search_submit.gif"></form>
+			</div>
+		</div>
 	</div>
-	</div>
-    
- 
-
-      
 
 <!-- end header-->
 
@@ -144,6 +127,8 @@ return 1;
 
 <!--[if !IE]--><link rel="stylesheet" type="text/css" href="style.css">
 <!--[endif]-->
+
+<script src="//assets.adobedtm.com/c876840ac68fc41c08a580a3fb1869c51ca83380/satelliteLib-594bc9919d8cca379c2c0dd47a78def3e91b3a04.js"></script>
 
 <link rel="shortcut icon" href="images/LMT.ico">
 <style>
@@ -329,6 +314,7 @@ function MM_swapImage() { //v3.0
 <!--[endif]-->
 
 <style>
+<!--
 .fstyle1 {
 	color: #E8DBC3;
 }
@@ -336,7 +322,80 @@ function MM_swapImage() { //v3.0
 	padding-left: 50px;
 	color: #E8DBC3;
 }
+-->
 </style>
+
+<script type="text/javascript">
+<!--
+// Copyright 2006-2007 javascript-array.com
+
+var timeout	= 250;
+var closetimer	= 0;
+var ddmenuitem	= 0;
+
+// open hidden layer
+function mopen(id)
+{	
+	// cancel close timer
+	mcancelclosetime();
+
+	// close old layer
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+	// get new layer and show it
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+
+}
+// close showed layer
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+
+// go close timer
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+
+// cancel close timer
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+
+// close layer when click-out
+document.onclick = mclose
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
 <div id="wrap">
 <div id="footer">
 
@@ -349,25 +408,20 @@ function MM_swapImage() { //v3.0
 <li><a href="contact.php">Contact</a></li>
 <li><span class="fstyle1">|</span></li>
 <li><a href="privacy.php">Privacy</a></li>
-<li><span class="fstyle2">All Content 2010 LMT®</span></li>
+<li><span class="fstyle1">|</span></li>
+<li><a href="http://www.facebook.com/lmt-defense" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('fblink1','','images/facebook_RO.png',1)"><img src="images/facebook.png" name="fblink1" width="35" height="35"></a></li>
+<li><span class="fstyle1">|</span></li>
+<li><a href="http://www.instagram.com/lmtdefense" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('iglink1','','images/instagram_RO.png',1)"><img src="images/instagram.png" name="iglink1" width="35" height="35"></a></li>
+<li><span class="fstyle1">|</span></li>
+
+<li><span class="fstyle2">All Content 2015 LMT®</span></li>
 </ul>
 
 </div>
 </div>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-46747375-1', 'lmtdefense.com');
-  ga('send', 'pageview');
-
-</script>
 
 
-
-
+<script type="text/javascript">_satellite.pageBottom();</script>
 
 </body></html>
