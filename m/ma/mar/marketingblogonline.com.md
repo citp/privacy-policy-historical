@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketingblogonline.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010174852id_/http%3A//marketingblogonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingblogonline.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519013058id_/http%3A//marketingblogonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Blog Marketing Online | Blogging for Dollars
+# Privacy Policy @ Marketingblogonline.com
 
-**Privacy Policy for www.marketingblogonline.com**
+**[Privacy Policy](http://marketingblogonline.com/privacy-policy) for www.marketingblogonline.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at choirultw@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://marketingblogonline.com/contact) by email at choirultw@gmail.com.
 
 At [www.marketingblogonline.com](http://www.marketingblogonline.com/ "Online Marketing Bloggers"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.marketingblogonline.com and how it is used.
 
