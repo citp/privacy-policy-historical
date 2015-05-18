@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ytpak.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113012926id_/http%3A//www.ytpak.com/%3Fcomponents%3Darticle%26task%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytpak.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518220210id_/http%3A//www.ytpak.com/%3Fcomponent%3Darticles%26task%3Dprivacy_policy) for the most accurate reproduction.*
 
-# YtPak.com
+# YTPak.com - YouTune Pakistan
+
+**Tip #1:** Annoyed by pop-ups? Keep yourself Signed-In on YTPak and get rid from pop-ups advertisement.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at privacy@ytpak.com. 
 
