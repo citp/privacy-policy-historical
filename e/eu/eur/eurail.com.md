@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215211929id_/http%3A//www.eurail.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518172109id_/http%3A//www.eurail.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eurail.com
 
@@ -104,4 +104,4 @@ After receiving a request to change your information, we will make reasonable ef
 
 This policy is effective as of January 31, 2004. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect. Please refer back to this policy on a regular basis.
 
-If you have questions regarding our privacy and cookie policy contact our [customer service team](mailto:customerservice@eurail.com).C
+If you have questions regarding our privacy and cookie policy contact our [customer service team](mailto:customerservice@eurail.com).
