@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jdmagicbox.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715125527id_/http%3A//us.justdial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdmagicbox.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518113646id_/http%3A//us.justdial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Justdial US
 
-Login Sign Up  [](http://us.justdial.com/) [](http://us.justdial.com/) New York, NY  [National Search](http://us.justdial.com/allus)  Remember My Location 
+[](http://us.justdial.com%3C/a%3E) You are here:
 
 ###  Privacy Policy
 
@@ -24,7 +24,7 @@ Login Sign Up  [](http://us.justdial.com/) [](http://us.justdial.com/) New York,
 
 **Security:** We take reasonable measures to ensure that there is no unauthorized access to servers where Information is stored. Please remember that we cannot guarantee that no breach of security will occur. 
 
-**Communications:** We encourage you to write to us about any privacy concerns. You may have including concerns about the Policy. You may write (a) to or email at (b) : Just Dial Global Pvt Ltd (Includes its Affiliates and subsidiaries), Registered Address: 501 / B, Palm Court Complex, New Link Road, Malad (W), Mumbai 400 064 India. You can send us the email at: [privacy.us@justdial.com](mailto:privacy.us@justdial.com)
+**Communications:** We encourage you to write to us about any privacy concerns. You may have including concerns about the Policy. You may write (a) to or email at (b) : Just Dial Ltd (Includes its Affiliates and subsidiaries), Registered Address: 501 / B, Palm Court Complex, New Link Road, Malad (W), Mumbai 400 064 India. You can send us the email at: [privacy.us@justdial.com](mailto:privacy.us@justdial.com)
 
 **Changes to this Privacy Policy:** The Policy may change from time to time. The Policy as amended will be posted on [www.justdial.com](http://us.justdial.com/) and upon such posting will be binding on you. If the changes are not acceptable to you, please write to us at the address provided above and we will delete all Information from our systems. 
 
@@ -34,15 +34,15 @@ Login Sign Up  [](http://us.justdial.com/) [](http://us.justdial.com/) New York,
 
 **Updation of User Information:** The User acknowledges and accepts that, the user will regularly and from time to time update its (user) information. 
 
-**Legal Age of the User:** It is presumed that the user, using the Just Dial service is of Legal Age. In the event the user is not of a Legal age, then any issues or problems arising out of using Just Dial Service/s, which requires a user to be of Legal age, then Just Dial shall not be responsible for any such issues or problems. The aforementioned Privacy Policy (" **Policy** " is for the US based User of Just Dial ) describes the manner in which Just Dial Global Pvt Ltd ((Includes its Affiliates and subsidiaries), a company incorporated under the laws of India, and having its principal place of business at 501 / B, Palm Court Complex, New Link Road, Malad (W), Mumbai 400 064 India)), treats the personal information that you may provide to us, while using our services. 
+**Legal Age of the User:** It is presumed that the user, using the Just Dial service is of Legal Age. In the event the user is not of a Legal age, then any issues or problems arising out of using Just Dial Service/s, which requires a user to be of Legal age, then Just Dial shall not be responsible for any such issues or problems. The aforementioned Privacy Policy (" **Policy** " is for the US based User of Just Dial ) describes the manner in which Just Dial Ltd ((Includes its Affiliates and subsidiaries), a company incorporated under the laws of India, and having its principal place of business at 501 / B, Palm Court Complex, New Link Road, Malad (W), Mumbai 400 064 India)), treats the personal information that you may provide to us, while using our services. 
 
-[ Free Listing ](http://us.justdial.com/advertise.php?f=1 "Free Business Listing on Justdial") [ Share your views about Justdial ](http://us.justdial.com/cms/index.php?option=com_testimonialku&Itemid=45#testimonialform "Share your views about Justdial") [ Advertise ](http://us.justdial.com/advertise.php?f=2 "Advertise on Justdial") X
+X
 
 Email
 
 Password
 
-X Sign In **OR** Sign in with your JD account
+X
 
 Email / Phone
 
@@ -117,3 +117,11 @@ X
 **JD User Ratings**
 
 Ratings are given by users of Justdial.com based on their personal experience about the movie
+
+X
+
+Are you sure you want to delete this Rating / Review. 
+
+X
+
+Your Rating/Review for  has been deleted. 
