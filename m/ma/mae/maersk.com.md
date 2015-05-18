@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the maersk.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606090638id_/http%3A//www.maersk.com/AboutUs/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maersk.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518071349id_/http%3A//www.maersk.com/en/front-page-requirements/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Maersk
-
-PRIVACY AND COOKIE POLICY 
-
-This website is provided and controlled by A. P. Møller – Mærsk A/S, Esplanaden 50, DK-1098 Copenhagen K, Denmark, CVR no.: 22 75 62 14 ("Maersk”).
+# Privacy Policy
 
 **1\. Scope  
-** Maersk recognizes and respects the importance of the privacy of our visitors of our websites. This policy accounts for the personal data and cookies etc. used via our websites. If you do not agree with the terms herein, please do not use this website and delete the cookies placed by the website.
+**Maersk recognizes and respects the importance of the privacy of our visitors of our websites. This policy accounts for the personal data and cookies etc. used via our websites. If you do not agree with the terms herein, please do not use this website and delete the cookies placed by the website.
 
-Please be aware that a separate privacy statement applies to recruitment. The privacy state-ment applicable to recruitment is available [here](https://web.archive.org/career/pages/privacy-statement-en.aspx). However, the section on cookies below also applies to recruitment.
+Please be aware that a separate privacy statement applies to recruitment. The privacy state-ment applicable to recruitment is available [here](http://www.maersk.com/en/the-maersk-group/career/career-privacy-statement-en). However, the section on cookies below also applies to recruitment.
 
 **2\. Personal data**  
 On our websites, we may collect information about name, postal address, email address, other contact information, age, interests, gender, IP addresses and other personal data. Our websites are intended for a general audience, and Maersk does not knowingly collect personal data about any person under the age of 18 years.
@@ -56,4 +52,4 @@ You may delete cookies if you no longer wish to store them on your computer. How
 We reserve the right in our sole discretion to amend and/or delete this privacy and cookie policy at any time without providing prior notice to you. We will post the at any time current version of this privacy and cookie policy on the website.
 
 **5\. Contact details**  
-If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our privacy team by emailing to dataprivacy(at)maersk.com.
+If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our privacy team by emailing to dataprivacy@maersk.com.
