@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bassgorilla.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619181107id_/http%3A//bassgorilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassgorilla.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518124208id_/https%3A//bassgorilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BassGorilla.com
 
@@ -54,7 +54,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://bassgorilla.com](http://bassgorilla.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://bassgorilla.com](https://bassgorilla.com/)
 
 **Your Consent**
 
@@ -70,8 +70,7 @@ This policy was last modified on May 6th, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://bassgorilla.com
-
+https://bassgorilla.com  
 Vancouver, British Columbia  
 Canada  
 xenflex [*at*] bassgorilla.com
