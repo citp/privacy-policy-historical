@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennischannel.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822205629id_/http%3A//www.tennischannel.com/utilities/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennischannel.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518020259id_/http%3A//www.tennischannel.com/utilities/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Tennis Channel:: Privacy Policy App
 
