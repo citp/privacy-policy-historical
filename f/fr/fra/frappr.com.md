@@ -1,68 +1,395 @@
-> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022062001id_/http%3A//www.frappr.com/%3Fa%3Ddoc%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518190317id_/http%3A//www.frappr.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
-# Platial.com
+# Privacy Policy
 
-## Updated: January 7, 2008
+**Introduction**
 
-Platial and Frappr rely on you, our users, for our success. We know that in order for you to use the Platial and Frappr website and services (the “Service”), you have to feel comfortable providing us with personal information about yourself. We respect your privacy and recognize the importance of safeguarding that information.
+|  | 
 
-This Privacy Policy informs you of our policies and procedures regarding the collection, use and disclosure of information received from our users of the Service and of the website located at www.platial.com and www.frappr.com (the “Sites”), and is incorporated into our Terms of Use and Membership Agreement. It may be updated from time to time as our services change and expand. We will notify you of such changes by posting a notice and the new Privacy Policy on the Sites, and your continued use of the Sites will signify your acceptance of these new terms. The most current version of the Privacy Policy can be found at http://www.platial.com/privacy.
+This statement includes: 
 
-**What Information Does Platial Collect?**
+  * our _collection statement_ , explaining aspects of our collection and use of personal information 
 
-_Personally Identifiable Information_  
-When you register to use the Service we may collect your Platial membership ID, your login password, your email address, mailing address, telephone number and bank account details. From time to time, in the future, we may offer additional features, services, and promotional opportunities that would require you to submit additional personally identifiable information to participate – for example, if we offer aspects of the Service for a fee we will collect credit card information from you, email address upon registration and various data based on Place inputs. 
+  * our _privacy policy_ , further explaining how we manage personal information. 
 
-_Site Usage Data_  
-When you visit the Sites, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather identifies information about a visit to the Sites. We may monitor statistics such as how many people visit the Sites, the user's IP address, which pages people visit, from which domains our visitors come and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of the Sites. 
 
-_Cookies_  
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your Platial or Frappr membership ID and login password if you have configured your browser to do so for future logins to the Sites and Service. Second, we utilize session cookies to enable certain features of the Sites and Service, to better understand how you interact with the Sites and Service, and to monitor aggregate usage by our users and web traffic routing on the Sites. Unlike persistent cookies, session cookies are deleted from your computer when you disconnect from the Sites and Service. Aside from your Platial/Frappr membership ID, these cookies do not contain any personally identifiable information. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Sites or all functionality of the Service. You can learn more about the use of cookies by visiting http://networkadvertising.org or http://en.wikipedia.org/wiki/HTTP_cookie. Third party advertising agencies may place advertisements on the Sites and may also use cookies of their own. 
+  
+|  |   
+|  | 
 
-_Phishing_  
-We do not and will not, at any time, request your credit card information, Platial/Frappr membership ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. Identity theft and the practice currently known as "phishing" are of great concern to Platial. Safeguarding information to help protect your from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm.
+**COLLECTION STATEMENT**  
+  
+|  |   
+  
+**Who we are**
 
-**How Do We Use The Information We Collect?**
+|  | 
 
-Our primary goal in collecting information from you is to provide you with a smooth and efficient experience while you're using our Sites and Service, and to keep you informed of opportunities available about the Sites and Service. This allows us to provide features that are most likely to meet your needs, and to customize the Service. In addition, we may share information you provide among Platial-related entities worldwide (those entities with whom we share common control).
+Dark Blue Sea Pty Ltd ABN 47 091 509 796 
 
-We may use your email, mailing addresses and phone number to contact you regarding administrative notices, new product and service offerings, including without limitation our Co-Operative Membership Program **platial.com/coopterms** promotions, and communications relevant to your use of the Sites and Service, and to respond to your questions and requests. If you do not wish to receive mail from Platial, you have the ability to stop receiving these mail communications by sending your Platial membership ID, legal name and email address via email to [stop contacting me](mailto:stopcontactingme@platial.com), or via regular mail to Do Not Mail, Platial. If you do not wish to receive email communications from Platial, you have the ability to stop receiving these email communications by sending your Platial membership ID and email address to [unsubscribe](mailto:unsubscribe@platial.com). And, although we do not share your personally identifiable information with our business partners, we may send promotional emails on behalf of those business partners. At the end of any promotional emails you receive from us, you will find instructions to opt out of further similar communications. 
+Fabulous.com Pty Ltd ABN 64 094 218 443 
 
-You will receive administrative emails that are related to the primary usage and functionality of the Sites and Service. You may not opt-out of administrative emails.
+Fabulous Parking Pty Ltd ABN 16 094 225 091 
 
-If you become a member of our Co-Operative Membership Program, we will collect bank account details from you in order to make payments to you in accordance with the terms of the Co-Operative Membership Agreement **platial.com/coopterms**.
+Fabulous.com.au Pty Ltd ABN 34 139 626 994 
 
-Information you provide when registering may be used in the aggregate for demographic statistics and to display appropriate individualized content, advertisements and services. Platial may also use information you provide, including personal and non-identifying information, for internal marketing and development efforts.
+Roar.com Pty Ltd ABN 99 094 225 064 
 
-From time-to-time we will survey Platial and Frappr members. If you choose to provide personal information in response to a survey, such information will be used for purposes of monitoring or improving the use of and satisfaction with the Sites and Service, and improving our customer service and product and Service offerings. We may also from time to time run promotions, sweepstakes or contests and may enter Platial and Frappr members into such promotions, sweepstakes or contests. If a promotion, sweepstakes or contest has an outside sponsor, the email addresses of Platial and Frappr members may be shared with the sponsor. When necessary to deliver a prize, delivery information about the winner of a promotion, sweepstakes or contest may be shared with a third party.
+Pageseeker.com Pty Ltd ABN 45 090 513 849 
 
-**Do We Share Your Personal Information With Third Parties, Such As Advertisers, Service Providers, or Consultants?**
+Darkblue.com Pty Ltd ABN 14 094 225 082 
 
-We may use third parties to facilitate the Sites and Service, and therefore, may provide some of your information directly to them. In addition, we may employ other companies and individuals to perform functions on our behalf, such as analyzing data and processing credit card payments, if applicable. These companies and individuals have access to your information needed to perform their functions, but may not use it for any other purpose.  
-Platial may disclose your information to government, law enforcement officials, or appropriate authorities, or private parties, as we, in our sole discretion, believe necessary or appropriate, when required by law or under the good-faith belief that such disclosure is necessary, in order to conform to applicable law, comply with legal process served on Platial, to protect the property or interests of Platial, its agents and employees, the safety of the public or any person, or to prevent or stop any fraudulent, illegal, unethical, or legally actionable activity. Under such circumstances, Platial may be prohibited by law, court order or other legal process from providing notice of the disclosure, and Platial reserves the right to not provide such notice in its sole discretion. In some cases, the government can compel the disclosure of information about you, and Platial will need to comply, in which case you authorize it to do so. You also consent to Platial disclosing information about you in connection with disputes involving other Platial members, and to actual or potential parties to a lawsuit or action that Platial is or may become involved in, (a) if Platial is required to do so, (b) if Platial reasonably believes that such disclosures will potentially mitigate its liability, or (c) for Platial to enforce its rights.
+Yexa.com Pty Ltd ABN 12 094 225 073 
 
-As its business evolves, Platial may sell, transfer or otherwise share some or all of its assets, including information provided by you, in connection with a merger, reorganization, or sale of assets, or in the event of bankruptcy. In such an event, personal and anonymous information may be one of the assets transferred.
+Drop.com.au Pty Ltd ABN 79 135 424 878 
 
-Information collected on the Platial and Frappr websites may be stored and processed in any country in which Platial maintains facilities. Consequently, Platial has the right to transfer information outside of your country. For example, if you are registering on any websites controlled by Platial or Platial-related entities located in the European Union, your personally identifiable information must be disclosed to Platial which is outside of the European Union in order to receive the Service. Therefore, you acknowledge and consent to the sharing of your personal information with Platial and Platial-related entities worldwide. 
+Yexa.com.au Pty Ltd ABN 84 137 606 172 
 
-Platial may share your information with advertisers, marketers and/or event sponsors. 
+Whois Privacy Services Pty Ltd ABN 65 133 058 741 
 
-**Children’s Privacy**
+('the DBS Group', 'we' or 'our')   
+  
+|  |   
+  
+**Our contact details**
 
-This Sites and Services are not directed to children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy](mailto:privacy@platial.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+|  | 
 
-**Can You View, Correct or Delete Your Personal Information?**
+  * Phone: 07 3007 0070 
 
-Platial will use reasonable efforts to keep your personal information accurate. We would appreciate your help in ensuring the information you provide to us is accurate and up-to-date. Providing accurate information helps us serve you better. You may easily up-date your personal information through the your splash page. If you wish to completely delete any information after you have submitted information on such fields, then your account may become deactivated. However, if you wish to have your record deleted, please contact us and we will accommodate your request. Our privacy contact is provided below. 
+  * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
 
-**Is Your Information Secure?**
 
-Platial shall take appropriate organizational and technical measures to protect the information provided to it or collected by it, and shall not retain it any longer than required in order to provide the Services or as required under relevant legislation. 
+  
+|  |   
+  
+**Collection from third party sources**
 
-**Links**
+|  | 
 
-The Sites may contain links to other websites. Please be aware that Platial is not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave the Sites and to read the privacy statements of each and every website that collects personally identifiable information to learn more about their information practices. 
+We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from: 
 
-**Contacting Us With Questions or Concerns:**
+  * publicly available sources like phone books 
 
-If you have any questions about this privacy statement, you can contact: [privacy](mailto:privacy@platial.com).
+  * other companies in our group that you may have dealt with 
+
+  * third parties like our business partners, your authorised representative/s 
+
+  * information brokers 
+
+  * fraud checking agencies 
+
+  * our affiliates, resellers, contractors and other representatives that you may deal with 
+
+  * our websites and how you use them (through the use of cookies) 
+
+  * various parties listed under _Disclosing personal information_ in our Privacy Policy. 
+
+
+  
+|  |   
+  
+**Collection under law**
+
+|  | 
+
+We may be required to collect personal information in order to comply with the law.   
+  
+|  |   
+  
+**Why we collect and hold personal information**
+
+|  | 
+
+We collect and hold personal information because: 
+
+  * we may need to use it to operate our business 
+
+  * we may need to provide it to other parties in connection with our business. 
+
+
+
+
+The uses and disclosures we may make of personal information are detailed in our Privacy Policy.   
+  
+|  |   
+  
+**Unavailability of personal information**
+
+|  | 
+
+If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
+  
+|  |   
+  
+**Disclosing personal information**
+
+|  | 
+
+We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities including publishing personal information in Whois records for domain names, and to other parties detailed in our Privacy Policy. 
+
+Some of these parties may be based overseas eg America.  
+  
+|  |   
+  
+**Access and correction**
+
+|  | 
+
+Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold.   
+  
+|  |   
+  
+**Complaints**
+
+|  | 
+
+Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.   
+  
+|  |   
+|  | 
+
+**PRIVACY POLICY**  
+  
+|  |   
+  
+**Personal information**
+
+|  | 
+
+This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.   
+  
+|  |   
+  
+**Kinds of personal information we collect and hold**
+
+|  | 
+
+Broadly, we may collect and hold: 
+
+  * _personal details_ like name, date of birth, gender, and occupation 
+
+  * _contact details_ like physical, postal, work and email addresses and phone numbers 
+
+  * _financial details_ like credit card numbers and your billing and payment history with us 
+
+  * _service-related details_ like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints 
+
+  * _other details_ relating to special situations. 
+
+
+
+
+In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
+  
+|  |   
+  
+**Collecting personal information**
+
+|  | 
+
+Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for domain names or services on our website). 
+
+In other cases, we may collect personal information about you from: 
+
+  * publicly available sources like phone books 
+
+  * other companies in our group that you may have dealt with 
+
+  * third parties like our business partners, your authorised representative/s 
+
+  * information brokers 
+
+  * fraud checking agencies 
+
+  * our affiliates, resellers, contractors and other representatives that you may deal with 
+
+  * our websites and how you use them (through the use of cookies) 
+
+  * various parties listed under _Disclosing personal information_ below. 
+
+
+  
+|  |   
+  
+**Holding personal information**
+
+|  | 
+
+We hold personal information in hard and/or soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration.   
+  
+|  |   
+  
+**Why we collect and hold personal information**
+
+|  | 
+
+We collect and hold personal information because: 
+
+  * we may need to use it to operate our business 
+
+  * we may need to provide it to other parties in connection with our business. 
+
+
+  
+|  |   
+  
+**Using personal information**
+
+|  | 
+
+We may use personal information: 
+
+  * to identify you 
+
+  * for credit checks 
+
+  * to prevent fraud 
+
+  * to supply products (including goods and/or services) to you 
+
+  * to give you information about us and our products, and product offers 
+
+  * for direct marketing â€“ see _Direct marketing_ for details 
+
+  * to improve our products, our marketing and our website 
+
+  * to answer your enquiries 
+
+  * to give you customer support and service 
+
+  * to better understand your needs and respond to them 
+
+  * to manage and plan our products and business 
+
+  * to charge and bill you for products you use 
+
+  * to collect payment from you or make payment to you 
+
+  * to monitor, manage, test and improve our network and facilities 
+
+  * to comply with various laws or contractual obligations that apply to us 
+
+  * for other purposes related to the operation of our business. 
+
+
+  
+|  |   
+  
+**Disclosing personal information**
+
+|  | 
+
+We may disclose personal information as reasonably required: 
+
+  * to contractors and suppliers who supply or support us in: 
+
+    * market research, sales and marketing 
+
+    * direct marketing â€“ see _Direct marketing_ for details 
+
+    * identity and fraud checking 
+
+    * credit management 
+
+    * service provisioning 
+
+    * installation, maintenance and repairs 
+
+    * helpdesk and enquiries 
+
+    * support and complaint management 
+
+    * communications and mailing 
+
+    * billing, debt recovery and credit management 
+
+    * network and product design and maintenance 
+
+    * corporate strategy 
+
+    * legal and regulatory advice and compliance 
+
+    * accounting and financial planning 
+
+    * risk management 
+
+    * otherwise providing goods and services that we use to operate our business and provide products and support to you 
+
+  * to your authorised representative/s 
+
+  * to identify you as a registrant of a domain name in publicly available Whois record 
+
+  * if you ask us to do so 
+
+  * to our agents, resellers, affiliates and members of our corporate group 
+
+  * to our business partners and wholesale suppliers 
+
+  * to organisations that provide credit or finance to us 
+
+  * to persons who invest in or acquire all or part of our business or company, or are considering doing so. 
+
+
+
+
+Some of these parties may be based overseas eg America.  
+  
+|  |   
+  
+**Direct marketing**
+
+|  | 
+
+We may use and disclose personal information to direct market to you products offered by us, our agents, resellers, affiliates and members of our corporate group (including each member of the DBS Group), and our business partners, where we think the offers will be of interest to you, using: 
+
+  * post 
+
+  * email 
+
+  * electronic messaging 
+
+  * social media 
+
+  * targeted web content 
+
+  * other direct marketing channels. 
+
+
+
+
+Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.   
+  
+|  |   
+  
+**Accessing and correcting personal information**
+
+|  | 
+
+Please contact us for these purposes using the details in _Contacting us_ below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.   
+  
+|  |   
+  
+**Complaints**
+
+|  | 
+
+If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall: 
+
+  * acknowledge your complaint within a reasonable time 
+
+  * give you an estimated first response time 
+
+  * allocate your complaint to a suitably senior staff member 
+
+  * process and respond to your complaint as soon as we reasonably can. 
+
+
+  
+|  |   
+  
+**Contacting us**
+
+|  | 
+
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by telephone on 07 3007 0070 or email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, P.O. Box 757, Fortitude Valley, QLD 4006. 
