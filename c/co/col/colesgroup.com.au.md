@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201210247id_/http%3A//wesfarmers.com.au/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518164837id_/http%3A//www.wesfarmers.com.au/security-privacy.html) for the most accurate reproduction.*
 
 # Wesfarmers - Security & privacy
 
@@ -10,13 +10,13 @@ This policy relates only to the personal information management practices of Wes
 
 If we decide to change our Privacy Policy, we will post changes on this page.
 
-##  What types of personal information do we collect?
+## What types of personal information do we collect?
 
-We only collect personal information if it is necessary for one of our functions or activities. The types of personal information we collect will depend on the reason for collection. Generally the types of personal information we collect will include name, contact details and records of communications with us. In addition we collect personal information relating to:
+We only collect personal information if it is necessary for one of our functions or activities. The types of personal information we collect will depend on the reason for collection.  Generally the types of personal information we collect will include name, contact details and records of communications with us. In addition we collect personal information relating to:
 
   * shareholders: information about the shareholding, banking details and tax file numbers for payment of dividends and other amounts;
   * group company employees where we are providing services for our group companies. The information collected will depend on the services being provided, but may include birthdates and working conditions; health and workers compensation claims information (where we are proving workers compensation self-insurance services); banking and tax file number details (where we are administering our employee group share plan);and, in some limited cases, voluntarily provided ethnic background information (for functions related to our Reconciliation Action Plan);
-  * job applicants: employment and academic histories, the names of their referees and, in some cases, limited health information based on testing undertaken by or for us. We will collect this information directly, from organisations that provide recruitment related services to us, and from third parties who provide job applicants with professional or personal references; 
+  * job applicants: employment and academic histories, the names of their referees and, in some cases, limited health information based on testing undertaken by or for us. We will collect this information directly, from organisations that provide recruitment related services to us, and from third parties who provide job applicants with professional or personal references;
 
 
 
@@ -29,9 +29,9 @@ We will also collect personal information, including names and contact details, 
 
 
 
-We collect information from the [www.wesfarmers.com.au](http://www.wesfarmers.com.au/) site using server logs and Google Analytics. More information on Google Analytics is available [here](http://www.google.com.au/intl/en_uk/analytics/privacyoverview.html) When you visit the site to read, browse or download information, our system will record/log your IP address (the address which identifies your computer on the internet and which is automatically recognised by our web server), date and time of your visit to our site, the pages viewed and any information downloaded. This information will only be used for the purpose of site analysis and to help us offer you improved online service. We may automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our websites. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites.
+We collect information from the [www.wesfarmers.com.au](http://www.wesfarmers.com.au/) site using server logs and Google Analytics. More information on Google Analytics is available [here](http://www.google.com.au/intl/en_uk/analytics/privacyoverview.html). When you visit the site to read, browse or download information, our system will record/log your IP address (the address which identifies your computer on the internet and which is automatically recognised by our web server), date and time of your visit to our site, the pages viewed and any information downloaded. This information will only be used for the purpose of site analysis and to help us offer you improved online service. We may automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our websites. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites.
 
-Our site may contain links to other sites. We are not responsible for the privacy practices or policies of those sites and recommend that you review their privacy policies. 
+Our site may contain links to other sites. We are not responsible for the privacy practices or policies of those sites and recommend that you review their privacy policies.
 
 ## How we collect and hold personal information
 
@@ -41,11 +41,11 @@ We hold personal information electronically and, in some cases, hard copy form, 
 ## Why we collect, hold and use personal information
 
 We may use personal information for the primary purpose for which it is collected (eg. provision of our services, including administration of our services), or for purposes related to the primary purpose where it would reasonably be expected that we would use the information in such a way, or in other limited circumstances set out in the Privacy Act.   
-We collect, hold and use personal information to: 
+We collect, hold and use personal information to:
 
   * communicate with, and comply with our legal obligations to, our shareholders, and to process payments to them;
-  * enable third party service providers to provide us and our related companies with services such as information technology, auditing, legal advice, printing and mailing services, and services relating to our share register and group employee share plan; 
-  * correspond with people who have contacted us, and deal with feedback; 
+  * enable third party service providers to provide us and our related companies with services such as information technology, auditing, legal advice, printing and mailing services, and services relating to our share register and group employee share plan;
+  * correspond with people who have contacted us, and deal with feedback;
   * provide services to, and manage, our related companies;
   * correspond with people regarding our corporate sponsorships;
   * recruit and assess potential employees; and
@@ -59,8 +59,8 @@ We do not disclose personal information to third parties unless we are permitted
 Third parties we may disclose personal information to include:
 
   * Our related companies;
-  * Our service providers and professional advisors including IT service providers, auditors, legal advisors, mail houses and to share registrar and share plan management services 
-  * Financial institutions; 
+  * Our service providers and professional advisors including IT service providers, auditors, legal advisors, mail houses and to share registrar and share plan management services
+  * Financial institutions;
   * The organisations we support or sponsor; and
   * Government agencies.
 
@@ -70,13 +70,13 @@ We take steps to ensure that our service providers are obliged to protect the pr
 
 We may disclose personal information we have collected to organisations located overseas in circumstances permitted by the Australian Privacy Principles. Examples include disclosures of relevant group employee shareholder information to the manager of our United Kingdom employee share plan, and disclosures when necessary for making international payments, or in complying with foreign legal or regulatory requirements. The third parties to whom we disclose personal information may be located in Australia and other countries including New Zealand, United Kingdom and United States of America.
 
-We may use cloud computing solutions or data storage located overseas in which case information may be stored, under our control, on computer servers located outside of Australia (predominantly located in the United States of America). 
+We may use cloud computing solutions or data storage located overseas in which case information may be stored, under our control, on computer servers located outside of Australia (predominantly located in the United States of America).
 
 ## Accessing and correcting your personal information, and complaints and questions
 
-You can request access to your personal information held by us, or request that it be corrected, by contacting us at the address below. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you. A fee will not be charged for an access request, but you may be charged the reasonable expenses we incur (such as search and copying costs). If we refuse to provide you with access or correct the personal information held about you by us (in accordance with the Privacy Act), then we will provide reasons for such refusal.
+You can request access to your personal information held by us, or request that it be corrected, by contacting us at the address below.  To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you. A fee will not be charged for an access request, but you may be charged the reasonable expenses we incur (such as search and copying costs). If we refuse to provide you with access or correct the personal information held about you by us (in accordance with the Privacy Act), then we will provide reasons for such refusal.
 
-If you have a question about our Privacy Policy or wish to make a complaint about the way we have collected, used, held or disclosed your personal information, please contact us at the address below. We may need to contact you for further details. 
+If you have a question about our Privacy Policy or wish to make a complaint about the way we have collected, used, held or disclosed your personal information, please contact us at the address below. We may need to contact you for further details.
 
 If you wish to make a formal complaint, please make your complaint in writing to our Privacy Officer. We will consider your complaint promptly and contact you to seek to resolve the matter. If we have not responded to you within a reasonable time or if your concerns are not resolved to your satisfaction, you are entitled under the Privacy Act to make a complaint to the Office of the Australian Information Commissioner.
 
@@ -84,7 +84,7 @@ If you wish to make a formal complaint, please make your complaint in writing to
 
 **Wesfarmers Privacy Officer**  
 Wesfarmers Limited  
-Level 11, 40 The Esplanade, Perth WA 6000  
+Level 11, 40 The Esplanade, Perth  WA  6000  
 Email: [privacy@wesfarmers.com.au](mailto:privacy@wesfarmers.com.au)   
 Phone: (+61) 8 9327 4230
 
