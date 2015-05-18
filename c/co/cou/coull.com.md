@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220081239id_/http%3A//coull.com/cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518094829id_/http%3A//coull.com/cookies-privacy) for the most accurate reproduction.*
 
 # Coull | Privacy Policy
 
@@ -60,7 +60,7 @@ We (or third party data processors acting on our behalf) may use your informatio
 
 -          for our own administration, marketing, survey, customer service and continuous business development purposes;
 
--          to carry out research and analysis and monitor visitor use of the Website on an anonymous basis to identify general trends and to better understand visitor behaviour; and
+-          to carry out research and analysis and monitor visitor use of the Website on an anonymous basis to identify general trends and to better understand visitor behavior; and
 
 -          to investigate, respond to and comply with any legal, regulatory and similar requests in relation to the Website.
 
@@ -82,7 +82,7 @@ The coding language our Website is written in also uses session cookies. There a
 
 Within the Blog section of the Coull.com additional cookies are set by third parties, [AddThis](http://www.addthis.com/privacy#.UbC1j0CceIU), [Facebook ](https://www.facebook.com/help/cookies)and [Twitter](https://twitter.com/privacy).
 
-We also use Google Analytics on our website to help us analyse how our website is used. You can find out more about this popular website analytics tool here:
+We also use Google Analytics on our website to help us analyze how our website is used. You can find out more about this popular website analytics tool here:
 
 <http://www.google.com/analytics/index.html>.
 
@@ -156,7 +156,7 @@ We (or third party data processors acting on our behalf) may use your informatio
 
 \-     for our own administration, marketing, survey, customer service and continuous business development purposes;
 
--     to carry out research and analysis and monitor publisher use of the Service on an anonymous basis to identify general trends and to understand better our publishers' behaviour; and
+-     to carry out research and analysis and monitor publisher use of the Service on an anonymous basis to identify general trends and to understand better our publishers' behavior; and
 
 -     to investigate, respond to and comply with any legal, regulatory and similar requests in relation to the Service.
 
@@ -182,7 +182,7 @@ When a visitor plays a video that contains an advertiser’s link (a Vidlink) th
 
 -          Collect and store information about videos on Publisher Sites, so we can find a suitable product/Merchant link to add to that video
 
--          Record anonymous information about the pages, links and Merchants visited by Users across our Publisher network. This will be used to optimise the service we provide, to deliver reporting and analytics to Publishers, and so that the links we create/monetise are to products and Merchants that Users prefer.
+-          Record anonymous information about the pages, links and Merchants visited by Users across our Publisher network. This will be used to optimise the service we provide, to deliver reporting and analytics to Publishers, and so that the links we create/monetize are to products and Merchants that Users prefer.
 
 **Cookies**
 
