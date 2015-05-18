@@ -1,156 +1,711 @@
-<!--The following is the downloaded HTML source of the topranktrade.jp privacy policy that was archived on 2013-01-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130126123410id_/http%3A//topranktrade.jp/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topranktrade.jp privacy policy that was archived on 2015-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150518104406id_/http%3A//www.topranktrade.jp/company/policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="ja"><!-- InstanceBegin template="/Templates/basic.dwt" codeOutsideHTMLIsLocked="false" --><head>
-
-<meta http-equiv="content-script-type" content="text/javascript">
-
-<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Privacy Policy/Japanese Car Exporter,Japan Used cars,japanese car Dealer/TOPRANK toprank</title>
-<!-- InstanceEndEditable -->
-<meta name="description" content="TOPRANK-Export Japanese and European used cars to all over the world">
-<meta name="keywords" content="Used cars,Japanese used cars,Japanese car Exporter,TOYOTA,NISSWAN,BMW,Mercedes Benz,BENZ,audi,VORVO,MATHUDA,HONDA">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<link rel="shortcut icon" href="../images/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="copyright" content="FlashNatural">
+<title>【TOPRANK Trading】Privacy Policy</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
 
-<link href="css/basic.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="siteset.js"></script>
-<script type="text/javascript" src="js/smoothpack.js"></script>
+<link rel="stylesheet" href="../css/import.css" type="text/css" media="screen">
+<link rel="stylesheet" href="../css/style_sub.css" type="text/css" media="screen">
 
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
-<script type="text/javascript">
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+<!-- JavaScript -->
+<!-- jQuery & jQuery UI CDN -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js"><\/script>')</script><script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.11.1/jquery-ui.min.js"><\/script>')</script><script src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.11.1/jquery-ui.min.js"></script>
 
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
+<!-- ▼　スムーズスクロール　▼ -->
+<script src="../js/jquery.smoothScroll.js" type="text/javascript"></script>
+<script src="../js/fadeinDown.js" type="text/javascript"></script>
+<script>
+	$(function(){
+		// Global Menu
+		$('#globalToggle').on('click', function(){
+			$('body').toggleClass('body-to-left');
+			$('#theGlobal').toggleClass('global-open');
+			});
+			//service section height
+			var winHeight = $(window).height();
+			var secHeight = $('#service section').innerHeight();
+			if(winHeight > secHeight){
+			$('#service section > div').css('height',winHeight+'px');
+			}
+			$('.test1').css('visibility','hidden');
+			$(window).scroll(function(){
+			var windowHeight = $(window).height();
+			var topWindow = $(window).scrollTop();
+			$('.test1').each(function(){
+			var target = $(this).offset().top;
+			if(topWindow > target-windowHeight+600){
+			$(this).addClass("fadeInDown");
+			}
+			});
+			});
+			$('#animation').css('visibility','hidden');
+			$(window).scroll(function(){
+			var windowHeight = $(window).height();
+			var topWindow = $(window).scrollTop();
+			$('#animation').each(function(){
+			var target = $(this).offset().top;
+			if(topWindow > target-windowHeight+200){
+			$(this).addClass("fadeInDown");
+			}
+			});
+		});
+	}); 
 </script>
+
+
+
 </head>
-<body onload="MM_preloadImages('img/menu/menu_1-o.jpg','img/menu/menu_2-o.jpg','img/menu/menu_4-o.jpg','img/menu/menu_5-o.jpg','img/menu/menu_6-o.jpg','img/menu/menu_7-o.jpg','img/menu/menu_8-o.jpg','img/left_menu/menu_1-o.jpg','img/left_menu/menu_2-o.jpg','img/left_menu/menu_3-o.jpg','img/left_menu/menu_4-o.jpg','img/left_menu/menu_5-o.jpg','img/menu/menu_3-o.jpg','img/index/member_login1-o.jpg')">
 
-<div id="msp"><a name="top"></a>
-<div id="h1box">Japanese Car Exporter,Japan Used cars,japanese car Dealer/TOPRANK topran</div>
-<div id="header"><table width="1080" border="0" cellspacing="0" cellpadding="0" summary="0">
-  <tbody><tr>
-    <td><img src="img/top.jpg" width="1056" height="80" border="0" usemap="#Map"></td>
-  </tr>
-</tbody></table>
-<div class="menu"><img src="img/menu/left.jpg" height="43"><a href="stockcar.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image29','','img/menu/menu_1-o.jpg',1)"><img src="img/menu/menu_1.jpg" alt="HOME" name="Image29" height="43" border="0"></a><a href="aboutus.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image30','','img/menu/menu_2-o.jpg',1)"><img src="img/menu/menu_2.jpg" alt="StockList" name="Image30" width="118" height="43" border="0"></a><a href="how_to_buy.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','img/menu/menu_3-o.jpg',1)"><img src="img/menu/menu_3.jpg" name="Image20" width="118" height="43" border="0"></a><a href="http://www.topranktrade.jp/info/achievement/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image32','','img/menu/menu_4-o.jpg',1)"><img src="img/menu/menu_4.jpg" alt="How To Buy" name="Image32" width="119" height="43" border="0"></a><a href="ourfactory.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image33','','img/menu/menu_5-o.jpg',1)"><img src="img/menu/menu_5.jpg" alt="Achievement" name="Image33" width="121" height="43" border="0"></a><a href="faq.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image34','','img/menu/menu_6-o.jpg',1)"><img src="img/menu/menu_6.jpg" alt="Our Factory" name="Image34" width="119" height="43" border="0"></a><a href="contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image35','','img/menu/menu_7-o.jpg',1)"><img src="img/menu/menu_7.jpg" alt="FAQ" name="Image35" width="118" height="43" border="0"></a><a href="http://www.topranktrade.jp/myaccount/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image36','','img/menu/menu_8-o.jpg',1)"><img src="img/menu/menu_8.jpg" alt="Contact Us" name="Image36" height="43" border="0"></a><img src="img/menu/right.jpg" width="53" height="43"></div>
-
-</div>
-
-
-
-<div id="indmain">
-<div id="pankuzu"><a href="http://www.topranktrade.jp">Home</a>＞<!-- InstanceBeginEditable name="pankuzu" -->Privacy Policy<!-- InstanceEndEditable --></div>
-
-
-  <table width="930" border="0" cellspacing="0" cellpadding="0" summary="0">
-    <tbody><tr>
-      <td width="200" valign="top"><img src="img/index/member.png" width="180" height="30">
-        <div class="memberlogin">
-        Become our member, search cars from Japanese Auto Auctions and make a bid on your own! <br><br>
-          <a href="http://www.topranktrade.jp/myaccount/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','img/index/member_login1-o.jpg',1)"><img src="img/index/member_login1.jpg" alt="memberpage" name="Image21" width="150" height="30" border="0"></a></div>
-       <div class="ma-bottom10">
-        <img src="img/index/reft_2.jpg" width="180" height="30">
-        <div class="left-menu"><img src="img/index/make.jpg" width="160" height="201" border="0" usemap="#Map2">
-          
-          
+<body>
+<div id="container">
+<!-- //▼ ヘッダー　ここから ▼// -->
+<div id="header">
+    <div id="head_nav">
+        <div id="head_wrap" class="clearfix">
+        <div class="f_left">
+            <ul>
+                <li><a href="../company/philosophy.html" class="m_over_1">Philosophy</a></li>
+                <!--<li><a href="../recruit/index.html" class="m_over_2">Recruit</a></li>-->
+                <li><a href="../contact/index.html" class="m_over_3">Contact Us</a></li>
+                <li><a href="http://www.topranktrade.jp/myaccount/login.html" class="m_over_4">Sign in</a></li>
+            </ul>
         </div>
-  
-  </div>
-  <div class="ma-bottom20"><a href="why_japanese.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image24','','img/left_menu/menu_1-o.jpg',1)"><img src="img/left_menu/menu_1.jpg" alt="why Japanese used car?" name="Image24" width="180" height="40" border="0"></a><br>
-    <a href="http://www.topranktrade.jp/info/diary/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image25','','img/left_menu/menu_2-o.jpg',1)"><img src="img/left_menu/menu_2.jpg" alt="News Blog" name="Image25" width="180" height="39" border="0"></a><br>
-    <a href="http://twitter.com/#!/toprank_co_ltd" target="_blank" onmouseover="MM_swapImage('Image26','','img/left_menu/menu_3-o.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="img/left_menu/menu_3.jpg" alt="Twitter" name="Image26" width="180" height="39" border="0"></a><br>
-    <a href="http://www.facebook.com/pages/TOPRANK/193264030730939" target="_blank" onmouseover="MM_swapImage('Image27','','img/left_menu/menu_4-o.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="img/left_menu/menu_4.jpg" alt="Facebook" name="Image27" width="180" height="39" border="0"></a><br>
-    <a href="salesteam.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image28','','img/left_menu/menu_5-o.jpg',1)"><img src="img/left_menu/menu_5.jpg" alt="SalesTeam" name="Image28" width="180" height="39" border="0"></a></div></td>
-      <td width="730" valign="top"><div class="ma-bottom20">
-         <!-- InstanceBeginEditable name="main" -->
-         <div class="ma-bottom30"><img src="img/privacy/top-banner.jpg" width="730" height="75" alt="pricacypolicy"></div>
-         <div class="main">
-         <div class="ma-bottom30">
-         We think much of customer's privacy, so we pay close attention to manage personal information.<br><br>
+        
+        <!--<
+        <div class="f_right">
+            <ul>
+                <li><a href="../russia/index.php"><img src="../images/flag/RUS.png" width="30" alt="Russia" /></a></li>
+                <li><a href="../myanmar/index.php"><img src="../images/flag/MYA.png" width="30" alt="Myanmar" /></a></li>
+                <li><a href="../mongolia/index.php"><img src="../images/flag/mog.png" width="30" alt="Mongolia" /></a></li>
+            </ul>
+        </div>
+        -->
+        </div><!-- #head_wrap end -->
+    </div><!-- #head_nav end -->
+    
+    <div id="head_wrap" class="clearfix">
+        <div class="logo">
+            <h1><a href="http://www.topranktrade.jp/"><img src="../images/logo.png" alt="TOPRANK trading"></a></h1>
+        </div>
+    </div><!-- #head_wrap end -->
+</div><!-- #header end -->
+<!-- //▲ ヘッダー　ここまで ▲// -->
 
-"Our way of thinking about personal information"
-Personal information is information that the customer input on this site, and it means that can recognize the individual.<br><br>
+<!-- //▼ コンテンツwrap　ここから ▼// -->
+<div id="contentWrap" class="clearfix">
+<!-- //▼ メインコンテンツ　ここから ▼// -->
+<div id="mainContent">
+<p class="t_gray90"><a href="http://www.topranktrade.jp/">HOME</a>&nbsp;&gt;&gt;&nbsp;Privacy Policy</p>
 
-"Collection of personal information"<br>
-We collect personal information from customer in case of following;<br><blockquote>
- ・The case that customer send a message by form or e-mail.<br>
- ・The case that customer input their personal information at the blank of form.</blockquote><br><br>
-
-"Use of personal information"<br>
-We use personal information only for purpose of following;
-And we obtain customer's consent if we use it for other purpose.<br><blockquote>
- ・To understand the use state and the opinion concerning this site.<br>
- ・To answer for question and complaint of this site.</blockquote><br><br>
-
-"Offer and deposit of personal information"<br>
-We never offer personal information to third party without recognition of the customer in advance as long as it doesn't become a legal demand.<br>
-And when we offer personal information to consignor, we manage it adequately by contract of obligation to keep secrets.<br><br>
-
-"Management of personal information"<br>
-Except the following case, personal information is managed strictly by responsible person under the environment that general user cannot access, and we never leak out it to third party without recognition of customer in advance. <br>(Except consignor)<br>
-<blockquote>
- ・In the case of that we would disclose personal information to the police or third party after we judge that the disadvantage would be caused by customer.<br>
- ・When disclosing personal information is demanded by the organization with the authority equal with court, the prosecution, the police, the lawyer's association, or them.</blockquote>
-
-</div>
-         </div>
-         
-         <!-- InstanceEndEditable --></div>
-          <div class="tope"> <a href="#top">▲pagetop</a></div>
-        </td>
-    </tr>
-</tbody></table></div>
-
-
-
-</div>
-<div id="footer-bg">
-<div id="footer">
-<a href="http://www.topranktrade.jp">HOME</a>　｜　<a href="aboutus.html">About Us</a>　｜　<a href="stockcar.html">Stock List</a>　｜<a href="how_to_buy.html">　How To Buy</a>　｜　<a href="http://www.topranktrade.jp/info/achievement/">Accievement　</a>｜　<a href="ourfactory.html">Our Factry</a>　｜　<a href="faq.html">FAQ</a>　｜　<a href="contact.html">Contact</a>
+<h2><p>Privacy Policy</p></h2>
+<div id="contact">
 <p>
-  Order Spare Parts　｜　<a href="why_japanese.html">Why Japanese used car?</a>　｜　<a href="http://www.topranktrade.jp/info/diary/">News Blog</a>　｜　<a href="http://www.facebook.com/pages/TOPRANK/193264030730939" target="_blank">Face Book</a>　｜　<a href="salesteam.html">Sales Team</a>　｜　<a href="privacy.html">Privacy Policy</a>　｜　Act On Specified　｜　Sitemap　│　<a href="http://www.topranktrade.jp/myaccount/">MyAccount</a></p>
+In compliance with the Personal Information Protection Act (hereinafter, "PIPA") TOPRANK CO.,LTD (hereinafter, "TOPRANK Trading") will make efforts to protect personal information in accordance with the following privacy policy.. 
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_blue_120b">Definition of Personal Information</p>
+<div class="space_10"></div>
+
+<p>
+"Personal Information" means any information concerning living individuals, such as name, date of birth, and other descriptions that can be used to identify specific individual persons (including any information that can be easily collated with other information and, by doing so, can be used to identify specific individual persons).
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_blue_120b">Privacy Policy</p>
+<div class="space_10"></div>
+
+<p>
+This summary of our Privacy Policy applies to the Web sites operated by TOPRANK CO.,LTD in addition to Twitter, Facebook or other social networking sites, and their respective contents, whether accessed via computer, mobile device or other technology (all such Web sites are collectively referred to as the "Sites").<br>
+<br>
+This Privacy Policy explains what information may be collected through the Sites, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities.<br>
+<br>
+Please read this Privacy Policy carefully, because by using the Sites you are acknowledging that you understand and agree to the terms of this Privacy Policy. In addition, please review our Terms and Conditions which governs your use of the Sites and any content you submit to the Sites.
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_120_b">1. INFORMATION WE COLLECT</p>
+<div class="space_10"></div>
+
+<p class="t_blue_120b">Information You Provide to Us</p>
+<div class="space_10"></div>
+
+<p>
+You can visit the Sites to read and learn about our products and services, without telling us who you are and without revealing any personally identifiable information. However, to use certain features or to participate in any special programs, you may need to provide certain personal information. TOPRANK Trading will obtain personal information of Users through fair and appropriate methods only within the scope necessary for the purpose of use.<br>
+<br>
+The Sites may ask you to provide information that could reasonably be used to contact you or to identify you personally (such as your name, e-mail address, telephone number, or home address ("Personal Information"). For example, TOPRANK Trading may collect Personal Information when you register on the Sites, request information, submit comments or participate in sweepstakes, contests, games, special events, promotions, blogs and chats, and surveys ("Programs") or other feature of the Sites, or otherwise communicate or interact with us. The Sites may also ask you to provide other information about yourself, such as demographic information (gender, postal/ZIP Code, age, etc.) or certain information about your preferences and interests. If we combine demographic or other information we collect about you with Personal Information about you, we will treat the combined information as Personal Information. If you do not want your Personal Information collected, please do not submit it.<br>
+<br>
+The Sites may collect the below types of information from you:<br>
+<br>
+- Member Information – when registering with TOPRANK Trading we collect your contact information including email, postal address, phone number, fax number and mobile number.<br>
+<br>
+- Oder Information – when ordering a vehicle or spare part from TOPRANK Trading, we collect details of your contact information as well as the products you are interested in.<br>
+<br>
+- Billing and Payment Information - If you purchase any product or any other service from TOPRANK Trading through our websites, we or our merchant may collect additional information including billing/shipping information, payment information, delivery options etc.<br>
+<br>
+- Statistical Information - We gather aggregate statistical information about our Sites and Users, such as IP addresses, browser software, operating system, pages viewed number of sessions and unique visitors, etc.<br>
+<br>
+- Communication Services Information: At the time you use Communication Services (The Services may contain e-mail services, Personalized Notifications, newsletter, tell your friend, feedback and/or other message or communication facilities designed to enable you to communicate with us or others) you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business.<br>
+<br>
+- Collected Information - Members Information, Purchase Request Information, Billing &amp; Payment Information, Statistical Information and any other information we may collect from you through our Websites or any other means shall collectively be referred to as "Collected Information".<br>
+<br>
+Blogs and Public Areas: Please remember that blogs are public areas on the Sites and chat rooms may be public areas on the Sites. Any information posted in these areas can be viewed by other visitors or Internet users. You should not upload or post Personal Information in these public areas. TOPRANK Trading is not responsible or liable in any way for the Personal Information posted to or transmitted through these public areas.<br>
+<br>
+Friend to Friend: Some features on the Sites may permit you to submit information about other people. For example, if you wish to invite your friends to participate in a Program offered on the Sites or forward particular content from the Sites to your friends, you will be asked to submit your friends' e-mail addresses. Our use, sharing and protection of the other person's information will also be subject to the terms of the Program and this Privacy Policy.
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_blue_120b">Information You Provide to Us</p>
+<div class="space_10"></div>
+
+<p>
+Whenever you visit or interact with the Sites, TOPRANK Trading, as well as any third-party publishers or Web sites and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Sites are accessed and used ("Usage Information"). Usage Information may include, in part, browser type, operating system, the page served, the time, and the preceding page views. This statistical data provides us with information about the use of the Sites, such as how many visitors visit a specific page on the Sites, how long they stay on that page, and which hyperlinks, if any, they "click" on. This information helps us keep our Web site fresh and interesting to our visitors and tailor content to a visitor's interests. Usage Information is generally non-identifying, but if TOPRANK Trading associates it with you as a specific and identifiable person, TOPRANK Trading treats it as Personal Information.<br>
+<br>
+The tracking technologies used on the Sites to collect Usage Information, including Device Identifiers, may include, without limitation:<br>
+<br>
+Cookies. Cookies are data files placed on a Device when it is used to visit the Sites. TOPRANK Trading, or our third-party advertising service providers, may place cookies or similar files on your Device for security purposes, to tailor our communications with you, facilitate site navigation and to personalize your experience while visiting our Sites. Cookies allow us to collect technical and navigational information, such as browser type, time spent on our Sites and pages visited. Cookies and other tracking technologies allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Sites; and determine the correlation between TOPRANK Trading purchasers and the sites they visit. If you would prefer not to accept cookies, you can change your browser settings to notify you when you receive a cookie, which lets you, choose whether or not to accept it; or set your browser to automatically not accept any cookies. However, please be aware that some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your TOPRANK Trading account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.<br>
+<br>
+Pixel tags. A pixel tag is a transparent graphic image, sometimes called a Web beacon, clear GIFs or tracking beacon, placed on a Web page or in an e-mail, which indicates that a page or e-mail has been viewed. In addition, a pixel tag may tell your browser to get content from another server. In order to ensure the safekeeping of your information, network advertising companies and publishers are not permitted to directly collect Personal Information on our Sites.
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_120_b">2. HOW WE USE THE INFORMATION WE COLLECT</p>
+<div class="space_10"></div>
+
+<p>
+TOPRANK Trading uses the information we collect about and from you for a variety of business purposes, including for example, to: respond to your questions and requests such as requests for product information, new vehicle stock information alerts, campaign mails, and brochures; enable you to participate in promotional activities, or other Programs; provide you with access to certain services, areas and features of the Sites; verify your identity; communicate with you about your account and activities on the Sites and, in our discretion, changes to any TOPRANK Trading policy; tailor content, advertisements and offers we serve you; improve the Sites; process applications and transactions; for internal business purposes; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent.<br>
+<br>
+In relation to the provision of services by the Company and its affiliated entities, TOPRANK Trading will use the personal information it possesses for the following purposes of use. The personal information possessed by TOPRANK Trading will not be used for any purpose other than such purposes of use, except for where permitted under the PIPA and other related laws and ordinances.<br>
+<br>
+1.  Identity verification for the purpose of provision, change, or suspension of products or services, or implementation of services associated with the provision of the TOPRANK Trading’s services;<br>
+2.  Provision of information related to products or services.<br>
+3.  Examination and development of new products or services.<br>
+4.  Marketing research and other study and research; and<br>
+5.  Implementation of questionnaires, prizes, campaigns, etc.
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_blue_120b">Safety Management of Personal Information</p>
+<div class="space_10"></div>
+
+<p>
+1.  TOPRANK Trading will take measures for necessary and appropriate safety management in order to prevent divulgation, loss, or damage of Users personal information.<br>
+<br>
+2.  TOPRANK Trading will establish an internal system to prevent unauthorized access to personal information and will provide its employees with necessary and appropriate education with respect to handling of personal information.<br>
+<br>
+3.  When TOPRANK Trading intends to entrust another company with the handling of personal information, TOPRANK Trading will appoint a trustee company that is recognized to appropriately handle personal information, will conclude an agreement which obligates the trustee company to appropriately manage personal information, and will appropriately supervise the trustee company.
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_blue_120b">Provision of Personal Information to Third Parties</p>
+<div class="space_10"></div>
+
+<p>
+TOPRANK Trading will not provide or disclose any User-provided personal information to any third party without the Users’ consent, unless otherwise permitted under the PIPA or other related laws and ordinances.
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_blue_120b">Compliance with Laws and Ordinances</p>
+<div class="space_10"></div>
+
+<p>
+TOPRANK Trading will comply with the PIPA and other related laws and ordinances.
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_blue_120b">Disclosure, Correction, etc. of Personal Information</p>
+<div class="space_10"></div>
+
+<p>
+If a person who has provided personal information requests any disclosure, correction, addition, deletion, etc. of his/her own personal information, TOPRANK Trading will take appropriate responses to such request. For inquiries, please contact TOPRANK Trading.
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_blue_120b">Disclosure, Correction, etc. of Personal Information</p>
+<div class="space_10"></div>
+
+<p>
+If a person who has provided personal information requests any disclosure, correction, addition, deletion, etc. of his/her own personal information, TOPRANK Trading will take appropriate responses to such request. For inquiries, please contact TOPRANK Trading.<br>
+TOPRANK Trading will address any inquiry from a User with respect to TOPRANK Trading’s handling of personal information.
+</p>
+
+<div class="space_20"></div>
+
+<p class="t_blue_120b">Revision</p>
+<div class="space_10"></div>
+
+<p>
+TOPRANK Trading may revise the contents of this Privacy Policy either in whole or in part. If this Privacy Policy is revised, it will be published on this website.
+</p>
+
+
+</div><!-- #contact end -->
+</div><!-- #mainContent end -->
+<!-- //▲ メインコンテンツ　ここまで ▲// -->
+
+<!-- //▼ sideコンテンツ　ここから ▼// -->
+<div id="sideContent">
+
+<!-- //▼ ストックリスト ▼// -->
+<h2><p>Stock List</p></h2>
+<ul>
+<li><a href="../stock/group_stock.html">Stock List</a></li>
+</ul>
+
+<div class="space_10"></div>
+
+<!-- //▼ 検索フォーム　ここから ▼// -->
+<!--
+<div id="s_condition2">
+<h3 align="center"><img src="../images/loupe.png" width="140" alt="Search by Condition" /></h3>
+	
+    <form action="" method="post">
+    <p>Year</p>
+    <input type="text" name="year" value="" id="textbox" class="inpa" /> ～ <input type="text" name="year" value="" id="textbox" class="inpa" />
+    
+    <p>Make</p>
+    <select name="make" id="make"  class="inpc">
+    <option value="toyota">TOYOTA</option>
+    <option value="nissan">NISSAN</option>
+    <option value="honda">HONDA</option>
+    <option value="mitsubishi">Mitsubishi</option>
+    <option value="mitsubishi-fuso">Mitsubishi Fuso</option>
+    <option value="mazda">MAZDA</option>
+    <option value="subaru">SUBARU</option>
+    <option value="suzuki">SUZUKI</option>
+    <option value="daihatsu">DAIHATSU</option>
+    <option value="lexus">Lexus</option>
+    <option value="mitsuoka">Mitsuoka</option>
+    <option value="infiniti">Infiniti</option>
+    <option value="isuzu">ISUZU</option>
+    <option value="gm">GM</option>
+    <option value="chrysler">Chrysler</option>
+    <option value="ford">Ford</option>
+    <option value="rover">Rover</option>
+    <option value="land-rover">Land Rover</option>
+    <option value="jeep">Jeep</option>
+    <option value="bmw">BMW</option>
+    <option value="audi">Audi</option>
+    <option value="opel">Opel</option>
+    <option value="volkswagen">Volkswagen</option>
+    <option value="porsche">Porsche</option>
+    <option value="mercedes-benz">Mercedes-Benz</option>
+    <option value="peugeot">Peugeot</option>
+    <option value="renault">Renault </option>
+    <option value="volvo">Volvo </option>
+    <option value="fiat">Fiat</option>
+    <option value="alfa-romeo">Alfa Romeo</option>
+    <option value="ferrari">Ferrari</option>
+    <option value="maserati">Maserati</option>
+    <option value="lamborghini">Lamborghini</option>
+    <option value="jaguar">Jaguar</option>
+    <option value="chevrolet">Chevrolet</option>
+    <option value="hino">HINO</option>
+    <option value="komatsu">KOMATSU</option>
+    </select>
+    
+    <p>Model</p>
+    <select name="model" id="model" class="inpc">
+    <option value="Please select a Make">Please select a Make</option>
+    </select>
+    
+    <p>Type</p>
+    <select name="type" id="type" class="inpc">
+    <option value="sedan">Sedan</option>
+    <option value="wagon">Wagon</option>
+    <option value="vans">Vans</option>
+    <option value="suv">SUVs</option>
+    <option value="hatchback">Hatch Back</option>
+    <option value="Sports">sports</option>
+    <option value="smallcars">Smallcars</option>
+    <option value="bases">Bases</option>
+    <option value="truks">Pickup & Trucks</option>
+    <option value="Machinery">Machinery</option>
+    </select>
+    
+    <p>Steering</p>
+    <select name="steering" id="steering" class="inpc">
+    <option value="all">ALL</option>
+    <option value="left">Left Hand</option>
+    <option value="right">Right Hand</option>
+    </select>
+    
+    <p>Keywords</p>
+    <input type="text" name="keywords" id="txt1" value="" placeholder="ex) toyota prius white" class="inpb demo" />
+    
+    <input type="submit" name="submit" id="submit" class="m_over_9" />
+    </form>
+</div>--><!-- #s_condition end -->
+<!-- //▲ 検索フォーム　ここまで ▲// -->
+
+<!-- //▼ メーカー検索　ここから ▼// -->
+<div id="s_b_maker2">
+    <ul>
+    <li>Search by Make</li>
+    </ul>
+    
+    <div id="thumbBox" class="clearfix">
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_lexus.html"><img src="../images/maker/search_by_le.png" alt="LEXUS" width="40"></a>
+        </div>
+    
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_toyota.html"><img src="../images/maker/search_by_ty.png" alt="YOYOTA" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_nissan.html"><img src="../images/maker/search_by_ni.png" alt="NISSAN" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_honda.html"><img src="../images/maker/search_by_ho.png" alt="HONDA" width="40"></a>
+        </div>
+    </div>
+    
+    <div id="thumbBox" class="clearfix">
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_mazda.html"><img src="../images/maker/search_by_ma.png" alt="MAZDA" width="40"></a>
+        </div>
+    
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_subaru.html"><img src="../images/maker/search_by_su.png" alt="SUBARU" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_mitsubishi.html"><img src="../images/maker/search_by_mi.png" alt="MITSUBISHI" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_suzuki.html"><img src="../images/maker/search_by_sz.png" alt="SUZUKI" width="40"></a>
+        </div>
+    </div>
+    
+    <div id="thumbBox" class="clearfix">
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_isuzu.html"><img src="../images/maker/search_by_is.png" alt="ISUZU" width="40"></a>
+        </div>
+    
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_hino.html"><img src="../images/maker/search_by_hi.png" alt="HINO" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+
+        <a href="../stock/group_stock_komatsu.html"><img src="../images/maker/search_by_ko.png" alt="KOMATSU" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_japan_other.html"><img src="../images/maker/search_by_jo.png" alt="Japan other" width="40"></a>
+        </div>
+    </div>
+    
+    <div id="thumbBox" class="clearfix">
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_benz.html"><img src="../images/maker/search_by_mb.png" alt="Mercedes-Benz" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_bmw.html"><img src="../images/maker/search_by_bm.png" alt="BMW" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_audi.html"><img src="../images/maker/search_by_au.png" alt="Audi" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_vw.html"><img src="../images/maker/search_by_vw.png" alt="volks wagen" width="40"></a>
+        </div>
+    </div>
+    
+    <div id="thumbBox" class="clearfix">
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_porsche.html"><img src="../images/maker/search_by_po.png" alt="PORSCHE" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_landrover.html"><img src="../images/maker/search_by_lr.png" alt="LAND ROVER" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_volvo.html"><img src="../images/maker/search_by_vo.png" alt="VOLVO" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_world_other.html"><img src="../images/maker/search_by_wo.png" alt="World other" width="40"></a>
+        </div>
+    </div>
+</div><!-- #s_b_makerend -->
+<!-- //▲ メーカー検索　ここまで ▲// -->
+
+<!-- //▼ タイプ検索　ここから ▼// -->
+<div id="s_b_maker2">
+    <ul>
+    <li>Search by Type</li>
+    </ul>
+    
+    <div id="thumbBox" class="clearfix">
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_sedan.html"><img src="../images/type/search_by_sdn.png" alt="Sedan" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_wagon.html"><img src="../images/type/search_by_wag.png" alt="Wagon" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_van.html"><img src="../images/type/search_by_van.png" alt="Vans" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_suv.html"><img src="../images/type/search_by_suv.png" alt="SUVs" width="40"></a>
+        </div>
+    </div>
+    
+    <div id="thumbBox" class="clearfix">
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_hatch.html"><img src="../images/type/search_by_htc.png" alt="Hatch back" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_sports.html"><img src="../images/type/search_by_spo.png" alt="Sports" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_small.html"><img src="../images/type/search_by_pic.png" alt="Smallcars" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_buses.html"><img src="../images/type/search_by_bus.png" alt="Buses" width="40"></a>
+        </div>
+    </div>
+    
+    <div id="thumbBox" class="clearfix">
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_truk.html"><img src="../images/type/search_by_trk.png" alt="Pickup &amp; Trucks" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <a href="../stock/group_stock_machinery.html"><img src="../images/type/search_by_mac.png" alt="Machinery" width="40"></a>
+        </div>
+        
+        <div class="s_thumb2">
+        <img src="../images/type/search_bg.png" alt="" width="40">
+        </div>
+        
+        <div class="s_thumb2">
+        <img src="../images/type/search_bg2.png" alt="" width="40">
+        </div>
+    </div>
+</div><!-- #s_b_makerend -->
+<!-- //▲ タイプ検索　ここまで ▲// -->
+
+<ul>
+    <li><a href="../parts/parts_list.html">Parts Order</a></li>
+</ul>
+
+<!-- //▼ 車の選び方 ▼// -->
+<h2><p>Purchasing Vehicle</p></h2>
+<ul>
+    <li><a href="../howto/index.html">How to Buy</a></li>
+    <li><a href="../purchasing/pdi.html">PDI Service</a></li>
+    <li><a href="../purchasing/insurance.html">Marine Insurance</a></li>
+    <li><a href="../purchasing/faq.html">FAQ</a></li>
+</ul>
+
+<!-- //▼ 海外事業部 ▼// -->
+<h2><p>International Division</p></h2>
+<ul>
+    
+    <li><a href="../division/index.html">Sales Team</a></li>
+</ul>
+
+<!-- //▼ パフォーマンス ▼// -->
+<!--
+<h2><p>Our Customer</p></h2>
+<ul>
+    <li><a href="../performance/index.html#office">Overseas Office</a></li>
+    <li><a href="../performance/index.html">Customer's Voice</a></li>
+</ul>
+-->
+
+<!-- //▼ インフォ ▼// -->
+<h2><p>Information</p></h2>
+<ul>
+    <li><a href="../info/terminology.html">Shipping Terms</a></li>
+    <!--<li><a href="../news/index.html">News & Topics</a></li>-->
+    <li><a href="../contact/index.html">Contact Us</a></li>
+</ul>
+
+<!-- //▼ カンパニー ▼// -->
+<h2><p>Company</p></h2>
+<ul>
+    <li><a href="../company/index.html">Company Information</a></li>
+    <li><a href="../company/about.html">About Us</a></li>
+    <li><a href="../company/philosophy.html">Philosophy</a></li>
+</ul>
+
+<!-- //▼ メディア ▼// -->
+<h2><p>Media</p></h2>
+<ul>
+    <li><a href="https://www.facebook.com/topranktrading">facebook</a></li>
+    <!--<li><a href="">twitter</a></li>-->
+</ul>
+
 </div>
+
+<!-- //▲ sideコンテンツ　ここまで ▲// -->
+</div><!-- #contentWrap end -->
+<!-- //▲ コンテンツwrap　ここまで ▲// -->
+
+
+<!-- //▼ トップへもどる　ここから ▼// -->
+<div id="fadeTopBtn" class="fadeTopBtn fadeInDown">
+    <p><a href="#container"><img src="../images/arrow.png" width="45" height="45" alt="↑"></a></p>
 </div>
+<!-- //▲ トップへもどる　ここまで ▲// -->
+
+<!-- //▼ ホームへもどる　ここから ▼// -->
+<div id="backHome" class="backHome fadeInDown">
+    <p><a href="http://www.topranktrade.jp/"><img src="../images/arrow_home.png" width="45" height="45" alt="HOME"></a></p>
+</div>
+<!-- //▲ ホームへもどる　ここまで ▲// -->
+
+
+<!-- //▼ フッター　ここから ▼// -->
+<div id="footer">
+    <div id="footWrap" class="clearfix">
+        <div class="f_navContent">
+            <h3>Purchasing Vehicle</h3>
+            <p><a href="../howto/index.html">How to buy</a></p>
+            <p><a href="../purchasing/pdi.html">PDI Service</a></p>
+            <p><a href="../purchasing/insurance.html">Marine insurance</a></p>
+            <p><a href="../purchasing/faq.html">FAQ</a></p>
+
+            <h3>Sitemap</h3>
+            <p><a href="../sitemap.html">Sitemap</a></p>
+            
+            <h3>My Account</h3>
+            <p><a href="http://www.topranktrade.jp/myaccount/login.html">Sign in</a></p>
+            <p><a href="http://www.topranktrade.jp/myaccount/login.html">Sign up</a></p>
+        </div>
+        
+        <div class="f_navContent">
+            <h3>Company</h3>
+            <p><a href="../company/index.html">Company Information</a></p>
+            <p><a href="../company/about.html">About Us</a></p>
+            <p><a href="../company/philosophy.html">Philosophy</a></p>
+            <p><a href="../contact/index.html">Contact Us</a></p>
+            <p><a href="../company/policy.html">Privacy Policy</a></p>
+
+            <h3>International Division</h3>
+            
+            <p><a href="../division/index.html">Sales Team</a></p>
+
+            <h3>SNS</h3>
+            <p><a href="https://www.facebook.com/topranktrading"><img src="../images/icon_facebook.png" width="36" alt="facebook"></a></p>
+         </div>
+        
+        <div class="f_navContent">
+        	<h3>Domestic Business</h3>
+            <p><a href="http://toprank.co.jp/">TOPRANK CO,.LTD</a></p>
+            <p><a href="http://toprank.jp/">TOPRANK Motor Works</a></p>
+            <p><a href="http://www.toprankbody.com/">TOPRANK Body Works</a></p>
+            <p><a href="http://www.toprank-rentacar.com/">TOPRANK Car-Rental</a></p>
+            <p><a href="http://www.topranktrade.com/"></a>TOPRANK car Purchase</p>
+            <p><a href="http://xn--eckvas1f2hna8c9578bbovaozrq08g.jp/">Land Cruiser Purchase</a></p>
+            
+            <h3>Blog</h3>
+            <p><a>Customer's Voice</a></p>
+            <p><a>Staff Blog</a></p>
+        </div>
+        
+        <div class="f_navContent">
+        	<h3>Japanes Make</h3>
+            <p><a href="../stock/group_stock_lexus.html">LEXUS</a></p>
+            <p><a href="../stock/group_stock_toyota.html">TOYOTA</a></p>
+            <p><a href="../stock/group_stock_nissan.html">NISSAN</a></p>
+            <p><a href="../stock/group_stock_honda.html">HONDA</a></p>
+            <p><a href="../stock/group_stock_mazda.html">MAZDA</a></p>
+            <p><a href="../stock/group_stock_subaru.html">SUBARU</a></p>
+            <p><a href="../stock/group_stock_mitsubishi.html">MITSUBISHI</a></p>
+            <p><a href="../stock/group_stock_suzuki.html">SUZUKI</a></p>
+            <p><a href="../stock/group_stock_isuzu.html">ISUZU</a></p>
+            <p><a href="../stock/group_stock_hino.html">HINO</a></p>
+            <p><a href="../stock/group_stock_komatsu.html">KOMATSU</a></p>
+            <p><a href="../stock/group_stock_japan_other.html">Other</a></p>
+        </div>
+        
+        <div class="f_navContent">
+        	<h3>World Make</h3>
+            <p><a href="../stock/group_stock_benz.html">Mercedes-Benz</a></p>
+            <p><a href="../stock/group_stock_bmw.html">BMW</a></p>
+            <p><a href="../stock/group_stock_audi.html">Audi</a></p>
+            <p><a href="../stock/group_stock_vw.html">VW</a></p>
+            <p><a href="../stock/group_stock_porsche.html">PORSCHE</a></p>
+            <p><a href="../stock/group_stock_landrover.html">LAND ROVER</a></p>
+            <p><a href="../stock/group_stock_volvo.html">VOLVO</a></p>
+            <p><a href="../stock/group_stock_world_other.html">Other</a></p>
+        </div>
+        
+        <div class="f_navContent">
+        	<h3>Body Type</h3>
+            <p><a href="../stock/group_stock_sedan.html">Sedan</a></p>
+            <p><a href="../stock/group_stock_wagon.html">Wagon</a></p>
+            <p><a href="../stock/group_stock_van.html">Vans</a></p>
+            <p><a href="../stock/group_stock_suv.html">SUVs</a></p>
+            <p><a href="../stock/group_stock_hatch.html">HatchBack</a></p>
+            <p><a href="../stock/group_stock_sports.html">Sports</a></p>
+            <p><a href="../stock/group_stock_small.html">Smallcars</a></p>
+            <p><a href="../stock/group_stock_buses.html">Buses</a></p>
+            <p><a href="../stock/group_stock_truk.html">Pickup &amp; truks</a></p>
+            <p><a href="../stock/group_stock_machinery.html">Machinenry</a></p>
+        </div>
+    </div><!-- #footWrap end -->
+    
+    <div id="copy">
+        <p>Copyright © TOPRANK All Rights Reserved.</p>
+    </div><!-- #copy end -->
+</div><!-- #footer end -->
+<!-- //▲ フッター　ここまで ▲// -->
+</div><!-- #container end -->
 
 
 
-<map name="Map">
-  <area shape="rect" coords="803,19,1000,41" href="contact.html" alt="toprank">
-  <area shape="rect" coords="33,3,312,76" href="http://www.topranktrade.jp" alt="toprank">
-</map>
 
-<map name="Map2">
-  <area shape="rect" coords="0,3,46,40" href="toyota.html">
-  <area shape="rect" coords="58,2,102,41" href="nissan.html">
-  <area shape="rect" coords="116,4,157,37" href="#">
-  <area shape="rect" coords="5,84,48,125" href="benz.html">
-  <area shape="rect" coords="57,84,103,126" href="bmw.html">
-  <area shape="rect" coords="2,133,49,168" href="audi.html">
-  <area shape="rect" coords="57,131,105,170" href="volvo.html">
-  <area shape="rect" coords="113,128,157,167" href="wagon.html">
-  <area shape="rect" coords="1,170,50,204" href="landrover.html">
-  <area shape="rect" coords="56,171,105,200" href="jaguar.html">
-</map>
 
-<!-- InstanceEnd -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body></html>
