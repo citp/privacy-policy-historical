@@ -1,30 +1,87 @@
-> *The following text is extracted and transformed from the utoms.org privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609175638id_/http%3A//www.uthscsa.edu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utoms.org privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518090737id_/http%3A//utoms.org/static/privacy-policy) for the most accurate reproduction.*
 
-# Web Privacy Policy, The University of Texas Health Science Center at San Antonio
+# Privacy Policy | Utoms.org - PR 5 Social Bookmarking Site
 
-The University of Texas Health Science Center at San Antonio maintains its web site, www.uthscsa.edu, as a service to its students, employees and the public. The following is the privacy policy for this site (all pages with the domain name "uthscsa.edu" in them):
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-  1. The university uses cookies to collect information. This information, for example, is used to log the path a user takes through the web site, remember the credentials used to log into an application, or temporarily preserve the information the user supplies to complete multi-part web forms. Some web sites use third-party web services, such as Google, that use proprietary cookies. The university is not responsible for the use of cookies by third parties. Note: A cookie file contains unique information a web site can use to track such things as passwords, lists of pages a user visited, and the date when the user last looked at a specific page or to identify the user's session at a particular website. A cookie is often used in commercial sites to identify the items selected for a specific shopping cart application. 
-  2. If a user sends the university an electronic mail message with a question or comment that contains personally identifying information, or fills out a form that e-mails the university this information, the university will only use the personally-identifiable information to respond to the request and analyze trends. The university may redirect the message to another part of the university, another institution, a government agency or a person who is in a better position to answer the question.
-  3. For site management functions, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. Some information may be collected by third parties. These parties supply the information to the university for analytical purposes. Information obtained by third parties is subject to their terms of service. The university is not responsible for privacy practices of third parties.
-  4. Information collected from the Health Science Center web site, including the summary server log information, e-mails sent to the web site, and information collected from web-based forms, may be subject to the Texas Public Information Act.
-  5. Individuals have rights under Section 559.03(a) of the Texas Government Code to correct any erroneous personal information The University of Texas Health Science Center at San Antonio collects. The university has posted [procedures](https://web.archive.org/web/20140609175638id_/http%3A//www.uthscsa.edu/publicinfo.shtml) for requesting corrections.
-  6. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purpose and are scheduled for regular destruction in accordance with National Archives and Records Administration General Schedule 20.
-  7. The university uses log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis:
+## What personal information do we collect from the people that visit our blog, website or app?
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience. 
 
-  * User Client hostname - The hostname (or IP address if DNS is disabled) of the user/client requesting access. 
-  * HTTP header, "user-agent" - The user-agent information includes the type of browser, its version, and the operating system it's running on.
-  * HTTP header, "referrer" - The referrer specifies the page from which the client accessed the current page.
-  * System date - The date and time of the user/client request. 
-  * Full request - The exact request the user/client made. 
-  * Status - The status code the server returned to the user/client. 
-  * Content length - The content length, in bytes, of the document sent to the user/client. 
-  * Method - The request method used. 
-  * Universal Resource Identifier (URI) - The location of a resource on the server. 
-  * Query string of the URI - Anything after the question mark in a URI. 
-  * Protocol - The transport protocol and version used. 
+### When do we collect information?
 
+We collect information from you when you register on our site or enter information on our site. 
 
+### How do we use your information?
 
-Questions about this policy should be sent to the webmaster at [webadmin@uthscsa.edu](mailto:webadmin@uthscsa.edu). 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+**•** To improve our website in order to better serve you.
+
+## How do we protect visitor information?
+
+We do not use vulnerability scanning and/or scanning to PCI standards. We do not use an SSL certificate **•** We only provide articles and information, and we never ask for personal or private information.
+
+### Do we use 'cookies'?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+### We use cookies to:
+
+**•** Understand and save user's preferences for future visits.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly. However, you can still place orders.
+
+## Third Party Disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google** \- Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+We use Google AdSense Advertising on our website. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+### We have implemented the following:
+
+**• Google Display Network Impression Reporting.** \- We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+### Opting out
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+## California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+
+### According to CalOPPA we agree to the following:
+
+Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+## Users will be notified of any privacy policy changes:
+
+#### On our Privacy Policy Page
+
+Users are able to change their personal information: **•** By logging in to their account.
+
+## How does our site handle do not track signals?
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+## Does our site allow third party behavioral tracking?
+
+It's also important to note that we do not allow third party behavioral tracking.
+
+### COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+**We do not specifically market to children under 13.**
+
+**Last Edited on 2015-03-14**
