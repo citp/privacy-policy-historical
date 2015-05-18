@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youwave.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124095517id_/http%3A//youwave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youwave.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519005525id_/http%3A//youwave.com/privacy) for the most accurate reproduction.*
 
 # YouWave, A world for Android on PC
 
