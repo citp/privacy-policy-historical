@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the puppetlabs.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019103619id_/http%3A//puppetlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puppetlabs.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518233935id_/https%3A//puppetlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Puppet Labs
 
-Updated on February 14, 2014
+Updated on November 24, 2014
 
 **Puppet Labs** and its affiliates (collectively referred to here as “we,” “our,” or “Puppet Labs”) created this Privacy Policy to inform our website users, certification exam and event registrants/participants, newsletter/information recipients, promotion participants, online community participants, those who purchase or inquire about our products and services and others (collectively referred to as “customers”) about our practices regarding collection, use and disclosure of personally identifiable information (“personal data”) that we collect from them. This Privacy Policy does not apply, however, to Puppet Labs employees, employment applicants, suppliers, distributors or trade contacts except when they are acting in a “customer” capacity.
 
@@ -44,8 +44,10 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 
 Attn: Marketing  
 Puppet Labs, Inc.  
-926 NW 13th Ave #210  
-Portland, OR 97209
+308 SW 2nd Ave  
+Fifth Floor  
+Portland, OR 97204  
+
 
 In your request, please specify that you want a "Your California Privacy Rights Notice ". Please allow 30 days for a response.
 
@@ -59,8 +61,10 @@ If you have questions or concerns related to this Privacy Policy or our informat
 
 Attn: Marketing  
 Puppet Labs, Inc.  
-926 NW 13th Ave #210  
-Portland, OR 97209
+308 SW 2nd Ave  
+Fifth Floor  
+Portland, OR 97204  
+
 
 or at [privacy@puppetlabs.com](mailto:privacy@puppetlabs.com).
 
