@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faxresume.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025045356id_/http%3A//faxdocument.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faxresume.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519004559id_/http%3A//www.faxdocument.com/privacy.asp) for the most accurate reproduction.*
 
 # FaxDocument a leader in Internet fax messaging
 
