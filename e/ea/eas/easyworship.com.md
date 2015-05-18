@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102011id_/https%3A//easyworship.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518020104id_/https%3A//www.easyworship.com/about/privacy) for the most accurate reproduction.*
 
-# EasyWorship Church Presentation Software / About / Privacy
-
-skip to content
-
-  * [Home](https://web.archive.org/)
-  * [EasyWorship 2009](https://web.archive.org/easyworship/overview/)
-  * [Media Store ](https://web.archive.org/store/)
-    * [Bibles](https://web.archive.org/bible/)
-    * [Mini Movies](https://web.archive.org/minimovies/)
-    * [Motions](https://web.archive.org/motions/)
-    * [Countdowns](https://web.archive.org/countdowns/)
-    * [Collections](https://web.archive.org/collections/)
-    * [Stills](https://web.archive.org/stills/)
-  * [Training](https://web.archive.org/easyworship/getstarted/)
-  * [Support](https://web.archive.org/support/)
-
-[Back to Support](https://web.archive.org/support/)
-
-Updated November 2008
+# EasyWorship.com - Privacy Policy
 
 EasyWorship.com is operated by Softouch Development, Inc. and may be accessed in the United States and abroad. For personal information protection purposes, Softouch Development, Inc. is the controller and processor of any personal information collected through EasyWorship.com. This information may be retained as long as it is reasonably required for the purposes it was collected.
 
