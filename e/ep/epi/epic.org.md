@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010152726id_/http%3A//epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518115551id_/https%3A//epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
 
 # EPIC - Privacy Policy
-
-## Privacy Policy
 
 ### EPIC Mailing List
 
@@ -21,3 +19,11 @@ When you order EPIC publications from the [EPIC Bookstore](http://www.epic.org/b
 ### Questions?
 
 For any other information about our privacy policy, please contact [epic-info@epic.org](mailto:epic-info@epic.org).
+
+Share this page:
+
+[](https://web.archive.org/june1/)
+
+### Subscribe to the EPIC Alert
+
+The EPIC Alert is a by-monthly newsletter highlighting emerging privacy issues.
