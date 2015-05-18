@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the weeklydig.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125201007id_/http%3A//digboston.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklydig.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518210430id_/https%3A//digboston.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DigBoston
+# Privacy Policy
 
+  
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
@@ -14,7 +15,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 • To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -25,8 +26,7 @@ Any of the information we collect from you may be used in one of the following w
 • To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-• To process transactions  
-
+• To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
@@ -38,7 +38,7 @@ The email address you provide may be used to send you information, respond to in
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
@@ -74,7 +74,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://digboston.com/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://digboston.com/>
 
 **Your Consent**
 
@@ -82,17 +82,16 @@ By using our site, you consent to our [web site privacy policy](http://www.freep
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 This policy was last modified on 10/20/2010
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://digboston.com  
-242 E. Berkeley St.  
+[digboston.com](https://digboston.com/)  
+242 E. Berkeley St. 5th floor  
 Boston, MA 02118  
 USA  
-webmaster@digboston.com  
-
+[webmaster@digboston.com](mailto:webmaster@digboston.com)
