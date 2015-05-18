@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backpage.com.au privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511114422id_/http%3A//australia.backpage.com/online/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.com.au privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519004521id_/http%3A//australia.backpage.com/online/PrivacyPolicy) for the most accurate reproduction.*
 
-# australia classifieds for apts, jobs, and items for sale - backpage.com
+# Australia classifieds for apts, jobs, and items for sale - backpage.com
 
 **Privacy Policy  
 Last Revised: _January 9, 2014_**
@@ -24,7 +24,7 @@ We may use the information we collect to:
   *      Process and respond to your inquires; 
   *      Improve the Site; 
   *      Administer, monitor and control use of the Site, including posts, replies, and account information; and 
-  *      Enforce the [Terms of Use](https://web.archive.org/en-au/online/classifieds/Terms) (collectively, the “Activities”).
+  *      Enforce the [Terms of Use](https://web.archive.org/en-au/online/TermsOfUse) (collectively, the “Activities”).
 
 
 
@@ -70,7 +70,7 @@ The East Stable Thrales End Farm
 Harpenden, United Kingdom, AL5 3NS
 
 Payment Solutions BV.  
-Strawinskylaan 601, 1077XX,  
+Zuidplein 116 - 1077XV,  
 Amsterdam, Netherlands 
 
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. 
