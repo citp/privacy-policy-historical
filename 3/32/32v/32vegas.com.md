@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 32vegas.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109171728id_/http%3A//www.32red.com/banking/32red-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32vegas.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518072250id_/http%3A//www.32red.com/banking/32red-privacy-policy.html) for the most accurate reproduction.*
 
 # 32Red Online Casino's Privacy Policy - 32Red Online Casino
+
+Banking that is secure and easy
 
 You are here: [Online Casino Home](https://web.archive.org/) > [Banking](https://web.archive.org/banking/how-to-purchase-chips-at-32red.html) > 32Red Online Casino's Privacy Policy
 
