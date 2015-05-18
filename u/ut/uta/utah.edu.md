@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231013458id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518232324id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Utah
 
@@ -48,7 +48,7 @@ We encourage parents to explore our website with their children. If we learn tha
 Here's how to review or change your personal profile information (address, home phone, e-mail): 
 
   * **On the Web** – Log in to the [Campus Information Services](http://gate.acs.utah.edu/) and click your address, phone, or email to edit. 
-  * **In Person** – Visit Registration Service Window #13 on the 2nd floor of the [Student Services Building.](http://www.map.utah.edu/umaplink/0040.html)
+  * **In Person** – Visit Registration Service Window #13 on the 2nd floor of the [Student Services Building.](http://www.map.utah.edu/index.html?code=ssb)
   * **By Phone** – Call the Registration Division (801) 581-8969. 
 
 
