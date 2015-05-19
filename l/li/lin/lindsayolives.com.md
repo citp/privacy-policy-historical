@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the lindsayolives.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701213419id_/http%3A//www.lindsayolives.com/about-lindsay/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindsayolives.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519070836id_/http%3A//www.lindsayolives.com/about-lindsay/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lindsay Olives
+# Privacy Policy | Lindsay
 
-About Lindsay
-
-## Bell-Carter Foods, Inc. respects the privacy interests of our web site visitors. This Privacy Policy describes the types of personal information taht we collect, the uses we make of that information, and how you can correct or request deletion of any personal identifying information you choose to give us.
+Bell-Carter Foods, Inc. respects the privacy interests of our web site visitors. This Privacy Policy describes the types of personal information that we collect, the uses we make of that information, and how you can correct or request deletion of any personal identifying information you choose to give us.
 
 ### Information We Collect
 
-In general, Bell-Carter Foods, Inc. does not collect personal identifying information from visitors to this web site unless such information is provided by the individual. However, certain non-personal information is recorded by the standard operation of Bell-Carter Foods, Inc.'s Internet servers, including the type of operating system and browser being used by the visitor. The information we collect allows us to make statistical analyses of the use of our site, to improve the content of our site, and to customize our site to better suit your needs. 
+In general, Bell-Carter Foods, Inc. does not collect personal identifying information from visitors to this web site unless such information is provided by the individual. However, certain non-personal information is recorded by the standard operation of Bell-Carter Foods, Inc.'s Internet servers, including the type of operating system and browser being used by the visitor. The information we collect allows us to make statistical analyses of the use of our site, to improve the content of our site, and to customize our site to better suit your needs.
 
 ### Use Of Your Information
 
-We may use aggregated information, which does not identify you personally, for advertising, marketing, promotional and other business purposes. Should you choose to provide personal identifying information, we may use and disclose that information in a number of ways related to your use of our site. We may use your personal identifying information in connection with sending you specific, targeted information that may be of interest to you. We may use your contact information, such as your e-mail address, to acknowledge your request for information or for other similar purposes. We will not sell our member contact list or provide your personal identifying information to any other person or entity in the ordinary course of our business, although we reserve the right to transfer such information in connection with a change in ownership of Bell-Carter Foods, Inc. or its assets. 
+We may use aggregated information, which does not identify you personally, for advertising, marketing, promotional and other business purposes. Should you choose to provide personal identifying information, we may use and disclose that information in a number of ways related to your use of our site. We may use your personal identifying information in connection with sending you specific, targeted information that may be of interest to you. We may use your contact information, such as your e-mail address, to acknowledge your request for information or for other similar purposes. We will not sell our member contact list or provide your personal identifying information to any other person or entity in the ordinary course of our business, although we reserve the right to transfer such information in connection with a change in ownership of Bell-Carter Foods, Inc. or its assets.
 
 ### Cookies
 
@@ -30,4 +28,4 @@ While we take reasonable steps to protect your personal identifying information.
 
 Anyone under 18 should not send any information about themselves to us, including information like your name, address or e-mail address. Bell-Carter Foods, Inc. does not knowingly collect personally identifying information from anyone under the age of 18. In the event that we learn that we have collected such information from an individual under 18 without parental consent, the information will be deleted from our database as soon as reasonably possible.
 
-Bell-Carter Foods, Inc. reserves the right to change this Privacy Policy. Questions about this Privacy Policy should be addressed to [policy@bellcarter.com](mailto:policy@bellcarter.com).
+Bell-Carter Foods, Inc. reserves the right to change this Privacy Policy. Questions about this Privacy Policy should be addressed to [policy@bellcarter.com](mailto:policy@bellcarter.com).
