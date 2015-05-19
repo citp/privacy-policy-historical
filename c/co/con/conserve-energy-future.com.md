@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701101737id_/http%3A//www.conserve-energy-future.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519053840id_/http%3A//www.conserve-energy-future.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # PrivacyPolicy - Conserve-Energy-Future
 
@@ -8,7 +8,7 @@ We recognize that your privacy is important. This document outlines the types of
 
 We strive to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
 
-**Personal Information**
+ **Personal Information**
 
 We collect personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
@@ -16,7 +16,7 @@ This information is collected if you request information from us, participate in
 
 Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
 
-**Use of Cookies and Web Beacons**
+ **Use of Cookies and Web Beacons**
 
 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site’s services, a cookie enables www.conserve-energy-future.com to recall your specific information on subsequent visits.
 
@@ -28,19 +28,19 @@ We may serve third party advertisements that use cookies and web beacons in the 
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our site, should you so choose.
 
-**Non-Personal Information**
+ **Non-Personal Information**
 
 In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
 
-**Release of Information**
+ **Release of Information**
 
 If www.conserve-energy-future.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
-**Updates and Effective Date**
+ **Updates and Effective Date**
 
 www.conserve-energy-future.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
-**Agreeing to Terms**
+ **Agreeing to Terms**
 
 If you do not agree to www.conserve-energy-future.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
