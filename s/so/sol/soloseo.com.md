@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the soloseo.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201000528id_/http%3A//www.soloseo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloseo.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519065437id_/https%3A//www.soloseo.com/privacy.html) for the most accurate reproduction.*
 
-# DIY SEO Tools, SEO Reports - SoloSEO™
+# SoloSEO - DIY SEO Tools
 
 When accessing our Website, SoloSEO will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
 If you visit our site to read or download information on our pages, we collect and store only the following information about you:
 
-1\. The name of the domain from which you access the Internet  
-2\. The date and time you access our site  
-3\. The Internet address of the website you used to link directly to our site.  
+1\. The name of the domain from which you access the Internet
 
+2\. The date and time you access our site
+
+3\. The Internet address of the website you used to link directly to our site.
 
 If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
 
