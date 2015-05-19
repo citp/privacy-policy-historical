@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicor.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920131704id_/http%3A//www.epicor.com/Company/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicor.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519033406id_/http%3A//www.epicor.com/Company/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Epicor
 
@@ -81,7 +81,7 @@ If in the future we change our Privacy Policy, we will post the new Privacy Poli
 
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at [Webmaster@Epicor.com](mailto:Webmaster@Epicor.com)  or write to us at:  
  **Epicor Software Corporation  
-18101 Von Karman Avenue, Suite 1600  
-** **Irvine, CA 92612  
+804 Las Cimas Parkway  
+** **Austin, Texas 78746  
 USA  
 Attention: Legal Department**
