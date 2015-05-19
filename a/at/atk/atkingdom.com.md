@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkingdom.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112215557id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkingdom.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519071839id_/http%3A//www.amkingdom.com/privacy.html) for the most accurate reproduction.*
 
 # AMKINGDOM Privacy Policy
 
@@ -7,17 +7,17 @@ For Kingdom WWW Operations, Inc. d/b/a**
 
 1\. GENERAL
 
-**1.1.** The operative parties referred to in this policy are Kingdom WWW Operations, Inc. d/b/ a the above listed websites (hereinafter “Kingdom” or “Company”) and You, the User of this Site.
+**1.1.** The operative parties referred to in this policy are Kingdom WWW Operations, Inc. d/b/ a the above listed websites (hereinafter �Kingdom� or �Company�) and You, the User of this Site.
 
-  * **1.1.1.** Kingdom WWW Operations, Inc. is the operator of the above listed websites. Hereinafter, when first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Kingdom WWW Operations, Inc. d/b/a the above Site(s), or as any other Site that We may choose to publish in the future. Additionally, when the terms “the Site(s)” or “Site(s)” are used, these terms refer to any Site published by Us, unless a Site is specifically exempt from this Policy.
-  * **1.1.2.** You, the User – As the User of this Site, this policy will refer to the User as “You” or through any second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second- person pronouns.
+  * **1.1.1.** Kingdom WWW Operations, Inc. is the operator of the above listed websites. Hereinafter, when first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Kingdom WWW Operations, Inc. d/b/a the above Site(s), or as any other Site that We may choose to publish in the future. Additionally, when the terms �the Site(s)� or �Site(s)� are used, these terms refer to any Site published by Us, unless a Site is specifically exempt from this Policy.
+  * **1.1.2.** You, the User � As the User of this Site, this policy will refer to the User as �You� or through any second-person pronouns, such as �Yours,� etc. Hereinafter, the User of the Site shall be referred to in applicable second- person pronouns.
   * **1.2.** This Privacy Policy describes how We use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
 
 
 
 2\. REVISIONS TO THIS POLICY
 
-We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this Webpage and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “Last Modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “Last Modified” date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
+We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this Webpage and using the �refresh� button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the �Last Modified� date remains unchanged after You have clicked the �refresh� button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed �Last Modified� date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
 
 3\. PERSONAL INFORMATION THAT WE COLLECT
 
@@ -30,15 +30,15 @@ Visitors to Our Site and services will have multiple manners of interactivity wi
 
 4\. HOW WE COLLECT INFORMATION FROM YOU
 
-**4.1. Passive Collection** – We use passive information gathering devices to collect information about You in order to enhance Your experience on the Site and for various statistical purposes. The information includes, but is not limited to, Your User IP address and geographic location.
+**4.1. Passive Collection** � We use passive information gathering devices to collect information about You in order to enhance Your experience on the Site and for various statistical purposes. The information includes, but is not limited to, Your User IP address and geographic location.
 
-**4.2.Active Collection** – We collect information from You when You complete the initial registration and/or membership subscription to Our Site. Please see above provisions 3.1-3.2.
+**4.2.Active Collection** � We collect information from You when You complete the initial registration and/or membership subscription to Our Site. Please see above provisions 3.1-3.2.
 
 5\. HOW WE USE YOUR INFORMATION
 
 **5.1.** The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You. Non-personal and cumulative information, such as that collected passively is used in order to improve User experience or to customize the use of Our Site for an aggregate group of customers.
 
-**5.2.** We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription or other services, if applicable. We also use Your information for market research purposes – in order to increase Your (and other Users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing/statistical purposes.
+**5.2.** We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription or other services, if applicable. We also use Your information for market research purposes � in order to increase Your (and other Users�) experience according to tracked interests, to analyze and target potential new markets, and for other marketing/statistical purposes.
 
 6\. SPECIAL CASES
 
@@ -58,7 +58,7 @@ It is Our policy not to use or share the personal information about Browsers or 
 
 TRANSMITTALS FROM US
 
-**7.1.** We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by contacting support@amkingdom or by clicking the opt-out link at the bottom of these emails, if applicable. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. For example, We may send You messages in response to a lost password request, when other members contact You via the Site’s services, or for other reasons associated with the features of the Site.
+**7.1.** We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by contacting support@amkingdom or by clicking the opt-out link at the bottom of these emails, if applicable. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. For example, We may send You messages in response to a lost password request, when other members contact You via the Site�s services, or for other reasons associated with the features of the Site.
 
 **7.2.** If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
 
@@ -68,7 +68,7 @@ Any information provided in a User profile, webcam session, forum message board,
 
 9\. OUR COMMITMENT TO DATA SECURITY.
 
-We take various measures to protect the transmission of all sensitive end-User information. We make every effort to ensure the integrity and security of Our network and systems by storing User data in an on-site encrypted network database. Your billing information is collected and retained by a third party, We do not have access to this data. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is 100% breach- proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
+We take various measures to protect the transmission of all sensitive end-User information. We make every effort to ensure the integrity and security of Our network and systems by storing User data in an on-site encrypted network database. Your billing information is collected and retained by a third party, We do not have access to this data. Nevertheless, We cannot guarantee that Our security measures will prevent third-party �hackers� from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is 100% breach- proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
 
 10\. HOW TO ACCESS OR MODIFY YOUR INFORMATION.
 
