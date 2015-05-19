@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221024618id_/http%3A//www.socrative.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519163639id_/http%3A//socrative.com/privacy.php) for the most accurate reproduction.*
 
 # Socrative
 
