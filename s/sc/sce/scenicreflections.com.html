@@ -1,500 +1,268 @@
-<!--The following is the downloaded HTML source of the scenicreflections.com privacy policy that was archived on 2014-09-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140915000003id_/http%3A//www.scenicreflections.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scenicreflections.com privacy policy that was archived on 2015-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150519023900id_/http%3A//www.scenicreflections.com/privacy-and-terms) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="googlebot" content="NOODP">
-<title>Privacy</title>
-<meta name="keywords" content="download free screen savers, free wallpapers, play free games, send free ecards">
-<meta name="description" content="Privacy">
+<!DOCTYPE html><html><head>
+<meta name="description" content="ScenicReflections - Rated the #1 screensaver portal by TopTenReviews. Offering over 3,500 free premium screensavers for over 15 years.">
+ <meta charset="utf-8">
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.min.css" id="theme">
 
-<link rel="stylesheet" type="text/css" href="http://www.scenicreflections.com/templates/frontend/NewSR/stylesheet.css">
-<!--[if lt IE 7]>
-  <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>
-    <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>
-    <div style='width: 640px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>
-      <div style='width: 75px; float: left;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-warning.jpg' alt='Warning!'/></div>
-      <div style='width: 275px; float: left; font-family: Arial, sans-serif;'>
-        <div style='font-size: 14px; font-weight: bold; margin-top: 12px;'>You are using an outdated browser</div>
-        <div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>For a better experience using this site, please upgrade to a modern web browser.</div>
-      </div>
-      <div style='width: 75px; float: left;'><a href='http://www.firefox.com' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-firefox.jpg' style='border: none;' alt='Get Firefox 3.5'/></a></div>
-      <div style='width: 75px; float: left;'><a href='http://www.browserforthebetter.com/download.html' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-ie8.jpg' style='border: none;' alt='Get Internet Explorer 8'/></a></div>
-      <div style='width: 73px; float: left;'><a href='http://www.apple.com/safari/download/' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-safari.jpg' style='border: none;' alt='Get Safari 4'/></a></div>
-      <div style='float: left;'><a href='http://www.google.com/chrome' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-chrome.jpg' style='border: none;' alt='Get Google Chrome'/></a></div>
-    </div>
-  </div>
-  <![endif]-->
-<!--[if lte IE 6]>
-<link rel='stylesheet' type='text/css' href='http://www.scenicreflections.com/templates/frontend/NewSR/stylesheet_ie6.css' />
-<![endif]-->
+ <script src="http://www.scenicreflections.com/javascriptheader.js" type="text/javascript"></script> 
+ 
+<script type="text/javascript">
+//<![CDATA[
 
-<!--[if IE]>
-<style>
-fieldset {
-position: relative;
-}
-legend {
-position: absolute;
-top: -.5em;
-left: .2em;
-}
-.form_box {
-padding-top:10px;
-}
-form {
-   display: inline; 
-   margin: 0; 
- }
-</style>
-<![endif]-->
+$().ready(function() {
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-	var base_url = "http://www.scenicreflections.com/";
+$(".outlink").click(function(e) { wsn_counthit(this.id.replace("out", "")); });
+
+$("#mobilemenubutton").click(function(e) { $(".menuitems").toggle(500); });
+$(".memuitems a").click(function(e) { $(".menuitems").hide(500); });
+
+        $("#login").click(function(e){
+        e.preventDefault();
+            $("#loginmodal").css("display", "block").dialog({
+      height: 300,
+      width: 400,
+      modal: true });
+      
+        });
+        
+        $("#loginsubmit").click(function(e){ modallogin("http://www.scenicreflections.com/index.php?rewritten=1&TID=pages-privacypolicyandtermsofuse", e); });        
+   
+$(".submenus").hide(0);
+
+        if ($("#searchauto").length) $("#searchauto").autocomplete({ source: "/ajax.php?type=autocomplete&action=searchauto" });
+        else $("[name=searchauto]").autocomplete({ source: "/ajax.php?type=autocomplete&action=searchauto" });
+
+$('a.ajaxlink').bind('click',function(event) { wsn_doajaxlink(event, this.href); });
+$('a.ajaxdelete').bind('click',function(event) { wsn_doajaxdelete(event, this.href, this.id); });
+ 
+});
+
+//]]>
 </script>
-<script type="text/javascript" language="JavaScript" src="http://www.scenicreflections.com/js/functions.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.scenicreflections.com/js/ajax_tabs.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.scenicreflections.com/js/jquery-1.4.2.min.js"></script>
-
-<script type="text/javascript" language="javascript">
-function popup_tellfriend(location,width,height){
-	var op;
-	var window_top = (screen.height - height) / 2;
-	var window_len = (screen.width - width) / 2;
-	var winprops ='height='+height+',width='+width+',top='+window_top+',left='+window_len+',toolbar=no,menubar=no,location=no,scrollbars=yes';
-	op = window.open(location,'tellfriend',winprops);
-}
-</script>
-
-
-
+<title>ScenicReflections Premium Free Desktop Screensaver Downloads</title>
+<link rel="stylesheet" href="http://www.scenicreflections.com/schemas/base.css">
+<link rel="stylesheet" href="http://www.scenicreflections.com/templates/styles/bootstrap.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="alternate" type="application/rss+xml" title="ScenicReflections Premium Free Desktop Screensaver Downloads" href="http://www.scenicreflections.com/rssfeed.php">
 </head>
+
 <body>
 
+<header>
+<div id="topcontainer">
 
-<center>
-<div id="main">
-<div id="topimagesbox">   <div class="topimagebox1">
-    <div class="topimage"><a href="http://www.scenicreflections.com/media/111946/3D_Tropical_Fish_Aquarium_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/tropical_fish_aquarium.jpg" alt="Download the Free 3D Tropical Fish Aquarium Screensaver" title="Download the Free 3D Tropical Fish Aquarium Screensaver" width="100" height="75"></a></div>
-    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/111946/3D_Tropical_Fish_Aquarium_Screensaver/">3D Tropical Fish Aquarium Screensaver</a></div>
-  </div>
-    <div class="topimagebox1">
-    <div class="topimage"><a href="http://www.scenicreflections.com/media/174622/3D_Mountain_Lakes_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Free_3D_Mountain_Lakes_Screensaver_IW.jpg" alt="Download the Free 3D Mountain Lakes Screensaver" title="Download the Free 3D Mountain Lakes Screensaver" width="100" height="75"></a></div>
-    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/174622/3D_Mountain_Lakes_Screensaver/">3D Mountain Lakes Screensaver</a></div>
-  </div>
-    <div class="topimagebox1">
-    <div class="topimage"><a href="http://www.scenicreflections.com/media/174624/3D_Ocean_Beaches_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Free_3D_Ocean_Beaches_Screensaver_IW.jpg" alt="Download the Free 3D Ocean Beaches Screensaver" title="Download the Free 3D Ocean Beaches Screensaver" width="100" height="75"></a></div>
-    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/174624/3D_Ocean_Beaches_Screensaver/">3D Ocean Beaches Screensaver</a></div>
-  </div>
-    <div class="topimagebox1">
-    <div class="topimage"><a href="http://www.scenicreflections.com/media/174625/3D_Sea_Lighthouses_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Free_3D_Sea_Lighthouse_Screensaver_IW.jpg" alt="Download the Free 3D Sea Lighthouses Screensaver" title="Download the Free 3D Sea Lighthouses Screensaver" width="100" height="75"></a></div>
-    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/174625/3D_Sea_Lighthouses_Screensaver/">3D Sea Lighthouses Screensaver</a></div>
-  </div>
-    <div class="topimagebox1">
-    <div class="topimage"><a href="http://www.scenicreflections.com/media/174620/3D_Butterflies_Over_Waterfalls_Screensaver/"><img src="http://www.scenicreflections.com/thumbs/Free_3D_Tropical_Butterflies_Over_Waterfalls_Screensaver_IW.jpg" alt="Download the Free 3D Butterflies Over Waterfalls Screensaver" title="Download the Free 3D Butterflies Over Waterfalls Screensaver" width="100" height="75"></a></div>
-    <div class="topimagetext"><a href="http://www.scenicreflections.com/media/174620/3D_Butterflies_Over_Waterfalls_Screensaver/">3D Butterflies Over Waterfalls Screensaver</a></div>
-  </div>
-   </div>
-<!--submain1-start-->
-<div style="width:980px; clear:both">
-<div id="submain1">
-<!--logoandsearchbox-start-->
-<div class="logo_searchbox">
-  <div class="logobox_mid">
-    <div class="logo_box">
-      <div class="logo"><a href="http://www.scenicreflections.com"><img src="http://www.scenicreflections.com/images/frontend/NewSR/logo.gif" alt="Download Free Screensavers, Free Wallpapers, Free Games, Send Free eCards and More!" title="Download Free Screensavers, Free Wallpapers, Free Games, Send Free eCards and More!"></a></div>
-      <div class="logotext">Free Screensavers, Free Wallpapers, Free Games, Free eCards and a whole lot more!<br>
-        Your screens, Your choice, Let your scenes reflect you!</div>
-    </div>
-    <div id="top_search">
-      <div class="border">
-        <div class="box_search">
-          <form action="http://www.scenicreflections.com/search/" method="post" enctype="multipart/form-data" style="display: inline; margin: 0;" name="frmsearch">
-            <table align="center" width="230" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td colspan="2" align="center" height="22px"><!--<img src="http://www.scenicreflections.com/images/frontend/NewSR/search-caption.jpg" width="166" height="15" alt="Search "/>-->
-                  <font style="font-family:tahoma; color:#e06f11;	font-size:15px;"><b>Search Scenic Reflections</b></font></td>
-              </tr>
-              <tr>
-                <td colspan="2" height="30px" align="center"><select name="main_cat" class="input">                                     
-					 
-						                    <option value="Select">ScenicReflections.com</option>
-                    <option value="Free Animated Wallpapers">Free Animated Wallpapers</option>
-                    <option value="Free Cool Quizzes">Free Cool Quizzes</option>
-                    <option value="Free Photo Wallpapers">Free Photo Wallpapers</option>
-                    <option value="Free Ecards">Free Ecards</option>
-                    <option value="Free Screensavers">Free Screensavers</option>
-                    <option value="Free Web Games">Free Web Games</option>
-                  </select>
-                </td>
-              </tr>
-              <tr>
-                <td width="140" align="center" style="padding-bottom:10px;"><input type="hidden" name="submit">
-                  <input class="input" name="search" size="15" type="text" value=""></td>
-                <td style="padding-bottom:10px;"><input type="submit" name="submit" value="Search" class="box_search1"></td>
-              </tr>
-            </tbody></table>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="floatleft">
+<div class="logobg"> </div>
+<div class="logo"><a href="http://www.scenicreflections.com"><img src="http://www.scenicreflections.com/templates/images_bootstrap/newlogo.png" alt="ScenicReflections Premium Free Desktop Screensaver Downloads"></a></div>
 </div>
-<!--logoandsearchbox-end-->
 
-<!--toplinks-start-->
-<div class="toplinksbox">
-  <div class="toplinksmid">
-    <ul class="glossymenu" style="padding:0px 0px 0px 13px;">
-      			<li class="current"><a href="http://www.scenicreflections.com/"><b>Screensavers</b></a></li>
-			<li><a href="http://www.scenicreflections.com/c/1/Free_Photo_Wallpapers/"><b>Photo&nbsp;Wallpapers</b></a></li>	
-			<li><a href="http://www.scenicreflections.com/c/637/Free_Animated_Wallpapers/"><b>Animated&nbsp;Wallpapers</b></a></li>
-						<li><a href="http://www.scenicreflections.com/ecards.php"><b>eCards</b></a></li>
-			<li><a href="http://www.scenicreflections.com/c/9775/Free_Web_Games/"><b>Web&nbsp;Games</b></a></li>
-			<li><a href="http://ho.freeridegames.com/aff_c?offer_id=3&amp;aff_id=3012" target="_blank"><b>PC&nbsp;Games</b></a></li>
-			<li><a href="http://www.scenicreflections.com/glittertext/"><b>Glitter&nbsp;Text </b></a></li>
-			<li><a href="http://www.scenicreflections.com/c/6503/Free_Cool_Quizzes/"><b>Cool&nbsp;Quizzes</b></a></li>
-			<li style="border-right:1px solid #8bb5d3;"><a href="http://www.scenicreflections.com/index.php?view=help"><b>Help</b></a></li>
-			
-			    </ul>
-  </div>
-</div>
-<!--toplinks-end-->
-
-<div style="width:980px; clear:both; overflow:hidden; height:1px; margin:0px; padding:0px;"> </div>
-<div style="width:980px; clear:both;">
-
-<!--container-start-->
-<div id="container">
-<div id="leftblock">
-<!-- <div id="leftbox1"> -->
-<!-- <div class="blueheading"><div class="blueheadingtext">Scenic Reflections Ads</div></div> -->
-<!-- <br> -->
-<!-- <center> -->
-
-<!-- ad code went here -->		
-
-<!-- <a href="xxx" --> <img src="http://www.scenicreflections.com/ads/download_now.gif" alt="Download Now!" border="0">
-
-<br>
-
-
-<!-- </center> -->			
-<!-- </div> -->
-
-
-
-<div id="leftbox1">
-
-<div class="blueheading"><div class="blueheadingtext">Sorting Options</div></div>
-
-<div class="leftboxlist">
-
-<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=mr" class="lnav_l">Most Recent</a>
-
-
-
-<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=mv" class="lnav_l">Most Viewed</a>
-
-
-
-<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=tr" class="lnav_l">Top Rated</a>
-
-
-
-<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=rf" class="lnav_l">Recently Featured</a>
-
-
-
-<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=rv" class="lnav_l">Recently Viewed</a>
-
-
-
-<a href="http://www.scenicreflections.com/categories&amp;c=&amp;lo=&amp;s=ran" class="lnav_l">Random</a></div></div>
-
-
-<div id="leftbox1">
-<div class="blueheading"><div class="blueheadingtext">Browse Media</div></div>
-<div class="leftboxlist">
-<a href="http://www.scenicreflections.com/c/All/" class="lnav_l"><b>All Media</b></a>
-<a href="http://www.scenicreflections.com/c/637/Free_Animated_Wallpapers/" class="lnav_l"> Free Animated Wallpapers</a><a href="http://www.scenicreflections.com/c/6503/Free_Cool_Quizzes/" class="lnav_l"> Free Cool Quizzes</a><a href="http://www.scenicreflections.com/ecards.php" class="lnav_l"> Free eCards</a><a href="http://www.scenicreflections.com/c/1/Free_Photo_Wallpapers/" class="lnav_l"> Free Photo Wallpapers</a><a href="http://www.scenicreflections.com/" class="lnav_l"> <b>Free Screensavers</b></a><a href="http://www.scenicreflections.com/c/22/3D/" class="lnav_l">- 3D</a><a href="http://www.scenicreflections.com/c/29/Animal_World/" class="lnav_l">- Animal World</a><a href="http://www.scenicreflections.com/c/275/Architecture/" class="lnav_l">- Architecture</a><a href="http://www.scenicreflections.com/c/42/Art/" class="lnav_l">- Art</a><a href="http://www.scenicreflections.com/c/6891/Calendar_Screensavers/" class="lnav_l">- Calendar Screensavers</a><a href="http://www.scenicreflections.com/c/43/Calendars/" class="lnav_l">- Calendars</a><a href="http://www.scenicreflections.com/c/44/Celebrities/" class="lnav_l">- Celebrities</a><a href="http://www.scenicreflections.com/c/264/Clocks/" class="lnav_l">- Clocks</a><a href="http://www.scenicreflections.com/c/45/Culture/" class="lnav_l">- Culture</a><a href="http://www.scenicreflections.com/c/633/Games/" class="lnav_l">- Games</a><a href="http://www.scenicreflections.com/c/47/Holidays/" class="lnav_l">- Holidays</a><a href="http://www.scenicreflections.com/c/48/Inspirational/" class="lnav_l">- Inspirational</a><a href="http://www.scenicreflections.com/c/49/Interactive/" class="lnav_l">- Interactive</a><a href="http://www.scenicreflections.com/c/50/Kids/" class="lnav_l">- Kids</a><a href="http://www.scenicreflections.com/c/751/Life_&amp;_Leisure/" class="lnav_l">- Life &amp; Leisure</a><a href="http://www.scenicreflections.com/c/51/Love_&amp;_Romance/" class="lnav_l">- Love &amp; Romance</a><a href="http://www.scenicreflections.com/c/53/Movies/" class="lnav_l">- Movies</a><a href="http://www.scenicreflections.com/c/54/Music/" class="lnav_l">- Music</a><a href="http://www.scenicreflections.com/c/55/Nature/" class="lnav_l">- Nature</a><a href="http://www.scenicreflections.com/c/752/Popular/" class="lnav_l">- Popular</a><a href="http://www.scenicreflections.com/c/56/Religious/" class="lnav_l">- Religious</a><a href="http://www.scenicreflections.com/c/57/Seasons/" class="lnav_l">- Seasons</a><a href="http://www.scenicreflections.com/c/58/Sights_and_Scenes/" class="lnav_l">- Sights and Scenes</a><a href="http://www.scenicreflections.com/c/5810/Space/" class="lnav_l">- Space</a><a href="http://www.scenicreflections.com/c/59/Specialty/" class="lnav_l">- Specialty</a><a href="http://www.scenicreflections.com/c/60/Sports/" class="lnav_l">- Sports</a><a href="http://www.scenicreflections.com/c/753/Thoughts_&amp;_Quotes/" class="lnav_l">- Thoughts &amp; Quotes</a><a href="http://www.scenicreflections.com/c/61/Transportation/" class="lnav_l">- Transportation</a><a href="http://www.scenicreflections.com/c/62/TV/" class="lnav_l">- TV</a><a href="http://www.scenicreflections.com/c/46/Video_Games/" class="lnav_l">- Video Games</a><a href="http://www.scenicreflections.com/c/9775/Free_Web_Games/" class="lnav_l"> Free Web Games</a>
-<a href="http://www.scenicreflections.com/videos/" class="lnav_l">Videos</a>
-</div>
+<div class="floatleft quicksearch largescreens">
+<form action="http://www.scenicreflections.com/search.php?filled=1&amp;condition=like&amp;whichtype=links" name="quicksearchform" method="post">
+<span id="searchbox">
+<input type="search" name="search" size="25" id="searchauto" placeholder="search listings">
+<br><a href="http://www.scenicreflections.com/search.php">+ Advanced Search</a>
+</span>
+</form>
 </div>
 
 
 
-<!-- <div id="leftbox1"> -->
-<!-- <div class="blueheading"> -->
-<!-- <div class="blueheadingtext">Featured -->
-<!-- </div> -->
-<!-- </div> -->
-<!-- <div class="leftfeaturedbox"> -->
-<!-- </div></div> -->
 
-
-<div id="leftbox1">
-<div class="blueheading"><div class="blueheadingtext">Become A Facebook Fan!</div></div>	
-<br>
-<iframe src="http://www.facebook.com/plugins/likebox.php?id=145766767157&amp;width=190&amp;connections=6&amp;stream=false&amp;header=false&amp;height=305" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:190px; height:305px;" allowtransparency="true"></iframe><br><br>
-
-<div style="font-size:8px; padding-left:8px" width="190"><a href="http://www.facebook.com/freescreensavers" target="_blank"><font size="1">Scenic Reflections on Facebook!</font></a></div>
-
-<div style="font-size:8px; padding-left:8px"><a href="http://www.facebook.com/freescreensavers" target="_blank"><font size="1"></font></a></div>
-<br>				
-</div>
-
-
-
-<div id="leftbox1">
-<div class="blueheading"><div class="blueheadingtext">Follow Us!</div></div>			
-<br>
-<table width="150" border="0" align="center" cellpadding="15" cellspacing="0">
-  <tbody><tr>
-    <td><!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
-  <div align="center"><a class="addthis_button_facebook_follow" addthis:userid="freescreensavers"></a>
-      <a class="addthis_button_twitter_follow" addthis:userid="screensaverguy"></a>
-      <a class="addthis_button_youtube_follow" addthis:userid="freescreensavers"></a>
-
-  </div>
-</div>
-<div align="center">
-
-  <!-- AddThis Button END -->
-</div></td>
-  </tr>
-</tbody></table>
-<br>				
-</div>
-
-<div id="leftbox1">
-<div class="blueheading"><div class="blueheadingtext">Tell A Friend!</div></div>
-<div class="leftinnerbox">
-<div class="featuredimage">
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style" style="margin: 0 auto; width: 170px;">
-<div class="addthis_custom_images">
-<a class="addthis_button_email"><img src="http://www.scenicreflections.com/images/tellafriend.gif"></a>
-<a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=desktopfun"></a>
-</div>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=desktopfun">
-var addthis_test0309 = false;
-var addthis_brand = "ScenicReflections";
-</script>
-<!-- AddThis Button END -->
-</div>
-</div>
-</div>
-</div>
-
-
-<div id="leftbox1">
-<div class="blueheading"><div class="blueheadingtext">Share This Page</div></div>
-<div class="leftinnerbox">
-<div class="featuredimage">
-
-<!-- AddThis Button BEGIN -->
-<script type="text/javascript">
-var addthis_pub="desktopfun";
-var addthis_test0309 = false;
-var addthis_brand = "ScenicReflections";
-var addthis_options = 'facebook, email, myspace, fark, twitter, digg, google, live, stumbleupon, aim, aolfav, ask, delicious, multiply, myweb, yahoobkm, favorites, more';
-</script>
-
-<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
-
-<!-- AddThis Button END --> 
+<div id="toprightad"></div>
 
 </div>
-</div>
-</div>
 
+<div class="clear"></div>
 
-<div id="leftbox1">
-<div class="blueheading"><div class="blueheadingtext">Translate</div></div>			
-<div class="leftinnerbox">
-<center>
-<br>
-<div id="google_translate_element"></div>
+<nav class="navbar navbar-default">
+<ul class="nav navbar-nav">
 
+<li><a href="http://www.myfunarcade.com">Play Free Games</a></li>
 
-<script>
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'en'
-  }, 'google_translate_element');
-}
-</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<li><a href="http://www.goecards.com">Send Free Ecards</a></li>
 
-<br>
-</center>
-</div>
-</div>
+<li><a href="http://www.scenicreflections.com/newposts.php">Latest</a></li>
 
+<li><a href="http://www.scenicreflections.com/help/">Help</a></li>
 
+</ul>
+</nav>
 
-<div class="leftblocktext">
-<!-- <A href="http://www.alexa.com/siteinfo/www.ScenicReflections.com"> -->
+<div class="clear"></div>
 
-<!-- <SCRIPT type='text/javascript' language='JavaScript' src='http://xslt.alexa.com/site_stats/js/t/a?url=www.ScenicReflections.com'></SCRIPT></A> -->
-
-<p><!-- here -->
-
-<iframe src="http://g.admedia.com/banner.php?type=graphical-iframe&amp;pid=3343655&amp;size=160x600&amp;page_url=[encoded_page_url]" width="160" height="600" frameborder="0" scrolling="no" allowtransparency="yes"></iframe>
-
-</p>
-
-<br>
-<p><script type="text/javascript" src="http://m.admedia.com/?id=PjAsNyY&amp;subid=[SUBID]&amp;title=&amp;desc=&amp;url=000000"></script>
-
-</p>
-
-<br><br><br>
-
+<div class="bigpad" id="loginmodal" style="display: none;" title="Login">
+<form action="http://www.scenicreflections.com/index.php?action=userlogin&amp;filled=1&amp;bypassredirect=1" method="post">
+<div class="warning" id="loginproblem"></div>
+Username<br><input type="text" name="username" id="loginname" class="giantinput"><br>
+Password<br><input type="password" name="userpassword" id="loginpassword" class="giantinput"><br>
+<button class="btn btn-default" type="submit" id="loginsubmit">Login</button>
+<a href="http://www.scenicreflections.com/index.php?action=userlogin">Forgot your password?</a>
+</form>
 
 </div>
-</div> 
+
+</header>
+
+<div class="main">
 
 
 
-<!--mid-block-start-->
-<div id="midblock">
-	<div id="midblock_border">
-		<div class="blueheading"><div class="blueheadingtext">PRIVACY POLICY</div></div>		
-		<br>
-		<p style="text-align:left; padding-left:5px;">		
-	  </p><table cellspacing="0" cellpadding="12" width="100%" align="center" border="0">
 
-  <tbody>
+<table class="leftmenusitecontainer">
+<tbody><tr>
+<td class="leftmenuleft">
+<nav class="categoryleftmenu">
+<ul class="catmenu nav nav-pills nav-stacked">
+<li onclick="wsn_submenu(1)"><a href="http://www.scenicreflections.com/animal-screensavers/" class="catmenulinks">Animal Screensavers <span class="badge">137</span></a></li>
+<div id="submenu1"></div>
+<li><a href="http://www.scenicreflections.com/anime-screensavers/" class="catmenulinks">Anime Screensavers <span class="badge">10</span></a></li>
+<li><a href="http://www.scenicreflections.com/aquarium-screensavers/" class="catmenulinks">Aquarium Screensavers <span class="badge">7</span></a></li>
+<li><a href="http://www.scenicreflections.com/celebrity-screensavers/" class="catmenulinks">Celebrity Screensavers <span class="badge">8</span></a></li>
+<li><a href="http://www.scenicreflections.com/christian-screensavers/" class="catmenulinks">Christian Screensavers <span class="badge">40</span></a></li>
+<li><a href="http://www.scenicreflections.com/clock-screensavers/" class="catmenulinks">Clock Screensavers <span class="badge">5</span></a></li>
+<li><a href="http://www.scenicreflections.com/game-screensavers/" class="catmenulinks">Game Screensavers <span class="badge">8</span></a></li>
+<li onclick="wsn_submenu(9)"><a href="http://www.scenicreflections.com/holiday-screensavers/" class="catmenulinks">Holiday Screensavers <span class="badge">319</span></a></li>
+<div id="submenu9"></div>
+<li><a href="http://www.scenicreflections.com/inspirational-screensavers/" class="catmenulinks">Inspirational Screensavers <span class="badge">6</span></a></li>
+<li><a href="http://www.scenicreflections.com/lighthouse-screensavers/" class="catmenulinks">Lighthouse Screensavers <span class="badge">15</span></a></li>
+<li><a href="http://www.scenicreflections.com/movie-screensavers/" class="catmenulinks">Movie Screensavers <span class="badge">87</span></a></li>
+<li><a href="http://www.scenicreflections.com/music-screensavers/" class="catmenulinks">Music Screensavers <span class="badge">7</span></a></li>
+<li onclick="wsn_submenu(14)"><a href="http://www.scenicreflections.com/nature-screensavers/" class="catmenulinks">Nature Screensavers <span class="badge">229</span></a></li>
+<div id="submenu14"></div>
+<li><a href="http://www.scenicreflections.com/patriotic-screensavers/" class="catmenulinks">Patriotic Screensavers <span class="badge">64</span></a></li>
+<li><a href="http://www.scenicreflections.com/popular-screensavers/" class="catmenulinks">Popular Screensavers <span class="badge">2,658</span></a></li>
+<li><a href="http://www.scenicreflections.com/religious-screensavers/" class="catmenulinks">Religious Screensavers <span class="badge">0</span></a></li>
+<li onclick="wsn_submenu(18)"><a href="http://www.scenicreflections.com/seasons-screensavers/" class="catmenulinks">Seasons Screensavers <span class="badge">93</span></a></li>
+<div id="submenu18"></div>
+<li><a href="http://www.scenicreflections.com/space-screensavers/" class="catmenulinks">Space Screensavers <span class="badge">22</span></a></li>
+<li><a href="http://www.scenicreflections.com/sports-screensavers/" class="catmenulinks">Sports Screensavers <span class="badge">55</span></a></li>
+<li onclick="wsn_submenu(77)"><a href="http://www.scenicreflections.com/transportation-screensavers/" class="catmenulinks">Transportation Screensavers <span class="badge">19</span></a></li>
+<div id="submenu77"></div>
+<li><a href="http://www.scenicreflections.com/tv-screensavers/" class="catmenulinks">TV Screensavers <span class="badge">25</span></a></li>
+</ul>
+</nav>
+</td>
+<td>
 
-    <tr>
 
-      <td><center>
-        <span style="font-family:Arial, Helvetica, sans-serif">
 
-        <strong>PRIVACY POLICY AND TERMS OF USE FOR<br>
+ <p>PRIVACY POLICY AND TERMS OF USE FOR<br>
+SCENICREFLECTIONS.COM</p>
 
-        SCENICREFLECTIONS.COM</strong><br>
-        <br>
-      </span>
-      </center>
+<p>PRIVACY POLICY</p>
 
-          <p><strong>PRIVACY POLICY</strong><br>
-            <br>
-          This privacy policy applies to the use of ScenicReflections.com.<br>  
-            <br>
-          We highly value your privacy and make this policy easily available throughout our website to assist you in understanding the handling of information in the course of using this website. <br>
-          <br>
-          <strong>Log Files and Cookies:</strong><br>
-          
-          This website utilizes industry standard analytic packages which gather limited information about visitors to our website automatically and store this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used, and date/time stamps. This information does not identify individual users. It is used only for website administration, as well as for analysis of website usage and trends.<br>
-          <br>
-          Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally identifiable information you have submitted while on our website.<br>
-          <br>
-          We sometimes use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period of time. Session cookies make it easier for you to navigate our website; persistent cookies can perform such activities as storing your password so you do not have to sign in every time, and/or may be used to enable us to track and target the interests of our users to enhance the overall experience of using our website.<br>
-          <br>
-          We have no access to or administration abilities over any cookies that are used by any advertisers on our website.<br>
-          <br>
-          We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know about your choice regarding whether this information is used by these companies, then please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.<br>
-            <br>
-            We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, date and time, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. If you would like more information about this behavioral advertising practice, or would like to opt out of this type of advertising, then please visit <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.<br>
-            <br>
-            <strong>Advertising and Analytics:</strong><br>
-            This website uses Google Analytics services. You can learn more about Google’s policies at the Google advertising policy website: <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a><br>
-            <br>
-              <strong>Registration and Use of Personal Information:</strong><br>
-            Registration is not required in order to use or access this website. However, this website may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles. <br>
-            <br>
-            If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.<br>
-            <br>
-            Please note that if you post comments or articles to any forum, blog or message board on this website, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.<br>
-            <br>
-            We also provide visitors to our website with the opportunity to opt in to receive communications from us.  In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions, and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by clicking on the the "unsubscribe" link in any email we send to you.
-            <br>
-            Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization.<br>
-            <br>
+<p>This privacy policy applies to the use of ScenicReflections.com.</p>
 
-            <strong>Security:</strong><br>
-            We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore, as is the case with any organization, we are not in a position to guarantee the absolute security of your information. <br>
-            <br>
-            <strong>Links to Other Websites:</strong><br>
-            This website may contain links to other websites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own website.<br>
-            <br>
-            <strong>Legal Disclaimer:</strong><br>
-            We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.<br>
-            <br>
-            <strong>Contact Details:</strong><br>
-            If you have any questions or concerns regarding this privacy policy, our contact information is as follows: <br>
-            <br>
-            
+<p>We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.&nbsp;</p>
 
-            Address:<br>
-            Respark Media, LLC<br>
-            6608 N. Western Ave PMB #328<br>
-            Oklahoma City, OK 73116<br>
-			
-            <br><br>
-            
-            
-			
-			
-			This privacy policy was last updated on July 10th, 2014<br>
-          </p>
-          <p></p></td>
+<p>Log Files and Cookies:<br>
+This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.</p>
 
-    </tr>
+<p>Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally identifiable information you have submitted while on our site.</p>
 
-  </tbody>
+<p>We, at various times, sometimes use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.</p>
 
-</table>		   
-		<p></p>		
-  </div>  
+<p>We have no access to or administration abilities over any cookies that are used by any advertisers on our site.</p>
+
+<p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp</p>
+
+<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information,browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org .</p>
+
+<p>We partner with ValueClick to serve ads and/or collectcertain information when you visit our website. ValueClick may use cookies orweb beacons to collect non-personally identifiable information during yourvisit to this website in order to help show advertisements on other websiteslikely to be more interesting to you. To learn more about this “behavioraladvertising” practice or to opt-out of this use of your anonymousinformation, you can visit http://www.valueclickmedia.com/member_privacy.shtml&nbsp;</p>
+
+<p>Advertising and Analytics:<br>
+This site uses Google Adwords and Analytics services. You can learn more about Google’s policies at the Google advertising policy site: http://www.google.com/privacy_ads.html</p>
+
+<p>Registration And Use Of Personal Information:<br>
+Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.&nbsp;</p>
+
+<p>If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.</p>
+
+<p>Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.</p>
+
+<p>We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by clicking on the the "unsubscribe" link in any email we send to you, or by contacting us here: http://www.scenicreflections.com/contactform.php</p>
+
+<p>Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization.</p>
+
+<p>Access To Personally Identifiable Information:<br>
+If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by contacting us here: http://www.scenicreflections.com/contactform.php</p>
+
+<p>Security:<br>
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore, as is the case with ANY organization - we are not in a position to guarantee the absolute security of your information.&nbsp;</p>
+
+<p>You may submit any questions you may have about our security procedures by contacting us here: http://www.scenicreflections.com/contactform.php</p>
+
+<p>Links to Other Websites:<br>
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.</p>
+
+<p>Legal Disclaimer:<br>
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.</p>
+
+<p>Contact Details:<br>
+If you have any questions or concerns regarding this privacy policy, or you wish to contact us by phone or postal mail, our contact information is as follows:&nbsp;</p>
+
+<p>Bit Wise Publishing, LLC<br>
+PO Box 29<br>
+Cumming, GA 30028<br>
+678-513-0170</p>
+
+<p>You can also contact us here: &nbsp;http://www.scenicreflections.com/contactform.php</p>
+
+<p>This privacy policy was last updated on March 10th, 2015</p>
+
+
+</td></tr></tbody></table>
+
+<div class="clear"></div>
+
 </div>
-<!--mid-block-end--></div>
-<!--mid-block-end-->
-</div>
-<!--footer-block-start-->
-<div id="footer">
-  <div class="copyright">
-    <!---DO NOT MODIFY--->
-    
-    <!---DO NOT MODIFY--->
-  </div> 
-  <a href="http://www.scenicreflections.com">Home</a> I <a href="http://www.scenicreflections.com/c/3/Free_Screensavers/">Free Screensavers</a> I <a href="http://www.scenicreflections.com/c/1/Free_Photo_Wallpapers/">Free Photo Wallpapers</a> I <a href="http://www.scenicreflections.com/c/637/Free_Animated_Wallpapers/">Free Animated Wallpapers</a> I <a href="http://www.scenicreflections.com/ecards.php/"> Free eCards</a> I <a href="http://www.scenicreflections.com/c/9775/Free_Web_Games/">Free Web Games</a> I <a href="http://www.scenicreflections.com/playfreegames/">Free PC Games</a> I  <a href="http://www.scenicreflections.com/glittertext/">Glitter Text </a><br> <a href="http://www.scenicreflections.com/c/6503/Free_Cool_Quizzes/">Cool Quizzes</a> I <a href="http://www.scenicreflections.com/sitemap.php">Site Map</a> I <a href="http://www.scenicreflections.com/index.php?view=privacy">Privacy Policy</a> I <a href="http://www.scenicreflections.com/index.php?view=privacy">Terms of Use</a> I <a href="http://www.scenicreflections.com/index.php?view=eula">License Agreement</a> I <a href="http://www.scenicreflections.com/index.php?view=DMCA_Notice">DMCA Copyright Violation</a>
-</div>
-<!--footer-block-end-->
-</div>
-</div>
-<!--submain1-end-->
-<div class="copyrightblock">© 2014 Respark Media, LLC. All Rights Reserved.</div>
-</div>
-<!--main-end-->
-</center>
 
+<footer>
+<div id="bottomarea">
+<div id="languageandtheme">
 
-
-
-
-<script type="text/javascript">cookieRedirect(5);</script>
-
-
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-52386466-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
+  <form action="http://www.scenicreflections.com/index.php?action=setlanguage" method="post">
+ Language:
+  <input type="hidden" name="returnto" value="http://www.scenicreflections.com/index.php?rewritten=1&amp;TID=pages-privacypolicyandtermsofuse">
+  <select name="languagegroup"><option value="English" selected="">English</option><option value="French">French</option><option value="German">German</option><option value="Spanish">Spanish</option></select>
+  <button type="submit" class="btn btn-default btn-sm">Go ►</button>
+ </form>
  
+</div>
+<div id="categoryjump">
+<form action="http://www.scenicreflections.com/index.php?action=redirecttourl" method="POST">
+<select name="catid">
+ <option value="0">Choose Category</option>
+ <option value="1"> Animal Screensavers</option><option value="22">- Bears Screensavers</option><option value="80">- Bird Screensavers</option><option value="24">- Butterfly Screensavers</option><option value="25">- Cat Screensavers</option><option value="26">- Dinosaur Screensavers</option><option value="27">- Dog Screensavers</option><option value="67">- Dolphin Screensavers</option><option value="28">- Farm Animal Screensavers</option><option value="29">- Fish Screensavers</option><option value="75">- Insect Screensavers</option><option value="63">- Sea Life Screensavers</option><option value="73"> Anime Screensavers</option><option value="2"> Aquarium Screensavers</option><option value="5"> Celebrity Screensavers</option><option value="6"> Christian Screensavers</option><option value="54"> Clock Screensavers</option><option value="8"> Game Screensavers</option><option value="9"> Holiday Screensavers</option><option value="30">- Canada Day Screensavers</option><option value="31">- Chanukah Screensavers</option><option value="32">- Chinese New Year Screensavers</option><option value="33">- Christmas Screensavers</option><option value="34">- Easter Screensavers</option><option value="35">- Father's Day Screensavers</option><option value="72">- Fireplace Screensavers</option><option value="36">- Fourth of July Screensavers</option><option value="37">- Halloween Screensavers</option><option value="38">- Mardi Gras Screensavers</option><option value="39">- Mother's Day Screensavers</option><option value="40">- New Years Screensavers</option><option value="41">- Rosh Hashanah Screensavers</option><option value="42">- Saint Patrick's Day Screensavers</option><option value="43">- Thanksgiving Screensavers</option><option value="44">- Valentine's Day Screensavers</option><option value="10"> Inspirational Screensavers</option><option value="71"> Lighthouse Screensavers</option><option value="12"> Movie Screensavers</option><option value="13"> Music Screensavers</option><option value="14"> Nature Screensavers</option><option value="62">- Beach Screensavers</option><option value="65">- Flower Screensavers</option><option value="55">- Forest Screensavers</option><option value="64">- Fountain Screensavers</option><option value="56">- Garden Screensavers</option><option value="57">- Lake Screensavers</option><option value="79">- Landmark Locations Screensavers</option><option value="82">- Landscape Screensavers</option><option value="58">- Lighthouse Screensavers</option><option value="59">- Mountain Screensavers</option><option value="60">- Ocean Screensavers</option><option value="74">- Rivers &amp; Streams Screensavers</option><option value="68">- Slideshow Screensavers</option><option value="66">- Storm Screensavers</option><option value="69">- Sunrise Sunset Screensavers</option><option value="70">- Trees and Plants Screensavers</option><option value="61">- Waterfall Screensavers</option><option value="15"> Patriotic Screensavers</option><option value="16"> Popular Screensavers</option><option value="17"> Religious Screensavers</option><option value="18"> Seasons Screensavers</option><option value="45">- Autumn and Fall Screensavers</option><option value="46">- Spring Screensavers</option><option value="47">- Summer Screensavers</option><option value="48">- Winter Screensavers</option><option value="19"> Space Screensavers</option><option value="20"> Sports Screensavers</option><option value="77"> Transportation Screensavers</option><option value="4">- Car Screensavers</option><option value="78">- Jets and Airplane Screensavers</option><option value="76">- Motorcycle Screensavers</option><option value="81">- Train Screensavers</option><option value="21"> TV Screensavers</option>
+</select>
+<button type="submit" class="btn btn-default btn-sm">Go ►</button>
+</form>
+</div>
+
+<div class="clear"></div>
+</div>
+
+<ul class="menubullets">
+
+<li><a href="http://www.scenicreflections.com/contactform.php">Contact the Administration</a></li>
+
+<li><a href="http://www.scenicreflections.com/sitemap.php">Site Map</a></li>
+
+<li><a href="http://www.scenicreflections.com/privacy-and-terms">Privacy Policy and Terms of Use</a></li>
+
+<li><a href="http://www.scenicreflections.com/EULA">End User License Agreement</a></li>
+
+<li><a href="http://www.scenicreflections.com/dmca">DMCA Copyright Violation</a></li>
+
+</ul>
 
 
 
 
+<p></p>
+</footer>
 
+<img src="http://www.scenicreflections.com/helper.php?action=padupdate" style="width: 1px; height: 1px;" alt=""><img src="http://www.scenicreflections.com/helper.php?action=timedactions" style="width: 1px; height: 1px;" alt="">
 </body></html>
