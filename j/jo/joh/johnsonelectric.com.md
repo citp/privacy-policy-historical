@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the johnsonelectric.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126005419id_/http%3A//www.johnsonelectric.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnsonelectric.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519145620id_/http%3A//www.johnsonelectric.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy - Johnson Electric
-
-## Privacy
 
 Please read the following carefully before using the Johnson Electric ("JE") website. JE's policy on the collection and use of personal information, in compliance with the Personal Data (Privacy) Ordinance, is detailed in this policy. By using this site, you indicate your consent to the collection and use of such information by JE in accordance with this policy.
 
