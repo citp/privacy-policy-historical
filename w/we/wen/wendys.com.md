@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716073352id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519045033id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Wendy's Privacy Policy - Wendy's
 
@@ -6,43 +6,30 @@ Contents
 
 ## Quality is our Recipe
 
-[About Us](http://www.aboutwendys.com/)| [Careers](https://web.archive.org/en-us/careers)
-
-Breakfast
-
-Wi-Fi
-
-Open Past 10pm
-
-Open 24 Hours
-
-Mobile Payments Accepted
+[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](https://web.archive.org/en-us/careers)
 
   * Dine
   * Learn
   * Play
-  * Find   
+  * Find
 
-  * My Wendy's Login
+{{ i18n.dictionary.restaurant.noneFound }} 
 
-Enter your email address that you used to sign up for My Wendy's™ to reset your password.
+    * {{ address1() }}  
+{{ address2() }}  
+{{ phone() | phone }} 
 
-Need Account Help?
+{{ hours() | prefix: i18n.dictionary.restaurant.open:hasHours() }}  
+{{ i18n.dictionary.restaurant.holidayHoursVary }} 
 
-1\. Enter the email address that you used to sign up for My Wendy's™ and tap SUBMIT to reset your password.
+  * My Wendy's {{ i18n.dictionary.signIn.login }}
 
-2\. Answer the security question and hit SUBMIT.
-
-©2013 Oldemark LLC. One Dave Thomas Boulevard, Dublin, OH 43017
-
-For further assistance, contact us at 1-877-949-3622.
-
-[register now](https://web.archive.org/en-us/sign-up)
+{{ i18n.dictionary.signIn.forgot.copy }}
 
 
 
 
-[About Us](http://www.aboutwendys.com/)| [Careers](https://web.archive.org/en-us/careers)
+[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](https://web.archive.org/en-us/careers)
 
 **Wendy's International, LLC Privacy Policy and Information Security Policy ("Privacy Policy" or "Policy")**
 
