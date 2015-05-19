@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926120338id_/http%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519113803id_/http%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.*
 
 # Global Healing Center Privacy Policy
 
