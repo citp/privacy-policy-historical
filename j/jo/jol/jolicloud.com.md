@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708035816id_/https%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519150326id_/https%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
 
 # Jolicloud
 
@@ -100,7 +100,7 @@ According to the French data protection law dated 6th January 1978, you have a r
 
 To access and modify your personal data, please send an email to [privacy@jolicloud.com](http://www.jolicloud.com/privacy@jolicloud.com) identifying yourself and the information you would like us to access, correct or remove. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
-The data we are indexing from your third party services can be deleted at any time. To remove services you no longer want to see in your Jolicloud please go to [your settings](https://drive.jolicloud.com/settings). We will delete the third party authentication data and the third party data completely from our servers as fast as is technically feasible - this could talk approx 20 minutes. Records of your interaction with Jolicloud may persist in our server and communication logs.
+The data we are indexing from your third party services can be deleted at any time. To remove services you no longer want to see in your Jolicloud please go to [your settings](https://drive.jolicloud.com/settings). We will delete the third party authentication data and the third party data completely from our servers as fast as is technically feasible - this could take approx 20 minutes. Records of your interaction with Jolicloud may persist in our server and communication logs.
 
   * **Transfer of your Information outside the EEA**
 
