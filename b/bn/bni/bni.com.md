@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bni.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818040033id_/http%3A//www.bni.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bni.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519070702id_/http%3A//www.bni.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # BNI International - Business Networking and Referrals
 
