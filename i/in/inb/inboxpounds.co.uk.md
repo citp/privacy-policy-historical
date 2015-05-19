@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxpounds.co.uk privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730220655id_/http%3A//www.inboxpounds.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxpounds.co.uk privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520010156id_/http%3A//www.inboxpounds.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxPounds
 
