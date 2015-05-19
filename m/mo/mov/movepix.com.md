@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movepix.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020062254id_/http%3A//movepix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movepix.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519165558id_/http%3A//movepix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyMovepix.com – Online Movies, Tv Shows, Games and more..
+# Privacy Policy | Movepix.com – Online Movies, Tv Shows, Games and more..
 
 At _Movepix.com – Online Movies, Tv Shows, Games and more.._ , the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _Movepix.com – Online Movies, Tv Shows, Games and more.._ and how it is used.
 
