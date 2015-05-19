@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewebguru.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701112524id_/http%3A//www.ewebguru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewebguru.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520013603id_/http%3A//www.ewebguru.com/privacy.php) for the most accurate reproduction.*
 
 # eWebGruru Web Hosting Company (Privacy)
 
