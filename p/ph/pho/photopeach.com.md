@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photopeach.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070351id_/http%3A//photopeach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photopeach.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519092413id_/http%3A//photopeach.com/privacy) for the most accurate reproduction.*
 
 # PhotoPeach - Privacy Policy
 
@@ -161,4 +161,4 @@ If you object to any sharing of your Personal Information that may be permitted 
 
 Effective Date: Jan 1, 2009
 
-Copyright © 2014 Nota, Inc.  All rights reserved.
+Copyright © 2015 Nota, Inc.  All rights reserved.
