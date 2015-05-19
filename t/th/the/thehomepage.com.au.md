@@ -1,163 +1,200 @@
-> *The following text is extracted and transformed from the thehomepage.com.au privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703034631id_/http%3A//www.thehomepage.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehomepage.com.au privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519033203id_/http%3A//www.thehomepage.com.au/page/privacy) for the most accurate reproduction.*
 
 # 
 
-## 1\. INTRODUCTION
+## Purpose and scope
 
-### 1.1
+This website is operated by Dog No. 7 Pty Ltd ACN 144 646 159 (Dog No. 7) in conjunction with SchwartzWilliams (being any one or more of SchwartzWilliams Pty Ltd ACN 601 487 414, SchwartzWilliams No. 1 Pty Ltd ACN 601 487 512, SchwartzWilliams No. 2 Pty Ltd ACN 602 184 412, Schwa Pty Ltd ACN 054 593 501, Schwartz Media Pty Ltd ACN 138 337 023, SchwartzWilliams Japan Pty Ltd ACN 602 184 485, Recon Oz Pty Ltd ACN 601 487 585, Million Plus Pty Ltd ACN 122 282 599 and their related bodies corporate, associates and affilliates).
 
-This Privacy Policy governs the information which Dog No. 7 Pty Ltd (“we”, “us” or “our”) collects about you and your use of information we provide to you. It also outlines the manner in which we manage personal information obtained through or displayed on the Site or otherwise provided by us or visitors to the Site. Personal information is information that is capable of identifying an individual. 
+This Privacy Policy is intended to provide a clear and concise summary of Dog No. 7’s current approach to the handling of personal information in accordance with the Australian Privacy Principles.
 
-### 1.2
+We are committed to complying with the Privacy Act 1988 (Cth) (Privacy Act), including the Australian Privacy Principles.
 
-In collecting and handling personal information, we are bound by the Commonwealth Privacy Act 1988, including the National Privacy Principles, and any other applicable privacy laws in Australia. 
+We will provide a free copy of this policy to anyone who asks for it.
 
-### 1.3
+By using this website, signing up to any of our accounts or services (including memberships, digital data rooms and data property alerts), subscribing to any of our newsletters, providing any listings or advertisements, contacting us through our website, or accepting our Terms and Conditions, you agree to your personal information being handled in accordance with this policy.
 
-Please read our Privacy Policy carefully. As part of our normal business operations we may collect, use and from time to time disclose information about you to third parties. 
+## What types of personal information does Dog No. 7 collect?
 
-### 1.4
+Personal information means information or an opinion about an identified individual, or an individual who is reasonably identifiable, whether the information or opinion is true or not, and whether the information or opinion is recorded in a material form or not.
 
-This Privacy Policy is incorporated into our Conditions of Use and our Trading Terms and Conditions. By accepting our Conditions of Use and our Trading Terms and Conditions you accept this Privacy Policy and you expressly consent to use and disclosure by us of your personal information in the manner described in this Privacy Policy. 
+Examples of personal information collected by Dog No. 7 include individuals’ names, occupation, company and contact details (e.g. telephone number, email address and address), and the publications and topics of interest to individuals. For agents, brokers and valuers who list with us, personal information may also include photographs, location, profile and languages spoken.
 
-### 1.5
+Dog No. 7 may collect the following personal information from job applicants, and contractors: name, employment history and experience, qualifications, date of birth, contact details, referee details, emergency contact details.
 
-As from time to time we may need to update this Privacy Policy, you should check it every time you access or use our Site. All amendments to this Privacy Policy will be effective 30 days after their initial posting to the Site. If you do not agree to any changes to the Privacy Policy, please do not use our Site or services. 
+Names and contact details may also be collected from individuals representing industry related contacts.
 
-### 1.6
+Personal information can include sensitive information. Sensitive information is defined in the Privacy Act as information or an opinion about a person’s race, ethnic origin, political opinions, membership of political associations and trade associations, religious or philosophical beliefs, sexual orientation or practices, or criminal record, health information, genetic information about an individual that is not otherwise health information, biometric information that is used for the purpose of automated biometric verification or biometric identification and biometric templates.
 
-Children under the age of 18 should not be permitted by their parents or guardians to submit any personal information to us. 
+Dog No. 7 does not usually collect sensitive information. Dog No. 7 will only ever collect sensitive information in circumstances where you have consented to the collection, or we are required or authorised by law to collect the sensitive information. If sensitive information is ever collected by Dog No. 7, it will only ever be used for the purpose it was collected. We never use or disclose sensitive information for direct marketing purposes.
 
-### 1.7
+## How does Dog No. 7 collect and hold personal information?
 
-Please contact us on 1300 377 037 if you are not satisfied with, or have any queries about, this Privacy Policy. 
+Dog No. 7 generally collects personal information from:
 
-## 2\. EXPLANATION OF TERMS
+  * individuals who deal with us in person e.g. face to face or telephone;
+  * individuals who use our online subscription, listings or contact facilities, register for accounts online, or who email us about newsletters, advertising, products or services offered on or via websites that are operated by us, or by SchwartzWilliams, including the websites hosted at the following domains: [www.therealestateconversation.com.au](http://www.therealestateconversation.com.au/); [www.thehomepage.com.au](https://web.archive.org/); [www.thebusinesspage.com.au](http://www.thebusinesspage.com.au/); [www.millionplus.com.au](http://www.millionplus.com.au/);
+  * SchwartzWilliams (as defined above);
+  * our agents, service providers and contractors;
+  * real estate agents, brokers, valuers and other industry related contacts; and
+  * referees and former employers in the case of job applicants (including through the jobs portal), suppliers and contractors.
 
-### 2.1
 
-Terms used within this Privacy Policy have the following meaning, unless otherwise indicated: 
 
-**Conditions of Use** means the terms and conditions relating to the use of the Site, which are accessible on the Site. 
+If you visit one of our websites, our internet service provider may record certain information about your visit, including:
 
-**Privacy Policy** means this privacy policy. 
+  * internet address;
+  * domain name;
+  * internet service provider;
+  * the date and time of the visit to the website;
+  * any information or documentation downloaded;
+  * your feedback, comments and conversations;
+  * the length of the session;
+  * the pages accessed;
+  * the website that referred to our website;
+  * the type and version of the browser; and
+  * the operating system used.
 
-**Site** means the current website of [Thehomepage.com.au], which is our internet website. 
 
-**Trading Terms and Conditions** means the trading terms and conditions relating to the provision of services by us. 
 
-**You** means any user of the Site or our services from time to time. 
+We are also able to collect information about email recipients including geographical location and viewing and interaction activity (such as views, bounces, clicks, replies, forwards, opt outs and links). This information is aggregated for analysis as de-identified data.
 
-## 3\. INFORMATION WE COLLECT
+We use pixels, or transparent GIF files, on our websites to help manage online advertising and email marketing. These files enable our service providers to recognise a unique cookie in your Web browser, which in turn enables us and our service providers to learn which advertisements and emails brought you to our website, and how you use our website. GIF files are used to:
 
-### 3.1
+  * track responses to advertisements, emails and site content (including social media engagements);
+  * determine your ability to receive HTML based emails;
+  * record how many users open an email;
+  * compile aggregated statistics;
+  * better target interactive advertising;
+  * enhance customer support and site usability; and
+  * provide offers and promotions that we believe would be of interest to you.
 
-In order to provide you with services, answer your enquiries, deal with your requests or improve the services we offer you, we may collect and process personal information including (without limitation) information such as your name, email, telephone number address and other contact details. If you are a real estate agent, we may also collect and use a profile picture. 
 
-### 3.2
 
-Personal information is also collected from you in order to provide services and features that are most likely to meet your needs, and to customise our services to improve your overall user experience. 
+Dog No. 7 does not collect any of the personal information that you may input into third party search, quote and application tools available on our website/s, for example online loan search or application tools powered by Ratesonline.com.au Pty Ltd, online enquiry tools provided by moneyQuest Australia Pty Ltd and the online insurance quote forms provided by moneyQuest Insurance Services Pty Ltd , You should consult the relevant third parties’ privacy policies for information about how they will handle your personal information.
 
-### 3.3
+## Disclosure of personal information
 
-We may collect data about you to do internal research. This information may include the URL you came from, your IP address, your browser and cookie information. 
+In the course of its business, Dog No. 7 may disclose personal information to:
 
-### 3.4
+  * users of our websites;
+  * potential purchasers of businesses and real estate and their professional advisers;
+  * SchwartzWilliams (as defined above);
+  * real estate agents, brokers, valuers and other real estate industry contacts;
+  * third parties where you have requested information, goods or services from them (e.g. Ratesonline.com.au Pty Ltd if you use the online loan search or application tools powered by ratesonline.com.au that are accessible from our website/s, moneyQuest Australia Pty Ltd if you use its online forms to enquire about financial advice or car loans and moneyQuest Insurance Services Pty Ltd if you use the online insurance quote forms accessible from our website/s);
+  * lenders and mortgage brokers;
+  * insurers and insurance brokers;
+  * referees and former employers (in the case of job applicants and contractors);
+  * external organisations that are our agents, suppliers, service providers or contractors, including advertisers for marketing material and syndicated listings on third party sides;
+  * our professional advisers, such as accountants, lawyers and auditors; and
+  * if required or authorised by law, regulatory bodies, government agencies and authorities, law enforcement bodies and courts.
 
-We may require some financial information from time to time. In such cases, we may use your financial information to verify your name, address and other contact information, as well as to bill you for your use of our services. 
 
-### 3.5
 
-Occasionally, when you access our Site we may use a feature of your browser called a “cookie”. A cookie is a piece of information that a website sends to your browser. Cookies are used to add functionality, track website usage and to enable us to personalise your visit to our Site. We may also use cookie technology to track the number of visitors to our Site in an aggregate form. Personally identifiable information is not extracted or collected in this process. You may set your computer browser to disable cookies or to alert you when cookies are being sent. If you disable cookies then we may be unable to optimise your visit to our Site and certain features may not be available. 
+## Why does Dog No. 7 need personal information?
 
-### 3.6
+The purposes for which Dog No. 7 collects, holds, uses and discloses personal information include:
 
-When you browse our Site we may also collect and log the following types of information (Clickstream Data): 
+  * providing users of our websites with information about businesses and real estate (for sale and sold), real estate agents, brokers and/or valuers;
+  * sending you newsletters, publications, communications and advertising material (including third party publications, communications and advertising material);
+  * advertising or marketing products and services (including third party products and services);
+  * responding to enquiries or providing a relevant product or service as requested;
+  * providing you with information in relation to real estate or the real estate industry;
+  * compiling and analysing statistics;
+  * to customise our services or advertising;
+  * administration, business planning and other internal management functions and operations related to the provision or management of Dog No. 7’s products or services, including research and development;
+  * debt collection;
+  * complying with our legal obligations;
+  * audit;
+  * assessment of employment applications;
+  * other purposes for which it was collected.
 
-**(a)** the date and time you visited our Site; 
 
-**(b)** the amount of time you spend on our Site; 
 
-**(c)** the particular pages that you visit; 
+## Direct marketing
 
-**(d)** the type of browser you use; 
+Dog No. 7 may use personal information to send direct marketing material in relation to Dog No. 7’s products or services, SchwartzWilliams’ products or services, or the products or services of third parties.
 
-**(e)** the address of your server; and 
+Dog No. 7 may also disclose personal information to SchwartzWilliams and other third parties, in order to facilitate direct marketing by those parties.
 
-**(f)** the address of the website that you have connected from. 
+We never use or disclose sensitive information for direct marketing purposes.
 
-### 3.7
+If you do not wish to receive marketing information from Dog No. 7, you may at any time opt-out of receipt of further marketing communications by contacting our Privacy Officer (contact details below). If direct marketing is by email, you may also use the unsubscribe function.
 
-We do not use cookies or Clickstream Data to personally identify you. We use the data on an aggregate and anonymous basis for purposes which include generating statistics, managing the effectiveness of our Site, identifying repeat visitors, building anonymous profiles of visitors to enable content on the Site to be tailored to them and for market research. 
+You should also contact our Privacy Officer if you do not wish us to disclose your personal information to third parties for direct marketing purposes.
 
-## 4\. USE OF THE INFORMATION
+## Government related identifiers
 
-### 4.1
+Dog No. 7 does not use any government related identifiers, such as driver’s licence numbers, as its own internal identifier of any individual. Dog No. 7 will not use or disclose any government related identifiers other than in accordance with the Privacy Act, or as otherwise required or authorised by law.
 
-We use the information provided by you or collected about you to target and customise our advertising and to advise you of our services, and for other business related purposes. 
+## Data integrity and security
 
-### 4.2
+Dog No. 7 endeavours to ensure that all personal information it holds is accurate, complete and up-to-date. To assist us with this, individuals should contact us if any of their personal information changes, or if they believe that the personal information we have is not accurate or complete.
 
-We may use your personal information to provide you with information about offers, promotions, goods or services, which we believe may be of interest to you, and also to share your information with our service providers and other third parties so that they can contact you directly about their offers, promotions, goods or services. If we do use your personal information in these ways then we will always give you the opportunity to request that your information not be used for further direct marketing in the future. 
+Dog No. 7 takes reasonable steps to protect the personal information that it holds from misuse, interference or loss, or from unauthorised access, modification or disclosure.
 
-### 4.3
+If Dog No. 7 no longer requires personal information that it holds (including when we are no longer required by law to keep records relating to you), it will take such steps as are reasonable in the circumstances to destroy the information or ensure that the information is de-identified.
 
-You should be aware that submitting an enquiry regarding a property or an estate agent through the Site may result in the information being passed to the estate agent. What they do with your information will be their responsibility. You will need to review the estate agent’s privacy policy to find out how that estate agent handles your personal information. We are not responsible for the way estate agents collect, use, disclose or handle personal information. 
+## Disclosure overseas
 
-## 5\. DISCLOSURE OF YOUR INFORMATION
+Dog No. 7 may disclose your personal information to overseas recipients located in New Zealand, Japan or the United States of America.
 
-### 5.1
+By accessing any of our websites or services you consent to disclosure of your personal information to overseas recipients on the basis that Dog No. 7 will not be accountable under the Privacy Act 1988 (Cth), and you will not be able to seek redress under the Privacy Act 1988 (Cth) and may not be able to seek redress under overseas law if the overseas recipient handles your information in a way that breaches the Privacy Act 1988 (Cth). Overseas recipients may not be subject to any privacy obligations that are similar to the Australian Privacy Principles, and may be subject to a foreign law that could compel the disclosure of personal information to a third party such as an overseas authority.
 
-If you provide your consent to us doing so, we may use your personal information in order to keep you up to date with information about us and our products and services, or to provide you with special offers. You can opt out from receiving promotional material from us at any time by emailing or telephoning us and requesting to be removed from our mailing lists. 
+## Access and correction
 
-### 5.2
+Individuals can ask Dog No. 7 for access to their personal information held by Dog No. 7 by sending a written request to our Privacy Officer at the address below.
 
-We may disclose information held about you to estate agents and estate agencies, and other third party suppliers who we have engaged to provide you with goods or services on our behalf or in collaboration with us. 
+Dog No. 7 does not impose a charge for making a request for access, however we may charge for reasonable administrative costs incurred in providing access.
 
-### 5.3
+You can ask Dog No. 7 to correct or update your personal information. Dog No. 7 does not impose any charge with respect to requests for correction or updates.
 
-We cannot and do not guarantee, and you should not expect that, your personal information or private communications will always remain private. 
+Before correcting or providing access to personal information in response to a request, Dog No. 7 will require your identity to be confirmed.
 
-### 5.4
+Requests for access or correction may be refused upon the grounds contained in the Privacy Act. If we refuse to provide access, or to correct personal information, Dog No. 7 will provide you with reasons for the refusal.
 
-Other than as set out in this Privacy Policy, disclosure of your personal information will only be made in circumstances where: 
+## Complaints
 
-**(a)** it is done for the purpose for which it was collected; 
+Privacy related complaints should be directed to Dog No. 7’s Privacy Officer in writing at the email or postal address shown below No charge will be imposed for the making of a complaint, or for dealing with the complaint.
 
-**(b)** we are required to make such disclosure by law; 
+Once a complaint has been lodged, our Privacy Officer will acknowledge its receipt to you as soon as possible.
 
-**(c)** you expressly consent to us making such disclosure; or 
+We will endeavour to respond to your complaint as soon as possible.
 
-**(d)** such disclosure is permitted by this Privacy Policy, our Site Conditions of Use and/or our Trading Terms and Conditions. 
+We will do our best to ensure that our investigation is completed, and a decision on your complaint is communicated to you, within 30 days of our receipt of the written complaint. We will inform you if we need more time.
 
-## 6\. SECURITY
+If we are not able to resolve your complaint to your satisfaction you may also contact the Australian Information Commissioner.
 
-### 6.1
+## Office of the Australian Information Commissioner
 
-Perfect security does not exist on the internet. However, we use reasonable endeavours to safeguard the confidentiality of your personal information. 
+GPO Box 5218
 
-### 6.2
+SYDNEY NSW 2001
 
-We will at all times take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or disclosure. Where information is held by us in electronic or physical form, we will take all reasonable steps to ensure that such information is secure. 
+Telephone: 1300 363 992
 
-## 7\. CHECKING YOUR PERSONAL INFORMATION
+Website: [www.oaic.gov.au](http://www.oaic.gov.au/)
 
-### 7.1
+## Employee records
 
-If you wish to access, verify, correct or update any of your personal information collected by us, please contact us by using the contact details available on our Site. 
+Employee records are exempt from the operation of the Australian Privacy Principles.
 
-### 7.2
+## Privacy Officer contact details
 
-We will at all times endeavour to assist you in respect of any queries you may have in relation to your personal information, however we reserve the right to refuse access to such information where permitted to do so by the National Privacy Principles. 
+Dog No. 7’s Privacy Officer’s contact details are:
 
-## 8\. OTHER SITES
+Address: Privacy Officer
 
-### 8.1
+Unit 4, 37 Langridge Street,
 
-Our Site may contain links to other websites that we do not own or operate. We do not control, recommend or endorse and we are not responsible for these websites or their content, products, services or privacy policies. 
+COLLINGWOOD VIC 3006
 
-### 8.2
+Telephone: 1300 377 037
 
-Downloading material from certain sites may risk infringing intellectual property rights or introducing viruses into your system. You should note when you leave our Site and read the privacy policies and terms of these other sites. You should also independently assess the authenticity of any website which appears or claims that it is one of our sites (including those linked through an email). 
+Email: [info@thehomepage.com.au](mailto:info@thehomepage.com.au)
 
-_[please note that there are additional requirements in relation to applications for credit]_
+## Changes to this policy
+
+This Privacy Policy may be varied from time to time. It does not create any legally enforceable rights or obligations beyond the rights and obligations created by the Privacy Act.
+
+This Privacy Policy was last updated on 15 April 2015.
