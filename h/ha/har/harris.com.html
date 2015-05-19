@@ -1,49 +1,92 @@
-<!--The following is the downloaded HTML source of the harris.com privacy policy that was archived on 2014-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108184057id_/http%3A//www.harris.com/about/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harris.com privacy policy that was archived on 2015-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150519070352id_/http%3A//www.harris.com/about/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-	
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta http-equiv="Content-Language" content="en">
+    
 		<title>Harris Corporation -- Privacy Policy</title>
 		<meta name="keywords" content="Harris Corporation, Harris">
-		<meta name="description" content="Harris is an international communications and information technology company serving government and commercial markets in more than 125 countries.  Headquartered in Melbourne, Florida, the company has approximately $5 billion of annual revenue and about 14,000 employees — including 6,000 engineers and scientists.  Harris is dedicated to developing best-in-class <em>assured communications</em>® products, systems and services.">
+		<meta name="description" content="Harris is an international communications and information technology company serving government and commercial markets in more than 125 countries. Headquartered in Melbourne, Florida, the company has approximately $5 billion of annual revenue and about 13,000 employees — including 6,000 engineers and scientists. Harris is dedicated to developing best-in-class <em>assured communications</em>® products, systems and services.  ">
 	
-	<meta name="author" content="Harris Corporation">
-	<meta charset="UTF-8">
+    <meta name="author" content="Harris Corporation">
+    <meta charset="UTF-8">
     <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" type="text/css" href="/wrapper/2012/css/wrapper/wrapper.css">
-	<link rel="stylesheet" type="text/css" href="/wrapper/2012/css/topNav/topNavBar.css">
-	<link rel="stylesheet" type="text/css" href="/wrapper/2012/css/leftNav/leftNav.css">
-	<link rel="stylesheet" href="/wrapper/2012/css/colorbox/colorbox.css">
-	<link rel="stylesheet" type="text/css" href="/wrapper/2012/css/subpages/page.css">
-	<link rel="stylesheet" type="text/css" href="/wrapper/2012/css/wrapper/print.css" media="print">
-	
+    <link rel="stylesheet" type="text/css" href="/wrapper/2012/css/search/search.css">
+     <link rel="stylesheet" type="text/css" href="/wrapper/2012/css/wrapper/wrapper.css">
+    <link rel="stylesheet" type="text/css" href="/wrapper/2012/css/topNav/topNavBar.css">
+    <link rel="stylesheet" type="text/css" href="/wrapper/2012/css/leftNav/leftNav.css">
+    <link rel="stylesheet" href="/wrapper/2012/css/colorbox/colorbox.css">
+    <link rel="stylesheet" type="text/css" href="/wrapper/2012/css/subpages/page.css">
+    <link rel="stylesheet" type="text/css" href="/wrapper/2012/css/wrapper/print.css" media="print">
+
+    
 		
 	
-	<link rel="alternate" type="application/rss+xml" title="Harris Corporation Press Releases" href="http://www.harris.com/news/rss.asp">
+    <link rel="alternate" type="application/rss+xml" title="Harris Corporation Press Releases" href="http://www.harris.com/news/rss.asp">
+
+    <link rel="stylesheet" href="/Search/css/CoveoFullSearch.css">
+<link rel="stylesheet" href="/Search/myCss/harris.css">
+<link rel="stylesheet" href="/Search/myCss/searchBox.css">
+
+<script type="text/javascript" src="/Search/js/CoveoJsSearch.Dependencies.js"></script>
+<script type="text/javascript" src="/Search/myJs/CoveoJsSearch.js"></script>
+<script type="text/javascript">
+	var $j = $.noConflict();
+</script>
+<script type="text/javascript">
+
+    var l_lang = $j("meta[http-equiv='Content-Language']").attr('content');
+	var defaultCol = null;
+    var searchInterfaceContext;
+    $j(function () {
+		Coveo.$ = $j;
+        var searchPath = '/';
+        if (l_lang == null || l_lang.toLowerCase() == 'en-us') {
+            l_lang = 'en';
+        }
+        else if (l_lang != 'en') {
+            searchPath = '/' + l_lang.substring(3) + '/';
+        }
+        searchPath += 'Search.aspx';
+
+        $j.getScript('/Search/js/cultures/' + l_lang + '.js');
+        //$('body').attr('id', 'search');
+        //$j('body').addClass('CoveoSearchInterface');
+        //$j('body').attr('data-enable-history', 'true');
+
+        searchInterfaceContext = {
+            restUri: 'http://searchit.harris.com:8080/rest/search',
+            searchInterfaceLoaded: false,
+            searchUri: searchPath
+        };
+
+        Coveo.Rest.SearchEndpoint.configureSampleEndpoint();
+        Coveo.Rest.SearchEndpoint.endpoints["default"] = new Coveo.Rest.SearchEndpoint({
+            restUri: searchInterfaceContext.restUri
+        });
+    });
 	
-	
+</script>
+
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
-	<script type="text/javascript" src="/wrapper/2012/scripts/topNavBar.js"></script>
-	<script type="text/javascript" src="/wrapper/2012/scripts/hoveraccordion.min.js"></script>
-	<script type="text/javascript" src="/wrapper/2012/scripts/jquery.colorbox.js"></script>
-	<script type="text/javascript" src="/wrapper/2012/scripts/jquery.colorbox.settings.js"></script>
-	
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/wrapper/2012/scripts/topNavBar.js"></script>
+    <script type="text/javascript" src="/wrapper/2012/scripts/hoveraccordion.min.js"></script>
+    <script type="text/javascript" src="/wrapper/2014/scripts/jquery.colorbox.js"></script>
+    <script type="text/javascript" src="/wrapper/2014/scripts/jquery.colorbox.settings.js"></script>
+    
 	
 </head>
 <body>
-	<form name="aspnetForm" method="post" action="/about/privacy_policy.aspx" id="aspnetForm">
-<input type="hidden" name="CoveoCurrentInterface" id="CoveoCurrentInterface" value="">
-<input type="hidden" name="CoveoFst" id="CoveoFst" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTk0NjMwNTgxD2QWAmYPZBYCAgcPZBYEAgkPFgIeB1Zpc2libGVoZAILD2gWAgIBDxYIHglJc0VkaXRpbmdoHg1BY3RpdmVQcm9maWxlZR4TQ2hvb3NlV2lkZ2V0U2hvd2luZ2geEUVkaXRXaWRnZXRTaG93aW5naGRkjFfPpBHp+JvWOkA44d9zDqbUuog=">
+    <form name="aspnetForm" method="post" action="privacy_policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTk0NjMwNTgxZGTZ+6kfxz1nwVl0EehXRJ/hFbAD1A==">
 
-
-<script src="/Coveo/Anonymous/?k=ccs&amp;z=872238819" type="text/javascript"></script>
-<script src="/Coveo/Anonymous/?k=sr&amp;z=847244180" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="/Coveo/Anonymous/?k=css&amp;z=872238819&amp;scoped=1">
-		<div id="PrintHarrisLogo"><img src="/wrapper/2012/css/wrapper/harris.png"></div>
-		<div id="Main">
-					
+        <div id="PrintHarrisLogo">
+            <img src="/wrapper/2012/css/wrapper/harris.png"></div>
+        <div id="Main">
+            	
 		<div id="BODY">
 			<div id="leftNavWrapper">
 				<ul id="leftNav">
@@ -67,6 +110,7 @@
 			<li><a href="/about/management-team.aspx">Management Team</a></li>
 			<li><a href="/about/business-conduct.aspx">Code of Conduct</a></li>
 			<li><a href="/about/values.aspx">Our Mission and Values</a></li>
+            <li><a href="/about/innovation.aspx">Innovation</a></li>
 		</ul>
 	</li>
 	<li><a href="javascript:void(0);">Markets/Solutions</a>
@@ -148,7 +192,6 @@
 			<li><a href="javascript:void(0);" class="flyout">Veterans/Career Military</a>
 				<ul>
 					<li><a href="/careers/vet.aspx">Veterans/Career Military Home</a></li>
-					<!--<li><a href="http://harris-veterans.jobs/" target="_blank">Skills Translator</a></li>-->
 					<li><a href="/careers/wounded_warriors.aspx">Wounded Veteran Program</a></li>
 					<li><a href="/careers/workatharris.aspx#7">Testimonials</a></li>
 				</ul>
@@ -257,6 +300,7 @@
 	<li><a href="javascript:void(0);">News Room</a>
 		<ul>
 			<li><a href="/whats_new.asp">News Room Home</a></li>
+            <li><a href="/news/external_news.aspx">Acquisition News</a></li>
 			<li><a href="/whats_new.asp">Press Releases</a></li>
 			<li><a href="/news/subscribe.aspx">Subscribe to Press Release</a></li>
 			<li><a href="/news/media.aspx">Media Contacts</a></li>
@@ -295,9 +339,9 @@
 			</div>
 		</div>
 	
-		</div>
-		<div id="Footer">
-			<div id="footerLinksList">
+        </div>
+        <div id="Footer">
+            <div id="footerLinksList">
 	<div>
 		<h4><a href="http://www.harris.com/customers/login.aspx">Customers</a></h4>
 		<span><a href="http://www.harris.com/contact/">Contact Us</a></span>
@@ -342,18 +386,23 @@
 		<span><a href="http://www.harris.com/corporate_responsibility/sustainability.aspx">Sustainability</a></span>
 		
 	</div>
-		
-	<div class="footerNews"></div><script>$('.footerNews').load('/news/TopPRs.asp');</script>
+	
+    <div style="display:inline-table !important; padding-bottom:10px;">
+        <h4>Harris' Planned Exelis Acquisition</h4>
+		<span><a href="http://harris.com/news/external_news.aspx">Background information and recent filings</a></span>
+    </div>	
+	
+    <div class="footerNews" style="display:block !important;"></div><script>$('.footerNews').load('/news/TopPRs.asp');</script>
 	
 	
 </div>
 <div class="clear"></div>
-			
+            
 			
 	
-			<script type="text/javascript" src="/wrapper/2012/scripts/footer.js"></script>
-		</div>
-		<div id="HarrisFooter">
+            <script type="text/javascript" src="/wrapper/2012/scripts/footer.js"></script>
+        </div>
+        <div id="HarrisFooter">
 	<a href="http://www.harris.com">Harris.com</a>
 	<a href="http://www.harris.com/careers">Careers</a>
 	<a href="http://www.harris.com/contact/">Contact Us</a>
@@ -361,29 +410,63 @@
 	<a href="http://www.harris.com/about/privacy_policy.aspx">Privacy Policy</a>
 	<a href="http://www.harris.com/about/legal.aspx">Terms of Use</a>
 </div>
-		<div id="Header">
-				<div id="BlackBar">
-					<div id="HarrisLogo"><a href="http://harris.com"><img src="/wrapper/2012/css/wrapper/harris.png"></a></div>
-					<div id="CoveoSearchNet">
-				
-				<span id="ctl00_sb"><div id="ctl00_ctl04">
+        <div id="Header">
+            <div id="BlackBar">
+                <div id="HarrisLogo"><a href="http://harris.com">
+                    <img src="/wrapper/2012/css/wrapper/harris.png"></a></div>
+                
+                <div id="CoveoSearchJS" style="float: right; width: 450px; padding: 10px 10px 10px 10px;">
+                    <!--[if lt IE 9]>
+<script type="text/javascript">
+    $j(function () {
+        Coveo.Rest.SearchEndpoint.endpoints["default"].caller.useJsonp = true;
+    });
+</script>
+<![endif]-->
+<script type="text/javascript">
+    $j(function () {
+        try {
+			//Only do the init if the main search is not present
+			if($j('.CoveoResultList').length == 0){
+				$j('.ASearchBox').coveo('initSearchBox', searchInterfaceContext.searchUri, {
+					TopFieldSuggestions  : {
+						omniboxSuggestionOptions : {
+							onSelect: function (valueSelected, populateOmniBoxEventArgs) {
+								window.location.href = "/search.aspx#q=" + valueSelected ;
+							}
+						}
+					}
+				});
+			}
+			//Set the default collections if it finds it
+			//if(defaultCol != null)
+			//{
+			//	$j('.ASearchBox').coveo('state', 'f:@syscollection', defaultCol);
+			//}
+        } catch (e) {
+
+        }
+    });
+
+</script>
+
+<div id="searchBox1" class="ASearchBox CoveoSearchInterface Coveostate CoveoComponentState CoveoComponentOptions CoveoQueryController CoveoDebug">
+    <div id="coveo-search-box-container" class="CoveoSearchBox" data-activate-omnibox="true" data-auto-trigger-query="false">
+        <a id="searchButton" class="coveo-search-button"></a>
+        <div>
+            <input id="searchBox" class="CoveoQueryBox" form="coveo-dummy-form"><span class="coveo-query-box-clear" style="display: none;"><span class="coveo-icon"></span></span>
+        </div>
+        <div class="CoveoLoadingBackgroundSearchButton"></div>
+    <a class="CoveoSearchButton" href="javascript:"><span class="coveo-icon">Search</span></a><div><input type="text" autocapitalize="off" autocorrect="off" class="CoveoQueryBox" form="coveo-dummy-form"><div class="coveo-omnibox" style="display: none;"></div><span class="coveo-query-box-clear" style="display: none;"><span class="coveo-icon"></span></span></div></div>
+    <div id="searchinterface" data-hide-until-first-query="false" data-header-title="Suggested Results">
+		<span class="CoveoTopFieldSuggestions" data-field="@title">
+    </span></div>
 	
+</div>
 
-
-<table cellspacing="0" cellpadding="0" class="coveo-theme">
-  <tbody><tr>
-    <td>
-      <input name="ctl00$ctl04$ctl00$TXTQuery" type="text" id="ctl00_ctl04_ctl00_TXTQuery" placeholder="Search" class="coveoTextBoxSearch">
-    </td>
-    <td style="padding-left: 2px">
-      <img alt="" id="ctl00_ctl04_ctl00_BTNSearch" title="Search" class="buttonSearch" src="/wrapper/css/search/1px.gif" border="0" style="cursor:pointer;"></td>
-  </tr>
-</tbody></table>
-
-</div></span>
-			</div>
-				</div>
-				<div id="topNavBG">
+                </div>
+            </div>
+            <div id="topNavBG">
 	<div id="topNav">
 		<div class="noSub"><a href="/">Home</a></div>
 		<div><a href="javascript:void(0);">Company</a>
@@ -473,28 +556,13 @@
 	</div>
 </div>
 
-				
+            
 			
 	
-		</div>
-	
+        </div>
+    </form>
 
-<script type="text/javascript">
-//<![CDATA[
-CoveoShowQuickViewForListItem = function (p_Arg0, p_Arg1, p_Callback) { _aM.DMC('ctl00$sb', 'ShowQuickViewForSharePointItem', '_d0!1!1!1!0!', p_Callback, new Array(p_Arg0, p_Arg1, null)); };//]]>
-</script>
-</form>
+<script type="text/javascript" src="/wrapper/2014/scripts/placeholder.js"></script>
 
 
-<script type="text/javascript">
-	function CNL_InitAjaxManager() {
-	  _aM = new Coveo.CNL.Web.Scripts.Ajax.AjaxManagerScript();
-	  var frameworkDoPostBack = __doPostBack;
-	  __doPostBack = function(t, a) { _aM.DPB(t, a, false, false); }
-	  Coveo.CNL.Web.Scripts.Ajax.AjaxManagerScript.takeBackupOfValue(document.getElementById('CoveoCurrentInterface'));
-	  Coveo.CNL.Web.Scripts.Ajax.AjaxManagerScript.takeBackupOfValue(document.getElementById('__VIEWSTATE'));
-	  _aM.initialize('ctl00$ctl02', document.getElementById('aspnetForm'), null, ss.Delegate.create(null, frameworkDoPostBack), CNL_ParseStringAsXml('\x3c?xml version=\"1.0\" encoding=\"utf-16\"?\x3e\x3cAjaxManager\x3e\x3cPartial\x3e\x3cControl Id=\"ctl00$ctl02\" /\x3e\x3cControl Id=\"ctl00$ctl03$CoveoDefaultCatalog\" /\x3e\x3cControl Id=\"ctl00$ctl04\" /\x3e\x3cControl Id=\"ctl00$ctl05\" /\x3e\x3c/Partial\x3e\x3cAlwaysSend\x3e\x3cAlwaysSend Id=\"CoveoCurrentInterface\" /\x3e\x3cAlwaysSend Id=\"CoveoFst\" /\x3e\x3c/AlwaysSend\x3e\x3cExternalScripts\x3e\x3cScript Uri=\"/Coveo/Anonymous/?k=ccs&amp;z=872238819\" /\x3e\x3cScript Uri=\"/Coveo/Anonymous/?k=sr&amp;z=847244180\" /\x3e\x3c/ExternalScripts\x3e\x3cConsts /\x3e\x3cHiddenFields\x3e\x3cHiddenField Name=\"CoveoFst\" Delete=\"False\"\x3ectl00_sb&amp;coveq;&amp;covsc;\x3c/HiddenField\x3e\x3c/HiddenFields\x3e\x3cAjaxObjects\x3e\x3cAjaxObject Type=\"Coveo.CES.Web.Search.Scripts.Controls.SearchBoxScript\" OwnerId=\"ctl00$sb\"\x3e\x3cProtectedField Name=\"m_Target\" Type=\"string\"\x3e/search.aspx?&amp;lcid=9\x3c/ProtectedField\x3e\x3cProtectedField Name=\"m_SearchAsYouType\" Type=\"boolean\"\x3eFalse\x3c/ProtectedField\x3e\x3cProtectedDomElement Name=\"m_TextBox\" Id=\"ctl00_ctl04_ctl00_TXTQuery\" /\x3e\x3cProtectedDomElement Name=\"m_SearchButton\" Id=\"ctl00_ctl04_ctl00_BTNSearch\" /\x3e\x3cProtectedMethods Name=\"serverUpdateResults\"\x3efunction (p_Arg0, p_Arg1, p_Callback) { _aM.DMC(\'ctl00$sb\', \'ServerUpdateResults\', \'_d0!1!0!0!0!\', p_Callback, new Array(p_Arg0, p_Arg1, null)); }\x3c/ProtectedMethods\x3e\x3c/AjaxObject\x3e\x3c/AjaxObjects\x3e\x3cBlankOnHistory /\x3e\x3c/AjaxManager\x3e'), false, true)
-	}
-	CNL_InitAjaxManager();
-
-</script></body></html>
+</body></html>
