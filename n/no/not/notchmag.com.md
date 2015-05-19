@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notchmag.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128064020id_/http%3A//www.notchmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notchmag.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520004813id_/http%3A//www.notchmag.com/privacy) for the most accurate reproduction.*
 
 # 
 
