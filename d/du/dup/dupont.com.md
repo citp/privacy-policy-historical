@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dupont.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018101759id_/http%3A//www.dupont.com/global-links/utility-links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dupont.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519183202id_/http%3A//www.dupont.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | DuPont USA
 
 E. I. du Pont de Nemours and Company* and its affiliates  (“DuPont”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information.  Together with DuPont’s [Global Information Privacy Policy](http://www2.dupont.com/Privacy/en_US/global_policy_english.html), this Privacy Statement describes DuPont practices in connection with information that we collect through the website or mobile application owned and controlled by DuPont from which you are accessing this Privacy Statement (respectively, the “Site” and the “App”), as well as offline where notice is legally required.  By providing Personal Information to DuPont, you agree to the terms and conditions of this Privacy Statement. 
 
@@ -71,7 +71,7 @@ We may use Personal Information for the following purposes:
 Your Personal Information may be disclosed:  
 
 
-  * Within the DuPont Group of Companies for the purposes described in this Privacy Statement.  E.I. du Pont de Nemours and Company* and the local affiliate with whom you are interacting are jointly responsible for the management of the jointly-used Personal Information.
+  * Within the [DuPont Group of Companies](https://web.archive.org/subsidiaries.html) for the purposes described in this Privacy Statement.  E.I. du Pont de Nemours and Company* and the local affiliate with whom you are interacting are jointly responsible for the management of the jointly-used Personal Information.
   * To DuPont’s third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, product distribution, infrastructure provision, IT services, customer service, email delivery services, credit card processing, auditing services and other similar services to enable them to provide services.
   * To third parties such as agents and distributers to facilitate the sale and distribution of DuPont products and services which may include marketing communications.
   * To third parties sponsors of sweepstakes, contests and similar promotions.
