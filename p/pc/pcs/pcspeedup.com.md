@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspeedup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230812id_/http%3A//pcspeedup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspeedup.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519180019id_/https%3A//www.pcspeedup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - PC Speed Up - Clean, optimize and get a faster PC now!
 
@@ -9,7 +9,7 @@ Please read the Privacy Policy carefully as once you use our website you will be
 **Information collected**  
 We may collect personal information about you which you give to us when you use our website, for example, to receive our exchange updates and regular website updates.
 
-Speedchecker Limited strongly believes in the importance of keeping user's personal information private. It will never use your information for any use beyond that stated or the permissions given to us.
+Optimal Software s.r.o. strongly believes in the importance of keeping user's personal information private. It will never use your information for any use beyond that stated or the permissions given to us.
 
 **Third parties**  
 We will not share your personal details with third parties, unless you have granted us explicit permission to do so beforehand. Third-party companies may collect and use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://networkadvertising.org/managing/opt_out.asp>
