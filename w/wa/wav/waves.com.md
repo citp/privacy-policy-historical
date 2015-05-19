@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waves.com privacy policy that was archived on 2014-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140721133524id_/http%3A//www.waves.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waves.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519211057id_/http%3A//www.waves.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waves
 
