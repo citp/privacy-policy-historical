@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couchtuner.me privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220021704id_/http%3A//www.couchtuner.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couchtuner.me privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519064236id_/http%3A//www.couchtuner.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | CouchTuner-Watch TV Shows Online
 
 **Privacy Policy**
 
