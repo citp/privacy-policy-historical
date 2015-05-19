@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teksavvy.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103215643id_/http%3A//teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teksavvy.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519072553id_/http%3A//www.teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.*
 
 # TekSavvy - Privacy Policy
 
@@ -64,6 +64,8 @@ The application of the Privacy Policy is subject to the requirements or provisio
 **IV.     DEFINITIONS**
 
 Collection - the act of gathering, acquiring, recording or obtaining personal information from any source, including third parties, by any means.
+
+TekSavvy Companies - TekSavvy Solutions Inc. and its shareholder, 2343431 Ontario Inc.; Openjive Inc. and its shareholder, 2427072 Ontario Inc., and Hastings Cable Vision Ltd. and its shareholder, 2405182 Ontario Inc.
 
 Consent - voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express or implied and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing but is always unequivocal and does not require any inference on the part of the TekSavvy Companies. Implied consent is consent that can reasonably be inferred from an individual's action or inaction.
 
@@ -351,4 +353,4 @@ Canadian Standards Association
 Mississauga, Ontario  
 L4W 5N6
 
-For more information on the CSA Model Code visit the CSA Web Site at: <http://www.csa.ca/cm/ca/en/search>. 
+For more information on the CSA Model Code visit the CSA Web Site at: <http://www.csa.ca/cm/ca/en/search>. 
