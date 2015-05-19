@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outinpublic.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702203607id_/http%3A//outinpublic.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outinpublic.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519042235id_/http%3A//www.outinpublic.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
