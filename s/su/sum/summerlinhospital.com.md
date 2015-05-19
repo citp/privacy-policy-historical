@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summerlinhospital.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819000120id_/http%3A//www.summerlinhospital.com/patients-and-visitors/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerlinhospital.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519125259id_/http%3A//www.summerlinhospital.com/patients-and-visitors/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement Summerlin Hospital Las Vegas | Summerlin Hospital Medical Center
 
