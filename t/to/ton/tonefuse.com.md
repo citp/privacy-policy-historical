@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonefuse.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125130614id_/http%3A//tonefuse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonefuse.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519040120id_/http%3A//tonefuse.com/privacy.php) for the most accurate reproduction.*
 
 # ToneFuse
 
@@ -6,7 +6,7 @@
 
 **Effective Date: October 13, 2014**
 
-ToneFuse operates a personalized advertising delivery service that leverages the power of music. Our clients are lyric publishers and music service providers, such as MusicMatch, SongLyrics and SongMeanings and the advertisers who want to reach music fans through these services. The purpose of this policy is to inform users about the types of user information we receive or collect in order to deliver more relevant advertisement to them and how to use their devices to control it. This Privacy Policy governs the collection, use and disclosure of information by ToneFuse and its affiliated companies. This Privacy Policy is incorporated into, and part of, the [Terms of Service Agreement](https://web.archive.org/web/20141125130614id_/http%3A//tonefuse.com/tos.php), which governs your use of the ToneFuse Services in general.
+ToneFuse operates a personalized advertising delivery service that leverages the power of music. Our clients are lyric publishers and music service providers, such as MusicMatch, SongLyrics and SongMeanings and the advertisers who want to reach music fans through these services. The purpose of this policy is to inform users about the types of user information we receive or collect in order to deliver more relevant advertisement to them and how to use their devices to control it. This Privacy Policy governs the collection, use and disclosure of information by ToneFuse and its affiliated companies. This Privacy Policy is incorporated into, and part of, the [Terms of Service Agreement](https://web.archive.org/web/20150519040120id_/http%3A//tonefuse.com/tos.php), which governs your use of the ToneFuse Services in general.
 
 _**Information We Collect**_
 
