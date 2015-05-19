@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academictutorials.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004205852id_/http%3A//www.academictutorials.com/privacy-policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academictutorials.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519233508id_/http%3A//www.academictutorials.com/privacy-policies.asp) for the most accurate reproduction.*
 
 # Privacy Policies | Vyom Privacy Policies | Corporate Privacy policies
 
