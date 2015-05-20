@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the els.edu privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215033134id_/http%3A//www.els.edu/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the els.edu privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521012331id_/http%3A//www.els.edu/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # ELS | ELS Privacy Policy
 
@@ -87,6 +87,6 @@ Mail: ELS Educational Services
 
 ATTN: Web Privacy
 
-400 Alexander Park
+7 Roszel Road
 
 Princeton, NJ 08540-6306
