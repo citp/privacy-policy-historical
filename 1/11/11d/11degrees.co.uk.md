@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 11degrees.co.uk privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213033043id_/http%3A//www.11degrees.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 11degrees.co.uk privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520211228id_/http%3A//www.11degrees.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
