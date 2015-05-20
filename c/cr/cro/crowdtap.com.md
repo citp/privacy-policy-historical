@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219045545id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520194339id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
 
 # Crowdtap - Where Consumers and Brands Collaborate
 
@@ -89,12 +89,12 @@ Void where prohibited by law.
 **Comments and Questions:** If you have any questions, comments or concerns about our Privacy Policy, you may contact us. 
 
 MAIL   
-Crowdtap, LLC   
-225 Park Ave. South   
-16th Floor   
-New York, NY 1003
+Crowdtap Inc.   
+625 Broadway   
+5th Floor   
+New York, NY 10012
 
 EMAIL   
 help@crowdtap.com
 
-Effective Date: This privacy policy is effective and was last updated on February 20th, 2012. 
+Effective Date: This privacy policy is effective and was last updated on November 1st, 2013. 
