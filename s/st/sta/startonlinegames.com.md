@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startonlinegames.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010170143id_/http%3A//www.startonlinegames.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startonlinegames.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520115518id_/http%3A//www.startonlinegames.com/privacypolicy) for the most accurate reproduction.*
 
 # Best Free Flash Online Games - startonlinegames.com
 
