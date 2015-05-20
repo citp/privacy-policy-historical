@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 4hds.com privacy policy that was archived on 2014-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140913234005id_/http%3A//4hds.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4hds.com privacy policy that was archived on 2015-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150521001412id_/http%3A//4hds.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>4HDS.com - Webcam Stream Ranking System</title>
@@ -10,7 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <script language="JavaScript" type="text/javascript" src="js/whizzywig_editor.js"></script>
 <script language="JavaScript" type="text/javascript" src="js/getElementsByClassName-1.0.1.js"></script>
-<script language="JavaScript" type="text/javascript" src="js/camstats.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/camstats.js?20141211"></script>
 <script language="JavaScript" type="text/javascript" src="js/jhp_rating.js?v20140227a"></script>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -27,7 +27,7 @@
 
 <script language="JavaScript" type="text/javascript">
 var chatroomid = 1;
-var setChatName = 'Guest36065';
+var setChatName = 'Guest21517';
 var setChatUserId = 0;
 var userLoggedIn = 0;
 function setChatUserName (value) {
@@ -49,164 +49,6 @@ function checkExistanceByClassName() {
 var tempArray = getElementsByClassName("at_adv_here_30838");
 if (tempArray == '') { alert('Please enable JavaScript for AdToll.com even if you do not intend to look at the ads. Running this service is not cheap, so any help is appreciated.'); } 
 //else { alert(tempArray[0]); }
-}
-
-
-
-function generateThumbPlayer3(space,remoteSite,remoteId) {
-var theBox = document.getElementById(space);
-if (remoteSite == '1') { //stickam 
-
-//theBox.innerHTML = 'Option Offline';
-
-//theBox.innerHTML = 'http://player.stickam.com/flash/stickam/stickam_player.swf?userType=204&userSiteID=0&langID=en&isOnStickam=1&zid=0&userID=NUMBER&userName=NAME&app=mmxPlayer.swf';
-
-//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?userType=205&userSiteID=1015547&langID=en&isOnStickam=0&zid=external&userID=' + remoteId + '&userName=&app=mmxPlayer.swf&autoMute=1" type="application/x-shockwave-flash" width="221" height="221">';
-
-//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_chat_large.swf&amp;langID=en&amp;mute=1&amp;skinName=large0" type="application/x-shockwave-flash" width="221" height="221">';
-theBox.scrollTop+=2;
-//theBox.innerHTML = '<iframe src="http://360pal.com/text2html.php?title=Player&text=%3Ciframe%20src%3D%22http%3A//www.stickam.com/largeChatNew.do%3FuId%3D' + remoteId + '%22%20name%3D%22camSlotFrame%22%20width%3D%22925%22%20height%3D%22845%22%20scroll%3D%22no%22%3E%3C/iframe%3E" name="camSlotFrame' + space + '" id="camSlotFrame' + space + '" width="335" height="255"></iframe><br><font size="1">' + space + ' | <a href="http://www.stickam.com/largeChatNew.do?uId=' + remoteId + '" target="_blank">Open Room</a> | <a href="javascript:generatePlayer(\'' + space + '\',\'clear\',\'0\');">[Close Slot]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'600\',\'510\');">[Expand]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'335\',\'255\');">[Shrink]</a></font>';
-}//stickam
-else {
-theBox.innerHTML = '';
-}//else
-}//function generateThumbPlayer3
-
-
-function generateThumbPlayer2013(space,remoteSite,remoteId,remoteName,iFrame,pSize) {
-	if (remoteSite == '5') { //Chaturbate
-		var theBox5 = document.getElementById(space);
-		//generate iFrame
-		//theBox5.innerHTML = 'Test <img src="http://4hds.com/images/20111120/4hds_v2_02.png" width="200" height="200">';
-		theBox5.innerHTML = '<iframe src="'+ iFrame + '" height="465" width="850"></iframe>';
-		theBox5.scrollTop=70;
-		theBox5.scrollLeft=120;
-	} else if (remoteSite == '6') { //Fotka
-		var theBox5 = document.getElementById(space);
-		//generate iFrame
-		//theBox5.innerHTML = '<iframe src="'+ iFrame + '" height="850" width="850"></iframe>';
-		//theBox5.scrollTop=470;
-		//theBox5.scrollLeft=120;
-		/*
-		var s1b = new SWFObject("https://media.dreamhost.com/mp4/player.swf","ply",320,240,"9","#FFFFFF");
-		s1b.addParam("allowfullscreen","true");
-		s1b.addParam("allowscriptaccess","always");
-		s1b.addParam("wmode","transparent");
-		s1b.addParam("flashvars","streamer=" + decodeURIComponent('rtmp://v1.asteroid.pl:1935/fotka.pl') + "&file=" + decodeURIComponent(iFrame) + "&autostart=true");
-		s1b.write(theBox5);
-		*/
-		
-		theBox5.innerHTML = '<iframe src="http://4hds.com/fotkaPlayer.php?file='+ iFrame + '&streamer=' + encodeURIComponent('rtmp://v1.asteroid.pl:1935/fotka.pl') + '" height="350" width="430" style="scroll: none;"></iframe>';
-		theBox5.scrollTop=14;
-		theBox5.scrollLeft=10;
-		theBox5.innerHTML += '<div style="position: absolute; top: 13px; left: 30px; border: thin solid red; color: red; width: 60px; background-color: black; font-weight: bold;" onClick="generateThumbPlayer(\'' + space + '\',\'blank\',\'0\');">Close Video Preview</div>';
-		//theBox5.innerHTML = '<h1 style="color: red;">Currently No Preview Available</h1>';
-	} else if (remoteSite == '10') { //Twitch.tv
-		var theBox5 = document.getElementById(space);
-		var theBox5EHeight = 240;
-		var theBox5EWidth = 320;
-		if (pSize == 3) { theBox5EHeight = 175; theBox5EWidth = 238; }
-		theBox5.innerHTML = '<object type="application/x-shockwave-flash" height="' + theBox5EHeight + '" width="' + theBox5EWidth + '" id="live_embed_player_flash" data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=' + remoteName + '" bgcolor="#000000"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="allowNetworking" value="all" /><param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf" /><param name="flashvars" value="hostname=www.twitch.tv&channel=' + remoteName + '&auto_play=true&start_volume=0" /></object><a href="http://www.twitch.tv/' + remoteName + '" class="trk" style="padding:2px 0px 4px; display:block; width:' + theBox5EWidth + 'px; font-weight:normal; font-size:10px; text-decoration:underline; text-align:center;">Watch live video from ' + remoteName + '</a>';
-	} else {
-		if (pSize == 4) {
-			generateThumbPlayer4(space,remoteSite,remoteId,remoteName);
-		} else {
-			generateThumbPlayer3(space,remoteSite,remoteId,remoteName);
-		}
-	}
-}
-
-function generateThumbPlayer3(space,remoteSite,remoteId,remoteName) {
-var theBox = document.getElementById(space);
-if (remoteSite == '1') { //stickam 
-//theBox.innerHTML = '<embed src="http://player.stickam.com/stickamPlayer/vo/' + remoteId + '" type="application/x-shockwave-flash">';
-//theBox.innerHTML = '<embed src="http://player.stickam.com/stickamPlayer/vo/' + remoteId + '" type="application/x-shockwave-flash" flashvars="autoPlay=1&autoMute=1&showViews=1" width="238" height="170">';
-//theBox.innerHTML = 'Thumbnail Offline';
-//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?app=stickam_simple_video_player.swf" flashvars="userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_simple_video_player.swf&amp;videoWidth=240&amp;videoHeight=180&amp;zid=liveStream&amp;ProgId=4db0ac164872a&amp;langID=en&amp;skinName=large0" scale="noscale" allowscriptaccess="always" type="application/x-shockwave-flash" width="236" height="177">';
-//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?app=stickam_simple_video_player.swf" flashvars="userID=' + remoteId + '&amp;videoWidth=240&amp;videoHeight=180&amp;zid=liveStream&amp;ProgId=4db0ac164872a&amp;langID=en&amp;skinName=large0" scale="noscale" allowscriptaccess="always" type="application/x-shockwave-flash" width="236" height="177">';
-
-//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?app=stickam_chat_large.swf" flashvars="userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_chat_large.swf&amp;videoWidth=220&amp;videoHeight=210&amp;zid=liveStream&amp;langID=en&amp;skinName=large0" allowscriptaccess="always" type="application/x-shockwave-flash" width="221" height="221">';
-//theBox.scrollTop+=2;
-}//stickam
-else if (remoteSite == '3') {
-	theBox.innerHTML = '<object type="application/x-shockwave-flash" data="http://www.justin.tv/widgets/live_embed_player.swf?channel=' + remoteName + '" id="live_embed_player_flash" height="170" width="238" bgcolor="#000000"><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always" /><param name="allowNetworking" value="all" /><param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" /><param name="flashvars" value="hostname=www.justin.tv&channel=' + remoteName + '&auto_play=true&start_volume=0" /></object>';
-}//else if justintv
-else if (remoteSite == '4') {
-	theBox.innerHTML = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="238" height="170" id="livestreamertwitcasting' + remoteName + '" align="middle"><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="flashVars" value="user=' + remoteName + '&lang=en&mute=0&cupdate=0&offline=" /><param name="movie" value="http://twitcasting.tv/swf/livestreamer.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="http://twitcasting.tv/swf/livestreamer.swf" quality="high" bgcolor="#ffffff" width="238" height="170" name="livestreamer" id="livestreamderembed" align="middle" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" flashVars="user=' + remoteName + '&lang=en&mute=0&cupdate=0&offline=" ></object>';
-}//else if twitcasting.tv
-else if (remoteSite == '8' && remoteId != '') {
-	theBox.innerHTML = '<object id="twitcamPlayer'+ remoteId + '" width="238" height="175" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="http://static.livestream.com/grid/LSPlayer.swf?hash='+ remoteId + '"/><param name="allowScriptAccess" value="always"/><param name="allowFullScreen" value="true"/><param name="wmode" value="window"/> <embed name="twitcamPlayer' + remoteId + '" src="http://static.livestream.com/grid/LSPlayer.swf?hash=' + remoteId + '" allowFullScreen="true" allowScriptAccess="always" type="application/x-shockwave-flash" bgcolor="#ffffff" width="238" height="174" wmode="window" ></embed></object>';
-} //else if twitcam.com (8)
-else if (remoteSite == '9' && remoteId != '') { //uStream
-	theBox.innerHTML = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="320" height="260" id="utv179346"><param name="flashvars" value="autoplay=true&brand=embed&cid=' + remoteId + '"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://www.ustream.tv/flash/viewer.swf"><embed flashvars="autoplay=true&brand=embed&cid=' + remoteId + '" width="320" height="260" allowfullscreen="true" allowscriptaccess="always" id="utv179346" name="utv_n_645381" src="http://www.ustream.tv/flash/viewer.swf" type="application/x-shockwave-flash"></object>';
-}//end else if uStream.tv (9)
-else {
-theBox.innerHTML = '';
-}//else
-}//function generateThumbPlayer3
-
-
-function generateThumbPlayer4(space,remoteSite,remoteId) {
-var theBox = document.getElementById(space);
-if (remoteSite == '1') { //stickam 
-//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_chat_large.swf&amp;langID=en&amp;skinName=large0" type="application/x-shockwave-flash" width="300" height="300">';
-
-//theBox.innerHTML = '<embed src="http://player.stickam.com/stickamPlayer/vo/' + remoteId + '" type="application/x-shockwave-flash">';
-theBox.innerHTML = '<embed src="http://player.stickam.com/stickamPlayer/vo/' + remoteId + '" type="application/x-shockwave-flash" flashvars="autoPlay=1&autoMute=0&showViews=1" width="320" height="270">';
-
-theBox.scrollTop+=2;
-//theBox.innerHTML = '<iframe src="http://360pal.com/text2html.php?title=Player&text=%3Ciframe%20src%3D%22http%3A//www.stickam.com/largeChatNew.do%3FuId%3D' + remoteId + '%22%20name%3D%22camSlotFrame%22%20width%3D%22925%22%20height%3D%22845%22%20scroll%3D%22no%22%3E%3C/iframe%3E" name="camSlotFrame' + space + '" id="camSlotFrame' + space + '" width="335" height="255"></iframe><br><font size="1">' + space + ' | <a href="http://www.stickam.com/largeChatNew.do?uId=' + remoteId + '" target="_blank">Open Room</a> | <a href="javascript:generatePlayer(\'' + space + '\',\'clear\',\'0\');">[Close Slot]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'600\',\'510\');">[Expand]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'335\',\'255\');">[Shrink]</a></font>';
-}//stickam
-else {
-theBox.innerHTML = 'Currently No Preview Available';
-}//else
-}//function generateThumbPlayer4
-
-function generateThumbPlayer4(space,remoteSite,remoteId,remoteName) {
-var theBox = document.getElementById(space);
-if (remoteSite == '1') { //stickam 
-//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_chat_large.swf&amp;langID=en&amp;skinName=large0" type="application/x-shockwave-flash" width="300" height="300">';
-
-//theBox.innerHTML = '<embed src="http://player.stickam.com/stickamPlayer/vo/' + remoteId + '" type="application/x-shockwave-flash">';
-theBox.innerHTML = '<embed src="http://player.stickam.com/stickamPlayer/vo/' + remoteId + '" type="application/x-shockwave-flash" flashvars="autoPlay=1&autoMute=0&showViews=1" width="320" height="270">';
-
-theBox.scrollTop+=2;
-//theBox.innerHTML = '<iframe src="http://360pal.com/text2html.php?title=Player&text=%3Ciframe%20src%3D%22http%3A//www.stickam.com/largeChatNew.do%3FuId%3D' + remoteId + '%22%20name%3D%22camSlotFrame%22%20width%3D%22925%22%20height%3D%22845%22%20scroll%3D%22no%22%3E%3C/iframe%3E" name="camSlotFrame' + space + '" id="camSlotFrame' + space + '" width="335" height="255"></iframe><br><font size="1">' + space + ' | <a href="http://www.stickam.com/largeChatNew.do?uId=' + remoteId + '" target="_blank">Open Room</a> | <a href="javascript:generatePlayer(\'' + space + '\',\'clear\',\'0\');">[Close Slot]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'600\',\'510\');">[Expand]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'335\',\'255\');">[Shrink]</a></font>';
-}//if stickam
-else if (remoteSite == '3') {
-//theBox.innerHTML = '<object type="application/x-shockwave-flash" data="http://www.justin.tv/widgets/live_embed_player.swf?channel=' + remoteName + '" id="live_embed_player_flash" height="250" width="320" bgcolor="#000000"><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always" /><param name="allowNetworking" value="all" /><param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" /><param name="flashvars" value="hostname=www.justin.tv&channel=' + remoteName + '&auto_play=true&start_volume=0" /><param name="allowScriptAccess" value="Always" /></object>';
-theBox.innerHTML = '<object type="application/x-shockwave-flash" height="240" width="320" id="live_embed_player_flash" data="http://www.justin.tv/widgets/live_embed_player.swf?channel=' + remoteName + '" bgcolor="#000000"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="allowNetworking" value="all" /><param name="movie" value="http://www.justin.tv/widgets/live_embed_player.swf" /><param name="flashvars" value="hostname=www.justin.tv&channel=' + remoteName + '&auto_play=true&start_volume=0" /></object>';
-//theBox.innerHTML = '<object type="application/x-shockwave-flash" height="240" width="320" id="live_embed_player_flash" data="http://www.twitch.tv/widgets/live_embed_player.swf?channel=' + remoteName + '" bgcolor="#000000"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="allowNetworking" value="all" /><param name="movie" value="http://www.twitch.tv/widgets/live_embed_player.swf" /><param name="flashvars" value="hostname=www.twitch.tv&channel=' + remoteName + '&auto_play=true&start_volume=0" /></object><a href="http://www.twitch.tv//' + remoteName + '" class="trk" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline; text-align:center;">Watch live video from ' + remoteName + '</a>';
-}//else if justintv
-else if (remoteSite == '4') {
-	theBox.innerHTML = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="320" height="240" id="livestreamertwitcasting' + remoteName + '" align="middle"><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="flashVars" value="user=' + remoteName + '&lang=en&mute=0&cupdate=0&offline=" /><param name="movie" value="http://twitcasting.tv/swf/livestreamer.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="http://twitcasting.tv/swf/livestreamer.swf" quality="high" bgcolor="#ffffff" width="320" height="240" name="livestreamer" id="livestreamderembed" align="middle" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" flashVars="user=' + remoteName + '&lang=en&mute=0&cupdate=0&offline=" ></object>';
-}//else if twitcasting.tv
-else if (remoteSite == '8' && remoteId != '') {
-	theBox.innerHTML = '<object id="twitcamPlayer'+ remoteId + '" width="320" height="240" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="http://static.livestream.com/grid/LSPlayer.swf?hash='+ remoteId + '"/><param name="allowScriptAccess" value="always"/><param name="allowFullScreen" value="true"/><param name="wmode" value="window"/> <embed name="twitcamPlayer' + remoteId + '" src="http://static.livestream.com/grid/LSPlayer.swf?hash=' + remoteId + '" allowFullScreen="true" allowScriptAccess="always" type="application/x-shockwave-flash" bgcolor="#ffffff" width="320" height="240" wmode="window" ></embed></object>';
-} //else if twitcam.com (8)
-else if (remoteSite == '9' && remoteId != '') { //uStream
-	theBox.innerHTML = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="320" height="260" id="utv179346"><param name="flashvars" value="autoplay=true&brand=embed&cid=' + remoteId + '"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="http://www.ustream.tv/flash/viewer.swf"><embed flashvars="autoplay=true&brand=embed&cid=' + remoteId + '" width="320" height="260" allowfullscreen="true" allowscriptaccess="always" id="utv179346" name="utv_n_645381" src="http://www.ustream.tv/flash/viewer.swf" type="application/x-shockwave-flash"></object>';
-}//end else if uStream.tv (9)
-else {
-theBox.innerHTML = 'Currently No Preview Available';
-}//else
-
-}//end Function
-
-
-function secondsToHms(d) {
-d = Number(d);
-var h = Math.floor(d / 3600);
-var m = Math.floor(d % 3600 / 60);
-var s = Math.floor(d % 3600 % 60);
-return ((h > 0 ? h + ":" : "") + (m > 0 ? (h > 0 && m < 10 ? "0" : "") + m + ":" : "0:") + (s < 10 ? "0" : "") + s); }
-
-function updateTimeSpace(space,dur) {
-	if (document.getElementById(space)) {
-		var theBox = document.getElementById(space);
-		theBox.innerHTML = secondsToHms(dur) + '';
-		var spaceTO = setTimeout(function(){updateTimeSpace(space,dur+1)},1000);
-	}
 }
 
 
@@ -268,7 +110,7 @@ function updateTimeSpace(space,dur) {
 	<li><a href="liveStreams.php?orderby=viewersH&amp;stickMinAge=0&amp;stickMaxAge=199&amp;stickShowMale=M&amp;stickShowFemale=F&amp;stickShowUnknown=U&amp;hdsResultsCount=8&amp;stickShowMatureYes=1&amp;stickShowMatureNo=1&amp;stickShowCatGaming=1"><img src="http://www.360pal.com/images/fam/controller.png" border="0" style="margin-left: -30px;">&nbsp;&nbsp; Gaming</a></li>
 	<li><a href="liveStreams.php?orderby=viewersH&amp;stickMinAge=0&amp;stickMaxAge=199&amp;stickShowMale=M&amp;stickShowFemale=F&amp;stickShowUnknown=U&amp;hdsResultsCount=8&amp;stickShowMatureNo=1&amp;stickShowCatEntertainment=1"><img src="http://www.360pal.com/images/fam/film.png" border="0" style="margin-left: -30px;">&nbsp;&nbsp; Movies</a></li>
 	<li><a href="liveStreams.php?orderby=viewersH&amp;stickMinAge=0&amp;stickMaxAge=199&amp;stickShowMale=M&amp;stickShowFemale=F&amp;stickShowUnknown=U&amp;hdsResultsCount=8&amp;stickShowMatureNo=1&amp;stickShowCatEntertainment=1"><img src="http://www.360pal.com/images/fam/music.png" border="0" style="margin-left: -30px;">&nbsp;&nbsp; Music</a></li>
-	<li><a href="liveStreams.php?orderby=viewersH&amp;stickMinAge=0&amp;stickMaxAge=199&amp;stickShowMale=M&amp;stickShowFemale=F&amp;stickShowUnknown=U&amp;hdsResultsCount=8&amp;stickShowMatureNo=1&amp;stickShowFotka=1&amp;stickShowTwitcam=1&amp;stickShowCatUncategorized=1&amp;stickShowCatSocial=1"><img src="http://www.360pal.com/images/fam/group.png" border="0" style="margin-left: -30px;">&nbsp;&nbsp; Social</a></li>
+	<li><a href="liveStreams.php?orderby=viewersH&amp;stickMinAge=0&amp;stickMaxAge=199&amp;stickShowMale=M&amp;stickShowFemale=F&amp;stickShowUnknown=U&amp;hdsResultsCount=8&amp;stickShowMatureNo=1&amp;stickShowFotka=1&amp;stickShowTwitcam=1&amp;stickShowYouNow=1&amp;stickShowCatUncategorized=1&amp;stickShowCatSocial=1"><img src="http://www.360pal.com/images/fam/group.png" border="0" style="margin-left: -30px;">&nbsp;&nbsp; Social</a></li>
 	<li><a href="liveStreams.php?orderby=viewersH&amp;stickMinAge=0&amp;stickMaxAge=199&amp;stickShowMale=M&amp;stickShowFemale=F&amp;stickShowUnknown=U&amp;hdsResultsCount=8&amp;stickShowMatureNo=1&amp;stickShowCatSports=1"><img src="http://www.360pal.com/images/fam/sport_basketball.png" border="0" style="margin-left: -30px;">&nbsp;&nbsp; Sports</a></li>
 </ul>
 </div><div style="width:2px; padding-left: 0px;"></div><div style="clear: both; width:0px; height: 0px; padding-left: 0px;"></div>
@@ -279,13 +121,16 @@ function updateTimeSpace(space,dur) {
 
 <div style="clear: both;"></div>
 
-<div style="display: none; width: 960px; border: thick solid red; font-weight: bold; color: red; font-size: 14px;"><br>Site is under maitenance.<br>Only some networks are online.<br>&nbsp;</div>
+<div style="display: none; width: 960px; border: thick solid red; font-weight: bold; color: red; font-size: 14px;"><br>Severe Weather has taken some servers offline.<br>Things will be back to normal soon.<br>&nbsp;</div>
 
 <div style="display: none; width: 960px; border: thick solid green; font-weight: bold; color: black; font-size: 14px;"><br>Please post what new Webcam Streaming sites you would like added to our system in the <a href="http://4hds.com/forum.php?option=read2&amp;messageid=1298&amp;topicid=1298">forum</a> or the <a href="http://4hds.com/chat.php?chatroomid=30">chat</a>.<br>&nbsp;<br>Twitcasting.tv has been added.<br>&nbsp;</div>
 
 
 <div style="position: relative; width: 960px; background-color: white; text-align: left;">
 <div style="padding-top: 2px;">
+
+
+
 
 <h1>Privacy Policy</h1>
 <h2>Last Modified: February 27, 2010</h2>
@@ -344,7 +189,7 @@ alt="joomla visitors" ></a></div></noscript>
 <div style="border-left: thin solid white; padding-left: 10px;">
 <h2>Network</h2>
 <a href="http://Revercell.com" title="Free Reverse Phone Lookup">Revercell.com</a>
-<a href="http://SimpleClan.com" title="Free Clan Sites">SimpleClan.com</a>
+
 </div>
 </td>
 <td valign="top" width="110">
@@ -411,8 +256,9 @@ For Webcam Safety Tips, visit <a href="http://webcamsafety.org">WebcamSafety.org
 		    var frequency_cap = 5;
 		    var frequency_delay = 30;
 		    var init_delay = 5;
+			var adfly_domain = 'go.4hds.com';
 		</script>
-		<script src="https://cdn.adf.ly/js/entry.js"></script> 
+		<script src="http://cdn.adf.ly/js/entry.js"></script> 
 	
 <!-- PopAds.net Popunder Code for 4hds.com -->
 <!-- PopAds.net Popunder Code End -->
