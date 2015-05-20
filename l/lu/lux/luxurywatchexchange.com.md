@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003112802id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520122215id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
 
-# Luxury Watch Exchange | Auction Sell Buy - BUYING Quality Wristwatch CLOSEOUTS!
+# Luxury Watch Exchange | Auction Sell Buy Trade
 
 [ ](http://www.luxurywatchexchange.com/index.asp)
 
@@ -9,15 +9,13 @@
   * [](http://www.luxurywatchexchange.com/register.asp) [ Register ](http://www.luxurywatchexchange.com/register.asp)
   * [](http://www.luxurywatchexchange.com/myauction.asp) [ My Account ](http://www.luxurywatchexchange.com/myauction.asp)
   * [Forum](https://web.archive.org/login.asp)
-  * [](http://www.luxurywatchexchange.com/buyitem.asp?new_item=1) [ Buy ](http://www.luxurywatchexchange.com/buyitem.asp?new_item=1)
+  * [](http://www.luxurywatchexchange.com/buyitem.asp?new_item=1) [Buy ](http://www.luxurywatchexchange.com/buyitem.asp?new_item=1)
   * [](http://www.luxurywatchexchange.com/sellitem.asp?new_item=1) [ Sell ](http://www.luxurywatchexchange.com/sellitem.asp?new_item=1)
   * [](http://www.luxurywatchexchange.com/auctionitem.asp?new_item=1) [ Auction ](http://www.luxurywatchexchange.com/auctionitem.asp?new_item=1)
   * [](http://www.luxurywatchexchange.com/stores.asp) [ Stores ](http://www.luxurywatchexchange.com/stores.asp)
   * [](http://www.luxurywatchexchange.com/helpgeneral.asp) [ Help ](http://www.luxurywatchexchange.com/helpgeneral.asp)
 
 
-
-BUYING Quality Wristwatch CLOSEOUTS! 
 
 **PRIVACY POLICY** ** **
 
@@ -39,19 +37,57 @@ Data in relation to credit card payments are processed by Authorize.net and Pay
 
 **Changes to this Policy:**  Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it continues to meet with your approval. **Contacting Us: **If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [admin@uxurywatchexchange.com](mailto:admin@theluxurywatchexchange.com).  You can also correct any factual errors in that information or request us to remove your details form any list under our control.
 
-[](http://www.connectingwatches.com/watch-top/) [](http://www.allwatchsites.com/) [](http://www.watchsites.net/)
+[](http://www.allwatchsites.com/) [](http://www.connectingwatches.com/watch-top/)
 
-_**Links To Several Luxury Watch Exchange Details & Info! **_
+_**Watch News!   Chinese Police Luxury Watch Corruption!  For several years**_
 
-_**BING!     [Watch Auctions!   ](http://www.bing.com/search?q=watch+auctions&qs=n&form=QBLH&pq=watch+auctions&sc=8-14&sp=-1&sk=&cvid=58a9d46634f3416897d9dcf94f49cd3e) [Watch Exchange!   ](http://www.bing.com/search?q=watch+exchange&qs=n&form=QBLH&pq=watch+exchange&sc=7-14&sp=-1&sk=&cvid=878ef5f5abdc40d0934f236bcf7c641a)[Luxury Watch Exchange!   ](http://www.bing.com/search?q=watch+exchange&qs=n&form=QBLH&pq=watch+exchange&sc=7-14&sp=-1&sk=&cvid=878ef5f5abdc40d0934f236bcf7c641a) [Wristwatch Auctions! ](http://www.bing.com/search?q=wristwatch+auctions&qs=n&form=QBLH&pq=wristwatch+auctions&sc=4-19&sp=-1&sk=&cvid=42eee1d70c5840cc8ae129e08592543a)        GOOGLE!    [Rolex!](https://www.google.com/search?q=LuxuryWatchExchange.com%2FRolex)**_
+_**                          corrupt officials have been buying.  Police officials have been**_
 
-_**AOL!     [Auction Luxury Watches!   ](http://search.aol.com/aol/search?enabled_terms=&s_it=comsearch&q=Auction+Luxury+Watches/luxurywatchexchange)[Exchange Luxury Watches!    ](http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch&q=Exchange+Luxury+Watches/luxurywatchexchange)[Luxury Watches Classified!   ](http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch&q=Luxury+Watches+Classified/luxurywatchexchange) [Exchange Luxury Wristwatches!](http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch&q=www.exchangeluxurywristwatches%2Fluxurywatchexchange)**_
+_**                         illegally smuggling.  Huge amounts of stolen items from USA**_
 
-_**PINTERST!     [Rolex!   ](http://www.pinterest.com/lexchange/rolex/) [Patek Philippe!](http://www.pinterest.com/lexchange/patek-philippe/)        ASK!   [Watch Exchange!   ](http://www.ask.com/web?q=watch+exchange&qsrc=364&o=0&l=dir&qo=homepageSearchBox)[Luxury Watch Exchange!](http://www.ask.com/web?qsrc=1&o=0&l=dir&q=luxury+watch+exchange&qo=serpSearchTopBox)  (See 'More Answers' Section)  **_
+_**                          using legal USA shipping services.   **_ _ ** [ Luxury Watch Corruption](https://www.google.com/?gws_rd=ssl#q=chinese+police+luxury+watch+corruption)**_
 
-_**YAHOO!     [Trading Luxury Watches](https://search.yahoo.com/search;_ylt=Av3hiUDOurhJ74pY5PwSG8.bvZx4?p=Trading+Luxury+Watches&toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-901&fp=1/luxurywatchexchange)  [  Tourbillon Platinum Perpetual Calendar](http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch&q=Tourbillon+Platinum+Perpetual+Calendar/luxurywatchexchange)[!](https://t-901%2Fluxurywatchexchange/luxurywatchexchange) [    Wrist Watch Exchange](https://search.yahoo.com/search;_ylt=Av3hiUDOurhJ74pY5PwSG8.bvZx4?p=wrist+watch+exchange&toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-901&fp=1)**_
+_**                               _**Luxury Watch Corruption was big $$$ on 'DarkNet' too!   The**_**_
 
-_**Popular Site Links!    **_[AMAZON   ](http://www.amazon.com/)[EBAY   ](http://www.ebay.com/)[FACEBOOK   ](http://www.facebook.com/)[GMAIL   ](http://www.gmail.com/)[HOTMAIL](http://www.hotmail.com/)[   ](http://www.pinterest.com/)[TWITTER   ](http://www.twitter.com/)[YOUTUBE](http://www.youtube.com/)
+_**_**                          FBI destroyed the 'Silk Road' which caused a huge problem for**_**_
+
+_**_**                          sellers of stolen items to corrupt buyers.    **_**_[**FBI**](http://www.usatoday.com/story/news/nation/2013/10/21/fbi-cracks-silk-road/2984921/)
+
+                                              _**_**Hyper-accurate atomic clock won't lose a second in 15 billion**_ **_
+
+_**_**                          years!    **_**_[**Atomic Clock**](http://www.latimes.com/science/sciencenow/la-sci-sn-new-best-atomic-clock-yet-20150420-story.html)
+
+_**_**                          Gold place an Apple Watch or Buy with diamonds sometimes for **_**_
+
+_**_**                          more than $100K!     **_**_[**Apple Watch**](http://www.latimes.com/business/technology/la-fi-tn-apple-watch-jewelers-20150507-story.html)
+
+_**_**                          Chinese Banks a haven for Web counterfeiters!  **_**_**      **[**Chinese Banks**](http://www.latimes.com/business/la-fi-china-banks-counterfeiting-20150511-story.html)
+
+_**Search Engines     **_
+
+[AOL    ](http://www.aol.com/)[ASK    ](http://www.ask.com/)[BING    ](http://www.bing.com/)[BLEKKO    ](http://www.blekko.com/)[ ](http://www.dogpile.com/)[DUCKDUCKGO    ](http://www.duckduckgo.com/)[GOOGLE    ](http://www.google.com/)[YAHOO](http://www.yahoo.com/)
+
+_**Links To Several Luxury Watch Exchange Details & Info**_
+
+_**BING     [Watch Auctions    ](http://www.bing.com/search?q=Luxury+Watch+Auctions&FORM=R5FD7) [Watch Exchange    ](http://www.bing.com/search?q=watch+exchange&qs=n&form=QBLH&pq=watch+exchange&sc=7-14&sp=-1&sk=&cvid=878ef5f5abdc40d0934f236bcf7c641a)[Luxury Watch Exchange    ](http://www.bing.com/search?q=watch+exchange&qs=n&form=QBLH&pq=watch+exchange&sc=7-14&sp=-1&sk=&cvid=878ef5f5abdc40d0934f236bcf7c641a) [Wristwatch Auctions ](http://www.bing.com/search?q=wristwatch+auctions&qs=n&form=QBLH&pq=wristwatch+auctions&sc=4-19&sp=-1&sk=&cvid=42eee1d70c5840cc8ae129e08592543a)  **_
+
+_**GOOGLE     [Rolex](https://www.google.com/search?q=LuxuryWatchExchange.com%2FRolex)**_
+
+_**AOL    [Auction Luxury Watches    ](http://search.aol.com/aol/search?enabled_terms=&s_it=comsearch&q=Auction+Luxury+Watches/luxurywatchexchange)[Exchange Luxury Watches    ](http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch&q=Exchange+Luxury+Watches/luxurywatchexchange)[Luxury Watches Classified    ](http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch&q=Luxury+Watches+Classified/luxurywatchexchange)[Luxury Wristwatches](http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch&q=www.exchangeluxurywristwatches%2Fluxurywatchexchange)**_
+
+_**PINTEREST    [Rolex   ](http://www.pinterest.com/lexchange/rolex/)[Patek Philippe](http://www.pinterest.com/lexchange/patek-philippe/)    [Cartier Watches](https://www.pinterest.com/search/pins/?rs=ac&len=2&q=cartier+watches&term_meta%5B%5D=watches|autocomplete|0)**_
+
+_**  ASK    [Watch Exchange    ](http://www.ask.com/web?q=watch+exchange&qsrc=364&o=0&l=dir&qo=homepageSearchBox)[Luxury Watch Exchange](http://www.ask.com/web?qsrc=1&o=0&l=dir&q=luxury+watch+exchange&qo=serpSearchTopBox) **_
+
+_**YAHOO     [Trading Luxury Watches    T](https://search.yahoo.com/search;_ylt=Av3hiUDOurhJ74pY5PwSG8.bvZx4?p=Trading+Luxury+Watches&toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-901&fp=1/luxurywatchexchange)[ourbillon Platinum Perpetual Calenda](http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch&q=Tourbillon+Platinum+Perpetual+Calendar/luxurywatchexchange)[r    WristWatch Exchange](https://search.yahoo.com/search;_ylt=Av3hiUDOurhJ74pY5PwSG8.bvZx4?p=wrist+watch+exchange&toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-901&fp=1)**_
+
+_**Popular Site Links**_
+
+[AMAZON    ](http://www.amazon.com/)[EBAY    ](http://www.ebay.com/)[PINTEREST    ](http://www.pinterest.com/)[FACEBOOK    ](http://www.facebook.com/)[GMAIL    ](http://www.gmail.com/)[TWITTER   ](http://www.twitter.com/)[YOUTUBE](http://www.youtube.com/)
+
+_**SAVE Substantial $$$ By Paying With Bank Transfers Or Making Multi Purchases - Ask Seller!  **_
+
+_**Clickable Links are FREE to elgible & suitable exchanging websites or annual fee for other watch & luxury websites!  Please email or phone for details!**_
 
   
 
