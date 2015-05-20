@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the likes.com privacy policy that was archived on 2014-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141113202051id_/https%3A//likes.com/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the likes.com privacy policy that was archived on 2015-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150520051455id_/https%3A//likes.com/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <script>window._t={start:(new Date).getTime()};</script>
@@ -15,7 +15,7 @@
 <title>
  Likes.com
 </title>
-<link type="text/css" rel="stylesheet" href="http://c.likes-media.com/s/19c27e521e4a69aed30cd4bcdf752557/static_new.css">
+<link type="text/css" rel="stylesheet" href="//c.likes-media.com/s/9a01134bf2795b3755d704b7de4ed5ff/static_new.css">
 
 
 
@@ -24,6 +24,33 @@
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-4983970-4']);
 var _gaq_var_index = 1;
+</script>
+
+<script id="bounce_tracking" type="text/javascript">
+    function supports_localstorage() {
+        try {
+            return 'localStorage' in window && window['localStorage'] !== null;
+        } catch (e) {
+            return false;
+        }
+    }
+
+    function setup_bounce_tracking(ad_doc) {
+        ad_doc = ad_doc || document;
+        var bounce_ad_slots = ad_doc.querySelectorAll('a[slot_id]');
+        if (bounce_ad_slots.length) {
+            for (var i = 0; i < bounce_ad_slots.length; i++) {
+                bounce_ad_slots[i].addEventListener("click", function(e) {
+                    if (supports_localstorage()) {
+                        localStorage.setItem('back_info_time', "" + Math.round((new Date()).getTime() / 1000));
+                        localStorage.setItem('back_info_pid', "" + this.getAttribute('prid'));
+                        localStorage.setItem('back_info_slot', "" + this.getAttribute('slot_id'));
+                    }
+                });
+            }
+        }
+    }
+
 </script>
 
 <script type="text/javascript">
@@ -117,12 +144,16 @@ var likes_tracking_create = function() {
     };
 
     obj.track_house_ad = function(ad_slot) {
-        obj.track_event({'network': 'mylikes',
-                         'slot_name': ad_slot.slot_name,
-                         'promo_id': ad_slot.promo_id,
-                         'promo_hash': ad_slot.promo_hash,
-                         'type': 'ad_slot_rendered'
-        });
+        var h_event = {'network': 'mylikes',
+                       'slot_name': ad_slot.slot_name,
+                       'promo_id': ad_slot.promo_id,
+                       'promo_hash': ad_slot.promo_hash,
+
+                       'type': 'ad_slot_rendered'};
+        if (ad_slot.csrc) {
+            h_event.csrc = ad_slot.csrc;
+        }
+        obj.track_event(h_event);
     };
 
     obj.get_new_track_id = function() {
@@ -133,55 +164,118 @@ var likes_tracking_create = function() {
     obj.update_ads_data = function(send_params, event_log) {
         var house_ads = '';
         var network_ads = '';
+        var redis_ads = '';
         obj.network_ads_by_position = new Array();
         var i = 0;
+        js_bundle = window.pass_to_js || window.PageData;
         for (; i < event_log.length; i++) {
             if (event_log[i]['network'] == 'mylikes' && event_log[i]['type'] == 'ad_slot_rendered') {
-                delimeter = '';
-                if (event_log[i]['tracking_infos']) {
-                    tracking_infos = event_log[i]['tracking_infos'];
+                delimiter = '';
+                var event = event_log[i];
+                if (event.rotate_list && event.rotate_list.length){
+                    event = event.rotate_list[event.active_promo];
+                }
+                var process_redis_imp = false;
+                var process_house_ad = true;
+                if (event['tracking_infos']) {
+                    tracking_infos = event['tracking_infos'];
                     house_ads += ',{';
                     if (tracking_infos[0] && tracking_infos[0]['base_slot_name']){
-                        house_ads += '"base_slot_name":"' + tracking_infos[0]['base_slot_name'] + '"';
-                        delimeter = ',';
+                        if (js_bundle && js_bundle.ad_page_slots.indexOf(tracking_infos[0]['base_slot_name']) == -1) {
+                            process_redis_imp = obj.track_redis_imps;
+                            process_house_ad = !obj.skip_house_ad;
+                        }
+                        if (process_house_ad) {
+                            house_ads += '"base_slot_name":"' + tracking_infos[0]['base_slot_name'] + '"';
+                        }
+                        delimiter = ',';
                     }
-                    house_ads += delimeter + '"pairs":' + '[';
-                    for (var j = 0; j < tracking_infos.length; j++) {
-                        if (j != 0) {
-                            house_ads += ','
+                    if (process_house_ad) {
+                        house_ads += delimiter + '"pairs":' + '[';
+                    }
+                    if (process_redis_imp) {
+                        redis_ads += '::' + event['slot_id'];
+                    }
+                    var pair_iterator = (event.refresh_count) ? event.promo_list : event.tracking_infos;
+                    for (var j = 0; j < pair_iterator.length; j++) {
+                        if (process_house_ad) {
+                            if (j != 0) {
+                                house_ads += ',';
+                            }
+                            house_ads += '[';
                         }
-                        house_ads += '[';
-                        if (tracking_infos[j]['promo_id']){
-                            house_ads += '"' + tracking_infos[j]['promo_id'] + '"';
+                        if (pair_iterator[j]['promo_id']){
+                            if (process_house_ad) {
+                                house_ads += '"' + pair_iterator[j]['promo_id'] + '"';
+                            }
+                            if (process_redis_imp) {
+                                redis_ads += ',' + pair_iterator[j]['promo_id'];
+                            }
                         }
-                        if (tracking_infos[j]['promo_hash']){
-                            house_ads += ',"' + tracking_infos[j]['promo_hash'] + '"';
+                        if (pair_iterator[j]['promo_hash']){
+                            if (process_house_ad) {
+                                house_ads += ',"' + pair_iterator[j]['promo_hash'] + '"';
+                            }
+                            if (process_redis_imp) {
+                                redis_ads += ':' + pair_iterator[j]['promo_hash'];
+                            }
                         }
+                        if (process_house_ad) {
+                            house_ads += ']';
+                        }
+                    }
+                    if (process_house_ad) {
                         house_ads += ']';
-                        }
-                    house_ads += ']}';
-                } else {
-                    house_ads += ',{';
-                    if (event_log[i]['position']){
-                        house_ads += '"position":"' + event_log[i]['position'] + '"';
-                        delimeter = ',';
-                    }
-                    if (event_log[i]['promo_id']){
-                        house_ads += delimeter + '"promo_id":"' + event_log[i]['promo_id'] + '"';
-                        delimeter = ',';
-                    }
-                    if (event_log[i]['slot_name']){
-                        house_ads += delimeter + '"slot_name":"' + event_log[i]['slot_name'] + '"';
-                        delimeter = ',';
-                    }
-                    if (event_log[i]['promo_hash']){
-                        house_ads += delimeter + '"promo_hash":"' + event_log[i]['promo_hash'] + '"';
-                        delimeter = ',';
-                    }
-                    if (event_log[i]['slot_id']){
-                        house_ads += delimeter + '"slot_id":"' + event_log[i]['slot_id'] + '"';
                     }
                     house_ads += '}';
+                } else {
+                    if (js_bundle && js_bundle.ad_page_slots.indexOf(event['slot_name']) == -1) {
+                        process_redis_imp = obj.track_redis_imps;
+                        process_house_ad = !obj.skip_house_ad;
+                    }
+                    if (process_house_ad) {
+                        house_ads += ',{';
+                        }
+                    if (event['position'] && process_house_ad){
+                        house_ads += '"position":"' + event['position'] + '"';
+                        delimiter = ',';
+                    }
+                    if (process_redis_imp) {
+                        redis_ads += '::' + event['slot_id'];
+                    }
+                    if (event['promo_id']){
+                        if (process_house_ad) {
+                            house_ads += delimiter + '"promo_id":"' + event['promo_id'] + '"';
+                        }
+                        delimiter = ',';
+                        if (process_redis_imp) {
+                            redis_ads += ',' + event['promo_id'];
+                        }
+                    }
+                    if (event['slot_name'] && process_house_ad){
+                        house_ads += delimiter + '"slot_name":"' + event['slot_name'] + '"';
+                        if (event['slot_name'].indexOf('ad_page_') == 0) {
+                            if (event.csrc) {
+                                house_ads += ',"csrc":"' + event.csrc + '"';
+                            }
+                        }
+                        delimiter = ',';
+                    }
+                    if (event['promo_hash']){
+                        if (process_house_ad) {
+                            house_ads += delimiter + '"promo_hash":"' + event['promo_hash'] + '"';
+                        }
+                        delimiter = ',';
+                        if (process_redis_imp) {
+                            redis_ads += ':' + event['promo_hash'];
+                        }
+                    }
+                    if (event['slot_id'] && process_house_ad){
+                        house_ads += delimiter + '"slot_id":"' + event['slot_id'] + '"';
+                    }
+                    if (process_house_ad) {
+                        house_ads += '}';
+                    }
                 }
             } else if (obj.track_network_ads) {
                 if (!event_log[i]['type']
@@ -204,7 +298,7 @@ var likes_tracking_create = function() {
                 state += ',{';
                 state += '"' + network + '":';
                 if (cpm != null){
-                    cpm = Math.round(cpm*1000)/1000
+                    cpm = Math.round(cpm*1000)/1000;
                     state += '[';
                     state += event_log[i]['latency_ms'];
                     state += ',' + cpm;
@@ -233,6 +327,9 @@ var likes_tracking_create = function() {
         }
         send_params['house_ads'] = '[' + house_ads + ']';
         send_params['network_ads'] ='[{' + network_ads + '}]';
+        if (redis_ads.length > 0) {
+            send_params['redis_ads'] = redis_ads.substr(2);
+        }
     };
 
     obj.send_events = function(cancel_pending) {
@@ -251,10 +348,10 @@ var likes_tracking_create = function() {
             }
         }
 
-        //
+        /*
         // We only need to send data if we have pending events in the event log
         // or if we have not yet recorded a pageview (pvid == null)
-        //
+        */
         if (obj.sent_index < obj.event_log.length) {
             obj.update_ads_data(send_params, obj.event_log.slice(obj.sent_index));
         } else {
@@ -269,8 +366,22 @@ var likes_tracking_create = function() {
             send_params['pvid'] = obj.pvid;
         }
         var method = obj.pvid ? 'update_pv' : 'track_pv';
-        if (method == 'update_pv' && !obj.track_network_ads) {
-            return;
+        if (method == 'update_pv') {
+            if (!obj.track_network_ads && obj.track_house_ads ) {
+                if (send_params.house_ads == "[]" && !send_params.redis_ads) {
+                    return;
+                } else {
+                    send_params.network_ads = "[{}]";
+                }
+            } else if (obj.track_network_ads && !obj.track_house_ads) {
+                if (send_params.network_ads == "[{}]") {
+                    return;
+                } else {
+                    send_params.house_ads = "[]";
+                }
+            } else if (!obj.track_network_ads && !obj.track_house_ads) {
+                return;
+            }
         }
         $.ajax({
             url: '//' + window.location.host + '/api/' + method,
@@ -356,7 +467,7 @@ try {
 
     obj.create_iframe = function (width, height, defer_size_ms) {
         var ifrm = document.createElement('iframe');
-        ifrm.setAttribute('margin', '0');
+        ifrm.setAttribute('margin', '0 auto');
         ifrm.setAttribute('padding', '0');
         ifrm.setAttribute('frameBorder', '0');
         if (!defer_size_ms) {
@@ -368,7 +479,10 @@ try {
         }
         ifrm.setAttribute('scrolling','no');
         try {
-            ifrm.style.margin = "0px";
+            if (width == 1 && height == 1) {
+                ifrm.style.float = "left";
+            }
+            ifrm.style.margin = "0px auto";
             ifrm.style.padding = "0px";
             ifrm.style.border = '0px none';
             if (!defer_size_ms) {
@@ -388,12 +502,20 @@ try {
                     ad_div.childNodes[i].style.display = 'none';
                 }
             }
+            if (document.getElementById("bottom_mobile_ad"))
+                document.getElementById("bottom_mobile_ad").parentNode.classList.remove("dummy_ad_wrapper");
         }
         return ad_div;
     };
     obj.render_ad = function(ad_div_id, width, height, ad_script, ad_src, defer_size_ms) {
         var ad_div = window.likes_ad_passbacks.hide_all_in_div(ad_div_id);
         if (ad_div) {
+            var dummy_ad;
+            if (ad_src.indexOf("dummy_mob_bottomtall") > -1) {
+                width = 0;
+                height = 0;
+                dummy_ad = 1;
+            }
             var ifrm = window.likes_ad_passbacks.create_iframe(width, height, defer_size_ms);
             ad_div.appendChild(ifrm);
             if (!defer_size_ms) {
@@ -406,6 +528,9 @@ try {
                         ifrm.height = height;
                     }, defer_size_ms);
                 };
+            }
+            if (dummy_ad && ad_div_id == "bottom_mobile_ad") {
+                ad_div.parentNode.classList.add("dummy_ad_wrapper");
             }
             if (ad_src) {
                 ifrm.src = ad_src;
@@ -421,6 +546,9 @@ try {
     obj.render_passback = function(network, position, div_id) {
         if (window.top.likes_tracking) {
             window.top.likes_tracking.track_event({'type': 'attempted_passback', 'network': network, 'position': position});
+        }
+        if (network == "criteo" && position == "top"){
+            window.likes_ad_passbacks.criteo_top_reload = true;
         }
         if (((network == "openx_lowval") || (network == "fedmedia_passback")) && position == "right") {
             clearTimeout(window._defered_size_timeout);
@@ -471,6 +599,10 @@ try {
 </script>
 
 
+
+
+
+
 </head>
 <!--[if lte IE 9 ]> <body class="ie8  "> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <body class="not_ie  "> <!--<![endif]-->
@@ -480,11 +612,16 @@ try {
  <div class="header_outer hidden-phone " id="header">
 <div class="tabs">
 
-<a href="/signin" id="newlogo" class="logo"></a>
+
+
+<a href="/" id="newlogo" class="logo"></a>
+
+
 
 
 <div class="loggedout_buttons ">
-<a id="channel_signin_tab" class="button blue_button floatright no_ajax " href="/signin"><strong>Sign in</strong></a>
+
+
 
 
 </div>
@@ -505,34 +642,26 @@ try {
 <div id="privacy_wrapper" class="static_main_col">
 <div class="static_section">
 <h1>Privacy Policy</h1>
-<div id="ae7a827d-4f9b-4fa3-87e2-314452abf019"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/MyLikes,-Inc-/asc?rid=ae7a827d-4f9b-4fa3-87e2-314452abf019"></script><p><a href="//privacy.truste.com/privacy-seal/MyLikes,-Inc-/validation?rid=edfa18e5-f75f-4062-b9ff-aa855ae1541f" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/MyLikes,-Inc-/seal?rid=edfa18e5-f75f-4062-b9ff-aa855ae1541f" alt="TRUSTe online privacy certification"></a></p></div>
 <p class="maincontent">Effective Date: 27 August 2013</p>
 <p class="maincontent">We take your privacy seriously. Please read the following to learn more about our privacy policy. The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.</p>
-<p class="maincontent">This privacy policy applies to www.likes.com (“Likes”) owned and operated by MyLikes, Inc. This privacy policy describes how MyLikes, Inc. collects and uses the personal information you provide on our website: <a href="http://likes.com">www.likes.com</a>. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p>
-<p class="maincontent">MyLikes, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's <a href="http://www.truste.com/privacy-program-requirements/">program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this website, <a href="http://likes.com">www.likes.com</a>.</p>
-<p class="maincontent">TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please <a href="/content/contact_form">contact us</a>. If you are not satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request">here</a>.</p>
+<p class="maincontent">This privacy policy applies to likes.com (“Likes.com”) owned and operated by MyLikes, Inc. This privacy policy describes how MyLikes, Inc. collects and uses the personal information you provide on our website: <a href="http://likes.com">likes.com</a>. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.</p>
 <h4>INFORMATION AND COLLECTION OF USE</h4>
-<p class="maincontent">We collect personal information when you register with Likes, and when you subscribe and share Likes channels. Likes may combine information about you that we have with information we obtain from business partners or other companies such as Google, for the purpose of delivering personalized content. When you register we ask for information such as your name, gender, age and email address. Likes uses the information for the following general purposes: to customize the content you see, fulfill your requests for services, improve our services, contact you, and conduct research. You may set up a channel on Likes.</p>
+<p class="maincontent">We collect personal information when you register with Likes.com, and when you subscribe and share Likes.com channels. Likes.com may combine information about you that we have with information we obtain from business partners or other companies such as Google, for the purpose of delivering personalized content. When you register we ask for information such as your name, gender, age and email address. Likes.com uses the information for the following general purposes: to customize the content you see, fulfill your requests for services, improve our services, contact you, and conduct research. You may set up a channel on Likes.com.</p>
 <h4>INFORMATION SHARING</h4>
 <p class="maincontent">We do not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or when we respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. If we becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.</p>
 <h4>COOKIES</h4>
-<p class="maincontent">We use “cookies” on Likes to track how users use our website. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We link some information we store in cookines to personal information you submit in order to deliver a better experience on the service.</p>
+<p class="maincontent">We use “cookies” on Likes.com to track how users use our website. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We link some information we store in cookines to personal information you submit in order to deliver a better experience on the service.</p>
 <p class="maincontent">We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to make it easier for you to navigate our site. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.</p>
 <p class="maincontent">If you reject cookies, you may still use our website, but your ability to use some areas of our site, such as contests or surveys, will be limited. </p>
 <p class="maincontent">As is true of most websites, we gather certain information automatically and store it in log files. These are non-personal information which includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the website, to track users’ movements around the website and to gather demographic information about our user base as a whole. We do link this automatically-collected data to personal information. </p>
-<h4>BEHAVIORAL TARGETING / RE-TARGETING</h4>
-<p class="maincontent">We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
+
 <h4>CONTENT OF ITEMS</h4>
 <p class="maincontent">The contents of any item that you post directly to the site, including any text, images and audio, are stored and maintained on our servers in order to publish these items and provide the Service. Your submitted content will be associated with your account.</p>
 <h4>CONFIDENTIALITY AND SECURITY</h4>
 <p class="maincontent">The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</p>
 <h4>THIRD PARTY SITES</h4>
-<p class="maincontent">This Policy only applies to the Likes website and services. We do not exercise control over the sites that our service links to. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personal information, and we shall not be liable for wrongful use or disclosure of your personal information by any third party.</p>
-<ul>
-<li>(i) Likes may sometimes use third-party advertising companies to serve ads to users;</li>
-<li>(ii) Third-party advertising companies may use non-personally identifiable information about user visits in order to provide advertisements for goods and services that may be of interest to the user.</li>
-<li>(iii) You can find more information about these practices and the your choices concerning these practices at <a href="http://networkadvertising.org/managing/opt_out.asp">http://networkadvertising.org/managing/opt_out.asp</a></li>
-</ul>
+<p class="maincontent">This Policy only applies to the Likes.com website and services. We do not exercise control over the sites that our service links to. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personal information, and we shall not be liable for wrongful use or disclosure of your personal information by any third party.</p>
+
 <h4>DATA INTEGRITY</h4>
 <p class="maincontent">We processes personal information only for the purposes for which it was collected and in accordance with this policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. Users can update, correct or delete their personal information through the profile page of their account or by <a href="/content/contact_form">contacting us</a>.</p>
 <p class="maincontent">We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
@@ -544,11 +673,16 @@ try {
 <h4>SINGLE SIGN-ON</h4>
 <p class="maincontent">You can log in to our website using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
 <h4>CHANGES TO THIS PRIVACY POLICY</h4>
-<p class="maincontent">We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Likes account or by placing a prominent notice on our site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<p class="maincontent">We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Likes.com account or by placing a prominent notice on our site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<h4>CHILDREN</h4>
+<p class="maincontent">Likes.com is not intended for use by children.</p>
+<p class="maincontent">Anyone under the age of 13 is not permitted to use the Service and must not attempt to register an account or submit personal information to the Service.</p>
+<p class="maincontent">Likes.com does not knowingly collect any personal information from any person under the age of 13 or allow them to register an account. If Likes.com learns it has unknowingly collected this information it is deleted as soon as possible.</p>
+<p class="maincontent">If you have reason to believe Likes.com has collected this data or are a parent or legal guardian who is concerned their child or ward has accessed the service please contact us by email at help (at) likes.com and Likes.com will take steps to remove all personal information and terminate the account.</p>
 <h4>CONTACT US</h4>
 <p class="maincontent">
 If you have questions or comments about this privacy policy please contact us through the information below:</p>
-My Likes, Inc.<br>
+MyLikes, Inc.<br>
 1000 Brannan Street<br>
 San Francisco, CA<br>
 94103<br>
@@ -561,29 +695,20 @@ San Francisco, CA<br>
 <a href="/content/privacy">Privacy Policy</a>
 <a href="/content/dmca">DMCA</a>
 </div>
-<div class="footer_col floatleft">
-<a href="https://www.facebook.com/LikesDotCom">Facebook</a>
-<a href="http://twitter.com/likesdotcom">Twitter</a>
-<a href="https://plus.google.com/+Likes">Google+</a>
-</div>
-<div class="footer_col floatright textright">
-<p>Copyright © 2014 MyLikes Inc., <br>
-All rights reserved.</p>
-<div id="ae7a827d-4f9b-4fa3-87e2-314452abf019"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/MyLikes,-Inc-/asc?rid=ae7a827d-4f9b-4fa3-87e2-314452abf019"></script><a href="//privacy.truste.com/privacy-seal/MyLikes,-Inc-/validation?rid=edfa18e5-f75f-4062-b9ff-aa855ae1541f" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/MyLikes,-Inc-/seal?rid=edfa18e5-f75f-4062-b9ff-aa855ae1541f" alt="TRUSTe online privacy certification"></a></div>
 
+<div class="footer_col floatright textright">
+<p>Copyright © 2015 Likes.com, <br>
+All rights reserved.</p>
 </div>
 <div class="clear"></div>
 </div>
 
 </div>
 <div id="static_left_nav" class="floatleft">
-<a class="parent_tab " href="/content/overview">overview</a>
+<a class="parent_tab " href="/content/terms">terms</a>
 
-<a class="parent_tab " href="/content/about">about</a>
+<a class="parent_tab active " href="/content/privacy">privacy</a>
 
-<a class="parent_tab " href="/content/team">team</a>
-
-<a class="parent_tab " href="/content/jobs">jobs</a>
 
 <a class="parent_tab " href="/content/contact">contact</a>
 
