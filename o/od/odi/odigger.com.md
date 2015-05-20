@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the odigger.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120133137id_/http%3A//odigger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odigger.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521005959id_/http%3A//odigger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | oDigger
 
-Last updated 05/25/2010
+Last updated 01/01/2015
 
 We realize that you care about the use of your information, and we respect your concerns. We have put strict policies into place to ensure that the privacy of your personal information is protected while still enabling you to make use of the services provided by ODigger.com.
 
@@ -26,7 +26,7 @@ We will collect and use personal information about you to respond to your reques
 
 **Marketing Email Options**
 
-You may register to receive communications from us directly on our website. Upon registering, we will periodically send you newsletters and other e-mails with offers and promotions. If you no longer wish to receive these communications, please let us know by sending an email to [support@odigger.com](mailto:support@odigger.com) (You may also opt-out by clicking on the unsubscribe link in our emails).
+You may register to receive communications from us directly on our website. Upon registering and creating/signing up for a user account on oDigger, we will periodically send you newsletters and other e-mails with offers and promotions. If you no longer wish to receive these communications, please let us know by sending an email to [support@odigger.com](mailto:support@odigger.com) (You may also opt-out by clicking on the unsubscribe link in our emails).
 
 **Third Party Link**
 
