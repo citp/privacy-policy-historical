@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minecraftmaps.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219123627id_/http%3A//www.minecraftmaps.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftmaps.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520112911id_/http%3A//www.minecraftmaps.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Minecraft Maps
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by using the [contact form](http://www.minecraftmaps.com/info/contact-us) on our site.
 
