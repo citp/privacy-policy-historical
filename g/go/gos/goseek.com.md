@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goseek.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213124430id_/http%3A//www.goseek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goseek.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521004929id_/http%3A//www.goseek.com/privacy) for the most accurate reproduction.*
 
 # goSeek.com | Hotel Discounts, Deals, and Special Offers
 
@@ -111,4 +111,4 @@ We may make changes to this Privacy Policy at any time in the future. If and whe
 
 Effective date 
 
-December 13, 2014 
+May 20, 2015 
