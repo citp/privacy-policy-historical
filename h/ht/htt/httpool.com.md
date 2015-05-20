@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the httpool.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021031716id_/http%3A//www.httpool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the httpool.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521012928id_/http%3A//www.httpool.com/privacy) for the most accurate reproduction.*
 
 # Httpool | Privacy and Data Use
 
