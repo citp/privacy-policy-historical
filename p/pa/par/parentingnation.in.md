@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentingnation.in privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227052715id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentingnation.in privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520234125id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies of Parenting Portal Parenting Nation India - Parenting Nation India
 
