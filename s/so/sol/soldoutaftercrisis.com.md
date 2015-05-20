@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soldoutaftercrisis.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925020213id_/http%3A//soldoutaftercrisis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soldoutaftercrisis.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520222452id_/http%3A//soldoutaftercrisis.com/privacy.php) for the most accurate reproduction.*
 
 # 37 Critical Items
 
@@ -92,9 +92,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information found at this link: http://www.SoldOutAfterCrisis.com/contactus.php    
-3879 E. 120th Avenue  
-Suite 323  
-Thornton, CO 80233  
+4155 E Jewell Ave, Suite 900  
+Denver, CO 80222  
 USA  
 info@SoldOutAfterCrisis.com
 
