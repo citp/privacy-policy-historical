@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyworld.in privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227171542id_/http%3A//www.healthyworld.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyworld.in privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520141631id_/http%3A//www.healthyworld.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
