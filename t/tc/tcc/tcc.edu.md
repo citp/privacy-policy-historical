@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107002740id_/http%3A//www.tcc.edu/policies/1000/1104Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcc.edu privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520153333id_/http%3A//www.tcc.edu/policies/1000/1104Privacy.pdf) for the most accurate reproduction.*
 
 # Policies and Procedures
 
