@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212010425id_/http%3A//www.historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historylearningsite.co.uk privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520061347id_/http%3A//www.historylearningsite.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-  * [History Learning Site](https://web.archive.org/web/20141212010425id_/http%3A//www.historylearningsite.co.uk/index.htm) > 
-  * [Privacy](https://web.archive.org/web/20141212010425id_/http%3A//www.historylearningsite.co.uk/privacy.htm)
+  * [History Learning Site](https://web.archive.org/web/20150520061347id_/http%3A//www.historylearningsite.co.uk/index.htm) > 
+  * [Privacy](https://web.archive.org/web/20150520061347id_/http%3A//www.historylearningsite.co.uk/privacy.htm)
 
 
 
@@ -46,7 +46,7 @@ We partner with ValueClick Media to serve ads and/or collect certain information
 
  _"Privacy".  HistoryLearningSite.co.uk. 2014\. Web._
 
-  * [History Learning Site](https://web.archive.org/web/20141212010425id_/http%3A//www.historylearningsite.co.uk/index.htm) > 
-  * [Privacy](https://web.archive.org/web/20141212010425id_/http%3A//www.historylearningsite.co.uk/privacy.htm)
+  * [History Learning Site](https://web.archive.org/web/20150520061347id_/http%3A//www.historylearningsite.co.uk/index.htm) > 
+  * [Privacy](https://web.archive.org/web/20150520061347id_/http%3A//www.historylearningsite.co.uk/privacy.htm)
 
 
