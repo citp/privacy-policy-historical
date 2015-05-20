@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redcross.ca privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702020904id_/http%3A//www.redcross.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.ca privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520045548id_/http%3A//www.redcross.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Red Cross Canada
+# Privacy Policy - Canadian Red Cross
 
 [Canadian Red Cross](https://web.archive.org/)
 
