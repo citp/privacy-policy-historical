@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodsargam.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019111144id_/http%3A//www.bollywoodsargam.com/bollywoodsargam_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodsargam.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520160803id_/http%3A//www.bollywoodsargam.com/bollywoodsargam_privacy.php) for the most accurate reproduction.*
 
 # BollywoodSARGAM.com Privacy Policy - Defination - Tutorial
 
