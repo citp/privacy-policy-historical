@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122090103id_/http%3A//www.outerspace-software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerspace-software.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520154355id_/http%3A//www.outerspace-software.com/privacy) for the most accurate reproduction.*
 
 # Outerspace Software - 3D Visual Effects Software - Privacy Policy
 
