@@ -1,0 +1,396 @@
+<!--The following is the downloaded HTML source of the myweboxi.net privacy policy that was archived on 2015-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150520161018id_/http%3A//www.myweboxi.net/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8"><meta name="viewport" content="width = 650"><meta name="viewport" content="width = device-width"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><title>
+
+</title><link href="/img/favicon.ico" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="/css/sifirlama.css"><link rel="stylesheet" type="text/css" href="/css/sitil.css"><link rel="stylesheet" type="text/css" href="/css/prettyPhoto.css"><link rel="stylesheet" type="text/css" href="/css/jqtransform.css"><link rel="stylesheet" type="text/css" href="/css/ui.css">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.nicescroll.js"></script>
+    <script type="text/javascript" src="/js/genel.js"></script>
+    <script type="text/javascript" src="/js/jquery.prettyphoto.js"></script>
+    <script type="text/javascript" src="/js/jquery.jqtransform.js"></script>
+    <script type="text/javascript" src="/js/easing.js"></script>
+    <script type="text/javascript" src="/js/jcarousel.js"></script>
+    <script type="text/javascript" src="/js/arma.js"></script>
+    
+</head>
+<body>
+    <form method="post" action="privacy-policy.html" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yKmsxdAaTZSt8CLkJijpfm/M3Qxy+pOXz7UC2R+SV/FKK9SFjDGsSY/6BsYJdy3ql/qoJOzkjIGxdmS66DP5IH8jfG9TTH9IsoGev9UgSUM=">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2927320D">
+        <div style="width: 100%; height: 36px; background: #102C36;">
+            
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#btnLogin').click(function () {
+
+            var email = $('#txtLoginEmail').val();
+            var pass = $('#txtLoginPass').val();
+            if (email.toString().length > 4 & email.toString().indexOf("@") > -1 & pass.toString().length > 4) {
+                var url = "/Controls/Login.aspx?email=" + email + "&pass=" + pass;
+
+                $.ajax({
+                    type: "POST", url: url, success: function (ret) {
+                        if (ret == "1") {
+                            window.location = window.location.pathname;
+                        }
+                    }
+                });
+            }
+        });
+        
+        $('#btnAccont').click(function () {
+            var name = $('#txtAccountName').val();
+            var email = $('#txtAccountEmail').val();
+            var pass1 = $('#txtAccountPass1').val();
+            var pass2 = $('#txtAccountPass2').val();
+
+            if (
+                name.toString().length > 4
+                & email.toString().length > 4
+                & email.toString().indexOf("@") > -1
+                & pass1.toString().length > 4
+                & pass1.toString() == pass2.toString()
+                ) {
+
+                var url = "/Controls/Create_Account.aspx?email=" + email + "&name=" + name + "&pass=" + pass1;
+                $.ajax({
+                    type: "POST", url: url, success: function (ret) {
+                        if (ret == "1") {
+                            url = "/Controls/Login.aspx?email=" + email + "&pass=" + pass1;
+                            $.ajax({
+                                type: "POST", url: url, success: function (ret1) {
+                                    if (ret1 == "1") {
+                                        window.location = window.location.pathname;
+                                    }
+                                }
+                            });
+                        }
+                        else {
+                            alert("registration could not be completed");
+                        }
+                    }
+                });
+            }
+            else {
+                alert("Enter all the fields.");
+            }
+        });
+        
+    });
+</script>
+<!-- Üye Başvurusu -->
+<div class="acilirPencere acUyeOl" style="display: none">
+    <div class="acilir-ic uye-islem frmSitil">
+        <div class="acilir-baslik">
+            <i></i>
+            <h1>Create Account</h1>
+        </div>
+        <div class="acilir-icerik-u">
+            <ul>
+                <li>
+                    <label>E-mail</label>
+                    <input class="acilir-input" rel="Holder" size="33.6" type="text" placeholder="Your Email" id="txtAccountEmail">
+                </li>
+                <li>
+                    <label>Name</label>
+                    <input class="acilir-input" rel="Holder" size="33.6" type="text" placeholder="Your Name" id="txtAccountName"></li>
+                <li>
+                </li><li>
+                    <label>Password</label>
+                    <input class="acilir-input" rel="Holder" size="33.6" placeholder="Password" type="password" id="txtAccountPass1"></li>
+                <li>
+                </li><li>
+                    <label>Password</label>
+                    <input class="acilir-input" rel="Holder" size="33.6" placeholder="Password Again" type="password" id="txtAccountPass2"></li>
+                <li>
+                </li><li>
+                    <span class="sg">
+                        <input type="submit" value="Login" id="btnAccont"></span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--/ Üye Başvurusu  /-->
+
+
+<!-- Üye Girişi -->
+<div class="acilirPencere acUyeGirisi" style="display: none">
+    <div class="acilir-ic uye-islem frmSitil">
+        <div class="acilir-baslik">
+            <i></i>
+            <h1>Login</h1>
+        </div>
+        <div class="acilir-icerik-u">
+            <ul>
+                <li>
+                    <label>E-mail</label>
+                    <input class="acilir-input" rel="Holder" size="33.6" placeholder="your email" type="text" id="txtLoginEmail">
+                </li>
+                <li>
+                    <label>Password</label>
+                    <input class="acilir-input" rel="Holder" size="33.6" type="password" placeholder="your password" id="txtLoginPass"></li>
+                <li>
+                    <span class="sg">
+                        <input type="submit" value="Login" id="btnLogin"></span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--/ Üye Girişi /-->
+
+<!-- ÜST ALAN -->
+<div class="resUst" style="display: none">
+    <a href="/">
+        <img src="/img/logo.png" style="display: none; width: 90px; padding: 10px;  margin-left: 13px;" class="logo respMenu"></a>
+    <a href="javascript:void(0)" style="display: none" class="mobileA respMenu">
+        <img src="http://urladviser.com/images/menu2.png"></a>
+</div>
+<div class="mobileMenuDiv" style="display: none;">
+    <ul class="mobileMenu">
+        <li><a href="/">Home</a></li>
+        <li><a href="/categories.html">Categories</a></li>
+        <li><a href="/add_site.html">Add Your Site</a></li>
+        <li><a href="/about.html">About Us</a></li>
+    </ul>
+</div>
+<div class="ust-alan">
+    <div class="logo">
+        <a href="/"></a>
+    </div>
+    <div class="menu-uyelik">
+        <div class="menu deskMenu">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/categories.html">Categories</a></li>
+                <li><a href="/add_site.html">Add Your Site</a></li>
+                <li><a href="/about.html">About Us</a></li>
+            </ul>
+        </div>
+        
+        <div class="uyelik">
+            <a class="i uye-giris pencereAc" rel="acUyeGirisi" title="Login" style="cursor: pointer;">Login</a>
+            <a class="i yeni-uyelik pencereAc" rel="acUyeOl" title="Signup" style="cursor: pointer;">Signup</a>
+        </div>
+        
+    </div>
+</div>
+
+<!--/ ÜST ALAN /-->
+
+            
+            <div id="wrap" class="ustReklamKapsul">
+                <div class="ustReklam">
+                    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Weboxi - 970x90 -->
+<ins class="adsbygoogle" style="display:inline-block;width:970px;height:90px" data-ad-client="ca-pub-2507800347875519" data-ad-slot="5382203490"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                </div>
+            </div>
+            
+        </div>
+        <div class="sablon">
+            <div class="orta-alan">
+                <div class="sayfalar">
+                </div>
+            </div>
+        </div>
+        <div class="sablon" style="width: 100%; background-color: #0F2B35; z-index: 99999999999; margin: 0; border-bottom: 3px solid #444; margin-top: -30px; margin-bottom: 10px; display: none;" id="divsearch">
+            <div class="orta-alan" style="margin: 0;">
+                <div class="sayfalar" style="margin: 0;">
+                    <div class="domain-arama" style="border: 0; margin-left: auto; margin-right: auto; z-index: 999999; width: 970px; height: 90px; margin-top: 2px; padding: 0 0 1px 0 !important;">
+                        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <ins class="adsbygoogle" style="display: inline-block; width: 970px; height: 90px" data-ad-client="ca-pub-2507800347875519" data-ad-slot="7078363899"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="sablon">
+            <div class="orta-alan">
+                <div class="sayfalar">
+                    
+    <div class="domain-arama">
+        <div class="domain">
+          <h1>Privacy Policy</h1>
+        </div>
+        
+<script type="text/javascript">
+    $(document).ready(function () {
+        
+        $('.arama input[type="submit"]').click(function () {
+            
+            return GoogleSearch();
+        });
+        $('.arama input[name="q"]').keypress(function (e) {
+            if (e.which == 13) {
+                return GoogleSearch();
+            }
+        });
+    });
+    function GoogleSearch() {
+        var cx = $('.google-search input[name="cx"]').val();
+        var cof = $('.google-search input[name="cof"]').val();
+        var ie = $('.google-search input[name="ie"]').val();
+        var val = $('.google-search input[name="q"]').val();
+        var siteurl = document.URL;
+        var ref = document.createElement('a');
+        ref.href = siteurl;
+        var url = '/search.aspx?cx=' + cx + '&cof=' + cof + '&ie=' + ie + '&q=' + val + '&sa=Search&siteurl=' + encodeURIComponent(siteurl) + '&ref=' + encodeURIComponent(ref.host);
+        window.location = url;
+        return false;
+    }
+</script>
+<div class="arama">
+    <div class="input-arka google-search">
+        <span class="slayt-input AutoComplete">
+            <input type="hidden" name="cx" value="partner-pub-2507800347875519:2512239099">
+            <input type="hidden" name="cof" value="FORID:10">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input type="text" name="q" size="55" placeholder="http://www.domainname.com">
+            <br>
+            <span class="AutoCompleteList"></span>
+        </span>
+        <span class="slayt-sorgula">
+            <input type="submit" name="sa" value="Search" id="btnSearchDomain">
+        <i class="s1"></i>
+        </span>
+    </div>
+</div>
+      </div>
+
+      <div class="hakkinda">
+            <p><b>Advertising</b></p>
+          
+          <p>We use 3rd-party for to serve ads to make it more accessible what you want when you visit our website. The ad companies we work with (yet only Google) sometimes may use information (not any personal information contains your name, password, address, email address, telephone number or any other kind of personal information). We assure you these informations may only about your visits and it is only because to provide advertisements about what you may be interested in. We never share any kind of personal information and you will be never asked for your password except signing in process. All users are responsible for their own password security, they are not allowed to share their passwords/accounts with any other person.</p>
+          <br>
+          <p><b>Storing Data</b></p>
+          <p>Our website displays ads and some external links to 3rd-party websites offered through Google AdSense and the websites we preview. Our ads work with the DoubleClick DART cookie. Cookies are tiny information files which is stored in your computer during a visit a website. Only information will be stored is about your visit, which ad you clicked, which ad you viewed, etc. These cookies help us and Google to provide you more useful information.</p>
+          <p>For more information about DART cookie, you can visit official Google ad and content privacy policy.</p>
+          <br>
+          <p><b>External Links</b></p>
+          <p>Weboxy is not and will not (unless it is stated here) be affiliated with any other advertisers than Google on our website. Links or references to individuals or companies do not constitute an endorsement of any information, product or service you may receive from such sources. Clicking on advertisements or links that take you off our website is done at your own risk - we are not responsible for any issues resulting from interactions with advertisers, their websites, or their affiliates.</p>
+
+
+      </div>
+
+
+                </div>
+            </div>
+        </div>
+        <div class="cf"></div>
+        
+<!-- ALT ALAN -->
+<div class="alt-alan">
+    <div class="alt-alanic">
+        <div class="alt-alan-ust">
+            <div class="aa-ust-sol">
+                <div class="alt-menu">
+                    <ul>
+                        <li><a href="/about.html">About Us</a></li>
+                        <li><a href="/contact.html">Contact</a></li>
+                        <li><a href="/categories.html">Categories</a></li>
+                        <li><a href="/directory.html">Directory</a></li>
+                        <li><a href="/add_site.html">Add Site</a></li>
+                        <li><a href="/remove_site.html">Remove Site</a></li>
+                    </ul>
+                </div>
+                <div class="alt-adres">
+                    <div class="adres-kutu" style="display: none;">
+                        <i class="alt-adres-iko"></i>
+                        <label>
+                            Adress
+                    <br>
+                            Adress
+                        </label>
+                    </div>
+                    <div class="adres-kutu" style="display: none;">
+                        <i class="alt-telefon-iko"></i>
+                        <label>Tel</label>
+                    </div>
+                    <div class="adres-kutu">
+                        <i class="alt-posta-iko"></i>
+                        <label>info@weboxi.com</label>
+                    </div>
+                </div>
+            </div>
+            <div class="aa-ust-sag">
+                <h1>Stay Connected</h1>
+                <div class="alt-sosyal">
+                    <a href="#" class="i a-sos-1"></a>
+                    <a href="#" class="i a-sos-2"></a>
+                    <a href="#" class="i a-sos-3"></a>
+                    <a href="#" class="i a-sos-4"></a>
+                    <a href="#" class="i a-sos-5"></a>
+                    <a href="#" class="i a-sos-6"></a>
+                </div>
+            </div>
+        </div>
+        <div class="alt-alan-alt">
+            <label>Weboxi © 2013</label>
+            <a href="/categories.html">Categories</a>
+            <a href="/countries.html">Countries</a>
+            <a href="/directory.html">Director</a>
+            <a href="/iplist.html">IP List</a>
+            <a href="/new.html">New Web Sites</a>
+            <a href="/privacy-policy.html">Advertise</a>
+            <a href="/privacy-policy.html">Privacy Policy</a>
+
+        </div>
+    </div>
+    <div style="width: 100%; float: left; background-color: #0F2B35; border-top: 1px solid #243d46;">
+        <div class="alt-alanic">
+            <div class="bottom-map">
+                <a href="/sm/1.html">1</a> | <a href="/sm/2.html">2</a> | <a href="/sm/3.html">3</a> | <a href="/sm/4.html">4</a> | <a href="/sm/5.html">5</a> | <a href="/sm/6.html">6</a> | <a href="/sm/7.html">7</a> | <a href="/sm/8.html">8</a> | <a href="/sm/9.html">9</a> | <a href="/sm/10.html">10</a> | <a href="/sm/11.html">11</a> | <a href="/sm/12.html">12</a> | <a href="/sm/13.html">13</a> | <a href="/sm/14.html">14</a> | <a href="/sm/15.html">15</a> | <a href="/sm/16.html">16</a> | <a href="/sm/17.html">17</a> | <a href="/sm/18.html">18</a> | <a href="/sm/19.html">19</a> | <a href="/sm/20.html">20</a> | <a href="/sm/21.html">21</a> | <a href="/sm/22.html">22</a> | <a href="/sm/23.html">23</a> | <a href="/sm/24.html">24</a> | <a href="/sm/25.html">25</a> | <a href="/sm/26.html">26</a> | <a href="/sm/27.html">27</a> | <a href="/sm/28.html">28</a> | <a href="/sm/29.html">29</a> | <a href="/sm/30.html">30</a> | <a href="/sm/31.html">31</a> | <a href="/sm/32.html">32</a> | <a href="/sm/33.html">33</a> | <a href="/sm/34.html">34</a> | <a href="/sm/35.html">35</a> | <a href="/sm/36.html">36</a> | <a href="/sm/37.html">37</a> | <a href="/sm/38.html">38</a> | <a href="/sm/39.html">39</a> | <a href="/sm/40.html">40</a> | <a href="/sm/41.html">41</a> | <a href="/sm/42.html">42</a> | <a href="/sm/43.html">43</a> | <a href="/sm/44.html">44</a> | <a href="/sm/45.html">45</a> | <a href="/sm/46.html">46</a> | <a href="/sm/47.html">47</a> | <a href="/sm/48.html">48</a> | <a href="/sm/49.html">49</a> | <a href="/sm/50.html">50</a> | <a href="/sm/51.html">51</a> | <a href="/sm/52.html">52</a> | <a href="/sm/53.html">53</a> | <a href="/sm/54.html">54</a> | <a href="/sm/55.html">55</a> | <a href="/sm/56.html">56</a> | <a href="/sm/57.html">57</a> | <a href="/sm/58.html">58</a> | <a href="/sm/59.html">59</a> | <a href="/sm/60.html">60</a> | <a href="/sm/61.html">61</a> | <a href="/sm/62.html">62</a> | <a href="/sm/63.html">63</a> | <a href="/sm/64.html">64</a> | <a href="/sm/65.html">65</a> | <a href="/sm/66.html">66</a> | <a href="/sm/67.html">67</a> | <a href="/sm/68.html">68</a> | <a href="/sm/69.html">69</a> | <a href="/sm/70.html">70</a> | <a href="/sm/71.html">71</a> | <a href="/sm/72.html">72</a> | <a href="/sm/73.html">73</a> | <a href="/sm/74.html">74</a> | <a href="/sm/75.html">75</a> | <a href="/sm/76.html">76</a> | <a href="/sm/77.html">77</a> | <a href="/sm/78.html">78</a> | <a href="/sm/79.html">79</a> | <a href="/sm/80.html">80</a> | <a href="/sm/81.html">81</a> | <a href="/sm/82.html">82</a> | <a href="/sm/83.html">83</a> | <a href="/sm/84.html">84</a> | <a href="/sm/85.html">85</a> | <a href="/sm/86.html">86</a> | <a href="/sm/87.html">87</a> | <a href="/sm/88.html">88</a> | <a href="/sm/89.html">89</a> | <a href="/sm/90.html">90</a> | <a href="/sm/91.html">91</a> | <a href="/sm/92.html">92</a> | <a href="/sm/93.html">93</a> | <a href="/sm/94.html">94</a> | <a href="/sm/95.html">95</a> | <a href="/sm/96.html">96</a> | <a href="/sm/97.html">97</a> | <a href="/sm/98.html">98</a> | <a href="/sm/99.html">99</a> | <a href="/sm/100.html">100</a> | 
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--/ ALT ALAN /-->
+
+        <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <script>
+            var wrap = $("#wrap");
+
+            wrap.on("scroll", function (e) {
+                if (this.scrollTop > 147) {
+                    wrap.addClass("fix-search");
+                } else {
+                    wrap.removeClass("fix-search");
+                }
+            });
+        </script>
+        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $(document).scroll(function () {
+                });
+            });
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-46791315-3', 'auto');
+            ga('send', 'pageview');
+
+            $(document).ready(function () {
+                $(".mobileA").click(function () {
+                    $(".mobileMenuDiv").slideToggle();
+                });
+            });
+        </script>
+    </form>
+
+
+</body></html>
