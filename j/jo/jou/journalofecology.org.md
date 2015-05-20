@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalofecology.org privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223091559id_/http%3A//www.journalofecology.org/view/0/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalofecology.org privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520181917id_/http%3A//www.journalofecology.org/view/0/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Journal of Ecology
 
