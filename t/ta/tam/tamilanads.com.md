@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tamilanads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102038id_/http%3A//tamilanads.com/privacy-page25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilanads.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520232214id_/http%3A//tamilanads.com/privacy-policy-p24) for the most accurate reproduction.*
 
-# Privacy Policy - Tamilan Ads
+# Privacy Policy -
 
-We can be contacted via e-mail at [Contact Us](http://tamilanads.com/contact).
+We can be contacted via e-mail at [Contact Us](http://tamilanads.com/contact).
 
 For each visitor to our Web page, our Web server automatically recognizes information of your browser, IP address, City/State/Country.
 
