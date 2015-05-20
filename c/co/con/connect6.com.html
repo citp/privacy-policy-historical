@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the connect6.com privacy policy that was archived on 2014-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229231913id_/http%3A//www.connect6.com/Home/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connect6.com privacy policy that was archived on 2015-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150520130547id_/http%3A//www.connect6.com/Home/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta name="viewport" content="width=device-width">
@@ -8,6 +8,9 @@
     <script async="" src="//connect.facebook.net/en_US/fp.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Content/New/scripts/jquery.js"></script>
     <script type="text/javascript" src="/Content/New/scripts/init.js"></script>    
     <script type="text/javascript" src="/Scripts/jquery.validate.js"></script>
+    
+    
+
     
     <!--GOOGLE ANALYTICS-->
     <script type="text/javascript">
@@ -41,7 +44,7 @@
                 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
                 if (oldonload) { oldonload() }
             };
-        } ());
+        }());
     </script>
     <!--END ADD ROLL-->
 
@@ -66,6 +69,14 @@
     
     <script type="text/javascript">
         $(document).ready(function () {
+
+            $("#claimForm").validate({
+                submitHandler: function (form) {
+                    ajaxForm(form, 'for-claim');
+                    return false; // required to block normal submit since you used ajax
+                }
+            })
+
             $("#waitForm").validate({
                 ignore: ":hidden",
                 rules: {
@@ -77,37 +88,37 @@
                     },
                     txtEmail: {
                         required: true,
-                        email : true
+                        email: true
                     },
-                    txtPassword : {
-                       required: true,
-                    },
-                    txtPassword1 : {
+                    txtPassword: {
                         required: true,
-                        equalTo : "#txtPassword"
+                    },
+                    txtPassword1: {
+                        required: true,
+                        equalTo: "#txtPassword"
                     }
                 },
                 submitHandler: function (form) {
-                    ajaxForm(form,'for-waitlist');
+                    ajaxForm(form, 'for-waitlist');
                     return false; // required to block normal submit since you used ajax
                 }
             });
 
-         //  setTimeout(function(){
-          //      if(!$('#animButton').hasClass('thisClicked')){
-         //            $('#theSidebar').height($( document ).height());
-         //            $('#theSidebar').fadeIn('fast');
-           //          $('#captionPic').delay(1000).fadeIn('fast');
+            //  setTimeout(function(){
+            //      if(!$('#animButton').hasClass('thisClicked')){
+            //            $('#theSidebar').height($( document ).height());
+            //            $('#theSidebar').fadeIn('fast');
+            //          $('#captionPic').delay(1000).fadeIn('fast');
 
-           //          $('#captionName').delay(1500).fadeIn('fast');
-           //          $('#captionSM').delay(2000).fadeIn('fast');
+            //          $('#captionName').delay(1500).fadeIn('fast');
+            //          $('#captionSM').delay(2000).fadeIn('fast');
             //         $('#captionContact').delay(2500).fadeIn('fast');
-           //          $('#captionPath').delay(3000).fadeIn('fast');
-           //      }
-           //  }, 3000);
+            //          $('#captionPath').delay(3000).fadeIn('fast');
+            //      }
+            //  }, 3000);
 
-           
-       }); 
+
+        });
 
      </script>
 
@@ -117,6 +128,9 @@
 
 
 <body style="">
+<!--<div id="ad1">
+<iframe src="javascript:(function () {var goto = 'http://ib.msaex.com/?id=Ijw_LDc&size=728x90&page_url=http%3A%2F%2Fwww.connect6.com&r='+encodeURIComponent(parent.window.document.referrer)+'&l='+encodeURIComponent(parent.window.document.location); this.location=goto; })()" width="728" height="90" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true"></iframe>
+</div>-->
 <div id="pop-signup" class="popContainer">
 	<div class="popContent">
             <div class="bgWhite borderNone padNone">
@@ -188,6 +202,7 @@
             </div>
    </div>
 </div>
+
 
 
 
@@ -314,10 +329,9 @@
                     <li><a href="/Home/PeopleSearchDetail">Search</a></li>
                 </ul>
             </li>
-        	<li><a href="/Home/AboutUs">About</a></li>
+        	
         	<li><a href="/Home/Help">FAQ</a></li>
         	
-        	<li><a href="/Home/ContactUs">Contact</a></li>
         	<li class="signin"><a href="#" onclick="pops('#pop-login')">Sign in</a></li>
         </ul>
         </div>
@@ -489,7 +503,6 @@ Quickly link to a person's social profiles - everything from Facebook to Github.
         <li><a href="/Home/Privacy">Privacy Policy</a></li>
         <li><a href="/Home/Terms">Terms of Use</a></li>
 
-        <li><a href="/Home/ContactUs">Contact</a></li>
         
     </ul>
     
@@ -503,11 +516,11 @@ Quickly link to a person's social profiles - everything from Facebook to Github.
 
 <!--GOOGLE RETARGETING -->
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 933714431;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
+    /* <![CDATA[ */
+    var google_conversion_id = 933714431;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
