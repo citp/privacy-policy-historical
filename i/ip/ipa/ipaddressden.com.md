@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaddressden.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728062127id_/http%3A//www.ipaddressden.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddressden.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520183642id_/http%3A//www.ipaddressden.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
