@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axact.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081155id_/http%3A//www.axact.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axact.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520053321id_/http%3A//www.axact.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Axact
+# Privacy Policy At Axact | Axact
 
 We respect the privacy of our online visitors as our own and have made it a primary concern. The main reason for collecting and storing visitor information is to improve customer services and the quality of the website. We are aware of our responsibility to maintain and use visitor information especially client information with utmost security and privacy. No matter what the circumstances, we DO NOT rent or sell any visitor/client information that we collect online. However, we do share information with third parties meeting under certain circumstances. You can find details about third-party information exchange and interactions by reading the point titled "Third Party Sharing".
 
