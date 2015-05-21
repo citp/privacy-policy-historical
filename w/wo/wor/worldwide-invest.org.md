@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwide-invest.org privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331112741id_/http%3A//worldwide-invest.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwide-invest.org privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521030729id_/http%3A//worldwide-invest.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
