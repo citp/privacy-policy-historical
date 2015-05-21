@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabletv.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220055840id_/http%3A//www.cabletv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabletv.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521064817id_/http%3A//www.cabletv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CableTV.com
 
