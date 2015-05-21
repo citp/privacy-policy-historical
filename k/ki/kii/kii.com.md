@@ -1,143 +1,121 @@
-> *The following text is extracted and transformed from the kii.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922035233id_/http%3A//en.kii.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kii.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521115854id_/http%3A//en.kii.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kii
 
-### Privacy policy
+We provide services based on our website and software (“Service”) to mobile application developers. As part of this process, we collect information, including personal and business information from visitors to our website (“Visitors”), mobile application developers who use the Service (“Developers”), and users of applications hosted on our servers, including cloud servers (the same shall apply hereinafter) (“End Users”). “We”, “us” or “our” refer to Kii Corporation, including its affiliate, Kii, Inc. and other affiliates. In this Privacy Policy (“Policy”), we describe the information that we collect, use, disclose, and share information, and how we protect your information. Unless specifically distinguished, the practices described herein apply to all Visitors, Developers, and End Users. For immediate access to a particular topic, click on the title of that topic. This Policy is governed by the Terms and Conditions available at <http://en.kii.com/terms>, and is subject to all of its provisions, including its limitation of liability. 
 
-At Kii, we recognize that privacy is important. This Privacy Policy applies to all of Kii’s products, software, services or websites (“Kii services”). We may update the Privacy Policy in the future, and you will be able to find the most current version of this policy at this page, [www.kii.com](http://www.kii.com/en)/privacy
+  * Information We Collect
+  * How We Use Information
+  * How We Share Information
+  * Security
+  * Your California Privacy Rights
+  * Our Use of Cookies
+  * Children’s Privacy
+  * Storage
+  * Access
+  * Changes to this Policy and Contact information
 
-The United State Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (FAQ) to enable U.S. companies to satisfy European Union (EU) law requirements for adequate protection of personal information transferred from the EEA to the United States. Kii Inc. adheres to the Safe Harbor Principles outlined below.
 
-If you have any questions about this Privacy Policy, please contact us by email at [privacy@kii.com](mailto:privacy@kii.com) or write to us at:
 
-_Privacy Officer_
+### Information We Collect
 
-_Kii Inc._
+When you visit our website, we collect information about your computer, browser, and web service you are using. We also collect the date, time, pages you visit, and if you linked to our website from another website, and the address of that website. We use such information for statistical purposes that help us design and administer our website and as described below. This information does not disclose personal information that would permit us to identify or locate individual visitors.
 
-_1900 S Norfolk Street, Suite 350_
+## Information We Collect When You Register
 
-_San Mateo, CA 94403_
+When you register with the Service, we will collect certain identifiable information in order to identify and register you as a member of the Service. That information may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide to us.
 
-_United States_
+If you are a Developer, We may also collect personal information either provided by you or generated through your use of the Service, including but not limited to information about your End Users, their usages of your applications, and any other data generated or stored with our servers through your use of the Service.
 
-**NOTICE: INFORMATION WE COLLECT AND HOW WE USE IT**
+**Note that as a Developer, it is your responsibility to make the appropriate privacy disclosures to your End Users, including disclosures to the effect that a Developer is collecting the personal information from them, that a Developer may share the information with us, and any other disclosures required under the law that relate to the collection and use of your End Users' personal information and sharing of same with third parties.**
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Kii Search. In order to provide our full range of services, we may collect the following types of information:
+## Information We Collect from End Users
 
-INFORMATION YOU PROVIDE
+Our Service is targeted at Developers. We do not collect information directly from End Users. However, personal information of End Users may be stored on our servers through a Developer’s use of the Service. That information may include:
 
-When you sign up for a Kii Account or other Kii services or promotions that requires registration, we ask you for personal information (such as your name, email address, your mobile phone number and an account password). We may combine the information you submit under your account with information from other Kii services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+  * Contact information such as name, email address, mailing address, or phone number
+  * Demographic information such as age or date of birth
+  * Unique Identifiers such as user name, account number, or password
+  * Preferences Information such as product or content interests, or communication or marketing preferences
+  * Usage activity about how you interact with the mobile application, such what content you viewed and which areas of our website you visited
+  * Device specific information such as the type mobile device being used, its operating system, or its universally unique identifier (UUID or MAC)
+  * Location-based data such as GPS coordinates, your proximity to cell towers, or wi-fi routers
 
-SESSION IDENTIFIER
 
-When you visit Kii, we may send a session identifier to your computer or other device that uniquely identifies your client. We use session identifiers to improve the quality of our service, including for storing user preferences and improving search results.
 
-LOG INFORMATION
+The actual data collected from the End User and the extent to which it will be shared will depend on the application and the preferences set by the Developer. In order to use our Service, we contractually require all Developers to have in place a privacy policy that discloses what information is collected, how that information is used and whether that information will be shared with us or any third parties. The End Users must affirmatively consent to allow for the requested usage, disclosure and/or access of his or her personal data. Any Developer or application that fails to comply with these restrictions will be removed from the Service. If you suspect an application is violating this Policy or if you have concerns regarding the privacy of your information, you are encouraged to contact our Privacy Officer at:
 
-When you access or connect to Kii services, our servers automatically record information that your client sends. These server logs may include information such as your service request, Internet Protocol address, platform or browser type, client version ID, client language, the date and time of your request and session identifiers that may uniquely identify your client.
+Privacy Officer  
+Kii, Inc.  
+1900 S. Norfolk Street, Suite 350  
+San Mateo, CA 94403  
+United States 
 
-USER COMMUNICATIONS
+### How We Use Information
 
-When you send email or other communications to Kii, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+You can browse our website without telling us who you are or revealing any personal information about yourself. If you choose to register with our website as a Developer, you become identifiable to us and we will collect additional information from you which may be used in the following ways:
 
-AFFILIATED KII SERVICES ON OTHER SITES
+_To contact you_ : We may contact you with Service related communications, such as account access details and reminders.
 
-We offer some of our services on or through other websites or through third-party service providers. Personal information that you provide to those sites may be sent to Kii in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites and providers through which our services are offered may have different privacy practices, and we encourage you to read their privacy policies.
+_To provide the Service_ : We use the information we collect to provide our Service and features to you, to measure and improve the Service, and to provide you with customer support. We also use the information to prevent potentially illegal activities and to enforce our Terms and Conditions. All our employees must abide by our Policy and those who violate our Policy are subject to disciplinary action, up to and including termination.
 
-LOCATION DATA
+We are not in the business of selling customer data. We will not sell, rent, or share information from End Users or Developers without explicit consent, except as described herein or when we believe it is required to do so by law.
 
-Kii offers location-enabled services, such as location-aware Kii search for your mobile phone. If you use those services, Kii may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID).
+_To serve personalized advertising_ : We do not share personal information with advertisers. However, we act as an intermediary between advertisers and Developers who wish you place ads in their applications. When a Developer requests an ad be placed in their application, that request may be sent through the Service to a third party advertiser. Advertisements placed in applications hosted on our servers are personalized for the End User based on information selected by the Developers, such as postal code, gender, date of birth, age, or by keyword. For example, an End User of a baseball themed application may receive baseball themed advertisements. Similarly, location data may be combined with other data so that an End User interested in baseball may receive advertisements for local sports teams nearby. As part of our Policy, we require Developers to disclose what information is being shared with advertisers. Before an application is permitted to serve personalized advertising, it is the Developer’s responsibility to obtain affirmative consent from the End User. Applications who do not receive consent from the users are not permitted to display personalized advertising.
 
-LINKS
+_Information Provision to Third Parties_ : We may share the information we collect from you among us and disclose the information we collect from you to third parties such as outside contractors and service providers that perform functions on our behalf. We provide those third parties with the information necessary to perform the requested service. Any third parties who receive personal information from us will be required to implement and maintain reasonable security procedures and practices to protect the personal information from unauthorized access, destruction, use, modification or disclosure. We may also disclose your information to our affiliates and subsidiaries.
 
-Kii may present links in a format that enables us to track whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
+_Aggregated Information_ : Notwithstanding any other provision in this Policy, we may share aggregate or de-identified information about users with any third party for marketing, advertising, research or other purposes. For example, we may share aggregate demographic information with any third party about the users of the Service.
 
-OTHER SITES
+_Disclosures_ : We may disclose the information we collect from you in order to comply with the law, judicial or administrative proceedings, court orders, subpoenas or other legal process. We also may disclose your information to protect our rights and property (including for violations of our Terms and Conditions and this Policy); to prevent against fraud and abuse; to investigate, prevent, or take action with regard to illegal activities, and with regard to potential threats to the safety, rights or property of any person or party (including other users of our website). We also may disclose your information as otherwise permitted by law.
 
-This Privacy Policy applies to Kii services only. We do not exercise control over the sites displayed as search results, sites that include Kii applications, products or services, or links from within our various services to external websites, such as news outlets. These other sites may place their own session identifiers or other files on your computer, collect data or solicit personal information from you.
+_Business Transfer_ : We may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such data transfer if the new entity's planned processing of your information differs materially from that set forth in this Policy.
 
-Kii only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
+### Security
 
-  1. Providing our services, including the display of customized content and advertising
-  2. Auditing, research and analysis in order to maintain, protect and improve our services
-  3. Ensuring the technical functioning of our network
-  4. Protecting the rights or property of Kii or our users
-  5. Developing new services.
+We are committed to protecting the security of the information entrusted to us. We use a variety of security technologies and procedures to help protect your information from unauthorized access, use, and disclosure. For example, we store the personal information you provide on servers with limited access that are located in controlled facilities. In addition, we require any third party working on our behalf who receives personal information from the Service to implement and maintain reasonable security procedures and practices to protect that information from authorized access, destruction, use, modification or disclosure. However, we cannot guarantee that third parties, including hackers or unauthorized personnel, will not gain access to information stored on our servers despite our efforts. You should note that in using the Service, your information will travel through third party infrastructures that are not under our control.
 
+### Your California Privacy Rights
 
+Under California law, a resident who has provided personal information to a business with whom he or she has established a business relationship is entitled to request information about whether the business has disclosed his or her personal information to any third parties for the third parties' direct marketing purposes in the previous calendar year. We do not have an established business relationship with any End User and we do not distribute personal information to outside parties without your explicit consent.
 
-You can find more information about how we process personal information by referring to the supplementary privacy notices for particular services.
+We require all Developers to comply with the California Shine the Light Privacy law. If you are a California resident and an End User of an application hosted on our servers, you may request a list of certain third parties to which the Developer has disclosed personally identifiable information about you for direct marketing purposes in the previous calendar year. You may request this information in writing by contacting the Developer directly.
 
-Kii processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our service provider partners.
+### Our Use of Cookies
 
-**CHOICES FOR PERSONAL INFORMATION**
+_Cookies_ : When you come to our website, our server sends a cookie to your computer. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. There are two types of cookies: session-based and persistent-based cookies. We also may permit certain third party cookies to be placed on our Website.
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+  * _Session Cookies_ : Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you while you are logged into our website. This allows us to process your online transactions and requests, and to verify your identity after you have logged in and move through our website.
+  * _Persistent cookies_ : Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We may use persistent cookies to track aggregate and statistical information about user activity, which may be combined with other user information.
+  * _Third Party Cookies_ : We also may engage third parties, including, without limitation, Google Analytics, to track and analyze non-personally identifiable Website data. We use the data collected by such third parties to help us administer and improve the quality of our website and Services and to analyze usage. We do not have access to or control over these third party cookies nor does this Policy cover such third parties’ use of data.
 
-If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
 
-You can decline to submit personal information to any of our services, in which case Kii may not be able to provide those services to you.
 
-**ONWARD TRANSFER**
+_Disabling Cookies_ : Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Website visitors who disable their web browsers’ ability to accept cookies will be able to browse our website although some aspects of the site will not work properly.
 
-Kii only shares personal information with other companies or individuals outside of Kii in the following limited circumstances:
+_Clear Gifs (Web Beacons/Web Bugs)_ : We or the third parties we engage to track and analyze website data may employ clear gifs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on our website. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on your computer’s hard drive, clear gifs are embedded invisibly on Web pages.
 
-  1. **We have your consent.** We require opt-in consent for the sharing of any sensitive personal information.
-  2. We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
-  3. We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) enforce applicable Terms of Service, including investigation of potential violations thereof; (c) detect, prevent, or otherwise address fraud, security or technical issues; or (d) protect against harm to the rights, property or safety of Kii, its users or the public as required or permitted by law.
+### Children’s Privacy
 
+Our website and Services are not intended for use by children. We do not knowingly collect information from children under the age of 13. We also require all Developers to comply with Children's Online Privacy Protection Act or any other applicable laws relating to protection of children’s online privacy by not collecting personal information from children under the age of 13. If we learn that we have inadvertently collected personal information from a child under the age of 13, whether that child is a Visitor, Developer, End User, or other user of the Service, upon receipt of notice from the child or a parent or guardian we will delete that child's personal information from our systems.
 
+### Storage
 
-If Kii becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice when personal information is transferred and becomes subject to a different privacy policy.
+Our Service operates over the internet through a network of servers located in several countries. While our data is primarily stored on servers located in Japan, the United States and/or China, it is possible that personal information collected through the Service may be transferred to, stored and processed in countries or jurisdictions which do not provide the same legal level of data protection as your home country. By using this Service, you consent to any transfer, processing or storing of information outside your country of residence. We will ensure that if information is transferred outside your country of residence, it will still be treated in accordance with this Policy. In addition, we will ensure that your information is appropriately protected while in transit and while in the destination country.
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who installed a particular application on their mobile devices, for example, or how often a particular piece of music was played. Such information does not identify you individually.
+### Access
 
-Please contact us at the address below for any additional questions about the management or use of personal data.
+When you use our Services, we make good faith efforts to provide you with access to your personal information either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
 
-**SECURITY**
+### Changes to this Privacy Policy
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without offering you the chance to opt out of new uses or disclosures of information we collected under this Policy, and we expect most of such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
 
-We restrict access to personal information to Kii employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+If you have any additional questions or concerns about this Policy, please feel free to contact us by email at [privacy@kii.com](mailto:privacy@kii.com) or write to us at:
 
-**DATA INTEGRITY**
+#### Privacy Officer
 
-Kii processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
-
-**ACCESS**
-
-When you use Kii services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
-
-**ENFORCEMENT**
-
-Kii utilizes the self-assessment approach to assure its compliance with our privacy statement. Kii periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Safe Harbor Principles. Please feel free to direct any questions or concerns regarding this Privacy Policy or Kii’s treatment of personal information by contacting us by email at [privacy@kii.com](mailto:privacy@kii.com) or write to us at:
-
-_Privacy Officer_
-
-_Kii Inc._
-
-_1900 S Norfolk Street, Suite 350_
-
-_San Mateo, CA 94403_
-
-_United States_
-
-When we receive formal written complaints at this address, it is Kii’s policy to contact the user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Kii and an individual.
-
-**CHANGES TO THIS PRIVACY POLICY**
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the bottom of the page by its effective date, and we will also keep prior versions ([www.kii.com/privacy/archive](http://www.kii.com/en/privacy)) of this Privacy Policy in an archive for your review.
-
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us by email at [privacy@kii.com](mailto:privacy@kii.com) or write to us at
-
-_Privacy Officer_
-
-_Kii Inc._
-
-_1900 S Norfolk Street, Suite 350_
-
-_San Mateo, CA 94403_
-
-_United States_
-
-Last Updated January 1, 2012
+Kii Inc.  
+1900 S Norfolk Street, Suite 350  
+San Mateo, CA 94403  
+United States
