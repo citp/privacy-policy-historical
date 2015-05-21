@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the plumbase.co.uk privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913021246id_/http%3A//www.plumbase.com/page133/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbase.co.uk privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521120608id_/http%3A//www.plumbase.co.uk/info-4) for the most accurate reproduction.*
 
-# Plumbers Merchants, Plumbing Merchants for Plumbing and Heating Supplies
+# Privacy Guarantee
 
 This policy explains how Plumbase (which is a trading division of Grafton Merchanting GB Ltd, trading as Plumbase, Plumbline, Time & Temperature and Reflections) uses any personal information you provide to us during your use of our website. "Personal information" is information which personally identifies you like your name, address or email address or which would, if combined with other information in the possession of, or likely to come into the possession of Plumbase, personally identify you.
 
 **1\. Introduction** **  
-** The websites at [www.plumbase.co.uk]() / [www.plumbase.com](http://www.plumbase.com/) and [www.plumbline.co.uk](http://www.plumbline.co.uk/), [www.reflectionsbathrooms.co.uk](http://www.reflectionsbathrooms.co.uk/), [www.reflectionsbathrooms.com](http://www.reflectionsbathrooms.com/), [www.timeandtemperature.co.uk](http://www.timeandtemperature.co.uk/), [www.aura-showers.co.uk](http://www.aura-showers.co.uk/) and [www.aura-showers.com](http://www.aura-showers.com/) are operated by Plumbase (United Kingdom Company No: 4725313) (" **Plumbase** ", " **we** ", " **us** ") which is the Data Controller for the purposes of the Data Protection Act 1998, and as such we are registered under the Data Protection Act 1998. Bellman Limited (" **Bellman** "), whose server hosts this site, processes personal data on our behalf and on our instructions. You may contact us at the following address:
+** The website at [www.plumbase.co.uk](http://www.plumbase.co.uk/) is operated by Plumbase (United Kingdom Company No: 4725313) (" **Plumbase** ", " **we** ", " **us** ") which is the Data Controller for the purposes of the Data Protection Act 1998, and as such we are registered under the Data Protection Act 1998. You may contact us at the following address:
 
 **PLUMBASE**  
 Plumbase Internet Sales, Plumbase, Griffin House, 135 High Street, Crawley, RH10 1DQ
 
-Plumbase is committed to the online privacy of all its users and this Privacy Policy is designed to provide users of our website with a clear understanding of our data processing practices. By accessing or using any part of our website you agree to be bound by the terms of this Privacy Policy. This Privacy Policy should be read in conjunction with our Terms and Conditions of Use for this site. **[Please click here to view the Terms and Conditions of Use](https://web.archive.org/page134/Website-Terms-and-Conditions.html)**.
+Plumbase is committed to the online privacy of all its users and this Privacy Policy is designed to provide users of our website with a clear understanding of our data processing practices. By accessing or using any part of our website you agree to be bound by the terms of this Privacy Policy. This Privacy Policy should be read in conjunction with our Terms and Conditions of Use for this site.
+
+**[Please click here to view the Terms and Conditions of Use for Consumers](https://web.archive.org/info-3 "Please click here to view the Terms and Conditions of Use for Consumers")**
+
+[**Please click here to view the Terms and Conditions of Use  for Trade**](https://web.archive.org/info-trade-terms-conditions "Please click here to view the Terms and Conditions for Use for Trade").
 
 **2\. Data Collection and Use**  
 You can access this website and browse certain areas without disclosing personal information to us. We will only collect personal information about you during your use of our website to fulfil your online request(s) to Plumbase, to receive news, special offers, price guides, to have our Accounts Department contact you about setting up an account with us, or by way of your emailing us with your comments and suggestions. The elements of personal data that we may collect include:
@@ -45,9 +49,9 @@ Our website contains links to other websites which Plumbase does not operate or 
 * * *
 
 Part of Grafton Group plc  
-Trading as: Plumbase, Plumbline, Time & Temperature and Reflections  
+Trading as: Plumbase  
 Registered office:  
-PO Box 1224, Pelham House, Canwick Road, Lincoln, LN5 5NH  
+Grafton Merchanting GB, PO Box 1586, Gemini One, John Smith Drive, Oxford Business Park South, Oxford, OX4 9JF  
 Registered in England  
 Registration Number: 4725313  
 VAT Number: 128 2526 76
