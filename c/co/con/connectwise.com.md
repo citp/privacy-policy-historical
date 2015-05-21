@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702063313id_/http%3A//www.connectwise.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522015133id_/http%3A//www.connectwise.com/privacy) for the most accurate reproduction.*
 
 # ConnectWise Privacy Policy
 
-##  Introduction
+**Introduction**
 
 We at ConnectWise are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
@@ -10,38 +10,46 @@ ConnectWise has established this Online Privacy Policy so that you can understan
 
 If you choose to provide us with your Personal Information on the Web, we may transfer that Information within ConnectWise, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-ConnectWise strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, ConnectWise intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
+ConnectWise strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, ConnectWise intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
-**Cookies and Other Tracking Technologies  
-**Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+**Cookies and Other Tracking Technologies**
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site. 
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.  
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.
 
-**Notice**  
-Where ConnectWise collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of ConnectWise or those working on ConnectWise 's behalf. ConnectWise does not intend to transfer Personal Information without your consent to third parties who are not bound to act on ConnectWise 's behalf unless such transfer is legally required. 
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. 
 
-**Choice  
-**You may choose whether or not to provide Personal Information to ConnectWise. The notice we intend to provide where ConnectWise collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of ConnectWise 's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+**Notice**
 
-If you chose to have a relationship with ConnectWise, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship. 
+Where ConnectWise collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of ConnectWise or those working on ConnectWise 's behalf. ConnectWise does not intend to transfer Personal Information without your consent to third parties who are not bound to act on ConnectWise 's behalf unless such transfer is legally required. 
 
-**Security**  
-Wherever your Personal Information may be held within ConnectWise or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
+**Choice**
 
-**Access/Accuracy**  
-To the extent that you do provide us with Personal Information, ConnectWise wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting ConnectWise should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, please [contact us](mailto:Marketing@ConnectWise.com "Contact Us") and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
+You may choose whether or not to provide Personal Information to ConnectWise. The notice we intend to provide where ConnectWise collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of ConnectWise 's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
 
-**Third Party Services**  
+If you chose to have a relationship with ConnectWise, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship. 
+
+**Security**
+
+Wherever your Personal Information may be held within ConnectWise or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. 
+
+**Access/Accuracy**
+
+To the extent that you do provide us with Personal Information, ConnectWise wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting ConnectWise should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, please contact us and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
+
+**Third Party Services**
+
 Third parties provide certain services available on ConnectWise.com on ConnectWise's behalf. ConnectWise may provide information, including Personal Information, that ConnectWise collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which ConnectWise maintains its Web site and mailing lists. ConnectWise will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on ConnectWise's behalf.
 
-ConnectWise does not intend to transfer Personal Information without your consent to third parties who are not bound to act on ConnectWise's behalf unless such transfer is legally required. Similarly, it is against ConnectWise's policy to sell Personal Information collected online without consent. 
+ConnectWise does not intend to transfer Personal Information without your consent to third parties who are not bound to act on ConnectWise's behalf unless such transfer is legally required. Similarly, it is against ConnectWise's policy to sell Personal Information collected online without consent. 
 
-**Commitment**  
+**Commitment**
+
 We are committed to privacy and, through our membership in the Online Privacy Alliance, are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and ConnectWise's Web sites are constantly evolving to meet these demands.
 
-If you have any comments or questions regarding our Online Privacy Policy, please [contact us](mailto:Marketing@ConnectWise.com "Contact Us").  While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+If you have any comments or questions regarding our Online Privacy Policy, please [contact us](http://www.connectwise.com/contact-us).  While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
-**Your Consent**  
+**Your Consent**
+
 By using this Web site, you consent to the terms of our Online Privacy Policy and to ConnectWise's processing of Personal Information for the purposes given above as well as those explained where ConnectWise collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
