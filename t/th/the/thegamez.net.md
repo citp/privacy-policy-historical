@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamez.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220172104id_/http%3A//thegamez.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamez.net privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521034300id_/http%3A//thegamez.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyMaster Cheat for Android, Iphone & Facebook Game | TheGamez Network
 
