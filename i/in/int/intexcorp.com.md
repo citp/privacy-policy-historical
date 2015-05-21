@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intexcorp.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216103543id_/http%3A//www.intexcorp.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intexcorp.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521155235id_/http%3A//www.intexcorp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Intex Recreation Corporation
+# Privacy Policy - Intex
 
 Intex, (Intexstore.com and Intexcorp.com) appreciates your trust in us. We know you would like to know how your personal information is used and shared. We will use and share that information carefully and sensibly. This notice describes our privacy policy. You are accepting the practices described below when you visit Intex. This privacy policy will let you know:
 
