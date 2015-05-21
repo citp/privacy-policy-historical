@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodlollipop.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209182920id_/http%3A//www.hollywoodlollipop.com/pages/content/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodlollipop.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521035529id_/http%3A//hollywoodlollipop.com/pages/content/3) for the most accurate reproduction.*
 
 # Hollywood Lollipop - Privacy Policy
 
