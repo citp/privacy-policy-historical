@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songspkshare.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229072909id_/http%3A//www.songspkshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songspkshare.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521023731id_/http%3A//www.songspkshare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SongsPK Share
 
