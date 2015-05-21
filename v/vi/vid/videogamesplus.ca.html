@@ -1,691 +1,622 @@
-<!--The following is the downloaded HTML source of the videogamesplus.ca privacy policy that was archived on 2014-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330184736id_/https%3A//www.videogamesplus.ca/privacy.php%3FosCsid%3D0c9a9e9e3be8ceebb4c14cb2d4a19522) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the videogamesplus.ca privacy policy that was archived on 2015-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150521190032id_/https%3A//www.videogamesplus.ca/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Welcome to Video Games Plus Online</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir="LTR" lang="en"><head>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<!-- start get_javascript(applicationtop2header) //-->
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=602164103137604"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6018975140200', {'value':'0.00','currency':'USD'}]);
+</script>
+<!-- end get_javascript(applicationtop2header) //-->
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Privacy Policy / Security | VIDEOGAMESPLUS.CA | Home for the Hardcore Gamer!</title>
+<meta name="keywords" content="video games plus, Privacy Policy / Security">
+<meta name="description" content="Privacy Policy / Security at Video games Plus">
+<meta name="robots" content="all,index,follow">
 <base href="https://www.videogamesplus.ca/">
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+<!-- start get_javascript(applicationtop2header) //-->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=602164103137604";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- end get_javascript(applicationtop2header) //-->
+	
+
+	<link rel="stylesheet" type="text/css" href="includes/sts_templates/vgp001/stylesheet.css">
+	<link rel="stylesheet" type="text/css" href="includes/sts_templates/vgp001/droplinetabs.css">
+
+		
+	<link rel="stylesheet" type="text/css" href="includes/sts_templates/vgp001/jcarousel_skin.css">
+	<link rel="stylesheet" type="text/css" href="lightbox.css" media="screen">
+		
+	<script type="text/javascript" src="includes/javascript/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="includes/javascript/slides.min.jquery.js"></script>
+	<script type="text/javascript" src="includes/javascript/jquery.jcarousel.min.js"></script>
+	<script type="text/javascript" src="includes/sts_templates/vgp001/droplinetabs.js"></script>
+	
+	<style>
+	a img { border: none; }
+	</style>
+	
+	<script type="text/javascript">
+	
+	$(document).ready(function(){
+		$(window).resize(function(){
+			$("#footerbackground").height($("#Footer").height() + 15).css('margin-top', -1 * $("#Footer").height() - 15);
+		}).resize();
+	
+		$("#menu > li").hover(
+			function(){
+				var item = $(this);
+				var submenu = $(this).children('div.dropdown');
+				var pos = item.offset();
+				var anchor = item.attr('data-anchor');
+				submenu.hide();
+				
+				if(anchor == 'right') {
+					pos.left = pos.left + item.outerWidth() - submenu.outerWidth();
+				}
+				
+				var clone = submenu.clone();
+				clone.attr("data-hover-menu", "1").attr("data-hovering", "0").css({"position":"absolute", "left":pos.left, "top":(pos.top + item.height() + 2), "z-index":"999999"});
+				
+				if(anchor == 'right') {
+					clone.css({"border-radius":"5px 0px 5px 5px"});
+				}
+				
+				clone.appendTo("body");
+				clone.show();
+				
+				clone.hover(
+					function(){},
+					function() {
+						$(this).remove();
+					}
+				);
+			},
+			function(e) {
+				if(!$(e.relatedTarget).is("[data-hover-menu]"))
+					$("div[data-hover-menu][data-hovering=0]").remove();
+			}
+		);
+		
+		$("a.topusermenu").hover(
+			function() {
+				var self = $(this);
+				var dd = $("div[data-link-id='" + self.attr('id') + "']");
+				dd.css({display:"block"});
+			},
+			function() {
+				$('div[data-link-id]').css({display:"none"});
+			}
+		);
+		
+		$("body").click(function(e){
+			var target = event.target || event.srcElement;
+			if(target == this) {
+				document.location.href = "https://www.videogamesplus.ca/redirect.php?action=banner&goto=330&osCsid=ea1597a6282002ba0a3b0c2220dcab3c";
+			}
+		});
+		
+		var search_ajax_req = null;
+		var search_result_box = $(".search-helper");
+		$("#search_query").keyup(function(){	
+			if(search_ajax_req != null) {
+				search_ajax_req.abort();
+			}
+			
+			var q = $(this).val();
+			debugger;
+			
+			if(q == "") {
+				search_result_box.html("").hide();
+				return;
+			}
+			
+			search_ajax_req = $.ajax({
+				url: "search_suggester.php?q=" + q,
+				dataType: "json",
+				success: function(data, textStatus, jqXHR) {
+					debugger;
+					if(data.length == 0) {
+						search_result_box.html("").hide();
+					} else {
+						var html = "";
+						for(var i = 0; i < data.length; i++) {
+							var p = data[i];
+							html += "<a href=\"product_info.php?products_id=" + p.products_id + "\">" + p.products_name + "</a>";
+						}
+						search_result_box.html(html).show();
+					}
+					debugger;
+				},
+				error: function(jqXHR, textStaus, errorThrown) {
+					debugger;
+					search_result_box.html("").hide();
+				}
+			});
+		});
+	});
+	</script>
+
 </head>
-<body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
-<!-- header //-->
+<body style="background-image: url('images/vgp_background_devilsurvivor2_ist.jpg');"><table class="body-table" style="margin-right: auto; margin-left: auto; width: 1000px; z-index: 9999;" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td colspan="2'">
+	
+	    <div id="header_wrapper">
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr class="header">
-    <td align="left">
-
-
-
-<p align="left">
-<a href="http://www.videogamesplus.ca/">
-<img src="https://www.videogamesplus.ca/images/LOGO_NEON.jpg" border="0"></a></p><a href="http://www.videogamesplus.ca/">
-
-</a></td>
-
- 
-<td align="right">
-    <a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=1549" target="_blank"><img src="images/xenoblade_instock_banner_final.jpg" border="0" alt="Xenoblade Chronicles" title=" Xenoblade Chronicles "></a></td>
-
-
-
+			<div id="header_top">
+				<div id="header_logo">
+				<a href="https://www.videogamesplus.ca/index.php" style="position: absolute;" title="Video Games Plus"><img alt="Video games Plus" border="0" src="includes/sts_templates/vgp001/images/LOGO_NEON.jpg" width="314" height="145"></a>
+				<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=335&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c" style="position: absolute; margin-left: 305px;"><img src="images/header_small_phoenixwright.jpg" width="115" height="115" border="0"></a>				</div>
+				<table style="float: right; margin-right: 15px; height: 150px; min-width: 531px;">
+				<tbody><tr>
+					<td><div id="header_user_links_wrapper" style=""><ul id="header_user_links" style="float: right;">
+            <li class="first_user_link">
+	       <a id="topusermenu_964" class="topusermenu" href="https://www.videogamesplus.ca/login.php?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" onclick="this.blur();" style="position: relative;">
+		<span>Welcome, Returning member? (Login)</span>
+			</a>
+    </li>
+          <li class="">
+	       <a id="topusermenu_391" class="topusermenu" href="https://www.videogamesplus.ca/account.php?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" onclick="this.blur();" style="position: relative;">
+		<span>Create Account</span>
+			</a>
+    </li>
+          <li class="">
+	       <a id="topusermenu_285" class="topusermenu" href="https://www.videogamesplus.ca/contact_us.php?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" onclick="this.blur();" style="position: relative;">
+		<span>Contact Us</span>
+			</a>
+    </li>
+          <li class="last_user_link" style="margin-right: 0px;">
+	       <a id="topusermenu_914" class="topusermenu" href="https://www.videogamesplus.ca/shopping_cart.php?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" onclick="this.blur();" style="position: relative;">
+		<span>Shopping Cart (0)</span>
+			</a>
+    </li>
+  </ul> </div></td>
+				</tr>
+				<tr>
+					<td><div id="header_search_bar_wrapper"><table style="position: absolute;" cellspacing="5">
+<tbody><tr>
+	<td style="width: 250px;">
+		<style>
+		.fb_iframe_widget {
+			height: 30px !important;
+			overflow: visible;
+		}
+		.fb_iframe_widget,
+		.fb_iframe_widget > span > iframe {
+			position: static !important;
+		}
+		.fb_iframe_widget,
+		.fb_iframe_widget > span,
+		.fb_iframe_widget > span > iframe {
+			z-index: 999999;
+		}
+		</style>
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=602164103137604";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="https://www.facebook.com/Videogamesplus" data-width="250" data-show-faces="false" data-send="false"></div>
+</td>
+	<td>
+		<a href="https://twitter.com/VideoGamesPlus_" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">Follow @VideoGamesPlus_</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	</td>
+	<td style="text-align: center;">
+		<table cellspacing="0" cellpadding="0">
+		<tbody><tr style="font-size: 18px; font-weight: bold;">
+			<td style="text-align: right;">1-866-975-</td>
+			<td>PLUS</td>
+		</tr>
+		<tr>
+			<td><b></b></td> 
+			<td style="text-align: center;"><b>(7587)</b></td>
+		</tr>
+		</tbody></table>
+	</td>
 </tr>
 </tbody></table>
 
+<div id="SearchForm">
+                <form action="advanced_search_result.php" method="get" style="position: relative;">
+                    <label for="search_query">Search</label>
+                    <input type="text" name="keywords" id="search_query" class="Textbox" value="">
+                    <input type="image" src="includes/sts_templates/vgp001/images/Search.png" onmouseover="this.src='includes/sts_templates/vgp001/images/searchhover.png'" onmouseout="this.src='includes/sts_templates/vgp001/images/Search.png'" class="Button">
+                    <div class="search-helper"></div>
+                </form>
+                <p>
+                    <a href="advanced_search.php" style="color: black;"><strong>Advanced Search</strong></a>
+                </p>
+</div>
+
+        <br class="Clear"> </div></td>
+				</tr>
+				<tr>
+					<td>
+							<script language="javascript" type="text/javascript">
+	function currencyPopUp() {
+		var answer = confirm ("Conversion is for Estimates only. Billing and orders are processed only in Canadian Funds. By Clicking okay you accept these terms and conditions.", "Notice:");
+		if (answer) {
+			document.forms['currencies'].submit(); 
+			return false;
+		} 
+		else {
+			document.forms['currencies'].options(1).selected = true;
+			return false;
+		}
+	}
+	</script>
+	<form name="currencies" action="" method="get" style="float: right;">
+			Currency: <select name="currency" onchange="currencyPopUp(this);" style="width: 120">
+			<option value="USD">US Dollar</option><option value="CAD" selected="selected">Canadian Dollar</option><option value="GBP">Great British Pound</option><option value="AUD">Australian Dollar</option><option value="EUR">Euro</option><option value="JPY">Japanese Yen</option><option value="BRL">Brazilian Real</option><option value="ARS">Argentine Peso</option><option value="CLP">Chilean Peso</option><option value="CHF">Swiss Franc</option><option value="CZK">Czech Koruna</option><option value="DKK">Danish Krone</option><option value="EGP">Egyptian Pound</option><option value="HKD">Hong Kong Dollar</option><option value="HRK">Croatian kuna</option><option value="HUF">Hungarian Forint</option><option value="ILS">Israeli shekel</option><option value="INR">Indian rupee</option><option value="TRY">Turkish Lira</option><option value="MXN">Mexican Peso</option><option value="CNY">Chinese Yuan Renminbi</option><option value="NOK">Norwegian krone</option><option value="PEN">Peruvian nuevo sol</option><option value="BYR">Belarusian ruble</option><option value="NZD">New Zealand Dollar</option><option value="PKR">Pakistani rupee</option><option value="RON">Romanian New Leu</option><option value="PLN">Polish Zloty</option><option value="RUB">Russian Ruble</option><option value="SEK">Swedish Krona</option><option value="VEF">Venezuelan Bolivar</option>		</select>
+			</form>					</td>
+				</tr>
+				</tbody></table>
+
+			</div> <!-- end #header_top -->
+			
 
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><span class="headerNavigation">
-      <!-- categories //-->
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#0000FF">
-						<tbody><tr>
-<td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=370" class="tab">PRE-ORDERS</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=68" class="tab">PRE-PLAYED</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=486" class="tab">PS3</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=646" class="tab">PS4</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=576" class="tab">PS VITA</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=561" class="tab">3DS</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=621" class="tab">Wii U</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=446" class="tab">XBOX 360</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=645" class="tab">XBOX ONE</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=52" class="tab">PC</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=54" class="tab">RETRO</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=532" class="tab">BARGAIN BINS</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=602" class="tab">ELECTRONICS</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td><td valign="top" class="tab"><img src="images/trans_corner_left.gif" border="0" alt=""></td><td valign="top" class="tab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top" bgcolor="#ffffff"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			<tr>
-				<td valign="top" bgcolor="#96b9f6"><img src="images/pixel_trans.gif" border="0" alt=""></td>
-			</tr>
-			</tbody></table>
-	        <a href="https://www.videogamesplus.ca/default.php?cPath=45" class="tab">NOVELTIES</a>  </td><td valign="top" class="tab"><img src="images/trans_corner_right.gif" border="0" alt=""></td></tr>
-</tbody></table>
-
-<!-- categories_eof //-->
-    </span></td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr class="headerNavigation">
-    <td class="headerNavigation">
-&nbsp;&nbsp;<a href="https://www.videogamesplus.ca" class="headerNavigation">Home</a> » <a href="https://www.videogamesplus.ca/privacy.php" class="headerNavigation">Privacy Notice</a></td>
-
-    <td align="right" class="headerNavigation">
-<a href="https://www.videogamesplus.ca/account.php?osCsid=1dcedec90a349e57a5a8679e95f7ea3b" class="headerNavigation">My Account</a> &nbsp;|&nbsp; <a href="https://www.videogamesplus.ca/shopping_cart.php" class="headerNavigation">Cart Contents</a> &nbsp;|&nbsp; <a href="https://www.videogamesplus.ca/checkout_payment.php?osCsid=1dcedec90a349e57a5a8679e95f7ea3b" class="headerNavigation">Checkout</a> &nbsp;&nbsp;</td>
-  </tr>
-</tbody></table>
-
-
-
+		</div> 
+	
+	</td>
+</tr>
+<tr>
+	<td colspan="2" style="padding-left: 17px;">
+		<ul id="menu">
+                   <li data-anchor="left"><a href="https://www.videogamesplus.ca/ps4-c-646.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_PS4">PS4</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>PS4</h2></td></tr><tr><td style="vertical-align: top;">
+						<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=325&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/top_preorder_bloodborne.jpg" width="128" height="128"></a>						</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-c-646.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS4</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-all-ps4-products-c-646_647.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL PS4 PRODUCTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-hardware-accessories-c-646_648.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">HARDWARE / ACCESSORIES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-action-adventure-fps-c-646_649.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ACTION / ADVENTURE / FPS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-family-puzzle-music-c-646_650.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FAMILY / PUZZLE / MUSIC</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-sports-fitness-c-646_651.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SPORTS / FITNESS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-fighting-c-646_652.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FIGHTING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-platform-c-646_653.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PLATFORM</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-role-playing-c-646_654.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ROLE-PLAYING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-racing-c-646_655.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RACING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-strategy-c-646_656.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps4-strategy-guides-c-646_657.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY GUIDES</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="left"><a href="https://www.videogamesplus.ca/ps3-c-486.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_PS3">PS3</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>PS3</h2></td></tr><tr><td style="vertical-align: top;">
+						<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=323&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/top_seller_classofheroes2g.jpg" width="128" height="128"></a>						</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-c-486.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS3</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-all-ps3-products-c-486_487.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL PS3 PRODUCTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-hardware-accessories-c-486_488.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">HARDWARE / ACCESSORIES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-action-adventure-fps-c-486_489.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ACTION / ADVENTURE / FPS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-family-puzzle-music-c-486_490.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FAMILY / PUZZLE / MUSIC</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-sports-c-486_491.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SPORTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-fighting-c-486_492.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FIGHTING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-platform-c-486_493.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PLATFORM</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-role-playing-c-486_494.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ROLE-PLAYING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-racing-c-486_495.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RACING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-strategy-c-486_496.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-strategy-guides-c-486_526.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY GUIDES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-imports-c-486_528.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">IMPORTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-french-versionfranÃaise-c-486_551.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FRENCH VERSION/FRANÇAISE</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-playstation-move-c-486_555.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PLAYSTATION MOVE</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/ps3-turtle-beach-c-486_558.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">TURTLE BEACH</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="left"><a href="https://www.videogamesplus.ca/vita-c-576.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_PS VITA">PS VITA</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>PS VITA</h2></td></tr><tr><td style="vertical-align: top;">
+						<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=320&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/top_seller_nep_rebirth2.jpg" width="128" height="128"></a>						</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-c-576.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS VITA</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-all-vita-products-c-576_577.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL PS VITA PRODUCTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-hardware-accessories-c-576_578.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">HARDWARE / ACCESSORIES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-action-adventure-fps-c-576_579.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ACTION / ADVENTURE / FPS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-family-puzzle-music-c-576_580.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FAMILY / PUZZLE / MUSIC</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-sports-c-576_581.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SPORTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-fighting-c-576_582.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FIGHTING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-platform-c-576_583.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PLATFORM</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-role-playing-c-576_584.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ROLE-PLAYING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-racing-c-576_585.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RACING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-strategy-c-576_586.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-strategy-guides-c-576_587.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY GUIDES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/vita-imports-c-576_671.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">IMPORTS</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="left"><a href="https://www.videogamesplus.ca/xbox-one-c-645.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_XBOX ONE">XBOX ONE</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>XBOX ONE</h2></td></tr><tr><td style="vertical-align: top;">
+						<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=312&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/top_seller_res_rev2_xb1.jpg" width="128" height="128"></a>						</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-c-645.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX ONE</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-all-xbox-one-products-c-645_660.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL XBOX ONE PRODUCTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-hardware-accessories-c-645_661.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">HARDWARE / ACCESSORIES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-action-adventure-fps-c-645_662.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ACTION / ADVENTURE / FPS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-family-puzzle-music-c-645_663.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FAMILY / PUZZLE / MUSIC</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-sports-fitness-c-645_664.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SPORTS / FITNESS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-fighting-c-645_665.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FIGHTING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-platform-c-645_666.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PLATFORM</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-role-playing-c-645_667.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ROLE-PLAYING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-racing-c-645_669.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RACING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-strategy-c-645_668.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-one-strategy-guides-c-645_670.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY GUIDES</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="left"><a href="https://www.videogamesplus.ca/xbox-360-c-446.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_XBOX 360">XBOX 360</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>XBOX 360</h2></td></tr><tr><td style="vertical-align: top;">
+						<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=313&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/top_seller_darksouls2sin_360.jpg" width="128" height="128"></a>						</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-c-446.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX 360</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-all-xbox-360-products-c-446_447.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL XBOX 360 PRODUCTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-hardware-accessories-c-446_448.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">HARDWARE / ACCESSORIES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-action-adventure-fps-c-446_449.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ACTION / ADVENTURE / FPS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-family-puzzle-music-c-446_450.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FAMILY / PUZZLE / MUSIC</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-sports-c-446_451.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SPORTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-fighting-c-446_452.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FIGHTING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-platform-c-446_453.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PLATFORM</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-role-playing-c-446_454.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ROLE-PLAYING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-racing-c-446_455.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RACING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-strategy-c-446_456.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-strategy-guides-c-446_522.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY GUIDES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-region-free-c-446_470.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">REGION FREE</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-french-versionfranÃaise-c-446_552.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FRENCH VERSION/FRANÇAISE</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-kinect-c-446_556.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">KINECT</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/xbox-360-turtle-beach-c-446_559.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">TURTLE BEACH</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="left"><a href="https://www.videogamesplus.ca/wii-c-621.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_WII U">WII U</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>WII U</h2></td></tr><tr><td style="vertical-align: top;">
+						<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=326&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/top_seller_marioparty10.jpg" width="128" height="128"></a>						</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-c-621.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">WII U</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-all-wii-products-c-621_622.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL Wii U PRODUCTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-hardware-accessories-c-621_623.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">HARDWARE / ACCESSORIES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-action-adventure-fps-c-621_624.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ACTION / ADVENTURE / FPS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-family-puzzle-music-c-621_625.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FAMILY / PUZZLE / MUSIC</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-sports-fitness-c-621_626.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SPORTS / FITNESS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-fighting-c-621_627.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FIGHTING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-platform-c-621_628.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PLATFORM</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-role-playing-c-621_629.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ROLE-PLAYING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-racing-c-621_630.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RACING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-strategy-c-621_631.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/wii-strategy-guides-c-621_632.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY GUIDES</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="left"><a href="https://www.videogamesplus.ca/3ds-c-561.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_3DS">3DS</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>3DS</h2></td></tr><tr><td style="vertical-align: top;">
+						<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=308&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/top_seller_amiibo.jpg" width="128" height="128"></a>						</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-c-561.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">3DS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-all-3ds-products-c-561_563.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL 3DS PRODUCTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-hardware-accessories-c-561_564.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">HARDWARE / ACCESSORIES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-action-adventure-fps-c-561_565.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ACTION / ADVENTURE / FPS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-family-puzzle-music-c-561_566.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FAMILY / PUZZLE / MUSIC</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-sports-c-561_567.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SPORTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-fighting-c-561_568.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">FIGHTING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-platform-c-561_569.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PLATFORM</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-role-playing-c-561_570.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ROLE-PLAYING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-racing-c-561_571.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RACING</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-strategy-c-561_572.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-strategy-guides-c-561_573.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">STRATEGY GUIDES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/3ds-region-free-c-561_574.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">REGION FREE</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="left"><a href="https://www.videogamesplus.ca/retro-c-54.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_RETRO">RETRO</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>RETRO</h2></td></tr><tr><td style="vertical-align: top;">
+						<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=103&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/topseller_retro_supaboy_final.jpg" width="128" height="128"></a>						</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-c-54.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RETRO</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-ps2-c-54_24.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS2</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-xbox-c-54_27.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-gamecube-c-54_21.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">GAMECUBE</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-dreamcast-c-54_33.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">DREAMCAST</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-psp-c-54_380.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PSP</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-ds-c-54_381.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">DS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-gba-c-54_31.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">GBA</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-psx-c-54_32.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PSX</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-wii-c-54_475.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">Wii</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-nintendo-c-54_35.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">NINTENDO 64</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-saturn-c-54_37.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SATURN</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-panasonic-3do-c-54_42.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PANASONIC 3DO</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-virtual-boy-c-54_49.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">VIRTUAL BOY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-gameboy-gameboy-color-c-54_34.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">GAMEBOY &amp; GAMEBOY COLOR</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-reproduction-games-c-54_771.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">REPRODUCTION GAMES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-snes-c-54_46.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SNES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-genesis-c-54_38.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">GENESIS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-sega-32x-c-54_43.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SEGA CD / 32X</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-turbografx-c-54_40.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">TURBOGRAFX</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-neo-geo-c-54_39.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">NEO-GEO</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-nes-c-54_36.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">NES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-master-system-game-gear-c-54_55.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">MASTER SYSTEM / GAME GEAR</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-intellivision-colecovision-c-54_44.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">INTELLIVISION / COLECOVISION</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/retro-atari-c-54_41.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ATARI</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="right"><a href="https://www.videogamesplus.ca/pre-orders-c-370.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_PRE-ORDERS">PRE-ORDERS</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>PRE-ORDERS</h2></td></tr><tr><td style="vertical-align: top;">
+						<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=304&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/top_seller_batman_arkhamknight_ps4.jpg" width="128" height="128"></a>						</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-c-370.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PRE-ORDERS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-all-pre-orders-c-370_707.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL PRE - ORDERS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-ps3-c-370_474.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS3</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-ps4-c-370_658.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS4</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-vita-c-370_588.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS VITA</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-wii-c-370_473.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">Wii</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-wii-c-370_633.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">Wii U</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-3ds-c-370_562.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">3DS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-xbox-360-c-370_457.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX 360</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-xbox-one-c-370_659.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX ONE</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-orders-pc-c-370_430.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PC</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="right"><a href="https://www.videogamesplus.ca/pre-played-c-68.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_PRE-LAYED">PRE-PLAYED</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>PRE-PLAYED</h2></td></tr><tr><td style="vertical-align: top;">
+												</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-c-68.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PRE-PLAYED</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-all-pre-played-products-c-68_708.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL PRE-PLAYED PRODUCTS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-ps4-c-68_673.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS4</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-xbox-one-c-68_674.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX ONE</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-wii-c-68_675.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">Wii U</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-ps3-c-68_498.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS3</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-xbox-360-c-68_458.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX 360</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-wii-c-68_509.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">Wii</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-vita-c-68_608.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS VITA</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-3ds-c-68_590.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">3DS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-ds-c-68_395.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">DS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-psp-c-68_396.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PSP</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-nintendo-c-68_225.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">NINTENDO 64</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-ps2-c-68_216.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS2</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-psx-c-68_223.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PSX</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-xbox-c-68_219.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-gameboy-gameboy-color-c-68_224.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">GAMEBOY &amp; GAMEBOY COLOR</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-gamecube-c-68_217.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">GAMECUBE</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-snes-c-68_228.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SNES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-dreamcast-c-68_222.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">DREAMCAST</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-genesis-c-68_227.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">GENESIS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-saturn-c-68_226.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SATURN</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-gba-c-68_221.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">GBA</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-panasonic-3do-c-68_235.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PANASONIC 3DO</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-sega-32x-c-68_232.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SEGA CD / 32X</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-turbografx-c-68_233.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">TURBOGRAFX</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-neo-geo-c-68_229.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">NEO-GEO</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-nes-c-68_230.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">NES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-master-system-game-gear-c-68_231.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">MASTER SYSTEM / GAME GEAR</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/pre-played-atari-c-68_234.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ATARI</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
+          <li data-anchor="right"><a href="https://www.videogamesplus.ca/others-c-45.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c" id="sm_OTHERS">OTHERS</a>
+      		<!-- begin SUB MENU -->
+										<div class="dropdown"><table><tbody><tr><td colspan="2"><h2>OTHERS</h2></td></tr><tr><td style="vertical-align: top;">
+												</td><td style="vertical-align: top;">
+							<div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-c-45.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">OTHERS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-all-strategy-guides-c-45_543.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ALL STRATEGY GUIDES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-clothing-hats-wallets-etc-c-45_730.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">CLOTHING, HATS, WALLETS, ETC..</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-electronics-c-45_602.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">ELECTRONICS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-remote-control-cars-c-45_443.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">REMOTE CONTROL CARS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-soundtracks-c-45_435.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SOUNDTRACKS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-toys-c-45_542.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">TOYS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-containers-flasks-c-45_711.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">CONTAINERS &amp; FLASKS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-games-c-45_432.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">TV GAMES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-dvds-blu-ray-c-45_53.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">DVDs / BLU RAY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-trading-cards-boosters-c-45_531.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">TRADING CARDS / BOOSTERS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-keychains-necklaces-c-45_544.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">KEYCHAINS / NECKLACES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-glasses-c-45_554.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">GLASSES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-board-games-puzzles-c-45_557.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">BOARD GAMES / PUZZLES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-amiibo-c-45_724.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">AMIIBO</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-kontrol-freek-c-45_725.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">KONTROL FREEK</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-skylander-sets-and-figures-c-45_589.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">SKYLANDER SETS AND FIGURES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-disney-infinity-c-45_642.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">DISNEY INFINITY</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-lego-dimensions-c-45_776.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">LEGO DIMENSIONS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-mobile-devices-and-accessories-c-45_601.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">MOBILE DEVICES AND ACCESSORIES</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-calendars-c-45_639.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">CALENDARS</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-hyperkin-c-45_726.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">HYPERKIN</a></div><div class="dropdown_list"><a href="https://www.videogamesplus.ca/others-newsletter-highlights-c-45_748.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">NEWSLETTER HIGHLIGHTS</a></div>
+						</td></tr></tbody></table></div>
+						<!-- end SUB MENU -->		
+	</li>
     
-<!-- header_eof //-->
+</ul>
 
-<!-- body //-->
-<table border="0" width="100%" cellspacing="3" cellpadding="3">
+
+
+	</td>
+</tr>
+<tr>
+	<td colspan="2" valign="top" style="padding-left: 16px;">
+		
+ <br>
+
+	</td>
+</tr>
+<tr>
+	<td colspan="2">
+		<table style="margin-bottom: 20px;"><tbody><tr><td style="text-align: center; pading-right: 20px; padding-left: 17px;"><a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=248&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/small_size_pricedrops.jpg"></a></td><td style="text-align: center; pading-right: 20px; padding-left: 17px;"><a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=336&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/small_size_amiibo.jpg"></a></td><td style="text-align: center; pading-right: 20px; padding-left: 17px;"><a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=123&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/small_size_imports.jpg"></a></td><td style="text-align: center; pading-right: 20px; padding-left: 17px;"><a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=121&amp;osCsid=ea1597a6282002ba0a3b0c2220dcab3c"><img src="images/topbanner_currentspecials_final.jpg"></a></td></tr></tbody></table>	</td>
+</tr>
+<tr>
+	<td valign="top" style="width: 160px; padding-left: 17px;">
+		<div class="side_column" id="column_left">		
+						
+						<div class="infobox shopping_cart" style="min-height: 0px;">
+				<div class="infobox_heading" style="text-align: left;"><a href="#" onclick="$('.checkOrderStatus.infoBoxContents').toggle(); return false;">Order Status</a></div>
+				<table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents checkOrderStatus" style="display: none;">
+				<tbody><tr>
+					<td>
+						<form id="show_order_status_form" action="account_history_info.php" method="GET">
+						<ul class="boxes_categories">
+							<li>	<a style="width: 180px; display: block; font-size: 10px;">		<div style="text-align: center;">E-mail:<br><input name="email_address" value=""><br>Order ID:<br><input name="order_id" value=""></div>	</a></li><li>	<a href="#" onclick="document.getElementById('show_order_status_form').submit(); return false;" style="width: 180px; display: block; font-size: 11px;">		<div style="text-align: center;"><b>CONTINUE</b></div>	</a></li>						</ul>
+						</form>
+					</td>
+				</tr>
+				</tbody></table>
+			</div>
+			
+			
+			<form id="newsletter_form" action="newsletter_subscribe.php" method="POST">
+			<div class="infobox newsletter" style="min-height: 0px;">
+				<div class="infobox_heading"><a href="#" onclick="$('.newsletter.infoBoxContents').toggle(); return false;">Newsletter</a></div>
+				<table border="0" width="100%" cellspacing="0" cellpadding="3" class="newsletter infoBoxContents" style="display: none;">
+				<tbody><tr>
+					<td>
+						<ul class="boxes_categories">
+							<li>
+								<input name="email_address" type="text" value="" placeholder="example@videogamesplus.com" style="width: 175px;"><br>
+							</li>
+							<input id="newssub" type="submit" name="subscribe" value="1" style="display: none;"><input id="newsunsub" type="submit" name="unsubscribe" value="1" style="display: none;"><li>	<a href="#" onclick="$('#newssub').click(); return false;" style="width: 180px; display: block; font-size: 11px;">		<div style="text-align: center;"><b>SUBSCRIBE</b></div>	</a></li><li>	<a href="#" onclick="$('#newsunsub').click(); return false;" style="width: 180px; display: block; font-size: 11px;">		<div style="text-align: center;"><b>UNSUBSCRIBE</b></div>	</a></li>						</ul>
+					</td>
+				</tr>
+				</tbody></table>
+			</div>
+			</form>
+			
+					
+			
+<!-- start categorybox //-->
+
+
+<div class="infobox">
+
+  <div class="infobox_heading">Categories<div style="float: right; position: relative; top: 2px;"></div></div>
+
+  <div class="infobox_content"><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
   <tbody><tr>
-    <td width="125" valign="top"><table border="0" width="125" cellspacing="0" cellpadding="2">
-<!-- left_navigation //-->
-<!-- search //-->
-          <tbody><tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">Product Search</td>
-    <td height="14" class="infoBoxHeading"><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+    <td><img src="images/pixel_trans.gif" width="100%" height="1" border="0" alt=""></td>
   </tr>
   <tr>
-    <td align="center" class="boxText"><form name="quick_find" method="get" action="https://www.videogamesplus.ca/advanced_search_result.php"><input type="text" name="keywords" size="10" maxlength="30" value="" style="width: 95px">&nbsp;<input type="image" src="includes/languages/english/images/buttons/check.gif" border="0" alt="Product Search" title=" Product Search "><br></form></td>
+    <td class="boxText"><ul class="boxes_categories"><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/pre-orders-c-370.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PRE-ORDERS&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/pre-played-c-68.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PRE-PLAYED&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/ps3-c-486.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS3&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/ps4-c-646.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS4&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/vita-c-576.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS VITA&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/3ds-c-561.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">3DS&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/wii-c-621.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">Wii U&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/xbox-360-c-446.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX 360&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/xbox-one-c-645.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX ONE&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/pc-c-52.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PC&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/retro-c-54.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RETRO&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/bargain-bins-c-532.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">BARGAIN BINS&nbsp;</a></li><li style="padding-left: 0px; "><a href="https://www.videogamesplus.ca/others-c-45.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">OTHERS&nbsp;</a></li></ul></td>
   </tr>
   <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
+    <td><img src="images/pixel_trans.gif" width="100%" height="1" border="0" alt=""></td>
   </tr>
 </tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- search_eof //-->
+</div>
 
-<tr><td>
+  <div class="infobox_top"></div>
 
-<div id="fb-root"></div>
+  <div class="infobox_bottom"></div>
 
+</div> 
+            
+<!-- end categorybox //-->
 
-
-<p style="margin-top: 0; margin-bottom: 0">
-<img src="commHeader.jpg" width="135" height="17">
-
-
-
-</p><p style="margin-top: 0; margin-bottom: 0">
-<a href="https://www.facebook.com/Videogamesplus">
-<img src="comm1.jpg" width="133" height="25" border="0"></a>
+			
+					</div>
+		
+		
+		
 
 
-
-
-<a href="http://vgplus.blogspot.com/">
-<img src="comm3.jpg" width="133" height="25" border="0"></a>
-
-
-<a href="http://twitter.com/VideoGamesPlus_/">
-<img src="comm2.jpg" width="133" height="25" border="0"></a>
-
-
-
-</p><p style="margin-top: 0; margin-bottom: 0">
-<a href="https://www.videogamesplus.ca/images/newsletter_blast.htm">
-<img src="images/newsletter_button.jpg" width="133" height="25" border="0"></a>
-
-</p></td></tr>
-
-
-
-
-<!-- manufacturers //-->
-          <tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">Price Drops</td>
-    <td height="14" class="infoBoxHeading"><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="left" class="boxText"><form name="manufacturers" method="get" action="https://www.videogamesplus.ca/default.php"><select name="manufacturers_id" onchange="this.form.submit();" size="1" style="width: 100%"><option value="">Please Select</option><option value="364">E3 2013</option><option value="10">Free Shipping</option><option value="22">Half-Price Ship</option><option value="415">NORDIC GAMES</option><option value="18">Price Drop 360 </option><option value="198">Price Drop 3DS </option><option value="16">Price Drop DS  </option><option value="199">Price Drop PC G</option><option value="278">Price Drop PS V</option><option value="11">Price Drop PS2 </option><option value="20">Price Drop PS3 </option><option value="384">Price Drop PS4 </option><option value="17">Price Drop PSP </option><option value="19">Price Drop Wii </option><option value="382">Price Drop Wii </option><option value="383">Price Drop XB O</option><option value="251">SONY PLAY DAYS</option><option value="145">VGP ATLUS Store</option></select></form></td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- manufacturers_eof //--><!-- categories //-->
-          <tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">Categories</td>
-    <td height="14" class="infoBoxHeading"><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="left" class="boxText"><a href="https://www.videogamesplus.ca/default.php?cPath=370">PRE-ORDERS</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=68">PRE-PLAYED</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=486">PS3</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=646">PS4</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=576">PS VITA</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=561">3DS</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=621">Wii U</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=446">XBOX 360</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=645">XBOX ONE</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=52">PC</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=54">RETRO</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=532">BARGAIN BINS</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=602">ELECTRONICS</a><br><a href="https://www.videogamesplus.ca/default.php?cPath=45">NOVELTIES</a><br></td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- categories_eof //-->
-
-<tr><td>
-<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=1193" target="_blank"><img src="images/turtlebeach_sidebanner_.jpg" border="0" alt="Turtle Beach Parts &amp; Headsets" title=" Turtle Beach Parts &amp; Headsets "></a></td></tr>
-
-<!-- whats_new //-->
-          <tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">New Products Added</td>
-    <td height="14" class="infoBoxHeading"><a href="https://www.videogamesplus.ca/products_new.php"><img src="images/infobox/arrow_right.gif" border="0" alt="more" title=" more "></a><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="center" class="boxText"><a href="https://www.videogamesplus.ca/product_info.php?products_id=21718"><img src="images/3ds_legendsofoz_dr.jpg" border="0" alt="Legends of Oz Dorothys Return - 3DS (Preorder)" title=" Legends of Oz Dorothys Return - 3DS (Preorder) " width="100" height="140"></a><br><a href="https://www.videogamesplus.ca/product_info.php?products_id=21718">Legends of Oz Dorothys Return - 3DS (Preorder)</a><br>$29.99CDN</td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- whats_new_eof //--><!-- information //-->
-          <tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">Information</td>
-    <td height="14" class="infoBoxHeading"><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="left" class="boxText"><a href="https://www.videogamesplus.ca/shipping.php">Shipping &amp; Returns</a><br><a href="https://www.videogamesplus.ca/privacy.php">Privacy Policy</a><br><a href="https://www.videogamesplus.ca/policies.php">Policies</a><br><a href="https://www.videogamesplus.ca/locations.php">Locations</a><br><a href="https://www.videogamesplus.ca/plus.php">Plus Program</a><br><a href="https://www.videogamesplus.ca/aboutus.php">About Us</a><br><a href="https://www.videogamesplus.ca/faqs.php">Frequently Asked Questions</a><br><a href="https://www.videogamesplus.ca/contact_us.php">Contact Us</a></td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- information_eof //--><!-- subscribers //-->
-          <tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">Newsletter</td>
-    <td height="14" class="infoBoxHeading"><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="left" class="boxText"><a href="https://www.videogamesplus.ca/newsletters.php">SUBSCRIBE</a><br><a href="https://www.videogamesplus.ca/subscription_center.php">UNSUBSCRIBE</a></td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- subscribers_eof //--><!-- polls //-->
-<!-- polls-eof //-->
-
-
-<tr><td>
-<p style="margin-top: 0; margin-bottom: 0">
-<a href="http://www.postcity.com/pdf/BestOfNorthYork-11-2009.pdf">
-<img src="award1.jpg" border="0"></a>
-
-</p></td></tr>
-
-<!-- left_navigation_eof //-->
-    </tbody></table></td>
-<!-- body_text //-->
-    <td width="100%" valign="top"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+	</td>
+	<td valign="top" style="padding-right: 17px; width: 820px; padding-left: 10px;">
+		<div id="column_middle_plus_right" style="padding: 0px; width: 100%;">
+			<div id="column_middle" style="padding-top: 0px; width: 100%;">
+<!-- start Default Content //-->
+<table border="0" width="100%" cellspacing="0" cellpadding="0" background="" bgcolor="#ffffff" align="center">
       <tbody><tr>
         <td><table border="0" width="100%" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td class="pageHeading">Privacy Notice</td>
-            <td class="pageHeading" align="right"><img src="images/table_background_specials.gif" border="0" alt="Privacy Notice" title=" Privacy Notice " width="57" height="60"></td>
+            <td class="pageHeading">Privacy Policy / Security</td>
           </tr>
         </tbody></table></td>
       </tr>
       <tr>
-        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+        <td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td>
       </tr>
       <tr>
-        <td><br><table border="0" width="100%" cellspacing="0" cellpadding="2">
-          <tbody><tr>
-            <td class="main">
-
-<p>1584388 Ontario Incorporated which is operating as www.videogamesplus.com (the "Company") maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions.</p>
-
+        <td style="padding: 0 10px 0 10px;"><p>1584388 Ontario Incorporated which is operating as www.videogamesplus.com (the "Company") maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions.</p>
 <p>The Company recognizes that the growth of on-line services, including Internet services, has created additional privacy concerns, particularly for consumers.</p>
-
 <p>On-line privacy concerns focus primarily on the protection of "customer identifiable" information which an individual or other customer reasonably expects to be kept private. As the term suggests, "customer identifiable" information is information that, when associated with an individual identifies that individual, including but not limited to, a customer's name, address, telephone number, credit card information, and e-mail address.</p>
-
 <p>The Company has put in place the following On-line Privacy Policy. This policy covers the Company. The Company will continue to protect customer information derived from customer registration, consistent with laws and regulations issued by Ontario, Canada.</p>
-
 <p>Collection and Use: The Company will collect and may use customer identifiable information for registration purposes, newsletters, billing purposes, contact regarding orders placed with the Company (including but not limited to shipping, changes to orders, communicating with customers regarding updates on their order), provide and change service, to anticipate and resolve problems with your service, or to create and inform you of products and services that better meet your needs. This means that the Company may use your customer identifiable information, in conjunction with information available from other sources, to market new services to you that we think will be of interest to you, but we will not disclose your customer identifiable information to third parties who want to market products to you.</p>
-
 <p>When you access the Internet, the computers that host the web sites you visit ("web servers") automatically receive some browsing information. This "usage data" may include a record of which pages a web browser has visited, and IP addresses. The Company's servers receive usage data when customers visit the Company's web sites. The Company may use usage data to provide advertising about goods and services that may be of interest to the Company's customers, or to provide customized features and services. The Company will not use information about your activities on the Internet together with any information that identifies you without your consent.</p>
-
 <p>The Company and its advertisers may use various kinds of software devices to collect information about Internet use. Small files called "cookies" may be attached to your Web browser and/or computer. These files identify you, and save information such as passwords so that web sites can recognize you. You can set your browser to disable cookies, but some of the Company's web site functions may not work properly if you do this.</p>
-
 <p>In addition, on some web sites, the Company and its advertisers may use small bits of code such as "one-pixel gifs," or "clear gifs" embedded in some web pages, to make cookies more effective.</p>
-
 <p>The Company may use advertising companies to deliver advertisements on some the Company's web pages. The advertising companies may also receive some anonymous information about advertisement viewing by Internet users on the Company's web pages and other Internet sites. This information may be associated with a customer's web browser, but not with a name or e-mail address without the customer's permission. The Company does not supply customer identifiable information to advertising companies or to individual advertisers or other third parties. If you go to another web site, including an advertiser's web site (for example by clicking on an advertisement), and request information or enter a contest, be aware that you may be authorizing another company, including an advertising company, to use information you supply. You can find out which advertising companies deliver advertisements on the Company's web pages, read their privacy policies, and choose whether to let them collect information about what you do on the Internet by clicking here.</p>
-
 <p>Disclosure: The Company will not sell, trade, or disclose to third parties any customer identifiable information derived from the registration for or use of The Company's on-line service - including customer names and addresses - without the consent of the customer (except as required by court order, subpoena, search warrant, or other legal process or in the case of imminent physical harm to the customer or others). When the Company uses other agents, contractors or companies to perform services on its behalf, the Company will ensure that the company protects your customer identifiable information consistent with this Privacy Policy. If the Company includes your name and any other registration information in a directory that the Company creates from information we receive as an on-line service provider, the company will give you the opportunity to have your information excluded from that directory. Business directories that the Company creates may, however, contain information obtained from other sources.</p>
-
-<p>Third Party Gathering: The Company may use web traffic reporting services such as Google Analytics. The information is collected by Google Analytics on behalf of the Company. The information collected by Google Analytics is mostly anonymous (except for some information such as IP addresses and Google search terms). For more information on Google Analytics' privacy practices, you may visit their <a href="http://www.google.com/intl/en/analytics/privacyoverview.html" target="_blank">Privacy Policy</a>.</p>
-
+<p>Third Party Gathering: The Company may use web traffic reporting services such as Google Analytics. The information is collected by Google Analytics on behalf of the Company. The information collected by Google Analytics is mostly anonymous (except for some information such as IP addresses and Google search terms). For more information on Google Analytics' privacy practices, you may visit their <a target="_blank" href="http://www.google.com/intl/en/analytics/privacyoverview.html">Privacy Policy</a>.</p>
 <p>Customer Choice: A customer may choose not to receive direct marketing communications from the Company in connection with the Company's on-line services. Upon such choice, the Company (a) will not contact that customer directly with marketing messages about the Company's on-line services, and (b) will not use customer identifiable information obtained from that customer's registration for or use of an on-line service to contact that customer with marketing messages about any of the Company's products or services. A customer may choose not to receive such messages by e-mail, by mail, or by telephone.</p>
-
 <p>For information and instructions about how to opt out of such notifications, please email us at: <a href="mailto:security@videogamesplus.ca">security@videogamesplus.ca</a>.</p>
-
 <p>Customer-identifiable information which a visitor volunteers at one of the the Company's web pages to order services other than on-line services will be protected just as if the information had been provided under more traditional ways of ordering that service.</p>
-
 <p>Security: The Company has implemented technology and security features and strict policy guidelines to safeguard the privacy of your customer identifiable information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available.</p>
-
 <p>Improper Conduct: The Company may also use customer identifiable information to investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the customer agreement for that service.</p>
-
 <p>Account Information: The Company honours requests from customers to review all customer identifiable information maintained in reasonably retrievable form, which currently consists of your name, address, e-mail address, telephone number and/or billing information, and will correct any such information which may be inaccurate. Customers may verify that appropriate corrections have been made.</p>
-
 <p>Customer Concerns: If you are a consumer with concerns about the Company's on-line Privacy Policy or its implementation you may contact us at <a href="mailto:security@videogamesplus.ca">security@videogamesplus.ca</a>.</p>
-
-<p>Changes in Practices: The Company will keep this Privacy Policy current. The company will inform you of any changes that we make by posting notice of changes on the Company's homepage.</p> 
-
-
-
-</td>
-          </tr>
-        </tbody></table></td>
+<p>Changes in Practices: The Company will keep this Privacy Policy current. The company will inform you of any changes that we make by posting notice of changes on the Company's homepage.</p></td>
       </tr>
       <tr>
-        <td align="right" class="main"><br><a href="https://www.videogamesplus.ca/default.php"><img src="includes/languages/english/images/buttons/button_continue.gif" border="0" alt="Continue" title=" Continue "></a></td>
+        <td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td>
       </tr>
-    </tbody></table></td>
-<!-- body_text_eof //-->
-    <td width="125" valign="top"><p>
 
-
-</p><table border="0" width="125" cellspacing="0" cellpadding="2">
-<!-- right_navigation //-->
-<!-- shopping_cart //-->
-          <tbody><tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">My Cart</td>
-    <td height="14" class="infoBoxHeading"><a href="https://www.videogamesplus.ca/shopping_cart.php"><img src="images/infobox/arrow_right.gif" border="0" alt="more" title=" more "></a><img src="images/infobox/corner_right.gif" border="0" alt=""></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="left" class="boxText">0 items</td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
+    </tbody></table>
+<!-- end Default Content //-->
+</div>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td colspan="2">
+		<table style="margin-right: auto; margin-left: auto; margin-bottom: 20px;"><tbody><tr></tr></tbody></table>	</td>
+</tr>
+<tr>
+	<td colspan="2">
+<div id="Footer" style="z-index: 99;">
+<table style="margin-right: auto; margin-left: auto;">
+<tbody><tr>
+	<td valign="top" width="150" rowspan="2"><!-- categories_footer //-->
+<li><div id="footercolumn1" style="display:inline-block;text-align:left" ;="">
+            <a style="color:white;">CATEGORIES</a><br>
+			<a href="https://www.videogamesplus.ca/pre-orders-c-370.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PRE-ORDERS</a><br>
+			<a href="https://www.videogamesplus.ca/pre-played-c-68.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PRE-PLAYED</a><br>
+			<a href="https://www.videogamesplus.ca/ps3-c-486.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS3</a><br>
+			<a href="https://www.videogamesplus.ca/ps4-c-646.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS4</a><br>
+			<a href="https://www.videogamesplus.ca/vita-c-576.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PS VITA</a><br>
+			<a href="https://www.videogamesplus.ca/3ds-c-561.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">3DS</a><br>
+			<a href="https://www.videogamesplus.ca/wii-c-621.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">Wii U</a><br>
+			<a href="https://www.videogamesplus.ca/xbox-360-c-446.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX 360</a><br>
+			<a href="https://www.videogamesplus.ca/xbox-one-c-645.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">XBOX ONE</a><br>
+			<a href="https://www.videogamesplus.ca/pc-c-52.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">PC</a><br>
+			<a href="https://www.videogamesplus.ca/retro-c-54.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">RETRO</a><br>
+			<a href="https://www.videogamesplus.ca/bargain-bins-c-532.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">BARGAIN BINS</a><br>
+			<a href="https://www.videogamesplus.ca/others-c-45.html?osCsid=ea1597a6282002ba0a3b0c2220dcab3c">OTHERS</a><br>
+			 
+            </div></li>
+<!-- categories_footer_eof //-->
 </td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- shopping_cart_eof //-->
-
-<tr><td>
-<p style="margin-top: 0; margin-bottom: 0"><b>
-<font face="Arial" color="#ff0000">
-<a href="https://www.videogamesplus.ca/default.php?cPath=68">
-<img src="preplayed.gif" border="0" width="140" height="40"></a></font></b></p>
-
-</td></tr>
-
-
-
-
-<tr><td>
-<p style="margin-top: 0; margin-bottom: 0"><b>
-
-
-<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=1363" target="_blank"><img src="images/us_shipping_button_final_1.jpg" border="0" alt="USA SHIPPING" title=" USA SHIPPING "></a> 
-
-
-</b></p></td></tr>
-
-<tr><td>
-<p style="margin-top: 0; margin-bottom: 0"><b>
-<font face="Arial" color="#ff0000">
-<a href="https://www.videogamesplus.ca/contact_us.php">
-<img src="contactuspic.jpg" border="0" width="140" height="200"></a></font></b></p>
-
-</td></tr>
-
-<tr><td>
-<p style="margin-top: 0; margin-bottom: 0"><b>
+	<td valign="top" width="100">
+	<ul style="margin-left: 0px;"><li>
+		<div id="footercolumn2" style="display:inline-block;text-align:left" ;="">
+            <a style="color:white;">SOCIAL</a><br>
+            <a href="contact_us.php">Contact Us</a><br>
+            <a href="https://www.facebook.com/Videogamesplus" target="_BLANK">Facebook</a><br>
+            <a href="https://twitter.com/VideoGamesPlus_/" target="_BLANK">Twitter</a><br>
+            <a href="" target="_BLANK">YouTube</a><br>
+            <a href="newsletter_subscribe.php" target="_BLANK">Newsletter</a><br>
+        </div>
+        </li></ul>
+	</td>
+	<td valign="top">
+		<ul style="margin-left: 0px;"><li>
+       		<div id="footercolumn5" style="display:inline-block;text-align:left">
+            	<a style="color:white;">CUSTOMER CARE</a><br>
+            	<a href="faqs.php">FAQs</a><br>
+            	<a href="returns.php">Returns / Exchanges</a><br>
+            	<a href="shipping_faq.php">Shipping</a><br>
+            	<a href="privacy_policy.php">Privacy / Security</a><br>
+<a href="store_policy.php">Store Policy</a><br>
+            	<a href="contact_us.php">Contact Us</a><br>
+            	<a href="about_us.php">About Us</a><br>
+            	<a href="store_locations.php">Store Locations</a><br>
+                <a href="wholesale.php">Wholesale</a><br>
+                <a href="newwebsitefeatures.php">New Website Features</a><br>
+                <a href="my_points_help.php">Plus Point Program</a><br>
 
 
-<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=1109" target="_blank"><img src="images/preplayed.gif" border="0" alt="WORLD WIDE SHIPPING" title=" WORLD WIDE SHIPPING "></a> 
-
-<!-- currencies //-->
-          </b></p></td></tr><tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">Currencies</td>
-    <td height="14" class="infoBoxHeading"><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="left" class="boxText"><form name="currencies" method="get" action="https://www.videogamesplus.ca/privacy.php"><select name="currency" onchange="this.form.submit();" style="width: 100%"><option value="USD">US Dollar</option><option value="GBP">Great British Pounds</option><option value="EUR">Euro</option><option value="CAN" selected="">Canadian Dollar</option><option value="AUD">Australia Dollars</option></select></form></td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- currencies_eof //-->
-<!-- specials //-->
-          <tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">Specials</td>
-    <td height="14" class="infoBoxHeading"><a href="https://www.videogamesplus.ca/specials.php"><img src="images/infobox/arrow_right.gif" border="0" alt="more" title=" more "></a><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="center" class="boxText"><a href="https://www.videogamesplus.ca/product_info.php?products_id=21301"><img src="images/ps3_aquapazza_final.jpg" border="0" alt="AquaPazza: Aquaplus Dream Match - PS3 (In stock usually ships within 24 to 72 hrs)" title=" AquaPazza: Aquaplus Dream Match - PS3 (In stock usually ships within 24 to 72 hrs) " width="100" height="140"></a><br><a href="https://www.videogamesplus.ca/product_info.php?products_id=21301">AquaPazza: Aquaplus Dream Match - PS3 (In stock usually ships within 24 to 72 hrs)</a><br><s>$29.99CDN</s><br><span class="productSpecialPrice">$19.99CDN</span></td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- specials_eof //--><!-- reviews //-->
-          <tr>
-            <td>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="14" class="infoBoxHeading"><img src="images/infobox/corner_right_left.gif" border="0" alt=""></td>
-    <td width="100%" height="14" class="infoBoxHeading">Reviews</td>
-    <td height="14" class="infoBoxHeading"><a href="https://www.videogamesplus.ca/reviews.php"><img src="images/infobox/arrow_right.gif" border="0" alt="more" title=" more "></a><img src="images/pixel_trans.gif" border="0" alt="" width="11" height="14"></td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="infoBoxContents">
-  <tbody><tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="left" class="boxText"><div align="center"><a href="https://www.videogamesplus.ca/product_reviews_info.php?products_id=19970&amp;reviews_id=1098"><img src="images/psvita_zeroescape_virtueslastreward.jpg" border="0" alt="Zero Escape: Virtue's Last Reward - PS VITA (In stock usually ships within 24hrs)" title=" Zero Escape: Virtue's Last Reward - PS VITA (In stock usually ships within 24hrs) " width="100" height="140"></a></div><a href="https://www.videogamesplus.ca/product_reviews_info.php?products_id=19970&amp;reviews_id=1098">Great game! First choice for those looking for a challenge  ..</a><br><div align="center"><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "></div></td>
-  </tr>
-  <tr>
-    <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-<!-- reviews_eof //-->
-<tr><td>
-
-<p align="center"><b><font face="Arial" color="#ff0000">
-<img src="creditpaypal.gif" border="0"></font></b></p>
+            </div>
+		</li></ul>
+	</td>
+	<td valign="top">
+		<ul style="margin-left: 0px;"><li>
+       		<div id="footercolumn5" style="display:inline-block;text-align:left">
+            	<a style="color:white;">ABOUT YOU</a><br>
+            	<a href="account.php">Account</a><br>
+            	<a href="wishlist.php">Wishlist</a><br>
+            	<a href="account_history.php">Order Status</a><br>
+            	<a href="gv_send.php">Gift Certificate</a><br>
+            </div>
+		</li></ul>
+	</td>
+	<td valign="top" rowspan="2">
+    	<a>Shop With Confidence, We accept:</a> <br>
+        <img src="includes/sts_templates/vgp001/images/ccards.png" style="margin-right:25px;margin-top:0px;" ;="">
+		<br>
+		
+	
+		<br>
+		
+		<img src="includes/sts_templates/vgp001/images/proud-and-worldwide.png">
+	</td>
+</tr>
+<tr>
+	<td colspan="3">
+	<script src="https://www.videogamesplus.ca/captureIP.php"></script>
+	<div style="margin-bottom: 5px;">All prices in CAD. Copyright 2014 Video Games Plus</div> <a href="http://www.website-guardian.com/" title="Site Secured By The Website Guardian" target="_blank"><img src="includes/sts_templates/vgp001/images/sitelock.png" alt="Site Secured By The Website Guardian" border="0" height="55"></a>
 
 
-<p align="center"><b><font face="Arial" color="#ff0000">
-<img height="63" src="ebaylogo.gif" width="134" border="0"></font></b></p>
+			<!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->
+			<script language="javascript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+			<!-- end  GeoTrust Smart Icon tag -->
 
-<p align="center"><b><font face="Arial" color="#ff0000">
-<a href="http://www.visa.ca/verified">
-<img height="62" src="vbv.gif" width="115" border="0"></a></font></b></p>
-
-<p align="center">
-<!-- GeoTrust True Site [tm] Smart Icon tag. Do not edit. -->
-<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-<!-- end GeoTrust Smart Icon tag -->
-</p>
 
 </td>
-
-
-</tr><tr><td>
-<p style="margin-top: 0; margin-bottom: 0"><b>
-
-
-<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=1490" target="_blank"><img src="images/disneyinfinity_longside_final.jpg" border="0" alt="Disney INFINITY Toys and Sets" title=" Disney INFINITY Toys and Sets "></a> 
-
-
-</b></p></td></tr>
-
-
-<!-- right_navigation_eof //-->
-    </tbody></table></td>
-  </tr>
+</tr>
 </tbody></table>
-<!-- body_eof //-->
-
-<!-- footer //-->
-<table border="0" width="100%" cellspacing="0" cellpadding="1">
-  <tbody><tr class="footer">
-    <td class="footer">&nbsp;&nbsp;Sunday 30 March, 2014&nbsp;&nbsp;</td>
-    <td align="right" class="footer">&nbsp;&nbsp;153483427 requests since Friday 07 November, 2003&nbsp;&nbsp;</td>
-  </tr>
+</div>	
+	</td>
+</tr>
 </tbody></table>
-<br>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center" class="smallText">Copyright © 1989 - 2011 <a href="http://www.videogamesplus.ca">Video Games Plus</a> : <a href="mailto:customerservice@videogamesplus.ca">VGP Webmaster</a><p>
+<div id="footerbackground" style="position: absolute; width: 100%; left: 0px; z-index: -99;"></div>
 
 
-<a href="https://www.videogamesplus.ca/redirect.php?action=banner&amp;goto=1515" target="_blank"><img src="images/afterglow_bottem_banner_final.jpg" border="0" alt="AfterGlow Accessories" title=" AfterGlow Accessories "></a>
 
-<br></p><div align="center"><a href="http://www.website-guardian.com/" title="Site Secured By The Website Guardian" target="_blank"><img src="images/sitelock.png" alt="Site Secured By The Website Guardian" border="0"></a></div>
- 
-<script src="captureIP.php"></script>
-
-</td>
-  </tr>
-</tbody></table>
-<!-- footer_eof //-->
-<br>
-
-
-</body></html>
+ </body></html>
