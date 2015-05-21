@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videogamesplus.ca privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330184736id_/https%3A//www.videogamesplus.ca/privacy.php%3FosCsid%3D0c9a9e9e3be8ceebb4c14cb2d4a19522) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamesplus.ca privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521190032id_/https%3A//www.videogamesplus.ca/privacy_policy.php) for the most accurate reproduction.*
 
-# Welcome to Video Games Plus Online
+# Privacy Policy / Security | VIDEOGAMESPLUS.CA | Home for the Hardcore Gamer!
 
 1584388 Ontario Incorporated which is operating as www.videogamesplus.com (the "Company") maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions.
 
