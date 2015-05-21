@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discoverorg.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120104924id_/http%3A//discoverorg.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverorg.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521124510id_/https%3A//discoverorg.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | DiscoverOrg- IT Org Charts, IT Sales Leads
+# Privacy Policy | Org Charts, Contact Data, Purchase Intent - DiscoverOrg
 
 Privacy Policy
 
@@ -8,7 +8,7 @@ At DiscoverOrg, LLC (“DiscoverOrg”) we are committed to ensuring our custome
 
 Personal Information
 
-In the course of our relationship with our clients, we may be exposed to collect certain personally identifiable information of our customers and visitors. We will not sell or disclose your personal information, unless required by law. We endeavor to ensure the privacy and security of our customer’s personal information, and if you have any questions regarding your personal information please contact us at [privacy@discoverorg.com](mailto:privacy@discoverorg.com)
+In the course of our relationship with our clients, we may be exposed to collect certain personally identifiable information of our customers and visitors. We will not sell or disclose your personal information, unless required by law. We endeavor to ensure the privacy and security of our customer’s personal information, and if you have any questions regarding your personal information please contact us at [privacy@discoverorg.com](mailto:privacy@discoverorg.com)
 
 Collected Information
 
@@ -36,4 +36,4 @@ The site and our service may contain links and pointers to the other related Wor
 
 Supplemental geopolitical data supplied by [GeoNames](http://www.geonames.org/)
 
-If you have any questions about our Privacy Policy, the practices, or use of the web site please contact [privacy@discoverorg.com](mailto:privacy@discoverorg.com)
+If you have any questions about our Privacy Policy, the practices, or use of the web site please contact [privacy@discoverorg.com](mailto:privacy@discoverorg.com)
