@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemalto.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018013623id_/http%3A//www.gemalto.com/companyinfo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemalto.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521170737id_/http%3A//www.gemalto.com/companyinfo/privacy-policy) for the most accurate reproduction.*
 
 # Gemalto's Privacy Policy
 
