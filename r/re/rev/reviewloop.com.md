@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviewloop.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024060922id_/http%3A//reviewloop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewloop.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521063252id_/http%3A//www.reviewloop.com/privacy-policy) for the most accurate reproduction.*
 
-# Review Engine | Homepage
+# ReviewLoop Privacy Policy
 
 ReviewLoop LLC (also referred to herein as “ReviewLoop”, “Company,” “this site,” “we,” “us,” “our,”), the operator of this website, respects the privacy of every individual who uses our site and its related services. We have made this Privacy Policy to make you understand what kind of information is collected by us, how we make use of it, and how we safeguard it in our website. This privacy policy applies to this website and all its related services. Usage of our site signifies your approval to this document. If you disagree with any part of this privacy policy, you may not use or access this site and its related services.
 
