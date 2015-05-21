@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214011004id_/http%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521030624id_/http%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for pearlcrescent.com
 
