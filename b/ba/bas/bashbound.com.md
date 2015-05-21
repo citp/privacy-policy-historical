@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bashbound.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816132207id_/http%3A//bashbound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bashbound.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521170702id_/http%3A//bashbound.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BashBound
 
