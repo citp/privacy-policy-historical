@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildingarena.co.uk privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703155859id_/http%3A//buildingarena.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildingarena.co.uk privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522003213id_/http%3A//www.buildingarena.co.uk/privacy) for the most accurate reproduction.*
 
 # 
 
