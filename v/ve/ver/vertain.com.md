@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertain.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120084657id_/http%3A//www.vertain.com%3Fvpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertain.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521201930id_/http%3A//www.vertain.com%3Fvpp) for the most accurate reproduction.*
 
 # Privacy Policy
 
