@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epicwtfs.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111065313id_/http%3A//www.pophangover.com/epicwtfs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicwtfs.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521233805id_/http%3A//www.pophangover.com/epicwtfs-privacy-policy) for the most accurate reproduction.*
 
-# EpicWTFs Privacy Policy » POPHANGOVER
+# EpicWTFs Privacy Policy - POPHANGOVER
 
 Thank you for visiting a Defy Media, LLC website (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy  
 policy is to inform users of the Site as to what information we collect and how and why we use such information. 
