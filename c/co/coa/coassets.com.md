@@ -1,78 +1,68 @@
-> *The following text is extracted and transformed from the coassets.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326180224id_/https%3A//www.coassets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coassets.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522010241id_/http%3A//www.coassets.com/privacy) for the most accurate reproduction.*
 
-# CoAssets | Terms and Conditions
+# CoAssets | Privacy and Data Protection Policy
 
-**What information do we collect?**
+### **Privacy**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+The use of the Website entails various types of personal data being provided for various purposes. Under the Personal Data Protection Act (No. 26 of 2012) (the PDPA), “personal data” means data, whether true or not, about an individual who can be identified from that data; or from that data and other information to which the organisation has or is likely to have access. The PDPA governs and protects the collection, use, disclose and care of personal data. Organisations will have to comply with the PDPA as well as the common law and other relevant laws that are applied in the specific industry that they belong to, when handling personal data in their possession. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. 
+Unless expressly provided otherwise, capitalised terms used in this privacy and data protection policy (the Privacy Policy) shall bear the respective meanings ascribed to them in the [Terms of Use](https://web.archive.org/terms-of-use/). 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+By accessing the Website and creating a user account with CoAssets, Users agree and consent to CoAssets as well as its successors and assigns collecting, using, disclosing and sharing amongst themselves personal data, and disclosing such personal data to the Opportunity Providers and relevant third party service providers in accordance with the Privacy Policy. 
 
-**What do we use your information for?**
+  * _1\. COLLECTION OF PERSONAL DATA_
+    * 1.1 Users may browse the Website anonymously. However, Users will have to create a user account in order to list a Project, receive more information regarding a Project listed on the Website or to invest in a Project. 
+    * 1.2 When creating a user account with CoAssets, Users consent to provide their personal data, including but not limited to: 
+      * 1.2.1 name;
+      * 1.2.2 email address;
+      * 1.2.3 mailing address; and
+      * 1.2.4 phone number.
+    * 1.3 Users may create a user account using social media credentials as provided for on the Website from time to time. In doing so, Users consent to CoAssets collecting personal data that may be available through such social media networks, including but not limited to Facebook. 
+    * 1.4 CoAssets may store such personal data for the purposes provided for in paragraph 2 and if applicable, verify such credentials with the relevant social media network. 
+    * 1.5 If Users provide CoAssets with any personal data relating to a third party, by submitting such information to CoAssets, Users represent to CoAssets that they have obtained the consent of the third party to provide CoAssets with such personal data for the purposes stated in paragraph 2.1. 
+    * 1.6 Users shall ensure that all personal data submitted to CoAssets is complete and accurate. Any omission or failure to do so may prevent CoAssets from fulfilling the purposes stated in paragraph 2. 
+  
 
-Any of the information we collect from you may be used in one of the following ways: 
+  * _2\. USE OF PERSONAL INFORMATION_  
+CoAssets uses personal data for the following purposes: 
+    * (i) to personalise User experience and respond to individual needs; 
+    * (ii) to improve and receive feedback on the Website; 
+    * (iii) to improve customer service and provide support services; 
+    * (iv) to process interest in a Project; and 
+    * (v) to send periodic emails, including but not limited to Projects, news, updates and related information. 
+  
 
-* To personalize your experience  
-(your information helps us to better respond to your individual needs)
+  * _3\. DISCLOSURE_
+    * 3.1 CoAssets may disclose personal data to the Opportunity Providers and other third party service providers in connection with the services provided by CoAssets on the Website, on condition that the disclosed personal data is kept confidential and not further disclosed. 
+    * 3.2 CoAssets may disclose personal data for legal purposes (including but not limited to compliance, enforcement of legal rights and obligations and to obtain legal advice). 
+    * 3.3 CoAssets employs security measures to protect personal data. All personal data collected on the Website is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the gateway provider’s database only to be accessible by those authorized with special access rights who are required to keep the personal data confidential. 
+  
 
-* To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * _4\. COOKIES_
+    * 4.1 Cookies are small files that a website or service provider transfers to computer hard drives through a web browser that enables the website or service provider’s systems to recognize the browser and record certain information. 
+    * 4.2 CoAssets uses cookies on the Website to record Users’usage patterns and trends and customize User experience. CoAssets may engage third party service providers to assist in such purposes. However, such third party service providers may not disclose personal data obtained in the course of their engagement to any other parties. 
+    * 4.3 Users may disable the processing of cookies on their web browsers but this may prevent Users from maximising the services provided by CoAssets. 
+  
 
-* To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+  * _5\. THIRD PARTY WEBSITES_
+    * CoAssets shall not be responsible for the collection, use, disclosure and care of personal data by any third party websites linked to the Website. 
+  
 
-* To process transactions
+  * _6\. WITHDRAWAL OF CONSENT_
+    * 6.1 Users may contact CoAssets at [admin@coassets.com](mailto:admin@coassets.com) to withdraw their consent to the use of personal data by CoAssets, following which CoAssets shall cease to further collect, use and disclose personal data of that User. 
+    * 6.2 Users should be aware that the withdrawal of consent may prevent them from utilising the services provided by CoAssets. 
+  
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * _7\. CHANGES TO PRIVACY POLICY_
+    * Upon any amendments to the Privacy Policy, CoAssets shall update the Website and notify Users accordingly. 
+  
 
-* To send periodic emails
+  * _8\. FEEDBACK_
+    * Users may contact CoAssets at [admin@coassets.com](mailto:admin@coassets.com) if there are any questions or feedback regarding the Privacy Policy. 
+  
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+  * _9\. GOVERNING LAW AND JURISDICTION_
+    * The Privacy Policy shall be governed by and in accordance with the laws of Singapore. 
+  
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.coassets.com/terms-conditions/>
-
-**Your Consent**
-
-By using our site, you consent to our websites privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-www.coassets.com   
-38C North Canal Rd   
-Singapore  
-Singapore  
-admin@coassets.com
