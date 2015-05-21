@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the literacyplanet.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208222349id_/http%3A//www.literacyplanet.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literacyplanet.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521212602id_/http%3A//www.literacyplanet.com/privacy_policy) for the most accurate reproduction.*
 
-# LiteracyPlanet - Privacy Policy | LiteracyPlanet
+# LiteracyPlanet - Privacy Policy
 
 Intrepica Pty Ltd ACN 44 128 896 980, including its subsidiary companies, (we, us, our or Intrepica) recognises and values the protection of your personal information. We are aware of our obligations under the Australian Privacy Act 1988 (Cth) and relevant [European Union Directives](http://ec.europa.eu/justice/data-protection/law/index_en.htm) ; and we will ensure that we fulfill our obligations under relevant legislation where we operate. 
 
@@ -159,6 +159,8 @@ We collect information about your activity on our sites and applications using t
 
 
 We may associate this tracking data with your registration account, in which case we will treat it as personal information. 
+
+We use some third party tools to collect data about how users interact with our site. If you’d prefer that we not track your interactions you may opt out by using the following link: [www.inspectlet.com/optout](http://www.inspectlet.com/optout)
 
 _2\. Online Tracking Technologies_
 
