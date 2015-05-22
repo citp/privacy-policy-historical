@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixmule.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929161303id_/http%3A//mixmule.com/en/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmule.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522225930id_/http%3A//www.mixmule.com/en/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MixMule.com
 
