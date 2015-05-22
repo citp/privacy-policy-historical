@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105013547id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522233229id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
