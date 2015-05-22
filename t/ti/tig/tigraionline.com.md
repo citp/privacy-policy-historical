@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigraionline.com privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923115820id_/http%3A//www.tigraionline.com/articles/tolprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigraionline.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522204426id_/http%3A//www.tigraionline.com/articles/tolprivacypolicy.html) for the most accurate reproduction.*
 
 # Tigrai Online.com Privacy Policy
 
