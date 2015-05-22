@@ -1,44 +1,47 @@
-> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013034500id_/http%3A//www.netchemia.com/privacy-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522124249id_/http%3A//www.talentedk12.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statements
+# Privacy Policy | TalentEd K-12 Strategic Talent Management
 
-Privacy Notice
+**[](http://www.talentedk12.com/)**
 
-## Information Collected
+This policy covers how PeopleAdmin, Inc. handles and uses personal information that we collect when you visit and interact with our web site. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-When you request additional information or register for services, Netchemia will ask you to provide basic contact information.
+#### Information Collection and Use
 
-When you purchase services, the Company will ask you to provide billing information.
+PeopleAdmin, Inc. collects personal information when you request an account with PeopleAdmin, Inc., when you request information or register for events. We ask for information such as your name, telephone number, email address, occupation, and employer. When you register with PeopleAdmin, Inc. and sign in to our site, you are not anonymous to us.
 
-Netchemia uses common Internet technologies, such as cookies, to keep track of interactions with the Company's Web sites and e-mails.
+PeopleAdmin, Inc. automatically receives and records information from your computer and browser, including your IP address, cookie information, software and hardware attributes, and the pages you visit.
 
-## Use of Information
+PeopleAdmin, Inc. uses the information we collect to fulfill your requests for products and services, improve our services, and contact you.
 
-Netchemia uses information collected to provide you with the services you request. Netchemia may use information collected to provide you with additional information about the Company’s services, partners, promotions, and events. Netchemia may use information collected to improve the Company’s Web sites and services.
+#### Information Sharing and Disclosure
 
-Netchemia does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes. Netchemia may share information collected with other companies that work on Netchemia’s behalf.
+PeopleAdmin, Inc. does not rent, sell, or share personal information about you with other people or non-affiliated companies.
 
-## **Customer Data**
+We respond to subpoenas, court orders, or legal process (such as law enforcement requests), or to establish or exercise our legal rights or defend against legal claims. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, situations involving potential threats to the physical safety of any person, violations of PeopleAdmin, Inc.’s terms of use, or as otherwise required by law.
 
-Customers of Netchemia use the Company’s services to host data and information (“Customer Data”). Netchemia will not review, share, distribute, or reference any such Customer Data except as provided in the Netchemia Master Subscription Agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the Netchemia Master Subscription Agreement,   
-or as may be required by law.
+#### Cookies
 
-## **Communications Preferences**
+PeopleAdmin, Inc. may set and access PeopleAdmin cookies on your computer.
 
-Every marketing e-mail from Netchemia contains instructions on how to opt out of receiving further marketing e-mails from the Company.
+#### Confidentiality and Security
 
-For more information about managing communications you receive from Netchemia and instructions for updating information provided when registering for the Company’s services, please contact us directly.
+We limit access to personal information about you to employees who we believe reasonably need access to that information to provide products or services to you or in order to do their jobs.
 
-Netchemia utilizes some of the most advanced technology for Internet security available today. When you access our site using current Internet web browsers, Secure Socket Layer (SSL) technology protects your information using both server authentication and data encryption, ensuring that your data is safe, secure, and available only to authorized Users in your organization. Your data will be completely inaccessible to others.
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
-Netchemia provides each User in your organization with a unique user name and password that must be entered each time a User logs on. Netchemia issues a session "cookie" only to record encrypted authentication information for the duration of a specific session. The session "cookie" does not include either the username or password of the user. Netchemia does not use "cookies" to store other confidential user and session information, but instead implements more advanced   
-security methods.
+PeopleAdmin utilizes industry standard technology to secure customer information including the use of SSL (Secure Socket Layer) encryption in transferring client data; multi-level firewalls to prevent external intrusion; frequent backups of customer data; and a fully redundant hardware platform to ensure system availability.
 
-In addition, Netchemia is hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders.
+#### Changes to this Policy
 
-## How to Contact Us
+PeopleAdmin, Inc. may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your PeopleAdmin, Inc. account or by placing a prominent notice on our site.
 
-Questions regarding Netchemia’s Privacy Statement or information security practices may be directed by e-mail to [msa@netchemia.com](mailto:msa@netchemia.com) or by mail:  
-Netchemia Privacy  
-3520 West 75th Street, Suite 300  
-Prairie Village, KS 66208
+#### Acceptance
+
+By using this web site, you signify your acceptance of this policy. If you do not agree with the terms and conditions contained in this policy, please do not use the site.
+
+#### Questions and Suggestions
+
+If you have thoughts, questions or suggestions about PeopleAdmin’s privacy policy, please contact us at [info@peopleadmin.com](mailto:info@peopleadmin.com).
+
+Scroll to top
