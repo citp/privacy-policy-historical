@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominomag.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201055017id_/http%3A//domino.com/about%2520us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominomag.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523000554id_/http%3A//domino.com/about%2520us/privacy) for the most accurate reproduction.*
 
 # domino
 
