@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keenzo.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108111542id_/http%3A//www.keenzo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keenzo.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522041410id_/https%3A//www.keenzo.com/privacy.asp) for the most accurate reproduction.*
 
 # Keenzo - Legal Policies
 
@@ -16,19 +16,19 @@ Monday - Friday 10am - 5pm EST
 
  **Sales**  
 Account information/ quotes / product information / pre-sales support  
-[Contact Sales](https://web.archive.org/web/20141108111542id_/http%3A//www.keenzo.com/contact.asp)
+[Contact Sales](https://web.archive.org/web/20150522041410id_/https%3A//www.keenzo.com/contact.asp)
 
 **Customer Service**  
 Order/RMA status  
-[ Contact Customer Service](https://web.archive.org/web/20141108111542id_/http%3A//www.keenzo.com/contact.asp)
+[ Contact Customer Service](https://web.archive.org/web/20150522041410id_/https%3A//www.keenzo.com/contact.asp)
 
 **Employment Opportunities  
 **Current career opportunities   
-[ Contact Personnel](https://web.archive.org/web/20141108111542id_/http%3A//www.keenzo.com/contact.asp)
+[ Contact Personnel](https://web.archive.org/web/20150522041410id_/https%3A//www.keenzo.com/contact.asp)
 
 **Web Site**  
 Compliments, problems, suggestions and questions   
-[ Contact Web Support](https://web.archive.org/web/20141108111542id_/http%3A//www.keenzo.com/contact.asp)
+[ Contact Web Support](https://web.archive.org/web/20150522041410id_/https%3A//www.keenzo.com/contact.asp)
 
 | 
 
