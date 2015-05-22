@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnysports.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704105647id_/http%3A//www.sunnysports.com/i/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnysports.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522160449id_/http%3A//www.sunnysports.com/i/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Details | SunnySports.com
 
@@ -76,8 +76,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Sunny Sports Inc.   
 Attn: Privacy Compliance Dept.   
-353 W. 54th Street,   
-New York, NY 10019
+454 Ninth Ave.  
+New York, NY 10018
 
 * * *
 
