@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftsbymeeta.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102123354id_/http%3A//www.giftsbymeeta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsbymeeta.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523010739id_/http%3A//www.giftsbymeeta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy- Privacy Policy Gifts By Meeta is the sole owner of the info
 
