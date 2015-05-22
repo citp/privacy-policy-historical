@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blacknight.ie privacy policy that was archived on 2014-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141016085841id_/https%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blacknight.ie privacy policy that was archived on 2015-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150522054542id_/https%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
@@ -19,7 +19,7 @@
 <meta name="description" content="Blacknight's privacy policy for hosting and domain registration clients">
 
 <link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_5d370599a3.css?1336644132" media="all">
-<link rel="stylesheet" type="text/css" href="fileadmin/stylesheets/stylecompressed.css?1411573873" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/stylesheets/stylecompressed.css?1431432502" media="all">
 
 
 
@@ -36,52 +36,7 @@
 <!-- layout.html -->
 <!--GEOIP JS SCRIPT-->
 <script type="text/javascript" src="/fileadmin/javascript/jquery/cookie-functions.js"></script>
-
-<!-- Currency Conversion not yet live!
-
-<script type="text/javascript">
-    var region = get_cookie("selected_currency_region");
-    if (region == "") {
-        document.write(unescape("%3Cscript src='http://j.maxmind.com/app/geoip.js' type='text/javascript'%3E%3C/script%3E"));
-        var country = geoip_country_code().toLowerCase();
-
-            if (country == "gb") {
-                region = "uk";
-            } else if(country == "us") {
-                region = "us";
-            } else {
-                region = "eur";
-            }
-            set_cookie("selected_currency_region", region);
-    }   
-</script>
--->
-
-<!--
-<script language="JavaScript" type="text/javascript">
-    //Default region to eur while currency conversion is not yet live
-    set_cookie("selected_currency_region", "eur");
-</script>
--->
-
 <script type="text/javascript" src="/fileadmin/javascript/jquery/jquery-1.3.2.min.js"></script>
-<!--
-<script type="text/javascript" src="/fileadmin/javascript/jquery/currency-select.js"></script>
--->
-<script type="text/javascript" src="//www.blacknight.com/fileadmin/javascript/jquery/domains-search-populate.js"></script>
-
-<script type="text/javascript" src="/fileadmin/pba_info_tlds.js"></script>
-
-
-
-
-
-<!--
-<ul id="skip-to-content">
-  <li><a href="#content" title="Skip to content" accesskey="s">Skip to content</a></li>
-  
-</ul>
--->
 
 <div id="header" class="very-complex">
 
@@ -94,7 +49,6 @@
 	<li class="last"><a href="http://www.blacknightstatus.com/" title="Status Blog" target="_blank">Server Status</a></li>
 	<li class="last"><a href="http://blog.blacknight.com/" title="The Latest news from the Blacknight Blog" target="_blank">Blog</a></li>
 	<li class="last"><a href="/about-us.html" title="About Blacknight">About Us</a></li>
-	<li class="last"><a href="/careers.html" title="Careers at Blacknight">Careers</a></li>
 	<li class="last"><a href="http://Whois.blacknight.com/" title="Whois Information on your domains" target="_blank">Whois</a></li>
 	<li class="last"><a href="https://altmail.blacknight.com" title="check your email" target="_blank">Webmail</a></li>
 	<li class="last"><a href="/contact-us.html" title="Contact Blacknight">Contact</a></li>
@@ -106,6 +60,15 @@
 	<li><a href="https://cp.blacknight.com/single.html" class="account" title="My Account" accesskey="5">My Account</a></li>
 </ul>
 
+<script type="text/javascript"><!--//<![CDATA[
+$(document).ready( function() { 
+	$('#operation_0').submit(function (e) { 
+		e.preventDefault();
+		window.location.href = 'https://www.blacknight.com/search/#' + $('#operation_0 .DomainNameID').val();
+	} );
+});
+//]]>--></script>
+
         
         <ul id="second-nav"><li class="current"><a href="privacy.html">Privacy</a></li><li><a href="acceptable-usage.html">Terms</a></li><li><a href="site-map.html">Sitemap</a></li></ul>
     
@@ -113,31 +76,12 @@
         
         <div id="search-domains">
           
-   <form action="https://store.blacknight.com/http/index.php?NAME_PATH=DOMAINS_PATH&amp;SCREEN=DOMAINSEXTENSION_SCREEN&amp;deletesession=" method="post" id="operation_0">
-  <input type="hidden" name="operationType" value="New">
-  <input type="hidden" name="operationIndex" value="0">
-  <input type="hidden" name="deletesession" value="1">
-
-        
+			<form action="https://store.blacknight.com/http/index.php?NAME_PATH=DOMAINS_PATH&amp;SCREEN=DOMAINSEXTENSION_SCREEN&amp;deletesession=" method="post" id="operation_0">
                 <fieldset>
                     <dl>
                         <dt><label for="new_DomainNameID" class="required" style="font-size: 100%;">www.</label></dt>
-                        <dd>              <input type="text" id="new_DomainNameID" name="DomainNameID" style="width:95px;" class="DomainNameID" value="">
-                     </dd>
-                        <dt><label>.</label></dt>
-                        <dd>
-        <!-- This select is auto-populated using /fileadmin/javascript/jquery/domains-search-populate.js -->
-        <select name="PlanID" id="domains-search-select" style="width: 70px;"></select>
-                           </dd>
-                           <dd>
-      <input type="hidden" name="v" value="1">
-                                                        <input type="hidden" name="submit_domain" value="register">
-                                                        <input type="hidden" name="submit" value="Lookup+Domain">                   
-<input type="submit" value="search" id="dm_create_Button" style="margin-left: 10px;width: 45px; height: 
-
-21px; font-family: georgia;font-size: 12px; border: 1px solid #cccccc;">
-
-                         </dd>
+                        <dd><input type="text" id="new_DomainNameID" name="DomainNameID" style="width:155px;" class="DomainNameID" value=""></dd>
+                        <dd><input type="submit" value="search" id="dm_create_Button" style="margin-left:10px;width:45px;height:21px;font-family:georgia;font-size:12px;border:1px solid #cccccc;"></dd>
                      </dl>
                 </fieldset>
             </form>
@@ -199,7 +143,7 @@
 <br><br>
 	        
 <!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="ciAkzs" style="z-index:100;position:absolute"></div><div id="scAkzs" style="display:inline"></div><div id="sdAkzs" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/blacknight/safe-standard.js?ps_h=Akzs&amp;ps_t=1580349698326"></script></div><script type="text/javascript">var seAkzs=document.createElement("script");seAkzs.type="text/javascript";var seAkzss=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/blacknight/safe-standard.js?ps_h=Akzs\u0026ps_t="+new Date().getTime();setTimeout("seAkzs.src=seAkzss;document.getElementById('sdAkzs').appendChild(seAkzs)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=blacknight">Live Support Chat</a></div></noscript>
+<div id="ciAkzs" style="z-index:100;position:absolute"></div><div id="scAkzs" style="display:inline"></div><div id="sdAkzs" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/blacknight/safe-standard.js?ps_h=Akzs&amp;ps_t=1580349701278"></script></div><script type="text/javascript">var seAkzs=document.createElement("script");seAkzs.type="text/javascript";var seAkzss=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/blacknight/safe-standard.js?ps_h=Akzs\u0026ps_t="+new Date().getTime();setTimeout("seAkzs.src=seAkzss;document.getElementById('sdAkzs').appendChild(seAkzs)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=blacknight">Live Support Chat</a></div></noscript>
 <!-- END ProvideSupport.com Graphics Chat Button Code -->
 
 
@@ -231,13 +175,13 @@
 
 <div id="blog-latest" class="rssfeed">
 	<h3><a href="http://blog.blacknight.com/index.xml" class="rssicon">RSS Feed</a><a href="http://blog.blacknight.com/" title="Blog" target="_blank">Latest from the blog</a></h3>
-                <ul><li><a href="http://feedproxy.google.com/~r/BlacknightBlog/~3/WwEv3HYrixs/icann51.html" title="What’s Hot At #ICANN51?" target="_blank">What’s Hot At #ICANN51?</a></li><li><a href="http://feedproxy.google.com/~r/BlacknightBlog/~3/ad_MMIVCbAg/mexico-talk-domains.html" title="Off To Mexico To Talk Domains .." target="_blank">Off To Mexico To Talk Domains ..</a></li><li><a href="http://feedproxy.google.com/~r/BlacknightBlog/~3/lpGIsTGyWCM/winner-netvis2014.html" title="And The Winner Is .. #netvis2014" target="_blank">And The Winner Is .. #netvis2014</a></li></ul>
+                <ul><li><a href="http://tracking.feedpress.it/link/10551/1143918" title="Remember To Vote!" target="_blank">Remember To Vote!</a></li><li><a href="http://tracking.feedpress.it/link/10551/1107236" title="Flexible Cloud? We Got You Covered!" target="_blank">Flexible Cloud? We Got You Covered!</a></li><li><a href="http://tracking.feedpress.it/link/10551/1100819" title="Designer? The Perfect Domain Extension..." target="_blank">Designer? The Perfect Domain Extension...</a></li></ul>
 </div>
 
 
 <div id="blog-status" class="rssfeed">
 	<h3><a href="http://www.blacknightstatus.com/atom.xml" class="rssicon">RSS Feed</a><a href="http://www.blacknightstatus.com" title="Blog" target="_blank">Status updates</a></h3>
-	<ul><li><a href="http://www.blacknightstatus.com/2014/10/important-hosted-exchange-maintenance.html" title="Important Hosted Exchange Maintenance" target="_blank">Important Hosted Exchange Maintenance</a></li><li><a href="http://www.blacknightstatus.com/2014/10/emergency-network-maintenance.html" title="Emergency Network Maintenance" target="_blank">Emergency Network Maintenance</a></li><li><a href="http://www.blacknightstatus.com/2014/10/pemvzmps93-emergency-maintenance-11-october-10pm.html" title="Pemvzmps93 emergency maintenance 11..." target="_blank">Pemvzmps93 emergency maintenance 11...</a></li></ul>
+	<ul><li><a href="http://www.blacknightstatus.com/2015/05/pemlinweb-13-and-14-maintenance-thursday-21st-of-may-10pm.html" title="Pemlinweb 13 and 14 maintenance..." target="_blank">Pemlinweb 13 and 14 maintenance...</a></li><li><a href="http://www.blacknightstatus.com/2015/05/emergency-disk-maintenance-on-pemvzmps90---21st-may-1645.html" title="Emergency disk maintenance on..." target="_blank">Emergency disk maintenance on...</a></li><li><a href="http://www.blacknightstatus.com/2015/05/network-maintenance---dublin-1.html" title="Network Maintenance - Dublin" target="_blank">Network Maintenance - Dublin</a></li></ul>
 </div>
 
 
@@ -249,7 +193,7 @@
         </div>  
     
         <div class="clear"></div>
-        <div id="prices" class="light-grey">All prices quoted are exclusive of VAT at 23%</div>
+        <div id="prices" class="light-grey">All prices quoted are exclusive of VAT.</div>
     <!-- end of wrapper -->
     </div>
     
