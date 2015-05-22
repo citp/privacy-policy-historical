@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112222706id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522135823id_/https%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ESOMAR
 
@@ -71,7 +71,7 @@ ESOMAR uses cookies to help the server identify you when you log in to secure ar
 
 We also use cookies to track our online traffic flow (through Google Analytics, Google DoubleClick, and Crazy Egg), to share links on social networks (through AddThis and Google +1), and to personalise information in online forms.
 
-You have the opportunity to set your web browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Information supplied by cookies can help ESOMAR provide you with a better user experience. Please note that not accepting cookies may affect your ability to access certain parts of our website. [You can view the list of cookies used by ESOMAR here.](http://www.esomar.org/cookies.php)
+You have the opportunity to set your web browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Information supplied by cookies can help ESOMAR provide you with a better user experience. Please note that not accepting cookies may affect your ability to access certain parts of our website. [You can view the list of cookies used by ESOMAR here.](https://www.esomar.org/cookies.php)
 
 ## Applicable Law
 
