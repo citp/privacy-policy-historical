@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieroom.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124213346id_/http%3A//www.movieroom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieroom.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522105254id_/http%3A//www.movieroom.com/privacy.php) for the most accurate reproduction.*
 
 # Movie Room - Porn Scenes DVD
 
@@ -16,7 +16,7 @@ As soon as the subscriber uses the website, the subscriber agrees that dvdbox.co
 
 ### Email Marketing
 
-The subscriber’s e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. The subscriber may opt-out of a mailing list by clicking on the remove link located at the bottom of the email promotions, or by visiting the site <http://www.td3x.com/>
+The subscriber�s e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. The subscriber may opt-out of a mailing list by clicking on the remove link located at the bottom of the email promotions, or by visiting the site <http://www.td3x.com/>
 
 ### Our Commitment To Data Security 
 
