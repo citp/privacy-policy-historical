@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrpccleaner.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020024736id_/http%3A//www.mrpccleaner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrpccleaner.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522052155id_/http%3A//www.mrpccleaner.com/privacy-policy) for the most accurate reproduction.*
 
 # Mr PC Cleaner
 
