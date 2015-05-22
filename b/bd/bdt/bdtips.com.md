@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822043534id_/http%3A//www.bdtips.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523015653id_/http%3A//www.bdtips.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY NOTICE | BdTips
 
