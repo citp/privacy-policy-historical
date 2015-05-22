@@ -1,55 +1,67 @@
-> *The following text is extracted and transformed from the drleonards.com privacy policy that was archived on 2014-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140913051449id_/http%3A//www.drleonards.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drleonards.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522233235id_/http%3A//www.drleonards.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # DrLeonards.com | Privacy Policy
 
-At **Dr. Leonard's** , we value our customers and are committed to protect their privacy and inform them as to how their personal information will be used. **Dr. Leonard's** has created this privacy policy to insure that you have a safe, secure, online experience. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We recognize that we must maintain and use customer information responsibly. This privacy policy describes the ways that **Dr. Leonard's** collects and uses personal information at **www.DrLeonards.com**. By using this web site, you consent to our collection and use of your personal information as described in this privacy policy. 
+Welcome to the Dr Leonard's Healthcare Corp. website, operated by Dr. Leonard’s Healthcare Corporation ("DLHC," "we," or "our") and located at [www.drleonards.com](http://www.drleonards.com/) (the "Site").
 
-**Personally Identifiable Information**
+At DLHC, we value our customers and are committed to protecting their privacy and informing them as to how their personal information will be used. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We recognize that we must maintain and use customer information responsibly. DLHC has created this Privacy Policy to address DLHC's practices regarding information collected from visitors to the Site.
 
-You may visit **Dr. Leonard's** web site anonymously. However, we offer special features that require you to submit personal information to participate. For example, if you make a purchase using a credit card, we will need to collect information such as your credit card number and billing address to complete that transaction. You may also register at the site by submitting your name, email address and zip code. If you do not wish to provide us with that information, we cannot provide those services to you. 
+This Privacy Policy only addresses information collected directly through or from the Site – it does not address or govern any information-gathering, use, or dissemination practices related to information collected from you (sometimes referred to as a "visitor," "user," "you," or "your") other than directly through or from the Site, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media.
 
-We may use your personal information to send you information about goods or services that we believe may be of interest to you. At our discretion, we may share your personal information with third parties who may also contact you. Please note that we advise our partners to use your information in accordance with this policy. In the unlikely event that some or all of **Dr. Leonard's** assets are sold, **Dr. Leonard's** will transfer all personal information to the acquiring party. Finally, we may disclose your personally identifiable information to third parties in order to comply with law, to protect our rights in or the safety of our web site, or to protect the safety or rights of other users of our web sites. 
+This Privacy Policy is incorporated into DLHC's [Terms of Use](https://web.archive.org/terms-conditions.cfm), which must be reviewed and accepted by you as a condition of use of the Site. The Site is not intended for children under the age of 18. It does not knowingly collect personal information online from visitors in this age group, and will delete information from a person in that age group as quickly as possible upon receipt of notice that such information has been collected
 
-**Non-Personally Identifiable Information**
+If you have any questions concerning this Privacy Policy, please contact DLHC through the [Contact Customer Service](https://web.archive.org/contact-us.cfm) form or by telephone at 1-800-455-1918.
 
-_Cookies_
+**Collection of Information**
 
-To help make our sites more responsive to the needs of our visitors, we invoke a standard feature found in browser software, called a "cookie," to assign each visitor a unique, random number, a sort of anonymous user ID that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read data off your hard drive. 
+We only collect personal information that is relevant to the purpose of the Site. This information allows us to provide you with a customized and efficient experience. We receive and store any information you submit to us through our Site or provide to us in any other way. You can choose not to provide us with certain information (as addressed below), but then you may not be able to take advantage of many of our special features. For example, if you make a purchase using a credit card, we will need to collect information such as your credit card number and billing address to complete that transaction.
 
-We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. We may share this data with third parties to achieve those goals. In. addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies or how to disable cookies altogether. However, cookies allow you to take full advantage of some of **DrLeonards.com** 's features (e.g. personalization and storage of shopping bag items), and we recommend that you leave then turned on. 
+We receive and store certain types of information whenever you interact with us. DLHC and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, cookie information, and the page you requested. DLHC uses this information to help diagnose problems with its servers, analyze trends and administer the Site. DLHC may also collect and display the total counts that page has been viewed. Many companies offer programs that help you to visit websites anonymously. While DLHC will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser to enable our systems to recognize your browser and tell us how and when pages of the Site are visited and by how many people. Our cookies do not collect personally identifiable information. The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. DLHC does not override these settings or options, including any "Do Not Track" settings. However, if you utilize the aforementioned privacy features, you may be unable to obtain certain content, features, services, products, or benefits on the Site.
+
+**Use of Information Collected**
+
+Personal information collected by DLHC may be used by DLHC for limited purposes, including recordkeeping, editorial and feedback purposes, content improvement, or to customize the content and layout of the Site. Personally identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information voluntarily provided to DLHC may be added to DLHC's databases and used for future contact regarding updates to the Site or new services provided by DLHC. From time to time, DLHC may need to contact you concerning information you submitted to DLHC. You agree that DLHC may use your personal information for such contact with you. DLHC may also send out e-mails with news, products, offers, surveys or promotions that DLHC believes may be of interest to you.
+
+Except as specifically set forth herein, any personally-identifying information that you provide to DLHC through the Site will not be disclosed to other third party entities not affiliated with DLHC. DLHC personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of DLHC's business. In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if DLHC, or substantially all of its assets, were acquired, user information would be one of the assets transferred. Your personal information and data, whether personally identifying or not, may also be provided to third parties that contract with us to provide products, information or other services that we believe that visitors to the Site may be interested in obtaining. We may also release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our [Terms of Use](https://web.archive.org/terms-conditions.cfm) and other policies; or to protect the rights, property, or safety of DLHC, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+**Access and Opt-Out Rights**
+
+Upon your request, DLHC will provide you with a summary of any personal information retained by DLHC that has been voluntarily provided by you to DLHC through email, contact forms, or other online avenues.
+
+Except as necessary to obtain the services or information requested, you may opt out of having your personal information prospectively retained by DLHC or used by DLHC for secondary purposes, by contacting DLHC through one of the contact methods set forth above. Moreover, you may modify, correct, change, update, and, if you are under the age of 18 and accessed this Site in violation of the [Terms of Use](https://web.archive.org/terms-conditions.cfm), delete your personal information retained by DLHC by contacting DLHC through the [Contact Customer Service](https://web.archive.org/contact-us.cfm) form or by telephone at 1-800-455-1918. Please note, however, that in order to access certain content, features, services, products or benefits on the Site, you may be required to provide DLHC with certain information, including some types of personally identifiable information. If you do not wish to provide such information or if you opt to utilize the aforementioned privacy features, you may be unable to obtain certain content, features, services, products, or benefits on the Site.
+
+This provision does not apply to collection of the type of web browser used to visit the Site or to information provided or collected that does not meet the description hereunder.
+
+**Third Party Websites**
+
+The Site may also contain links to third party websites. The Site may contain links to other websites for the convenience of users in locating information, products, or services that may be of interest. If you access a third party website from a link on this Site, any information you disclose on that website is not subject to this Privacy Policy. It is possible that these links may be used by third parties or others to collect personal or other information about you. DLHC is not responsible for the privacy practices of such websites, advertisers, or third parties or the content of such websites and it is your sole obligation to review and understand the privacy practices and policies of these other websites. DLHC does not control these third parties' use of cookies, collection of information, or how they manage such information. It is solely your obligation to review and understand the privacy practices and policies of these other websites, advertisers and any third parties.
+
+**Third Party Ads**
+
+We use third party service providers to serve ads on our behalf across the Internet and sometimes on this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements on our Site, other websites and other forms of media about goods and services of interest to you. This anonymous information is collected through the use of pixel tags or similar technologies which are industry standard technologies used by most major web sites. You can also read more about online marketing practices and the technologies that support them by visiting the [Network Advertising Initiative's](http://www.networkadvertising.org/) website. If you would like to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Children's Information**
 
-We are committed to protecting the privacy of children. The **Dr. Leonard's** web site is not designed or intended to attract children under the age of 18. We do not collect personally identifiable information from any person we actually know is under the age of 18. 
+We are committed to protecting the privacy of children. The Site is not designed or intended to attract children under the age of 18. We do not collect personally identifiable information from any person we actually know is under the age of 18.
 
 **Changes to this Privacy Policy**
 
-We may change this privacy policy at any time by posting revisions to this web site. Your continued use of this web site after any changes have been posted indicates your agreement to the revised terms. Accordingly, we urge you to review this privacy policy at the start of each use of this web site. We will also list the date of the last revision at the top of the privacy policy. 
+We may change this Privacy Policy at any time by posting revisions to this Site. Your continued use of this Site after any changes have been posted indicates your agreement to the revised terms. Accordingly, we urge you to review this Privacy Policy at the start of each use of this Site. We will also list the date of the last revision at the bottom of the Privacy Policy.
 
 **Confidentiality and Security**
 
-We use modern technology to protect the information you submit. All personally identifiable user information is stored on secured servers and behind a firewall. However, no security system is completely impenetrable, so we cannot guarantee the absolute security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. 
-
-**Contact Information**
-
-You may review or delete any personal information we retain about you by sending an email to our Privacy Officer at the address listed below. However, if you are contacted by one of our partners, you will need to alert them that you wish your information to be deleted. Please note that it is sometimes not possible to erase all copies of your personal data such as that data in storage located on a back up drive. 
-
-If you have any questions about our privacy policy, you can contact **Dr. Leonard's** customer service. [Click Here](mailto:%50%72%69%76%61%63%79%4F%66%66%69%63%65%72%2E%44%52%4C%2E%43%57%47%40%64%72%6C%65%6F%6E%61%72%64%73%2E%63%6F%6D) to send any questions you may have. 
+We use modern technology to protect the information you submit. All personally identifiable user information is stored on secured servers and behind a firewall. However, no security system is completely impenetrable, so we cannot guarantee the absolute security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. DLHC is not responsible for the security of information transmitted via the Internet.
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798.83 permits customers of **DrLeonards.com** who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: 
+California Civil Code Section 1798.83 (also known as the "Shine The Light" law) permits users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third-parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to: 
 
-**Dr. Leonard's** \- California Privacy Rights  
-Customer Services  
+**Dr Leonard's Healthcare Corp.** \- California Privacy Rights  
+Attn: Customer Services  
 100 Nixon Lane  
 P.O. Box 7821  
-Edison, NJ 08818-7821 
+Edison, NJ 08818-7821
 
-**Third-Party Ads**
-
-We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of pixel tags or similar technologies which are industry standard technologies used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. 
-
-You can also read more about online marketing practices and the technologies that support them by visiting the [Network Advertising Initiative’s website.](http://www.networkadvertising.org/)
-
-If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.networkadvertising.org/choices). 
+Dated: February 2, 2015 
