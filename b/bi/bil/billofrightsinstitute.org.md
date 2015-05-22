@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the billofrightsinstitute.org privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121100751id_/http%3A//billofrightsinstitute.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billofrightsinstitute.org privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522024512id_/http%3A//billofrightsinstitute.org/privacy) for the most accurate reproduction.*
 
-# Bill of Rights Institute: Privacy Policy
+# Privacy Policy - Bill of Rights Institute
 
 The Bill of Rights Institute (Institute) respects individuals’ concerns about the privacy of their information. This Privacy Policy applies to personal information the Institute collects both online and offline. The Policy describes the types of personal information we may collect, how we may use that personal information and with whom we may share it, as well as the measures we take to help protect the security of the personal information. We also tell you how you can contact us to update or remove your personal information or receive answers to questions you may have about our privacy practices. Please note that this policy applies only to sites maintained by the Institute, and not to websites maintained by other organizations to which we may link.
 
@@ -98,6 +98,8 @@ Attn: Operations
 200 N. Glebe Rd, Suite 200  
 Arlington, VA 22203
 
+## **Terms & Conditions**
+
 The Bill of Rights Institute (Institute) is a not for profit organization whose mission is to educate young people about the Constitution. As we have a focus on continuous improvement, we will request information from and communicate with participants of our programs and products that will be utilized in analysis of our program effectiveness. We also expect consumers of our programs and products to adhere by the general terms and conditions.
 
 These Terms & Conditions form a legally binding contract between you and the Institute. By using Institute programs and products, you affirm that you are at least 18 years of age (or have reached the age of majority if that is not 18 years of age where you live) or that you have reviewed this Agreement with your parent or guardian and he or she assents to these Terms & Conditions on your behalf and takes full responsibility for your compliance with them. You agree that you and/or your parent or guardian are fully able and competent to enter into the terms, conditions, obligations, representations and responsibilities set forth in these Terms & Conditions, and to abide and comply with these Terms & Conditions.
@@ -122,8 +124,7 @@ To create an Account, you must have an email address, and provide truthful and a
 
 You are solely responsible for all activity on your Account. Your Account may be terminated if someone else uses it to engage in activity that violates the Terms & Conditions or is otherwise improper or illegal. You should not reveal your Account password to others. The Institute will not ask you to reveal your password, or initiate contact with you asking for answers to your password security questions.
 
-The Institute reserves the right (but has no obligation) to remove, block, edit, move or disable user generated content that is objectionable to us for any reason. The decision to remove user generated content or other Content at any time is in the Institute’s sole and final discretion.  
-****
+The Institute reserves the right (but has no obligation) to remove, block, edit, move or disable user generated content that is objectionable to us for any reason. The decision to remove user generated content or other Content at any time is in the Institute’s sole and final discretion.
 
 ### **Use Content and General License Restrictions**
 
@@ -148,8 +149,7 @@ The Institute has the right (but not the obligation) to monitor our website for 
 
 Upon the Institute’s request, you agree to defend, indemnify and hold harmless the Institute, affiliates, contractors, vendors, and content providers from all liabilities, claims and expenses, including attorneys’ fees, that arise from or relate to a breach of these Terms and Conditions for which you are responsible or in connection with your distribution of any Content on or through Institute resources. Without limiting the generality of the foregoing, you agree to indemnify and hold the Institute harmless for any improper or illegal use of your Account, including the illegal or improper use of your Account by someone to whom you have given permission to use your Account. You agree that you will be personally responsible for your use of Institute resources and for all of your communication and activity using Institute resources, including any Content you contribute, and that you will indemnify and hold harmless the Institute and its affiliates from any liability or damages arising from your conduct with Institute resources, including any Content that you contribute.
 
-The Institute reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you. In that event, you shall have no further obligation to provide indemnification to the Institute in that matter. This Section shall survive termination of this Terms and Conditions.  
-****
+The Institute reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you. In that event, you shall have no further obligation to provide indemnification to the Institute in that matter. This Section shall survive termination of this Terms and Conditions.
 
 ### **General Terms  
 **
@@ -160,9 +160,8 @@ B. Severability. If any part of this Terms and Conditions is held invalid or une
 
 C. Waiver. The failure of the Institute to exercise or enforce any right or provision of this Terms and Conditions will not constitute waiver of such right or provision. Any waiver of any provision of this Terms and Conditions will be effective only if in a writing signed by the Institute.
 
-D. Governing Law. The laws of the State of Virginia govern this Terms and Conditions and also are subject to other local, state, federal laws.  
-****
+D. Governing Law. The laws of the State of Virginia govern this Terms and Conditions and also are subject to other local, state, federal laws.
 
 ### **Entire Agreement**
 
-****The Terms and Conditions (including the Institute’s Privacy Policy) and any posted rules or instructions regarding a particular program, game, or contest, constitute the entire agreement between you and the Institute relating to your rights and obligations in the use of Institute resources. If there is any conflict between the Terms and Conditions and any other rules or instructions posted by the Institute, the Institute shall resolve the conflict in its sole discretion.
+The Terms and Conditions (including the Institute’s Privacy Policy) and any posted rules or instructions regarding a particular program, game, or contest, constitute the entire agreement between you and the Institute relating to your rights and obligations in the use of Institute resources. If there is any conflict between the Terms and Conditions and any other rules or instructions posted by the Institute, the Institute shall resolve the conflict in its sole discretion.
