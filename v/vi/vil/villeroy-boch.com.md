@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villeroy-boch.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702061937id_/http%3A//www.villeroy-boch.com/privacy-and-cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villeroy-boch.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522112207id_/http%3A//www.villeroy-boch.com/privacy-and-cookie-policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -71,6 +71,6 @@ According to statutory law you have a right of free access to your recorded data
 
 ## 11 Changes to this Privacy Policy
 
-We reserve the right to change this privacy policy. The current version of the privacy policy is always retrievable at [www.villeroy-boch.com/datenschutz.](http://www.villeroy-boch.com/privacy-and-cookie-policy.html)
+We reserve the right to change this privacy policy. The current version of the privacy policy is always retrievable at [www.villeroy-boch.com/datenschutz.](https://www.villeroy-boch.com/privacy-and-cookie-policy.html)
 
 Version: 04.12.2013 
