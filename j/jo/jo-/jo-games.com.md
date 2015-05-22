@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jo-games.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130023349id_/http%3A//www.jo-games.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jo-games.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522065045id_/http%3A//www.jo-games.com/privacy) for the most accurate reproduction.*
 
 # jo-games.com - Privacy Policy
 
