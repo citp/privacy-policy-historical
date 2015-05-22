@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squarestate.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702035043id_/http%3A//www.squarestate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarestate.net privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522053014id_/http%3A//www.squarestate.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SQUAR ESTATE
 
