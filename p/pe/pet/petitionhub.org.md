@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petitionhub.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120070858id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitionhub.org privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522032313id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PetitionHub.org
 
