@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the untuckit.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822081534id_/http%3A//untuckit.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untuckit.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523011257id_/http%3A//untuckit.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – UNTUCKit
+# Privacy Policy | UNTUCKit
 
 TERMS OF USE
 
@@ -24,22 +24,27 @@ All comments, feedback, postcards, suggestions, ideas, and other submissions dis
 
 **UNTUCKit takes your privacy seriously.**
 
-  *  
-  * UNTUCKit will not sell, trade, or rent your information to anyone.
-  *   
+  *  UNTUCKit will not sell, trade, or rent your information to anyone.
+
 
   * Untuckitshirts.com collects personal information when you shop and register with us. This information will be used to inform you of new products, sample sales, or updates on our site.
-  *  
+
+
   * When you place an order on untuckitshirts.com, we ask for your name, email address, phone number, billing address, shipping address, and credit card number. We use this information to fulfill our order and to communicate with you about it.
-  *  
+
+
   * Untuckitshirt.com uses your information for three general purposes: to fulfill the orders and request for certain products and services you placed with us, to contact you about specials and new products and to understand the shopping habits of our customers to better serve them in the future.
-  *  
+
+
   * Any materials sent to untuckitshirts.com will be considered confidential and will become the property of UNTUCKit.
-  *  
+
+
   * We DO NOT RELEASE any information about you to other companies. 
-  *  
+
+
   * When you visit untuckitshirts.com we do not collect your name, email or any other personal information until you register or place and order with us.
-  *  
+
+
   * After you place an order at untuckitshirts.com, we use your information to process your order. You will receive an email confirmation with UPS tracking number in it. Occasionally, we may need to contact you by postal mail or email if we have other questions regarding your order.
 
 
@@ -51,5 +56,3 @@ We would like you to have a enjoyable and secure shopping experience at untuckit
 TRANSACTIONS
 
  We reserve the right to request further identification for credit card processing on any order you place with us. We may, in our sole discretion, refuse any order placed with us. These restrictions may include orders placed by or under the same user account, credit card, and/or orders that use the same address information. In the event we make a change to or cancel an order, we will attempt to notify you via email/address/phone number provided when the order was placed.
-
- 
