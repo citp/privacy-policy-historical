@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003134339id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522124532id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy and Site Security Policies
+# Privacy Policy
 
 ## 4 Wheel Parts Privacy Policy
 
@@ -8,11 +8,11 @@ See our in-depth privacy policy for our terms and conditions on the confidential
 
 **Privacy Policy**
 
-Your privacy is important to us. To best serve your shopping needs, we endeavor to provide products, services, and offers of value to you. We're able to present meaningful offers to you through the information we collect from our interactions with you, from other customers, and from other parties. The following discloses our information gathering and dissemination practices for this Web site: 4Wheelparts.com.
+Your privacy is important to us. To best serve your shopping needs, we endeavor to provide products, services, and offers of value to you. We're able to present meaningful offers to you through the information we collect from our interactions with you, from other customers, and from other parties. The following discloses our information gathering and dissemination practices for this Web site: 4WheelParts.com.
 
 ### Browsing
 
-We collect certain information when you visit 4Wheelparts.com to improve the quality of your experience. The information that we collect depends upon where you travel within our site. Anytime that you visit our site to browse, read or download information, we collect and store the name of the domain and host from which you access the Internet (for example, msn.com, aol.com, etc…); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. We use this information to measure the number of visitors to areas of our site, and to help us make our site more useful and interesting to our visitors.
+We collect certain information when you visit 4WheelParts.com to improve the quality of your experience. The information that we collect depends upon where you travel within our site. Anytime that you visit our site to browse, read or download information, we collect and store the name of the domain and host from which you access the Internet (for example, msn.com, aol.com, etc…); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. We use this information to measure the number of visitors to areas of our site, and to help us make our site more useful and interesting to our visitors.
 
 ### Cookies
 
@@ -28,7 +28,7 @@ We run contests on our site in which we ask visitors for contact information (li
 
 ### Links to other sites
 
-This site contains links to other sites. 4Wheelparts.com is not responsible for the privacy practices or the content of such linked Web sites.
+This site contains links to other sites. 4WheelParts.com is not responsible for the privacy practices or the content of such linked Web sites.
 
 ### Mailing List
 
@@ -46,4 +46,81 @@ Although every effort is made to keep our catalog and website error free, mistak
 
 To be removed from your Catalog Mailing List: You can contact us by mail at the address listed above and let us know which specific catalog you wish to stop receiving. We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented.
 
-To unsubscribe from an E-Mail List: Simply send an email to [webmaster](mailto:webmaster@4Wheelparts.com), subject line: REMOVE.
+To unsubscribe from an E-Mail List: Simply send an email to [webmaster](mailto:KRourke@4wheelparts.com), subject line: REMOVE.
+
+## Internet Security: How 4WheelParts.com Protects Your Information
+
+A safe and secure shopping experience becomes a foregone conclusion with the implementation of sophisticated security features and protective measures on the 4WheelParts.com website.
+
+**Internet Security**
+
+### PCI Compliance
+
+As the online marketplace has bloomed, consistent internet security from site to site is an issue that needs to be clearly defined and fundamentally solid to provide a safe environment in which consumers can shop. 
+
+For this reason, Payment Card Industry (PCI) compliance was created by credit card companies like Visa, Mastercard, Discover, American Express, and others as a base set of rules and security measures that sites needed to follow in order to allow for a safe shopping environment.
+
+4WheelParts.com fully complies with the set of PCI data security standards to ensure a safe shopping experience for our customers and also help promote internet safety throughout the internet.
+
+### Network Solutions Secure Socket Layer (SSL) Certificate Authentication
+
+Every order is processed using the Network Solutions encryption technology to secure your identity.
+
+4WheelParts.com utilizes an intensely elaborate data encryption system using 128-bit Secure Socket Layer (SSL) technology. All browsers that shop at 4WheelParts.com are required to enable 128-bit encryption to ensure a safe shopping experience.
+
+As a constant reminder that your shopping experience on either 4WheelParts.com or any other e-commerce website is safe, look for the Network Solutions logo indicating a valid SSL certification. Click on the Network Solutions icon to confirm complete data encryption and verification of the seller’s identity.
+
+### Advanced Firewall Technology
+
+We prevent unauthorized access to account information through a sophisticated combination of hardware, software and personnel. Our rigid firewall keeps potential intruders out of our secure network of computers.
+
+### Fraud Detection
+
+Each order from our web site undergoes personalized review to detect instances of unauthorized credit card usage.
+
+## Phishing and Identity Theft: Protecting Yourself
+
+As part of 4 Wheel Parts’s dedication to internet safety, see our tips, facts, and general hints to assist with protecting your information during surfing and shopping, whether on our site or anywhere else.
+
+**Phishing and Identity Theft**
+
+Similar to how a pickpocket might lift personal valuables, online fraud is essentially information theft. The difference is that identity theft could occur entirely unbeknownst to you, and remain that way for a considerable amount of time while a criminal wreaks havoc on your financial circumstances.
+
+While websites have a responsibility to provide a safe and secure experience, the users themselves should also keep in mind a fair amount of responsibility with regard to the way they surf. After all, the cities may provide roads and highways with signs and stoplights to guide you safely, but getting to your destination also requires you to drive with discretion, right? The same sensibilities apply to the Internet as well.
+
+### Basic Facts About Phishing
+
+The premise behind phishing is for criminals to steal your personal information through some sort of fraudulent medium, usually fake e-mails or websites. Even information as simple as a social security number, birth date, or street address can result in identity theft.
+
+### Phishing E-mails
+
+Here are some tips on what to look out for, and how to deal with them accordingly:
+
+  * Pay attention to the e-mail sender. Sometimes the return address will come from a source unrelated to the company mentioned. Other times, the address will use a well-known company name, but send the message from a webmail account like hotmail or gmail. These are obvious indicators.
+  * Phishing e-mails will use well-reputed company names as a cover. Commonly used names are PayPal, Ebay, Credit Card Companies, or Banks. If in doubt as to whether an e-mail is legitimate, forward it to customer service department of the actual company and have them confirm that the e-mail is genuine.
+  * Oftentimes, e-mail messages will attempt to create a sense of urgency by threatening account suspension or imploring you to confirm account information lest some severe consequence take place. Don't be fooled by these tactics.
+  * Watch out for obvious spelling and grammatical errors, or overuse of capitalization or exclamation points. These are immediately identifiable telltale signs.
+  * Note that most companies will not ask for any personal information in an e-mail message, including social security, credit card, tax ID, and PIN numbers, credit card security codes, passwords, and your mother's maiden name.
+  * Beware of any attachments or links in e-mail messages, as they may carry potentially threatening materials.
+  * For links embedded in a message, check the web address and make sure it clearly states the address of the company being mentioned.
+  * Never go to a website address that is an IP address - in other words, an address that is a series of numbers separated by periods (e.g. 255.158.7.30).
+  * Do not "unsubscribe" from e-mails when the message does not come from a trusted source, as this could be another attempt to try to have you click on links to disreputable websites.
+  * The best and fastest way to deal with phishing e-mails is to simply recognize them, leave them closed, and delete them.
+
+
+
+### Phishing Websites
+
+Phishing websites use the same basic premise as phishing e-mails, except that criminals will go as far as to erect a fake website of some sort that asks you to submit personal information.
+
+Criminals exercise considerable creativity for website fraud. On one hand, they may erect a fake e-commerce site and get you to submit your credit card information. In other instances, the site may merely be a tool designed to install spyware or other foreign programs into your computer.
+
+Here are some tips on what to look out for, and how to deal with them accordingly:
+
+  * Many phishing websites operate under the guise of a well-reputed company or seller. Other times, the design and function of the site are convincing enough to lure you into a false sense of security.
+  * For e-commerce sites, make sure that you are shopping with a trusted seller who is certified with some form of data encryption os Secure Socket Layer (SSL) system to protect your information. Most legitimate sites will display an authentic seal from Network Solutions or another internet security company indicating that a site is protected.
+  * An easy way to check for SSL encryption is to look for the web address that begins with "https" as opposed to just "http" on billing entry pages. This signifies that the website employs SSL protection and your purchase is secure.
+  * Also look for the padlock icon in the far right side of the address bar, which indicates that you are operating in a secure website.
+  * If you are uncertain about the reputability of a website, check site reviews from places like resellerratings.com, or even conduct a background check at the Better Business Bureau website to confirm legitimacy.
+
+
