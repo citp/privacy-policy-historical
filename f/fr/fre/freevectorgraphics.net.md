@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevectorgraphics.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110541id_/http%3A//wowvectors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevectorgraphics.net privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522113613id_/http%3A//wowvectors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Vectors & Graphics
 
