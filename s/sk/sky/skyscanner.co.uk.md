@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the skyscanner.co.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227052304id_/http%3A//www.skyscanner.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.co.uk privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522161003id_/http%3A//www.skyscanner.net/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy policy - Skyscanner USA
+# Privacy policy
 
 Last updated: 7 September 2014
 
  **Privacy policy**
 
-This policy (together with our [Terms of Service](http://www.skyscanner.net/termsofservice.aspx) and [Cookie Policy](http://www.skyscanner.net/cookiepolicy.aspx)) sets out the basis on which any personally identifiable information and data (“Personal Data”) we collect from you, or that you provide to us, will be processed by us. This policy applies to our websites, applications, tools, promotions, email communications, log-in accounts and any other services operated by us (the “Skyscanner Services”).
+This policy (together with our [Terms of Service](https://web.archive.org/web/20150522161003id_/http%3A//www.skyscanner.net/termsofservice.aspx) and [Cookie Policy](https://web.archive.org/web/20150522161003id_/http%3A//www.skyscanner.net/cookiepolicy.aspx)) sets out the basis on which any personally identifiable information and data (“Personal Data”) we collect from you, or that you provide to us, will be processed by us. This policy applies to our websites, applications, tools, promotions, email communications, log-in accounts and any other services operated by us (the “Skyscanner Services”).
 
 Skyscanner is committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of any and all personal details you provide to us. As a visitor or user of the Skyscanner Services you have the right to know and understand our information privacy practices before providing us with any of your personal details.
 
@@ -58,7 +58,7 @@ Where we run a promotion in conjunction with a third party we may occasionally a
 
 Where we direct you to websites of third party travel providers for you to make bookings, we may use your Personal Data to auto-fill selected details within the third party companies website in order to make the booking process easier and more efficient for you.
 
-In addition, we may also disclose your Personal Data where necessary in order to enforce our [Terms of Service](http://www.skyscanner.net/termsofservice.aspx) or other agreements, or to a prospective buyer and the ultimate buyer in the event that Skyscanner itself (or part of our business) is sold.
+In addition, we may also disclose your Personal Data where necessary in order to enforce our [Terms of Service](https://web.archive.org/web/20150522161003id_/http%3A//www.skyscanner.net/termsofservice.aspx) or other agreements, or to a prospective buyer and the ultimate buyer in the event that Skyscanner itself (or part of our business) is sold.
 
 We may also share anonymous aggregated usage information with others.
 
@@ -70,7 +70,7 @@ Unfortunately, the transmission of information via the internet can never be com
 
  **Cookies and tracking tools**
 
-We use cookies and tracking tools to collect aggregated usage and demographic information about our users over time.  For example, we use web beacons placed in the code of our website and we use Ad-X technology to help us analyse the use of the Skyscanner Services and to understand the effectiveness of our marketing activities. Ad-X technology generates anonymous information by using non-persistent device ID tracking such as IDFA as well as other non-personal tracking mechanisms. Ad-X processes this information on our behalf. If you wish to opt-out of Ad-X tracking or to find out more information about how the Ad-X process this information, you can do so through adxtracking.com.  You can find out more about how we use cookies by reading our [Cookies Policy](http://www.skyscanner.net/cookiepolicy.aspx).
+We use cookies and tracking tools to collect aggregated usage and demographic information about our users over time.  For example, we use web beacons placed in the code of our website and we use Ad-X technology to help us analyse the use of the Skyscanner Services and to understand the effectiveness of our marketing activities. Ad-X technology generates anonymous information by using non-persistent device ID tracking such as IDFA as well as other non-personal tracking mechanisms. Ad-X processes this information on our behalf. If you wish to opt-out of Ad-X tracking or to find out more information about how the Ad-X process this information, you can do so through adxtracking.com.  You can find out more about how we use cookies by reading our [Cookies Policy](https://web.archive.org/web/20150522161003id_/http%3A//www.skyscanner.net/cookiepolicy.aspx).
 
  **Third party websites**
 
@@ -82,10 +82,10 @@ In order to provide you with a useful social experience when using Skyscanner Se
 
 In accordance with applicable law, you have the right to find out what Personal Data we hold about you at any time. Where you wish to make such a request, please submit it in writing to Skyscanner, Quartermile One, 15 Lauriston Place, Edinburgh EH3 9EN marked for the attention of ‘General Counsel’.
 
-You have the right to ask us not to process your Personal Data for marketing purposes. You can exercise this right by checking certain boxes on the forms we use to collect your data or by contacting us at any time [here](http://www.skyscanner.net/contactus.aspx). You can also opt-out of receiving any marketing emails by clicking the unsubscribe link contained at the bottom of such emails.
+You have the right to ask us not to process your Personal Data for marketing purposes. You can exercise this right by checking certain boxes on the forms we use to collect your data or by contacting us at any time [here](https://web.archive.org/web/20150522161003id_/http%3A//www.skyscanner.net/contactus.aspx). You can also opt-out of receiving any marketing emails by clicking the unsubscribe link contained at the bottom of such emails.
 
 Where you are a user of our sign-in service, you can manage some of your information and personal preferences by from the ‘Account’ area of our website.
 
  **Contacting Us**
 
-If you have any questions about this policy, please contact us by [email](http://www.skyscanner.net/contactus.aspx) marked for the attention of the Skyscanner Legal Team. 
+If you have any questions about this policy, please [contact us](https://help.skyscanner.net/hc/en-gb/requests/new?ticket_form_id=11631). If you wish to submit a subject access request, please contact Skyscanner legal at legal@skyscanner.net.
