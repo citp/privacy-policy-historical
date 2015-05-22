@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herdaily.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110044617id_/http%3A//herdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herdaily.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522084548id_/http%3A//herdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Her Daily
+# Her Daily
 
 Her Daily takes your privacy seriously. This Privacy Policy describes how we treat and use all information we collect when you sign in to herdaily.com or sign up for our news blasts and alerts.
 
