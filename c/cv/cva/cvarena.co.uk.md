@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cvarena.co.uk privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623204821id_/http%3A//www.cvarena.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvarena.co.uk privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522224728id_/http%3A//www.cvarena.co.uk/privacy) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy governs the manner in which Arena Trade Group collects, uses, maintains and discloses information collected from users (each, a "User") of the cvarena.co.uk website ("Site"). This privacy policy applies to the Site and all products and services offered by Arena Trade Group. 
+This Privacy Policy governs the manner in which Arena Trade Group collects, uses, maintains and discloses information collected from users (each, a "User") of the www.cvarena.co.uk website ("Site"). This privacy policy applies to the Site and all products and services offered by Arena Trade Group. 
 
 **Personal identification information**   
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
@@ -45,7 +45,7 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
 Arena Trade Group  
-cvarena.co.uk   
+www.cvarena.co.uk   
 Gurteen Building, High Street, Haverhill, CB9 8AZ  
 Tel: 01440 840009  
 [admin@arenatradegroup.co.uk](mailto:admin@arenatradegroup.co.uk)
