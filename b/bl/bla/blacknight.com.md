@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacknight.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016085841id_/https%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacknight.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522054542id_/https%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Hosting and Domains
 
@@ -64,3 +64,5 @@ You may inform us of any changes in your Personal Data, and in accordance with o
 **8\. Changes to the Website Privacy Policy**
 
 Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
+
+All prices quoted are exclusive of VAT.
