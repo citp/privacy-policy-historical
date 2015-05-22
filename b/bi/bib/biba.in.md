@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biba.in privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125154114id_/http%3A//www.biba.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biba.in privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522023529id_/http%3A//www.biba.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BIBA Online Shopping and Customer Support
 
