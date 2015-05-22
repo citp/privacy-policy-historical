@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxyroller.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006230358id_/http%3A//proxyroller.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyroller.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522114752id_/http%3A//proxyroller.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free Proxy List | Free Web Proxy | Fresh Proxy List - ProxyRoller.com
 
