@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobnab.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016015826id_/http%3A//www.jobnab.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnab.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522035905id_/http%3A//www.jobnab.com/privacy.cfm) for the most accurate reproduction.*
 
 # JobNab
 
