@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the readersdigest.co.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021047id_/http%3A//www.readersdigest.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.in privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524004711id_/http%3A//readersdigest.co.in/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
 **General statement**
 
-Many Internet users are unaware of how easy it is to give away information about themselves when they navigate the Internet. We, at Reader's Digest Asia Limited, respect and protect the privacy of visitors to our website at URL [http://www.readersdigest.co.in](https://web.archive.org/)
+Many Internet users are unaware of how easy it is to give away information about themselves when they navigate the Internet. We, at Reader's Digest Asia Limited, respect and protect the privacy of visitors to our website at URL [http://www.readersdigest.co.in](http://readersdigest.co.in/)
 
 including the web pages that form a part of this website ("our Website"). Our privacy policy sets out how we use certain types of information that we collect as a result of your visit to our Website.
 
@@ -21,7 +21,7 @@ If you are under the age of 21, you are not permitted to participate in the Acti
 
 **Cookies**  
 
-We make use of "cookies" to make our Website perform better. Cookies are small text files that a website will store on your computer to enable it to recognize repeat users. Cookies are not programs that come into a user’s system to damage files. Cookies are used to help us follow the pattern of movements of web users such as which pages on our Website you visit, in what order and how often. By themselves, cookies cannot be used by us to discover your identity? They merely identify your computer to our Website when you visit. Cookies are not used to record any Personal Identifiable Information such as your name, addressor e-mail address. If you are unhappy about having a cookie assigned to you, you can configure your browser to refuse to accept cookies.  
+We make use of "cookies" to make our Website perform better. Cookies are small text files that a website will store on your computer to enable it to recognize repeat users. Cookies are not programs that come into a user's system to damage files. Cookies are used to help us follow the pattern of movements of web users such as which pages on our Website you visit, in what order and how often. By themselves, cookies cannot be used by us to discover your identity? They merely identify your computer to our Website when you visit. Cookies are not used to record any Personal Identifiable Information such as your name, addressor e-mail address. If you are unhappy about having a cookie assigned to you, you can configure your browser to refuse to accept cookies.  
  
 
 **Information by mail**
