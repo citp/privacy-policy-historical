@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gesterling.wordpress.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802170401id_/https%3A//gesterling.wordpress.com/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gesterling.wordpress.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523104639id_/https%3A//gesterling.wordpress.com/category/privacy) for the most accurate reproduction.*
 
 # Privacy | Screenwerk
 
 ## Archive for the ‘Privacy’ Category
 
-### [Do You Trust Your Social Network?](http://gesterling.wordpress.com/2010/06/02/do-you-trust-your-social-network/)
+### [Do You Trust Your Social Network?](https://gesterling.wordpress.com/2010/06/02/do-you-trust-your-social-network/)
 
 June 2, 2010
 
@@ -12,7 +12,7 @@ Obviously the Facebook privacy row caused lots of people to discuss the question
 
 There are a number of findings about trust and consumer attitudes toward various media categories. Here’s the relevant “slide” regarding the perceived trustworthiness of social networks:
 
-[](http://gesterling.files.wordpress.com/2010/06/picture-10.png)
+[](https://gesterling.files.wordpress.com/2010/06/picture-10.png)
 
 You can click the image above to enlarge it. What it says is the following (the numbers vary by country but are generally consistent across the board):
 
@@ -24,19 +24,19 @@ You can click the image above to enlarge it. What it says is the following (the 
 
 Quit Facebook day was [largely a failure](http://www.quitfacebookday.com/), with only 35K joining (out of more than 500 million members globally):
 
-[](http://gesterling.files.wordpress.com/2010/06/picture-11.png)
+[](https://gesterling.files.wordpress.com/2010/06/picture-11.png)
 
 Let’s assume the survey results above are somewhat representative of the larger population of Facebook members. The failure of more of them to quit may reflect ambivalence about the site: people don’t want to leave the party but they may be acting in a more cautious and circumspect way regarding what they’re doing and sharing.
 
 Has your behavior or have your attitudes about posting/sharing on Facebook changed at all in the wake of the recent Open Graph/Social Plug-ins privacy controversy?
 
-Posted in [Privacy](http://gesterling.wordpress.com/category/privacy/), [Social networks](http://gesterling.wordpress.com/category/social-networks/), [Social search/community](http://gesterling.wordpress.com/category/social-searchcommunity/), [User-generated content](http://gesterling.wordpress.com/category/user-generated-content/) | [4 Comments »](http://gesterling.wordpress.com/2010/06/02/do-you-trust-your-social-network/#comments "Comment on Do You Trust Your Social Network?")
+Posted in [Privacy](https://gesterling.wordpress.com/category/privacy/), [Social networks](https://gesterling.wordpress.com/category/social-networks/), [Social search/community](https://gesterling.wordpress.com/category/social-searchcommunity/), [User-generated content](https://gesterling.wordpress.com/category/user-generated-content/) | [4 Comments »](https://gesterling.wordpress.com/2010/06/02/do-you-trust-your-social-network/#comments)
 
-### [Regulation Is Here, Internet Professionals](http://gesterling.wordpress.com/2010/05/05/regulation-is-coming-internet-professionals/)
+### [Regulation Is Here, Internet Professionals](https://gesterling.wordpress.com/2010/05/05/regulation-is-coming-internet-professionals/)
 
 May 5, 2010
 
-I’ve been [saying it](http://gesterling.wordpress.com/2008/03/10/will-bt-become-too-aggressive/) for well over a year and Facebook may have been the final straw. The [concern over privacy and user control](http://gesterling.wordpress.com/2010/04/26/facebook-wont-like-ftc-inquiry-on-privacy/) raised in the wake of the Facebook “Open Graph” and Social Plugins initiative, as well as ongoing questions over behavioral targeting and online data mining, have created a kind of perfect storm that are all but certain to bring new regulation to data collection online.
+I’ve been [saying it](https://gesterling.wordpress.com/2008/03/10/will-bt-become-too-aggressive/) for well over a year and Facebook may have been the final straw. The [concern over privacy and user control](https://gesterling.wordpress.com/2010/04/26/facebook-wont-like-ftc-inquiry-on-privacy/) raised in the wake of the Facebook “Open Graph” and Social Plugins initiative, as well as ongoing questions over behavioral targeting and online data mining, have created a kind of perfect storm that are all but certain to bring new regulation to data collection online.
 
 New [draft privacy legislation](http://www.boucher.house.gov/index.php?option=com_content&task=view&id=1957&Itemid=41) in Congress has already been proposed and circulated:
 
@@ -58,15 +58,15 @@ ___
 
 The IAB [doesn’t like the bill](http://www.nytimes.com/2010/05/05/business/media/05adco.html?ref=technology) of course, while consumer groups think it’s too lenient.
 
-Posted in [Legal](http://gesterling.wordpress.com/category/legal/), [Privacy](http://gesterling.wordpress.com/category/privacy/), [Regulatory issues](http://gesterling.wordpress.com/category/regulatory-issues/) | [5 Comments »](http://gesterling.wordpress.com/2010/05/05/regulation-is-coming-internet-professionals/#comments "Comment on Regulation Is Here, Internet Professionals")
+Posted in [Legal](https://gesterling.wordpress.com/category/legal/), [Privacy](https://gesterling.wordpress.com/category/privacy/), [Regulatory issues](https://gesterling.wordpress.com/category/regulatory-issues/) | [5 Comments »](https://gesterling.wordpress.com/2010/05/05/regulation-is-coming-internet-professionals/#comments)
 
-### [Facebook Won’t ‘Like’ FTC Inquiry on Privacy](http://gesterling.wordpress.com/2010/04/26/facebook-wont-like-ftc-inquiry-on-privacy/)
+### [Facebook Won’t ‘Like’ FTC Inquiry on Privacy](https://gesterling.wordpress.com/2010/04/26/facebook-wont-like-ftc-inquiry-on-privacy/)
 
 April 26, 2010
 
 Some people believe that with Social Plug-ins and the “Open Graph,” Facebook  is overreaching. One of those people is now NY Senator Charles Schumer.
 
-For quite some time I’ve been [saying](http://gesterling.wordpress.com/2008/03/10/will-bt-become-too-aggressive/) and [speculating](http://gesterling.wordpress.com/2009/05/19/nebuad-closure-warning-to-bt-industry/) that if “the industry” isn’t careful the regulators will spring into action. Today Senator Schumer called on the FTC to create guidelines and regulate social networking privacy, motivated apparently by Facebook’s Open Graph announcements last week.
+For quite some time I’ve been [saying](https://gesterling.wordpress.com/2008/03/10/will-bt-become-too-aggressive/) and [speculating](https://gesterling.wordpress.com/2009/05/19/nebuad-closure-warning-to-bt-industry/) that if “the industry” isn’t careful the regulators will spring into action. Today Senator Schumer called on the FTC to create guidelines and regulate social networking privacy, motivated apparently by Facebook’s Open Graph announcements last week.
 
 Here’s an excerpt from Schumer’s [letter](http://schumer.senate.gov/record.cfm?id=324175&):
 
@@ -78,9 +78,9 @@ Schumer and his staff may or may not fully understand what Facebook is trying to
 
 The IAB (and Facebook itself) should head this off at the pass with voluntary moves and clearer disclosures.
 
-Posted in [Legal](http://gesterling.wordpress.com/category/legal/), [Local Search](http://gesterling.wordpress.com/category/local-search/), [Privacy](http://gesterling.wordpress.com/category/privacy/), [User-generated content](http://gesterling.wordpress.com/category/user-generated-content/) | [3 Comments »](http://gesterling.wordpress.com/2010/04/26/facebook-wont-like-ftc-inquiry-on-privacy/#comments "Comment on Facebook Won’t ‘Like’ FTC Inquiry on Privacy")
+Posted in [Legal](https://gesterling.wordpress.com/category/legal/), [Local Search](https://gesterling.wordpress.com/category/local-search/), [Privacy](https://gesterling.wordpress.com/category/privacy/), [User-generated content](https://gesterling.wordpress.com/category/user-generated-content/) | [3 Comments »](https://gesterling.wordpress.com/2010/04/26/facebook-wont-like-ftc-inquiry-on-privacy/#comments)
 
-### [Google, Facebook & Privacy](http://gesterling.wordpress.com/2010/04/21/google-facebook-privacy/)
+### [Google, Facebook & Privacy](https://gesterling.wordpress.com/2010/04/21/google-facebook-privacy/)
 
 April 21, 2010
 
@@ -96,7 +96,7 @@ In defense of some of the company’s moves, Facebook CEO Mark Zuckerberg has be
 
 Giving him the benefit of the doubt, Zuckerberg may not have meant that privacy was gone but that privacy expectations had changed. While certainly true in some respects that statement emerges as more aspirational than descriptive of the current reality. The truth is more complex: people share information online but they may not be aware of the full implications of that sharing. If they were they might not share quite as much. 
 
-The privacy furor over Google Buzz, Facebook’s past privacy battles and recent data argue that privacy is very much still alive. As I [wrote](http://gesterling.wordpress.com/2010/04/19/privacy-and-the-paradox-of-targeting/) on Monday:
+The privacy furor over Google Buzz, Facebook’s past privacy battles and recent data argue that privacy is very much still alive. As I [wrote](https://gesterling.wordpress.com/2010/04/19/privacy-and-the-paradox-of-targeting/) on Monday:
 
 > A very new [study](http://news.yahoo.com/s/ap/20100415/ap_on_hi_te/us_tec_young_adults_privacy;_ylt=AmJikKgjmEv139MCb0lDpHcjtBAF;_ylu=X3oDMTJzaHRyZDBpBGFzc2V0A2FwLzIwMTAwNDE1L3VzX3RlY195b3VuZ19hZHVsdHNfcHJpdmFjeQRjcG9zAzIEcG9zAzUEc2VjA3luX3RvcF9zdG9yeQRzbGsDc3R1ZHl5b3VuZ2Fk), based on a 2009 telephone survey with 1,000 younger and older US adults, shows that younger users do in fact care about privacy. The authors of the report wrote, “We conclude then that that young-adult Americans have an aspiration for increased privacy even while they participate in an online reality that is optimized to increase their revelation of personal data.”
 > 
@@ -108,7 +108,7 @@ The privacy furor over Google Buzz, Facebook’s past privacy battles and recent
 > 
 
 
-Moreover, yesterday it was reported that [WhatApp.org](https://whatapp.org/), a site that rates “privacy, openness and security,” gave Facebook a “2 out of 5,” essentially a failing grade according to [Forbes](https://web.archive.org/web/20140802170401id_/http://gesterling.wordpress.com/category/privacy/a%20very%20new%20study,%20based%20on%20a%202009%20telephone%20survey%20with%201,000%20younger%20and%20older%20US%20adults,%20shows%20that%20younger%20users%20do%20in%20fact%20care%20about%20privacy.): 
+Moreover, yesterday it was reported that [WhatApp.org](https://whatapp.org/), a site that rates “privacy, openness and security,” gave Facebook a “2 out of 5,” essentially a failing grade according to [Forbes](https://web.archive.org/web/20150523104639id_/https://gesterling.wordpress.com/category/privacy/a%20very%20new%20study,%20based%20on%20a%202009%20telephone%20survey%20with%201,000%20younger%20and%20older%20US%20adults,%20shows%20that%20younger%20users%20do%20in%20fact%20care%20about%20privacy.): 
 
 > The new site, which was co-created by Stanford University Law fellow Ryan Calo last year and went into beta in March, has rated Facebook’s privacy significantly lower than that of other platforms like Twitter and the iPhone.
 
@@ -122,13 +122,13 @@ As Facebook has grown and become more dominant it has become somewhat “intoxic
 
 If the “devil” (rather than the angel) on Facebook’s shoulder wins then it will be necessary for third parties, privacy advocates and perhaps the FTC to push back and keep the site from crossing too many privacy boundaries. Indeed, if the devil wins then privacy advocates may find that their current complaints and objections to Google and its policies look quaint in retrospect.
 
-Posted in [Privacy](http://gesterling.wordpress.com/category/privacy/) | [7 Comments »](http://gesterling.wordpress.com/2010/04/21/google-facebook-privacy/#comments "Comment on Google, Facebook & Privacy")
+Posted in [Privacy](https://gesterling.wordpress.com/category/privacy/) | [7 Comments »](https://gesterling.wordpress.com/2010/04/21/google-facebook-privacy/#comments)
 
-### [Privacy and the Paradox of Targeting](http://gesterling.wordpress.com/2010/04/19/privacy-and-the-paradox-of-targeting/)
+### [Privacy and the Paradox of Targeting](https://gesterling.wordpress.com/2010/04/19/privacy-and-the-paradox-of-targeting/)
 
 April 19, 2010
 
-I’ve [discussed](http://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/) multiple times in the past the paradox that when you ask consumers whether they want to be targeted by online ads they [express discomfort and displeasure](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1478214). But they also say they only want “relevant” ads. This is a direct conflict in most cases; the only online ad channel that can reconcile that conflict is search.
+I’ve [discussed](https://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/) multiple times in the past the paradox that when you ask consumers whether they want to be targeted by online ads they [express discomfort and displeasure](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1478214). But they also say they only want “relevant” ads. This is a direct conflict in most cases; the only online ad channel that can reconcile that conflict is search.
 
 More and more ambitious and aggressive targeting has been developed over the past several years in a effort to make display and rich media advertising online perform better and more like search — matching ads with intent (inferred from browsing history or other variables). A new example of this more aggressive variety of targeting comes in the form of a company called Cardlytics, which is identifying consumers through and using their online banking statements as a marketing channel. AdAge [explains](http://adage.com/article?article_id=143361):
 
@@ -174,9 +174,9 @@ But this opt-in approach won’t work for most marketers, publishers or ad netwo
 
 Nobody should have a problem with the idea of offering consumers more information and giving them the ability to opt out. Only this sort of approach will address the paradox of privacy and targeting discussed above. Beyond this I could eventually see someone developing a privacy dashboard or ad manager for the entire Internet used by individuals to control and manage the advertising they see or receive.
 
-Posted in [General online advertising](http://gesterling.wordpress.com/category/general-online-advertising/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | [3 Comments »](http://gesterling.wordpress.com/2010/04/19/privacy-and-the-paradox-of-targeting/#comments "Comment on Privacy and the Paradox of Targeting")
+Posted in [General online advertising](https://gesterling.wordpress.com/category/general-online-advertising/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | [3 Comments »](https://gesterling.wordpress.com/2010/04/19/privacy-and-the-paradox-of-targeting/#comments)
 
-### [Facebook Default Privacy: Everyone](http://gesterling.wordpress.com/2009/12/10/facebook-default-privacy-everyone/)
+### [Facebook Default Privacy: Everyone](https://gesterling.wordpress.com/2009/12/10/facebook-default-privacy-everyone/)
 
 December 10, 2009
 
@@ -196,9 +196,9 @@ ____
 
 Within this quick set of comments is the dual future of FB and local: recommendations engine for consumers, ad platform for SMBs. In some ways **FB might be much more, MUCH more “disruptive** ” (to use the overused word) **to YP** than Google has been.
 
-Posted in [Blog related](http://gesterling.wordpress.com/category/blog-related/), [Personalization](http://gesterling.wordpress.com/category/personalization/), [Privacy](http://gesterling.wordpress.com/category/privacy/), [Social search/community](http://gesterling.wordpress.com/category/social-searchcommunity/) | [3 Comments »](http://gesterling.wordpress.com/2009/12/10/facebook-default-privacy-everyone/#comments "Comment on Facebook Default Privacy: Everyone")
+Posted in [Blog related](https://gesterling.wordpress.com/category/blog-related/), [Personalization](https://gesterling.wordpress.com/category/personalization/), [Privacy](https://gesterling.wordpress.com/category/privacy/), [Social search/community](https://gesterling.wordpress.com/category/social-searchcommunity/) | [3 Comments »](https://gesterling.wordpress.com/2009/12/10/facebook-default-privacy-everyone/#comments)
 
-### [Bringing Real-Time Images to Google Earth/Maps](http://gesterling.wordpress.com/2009/10/01/bringing-real-time-images-to-google-earthmaps/)
+### [Bringing Real-Time Images to Google Earth/Maps](https://gesterling.wordpress.com/2009/10/01/bringing-real-time-images-to-google-earthmaps/)
 
 October 1, 2009
 
@@ -208,13 +208,13 @@ This isn’t the only effort to marry video and Google Earth. On one level this 
 
 All the Hollywood dystopian visions come to mind: Blade Runner, Terminator, Enemy of the State and so on.
 
-Posted in [Mapping](http://gesterling.wordpress.com/category/mapping/), [Metaverses](http://gesterling.wordpress.com/category/metaverses/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | [4 Comments »](http://gesterling.wordpress.com/2009/10/01/bringing-real-time-images-to-google-earthmaps/#comments "Comment on Bringing Real-Time Images to Google Earth/Maps")
+Posted in [Mapping](https://gesterling.wordpress.com/category/mapping/), [Metaverses](https://gesterling.wordpress.com/category/metaverses/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | [4 Comments »](https://gesterling.wordpress.com/2009/10/01/bringing-real-time-images-to-google-earthmaps/#comments)
 
-### [More Bad News for Behavioral Targeting](http://gesterling.wordpress.com/2009/09/30/more-bad-news-for-behavioral-targeting/)
+### [More Bad News for Behavioral Targeting](https://gesterling.wordpress.com/2009/09/30/more-bad-news-for-behavioral-targeting/)
 
 September 30, 2009
 
-I’ve argued [many times](http://gesterling.wordpress.com/?s=regulation+behavioral+targeting) now, there’s momentum toward some sort of regulation of behavioral targeting. And now in my best “Yoda” voice: regulation is coming, prepared must you be. More support for regulation comes in the form of a new survey reported in the [NY Times](http://www.nytimes.com/2009/09/30/business/media/30adco.html?_r=1&ref=technology):
+I’ve argued [many times](https://gesterling.wordpress.com/?s=regulation+behavioral+targeting) now, there’s momentum toward some sort of regulation of behavioral targeting. And now in my best “Yoda” voice: regulation is coming, prepared must you be. More support for regulation comes in the form of a new survey reported in the [NY Times](http://www.nytimes.com/2009/09/30/business/media/30adco.html?_r=1&ref=technology):
 
 > About two-thirds of Americans object to online tracking by advertisers — and that number rises once they learn the different ways marketers are following their online movements, according to a new survey from professors at the University of Pennsylvania and the University of California, Berkeley.
 > 
@@ -246,9 +246,9 @@ ___
 
 Thanks Kevin Lee for pointing me to the [IAB self-regulation statement](http://www.iab.net/about_the_iab/recent_press_releases/press_release_archive/press_release/pr-070209). But as George Bush the first might have said, “That’s not goin’ ta do it.”
 
-Posted in [Culture](http://gesterling.wordpress.com/category/culture/), [Demographics](http://gesterling.wordpress.com/category/demographics/), [Legal](http://gesterling.wordpress.com/category/legal/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | [19 Comments »](http://gesterling.wordpress.com/2009/09/30/more-bad-news-for-behavioral-targeting/#comments "Comment on More Bad News for Behavioral Targeting")
+Posted in [Culture](https://gesterling.wordpress.com/category/culture/), [Demographics](https://gesterling.wordpress.com/category/demographics/), [Legal](https://gesterling.wordpress.com/category/legal/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | [19 Comments »](https://gesterling.wordpress.com/2009/09/30/more-bad-news-for-behavioral-targeting/#comments)
 
-### [FTC-Sears Deal Points toward BT Regulation](http://gesterling.wordpress.com/2009/09/12/ftc-sears-deal-reveals-the-future-of-tracking/)
+### [FTC-Sears Deal Points toward BT Regulation](https://gesterling.wordpress.com/2009/09/12/ftc-sears-deal-reveals-the-future-of-tracking/)
 
 September 12, 2009
 
@@ -298,13 +298,13 @@ ___
 > 
 > But if consumers want to look into their privacy options on that site more generally, a link on every page should take them to one place with all of the privacy information they need.
 
-Posted in [General online advertising](http://gesterling.wordpress.com/category/general-online-advertising/), [Legal](http://gesterling.wordpress.com/category/legal/), [Privacy](http://gesterling.wordpress.com/category/privacy/), [Regulatory issues](http://gesterling.wordpress.com/category/regulatory-issues/) | [1 Comment »](http://gesterling.wordpress.com/2009/09/12/ftc-sears-deal-reveals-the-future-of-tracking/#comments "Comment on FTC-Sears Deal Points toward BT Regulation")
+Posted in [General online advertising](https://gesterling.wordpress.com/category/general-online-advertising/), [Legal](https://gesterling.wordpress.com/category/legal/), [Privacy](https://gesterling.wordpress.com/category/privacy/), [Regulatory issues](https://gesterling.wordpress.com/category/regulatory-issues/) | [1 Comment »](https://gesterling.wordpress.com/2009/09/12/ftc-sears-deal-reveals-the-future-of-tracking/#comments)
 
-### [BT in the Crosshairs](http://gesterling.wordpress.com/2009/09/09/bt-in-the-crosshairs/)
+### [BT in the Crosshairs](https://gesterling.wordpress.com/2009/09/09/bt-in-the-crosshairs/)
 
 September 9, 2009
 
-For some time I’ve been [anticipating](http://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/) regulation to be imposed on behavioral targeting (and possibly more broadly on Internet advertising). The the AP [reported](http://www.google.com/hostednews/ap/article/ALeqM5jDu3Jz5Pe_pkSNm1gHftBmK1AzdQD9AIHAP00) yesterday:
+For some time I’ve been [anticipating](https://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/) regulation to be imposed on behavioral targeting (and possibly more broadly on Internet advertising). The the AP [reported](http://www.google.com/hostednews/ap/article/ALeqM5jDu3Jz5Pe_pkSNm1gHftBmK1AzdQD9AIHAP00) yesterday:
 
 > Rep. Rick Boucher, D-Va., chairman of the House Energy and Commerce Subcommittee on Communications, Technology and the Internet, is drafting a bill that would impose broad new rules on Web sites and advertisers. His goal: to ensure that consumers know what information is being collected about them on the Web and how it is being used, and to give them control over that information.
 
@@ -316,17 +316,17 @@ The only questions in my mind are:
 
 
 
-Any bill that eventually passes will be a compromise but it will place burdens on Internet advertising that don’t currently exist. Consumers don’t necessarily clearly see the relationships between tracking, cookies and ad relevance. And even though they only want “relevant” ads, [they also don’t want to be tracked](http://gesterling.wordpress.com/2008/03/31/relevant-ads-but-no-tracking-please/).
+Any bill that eventually passes will be a compromise but it will place burdens on Internet advertising that don’t currently exist. Consumers don’t necessarily clearly see the relationships between tracking, cookies and ad relevance. And even though they only want “relevant” ads, [they also don’t want to be tracked](https://gesterling.wordpress.com/2008/03/31/relevant-ads-but-no-tracking-please/).
 
 The biggest losers could be social networks if they have to allow people to opt out of all ad targeting. Precision targeting is what social networks have to offer marketers. If that’s taken away — and I would immediately opt out myself — they’ll have nothing left to offer except broad, vague reach.
 
-Posted in [General online advertising](http://gesterling.wordpress.com/category/general-online-advertising/), [Legal](http://gesterling.wordpress.com/category/legal/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | Comments Off
+Posted in [General online advertising](https://gesterling.wordpress.com/category/general-online-advertising/), [Legal](https://gesterling.wordpress.com/category/legal/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | Comments Off on BT in the Crosshairs
 
-### [Regulation IS Coming to Online Ads](http://gesterling.wordpress.com/2009/09/02/regulation-is-coming-to-online-ads/)
+### [Regulation IS Coming to Online Ads](https://gesterling.wordpress.com/2009/09/02/regulation-is-coming-to-online-ads/)
 
 September 2, 2009
 
-I [argued](http://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/) early last year that if behavioral targeting and tracking became too pervasive and/or aggressive we’d see some form of regulation from Washington. It’s coming. As the NY Times [reported](http://mediadecoder.blogs.nytimes.com/2009/09/01/privacy-advocates-push-for-new-legislation/) yesterday:
+I [argued](https://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/) early last year that if behavioral targeting and tracking became too pervasive and/or aggressive we’d see some form of regulation from Washington. It’s coming. As the NY Times [reported](http://mediadecoder.blogs.nytimes.com/2009/09/01/privacy-advocates-push-for-new-legislation/) yesterday:
 
 > 10 major privacy groups plan to demand new privacy legislation from Congress regarding online behavioral tracking and ad targeting.
 
@@ -340,9 +340,9 @@ These ideas will not strike anyone in Congress as unreasonable. Just as everyone
 
 Get ready for it. All the industry can really do is voluntarily adopt some version of these ideas to potentially pre-empt their imposition from above.
 
-Posted in [General online advertising](http://gesterling.wordpress.com/category/general-online-advertising/), [Legal](http://gesterling.wordpress.com/category/legal/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | [4 Comments »](http://gesterling.wordpress.com/2009/09/02/regulation-is-coming-to-online-ads/#comments "Comment on Regulation IS Coming to Online Ads")
+Posted in [General online advertising](https://gesterling.wordpress.com/category/general-online-advertising/), [Legal](https://gesterling.wordpress.com/category/legal/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | [4 Comments »](https://gesterling.wordpress.com/2009/09/02/regulation-is-coming-to-online-ads/#comments)
 
-### [Never Trust ‘The Cloud’?](http://gesterling.wordpress.com/2009/07/15/never-trust-the-cloud/)
+### [Never Trust ‘The Cloud’?](https://gesterling.wordpress.com/2009/07/15/never-trust-the-cloud/)
 
 July 15, 2009
 
@@ -352,9 +352,9 @@ Beyond the ethical questions surrounding TechCrunch’s potential disclosure of 
 
 What it shows is that cloud security is not ready for prime time.
 
-Posted in [Privacy](http://gesterling.wordpress.com/category/privacy/), [Security](http://gesterling.wordpress.com/category/security/) | [3 Comments »](http://gesterling.wordpress.com/2009/07/15/never-trust-the-cloud/#comments "Comment on Never Trust ‘The Cloud’?")
+Posted in [Privacy](https://gesterling.wordpress.com/category/privacy/), [Security](https://gesterling.wordpress.com/category/security/) | [3 Comments »](https://gesterling.wordpress.com/2009/07/15/never-trust-the-cloud/#comments)
 
-### [EU Regulators vs. Consumers on Privacy](http://gesterling.wordpress.com/2008/11/17/eu-regulators-vs-consumers-on-privacy/)
+### [EU Regulators vs. Consumers on Privacy](https://gesterling.wordpress.com/2008/11/17/eu-regulators-vs-consumers-on-privacy/)
 
 November 17, 2008
 
@@ -370,9 +370,9 @@ Here’s a passage regarding the regulators’ attitudes and some of the challen
 > 
 > In Germany, where Street View is also not available, the simple process of taking photographs for the service violates privacy laws.
 
-Posted in [Europe](http://gesterling.wordpress.com/category/europe/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | Comments Off
+Posted in [Europe](https://gesterling.wordpress.com/category/europe/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | Comments Off on EU Regulators vs. Consumers on Privacy
 
-### [StreetView Now Shows My Driveway](http://gesterling.wordpress.com/2008/07/28/streetview-shows-my-driveway/)
+### [StreetView Now Shows My Driveway](https://gesterling.wordpress.com/2008/07/28/streetview-shows-my-driveway/)
 
 July 28, 2008
 
@@ -386,9 +386,9 @@ ___
 
 More [discussion of StreetView](http://searchengineland.com/080728-081154.php) this morning from a piece I wrote at Search Engine Land.
 
-Posted in [Mapping](http://gesterling.wordpress.com/category/mapping/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | [6 Comments »](http://gesterling.wordpress.com/2008/07/28/streetview-shows-my-driveway/#comments "Comment on StreetView Now Shows My Driveway")
+Posted in [Mapping](https://gesterling.wordpress.com/category/mapping/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | [6 Comments »](https://gesterling.wordpress.com/2008/07/28/streetview-shows-my-driveway/#comments)
 
-### [Relevant Ads but No Tracking Please](http://gesterling.wordpress.com/2008/03/31/relevant-ads-but-no-tracking-please/)
+### [Relevant Ads but No Tracking Please](https://gesterling.wordpress.com/2008/03/31/relevant-ads-but-no-tracking-please/)
 
 March 31, 2008
 
@@ -398,17 +398,17 @@ Here’s the paradox: consumers want “relevant ads” but don’t like to be t
 > 
 > At the same time, 72% of Web users also told researchers they find irrelevant ads “intrusive and annoying,” although one key strategy for displaying relevant ads relies on behavioral targeting, or monitoring where people go online and then determining their interests . . .
 
-I previously wrote about how overzealous BT will bring regulation that effectively hobbles it:[ The Ad Predicament and the End of Tracking?](http://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/ "The Ad Predicament and the End of Tracking?")
+I previously wrote about how overzealous BT will bring regulation that effectively hobbles it:[ The Ad Predicament and the End of Tracking?](https://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/ "The Ad Predicament and the End of Tracking?")
 
-Posted in [General online advertising](http://gesterling.wordpress.com/category/general-online-advertising/), [Legal](http://gesterling.wordpress.com/category/legal/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | [3 Comments »](http://gesterling.wordpress.com/2008/03/31/relevant-ads-but-no-tracking-please/#comments "Comment on Relevant Ads but No Tracking Please")
+Posted in [General online advertising](https://gesterling.wordpress.com/category/general-online-advertising/), [Legal](https://gesterling.wordpress.com/category/legal/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | [3 Comments »](https://gesterling.wordpress.com/2008/03/31/relevant-ads-but-no-tracking-please/#comments)
 
-### [Turning Display Ads into Directional Media](http://gesterling.wordpress.com/2008/03/20/turning-display-ads-into-search/)
+### [Turning Display Ads into Directional Media](https://gesterling.wordpress.com/2008/03/20/turning-display-ads-into-search/)
 
 March 20, 2008
 
-I wrote below that consumer privacy concerns [may create problems](http://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/) for publishers, ad networks and advertisers seeking to turn aggressive targeting into greater relevance for display ads just as brand advertisers are [starting to shift big dollars](http://adage.com/digital/article?article_id=125748) online.
+I wrote below that consumer privacy concerns [may create problems](https://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/) for publishers, ad networks and advertisers seeking to turn aggressive targeting into greater relevance for display ads just as brand advertisers are [starting to shift big dollars](http://adage.com/digital/article?article_id=125748) online.
 
-However there are interesting potential alternatives to BT for display, which include units such as [Linkstorm’s overlays](http://www.linkstorms.com/), widgets (e.g., Google Gadget Ads), brand advertising [in search results](http://gesterling.wordpress.com/2008/02/15/google-bring-brand-advertising-to-search/) (see also [here](http://search.yahoo.com/search;_ylt=A0oGki0Yd.JH1g8AG3dXNyoA?p=shop+honda&y=Search&fr=&ei=UTF-8)), and other interactive display units such as [Admission](http://www.admission.net/gallery/index.php)‘s dynamic platform.
+However there are interesting potential alternatives to BT for display, which include units such as [Linkstorm’s overlays](http://www.linkstorms.com/), widgets (e.g., Google Gadget Ads), brand advertising [in search results](https://gesterling.wordpress.com/2008/02/15/google-bring-brand-advertising-to-search/) (see also [here](http://search.yahoo.com/search;_ylt=A0oGki0Yd.JH1g8AG3dXNyoA?p=shop+honda&y=Search&fr=&ei=UTF-8)), and other interactive display units such as [Admission](http://www.admission.net/gallery/index.php)‘s dynamic platform.
 
 Here’s an example of the latter’s inventory based display advertising:
 
@@ -428,9 +428,9 @@ ____
 
 Disclosure: I’m an advisor to Admission Corp.
 
-Posted in [Brand and branding](http://gesterling.wordpress.com/category/brand-and-branding/), [General online advertising](http://gesterling.wordpress.com/category/general-online-advertising/), [Legal](http://gesterling.wordpress.com/category/legal/), [Privacy](http://gesterling.wordpress.com/category/privacy/), [Regulatory issues](http://gesterling.wordpress.com/category/regulatory-issues/) | [2 Comments »](http://gesterling.wordpress.com/2008/03/20/turning-display-ads-into-search/#comments "Comment on Turning Display Ads into Directional Media")
+Posted in [Brand and branding](https://gesterling.wordpress.com/category/brand-and-branding/), [General online advertising](https://gesterling.wordpress.com/category/general-online-advertising/), [Legal](https://gesterling.wordpress.com/category/legal/), [Privacy](https://gesterling.wordpress.com/category/privacy/), [Regulatory issues](https://gesterling.wordpress.com/category/regulatory-issues/) | [2 Comments »](https://gesterling.wordpress.com/2008/03/20/turning-display-ads-into-search/#comments)
 
-### [The Ad Predicament and the End of Tracking?](http://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/)
+### [The Ad Predicament and the End of Tracking?](https://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/)
 
 March 20, 2008
 
@@ -445,7 +445,7 @@ At a very crude level here’s where we are today:
 
 
 
-Previously [I wrote](http://gesterling.wordpress.com/2008/03/10/will-bt-become-too-aggressive/) that if publishers, portals and other became too aggressive in their efforts to data mine and target/retarget, you’d see regulation and legislation. Well here’s the [first of it](http://www.nytimes.com/2008/03/20/business/media/20adco.html?_r=1&ref=technology&oref=slogin):
+Previously [I wrote](https://gesterling.wordpress.com/2008/03/10/will-bt-become-too-aggressive/) that if publishers, portals and other became too aggressive in their efforts to data mine and target/retarget, you’d see regulation and legislation. Well here’s the [first of it](http://www.nytimes.com/2008/03/20/business/media/20adco.html?_r=1&ref=technology&oref=slogin):
 
 > After reading about how Internet companies like Google, Microsoft and Yahoo collect information about people online and use it for targeted advertising, one New York assemblyman said there ought to be a law.
 > 
@@ -463,9 +463,9 @@ There are efforts to “self-regulate” BT within the IAB. But those efforts wi
 
 That legislation or regulatory action would likely come amid a flurry of negative publicity in newspaper articles and on TV news broadcasts — publicity that will make ad networks and companies like AOL, Yahoo, Microsoft, Google and others look highly sinister. In that context, how many consumers, once they discover they’re being “tracked,” are likely to not opt out? I would say fewer than will buy the argument that the ads they’re getting by not doing so are more “relevant.”
 
-Posted in [General online advertising](http://gesterling.wordpress.com/category/general-online-advertising/), [General search](http://gesterling.wordpress.com/category/general-search/), [Legal](http://gesterling.wordpress.com/category/legal/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | [8 Comments »](http://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/#comments "Comment on The Ad Predicament and the End of Tracking?")
+Posted in [General online advertising](https://gesterling.wordpress.com/category/general-online-advertising/), [General search](https://gesterling.wordpress.com/category/general-search/), [Legal](https://gesterling.wordpress.com/category/legal/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | [8 Comments »](https://gesterling.wordpress.com/2008/03/20/the-crazy-ad-predicament/#comments)
 
-### [ISPs Get into the Ad Game](http://gesterling.wordpress.com/2008/02/21/isps-get-into-the-ad-game/)
+### [ISPs Get into the Ad Game](https://gesterling.wordpress.com/2008/02/21/isps-get-into-the-ad-game/)
 
 February 21, 2008
 
@@ -483,9 +483,9 @@ The online ad industry’s general disregard of the consumer — notwithstanding
 
 Search is largely immune because it’s “directional” and doesn’t rely on data mining, although Google has experimented with BT in search in the form of ads based on past queries.
 
-Posted in [Privacy](http://gesterling.wordpress.com/category/privacy/), [Regulatory issues](http://gesterling.wordpress.com/category/regulatory-issues/) | [1 Comment »](http://gesterling.wordpress.com/2008/02/21/isps-get-into-the-ad-game/#comments "Comment on ISPs Get into the Ad Game")
+Posted in [Privacy](https://gesterling.wordpress.com/category/privacy/), [Regulatory issues](https://gesterling.wordpress.com/category/regulatory-issues/) | [1 Comment »](https://gesterling.wordpress.com/2008/02/21/isps-get-into-the-ad-game/#comments)
 
-### [Google Maps New Feature, Video](http://gesterling.wordpress.com/2008/01/28/google-maps-cool-feature-video/)
+### [Google Maps New Feature, Video](https://gesterling.wordpress.com/2008/01/28/google-maps-cool-feature-video/)
 
 January 28, 2008
 
@@ -497,11 +497,11 @@ And here’s my post on Data Privacy Day from [SEL](http://searchengineland.com/
 
 ___
 
-I used Google’s My Maps to make a list of open houses this weekend as I was testing out the [DotHomes real estate search](http://gesterling.wordpress.com/2008/01/28/uk-based-real-estate-engine-launches/) engine. It was very helpful and other real estate sites should take a look at developing similar functionality. (Think about the ad inventory as users print out these maps and take them in the car on Sunday to look at open houses.)
+I used Google’s My Maps to make a list of open houses this weekend as I was testing out the [DotHomes real estate search](https://gesterling.wordpress.com/2008/01/28/uk-based-real-estate-engine-launches/) engine. It was very helpful and other real estate sites should take a look at developing similar functionality. (Think about the ad inventory as users print out these maps and take them in the car on Sunday to look at open houses.)
 
-Posted in [Mapping](http://gesterling.wordpress.com/category/mapping/), [Privacy](http://gesterling.wordpress.com/category/privacy/) | Comments Off
+Posted in [Mapping](https://gesterling.wordpress.com/category/mapping/), [Privacy](https://gesterling.wordpress.com/category/privacy/) | Comments Off on Google Maps New Feature, Video
 
-### [Ask Goes Further on Privacy](http://gesterling.wordpress.com/2007/12/11/ask-goes-further-on-privacy/)
+### [Ask Goes Further on Privacy](https://gesterling.wordpress.com/2007/12/11/ask-goes-further-on-privacy/)
 
 December 11, 2007
 
@@ -509,4 +509,4 @@ SEL has [the explanation](http://searchengineland.com/071211-000001.php) of the 
 
 Here’s more from Miguel Helft at the [NY Times](http://www.nytimes.com/2007/12/11/technology/11ask.html?ex=1355029200&en=fac82ab1369bc9dc&ei=5088&partner=rssnyt&emc=rss). Will it pressure or challenge other search engines to adopt similar policies? Not immediately but over the long term — yes.
 
-Posted in [Privacy](http://gesterling.wordpress.com/category/privacy/) | Comments Off
+Posted in [Privacy](https://gesterling.wordpress.com/category/privacy/) | Comments Off on Ask Goes Further on Privacy
