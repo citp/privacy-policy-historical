@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hamptube.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119171549id_/http%3A//www.hamptube.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamptube.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523023248id_/http%3A//www.hamptube.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.hamptube.com](http://www.hamptube.com/)  
-Effective Date: November 19, 2014  
+Effective Date: May 23, 2015  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.hamptube.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
