@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallifecam.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221212905id_/http%3A//www.reallifecam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallifecam.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523165601id_/http%3A//reallifecam.com/privacy) for the most accurate reproduction.*
 
 # RealLifeCam - Voyeur House, Hidden Spy Camera, Private Video
 
