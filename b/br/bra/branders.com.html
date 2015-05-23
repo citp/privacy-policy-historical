@@ -1,44 +1,928 @@
-<!--The following is the downloaded HTML source of the branders.com privacy policy that was archived on 2014-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141108065736id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the branders.com privacy policy that was archived on 2015-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150523102142id_/http%3A//www.branders.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-	<meta charset="UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NBQP2T"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEFWFZXGwYDVFJbBwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-	<meta name="viewport" content="width=device-width">
-	
-    <link rel="pingback" href="http://www.branders.com/content/xmlrpc.php">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <title>Promotional Products &amp; Promo Items - Tradeshow Giveaways</title>
+        <meta name="y_key" content="e4367f145951609f">
+        <meta name="description" content="Promo items and custom business promotional superstore. Award-winning logo and promotional merchandise. Endorsed by American Marketing Association.">
+        <meta name="msvalidate.01" content="198367A6ED5E22AD9473A4732E09582F">
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="keywords" content="Branders.com">
+        <meta name="msnbot" content="">
+        <meta http-equiv="Content-Language" content="en">
+        <meta name="robots" content="">
+        <meta name="google-site-verification" content="L6sTFw0KBy86qr1vdLsidBOeqJt1I-dDe-qGTamtchY">
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NBQP2T"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEFWFZXGwYDVFJbBwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+	<link rel="icon" href="images/favicon.ico">
+        <link rel="SHORTCUT ICON" href="images/favicon.ico">
+	<link rel="canonical" href="http://www.branders.com/">                                 <!-- css and js files comes here for any page -->
+        
+        <!-- css and js files ends here for any page -->
+        <link href="http://fonts.googleapis.com/css?family=Magra%7cTelex%7cGudea:400,400italic,700%7cTenor+Sans%7cChivo:400,900,400italic,900italic%7cMichroma%7cOpen+Sans+Condensed:300,300italic%7cDuru+Sans%7cQuattrocento+Sans%7cArimo:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/themes/base/jquery-ui.css">
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/standard.css?v=1">                                         
+        <!--<link rel="stylesheet" type="text/css" href="http://www.branders.com/css/layout.css?v=1" />-->
+	<link rel="stylesheet" type="text/css" href="http://www.branders.com/css/homestyle.css?v=2" media="screen">
+	<link rel="stylesheet" type="text/css" href="http://www.branders.com/css/staticproductindex.css?v=4">
+	<!--<link rel="stylesheet" type="text/css" href="http://www.branders.com/css/lstylesheet.css?v=1" />-->
+	<!--[if !IE]><!-->
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/layout.css?v=1">
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/lstylesheet.css?v=1">
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/homepage1.css?v=1">
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/bstylesheet.css?v=12">
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/chromestyleb.css?v=1">
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/shadetabs.css?v=11">
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/stylea.css?v=1">
+        <!--<![endif]-->
+        <!--[if IE]>
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/ie-only.css?v=2" />
+        <![endif]-->
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/chromestyle.css?v=1">
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/instantview.css?v=1">
+        <!--        <link media="screen" rel="stylesheet" type="text/css" href="http://www.branders.com/css/facebox.css" />-->
+        <link media="screen" rel="stylesheet" type="text/css" href="http://www.branders.com/css/jukebox.css">
+        <link media="screen" rel="stylesheet" type="text/css" href="http://www.branders.com/css/productstyle.css?v=3">
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/featuredcontentglider.css">
+        <!--        <link media="screen" rel="stylesheet" type="text/css" href="http://cache.branders.com/css/25504/homestyle.css"  />-->
+        <!--        <link media="screen" rel="stylesheet" type="text/css" href="http://cache.branders.com/css/facebox.css"  />-->
+        <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/main.css?v=1"><!-- css layout -->
+        <style type="text/css">/*<![CDATA[*/
+            /*new header layout styles*/
+            .headerContainer { position:relative; width:100%; min-width:980px; }
+            .headerHolder { display:block;}
+            * html .headerContainer { border-right: 960px solid #218026;}
+            * html .headerHolder { display:inline-block; position:relative; margin-right:-960px; }
+            .headerBannerImage {
+                position:absolute;
+                left:0px;
+                bottom:0px;
+            }
+            ul.branders_menu {
+                list-style-type:none;
+                width:496px;
+                height:33px;
+            }
+            .branders_menu li { float:left; }
+            .branders_menu li div { width:100%;height:100%;text-align:left; }
+            .branders_menu_top { height:24px }
+            .branders_menu_top div { padding-top:8px; }
+            .branders_menu_bottom { height:20px }
+            .branders_menu_bottom div { padding-top:5px; }
+            .branders_menu li div a { text-decoration:none;float:left }
+            .branders_menu li div a:hover { text-decoration:none;}
+            .branders_menu li div a:link { text-decoration:none }
+            .branders_menu li div a:visited { text-decoration:none }
+            .purposeOfPurchaseSelection { vertical-align:top;}
+            /*]]>*/
+        </style><!--   -->
+        <!-- js files -->
+        
+        <script type="text/javascript" src="http://www.branders.com/new-top/js/jquery-1.7.0.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/jukebox.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/chrome.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/tabcontent.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/script.js"></script> 
+<!--        <script type="text/javascript" src="/js/home.js"></script>-->
+<!--        <script type="text/javascript" src="http://cache.branders.com/js/chrome.js"></script>-->
+        <script type="text/javascript" src="http://www.branders.com/js/popunderAndRegpoint.js"></script>
+        <script type="text/javascript">//<![CDATA[
+            window.contextPath = '';
+            //     RegPoint.pageType = 'home';
+            //     PopUnder.pageType = RegPoint.pageType; 
+            //]]>
+        </script>
+        <script type="text/javascript" src="http://www.branders.com/js/home_demo.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/lastchance1.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/windowmagic.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/refinesearch.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/facebox.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/ibox.js"></script>
+        <script type="text/javascript" src="//www.branders.com/js/jquery.lazyload.min.js"></script>
+        <script type="text/javascript" src="http://www.branders.com/js/script-ed.js"></script> 
     
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Privacy Policy - Brand Builders</title>
-<link rel="canonical" href="http://www.branders.com/content/pages/privacy-policy.htm">
-<link rel="publisher" href="https://plus.google.com/+BrandersPromotionalProducts">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Brand Builders">
-<meta property="og:description" content="Branders.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.By visiting Branders.com, you are accepting the practices described in this Privacy Notice. What">
-<meta property="og:url" content="http://www.branders.com/content/pages/privacy-policy.htm">
-<meta property="og:site_name" content="Brand Builders">
-<meta property="article:section" content="Support Pages">
-<meta property="article:published_time" content="2011-01-28T22:13:25+00:00">
-<meta property="article:modified_time" content="2014-10-06T22:31:57+00:00">
-<meta property="og:updated_time" content="2014-10-06T22:31:57+00:00">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@branderscom">
-<meta name="twitter:domain" content="Brand Builders">
-<meta name="twitter:creator" content="@branderscom">
-<!-- / Yoast WordPress SEO plugin. -->
+    
+  <style type="text/css">/*<![CDATA[*/
+            ul.columns, ul.columns li{
+                margin: 0px;
+                border: 0px;
+                padding: 0px;
+            }
+            .centerAlignedColLeftMenu {
+                padding: 0 !important;
+                margin: 0 !important;
+            }
+            .centerAlignedColBorder {
+                padding: 0 !important;
+                margin: 0 !important;
+            }
+            /*]]>*/
+        </style>
 
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.branders.com/content/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="dot-irecommendthis-css" href="http://www.branders.com/content/wp-content/plugins/i-recommend-this/css/dot-irecommendthis-heart.css?ver=4.0" type="text/css" media="all">
-<link rel="stylesheet" id="ac_style-css" href="http://www.branders.com/content/wp-content/themes/justwrite/style.css?ver=1.0.3" type="text/css" media="all">
-<link rel="stylesheet" id="ac_icons-css" href="http://www.branders.com/content/wp-content/themes/justwrite/assets/icons/css/font-awesome.min.css?ver=4.1.0" type="text/css" media="all">
+        <style type="text/css">/*<![CDATA[*/
+            .lazy {
+                display: none;
+            }
+            /*]]>*/
+        </style>
+                
+        <link href="//www.branders.com/facefiles/facebox.css?v=1" media="screen" rel="stylesheet" type="text/css">
+        <script src="//www.branders.com/facefiles/facebox.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+            jQuery(document).ready(function($) {
+              $('a[rel*=facebox]').facebox() 
+            })
+        </script>
+		
+    </head>
+    <body onload="if (typeof setBrandersPageCookie=='function') setBrandersPageCookie();" vlink="#666666" alink="#CC6600" bgcolor="#ffffff" link="#336633" class="single single-post postid-43 single-format-standard">
+
+        <span class="welcomeNote-span"></span>     
+        
+        <div id="j_id106" class="headersection" style="width:100%;">
+            <div class="topmostheader">
+                <div class="topmostheader-div">
+<!--                    <noscript>-->
+                        
+                        <div id="j_id122">
+                            <div id="j_id123" class="leftmosttopheader">
+                                <div id="j_id124" class="leftmostlistheader">
+                                    <a title="Home" href="http://www.branders.com/">
+                                        <img border="0" src="/images/home.png">
+                                    </a>
+                                </div>
+                                <div id="j_id126">Hello .</div>
+                                <!-- marketing define use anchor-->
+                                <div id="j_id129" style="display:block;">
+                                    <a class="headerlinks" href="http://www.branders.com/specials-page.php">Specials</a>
+                                </div>
+                                <div id="j_id131">
+                                    <a class="headerlinks" href="http://www.branders.com/nc/support-customer-service.php">Customer Service</a>
+                                </div>
+								<!--<div id="j_id131">
+                                    <a href="http://www.branders.com/content/pages/contact.htm" target="_blank">Customer Support</a>
+                                </div>-->
+                                
+                            </div>
+                        </div>
+                        
+                        
+                        <div class="chromestyleb">
+                            <ul>
+                                <li>
+                                    <a href="https://secure.branders.com/nc/dm-cart-step2.php" rel="nofollow" title="Cart">
+                                        <img border="0" src="/images/cart.jpg">
+                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="btnSignUp" class="headerlinks" name="btnSignUp" href="SECUREDMLINK/client/customer/registration/" rel="nofollow" title="Sign In">Sign Up</a>
+                                </li> 
+                                <li>
+                                    <a id="btnLogIn" class="headerlinks" name="btnLogIn" href="SECUREDMLINK/client/" rel="nofollow" title="Log In">Log In</a>
+                                </li>                                                               
+                                                                <li>
+                                    <a id="btnLogIn" class="headerlinks" name="btnLogIn" href="http://www.branders.com/nc/track_order_info.php" rel="nofollow" title="Track Your Order">Track Your Order</a>
+                                </li>
+                            </ul>
+                            <script type="text/javascript">
+                            // JavaScript Document
+                                function logout(url)
+                                {
+                                    if(window.confirm("Are you sure to logout from Admin Panel?"))
+                                    {
+                                        window.location.href = url;
+                                    }
+                                }
+                                 $('.my-account').mouseenter(function(){
+                                    $('.dropmenudivb').show();
+                                });
+                                $('.my-account').mouseleave(function(){
+                                    $('.dropmenudivb').hide();
+                                });
+                            </script>
+                            <script type="text/javascript">//<![CDATA[
+                                //cssdropdown.startchrome("chrommenu");
+                                //]]>
+                            </script>
+                        </div>
+<!--                    </noscript>-->
+                </div>
+            </div>
+            <center>
+                
+                <div id="j_id158" class="topmostauth" style="display:none;">
+                    <div id="j_id159" style="display:none;">
+                    </div>
+                </div>
+                
+            </center>
+            <center>
+                <div id="j_id162">
+                    <div class="top-header-sectionb">
+                        <ul>
+                            
+                            <li>
+                                <div class="toplogo" style="background-image: url('/images/logo.png');">
+                                    <a href="http://www.branders.com/" style="text-decoration:none;float:left;width:400px;height:68px;" title="Promotional Products">&nbsp;</a> 
+				                                        <p>World's Largest Promotional Products Store!</p>
+                                                                    </div>
+                            </li>
+                            
+			<li>
+                                <div class="itemsearch">
+                                    <script type="text/javascript">//<![CDATA[
+
+                                        function setText2(id, label) {
+                                            if (document.getElementById(id).value.length == 0) {
+                                                document.getElementById(id).value = label;
+                                                var claz = document.getElementById(id).getAttribute("class");
+                                                if (claz.indexOf("searchbarwindow") == 0) {
+                                                    document.getElementById(id).setAttribute("class", claz + " searchbarwindow");
+                                                }
+                                            }
+                                        }
+
+                                        function chText2(id, label) {
+                                            if (document.getElementById(id).value == label) {
+                                                document.getElementById(id).value = "";
+                                                var claz = document.getElementById(id).getAttribute("class");
+                                                if (claz.indexOf("searchbarwindow") == 0) {
+                                                    document.getElementById(id).setAttribute("class", claz + " searchbarwindow");
+                                                }
+                                            }
+                                        }
+                                        function readyNa() { try { setEvt("kw", "keyword"); } catch (e) { } }
+                                        function setEvt(id, label) { 
+                                            try { 
+                                                if (document.getElementById(id) == undefined) 
+                                                    return;  
+                                                AttachEvent(document.getElementById(id),'focus', function(){chText2(id, label);}, false); 
+                                                AttachEvent(document.getElementById(id),'blur', function() {setText2(id, label);}, false); 
+                                                setText2(id, label); 
+                                            } catch (e) { } 
+                                        }
+        
+                                        //]]>
+                                    </script> 
+                                    
+                                    <form action="http://www.branders.com/nc/search.php" method="get" id="top_search_form" name="frmSearch">
+                                        <div class="itemsearchinput">
+                                            <input id="keyword_search" name="keyword_search" type="text" value="" size="30" class="itemkeyword" placeholder="keyword">
+                                            <input type="hidden" value="" id="searchText" name="searchText">
+                                            <input type="submit" class="itemsearchbutton" id="basicSearch:searchbtn" value="Search" alt="Search for products" style="margin-right:17px">
+                                        </div>
+                                    </form>
+								
+                                                
+										
+                                    <!--<p style="display: block;" id="back-top"><a href="#top"><span></span> &nbsp;</a></p>-->
+                                    
+                                    <!--<div id="j_id171" class="popular">
+                                        <div>Popular:&#160;</div>
+                                        <div>
+                                            <a href="/search/search_results_ref.jsp?kw=sunglasses" title="sunglasses">sunglasses</a>
+                                            <label style="color: #218026;">,</label> 
+                                            <a href="/search/search_results_ref.jsp?kw=pens" title="pens">pens</a>
+                                            <label style="color: #218026;">,</label> 
+                                            <a href="/search/search_results_ref.jsp?kw=golf" title="golf">golf</a>
+                                            <label style="color: #218026;">,</label> 
+                                            <a href="/search/search_results_ref.jsp?kw=mason%20jars" title="mason jars">mason jars</a>
+                                            <label style="color: #218026;">,</label> 
+                                            <a href="/search/search_results_ref.jsp?kw=letter%20opener" title="letter opener">letter opener</a>
+                                        </div>
+                                    </div>-->
+                                    <div style="clear:both;height:0px;">&nbsp;</div>
+                                    <script type="text/javascript">//<![CDATA[
+                                        //
+                                        try{ setTimeout(function() { readyNa(); }, 200); } catch (e) { }
+                                        var bs= window.bs || {};
+                                        jQuery(function() {
+                                            bs.headerBasicSearch = jQuery.extend(bs.headerBasicSearch || {}, {
+                                                submit:function(myfield, e) {
+                                                    var keycode;
+
+                                                    if (window.event)
+                                                        keycode = window.event.keyCode;
+                                                    else if (e)
+                                                        keycode = e.which;
+                                                    else
+                                                        return true;
+
+                                                    if (keycode == 13) {
+                                                        //document.getElementById('basicSearch:searchbtn').click();
+                                                        //jQuery('basicSearch\:searchbtn').trigger("click");
+                                                        bs.headerBasicSearch.init(); 
+                                                        document.getElementById('basicSearch').submit();
+                                                        return false;
+                                                    } else
+                                                        return true;
+                                                },
+                                                init:function() {
+                                                    var v = document.getElementById("kw"); 
+                                                    if (v.value == 'keyword') { v.value = ""; } 
+                                                    try {           
+                                                        document.getElementById('basicSearch').method='post';           
+                                                        document.getElementById('basicSearch').action='/search/search_results_ref.jsp?kw='+encodeURIComponent(document.getElementById("kw").value).replace(/%20/g,'+'); 
+                                                    } catch (e) { }
+                                                }
+                                            });
+                                        });
+
+                                        //
+                                        //]]>
+                                    </script>
+                                </div>
+                            </li>
+                            <li>
+				<a href="#mydiv" rel="facebox" style="float:left;width:260px;margin:0px 0 0 0; padding:0px 0 0 0; height:85px; background-image:url(http://www.branders.com/facefiles/50offbanner.png?v=1); background-position:0px 1px; background-repeat:no-repeat;"></a>
+                                <div id="mydiv" style="display:none; font-family:'Open Sans', Arial, Helvetica, sans-serif; font-size:16px; text-align:center; padding-top:10px;">
+                                Order today with a minimum order value of  <strong style="color:#218026;font-weight: bold;">$500</strong> or more &amp; get <strong style="color:#218026;font-weight: bold;">$50 OFF </strong>your first order. <br><br>                                                                            
+                                <p style="font-family:'Open Sans', Arial, Helvetica, sans-serif; font-size:11px; text-align:justify;">*$50 off promo cannot be combined with other promos &amp; coupons</p>
+                                <p style="font-family:'Open Sans', Arial, Helvetica, sans-serif; font-size:11px; text-align:justify;">*$500 order value refers to the product cost and does not include taxes</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div id="callfunctionb">
+                                    <div id="j_id180" class="phoneheader-div">
+                                        
+                                            <!--<span>Call Us Toll-Free</span>--> 
+                                            <div>
+                                                <span>Get live help from a real rep.</span><br>
+                                                <span class="phoneheader-no">(844) 806-1306</span><br>
+ 						<span>Call us from 9am to 8pm EST.</span>
+                                            </div>
+                                            
+                                       
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+
+			<div class="topnav-div">
+                                                                                                        <div class="topmain">
+                                                                                                            <!--<ul id="topnavmenu" class="shadetabs">-->
+                                                                                                            <ul id="topnavmenu" class="shadetabs">
+                                                                                                                <li rel="topsubmenu1">Drinkware</li><li rel="topsubmenu2">Apparel</li><li rel="topsubmenu3">Bags &amp; Backpacks</li><li rel="topsubmenu4">Office, Pens &amp; Notebooks</li><li rel="topsubmenu5">Home, Auto &amp; Food</li><li rel="topsubmenu6">Toys, Games &amp; Outdoor</li><li><a href="http://www.branders.com/category/view-all-promotional-products/">VIEW ALL</a></li>
+                                                                                                            </ul>                                   
+                                                                                                            <!--</ul>-->
+                                                                                                        </div>
+
+                                                                                                        <div class="topsub">
+                                                                                                            <ul id="topsubmenu1" class="tabcontent">                                    
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-coffee-mugs/">Coffee Mugs</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-travel-mugs/">Travel Mugs</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-plastic-tumblers/">Plastic Tumblers</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-water-bottles/">Sports Bottles</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-glasses/">Glassware</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-can-holders/">Can Coolers</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-stadium-cups/">Stadium Cups </a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-coasters/">Coasters</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-drinkware-and-barware/">View All</a></li>            
+                                                                                                            </ul>
+                                                                                                            <ul id="topsubmenu2" class="tabcontent">
+                                                                                                                <li><a href="http://www.branders.com/category/custom-t-shirts/">T-Shirts</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-long-sleeves-t-shirts/">Long Sleeve</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-polo-shirts/">Polo Shirts</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-dress-shirts/">Dress Shirts</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-jackets/">Jackets</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-sweatshirts/">Sweatshirts</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-hoodies/">Hoodies</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-tank-tops/">Tank Tops</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-aprons/">Aprons</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-baseball-caps/">Caps &amp; Hats</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-clothing-and-footwear/">View All</a></li>
+
+                                                                                                            </ul>                                
+                                                                                                            <ul id="topsubmenu3" class="tabcontent">
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-tote-bags/">Tote Bags</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-shopping-bags/">Shopping Bags</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-backpacks/">Backpacks</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-cinch-packs/">Drawstring Bags</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-lunch-bags/">Lunch Bags</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-messenger-bags/">Messenger Bags</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-briefcases/">Briefcases</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-duffel-bags/">Duffel Bags</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-bags-totes-briefcases/">View All</a></li>
+
+                                                                                                            </ul>
+                                                                                                            <ul id="topsubmenu4" class="specialtabcontent">
+                                                                                                                <li><a href="http://www.branders.com/category/custom-notebooks/">Notebooks</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-portfolios/">Portfolios</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-pens/">Pens</a></li>                                                                                                                
+                                                                                                                <li><a href="http://www.branders.com/category/custom-lanyards/">Lanyards</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-flash-drives/">USB Flash Drives</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-mousepads/">Mouse Pads</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-desk-office-supplies/">Desk Accessories</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/bulk-highlighters/">Highlighters
+                                                                                                                </a></li><li><a href="http://www.branders.com/category/custom-sticky-notes/">Sticky Notes
+                                                                                                                </a></li><li><a href="http://www.branders.com/category/promotional-desk-office-supplies/">View All</a></li>
+
+                                                                                                            </ul>
+                                                                                                            <ul id="topsubmenu5" class="tabcontent">
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-key-chains/">Key Chains</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/bulk-pet-supplies/">Pet Supplies</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/logo-food-and-drinks/">Food &amp; Beverage</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-kitchen-utensils/">Kitchen Items</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-health-safety-products/">Health &amp; Wellness</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-clocks-and-watches/">Clocks</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-baby-items/">Baby Items</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-tool-kits/">Tools</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-home-houseware-items/">View All</a></li>
+
+                                                                                                            </ul>
+                                                                                                            <ul id="topsubmenu6" class="specialtabcontent">
+                                                                                                                <li><a href="http://www.branders.com/category/custom-sunglasses/">Sunglasses</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-stress-relievers/">Stress Balls</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-frisbees/">Frisbees</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/logo-toys-and-games/">Toys</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-umbrellas/">Umbrellas</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-blankets/">Blankets</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-chairs/">Chairs</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-golf-balls/">Golf Balls</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-signs-and-displays/">Signs &amp; Display</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/custom-sunscreens/">Sunscreen</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/personalized-towels/">Towels</a></li>
+                                                                                                                <li><a href="http://www.branders.com/category/promotional-fitness-sports-products/">View All</a></li>
+
+                                                                                                            </ul>                                
+                                                                                                        </div>
+                                                                                                    </div>
+
+                        <script type="text/javascript">//<![CDATA[
+                            var topnavmenu=new ddtabcontent("topnavmenu");
+                            topnavmenu.setpersist(true);
+                            topnavmenu.setselectedClassTarget("link");//"link" or "linkparent"
+                            topnavmenu.init();          
+                            //]]>
+                        </script>
+                    </div>
+                    <div class="dd_panel">
+                        <ol class="idx_source">
+                            <li style="list-style: none">
+                                <span class="idx_header">BROWSE PRODUCT FROM A-Z</span>
+                            </li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php##" class="idx_label">#</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=A#A" class="idx_label">A</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=B#B" class="idx_label">B</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=C#C" class="idx_label">C</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=D#D" class="idx_label">D</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=E#E" class="idx_label">E</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=F#F" class="idx_label">F</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=G#G" class="idx_label">G</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=H#H" class="idx_label">H</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=I#I" class="idx_label">I</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=J#J" class="idx_label">J</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=K#K" class="idx_label">K</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=L#L" class="idx_label">L</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=M#M" class="idx_label">M</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=N#N" class="idx_label">N</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=O#O" class="idx_label">O</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=P#P" class="idx_label">P</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=Q#Q" class="idx_label">Q</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=R#R" class="idx_label">R</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=S#S" class="idx_label">S</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=T#T" class="idx_label">T</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=U#U" class="idx_label">U</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=V#V" class="idx_label">V</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=W#W" class="idx_label">W</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=X#X" class="idx_label">X</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=Y#Y" class="idx_label">Y</a></li>
+                            <li><a href="http://www.branders.com/catalog/staticproductindex.php?letter=Z#Z" class="idx_label">Z</a></li>
+                        </ol>
+                    </div>
+                    <script type="text/javascript">//<![CDATA[
+                            //
+                            //jQuery(document).ready(function(){
+                            (function() {
+                                jQuery.fn.indexList = function(settings) {
+                                    return this.each(function() {
+                                        var labels = settings.labelSelector;
+                                        var source = settings.sourceSelector;
+                                        var uniqueId = new Date().getTime(); //append to every id generated for uniqueness
+                                        var popupId = 'idx__context_target_'+ uniqueId;
+                                        var header = jQuery(settings.headerSelector).clone();
+                                        var dim = settings.dim;
+                                        //helper classes
+                                        var loader = {};
+                                        loader.maxHeight = dim['max-height'];
+                                        loader.maxWidth = dim['max-width'];
+                                        loader.containerId = popupId;
+                                        loader.iframe = null; //handle for last loaded frame : should be public
+                                        //main facade
+                                        loader.load = function (ind, uniqueUrl,callback) {
+                                            var iframe = null;
+                                            var inView = jQuery("#"+loader.containerId+" .loader__preload");
+                                            if (inView.hasClass(loader.hashCode(uniqueUrl)) && inView.filter("."+loader.hashCode(uniqueUrl)).is(":visible")) {
+                                                loader.iframe = inView.filter("."+loader.hashCode(uniqueUrl));
+                                                callback.apply(null, [null])
+                                                return;
+                                            }
+                                            inView.hide();
+                                            if (inView.filter(".loader_iframe_"+loader.hashCode(uniqueUrl)).length > 0) {
+                                                //incacche
+                                                //inView.filter("."+loader.hashCode(uniqueUrl)).fadeIn(200); //potential optional settings; will show on the callback instead
+                                                loader.iframe = inView.filter(".loader_iframe_"+loader.hashCode(uniqueUrl));
+                                                callback.apply(null, [null])
+                                                return;
+                                            }
+                                            loader.loadIframe(ind, uniqueUrl, callback, [null]);
+                                        }
+                                        loader.loadIframe =  function(ind, uniqueUrl, callback, cparam){
+                                            var iframe = jQuery('<div class="loader__preload"></div>');
+                                            iframe.attr('id', loader.hashCode(uniqueUrl)).attr('name',loader.hashCode(uniqueUrl));
+                                            iframe.css({'max-width':loader.maxWidth+'px', 'max-height':loader.maxHeight+'px','min-width':'200px', 'min-height':'200px', 'display':'none'});
+                                            iframe.addClass("loader_iframe_"+loader.hashCode(uniqueUrl));
+                                            jQuery.get(uniqueUrl, function(data){
+                                                var div = loader.getData(jQuery(data), ind);
+                                                iframe.append(div);
+                                                //iframe.append(jQuery(data).find(".pi__main_div"));
+                                                //jQuery("#"+loader.containerId).remove("div#"+loader.hashCode(uniqueUrl));
+                                                jQuery("#"+loader.containerId).append(iframe);
+                                                loader.formatList(iframe, ind);
+                                                loader.iframe = iframe;
+                                                callback.apply(loader, cparam);
+                                            });
+                                        }
+                                        loader.loadIframe_iframe =  function(uniqueUrl, callback, cparam){
+                                            var iframe = jQuery('<iframe src="/blank.html" class="loader__preload" frameborder="0"></iframe>');
+                                            iframe.attr('id', loader.hashCode(uniqueUrl)).attr('name',loader.hashCode(uniqueUrl));
+                                            iframe.css({'max-width':loader.maxWidth+'px', 'max-height':loader.maxHeight+'px','min-width':'200px', 'min-height':'200px', 'display':'none'});
+                                            iframe.addClass("loader_iframe_"+loader.hashCode(uniqueUrl));
+                                            iframe.css("display","none")
+                                            //define the load event
+                                            iframe.bind("load", function(){
+                                                loader.iframe = jQuery(this);
+                                                callback.apply(loader, cparam);
+                                            });
+                                            //                                     iframe.attr("src", uniqueUrl);
+                                            jQuery("#"+loader.containerId).append(iframe);
+                                            setTimeout(function() {
+                                                iframe.attr("src", uniqueUrl);   
+                                            }, 0);
+                                                                       
+                                        }
+                                
+                                        loader.hashCode = function(str){
+                                            var hash = 0;
+                                            if (str.length == 0) return hash;
+                                            for (i = 0; i < str.length; i++) {
+                                                char = str.charCodeAt(i);
+                                                hash = ((hash<<5)-hash)+char;
+                                                hash = hash & hash; // Convert to 32bit integer
+                                            }
+                                            return hash;
+                                        }
+                                        loader.getData = function(obj, ind ) {
+                                            try{
+                                                return obj.find(".pi__anchor[name='"+ind+"'] ~ div").first();    
+                                            }catch (e) {
+                                                //alert(e);
+                                            }
+                                        }
+                                        loader.formatList = function(obj, ind){
+                                            try {
+                                                var _dhis = obj;
+                                                _dhis.find('.pi__link_group').append(jQuery('<div />').css({'clear':'both'}));
+                                                var grl = _dhis.find('.pi__link_group').find('.pi__group').length
+                                                var elems = _dhis.find('.pi__link_group').find('.pi__group').find('.pi__link').length
+                                                if (_dhis.find('.pi__link_group').find('.pi__group').find('.col__list').length > 0)  {
+                                                    _dhis.find('.pi__link_group').find('.pi__group').find('.col__list').css({'text-indent':'10px'});
+                                                }
+                                                if (_dhis.find('.pi__link_group').find('.pi__group').find('.collection').length > 0)  {
+                                                    _dhis.find('.pi__link_group').find('.pi__group').find('.collection').css({'font-size':'12px'});
+                                                }
+                                                var im = 0;
+                                                if (_dhis.find('.pi__image_url').length>0) {
+                                                    im = 150;
+                                                }
+                                                var pwidth = 0;
+                                                if (elems > 80) {
+                                                    pwidth = grl * 180;
+                                                } else {
+                                                    pwidth = grl * 190;
+                                                }
+                                                _dhis.find('.pi__link_group').css({'width':(( grl * 205 )+ im) + 'px'});
+                                                _dhis.find('.pi__link_group').css({'width':( pwidth ) + 'px'});
+                                            } catch (e) {
+                                                alert(e);
+                                            }                                                                        
+                                        }
+                                        loader.autoResize = function(obj){
+                                            //obj.get(0).height= 370 + 5 + "px";
+                                            //obj.get(0).width= 800 + 5 + "px";    
+                                            try {
+                                                //setTimeout(function(){
+                                                var innerDoc = (obj.get(0).contentDocument) ? obj.get(0).contentDocument : obj.get(0).contentWindow.document;
+                                                var newheight= 0; 
+                                                var newwidth = 0;
+                                                                                        
+                                                var mainDiv = jQuery(innerDoc.body).find('.pi__main_div')
+                                                if (mainDiv.length >0) {
+                                                    newwidth = mainDiv.width();
+                                                    newheight= mainDiv.height();
+                                                } else {
+                                                    newheight= innerDoc.body.scrollHeight;
+                                                    newwidth = innerDoc.body.scrollWidth;
+                                                    if (jQuery.browser.mozilla) {
+                                                        var children = innerDoc.body.childNodes;
+                                                        for(var i=0;i<children.length;i++){
+                                                            if(children[i].offsetWidth && children[i].offsetWidth>newwidth) newwidth = children[i].offsetWidth;
+                                                        }
+                                                                                                        
+                                                    }
+                                                }
+                                                                                        
+                                                newheight = (newheight<loader.maxHeight)? newheight:loader.maxHeight;
+                                                newwidth = (newwidth<loader.maxWidth)? newwidth:loader.maxWidth;
+                                                obj.get(0).height= (newheight) + 5 + "px";
+                                                obj.get(0).width= (newwidth) + 5 + "px";
+                                                                                        
+                                            } catch(e) {
+                                                obj.get(0).height= 370 + 5 + "px";
+                                                obj.get(0).width= 800 + 5 + "px";      
+                                            } 
+                                        }                   
+                                                                   
+                                                                   
+                                        // main classes
+                                        var indexer = {};
+                                        //main attributes
+                                        indexer._parent = jQuery(this);
+                                        indexer._source = jQuery(this).find(source);
+                                        indexer._labels = jQuery(this).find(labels);
+                                        indexer.popupId = popupId;
+                                        indexer.header = jQuery('<div />').css({'float':'left'}).addClass('idx__header').append(header);
+                                        indexer.main = jQuery('<div></div>').addClass('idx__main').css({'position':'relative'});
+                                        indexer.contentTargetPopup = jQuery('<div></div>').attr('id', indexer.popupId).css({'display':'none'});
+                                        indexer.loading = jQuery('<div></div>').addClass("idx__loading").append("Loading...");
+                                                                   
+                                        indexer.contentTargetPopup.hover(function(){
+                                        }, function(){
+                                            jQuery(this).slideUp(100, 'easeOutCirc');
+                                            jQuery('#idx_static_fat').remove();
+                                        });
+                                        jQuery('html, body').bind('click', function(){
+                                            indexer.contentTargetPopup.trigger('mouseout');
+                                        });
+                                        indexer.potTime = 0;
+                                        indexer.main.hover( function(){
+                                            clearTimeout(indexer.potTime);
+                                        } , function() {
+                                            clearTimeout(indexer.potTime);
+                                            indexer.potTime = setTimeout(function(){
+                                                //indexer.contentTargetPopup.trigger('mouseout');
+                                            },1000)
+                                        })
+                                        //main behavior
+                                        indexer.createElement = function(elem, behavior) {
+                                            var div;
+                                            if (elem.text()=='#') {
+                                                var div = jQuery('<div></div>').css({'display':'none'}).addClass('idx__element');
+                                            } else {
+                                                var div = jQuery('<div></div>').css({'float':'left'}).addClass('idx__element');
+                                            }                                                                               
+                                            var ul = jQuery('<div />')
+                                            var li = jQuery('<span class="idx__label_bullet" />').css({'margin-left':'0px'});
+                                            li.prepend(jQuery('<span />').addClass("pi__dot").append("."))
+                                            li.append(jQuery('<span class="idx__label_span" />').append(elem.text()));
+                                            li.css({'width':'20px'});
+                                            li.css({'padding': '0', 'margin': '0px 0px 0px 0px'})
+                                            ul.append(li);
+                                            var link = jQuery('<a class="atoz"></a>').attr('href','javascript:void(0)').attr("name", "Index-" +elem.text()).bind('click', behavior).append(li);
+                                            div.append(link); 
+                                            return div;
+                                        }
+                                        indexer.wasClicked = function(obj){
+                                            obj.unbind("mouseover");
+                                            obj.bind("mouseover", function() {
+                                                jQuery(this).trigger("click");
+                                            })
+                                        }
+                                        indexer.create = function() {
+                                            indexer._source.hide();
+                                            indexer.main.append(indexer.contentTargetPopup);
+                                            indexer.main.append(indexer.loading);
+                                            indexer.loading.hide();
+                                            indexer._parent.append(indexer.main);
+                                            indexer.main.append(indexer.header);
+                                            indexer.main.append(jQuery('<div />').css({'float':'left'}).addClass('idx__spacer').append(jQuery('<div />').addClass('idx__arrow_right')).append(jQuery('<div />').addClass('idx__arrow_right_shadow')));
+                                            indexer._labels.each(function(){
+                                                //create an element
+                                                var _self = jQuery(this);
+                                                var element = indexer.createElement(_self, function(event){
+                                                    jQuery('#idx_static_fat').remove();
+                                                    var href = _self.attr('href');
+                                                    var indexValue = jQuery.trim(_self.text());
+                                                    //do what you need
+                                                    if (href == undefined) {
+                                                        indexer.contentTargetPopup.hide();
+                                                        indexer.loading.css({'position':'absolute', 'top':element.position().top+40+'px', 'left':element.position().left}).show();
+                                                        var content = _self.parent().find('div :first').clone();
+                                                        if (content.length > 0) {
+                                                            jQuery('.loader__preload').hide();
+                                                            content.hide();
+                                                            content.attr('id', 'idx_static_fat');
+                                                            indexer.contentTargetPopup.append(content);
+                                                            indexer.loading.hide();
+                                                            content.show();
+                                                            var o_pos= element.position();
+                                                            var pos = indexer.getVisibleRelativePosition(o_pos, content.width(), content.height());
+                                                            indexer.contentTargetPopup.slideDown(0, 'swing', function() {
+                                                                indexer.contentTargetPopup.addClass("idx__popup").css({'position':'absolute', 'top':(pos.top)+'px', 'left':(pos.left)+'px'});  
+                                                                indexer.triggerEvent(_self.attr('oncomplete'));
+                                                            });
+                                                        }
+                                                    } else {
+                                                        if (href != undefined) {
+                                                            var scheme = 'https:'==document.location.protocol?'https://':'http://';
+                                                            var port = document.location.port;
+                                                            var host = window.document.location.host;
+                                                            //href = scheme + host + href;
+                                                            indexer.contentTargetPopup.hide();
+                                                            indexer.loading.css({'position':'absolute', 'top':element.position().top+40+'px', 'left':element.position().left+"px"});
+                                                            indexer.loading.show()
+                                                            //fetch content
+                                                            loader.load(indexValue, href, function(){
+                                                                //indexer.loading.hide();
+                                                                jQuery(".loader__preload").hide();
+                                                                indexer.contentTargetPopup.addClass("idx__popup").css({'position':'absolute'});
+                                                                //show iframe
+                                                                var o_pos= element.position();
+                                                                //need this done before sliding down
+                                                                if (loader.iframe.length > 1 ) {
+                                                                    var ii = 0;  
+                                                                    loader.iframe.each(function(){
+                                                                        if (ii>0) {
+                                                                            jQuery(this).remove();
+                                                                        }
+                                                                        ii++;
+                                                                    });
+                                                                }
+                                                                loader.iframe.show();
+                                                                //setTimeout(function(){
+                                                                indexer.contentTargetPopup.show(0, 'easeOutCubic', function() {
+                                                                    //loader.autoResize(loader.iframe);
+                                                                    var pos = indexer.getVisibleRelativePosition(o_pos, loader.iframe.width(), loader.iframe.height());
+                                                                    indexer.contentTargetPopup.addClass("idx__popup").css({'position':'absolute', 'top':(pos.top)+'px', 'left':(pos.left)+'px'});
+                                                                    indexer.triggerEvent(_self.attr('oncomplete'));
+                                                                    indexer.loading.hide();
+                                                                    //indexer.wasClicked(jQuery(".idx__element a[name^='Index-']"));
+                                                                });
+                                                                //}, 500);
+                                                            });
+                                                        }
+                                                    }
+                                                    indexer.triggerEvent(_self.attr('onclick'));
+                                                    return false;
+                                                });
+                                                element.bind("mouseover", function() {
+                                                    indexer.triggerEvent(_self.attr('onmouseover'));
+                                                })
+                                                element.bind("mouseout", function() {
+                                                    indexer.triggerEvent(_self.attr('onmouseout'));
+                                                })
+                                                indexer.main.append(element);
+                                            });
+                                            indexer.main.append(jQuery('<div style="clear:both"/>'))
+                                        }
+                                        indexer.triggerEvent = function(clickevent) {
+                                            if (clickevent != undefined) {
+                                                (function() {
+                                                    jQuery.globalEval(clickevent) 
+                                                }).call(this);
+                                            }
+                                        }
+                                        indexer.getVisibleRelativePosition = function(pos, w, h) {
+                                            var ret = {};
+                                            var l = pos.left;
+                                            var t = pos.top;
+                                            var viewableTop = jQuery("body").scrollTop();
+                                            //var vw = window.innerHeight || document.documentElement.clientHeight;
+                                            var vw = indexer.main.height();
+                                            var viewableBottom = vw + jQuery("body").scrollTop();
+                                            var viewableLeft = jQuery("body").scrollLeft();
+                                            //var vt = window.innerWidth || document.documentElement.clientWidth;
+                                            var vt = indexer.main.width();
+                                            var viewableRight = vt + jQuery("body").scrollLeft();
+                                            if (l+w > viewableRight ) {
+                                                //adjust the pos
+                                                ret.left = viewableRight-w -15;
+                                            }  else {
+                                                ret.left = l;
+                                            }
+                                            //if (t+h>viewableBottom) {
+                                            //make it appear on top
+                                            //  ret.top = viewableBottom - t - 40 - 20 - h;
+                                            //} else {
+                                            ret.top = t + 27;
+                                            //}
+                                            return ret;
+                                        }
+                                        indexer.create();
+                                    });
+                                }
+                                                  
+                                                  
+                                jQuery('.dd_panel').indexList({
+                                    headerSelector:'.idx_header',
+                                    labelSelector:'.idx_label',
+                                    sourceSelector:'.idx_source',
+                                    dim:{'max-width':'1000', 'max-height':'500'}
+                                })
+
+				$( "#topnavmenu li" ).hover(
+                                     function() {
+                                     $( this ).trigger("click");
+                                     }
+                                    );
+                                                                     
+                                 $( ".atoz" ).hover(
+                                 function() {
+                                 $( this ).trigger("click");
+                                 }
+                                 );
+
+                            })();
+                                                               
+                            //});
+                            //
+                            //]]>
+                    </script>
+                </div>
+            </center>
+        </div>
+        
+        <script type="text/javascript">//<![CDATA[
+            //
+            try {
+                //(function(){
+                jQuery(document).ready(function(){                                                                                              
+                    var scheme = 'https:'==document.location.protocol?'https://':'http://';
+                    var port = document.location.port;
+                    var host = window.document.location.host;
+                    var t = (new Date()).getTime();
+                    var vloc = "/header_freesample_loggedin_true.html";                                               
+                    var isframe = jQuery.find('.feature-frame').length;                                             
+                    if (isframe > 0) {                                                              
+                        jQuery('.feature-frame').attr('src',vloc);                                                      
+                    }                                               
+                    //jQuery.get(scheme+"www.branders.compages/includes/non-cache-pages/28338/userinfo.action?viewid=/pages/home.jspx&t="+t, function(data){
+                        //var ddata = jQuery('<div>'+data+'</div>');
+                        //jQuery(".topmostheader-div").append(ddata.find('.hwdiv'));
+                        //jQuery(".customized-header-div").append(ddata.find('.hcdiv'));
+                       // jQuery(".phoneheader-div").append(ddata.find('.hpdiv'));
+                        //jQuery(".customizedBanner").css("background-image","url('"+ ddata.find('.customizedBanner').text() +"')")
+                        //setTimeout(function() {
+                            //cssdropdown.startchrome("chrommenu");   
+                        //}, 100)
+                    //}, "text");                                                                     
+                })
+                //})();
+            } catch (e) {
+                //alert (e)
+            }
+            //
+            //]]>
+        </script>
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/dm_merged_css_29012014.css?v=24">
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<style>
+.catBannerDiv{
+	width:960px;
+	margin:7px auto;
+}
+</style>
+
+<link rel="stylesheet" href="/css/font-awesome.css">
+<link rel="stylesheet" href="/css/font-awesome-ie7.css">
+
+
+
+
+
+<link rel="stylesheet" id="arpw-style-css" href="/wp/css/arpw-frontend.css" type="text/css" media="all">
+<link rel="stylesheet" id="cptch_stylesheet-css" href="/wp/css/style.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="/wp/css/styles.css?ver=4.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="dot-irecommendthis-css" href="/wp/css/dot-irecommendthis-heart.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="ac_style-css" href="/wp/css/style.css?ver=1.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="ac_icons-css" href="/wp/css/font-awesome.min.css?ver=4.1.0" type="text/css" media="all">
 <link rel="stylesheet" id="ac_webfonts_style1-css" href="//fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CQuestrial%7CArimo%3A400%2C700%7CSource+Sans+Pro%3A400%2C700%2C400italic%2C700italic" type="text/css" media="all">
-<script type="text/javascript" src="http://www.branders.com/content/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
-<script type="text/javascript" src="http://www.branders.com/content/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.branders.com/content/wp-content/themes/justwrite/assets/js/html5.js?ver=1.0"></script>
-<meta name="generator" content="WordPress 4.0">
+
       <!-- Customizer - Saved Styles--> 
       <style type="text/css">
-		a, a:visited, .kk, .share-pagination .title i{color:#218026;}a:hover{color:#000000;}abbr[title], .back-to-top, .close-browse-by, .tagcloud a:hover, .comment-main .comment-reply-link{border-color:#218026;}.ac-popular-posts .the-percentage, .slider .category, .post-thumbnail .sticky-badge, .post-format-icon, button, .contributor-posts-link, input[type="button"], input[type="reset"], input[type="submit"]{background-color:#218026;}.menu-main .sub-menu a{color:#218026;}		      </style> 
+		a, a:visited, .kk, .share-pagination .title i{color:#218026;}a:hover{color:#000000;}abbr[title], .back-to-top, .close-browse-by, .tagcloud a:hover, .comment-main .comment-reply-link{border-color:#218026;}.ac-popular-posts .the-percentage, .slider .category, .post-thumbnail .sticky-badge, .post-format-icon, button, .contributor-posts-link, input[type="button"], input[type="reset"]{background-color:#218026;}.menu-main .sub-menu a{color:#218026;}		      </style> 
       <!-- END Customizer - Saved Styles -->
       
 <style type="text/css"></style>
@@ -68,116 +952,32 @@ only screen and (min-resolution: 192dpi) {
 	}
 }
 </style>
-</head>
-
-<body class="single single-post postid-43 single-format-standard">
 
 
-<header id="main-header" class="header-wrap">
 
-<div class="wrap">
 
-	<div class="top mini-disabled">
-    
-    	<div class="logo">
-        	<a href="http://www.branders.com/content" title="Brand Builders" class="logo-contents">Brand Builders</a>
-                        <h2 class="description">Official Blog of The World's Largest Promotional Products Store</h2>
-                    </div><!-- END .logo -->
-        
-                
-    </div><!-- END .top -->
-    
-    <nav class="menu-wrap mini-disabled" role="navigation">
-		<ul class="menu-main mobile-menu superfish"><li id="menu-item-6605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6605"><a title="Branders.com Promotional Items" href="http://www.branders.com/">Shop Promotional Products</a></li>
-<li id="menu-item-6608" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6608"><a href="http://www.branders.com/content/blog">Read our Blog</a>
-<ul class="sub-menu">
-	<li id="menu-item-6610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6610"><a href="http://www.branders.com/content/brand-aide">Brand Aide</a></li>
-	<li id="menu-item-6611" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6611"><a href="http://www.branders.com/content/bits">Branders Bits</a></li>
-	<li id="menu-item-6612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6612"><a href="http://www.branders.com/content/digest">Branders Business Digest</a></li>
-	<li id="menu-item-6617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6617"><a href="http://www.branders.com/content/spotlight">Branders Spotlight</a></li>
-	<li id="menu-item-6620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6620"><a href="http://www.branders.com/content/event-planning-tips">Event and Planning Tips</a></li>
-	<li id="menu-item-6622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6622"><a href="http://www.branders.com/content/videos">Latest Videos</a></li>
-	<li id="menu-item-6623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6623"><a href="http://www.branders.com/content/press">Press Releases</a></li>
-	<li id="menu-item-6624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6624"><a href="http://www.branders.com/content/stories">Success Stories</a></li>
-	<li id="menu-item-6626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6626"><a href="http://www.branders.com/content/office">The Office</a></li>
-	<li id="menu-item-8653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8653"><a href="http://www.branders.com/content/wedding-favor-ideas">Wedding Favor Ideas</a></li>
-	<li id="menu-item-6627" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6627"><a href="http://www.branders.com/content/papers">White Papers</a></li>
-</ul>
-</li>
-<li id="menu-item-6606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6606"><a href="http://www.branders.com/content/pages/about-branders-promotional-products.htm">About Branders.com</a></li>
-<li id="menu-item-6607" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-6607"><a href="http://www.branders.com/content/pages/faqs.htm">FAQs</a>
-<ul class="sub-menu">
-	<li id="menu-item-6628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6628"><a href="http://www.branders.com/content/pages/shipping.htm">Shipping Information</a></li>
-	<li id="menu-item-6696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6696"><a href="http://www.branders.com/content/pages/copyright.htm">Copyright Information</a></li>
-	<li id="menu-item-6629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6629"><a href="http://www.branders.com/content/pages/returns.htm">Returns Policy</a></li>
-	<li id="menu-item-6630" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-6630"><a href="http://www.branders.com/content/pages/privacy-policy.htm">Privacy Policy</a></li>
-	<li id="menu-item-6631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6631"><a href="http://www.branders.com/content/pages/terms-conditions.htm">Terms &amp; Conditions</a></li>
-	<li id="menu-item-6692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6692"><a href="http://www.branders.com/content/pages/glossary.htm">Glossary of Terms</a></li>
-</ul>
-</li>
-<li id="menu-item-6609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6609"><a href="http://www.branders.com/content/pages/contact.htm">Contact Us</a>
-<ul class="sub-menu">
-	<li id="menu-item-7352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7352"><a href="mailto:BrandersService@branders.com">EMAIL CUSTOMER SERVICE</a></li>
-	<li id="menu-item-6787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6787"><a href="mailto:marketing@branders.com?subject=Contribute%20to%20Branders">CONTRIBUTE AN ARTICLE</a></li>
-</ul>
-</li>
-<li id="menu-item-6632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6632"><a href="http://#">BranderSpecials</a>
-<ul class="sub-menu">
-	<li id="menu-item-6635" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6635"><a title="Subscribe to our Newsletter" href="http://oi.vresp.com/?fid=cd73185bde">SUBSCRIBE TO OUR NEWSLETTER</a></li>
-	<li id="menu-item-6634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6634"><a href="http://www.branders.com/content/branderspecials/brandeal-of-the-day.htm">BranDeal of the Day</a></li>
-	<li id="menu-item-6633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6633"><a href="http://www.branders.com/content/branderspecials/value-pick-of-the-week.htm">Value Pick of the Week</a></li>
-	<li id="menu-item-6992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6992"><a href="http://www.branders.com/content/branderspecials/throwback-thursday.htm">Throwback Thursday</a></li>
-	<li id="menu-item-6993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6993"><a href="http://www.branders.com/content/branderspecials/friday-flash-sale.htm">Friday Flash Sale</a></li>
-</ul>
-</li>
-</ul>        
-        <a href="#" class="mobile-menu-button"><i class="fa fa-bars"></i> </a>
-                <a href="#" class="search-button"><i class="fa fa-search"></i> </a>
-        
-        <ul class="header-social-icons clearfix">
-						<li><a href="https://twitter.com/branderscom" class="social-btn left twitter"><i class="fa fa-twitter"></i> </a></li>			<li><a href="https://www.facebook.com/branderscom" class="social-btn right facebook"><i class="fa fa-facebook"></i> </a></li>			<li><a href="https://plus.google.com/+BrandersPromotionalProducts" class="social-btn left google-plus"><i class="fa fa-google-plus"></i> </a></li>			<li><a href="http://www.branders.com/content/feed" class="social-btn right rss"><i class="fa fa-rss"></i> </a></li>
-        </ul><!-- END .header-social-icons -->
-        
-        <div class="search-wrap nobs">
-        	<form role="search" id="header-search" method="get" class="search-form" action="http://www.branders.com/content/">
-            	<input type="submit" class="search-submit" value="Search">
-            	<div class="field-wrap">
-					<input type="search" class="search-field" placeholder="type your keywords ..." value="" name="s" title="Search for:">
-				</div>
-			</form>
-        </div><!-- END .search-wrap -->
-        
-    </nav><!-- END .menu-wrap -->
-    
-</div><!-- END .wrap -->
 
-</header><!-- END .header-wrap -->
-
-<div class="wrap mini-disabled" id="content-wrap">  
+<div class="wrap mini-disabled" id="content-wrap" style="width:1000px;margin:0 auto;">  
 <section class="container mini-disabled clearfix">
 	
     
     
     <div class="wrap-template-1 clearfix">
     
-    <section class="content-wrap clearfix" role="main">
+    <section class="content-wrap clearfix" role="main" style="width: 100%; float: left;">
     
     	<section class="posts-wrap single-style-template-1 clearfix">
         
         
 <article id="post-43" class="post-43 post type-post status-publish format-standard hentry category-pages single-template-1 clearfix">
 	<div class="post-content">
-    	<h2 class="title">Privacy Policy</h2>        <header class="details clearfix">
-        	<time class="detail left index-post-date" datetime="2011-01-28">Jan 28, 2011</time>
-			<span class="detail left index-post-author"><em>by</em> <a href="http://www.branders.com/content/author/admin" title="Posts by Branders.com" rel="author">Branders.com</a></span>
-			<span class="detail left index-post-category"><em>in</em> <a href="http://www.branders.com/content/pages" title="View all posts in Support Pages">Support Pages</a> </span>
-        </header><!-- END .details -->
+    	<h2 class="title">Privacy Policy</h2>       
         		<div class="single-content">
 			<p>Branders.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.By visiting Branders.com, you are accepting the practices described in this Privacy Notice.</p>
 <p><strong>What Personal Information About Customers Does Branders.com Gather?</strong><br>
 The information we learn from customers helps us personalize and continually improve your shopping experience at Branders.com. Here are the types of information we gather.</p>
 <ul>
-<p>You might also like : <a href="http://www.branders.com/category/advertising-giveaways/" target="_blank" rel="nofollow">promotional advertising items</a>, <a href="http://www.branders.com/category/custom-sweatpants/" target="_blank" rel="nofollow">customised sweatpant</a>, <a href="http://www.branders.com/category/custom-sunglasses/" target="_blank" rel="nofollow">wholesale sunglass</a></p>
+<p>You might also like : <a href="http://www.branders.com/category/advertising-giveaways/">promotional advertising items</a>, <a href="http://www.branders.com/category/custom-sweatpants/">customised sweatpant</a>, <a href="http://www.branders.com/category/custom-sunglasses/">wholesale sunglass</a></p>
 <li><strong>Information You Give Us:</strong> We receive and store any information you enter on our Web site or give us in any other way. Branders.com is in the practice of collecting the following information: phone, email, company name, quotes, projects, and order information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide exclusively for the purpose of responding to your requests and communicating with you.</li>
 <li><strong>Automatic Information:</strong> We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses Branders.com. The automatic information we receive and store is: user login and password. Although we will not be able to provide you with a personalized experience at Branders.com if we cannot recognize you, we want you to be aware that these tools exist.</li>
 <li><strong>E-mail Communications:</strong> Your email address is used by Branders.com exclusively to communicate new products and services and special offers that are available to you, to communicate to you regarding your order or potential order, and/or to notify you of material changes to Branders.com privacy policy. If you do not want to receive e-mail or other mail from us, please adjust your My Accounts Page.</li>
@@ -209,218 +1009,278 @@ Branders.com gives you access to all personal and/or company information about y
 </ul>
 <p><strong>Conditions of Use, Notices, and Revisions</strong><br>
 If you choose to visit Branders.com, your visit and any dispute over privacy is subject to this Notice. If you have any concern about privacy at Branders.com, please contact us with a thorough description, and we will try to resolve it.</p>
-<p>Other products we also recommend : <a href="http://www.branders.com/category/custom-sunglasses/" target="_blank" rel="nofollow">business logo on sunglasses</a>, <a href="http://www.branders.com/category/logo-toys-and-games/" target="_blank" rel="nofollow">marketing toys</a></p>
+<p>Other products we also recommend : <a href="http://www.branders.com/category/custom-sunglasses/">business logo on sunglasses</a>, <a href="http://www.branders.com/category/logo-toys-and-games/">marketing toys</a></p>
 <p>Our business changes constantly and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.</p>
 <p><em>This Privacy Policy has been in effect since January 1, 2001</em></p>
-Share this page <div class="synved-social-container synved-social-container-share" style="text-align: left"><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-normal synved-social-provider-facebook" data-provider="facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;t=Privacy%20Policy&amp;s=100&amp;p[url]=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;p[images][0]=&amp;p[title]=Privacy%20Policy" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="facebook" title="Share on Facebook" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/facebook.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-normal synved-social-provider-twitter" data-provider="twitter" target="_blank" rel="nofollow" title="Share on Twitter" href="http://twitter.com/share?url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;text=Hey%20check%20this%20out" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="twitter" title="Share on Twitter" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/twitter.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-normal synved-social-provider-google_plus" data-provider="google_plus" target="_blank" rel="nofollow" title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="google_plus" title="Share on Google+" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/google_plus.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-normal synved-social-provider-reddit" data-provider="reddit" target="_blank" rel="nofollow" title="Share on Reddit" href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;title=Privacy%20Policy" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="reddit" title="Share on Reddit" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/reddit.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-normal synved-social-provider-pinterest" data-provider="pinterest" target="_blank" rel="nofollow" title="Pin it with Pinterest" href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;media=&amp;description=Privacy%20Policy" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="pinterest" title="Pin it with Pinterest" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/pinterest.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-normal synved-social-provider-linkedin" data-provider="linkedin" target="_blank" rel="nofollow" title="Share on Linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;title=Privacy%20Policy" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="linkedin" title="Share on Linkedin" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/linkedin.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-normal synved-social-provider-mail" data-provider="mail" rel="nofollow" title="Share by email" href="mailto:?subject=Privacy%20Policy&amp;body=Hey%20check%20this%20out:%20http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;"><img alt="mail" title="Share by email" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/64x64/mail.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-hidef synved-social-provider-facebook" data-provider="facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;t=Privacy%20Policy&amp;s=100&amp;p[url]=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;p[images][0]=&amp;p[title]=Privacy%20Policy" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="facebook" title="Share on Facebook" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/128x128/facebook.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-hidef synved-social-provider-twitter" data-provider="twitter" target="_blank" rel="nofollow" title="Share on Twitter" href="http://twitter.com/share?url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;text=Hey%20check%20this%20out" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="twitter" title="Share on Twitter" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/128x128/twitter.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-hidef synved-social-provider-google_plus" data-provider="google_plus" target="_blank" rel="nofollow" title="Share on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="google_plus" title="Share on Google+" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/128x128/google_plus.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-hidef synved-social-provider-reddit" data-provider="reddit" target="_blank" rel="nofollow" title="Share on Reddit" href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;title=Privacy%20Policy" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="reddit" title="Share on Reddit" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/128x128/reddit.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-hidef synved-social-provider-pinterest" data-provider="pinterest" target="_blank" rel="nofollow" title="Pin it with Pinterest" href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;media=&amp;description=Privacy%20Policy" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="pinterest" title="Pin it with Pinterest" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/128x128/pinterest.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-hidef synved-social-provider-linkedin" data-provider="linkedin" target="_blank" rel="nofollow" title="Share on Linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm&amp;title=Privacy%20Policy" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;margin-right:10px;"><img alt="linkedin" title="Share on Linkedin" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/128x128/linkedin.png"></a><a class="synved-social-button synved-social-button-share synved-social-size-64 synved-social-resolution-hidef synved-social-provider-mail" data-provider="mail" rel="nofollow" title="Share by email" href="mailto:?subject=Privacy%20Policy&amp;body=Hey%20check%20this%20out:%20http%3A%2F%2Fwww.branders.com%2Fcontent%2Fpages%2Fprivacy-policy.htm" style="font-size: 0px; width:64px;height:64px;margin:0;margin-bottom:10px;"><img alt="mail" title="Share by email" class="synved-share-image synved-social-image synved-social-image-share" width="64" height="64" style="display: inline; width:64px;height:64px; margin: 0; padding: 0; border: none; box-shadow: none;" src="http://www.branders.com/content/wp-content/plugins/social-media-feather/synved-social/image/social/regular/128x128/mail.png"></a></div>		</div><!-- END .single-content -->
-	</div><!-- END .post-content -->
-</article><!-- END #post-43 .post-template-1 -->
-        
-        </section><!-- END .posts-wrap -->
-        
-        <section class="about-share clearfix">
-        
-        	<div class="as-wrap clearfix">
-            	
-                <aside class="share-pagination clearfix">
-                    
-                    <div class="post-navigation clearfix"><a href="http://www.branders.com/content/pages/copyright.htm" class="prev-post" title="Previous Post"><i class="fa fa-angle-left"></i> </a><a href="http://www.branders.com/content/pages/glossary.htm" class="next-post" title="Next Post"><i class="fa fa-angle-right"></i> </a></div>                    
-                    <div class="clear-border"></div>
-                </aside><!-- END .share-pagination -->
-                
-               	
-<aside class="about-the-author clearfix">
-	<h2 class="title"><span class="about-inner">About the author</span> <span class="author">Branders.com</span></h2>
-	<div class="ata-wrap clearfix">
-		<figure class="avatar-wrap">
-			<img alt="" src="http://0.gravatar.com/avatar/2012f3e659c7b1d7696f55b13b9a0b44?s=58&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D58&amp;r=G" class="avatar avatar-58 photo" height="58" width="58">					</figure>
-		<div class="info">
-			Founded in 1999, Branders.com is the FIRST and LARGEST online seller of promotional items. We guarantee our prices to be the lowest and we have a 100% satisfaction guarantee.		</div>
-	</div>
-                    
-	<div class="clear-border"></div>
-</aside><!-- END .about-the-author -->                
-            </div><!-- END .as-wrap -->
-        
-        </section><!-- END .about-share -->
-        
-        
-<section id="comments" class="comments-area">
-
-	
+</div></div></article>
+   </section>
+</section></div>
+</section></div>
+    
+    <div align="center" style="margin:0px; padding:0px;">
+    <div style="width:100%; background-color:#afafaf; margin-top:0px; background: url(http://www.branders.com/images/subcatbg.jpg) repeat scroll 0px -168px transparent;"><br>
+        <span id="j_id390">
+            <link rel="stylesheet" type="text/css" href="http://www.branders.com/css/footer_a.css"> 
+			<style type="text/css">
 			
-</section><!-- END #comments -->
+		</style>
+		<script>
+			$(function () {
+			//$('#back-top').fadeOut();
+			var mr = (($(window).innerWidth()-980)/2)-$('#back-top').width();
+			var mp = mr+'px';
+			
+			$('#back-top').css('right', mp);
+				$(window).scroll(function () {
+					if ($(this).scrollTop() > 100) {
+							$('#back-top').fadeIn();
+					} else {
+							$('#back-top').fadeOut();
+					}
+				});
 
-        
-    </section><!-- END .content-wrap -->
-    
-    
-<section class="sidebar posts-sidebar clearfix">
-	<aside id="ac_social_buttons_widget-2" class="side-box clearfix widget ac-social-buttons-widget"><div class="sb-content clearfix"><h3 class="sidebar-heading">Follow us on Social Media</h3>        
-        <ul class="sidebar-social clearfix">
-        	<li class="alignleft"><a href="https://twitter.com/branderscom" class="social-btn twitter">Twitter<i class="fa fa-twitter"></i> </a></li><li class="alignright"><a href="https://facebook.com/branderscom" class="social-btn facebook">Facebook<i class="fa fa-facebook"></i> </a></li><li class="alignleft"><a href="https://plus.google.com/+BrandersPromotionalProducts/posts" class="social-btn google-plus">Google+<i class="fa fa-google-plus"></i> </a></li><li class="alignright"><a href="http://www.branders.com/content/" class="social-btn rss">Blog<i class="fa fa-rss"></i> </a></li><li class="alignleft"><a href="https://www.youtube.com/user/branderscom" class="social-btn youtube">YouTube<i class="fa fa-youtube"></i> </a></li><li class="alignright"><a href="http://instagram.com/branderscom" class="social-btn instagram">Instagram<i class="fa fa-instagram"></i> </a></li><li class="alignleft"><a href="http://www.pinterest.com/branderscom/" class="social-btn pinterest">Pinterest<i class="fa fa-pinterest"></i> </a></li><li class="alignright"><a href="https://www.linkedin.com/company/branders.com" class="social-btn linkedin">LinkedIn<i class="fa fa-linkedin"></i> </a></li>        </ul>
-        
-        </div></aside><!-- END .sidebox .widget --><aside id="arpw_widget-2" class="side-box clearfix widget arpw_widget random-posts"><div class="sb-content clearfix">
-				<div id="ac_recent_posts_widget-2" class="arpw-block">
-					
-					<ul>
-
-						
-							<li class="arpw-clearfix">
-
-								
-								<h3 class="arpw-title">
-									<a href="http://www.branders.com/content/blog/campaign-giveaways-to-boost-your-political-candidate.htm" title="Permalink to Campaign Giveaways To Boost Your Political Candidate" rel="bookmark">Campaign Giveaways To Boost Your Political Candidate</a>
-								</h3>
-
-																	<span class="arpw-time">9 months ago</span>
-								
-								
-							</li>
-
-						
-							<li class="arpw-clearfix">
-
-								
-								<h3 class="arpw-title">
-									<a href="http://www.branders.com/content/blog/ideal-tools-of-the-novel-writing-trade.htm" title="Permalink to Ideal Tools Of The Novel Writing Trade" rel="bookmark">Ideal Tools Of The Novel Writing Trade</a>
-								</h3>
-
-																	<span class="arpw-time">9 months ago</span>
-								
-								
-							</li>
-
-						
-							<li class="arpw-clearfix">
-
-								
-								<h3 class="arpw-title">
-									<a href="http://www.branders.com/content/blog/success-story-casino-themed-wedding-party.htm" title="Permalink to Success story: Casino-themed wedding party" rel="bookmark">Success story: Casino-themed wedding party</a>
-								</h3>
-
-																	<span class="arpw-time">9 months ago</span>
-								
-								
-							</li>
-
-						
-							<li class="arpw-clearfix">
-
-								
-								<h3 class="arpw-title">
-									<a href="http://www.branders.com/content/blog/promotional-products-for-those-who-keep-it-cool.htm" title="Permalink to Promotional Products For Those Who Keep It Cool" rel="bookmark">Promotional Products For Those Who Keep It Cool</a>
-								</h3>
-
-																	<span class="arpw-time">9 months ago</span>
-								
-								
-							</li>
-
-						
-							<li class="arpw-clearfix">
-
-								
-								<h3 class="arpw-title">
-									<a href="http://www.branders.com/content/blog/say-thank-you-to-veterans-today.htm" title="Permalink to Say Thank-You to Veterans Today" rel="bookmark">Say Thank-You to Veterans Today</a>
-								</h3>
-
-																	<span class="arpw-time">9 months ago</span>
-								
-								
-							</li>
-
-						
-					</ul>
-
-				</div><!-- .arpw-block - http://wordpress.org/plugins/advanced-random-posts-widget/ -->
-
-			</div></aside><!-- END .sidebox .widget --><aside id="ac_recent_posts_widget-2" class="side-box clearfix widget ac_recent_posts_widget"><div class="sb-content clearfix"><h3 class="sidebar-heading">Recent Posts</h3>		<ul class="ac-recent-posts">
-						<li class="clearfix">
-								<figure class="thumbnail">
-					<img width="210" height="140" src="http://www.branders.com/content/wp-content/uploads/2014/11/Screen-shot-2012-11-02-at-1.51.52-PM-210x140.png" class="attachment-ac-sidebar-small-thumbnail wp-post-image" alt="Screen-shot-2012-11-02-at-1.51.52-PM">				</figure>
-								<div class="details">
-					<span class="category"><a href="http://www.branders.com/content/blog" title="View all posts in Blog">Blog</a> </span>
-					<a href="http://www.branders.com/content/blog/take-part-great-american-blowout.htm" class="title" rel="bookmark">Take part in the Great American Blowout!</a>					<a href="http://www.branders.com/content/blog/take-part-great-american-blowout.htm#comments" class="comments-number"></a>
-				</div>
-			</li>
-						<li class="clearfix">
-								<figure class="thumbnail">
-					<img width="210" height="140" src="http://www.branders.com/content/wp-content/uploads/2014/11/giveaways-21-210x140.jpg" class="attachment-ac-sidebar-small-thumbnail wp-post-image" alt="giveaways 2">				</figure>
-								<div class="details">
-					<span class="category"><a href="http://www.branders.com/content/event-planning-tips" title="View all posts in Event and Planning Tips">Event and Planning Tips</a> </span>
-					<a href="http://www.branders.com/content/event-planning-tips/choose-best-event-freebies.htm" class="title" rel="bookmark">How to Choose the Best Event Freebies?</a>					<a href="http://www.branders.com/content/event-planning-tips/choose-best-event-freebies.htm#comments" class="comments-number"></a>
-				</div>
-			</li>
-						<li class="clearfix">
-								<figure class="thumbnail">
-					<img width="210" height="140" src="http://www.branders.com/content/wp-content/uploads/2014/11/Thanks_banner-210x140.jpg" class="attachment-ac-sidebar-small-thumbnail wp-post-image" alt="Thanksgiving">				</figure>
-								<div class="details">
-					<span class="category"><a href="http://www.branders.com/content/bits" title="View all posts in Branders Bits">Branders Bits</a> </span>
-					<a href="http://www.branders.com/content/bits/thank-goodness-thanksgiving.htm" class="title" rel="bookmark">Thank Goodness for Thanksgiving!</a>					<a href="http://www.branders.com/content/bits/thank-goodness-thanksgiving.htm#comments" class="comments-number"></a>
-				</div>
-			</li>
-						<li class="clearfix">
-								<figure class="thumbnail">
-					<img width="210" height="140" src="http://www.branders.com/content/wp-content/uploads/2014/11/Android-iOS-Windows-Phone-flagship-devices-ft-210x140.jpg" class="attachment-ac-sidebar-small-thumbnail wp-post-image" alt="Android-iOS-Windows-Phone-flagship-devices-ft">				</figure>
-								<div class="details">
-					<span class="category"><a href="http://www.branders.com/content/brand-aide" title="View all posts in Brand Aide">Brand Aide</a> </span>
-					<a href="http://www.branders.com/content/brand-aide/business-smart-through-smartphones.htm" class="title" rel="bookmark">Get Business Smart Through Smartphones</a>					<a href="http://www.branders.com/content/brand-aide/business-smart-through-smartphones.htm#comments" class="comments-number"></a>
-				</div>
-			</li>
-						<li class="clearfix">
-								<figure class="thumbnail">
-					<img width="210" height="140" src="http://www.branders.com/content/wp-content/uploads/2014/11/customerretention-210x140.png" class="attachment-ac-sidebar-small-thumbnail wp-post-image" alt="customerretention">				</figure>
-								<div class="details">
-					<span class="category"><a href="http://www.branders.com/content/digest" title="View all posts in Branders Business Digest">Branders Business Digest</a> </span>
-					<a href="http://www.branders.com/content/digest/nurturing-existing-customers-key-growing-business.htm" class="title" rel="bookmark">Nurturing Existing Customers is The Key To Growing Your Business</a>					<a href="http://www.branders.com/content/digest/nurturing-existing-customers-key-growing-business.htm#comments" class="comments-number"></a>
-				</div>
-			</li>
-					</ul>
-		</div></aside><!-- END .sidebox .widget --><aside id="text-5" class="side-box clearfix widget widget_text"><div class="sb-content clearfix">			<div class="textwidget"><!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NBQP2T"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NBQP2T');</script>
-<!-- End Google Tag Manager -->
+				// scroll body to 0px on click
+				$('#back-top').click(function () {
+					$('body,html').animate({
+							scrollTop: 0
+					}, 800);
+					return false;
+			});
+			});
+			</script>
+			<div style="float:right;width:14px;">
+				<p id="back-top" style="display: none;">
+					<a href="#top"><span></span> &nbsp;</a>
+				</p>
+			</div>
+            <div class="xfootersection">
+                <div class="xmainfooter">
+                    <ul>
+                        <li><h4>COMPANY</h4></li>
+                        <li><a href="http://www.branders.com/nc/company-aboutus.php">• About Branders.com</a></li>
+                        <li><a href="http://www.branders.com/nc/faq.php">• FAQs</a></li>
+                        <li><a href="http://www.branders.com/content/pages/privacy-policy.htm">• Privacy Policy</a></li>
+                        <li><a href="http://www.branders.com/copyright.php">•  Copyright</a></li>
+                        <li><a href="http://www.branders.com/content/pages/contact.htm">•  Contact Branders.com</a></li>
+                    </ul>
+                    <!--<ul>
+                        <li><h4>DIRECTORY</h4></li>
+                        <li><a href="http://www.branders.com/nc/sitemap2.php">&#8226; Browse Site Map</a></li>
+                        <li><a href="http://www.branders.com/directory/category/a-1/">&#8226; View All Categories</a></li>
+                        <li><a href="http://www.branders.com/directory/product/a-1/">&#8226; View All Products</a></li>
+                        <li><a href="http://www.branders.com/directory/tag/a-1/">&#8226; View All Tags</a></li>
+                        <li><a href="http://www.branders.com/content/specials/">&#8226; BRANDERSpecials</a></li>
+                    </ul>-->
+                    <ul>
+                        <li><h4>QUICK LINKS</h4></li>
+                        <li><a href="http://www.branders.com/category/express24/">• Express24</a></li>
+                        <li><a href="http://www.branders.com/category/on-sale-items/">• On Sale Items</a></li>
+                        <li><a href="http://www.branders.com/category/best-buys/">• Best Buys</a></li>
+                        <li><a href="http://www.branders.com/category/top-sellers/">• Top Sellers</a></li>
+                        <li><a href="http://www.branders.com/category/new-products/">• New Items</a></li>
+                    </ul>
+                    <img src="http://www.branders.com/images/asi_ppai_ama_footer.png" style="float:left;border:0"> 
+                    <div style="width:100px;clear:both;margin-top:20px" class="xfloatleft">
+                        <iframe src="//seal-sanjose.bbb.org/logo/ruhzbus/iframe/branderscom-1000006828.html?newwindow=yes" width="100" height="45" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+                    </div>
+                    <div style="width:700px;margin-top:25px" class="xfloatleft">
+                        <img src="http://www.branders.com/images/footer_socialmedia.png" border="0" usemap="#map">
+                    </div>
+                    <div class="xfloatleft" style="width:147px;margin-top:20px;background:#ffffff;height:25px;margin-right:0;padding:5px;-moz-border-radius:5px;border-radius:5px;border:1px solid #999999;">
+                        <form method="post" id="subscribeFormBottom1" onsubmit="return chk_discountformbottom1();" action="#">
+                            <input name="email_address1" id="email_address1" value="Your Email" style="font-size:11px;border:1px solid #cccccc;float:left;width:60px;padding:2px"> 
+                            <input type="submit" name="j_id401" value="Subscribe" style="font-size:11px;float">
+                        </form>
+                    </div>
+                    <map name="Map" id="Map">
+                        <area shape="rect" coords="1,1,112,28" href="#" target="_blank" alt="Branders on Reseller Ratings"><area shape="rect" coords="119,2,220,28" href="https://facebook.com/branderscom" target="_blank" alt="Like us on Facebook"><area shape="rect" coords="225,0,340,28" href="https://twitter.com/branderscom" target="_blank" alt="Follow us on Twitter"><area shape="rect" coords="346,2,461,28" href="https://plus.google.com/+BrandersPromotionalProducts/" target="_blank" alt="Follow us on Google"><area shape="rect" coords="465,2,580,28" href="http://www.linkedin.com/company/branders.com" target="_blank" alt="Follow us on LinkedIn"><area shape="rect" coords="586,2,699,28" href="http://pinterest.com/branderscom/" target="_blank" alt="Follow us on Pinterest">
+                    </map>
+                </div>
+            </div>
+        </span>
+    </div>
 </div>
-		</div></aside><!-- END .sidebox .widget --><!-- END Sidebar Widgets -->
-</section><!-- END .sidebar -->    
-    </div><!-- END .wrap-template-1 -->
-    
-</section><!-- END .container -->
 
-		<footer id="main-footer" class="footer-wrap mini-disabled clearfix">
-    		<aside class="footer-credits">
-        		<a href="http://www.branders.com/content" title="Brand Builders" rel="nofollow" class="blog-title">Branders.com Brand Builders</a>
-            	<strong class="copyright">Copyright Branders.com, Inc. All rights reserved.</strong>
-                        	</aside><!-- END .footer-credits -->
-			<a href="#" class="back-to-top"><i class="fa fa-angle-up"></i> </a>
-		</footer><!-- END .footer-wrap -->
-    
-    </div><!-- END .wrap -->
-    
-    <script type="text/javascript" src="http://www.branders.com/content/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.branders.com\/content\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
-/* ]]> */
+<script type="text/javascript">//<![CDATA[
+
+        jQuery(document).ready(function($) {
+          //$('a[rel*=facebox]').facebox();
+          //var fbDiv = document.getElementById('facebox');
+          //var imgSrc = fbDiv.getElementsByTagName('img');
+          //imgSrc[0].src = 'http://staticimages.branders.com/media/images/facefiles/closelabel.gif';
+        })
+    //]]>
 </script>
-<script type="text/javascript" src="http://www.branders.com/content/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var dot_irecommendthis = {"ajaxurl":"http:\/\/www.branders.com\/content\/wp-admin\/admin-ajax.php"};
-/* ]]> */
+<script type="text/javascript">//<![CDATA[
+          jQuery(document).ready(function($) {
+              $("img.lazy").lazyload();
+              $("img.lazy").show().lazyload();
+          });
+      //]]>
 </script>
-<script type="text/javascript" src="http://www.branders.com/content/wp-content/plugins/i-recommend-this/js/dot_irecommendthis.js?ver=2.6.0"></script>
-<script type="text/javascript" src="http://www.branders.com/content/wp-content/themes/justwrite/assets/js/jquery.fitvids.js?ver=1.1"></script>
-<script type="text/javascript" src="http://www.branders.com/content/wp-content/themes/justwrite/assets/js/idtabs.js?ver=3.0"></script>
-<script type="text/javascript" src="http://www.branders.com/content/wp-content/themes/justwrite/assets/js/menu-dropdown.js?ver=1.4.8"></script>
-<script type="text/javascript" src="http://www.branders.com/content/wp-content/themes/justwrite/assets/js/slider.js?ver=0.3.0"></script>
-<script type="text/javascript" src="http://www.branders.com/content/wp-content/themes/justwrite/assets/js/myscripts.js?ver=1.0.3"></script>
+<!--
+   <ui:include src="/pages/includes/seoFooter.jspx"/>
+  -->
+<div id="copyrightDiv" style="text-align:center;width:100%;">
+    <div style="width:970px;margin:0px auto;position:relative">
+        <div>
+            <a href="http://www.branders.com/content/pages/copyright.htm" style="font-size:11px;text-decoration:none;color:#218026;font-family: 'Open Sans', sans-serif;">Copyright <span class="copyrsymbol">&nbsp;</span>1999 - 
+                <script type="text/javascript">//<![CDATA[
+                var year=new Date();
+                year=year.getYear();
+                if (year<1900) year+=1900;
+                document.write(year);
+                //]]>
+                </script>2020
+                Branders.com. All rights reserved.
+            </a>
+        </div>
+        <div style="width:150px;float:right;position:absolute;right:0px;top:0px"></div>
+        <div style="clear:both;height:0px"></div>
+    </div>
+</div><br>
+
+ 
+ <script type="text/javascript">
+    var google_pagetype = document.URL.split('/')[3];
+    var pagetype;
+    var prodID;
+    var SKU;
+    var color;
+    var cartTotal;
+    var prodQty;
+    var category;
+
     
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"58d279cc48","applicationID":"5303909","transactionName":"MVFaYBQHDEcEUhYMWAgbeVcSDw1aSkILC1AKUQ==","queueTime":0,"applicationTime":599,"atts":"HRZZFlwdH0k=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+    if(google_pagetype === ''){
+        google_pagetype = 'home';
+    }
+    if (google_pagetype == 'product'){
+        SKU = document.getElementById("product_code").value;
+        color = document.getElementById("product_color").value;
+        prodID = prodID = SKU+"-"+color;
+        prodQty = document.getElementById("quantity").value;
+    }
+    if (google_pagetype == 'category'){
+        category = document.URL.split('/')[4];
+    }
+    if (google_pagetype == 'nc'){
+        pagetype = document.URL.split('/')[4].split('?')[0];
+        if (pagetype.indexOf('cart')!==-1){
+            switch (pagetype.substring(pagetype.length - 9,pagetype.length - 4)){
+                case 'step2':
+                    if (document.getElementById("SubTotalShow")){
+                        cartTotal = parseFloat(document.getElementById("SubTotalShow").innerText.replace(/\$/,"").replace(/\,/,""));
+                    }
+                    else{
+                        cartTotal = null;
+                    }
+                    var prodsCart = document.getElementsByClassName('display-img');
+                    for (var i=0; i<prodsCart.length;i++){
+                        var prodsAttr = prodsCart[i].getElementsByTagName('input');
+                        for (var j=0; j<prodsAttr.length; j++){
+                            if (prodsAttr[j].id.indexOf('product_code')!==-1){
+                                if (typeof(prodID) == "undefined"){
+                                    prodID = prodsAttr[j].value;
+                                }
+                                else {
+                                    prodID = prodID + "," + prodsAttr[j].value;
+                                }
+                            }
+                        }
+                    }
+                    SKU = prodID;
+                    google_pagetype = 'cart';
+                    pagetype = 'cartStep2';
+                    break;
+                case 'step3':
+                    google_pagetype = 'cart';
+                    pagetype = 'cartStep3';
+                    break;
+            }
+        }
+        else{
+            if (pagetype.split('/').length >= 4){
+                google_pagetype = 'category';
+                category = document.URL.split('/')[4].substring(0,document.URL.split('/')[4].length-4);
+            }
+            if (document.URL.indexOf('view-product')!==-1){
+                google_pagetype = 'product';
+                SKU = document.getElementById("product_code").value;
+                color = document.getElementById("product_color").value;
+                prodID = SKU+"-"+color;
+                prodQty = document.getElementById("quantity").value;
+            }
+        }
+    }
+    if (google_pagetype == 'dmlab'){
+      google_pagetype = 'designlab';
+      if(document.URL.indexOf('design-confirm.php')!==-1){
+        google_pagetype = 'dlab_confirm';
+      prodID = '';
+      }
+      else{
+        prodID = '';
+      }
+    }
+
+    dataLayer = [{
+    "ecomm_pagetype": google_pagetype,
+    "ecomm_prodid": prodID,
+    "totalvalue": cartTotal,
+    "SKU": SKU,
+    "color": color,
+    "qty": prodQty,
+    "pagetype": pagetype,
+    "category": category
+    }];
+</script>
+    
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NBQP2T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NBQP2T');
+</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+var gts = gts || [];
+
+gts.push(["id", "15785"]);
+gts.push(["badge_position", "BOTTOM_RIGHT"]);
+gts.push(["locale", "en_US"]);
+gts.push(["google_base_subaccount_id", "3926709"]);
+gts.push(["google_base_country", "US"]);
+gts.push(["google_base_language", "en"]);
+
+(function() {
+    var gts = document.createElement("script");
+    gts.type = "text/javascript";
+    gts.async = true;
+    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(gts, s);
+})();
+</script>
+<!-- END: Google Trusted Stores -->
+
+
+<!-- Branders' Tracking -->
+<div style="height:0px">
+<!--    <img height="1" width="1" style="border-style:none;" src="/lpad?script=0" />-->
+</div>
+<!-- MYFACES JAVASCRIPT -->
+
+
+
+</body></html>
