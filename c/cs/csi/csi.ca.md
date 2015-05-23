@@ -1,135 +1,129 @@
-> *The following text is extracted and transformed from the csi.ca privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007174007id_/https%3A//www.csi.ca/student/en_ca/student/policies/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csi.ca privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523075246id_/https%3A//www.csi.ca/student/en_ca/student/policies/privacy.xhtml) for the most accurate reproduction.*
 
 # CSI's Privacy Policy - Canadian Securities Institute
 
-Respecting and Protecting Your Personal Information
+[](https://www.csi.ca/student/en_ca/home.xhtml)
 
-**CSI recognizes the importance of protecting your personal information.** The details that we collect are used to process your requests, and we take precautions to safeguard your information once we have it. Here are some frequently asked questions related to CSI's privacy policy that explain how your personal information is used.
+[](https://www.csi.ca/student/en_ca/#menu)
 
-### SMART QUESTIONS, SIMPLE ANSWERS
+**LAST UPDATED:  FEBRUARY 2015**
 
-  1. [Why does CSI need my personal information? What will you use it for?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q1)
-  2. [Do I have to provide my personal information?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q2)
-  3. [Can you tell me more about the privacy legislation enacted in 2004?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q3)
-  4. [Will you share my personal information with any other companies?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q4)
-  5. [Can my employer see my personal information?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q5)
-  6. [How do you protect my personal information?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q6)
-  7. [How long will CSI keep information about me?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q7)
-  8. [What am I agreeing to when I consent to CSI's privacy policy?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q8)
-  9. [Who should I contact with questions or concerns about the privacy policy?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q9)
-  10. [Will you let me know if you change CSI's privacy policy?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q10)
-  11. [How can I update my personal information?](https://www.csi.ca/student/en_ca/student/policies/privacy.xhtml#Q11)
+This Privacy Policy explains how Moody’s Analytics Global Education (Canada), Inc. (“Moody’s” or “we” or “us” or “our”) collect your Personal Data (defined below) as part of the provision of educational services on those web sites of Moody’s and certain of its service providers that post or link directly to this Privacy Policy (collectively, the “Site”) and through other means, how we protect such data, and the choices you have concerning our use of such data. Please read this Privacy Policy carefully. Moody’s may from time to time update this Privacy Policy. Any changes to this Privacy Policy will become effective when we post or link to the revised Privacy Policy on the Site. Please review the “LAST UPDATED” legend at the top of this page to determine when this Privacy Policy was most recently revised. 
 
+You do not have to provide us with any Personal Data to visit the public portions of the Site. However, if you choose to withhold requested information, you may not be able to visit all sections or use all features of the Site or access the educational services offered by Moody’s.  Please note that by accessing the Site, you are accepting the practices described in this Privacy Policy and consenting to our collection, use and disclosure of your Personal Data and Other Data (defined below) as set out in this Privacy Policy and to our use of your contact details to contact you for purposes of applicable personal information privacy statutes, credit bureau reporting rules, anti-spam legislation and consumer protection legislation. If you do not agree to all of the terms of this Privacy Policy, please do not use this Site. Please read this Privacy Policy carefully.
 
+This Privacy Policy shall apply to any Moody’s mobile application and other forms of Moody’s online activity that reference this Privacy Policy. In such instances, the term “Site” shall include the applicable mobile application or other Moody’s online activity whenever that term is used herein. In connection with your use of any Moody’s mobile application, your Personal Data (and Other Data, as described below]  may also be collected and used by your mobile device manufacturer, the mobile application store from which you obtained the Moody’s mobile application, your telecommunication provider, or other third parties involved in the delivery of the application or data to your mobile device, and such practices shall be subject to the privacy policy of the applicable third party. Moody’s is not responsible for any third party’s privacy practices. 
 
-* * *
+### Types of Data Collected
 
-### Q1: Why does CSI need my personal information? What will you use it for?
+We gather your Personal Data and Other Data as described below.   
+"Personal Data" is information that identifies you or can be used to identify or contact you (e.g., your name, email address, address, birthdate and/or phone number). Personal Data will also be deemed to include the testing, performance and completion data related to any courses and/or seminars you enroll in as part of the educational services provided by Moody’s.
 
-CSI collects a limited amount of personal information to create your personal profile, a tool that distinguishes you from all other CSI students. Specifically, CSI will use that profile and your information to:
-
-  * Keep records of your education, course history and designation progress
-  * Prepare regulatory reports if you're seeking industry licenses
-  * Give you your course marks
-  * Process your course or seminar enrolment
-  * Tell you about new CSI courses and opportunities
-  * Send you course materials, and awards
-  * Maintain your individual investment simulation information
-  * Share third-party offerings that we think you'd be interested in
+  * Moody’s requests various pieces of Personal Data from you when you register for educational services, on the Site and otherwise. The registration process may require that you provide Personal Data (including but not necessarily limited to your name, date of birth,  primary and secondary email addresses, business address, business phone number and company affiliation) and agree to the terms and conditions of the applicable Moody's educational services in effect at the time of registration. 
+  * Moody’s may collect Personal Data voluntarily provided by you, including in emails to the Site, online forms, order and registration forms, surveys, promotion participation, phone calls with Moody’s customer service and through offline means.  In some cases, your employer (or other organization that is sponsoring your registration in the educational services provided by Moody’s) may provide your Personal Data to Moody’s on your behalf. 
+  * In some cases, we may use third-party payment services (each, a "Payment Service") to collect payments made through the Site. If you wish to make a payment through the Site, you may be directed to a webpage that is hosted by the Payment Service (or the Payment Service's service providers) and not by Moody’s. Any Personal Data that you provide through a Payment Service page will be collected by Payment Service and not by Moody’s, and will be subject to Payment Service's privacy policy, rather than this Privacy Policy. Moody’s has no control over, and is not responsible for, Payment Service's use of information collected through the Payment Service Page.  Note that in some cases, payment information is provided directly to Moody’s and in such cases, the terms of this Privacy Policy shall apply.
+  * Moody’s collects Personal Data through various means other than the Site, including participation at conferences, individual introductions, and from employers that enroll their employees in our educational services. From time to time, we may also acquire from third parties certain lists containing the names and contact information of individuals who may be interested in our products and services. If we acquire such a list for promotional purposes, whenever  practicable, we seek to obtain appropriate representations from the other party that the listed individuals have consented to receiving, or are otherwise eligible to receive, promotional messages from any acquirer of such list in compliance with applicable law. 
 
 
 
-### Q2: Do I have to provide my personal information?
+### Use of Personal Data Collected
 
-You can decide not to provide CSI with your personal information, however it will prevent us from creating your student profile. Without your student profile, we’ll be unable to process your enrolment. You can still attend CSI courses, but you would be unable to write an exam or attain accreditation. It’s important to know that not all the information CSI requests is mandatory.
+We may use Personal Data for the following purposes: 
 
-Here is a sample list of questions we need to ask:
-
-  1. Name (first name and surname)
-  2. Contact address (street address, city/town, province, country, postal code
-  3. Telephone number and email address 
-  4. Business address, telephone number and email address (under certain circumstances)
-  5. Birth date
-  6. Payment/credit card information
-  7. Name of course/service you are enrolled in
+  * **Educational Service Delivery.**     Moody’s shall use your Personal Data for items related to the delivery of educational services, including but not limited to, the creation of your student account, the delivery of online or in-person seminar training and related materials, mentoring and exam services, delivering testing results, maintaining your student performance and course completion record and notifying you of updates regarding the educational services. 
+  * **Reporting to Regulators.**     Moody’s is requested in various cases to provide information to securities industry (and other) regulators that our students may be registered with, seeking registration with or are otherwise governed by (including but not limited to the Investment Industry Regulatory Organization of Canada or “IIROC”). Moody’s may provide your Personal Data to such regulators, including but not limited to, Personal Data sufficient to identify you,  your course completion and course performance information, to the extent that such information is requested by the regulator. 
+  * **Other Communications.**    From time to time, we may use Personal Data about you to inform you of products, programs, services and promotions that we believe may be of interest to you. If your employer is a Moody’s customer, we may also inform you of such products, programs, services and promotions using Personal Data about you that your employer provided to Moody’s. If you would prefer that we not send electronic marketing messages to you, please see the "Your Choices" section below. However, in accordance with applicable law, you may continue to receive certain electronic messages for which we do not require your express consent to send. 
+  * **Promotions.**    We may operate sweepstakes, contests and similar promotions (collectively, "Promotions"). We typically ask you for certain Personal Data when you enter and, if applicable, win a Promotion. You should carefully review the rules of each Promotion in which you participate, as they may contain additional important information about our use of Personal Data about you. To the extent that the terms and conditions of such rules concerning the treatment of Personal Data about you conflict with this Privacy Policy, the terms and conditions of such rules shall control. 
+  * **Internal Business Purposes.  **   We may also use Personal Data about you for our internal business purposes, such as data analysis, editorial and feedback purposes, providing customer support, customizing and improving the content and layout of the Site, completing business transactions, development of marketing and promotion plans and materials, statistical analysis of user behavior, product development, administering individual accounts, and meeting government regulatory requirements such as sales tax collection, audits, etc. 
+  * **Administrative Communications.  **   Subject to applicable law,  we may use Personal Data to send to you important information regarding the Site, your educational services, your account status, changes to the educational services terms and conditions, this Privacy Policy, or any other policies, agreements or transactions relevant to your use of the Site and/or the educational services. Because this information may be important to your use of the Site and/or your educational services, you may continue to receive such communications even if you have elected not to receive some or all of our marketing or other communications, if it is legally permissible for us to communicate with you in the circumstances.
 
 
 
-Any optional information you provide helps us to understand you better, so we can better anticipate your needs. For example, we would like to know why you have chosen CSI so we can assist you in managing your career with relevant products and services. We would also like to know what your background is to be able to talk about our courses in a meaningful way. Examples of optional information include:
+### Collection and Use of Other Data 
 
-  1. Reason for enrolment
-  2. Years of financial services experience
-  3. Education level
-  4. Gender
-  5. Survey questions
+Moody's and its Service Providers may also collect the following types of data, referred to in this Privacy Policy as "Other Data": 
 
+  * **Monitoring Data.**   Moody’s and its service providers may collect and/or track other information such as demographic information, domain names, computer type, browser types, screen resolution, and other statistical data involving the use of the Site ("Monitoring Data"). We use Monitoring Data to help us understand who uses the Site and to improve and market it, as well as our other web sites and services.   
+Unless combined with Personal Data, Monitoring Data does not personally identify you or any other user, and we may use it for any purpose.     
 
+  * **Aggregated Data.**    Additionally, we may aggregate Personal Data in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using information to calculate the percentage of our users who have a particular telephone area code. Such aggregate information may also be used for any purpose.  
 
-### Q3: Can you tell me more about the privacy legislation enacted in 2004?
+  * **Cookies.**    To enhance the Internet experience on the Site, Moody's and our service providers may use ‘cookies’ on the Site. Cookies are data that a web server transfers to an individual's computer for recordkeeping and other purposes. We use cookies and other technologies to facilitate users' ongoing access to and use of our Site. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer. If cookies are disabled, however, all features of the Site may not operate as intended. Information about the procedure you are required to follow in order to disable cookies can be found on your Internet browser provider’s web site. We expect our service providers to honor any decision by you to block or disable cookies in connection with the Site.  
 
-CSI respects your privacy, and has created this policy in response to the above legislation. You can learn more about the legislation on the federal government's privacy website at [www.privcom.gc.ca](http://www.privcom.gc.ca/).
+  * **Tools.  **  We and our service providers may also use various common Internet tools such as 'pixel tags,' ‘action tags,’ ‘web beacons,’ ‘.gif tags,’ 'JavaScript' or similar technologies (together, "Tools") in connection with Site pages and email messages in certain formats to, among other things, track the actions of Site users and email recipients, to determine the success of marketing campaigns and to compile statistics about Site usage and response rates. Tools allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in email messages in certain formats, Tools can tell the sender whether and when the email has been opened.  
+Moody’s uses cookies and Tool technologies to understand how the Site is used and to customize and enhance the Internet experience of individual users. When you revisit the Site, Moody’s may recognize you by a Tool and customize your experience. For example, once you have completed the registration process, a cookie and/or Tool will be used to avoid having you register again. We believe cookies and Tool technologies add value to the user experience.     
 
-### Q4: Will you share my personal information with any other companies?
-
-Under no circumstances will CSI sell or distribute your information. We’re dedicated to protecting your privacy. With that in mind and in order to serve you better, CSI may share your file to make sure we're offering the most efficient and effective learning experience available.
-
-_Specific instances when this might happen include:_
-
-  * Sharing your personal information with our suppliers and agents to print and distribute course materials, to survey you or with a CSI subsidiary to offer you additional financial market resources
-  * Compiling records and report tracking information like general pass or failure trends to continually enhance our product and service offerings. In this case, your Student ID is used so your name is never associated with your results
-  * Reporting to regulators. Regulators can ask CSI for information about licensed registrants or students who apply to be registered. There are also rare occasions where CSI will report events to the IIROC or other licensing regulators (eg. In the case of significant academic infractions)
-  * CSI may, from time to time, partner with companies that offer student or alumni benefits through their products. CSI will handle the first contact with you and give you the option to opt out of future communications from those companies. In choosing its partners to present to you, CSI will require those companies to certify that they will treat your personal information with the same standard of care that we do
+  * **IP Addresses.**    When you visit and interact with the Site, we and our third-party service providers may collect Internet Protocol (IP) addresses. Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. We use IP addresses to understand how the Site is used by our users and to improve the Site. Where required by applicable law, IP addresses will be treated as Personal Data.
 
 
 
-### Q5: Can my employer see my personal information?
+### Disclosure of Personal Data Collected
 
-If you're enrolling through your employer, they may require that you complete an information release consent form. That form allows CSI to share information with your employer should they request it. If you are not enrolling through your employer, we will not share information with them.
+_We may disclose Personal Data for the following purposes/to the following parties:_
 
-### Q6: How do you protect my personal information?
+  * **Paying Employer or Third Party.**     If your employer (or other third party) pays for your enrollment and/or participation in any educational services provided by Moody’s (either by way of payment directly to Moody’s or personal reimbursement to you of amounts paid to Moody’s), Moody’s may, from time to time at the request of such employer or third party, disclose to the employer or third party your performance data related to the particular educational services  that such employer or third party has paid for. This only applies to the particular employer or third party that paid for the educational services to which the request for your performance data relates – a request for such performance information made by a subsequent employer or third party will be denied absent your express consent to such disclosure. To provide a general consent to disclosure of your performance data to employers that may request it from time to time, please login to your student profile through [www.csi.ca](http://www.csi.ca/) and accept the information release consent form (the “IRCF”).  
 
-CSI takes a number of steps to protect your information
+  * **Reporting to Regulators.**    Regulators may request that Moody’s provide information about licensed registrants or students who apply to be registered with the regulator or are otherwise governed by the regulator (including but not limited to IIROC) and Moody’s will provide this information. There are also rare occasions where Moody’s will report events to  IIROC or other such regulators (e.g. in the case of significant academic infractions).  
 
-**ONLINE:** CSI's website at www.csi.ca is a secure site – you will see a lock icon appear on your screen (usually in the lower right corner but the actual location may change depending on your operating system and browser).That symbol means that any information you enter (name, date of birth, payment information etc.) while on that page is protected using industry-standard Secure Sockets Layer (SSL) encryption technology.
+  * **Third-Party Service Providers.**    We may provide Personal Data to third-party service providers, who provide services to us, including but not limited to, data analysis, order fulfillment, payment processing, provision of educational materials, provision of course completion certificates, course instruction and/or administration, examination and testing administration and other services of an administrative nature. 
+  * **Affiliate Communications.**    Moody’s may transfer Personal Data to its affiliates (the details of which can be found at www.moodys.com) to allow our affiliates to contact you regarding products, programs, services and promotions that they believe may be of interest to you, and such affiliates may otherwise use your Personal Data in accordance with this Privacy Policy. If you would prefer not to receive marketing communications from Moody’s or its affiliates, please see the "Your Choices" section below. Moody’s will be responsible for any Personal Data that is transferred to its affiliates. 
+  * **Strategic Partners and Co-Branded Sites.**    From time to time, we may enter into a special relationship with another company that is not owned by or affiliated with Moody’s to provide or promote joint products, services, applications, or features (together, “Jointly Offered Items”). These special relationships may include co-branded web sites (“co-branded pages”). Any information, including Personal Data, that you provide in connection with one of these Jointly Offered Items, and/or on one of these co-branded pages, will be shared with our third-party partners. By selecting an application or providing your information on these co-branded pages, or by signing up to receive information about or downloading a Jointly Offered Item, you also consent to our providing Personal Data about you to those third parties. You should check these third parties’ web sites for information regarding their privacy practices. PLEASE NOTE THAT THIS PRIVACY STATEMENT DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES. If you do not want Personal Data about you shared with such third parties, please do not provide Personal Data in connection with the Jointly Offered Items and/or co-branded pages. 
+  * **Promotions.**    We may share the Personal Data you provide in connection with Promotions with third-party sponsors of such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to those Promotions.   
 
-**HARD COPY:** CSI gives equal priority to protecting your personal information when it appears in paper-based forms or reports. All documents that contain your personal information are kept in a locked cabinet or room at CSI with restricted access.
+  * **Assignment.**    We may transfer any and all Personal Data that we collect to an affiliated entity or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings). 
+  * **Law enforcement; emergencies; compliance.**    We may disclose Personal Data about you to others as we believe to be appropriate: (a) in compliance with laws, rules, or regulations in any country in which Moody’s operates; (b) to comply with legal process; (c) to respond to requests from government or public authorities; (d) to enforce our Terms and Conditions; (e) to protect our operations or those of any affiliated entities; (f) to protect the rights, privacy, safety or property of Moody’s, its affiliated entities, you, or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain. For example, we may, to the fullest extent the law allows, disclose Personal Data about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities. Qualifications Publications.  From time to time, Moody’s may publish lists of individuals (online or otherwise) that have completed various courses or certificates and/or hold various professional designations offered and maintained by Moody’s. Individuals may be identified by their name and business affiliations in such publications. 
 
-### Q7: How long will CSI keep information about me?
 
-CSI needs your personal information to provide certain services during your enrolment period. Once that time has ended, CSI will retain some information such as your exam marks and acquired CSI designations, as well as your contact information indefinitely.
 
-### Q8: What am I agreeing to when I consent to CSI's privacy policy?
+Other than as set out herein or as may be expressly agreed by you from time to time, Moody’s will not distribute your Personal Data and in no event will we sell your Personal Data.
 
-CSI's privacy policy has been created to protect your personal information. By signing this policy (or selecting "I accept" online) you are agreeing and consenting to share your personal information with CSI for use and disclosure by CSI under the conditions set out in this policy.
+### Your Choices 
 
-### Q9: Who should I contact with questions or concerns about the privacy policy?
+We give you choices regarding our use and disclosure of your Personal Data for marketing purposes. If you wish to alter the manner in which your Personal Data is used by Moody’s to send marketing communications, please login to your profile through [www.csi.ca](http://www.csi.ca/) and visit the CSI Email Preference Centre. To the extent that your Personal Data is shared with any Moody’s affiliate(s), you will also be provided with the option of revising the manner in which such Personal Data is used for marketing purposes by such affiliates. We will try to comply with your request(s) as soon as reasonably practicable and, in any event, within the time periods prescribed by applicable law. Please note that if you choose not to receive marketing-related messages from us, you may continue to receive certain administrative messages for which we do not require your express consent to send. If we intend to use your Personal Data for a purpose that is incompatible with the purposes detailed in this Privacy Policy, or if we intend to disclose it to a type of third party not previously identified, we will notify you and offer you the opportunity to opt-out of such uses and/or disclosures. Note that from time to time, Moody’s receives education verification requests from third parties seeking information regarding our students’ academic records. Other than as set out herein, Moody’s will not provide such information to third parties unless you have affirmed IRCF referred to above.
 
-If you have any questions or concerns about CSI's privacy policy, or if you have any other privacy-related issues, please let us know by contacting our Privacy Officer. This is the person at CSI who is responsible for making sure that your personal information is protected. The Privacy Officer also deals with any privacy-related issues that may come up.
+### How you can access, change or suppress your Personal Data
 
-You can contact the Privacy Officer at:
+If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Data that has been previously provided to us, you may either visit your online student profile on the Site, call or email Moody’s educational services Customer Support (at 1-866-866-2601 (Canada & USA) or 416-364-9130 or [customer_support@csi.ca](mailto:customer_support@csi.ca)) or make a request by contacting us using the information provided in the “Contact Information for Moody’s” below. Note that to correct or change your surname, you will need to call Customer Support as this change cannot be made through the Site. We will try to comply with your request as soon as reasonably practicable and consistent with applicable law. 
 
-**CSI**  
-200 Wellington Street West, 15th Floor  
-Toronto, ON M5V 3C7
+### Links
 
-Email: [privacy_officer@csi.ca](mailto:privacy_officer@csi.ca)
+The Site may contain links to other Internet web sites, including social media sites. These linked sites are not under Moody’s control and we are not responsible for the privacy practices or the contents of any linked site. We provide links only as a convenience, and Moody’s does not endorse or control, and is not responsible for, the privacy practices or the content of these linked sites. If you provide any Personal Data through any third-party web site, your transaction will occur on that third party's web site (not the Site) and the Personal Data you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. PLEASE NOTE THAT THIS PRIVACY POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES, INCLUDING, WITHOUT LIMITATION, AFFILIATED ENTITIES THAT DO NOT POST OR LINK DIRECTLY TO THIS PRIVACY POLICY.
 
-Phone: 416.364.9130  
-Toll-free: 1.866.866.2601 (Canada & USA)   
-Fax: 416.359.0486  
-Toll-free: 1.866.866.2660 (Canada & USA) 
+### Security Measures
 
-### Q10: Will you let me know if you change CSI's privacy policy?
+Moody's has established reasonable organizational and technical measures to protect Personal Data from loss, misuse, unauthorized access, disclosure, alteration or destruction. Please note that while Moody’s has endeavored to create a secure and reliable Site for users, no site is 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please notify us of the problem immediately by contacting us using the information provided herein (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
 
-Yes. If we change the policy in any way, we will let you know by posting a notice on www.csi.ca. We may also notify you by mail or email. Your continued use of the website and CSI services will be interpreted as your acceptance of any changes.
+### Data Integrity
 
-### Q11: How can I update my personal information?
+Moody’s will use Personal Data only in ways that are compatible with the purposes for which it was collected, authorized by this Privacy Policy, or authorized by you. Moody’s will take reasonable steps to ensure that Personal Data is relevant to its intended use, and is accurate, complete, and current (as provided by you). Moody’s depends on you to update or correct your Personal Data whenever necessary.
 
-You can change your personal information online at www.csi.ca or contact customer support directly at:
+### Retention Period
 
-Email at [customer_support@csi.ca](mailto:customer_support@csi.ca).  
-Phone 1.866.866.2601 (Canada & USA) or 416.364.9130.
+We will retain Personal Data about you for the period reasonably necessary to fulfill the purposes outlined in this Privacy Policy and consistent with retention periods required or permitted by law. 
 
-To correct or change your surname, you will need to call Customer Support as this change cannot be made through our website.
+### Cross Border Transfer of Personal Data
 
-**IMPORTANT:** Please note that CSI has no responsibility for the privacy policies and practices on websites that may be linked to our website. You should refer to those organizations' own privacy policies to learn how they collect, use and disclose information about you.
+Your Personal Data may be stored and processed in any country where we have facilities or in which we engage service providers, and by using this Site or sharing Personal Data with us, you consent to the transfer of information to countries outside of your country of residence, including the United States and Canada, which may have different data protection rules than in your country.
+
+### Enforcement 
+
+Moody’s will periodically review its compliance with this Privacy Policy. Moody’s will also review and respond to any formal written complaints that we receive from you. Please contact us at the address listed below in “Contact Information for Moody’s“ with any complaints.
+
+### Sensitive Personal Data
+
+We ask that you not send us, and you not disclose, any sensitive Personal Data (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through this Site or otherwise to us unless specifically requested to do so in writing. 
+
+### Moody’s Personnel 
+
+From time to time, you may be contacted directly by Moody’s personnel as part of your use of Moody’s services. In the event that you obtain any personal identifying information of the Moody’s personnel with whom you interact, you are required to keep such information confidential and only make use of such information for the sole purpose of facilitating communication in relation to the services provided by Moody’s.
+
+### Contact Information for Moody’s
+
+Questions or concerns regarding Moody's data protection practices should be addressed to:  
+Legal Department  
+Moody’s Analytics  
+200 Wellington Street West, Suite 1500  
+Toronto, Ontario, Canada  
+E-mail: privacy_officer@csi.ca
+
+If you choose to contact Moody’s via e-mail about this Policy, please mark the subject heading of your e-mail “Privacy Inquiry.”
