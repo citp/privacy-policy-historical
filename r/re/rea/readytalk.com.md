@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readytalk.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125082246id_/http%3A//www.readytalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readytalk.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523161153id_/http%3A//www.readytalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReadyTalk
 
