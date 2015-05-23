@@ -1,80 +1,135 @@
-> *The following text is extracted and transformed from the extremefunnypictures.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208062842id_/http%3A//www.extremefunnypictures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremefunnypictures.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523052849id_/http%3A//www.extremefunnypictures.com/privacy.html) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT
+# extremefunnypictures.com | Privacy Policy
 
-**PRIVACY STATEMENT**
+**What information do we collect?**
 
-This confirms that Extreme Funny Pictures wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and this web site has agreed to notify you of:
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-1. What personally identifiable information of yours or third party personally identification is collected from you through the web site
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-2. The organization collecting the information
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-3. How the information is used
+ **DoubleClick DART Cookie**
 
-4. With whom the information may be shared
+.:: Google, as a third party vendor, uses cookies to serve ads on extremefunnypictures.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to extremefunnypictures.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-5. What choices are available to you regarding collection, use and distribution of the information
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Extreme Funny Pictures control
 
-7. How you can correct any inaccuracies in the information.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on extremefunnypictures.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-Extreme Funny Picturesis the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Extreme Funny Pictures collects information from our users at several different points on our website.  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
+extremefunnypictures.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-  
- **Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. extremefunnypictures.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-  
- **Log Files**  
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-  
- **Sharing  
-** We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+**What do we use your information for?**
 
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
+Any of the information we collect from you may be used in one of the following ways: 
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-  
- **Links  
-** This web site contains links to other sites. Please be aware that we Extreme Funny Pictures are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-  
- **Newsletter  
-** If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-  
- **Surveys & Contests  
-**From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+\- To process transactions
 
-  
- **Tell-A-Friend  
-** If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. If a user inputs their email address to be added to the Extreme Funny Pictures newsletter they are automatically added to the Extreme Funny Pictures newsletter database for newsletter mailings. TAFMaster.com will automatically send the friend a one-time email inviting them to visit the site TAFMaster.com stores this information for the sole purpose of sending this one-time email. The friend may contact TAFMaster.com at http://www.TAFMaster.com to request the removal of this information from their database.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  
- **Site and Service Updates  
-** We also send the user site and service announcement updates. Members are able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
+\- To administer a contest, promotion, survey or other site feature
 
-  
- **Correction/Updating Personal Information:  
-** If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can be done by [contacting us here.](https://web.archive.org/web/20121208062842id_/http%3A//www.extremefunnypictures.com/feedback.htm)
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
 
-  
- **Choice/Opt-out**
+\- To send periodic emails
 
-  
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking on the remove link at the bottom of every email or may fill in their email address manually [here](https://web.archive.org/web/20121208062842id_/http%3A//www.extremefunnypictures.com/unsubscribe.htm).
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+ **How do we protect your information?**
 
-  
- **Notification of Changes  
-** If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
+extremefunnypictures.com 
+
+Email:  
+contact@extremefunnypictures.com  
+
