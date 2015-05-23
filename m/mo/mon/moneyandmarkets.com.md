@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221160500id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523181242id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Money and Markets - Financial Advice | Financial Investment Newsletter — Money and Markets - Financial Advice | Financial Investment Newsletter
 
@@ -45,13 +45,13 @@ If we are legally required to notify you about a security incident we will eithe
 This site supplements the information that you provide with information that is received from third parties. For example, your address may be run against the U.S. postal service database in an effort to correct any typographical errors, so that the publications you seek will indeed arrive at the right location. 
 
 **UPDATING AND REMOVAL OF DATA**  
-You may have your name removed from our e-mail marketing lists at any time, by visiting the [_Money and Markets_ e-mail preference control center](http://www.emailpreferencecenter.com/) at [http://www.emailpreferencecenter.com](http://www.emailpreferencecenter.com/) and adjusting your communication preferences. Please read the information in this area very carefully so that you do not inadvertently discontinue the receipt of materials that you actually do wish to receive. You can send a request by mail to the following postal address: Weiss Research, Inc., 15430 Endeavour Dr., Jupiter, FL 33478 
+You may have your name removed from our e-mail marketing lists at any time, by visiting the [_Money and Markets_ e-mail preference control center](http://www.emailpreferencecenter.com/) at [http://www.emailpreferencecenter.com](http://www.emailpreferencecenter.com/) and adjusting your communication preferences. Please read the information in this area very carefully so that you do not inadvertently discontinue the receipt of materials that you actually do wish to receive. You can send a request by mail to the following postal address: Weiss Research, Inc., 4400 Northcorp Parkway, Palm Beach Gardens, FL 33410 
 
 **CONTACTING THE WEBSITE**  
 If you have any questions about this statement, the practices of this website, or your dealings with this website, you can [use our online form](http://www.moneyandmarkets.com/contact-us/), call 1-800-291-8545, or write:  
 _Money and Markets_ Website  
-15430 Endeavour Drive  
-Jupiter, FL 33478 USA 
+4400 Northcorp Parkway  
+Palm Beach Gardens, FL 33410 
 
 **CHANGES AND CLARIFICATIONS**  
 We reserve the right to modify, amend, or clarify this policy at any time by posting a revised privacy policy on our website. 
