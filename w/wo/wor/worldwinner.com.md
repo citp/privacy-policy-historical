@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223033313id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523234607id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
 
 # GSN Privacy Policy - GSN Games
 
@@ -107,8 +107,8 @@ As part of your use of the Services, you are responsible for maintaining and upd
 
 GSN   
 Attn: Player Support   
-21 Hickory Drive  
-Waltham, MA, 02451 
+100 Summer Street, 11th Floor  
+Boston, MA, 02110 
 
 After receiving any requested changes to your information, we will make reasonable efforts to ensure that all of your PII stored in databases we actively use to operate the Services will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practical. However, we reserve the right to retain in our archival files any information we remove from or change in our active Services databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our Terms of Service. In addition, it may not be technologically possible to remove every record of the information you have previously provided us, as a copy may exist in a non-erasable form that will be difficult or impossible for us to locate. Therefore, you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. Please be aware that we will process your request promptly, but it may take some time to update our systems in the ordinary course of our business operations. We appreciate your patience and understanding. 
 
