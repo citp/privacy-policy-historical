@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115634id_/http%3A//www.metopera.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metopera.org privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523052827id_/http%3A//www.metopera.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Last updated December 18, 2013
 
-The Metropolitan Opera is committed to protecting the privacy and personal information of visitors to the metopera.org and metoperashop.org websites. The personal information referred to in this statement of our Privacy Policy includes, but may not be limited to, names, addresses, telephone numbers, e-mail addresses, and credit card information. As part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the [Direct Marketing Association’s Privacy Promise to American Consumers.](http://www.dmaconsumers.org/privacy.html)
+The Metropolitan Opera is committed to protecting the privacy and personal information of visitors to the metopera.org and metoperashop.org websites. The personal information referred to in this statement of our Privacy Policy includes, but may not be limited to, names, addresses, telephone numbers, e-mail addresses, and credit card information. As part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the [Direct Marketing Association’s Privacy Promise to American Consumers.](https://www.dmachoice.org/static/privacy_policy.php)
 
 We have prepared this policy statement so you will be aware of what information is collected about visitors to our websites and how that information is used. From time to time, our practices may change necessitating changes to the policy as it exists now. We encourage you to refer back to this page to see the policy in effect at the time of your use and, if you wish, change your user preferences.
 
