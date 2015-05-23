@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vector.sl privacy policy that was archived on 2014-07-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704184618id_/http%3A//www.vector.sl/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vector.sl privacy policy that was archived on 2015-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150524010356id_/http%3A//vector.sl/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Success-Line</title>
@@ -8,21 +8,17 @@
 	<link rel="stylesheet" href="/templates/sl/style.css?v=1114">
 	<link rel="stylesheet" href="/templates/sl/colorbox.css?v=1112">
 	<link rel="stylesheet" href="/templates/sl/jquery-min.css?v=1112">
+	<link rel="stylesheet" href="/templates/sl/jquery.formstyler.css?v=1112">
 	<link rel="stylesheet" href="/templates/sl/treeview.css?v=1112">
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<script type="text/javascript" src="/templates/sl/js/history.js?redirect=true&amp;basepath=/" style="color: rgb(0, 0, 0);"></script>
 	<script type="text/javascript" src="/templates/sl/js/jquery.js"></script>
 	<script type="text/javascript" src="/templates/sl/js/jquery-ui.js"></script>
-	<script type="text/javascript" src="/templates/sl/js/jquery.easing.js"></script>
-	<script type="text/javascript" src="/templates/sl/js/jquery.mousewheel.js"></script>
-	<script type="text/javascript" src="/templates/sl/js/jquery.transform.js"></script>
 	<script type="text/javascript" src="/templates/sl/js/jquery.animate-colors.js"></script>
 	<script type="text/javascript" src="/templates/sl/js/jquery.colorbox.js"></script>
-	<script type="text/javascript" src="/templates/sl/js/jquery.cycle.all.js?v=1.025"></script>
-	<script type="text/javascript" src="/templates/sl/js/jquery.tms.js?v=1.025"></script>
-	<script type="text/javascript" src="/templates/sl/js/jquery.hrzAccordion.js?v=1.025"></script>
-	<script type="text/javascript" src="/templates/sl/js/jquery.formstyler.js"></script>
-	<script type="text/javascript" src="/templates/sl/js/jquery.treeview.js"></script>
+	<script type="text/javascript" src="/templates/sl/js/jquery.cycle.all.js"></script>
+	<script type="text/javascript" src="/templates/sl/js/jquery.hrzAccordion.js"></script>
+	<script type="text/javascript" src="/templates/sl/js/jquery.formstyler.min.js"></script>
 		<!--[if lt IE 9]>
 		<script src="/templates/sl/js/html5.js"></script>
 	<![endif]-->
@@ -32,8 +28,11 @@
 		</div>
 	<![endif]-->
 		<script type="text/javascript">
-	var autToClose	= false;
-	var timeToClose	= 420;
+	jQuery(document).ready(function() {
+		if(SL.Data) {
+			SL.Data.updateSession(false);
+		}
+	});
 	var weekhLang	= {
 		0: "monday",
 		1: "tuesday",
@@ -42,10 +41,11 @@
 		4: "friday",
 		5: "satturday",
 		6: "sunday"
-	};
+	}
 	</script>
-	<script type="text/javascript" src="/templates/sl/js/slfunction.js?v=2.007"></script>
-	<script type="text/javascript" id="ajax-script" src="?ajax=java&amp;with=doc&amp;type=b&amp;sid=53b6f67d672d0"></script>	<style type="text/css">
+	<script type="text/javascript" src="/templates/sl/js/SLModules.js?v=1.015"></script>
+	<script type="text/javascript" src="/templates/sl/js/slfunction.js?v=3.003"></script>
+		<style type="text/css">
 		.sl-post .layout-item-0 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;border-top-color:#4668A0;border-right-color:#4668A0;border-bottom-color:#4668A0;border-left-color:#4668A0; }
 		.sl-post .layout-item-1 { padding-right: 3px;padding-left: 3px; }
 		.ie7 .sl-post .sl-layout-cell {border:none !important; padding:0 !important; }
@@ -55,12 +55,11 @@
 <body>
 <div class="spinner" style="display: none;"></div>
 <div id="main-wrapper">
-	<div class="container">
-		<div class="main">
-			<!--header-->
-			<header>
-				<h1><a class="ajax home" href="/home">Success-Line</a></h1>
-				<nav class="menu">
+	<div class="container">	
+		<!--header-->
+		<header>
+			<h1><a class="ajax home" href="/home">Success-Line</a></h1>
+			<nav class="menu">
 	<ul id="menu">
 				<li class="btn">
 						<a class="ajax" href="/main">
@@ -106,17 +105,20 @@
 		</li>
 			</ul>
 </nav>
-				<div id="time-is-money">
-					<p><span id="timeismoney">2020-01-30 friday 12:30:08</span> <span id="session-border"><span id="session"></span></span> <b>Time is Money!</b></p>
+			<div id="user-ui">
+								<div id="time-is-money" class="col1">
+					<p style="margin: -3px 0px 4px;"><b>Time is Money!</b></p>
+					<p><span id="timeismoney">2020-01-30 friday 12:30:04</span></p>
 				</div>
-			</header>
+			</div>
 			<div class="line1"></div>
-			<!--end header-->
+		</header>
+		<!--end header-->
+		<div class="main">
 			<!--content-->
 			<div class="main-info"></div>
 			<article id="content">
-				<!-- WRAP CONTENT -->
-				<div><div class="wrapper pad1">
+				<div class="wrapper pad1">
 	<article class="col8 m_right2">
 			<h3 class="m_top5">Privacy policy</h3>
 		<div class="line2"></div>
@@ -152,9 +154,7 @@
 <p class="des">
 	Continuation of the site’s use by you means that you agree with the Privacy policy.</p>		<p>&nbsp;</p>
 	</article>
-</div></div>
-				<!-- WRAP CONTENT -->
-			</article>
+</div>			</article>
 		</div>
 	</div>
 	<!--end content-->
@@ -162,20 +162,13 @@
 <!--footer-->
 <footer>
 	<div class="main2">
-		<strong>© 2012—2014 <a class="ajax home" href="/contact"><img src="/templates/sl/img/slb.png" alt="SL MANAGEMENT OF INVESTMENTS LTD" id="contacts"></a> •</strong><a class="ajax" href="/privacy"><strong>Privacy policy</strong></a> • <a class="ajax" href="/agreement"><strong>Agreement</strong></a>
+		<strong>© 2012—2015 <a class="ajax home" href="/contact"><img src="/templates/sl/img/slb.png" alt="SL MANAGEMENT OF INVESTMENTS LTD" id="contacts"></a> •</strong><a class="ajax" href="/privacy"><strong>Privacy policy</strong></a> • <a class="ajax" href="/agreement"><strong>Agreement</strong></a>
 		<ul id="lang">
 			<li><a href="?lang=en"><img src="/templates/sl/img/en.png"></a></li>
 			<li><a href="?lang=de"><img src="/templates/sl/img/de.png"></a></li>
 			<li><a href="?lang=ru"><img src="/templates/sl/img/ru.png"></a></li>
 		</ul>
-		<ul id="social">
-			<li><a href="http://www.facebook.com/groups/Successline" target="_blank"><img src="/templates/sl/img/FB.png"></a></li>
-			<li><a href="https://plus.google.com/u/0/communities/109391811391595631715" target="_blank"><img src="/templates/sl/img/G+.png"></a></li>
-			<li><a href="https://twitter.com/dutySuccessline" target="_blank"><img src="/templates/sl/img/Tw.png"></a></li>
-			<li><a href="http://www.odnoklassniki.ru/successline" target="_blank"><img src="/templates/sl/img/OK.png"></a></li>
-			<li><a href="http://vk.com/officialsuccessline " target="_blank"><img src="/templates/sl/img/VK.png"></a></li>
-		</ul>
-	</div>
+			</div>
 	<div class="footerslider" style="top: -55px; opacity: 0; display: none;">
 		<div class="shadowfooter"></div>
 		<div class="box5">
@@ -212,4 +205,4 @@
 
 
 
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 20px; padding-right: 0px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
