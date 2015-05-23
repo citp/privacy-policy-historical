@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlimitedaffluence.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010190618id_/http%3A//www.unlimitedaffluence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlimitedaffluence.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523035350id_/http%3A//www.unlimitedaffluence.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Internet Marketing Experts
 
@@ -24,7 +24,7 @@ UnlimitedAffluence.com will not obtain personally-identifying information about 
 
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-**  
+ **  
 A Special Note About Children**
 
 Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.  
@@ -41,8 +41,8 @@ We reserve the right to amend this privacy policy at any time with or without no
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-**  
-[Contact](http://www.unlimitedaffluence.com/contact/ "Contact")**
+ **  
+[Contact](http://www.unlimitedaffluence.com/contact/)**
 
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
 
