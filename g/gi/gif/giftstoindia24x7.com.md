@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the giftstoindia24x7.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330112646id_/http%3A//www.giftstoindia24x7.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftstoindia24x7.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524005447id_/http%3A//www.giftstoindia24x7.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Giftstoindia24x7.com :: Privacy Policy
 
-  * [Home](http://www.giftstoindia24x7.com/ "Home")
-  * Privacy Policy
-
-  
-
-
-## Privacy Policy
-
-  
-
-
   * What information does GiftsToIndia24x7.com collect about me?
 
-GiftsToIndia24x7.com is an online e-commerce website designed to provide an easy way for our customers to shop online. GiftsToIndia24x7.com’s customers fill in details with regards to their billing address and the details of where the gifts are going to be shipped to. We also collect IP address when the customer transacts on GiftsToIndia24x7.com. None of the information we gather can be used by the public (visitors, other members, and anyone not employed by GiftsToIndia24x7.com., its corporate affiliates, or the financial institutions we use to process credit cards) to identify a specific individual. 
+GiftsToIndia24x7.com is an online e-commerce website designed to provide an easy way for our customers to shop online. GiftsToIndia24x7.com’s customers fill in details with regards to their billing address and the details of where the gifts are going to be shipped to. We also collect IP address when the customer transacts on GiftsToIndia24x7.com. None of the information we gather can be used by the public (visitors, other members, and anyone not employed by GiftsToIndia24x7.com., its corporate affiliates, or the financial institutions we use to process credit cards) to identify a specific individual.
 
   * What does GiftsToIndia24x7.com do with the information it collects?
 
@@ -27,28 +16,28 @@ Information that users do not submit to GiftsToIndia24x7.com: We use your server
 
 Service Providers
 
-We use other third parties to provide logistics and payment processing on our site. When you transact or place an order on our site, we will share shipping address with the logistics provider as necessary for the third party to provide that service. 
+We use other third parties to provide logistics and payment processing on our site. When you transact or place an order on our site, we will share shipping address with the logistics provider as necessary for the third party to provide that service.
 
-These third parties are prohibited from using your personally identifiable information for any other purpose. 
+These third parties are prohibited from using your personally identifiable information for any other purpose.
 
-  * With whom does GiftsToIndia24x7.com share the information it collects? 
+  * With whom does GiftsToIndia24x7.com share the information it collects?
 
-We do not sell, rent, share, trade or give away any of your private information without your permission except to the financial institution that processes your credit card transactions. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+We do not sell, rent, share, trade or give away any of your private information without your permission except to the financial institution that processes your credit card transactions. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
   * How can I change or update my Personal Information?
 
 You can change the information by contacting us by telephone or postal mail at the contact information listed below.
 
-**Telephone Contact Number :**  
+Telephone Contact Number:  
 India : +91.933.953.0030
 
-**Postal Address**  
+Postal Address:  
 GiftsToIndia24x7.com  
 76, B. B. Ganguly Street,  
 Ground Floor  
 Kolkata – 700012
 
-  * Tell me about Cookies.
+  * Tell me about Cookies
 
 giftstoindia24x7.com uses cookies to deliver the various services and to keep track of your personal preference. A cookie is a small text file that can be entered into the memory of your browser to help a web site recognize repeat users, facilitate the user's ongoing access to and use of the site and allow a site to track usage behaviour and compile aggregate data that allows Internet services to make content improvements and targeted advertising.
 
@@ -58,7 +47,7 @@ giftstoindia24x7.com uses cookies to provide the services, to deliver content sp
 
   * Customer Reviews and Testimonials.
 
-GiftsToIndia24x7.com allows customer to review its product listing. This service is not compulsory and its user’s option to submit a review. In case a user wants their review / testimonial to be removed, he / She can write to customer support at **sales@giftstoindia24x7.com** for removal of his / her review.
+GiftsToIndia24x7.com allows customer to review its product listing. This service is not compulsory and its user’s option to submit a review. In case a user wants their review / testimonial to be removed, he / She can write to customer support at sales@giftstoindia24x7.com for removal of his / her review.
 
   * Changes in the privacy statement.
 
@@ -67,19 +56,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 
-
-
-## Marketing Policy
-
-  
-
-
-  * Who does GiftsToIndia24x7.com send email offers to? GiftsToIndia24x7.com sends email offers to individuals who would require their services for sending gifts to India. 
-  * How does GiftsToIndia24x7.com get email addresses for it's email offers? GiftsToIndia24x7.com.com, as a web marketer, procures opt-in email lists from partner sites. Users have an option to opt for receiving newsletter and offer mail while registering on GiftsToIndia24x7.com. 
-  * How often does GiftsToIndia24x7.com send emails to people on the email lists? GiftsToIndia24x7.com generally sends emails announcing special gifts for festive seasons, promotional discounts and new arrivals once a month. However, the recipient always has the option of removing their email address from our list. Information on how to do this is always contained at the bottom of every email offer. If the recipient chooses this option, they will not get further email offers from GiftsToIndia24x7.com. 
-  * Can GiftsToIndia24x7.com affiliates send email offers on behalf of GiftsToIndia24x7.com? GiftsToIndia24x7.com affiliates can send emails on behalf of GiftsToIndia24x7.com only to people who have opted-in to receive such email offers. If an affiliate is found to be sending unsolicited email, their affiliation is revoked immediately. 
-  * How do I Opt out from receiving promotional communication. If you want Opt out from GiftsToIndia24x7.com’s newsletter list, you can simply reply to the mail with UNSUBSCRIBE in its subject. 
-  * What can I do if I find unsolicited mail from a GiftsToIndia24x7.com affiliate? We encourage you to contact immediately to our [Customer Support](http://www.giftstoindia24x7.com/contactus.aspx "Customer Support"). Please give us as much details as you can. 
-
-  
 
