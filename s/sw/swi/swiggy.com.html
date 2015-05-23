@@ -1,0 +1,423 @@
+<!--The following is the downloaded HTML source of the swiggy.com privacy policy that was archived on 2015-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150524000137id_/http%3A//www.swiggy.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5WZT8M"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwUAVV5VGwIAUVBXDgME"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta name="viewport" content="width=device-width">
+<title>Swiggy | Swiggy.com</title>
+<meta name="description" content="Order food online - Food from your favorite restaurants delivered on lightning fast speeds,
+              Cash or Card on delivery | Swiggy.com">
+<meta name="Keywords" content="Restaurants in Bangalore, Order food online, Home delivery Bangalore">
+
+<!-- OG Tags -->
+<meta property="og:title" content="Swiggy | Swiggy.com">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.swiggy.com/privacy-policy">
+<meta property="og:image" content="http://www.swiggy.com/images/swiggy_logo.png">
+<meta property="og:description" content="Order food online - Food from your favorite restaurants delivered on lightning fast speeds,
+              Cash or Card on delivery | Swiggy.com">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">	<script>
+		var prodCartId = 0;
+	</script>
+    <link href="http://www.swiggy.com/wp-content/themes/swiggy/css/carousel-23423634534523423.css" rel="stylesheet" type="text/css">
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/css/swiggy-23423634534523423.css" rel="stylesheet" type="text/css">
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/css/stylesheet-23423634534523423.css" rel="stylesheet" type="text/css">
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/css/restaurant-page-23423634534523423.css" rel="stylesheet" type="text/css">
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/css/restaurant-page-mbl-23423634534523423.css" rel="stylesheet" type="text/css">
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/css/login-23423634534523423.css" rel="stylesheet" type="text/css">
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/css/my-account-23423634534523423.css" rel="stylesheet" type="text/css">
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/css/swiggy-admin-23423634534523423.css" rel="stylesheet" type="text/css">
+
+<!--[if IE 8]>
+<link href="css/ie.css" rel="stylesheet" type="text/css">
+<![endif]-->
+<!--[if IE 7]>
+<link href="css/ie7.css" rel="stylesheet" type="text/css">
+<![endif]-->
+<!-- Modified Bootstrap CSS -->
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/css/font-awesome.min.css" rel="stylesheet">
+<link href="http://www.swiggy.com/wp-content/themes/swiggy/css/introjs.min.css" rel="stylesheet">
+    </head><body class="swiggy-ab0-control"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div><div id="overlay" class="signin">
+    <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                    <div id="switch">
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-default switch" data-switchid="signup">Sign Up</button>
+                            <button type="button" class="btn btn-default switch active" data-switchid="signin">Sign In</button>
+<!--                            <button type="button" class="btn btn-default switch" data-switchid="social">Social</button>-->
+                        </div>
+                    </div>
+                    <p class="text-primary" id="mobile-verify-lbl">Verify your number</p>
+                </div>
+                <div id="spinner-area">
+                    <div class="modal-body">
+                        <div class="msg-holder">
+                            <div class="msg"></div>
+                        </div>
+                        <form id="signin" class="login-form" role="form" method="post">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-envelope-o fa-fw"></i></span>
+                                <input type="email" class="form-control" name="username" placeholder="Email address" pattern="([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?" title="Enter a valid email address" required="" autofocus="">
+                            </div>
+
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-key fa-fw"></i></span>
+                                <input type="password" class="form-control" name="password" placeholder="Password" required="">
+                            </div>
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" name="remember-me"> Remember me
+                                </label>
+                            </div>
+                            <input type="hidden" class="form-control" name="secret" required="">
+                            <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+                        </form>
+
+                        <form id="signup" class="login-form" role="form">
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+                                <input type="text" class="form-control" name="name" placeholder="Name" required="">
+                            </div>
+
+
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-envelope-o fa-fw"></i></span>
+                                <input type="email" class="form-control" placeholder="Email Address" pattern="([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?" title="Enter a valid email address" required="" autofocus="">
+                            </div>
+
+
+                            <div class="input-group">
+                                <span class="input-group-addon"><i class="fa fa-key fa-fw"></i></span>
+                                <input type="password" class="form-control" placeholder="Password" required="">
+                            </div>
+
+                            <div class="input-group" style="margin-bottom:10px;">
+                                <span class="input-group-addon"><i class="fa fa-mobile fa-fw"></i></span>
+                                <input type="mobile" class="form-control" placeholder="Mobile" pattern="[0-9]{10}" title="Enter a valid mobile number" required="">
+                            </div>
+
+                            <button class="btn btn-lg btn-primary btn-block" type="submit">Sign up</button>
+                        </form>
+
+<!--                        <form id="social" class="login-form" role="form">
+                            <input type="mobile" class="form-control" placeholder="Mobile" pattern="[0-9]{10}" title="Enter a valid mobile number" required>
+                            <button class="btn btn-lg btn-primary btn-block" type="submit">Facebook</button>
+                        </form>-->
+
+                        <form id="forgot" class="login-form" role="form">
+                            <input type="email" class="form-control" placeholder="Email address" pattern="([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?" title="Enter a valid email address" required="" autofocus="">
+                            <button class="btn btn-lg btn-primary btn-block" type="submit">Send Reset Link</button>
+                        </form>
+
+                        <form id="otp" class="login-form" role="form">
+                            <input type="text" class="form-control" placeholder="OTP" pattern="[0-9]{8}" title="Enter the One Time Password" required="">
+                            <button class="btn btn-lg btn-primary btn-block" type="submit">Verify</button>
+                            <button type="button" class="btn-link pull-right" data-dismiss="modal">skip</button>
+                        </form>
+                    </div>
+
+                    <div class="modal-footer">
+                        <a class="switch" data-switchid="forgot">forgot password?</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>	<link rel="stylesheet" id="theme-my-login-css" href="http://www.swiggy.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.3.8" type="text/css" media="all">
+<link rel="stylesheet" id="h2cweb-jquery-ui-style-css" href="http://www.swiggy.com/wp-content/plugins/wp-awesome-faq/jquery-ui.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.swiggy.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//www.swiggy.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.1.12" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.swiggy.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.1.12" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//www.swiggy.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.1.12" type="text/css" media="all">
+<link rel="stylesheet" id="genericons-css" href="http://www.swiggy.com/wp-content/themes/swiggy/fonts/genericons.css?ver=2.09" type="text/css" media="all">
+<link rel="stylesheet" id="twentythirteen-style-css" href="http://www.swiggy.com/wp-content/themes/swiggy/style.css?ver=2013-07-18" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://www.swiggy.com/wp-content/themes/swiggy/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://www.swiggy.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<script type="text/javascript" src="http://www.swiggy.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://www.swiggy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.swiggy.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.swiggy.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.swiggy.com/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.swiggy.com/wp-content/plugins/wp-awesome-faq/accordion.js?ver=1"></script>
+<link rel="canonical" href="http://www.swiggy.com/privacy-policy">
+	<style type="text/css" id="twentythirteen-header-css">
+			.site-header {
+			background: url(http://www.swiggy.com/wp-content/themes/swiggy/images/headers/circle.png) no-repeat scroll top;
+			background-size: 1600px auto;
+		}
+		</style>
+	    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    // Initializing with tracking id
+	ga('create', 'UA-53591212-1', 'auto');
+</script>
+    
+
+<script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+  var _weq = _weq || {};
+  _weq['webengage.licenseCode'] = '~9919938d';
+  _weq['webengage.widgetVersion'] = "4.0";
+
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>
+
+
+	<script>
+  Swiggy = {};
+  Swiggy.Data = Swiggy.Data || {};
+  Swiggy.Data.isMobile = false;
+  Swiggy.Cart = Swiggy.Cart || {};
+  Swiggy.Restaurant = Swiggy.Restaurant || {};
+  Swiggy.Checkout = Swiggy.Checkout || {};
+  Swiggy.Alcohol = Swiggy.Alcohol || {};
+  Swiggy.Data.site_closed = false;
+  Swiggy.Data.base = 'http://www.swiggy.com';
+  Swiggy.Data.loggedin = false;
+  Swiggy.Data.pageType = '';
+</script>
+
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/js/jquery.min.js"></script>
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/js/jquery.sticky.js"></script>
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/js/isotope.pkgd.min.js"></script>
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/js/spin.min.js"></script>
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/js/intro.min.js"></script>
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/js/handlebars-v2.0.0.js"></script>
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/typeahead.js/typeahead.bundle.js" type="application/javascript"></script>
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/typeahead.js/typeahead.jquery.js" type="application/javascript"></script>
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/typeahead.js/bloodhound.js" type="application/javascript"></script>
+
+<!--[if lt IE 9]>
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/js/html5.js"></script>
+<![endif]-->
+
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/bootstrap/js/bootstrap.js"></script>
+
+
+<script src="http://www.swiggy.com/wp-content/themes/swiggy/js/functions-23423634534523423.js" type="application/javascript"></script><script src="http://www.swiggy.com/wp-content/themes/swiggy/js/bindings-23423634534523423.js" type="application/javascript"></script><script src="http://www.swiggy.com/wp-content/themes/swiggy/js/login-23423634534523423.js" type="application/javascript"></script><script src="http://www.swiggy.com/wp-content/themes/swiggy/js/cart-23423634534523423.js" type="application/javascript"></script>	<div class="body_bg">
+		<div class="below_bar hide">
+			<div class="container">
+				<span></span>
+			</div>
+		</div>
+
+		<div class="offer-bar hide">
+				<div class="container ">
+				<p></p>
+			</div>
+		</div>
+
+    
+          <div class="city-banner" style="display: none">
+        <div class="container">
+          <p></p>
+        </div>
+      </div>
+    
+		<div class="header">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-4 logo"> <a href="http://www.swiggy.com"> <img src="http://www.swiggy.com/wp-content/themes/swiggy/images/swiggy_logo.png" alt="Online Food Delivery | Swiggy.in" border="0" title="Online Food Delivery | Swiggy.in"> </a> </div>
+                    <div class="col-xs-8">
+                        <ul class="login-signup">
+                            <li class="btn-hiring">
+                                <span><a href="/careers">We're Hiring</a></span>
+                            </li>
+                            <li class="btn-app">
+                                <span> <a href="/app?utm_source=swiggy&amp;utm_medium=header">Download App</a></span>
+                            </li>
+                                                        <li><a id="signup-link">Signup</a></li>
+                            <li><a id="login-link">Login</a></li>
+                            
+                        </ul>
+
+                    </div>
+                    <div class="btn-app-mobile">
+                        <span> <a href="/app?utm_source=swiggy&amp;utm_medium=header">Download App</a></span>
+                    </div>
+				</div>
+			</div>
+		</div>
+
+
+<div class="modal fade" id="offerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <i id="close-offer-popup" class="fa fa-times-circle-o fa-4x" style="position: absolute; right: -15px;top: -15px; z-index: 1; cursor: pointer;"></i>
+            <div class="modal-body">
+                <img src="http://res.cloudinary.com/swiggy/image/upload/w_570/zhhyp6u0yydoflexxxqg">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    </script>
+	<div id="primary" class="content-area container">
+		<div id="content" class="site-content" role="main">
+
+						
+				<article id="post-94" class="post-94 page type-page status-publish hentry">
+					<header class="entry-header">
+						
+						<h1 class="entry-title privacy policy_heading_title">Privacy Policy							</h1>
+					</header><!-- .entry-header -->
+
+					<div class="entry-content">
+						<p>We ( <strong>Bundl Technologies Private Limited, alias “Swiggy” </strong>)  are fully committed to respecting your privacy and shall ensure that your personal information is safe with us.</p>
+<p><strong style="font-size:16px;border-bottom:1px solid;">COLLECTION OF INFORMATION</strong></p>
+<p>When you place an order on our website, we collect your information including email address, mobile number and address so we can deliver reliably. Signing up to get registered will also involve collecting the same information.</p>
+<p><strong style="font-size:16px;border-bottom:1px solid;">USE OF INFORMATION</strong></p>
+<p>We use the details filled in during order checkout/ signup to ensure that the orders are delivered reliably in time, and to keep you posted regarding any delays and send you invoices.</p>
+<p>The information collected to register you as a member will be used to improve the customer experience while re-ordering or to provide rewards to customers regularly using our platform.</p>
+<p><strong style="font-size:16px;border-bottom:1px solid;">STRICT CONFIDENTIALITY POLICY</strong></p>
+<p>We will never sell, trade or pass on your personal information to any third party, including our partner stores from where you are ordering.  We will only share information when it is essential to comply with law, enforce our site policies or protect others or ours rights, property or safety.</p>
+<p><strong style="font-size:16px;border-bottom:1px solid;">USAGE POLICY</strong></p>
+<p>All photos are the property of Bundl Technologies Pvt Ltd/ our partner restaurants and shall not be used for commercial purposes without mentions/credits. We thank all our restaurants for co-operation with the photo shoots and <a href="https://www.facebook.com/funfoodfotography?fref=ts">Hina Gujral</a> for the excellent photography </p>
+											</div><!-- .entry-content -->
+
+					<footer class="entry-meta">
+											</footer><!-- .entry-meta -->
+				</article><!-- #post -->
+
+							
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+			<div class="footer">
+				<div class="container">
+					<ul class="social-media">
+									<div class="textwidget"><li class="fb"> <a href="https://www.facebook.com/swiggy.in" target="_blank"><span></span></a></li>
+							<li class="pinterest"> <a href="http://pinterest.com/swiggyindia" target="_blank"><span></span></a></li>
+							<li class="instagram"> <a href="https://instagram.com/swiggyindia/" target="_blank"><span></span></a></li>
+							<li class="twtr"> <a href="https://twitter.com/swiggy_in" target="_blank"><span></span></a></li></div>
+					<div class="textwidget"><!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('1483-976-10-9630');/*]]>*/</script><noscript><a href="https://www.olark.com/site/1483-976-10-9630/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code --></div>
+		 
+					</ul>
+					<div class="rest_wrks_outr"></div>
+					<!--<div class="rest_wrks_outr">
+						<ul id="menu-footer-menu-1" class="restau_wrks"><li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://www.swiggy.com/get-food">Get Food</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://www.swiggy.com/how-it-works">How It Works</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://www.swiggy.com/koramangala">Koramangala</a></li>
+</ul> 
+					</div>-->
+					<div class="footer_menu">
+						<ul id="menu-footer-menu-2" class=""><li id="menu-item-102749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102749"><a href="http://www.swiggy.in/careers">Careers</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://www.swiggy.com/contact-us">Contact Us</a></li>
+<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="http://www.swiggy.com/faqs">FAQ</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-94 current_page_item menu-item-99"><a href="http://www.swiggy.com/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-67820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67820"><a href="http://www.swiggy.com/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li id="menu-item-67893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67893"><a href="http://www.swiggy.com/about-us-2">About Us</a></li>
+<li id="menu-item-67894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67894"><a href="http://www.swiggy.com/refund-policy">Refunds &amp; Cancellation Policy</a></li>
+</ul>					</div>
+				</div>
+			</div>
+			<div class="footer-last">
+							<div class="textwidget"><p>© 2015 Swiggy</p></div>
+						<script>
+					jQuery( ".footer-last .textwidget" ).addClass( "footer-last" );
+				</script>
+			</div>
+		</div>
+	
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WZT8M"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WZT8M');</script>
+<!-- End Google Tag Manager -->	<script>		
+		function menutoggle()
+		{
+			jQuery('.navigation').slideToggle('slow');
+		}
+		jQuery('.hoverImg').hover(function()
+		{
+			jQuery(this).parent().find('small:eq(0)').fadeIn("slow");
+		},
+		function()
+		{
+			jQuery(this).parent().find('small:eq(0)').fadeOut("slow");
+		});
+
+		/* AB Testing for location search */
+		
+		// Set value for custom dimension at index 1. (location_search_display)
+					ga('set', 'dimension1', 'control');
+    
+		// Set value for custom dimension at index 2. (customer_area)
+		
+		// Set value for custom dimension at index 3. (customer_city)
+		
+		// Send the tracking events with a pageview hit.
+		ga('send', 'pageview');
+	</script>
+	<script type="text/javascript" src="http://www.swiggy.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.swiggy.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.swiggy.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.swiggy.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"http:\/\/www.swiggy.com\/cart","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.swiggy.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.1.12"></script>
+<script type="text/javascript" src="//www.swiggy.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.swiggy.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.swiggy.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.1.12"></script>
+<script type="text/javascript" src="//www.swiggy.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.swiggy.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.1.12"></script>
+<script type="text/javascript" src="http://www.swiggy.com/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://www.swiggy.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2"></script>
+	<!--A/B tests active with phpA/B 1.2--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a9dd66e24a","applicationID":"10515923","transactionName":"MlRUbEUCXkBYWkdQWQsed1tDCl9dFklSXlM=","queueTime":0,"applicationTime":300,"ttGuid":"","agentToken":"","atts":"HhNXGg0YTU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+</body></html>
