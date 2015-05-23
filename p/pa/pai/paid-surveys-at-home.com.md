@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paid-surveys-at-home.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819133416id_/http%3A//www.paid-surveys-at-home.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paid-surveys-at-home.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523165448id_/http%3A//www.paid-surveys-at-home.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Paid Surveys at Home
 
