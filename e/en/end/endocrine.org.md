@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the endocrine.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229000654id_/https%3A//www.endocrine.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endocrine.org privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523132140id_/http%3A//www.endocrine.org/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Endocrine Society
+# Privacy Policy | Endocrine Society
 
 ### Privacy Statement
 
