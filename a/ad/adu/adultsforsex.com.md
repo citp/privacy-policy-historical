@@ -1,66 +1,92 @@
-> *The following text is extracted and transformed from the adultsforsex.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105013412id_/http%3A//adultsforsex.com/documents/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultsforsex.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523024411id_/http%3A//adultsforsex.com/static/privacy) for the most accurate reproduction.*
 
-# Watch Free Cams, Free Live Sex Cams, Sex Chat Rooms with XXX Webcams
+# Privacy Policy
 
-_for SpicyLogic, Ltd. d/b/a[www.adultsforsex.com](http://www.adultsforsex.com/), [www.adultsforsex.xxx](http://www.adultsforsex.xxx/)  
-Effective Date: July 03, 2013
+##  Adultsforsex Privacy Policy
 
-  1. General 
-    1. The operative parties referred to in this policy are Company and You, the User of this site. 
-      1. SpicyLogic, Ltd. is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter, SpicyLogic, Ltd. shall be referred to as “Company”. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms “the Site” or “Site” are used, these terms refer to the website(s) listed at the beginning of this Policy.
-      2. **You, the User** – As the User of this Site, this Policy will refer to the User as “You” or through any applicable second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.
-    2. This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.
-  
+##  Applicable to Adultsforsex Services
 
-  2. Revisions to this Policy 
-    1. We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
-  
+MMI, N.V. ("Adultsforsex.com", "us" or "we") operates services that are accessed through the Adultsforsex.com, websites (collectively, the "Sites"), including those found at the links on the Sites' homepage entitled Video, 3D, SexBlogs, Adultsforsex Mobile, Video Upload, and Magazine (collectively, the "Adultsforsex Services"). By using or visiting the Sites or using the Adultsforsex Services, You agree to the collection and use of information by us in accordance with the terms of this policy ("Privacy Policy"). If You do not agree with this Privacy Policy, please do not use the Sites or the Adultsforsex Services.
 
-  3. Personal Information that We Collect 
-    1. Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows: 
-      1. **Members** \- Members are those Users who interact with Our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide a valid e-mail address in the process of registering a username.
-      2. **Browsers** \- Browsers are visitors to the Site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below).
-  
+_The security of your data is very important to us. We make every effort to avoid the need to ask for any personal information of our loyal users. We take all reasonably appropriate steps to limit the risk that your data may be lost, damaged or misused._
 
-  4. How We Collect Information from You 
-    1. **Passive Collection** – We use cookies to collect information about You in order to enhance Your experience on the Site. The information collected in Our cookies includes, but is not limited to, Your User IP address, geographic location and other session data.
-    2. **Active Collection** – We collect information from You, such as Your name, e-mail address and credit card information, if applicable, when You complete registration forms to sign up for Your membership on Our Site. Locations for such collection are registration or personal profile pages, but We reserve the right to add additional information collection portals.
-  
+##  Other Services Subject to Different Privacy Policies
 
-  5. How We Use Your Information 
-    1. The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You. Member login information and e-mail addresses may be disclosed to third parties for the purpose of providing certain features or third-party upgrades as requested by the Member. We are not responsible for how third parties use your information, and You should become familiar with such third parties’ privacy policies prior to requesting their services. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We additionally may use the personal information of Users whose membership has expired or has been cancelled in order to market Our services to these individuals in the future.  
-We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription services, if applicable. We also use Your information for market research purposes – in order to increase Your (and other Users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.  
-We also use Your information for the obvious purpose of providing Your User profile to all of Our other Members and Browsers. When You create a profile, You should consider all of the information on the profile to be public information, accessible by anyone, unless otherwise stated. Even if You choose to not make public Your personally identifying information, You should understand that there is a possibility that You may be identified through information You provide on Your profile. For example, You may be visually recognized by someone who sees Your picture or Your description may be adequately detailed that someone browsing the Site would be able to tell that the person is You. Accordingly, You understand that using this Site places You in control of all of the information displayed on Your profile, and You are fully responsible for any consequences arising out of such information You choose to publish. 
-  
+Services other than the Adultsforsex Services accessible through the Site, including, but not limited to, services provided through links on the Site's homepage entitled Free Sex, Live Sex, Store, or Chat, or by third-party advertisers on the Site, or other third parties with Websites linked to the Site, are subject to different privacy policies that govern your use of the information or services provided by the operators of these other Site areas or other Websites ("Third Party Sites"). These Third Party Sites may also collect different information than provided under this Privacy Policy. You should review these Third Party Sites' privacy policies to make sure you are comfortable with them. We have not and assume no responsibility or obligation to review the privacy polices and practices of these Third Party Sites and your use of and provision of any information to these Third Party Sites is at your own risk.
 
-  6. Special Cases. 
-    1. It is Our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information about Browsers or Members, or information regarding Your use of the services or Site(s) accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including: 
-      1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
-      2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other User policies;
-      3. To operate Our services properly;
-      4. To protect ourselves, Our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
-      5. If We have reason to believe that the User is not the owner of a credit card, even if the credit card use is authorized, We will provide information about You to the credit card holder. We will absolutely provide Your information to the credit card holder if We believe that fraud is a possibility. However, We do not require that there be fraud, as it is Our policy that the credit card holder always has an absolute right to access any and all of Your personal information.
-      6. Anyone who violates Our Anti-Spam Policy, if applicable, shall have their personal information made public. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our Sites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop.
-  
+##  Minors Not Eligible to Use Our Service
 
-  7. Transmittals from Us 
-    1. We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements in your member settings by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account.
-    2. If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
-  
+The Sites expressly and strictly limit membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet this criteria are strictly forbidden from accessing or viewing the contents of the Sites. We do not knowingly collect any personal information from minors and minors may not lawfully visit the Sites or use the Adultsforsex services. See the [Adultsforsex Terms of Service](https://web.archive.org/static/terms).
 
-  8. Public Areas 
-    1. Any information provided in a User profile, blog, profile post, Member directory, chat room, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium.
-  
+##  Types of Information
 
-  9. Our Commitment to Data Security 
-    1. We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
-  
+**Personally Identifiable Information (PII).** PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address, credit card information, video materials that you submit, comments you make including such information, or other information that you submit voluntarily, including, but not limited to, when you contact us by email.
 
-  10. How to Access or Modify Your Information 
-    1. We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page or the profile editing page.
-  
+The Sites do not collect PII from users except for email addresses in limited cases:
 
-  11. Where to Direct Questions About Our Privacy Policy 
-    1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [info@adultsforsex.com](mailto:info@adultsforsex.com).
+  1. User submits feedback to the Sites.
+  2. User sends the Sites a support-related email.
 
-_
+
+
+The Sites absolutely do not distribute user email addresses to third party vendors unless necessary to solve a user-submitted support ticket.
+
+**Non-Personally Identifiable Information (Non-PII).** Non-PII is information that does not identify you as an individual including but not limited to your browser type, language, Internet Protocol ("IP") address, browser cookies, operating system, the date and time of your request, and the types of services you use.
+
+##  When Do We Collect Information
+
+**Browsing the** **Adultsforsex Services.** You can view free videos or browse content using the Adultsforsex Services without registering as a user. You can also contact us at or other Site email addresses without having to register for a user name. We do not collect PII when you are only browsing the Sites or the Adultsforsex Services, but we may associate certain information about your use of the Adultsforsex Services with your IP address and/or session id. Such information may include the categories of videos that you view, the information about categorization that you provide to us, or your ratings of videos ? all in order to provide you with a better overall experience.
+
+**Emails.** If you contact us, we may keep a record of that correspondence. When you send us feedback email, we attach certain Non-PII to the email to help the Site troubleshoot your request.
+
+**Registering as a User.** For some Adultsforsex Services such as, but not limited to, adding a video as favorite, you need a Adultsforsex account. Except for a username and password, we do not request any personal information when you register for an account, but if you are logged in as a user, we may associate information about your viewing habits, information about categorization, or your ratings of videos with your accounts.
+
+**Content Uploaded to Site.** Any personal information or video content that you voluntarily disclose online (e.g., the name, face or likeness of you or others depicted in videos) or any link that you provide with your video submission or information you disclose in comments you make in response to videos may be collected and used by others.
+
+##  How Do We Collect Information?
+
+**Cookies.** A cookie is a message that is sent to your browser from a Web server and stored on your computer's hard drive. We may use cookies to assist in (a) helping you stay logged on the Site (b) providing video recommendations.
+
+_We use cookies only for the operation of the_ _Adultsforsex Services._
+
+**IP Address.** An IP address is a number that is assigned to your computer automatically when you use the Internet. We may collect IP addresses for the purposes of systems administration, server problem diagnosis and to compile aggregate information (such as how many visitors visited the Site and their approximate geographic locations). When you visit a particular Web page on the Site, our servers log your IP address. We analyze aggregated user traffic information to improve the quality of the user-experience.
+
+##  How Do We Use Your Information?
+
+**PII:** As stated above, the only PII collected in limited cases is your email address.
+
+_We will not knowingly disclose your PII to third parties without your permission._
+
+We may use your PII to administer and manage your account. In addition, we may disclose your PII when we believe in good faith that any applicable law or legal process requires it, or if we believe we need to disclose it to protect or enforce our rights or the rights of our members, users, or other third parties. Without limitation of the foregoing, we may disclose your information pursuant to the [Adultsforsex Terms of Service](https://web.archive.org/static/terms) to a third party that alleges you have infringed their intellectual property rights.
+
+**Non-PII:** We may disclose Non-PII in connection with improving the services we offer and facilitating our marketing efforts. In addition, we may combine your Non-PII that relates to your use of the Adultsforsex Services with that of other users to determine which areas of the Services are most popular, and how our services are used. In addition, we may disclose your Non-PII when we believe in good faith that any applicable law or legal process requires it, or if we believe we need to disclose it to protect or enforce our rights or the rights of our members, users, or other third parties.
+
+The Sites maintain and stores indefinitely logs of user visits to each webpage. Logs contain Non-PII including, but not limited to, access time, URL, ip address, referring URL, search terms, browser type, cookie contents, video player activity performance and other technical details related to performance/troubleshooting. These logs are stored on secure servers.
+
+**Third Party Information-Processing.** The Site contracts with third parties for the purposes of analyzing Non-PII related to the Site performance and improvement.
+
+**Analytics.** We use [Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html), a free service offered by Google that generates detailed statistics about the visitors to a website.
+
+##  Transfer of Information
+
+If we are sold to, in whole or part, or merge with another company, or declare bankruptcy, some or all of the information collected from You on the Sites and through the Adultsforsex Services (including but not limited to your PII, search results, profile content and other content stored on the Sites server, IP addresses and timestamps) may be transferred or sold to a third party as a result of the transfer or disposition of assets, in whole or part.
+
+##  Warning About Online Disclosure of Information
+
+**Third Parties.** We do not control the privacy policies of our advertisers or other third parties that have Websites linked to the Sites.
+
+_Adultsforsex.com does not provide any PII to these third party advertisers or Third party Sites without your consent._
+
+If you click on an advertisement or link to a Third Party's Site, the privacy policies of the Web site that you link to will govern the use of your information by that Web site's operator. We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third-party Websites that you visit.
+
+**No Absolute Safeguards.** Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.
+
+##  Your Role in Protecting Your Privacy
+
+Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use to register, and you should always be careful and responsible whenever disclosing information online. Without limitation of the foregoing, please keep your username and password private and safe.
+
+##  Acceptance of Privacy Policy
+
+If you use the Adultsforsex Services, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Adultsforsex Services. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Sites or the Adultsforsex Services after we either personally notify you or generally post such changes on the site will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy, please email us at .
+
+Effective:January 01, 2011
