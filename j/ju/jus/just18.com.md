@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just18.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015014205id_/http%3A//www.swankdollars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just18.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523121352id_/http%3A//www.swankdollars.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HTTP Electronic Publishing, Inc.
 
