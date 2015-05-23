@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetsine.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921230401id_/http%3A//www.streetsine.com/static/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetsine.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523095208id_/http%3A//www.streetsine.com/static/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
