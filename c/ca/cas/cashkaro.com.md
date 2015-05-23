@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109170045id_/http%3A//cashkaro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523130406id_/http%3A//cashkaro.com/privacy-policy) for the most accurate reproduction.*
 
-# Discount Coupons & Extra Cashback on 500+ Sites -CashKaro
+# Privacy Policy of CashKaro
 
 Cashkaro.com (“website”, “our website”, “site”) is operated by Pouring Pounds Ltd (“We”, “Our”, “Company”).
 
