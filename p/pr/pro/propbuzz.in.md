@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propbuzz.in privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804113338id_/http%3A//propbuzz.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propbuzz.in privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523050525id_/http%3A//www.propbuzz.co.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Property in delhi NCR
+# PropBuzz Top Real Estate Property
 
 This Privacy policy is subject to the terms of the Site Policy (User agreement) of this website.
 
