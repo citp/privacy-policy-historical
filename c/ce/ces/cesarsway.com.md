@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cesarsway.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010221152id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesarsway.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523121515id_/http%3A//www.cesarsway.com/privacy) for the most accurate reproduction.*
 
-# Website Privacy Policy | Dog Whisperer Cesar Millan
+# Website Privacy Policy | Cesar Millan
 
-This privacy policy describes the collection of information by Cesar Millan, Inc. (“CMI”, “we”, “us” or “our”) from users of our websites www.cesarmillaninc.com and www.cesarsway.com (collectively, the “Site”), and users of the various services we provide on the Site (collectively, the “Service”), as well as our use and disclosure of that information. By using the Site or any Service, you consent to the collection and use of information in accordance with this policy.
+This privacy policy describes the collection of information by Cesar Millan, Inc. (“CMI”, “we”, “us” or “our”) from users of our websites [www.cesarmillaninc.com](http://www.cesarmillaninc.com/ "www.cesarmillaninc.com") and [www.cesarsway.com](http://www.cesarsway.com/ "www.cesarsway.com") (collectively, the “Site”), and users of the various services we provide on the Site (collectively, the “Service”), as well as our use and disclosure of that information. By using the Site or any Service, you consent to the collection and use of information in accordance with this policy.
 
 ### Personal Information
 
@@ -74,15 +74,15 @@ This Site is generally intended for United States visitors. If you visit from ot
 
 For your convenience, our Site may contain links to other Web sites, products, or services that we do not own or operate. If you choose to visit or use any third-party products or services, please be aware that this policy will not apply to your activities or any information you disclose while using third-party products or services or otherwise interacting with third parties.
 
-For example, and without limitation, the Cesar Millan-branded services located at www.sessionswithcesar.com (including the “Sessions with Cesar” materials and the “Cesar Live” webinars), the “Cesar’s Pack” community/forums and all other materials available on such web pages: (i) are not operated by CMI and (ii) may be accessible from and provide links to other third-party websites and access to content, products and services of third parties. CMI is not responsible for examining or evaluating, and we do not warrant the offerings of, any of these (or other) third-party websites, and CMI does not assume any responsibility or liability for the actions, products, services or content of these or other third-party websites or any third parties. You should refer to the separate terms of use, privacy policies, and other rules posted on such websites before you use them.
+For example, and without limitation, the Cesar Millan-branded services located at [www.sessionswithcesar.com](http://www.sessionswithcesar.com/ "www.sessionswithcesar.com") (including the “Sessions with Cesar” materials and the “Cesar Live” webinars), the “Cesar’s Pack” community/forums and all other materials available on such web pages: (i) are not operated by CMI and (ii) may be accessible from and provide links to other third-party websites and access to content, products and services of third parties. CMI is not responsible for examining or evaluating, and we do not warrant the offerings of, any of these (or other) third-party websites, and CMI does not assume any responsibility or liability for the actions, products, services or content of these or other third-party websites or any third parties. You should refer to the separate terms of use, privacy policies, and other rules posted on such websites before you use them.
 
 ### Security
 
 We use reasonable security measures that are designed to protect information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any personal information or other information. You transmit personal information to us at your own risk. We are not liable for the privacy of e-mail addresses, registration and identification information, communications, confidential or trade-secret information, or any other content stored on our equipment, transmitted over networks accessed by the Site, or otherwise connected with your use of our Service.
 
-If you have any questions or concerns regarding the security of the Site, please e-mail performance@cesarmillaninc.com.
+If you have any questions or concerns regarding the security of the Site, please e-mail [performance@cesarsway.com](mailto:performance@cesarsway.com).
 
-If you suspect that you may have been a victim of fraud, we highly recommend you immediately take the appropriate steps to ensure your security. If you have further questions or concerns on this matter, please contact reportfraud@cesarmillaninc.com.
+If you suspect that you may have been a victim of fraud, we highly recommend you immediately take the appropriate steps to ensure your security. If you have further questions or concerns on this matter, please contact [reportfraud@cesarmillaninc.com](mailto:reportfraud@cesarmillaninc.com).
 
 Your online security can be jeopardized as a result of tactics employed by third parties who try to deceive customers of legitimate commercial sites such as ours into revealing their personal information to the perpetrators for the purpose of fraud and theft. These tactics, often referred to as “phishing,” may occur through various methods. Two of the more common “phishing” methods include:
 
@@ -91,7 +91,7 @@ Your online security can be jeopardized as a result of tactics employed by third
 
 
 
-If you suspect that you have been subjected to any of these kinds of activities, you also should contact the Federal Trade Commission at www.ftc.gov or phone 1-877-FTC-HELP.
+If you suspect that you have been subjected to any of these kinds of activities, you also should contact the Federal Trade Commission at [www.ftc.gov](http://www.ftc.gov/ "www.ftc.gov") or phone 1-877-FTC-HELP.
 
 ### Updates to this Policy
 
@@ -102,7 +102,6 @@ We may occasionally modify this policy, and such modification shall be effective
 If you have any questions, comments, or concerns about this privacy policy, please contact us using the following contact information:
 
 Cesar Millan, Inc.  
-3727 W. Magnolia  
-#706  
-Burbank, CA 91505  
-performance@cesarmillaninc.com
+PO Box 11479  
+Burbank, CA 91510  
+[performance@cesarsway.com](mailto:performance@cesarsway.com)
