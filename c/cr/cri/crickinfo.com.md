@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crickinfo.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208190751id_/http%3A//www.crickinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crickinfo.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523180802id_/http%3A//www.crickinfo.com/privacy) for the most accurate reproduction.*
 
 # crickinfo.com
 
