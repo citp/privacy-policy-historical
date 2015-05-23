@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the svnlabs.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206155248id_/http%3A//www.svnlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svnlabs.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523163925id_/http%3A//www.svnlabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | S V N Labs Softwares
+# S V N Labs Softwares | Privacy Policy
 
 SVNLabs strives to offer its visitors the many advantages of  
 Internet technology and to provide an interactive and personalized  
