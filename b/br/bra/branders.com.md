@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108065736id_/http%3A//www.branders.com/content/pages/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branders.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523102142id_/http%3A//www.branders.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Brand Builders
+# Promotional Products & Promo Items - Tradeshow Giveaways
 
 ## Privacy Policy
-
-Jan 28, 2011 _in_ [Support Pages](http://www.branders.com/content/pages "View all posts in Support Pages")
 
 Branders.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.By visiting Branders.com, you are accepting the practices described in this Privacy Notice.
 
@@ -61,5 +59,3 @@ Other products we also recommend : [business logo on sunglasses](http://www.bran
 Our business changes constantly and our Privacy Notice will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.
 
 _This Privacy Policy has been in effect since January 1, 2001_
-
-Share this page 
