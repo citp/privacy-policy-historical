@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphophoney.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110232937id_/http%3A//hiphophoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphophoney.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523200145id_/http%3A//hiphophoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hip Hop Blog & Hip Hop Site: Hip Hop Honeys
 
