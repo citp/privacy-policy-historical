@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gerardfashions.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102112731id_/http%3A//www.gerardfashions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerardfashions.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523033612id_/http%3A//www.gerardfashions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
