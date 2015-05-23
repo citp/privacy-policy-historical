@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ficardo-weddings.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112180035id_/http%3A//www.ficardo-weddings.com/index.php%3Foption%3Dcom_k2%26view%3Ditem%26layout%3Ditem%26id%3D32%26Itemid%3D15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ficardo-weddings.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523160407id_/http%3A//www.ficardo-weddings.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
