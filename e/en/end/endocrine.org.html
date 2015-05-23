@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the endocrine.org privacy policy that was archived on 2013-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229000654id_/https%3A//www.endocrine.org/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the endocrine.org privacy policy that was archived on 2015-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150523132140id_/http%3A//www.endocrine.org/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" ng-app="site"><!--<![endif]--><head>
         <meta charset="UTF-8">
         <link type="text/css" rel="stylesheet" href="//fast.fonts.com/cssapi/a1d1cd2c-cab2-489b-8c95-ea5149d1aa00.css">
-<link href="/cassette.axd/stylesheet/fafdf2415efc9c3011bfcf2cfcde4b86ed53674b/css" type="text/css" rel="stylesheet">
+<link href="/cassette.axd/stylesheet/24634695fdfabe92f07bc4a1227902033102c23f/css" type="text/css" rel="stylesheet">
 <!--[if gte IE 9]>
   <style type="text/css">
     .gradient {
@@ -17,41 +17,57 @@
     <script src="/js/ie.js"></script>
     <script src="/js/modernizr.js"></script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4fe0e7b7746e6ce9"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4fe0e7b7746e6ce9"></script>
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.5/angular.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.5/angular-resource.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.5/angular-sanitize.min.js"></script>
-<script src="/cassette.axd/script/c79cf03648c00de6fb2272b7040dc880600b7bf7/js/list" type="text/javascript"></script>
+<script src="/cassette.axd/script/29010e6dab6df830346b89c938c6fdfa93151209/js/list" type="text/javascript"></script>
                  
-    <title>Privacy Policy | The Endocrine Society</title>
+    <title>Privacy Policy | Endocrine Society</title>
     <meta name="title" content="Privacy Policy">
 <link rel="canonical" href="https://www.endocrine.org/about-us/privacy-policy">
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 <link rel="P3Pv1" href="/w3c/p3p.xml">
 
     <meta name="ces:title" content="Privacy Policy">
-    <meta name="ces:contentdate" content="2013/11/22">
-    <meta name="ces:displaydate" content="November 22, 2013">
+    <meta name="ces:contentdate" content="2014/12/04">
+    <meta name="ces:displaydate" content="December 4, 2014">
     <meta name="ces:exclude" content="False">
     <meta name="ces:eventisexternal" content="False">
 
                    
     <script type="text/javascript">
-	    var _gaq = _gaq || [];
-	    _gaq.push(['_setAccount', 'UA-40455998-1']);
-        _gaq.push(['_setDomainName', 'endocrine.org']);
-        _gaq.push(['_setAllowLinker', true]);
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-40455998-1', 'auto');  // Replace with your property ID.     
+        
+        //Google Analytics User-ID Tracking
+        function getCookie(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i].trim();
+                if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+            }
+            return "";
+        }
+
+        var userToken = getCookie("PERSONID");
+        if (userToken != "") {
+            ga('set', '&uid', userToken);
+        }
+        //End User-ID Tracking
+
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
         
                       
 setUserType('Non-Member');setLogIn(false);
-
-	    _gaq.push(['_trackPageview']);
-
-	    (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	    })();
 
 	    var addthis_config = {
 	        data_ga_property: 'UA-40455998-1',
@@ -60,25 +76,25 @@ setUserType('Non-Member');setLogIn(false);
 
 	    function setAudience(audience) {
 	        if (audience) {
-	            _gaq.push(['_setCustomVar', 1, 'Audience', audience, 3]);
+	            ga('set', 'Audience', audience);
 	        }
 	    }
 	
 	    function setTopic(topic) {
 	        if (topic) {
-	            _gaq.push(['_setCustomVar', 2, 'Topic', topic, 3]);
+	            ga('set', 'Topic', topic);
 	        }
 	    }
 	    
         function setUserType(memberType) {
             if (memberType && memberType.length) {
-                _gaq.push(['_setCustomVar', 3, 'User Type', memberType, 1]);
+                ga('set', 'User Type', memberType);
             }
         }
         
         function setLogIn(loggedIn) {
             if (loggedIn) {
-                _gaq.push(['_setCustomVar', 4, 'Logged In', 'Logged In', 2]);
+                ga('set', 'User Type', loggedIn);
             }
         }
     </script>
@@ -107,12 +123,12 @@ setUserType('Non-Member');setLogIn(false);
 <a href="/membership" target="" class="main-nav-link first ">Membership</a>
                                 <div class="sub-menu-container">
                                     <ul>
-                                            <li><a href="/membership/join-now" target="" class="main-sub-nav-link">Join Now</a></li>
+                                            <li><a href="/membership/join-now" target="" class="main-sub-nav-link">Join</a></li>
                                             <li><a href="/membership/membership-benefits" target="" class="main-sub-nav-link">Membership Benefits</a></li>
                                             <li><a href="/membership/renew-your-membership" target="" class="main-sub-nav-link">Renew Your Membership</a></li>
                                             <li><a href="/membership/refer-a-member" target="" class="main-sub-nav-link">Refer a Member</a></li>
                                             <li><a href="/membership/membership-directory" target="" class="main-sub-nav-link">Member Directory</a></li>
-                                            <li><a href="/membership/society-elections" target="" class="main-sub-nav-link">Society Elections</a></li>
+                                            <li><a href="/membership/society-election" target="" class="main-sub-nav-link">Endocrine Society Election</a></li>
                                             <li><a href="/membership/society-committees" target="" class="main-sub-nav-link">Society Committees</a></li>
                                             <li><a href="/membership/aecd" target="" class="main-sub-nav-link">AECD</a></li>
                                             <li><a href="/membership/email-newsletters" target="" class="main-sub-nav-link">Email Newsletters</a></li>
@@ -123,14 +139,15 @@ setUserType('Non-Member');setLogIn(false);
                         </li>
                         <li class="main-nav-col ">
                             <div class="main-nav-container">
-<a href="/endocrine-press" target="" class="main-nav-link  ">Endocrine Press</a>
+<a href="/endocrine-press" target="" class="main-nav-link  ">Publications</a>
                                 <div class="sub-menu-container">
                                     <ul>
                                             <li><a href="/endocrine-press/journals" target="" class="main-sub-nav-link">Society Journals</a></li>
                                             <li><a href="/endocrine-press/endocrine-news" target="" class="main-sub-nav-link">Endocrine News</a></li>
                                             <li><a href="/endocrine-press/scientific-statements" target="" class="main-sub-nav-link">Scientific Statements</a></li>
-                                            <li><a href="http://press.endocrine.org/page/submit-book" target="" class="main-sub-nav-link">Book Proposals</a></li>
-                                            <li><a href="/endocrine-press/copyright-permissions" target="" class="main-sub-nav-link">Copyright Permissions</a></li>
+                                            <li><a href="http://press.endocrine.org/page/books" target="" class="main-sub-nav-link">Endocrine Press Books</a></li>
+                                            <li><a href="http://press.endocrine.org/page/permissions" target="" class="main-sub-nav-link">Copyright Permissions and Reprints</a></li>
+                                            <li><a href="/endocrine-press/statement-of-principle" target="" class="main-sub-nav-link">Statement of Principle</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -140,14 +157,17 @@ setUserType('Non-Member');setLogIn(false);
 <a href="/meetings" target="" class="main-nav-link  ">Meetings</a>
                                 <div class="sub-menu-container">
                                     <ul>
-                                            <li><a href="/endo-2014" target="" class="main-sub-nav-link">ICE ENDO 2014</a></li>
-                                            <li><a href="/meetings/past-endo-meetings" target="" class="main-sub-nav-link">Past ENDO Meetings</a></li>
-                                            <li><a href="/meetings/clinical-endocrinology-update-and-board-review/san-francisco" target="" class="main-sub-nav-link">CEU 2014</a></li>
-                                            <li><a href="/meetings/clinical-endocrinology-update-and-board-review/new-orleans" target="" class="main-sub-nav-link">Board Reviews</a></li>
-                                            <li><a href="/meetings/session-recordings" target="" class="main-sub-nav-link">Session Recordings</a></li>
+                                            <li><a href="/endo-2016" target="" class="main-sub-nav-link">ENDO 2016</a></li>
+                                            <li><a href="/meetings/endo-annual-meetings" target="" class="main-sub-nav-link">ENDO Annual Meetings</a></li>
+                                            <li><a href="/ceu" target="" class="main-sub-nav-link">Clinical Endocrinology Update</a></li>
+                                            <li><a href="/ebr" target="" class="main-sub-nav-link">Endocrine Board Review</a></li>
                                             <li><a href="/meetings/regional" target="" class="main-sub-nav-link">Regional</a></li>
                                             <li><a href="/meetings/international" target="" class="main-sub-nav-link">International</a></li>
+                                            <li><a href="/meetings/fellows-conferences" target="" class="main-sub-nav-link">Fellows Conferences</a></li>
+                                            <li><a href="/meetings/policy-summit" target="" class="main-sub-nav-link">Diabetes Policy Summit</a></li>
+                                            <li><a href="/meetings/pptox-iv" target="" class="main-sub-nav-link">PPTOX IV</a></li>
                                             <li><a href="/meetings/health-disparities-summit" target="" class="main-sub-nav-link">Health Disparities Summit</a></li>
+                                            <li><a href="/meetings/session-recordings" target="" class="main-sub-nav-link">Session Recordings</a></li>
                                             <li><a href="/meetings/worldwide-endocrinology-calendar" target="" class="main-sub-nav-link">Worldwide Endocrinology Calendar</a></li>
                                     </ul>
                                 </div>
@@ -158,13 +178,15 @@ setUserType('Non-Member');setLogIn(false);
 <a href="/education-and-practice-management" target="" class="main-nav-link  ">Education and Clinical Practice</a>
                                 <div class="sub-menu-container">
                                     <ul>
+                                            <li><a href="http://education.endocrine.org" target="" class="main-sub-nav-link">Center for Learning</a></li>
                                             <li><a href="/education-and-practice-management/clinical-practice-guidelines" target="" class="main-sub-nav-link">Clinical Practice Guidelines</a></li>
                                             <li><a href="/education-and-practice-management/continuing-medical-education" target="" class="main-sub-nav-link">Continuing Medical Education</a></li>
                                             <li><a href="/education-and-practice-management/self-assessment" target="" class="main-sub-nav-link">Self Assessment</a></li>
                                             <li><a href="/education-and-practice-management/moc" target="" class="main-sub-nav-link">MOC</a></li>
                                             <li><a href="/education-and-practice-management/ite" target="" class="main-sub-nav-link">ESAP-ITE</a></li>
+                                            <li><a href="/education-and-practice-management/endocrine-consult" target="" class="main-sub-nav-link">Endocrine Cases</a></li>
                                             <li><a href="/education-and-practice-management/clinical-research-library" target="" class="main-sub-nav-link">Clinical Research Instrument Library</a></li>
-                                            <li><a href="/education-and-practice-management/practice-management-resources" target="" class="main-sub-nav-link">Practice Management</a></li>
+                                            <li><a href="/education-and-practice-management/quality-improvement-resources" target="" class="main-sub-nav-link">Quality Improvement Resources</a></li>
                                             <li><a href="/education-and-practice-management/uptodate" target="" class="main-sub-nav-link">UpToDate</a></li>
                                     </ul>
                                 </div>
@@ -175,8 +197,9 @@ setUserType('Non-Member');setLogIn(false);
 <a href="/endocareers" target="" class="main-nav-link  ">EndoCareers</a>
                                 <div class="sub-menu-container">
                                     <ul>
-                                            <li><a href="/endocareers/job-seekers" target="" class="main-sub-nav-link">Job Seekers</a></li>
-                                            <li><a href="/endocareers/employers" target="" class="main-sub-nav-link">Employers</a></li>
+                                            <li><a href="http://careers.endocrine.org/home/" target="" class="main-sub-nav-link">Find Jobs</a></li>
+                                            <li><a href="http://careers.endocrine.org/employer/pricing/" target="" class="main-sub-nav-link">Post Jobs</a></li>
+                                            <li><a href="/endocareers/mentor-exchange" target="" class="main-sub-nav-link">Mentor Exchange</a></li>
                                             <li><a href="/endocareers/endogrants-central" target="" class="main-sub-nav-link">EndoGrants Central</a></li>
                                             <li><a href="/endocareers/in-training-and-early-career-resources" target="" class="main-sub-nav-link">In-Training and Early Career Resources</a></li>
                                     </ul>
@@ -193,7 +216,7 @@ setUserType('Non-Member');setLogIn(false);
                                             <li><a href="/awards/research-fellowship-awards" target="" class="main-sub-nav-link">Research Fellowship</a></li>
                                             <li><a href="/awards/student-and-early-career-awards" target="" class="main-sub-nav-link">Student and Early Career</a></li>
                                             <li><a href="/awards/additional-society-awards" target="" class="main-sub-nav-link">Additional Society Awards</a></li>
-                                            <li><a href="/awards/visiting-professorship-program" target="" class="main-sub-nav-link">Visiting Professorship Program</a></li>
+                                            <li><a href="/awards/visiting-professor-program" target="" class="main-sub-nav-link">Visiting Professor Program</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -203,14 +226,15 @@ setUserType('Non-Member');setLogIn(false);
 <a href="/advocacy-and-outreach" target="" class="main-nav-link  ">Advocacy and Outreach</a>
                                 <div class="sub-menu-container">
                                     <ul>
-                                            <li><a href="/advocacy-and-outreach/advocacy-efforts" target="" class="main-sub-nav-link">Advocacy Efforts</a></li>
+                                            <li><a href="/advocacy-and-outreach/advocacy-efforts" target="" class="main-sub-nav-link">Priorities</a></li>
+                                            <li><a href="/advocacy-and-outreach/take-action" target="" class="main-sub-nav-link">Take Action</a></li>
                                             <li><a href="/advocacy-and-outreach/position-statements" target="" class="main-sub-nav-link">Position Statements</a></li>
-                                            <li><a href="/advocacy-and-outreach/letters-and-alerts" target="" class="main-sub-nav-link">Society Policy Communications</a></li>
-                                            <li><a href="/advocacy-and-outreach/nih-funding-advocacy-toolkit" target="" class="main-sub-nav-link">NIH Funding Advocacy Toolkit</a></li>
+                                            <li><a href="/advocacy-and-outreach/letters-and-alerts" target="" class="main-sub-nav-link">Policy Communications</a></li>
                                             <li><a href="/advocacy-and-outreach/path" target="" class="main-sub-nav-link">Partnership for the Accurate Testing of Hormones (PATH)</a></li>
-                                            <li><a href="/advocacy-and-outreach/contact-congress" target="" class="main-sub-nav-link">Contact Congress</a></li>
+                                            <li><a href="/membership/email-newsletters/endocrine-insider" target="" class="main-sub-nav-link">Endocrine Insider</a></li>
                                             <li><a href="/advocacy-and-outreach/minority-affairs" target="" class="main-sub-nav-link">Minority Affairs</a></li>
                                             <li><a href="/advocacy-and-outreach/flare" target="" class="main-sub-nav-link">FLARE</a></li>
+                                            <li><a href="/advocacy-and-outreach/endocares" target="" class="main-sub-nav-link">EndoCares</a></li>
                                             <li><a href="/advocacy-and-outreach/ambassador-exchange-program" target="" class="main-sub-nav-link">Ambassador Exchange Program</a></li>
                                             <li><a href="/advocacy-and-outreach/international-resources" target="" class="main-sub-nav-link">International Resources</a></li>
                                     </ul>
@@ -222,14 +246,13 @@ setUserType('Non-Member');setLogIn(false);
 <a href="/about-us" target="" class="main-nav-link  last">About Us</a>
                                 <div class="sub-menu-container">
                                     <ul>
-                                            <li><a href="/about-us/strategic-plan" target="" class="main-sub-nav-link">Strategic Plan</a></li>
                                             <li><a href="/about-us/leadership-and-staff" target="" class="main-sub-nav-link">Leadership and Staff</a></li>
+                                            <li><a href="/about-us/strategic-plan" target="" class="main-sub-nav-link">Strategic Plan</a></li>
                                             <li><a href="/about-us/society-history" target="" class="main-sub-nav-link">Society History</a></li>
                                             <li><a href="/about-us/conflicts-of-interest" target="" class="main-sub-nav-link">Conflicts of Interest</a></li>
                                             <li><a href="/about-us/advertising-disclaimer" target="" class="main-sub-nav-link">Advertising Disclaimer</a></li>
                                             <li><a href="/about-us/employment-at-the-society" target="" class="main-sub-nav-link">Employment at the Society</a></li>
                                             <li><a href="/about-us/sister-societies" target="" class="main-sub-nav-link">Sister Societies</a></li>
-                                            <li><a href="/about-us/contacts-and-directions" target="" class="main-sub-nav-link">Contacts and Directions</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -239,11 +262,11 @@ setUserType('Non-Member');setLogIn(false);
         
             <div class="width-header-container">
             
-                <div class="logo-container"><a href="/"><img src="/~/media/Images/Society Logos/logo-tes.png" class="img-logo-tes" alt="The Endocrine Society" height="74" width="193"></a></div>
+                <div class="logo-container"><a href="/"><img src="/~/media/Images/Society Logos/TES logo.png" class="img-logo-tes" alt="The Endocrine Society" height="49" width="193"></a></div>
             
                 <div class="header-map-container"></div>
             
-                <div class="header-blurb">Dedicated to Hormone Research and the Clinical Practice of Endocrinology</div>
+                <div class="header-blurb">Hormone Science to Health</div>
         
                 <div class="nav-corporate-container">
                     <ul class="nav-corporate">
@@ -274,12 +297,8 @@ setUserType('Non-Member');setLogIn(false);
                                                         <a href="/membership/membership-directory" target="" class="auxiliary-nav-link">Member Directory                                                                                                                                                                                    <div class="img-auxiliary-nav-arrow"></div>
 </a>
                                         </li>
-                                        <li class=" ">
-                                                        <a href="/membership/join-now" target="" class="auxiliary-nav-link">Join Now                                                                                                                                                                                    <div class="img-auxiliary-nav-arrow"></div>
-</a>
-                                        </li>
                                         <li class=" last">
-                                                        <a href="/membership/donations-endo" target="" class="auxiliary-nav-link">Make a Donation                                                                                                                                                                                    <div class="img-auxiliary-nav-arrow"></div>
+                                                        <a href="/external-login" target="" class="auxiliary-nav-link">Login                                                                                                                                                                                    <div class="img-auxiliary-nav-arrow"></div>
 </a>
                                         </li>
                                 </ul>
@@ -292,48 +311,11 @@ setUserType('Non-Member');setLogIn(false);
                 <div class="nav-browse-container">
             
                     <!-- browse by navigation background -->
-                    <div class="nav-browse-bg"><img src="/images/browse-by-nav-bg.png" height="61" width="702" class="img-browse-by-bg"></div>
+                    
 
                     <!-- browse by nav content -->
                     <ul class="browse-by-content">
-                        <li class="browse-text">Browse by:</li>
-                        <li class="browse-option topic">
-                            <a href="#" class="browse-by-link">
-                                <div class="option-text">Topic</div> <div class="img-arrow-circle-down"></div>
-                            </a>
-                    
-                            <!-- 'Browse by:' sub nav menu -->
-                            <ul class="browseby-subnav-container">
-                                    <li class="first"><a href="/topics/adrenal" target="" class="browseby-subnav-link">Adrenal</a></li>
-                                    <li class=""><a href="/topics/bone-and-mineral" target="" class="browseby-subnav-link">Bone and Mineral</a></li>
-                                    <li class=""><a href="/topics/cardiometabolic" target="" class="browseby-subnav-link">Cardiometabolic</a></li>
-                                    <li class=""><a href="/topics/diabetes" target="" class="browseby-subnav-link">Diabetes</a></li>
-                                    <li class=""><a href="/topics/endocrine-disruptors" target="" class="browseby-subnav-link">Endocrine Disruptors</a></li>
-                                    <li class=""><a href="/topics/health-disparities" target="" class="browseby-subnav-link">Health Disparities</a></li>
-                                    <li class=""><a href="/topics/lipids-and-obesity" target="" class="browseby-subnav-link">Lipids and Obesity</a></li>
-                                    <li class=""><a href="/topics/mens-health" target="" class="browseby-subnav-link">Men's Health</a></li>
-                                    <li class=""><a href="/topics/neoplasia-and-cancer" target="" class="browseby-subnav-link">Neoplasia and Cancer</a></li>
-                                    <li class=""><a href="/topics/pediatric-endocrinology" target="" class="browseby-subnav-link">Pediatric Endocrinology</a></li>
-                                    <li class=""><a href="/topics/pituitary" target="" class="browseby-subnav-link">Pituitary</a></li>
-                                    <li class=""><a href="/topics/thyroid" target="" class="browseby-subnav-link">Thyroid</a></li>
-                                    <li class=""><a href="/topics/womens-health" target="" class="browseby-subnav-link">Women's Health</a></li>
-                            </ul>
-                        </li>
-                        <li class="browse-text">or</li>
-                        <li class="browse-option who">
-                            <a href="#" class="browse-by-link">
-                                <div class="option-text">Who you are</div> <div class="img-arrow-circle-down"></div>
-                            </a>
-
-                            <!-- 'Browse by:' sub nav menu -->
-                            <ul class="browseby-subnav-container">
-                                    <li class="first"><a href="/audiences/basic-scientist" target="" class="browseby-subnav-link">Basic Scientist</a></li>
-                                    <li class=""><a href="/audiences/clinical-scientist" target="" class="browseby-subnav-link">Clinical Scientist</a></li>
-                                    <li class=""><a href="/audiences/physician-in-practice" target="" class="browseby-subnav-link">Physician-in-Practice</a></li>
-                                    <li class=""><a href="/audiences/in-training-and-early-career" target="" class="browseby-subnav-link">In-Training and Early Career</a></li>
-                            </ul>
-
-                        </li>
+                        
                         <li class="search">
 <form action="/about-us/privacy-policy" method="post">                                <div class="search-box-container">
                                     <input class="search-input" id="keywords" name="keywords" placeholder="Search..." type="text" value="">
@@ -407,31 +389,29 @@ setUserType('Non-Member');setLogIn(false);
             
     <noindex>
         <ul class="content-sub-nav">
-                <li>
-<a href="/about-us/strategic-plan" target="" class="sub-nav-link ">Strategic Plan</a>                </li>
-                <li>
-<a href="/about-us/leadership-and-staff" target="" class="sub-nav-link ">Leadership and Staff</a>                                <ul class="sub-nav-options-list">
-                                        <li><div class="dblarrow">»</div> <a href="/about-us/leadership-and-staff/barbara-byrd-keenan" target="" class="sub-nav-options-link ">Barbara Byrd Keenan</a></li>
-                                </ul>
-                </li>
-                <li>
-<a href="/about-us/society-history" target="" class="sub-nav-link ">Society History</a>                                <ul class="sub-nav-options-list">
-                                        <li><div class="dblarrow">»</div> <a href="/about-us/society-history/sawin-library" target="" class="sub-nav-options-link ">Sawin Library</a></li>
-                                        <li><div class="dblarrow">»</div> <a href="/about-us/society-history/oral-and-video-histories" target="" class="sub-nav-options-link ">Oral &amp; Video Histories</a></li>
-                                        <li><div class="dblarrow">»</div> <a href="/about-us/society-history/scott-hunt-tribute-page" target="" class="sub-nav-options-link ">Tribute to Scott Hunt</a></li>
-                                        <li><div class="dblarrow">»</div> <a href="/about-us/society-history/in-memoriam" target="" class="sub-nav-options-link ">In Memoriam</a></li>
-                                </ul>
-                </li>
-                <li>
-<a href="/about-us/conflicts-of-interest" target="" class="sub-nav-link ">Conflicts of Interest</a>                </li>
-                <li>
-<a href="/about-us/advertising-disclaimer" target="" class="sub-nav-link ">Advertising Disclaimer</a>                </li>
-                <li>
-<a href="/about-us/employment-at-the-society" target="" class="sub-nav-link ">Employment at the Society</a>                </li>
-                <li>
-<a href="/about-us/sister-societies" target="" class="sub-nav-link ">Sister Societies</a>                </li>
-                <li>
-<a href="/about-us/contacts-and-directions" target="" class="sub-nav-link ">Contacts and Directions</a>                </li>
+                        <li class="">
+                    <a href="/about-us/leadership-and-staff" target="" class="sub-nav-link ">Leadership and Staff</a>
+                            <a href="/about-us/leadership-and-staff"><img src="/images/arrow-circle-right.png" height="16" width="16" class="img-arrow-circle-right" style="position:absolute;display:block;right:15px;margin-top:-18px;"></a>
+                    </li>
+                        <li class="">
+                    <a href="/about-us/strategic-plan" target="" class="sub-nav-link ">Strategic Plan</a>
+                    </li>
+                        <li class="">
+                    <a href="/about-us/society-history" target="" class="sub-nav-link ">Society History</a>
+                            <a href="/about-us/society-history"><img src="/images/arrow-circle-right.png" height="16" width="16" class="img-arrow-circle-right" style="position:absolute;display:block;right:15px;margin-top:-18px;"></a>
+                    </li>
+                        <li class="">
+                    <a href="/about-us/conflicts-of-interest" target="" class="sub-nav-link ">Conflicts of Interest</a>
+                    </li>
+                        <li class="">
+                    <a href="/about-us/advertising-disclaimer" target="" class="sub-nav-link ">Advertising Disclaimer</a>
+                    </li>
+                        <li class="">
+                    <a href="/about-us/employment-at-the-society" target="" class="sub-nav-link ">Employment at the Society</a>
+                    </li>
+                        <li class="">
+                    <a href="/about-us/sister-societies" target="" class="sub-nav-link ">Sister Societies</a>
+                    </li>
         </ul>      
     </noindex>
 
@@ -484,16 +464,17 @@ setUserType('Non-Member');setLogIn(false);
     <noindex>
         <div id="mainFooter" class="main-footer">
 
-            <div class="footer-bg-container"><img src="/images/footer-gradient-bg.jpg" height="370" width="1200" class="img-footer-bg"></div>
+            <div class="footer-bg-container"><img src="/images/footer-gradient-bg-v2.jpg" height="370" width="1200" class="img-footer-bg"></div>
             <div class="footer-top-shadow-container"></div>
 
             <div class="width-footer-content">
 
                     <ul class="nav-corporate" style="float: left; position: relative; top: 0px;">
-                            <li class="first"><a href="/about-us/contacts-and-directions" target="" class="footer-corp-link">Contacts and Directions</a></li>
+                            <li class="first"><a href="/about-us/contacts-and-directions" target="" class="footer-corp-link">Contact Us</a></li>
                             <li class=""><a href="/corporate-relations" target="" class="footer-corp-link">Corporate Relations</a></li>
                             <li class=""><a href="/news-room" target="" class="footer-corp-link">News Room</a></li>
                             <li class=""><a href="/about-us/privacy-policy" target="" class="footer-corp-link">Privacy Policy</a></li>
+                            <li class=""><a href="/about-us/terms-of-use" target="" class="footer-corp-link">Terms of Use</a></li>
                     </ul>
         
                     <div class="connect-with-us-social-container">
@@ -504,8 +485,8 @@ setUserType('Non-Member');setLogIn(false);
                     </div>
             
                 <div class="footer-copyright-address-container">
-                    <div class="copyright-div">@2013 The Endocrine Society</div>
-                    <div class="address-div">8401 Connecticut Avenue, Suite 900 | Chevy Chase, MD 20815-5817 | 301.941.0200 | 888.363.6274</div>
+                    <div class="copyright-div">© 2015 Copyright Endocrine Society. All rights reserved.</div>
+                    <div class="address-div">2055 L Street NW, Suite 600 | Washington, DC 20036 | 202.971.3636  | 888.363.6274</div>
                 </div>
 
                 <div class="section group footer-nav-container">
@@ -514,12 +495,12 @@ setUserType('Non-Member');setLogIn(false);
                                 <div class="footer-nav-section">
                                     <ul class="footer-nav-list">
                                                 <li><a href="/membership" target="" class="footer-nav-category-link">Membership</a></li>
-                                                <li><a href="/membership/join-now" target="" class="footer-nav-link">Join Now</a></li>
+                                                <li><a href="/membership/join-now" target="" class="footer-nav-link">Join</a></li>
                                                 <li><a href="/membership/membership-benefits" target="" class="footer-nav-link">Membership Benefits</a></li>
                                                 <li><a href="/membership/renew-your-membership" target="" class="footer-nav-link">Renew Your Membership</a></li>
                                                 <li><a href="/membership/refer-a-member" target="" class="footer-nav-link">Refer a Member</a></li>
                                                 <li><a href="/membership/membership-directory" target="" class="footer-nav-link">Member Directory</a></li>
-                                                <li><a href="/membership/society-elections" target="" class="footer-nav-link">Society Elections</a></li>
+                                                <li><a href="/membership/society-election" target="" class="footer-nav-link">Endocrine Society Election</a></li>
                                                 <li><a href="/membership/society-committees" target="" class="footer-nav-link">Society Committees</a></li>
                                                 <li><a href="/membership/aecd" target="" class="footer-nav-link">AECD</a></li>
                                                 <li><a href="/membership/email-newsletters" target="" class="footer-nav-link">Email Newsletters</a></li>
@@ -528,12 +509,13 @@ setUserType('Non-Member');setLogIn(false);
                                 </div>
                                 <div class="footer-nav-section">
                                     <ul class="footer-nav-list">
-                                                <li><a href="/endocrine-press" target="" class="footer-nav-category-link">Endocrine Press</a></li>
+                                                <li><a href="/endocrine-press" target="" class="footer-nav-category-link">Publications</a></li>
                                                 <li><a href="/endocrine-press/journals" target="" class="footer-nav-link">Society Journals</a></li>
                                                 <li><a href="/endocrine-press/endocrine-news" target="" class="footer-nav-link">Endocrine News</a></li>
                                                 <li><a href="/endocrine-press/scientific-statements" target="" class="footer-nav-link">Scientific Statements</a></li>
-                                                <li><a href="http://press.endocrine.org/page/submit-book" target="" class="footer-nav-link">Book Proposals</a></li>
-                                                <li><a href="/endocrine-press/copyright-permissions" target="" class="footer-nav-link">Copyright Permissions</a></li>
+                                                <li><a href="http://press.endocrine.org/page/books" target="" class="footer-nav-link">Endocrine Press Books</a></li>
+                                                <li><a href="http://press.endocrine.org/page/permissions" target="" class="footer-nav-link">Copyright Permissions and Reprints</a></li>
+                                                <li><a href="/endocrine-press/statement-of-principle" target="" class="footer-nav-link">Statement of Principle</a></li>
                                     </ul>
                                 </div>
                                 <div class="footer-nav-section">
@@ -551,35 +533,41 @@ setUserType('Non-Member');setLogIn(false);
                                 <div class="footer-nav-section">
                                     <ul class="footer-nav-list">
                                                 <li><a href="/meetings" target="" class="footer-nav-category-link">Meetings</a></li>
-                                                <li><a href="/endo-2014" target="" class="footer-nav-link">ICE ENDO 2014</a></li>
-                                                <li><a href="/meetings/past-endo-meetings" target="" class="footer-nav-link">Past ENDO Meetings</a></li>
-                                                <li><a href="/meetings/clinical-endocrinology-update-and-board-review/san-francisco" target="" class="footer-nav-link">CEU 2014</a></li>
-                                                <li><a href="/meetings/clinical-endocrinology-update-and-board-review/new-orleans" target="" class="footer-nav-link">Board Reviews</a></li>
-                                                <li><a href="/meetings/session-recordings" target="" class="footer-nav-link">Session Recordings</a></li>
+                                                <li><a href="/endo-2016" target="" class="footer-nav-link">ENDO 2016</a></li>
+                                                <li><a href="/meetings/endo-annual-meetings" target="" class="footer-nav-link">ENDO Annual Meetings</a></li>
+                                                <li><a href="/ceu" target="" class="footer-nav-link">Clinical Endocrinology Update</a></li>
+                                                <li><a href="/ebr" target="" class="footer-nav-link">Endocrine Board Review</a></li>
                                                 <li><a href="/meetings/regional" target="" class="footer-nav-link">Regional</a></li>
                                                 <li><a href="/meetings/international" target="" class="footer-nav-link">International</a></li>
+                                                <li><a href="/meetings/fellows-conferences" target="" class="footer-nav-link">Fellows Conferences</a></li>
+                                                <li><a href="/meetings/policy-summit" target="" class="footer-nav-link">Diabetes Policy Summit</a></li>
+                                                <li><a href="/meetings/pptox-iv" target="" class="footer-nav-link">PPTOX IV</a></li>
                                                 <li><a href="/meetings/health-disparities-summit" target="" class="footer-nav-link">Health Disparities Summit</a></li>
+                                                <li><a href="/meetings/session-recordings" target="" class="footer-nav-link">Session Recordings</a></li>
                                                 <li><a href="/meetings/worldwide-endocrinology-calendar" target="" class="footer-nav-link">Worldwide Endocrinology Calendar</a></li>
                                     </ul>
                                 </div>
                                 <div class="footer-nav-section">
                                     <ul class="footer-nav-list">
                                                 <li><a href="/education-and-practice-management" target="" class="footer-nav-category-link">Education and Clinical Practice</a></li>
+                                                <li><a href="http://education.endocrine.org" target="" class="footer-nav-link">Center for Learning</a></li>
                                                 <li><a href="/education-and-practice-management/clinical-practice-guidelines" target="" class="footer-nav-link">Clinical Practice Guidelines</a></li>
                                                 <li><a href="/education-and-practice-management/continuing-medical-education" target="" class="footer-nav-link">Continuing Medical Education</a></li>
                                                 <li><a href="/education-and-practice-management/self-assessment" target="" class="footer-nav-link">Self Assessment</a></li>
                                                 <li><a href="/education-and-practice-management/moc" target="" class="footer-nav-link">MOC</a></li>
                                                 <li><a href="/education-and-practice-management/ite" target="" class="footer-nav-link">ESAP-ITE</a></li>
+                                                <li><a href="/education-and-practice-management/endocrine-consult" target="" class="footer-nav-link">Endocrine Cases</a></li>
                                                 <li><a href="/education-and-practice-management/clinical-research-library" target="" class="footer-nav-link">Clinical Research Instrument Library</a></li>
-                                                <li><a href="/education-and-practice-management/practice-management-resources" target="" class="footer-nav-link">Practice Management</a></li>
+                                                <li><a href="/education-and-practice-management/quality-improvement-resources" target="" class="footer-nav-link">Quality Improvement Resources</a></li>
                                                 <li><a href="/education-and-practice-management/uptodate" target="" class="footer-nav-link">UpToDate</a></li>
                                     </ul>
                                 </div>
                                 <div class="footer-nav-section">
                                     <ul class="footer-nav-list">
                                                 <li><a href="/endocareers" target="" class="footer-nav-category-link">EndoCareers</a></li>
-                                                <li><a href="/endocareers/job-seekers" target="" class="footer-nav-link">Job Seekers</a></li>
-                                                <li><a href="/endocareers/employers" target="" class="footer-nav-link">Employers</a></li>
+                                                <li><a href="http://careers.endocrine.org/home/" target="" class="footer-nav-link">Find Jobs</a></li>
+                                                <li><a href="http://careers.endocrine.org/employer/pricing/" target="" class="footer-nav-link">Post Jobs</a></li>
+                                                <li><a href="/endocareers/mentor-exchange" target="" class="footer-nav-link">Mentor Exchange</a></li>
                                                 <li><a href="/endocareers/endogrants-central" target="" class="footer-nav-link">EndoGrants Central</a></li>
                                                 <li><a href="/endocareers/in-training-and-early-career-resources" target="" class="footer-nav-link">In-Training and Early Career Resources</a></li>
                                     </ul>
@@ -592,7 +580,7 @@ setUserType('Non-Member');setLogIn(false);
                                                 <li><a href="/awards/research-fellowship-awards" target="" class="footer-nav-link">Research Fellowship</a></li>
                                                 <li><a href="/awards/student-and-early-career-awards" target="" class="footer-nav-link">Student and Early Career</a></li>
                                                 <li><a href="/awards/additional-society-awards" target="" class="footer-nav-link">Additional Society Awards</a></li>
-                                                <li><a href="/awards/visiting-professorship-program" target="" class="footer-nav-link">Visiting Professorship Program</a></li>
+                                                <li><a href="/awards/visiting-professor-program" target="" class="footer-nav-link">Visiting Professor Program</a></li>
                                     </ul>
                                 </div>
 
@@ -601,14 +589,15 @@ setUserType('Non-Member');setLogIn(false);
                                 <div class="footer-nav-section">
                                     <ul class="footer-nav-list">
                                                 <li><a href="/advocacy-and-outreach" target="" class="footer-nav-category-link">Advocacy and Outreach</a></li>
-                                                <li><a href="/advocacy-and-outreach/advocacy-efforts" target="" class="footer-nav-link">Advocacy Efforts</a></li>
+                                                <li><a href="/advocacy-and-outreach/advocacy-efforts" target="" class="footer-nav-link">Priorities</a></li>
+                                                <li><a href="/advocacy-and-outreach/take-action" target="" class="footer-nav-link">Take Action</a></li>
                                                 <li><a href="/advocacy-and-outreach/position-statements" target="" class="footer-nav-link">Position Statements</a></li>
-                                                <li><a href="/advocacy-and-outreach/letters-and-alerts" target="" class="footer-nav-link">Society Policy Communications</a></li>
-                                                <li><a href="/advocacy-and-outreach/nih-funding-advocacy-toolkit" target="" class="footer-nav-link">NIH Funding Advocacy Toolkit</a></li>
+                                                <li><a href="/advocacy-and-outreach/letters-and-alerts" target="" class="footer-nav-link">Policy Communications</a></li>
                                                 <li><a href="/advocacy-and-outreach/path" target="" class="footer-nav-link">Partnership for the Accurate Testing of Hormones (PATH)</a></li>
-                                                <li><a href="/advocacy-and-outreach/contact-congress" target="" class="footer-nav-link">Contact Congress</a></li>
+                                                <li><a href="/membership/email-newsletters/endocrine-insider" target="" class="footer-nav-link">Endocrine Insider</a></li>
                                                 <li><a href="/advocacy-and-outreach/minority-affairs" target="" class="footer-nav-link">Minority Affairs</a></li>
                                                 <li><a href="/advocacy-and-outreach/flare" target="" class="footer-nav-link">FLARE</a></li>
+                                                <li><a href="/advocacy-and-outreach/endocares" target="" class="footer-nav-link">EndoCares</a></li>
                                                 <li><a href="/advocacy-and-outreach/ambassador-exchange-program" target="" class="footer-nav-link">Ambassador Exchange Program</a></li>
                                                 <li><a href="/advocacy-and-outreach/international-resources" target="" class="footer-nav-link">International Resources</a></li>
                                     </ul>
@@ -616,14 +605,13 @@ setUserType('Non-Member');setLogIn(false);
                                 <div class="footer-nav-section">
                                     <ul class="footer-nav-list">
                                                 <li><a href="/about-us" target="" class="footer-nav-category-link">About Us</a></li>
-                                                <li><a href="/about-us/strategic-plan" target="" class="footer-nav-link">Strategic Plan</a></li>
                                                 <li><a href="/about-us/leadership-and-staff" target="" class="footer-nav-link">Leadership and Staff</a></li>
+                                                <li><a href="/about-us/strategic-plan" target="" class="footer-nav-link">Strategic Plan</a></li>
                                                 <li><a href="/about-us/society-history" target="" class="footer-nav-link">Society History</a></li>
                                                 <li><a href="/about-us/conflicts-of-interest" target="" class="footer-nav-link">Conflicts of Interest</a></li>
                                                 <li><a href="/about-us/advertising-disclaimer" target="" class="footer-nav-link">Advertising Disclaimer</a></li>
                                                 <li><a href="/about-us/employment-at-the-society" target="" class="footer-nav-link">Employment at the Society</a></li>
                                                 <li><a href="/about-us/sister-societies" target="" class="footer-nav-link">Sister Societies</a></li>
-                                                <li><a href="/about-us/contacts-and-directions" target="" class="footer-nav-link">Contacts and Directions</a></li>
                                     </ul>
                                 </div>
 
@@ -641,19 +629,6 @@ setUserType('Non-Member');setLogIn(false);
                                     </a>
                                     
                                     <ul class="browseby-subnav-container">
-                                            <li class="first"><a href="/topics/adrenal" target="" class="browseby-subnav-link">Adrenal</a></li>
-                                            <li class=""><a href="/topics/bone-and-mineral" target="" class="browseby-subnav-link">Bone and Mineral</a></li>
-                                            <li class=""><a href="/topics/cardiometabolic" target="" class="browseby-subnav-link">Cardiometabolic</a></li>
-                                            <li class=""><a href="/topics/diabetes" target="" class="browseby-subnav-link">Diabetes</a></li>
-                                            <li class=""><a href="/topics/endocrine-disruptors" target="" class="browseby-subnav-link">Endocrine Disruptors</a></li>
-                                            <li class=""><a href="/topics/health-disparities" target="" class="browseby-subnav-link">Health Disparities</a></li>
-                                            <li class=""><a href="/topics/lipids-and-obesity" target="" class="browseby-subnav-link">Lipids and Obesity</a></li>
-                                            <li class=""><a href="/topics/mens-health" target="" class="browseby-subnav-link">Men's Health</a></li>
-                                            <li class=""><a href="/topics/neoplasia-and-cancer" target="" class="browseby-subnav-link">Neoplasia and Cancer</a></li>
-                                            <li class=""><a href="/topics/pediatric-endocrinology" target="" class="browseby-subnav-link">Pediatric Endocrinology</a></li>
-                                            <li class=""><a href="/topics/pituitary" target="" class="browseby-subnav-link">Pituitary</a></li>
-                                            <li class=""><a href="/topics/thyroid" target="" class="browseby-subnav-link">Thyroid</a></li>
-                                            <li class=""><a href="/topics/womens-health" target="" class="browseby-subnav-link">Women's Health</a></li>
                                     </ul>
 
                                 </li>
@@ -664,10 +639,6 @@ setUserType('Non-Member');setLogIn(false);
                                     </a>
 
                                     <ul class="browseby-subnav-container">
-                                            <li class="first"><a href="/audiences/basic-scientist" target="" class="browseby-subnav-link">Basic Scientist</a></li>
-                                            <li class=""><a href="/audiences/clinical-scientist" target="" class="browseby-subnav-link">Clinical Scientist</a></li>
-                                            <li class=""><a href="/audiences/physician-in-practice" target="" class="browseby-subnav-link">Physician-in-Practice</a></li>
-                                            <li class=""><a href="/audiences/in-training-and-early-career" target="" class="browseby-subnav-link">In-Training and Early Career</a></li>
                                     </ul>
 
                                 </li>
@@ -678,7 +649,13 @@ setUserType('Non-Member');setLogIn(false);
                         <div class="footer-nav-section network-partner-logo-links">
                                 <a href="http://www.hormone.org" target="" class="network-sponsor-logo-link"><img src="/~/media/Images/Society Logos/hormone-logo.png" class="img-logo-network-partner" alt="Hormone Health Network" height="64" width="233"></a>
                                 <br>
-                                <a href="http://press.endocrine.org" target="" class="network-sponsor-logo-link"><img src="/~/media/Images/Society Logos/13570EndocrinePressTextLogoTransparent233.png" class="img-logo-network-partner" alt="Endocrine Press" height="49" width="233"></a>
+                                <a href="http://www.endocrinefacts.org" target="" class="network-sponsor-logo-link"><img src="/~/media/Images/Society Logos/Endocrine_Facts_and_Figures_Logo.png" class="img-logo-network-partner" alt="Endocrine Facts and Figures" height="50" width="233"></a>
+                                <br>
+                                <a href="http://www.accurateinsulin.org" target="" class="network-sponsor-logo-link"><img src="/~/media/Images/Society Logos/AID_Logo.png" class="img-logo-network-partner" alt="Accurate Insulin Decisions" height="91" width="233"></a>
+                                <br>
+                                <a href="http://www.hormoneassays.org" target="" class="network-sponsor-logo-link"><img src="/~/media/Images/Society Logos/PATH.png" class="img-logo-network-partner" alt="Partnership for the Accurate Testing of Hormones" height="145" width="233"></a>
+                                <br>
+                                <a href="http://www.betacellsindiabetes.org/" target="" class="network-sponsor-logo-link"><img src="/~/media/Images/Society Logos/bcells_logo_tagline.png" class="img-logo-network-partner" alt="Beta Cells in Diabetes" height="110" width="233"></a>
                                 <br>
                         </div>
 
@@ -688,6 +665,24 @@ setUserType('Non-Member');setLogIn(false);
 
             </div>
         </div>
+            <div id="footer-bar">
+                <div id="footer-bar-content">
+                    <ul>
+                            <li>
+                                <a href="/membership/join-now" class="browseby-subnav-link" onclick="ga('send', 'event', 'Links', 'Footer Floating Bar', 'Join');">Join</a>
+                            </li>                        
+                            <li>
+                                <a href="http://press.endocrine.org" class="browseby-subnav-link" onclick="ga('send', 'event', 'Links', 'Footer Floating Bar', 'Publications');">Publications</a>
+                            </li>                        
+                            <li>
+                                <a href="/store" class="browseby-subnav-link" onclick="ga('send', 'event', 'Links', 'Footer Floating Bar', 'Online Store');">Online Store</a>
+                            </li>                        
+                            <li>
+                                <a href="/about-us/contacts-and-directions" class="browseby-subnav-link" onclick="ga('send', 'event', 'Links', 'Footer Floating Bar', 'Contact Us');">Contact Us</a>
+                            </li>                        
+                    </ul>
+                </div>
+            </div>
     </noindex>
 
 
@@ -698,7 +693,7 @@ setUserType('Non-Member');setLogIn(false);
 </script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="/cassette.axd/script/69f50d853cbe7b9e2c4ac2739b27e97a016d2403/js/vendor" type="text/javascript"></script>
-<script src="/cassette.axd/script/2fd63b7e65ecafcc70b864f618377d789edcd790/js" type="text/javascript"></script>
+<script src="/cassette.axd/script/4e35a3563a9765787e5d248088d3d9ec189f4d66/js" type="text/javascript"></script>
 <script type="text/javascript">
 $(window).load(function () { $('.alert-carousel').flexslider({ direction: 'vertical', controlNav: false, slideshow: true, pauseOnHover: true, slideshowSpeed: 5000 }); });
 </script>
