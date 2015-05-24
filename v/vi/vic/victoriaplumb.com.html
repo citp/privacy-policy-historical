@@ -1,15 +1,20 @@
-<!--The following is the downloaded HTML source of the victoriaplumb.com privacy policy that was archived on 2014-08-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140824043746id_/http%3A//www.victoriaplumb.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the victoriaplumb.com privacy policy that was archived on 2015-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150524191813id_/http%3A//www.victoriaplumb.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-<!--[if IE]>
-<meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYAVFNaGwACVVZVBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYAVFNaGwACVVZVBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1">
  <![endif]-->
 <meta name="description" content="At Victoria Plumb we take great care of the information that you give us, our Privacy Policy page explains what we do with this information.">
 <meta name="robots" content="noodp, noydir">
 <meta name="google-site-verification" content="BDfCqdh0mVkGQZ8ga6TrqOjrYfGzkVJhoqy6loJF5F4">
+<meta name="msvalidate.01" content="048F607135409A70AE6407BF3BDD3BA8">
+
+<meta itemprop="logo" content="http://static.victoriaplumb.com/img/header/logo.png">
+<meta itemprop="telephone" content="0344 804 48 48">
+<meta itemprop="url" content="http://www.victoriaplumb.com/">
 
 
 <base href="http://www.victoriaplumb.com/"><!--[if lte IE 6]></base><![endif]-->
@@ -19,59 +24,21 @@
 <link rel="apple-touch-icon" sizes="72x72" href="http://www.victoriaplumb.com/template/victoriaplumb/img/touch-icon-ipad.png">
 <link rel="apple-touch-icon" sizes="114x114" href="http://www.victoriaplumb.com/template/victoriaplumb/img/touch-icon-iphone4.png">
 <link rel="alternate" type="application/rss+xml" title="Victoria Plumb RSS Feed" href="http://www.victoriaplumb.com/news/feed/">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300">
 <script>
 	// Set current universal variable state on page load
-	window.universal_variable = {"version":"1.2.1","events":[],"triggers":[],"page":{"environment":"live","type":"Content","breadcrumb":["Static","Privacy Policy"]},"user":{"language":"","user_type":""},"basket":{"line_items":[],"currency":"GBP","subtotal_include_tax":false,"subtotal":0,"shipping_cost":0,"tax":0,"total":0}};
+	window.universal_variable = {"version":"1.2.1","events":[],"triggers":[],"page":{"environment":"live","type":"Content","breadcrumb":["Static","Privacy Policy"]},"user":{"language":"","user_type":"","user_id":"","name":""},"basket":{"line_items":[],"currency":"GBP","subtotal_include_tax":false,"subtotal":0,"shipping_cost":0,"tax":0,"total":0},"site_type":"d"};
 </script>
 <!-- Qubit Opentag -->
 <script src="//d3c3cq33003psk.cloudfront.net/opentag-98857-1220513.js" async="" defer=""></script>
 
-	<link rel="stylesheet" type="text/css" href="http://www.victoriaplumb.com/compressed/css/1c741278de2e87a2694846e9532aa642.css">
-<link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="http://www.victoriaplumb.com/compressed/css/9f9cb51aef71cdaf2e78c5ec702eab34.css">
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.min.css">
 <!--[if lte IE 7]>
     <script src="http://www.victoriaplumb.com/template/victoriaplumb/js/json2.js"></script>
 <![endif]-->
 
 <script type="text/javascript" src="http://www.victoriaplumb.com/template/victoriaplumb/js/jquery-1.7.2.min.js"></script>
-<script src="//cdn.ravenjs.com/1.1.15/jquery,native/raven.min.js"></script>
-<script>
-	var ravenTarget  = 'http://17b015b7429142e9b1474fe6e47325f4@sentry.victoriaplumb.com/4';
-	var ravenOptions = {
-		ignoreErrors: [
-			// Random plugins/extensions
-			'top.GLOBALS',
-			// See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error. html
-			'originalCreateNotification',
-			'canvas.contentDocument',
-			'MyApp_RemoveAllHighlights',
-			'http://tt.epicplay.com',
-			'Can\'t find variable: ZiteReader',
-			'jigsaw is not defined',
-			'ComboSearch is not defined',
-			'http://loading.retry.widdit.com/',
-			'atomicFindClose',
-			// Facebook borked
-			'fb_xd_fragment',
-			// ISP "optimizing" proxy - `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
-			// See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
-			'bmi_SafeAddOnload',
-			'EBCallBackMessageReceived',
-			// See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
-			'conduitPage'
-		],
-		whitelistUrls: [
-			/victoriaplumb\.com/
-		]
-	};
-	Raven.config(ravenTarget, ravenOptions).install();
-</script><script type="text/javascript" src="/js/scarab_init.js"></script>
-<script type="text/javascript">
-var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215D296.js';
-</script>
-<script type="text/javascript" src="http://www.victoriaplumb.com/template/victoriaplumb/js/dcstorm.js"></script>
-
-
-
 <!-- html5shiv -->
 <!--[if lt IE 9]><script src="http://www.victoriaplumb.com/template/victoriaplumb/js/html5.js"></script><![endif]-->
 <!--[if IE 6]>
@@ -81,7 +48,6 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 
 </head>
 <body id="standard">
-    <script type="text/javascript" src="js/qualaroo_overlay.js"></script>
     <noscript>
         <p><strong>This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page correctly please use a Javascript enabled browser or turn JavaScript on.</strong></p>
     </noscript>
@@ -90,13 +56,15 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 <div id="site_holder">
 
   
+    <!-- Show amazon black friday promotion bar and modal if vouchers for current time period are available -->
+    
     <!-- Logo, searchbar, contact number and basket -->
     <header id="main">
 
         <!-- Logo -->
         <div class="logo">
             <a href="http://www.victoriaplumb.com/">
-                <img src="http://static.victoriaplumb.com/img/header/logo.png" alt="Victoria Plumb Bathrooms" class="png_bg">
+                <img src="http://static.victoriaplumb.com/resp/image?q=1&amp;src=%2Fimg%2Fheader%2Flogo.png" alt="Victoria Plumb Bathrooms" class="png_bg">
             </a>
         </div>
 
@@ -114,9 +82,9 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
         <div id="basket-root">
             <div id="userbar">
                 <ul class="inner">
-                                    <li><a href="http://www.victoriaplumb.com/account/login">My account</a></li>
+                                    <li><a href="https://www.victoriaplumb.com/account/login">My account</a></li>
                     <li class="split">|</li>
-                    <li><a href="http://www.victoriaplumb.com/account/register">Create an account</a></li>
+                    <li><a href="https://www.victoriaplumb.com/account/register">Create an account</a></li>
                                 </ul>
             </div>
 
@@ -135,30 +103,32 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
         <!-- Contact number -->
         <div id="call-centre-contact">
             <a href="http://www.victoriaplumb.com/help_and_support.html">
-                <p>Call <strong>0344 804 48 48</strong> -
+                <p>Call <strong>0344 804 48 48</strong>
+                                -
                                     open today
                                 10am to 6pm</p>
-            </a>
+                            </a>
         </div>
 
     </header>
 
-    <!-- Suites – Toilets – Basins – Baths – Showers – Furniture- Taps- Heating- Accessories- Tiles- Offers -->
-<!-- Mega navigation -->
+    <!-- Mega navigation -->
 <nav id="top">
 
-	<ul id="main-menu">
+	<ul id="main-menu" class="main-menu">
 
 		<!-- Bathroom Suites Menu -->
-		<li>
+		<li class="first">
 			<a class="tab" href="http://www.victoriaplumb.com/Bathroom-Suites/" data-top-section="Bathroom Suites" data-page="Bathroom Suites Main Page">Bathroom Suites</a>
 			<div class="content">
-				<a class="viewAll" href="http://www.victoriaplumb.com/Bathroom-Suites/All/" data-top-section="Bathroom Suites" data-page="All Bathroom Suites">View all Bathroom Suites</a>
+				<a class="viewAll meganav-view-all-button" href="http://www.victoriaplumb.com/Bathroom-Suites/All/" data-top-section="Bathroom Suites" data-page="All Bathroom Suites">View all Bathroom Suites</a>
+				<span class="meganav-close-button"><i class="icon icon-remove"></i> Close</span>
 				<ul class="column" style="width:173px">
 					<!-- Bathroom Suites Submenu -->
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Suites/" data-top-section="Bathroom Suites" data-page="Bathroom Suites" class="subtitle">Bathroom Suites</a></li>
-					<li><a href="http://www.victoriaplumb.com/Bathroom-Suites/Contemporary-Bathroom-Suites/" data-top-section="Bathroom Suites" data-page="Contemporary Bathroom Suites">Contemporary Bathroom Suites</a></li>
-					<li><a href="http://www.victoriaplumb.com/Bathroom-Suites/Traditional-Bathroom-Suites/" data-top-section="Bathroom Suites" data-page="Traditional Bathroom Suites">Traditional Bathroom Suites</a></li>
+					<li><a href="http://www.victoriaplumb.com/Bathroom-Suites/Bath-Suites/" data-top-section="Bathroom Suites" data-page="Bath Suites">Bath Suites</a></li>
+					<li><a href="http://www.victoriaplumb.com/Bathroom-Suites/Shower-Enclosure-Suites/" data-top-section="Bathroom Suites" data-page="Shower Enclosure Suites">Shower Enclosure Suites</a></li>
+					<li><a href="http://www.victoriaplumb.com/Bathroom-Suites/Bathroom-Suite-Ranges/" data-top-section="Bathroom Suites" data-page="Bathroom Suite Ranges">Bathroom Suite Ranges</a></li>
 				</ul>
 				<ul class="column" style="width:195px">
 					<!-- Bathroom Suite Bundles Submenu -->
@@ -175,19 +145,32 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 				</ul>
 						<ul class="column-image">
 		<li>
-			<a href="http://www.victoriaplumb.com/Bathroom-Suites/Bathroom-Suite-Ranges/Verso-Bathroom-Suite-Range/" data-top-section="Bathroom Suites" data-page="Bathroom Suites Image">
-				<img src="http://static.victoriaplumb.com/img/header/nav/20140620163900353suites.jpg" alt="Verso Bathroom Suite Range">
+			<a href="http://www.victoriaplumb.com/Bathroom-Suites/Bathroom-Suite-Ranges/Vermont-Bathroom-Suite-Range/" data-top-section="Bathroom Suites" data-page="Bathroom Suites Image">
+				<img src="http://static.victoriaplumb.com/resp/image?q=82&amp;src=%2Fimg%2Fheader%2Fnav%2F20150505090340128BS.jpg" alt="Vermont Bathroom Suite Range">
 			</a>
 		</li>
-	</ul>
+                                    <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Bathroom-Suites/">View Bathroom Suites Buying Guide</a></li>
+                    	</ul>
+				<div class="footer">
+	<a href="/del_info.html#nextday">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery Available">
+	</a>
+	<a href="/guarantee/" style="width:322px">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--25-year-guarantee.png" alt="Product Guarantees">
+	</a>
+	<a href="/returns.html">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns">
+	</a>
+</div>
 			</div>
 		</li>
 
 		<!-- Toilets and Basins Menu -->
 		<li>
-			<a class="tab" href="http://www.victoriaplumb.com/Toilets-and-Basins/" data-top-section="Toilets and Basins" data-page="Toilets and Basins">Toilets and Basins</a>
+			<a class="tab" href="http://www.victoriaplumb.com/Toilets-and-Basins/" data-top-section="Toilets and Basins" data-page="Toilets and Basins">Toilets &amp; Basins</a>
 			<div class="content">
-				<a class="viewAll" href="http://www.victoriaplumb.com/Toilets-and-Basins/All/" data-top-section="Toilets and Basins" data-page="All Toilets and Basins">View all Toilet and Basins</a>
+				<a class="viewAll meganav-view-all-button" href="http://www.victoriaplumb.com/Toilets-and-Basins/All/" data-top-section="Toilets and Basins" data-page="All Toilets and Basins">View all Toilet &amp; Basins</a>
+				<span class="meganav-close-button"><i class="icon icon-remove"></i> Close</span>
 				<ul class="column" style="width:195px">
 					<!-- Bathroom Suite Bundles Submenu -->
 					<li><a href="http://www.victoriaplumb.com/Toilets-and-Basins/Toilet-and-Basin-Suites/" data-top-section="Toilets and Basins" data-page="Toilet &amp; Basin Suites" class="subtitle">Toilet &amp; Basin Suites</a></li>
@@ -205,6 +188,7 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 					<li><a href="http://www.victoriaplumb.com/Toilets-and-Basins/Toilets/Wall-Hung-Toilets/" data-top-section="Toilets and Basins" data-page="Wall Hung Toilets">Wall Hung Toilets</a></li>
 					<li><a href="http://www.victoriaplumb.com/Toilets-and-Basins/Toilets/High-and-Low-Level-Toilets/" data-top-section="Toilets and Basins" data-page="High and Low Level Toilets">High and Low Level Toilets</a></li>
 					<li><a href="http://www.victoriaplumb.com/Toilets-and-Basins/Toilets/Corner-Toilets/" data-top-section="Toilets and Basins" data-page="Corner Toilets">Corner Toilets</a></li>
+					<li><a href="http://www.victoriaplumb.com/Toilets-and-Basins/Toilets/Toilet-Seats/" data-top-section="Toilets and Basins" data-page="Toilet Seats">Toilet Seats</a></li>
 					<li><a href="http://www.victoriaplumb.com/Toilets-and-Basins/Toilets/Mounting-Frames-and-Concealed-Cisterns/" data-top-section="Toilets and Basins" data-page="Mounting Frames">Mounting Frames</a></li>
 					<li><a href="http://www.victoriaplumb.com/Toilets-and-Basins/Toilets/Mounting-Frames-and-Concealed-Cisterns/" data-top-section="Toilets and Basins" data-page="Concealed Cisterns">Concealed Cisterns</a></li>
 				</ul>
@@ -226,11 +210,24 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 
 						<ul class="column-image">
 		<li>
-			<a href="http://www.victoriaplumb.com/Toilets-and-Basins/Toilets/Close-Coupled-Toilets/Oakley-Close-Coupled-Toilet-inc-Luxury-Soft-Close-Seat-PLUS-Pushfit-Valve_3652.html" data-top-section="Toilets" data-page="Toilets Image">
-				<img src="http://static.victoriaplumb.com/img/header/nav/20140620163940391toilets.jpg" alt="Oakley Close Coupled Toilet inc. Luxury Soft Close Seat PLUS Pushfit Valve">
+			<a href="http://www.victoriaplumb.com/Toilets-and-Basins/Toilets/Back-To-Wall-Toilets/Arc-Back-To-Wall-Toilet-including-Soft-Closing-Seat_99.html" data-top-section="Toilets" data-page="Toilets Image">
+				<img src="http://static.victoriaplumb.com/resp/image?q=82&amp;src=%2Fimg%2Fheader%2Fnav%2F20150505090359799TB.jpg" alt="Arc Back To Wall Toilet including Soft Closing Seat">
 			</a>
 		</li>
-	</ul>
+                                    <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Toilets/">View Toilets Buying Guide</a></li>
+                            <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Basins/">View Basins Buying Guide</a></li>
+                    	</ul>
+				<div class="footer">
+	<a href="/del_info.html#nextday">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery Available">
+	</a>
+	<a href="/guarantee/" style="width:322px">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--25-year-guarantee.png" alt="Product Guarantees">
+	</a>
+	<a href="/returns.html">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns">
+	</a>
+</div>
 			</div>
 		</li>
 
@@ -238,7 +235,8 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 		<li>
 			<a class="tab" href="http://www.victoriaplumb.com/Baths/" data-top-section="Baths" data-page="Bath Main Pages">Baths</a>
 			<div class="content">
-				<a class="viewAll" href="http://www.victoriaplumb.com/Baths/All/" data-top-section="Baths" data-page="All Baths">View All Baths</a>
+				<a class="viewAll meganav-view-all-button" href="http://www.victoriaplumb.com/Baths/All/" data-top-section="Baths" data-page="All Baths">View All Baths</a>
+				<span class="meganav-close-button"><i class="icon icon-remove"></i> Close</span>
 				<ul class="column">
 					<!-- Baths Submenu -->
 					<li><a href="http://www.victoriaplumb.com/Baths/" data-top-section="Baths" data-page="Baths" class="subtitle">Baths</a></li>
@@ -274,11 +272,23 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 				</ul>
 						<ul class="column-image">
 		<li>
-			<a href="http://www.victoriaplumb.com/Baths/Shower-Baths/L-Shaped-Shower-Baths/L-Shaped-Shower-Baths-Right-Hand/Boston-Shower-Bath-1700-x-850-RH-inc-8mm-Hinged-Screen_2535.html" data-top-section="Baths" data-page="Baths Image">
-				<img src="http://static.victoriaplumb.com/img/header/nav/20140620163907463baths.jpg" alt="Boston Shower Bath 1700 x 850 RH inc. 8mm Hinged Screen">
+			<a href="http://www.victoriaplumb.com/Baths/Shower-Baths/Boston-Shower-Bath-1700-x-850-RH-inc-8mm-Hinged-Screen_2535.html" data-top-section="Baths" data-page="Baths Image">
+				<img src="http://static.victoriaplumb.com/resp/image?q=82&amp;src=%2Fimg%2Fheader%2Fnav%2F20150522081056184BA.jpg" alt="Boston Shower Bath 1700 x 850 RH inc. 8mm Hinged Screen">
 			</a>
 		</li>
-	</ul>
+                                    <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Baths/">View Baths Buying Guide</a></li>
+                    	</ul>
+				<div class="footer">
+	<a href="/del_info.html#nextday">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery Available">
+	</a>
+	<a href="/guarantee/" style="width:322px">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--25-year-guarantee.png" alt="Product Guarantees">
+	</a>
+	<a href="/returns.html">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns">
+	</a>
+</div>
 			</div>
 		</li>
 
@@ -286,16 +296,16 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 		<li>
 			<a class="tab" href="http://www.victoriaplumb.com/Bathroom-Furniture/" data-top-section="Bathroom Furniture" data-page="Bathroom Furniture Main Page">Furniture</a>
 			<div class="content">
-				<a class="viewAll" href="http://www.victoriaplumb.com/Bathroom-Furniture/All/" data-top-section="Bathroom Furniture" data-page="All Bathroom Furniture">View all Bathroom Furniture</a>
+				<a class="viewAll meganav-view-all-button" href="http://www.victoriaplumb.com/Bathroom-Furniture/All/" data-top-section="Bathroom Furniture" data-page="All Bathroom Furniture">View all Bathroom Furniture</a>
+				<span class="meganav-close-button"><i class="icon icon-remove"></i> Close</span>
 				<ul class="column">
 					<!-- Bathroom Furniture -->
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/" data-top-section="Bathroom Furniture" data-page="Bathroom Furniture" class="subtitle">Bathroom Furniture</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Vanity-Units/" data-top-section="Bathroom Furniture" data-page="Vanity Units">Vanity Units</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Wall-Hung-Basin-Units/" data-top-section="Bathroom Furniture" data-page="Wall Hung Basin Units">Wall Hung Basin Units</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Toilet-Units/" data-top-section="Bathroom Furniture" data-page="Toilet Units">Toilet Units</a></li>
-					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Storage/" data-top-section="Bathroom Furniture" data-page="Bathroom Storage">Bathroom Storage</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Cabinets/" data-top-section="Bathroom Furniture" data-page="Bathroom Cabinets">Mirrors &amp; Cabinets</a></li>
-
+					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Basin-and-Toilet-Units/" data-top-section="Bathroom Furniture" data-page="Basin and Toilet Units">Basin &amp; Toilet Units</a></li>
 				</ul>
 				<ul class="column">
 					<!-- Shop by Colour Submenu -->
@@ -306,72 +316,99 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Colour/Wenge-Effect-Bathroom-Furniture/" data-top-section="Bathroom Furniture" data-page="Wenge Bathroom Furniture">Wenge</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Colour/Walnut-Effect-Bathroom-Furniture/" data-top-section="Bathroom Furniture" data-page="Walnut Bathroom Furniture">Walnut</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Colour/Plum-Bathroom-Furniture/" data-top-section="Bathroom Furniture" data-page="Plum Bathroom Furniture">Plum</a></li>
-
 				</ul>
 				<ul class="column borderless">
 					<!-- Bathroom Furniture Ranges Submenu -->
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/" data-top-section="Bathroom Furniture" data-page="Furniture Ranges" class="subtitle">Shop by Range</a></li>
+					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/MySpace-Bathroom-Furniture/" data-top-section="Bathroom Furniture" data-page="MySpace">MySpace</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/Odessa-Furniture-Range/" data-top-section="Bathroom Furniture" data-page="Odessa">Odessa</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/Sienna-Furniture-Range/" data-top-section="Bathroom Furniture" data-page="Sienna">Sienna</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/Smart-Furniture-Range/" data-top-section="Bathroom Furniture" data-page="Smart">Smart</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/Drift-Furniture-Range/" data-top-section="Bathroom Furniture" data-page="Drift">Drift</a></li>
-					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/Planet-White-Bathroom-Furniture/" data-top-section="Bathroom Furniture" data-page="Planet">Planet</a></li>
+					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/Planet-Select-Bathroom-Furniture/" data-top-section="Bathroom Furniture" data-page="Planet Select">Planet Select</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/Plan-Furniture-Range/" data-top-section="Bathroom Furniture" data-page="Plan">Plan</a></li>
-					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/Prague-White-Bathroom-Furniture/" data-top-section="Bathroom Furniture" data-page="Prague">Prague</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/Camberley-Furniture-Ranges/" data-top-section="Bathroom Furniture" data-page="Camberley">Camberley</a></li>
 
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Furniture/Bathroom-Furniture-Ranges/" data-top-section="Bathroom Furniture" data-page="All Furniture Ranges" style="margin-top:0" class="subtitle">View all Ranges</a></li>
-
 				</ul>
 						<ul class="column-image">
 		<li>
-			<a href="http://www.victoriaplumb.com/Bathroom-Furniture/Vanity-Units/Drift-Grey-2-Door-Floor-Mounted-Unit-Basin_1871.html" data-top-section="Furniture" data-page="Furniture Image">
-				<img src="http://static.victoriaplumb.com/img/header/nav/20140620163912785furniture.jpg" alt="Drift Grey 2 Door Floor Mounted Unit &amp; Basin">
+			<a href="http://www.victoriaplumb.com/Bathroom-Furniture/Vanity-Units/Planet-Select-White-Floor-Mounted-600-Drawer-Unit-Basin_1640.html" data-top-section="Furniture" data-page="Furniture Image">
+				<img src="http://static.victoriaplumb.com/resp/image?q=82&amp;src=%2Fimg%2Fheader%2Fnav%2F20150522081040225FU.jpg" alt="Planet Select White Floor Mounted 600 Drawer Unit &amp; Basin">
 			</a>
 		</li>
-	</ul>
+                                    <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Bathroom-Furniture/">View Furniture Buying Guide</a></li>
+                    	</ul>
+				<div class="footer">
+	<a href="/del_info.html#nextday">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery Available">
+	</a>
+	<a href="/guarantee/" style="width:322px">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--25-year-guarantee.png" alt="Product Guarantees">
+	</a>
+	<a href="/returns.html">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns">
+	</a>
+</div>
 			</div>
 		</li>
 
 		<!-- Showers and Enclosures Menu -->
 		<li>
-			<a class="tab" href="http://www.victoriaplumb.com/Showers/" data-top-section="Showers and Enclosures" data-page="Showers Main Page">Showers and Enclosures</a>
+			<a class="tab" href="http://www.victoriaplumb.com/Showers/" data-top-section="Showers and Enclosures" data-page="Showers Main Page">Showers &amp; Enclosures</a>
 			<div class="content">
-				<a class="viewAll" href="http://www.victoriaplumb.com/Showers/All/" data-top-section="Showers and Enclosures" data-page="All Showers">View all Showers</a>
+				<a class="viewAll meganav-view-all-button" href="http://www.victoriaplumb.com/Showers/All/" data-top-section="Showers and Enclosures" data-page="All Showers">View all Showers</a>
+				<span class="meganav-close-button"><i class="icon icon-remove"></i> Close</span>
 				<ul class="column" style="width:174px">
 					<!-- Shower Enclosures Submenu -->
 					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/" data-top-section="Showers and Enclosures" data-page="Shower Enclosures" class="subtitle">Shower Enclosures</a></li>
+					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Shower-Doors/" data-top-section="Showers and Enclosures" data-page="Shower Doors">Shower Doors</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Curved-Shower-Enclosures/" data-top-section="Showers and Enclosures" data-page="Curved Shower Enclosures">Curved Shower Enclosures</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Square-Shower-Enclosures/" data-top-section="Showers and Enclosures" data-page="Square Shower Enclosures">Square Shower Enclosures</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Rectangle-Shower-Enclosures/" data-top-section="Showers and Enclosures" data-page="Rectangle Shower Enclosures">Rectangle Shower Enclosures</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Pentagonal-Shower-Enclosures/" data-top-section="Showers and Enclosures" data-page="Pentagonal Shower Enclosures">Pentagonal Shower Enclosures</a></li>
-					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Walk-in-Shower-Enclosures/" data-top-section="Showers and Enclosures" data-page="Walk in Shower Enclosures">Walk in Shower Enclosures</a></li>
-					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Wetrooms/" data-top-section="Showers and Enclosures" data-page="Wetrooms">Wetrooms</a></li>
+					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Wetrooms-and-Walk-In-Enclosures/" data-top-section="Showers and Enclosures" data-page="Wetrooms and Walk in Enclosures">Wetrooms and Walk in Enclosures</a></li>
+					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Shower-Cabins/" data-top-section="Showers and Enclosures" data-page="Shower Cabins">Shower Cabins</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Shower-Trays/" data-top-section="Showers and Enclosures" data-page="Shower Trays">Shower Trays</a></li>
 				</ul>
 				<ul class="column">
 					<!-- Showers Submenu -->
 					<li><a href="http://www.victoriaplumb.com/Showers/" data-top-section="Showers and Enclosures" data-page="Showers" class="subtitle">Showers</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Thermostatic-Shower-Valve-Sets/" data-top-section="Showers and Enclosures" data-page="Shower Valve Sets">Shower Valve Sets</a></li>
-					<li><a href="http://www.victoriaplumb.com/Showers/Thermostatic-Shower-Valves/" data-top-section="Showers and Enclosures" data-page="Thermostatic Shower Valves">Thermostatic Shower Valves</a></li>
+					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Valves/" data-top-section="Showers and Enclosures" data-page="Shower Valves">Shower Valves</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Fixed-Shower-Heads/" data-top-section="Showers and Enclosures" data-page="Shower Heads">Shower Heads</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Slider-Rail-Kits/" data-top-section="Showers and Enclosures" data-page="Shower Slider Rail Kits">Shower Slider Rail Kits</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Electric-Showers/" data-top-section="Showers and Enclosures" data-page="Electric Showers">Electric Showers</a></li>
 				</ul>
 				<ul class="column borderless">
 					<!-- Shower Accessories Submenu -->
-					<li><span class="subtitle">Shower Accessories</span></li>
+					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Accessories/" data-top-section="Shower and Enclosures" data-page="Shower Accessories" class="subtitle">Shower Accessories</a></li>
+					<li><a href="http://www.victoriaplumb.com/Baths/Shower-Bath-Screens/" data-top-section="Showers and Enclosures" data-page="Shower Screens">Shower Screens</a></li>
 					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Shower-Trays/Shower-Tray-Wastes/" data-top-section="Showers and Enclosures" data-page="Shower Tray Wastes">Shower Tray Wastes</a></li>
-					<li><a href="http://www.victoriaplumb.com/Showers/Showering-Accessories/" data-top-section="Showers and Enclosures" data-page="Showering Accessories">Showering Accessories</a></li>
-					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Pumps/" data-top-section="Showers and Enclosures" data-page="Shower Pumps">Shower Pumps</a></li>
+					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Accessories/Shower-Pumps/" data-top-section="Showers and Enclosures" data-page="Shower Pumps">Shower Pumps</a></li>
+					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Accessories/Outlets/" data-top-section="Showers and Enclosures" data-page="Outlets">Outlets</a></li>
+					<li><a href="http://www.victoriaplumb.com/Showers/Shower-Accessories/Body-Jets/" data-top-section="Showers and Enclosures" data-page="Body Jets">Body Jets</a></li>
 				</ul>
 						<ul class="column-image">
 		<li>
-			<a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Rectangle-Shower-Enclosures/Frameless-Sliding-Door-Shower-Enclosures/V8+-Frameless-Sliding-Shower-Enclosure-1200-x-900_1168.html" data-top-section="Showers" data-page="Showers Image">
-				<img src="http://static.victoriaplumb.com/img/header/nav/20140701080457791showers_a.jpg" alt="V8+ Frameless Sliding Shower Enclosure 1200 x 900">
+			<a href="http://www.victoriaplumb.com/Showers/Shower-Enclosures/Wetrooms-and-Walk-In-Enclosures/V6-Curved-Walk-In-Shower-Enclosure-Tray-Pack-1400-x-900-LH_469.html" data-top-section="Showers" data-page="Showers Image">
+				<img src="http://static.victoriaplumb.com/resp/image?q=82&amp;src=%2Fimg%2Fheader%2Fnav%2F20150522081016623SH.jpg" alt="V6 Curved Walk In Shower Enclosure &amp; Tray Pack 1400 x 900 LH">
 			</a>
 		</li>
-	</ul>
+                                    <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Showers/">View Showers Buying Guide</a></li>
+                            <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Shower-Enclosures/">View Shower Enclosures Buying Guide</a></li>
+                    	</ul>
+				<div class="footer">
+	<a href="/del_info.html#nextday">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery Available">
+	</a>
+	<a href="/guarantee/" style="width:322px">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--25-year-guarantee.png" alt="Product Guarantees">
+	</a>
+	<a href="/returns.html">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns">
+	</a>
+</div>
 			</div>
 		</li>
 
@@ -379,7 +416,8 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 		<li>
 			<a class="tab" href="http://www.victoriaplumb.com/Taps/" data-top-section="Taps" data-page="Taps Main Page">Taps</a>
 			<div class="content">
-				<a class="viewAll" href="http://www.victoriaplumb.com/Taps/All/" data-top-section="Taps" data-page="Taps">View all Taps</a>
+				<a class="viewAll meganav-view-all-button" href="http://www.victoriaplumb.com/Taps/All/" data-top-section="Taps" data-page="Taps">View all Taps</a>
+				<span class="meganav-close-button"><i class="icon icon-remove"></i> Close</span>
 				<ul class="column">
 					<!-- Taps Submenu -->
 					<li><a href="http://www.victoriaplumb.com/Taps/" data-top-section="Taps" data-page="Taps" class="subtitle">Taps</a></li>
@@ -416,11 +454,23 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 				</ul>
 						<ul class="column-image">
 		<li>
-			<a href="http://www.victoriaplumb.com/Taps/Basin-Taps/Basin-Mixer-Taps/Pembroke-Basin-Mixer_1758.html" data-top-section="Taps" data-page="Taps Image">
-				<img src="http://static.victoriaplumb.com/img/header/nav/20140715080358963taps_a.jpg" alt="Pembroke Basin Mixer">
+			<a href="http://www.victoriaplumb.com/Taps/Basin-Taps/Basin-Mixer-Taps/Escala-Waterfall-Basin-Mixer-Tap_1254.html" data-top-section="Taps" data-page="Taps Image">
+				<img src="http://static.victoriaplumb.com/resp/image?q=82&amp;src=%2Fimg%2Fheader%2Fnav%2F20150430153610557Nav-Images-TA.jpg" alt="Escala Waterfall Basin Mixer Tap">
 			</a>
 		</li>
-	</ul>
+                                    <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Taps/">View Taps Buying Guide</a></li>
+                    	</ul>
+				<div class="footer">
+	<a href="/del_info.html#nextday">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery Available">
+	</a>
+	<a href="/guarantee/" style="width:322px">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--25-year-guarantee.png" alt="Product Guarantees">
+	</a>
+	<a href="/returns.html">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns">
+	</a>
+</div>
 			</div>
 		</li>
 
@@ -428,22 +478,37 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 		<li class="no-background">
 			<a class="tab" href="http://www.victoriaplumb.com/Heating/" data-top-section="Heating" data-page="Heating Main Page">Heating</a>
 			<div class="content">
-				<a class="viewAll" href="http://www.victoriaplumb.com/Heating/All/" data-top-section="Heating" data-page="All Heating">View all Heating</a>
+				<a class="viewAll meganav-view-all-button" href="http://www.victoriaplumb.com/Heating/All/" data-top-section="Heating" data-page="All Heating">View all Heating</a>
+				<span class="meganav-close-button"><i class="icon icon-remove"></i> Close</span>
 				<ul class="column borderless">
 					<li><a href="http://www.victoriaplumb.com/Heating/" data-top-section="Heating" data-page="Heating" class="subtitle">Heating</a></li>
 					<li><a href="http://www.victoriaplumb.com/Heating/Heated-Towel-Rails/" data-top-section="Heating" data-page="Heated Towel Rails">Heated Towel Rails</a></li>
 					<li><a href="http://www.victoriaplumb.com/Heating/Radiators/" data-top-section="Heating" data-page="Radiators">Radiators</a></li>
 					<li><a href="http://www.victoriaplumb.com/Heating/Underfloor-Heating/" data-top-section="Heating" data-page="Underfloor Heating">Underfloor Heating</a></li>
+					<li><a href="http://www.victoriaplumb.com/Heating/Radiator-Valves/" data-top-section="Heating" data-page="Radiator Valves">Radiator Valves</a></li>
+					<li><a href="http://www.victoriaplumb.com/Heating/Heating-Elements/" data-top-section="Heating" data-page="Heating Elements">Heating Elements</a></li>
 				</ul>
 
 				<ul class="column borderless"></ul>
 						<ul class="column-image">
 		<li>
-			<a href="http://www.victoriaplumb.com/Heating/Radiators/Traditional-Radiators/Elizabeth-Radiator-PLUS-Traditional-Valves_2119.html" data-top-section="Heating" data-page="Heating Image">
-				<img src="http://static.victoriaplumb.com/img/header/nav/20140620163918472heating.jpg" alt="Elizabeth Radiator PLUS Traditional Valves">
+			<a href="http://www.victoriaplumb.com/Heating/Heated-Towel-Rails/Elizabeth-Radiator-952-x-659_631.html" data-top-section="Heating" data-page="Heating Image">
+				<img src="http://static.victoriaplumb.com/resp/image?q=82&amp;src=%2Fimg%2Fheader%2Fnav%2F20150407082837892HENav.jpg" alt="Elizabeth Radiator  952 x 659">
 			</a>
 		</li>
-	</ul>
+                                    <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Towel-Rails/">View Heating Buying Guide</a></li>
+                    	</ul>
+				<div class="footer">
+	<a href="/del_info.html#nextday">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery Available">
+	</a>
+	<a href="/guarantee/" style="width:322px">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--25-year-guarantee.png" alt="Product Guarantees">
+	</a>
+	<a href="/returns.html">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns">
+	</a>
+</div>
 			</div>
 		</li>
 
@@ -451,7 +516,8 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 		<li>
 			<a class="tab" href="http://www.victoriaplumb.com/Bathroom-Accessories/" data-top-section="Bathroom Accessories" data-page="Accessories Main Page">Accessories</a>
 			<div class="content">
-				<a class="viewAll" href="http://www.victoriaplumb.com/Bathroom-Accessories/All/" data-top-section="Bathroom Accessories" data-page="All Accessories">View all Accessories</a>
+				<a class="viewAll meganav-view-all-button" href="http://www.victoriaplumb.com/Bathroom-Accessories/All/" data-top-section="Bathroom Accessories" data-page="All Accessories">View all Accessories</a>
+				<span class="meganav-close-button"><i class="icon icon-remove"></i> Close</span>
 				<ul class="column">
 					<!-- Finishing Touches Submenu -->
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Accessories/Finishing-Touches/" data-top-section="Bathroom Accessories" data-page="Finishing Touches" class="subtitle">Finishing Touches</a></li>
@@ -477,7 +543,8 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Accessories/Plumbing-Accessories/" data-top-section="Bathroom Accessories" data-page="Plumbing Accessories" class="subtitle">Plumbing Accessories</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Accessories/Plumbing-Accessories/Extractor-Fans/" data-top-section="Bathroom Accessories" data-page="Extractor Fans">Extractor Fans</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Accessories/Plumbing-Accessories/Sealants/" data-top-section="Bathroom Accessories" data-page="Sealants">Sealants</a></li>
-					<li><a href="http://www.victoriaplumb.com/Toilets-and-Basins/Basins/Basin-Wastes-Bottle-Traps-and-Fixings/" data-top-section="Bathroom Accessories" data-page="Fixing Kits">Fixing Kits</a></li>
+					<li><a href="http://www.victoriaplumb.com/Bathroom-Accessories/Plumbing-Accessories/Fixing-Kits/" data-top-section="Bathroom Accessories" data-page="Fixing Kits">Fixing Kits</a></li>
+					<li><a href="http://www.victoriaplumb.com/Bathroom-Accessories/Plumbing-Accessories/Cistern-Kits/" data-top-section="Bathroom Accessories" data-page="Cistern Kits">Cistern Kits</a></li>
 					<li><a href="http://www.victoriaplumb.com/Bathroom-Accessories/Plumbing-Accessories/Connectors/" data-top-section="Bathroom Accessories" data-page="Connectors">Connectors</a></li>
 				</ul>
 				<ul class="column borderless">
@@ -491,11 +558,23 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 				</ul>
 						<ul class="column-image">
 		<li>
-			<a href="http://www.victoriaplumb.com/Bathroom-Accessories/Bathroom-Mirrors/Illuminated-Mirrors/Cygnus-Fluorescent-illuminated-Mirror_1743.html" data-top-section="Bathroom Accessories" data-page="Bathroom Accessories Image">
-				<img src="http://static.victoriaplumb.com/img/header/nav/2014062611285440accessories.jpg" alt="Cygnus Fluorescent illuminated Mirror">
+			<a href="http://www.victoriaplumb.com/Bathroom-Accessories/" data-top-section="Bathroom Accessories" data-page="Bathroom Accessories Image">
+				<img src="http://static.victoriaplumb.com/resp/image?q=82&amp;src=%2Fimg%2Fheader%2Fnav%2F20150303143920104accessories.jpg" alt="Bathroom Accessories">
 			</a>
 		</li>
-	</ul>
+                                    <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Accessories/">View Accessories Buying Guide</a></li>
+                    	</ul>
+				<div class="footer">
+	<a href="/del_info.html#nextday">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery Available">
+	</a>
+	<a href="/guarantee/" style="width:322px">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--25-year-guarantee.png" alt="Product Guarantees">
+	</a>
+	<a href="/returns.html">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns">
+	</a>
+</div>
 			</div>
 		</li>
 
@@ -503,7 +582,8 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 		<li class="no-background">
 			<a class="tab" href="http://www.victoriaplumb.com/Tiles/" data-top-section="Tiles" data-page="Tiles Main Page">Tiles</a>
 			<div class="content">
-				<a class="viewAll" href="http://www.victoriaplumb.com/Tiles/All/" data-top-section="Tiles" data-page="All Tiles">View all Tiles</a>
+				<a class="viewAll meganav-view-all-button" href="http://www.victoriaplumb.com/Tiles/All/" data-top-section="Tiles" data-page="All Tiles">View all Tiles</a>
+				<span class="meganav-close-button"><i class="icon icon-remove"></i> Close</span>
 				<ul class="column">
 					<!-- Tiles Submenu -->
 					<li><a href="http://www.victoriaplumb.com/Tiles/" data-top-section="Tiles" data-page="Tiles" class="subtitle">Tiles</a></li>
@@ -523,46 +603,53 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 						<ul class="column-image">
 		<li>
 			<a href="http://www.victoriaplumb.com/Tiles/" data-top-section="Tiles" data-page="Tiles Image">
-				<img src="http://static.victoriaplumb.com/img/header/nav/20140715080659158tiles.jpg" alt="Tiles">
+				<img src="http://static.victoriaplumb.com/resp/image?q=82&amp;src=%2Fimg%2Fheader%2Fnav%2F20150303144144861tiles.jpg" alt="Tiles">
 			</a>
 		</li>
-	</ul>
+                                    <li class="buying-guide-link"><a href="http://www.victoriaplumb.com/Buying-Guides/Tiles/">View Tiles Buying Guide</a></li>
+                    	</ul>
+				<div class="footer">
+	<a href="/del_info.html#nextday">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery Available">
+	</a>
+	<a href="/guarantee/" style="width:322px">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--25-year-guarantee.png" alt="Product Guarantees">
+	</a>
+	<a href="/returns.html">
+		<img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns">
+	</a>
+</div>
+
 			</div>
 		</li>
 
 		<!-- Sale Button -->
-		<li class="no-background no-boxshadow">
-							<a href="http://www.victoriaplumb.com/Sale/Summer-Sale-up-to-50-off/" data-top-section="Sale" data-page="Sale">
+				<li class="no-background no-boxshadow">
+				<a href="http://www.victoriaplumb.com/Sale/" data-top-section="Sale" data-page="Sale">
 					<div class="offers-button">
-						<div class="inner">Sale</div>
+						<div class="inner">Offers</div>
 					</div>
 				</a>
-					</li>
+		</li>
 	</ul>
 </nav>
-    <ul id="unique-selling-points">
-        <li>
-            <i class="icon-book"></i>
-            <a href="http://www.victoriaplumb.com/brochure_request/index.php">brochure request</a>
-            <i class="icon-chevron-sign-right"></i>
-        </li>
-        <li>
-            <i class="icon-truck"></i>
-            <a href="http://www.victoriaplumb.com/del_info.html#nextday">next day delivery</a>
-            <i class="icon-chevron-sign-right"></i>
-        </li>
-        <li>
-            <i class="icon-gbp"></i>
-            <a href="http://www.victoriaplumb.com/finance/">Finance Options</a>
-            <i class="icon-chevron-sign-right"></i>
-        </li>
-        <li>
-            <i class="icon-wrench"></i>
-            <a href="http://www.victoriaplumb.com/trade/">exclusive trade discount</a>
-            <i class="icon-chevron-sign-right"></i>
-        </li>
-    </ul>
-    <div style="clear:both;"></div>
+
+<ul id="unique-selling-points">
+	<li class="first">
+		<a href="/brochure_request/index.php"><img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--free-brochure.png" alt="Free Brochure"></a>
+	</li>
+	<li>
+		<a href="/del_info.html#nextday"><img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--next-day-delivery.png" alt="Next Day Delivery"></a>
+	</li>
+	<li>
+		<a href="/returns.html"><img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--no-quibbles.png" alt="FREE 365 Day Returns"></a>
+	</li>
+	<li class="last">
+		<a href="/trade/"><img src="http://static.victoriaplumb.com/images/usp-badges/nav-bar--trade-account.png" alt="Trade Account"></a>
+	</li>
+</ul>
+
+<div style="clear:both;"></div>
 
     
   
@@ -571,19 +658,23 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
   <div id="newsletter-sign-up">
 	<div class="copy">
 		<h3>Be the first to know!</h3>
-		<p style="margin-bottom:10px;width:240px">Leave us your email address and we'll send you the latest deals, promotions and more.</p>
+		<p style="margin-bottom:10px;width:240px">Leave us your contact details &amp; we'll send you info on the latest deals &amp; promotions.</p>
 		<p style="width:140px">You could even win a <strong>£250</strong> voucher to spend on our website!</p>
-		<img src="/images/home/250-card.png" class="voucher-image">
+		<img src="http://static.victoriaplumb.com/images/home/250-card.png" class="voucher-image" alt="£250 Voucher">
 	</div>
 
 	<div class="form">
 		<!-- Sign up form -->
 		<form method="POST" action="" id="newsletter-sign-up-form">
-			<div style="text-align:left;margin-left:20px;margin-top:25px">
+			<div style="text-align:left;margin-left:20px;margin-top:10px">
 				<label>Email Address <span class="error-msg" id="email-error-msg"></span></label>
 				<input type="text" name="email" pattern="[^ @]*@[^ @]*" required="">
 			</div>
-			<div style="text-align:left;margin-left:20px;margin-top:10px">
+			<div style="text-align:left;margin-left:20px;margin-top:5px">
+				<label>Mobile number <span class="error-msg" id="mobile-error-msg"></span></label>
+				<input type="text" name="mobile" pattern="[0-9\s]*">
+			</div>
+			<div style="text-align:left;margin-left:20px;margin-top:8px">
 				<div style="float:left">
 					<label>Firstname <span class="error-msg" id="firstname-error-msg"></span></label>
 					<input type="text" name="firstname" placeholder="John" required="" style="width:105px">
@@ -607,7 +698,7 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 	</div>
 
 	<div id="newsletter-sign-up-toggle">
-		<img src="/images/home/sign-up-vertical.png">
+		<img src="http://static.victoriaplumb.com/images/home/sign-up-vertical.png" alt="Sign up to our Newsletter">
 	</div>
   </div>
   
@@ -637,8 +728,11 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
                 <span class="new-list btn btn-green"><i class="icon-ok"></i> Done</span>
             </div>
             <div class="optin">
-                <input type="checkbox" name="eConfirm" id="econfirm" checked="checked">
-<label for="econfirm" class="no-show-optional" style="display: inline; font-size: 12px;">If you don't want updates about your order, or one of our emails packed with exclusive offers and new products from Victoria Plumb and other related companies within the group, then untick this box.</label>
+                <label class="no-show-optional" style="display: block; width: 100%; padding-left: 15px; text-indent: -15px; font-size: 12px; margin: 2px 10px;">
+    <input type="checkbox" name="eConfirm" id="econfirm" checked="checked"
+           style="width: 13px; height: 13px; padding: 0; margin:0; vertical-align: bottom; position: relative; top: -1px; *overflow: hidden;">
+    If you don't want updates about your order, or one of our emails packed with exclusive offers and new products from Victoria Plumb and other related companies within the group, then untick this box.
+</label>
             </div>
             <div style="clear:both"></div>
         </div>
@@ -682,7 +776,7 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
             <div class="products"></div>
             <div class="see-all">
                 <p>View or manage your favourites</p>
-                <a href="/my-favourites" class="btn btn-blue">View All</a>
+                <a href="/my-favourites" class="btn btn-blue" rel="nofollow">View All</a>
             </div>
         </div>
     </div>
@@ -703,71 +797,127 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 	<h1>
 		Privacy Policy</h1>
 	<p>
-		Victoria Plumb is unequivocally committed to respecting the privacy rights of visitors to its website.</p>
+		Victoria Plumb ("We") are unequivocally committed to respecting the privacy rights of visitors to our website, <a href="http://www.victoriaplumb.com">www.victoriaplumb.com</a> ("Website")</p>
 	<p>
-		This policy statement is designed to give a clear explanation of how Victoria Plumb aggregates caches and applies personal data about you when browsing (<a href="http://www.victoriaplumb.com">www.victoriaplumb.com</a>), shopping with us or otherwise providing your personal data to us.</p>
+		This policy (together with our terms and conditions) is designed to give a clear explanation of how Victoria Plumb aggregates, caches and processes personal data that we collect from you when you visit our Website, or when you otherwise provide your personal data to us. By visiting our Website you are accepting and consenting to the practices set out in this policy.</p>
 	<p>
-		By definition, personal Information includes any recorded information that identifies you personally which is inclusive of things such as your name, address or email address.</p>
+		By definition, personal information includes any recorded information that identifies you personally which is inclusive of things such as your name, address or email address.</p>
 	<p>
-		Unless clearly stated in this Privacy Policy, Victoria Plumb and the Walker Group will not make public, rent or sell your personal information to any third party unrelated to us without your prior permission, other than as required by law.</p>
+		Unless clearly stated in this Privacy Policy, Victoria Plumb and the Walker Group will not disclose, share, lease or sell your personal information to any third party unrelated to us without your prior permission, other than as required by law.</p>
+	<p>
+		For the purposes of the Data Protection Act 1998 ("the Act"), the data controller is Victoria Plum Limited, Bridgehead Business Park, Hessle. Hull, HU13 0DG.</p>
 	<h2>
 		THE PERSONAL INFORMATION WE COLLECT</h2>
 	<p>
-		We ask for your personal information when you make an online purchase, register with Victoria Plumb, sign up for promotions, offers or competitions, or to receive news, or when you fill in the personal details section of 'Your Basket' to make a purchase.</p>
+		We will ask for your personal information when you fill in any forms on our Website or when your correspond with us via email, phone or otherwise. This includes information you provide when you make an online purchase, register with Victoria Plumb, sign up for promotions, offers or competitions, or to receive news, or when you fill in the personal details section of "Your Basket" to make a purchase and if you report a problem with our Website. This information may include your name, address, email address, phone number and financial and credit card information.</p>
 	<p>
-		The web server also collects sessions pertaining to every visitor, including average time on site, top visited pages and IP address.</p>
-	<h2>
-		Our main technology partners</h2>
+		The web server also automatically collects certain information pertaining to every visitor, including:</p>
+	<ul>
+		<li>
+			Technical information such as the Internet Protocol (IP) address, any login information, browser type and version and operating system and platform.</li>
+		<li>
+			Information about your visit such as products viewed and searched for, the average time on site, top visited pages and page response times.</li>
+	</ul>
 	<p>
-		Data is collected in the shop using web analysis tools in order to maintain and improve our website. A brief synopsis of what they do is found below. We ensure that any third party service we utilise complies with strict data protection standards. If you have any more questions, please do contact us and we will be happy to help.</p>
-	<p>
-		<strong>DC Storm</strong> | <a href="http://www.dc-storm.com/en-uk/privacy-policy/">Privacy Policy</a> | <a href="http://www.dc-storm.com/en-uk/cookie-use/">Cookie Policy</a><br>
-		DC Storm provides us with our web performance, measurement, analysis and reporting - this means detailed information on things such as, how many landings a particular page has received or the revenue generated by different advertising mediums.</p>
-	<p>
-		<strong>Google &amp; Google Analytics</strong> | <a href="http://www.google.co.uk/intl/en/policies/privacy/">Privacy Policy</a><br>
-		Google Analytics let’s our team measure sales and conversion as well as better understand customer behaviour on our website. This includes measurement of things such as the split between new visitors as opposed to returning visitors and the length of time visitors spend on particular pages.</p>
+		&nbsp;</p>
 	<h2>
 		WHAT WILL WE DO WITH THE INFORMATION WE GATHER</h2>
 	<p>
 		We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
 	<ul>
 		<li>
-			Improving our products and services</li>
+			To improve our products and services and notify you about any changes to our service.</li>
 		<li>
-			Processing your order</li>
+			To process your order and carry out our obligations arising from the contract entered into between you and us to provide you with the products and services you request from us.</li>
 		<li>
-			For registration purposes if you open an account</li>
+			For registration and internal record keeping purposes if you open an account.</li>
 		<li>
-			Internal record keeping</li>
+			To administer our website and for internal operations, such as troubleshooting, data analysis, testing, research and statistical and survey purposes.</li>
 		<li>
-			Sending promotional emails from Victoria Plumb and other Walker Group companies about new products, special offers or other information which we think you may find interesting using the email address which you have provided. The Walker Group companies include Victoria Plumb, MFI, Land of Leather and Focus Do-It-All</li>
+			To help keep the website safe and secure.</li>
 		<li>
-			From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests</li>
+			To send promotional emails from Victoria Plumb and other Walker Group companies about new products, special offers or other information which we think you may find interesting using the email address which you have provided. The Walker Group companies include Victoria Plumb, MFI, Land of Leather and Focus Do-It-All.</li>
+		<li>
+			From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or post. We may use the information to customise our Website according to your interests.</li>
 	</ul>
 	<p>
 		We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we work closely with online security providers such as VeriSign, SagePay and GetSafeOnline to provide a safe and secure online shopping environment, for more information please visit our <a href="http://www.victoriaplumb.com/security_info.html">Online Security</a> page.</p>
+	<h2>
+		DISCLOSURE OF YOUR INFORMATION</h2>
+	<p>
+		We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006.</p>
+	<p>
+		We may also share your information with selected third parties including:</p>
+	<ul>
+		<li>
+			Business partners, suppliers and sub-contractors for the performance of any contract we enter into with you.</li>
+		<li>
+			Analytics and search engine providers that assist us in the maintenance, improvement and optimisation of our website. We ensure that any third party service we utilise complies with strict data protection standards. A brief synopsis of what these tools do is found below:
+			<ul>
+				<li>
+					<strong>DC Storm</strong> | <a href="http://www.dc-storm.com/en-uk/privacy-policy/">Privacy Policy</a> | <a href="http://www.dc-storm.com/en-uk/cookie-use/">Cookie Policy</a><br>
+					DC Storm provides us with our web performance, measurement, analysis and reporting - this means detailed information on things such as how many landings a particular page has received or the revenue generated by different advertising mediums.</li>
+				<li>
+					<strong>Google &amp; Google Analytics</strong> | <a href="http://www.google.co.uk/intl/en/policies/privacy/">Privacy Policy</a></li>
+				<li>
+					Google Analytics helps our team measure sales and conversion as well as better understand customer behaviour on our website. This includes measurement of things such as the split between new visitors as opposed to returning visitors and the length of time visitors spend on particular pages.</li>
+			</ul>
+		</li>
+		<li>
+			Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.</li>
+	</ul>
+	<p>
+		&nbsp;</p>
+	<p>
+		We may disclose your personal information to third parties:</p>
+	<ul>
+		<li>
+			In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+		<li>
+			If Victoria Plumb or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+		<li>
+			If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property, or safety of Victoria Plumb our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+	</ul>
+	<p>
+		&nbsp;</p>
+	<h2>
+		WHERE WE STORE YOUR PERSONAL DATA</h2>
+	<p>
+		&nbsp;</p>
+	<ul>
+		<li>
+			The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.</li>
+		<li>
+			All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</li>
+		<li>
+			Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</li>
+	</ul>
+	<p>
+		&nbsp;</p>
 	<h2>
 		HOW WE USE COOKIES</h2>
 	<p>
 		<strong>What are cookies?</strong></p>
 	<p>
-		Cookies are small text files that are stored on your PC, phone or other web enabled device when you visit the Victoria Plumb website. They are not harmful and do not contain any confidential information such as your home address, date of birth or credit card details.<br>
+		Cookies are small text files that are stored on your PC, phone or other web enabled device when you visit our Website. They are not harmful and do not contain any confidential information such as your home address, date of birth or credit card details.<br>
 		<br>
-		Cookies are an essential part of how our site works. Some of these cookies are required by our site to enable you to transact whilst other cookies enable us to give you an enhanced, personalised web experience.</p>
+		Cookies are an essential part of how our Website works. Some of these cookies are required by our site to enable you to transact whilst other cookies enable us to give you an enhanced, personalised web experience.</p>
 	<p>
-		By using our site, you also consent to the use of these cookies. Cookies are used on our site for the following reasons:</p>
+		By using our Website, you also consent to the use of these cookies. Cookies are used on our site for the following reasons:</p>
 	<ul>
 		<li>
-			To allow you to securely sign in to your Victoria Plumb&nbsp; Account, so that you can use "My Account" features such as order information, making payments and receive on-site offers.</li>
+			To allow you to securely sign in to your Victoria Plumb account, so that you can use "My Account" features such as order information, making payments and receiving on-site offers.</li>
 		<li>
 			To store the content of your online shopping bag whilst you browse the site and to complete an order.</li>
 		<li>
-			To record the areas of the website that you have visited, products you have viewed and time spent browsing, as well as the products you purchased. We use this information to help make the website more user friendly, develop our site design and to continuously improve the quality of the service we provide.</li>
+			To record the areas of the Website that you have visited, products you have viewed and time spent browsing, as well as the products you purchased. We use this information to help make the Website more user friendly, develop our site design and to continuously improve the quality of the service we provide. The information may be provided to other Walker Group companies and/or the third parties referenced in the "Disclosure of Your Information" section above.</li>
+		<li>
+			To personalise our Website content for you.</li>
 		<li>
 			To distribute visitors to our site evenly across platforms to ensure the content is served at the fastest possible speed.</li>
 	</ul>
 	<p>
-		We also offer you the facility to share your experience on our site through social sites such as facebook and twitter. By using these features, you are also consenting to allow cookies from these providers. More information about how these providers use cookies can be found at their websites.</p>
+		We also offer you the facility to share your experience on our Website through social sites such as Facebook and Twitter. By using these features, you are also consenting to allow cookies from these providers. More information about how these providers use cookies can be found at their websites.</p>
 	<p>
 		<strong>Are cookies safe?</strong></p>
 	<p>
@@ -775,13 +925,13 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 	<p>
 		<strong>Can I turn off cookies?</strong></p>
 	<p>
-		Victoria Plumb uses cookies to ensure that we provide the best possible standard of service to our online customers. However, as part of our privacy and security policy, we require your consent to use them.</p>
+		Victoria Plumb uses cookies to ensure that we provide the best possible standard of service to our online customers. However, as part of our Privacy Policy, we require your consent to use them.</p>
 	<p>
 		To withdraw your consent, or if you want to be notified each time a cookie is about to be used, you should amend the settings provided in your web browser to prevent us from storing cookies on your computer's hard drive. For information on how to disable cookies, please consult the "Help" tab of your browser via the menu bar.</p>
 	<p>
-		It must be noted that if you choose not to consent to the use of cookies, your experience of our site will be severely impaired and many integral aspects of the site, including (but not limited to) adding items to your shopping bag and accessing your account, will not work at all.</p>
+		It must be noted that if you choose not to consent to the use of cookies, your experience of our site will be severely impaired and many integral aspects of the site, including (but not limited to) adding items to your shopping basket and accessing your account, will not work at all.</p>
 	<p>
-		Our use of advertisement tracking</p>
+		<strong>Our use of advertisement tracking</strong></p>
 	<p>
 		We also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:</p>
 	<p>
@@ -798,36 +948,40 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 		You may choose to restrict the collection or use of your personal information in the following ways:</p>
 	<ul>
 		<li>
-			Under the Data Protection Act 1998 you may request the right to ask what personal data that we hold about you at any time, subject to a fee specified by law (currently £10);</li>
+			Under the Data Protection Act 1998 you may request the right to ask what personal data that we hold about you at any time, subject to a fee specified by law (currently £10).</li>
 		<li>
-			the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and</li>
+			The right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge.</li>
 		<li>
-			the right to change your mind at any time regarding personal information for direct marketing purposes.</li>
+			The right to ask us not to process your personal data for marketing purposes and the right to change your mind at any time regarding your consent to processing of personal information for direct marketing purposes.</li>
 	</ul>
 	<p>
-		If you wish to exercise any of the above rights, please contact us using the contact details specified below.</p>
+		If you wish to exercise any of the above rights, or have any queries regarding this Privacy Policy generally, please contact us using the contact details specified below.</p>
 	<p>
 		<strong>Victoria Plum Ltd</strong><br>
-		Amsterdam Road<br>
-		Sutton Fields Industrial Estate<br>
+		Bridgehead Business Park<br>
+		Hessle<br>
 		Hull<br>
-		HU7 0XF<br>
+		HU13 0DG<br>
 		0344 804 48 48</p>
 	<p>
 		<a href="mailto:info@victoriaplumb.com">info@victoriaplumb.com</a></p>
 	<p>
-		However, if you wish to unsubscribe from e-mail marketing communications that we send you, you can most easily do this by clicking on the unsubscribe link at the bottom of any e-mail newsletter we have sent to you.</p>
+		However, if you wish to unsubscribe from email marketing communications that we send you, you can most easily do this by clicking on the unsubscribe link at the bottom of any email newsletter we have sent to you.</p>
+	<p>
+		From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites please note that these websites have their own individual privacy policies and that we do not accept any responsibility or liability for these policies. Please check these privacy policies before you submit any personal data to these websites.</p>
+	<p>
+		Any changes we make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any update or changes to our Privacy Policy.</p>
 </div>
 
 			<div class="love-bathrooms">
 	<div class="left">
 		<p class="strap">Our latest promotions, competitions &amp; latest news</p>
 		<ul class="social-icons">
-			<li class="facebook"><a href="https://www.facebook.com/VictoriaPlumbBathrooms" target="_blank"><div class="img"></div><div class="title">Facebook</div></a></li>
-			<li class="twitter"><a href="https://twitter.com/Victoriaplumb" target="_blank"><div class="img"></div><div class="title">Twitter</div></a></li>
-			<li class="youtube"><a href="http://www.youtube.com/VictoriaPlumbLTD" target="_blank"><div class="img"></div><div class="title">Video</div></a></li>
-			<li class="googlep"><a href="https://plus.google.com/+victoriaplumb/posts" target="_blank" rel="publisher"><div class="img"></div><div class="title">Google+</div></a></li>
-			<li class="pintrest"><a href="http://www.pinterest.com/victoriaplumb1/" target="_blank"><div class="img"></div><div class="title">Pinterest</div></a></li>
+			<li class="facebook"><a href="https://www.facebook.com/VictoriaPlumbBathrooms" target="_blank" rel="nofollow"><div class="img"></div><div class="title">Facebook</div></a></li>
+			<li class="twitter"><a href="https://twitter.com/Victoriaplumb" target="_blank" rel="nofollow"><div class="img"></div><div class="title">Twitter</div></a></li>
+			<li class="youtube"><a href="http://www.youtube.com/VictoriaPlumbLTD" target="_blank" rel="nofollow"><div class="img"></div><div class="title">Video</div></a></li>
+			<li class="googlep"><a href="https://plus.google.com/+victoriaplumb/posts" target="_blank" rel="nofollow"><div class="img"></div><div class="title">Google+</div></a></li>
+			<li class="pintrest"><a href="http://www.pinterest.com/victoriaplumb1/" target="_blank" rel="nofollow"><div class="img"></div><div class="title">Pinterest</div></a></li>
 		</ul>
 	</div>
 	<div class="right">
@@ -852,37 +1006,40 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
                 <li class="ftop">Here to help</li>
                 <li><a href="http://www.victoriaplumb.com/trade/">Trade scheme</a></li>
                 <li><a href="http://www.victoriaplumb.com/finance/">Finance options</a></li>
+                <li><a href="http://www.victoriaplumb.com/brochure_request/index.php">Brochure request</a></li>
                 <li><a href="http://www.victoriaplumb.com/lovebathrooms/">Inspiration &amp; advice</a></li>
                 <li><a href="http://www.victoriaplumb.com/Buying-Guides/">Buying guides</a></li>
                 <li><a href="http://www.victoriaplumb.com/lovebathrooms/category/bathroom-diy/">Bathroom DIY</a></li>
                 <li><a href="http://www.victoriaplumb.com/sitemap.html">Sitemap</a></li>
                 <li class="follow-us" style="width:165px; margin-top: 10px;">Follow Us:</li>
                 <li class="follow-us">
-                    <a href="https://twitter.com/Victoriaplumb" target="_blank"><div class="social-icon twitter"></div></a>
-                    <a href="http://www.facebook.com/VictoriaPlumbBathrooms" target="_blank"><div class="social-icon facebook"></div></a>
+                    <a href="https://twitter.com/Victoriaplumb" target="_blank" rel="nofollow"><div class="social-icon twitter"></div></a>
+                    <a href="http://www.facebook.com/VictoriaPlumbBathrooms" target="_blank" rel="nofollow"><div class="social-icon facebook"></div></a>
                     <a href="https://plus.google.com/+victoriaplumb/posts" target="_blank" rel="publisher"><div class="social-icon google-plus"></div></a>
-                    <a href="http://www.pinterest.com/victoriaplumb1/" target="_blank"><div class="social-icon pintrest"></div></a>
-                    <a href="http://www.youtube.com/VictoriaPlumbLTD" target="_blank"><div class="social-icon youtube"></div></a>
+                    <a href="http://www.pinterest.com/victoriaplumb1/" target="_blank" rel="nofollow"><div class="social-icon pintrest"></div></a>
+                    <a href="http://www.youtube.com/VictoriaPlumbLTD" target="_blank" rel="nofollow"><div class="social-icon youtube"></div></a>
                 </li>
             </ul>
             <ul style="width: 180px;">
                 <li class="ftop">Customer services</li>
                 <li><a href="http://www.victoriaplumb.com/help_and_support.html">Help and support</a></li>
-                <li><a href="http://www.victoriaplumb.com/price_guarantee.html">Price Guarantee</a></li>
-                <li><a href="http://www.victoriaplumb.com/info.html#returns">Returns policy</a></li>
-                <li><a href="http://www.victoriaplumb.com/info.html">Terms &amp; conditions</a></li>
-                <li><a href="http://www.victoriaplumb.com/del_info.html">Delivery information</a></li>
-                <li><a href="http://www.victoriaplumb.com/cust_feedback.html">Customer feedback</a></li>
-                <li><a href="http://www.victoriaplumb.com/lovebathrooms/bathroom-inspiration/infographics/customer-research-survey-results/">Customer survey results</a></li>
+                <li><a href="http://www.victoriaplumb.com/guarantee/" rel="nofollow">Product Guarantee</a></li>
+                <li><a href="http://www.victoriaplumb.com/price_guarantee.html" rel="nofollow">Price Guarantee</a></li>
+                <li><a href="http://www.victoriaplumb.com/info.html#returns" rel="nofollow">Returns policy</a></li>
+                <li><a href="http://www.victoriaplumb.com/info.html" rel="nofollow">Terms &amp; conditions</a></li>
+                <li><a href="http://www.victoriaplumb.com/del_info.html" rel="nofollow">Delivery information</a></li>
+                <li><a href="http://www.victoriaplumb.com/cust_feedback.html" rel="nofollow">Customer feedback</a></li>
+                <li><a href="http://www.victoriaplumb.com/lovebathrooms/bathroom-inspiration/infographics/customer-research-survey-results/" rel="nofollow">Customer survey results</a></li>
             </ul>
             <ul style="width: 140px;">
                 <li class="ftop">The company</li>
-                <li><a href="http://www.victoriaplumb.com/privacy_policy.html">Privacy policy</a></li>
-                <li><a href="http://www.victoriaplumb.com/security_info.html">Online security</a></li>
-                <li><a href="http://www.victoriaplumb.com/news/">Latest news</a></li>
-                <li><a href="http://www.victoriaplumb.com/careers.html">Careers</a></li>
+                <li><a href="http://www.victoriaplumb.com/privacy_policy.html" rel="nofollow">Privacy policy</a></li>
+                <li><a href="http://www.victoriaplumb.com/security_info.html" rel="nofollow">Online security</a></li>
+                <li><a href="http://www.victoriaplumb.com/lovebathrooms/category/news/">Latest news</a></li>
+                <li><a href="http://www.victoriaplumb.com/charity.html">Our Charity Partner</a></li>
+                <li><a href="http://www.victoriaplumb.com/careers">Careers</a></li>
                 <li><a href="http://www.victoriaplumb.com/ad/">Latest TV Advert</a></li>
-                <li><a href="mailto:press@victoriaplumb.com?subject=Press Enquiry&amp;body=Please include the following information:%0A%0AName:%0ACompany:%0AEmail:%0AType of enquiry:%0A%0AMessage:%0A%0A%0A%0AThank you for contacting us">Press Enquiries</a></li>
+                <li><a href="mailto:press@victoriaplumb.com?subject=Press Enquiry&amp;body=Please include the following information:%0A%0AName:%0ACompany:%0AEmail:%0AType of enquiry:%0A%0AMessage:%0A%0A%0A%0AThank you for contacting us" rel="nofollow">Press Enquiries</a></li>
             </ul>
             <ul id="signup_ul">
                 <li class="ftop">Be the first to know!</li>
@@ -910,7 +1067,6 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 <!-- End fix styles "site_holder" -->
 </div>
 
-    <!--<div id="bgBottom"></div>-->
     <div class="float_layer" id="float_layer" onclick="exit_search();"></div>
     
 
@@ -926,44 +1082,19 @@ var __stormJs = 't1.stormiq.com/dcv4/jslib/4563_1A486DEA_C1C7_42AF_AEFD_33CBD215
 
     <div id="ipad-banner" style="position:fixed;bottom:0;right:0;z-index:4999;width:228px;height:215px">
         <div style="position:absolute;bottom:0;right:1px;bottom:0;z-index:1200;width:33px;height:15px;cursor:pointer;color:#fff" id="ipad-close"></div>
-                    <a href="http://www.victoriaplumb.com/price_guarantee.html" target="_blank">
+                    <a href="http://www.victoriaplumb.com/price_guarantee.html" target="_blank" rel="nofollow">
                 <img src="http://static.victoriaplumb.com/images/banners/guarantee-flash.png" alt="Lowest Price Guarantee" style="z-index:300">
             </a>
             </div>
 <!-- floating banner end -->
 
 
-
-<script type="text/javascript">
-var google_tag_params = {
-ecomm_pagetype: 'common/page',
-ecomm_hasaccount: 'n'
-};
-</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1008243496;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008243496/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
     <!-- cached javascript -->
-    <script type="text/javascript" src="http://www.victoriaplumb.com/compressed/js/48f8a7269b346d49e91e3b114bfc64cd.js"></script>
-	<!-- Emarsys/Scarab tracking -->
-	<script type="text/javascript">
-				ScarabQueue.push(["go"]);
-	</script>
+    <script type="text/javascript" src="http://www.victoriaplumb.com/compressed/js/4932d98b50dbf98a4fd0b5d231e11184.js"></script>
 
-    <!-- Crazy Egg heat mapper -->
-    <script type="text/javascript" src="/js/crazyegg.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"4309e73a80","applicationID":"3217727","transactionName":"NVwEMUsCVhEFVkFeXAwWJRBKF1cPS0VHXkUDWh86SQxUCwdM","queueTime":0,"applicationTime":28,"ttGuid":"","agentToken":"","atts":"GRsHRwMYRR8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4309e73a80","applicationID":"3217727","transactionName":"NVwEMUsCVhEFVkFeXAwWJRBKF1cPS1ZaWl4NV0kVWARd","queueTime":0,"applicationTime":46,"atts":"GRsHRwMYRR8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>    <script type="application/ld+json">
+{"@context":"http://schema.org","@type":"WebSite","url":"http://www.victoriaplumb.com/","potentialAction":{"@type":"SearchAction","target":"http://www.victoriaplumb.com/search/?queryString={queryString}&source=sitesearch","query-input":"required name=queryString"}}
+</script>
 
- </body></html>
+
+</body></html>
