@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agameplace.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808221829id_/http%3A//www.agameplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agameplace.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524031836id_/http%3A//www.agameplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Games – Free Online Games at agameplace.com
 
