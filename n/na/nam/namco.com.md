@@ -1,33 +1,93 @@
-> *The following text is extracted and transformed from the namco.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205080400id_/http%3A//namco.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namco.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524065910id_/http%3A//namco.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# namco
+# privacy policy
 
-PRIVACY POLICY
+**NAMCO ENTERTAINMENT INC.**
 
-**1) Support of a privacy policy**
+[www.namcoentertainment.com](http://www.namcoentertainment.com/)
 
-Namco respects the privacy rights of visitors and the concerns of parents for their children visiting our site. 
+**PRIVACY POLICY**
 
-**2) Collection of personal information and what is done with that information**
+This Privacy Policy of NAMCO ENTERTAINMENT INC. (“NEI”) covers the collection, use, and disclosure of personal information that may be collected by NEI anytime you interact with NEI, such as when you visit our web site (http://www.namcoentertainment.com) (the “Site”), when you purchase NEI’s products and services online, or when you contact us via telephone or e-mail.  Please take a moment to carefully read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.  If you do not understand any aspects of our Privacy Policy, please feel free to contact us as provided at the end of this Privacy Policy under the “Contact Us” Section.  Your privacy is a priority at NEI, and we go to great lengths to protect it.
 
-Namco only collects personal information from our visitors on a voluntary basis. We don't require this information to obtain access to any of our sites. Namco does not release information obtained from web site visitors. 
+**TERMS OF USE**
 
-People aged 13 and under must get parental permission before providing any kind of personal information. We urge parents to instruct their children never to give out their real names, addresses or phone numbers when using the Internet. 
+Please note that your use of the Site is also subject to our Terms of Use.
 
-**3) We do not actively solicit, request, or re-use any information from visitors except in the following instances:**
+**REASONS NEI COLLECTS PERSONAL INFORMATION**
 
-  * If people e-mail us with questions or comments and wish a reply, they need to provide an e-mail address or mailing address. Real names need not be used to request e-mail replies. 
-  * If people wish to subscribe to any e-mail mailing lists, they need to provide an e-mail address. Real names need not be used. 
-  * In the event an e-mail address is entered to send an E-card, Namco is unable to use any information. The address is discarded without further use.
-  * Adults wishing to register a repair online or purchase items any items online need to provide their name, address, e-mail address and credit card billing information. We do not accept orders from persons under 18 years of age. 
-  * People wishing to enter contests need to provide their e-mail address for prize notification. Prize winners need to provide their addresses for prize delivery. 
+We collect your personal information because it helps us deliver a superior level of customer service.  It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you.  In addition, your personal information helps us keep you posted on the latest product announcements, special offers and events that you might like to hear about.
 
+**INFORMATION NEI COLLECTS AND HOW IT MAY BE USED**
 
+There are a number of situations in which your personal information may help us give you better products.  For example, (1) we may ask for your personal information when you make contact with NEI by phone to discuss a service issue or question; (2) when you interact with NEI, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, e-mail address and contact preferences; (3) we collect information for market research purposes to gain a better understanding of our customers and thus provide more valuable service; (4) NEI enables you to purchase gift cards and send e-cards to family members, friends and colleagues, at which time NEI may require personal information about you and the person to whom you are sending the card; and (5) we collect information regarding customer activities on the Site, which helps us determine how best to provide useful information to customers and to understand which parts of the Site, products and Internet services are of most interest.  This information is automatically collected as you use the Site, and may include information such as your IP address, browser type, computer or device type, unique device identifiers, operating system version, the website from where you navigated to our Site, time and date of using our Site, the pages on our Site that you view, the name of your Internet service provider (ISP), and location information.  This information may be shared with third parties or in special circumstances as described elsewhere in this policy.
 
-**4) Cookies (data collected and what you do with it)**
+**HOW INFORMATION IS COLLECTED ON THE SITE**
 
-We do not use cookies to collect any personal information. (Cookies are small files downloaded to your computer to track movements within web sites.) 
+**Information Collected Through Google Analytics**.  
 
-**5) Links**
+We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”) to collect certain information relating to your use of the Site.  Google Analytics uses “cookies” to help the website analyze how users use the Site.  The information generated by the cookie about your use of the Site (including your IP address) will be transmitted to and stored by Google on servers.  Google will use this information for the purpose of evaluating your use of the Site, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf.  Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Site.  By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  For more information regarding Google Analytics please visit Google's website, and pages that describe Google Analytics, such as www.google.com/analytics/learn/privacy.html.
 
-Namco's web sites may contain links to other sites, and we make every effort to link only to sites with content suitable for all ages. Children under 13, however, should get parental permission before linking to other sites.
+**Information Collected Through Cookies and Similar Technologies**.  
+
+A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website.  When you visit the website again, the cookie allows that site to recognize your browser.  Cookies may store unique identifiers, user preferences and other information.  As is standard practice on many corporate web sites, our web site uses cookies and other technologies to help us understand which parts of our web sites are the most popular, where our visitors are going, and how much time they spend there.  We also use cookies and other technologies to make sure that our online advertising is bringing customers to our products and services.  We use cookies and other technologies to study traffic patterns on our web site, to make it even more rewarding as well as to study the effectiveness of our customer communications.  And we use cookies to customize your experience and provide greater convenience each time you interact with us.  You can reset your browser to refuse all cookies or to indicate when a cookie is being sent.  However, some Site features or services may not function properly without cookies.   
+
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.   We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  NEI will not use the information collected to market directly to that person.
+
+In some of our email messages we use a “click-through URL” linked to content on our web site.  When customers click one of these URLs, they pass through our web server before arriving at the destination web page.  We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications.  If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
+
+In addition we use pixel tags—tiny graphic images—to tell us what parts of our web site customers have visited or to measure the effectiveness of searches customers perform on our site.  Pixel tags also enable us to send e-mail messages in a format customers can read.  And they tell us whether e-mails have been opened to ensure that we’re sending only messages that are of interest to our customers.  We may use this information to reduce or eliminate messages sent to a customer.  We store all of this information in a secure database located in the United States.
+
+**USE AND DISCLOSURE OF INFORMATION**
+
+NEI takes your privacy very seriously. NEI does not sell or rent your contact information to other marketers.  To help us provide superior service, your personal information may be shared with legal entities within our corporate group globally who will take steps to safeguard it in accordance with our privacy policy.
+
+**To protect the security and integrity of the Site and the business**.  As described above, we automatically collect certain information from you so that we can improve your user experience, and protect, maintain and improve the security and integrity of this Site and to enhance the operation or analyze interest in the areas of our Site.
+
+**Legal Proceedings**.  We reserve the right to disclose your personal information to third party companies, organizations and/or individuals for any reason if, in our sole discretion, we believe that it is reasonable to do so, including to credit agencies, collection agencies, merchant database agencies, law enforcement, and for the purposes of litigation or to satisfy laws or regulations, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information.  We may also disclose personal information that is necessary to identify, contact, or bring legal action against someone who may be violating our contracts, policies and procedures. Finally we may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.  Finally, we will share personal information if we believe, in our sole discretion, that access, use, preservation or disclosure of the information is reasonably necessary to respond to any subpoena or enforceable governmental request; to detect, prevent, or otherwise address fraud, security or technical issues; or to protect against harm to the rights, property or safety of NEI, our users, customers or the public as required or permitted by law. 
+
+**Transfer in the Event of Sale or Change of Control**.  If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner.  In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently.
+
+**Corresponding with You**.  We may also use the personal information you provided to us in order to respond to your inquiries and other correspondences or user submissions.  We may also use your information in communicating with you regarding important information regarding your personal information.
+
+**To Provide Services and Information**.  As described above, we collect personal information from you so that we can provide information that you request from us.  We may use your personal information in order to fulfill your requests, for marketing purposes, and we may also send you information and materials, including about our products and services, and new offerings.  We may provide your personal information to third party service providers that help us process orders, and fulfill and deliver products and services that you purchase from us.  We may use third parties to help host our Site, send out e-mail updates about the Site, provide marketing and advertising services for us, and remove repetitive information.  These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service.  In addition, we, or third party service providers on our behalf, may also collect aggregate information about Site users on an anonymous basis.  To learn more about interest-based advertisements and your opt-out rights and options, visit the Digital Advertising Alliance and the Network Advertising Initiative websites (www.aboutads.info and www.networkadvertising.org).
+
+**HOW NEI PROTECTS YOUR PERSONAL INFORMATION**
+
+NEI takes precautions—including administrative, technical, and physical measures—to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.  Our web sites use Secure Sockets Layer (SSL) encryption on all web pages where personal information is required to make online purchases you must use an SSL-enabled browser in order to protect the confidentiality of your personal and credit card information while it’s transmitted over the Internet. You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser.  While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining your personal information.
+
+**INTEGRITY OF YOUR PERSONAL INFORMATION**
+
+NEI has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used.  You always have the right to access and correct the personal information you have provided and can help us ensure that your contact information and preferences are accurate, complete, and up to date by contacting us as provided in the “Contact Us” Section below.  
+
+**CHILDREN**
+
+Protecting children’s privacy is especially important to us.  NEI recognizes that parents, guardians, or other adults often engage our services for family use, including use by minors.  We do not knowingly collect personal information from children under 13 for marketing purposes, but because some information is collected electronically, it can appear to be the personal information of NEI purchaser of the product, and will be treated as such by this privacy policy.  If a child under 13 submits personal information to NEI and we learn that that personal information is the information of a child under 13, we will attempt to delete the information as soon as possible.  It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws.  Therefore we restrict our web site to persons 18 years or older.
+
+YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THE SITE.  IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THE SITE FOR ANY REASON.  
+
+**FOREIGN VISITORS**
+
+The Site, including any pages directed to residents in countries and jurisdictions outside of the United States, are operated and managed on servers located and operated within the United States.  By using and accessing this Site, residents and citizens of countries and jurisdictions outside of the United States agree and consent to the transfer to and processing of personal information on servers located in the United States, and that the protection of such information may be different than required under the laws of your residence or location.
+
+**OTHER WEBSITES**
+
+The Site also contains links to sites operated by third parties, which are not owned or controlled by NEI.  Once you leave our site, you may or may not see a new URL in the location bar.  Please be aware that we are not responsible for the privacy practices of such other websites.  If you provide any information to websites operated by third parties, different rules regarding the collection and use of your personal information may apply.  We strongly suggest you review such third party’s privacy policies before providing any information to them.  You should contact these entities directly if you have any questions about their use of the information that they collect.
+
+**MODIFICATIONS OF THE PRIVACY POLICY**
+
+The terms and conditions in this Privacy Policy came into effect on 08.10.2014.  NEI reserves the right to revise, amend, or modify this Privacy Policy at any time and in any manner.  When we change the Privacy Policy in a material way a notice will be posted on our web site along with the updated Privacy Policy.  Such modifications will become effective on the day they are posted.   Your use of our website and any other services provided by NEI after such changes are implemented constitutes your acknowledgement and acceptance of these changes.  We encourage you to frequently review the Privacy Policy for any modifications.
+
+**CONTACT US**
+
+If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please contact us by postal mail, e-mail or telephone at:
+
+NAMCO ENTERTAINMENT INC.
+
+712 N. Central Avenue, Ste. B
+
+Wood Dale, Illinois 60191-1263
+
+630.238.2200
+
+marketing@namcoentertainment.com
