@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194121id_/http%3A//www.miniclip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524120943id_/http%3A//www.miniclip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Miniclip, Play Games
 
 ## Miniclip Privacy Policy
 
-Last updated: 26th June 2013
+Last updated: 29th October 2014
 
 Miniclip is committed to providing fun and exciting digital entertainment across all its products and services, such as Miniclip.com (and its related sub-sites) and all applications available on smartphone devices, tablets, browser and desktop (together, the " **Services** "). Miniclip.com is the property of Miniclip SA (" **Miniclip** "). Miniclip respects the privacy concerns of all users of its Services. Miniclip does not target its Services to users under the age of 13, but does take measures to help protect the privacy of those who are.
 
@@ -54,7 +54,7 @@ Miniclip may disclose information to third parties in special cases, such as (1)
 
 ### Collection of Information by Third-Parties and Sponsors; Opting Out
 
-We do not disclose personal data of users under 13 years of age to any third parties. We use Google Adsense and other third-party advertising companies to serve ads and/or provide aggregated data to assist in serving ads when you visit Miniclip.com. We use web analytics tools, such as Google Analytics, to analyse the use of the Services. Miniclip may use information about your use of the Services in order to provide advertisements for goods and services that may be of interest to you. We may also share non-personal information that we collect from you with our business partners or clients so that they may improve their services. Third party companies, including those whose games run on Miniclip.com, may ask for information from you which would be governed by the privacy policy of such companies; in which case they should provide adequate disclosure of their privacy policies to you. We advise you to take care when any company or third party game provider asks you to input personal data. Third parties (including ad networks, ad exchanges, advertisers and/or game developers whose games can be found on the Site but which are hosted on servers elsewhere) and/or Miniclip may be placing and reading standard and/or flash cookies on your browser and machine, or using web beacons to collect non-personal information in the course of your use of the Services. You may manage or opt out of your flash cookies by emailing support@miniclip.com. You may manage or opt out of your standard cookies via your web browser and if you would like more information about this practice and to know your choices about not having this information used by these companies, please email us at support@miniclip.com.
+We do not disclose personal data of users under 13 years of age to any third parties. We use Google Adsense and other third-party advertising companies to serve ads and/or provide aggregated data to assist in serving ads when you visit Miniclip.com. We use web analytics tools, such as Google Analytics, to analyse the use of the Services. Miniclip may use information about your use of the Services in order to provide advertisements for goods and services that may be of interest to you. We may also share non-personal information that we collect from you with our business partners or clients so that they may improve their services. In the event that this information incorporates personal data, it will only be provided to our partners in a hashed or encrypted form. Third party companies, including those whose games run on Miniclip.com, may ask for information from you which would be governed by the privacy policy of such companies; in which case they should provide adequate disclosure of their privacy policies to you. We advise you to take care when any company or third party game provider asks you to input personal data. Third parties (including ad networks, ad exchanges, advertisers and/or game developers whose games can be found on the Site but which are hosted on servers elsewhere) and/or Miniclip may be placing and reading standard and/or flash cookies on your browser and machine, or using web beacons to collect non-personal information in the course of your use of the Services. You may manage or opt out of your flash cookies by emailing support@miniclip.com. You may manage or opt out of your standard cookies via your web browser and if you would like more information about this practice and to know your choices about not having this information used by these companies, please email us at [support@miniclip.com](mailto:support@miniclip.com). You may also visit [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) to opt out of interest-based advertising. 
 
 While using the Services you may be able to connect to social networking sites or find games and products of other companies. Please note that your use of these other companies' services, such as Facebook Connect or Club Penguin, will be governed by the relevant operator's terms and conditions and privacy policy.
 
@@ -79,3 +79,8 @@ This Privacy Policy is part of Miniclip's Terms and Conditions to which you agre
 ### Internet Safety
 
 Miniclip recommends that parents take time to communicate and educate their children about Internet Safety. Please see the Miniclip Internet Safety webpage for information on Internet Safety: <http://www.miniclip.com/games/page/en/internet-safety/>
+
+Advertisement Feedback
+
+[ Multijogadores ](https://web.archive.org/games/genre-2/multi-jogadores/pt/#t-w-c "More Multijogadores
+ Games")
