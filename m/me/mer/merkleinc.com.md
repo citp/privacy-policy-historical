@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125122906id_/http%3A//www.merkleinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524203225id_/http%3A//www.merkleinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Merkle
 
@@ -66,11 +66,11 @@ We may make changes to this Privacy Policy on occasion. We will post any revised
 **Contact Information**  
 If you have any questions or comments related to Merkle’s privacy policy please contact:
 
-Bennie Smith  
-Vice President, Chief Privacy Officer  
+Noah Bason  
+Senior Counsel  
 Merkle, Inc.  
 7001 Columbia Gateway Drive  
 Columbia, MD 21046  
-[BLsmith@merkleinc.com](mailto:BLsmith@merkleinc.com) 
+[nbason@merkleinc.com](mailto:nbason@merkleinc.com)
 
-Copyright © 2014, Merkle Inc. All Rights Reserved.
+Copyright © 2015, Merkle Inc. All Rights Reserved.
