@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sapient.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701083838id_/http%3A//www.sapient.com/en-us/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapient.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524074905id_/http%3A//www.sapient.com/en-us/privacypolicy.html) for the most accurate reproduction.*
 
 # Sapient | Privacy Policy
 
