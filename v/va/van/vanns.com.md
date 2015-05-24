@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221061940id_/http%3A//vanns.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524084211id_/http%3A//vanns.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Vanns.com™ | Privacy Policy Statement
 
@@ -72,6 +72,8 @@ Updated 07/2014
 |   
 | |   
   
+[ ](http://vanns.com/search.aspx?find=canon)
+
 [ ](https://web.archive.org/search.aspx?manufacturer=201)
 
 [ ](https://web.archive.org/search.aspx?manufacturer=188)
