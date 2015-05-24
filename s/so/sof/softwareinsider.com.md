@@ -1,239 +1,49 @@
-> *The following text is extracted and transformed from the softwareinsider.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405154956id_/http%3A//www.teplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareinsider.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524055530id_/https%3A//www.findthebest.com/site-policies/privacy-policy) for the most accurate reproduction.*
 
-# tePlanet: Privacy Statement
+# FindTheBest | A Research Engine
 
-**
+## Notice and Choice
 
-Privacy Statement of tePlanet
+We collect Personal Information, Non-Personal Information, and Public Information. 
 
-**
+We collect Personal Information when you provide it to us, for example by creating an account. We may ask for your email address if you wish to be notified when listings have changed, for confirmation emails, authenticating your account, accounting notices and other reasons including instances in which you have requested specific information or updates. 
 
-**
+If you use Facebook or Google to create a FindTheBest account, we will receive information such as your name and email address, as well as other information you may provide to us through those services. These companies may also receive certain data as described in their privacy policies. 
 
-**Information about our Organisation and Web site**
+We do not share the Personal Information you provide to us with third parties. However we do provide Personal Information to our vendors or others who are acting to fulfill the services we provide. For example, servers we use to host our website and store information may be managed by other vendors in order to make our site more reliable. 
 
-**
+We collect Public Information when you provide it to us for public display or when we assemble information from publicly accessible databases in order to help you find services or conduct research. For example, some listings ask for, require or include names, phone numbers, email addresses, and other personally identifiable information This information is optional and is intended to benefit you, your business, or the item listed to assist with promotion or display. If you post information in reviews, or make edits to a listing, please be aware that you have made this information public. 
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like tePlanet . We are based in US .  Our principal activity is:  Internet Based Services  Our privacy policy covers tePlanet and its Web sites: 
+Please do not post any Personal Information on listings that you wish to keep private. If you have provided us with information that you wish to remove you may edit that listing or contact us directly to remove that information. Please be aware that if the information has originated in a public database you will need to contact the source of this information to ensure this information does not continue to be displayed in the future. You may find the source of such information on the bottom of the listing page or by contacting us directly. 
 
-** Organisation Name:  |  tePlanet   
----|---  
-Address:  |  P.O. Box 1475   
-City, Zip:  |  Green Bay  ,  54305   
-State:  |  WI   
-Country:  |  US   
-Controller:  |  tePlanet   
-Web Sites(s):  |  http://www.teplanet.com   
-**
+We collect Non-Personal Information such as web-logs to help us to diagnose problems with our system and to provide better services to our customers. These logs are deleted on a regular basis. 
 
-**
+We and our vendors use cookies, web beacons, advertising identifiers, and other tracking technologies to understand site usage and to manage our advertising and affiliate relationships. We use third-party vendors, including Google, for analytics and to serve advertisements and collect non-personally identifiable information when you visit one of our websites. These companies may use non-personally identifiable information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on our sites, other websites, and other forms of media about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click [here](http://www.networkadvertising.org/choices/). To opt out of interest based ads served by Google, you can visit the [Google advertising opt-out page](http://www.google.com/settings/ads). See our detailed cookie policy for further details about our use of cookies for analytics and advertising and for your opt-out choices. 
 
-**Providing Visitors with Anonymous Access**
+We do not presently respond to Do Not Track browser settings. See All About Do Not Track for more information. 
 
-**
+If you click on an advertisement or a link to purchase or learn more about a listing you may be directed to a contact form, website or phone number of a third party. Any information you may provide to such third parties will be subject to their Privacy Policy. 
 
-You can access our Web sites home page and browse our sites without disclosing your personal data. 
+We do not knowingly collect any information from persons under the age of 13. If we learn that we have inadvertently received personal information from a person under the age of 13, we will make every attempt to remove that data. 
 
-**
+## Access
 
-**** ** The services and links of our Web sites  **
+Registered users can access and update their account information via links accessible on the site homepage. If you have created an account with us and wish to remove it you may do so by selecting the “Delete Account” option at the bottom of your [account settings page.](http://www.findthebest.com/profile/edit)
 
-**
+## Third Parties
 
-Our Web sites enable you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data. 
+We may disclose information about our users if required to do so by law or when such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may also disclose information about our users when we have a good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use Agreement; respond to claims that any Listing or other content violates the rights of third-parties; or protect the rights, property, or personal safety of us, our users, or the general public at large. 
 
-Our Web sites do not include links to third party Web service providers. 
+## Security
 
-**
+For visitors outside the European Economic Area (EEA) and Switzerland, by visiting our web site and providing us with data, you acknowledge and consent that due to the international scope of FindTheBest we may use the data collected in the course of our relationship for the reasons outlined in this policy or in our other communications with you, including the transmission of information outside of your resident jurisdiction. Such information may be stored on servers located in the United States. By providing us with your information, you acknowledge and consent to the transfer of such data under the terms herein and to this locale. 
 
-Automatic Collection of Information 
+For visitors within the European Economic Area (EEA) and Switzerland, FindTheBest complies with the US-EU and US-Swiss Safe Harbor Principles as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland governed under this privacy policy. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor>. 
 
-**
+In compliance with US-EU and US-Swiss Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact FindTheBest by clicking [here.](http://support.findthebest.com/hc/en-us/requests/new)
 
-We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. 
+FindTheBest has further committed to refer unresolved privacy complaints under the US-EU and US- Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the [BBB EU SAFE HARBOR](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program) website for more information or to file a complaint. 
 
-We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes: 
+## Contact Us
 
-  * Technical administration of the Web site 
-  * Customer administration 
-
-
-
-**
-
-Data Collection and Purpose Specification 
-
-**
-
-We collect the personal data that you may volunteer while using our services. 
-
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations. 
-
-To access the table of personal data collected and purposes for which they are used, please  click here 
-
-We do not collect or use personal data for any purpose other than that indicated in the table below. 
-
-If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes: 
-
-  * by indicating in a box at the point on the site where personal data is collected 
-  * by sending an email ( support@teplanet.com ) 
-
-
-
-**
-
-Children's Privacy 
-
-**
-
-We do not knowingly collect personal data from children. 
-
-We take specific steps to protect the privacy of children by: 
-
-  * making reasonable efforts to ensure that a parent has authorised the collection of the child's personal data 
-
-
-
-We do provide information about our personal data practices in relation to children on our home page and wherever we knowingly collect personnal data from children on our Web site. 
-
-**
-
-Disclosure and Visitor Choice 
-
-**
-
-We disclose our visitors' personal data to our subsidiaries or other organisations. 
-
-Where we disclose your personal data for the same purposes as those indicated in the table below, we provide you with the means to  opt-out of disclosure: 
-
-  * by indicating in a box at the point on the site where personal data is collected 
-  * by sending an email ( support@teplanet.com ) 
-
-
-
-Where we disclose your personal data for purposes which are different from those indicated in the table mentioned above, we offer you the opportunity to consent to disclosure: 
-
-  * by sending an email ( support@teplanet.com ) 
-
-
-
-**
-
-Confidentiality / Security 
-
-**
-
-We give you the option of using a secure transmission method to send us the following types of personal data: 
-
-  * identifiers (such as credit card details, Web site password) 
-
-
-
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
-
-  * unauthorised access 
-  * improper use or disclosure 
-  * unauthorised modification 
-  * unlawful destruction or accidental loss 
-
-
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. 
-
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
-
-**
-
-Access to the personal data we may hold about you 
-
-**
-
-You can ask us, by: 
-
-  * sending an email ( support@teplanet.com ) 
-
-
-
-whether we are keeping personal data about you. 
-
-Upon request, which you can indicate by: 
-
-  * sending an email ( support@teplanet.com ) 
-
-
-
-We will provide you with a readable copy of the personal data which we keep about you,  within a week.  \- although we may before require proof of your identity -.  We will provide the information  without any charge. 
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
-
-  * erased 
-  * rectified or amended 
-  * completed 
-
-
-
-We reserve the right to refuse to provide our visitors with a copy of their personal data,  but will give reasons for our refusal. 
-
-We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
-
-**
-
-Privacy Compliance 
-
-**
-
-There are no national laws or self-regulatory schemes applicable to our web site or organisation. 
-
-There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organisation. 
-
-In order to demonstrate that our privacy policy accords with the above privacy  instrument,  we are: 
-
-  * voluntarily committed to a Self Assessment procedure 
-
-
-
-####  Self Assessment procedure 
-
-Name or designation of the privacy policy person or service  |  Customer Support   
----|---  
-URL  |  http://www.teplanet.com   
-Address  |  P.O. Box 1475 Green Bay, WI 54305   
-Country  |  US   
-  
-  
-
-
-####  Primary personal data/Business information 
-
-**x** |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-####  Other personal details and profiling data 
-
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-####  Identifiers 
-
-**x** |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-####  Specific Data 
-
-\-  |  volunteered by each visitor   
----|---  
-\-  |  collected from public records or bodies   
-\-  |  collected from private organisations   
-  
-* * *
-
-  
-
-
-* * *
+We welcome your questions and feedback on our Privacy Policy. To contact us, [click here.](http://support.findthebest.com/hc/en-us/requests/new)
