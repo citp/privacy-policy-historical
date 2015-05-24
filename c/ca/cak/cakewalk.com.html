@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cakewalk.com privacy policy that was archived on 2014-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141103155857id_/http%3A//www.cakewalk.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cakewalk.com privacy policy that was archived on 2015-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150524111052id_/http%3A//www.cakewalk.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="k-webkit k-webkit69"><!--
 
@@ -12,13 +12,13 @@
   \___|\__,_||_\_\ \___|  \_/\_/ \__,_||_||_\_\
 
     --><head>
-    <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"beaa8c3393","applicationID":"3930290","transactionName":"NVxXZxRZXEAHAUBYXwwWcVwSdldHJQ1aRUINVVlWFBd6XAsHG2FCC09UUB8=","queueTime":0,"applicationTime":114,"ttGuid":"B24C216FA3D09DE5","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAQHV1RACwoDVFNbBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"beaa8c3393","applicationID":"3930290","transactionName":"NVxXZxRZXEAHAUBYXwwWcVwSdldHJQ1aRUINVVlWFBd6XAsHG2FCC09UUB8=","queueTime":0,"applicationTime":115,"ttGuid":"7FCDA73B5C2E2110","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAQHV1RACwoDVFNbBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cakewalk Privacy Policy</title>
     <meta name="keywords" content="Cakewalk Privacy Policy">
     <meta name="description" content="Cakewalk Privacy Policy">
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" type="text/css">
-    <link href="/bundles/styles?v=_mJx-shvsYOWRuuc_kbOLMpk85RK823sUuNiL10Z-Os1" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" type="text/css">
+    <link href="/bundles/styles?v=FbLfgyB2sAFQRv_3NdHPpjK9Gluj7n6jS_gWEZNskeE1" rel="stylesheet">
 
 
     <link href="/_styles/cakewalk/cakewalk-print.min.css" rel="stylesheet" media="print">
@@ -28,7 +28,7 @@
 
     
     <script src="//px.owneriq.net/anst/s/cake.js"></script>
-    <script src="/bundles/HeaderJs?v=eIyj6rlI2cmH_8VKzbc971gFAmjcThyZvHVox-s-jMg1"></script>
+    <script src="/bundles/HeaderJs?v=6hSPLEXQxLGt2KI7rTBVpmI14rRuWa41yVhBKzQhC_o1"></script>
 
 </head>
 <body style="">
@@ -42,7 +42,7 @@
         </div>
         <div id="nav-links">
 
-<form action="/Site-Search" enctype="multipart/form-data" id="search-form" method="get" role="form" style="height: 30px;"><input class="k-textbox" id="q" name="q" placeholder="search site" type="text" value="">                <a href="http://www.store.cakewalk.com/default.asp?ma=1">My Store Account</a>  | <a href="/Register">Product Registration</a></form>
+<form action="/Site-Search" enctype="multipart/form-data" id="search-form" method="get" role="form" style="height: 30px;"><input class="k-textbox" id="q" name="q" placeholder="search site" type="text" value=""><a href="/My-Account">My Account</a></form>
         </div>
         <div id="nav-menu">
             <nav class="menu">
@@ -51,13 +51,13 @@
                         <a href="/Products/By-Category/Music-Recording-Software">Music Software</a>
                         <ul>
                             <li>
-                                <a href="/Products/SONAR/X3-Producer">SONAR X3 Producer</a>
+                                <a href="/Products/SONAR">SONAR</a>
                             </li>
                             <li>
-                                <a href="/Products/SONAR/X3-Studio">SONAR X3 Studio</a>
+                                <a href="/Products/Rapture">Rapture Pro</a>
                             </li>
                             <li>
-                                <a href="/Products/SONAR/X3">SONAR X3</a>
+                                <a href="/Products/Drum-Replacer">Drum Replacer</a>
                             </li>
                             <li>
                                 <a href="/Products/CA-2A">CA-2A T-Type Leveling Amplifier</a>
@@ -69,9 +69,7 @@
                                 <a href="/Products/Z3TA">Z3TA+ 2</a>
                             </li>
                             <li><a href="/Products/Z3TA/iOS">Z3TA+ for iPad</a></li>
-                            <li>
-                                <a href="/Products/Rapture">Rapture</a>
-                            </li>
+
                             <li>
                                 <a href="/Products/Dimension-Pro">Dimension Pro</a>
                             </li>
@@ -82,10 +80,7 @@
                                 <a href="http://scratchpad.cakewalk.com" target="_blank">ScratchPad for iPad</a>
                             </li>
                             <li>
-                                <a href="/Products/Music-Creator">Music Creator 6 Touch</a>
-                            </li>
-                            <li>
-                                <a href="/Products/Audio-Creator">pyro Audio Creator 1.5</a>
+                                <a href="/Products/Music-Creator">Music Creator 7</a>
                             </li>
                             <li>
                                 <a href="/Products/Studio-Instruments">Studio Instruments</a>
@@ -99,7 +94,7 @@
                         <a href="/Products">Products By Category</a>
                         <ul>
                             <li>
-                                <a href="/Products/SONAR">SONAR X3 Family</a>
+                                <a href="/Products/SONAR/Versions">SONAR Family</a>
                             </li>
                             <li>
                                 <a href="/Products/By-Category/SONAR-Advanced-Workshop">SONAR Advanced Workshop</a>
@@ -117,19 +112,19 @@
                                 <a href="/Products/By-Category/Virtual-Instruments">Virtual Instruments</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=59">Expansion Packs</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60469/">Expansion Packs</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=40">Audio Effects</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60465/">Audio Effects</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=44">Learning Resources</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60472/">Learning Resources</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=41">Loops and Grooves</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60471/">Loops and Grooves</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=67">Top Downloads</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60197/">Top Downloads</a>
                             </li>
                             <li>
                                 <a href="/Products">Products By Category</a>
@@ -137,34 +132,34 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="http://www.store.cakewalk.com">Cakewalk Store</a>
+                        <a href="https://shop.cakewalk.com">Cakewalk Store</a>
                         <ul>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=9">Buy SONAR X3 Upgrades</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60467/">Buy Music Creator 7</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=58">Buy Music Creator 6 Touch</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60465/">ProChannel Modules</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=109">ProChannel Modules</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/catalog.1307/category.60182/product.152238/">CA-2A T-Type Leveling Amplifier</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?sku=10-CW2A1.00-20E">CA-2A T-Type Leveling Amplifier</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60468/">Buy Virtual Instruments</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=39">Buy Virtual Instruments</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60469/">Buy Instrument Expansions</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=59">Buy Instrument Expansions</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60472/">Buy Books &amp; Tutorials</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=44">Buy Books &amp; Tutorials</a>
+                                <a href="https://shop.cakewalk.com/1244/catalog/category.60211/">Monthly Specials</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?cat=47">Monthly Specials</a>
+                                <a href="/My-Account">My Account</a>
                             </li>
                             <li>
-                                <a href="http://www.store.cakewalk.com/default.asp?ma=1">My Account</a>
+                                <a href="/Redeem">Enter a Redemption Code</a>
                             </li>
                         </ul>
                     </li>
@@ -227,6 +222,9 @@
                                 <a href="/Register">Register Your Product</a>
                             </li>
                             <li>
+                                <a href="/Command-Center">Cakewalk Command Center</a>
+                            </li>
+                            <li>
                                 <a href="/Support/By-Product">Support By Product</a>
                             </li>
                             <li>
@@ -256,11 +254,9 @@
 </div>
 
 
-
     <div id="banner">
         
     </div>
-
 
     <div id="content-wrap">
         
@@ -268,27 +264,13 @@
 
 <div class="content">
 
-    
-
-<div class="language-select">
-
+        <div class="language-select">
         <h1>Cakewalk Privacy Policy</h1>
-    <div>
-        <i class="fa fa-language"></i> &nbsp;
-        <select id="cake-lang-selector">
-                <option value="1">Deutsch</option>
-                <option value="2">Français</option>
-                <option value="3" selected="">English</option>
-                <option value="4">日本語</option>
-                <option value="5">Español</option>
-                <option value="6">Italiano</option>
-                <option value="7">简体中文</option>
-        </select>
+        <div>
+            <i class="fa fa-language"></i> &nbsp;
+            <span class="k-widget k-dropdown k-header" unselectable="on" role="listbox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-owns="cake-lang-selector_listbox" aria-disabled="false" aria-readonly="false" aria-busy="false" aria-activedescendant="cake-lang-selector_option_selected" style=""><span unselectable="on" class="k-dropdown-wrap k-state-default"><span unselectable="on" class="k-input">English</span><span unselectable="on" class="k-select"><span unselectable="on" class="k-icon k-i-arrow-s">select</span></span></span><select id="cake-lang-selector" data-role="dropdownlist" style="display: none;"><option value="1">Deutsch</option><option value="2">Français</option><option value="3" selected="selected">English</option><option value="4">日本語</option><option value="5">Español</option><option value="6">Italiano</option><option value="7">简体中文</option></select></span>
+        </div>
     </div>
-
-</div>
-
-
 
 
     <p>
@@ -355,26 +337,25 @@
     <footer>
         <ul>
             <li>Top Cakewalk Products</li>
-            <li><a href="/Products/SONAR/X3-Producer">SONAR X3 Producer</a></li>
-            <li><a href="/Products/SONAR/X3-Studio">SONAR X3 Studio</a></li>
-            <li><a href="/Products/SONAR/X3">SONAR X3</a></li>
+            <li><a href="/Products/SONAR/Versions">SONAR Platinum</a></li>
+            <li><a href="/Products/SONAR/Versions">SONAR Professional</a></li>
+            <li><a href="/Products/SONAR/Versions">SONAR Artist</a></li>
+            <li><a href="/Products/Drum-Replacer">Drum Replacer</a></li>
             <li><a href="/Products/By-Category/ProChannel-Modules">ProChannel Modules</a></li>
             <li><a href="/Products/Load?product=CA_2A-T_Type-Leveling-Amplifier">CA-2A T-Type Leveling Amplifier</a></li>
             <li><a href="http://shop.propellerheads.se/product/re2a-leveling-amplifier/">RE-2A Leveling Amplifier</a></li>
-            <li><a href="/Products/Music-Creator">Music Creator 6 Touch</a></li>
+            <li><a href="/Products/Music-Creator">Music Creator 7</a></li>
             <li><a href="/Products/Studio-Instruments">Studio Instruments</a></li>
             <li><a href="/Products/Dimension-Pro">Dimension Pro</a></li>
             <li><a href="/Products/Z3TA">Z3TA+ 2</a></li>
-            <li><a href="/Products/Rapture">Rapture</a></li>
-            <li><a href="/Products/Audio-Creator">pyro Audio Creator 1.5</a></li>
-            <li><a href="http://www.store.cakewalk.com/default.asp?cat=46">MP3 Encoder</a></li>
-            <li><a href="http://www.store.cakewalk.com/default.asp?cat=67">Top Downloads</a></li>
+            <li><a href="/Products/Rapture">Rapture Pro</a></li>
+            <li><a href="https://shop.cakewalk.com/1244/catalog/category.60197/">Top Downloads</a></li>
         </ul>
         <ul>
             <li>Learn</li>
             <li><a href="/CakeTV">CakeTV</a></li>
             <li><a href="/CakeTV/SONAR-University">SONAR University</a></li>
-            <li><a href="http://www.store.cakewalk.com/default.asp?cat=44">Books and Tutorials</a></li>
+            <li><a href="https://shop.cakewalk.com/1244/catalog/category.60472/">Books and Tutorials</a></li>
             <li><a href="/Page/Learn-SONAR-Online-with-Berklee">Learn SONAR online<br> with Berklee</a></li>
             <li><a href="/Page/Extended-hours-training-and-SONAR-support-with-OBEDIA">Obedia</a></li>
         </ul>
@@ -411,50 +392,26 @@
     </footer>
     <div id="foot-sub">
         <div>
-            <span>Copyright © 2014 Cakewalk, Inc. All rights reserved</span><br>
+            <span>Copyright © 2015 Cakewalk, Inc. All rights reserved</span><br>
             <a href="/SiteMap">Sitemap</a> |
             <a href="/Privacy">Privacy Policy</a> |
             <a href="/Copyright">Legal</a> |
             <a href="/About/Contact">Contact Us</a>
         </div>
+    </div>
+    <div id="foot-img">
         <img src="http://static.cakewalk.com.s3.amazonaws.com/cakewalk/common/Gibson-Brands.png" alt="A Division of Gibson Brands">
     </div>
 </div>
 
-
-    <div id="social">
-        <div class="addthis_toolbox addthis_default_style">
-            <a class="addthis_button_facebook">
-                <img src="http://static.cakewalk.com/shared/social-icons-24x24/facebook.png" alt="share on Facebook">
-            </a>
-            <a class="addthis_button_twitter">
-                <img src="http://static.cakewalk.com/shared/social-icons-24x24/twitter.png" alt="share on Twitter">
-            </a>
-            <a class="addthis_button_google_plusone" g:plusone:size="small" g:plusone:annotation="none"></a>
-            <a class="addthis_button_print">
-                <img src="http://static.cakewalk.com/shared/social-icons-24x24/print.gif" alt="print">
-            </a>
-            <a class="addthis_button_favorites">
-                <img src="http://static.cakewalk.com/shared/social-icons-24x24/bookmark.png" alt="bookmark">
-            </a>
-            <a title="CakeTV" href="/CakeTV">
-                <img src="http://static.cakewalk.com/shared/social-icons-24x24/cake-tv.gif" alt="CakeTV">
-            </a>
-            <a title="Cakewalk Blog" href="http://blog.cakewalk.com">
-                <img src="http://static.cakewalk.com/shared/social-icons-24x24/cakewalk-blog.jpg" alt="Cakewalk blog">
-            </a>
-        </div>
-    </div>
 
     <div id="notification" class="k-block">
         <div></div>
         <button><i class="fa fa-times"></i></button>
     </div>
 
-    <script src="/bundles/FooterJs?v=IDP5SXNr5-R0bqZO3SH-lAj4JMhBppv7rpWGTDvvehc1"></script>
+    <script src="/bundles/FooterJs?v=iBbAMdpYKQxEOSiHPTdt8rmUugQJvMg3ROn76qRGWSk1"></script>
 
-    <script src="//s7.addthis.com/js/250/addthis_widget.js#pubid=cakewalk&amp;async=1"></script>
-    <script>addthis.init();</script>
 
     
 
@@ -480,6 +437,13 @@
         </div>
     </noscript>
 
+    <script type="text/javascript">
+        document.write(unescape("%3Cscript src='"
+        + ((document.location.protocol == "https:") ? "https:" : "http:") + "//p.bm23.com/bta.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var bta = new __bta('bdmsoyisbejgkidopjlwktdysgnbbmh');
+        bta.setHost("app.bronto.com");
+    </script>
 
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<div class="k-list-container k-popup k-group k-reset" id="cake-lang-selector-list" data-role="popup" style="position: absolute; height: auto; display: none;"><ul unselectable="on" class="k-list k-reset" tabindex="-1" role="listbox" aria-hidden="true" id="cake-lang-selector_listbox" aria-live="off" style="overflow: auto; height: auto;"><li tabindex="-1" role="option" unselectable="on" class="k-item">Deutsch</li><li tabindex="-1" role="option" unselectable="on" class="k-item">Français</li><li tabindex="-1" role="option" unselectable="on" class="k-item k-state-selected k-state-focused" id="cake-lang-selector_option_selected" aria-selected="true">English</li><li tabindex="-1" role="option" unselectable="on" class="k-item">日本語</li><li tabindex="-1" role="option" unselectable="on" class="k-item">Español</li><li tabindex="-1" role="option" unselectable="on" class="k-item">Italiano</li><li tabindex="-1" role="option" unselectable="on" class="k-item">简体中文</li></ul></div></body></html>
