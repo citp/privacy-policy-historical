@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815175412id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524120157id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
 
 # Privacy Policy | Hellenic American Union
 
-You are at:  [Home](https://web.archive.org/web/20140815175412id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
+You are at:  [Home](https://web.archive.org/web/20150524120157id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
 
   * [Google +](https://plus.google.com/share?url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms)
   * [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&title=Privacy%20Policy%20|%20Hellenic%20American%20Union)
@@ -28,4 +28,10 @@ This information helps us assess our information services and is used only for t
 
 The only information collected that is used to identify you is information you give voluntarily, when you submit a question or comment, or register for a course, order a book or book a place at an event. This information is only used to process and respond to your question or comment, or to provide the service. This information is not disclosed except to authorized personnel who need it to process your request.
 
-**Last Update At:** 2011/09/22 - 11:23:15 
+* * *
+
+_The Hellenic American Union collects and uses personal information in order to communicate with the members of its public, to provide educational and cultural programs and services, and to improve the quality of services that it offers. The information we have requested in this form will be maintained in digital and/or physical form and used only for the purposes described above._
+
+_You have the right to reasonable access to the personal information we have on you, to request of copy of this information, and to correct it if inaccurate. To find out more, contact the Hellenic American Union at[privacy@hau.gr](mailto:privacy@hau.gr)._
+
+**Last Update At:** 2014/09/01 - 10:19:25 
