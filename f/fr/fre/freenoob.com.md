@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freenoob.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219093705id_/http%3A//www.freenoob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freenoob.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524044341id_/http%3A//www.freenoob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Freenoob.Com
+# Privacy Policy
 
 ### www.FreeNoob.com Privacy Policy
 
