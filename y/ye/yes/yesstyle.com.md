@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203124954id_/http%3A//www.yesstyle.com/en/help/section.html/hsi.754) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524041956id_/http%3A//www.yesstyle.com/en/help/section.html/hsi.754) for the most accurate reproduction.*
 
 # YESSTYLE: Customer Support - Privacy & Security
 
@@ -67,7 +67,7 @@ You may also change your billing information on file with YesStyle at any time. 
 
 We may use your information to occasionally notify you about important changes to our website, new YesStyle features, special YesStyle offers that you may find useful, or offers from companies with whom we have business relationships. We may also contact you if you have entered one of our contests or sweepstakes, or responded to one of our surveys. Choosing not to receive email newsletters or email notifications from us when you enter a contest or sweepstakes will not affect your chances of winning.
 
-If you would prefer not to receive email newsletters or email notifications from us (other than email notifications relating to order processing), simply visit the “Site Preferences” section of “My Account.” From here, select “Email Preferences” and indicate which newsletters or email notifications you wish to unsubscribe from, and then click the “Update” button.
+If you would prefer not to receive email newsletters or email notifications from us (other than email notifications relating to order processing), simply visit the “Site Preferences” section of “My Account.” From here, select “Email Preferences” and indicate which newsletters or email notifications you wish to unsubscribe from, and then click the “Update” button. Alternatively, you can click the "unsubscribe" link at the footer of our emails to unsubscribe from our newsletters or email notifications.
 
 **Children's Privacy Online**
 
