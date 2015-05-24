@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaiprono.org privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909034021id_/http%3A//www.thaiprono.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaiprono.org privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524141216id_/http%3A//www.thaiprono.org/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | ThaiProNo
 
