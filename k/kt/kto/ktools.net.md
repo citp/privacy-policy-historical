@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the ktools.net privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123091943id_/http%3A//www.ktools.net/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktools.net privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524235539id_/http%3A//www.ktools.net/privacy.policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Ktools.net
+# Privacy Policy - PhotoStore - Ktools.net
 
+## Privacy Policy
+
+  
 This is the web site of Ktools.net LLC. 
 
 Our postal address is   
-PO BOX 494  
-Belmont, MI 49306-0494 
+7905 Ella Terrace DR NE  
+Rockford, MI 49341 
 
 We can be reached via e-mail at [info@ktools.net](mailto:info@ktools.net)
 
