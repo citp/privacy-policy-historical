@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013020222id_/http%3A//www.baltimorecity.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525015646id_/http%3A//www.baltimorecity.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City of Baltimore
 
@@ -32,7 +32,7 @@ Links to third party Web sites on the site are provided solely as a convenience 
 
 The City of Baltimore is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy and ensure the appropriate use of information, appropriate physical, electronic and managerial procedures have been put into place to safeguard and secure the information collected online.
 
-Furthermore, this site takes reasonable measures to maintain the confidentiality of all personal information collectedl. Additionally, it takes similar measures to protect email addresses that you provide through the website.
+Furthermore, this site takes reasonable measures to maintain the confidentiality of all personal information collected. Additionally, it takes similar measures to protect email addresses that you provide through the website.
 
 ### Oversight
 
