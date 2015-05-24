@@ -1,50 +1,89 @@
-> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219021654id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524100519id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
 
-# CYDEC — Privacy Policy
+# Privacy Policy | Cydec
 
-### Privacy Policy
+  * This is a privacy policy for Cydec Software LLC, and our primary website http://cydec.com
 
-This is a privacy policy for Cydec Software LLC, and our primary website http://Cydec.com
+**What information do we collect?**
 
-### Contact Information
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or Cydec Software LLC. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site.
 
-Our homepage on the Internet is located at http://Cydec.com
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-Cydec Software, LLC  
-1698 SW 16th St  
-Boca Raton, FL 33486  
-USA
+**What do we use your information for?**
 
-You may contact us by e-mail at support [at] Cydec.com
+Any of the information we collect from you may be used in one of the following ways:
 
-### Data Collection
+To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-When visiting Web sites certain information about you and your computer can sometimes be collected.
+To process transactions
 
-This section explains what information Cydec Software, LLC collect, and how it is used.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-We collect the following information about our visitors:
+To send periodic emails
 
-user.name data  
-user.home-info data  
-user.business-info data  
-dynamic.clickstream data  
-dynamic.http data  
-dynamic.cookies data  
-We collect this information for the following reasons
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-### Completion and Support of Current Activity
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-All personal and identifiable information is used for the sole purpose of delivering products, services, and information requested by you. We do not sell, rent or share your information with 3rd Parties for any reason, however we may send you affiliate marketing partner offers from time to time for which we may or may not be compensated.
+**How do we protect your information?**
 
-We also may use cookies to ‘re-target’ you in future advertising, on other advertising websites, based on your prior browsing behavior and order history.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-### Cookies
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential.
 
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to process recurring transactions.
 
-You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+**Do we use cookies?**
 
-Our Web site uses the following cookies:
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-name=”*” value=”*” domain=”*” path=”*”
+We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their customer center and editing their personal information.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://cydec.com/terms-of-use/>
+
+**Your Consent**
+
+By using our site, you consent to this privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified on July 7th 2014
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://cydec.com
+
+support@cydec.com
+
+
+
