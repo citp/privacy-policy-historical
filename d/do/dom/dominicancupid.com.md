@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominicancupid.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126170719id_/http%3A//www.dominicancupid.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominicancupid.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524231324id_/http%3A//www.dominicancupid.com/en/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | DominicanCupid.com
 
