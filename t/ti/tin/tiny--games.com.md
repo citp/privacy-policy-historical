@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tiny--games.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822174619id_/http%3A//tiny--games.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiny--games.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524071019id_/http%3A//spongeb.net/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
-# Privacy Policy - Tiny Games
-
-ad-468x60.gif 
-
-## Privacy Policy
+# Privacy Policy - SpongeBob Games
 
 We respect the privacy of of all internet users. 
 
