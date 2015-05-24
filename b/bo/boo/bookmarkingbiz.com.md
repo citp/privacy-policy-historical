@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkingbiz.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226015010id_/http%3A//www.bookmarkingbiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkingbiz.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524064045id_/http%3A//www.bookmarkingbiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › BookmarkingBiz.com : Quality classified social bookmarked links | Premium link building service | Social bookmarking news media | Article submission service for generating backlinks
 
