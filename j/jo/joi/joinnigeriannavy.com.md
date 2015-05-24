@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinnigeriannavy.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615053309id_/http%3A//www.joinnigeriannavy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinnigeriannavy.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524041242id_/http%3A//www.joinnigeriannavy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Nigerian Navy e-Recruitment Portal > Home
 
@@ -44,4 +44,4 @@ Nigerian Navy e-Recruitment Portal will occasionally update this Statement of Pr
 
 Contact Information
 
-Nigerian Navy e-Recruitment Portal welcomes your comments regarding this Statement of Privacy. If you believe that Nigerian Navy e-Recruitment Portal has not adhered to this Statement, please contact Nigerian Navy e-Recruitment Portal at [host@change.me](mailto:host@change.me). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Nigerian Navy e-Recruitment Portal welcomes your comments regarding this Statement of Privacy. If you believe that Nigerian Navy e-Recruitment Portal has not adhered to this Statement, please contact Nigerian Navy e-Recruitment Portal at [support@joinnigeriannavy.com](mailto:support@joinnigeriannavy.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
