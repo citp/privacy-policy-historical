@@ -1,69 +1,136 @@
-> *The following text is extracted and transformed from the adultmatchmaker.com.au privacy policy that was archived on 2014-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140225200342id_/http%3A//www.adultmatchmaker.com.au/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultmatchmaker.com.au privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525013210id_/http%3A//www.adultmatchmaker.com.au/Help/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Adult Match Maker
 
-### 1\. What is this document about?
+* ### Personal information
 
-This document explains how we collect, use and disclose your personal information in connection with our service. In this document when we use the term “we” or “us” it is a reference to Giga Pty Ltd ABN 68 079 638 547.
+This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form. 
 
-### 2\. How we collect your personal information?
+* ### Kinds of personal information we collect and hold
 
-  * 2.1. Generally, the only personal information we collect about you is that which you choose to tell us (including by using our website), or the personal information which we obtain from others (including our service providers who may operate our online shopping cart and payment gateway).
-  * 2.2. We may also collect information from a friend or someone who refers our service to you, or through your use of our website. 
+Broadly, we may collect and hold: 
 
-
-
-### 3\. What personal information do we collect?
-
-  * 3.1. We collect personal information which we consider relevant in providing and promoting our products and services to you, and operating our website.
-  * 3.2. The type of information we collect includes, your name, email address, telephone number, identification for verification of age (for example passport or driver’s licence), credit card information, your computer’s IP address, photos and billing information (where you purchase something from us).
+  * personal details like date of birth, gender, photographs of you, driver's licence information, passport information (and other identification) and occupation
+  * contact details like email addresses and phone numbers
+  * financial details like credit card numbers and your billing and payment history with us
+  * service-related details like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints
+  * other details relating to special situations.
 
 
 
-### 4\. How do we use the information we collect?
+In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want, or may not be able to give you the full functionality of our services. 
 
-  * 4.1. We use your personal information to allow you to use our website and to provide our products and services, or information about our products and services to you.
-  * 4.2. We may also use your personal information to promote and market our products and services to you, to maintain and develop our business systems including other websites we operate, to provide customer service, for traffic analysis, and to comply with the law.
-  * 4.3. If you do not provide us with all or part of the personal information we require, it may prevent us from carrying out the things we have stated in clause 4.2.
-  * 4.4. If you receive promotional material you may choose to ‘opt out’ of receiving this information, just let us know.
+* ### Collecting personal information
 
+Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for membership of our websites, or services on our website). In other cases, we may collect personal information about you from: 
 
-
-### 5\. Do we disclose your personal information?
-
-  * 5.1. We will not sell your personal information without your consent, unless we sell our business or website.
-  * 5.2. We may choose to disclose your personal information to our contractors, our bank / payment gateway provider, our agents, our related entities, government authorities, law enforcement and any other party who may assist us in providing products and services to you, or in promoting or marketing our services to you, or any party who purchases or seeks to purchase our business (or any part of it including a website).
-  * 5.3. We may choose to disclose your personal information to law enforcement and government authorities (‘Authorities’) at our discretion. Disclosure is usually made where we suspect or become aware of criminal or unlawful conduct, or where a request is made by Authorities.
+  * publicly available sources
+  * other companies in our group that you may have dealt with
+  * third parties like our business partners, your authorised representative/s
+  * fraud checking agencies
+  * our websites and how you use them (through the use of cookies and through the use of third party tracking tools such as Google Analytics)
+  * various parties listed under Disclosing personal information below.
 
 
 
-### 6\. How do we use cookies?
+* ### Holding personal information
 
-  * 6.1. Sometimes we use cookies to track your internet browsers behaviour, and also to store your favourite settings when you use our website.
-  * 6.2. A cookie is a small file we store on your computer which holds the information we outlined in clause 6.1. Every time you visit our site we can view this information.
+We hold personal information in soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorisation controls. 
 
+* ### Why we collect and hold personal information
 
+We collect and hold personal information because: 
 
-### 7\. How do we safeguard your personal information?
-
-  * 7.1. We store your information in electronic form, but may also keep information in paper form.
-  * 7.2. We take all reasonable precautions to protect these records from misuse or unauthorised access by using physical, electronic and procedural safeguards.
-  * 7.3. It is our practice to destroy, delete or de-identify your personal information when it is no longer needed, but we must keep your files for the period required by law, after which time they may be destroyed.
-  * 7.4. We use a digital certificate on our website (SSL) which encrypts your credit card details when you undertake a transaction on our website. Our SSL Certificate is provided by Thawte and provides up to 128bit encryption to protect your credit card data when used on our websites.
+  * we may need to use it to operate our business
+  * we may need it to assist, facilitate and optimise your experience of using the site
 
 
 
-### 8\. How can you access information and ensure its accuracy?
+* ### Using personal information
 
-  * 8.1. When you provide us (or other third parties) with personal information, we assume that it is correct unless you tell us otherwise.
-  * 8.2. Unless we know that personal information is incorrect, we cannot correct it. You can assist us, by telling us when the information we hold has changed and is no longer accurate.
-  * 8.3. If you wish to access the personal information we hold about you, you can do so by making a request to us. You can contact us by email via our contact us page on our website, or by mail (The Privacy Officer, Giga Pty Ltd, PO BOX 1026, North Sydney, NSW 2059).
+We may use personal information: 
+
+  * to identify you and verify your age
+  * to prevent fraud
+  * to supply products (including goods and/or services) to you
+  * to give you information about us and our products, and product offers
+  * for direct marketing – see Direct marketing for details
+  * to improve our products, our marketing and our website
+  * to answer your enquiries
+  * to give you customer support and service
+  * to better understand your needs and respond to them
+  * to manage and plan our products and business
+  * to charge and bill you for products you use
+  * to collect payment from you or make payment to you
+  * to monitor, manage, test and improve our network and facilities
+  * to comply with various laws or contractual obligations that apply to us
+  * for other purposes related to the operation of our business.
 
 
 
-### 9\. Do you have any comments or questions?
+* ### Disclosing personal information
 
-  * 9.1. We welcome any questions or comments and invite you to contact us.
-  * 9.2. We may amend this policy from time to time, to make sure that it is accurate and up to date.
+We may disclose personal information as reasonably required: 
+
+  * to contractors and suppliers who supply or support us in: 
+    * market research, sales and marketing
+    * direct marketing – see Direct marketing for details
+    * identity and fraud checking
+    * billing
+    * legal and regulatory advice and compliance
+    * risk management
+    * otherwise providing goods and services that we use to operate our business and provide services and support to you
+    * to your authorised representative/s
+    * if you ask us to do so
+    * to our agents, and members of our corporate group
+    * to persons who invest in or acquire all or part of our business or company, or are considering doing so
+    * to Government authorities where reasonably required by law or as otherwise permitted by the Privacy Act 1988 (Cth).
 
 
+
+* ### Direct marketing
+
+We may use and disclose personal information to direct market to you products or services offered by us, our agents, affiliates and members of our corporate group, where we think the offers will be of interest to you, using: 
+
+  * email
+  * electronic messaging
+  * social media
+  * targeted web content
+  * other direct marketing channels.
+
+
+
+Direct marketing may continue until you opt-out by using our online facility or advising our customer support to do so. 
+
+* ### Accessing and correcting personal information
+
+You may access and correct your own personal information. Please contact us for these purposes using the details in Contacting us below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access. 
+
+* ### Complaints
+
+If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in Contacting us below. We shall: 
+
+  * acknowledge your complaint within a reasonable time
+  * give you an estimated first response time
+  * allocate your complaint to a suitably senior staff member
+  * process and respond to your complaint as soon as we reasonably can.
+
+
+
+* ### Cookies
+
+  * We use cookies to collect usage and preference information on our website. We also use Google Analytics (a) Display Advertising – Remarketing; and (b) Demographics and Interest Reporting. Further information about opting out is available here: https://tools.google.com/dlpage/gaoptout. Data collected by cookies is disclosed to Google Inc who is based overseas including in the USA.
+  * We use Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, may show ads on sites across the Internet.
+  * We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+  * We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
+
+
+
+* ### Contacting us
+
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by “ContactUs” page on the website or email to support@giga.com.au, or by post  
+The Privacy Officer  
+PO BOX 1026  
+North Sydney  
+NSW 2059. 
