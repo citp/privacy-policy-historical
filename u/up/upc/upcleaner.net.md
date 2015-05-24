@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upcleaner.net privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125104139id_/http%3A//www.upcleaner.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcleaner.net privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524021256id_/http%3A//www.upcleaner.net/privacy-policy.html) for the most accurate reproduction.*
 
 # UPCleaner privacy policy
 
@@ -52,4 +52,4 @@ In the event that UPCleaner goes through a business transition, such as a merger
 
 Privacy Policy|[EULA](http://www.upcleaner.net/eula.html)
 
-Copyright © 2014-2016 Fantasy Game Network Technology Co., Ltd. All Rights Reserved
+Copyright © 2014-2015 Fantasy Game Network Technology Co., Ltd. All Rights Reserved
