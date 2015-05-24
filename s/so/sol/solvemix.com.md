@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvemix.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123190126id_/http%3A//www.solvemix.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvemix.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524033028id_/http%3A//www.solvemix.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
