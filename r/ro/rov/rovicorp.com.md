@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rovicorp.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126045450id_/http%3A//www.rovicorp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rovicorp.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524051508id_/http%3A//www.rovicorp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Please read Rovi's legal and privacy notices for details on how we collect, use and protect your personal information on Rovi Properties.
+Review Rovi's legal and privacy notices for details on how we collect, use and protect your personal information on the website.
 
-Your use of and access to any website or software application owned by Rovi ('Rovi Property(ies)') either (i) made available to you directly or indirectly from this website; or (ii) with a direct link to this privacy policy is subject to this privacy policy. This privacy policy explains the data that we collect and how we use it.
+Your use of and access to any website or software application or service owned by Rovi ('Rovi Property(ies)') either (i) made available to you directly or indirectly from this website; or (ii) with a direct link to this privacy policy is subject to this privacy policy. This privacy policy explains the data that we collect and how we use it.
 
-We respect your privacy. If you have any privacy concerns or questions about this privacy policy, you can contact us by email at: [privacy@rovicorp.com](mailto:privacy@rovicorp.com). 
+We respect your privacy. If you have any privacy concerns or questions about this privacy policy, you can contact us by email at: [privacy@rovicorp.com](mailto:privacy@rovicorp.com).
 
 ##### Contents
 
@@ -30,7 +30,7 @@ All references to "we", "us" or "our" refer to (1) Rovi Corporation and/or one o
 
 Rovi Corporation is incorporated in the State of Delaware and its principal office is 2830 De La Cruz Boulevard, Santa Clara, California 95050. 
 
-This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use a Rovi Property; which organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information.  
+This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use a Rovi Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information. Information collected or provided by or to us may be shared with and used by any of our affiliates in accordance with this Privacy Policy as if the relevant affiliate was ‘we’ ‘us’ or ‘our’ in this Policy.  
 
 
 This policy may be amended from time to time without notice and it is your responsibility to read it carefully and review any changes that may have been made. Since changes will be posted on this page, we encourage you to check this page regularly.  
@@ -42,39 +42,53 @@ Back to top
 
 ### YOUR INFORMATION: WHAT WE COLLECT, HOW WE COLLECT IT, AND HOW IT IS USED
 
-In common with most other websites and on-line services, we collect certain data about your visit to the Rovi Properties. Any data we gather through your use of Rovi Property falls into three categories: (1) personal information that you supply to us, such as information you provide when you register (including your e-mail address), create an account, create a username, register your device, complete a survey, enter a contest, or purchase products or services; (2) information that is collected as you use Rovi Property that becomes identified with your personal information; and (3) information that does not directly identify you and is collected as you use Rovi Property, including your IP address, and information gathered with the use of a "cookie" (cookies are discussed further below), and information related to searches or recommendations on Rovi Property. Such information collected includes, without limitation, which pages and content are browsed, interactions with advertising and content, and other data related to preferences and usage. We use this information including, without limitation, to provide our services to you, create new products and services, to better target advertising and content, (on our and our business associates’ websites) to generate statistics, reports and for various analytic purposes (including combining the data we collect with data from other sources).  
+In common with most other websites and on-line services, we collect certain data about your visit to the Rovi Properties. Any data we gather through your use of Rovi Property falls into three categories: (1) personal information that you supply to us, such as information you provide when you register (including your e-mail address), create an account, create a username, register your device, complete a survey, enter a contest, or purchase products or services or apply for a career; (2) information that is collected as you use Rovi Property that becomes identified with your personal information; and (3) information that does not directly identify you and is collected as you use Rovi Property, including your IP address, and information gathered with the use of a "cookie" (cookies are discussed further below), and information related to searches or recommendations on Rovi Property. Such information collected includes, without limitation, which pages and content are browsed, interactions with advertising and content, and other data related to preferences and usage. We use this information including, without limitation, to provide our services to you, create new products and services, to better target advertising and content, (on our and our business associates’ websites) to generate statistics, reports and for various analytic purposes (including combining the data we collect with data from other sources).
 
+You may use certain Rovi Property without registering or creating an account. We may nonetheless build a history of your interactions with the Rovi Property even though we don't know who you are.
 
-You may use certain Rovi Property without registering or creating an account. We may nonetheless build a history of your interactions with the Rovi Property even though we don't know who you are.  
-
-
-Regarding  Rovi Properties that are products, Rovi may also employ update management software to collect installation and registry information from your computer, including product, version, build, language and original equipment manufacturer. Where you use multiple Rovi Properties, Rovi may combine or link information collected from various Rovi Properties and use it for the purposes outlined in this privacy policy.  
+Regarding Rovi Properties that are products, Rovi may also employ update management software to collect installation and registry information from your computer, including product, version, build, language and original equipment manufacturer. Where you use multiple Rovi Properties, Rovi may combine or link information collected from various Rovi Properties and use it for the purposes outlined in this privacy policy.  
 
 
 ##### Personal information
 
-As is common across websites, to use certain features of Rovi Property we ask you to register, create an account, provide your full name and email address and create a password. Once you have created an account, you will have the option to fill out a form (all or portions of which may be included in your profile). When you create your profile, we collect personal information about you, such as name, address, location, e-mail address, favorite actors, music, etc. which will be stored in order to provide services to you and to conduct activities including, without limitation, using it to process your registration, maintain a profile about you, process your request to receive newsletters and email announcements, or to voluntarily participate in surveys or contests and/or to communicate with you about services and products we think may be of interest to you.
+As is common across websites, to use certain features of Rovi Property we may ask you to register, create an account, provide your full name and email address and create a password. Once you have created an account, you will have the option to fill out a form (all or portions of which may be included in your profile). When you create your profile, we collect personal information about you, such as name, address, location, e-mail address, favorite actors, music, etc. which will be stored in order to provide services to you and to conduct activities including, without limitation, using it to process your registration, maintain a profile about you, process your request to receive newsletters and email announcements, or to voluntarily participate in surveys or contests and/or to communicate with you about services and products we think may be of interest to you.
+
+If you apply for a career with us we will collect the information you provide to us in any forms you fill in plus your resume (or for example your linked in profile) if you provide that to us. We may also carry out background and other checks, but will only do so with your permission which will be separately requested. If you become an employee then your data will no-longer be subject to this privacy policy but will be subject to certain other policies applicable to our employees. Personal information that you provide to us when applying for a career will be used for the purpose of proceeding with such application and it may be provided to third parties who may carry out recruitment, testing and other recruitment related services for us. These third parties may be based overseas. We may also create anonymous information from such information that you provide to us and used per the paragraph below described  as ‘creation of anonymous data’.
+
+You should not provide us with any ‘sensitive personal data’ through the Rovi Properties.
 
 Rovi may allow you to set up profiles that may be viewed by other users of the Rovi Properties. To enrich your profile you may chose to include some personal information in your public profile so that other users can identify you. You should only include information in your public profile that you do not mind making publicly available without restriction.
 
 To process your purchase orders we require your name, billing address, phone number, email address, shipping address, credit card information and credit card security codes. We use this information to process your order and, if any questions arise, to contact you about your order. We may also use it to contact you about other products and services we feel may be of interest to you. In general Rovi will try to email you first but may phone or send an electronic message to you if you have provided these details and you consent to our so doing.
 
-Personal information is also used to provide personalized services to you, such as show tracking and recommendations.
+Personal information is also used to provide personalised services to you, such as show tracking and recommendations.
 
 We may provide data about our users, traffic patterns, products, services and site information to third-parties (such as vendors, advertisers and our business associates) ('Third Parties”), but, except as otherwise described in this policy, we will use reasonable efforts to provide it in a form that does not directly identify you.
 
 Creation of Anonymous Data. We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. Once we create Anonymous Data this Anonymous Data is our property. We use this Anonymous Data in many ways including analyzing request and usage patterns, creating reports and performing analytics so that we may enhance the content of our Services, improve Site navigation and provide meaningful analysis of habits, usage, trends, and effectiveness of marketing campaigns etc. as part of our analytics and other services. Company reserves the right to use and disclose Anonymous Data to Third Party Companies in its absolute discretion.
 
+**Social Media and Profiles.**  
+For certain Rovi Properties the information that we may ask you to provide could include name, gender, location, email address, biographical information and the movies and television shows that you like to watch. When you create your profile, you may be asked if you want your profile to be public or private. Unless you state that you want your profile to be private your profile will be available for public viewing.
+
+**Public Content.**  
+Your photos, posts, friends, and other content you post to the Rovi Properties (and your Profile if you designate it as public, including your first name and last initial but excluding any other account registration information) are meant for public consumption. We may display this content on the Rovi Properties and further distribute it to a wider audience through third party sites and services.
+
+**Facebook and other Social Networking Sites.**  
+If you are logged into Facebook or another Social Networking Site (“SNS”) that we support, and you access but are not logged into the Rovi Property, we may receive information from Facebook or the SNS to make it easier for you to create an account on the Rovi Property and to show our relevant content from your Facebook or SNS friends. This information personalizes your experience and helps you create an account (where this facility is available). You may also be able to connect your account on the Rovi Property to your accounts on Facebook or other SNSs, in which case we may collect and store information identifying your account with the third party service. We use this information to help you connect and share public content with your friends and followers.
+
+**Material You Choose to Reveal in On-line Fora, Blogs, Message Boards, Chat Rooms or Similar Locations.**  
+You may be able to post personally information on areas of a Rovi Property that may be viewed by other users or the public, although we recommend that you do not do so. Please note that there are risks, including but not limited to the risk of physical harm, of dealing with strangers, including persons who may be acting under false pretenses. Please choose carefully the information you post on the Rovi Property and that you give to other Rovi Property users. You are discouraged from publicly posting your full name, telephone numbers, street addresses or other information that identifies you or allows strangers to find you or steal your identity. Despite this prohibition, other people’s information may be offensive, harmful or inaccurate, and in some cases will be mislabeled or deceptively labeled.
+
+**YOU ASSUME ALL RISKS ASSOCIATED WITH DEALING WITH OTHER USERS WITH WHOM YOU COME IN CONTACT THROUGH ROVI PROPERTIES. WE EXPECT THAT YOU WILL USE CAUTION AND COMMON SENSE WHEN USING ROVI PROPERTIES.**
+
 ##### Tracking and Cookies
 
-When you visit Rovi websites and other Rovi Properties, we and our advertising associates may store and access information from your device, including "cookies", clear GIFs (which are also sometimes called web bugs or web beacons) and browser details. We may collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. We and our advertising associates do this for a variety of purposes. In the case of our advertising associates, this may include the personalisation of advertisements based on your visits to sites in that party’s network. Please note that  Rovi Properties do not currently respond to a web browser’s “do not track” instructions (e.g., a “do not track” signal). We do not use any user-based tracking in terms of IP address or device ID that persists and tracks your browsing behavior on other sites. However, we do use Google analytics. Google analytics manages ‘Do Not Track’ instructions from your browser in accordance with its own privacy policies <http://www.google.com/intl/en/policies/privacy/>.  
+When you visit Rovi websites and other Rovi Properties, we and our advertising associates may store and access information from your device, including "cookies", clear GIFs (which are also sometimes called web bugs or web beacons) and browser details. We may collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. We and our advertising associates do this for a variety of purposes. In the case of our advertising associates, this may include the personalisation of advertisements based on your visits to sites in that party’s network. Please note that  Rovi Properties do not currently respond to a web browser’s “do not track” instructions (e.g., a “do not track” signal). However, we may use Google analytics. Google analytics manages ‘Do Not Track’ instructions from your browser in accordance with its own privacy policies <http://www.google.com/intl/en/policies/privacy/>.
 
+**_Consent for the use of cookies_**  
+_If you continue to use this Rovi Property, we will imply from this that you consent to our use of cookies._
 
-##### _Consent for the use of cookies_
-
-_If you continue to use this Rovi Property, we will imply from this that you consent to our use of cookies._  
-Information about our use of cookies is contained in our [Cookie Information](https://web.archive.org/cookie-policy.html).  
-
+Information about our use of cookies is contained in our [Cookie Information](https://web.archive.org/cookie-policy.html).
 
 ##### Email
 
@@ -96,7 +110,7 @@ We may use your personal information and non-personal information to serve ads t
 These third-party advertising companies and business associates may receive and share with us information relating to the advertisements that they serve you including, without limitation, date and time of ad shown, the ad that was shown and your IP address and your interactions with such advertisements. These third-party advertising companies and business associates may use cookies, clear GIFs and anonymous information about your visits to Rovi Property and other websites to measure and improve the effectiveness of their ads, promotions, products and services. This information may also be used for online preference and other targeted marketing purposes. The information received by these third-party advertising companies and business associates is subject to the privacy policies of these third-party advertising companies and business associates. We may be given access to this information by these third-party advertising companies and business associates which we may use for purposes including, without limitation, to provide services to you, to better target advertising and content to you and to generate statistics and reports and to carry out analytics that help us  to provide our services, to create new products and services, to better target advertising and content, (on our and our business associates’ websites, applications and devices) to generate statistics, reports and for various analytic purposes. We may make certain information about you available to third-party advertising companies and other business associates under agreements between us and those third-party advertising companies and business associates. The third-party advertising companies and business associates will use that information to target advertising to you or provide and market promotions, products and services to you.. You may withdraw your consent to our sending your personal information to advertising companies and business associates by sending us a written e-mail request from the e-mail address that is registered with us. If you do so we will not provide your personal information from the relevant Rovi Property to third party advertisers or business associates from the time you opt out. However where permitted by applicable law, we may still provide them with information that does not directly identify you from which they may send you targeted advertisements.
 
 Many of our advertising associates are part of the Network Advertising Initiative. You may opt-out of behavioral advertising for Network Advertising Initiative member companies by following the link below and opting-out of all or some of the advertising networks:  
-_<http://www.networkadvertising.org/managing/opt_out.asp>_
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
 Opting out of Flash Cookies is described above in the tracking information section.
 
@@ -116,6 +130,8 @@ Back to top
 ### COMMITMENT TO CHILDRENS' PRIVACY
 
 Protecting the privacy of children is important to us. For that reason, none of our Rovi Properties are directed at anyone under 13 and they are not structured specifically to attract anyone under 13. We also do not collect or maintain personal information from those users who we actually know are under 13. Should we learn or be notified that we have collected information from users under the age of 13, we will immediately delete such personal information.
+
+If you are under 18 and wish to delete information attributed to you from our Rovi Properties please contact [legal@rovicorp.com](mailto:legal@rovicorp.com) with details of your request.
 
 Back to top
 
@@ -156,11 +172,11 @@ Back to top
 
 ### YOUR RIGHTS
 
-##### **Your California Privacy Rights**
+##### Your California Privacy Rights
 
 If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
 
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at _[privacy@rovicorp.com](mailto:%20privacy@rovicorp.com)_ or by postal mail to Rovi Corporation 2830 De La Cruz Boulevard, Santa Clara, California 95050, Attn: Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@rovicorp.com](mailto:privacy@rovicorp.com) or by postal mail to Rovi Corporation 2830 De La Cruz Boulevard, Santa Clara, California 95050, Attn: Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
 
 Back to top
 
@@ -168,5 +184,4 @@ Back to top
 
 If you have any concern about privacy at Rovi, please send us a thorough description of your concern to [privacy@rovicorp.com](mailto:privacy@rovicorp.com) or the address above, and we will try to resolve it.
 
-This privacy policy was last updated on: 1st September 2014.  
-
+This privacy policy was last updated on: 4th March 2015.
