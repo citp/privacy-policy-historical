@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220193910id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524021101id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Clymb
 
