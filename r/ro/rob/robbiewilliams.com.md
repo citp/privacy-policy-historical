@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126180020id_/http%3A//shop.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524175746id_/http%3A//shop.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
 
 # Shop > Privacy Policy | Robbie Williams
 
 #### 1\. INFORMATION ABOUT US
 
-[www.robbiewilliams.com](https://web.archive.org/web/20141126180020id_/http%3A//shop.robbiewilliams.com/www.robbiewilliams.com) (our site) is operated and owned by RobbieWilliams.com of  111 Frithville Gardens, London, W12 7JQ REG NO 4389178 on behalf of Robbie Williams  (“we, us or our”). We take your privacy very seriously and are committed to protecting and respecting it.
+[www.robbiewilliams.com](https://web.archive.org/web/20150524175746id_/http%3A//shop.robbiewilliams.com/www.robbiewilliams.com) (our site) is operated and owned by RobbieWilliams.com of  111 Frithville Gardens, London, W12 7JQ REG NO 4389178 on behalf of Robbie Williams  (“we, us or our”). We take your privacy very seriously and are committed to protecting and respecting it.
 
 This Privacy and Cookies Policy (together with the documents referred to on it and the terms and conditions) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -104,7 +104,7 @@ Safari
 
 By continuing to use our site you give your pre-informed consent to us using cookies (and other similar tools) on your visit. If you subsequently wish to revoke this consent, you may do so by deleting the cookies (and similar tools) via your browser tools settings. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system may issue cookies when you log on to our site.
 
-If you want to learn more about cookies you can do so at [www.allaboutcookies.org](https://web.archive.org/web/20141126180020id_/http%3A//shop.robbiewilliams.com/www.allaboutcookies.org)
+If you want to learn more about cookies you can do so at [www.allaboutcookies.org](https://web.archive.org/web/20150524175746id_/http%3A//shop.robbiewilliams.com/www.allaboutcookies.org)
 
 #### 4\. WHERE WE STORE YOUR PERSONAL DATA
 
