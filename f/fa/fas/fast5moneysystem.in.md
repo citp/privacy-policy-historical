@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fast5moneysystem.in privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730024858id_/http%3A//fast5moneysystem.in/Shopping%26Services/%3Fpage_id%3D94) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast5moneysystem.in privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524043005id_/http%3A//fast5moneysystem.in/Shopping%26Services/%3Fpage_id%3D94) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Marketing Tools
 
 This is the Web Site of **Dmitrij Mashoshin**.
 
