@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egirlgames.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220085739id_/http%3A//www.egirlgames.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egirlgames.net privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524110722id_/http%3A//www.egirlgames.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eGirlGames.net
 
@@ -33,7 +33,7 @@ User Profile information including members pavatars and usernames are displayed 
 
 We use visitors Personal Information for our internal purposes of enabling visitors to enter one of our online contests or sweepstakes, to subscribe to our online newsletter, or to inform visitors of upcoming events and special announcements. Each e-mail contains instructions on how to be removed from the subscription list.
 
-We also use visitors computer information to track usage, improve the design of the site, offer products and services, to personalize our visitor's experiences, save visitor's password in password-protected areas, and to ensure visitors are following the site's Agreement. 
+We also use visitors computer information to track usage, improve the design of the site, offer products and services, to personalize our visitor's experiences, save visitor's password in password-protected areas, and to ensure visitors are following the site's Agreement.
 
 We may disclose information about our visitors, including personal information (e.g., registration information, e-mail address, content of messages), as well as computer information, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our site and applicable laws, or to protect against misuse or unauthorized use of the site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our visitors or others.
 
