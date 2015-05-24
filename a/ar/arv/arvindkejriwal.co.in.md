@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arvindkejriwal.co.in privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222140547id_/http%3A//arvindkejriwal.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvindkejriwal.co.in privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524190358id_/http%3A//arvindkejriwal.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arvind Kejriwal and Aam Aadmi Party
 
