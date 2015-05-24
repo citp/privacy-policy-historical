@@ -1,49 +1,55 @@
-> *The following text is extracted and transformed from the alberta.ca privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125214848id_/http%3A//alberta.ca/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alberta.ca privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525001204id_/http%3A//alberta.ca/privacystatement.cfm) for the most accurate reproduction.*
 
 # Government of Alberta Privacy Statement
 
-The Government of Alberta maintains this website to help the public find information about the government, its programs, and its services. The Public Affairs Bureau, which publishes and maintains the main Government of Alberta website, is committed to ensuring your privacy while you visit the site.
+### Know what information may be collected from you when you visit a Government of Alberta website.
 
-The Government of Alberta website connects you to the ministries and organizations that make up the Government of Alberta. This privacy statement covers the main Government of Alberta website (available at [www.alberta.ca/](https://web.archive.org/alberta.ca/)), not the websites of individual departments.
+The Government of Alberta is committed to ensuring your privacy while you visit this site. All information is collected in compliance with section 33 (c) of the Freedom of Information and Protection of Privacy (FOIP) Act.
 
-Each ministry's or organization's website may have a different privacy statement depending on the nature of its site. You should review the privacy statement each time you submit personal information on a website.
+## Collection of information
 
-When you visit this website, our web server automatically collects a limited amount of standard information essential to the operation and evaluation of the Government of Alberta website. This information includes:
+We maintain our websites to help the public find information about the government and its services. When you visit this site, our web server automatically collects a limited amount of standard information essential to the operation and evaluation of the site. This information is not used to identify individuals who come to the site. None of this information is disclosed to other public bodies or individuals.
 
-  * the page from which you arrived,
-  * the date and time of your page request,
-  * the IP address your computer is using to receive information,
-  * the type and version of your browser, and
-  * the name and size of the file you request.
+The information that is collected identifies the following:
+
+  * the page from which you arrived
+  * the date and time of your page request
+  * the IP address your computer is using to receive information
+  * the type and version of your browser
+  * the name and size of the file you request
 
 
 
-This information helps us assess our information services and is used only for this purpose. It is collected in compliance with section 33 (c) of the Freedom of Information and Protection of Privacy (FOIP) Act.
+## Personal information
 
-This information is not used to identify individuals who come to the website. None of this information is disclosed to other public bodies or individuals.
+The only information we may use to identify you is the information you give voluntarily. For example, when you sign up for e-mail updates of government announcements, you will be asked to provide your e-mail address.
 
-The only information collected that is used to identify you is information you give voluntarily. When you submit a question or comment, you may be asked for your name, e-mail address, or other information. When you sign up to receive an e-mail update of Government of Alberta news releases, you will be asked for your e-mail address.
+This personal information is disclosed only to the authorized personnel who use it to process and respond to your request.
 
-This information is only used to process and respond to your question or comment, or to provide the e-mail update service, and is collected in compliance with section 33 (c) of the Freedom of Information and Protection of Privacy (FOIP) Act. This information is not disclosed except to authorized personnel who need it to answer your question or who manage the e-mail update list.
+While the personal information you send is secure once it reaches the government server, it may not be secure in transit between your computer and ours. For more information about any of the policies described above, please contact:
 
-The personal information you submit is secure once it reaches the government server. In transit between your computer and the server, however, it may not be secure. If you would prefer to raise a comment or question in person, please call 310-4455, toll free in the province of Alberta.
+Manager, Digital Communications  
+Tel: 780-427-9263  
+Email: [internetcomm@gov.ab.ca](mailto:internetcomm@gov.ab.ca)
 
-###  **Cookies**
+## Cookies
 
-A cookie is a file  placed on your hard drive with your temporary internet files while you are visiting a website. We use cookies to track how visitors use our site.  We do not store personal information in cookies, nor do we collect personal information from you without your knowledge as you browse this site. We do use cookies to aid in the collection of anonymous statistical information such as browser type, screen size, traffic patterns and pages visited. This information is then used to improve our service to you. If you wish, you may change the settings on your web browser to deny cookies or to warn you when cookies will be deposited.
+When you visit a website it may deposit a piece of data, called a web cookie, with the temporary web browser files on your computer.
 
-###  **Security**
+If you wish, you can change the settings on your web browser to deny cookies, or to warn you when a site is about to deposit cookies on your hard drive.
 
-The government computer system uses software to monitor unauthorized attempts to upload or change information, or damage the service we provide. No attempt is made to identify users or their usage patterns except during law enforcement investigations.
+Government of Alberta websites use cookies to collect anonymous statistical information such as browser type, screen size, traffic patterns and pages visited. This information helps us provide you with better service. We do not store personal information in cookies, nor do we collect personal information from you without your knowledge, as you browse the site.
 
-###  **More information**
+#### Cookies from third party applications
 
-For more information about any of the policies described above, please contact:
+This site uses a number of third party products. Read their privacy statements to find out how they track and use your information:
 
-Internet Communications  
-Public Affairs Bureau  
-Phone: 780 427 2754  
-Fax: 780 415 9485  
-E-mail: [webeditor@gov.ab.ca](mailto:webeditor@gov.ab.ca)
+[AddThis privacy statement](http://www.addthis.com/privacy)
 
-View the Government of Alberta's [Freedom of Information and Protection of Privacy (FOIP) Act](http://foip.gov.ab.ca/ "FOIP Act").
+[Crazy Egg privacy statement](http://www.crazyegg.com/privacy)
+
+[Google Analytics privacy statement](http://www.google.ca/analytics/learn/privacy.html)
+
+## Security
+
+The Government of Alberta's computer system uses software to monitor unauthorized attempts to upload or change information, or damage the service we provide. No attempt is made to identify users or their usage patterns except during law enforcement investigations.
