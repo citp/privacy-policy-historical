@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autnews.us privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226014600id_/http%3A//www.autnews.us/%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autnews.us privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524212637id_/http%3A//www.autnews.us/%23policy) for the most accurate reproduction.*
 
 # News| Politics | Logbook Loans | Same Day & Instant Cash Loans
 
