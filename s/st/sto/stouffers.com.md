@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107194641id_/http%3A//www.stouffers.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524110608id_/http%3A//www.stouffers.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Stouffer's®
+# Privacy | Stouffer's&reg;
 
 Effective: 5/15/2012  
 Last Updated On: 6/12/2014
@@ -408,6 +408,6 @@ Office of Consumer Services
 800 N. Brand Blvd.  
 Glendale, CA 91203  
 [Contact us via email](mailto:nestleconsumerservice@casupport.com)  
-1-800-225-22701-800-225-2270
+1-800-225-2270
 
 Back to top
