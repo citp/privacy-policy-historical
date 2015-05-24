@@ -1,136 +1,193 @@
-> *The following text is extracted and transformed from the crisistextline.org privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208213306id_/http%3A//www.crisistextline.org/privacy-hotline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisistextline.org privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524032851id_/http%3A//www.crisistextline.org/privacy) for the most accurate reproduction.*
 
-# Crisis Text Line Hotline, Privacy Policy | Crisis Text Line
+# Crisis Text Line | Crisis Text Line
 
-Last Updated: July 31, 2013
+Last Updated: Jan 23, 2015, 12:10 pm EST
 
-## Abstract
+**IF YOU ARE IN DANGER OR NEED EMERGENCY HELP, CALL 911 OR YOUR LOCAL AUTHORITIES.**
 
-At Crisis Text Line (“We”, “Us”, “Our”), Our goal is to advantage young people in crisis. Simply, this means that We will protect your information in accordance with current laws and best practices for sensitive health information.
+## Scope; Acceptance of Terms and Conditions (“Terms”)
 
-Your privacy and security are very important to Us. This privacy policy describes what information We collect on the Crisis Text Line Hotline (“Hotline”) and how We use, transfer and store your information after We collect it. This policy will inform you if We disclose that information to anyone, and what choices you have in how We use that information. Please  familiarize yourself with Our privacy policies. If you have any questions, contact Us at info@crisistextline.org.
+Before using CTL, please read the following. By accessing or using CTL you agree to the Terms and privacy policy (“Privacy Policy”) described below. These Terms govern your access and use of CTL. You may contact CTL by e-mail at info@crisistextline.org with questions about these Terms. If you don’t agree to the Terms, you may not use CTL. You can find a list of other hotlines at [CrisisTextLine.org/hotlines](http://crisistextline.org/hotlines).
 
-## Your Consent and Changes in Privacy Policy
+## Modification of the Terms and Privacy Policy
 
-By using the Hotline, you agree to the following terms and conditions outlined in this Privacy Policy. Crisis Text Line may change these terms and conditions from time to time, so please consult these terms and conditions regularly for any such changes. When We change the policy in a substantive way, We will post a notice on Our website along with the updated Privacy Policy.
+This statement may be modified from time to time. Why? Because we care about you and we want to be super thoughtful about the Terms and how CTL works. Any changes will be effective immediately upon our posting them here at CrisisTextLine.org. (So, yeah, if you are reading these words, that means we posted them. So, there you go.) Your use of CTL constitutes your acceptance of these Terms and Privacy Policy.
 
-## Collection and Use of Personally Identifiable Information
+Each time that you first send a text message to CTL, you’ll receive a couple automated reply text message(s) with a link to our current Terms and Privacy Policy so you may review them before continuing to use CTL. Using CTL after receiving those text message(s) shall constitute your acceptance of the Terms and Privacy Policy.
 
-“Personally Identifiable Information” is data that can be used to uniquely identify or contact you, such as your full name, home address or date of birth. During your use of the Hotline you may be prompted, but never required, to provide Personally Identifiable Information, including but not limited to, your zip code and email address.
+## Nature and Use of Information Provided through This Service
 
-While We may collect Personally Identifiable Information, We will not sell or license to any third party any Personally Identifiable Information We receive from you, and will not share it with any third parties except as noted below.
+We’re here to try to help you out of crisis–that means, to go from a “hot” moment to a “cool headed calm,” and we try to help equip you with tools to move yourself from “hot” to “cool” if you face a crisis in the future.
 
-Crisis Text Line uses the information it collects about you to, among other things, improve Our service, contact you if you request Us to, provide anonymous reporting internally and fulfill your requests, including but not limited to referrals to other crisis hotlines or mental health services.
+But remember, your participation in CTL does not constitute an attorney-client relationship, a doctor-patient relationship, a therapist-client relationship, a therapist-patient relationship or any other sort of confidential relationship. We’re not your doctor, your mom, or even your best friend. CTL is not a substitute for professional health care. If you believe you are experiencing a medical emergency, immediately speak with an adult, or call your doctor or 911. And, if you are experiencing a clinical or long-term issue, you should consult a medical professional.
 
-The following section provides examples of the types of Personally Identifiable Information the Hotline may collect and how We may use it.
+CTL and any of our employees, Crisis Counselors, or agents are not responsible for any decisions, or results of the decisions that you make while, as a result of, or after participating in CTL. This includes whether you choose to seek or not seek professional care, or to modify or terminate specific treatment that you are currently receiving based on the information provided by this service. You are the boss of your own happiness. We can ask questions and nudge you in a healthy direction, but only YOU control your own actions, reactions, and words. (You can tweet that last bit. It is strong.)
 
-### What Personally Identifiable Information We Collect
+## Risks, Use of Service
 
-  * When you contact the Hotline, We may collect information including your name, phone number and email address.
+You assume all risk for use of this service. CTL and any of our employees, Crisis Counselors, or agents have no liability for actions taken by you or a third party, or not taken by you or a third party, and you agree to indemnify us and hold us harmless for damages arising out of (1) your use of CTL, (2) your breach of these Terms, (3) your violation of the law, (4) claims asserted by third parties, which, if proven, would place you in breach of these Terms or (5) information provided by you through CTL. Without limiting the foregoing, in no event shall CTL be liable for any special, incidental, consequential, exemplary or indirect damages.
 
-  * When you contact the Hotline about a friend, family member, or other person in need of Our services, We may collect the information you provide about those people such as name and phone number.
+This service is provided on an “as is” basis and “as available” basis. (But we try to be awesome and we are constantly improving.) CTL expressly disclaims all warranties of any kind, whether express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose and non-infringement, and, without limiting the generality of the foregoing, makes no warranty that CTL will a) meet your requirements; b) be uninterrupted, timely, secure, or error-free; or c) meet your expectations. The foregoing disclaimers of liability apply to all damages or injury, including those caused by any failure of performance, error, omission, interruption, deletion, defect or delay in operation or transmission, whether for breach of contract, tortious behavior, including negligence, or any other cause of action.
 
-  * In situations where you or someone else is in danger or in need of emergency help, We may ask for your current location, or the current location of the person in danger.
+## Prohibited Uses; Right to Terminate Access
 
+You may use CTL only for lawful purposes and in accordance with these Terms. You agree to use the CTL only for lawful and legitimate purposes. You agree not to use CTL:
 
+  * In any way that violates any applicable federal, state, local and international law or regulation;
+  * For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personal information or otherwise;
+  * To threaten, harass, or otherwise inappropriately abuse CTL, its employees, partners, agents, subcontractors, Crisis Counselors, or others;
+  * To send, knowingly receive, upload, download, use or re-use any content which does not comply with these Terms;
+  * To “spam,” gather or attempt to gather personal information belonging to users or others for the purposes of spamming, marketing, selling to third parties, or otherwise abusing CTL or its users;
+  * To impersonate or attempt to impersonate another person or entity; or
+  * To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Services, or which, as determined by us, may harm Synergy or users of the Services or expose them to liability; or
+  * To otherwise attempt to interfere with the proper working of CTL.
 
 
-### How We Use Your Personally Identifiable Information
 
-  * We use Personally Identifiable Information to help Us develop, deliver, and improve Our products, services, content, and advertising.
+CTL reserves the right to terminate your access to CTL if you violate these Terms, including by engaging in the prohibited uses described above. (Simply put, please don’t be a jerk. We are doing our very best to help CTL users move from hot to cool. If you are mean to our people or you abuse our service, we are going to stop you from using it.)
 
-  * If you choose to receive follow-up email messages or text messages from Us, the Personally Identifiable Information We collect may be used to notify you of relevant events and opportunities. If you no longer wish to receive messages, you may opt out at any time by updating your preferences (link).
+CTL may also terminate your access to our service. For example, we might determine that you’d be better served by a different kind of support or that you require service beyond those that we can reasonably provide to you.
 
-  * Occassionally, We may use your Personally Identifiable Information to send you important notices, such as notifications about local extreme weather events or other relevant emergency notifications, and changes to Our terms, conditions, and policies. Because this information is essential to your interaction with Crisis Text Line, you may not opt out of receiving these communications.
+CTL further reserves the right to terminate CTL or your access to it, for any other reason, at our sole discretion. (But we’ll try to be cool about it.)
 
-  * We may also use Personally Identifiable Information for internal purposes such as auditing, data analysis, and research to improve Crisis Text Line’s products, services, and communications.
+## Governing Law
 
-  * We may also use your information to help Us personalize your experience with Us and to operate, maintain and improve the features and functionality of Our service.
+These Terms and the provision of CTL is governed solely by, and shall be interpreted according to, the laws of the State of New York without giving effect to principles of conflict of law. Both parties consent to the exclusive jurisdiction of the state and federal courts located in the city of New York, borough of Manhattan. (Basically, we <3 New York.)
 
+## Severability; Entire Agreement
 
+If a Court finds any provision of these Terms to be invalid or unenforceable, that provision shall be enforced to the maximum extent possible and the remaining Terms shall remain in full force and effect. These Terms constitute the entire agreement between you and CTL, superseding any other written or oral agreements or understandings. (Basically, this is a fancy way of saying the stuff you’re reading now is what you and CTL agree about, and even if we later fight about some of words, the rest of the words still stick around.)
 
+## Privacy and Security
 
-## Collection and Use of Non-Personally Identifiable Information
+We take your privacy and security very seriously, so we employ reasonable security controls (including encryption) to help protect your information. Despite these protections, SMS remains an imperfectly secure environment and there are some reallllly persistent hackers out there. We are trying super hard, but CTL cannot guarantee complete protection from intruders or interceptors (fancy words for hackers and other bad people). So, you agree to use CTL and submit information at your own risk, and you agree that CTL has no liability regarding anyone’s unauthorized access to CTL or the data associated with it.
 
-We also collect non-Personally Identifiable Information, which is data that cannot be directly used to identify or contact you. We may collect, use, transfer, and disclose non-Personally Identifiable Information for any purpose, including but not limited to disclosing to sponsors, supporters, and other third parties, to generate support for Crisis Text Line, inform its mission and its services, or as required by law.
+Additionally, we care about the privacy and safety of our staff and Crisis Counselors. In using this service, you agree to not communicate with our Crisis Counselors outside of the service that CTL provides. If you have questions, comments or feedback for us, please email info@crisistextline.org.
 
-Below are examples of non-Personally Identifiable Information that We collect and how We may use it:
+Last Updated: Jan 26, 2015, 6:05 pm EST
 
-  * We may collect information such as age, gender, language, zip code, area code, and the time zone where a phone is being used to contact the Hotline to better understand visitor behavior and improve Our products, services and advertising.
+## INTRODUCTION; SCOPE
 
-  * We also may collect information regarding visitor activities on Our Hotline, such as the number and frequency of visitors to the Hotline, length of conversation, and other data. This information is aggregated and helps Us determine usage levels of different Hotline services, and to conduct other internal research.
+At Crisis Text Line (“CTL,” “We,” “Us”), our goal is to help people in crisis. We’re here to try to help you out of crisis–that means, to go from a “hot” moment to a “cool headed calm,” and we try to help equip you with tools to move yourself from “hot” to “cool” if you face a crisis in the future.
 
+Importantly, we also want you to feel safe when you text with us. We want you to share all those awful things that are making you feel awful, so we can help you feel better!
 
+Your privacy and security are very important to us. To make sure we’re doing everything we can to secure your information, we communicate our privacy and security guidelines to CTL employees and Crisis Counselors, and employees and Crisis Counselors at our third party service providers. We stringently enforce these privacy safeguards.
 
+This Privacy Policy governs your use of CTL, describes what information we collect on CTL, and explains how we use, transfer and store your information after we collect it. This policy will inform you if and to whom we disclose any of that information, and what choices you have in how we use that information. So before using CTL, please read the following.
 
-For this Privacy Policy, if non-Personally Identifiable Information is aggregated or combined in such a way that it can be used to directly identify or contact you, it will be treated as Personally Identifiable Information for as long as it remains aggregated or combined.
+## YOUR CONSENT AND CHANGES IN PRIVACY POLICY
 
-## Disclosure to Third Parties
+By using CTL, you agree to the practices outlined in this Privacy Policy. CTL may change this Privacy Policy from time to time, so please consult it regularly for any such changes. Any changes will be effective immediately upon our posting them to our website at CrisisTextLine.org. Your use of CTL after any such changes have been posted shall constitute your acceptance of the revised Privacy Policy and Terms.
 
-At times We may make certain Personally Identifiable Information available to strategic partners that work with Us to provide products, services, and marketing.
+Each time that you first send a text message to CTL, you’ll receive a couple automated reply text message(s) with a link to our current Terms and Privacy Policy so you may review them before continuing to use CTL, Using CTL after receiving those text message(s) shall constitute your acceptance of the Terms and Privacy Policy.
 
-### Participating Crisis Centers
+## COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION
 
-We operate the Hotline in conjunction with participating crisis centers (“CCs”), including but not limited to(the network providers). The CCs provide trained staff and/or volunteers to help you during Hotline sessions and trained supervisors to help monitor Hotline sessions. Any information that you share during a Hotline session will be viewed by the one or more trained staff and/or volunteers assisting you, and may also be viewed by one or more supervisors from a CC for quality control purposes. Hotline sessions may also be viewed by Crisis Text Line staff.
+“Personally Identifiable Information” is data that can be used to uniquely identify you, such as your full name or home address. During your use of CTL you may be prompted (but never required) to voluntarily provide Personally Identifiable Information, including but not limited to, your home address or email address.
 
-Also, any information that you shared during a previous Hotline session may be viewed by the one or more trained staff and/or volunteers assisting you, and may also be viewed by one or more supervisors form a CC for quality control purposes.
+While we may collect Personally Identifiable Information, we will not sell or license to any third party any Personally Identifiable Information we receive from you, and will not share it with any third parties except as noted below.
 
-If you provide feedback through an anonymous feedback survey before or following your session, that feedback may be shared with the trained volunteer assisting you, and with personnel at Crisis Text Line and the participating CCs.
+CTL uses the information it collects about you to, among other things, improve CTL, contact you, provide anonymous reporting internally, and fulfill your requests, including but not limited to referrals to other services. In other words, we collect information so we can provide you and others like you with a better service, helping move more people in crisis from “hot” to “cool.”  
+The following section provides examples of the types of Personally Identifiable Information CTL may collect and how we may use it.
 
-### Other Crisis Centers
+## WHAT PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT
 
-If you would like to receive crisis support from other hotlines, you may choose to have Us pass your personal information to such organizations; please note that whenever you choose to have Us pass such personal information to another organization, different rules may apply to their use or disclosure of such information. We do not control the privacy policies of others. We encourage you to ask questions before you disclose your personal information to others.
+We do not collect any Personally Identifiable Information from you other than the phone number you text us from and that which you voluntarily provide to us. Some of the types of Personally Identifiable Information that we may request include:
 
-### Others
+  * When you contact CTL, we may request information including your name, age, and zip code.
+  * When you contact CTL about a friend, family member, or other person in need of our services, we may request the information you provide about those people such as name and zip code.
+  * In situations where you or someone else is in danger or in need of emergency help, we may request your current location, or the current location of the person in danger.
 
-We may share information with other affiliated third parties for the purpose of helping Us do Our work, to advantage young people in crisis, or to enter into one or more agreements with third parties to provide services to Us in connection with the Hotline. These organizations may provide services such as information processing, managing and enchancing customer data, providing customer service, and conducting customer research or satisfaction surveys, and may include but are not limited to academic institutions, research institutes, and policy makers. In most cases, this information will be provided in aggregate and anonymized. Exceptions include but are not limited to those groups which meet the requirements and complete documentation necessary for a restricted access, enclave access, or business associate agreement. These groups do not share your personal information or use it for any purpose other than as instructed by Us. These groups are obligated to protect your information.
 
-### Legal Processes
 
-We do not publish, sell, share, or rent information about you in ways different from what is disclosed in this statement. However, We, including trained volunteers, staff and CCs may disclose information to the government or third parties under certain circumstances. We may be required to (and you authorize Us to) reveal any information about you that We possess to law enforcement or other government officials as We, in Our sole discretion, believe is necessary or appropriate, in connection with the investigation of a crime, mandatory reporting laws, fraud, intellectual property infringement, or other activity that is illegal, or may expose Us, or you, to liability.
+## HOW WE USE YOUR PERSONALLY IDENTIFIABLE INFORMATION
 
-For example, some states require Us to record and report information regarding the abuse of someone less than 18 years of age, or vulnerable or disabled adults, including persons over 60 years of age, or persons who are in danger of committing suicide. If you convey such circumstances, and provide information that could lead Us to identify your name and location, We may have to record such information and provide it to the appropriate authorities. Also, if you are under 13 years old, We, or the trained volunteer, staff or CC may be required to disclose whatever information you have provided to the appropriate authorities.
+We use Personally Identifiable Information to help us develop, deliver, and improve our products, services, content, and advertising.
 
-Trained staff and volunteers are located across the United States, and may not be licensed in your state or trained in your state’s law. The laws of the trained volunteer’s state may apply to your communications with that trained volunteer. The volunteer’s state laws may not protect your communications to the same degree, or in the same way, as the laws of your state. For instance, your state might recognize a privilege to communications with the Hotline — meaning that the state may allow you to keep such communications private — but the volunteer’s state might not recognize such a privilege. It is possible that a court of law will not keep private, and may require Us to reveal, information that you provide during your Hotline session.
+  * If you choose to receive follow-up email messages or text messages from us, the Personally Identifiable Information we collect may be used to notify you of relevant information or volunteer opportunities. If you no longer wish to receive messages, you may opt out at any time by texting the word STOP.
+  * We may also use Personally Identifiable Information for internal purposes such as auditing, data analysis, and research to improve CTL’s products, services, and communications.
+  * We may also use your information to help us personalize your experience with us and to operate, maintain and improve the features and functionality of our service.
 
-Also, We may disclose information about you if We determine that such a disclosure is reasonably necessary to enforce Our terms and conditions or protect Our services or users.
 
-## How We Protect Your Personal Information
 
-Crisis Text Line cares about the security of your personal information. We take precautions, including administrative, technical, and physical measures, to protect your personal information from loss, theft, and misuse, unauthorized access, disclosure, alteration and destruction. We store all information on a secure server that is only accessible by Crisis Text Line employees, contractors, and third parties pursuant to the terms described above.
+## COLLECTION AND USE OF NON-PERSONALLY IDENTIFIABLE INFORMATION
 
-We employ different security techniques to protect your personal information from unauthorized access by users inside and outside of Our organization, including standard encryption practices. However, “perfect security” does not exist anywhere on the Internet or for texting (SMS) data.. ALTHOUGH WE BELIEVE WE TAKE APPROPRIATE MEASURES TO SAFEGUARD AGAINST UNAUTHORIZED DISCLOSURES OF INFORMATION, WE CANNOT ASSURE YOU THAT YOUR PERSONALLY IDENTIFIABLE INFORMATION OR COMMUNICATIONS WITH THE HOTLINE WILL NEVER BE DISCLOSED IN A MANNER INCONSISTENT WITH THIS POLICY, AND MAKE NO REPRESENTATIONS OR WARRANTIES REGARDING THE SUFFICIENCY OF Our SECURITY MEASURES.
+We also collect non-Personally Identifiable Information, which is data that cannot be directly used to identify or contact you. We may collect, use, transfer, and disclose non-Personally Identifiable Information for any purpose, including but not limited to improving volunteer services, disclosing to third parties to generate support for CTL, or as required by law.
 
-Always be careful and responsible regarding your personal information. We are not responsible for, and cannot control, the use by others of any information which you provide or divulge to others, purposefully or inadvertently, including your phone number.
+Below are examples of non-Personally Identifiable Information that we collect and how we may use it:
 
-## Retention of Personal Information
+  * We may collect information such as age, gender, language, zip code, area code, and the time zone where a phone is being used to contact CTL to better understand behavior and improve our service.
+  * We also may collect information regarding usage of CTL such as the conversation volume, average length of conversation, and other data. This information is aggregated and helps us conduct internal research so we can improve the quality of our service.
 
-We will retain your personal information for the duration required to fulfil the purposes described in this Privacy Policy, unless a longer retention period is required by law. You may request that we delete some of your personal information as described below.
 
-## Access to Personal Information
 
-You may request that we delete your Personally Identifiable Information, such as last name, phyiscal address, email address, or phone number by emailing Us at [info@crisistextline.org](mailto:info@crisistextline.org). This does not include non-Personally Identifiable Information, which cannot be used to identify or contact you.
+## DISCLOSURE TO THIRD PARTIES
 
-We will make Our best effort to process requests promptly, but may decline to process requests that are unreasonably repetitive, require unreasonable technical effort, jeopardize the privacy of you or others, are otherwise impractical, or for which access is not otherwise required by local laws. Requests for access, correction or deletion can be made by emailing Us at info@crisistextline.org.
+At times we may make certain Personally Identifiable Information available to strategic partners that work with us.
 
-## Children Under Thirteen (13) Years of Age
+### PARTICIPATING CRISIS CENTERS; Crisis Counselors
 
-If you are under thirteen (13) years of age, do not send any information about yourself to the Hotline. We do not knowingly collect any Personally Identifiable Information from children under thirteen (13) years of age unless the collection complies with the Children’s Online Privacy Protection Act. If the Hotline discovers that a child under the age of 13 has provided the Hotline with Personally Identifiable Information in a way that does not comply with the Children’s Online Privacy Protection Act, the Hotline will use commercially reasonable efforts to delete that child’s Personally Identifiable Information. If a parent or guardian becomes aware that his or her child has provided Us with Personally Identifiable Information through crisistextline.org or the Hotline without verifiable parental consent, he or she should contact Crisis Text Line at [info@crisistextline.org](mailto:info@crisistextline.org).
+We operate CTL in conjunction with participating crisis centers and their subcontractors (“CCs”) and volunteer and staff crisis counselors (“Crisis Counselors”). The CCs provide staff and/or Crisis Counselors to help you and supervisors to help monitor CTL activity. Any information, including Personally Identifiable Information, that you share with CTL may be viewed by CTL staff, CCs, or Crisis Counselors for quality control and to better assist you with your crisis.
 
-## Third-Party Information Collectors
+If you provide feedback through an anonymous feedback survey, that feedback may also be shared with CTL, CCs, and Crisis Counselors. We want to provide an awesome service, so we are hungry to learn from your feedback!
 
-Except as otherwise expressly included in this Privacy Policy, this document addresses the use and disclosure of information that We collect from you. Our websites, products, applications and services may contain links to third-party websites, products, applications and services. Our products and services may also use or offer products or services from third parties – for example, if you use the Hotline, We may refer you to a local mental health center.
+### OUTSIDE REFERRALS
 
-If you disclose your information to third parties, different rules may apply to their use or disclosure of such information. We do not control the privacy policies of third parties. We encourage you to ask questions before you disclose your personal information to others. We disclaim all responsibility for compliance with the privacy policies of third party hotlines and websites, and strongly urge all users to review such privacy policies.
+Sometimes, we may refer you to another hotline or program. There are some really great programs out there! We will give you their contact info…but we will NOT give them your contact info. So, its up to you if you want to use the referral. If you would like to receive support from other services, please note that different rules may apply to their use or disclosure of Personally Identifiable Information. We do not control the privacy policies of others. We encourage you to ask questions before you disclose your Personally Identifiable Information to others.
 
-## International Users
+### OTHER THIRD PARTIES; LEGAL PROCESSES
 
-The Hotline is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide will be collected in or transferred to the United States. By using the Hotline, participating in any of Our services and/or providing Us with your information, you consent to this transfer.
+In certain narrow circumstances, we may disclose Personally Identifiable Information we collect from you to additional third parties to the extent necessary to: (A) to comply with the law or in response to a subpoena, court order, government request, or other legal process; (B) to protect the interests, rights, safety, or property of CTL, its affiliates, employees, or agents, including but not limited to CCs and Crisis Counselors; (C) to enforce this Privacy Policy or Terms; (D) in connection with a merger, acquisition, liquidation, or corporate divestiture of CTL or its affiliates, or (E) to address fraud, security, technical issues, or to operate CTL or its infrastructure systems properly.
 
-## Our Organizational Commitment to Your Privacy
+Note that CTL’s staff, CCs, and Crisis Counselors are located across the United States, and may not be licensed in your state or trained in your state’s law. Other state laws may apply to your communications, and those state laws may not protect your communications to the same degree, or in the same way, as the laws of your state.
 
-To make sure We’re doing everything We can to secure your personal information, We communicate Our privacy and security guidelines to Crisis Text Line employees and employees at Our third party service providers and stringently enforce privacy safeguards within the organization.
+### ACADEMICS
 
-## Contact Us
+Sometimes academics reach out to us and ask to look at our data for research purposes. We share data with trusted academics only when it will result in insights that create a better experience for our texters. We follow a set of best practices for data sharing based on the University of Michigan’s Interuniversity Consortium of Social and Political Research, one of the largest open data projects in the U.S., which includes stringent ethical, legal, and security checks. For more details, see our policies for [open data collaborations](http://www.crisistextline.org/open-data).
 
-If you have any questions or concerns about Our Privacy Policy or data processing, please contact Us: [info@crisistextline.org](mailto:info@crisistextline.org)
+## RETENTION OF INFORMATION
+
+CTL retains data for reasons including but not limited to improving the quality of our crisis counseling, complying with federal research grant and other reporting requirements, and creating open data collaboration tools, such as [www.crisistrends.org](http://www.crisistrends.org/).
+
+Retention policies and security measures match the sensitivity of the data. We categorize data into three types, based on chance of containing Personally Identifiable Information:
+
+  * Direct Identifiers: Data may identify an individual on its own (e.g., phone number)
+  * Indirect Identifiers: Data may indirectly identify an individual in combination with other data (e.g., city and date of conversation)
+  * Non-Identifiers: Data could not identify an individual, directly or indirectly
+  * You may request more information about our data retention policies by contacting us at info@CrisisTextLine.org.
+
+
+
+## HOW WE PROTECT YOUR PERSONALLY IDENTIFIABLE INFORMATION
+
+CTL cares about you and the security of your Personally Identifiable Information. We take reasonable precautions, including administrative, technical, and physical measures, to protect your Personally Identifiable Information from loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction. We store all information on secure servers only accessible by approved CTL employees and third parties pursuant to the practices described above.
+
+We employ different security techniques to protect your Personally Identifiable Information from unauthorized access, including standard encryption practices. However, perfect security does not exist anywhere, including for text messaging/SMS data. Although we believe we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your Personally Identifiable Information or communications with CTL will never be disclosed in a manner inconsistent with this policy, and make no representations or warranties regarding the sufficiency of our security measures to prevent unauthorized access or interception by third parties.
+
+## YOU SHOULD ALSO PROTECT YOURSELF
+
+Always be careful and responsible regarding your Personally Identifiable Information. We are not responsible for, and cannot control, what others not affiliated with CTL, CCs, or Crisis Counselors do with information you provide to them.
+
+One suggestion: you might want to delete CTL conversations from your phone. You might even want to clear us from your history and make sure we are not saved in your contact list. We’re not mad. We totally understand if you want to take these steps and others, to ensure that your relationship to CTL remains your business.
+
+## ACCESS/CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION
+
+You may request that we delete your Personally Identifiable Information, such as last name, physical address, zip code, phone number, and texts/message transcripts by emailing info@crisistextline.org.
+
+We will make our best efforts to process deletion requests promptly, but may decline to process requests that are unreasonably repetitive, require unreasonable technical effort, jeopardize the privacy of you or others, are otherwise impractical, or which would conflict with applicable laws.
+
+## GOVERNING LAW; INTERNATIONAL USERS
+
+These Terms and the provision of CTL is governed solely by, and shall be interpreted according to, the laws of the State of New York without giving effect to principles of conflict of law. Both parties consent to the exclusive jurisdiction of the state and federal courts located in the city of New York, borough of Manhattan. (Basically, we <3 New York.)
+
+CTL is operated in the United States. If you are located outside of the United States, please be aware that any information you provide will be collected in or transferred to the United States. By using CTL and/or providing us with your information, you consent to that collection and transfer.
+
+## SEVERABILITY; ENTIRE AGREEMENT
+
+If a Court finds any provision of these Terms to be invalid or unenforceable, that provision shall be enforced to the maximum extent possible and the remaining Terms shall remain in full force and effect. These Terms constitute the entire agreement between you and CTL, superseding any other written or oral agreements or understandings. (Basically, this is a fancy way of saying the stuff you’re reading now is what you and CTL agree about, and even if we later fight about some words, the rest of the words still stick around.)
+
+## CONTACT US
+
+If you have any questions or concerns about our Privacy Policy or the privacy practices described here, please contact: info@crisistextline.org.
