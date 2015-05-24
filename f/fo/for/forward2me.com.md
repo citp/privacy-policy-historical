@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forward2me.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709173806id_/https%3A//www.forward2me.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forward2me.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524154916id_/https%3A//www.forward2me.com/privacy-policy) for the most accurate reproduction.*
 
 # forward2me - Privacy Policy - UK Mailing Address, Mail Forwarding Service, International Package & Parcel Forwarding
 
