@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothertrip.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120141220id_/http%3A//www.mothertrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothertrip.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524100206id_/http%3A//www.mothertrip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mother Trip - Nature Pictures, Travel Destinations and Photos
 
@@ -15,7 +15,7 @@ Personal Information
 We do not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
 External Links  
-This site contains links to other sites. Mother Trip  is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. Mother Trip  is not responsible for the privacy practices or the content of such Web sites. 
 
 Our Commitment To Privacy  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
