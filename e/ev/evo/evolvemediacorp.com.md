@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolvemediacorp.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911044307id_/http%3A//www.evolvemediallc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolvemediacorp.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524174043id_/http%3A//www.evolvemediallc.com/privacy-policy) for the most accurate reproduction.*
 
 # Evolve - Evolve Privacy Policy
 
