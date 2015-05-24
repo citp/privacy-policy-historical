@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playfizz.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216164929id_/http%3A//playfizz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfizz.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524142647id_/http%3A//playfizz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PlayFizz
+# PlayFizz | Privacy Policy
 
 **Website Privacy Policy**
 
@@ -10,7 +10,7 @@ The following sets forth the Privacy Policy of GPV Entertainment, LLC (“Compan
 
 We reserve the right to change this Privacy Policy from time to time. Before using this Website and the Service (as defined below), recheck this page and review the “Effective Date” posted on the bottom of this Privacy Policy. If it has recently changed, make sure you review it and still agree with its terms. It will apply to any interactions you have with the Website and Service, and information you provide to us related to your use of the Website and Service. Your continued use of the Website or Service, or communications with us will evidence your agreement to the terms thereof. 
 
-Please read this document carefully before accessing or using the Website or Service. Your access to the Website or Service constitutes you acceptance to this Privacy Policy. If you do not understand or agree to this Privacy Policy, please do not use the Website or Service. If you have any questions or concerns regarding this Privacy Policy, please let us know by contacting us at support(Replace this parenthesis with the @ sign)playfizz.com.
+Please read this document carefully before accessing or using the Website or Service. Your access to the Website or Service constitutes you acceptance to this Privacy Policy. If you do not understand or agree to this Privacy Policy, please do not use the Website or Service. If you have any questions or concerns regarding this Privacy Policy, please let us know by contacting us at [support@playfizz.com](mailto:support@playfizz.com).
 
 Our Website also offers users Platinum Games (“Platinum Games”) free of charge for users to play, but requires the download and installation of the PlayFizz software (the “Service”). In exchange to play the Platinum Games at no cost, the Service allows the Company to display a restricted amount of advertisements on your website browser, including but not limited to in-text, pop-up, banner, in-image and interstitial advertisements. The Website may also display third party applications and advertisements on the site itself and/or within the games you play. All such applications and advertisements served to you through the Service and/or the Website are defined collectively as “Third Party Ads”. For the avoidance of doubt, the Service does not collect any Personally Identifiable Information (as defined in Section 2). 
 
@@ -18,7 +18,7 @@ The Website collects two types of information: Personally Identifiable Informati
 
 **2\. Personally Identifiable Information (“PII”)**
 
-PII is any data or information about an individual that can be used to identify that specific person, such as a name, telephone number or email address. We collect your PII when you reach out to us through our support email address (support(Replace this parenthesis with the @ sign)playfizz.com) or the “Contact” page; we will ask you to submit your name, email address, and phone number so that we can respond to your inquiry. 
+PII is any data or information about an individual that can be used to identify that specific person, such as a name, telephone number or email address. We collect your PII when you reach out to us through our support email address ([support@playfizz.com](mailto:support@playfizz.com)) or the “Contact” page; we will ask you to submit your name, email address, and phone number so that we can respond to your inquiry. 
 
 We do not sell or license your PII to third parties without your consent, except as disclosed herein and if we enter into a merger, acquisition or sale of all or a portion of our assets, or transfer the Website or services provided therewith to any third-party, your PII will be shared and transferred as part of that transaction. 
 
@@ -26,7 +26,7 @@ We share your PII (to the extent we have such information) only with those invol
 
 We and/or our Affiliate Companies may also disclose your PII to third parties as required or permitted by law, or as we believe may be necessary (as determined in our sole and absolute discretion) to protect the integrity of our Website, or the safety, privacy and well-being of ourselves and our Affiliate Companies. 
 
-If you would like to update or modify your PII, or request to remove your account from our systems, you may do so by contacting us at support(Replace this parenthesis with the @ sign)playfizz.com. However, we may retain your PII only as necessary due to situations described above. 
+If you would like to update or modify your PII, or request to remove your account from our systems, you may do so by contacting us at [support@playfizz.com](mailto:support@playfizz.com). However, we may retain your PII only as necessary due to situations described above. 
 
 **3\. Non-personally Identifiable Information (“Non-PII”)**
 
@@ -54,7 +54,7 @@ If you would like to uninstall the software and stop the Service (including all 
 
 **7\. Your California Privacy Rights**
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to support(Replace this parenthesis with the @ sign)playfizz.com. Please allow 30 days for a response. **  
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to [support@playfizz.com](mailto:support@playfizz.com). Please allow 30 days for a response. **  
 **
 
 **8\. Privacy of Children**
@@ -64,9 +64,9 @@ We do not knowingly collect any PII from children under the age of 13. In the ev
 
 **9\. Security Measures**
 
-We have systems in place to enforce the terms of this Privacy Policy and secure your data. But, no matter how careful we are, no system is 100% secure and we cannot guarantee that there will be no unauthorized use or access of your information. If we become aware of any information breach that may affect you, we will notify you promptly following our discovery thereof. Should you suspect that there is a security breach or someone is attempting to circumvent our security system, please contact us at support(Replace this parenthesis with the @ sign)playfizz.com. 
+We have systems in place to enforce the terms of this Privacy Policy and secure your data. But, no matter how careful we are, no system is 100% secure and we cannot guarantee that there will be no unauthorized use or access of your information. If we become aware of any information breach that may affect you, we will notify you promptly following our discovery thereof. Should you suspect that there is a security breach or someone is attempting to circumvent our security system, please contact us at [support@playfizz.com](mailto:support@playfizz.com). 
 
-If you have questions or comments about this Privacy Policy, please email us at support(Replace this parenthesis with the @ sign)playfizz.com. You can also write to us at 2370 Market Street, Suite 141, San Francisco, CA 94114. Please note that whether or not you have questions or comments, use of our Website indicates your agreement to the terms hereof as written. 
+If you have questions or comments about this Privacy Policy, please email us at [support@playfizz.com](mailto:support@playfizz.com). You can also write to us at 2370 Market Street, Suite 141, San Francisco, CA 94114. Please note that whether or not you have questions or comments, use of our Website indicates your agreement to the terms hereof as written. 
 
 Effective Date: July 11, 2012 
 
