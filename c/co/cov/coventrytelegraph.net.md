@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119204745id_/http%3A//www.coventrytelegraph.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524044654id_/http%3A//www.coventrytelegraph.net/privacy-policy) for the most accurate reproduction.*
 
 # Coventry Telegraph: Coventry news, sport, lifestyle and events
 
-## Privacy Policy
+## Privacy Statement
 
-**IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR MIDLANDS LIMITED HERE ON THIS WEB SITE**
+**IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR NORTH WEST HERE ON THIS WEB SITE**
 
-**We are committed to:**
+We are committed to: protecting the personal information you give us telling you how we use the information we gather about you getting your consent to our disclosure of your personal information.
 
-protecting the personal information you give us  
-telling you how we use the information we gather about you  
-getting your consent to our disclosure of your personal information.
-
-Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. TRINITY MIRROR MIDLANDS LIMITED HERE is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group.
+Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. TRINITY MIRROR NORTH WEST is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group.
 
 **WHY WE COLLECT INFORMATION ABOUT YOU**
 
@@ -24,12 +20,11 @@ In addition to the services we provide on this web site we want to offer you goo
 
 We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties.
 
-**WHAT INFORMATION DO WE COLLECT FROM YOU?**  
-
+**WHAT INFORMATION DO WE COLLECT FROM YOU?**
 
 We may collect information from you when you fill in an online registration form for any of our web site services, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our Cookie Policy which forms part of this Privacy Policy.
+We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our [Cookie Policy](https://web.archive.org/cookie-policy/) which forms part of this Privacy Policy.
 
 Where it is lawful, we may monitor emails you send and receive.
 
@@ -57,7 +52,7 @@ We may disclose details about use of our web sites to other businesses e.g. to d
 
 We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services.
 
-We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
+We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or otherbreaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.
 
 Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein.
 
@@ -65,13 +60,12 @@ Our site(s) include applications, content and/or ads from third parties that may
 
 We use ad serving technology to display the ads on our web pages. We use the cookie feature of this technology to anonymously manage and report on the effectiveness of the ads that you see. No personal data such as your name, address or email address are used during this process.
 
-If you do not wish this to happen, you can either Click Here to obtain opt-out details or you can use the cookie preference settings in your browser to manage this process.
+If you do not wish this to happen, you can either click[ here](http://www.247realmedia.com/privacy.html) to obtain opt-out details or you can use the cookie preference settings in yourbrowser to manage this process.
 
-More information on this can be found in the "Help" section of the browser that you are using.
+More information on this can be found in the "Help" section of thebrowser that you are using.
 
 **OMNITURE ANALYTICS**
 
-Media Wales Limited engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. Media Wales Limited controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of Media Wales Limited is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to Media Wales Limited may be reassociated by Media Wales Limited with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture. Further information regarding Omniture's privacy statement can be found by clicking [ here](http://www.omniture.com/privacy/product).
+TRINITY MIRROR NORTH WEST engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. TRINITY MIRROR NORTH WEST controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of TRINITY MIRROR NORTH WEST is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to TRINITY MIRROR NORTH WEST may be reassociated by TRINITY MIRROR NORTH WEST with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued tobrowse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.
 
-  
-
+Further information regarding Omniture's privacy statement can be found by clicking[ here](http://www.omniture.com/privacy/product).
