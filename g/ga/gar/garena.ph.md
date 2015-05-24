@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garena.ph privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201091823id_/http%3A//www.garena.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garena.ph privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524084016id_/http%3A//www.garena.ph/privacy) for the most accurate reproduction.*
 
 # Garena Philippines- The Official Site
 
@@ -76,7 +76,7 @@ By visiting the Site or using the Garena Features, you consent to the collection
 
 QUESTIONS? CONTACT US 
 
-If you have any questions about our privacy practices or your dealings with the Garena Features, please do not hesitate to contact: support@garena.com 
+If you have any questions about our privacy practices or your dealings with the Garena Features, please do not hesitate to contact: info@garena.com 
 
 TERMS AND CONDITIONS 
 
