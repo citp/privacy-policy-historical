@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the persistent.co.in privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123145010id_/http%3A//www.persistent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persistent.co.in privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524160125id_/http%3A//www.persistent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Persistent Systems | Software Product Lifecycle and Technology Services
 
