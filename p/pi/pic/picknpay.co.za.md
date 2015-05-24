@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picknpay.co.za privacy policy that was archived on 2012-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120826094810id_/http%3A//www.picknpay.co.za/picknpay/content/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picknpay.co.za privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524191934id_/http%3A//www.picknpay.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pick n Pay
+# Pick n Pay Privacy Policy - Pick n Pay
 
 This Website is an interactive online service operated by Pick n Pay Retailers (Proprietary) Limited. This Privacy Policy applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively known as this “Website”). This Privacy Policy doesn’t apply to our collection of information from other sources, unless specifically stated.
 
