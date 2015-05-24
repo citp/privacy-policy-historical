@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unicommerce.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901101153id_/http%3A//www.unicommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicommerce.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524044015id_/http%3A//www.unicommerce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy -
 
 The privacy policy outlines  how “Unicommerce eSolutions Pvt. Ltd.” uses and protects any information provided by users  on its website .
 
