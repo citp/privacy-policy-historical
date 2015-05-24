@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondshaadi.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028222612id_/http%3A//www.secondshaadi.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondshaadi.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524041458id_/http%3A//www.secondshaadi.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Second Shaadi - Privacy Policy
 
@@ -31,21 +31,21 @@ This section covers SecondShaadi.com's privacy statement that highlights how we 
     * While upgrading to premium membership, the system asks you to enter sensitive financial information (such as a credit card number). Such information is encrypted and is protected with the best encryption software in the industry - SSL.
     * In addition to using SSL encryption to protect sensitive financial information online, all information provided by the user is kept confidential even within the official functioning of SecondShaadi.com
   6. **How does SecondShaadi.com ensure my privacy in their communication with me?**
-    * SecondShaadi.com uses email as the preferred mode of communication with its members to help you find your perfect partner. As a SecondShaadi.com member, you are automatically subscribed to all these emails. However, at any time, you can unsubscribe from SecondShaadi.com’s email service using your email manager.
+    * SecondShaadi.com uses email as the preferred mode of communication with its members to help you find your perfect partner. As a SecondShaadi.com member, you are automatically subscribed to all these emails. However, at any time, you can unsubscribe from SecondShaadi.com�s email service using your email manager.
     * SecondShaadi.com has a service to send interesting profiles to your friends external to the site. The receiving email addresses are also covered by the same privacy policy of SecondShaadi.com
   7. **Information you Provide**
     * When using our site and services, you may provide information about yourself, such as name, address, phone, mobile, and e-mail. This may occur when you register on SecondShaadi.com. Some of this information may be shown or shared to other users by you or by us.
     * While you are registered on SecondShaadi.com you may receive communication from us in any form like email, sms or other mailing or communication models. 
     * SecondShaadi.com along with their affiliates and associated sites, hold the complete control on the following items,
-  
+��
       1. Registration and user accounts
-  
+��
       2. User database
-  
+��
       3. Feature and product expansions
-  
+��
       4. Data Sharing
-    * The website SecondShaadi.com will send you SMS alerts if you opt for services on our site, even if you are registered on the DNC or DND service, since these are transactional messages important for you in your interaction with the site SecondShaadi.com and it’s services. If you do not wish to receive SMSs from SecondShaadi.com please send an email to address mentioned at the end of this document.
+    * The website SecondShaadi.com will send you SMS alerts if you opt for services on our site, even if you are registered on the DNC or DND service, since these are transactional messages important for you in your interaction with the site SecondShaadi.com and it�s services. If you do not wish to receive SMSs from SecondShaadi.com please send an email to address mentioned at the end of this document.
   8. **How do I contact SecondShaadi.com?**
     * If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please email us [help@secondshaadi.com](mailto:help@secondshaadi.com)
 
