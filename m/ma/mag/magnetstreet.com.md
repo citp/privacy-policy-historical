@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050639id_/http%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525222850id_/http%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,9 @@ When you make a purchase, sign up for any MagnetStreet services, or submit a req
 
   * #### Cookies.
 
-When you visit this Website, MagnetStreet may send one or more cookies, a small file containing a string of characters, to your computer that uniquely identifies your browser. MagnetStreet uses cookies to improve the quality of this Website by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some of this Website's features and services may not function properly if your cookies are disabled. Third party vendors, including Google, use cookies to serve ads based on user's prior visits to this website. 
+When you visit this Website, MagnetStreet may send one or more cookies, a small file containing a string of characters, to your computer that uniquely identifies your browser. MagnetStreet uses cookies to improve the quality of this Website by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some of this Website’s features and services may not function properly if your cookies are disabled. Third party vendors, including Google, use cookies to serve ads based on user's prior visits to this website. 
+
+We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here 
 
   * #### User Communications.
 
@@ -59,6 +61,11 @@ This Policy only applies to this Website and any other website owned and operate
   * #### Advertising.
 
 Third party vendors, including Google, show MagnetStreet's ads on sites on the internet. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively users may opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Third party vendors may collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. Users may opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Users may opt out of Google's use of cookies by visiting the   
+[Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
 
 
 
@@ -99,5 +106,6 @@ Email: [info@magnetstreet.com](mailto:info@magnetstreet.com)
 Postal Address: 285 West Loop Road, Wheaton IL 60189  
 Web site URL: www.MagnetStreet.com
 
-EFFECTIVE DATE October 15, 2008  
+EFFECTIVE DATE   
+October 15, 2008  
 1663342v1/12755-0001 
