@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilephonesurvey.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702143101id_/http%3A//www.mobilephonesurvey.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilephonesurvey.net privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525023553id_/http%3A//www.mobilephonesurvey.net/privacy.asp) for the most accurate reproduction.*
 
 # MobilePhoneSurvey User Survey
 
@@ -21,10 +21,12 @@ We use all this information in five ways:
 We employ other companies and individuals to perform certain functions on our behalf. These companies and individuals may include but are not limited to These agents have access to member personal information as needed to perform their functions. 
 
 **Third-party Advertising**   
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like to be removed from any 3rd party advertising and solicitation please opt out [here](https://web.archive.org/web/20140702143101id_/http%3A//www.mobilephonesurvey.net/unsubscribe.asp)
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like to be removed from any 3rd party advertising and solicitation please opt out [here](https://web.archive.org/web/20150525023553id_/http%3A//www.mobilephonesurvey.net/unsubscribe.asp)
 
 **Cookies**   
 We use cookies to deliver personalized content. Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting the MobilePhoneSurvey Web Site may result in certain parts of the MobilePhoneSurvey Web Site not operating correctly or as efficiently as if they were allowed. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
+
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>
 
 **E-mail Links**   
 In some instances we may include certain links in our e-mails that will allow us to monitor whether you access specific content or advertisements contained in that e-mail. When you click on one of these links, we will record that click and certain activities on the Web page associated with that link. We may use this information for various purposes, such as to conduct internal research on our users' demographics, interests, and behavior in and to our e-mail advertisements and content, and to better understand and serve you. 
@@ -34,10 +36,10 @@ MobilePhoneSurvey may disclose information about you and your use of the MobileP
 The MobilePhoneSurvey Web Site, as well as the electronic messages sent as part of the MobilePhoneSurvey Service, may contain links to other sites or services. MobilePhoneSurvey is not responsible for the privacy practices or the content of such third party sites. If you have a question about the privacy policy of those other sites, please contact them directly. 
 
 **Removal**   
-To have all of your personally identifiable information removed from our database, click [here](https://web.archive.org/web/20140702143101id_/http%3A//www.mobilephonesurvey.net/unsubscribe.asp) and we will be happy to delete such information after we receive a request to that effect. Please be advised that by requesting that your data be removed from our database, you will be unsubscribed from the MobilePhoneSurvey Service. 
+To have all of your personally identifiable information removed from our database, click [here](https://web.archive.org/web/20150525023553id_/http%3A//www.mobilephonesurvey.net/unsubscribe.asp) and we will be happy to delete such information after we receive a request to that effect. Please be advised that by requesting that your data be removed from our database, you will be unsubscribed from the MobilePhoneSurvey Service. 
 
 **Updates**   
 MobilePhoneSurvey may revise this Policy from time to time and at any time in the future to (i) improve or modify the MobilePhoneSurvey Service, (ii) reflect future developments in MobilePhoneSurvey data information gathering, storing and release practices, (iii) comply with applicable laws, and (iv) reflect changes in MobilePhoneSurvey business structure. Depending on the nature of the change, we will notify users by e-mail (to the current e-mail address on file) and/or placing a notice on the MobilePhoneSurvey Web Site. If you do not accept the terms of this Policy, we ask that you do not register with MobilePhoneSurvey.com, or with any of our promotional partners 
 
 **Contact Us**   
-MobilePhoneSurveys.net Privacy at 324 S Wilmington St #230 Raleigh NC 27601 
+MobilePhoneSurveys.net Privacy at 22 Cortlandt St, 16th Floor, New York, NY 10007 
