@@ -1,35 +1,44 @@
-> *The following text is extracted and transformed from the langara.ca privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029194426id_/http%3A//langara.ca/registration-and-records/policies-and-procedures/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langara.ca privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525175200id_/http%3A//langara.ca/registration-and-records/policies-and-procedures/privacy-policy.html) for the most accurate reproduction.*
 
-# Langara. Registration & Records: Policies & Procedures: Privacy Policy
+# Langara. Registration & Records: Policies & Procedures: Student Privacy
 
-## Safeguarding your right to privacy
+## Safeguarding your right to privacy:
 
-We ensure that our employees follow a code of business conduct that requires the safeguarding and proper use of personal information. We also place strict controls on the protection and use of personal information within our systems and web sites and ensure that our employees are trained to respect your privacy at all times.
+Our employees follow a code of business conduct that requires the safeguarding and proper collection, use and disclosure of personal information. The College places strict controls on the protection and use of personal information within our systems and ensures that our employees are trained to respect your privacy at all times.
 
-The Langara College Access to Information Policy spells out the commitments of Langara College and the rights of customers regarding personal information.
+The Langara College Access to Information Policy spells out the commitments of the College and the rights of students regarding personal information.  
 
 ## What is personal information?
 
-Personal information is information about an identifiable individual. This includes information about your product and service subscriptions and usage. Publicly available information, such as a public directory listing of your name, address, telephone number and electronic address, is not considered personal information.
+Personal information is recorded information about an identifiable individual other than workplace contact information. Student personal information may include your Langara student identification number, grades and course schedule as well as your name, address, email address and telephone number which the College stores electronically or on paper.
 
-## Langara College collects personal information only for the following purposes:
+## Collection and Use:
 
-to establish and maintain a responsible relationship with you and provide you with ongoing service; to understand your needs and develop and recommend suitable products & services; to manage and develop our operations, including personnel and employment matters; and to meet legal and regulatory requirements.
+Langara College collects and maintains the information it receives as part of the student record under the authority of British Columbia’s College and Institute Act. The College complies with British Columbia’s Freedom of Information and Protection of Privacy Act by:
 
-## Consent
+  * collecting personal information only for admission, registration, maintenance of your student record, and other purposes related to and necessary for College programs and activities.
+  * using personal information only for the purpose for which it was collected or for a use consistent with that purpose.
+  * collecting or using personal information for any other purpose only with your prior written consent.
 
-We share information among the Langara College departments to help us identify your information, communication, and education needs, and provide you with relevant information, advice, and solutions to meet those needs. Call us or send us an e-mail if you do not wish to have your information shared within Langara College.
 
-**Sharing information… it's your choice!**
 
-## Freedom of Information and Protection of Privacy
+## Disclosure:
 
-Information received and maintained as part of the student record is collected under the authority of the Colleges and Institutes Act. Signing the application form authorizes Langara College to use the student record information for the purpose of research and College operations. Langara College gathers and maintains information for the purposes of admission, registration and other fundamental activities related to attending a public post-secondary institution in British Columbia and being a member of the Langara College community. This information is protected and used in compliance with the Freedom of Information and Protection of Privacy Act.
+In compliance with British Columbia’s Freedom of Information and Protection of Privacy Act, Langara College:
 
-For further information please contact [Registrar and Enrolment Services](https://web.archive.org/web/20141029194426id_/http%3A//langara.ca/departments/registrar-and-enrolment-services/index.html).
+  * will disclose your personal information only for the same purpose as it was collected or for a use consistent with that purpose.
+  * may share the personal information you provide with the Ministry of Education to verify your British Columbia Personal Education Number (PEN) or to assign one to you upon application. The Ministry uses your personal information and PEN for statistical and research purposes.
+  * may share your personal information with College Advancement, Alumni Relations, and the Langara Students’ Union upon acceptance.
+  * will share your personal information for any other purpose only with your prior written consent.
 
-## Retention of Student Records
 
-Records of academic performance at Langara College are retained indefinitely. Materials supporting admission may be destroyed two years after the first registration. Before submitting irreplaceable material to support an application, students are advised to check with Registrar and Enrolment Services.
 
-All admissions material will be destroyed after one year if the student does not register into courses.
+The College may be required or authorized by law to disclose the information to another party in limited circumstances as outlined in section 33 of the Freedom of Information and Protection of Privacy Act.
+
+## Retention of Student Records:
+
+Langara College retains records of academic performance indefinitely. The College retains materials that support admission from one year after the first registration to five years after last activity on the student record, depending on the type of document. Before submitting irreplaceable material to support an application, check with Registrar and Enrolment Services.
+
+Registrar and Enrolment Services will destroy all admissions material after one year if a student does not register into courses.
+
+For further information please contact [Registrar and Enrolment Services](https://web.archive.org/web/20150525175200id_/http%3A//langara.ca/departments/registrar-and-enrolment-services/contact.html).
