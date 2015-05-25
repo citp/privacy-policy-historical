@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the 123weddingcards.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221131157id_/http%3A//www.123weddingcards.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 123weddingcards.com privacy policy that was archived on 2015-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150525182059id_/http%3A//www.123weddingcards.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+      <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -12,71 +12,83 @@
     ga('require', 'displayfeatures');
     ga('send', 'pageview');
     ga('require', 'ecommerce', 'ecommerce.js');
+	
+	//Ecom Tracking
+	ga('require', 'ecommerce');
+	function addTrans(orderID,productname,total,shipping,tax,currency) {
+		ga('ecommerce:addTransaction', {
+			'id': orderID,
+			'affiliation': productname,
+			'revenue': total,
+			'shipping': shipping,
+			'tax': tax,
+			'currency': currency,
+		});
+	}
+	
+	function addItems(orderID,productname,category,price,qty,sku) {
+		ga('ecommerce:addItem', {
+			'id': orderID,
+			'sku': sku,
+			'name': productname,
+			'category': category,
+			'price': price,
+			'quantity': qty 
+		});
+	}
+	//End
 
-    function trackEcommerce() {
-    this._addTrans = addTrans;
-    this._addItem = addItems;
-    this._trackTrans = trackTrans;
-    }
-    function addTrans(orderID,store,total,tax,shipping,city,state,country) {
-    ga('ecommerce:addTransaction', {
-        'id': orderID,
-        'affiliation': store,
-        'revenue': total,
-        'tax': tax,
-        'shipping': shipping,
-        'city': city,
-        'state': state,
-        'country': country
-    });
-    }
-    function addItems(orderID,sku,product,variation,price,qty) {
-    ga('ecommerce:addItem', {
-        'id': orderID,
-        'sku': sku,
-        'name': product,
-        'category': variation,
-        'price': price,
-        'quantity': qty
-    });
-    }
-    function trackTrans() {
-        ga('ecommerce:send');
-    }
-    var pageTracker = new trackEcommerce();
+  
 </script>
+		<link rel="shortcut icon" href="http://www.123weddingcards.com/favicon.ico" type="image/x-icon">
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <title id="pageTitle">Privacy policy | 123 wedding cards</title>
-        <link href="http://www.123weddingcards.com/styles/123-wc.css" type="text/css" rel="stylesheet">
+                <meta name="viewport" content="width=device-width,initial-scale=1.0">
+                <title id="pageTitle">Privacy policy | 123WeddingCards</title>
+        
+                            <meta name="description" content="You can find privacy policies of 123weddingcards.com.">
+                
+        <!--<link href="http://www.123weddingcards.com/styles/123-wc.css" type="text/css" rel="stylesheet">-->
+        <link href="http://www.123weddingcards.com/styles/123-wc.min.css" type="text/css" rel="stylesheet">
+        <link rel="Publisher" href="https://plus.google.com/+123weddingcardspage/">
+        <link rel="Author" href="https://plus.google.com/+AtulGupta123/">
         <style type="text/css">
             @font-face { font-family:Source; src: url("http://www.123weddingcards.com/fonts/SourceR.eot") /*IE */}
             @font-face { font-family:Source; src: url("http://www.123weddingcards.com/fonts/SourceR.ttf") /* CSS3 browsers */}
         </style>
-                            <meta name="description" content="You can find privacy policies of 123weddingcards.com.">
-                        <link rel="stylesheet" href="http://www.123weddingcards.com/styles/123-wc-tab.css" media="only screen and (min-width : 640px) and (max-width : 1024px)">
+        <!--<link rel="stylesheet" href="http://www.123weddingcards.com/styles/123-wc-tab.css" media="only screen and (min-width : 640px) and (max-width : 1024px)">
         <link rel="stylesheet" href="http://www.123weddingcards.com/styles/123-wc-mob.css" media="only screen and (min-width : 320px) and (max-width : 640px)">
-        <link href="http://www.123weddingcards.com/styles/nav/menu.css" rel="stylesheet" type="text/css">
+        <link href="http://www.123weddingcards.com/styles/nav/menu.css" rel="stylesheet" type="text/css">-->
+        <link rel="stylesheet" href="http://www.123weddingcards.com/styles/123-wc-tab.min.css" media="only screen and (min-width : 640px) and (max-width : 1024px)">
+        <link rel="stylesheet" href="http://www.123weddingcards.com/styles/123-wc-mob.min.css" media="only screen and (min-width : 320px) and (max-width : 640px)">
+        <link href="http://www.123weddingcards.com/styles/nav/menu.min.css" rel="stylesheet" type="text/css">
 
         <!--Slider Starts-->
         <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-        <script src="http://www.123weddingcards.com/scripts/jquery/1.10.0.jquery.min.js"></script>
-        <link href="http://www.123weddingcards.com/styles/crousal/Crou-style.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" type="text/css" href="http://www.123weddingcards.com/styles/jquery-ui.css" media="all">
+        <!--<script src="http://www.123weddingcards.com/scripts/jquery/1.10.0.jquery.min.js"></script>-->
+        
+		        <link href="http://www.123weddingcards.com/styles/crousal/Crou-style.css" rel="stylesheet" type="text/css">
+                
+        <!--<link rel="stylesheet" type="text/css" href="http://www.123weddingcards.com/styles/jquery-ui.css" media="all" />-->
+        <link rel="stylesheet" type="text/css" href="http://www.123weddingcards.com/styles/jquery-ui.min.css" media="all">
         <script src="http://www.123weddingcards.com/scripts/nav/jquery.js" type="text/javascript"></script>
-        <script src="http://www.123weddingcards.com/scripts/nav/custom.js" type="text/javascript"></script>
+        <!--<script src="http://www.123weddingcards.com/scripts/nav/custom.js" type="text/javascript" ></script>-->
         <!--<link rel="stylesheet" type="text/css" href="styles/slider/normalize.css" />-->
-        <link rel="stylesheet" type="text/css" href="http://www.123weddingcards.com/styles/slider/demo.css">
-        <link rel="stylesheet" type="text/css" href="http://www.123weddingcards.com/styles/slider/component.css">
-        <script src="http://www.123weddingcards.com/scripts/slider/modernizr.custom.js"></script>
+        
+        <!--<link rel="stylesheet" type="text/css" href="http://www.123weddingcards.com/styles/slider/demo.css" />
+        <link rel="stylesheet" type="text/css" href="http://www.123weddingcards.com/styles/slider/component.css" />
+        <script src="http://www.123weddingcards.com/scripts/slider/modernizr.custom.js"></script>-->
+        
         <!--Slider Starts-->
         <!--Testi Starts-->
-        <script src="http://www.123weddingcards.com/scripts/testi/testi.js"></script>
+        <!--<script src="http://www.123weddingcards.com/scripts/testi/testi.js"></script>-->
+        <script src="http://www.123weddingcards.com/scripts/testi/testi.min.js"></script>
         <!--Testi Ends-->
         <!--Grid Starts-->
 <!--        <script type="text/javascript" src="http://www.123weddingcards.com/scripts/grid/scrollview.js"></script>	-->
-        <link href="http://www.123weddingcards.com/js/jnotify/jNotify.jquery.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="http://www.123weddingcards.com/js/jnotify/jNotify.jquery.js"></script>
+        <!--<link href="http://www.123weddingcards.com/js/jnotify/jNotify.jquery.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="http://www.123weddingcards.com/js/jnotify/jNotify.jquery.js"></script>-->
+<link href="http://www.123weddingcards.com/js/jnotify/jNotify.jquery.min.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="http://www.123weddingcards.com/js/jnotify/jNotify.jquery.min.js"></script>
 
 <script type="text/javascript">
     function showMessage(type, message) {
@@ -157,19 +169,57 @@
  
 function blinkOn()
 {
-  document.getElementById("blink").style.color="#fff"
-  setTimeout("blinkOff()",1000)
+  if(document.getElementById("blink")!=null){
+	  document.getElementById("blink").style.color="#fff"
+	  setTimeout("blinkOff()",1000)
+  }
 }
  
 function blinkOff()
 {
-  document.getElementById("blink").style.color="#f6c369"
-  setTimeout("blinkOn()",1000)
+  if(document.getElementById("blink")!=null){
+	  document.getElementById("blink").style.color="#f6c369"
+	  setTimeout("blinkOn()",1000)
+  }
 }
  </script>
+ 
+ <script type="text/javascript">
+        /*var _mfq = _mfq || [];
+        (function () {
+        var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
+        mf.src = "//cdn.mouseflow.com/projects/c0c4e166-5ab0-4dae-b8de-dbee8f7cd4de.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+      })();*/
+		if (typeof mouseflow == "undefined") 
+		{
+			var mouseflow = (function () {
+				function _null() { return null; }
+				return {
+					start: _null,
+					stop: _null,
+					newPageView: _null,
+					getSessionId: _null,
+					getPageViewId: _null,
+					tag: _null,
+					star: _null,
+					comment: _null,
+					annotate: _null,
+					debug: _null,
+		
+					baseUrl: null,
+					websiteId: null,
+					recordingRate: null,
+					version: null,
+					isRecording: false
+				};
+			})(window);
+		}
+    </script>
+ 
     </head>
     <body>
-        <div class="LChat"><div id="ciTMPJ"></div><div id="scTMPJ" style="display:inline"></div><div id="sdTMPJ" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/0yr1ss66dcdwe0fkprhrpj3cwa/safe-standard.js?ps_h=TMPJ&amp;ps_t=1580497096126&amp;online-image=http://www.123weddingcards.com/images/123WC-LC.gif&amp;offline-image=http://www.123weddingcards.com/images/123WC-LC-offline.gif"></script></div></div>
+        <div class="LChat"><div id="ciTMPJ"></div><div id="scTMPJ" style="display:inline"></div><div id="sdTMPJ" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/0yr1ss66dcdwe0fkprhrpj3cwa/safe-standard.js?ps_h=TMPJ&amp;ps_t=1580497098074&amp;online-image=http://www.123weddingcards.com/images/123WC-LC.gif&amp;offline-image=http://www.123weddingcards.com/images/123WC-LC-offline.gif"></script></div></div>
         <script type="text/javascript">var seTMPJ = document.createElement("script");
             seTMPJ.type = "text/javascript";
             var seTMPJs = (location.protocol.indexOf("https") == 0 ? "https" : "http") + "://image.providesupport.com/js/0yr1ss66dcdwe0fkprhrpj3cwa/safe-standard.js?ps_h=TMPJ&ps_t=" + new Date().getTime() + "&online-image=http://www.123weddingcards.com/images/123WC-LC.gif&offline-image=http://www.123weddingcards.com/images/123WC-LC-offline.gif";
@@ -178,20 +228,43 @@ function blinkOff()
 
                 <div class="SItems"><a href="http://www.123weddingcards.com/quick-list"><span class="SISpan" id="SISpanCount">0</span></a></div>
         <!--Header Starts-->
-         <div class="SampleTxt"><span class="dealTxt"><a href="http://www.123weddingcards.com/register">Register Now</a> | Use Coupon Code : WELCOME5</span></div>
+         <div id="divcouponcode" class="SampleTxt"><span class="dealTxt"><a href="http://www.123weddingcards.com/register">Register Now</a> | Use Coupon Code : WELCOME5</span></div>
 <!--<div class="SampleTxt"><img src="http://www.123weddingcards.com/images/DealGIF.gif" alt=""></div>-->
      <!--<div class="SampleTxt" id="blink">Sample at actual cost fully adjustable in bulk order</div>-->
-
      <div class="headOuter">
+ <div class="topmenu">
+ <ul>
+ <li><a href="http://www.123weddingcards.com/hindu-wedding-cards-invitations">Hindu Wedding Cards</a></li>
+ <li><a href="http://www.123weddingcards.com/designer-wedding-cards-invitations">Multi Faith Cards</a></li>
+ <li><a href="http://www.123weddingcards.com/scroll-wedding-cards-invitations">Scroll Invitations</a></li>
+ <li><a href="http://www.123weddingcards.com/muslim-wedding-cards-invitations">Islamic Wedding Invitations</a></li>
+ <li><a href="http://www.123weddingcards.com/sikh-wedding-cards-invitations">Sikh Wedding Cards</a></li> 
+ <li><a href="http://www.123weddingcards.com/christian-wedding-cards-invitations">Christian Invitations</a></li>
+ <li><a href="http://www.123weddingcards.com/gujarati-wedding-cards-invitations">Gujarati Kankotri</a></li>
+ <li><a href="http://www.123weddingcards.com/south-indian-wedding-cards">South Indian Cards</a></li>  
+ <li><a href="http://www.123weddingcards.com/single-sheet-cards">Personal Cards</a></li> 
+<!-- <li><a href="#">Cheap Wedding Cards</a></li>-->
+ </ul>
+ </div> 
             <div class="headWrap">
+           
                 <header>
-                    <div class="logoDiv"><a href="http://www.123weddingcards.com"><img src="http://www.123weddingcards.com/images/logo.png" alt=""></a></div>
+                    <div class="logoDiv" itemscope="" itemtype="http://schema.org/Organization">
+                        <a itemprop="url" href="http://www.123weddingcards.com">
+                            <img itemprop="logo" src="http://www.123weddingcards.com/images/logo.png" alt="123weddingcards">
+                        </a>
+                    </div>
+                    
+                    
                     <div class="topRDiv">
                         <div class="supportRegDiv">
                             <span class="regDiv">
                                                                     <a href="http://www.123weddingcards.com/login">Login</a>
                                     <a href="http://www.123weddingcards.com/register">Register</a>
-                                                            </span>
+									
+                                								<a href="http://www.123weddingcards.com/blog">Blog</a>
+                            </span>
+							
                             <span class="CSelction">
                                                                 <select name="currencyId" class="CurruncyS" id="currencyId">    
                                     <option selected="">Select your Currency</option>
@@ -217,7 +290,7 @@ function blinkOff()
                                     <span class="ProCount cartTotal">0</span>
                                 </div>
                             </a>
-                                                       
+                                                      
                             <div class="searchDiv">
                                 <input type="text" class="searchTxt" value="" placeholder="Search Card" name="searchableCardCode" id="searchableCardCode">
                                 <a id="goBtn" href="javascript:;" class="sBTN"><img id="seachcard_submit" src="http://www.123weddingcards.com/images/SearchBTN.png" alt=""></a>
@@ -238,31 +311,32 @@ function blinkOff()
                                 <li class="dropdown">
                                     <a href="javascript:;">Wedding Invitations<i class="icon-angle-down"></i></a>
                                     <ul class="dropdown-menu bold">
-                                        <li class="dropdown"><a href="javascript:;">Shop By Category<i class="icon-angle-right"></i></a>
-                                            <ul style="display: none;" class="dropdown-menu sub-menu-level1 bold">
+<!--                                        <li class="dropdown"><a href='javascript:;'>Shop By Category<i class="icon-angle-right"></i></a>
+                                            <ul style="display: none;"  class="dropdown-menu sub-menu-level1 bold">-->
                                                  
-                                                    <li><a href="http://www.123weddingcards.com/hindu-wedding-cards-invitations">Hindu Wedding Cards</a></li>
+                                                    <li class="dropdown"><a href="http://www.123weddingcards.com/hindu-wedding-cards-invitations">Hindu Wedding Cards</a></li>
                                                  
-                                                    <li><a href="http://www.123weddingcards.com/muslim-wedding-cards-invitations">Islamic Wedding Invitations</a></li>
+                                                    <li class="dropdown"><a href="http://www.123weddingcards.com/muslim-wedding-cards-invitations">Islamic Wedding Invitations</a></li>
                                                  
-                                                    <li><a href="http://www.123weddingcards.com/sikh-wedding-cards-invitations">Sikh Wedding Cards</a></li>
+                                                    <li class="dropdown"><a href="http://www.123weddingcards.com/sikh-wedding-cards-invitations">Sikh Wedding Cards</a></li>
                                                  
-                                                    <li><a href="http://www.123weddingcards.com/christian-wedding-cards-invitations">Christian Invitations</a></li>
+                                                    <li class="dropdown"><a href="http://www.123weddingcards.com/christian-wedding-cards-invitations">Christian Invitations</a></li>
                                                  
-                                                    <li><a href="http://www.123weddingcards.com/gujarati-wedding-cards-invitations">Gujarati Kankotri</a></li>
+                                                    <li class="dropdown"><a href="http://www.123weddingcards.com/gujarati-wedding-cards-invitations">Gujarati Kankotri</a></li>
                                                  
-                                                    <li><a href="http://www.123weddingcards.com/south-indian-wedding-cards">South Indian Cards</a></li>
+                                                    <li class="dropdown"><a href="http://www.123weddingcards.com/south-indian-wedding-cards">South Indian Cards</a></li>
                                                  
-                                                    <li><a href="http://www.123weddingcards.com/designer-wedding-cards-invitations">Designer Invitations</a></li>
+                                                    <li class="dropdown"><a href="http://www.123weddingcards.com/designer-wedding-cards-invitations">Designer Invitations</a></li>
                                                  
-                                                    <li><a href="http://www.123weddingcards.com/scroll-wedding-cards-invitations">Scroll Invitations</a></li>
+                                                    <li class="dropdown"><a href="http://www.123weddingcards.com/scroll-wedding-cards-invitations">Scroll Invitations</a></li>
                                                  
-                                                    <li><a href="http://www.123weddingcards.com/single-sheet-cards">Personal Cards</a></li>
-                                                     
-                                            </ul>
-                                        </li> 
-                                        <li class="dropdown"><a href="javascript:;">Shop By Color<i class="icon-angle-right"></i></a>
-                                            <ul style="display: none;" class="dropdown-menu sub-menu-level1 bold">
+                                                    <li class="dropdown"><a href="http://www.123weddingcards.com/single-sheet-cards">Personal Cards</a></li>
+                                                   
+                                                <li><a href="http://www.123weddingcards.com/cheap-wedding-invites-online">Cheap Wedding Cards</a></li>  
+<!--                                            </ul>
+                                        </li> -->
+<!--                                        <li class="dropdown"><a href='javascript:;'>Shop By Color<i class="icon-angle-right"></i></a>
+                                            <ul style="display: none;"  class="dropdown-menu sub-menu-level1 bold">
                                                  
                                                         <li><a href="http://www.123weddingcards.com/color/black-grey">Black/Grey</a></li>
                                                      
@@ -290,8 +364,8 @@ function blinkOff()
                                                          
                                             </ul>
                                         </li> 
-                                        <li class="dropdown"><a href="javascript:;">Shop By Process<i class="icon-angle-right"></i></a>
-                                            <ul style="display: none;" class="dropdown-menu sub-menu-level1 bold">
+                                        <li class="dropdown"><a href='javascript:;'>Shop By Process<i class="icon-angle-right"></i></a>
+                                            <ul style="display: none;"  class="dropdown-menu sub-menu-level1 bold">
                                                  
                                                         <li><a href="http://www.123weddingcards.com/process/embossing">Embossing</a></li>
                                                      
@@ -311,8 +385,8 @@ function blinkOff()
                                                          
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="javascript:;">Shop By Theme<i class="icon-angle-right"></i></a>
-                                            <ul style="display: none;" class="dropdown-menu sub-menu-level1 bold">
+                                        <li class="dropdown"><a href='javascript:;'>Shop By Theme<i class="icon-angle-right"></i></a>
+                                            <ul style="display: none;"  class="dropdown-menu sub-menu-level1 bold">
                                                  
                                                         <li><a href="http://www.123weddingcards.com/theme/box-card">Box Card</a></li>
                                                      
@@ -330,8 +404,8 @@ function blinkOff()
                                                          
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="javascript:;">Shop By Paper Type<i class="icon-angle-right"></i></a>
-                                            <ul style="display: none;" class="dropdown-menu sub-menu-level1 bold">
+                                        <li class="dropdown"><a href='javascript:;'>Shop By Paper Type<i class="icon-angle-right"></i></a>
+                                            <ul style="display: none;"  class="dropdown-menu sub-menu-level1 bold">
                                                  
                                                         <li><a href="http://www.123weddingcards.com/paper-type/designer-paper">Designer Paper</a></li>
                                                      
@@ -349,6 +423,8 @@ function blinkOff()
                                                      
                                                         <li><a href="http://www.123weddingcards.com/paper-type/matt-paper">Matt paper</a></li>
                                                      
+                                                        <li><a href="http://www.123weddingcards.com/paper-type/satin">Satin</a></li>
+                                                     
                                                         <li><a href="http://www.123weddingcards.com/paper-type/shimmer-paper">Shimmer Paper</a></li>
                                                      
                                                         <li><a href="http://www.123weddingcards.com/paper-type/shimmer-wooly">Shimmer Wooly</a></li>
@@ -360,17 +436,18 @@ function blinkOff()
                                                         <li><a href="http://www.123weddingcards.com/paper-type/wooly">Wooly</a></li>
                                                          
                                             </ul>
-                                        </li>
+                                        </li>-->
 
                                     </ul>
                                 </li>
+								<li class="mnu-new-arrival"><a href="http://www.123weddingcards.com/new-arrival">New Arrival</a></li>
                                 <li class="dropdown"><a href="javascript:;">Add – On Cards<i class="icon-angle-down"></i></a>
                                     <ul class="dropdown-menu bold">
                                                                                     <li><a href="http://www.123weddingcards.com/thank-you-invitations">Thank You Cards</a></li>
                                                                                     <li><a href="http://www.123weddingcards.com/place-cards">Place Cards</a></li>
-                                                                                    <li><a href="http://www.123weddingcards.com/program-booklet">program-booklet</a></li>
-                                                                                    <li><a href="http://www.123weddingcards.com/menu-cards">menu-cards</a></li>
-                                                                                    <li><a href="http://www.123weddingcards.com/rsvp-cards">rsvp-cards</a></li>
+                                                                                    <li><a href="http://www.123weddingcards.com/program-booklet">Program Booklet</a></li>
+                                                                                    <li><a href="http://www.123weddingcards.com/menu-cards">Menu Cards</a></li>
+                                                                                    <li><a href="http://www.123weddingcards.com/rsvp-cards">RSVP Cards</a></li>
                                                                             </ul>
                                 </li>
 
@@ -379,7 +456,7 @@ function blinkOff()
                                 <li class="dropdown"><a href="javascript:;">Wedding Accessories<i class="icon-angle-down"></i></a>
                                     <ul style="display: none;" class="dropdown-menu bold">
                                                                                  <li><a href="http://www.123weddingcards.com/money-envelopes">Money Envelopes</a></li>
-                                                                                         <li><a href="http://www.123weddingcards.com/cake-sweet-boxes">Cake and Sweet</a></li>
+                                                                                         <li><a href="http://www.123weddingcards.com/cake-sweet-boxes">Cake and Sweet Boxes</a></li>
                                                                                          <li><a href="http://www.123weddingcards.com/save-the-date-cards">Save The Date Cards</a></li>
                                                                                                                                     <li><a href="http://www.123weddingcards.com/wedding-guest-book">Wedding Guest Book</a></li>
                                                                                     <li><a href="http://www.123weddingcards.com/carry-bags">Carry Bags</a></li>
@@ -409,25 +486,27 @@ function blinkOff()
                                 <li><a href="http://www.123weddingcards.com/quick-list/compare">Compare Cards</a></li>
                             </ul>
                         </nav>
+                        <!--<script src="http://www.123weddingcards.com/scripts/nav/custom.js" type="text/javascript" ></script>-->
+                        <script src="http://www.123weddingcards.com/scripts/nav/custom.min.js" type="text/javascript"></script>
                         <!-- END Dark navigation bar -->
                     </div> 
                 </div>
             </div>
         </div>
-<div class="midOuter">
+<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#" style=""><span typeof="v:Breadcrumb"><a class="bread_active" rel="v:url" property="v:title" href="http://www.123weddingcards.com">Home</a></span> &gt;&gt; <span><a href="javascript:;">Privacy Policy</a></span></div><div class="midOuter">
     <div class="midWrapper">
-        <div class="sitepathDiv">
+<!--        <div class="sitepathDiv">
             <span class="sitePath">
                 <ul>
                     <li><a href="http://www.123weddingcards.com"><img src="http://www.123weddingcards.com/images/homeIcon.jpg" alt=""></a></li>
                     <li class="NBg">Privacy Policy</li>
                 </ul>
             </span>
-        </div>
+        </div>-->
         <div class="midContentDiv">
             <div class="restOptionDiv">
                 <div class="restoptionTitle">Privacy Policy of 123WeddingCards.com</div>
-                <p class="AboutPara"></p><p align="justify">123 Wedding Cards is determined to respect your privacy. Any or all information collected/ provided by you during the orders will be kept strictly confidential &amp; private and will not be sold/ reused/rented, loaned, or otherwise disclosed in ways that you have not consented to. A more elaborate explanation about how we safeguard your personal information is given below:</p>
+                <p class="AboutPara"></p><p align="justify">123WeddingCards is determined to respect your privacy. Any or all information collected/ provided by you during the orders will be kept strictly confidential &amp; private and will not be sold/ reused/rented, loaned, or otherwise disclosed in ways that you have not consented to. A more elaborate explanation about how we safeguard your personal information is given below:</p>
 
 <p align="justify">&nbsp;</p>
 
@@ -464,55 +543,140 @@ We might collect the email addresses as to make a comprehensive email lists to k
     </div>
 </div>
 <!-- ------------ End Here ----------------- -->
-<div class="footerOuter">
+﻿<div class="footerOuter">
     <div class="footerwrapper">
-        <div class="FTLinks">
+		
+		<div class="FSecRP">
+            <h3>Recent Post</h3>
             <ul>
+                        <li><a href="http://www.123weddingcards.com/blog/vows-that-wow-your-wedding/">Vows That Wow Your Wedding!!..<span>Read More</span></a></li>
+                        <li><a href="http://www.123weddingcards.com/blog/wedding-invitation-ideas-inspirations-2016/"> Wedding Invitation 2016: Inspirations &amp; Ideas..<span>Read More</span></a></li>
+                        <li><a href="http://www.123weddingcards.com/blog/15-things-make-wedding-unforgettable/">15 Things That Make Your Wedding Unforgettable..<span>Read More</span></a></li>
+                        <li><a href="http://www.123weddingcards.com/blog/top-5-color-theme-spring-wedding-2015/">Top 5 Spring Wedding Color Themes 2015..<span>Read More</span></a></li>
+                        </ul>
+        </div>	
+		
+        <!--<div class="FSec">
+            <h3>Other Links</h3>
+                <ul>
                 <li><a href="http://www.123weddingcards.com/become-a-dealer">Dealer Enquiry</a></li>
                 <li><a href="http://www.123weddingcards.com/printing-services">Printing Services</a></li>
                 <li><a href="http://www.123weddingcards.com/wedding-wordings/invitations-wordings">Wedding Invitation Wordings</a></li>
                 <li><a href="http://www.123weddingcards.com/recommend-to-friend">Recommend to a friend</a></li>
-                <li><a href="http://www.123weddingcards.com/faq">FAQ</a></li>
+                <li><a href="http://www.123weddingcards.com/faq">FAQs</a></li>
                 <li><a href="http://www.123weddingcards.com/testimonials">Testimonials</a></li>
-            </ul>
+                </ul>
         </div>
-        <div class="FBLinks">
-            <ul>
+                  
+        <div class="FSec">
+        <h3>Support Links</h3>
+                <ul>
+                <li><a href="http://www.123weddingcards.com/about-us">About Us</a></li>
+                <li><a href="http://www.123weddingcards.com/how-to-order-online">How to Order</a></li>
+                <li><a href="http://www.123weddingcards.com/24-live-support">24x7 Live Support</a></li>
+                <li><a href="http://www.123weddingcards.com/privacy-policy">Privacy Policy</a></li>
+                <li><a href="http://www.123weddingcards.com/sitemap">Site Map</a></li>
+                <li><a href="http://www.123weddingcards.com/terms-conditions">Terms & Conditions</a></li>
+                </ul>
+        </div>-->
+        
+        <div class="FSec">
+            <h3>Other Links</h3>
+                <ul>
+                <li><a href="http://www.123weddingcards.com/become-a-dealer">Dealer Enquiry</a></li>
+                <li><a href="http://www.123weddingcards.com/printing-services">Printing Services</a></li>
+                <li><a href="http://www.123weddingcards.com/recommend-to-friend">Recommend to a friend</a></li>
+                <li><a href="http://www.123weddingcards.com/faq">FAQs</a></li>
+                <li><a href="http://www.123weddingcards.com/testimonials">Testimonials</a></li>
+                </ul>
+        </div>
+                  
+        <div class="FSec">
+        <h3 class="ReviewUs">Review Us</h3>
+        
+                <script src="//www.weddingwire.com/assets/vendor/widgets/ww-rated-2013.js" type="application/javascript"></script><div id="ww-widget-wwrated-2013"><a rel="nofollow" class="ww-top" href="http://www.weddingwire.com" target="_blank" title="Weddings, Wedding, Wedding Venues"></a><a rel="nofollow" class="ww-bottom" href="http://www.weddingwire.com/reviews/123weddingcards-burbank/89023c39367120b3.html" target="_blank" title="123WeddingCards Reviews, Dallas, Ft. Worth, Wichita Falls Invitations"></a></div>
+				<script> 				
+				document.onreadystatechange=fnStartInit;
+				function fnStartInit()
+				{
+				   if (document.readyState=="complete")
+				   {
+					   
+						WeddingWire.ensureInit(function() {WeddingWire.createWWRated2013({"vendorId":"89023c39367120b3" }); });
+					}
+				}
+        		</script>
+                
+           
+                
+        </div>
+        
+        <div class="FSec">
+            <h3>Quick Contact</h3>
+            
+            <div class="QCNo">
+            <i><img src="http://www.123weddingcards.com/images/QC_mob.png" alt=""></i><p>+91-98291 27575<br>
+            <span>(24*7 Support)</span></p>
+            </div>
+            
+            <div class="QCMail" onclick="window.location = 'mailto:info@123weddingcards.com';" ;="">
+            <i><img src="http://www.123weddingcards.com/images/QC_mail.png" alt=""></i><a href="javascript:void(0);"><p>info@123weddingcards.com</p></a>
+            </div>
+    
+            <!--<div class="QCChat" onclick="psTMPJow(); return false;">
+            <i><img src="http://www.123weddingcards.com/images/QC_chat.png" alt=""></i><a href="javascript:void(0);" ><p>Live Chat Support</p></a>
+            </div>-->
+                
+        </div>        
+       
+       <div class="footerbottomlink">
+           <ul>
                 <li><a href="http://www.123weddingcards.com/about-us">About Us</a></li>
                 <li><a href="http://www.123weddingcards.com/how-to-order-online">How to Order</a></li>
                 <li><a href="http://www.123weddingcards.com/24-live-support">24x7 Live Support</a></li>
                 <li><a href="http://www.123weddingcards.com/privacy-policy">Privacy Policy</a></li>
                 <li><a href="http://www.123weddingcards.com/sitemap">Site Map</a></li>
                 <li><a href="http://www.123weddingcards.com/terms-conditions">Terms &amp; Conditions</a></li>
-            </ul>
+           </ul>
         </div>
-        <div class="socialDiv">
+       
+        <div itemscope="" itemtype="http://schema.org/Organization" class="socialDiv">
             <ul>
+                <link itemprop="url" href="http://www.123weddingcards.com">
                 <li>Follow Us</li>
-                <li><a href="http://www.facebook.com/123WeddingCards"><img src="http://www.123weddingcards.com/images/FBIcon.png" alt=""></a></li>
-                <li><a href="http://twitter.com/123WeddingCards"><img src="http://www.123weddingcards.com/images/TWIcon.png" alt=""></a></li>
-                <li><a href="http://www.pinterest.com/123weddingcard"><img src="http://www.123weddingcards.com/images/PIcon.png" alt=""></a></li>
-                <li><a href="http://www.123WeddingCards.com/blog"><img src="http://www.123weddingcards.com/images/BIcon.png" alt=""></a></li>
-                <li><a href="https://plus.google.com/+123weddingcardspage"><img src="http://www.123weddingcards.com/images/GIcon.png" alt=""></a></li>
+                <li><a itemprop="sameAs" href="http://www.facebook.com/123WeddingCards" target="_blank"><img src="http://www.123weddingcards.com/images/FBIcon.png" alt="FB Icon"></a></li>
+                <li><a itemprop="sameAs" href="http://twitter.com/123WeddingCards" target="_blank"><img src="http://www.123weddingcards.com/images/TWIcon.png" alt="Twitter Icon"></a></li>
+                <li><a itemprop="sameAs" href="http://www.pinterest.com/123weddingcard" target="_blank"><img src="http://www.123weddingcards.com/images/PIcon.png" alt="Pintrest Icon"></a></li>
+                <li><a href="http://www.123WeddingCards.com/blog" target="_blank"><img src="http://www.123weddingcards.com/images/BIcon.png" alt="Blog Icon"></a></li>
+                <li><a itemprop="sameAs" href="https://plus.google.com/+123weddingcardspage" target="_blank"><img src="http://www.123weddingcards.com/images/GIcon.png" alt="G+ Icon"></a></li>
+		<li><a itemprop="sameAs" href="https://www.linkedin.com/company/123weddingcards" target="_blank"><img src="http://www.123weddingcards.com/images/LIIcon.png" alt="Linkedin Icon"></a></li>
+		<li><a itemprop="sameAs" href="https://instagram.com/123weddingcards" target="_blank"><img src="http://www.123weddingcards.com/images/instgram.png" alt="Instagram Icon"></a></li>
             </ul>
         </div>
-        <span class="copyDiv">© 2001-2014 Charu Overseas an ISO 9001 certified company. All rights reserved</span>
+        <span class="copyDiv">© 2001-2015 Charu Overseas an ISO 9001 certified company. All rights reserved</span>
     </div>
 </div>
 
 
+<!--<script type="text/javascript" src="http://www.123weddingcards.com/js/jquery-ui.js"></script>
+<script type="text/javascript" src="http://www.123weddingcards.com/js/confirmon/jquery.easy-confirm-dialog.js"></script>-->
 <script type="text/javascript" src="http://www.123weddingcards.com/js/jquery-ui.js"></script>
 <script type="text/javascript" src="http://www.123weddingcards.com/js/confirmon/jquery.easy-confirm-dialog.js"></script>
 <script type="text/javascript">
      $('body').delegate('#goBtn', 'click', function() {
-        var cardCode = $('#searchableCardCode').val();
+        var cardCode = $.trim($('#searchableCardCode').val());
+		cardCode = cardCode.replace(/[^a-zA-Z0-9\- ]/g, "");
+		$('#searchableCardCode').val(cardCode);	
         if (cardCode != '')
-            location.href = "http://www.123weddingcards.com/card-detail/" + $.trim(cardCode);
+            location.href = "http://www.123weddingcards.com/search?q=" + (cardCode);
     });
     $('body').delegate('#searchableCardCode', 'keyup', function(e) {
-        if ($(this).val() != '')
+		var cardCode = $.trim($(this).val());
+		cardCode = cardCode.replace(/[^a-zA-Z0-9\- ]/g, "");
+		$(this).val(cardCode);
+        if (cardCode != '')
             if (e.keyCode == 13)
-                location.href = "http://www.123weddingcards.com/card-detail/" + ($(this).val());
+                location.href = "http://www.123weddingcards.com/search?q=" + (cardCode);
     });
     $('body').delegate('.formErrorContent', 'click', function() {
         $(this).parent().remove();
@@ -651,12 +815,40 @@ $('body').delegate('.ST_delete', 'click', function() {
         //$(this).removeClass('WishDivSaved').addClass('WishDiv');
         $('#countSave').html(parseInt($('#countSave').html()) - 1);
     }); */
-    
+
+//nsk on 25 dec 2014
+/*$(function(){
+var words = [
+    	'<a href="http://www.123weddingcards.com/register">Register Now</a> | Use Coupon Code : WELCOME5',
+        '<a href="javascript:void(0);">Holiday Sale</a> | Use Coupon Code : HOLIDAYSALE10'
+        ], i = 0; // i for counting
+
+    setInterval(function(){
+        $('#divcouponcode>span').fadeOut(function(){ //fadeout text
+            $(this).html(words[i=(i+1)%words.length]).fadeIn(); //update, count and fadeIn
+        });
+    }, 2000 ); //2s
+});*/
 </script>  
+<!--<a id="newyear_link" href="images/123WC2015.jpg" style="display:none;"><img src="images/123WC2015.jpg" /></a>-->
 
 
 
-
+<!--
+<script type="text/javascript" src="images/jquery.fancybox-1.3.4.js"></script>
+<link href="images/jquery.fancybox-1.3.4.css" type="text/css" rel="stylesheet">
+<script>
+$(document).ready(function() {
+	$("#newyear_link").fancybox({
+		'onComplete': function(){
+			setTimeout( function() {$.fancybox.close(); },5000); // 5000 = 5 secs
+		  }
+		}).trigger('click');
+	$("#fancybox-close").css('right','-36px');
+	//$(".Navi").find("ul").attr('style','z-index:999 !important;');
+});
+</script>
+-->
 
 
 </body></html>
