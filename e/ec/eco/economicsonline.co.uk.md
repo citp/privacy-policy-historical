@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the economicsonline.co.uk privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116074711id_/http%3A//www.economicsonline.co.uk/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economicsonline.co.uk privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525201644id_/http%3A//economicsonline.co.uk/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-* * *
+#### Privacy policy
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. **** A short explanation is contained in our [terms of use](https://web.archive.org/web/20141116074711id_/http%3A//www.economicsonline.co.uk/Terms_of_use.html) statement
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. **** A short explanation is contained in our [terms of use](https://web.archive.org/web/20150525201644id_/http%3A//economicsonline.co.uk/Terms_of_use.html) statement
 
 **  (1)           What information do we collect?**
 
@@ -130,8 +130,8 @@ If you have any questions about this privacy policy or our treatment of your per
 
 The data controller responsible for our website is _Richard Howarth_. 
 
-This [privacy policy](http://www.website-law.co.uk/privacypolicy.html) is based on a precedent available at 
+This [privacy policy](http://www.website-law.co.uk/privacypolicy.html) is based on a precedent available at:
 
-[Employment Law Contracts](http://www.employmentlawcontracts.co.uk/) and [Website Law](http://www.website-law.co.uk/)
+######  [Employment Law Contracts](http://www.employmentlawcontracts.co.uk/) and [Website Law](http://www.website-law.co.uk/)
 
-[ http://www.website-law.co.uk/ourdocumentlicence.html](http://www.website-law.co.uk/ourdocumentlicence.html) 
+######  [ http://www.website-law.co.uk/ourdocumentlicence.html](http://www.website-law.co.uk/ourdocumentlicence.html) 
