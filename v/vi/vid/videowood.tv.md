@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videowood.tv privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219234325id_/http%3A//videowood.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videowood.tv privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526000355id_/http%3A//videowood.tv/privacy-policy) for the most accurate reproduction.*
 
 # VideoWood.tv - Host and Watch Videos Online
 
