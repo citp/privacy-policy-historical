@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219145137id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525025740id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Medallia
 
@@ -84,7 +84,7 @@ Medallia takes strict physical, technical and procedural measures to keep inform
 
 ### Enforcement
 
-Medallia has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.  The TRUSTe program covers only information that is collected through this Web site, http://www.medallia.com and does not cover information that may be collected through our mobile application.
+Medallia has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.  The TRUSTe program covers only information that is collected through this Web site, //www.medallia.com and does not cover information that may be collected through our mobile application.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
