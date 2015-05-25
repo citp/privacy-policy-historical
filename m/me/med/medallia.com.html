@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the medallia.com privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219145137id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medallia.com privacy policy that was archived on 2015-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150525025740id_/https%3A//www.medallia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js no-ie" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
+  
+  <meta name="viewport" content="user-scalable = yes">
+
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="p:domain_verify" content="b6c2648401559ac3f5a1350e17d49c6d">
 
@@ -10,11 +13,41 @@
 
   <link rel="shortcut icon" href="http://www.medallia.com/wp-content/themes/medallia/images/med_favicon.png">
 
-  <link rel="stylesheet" type="text/css" href="http://www.medallia.com/wp-content/themes/medallia/style.css">
+  <link rel="stylesheet" type="text/css" href="http://www.medallia.com/wp-content/themes/medallia/style.css?v=1">
 
   <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0023/7096.js?439006" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.medallia.com/wp-content/themes/medallia/lib/modernizr.js"></script>
   <script type="text/javascript" src="//use.typekit.net/bui3cqd.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <style>
+    /* Lets Talk Styles */
+    .extra-nav{margin-right:103px;}
+    .extra-nav li{float:left;padding-top:5px;}
+    li#menu-item-19988{white-space: nowrap;background-color:#fff;border:2px solid #ccc;border-radius: 8px;position:absolute;z-index:101;margin-top:3px;padding:0;}
+    li#menu-item-19988 a{padding:5px 15px;}
+
+    li#menu-item-19988 .sub-menu{background-color:#fff;position:relative;padding-left:0;display:none;border-radius:8px;margin-top:0;z-index:100;width:104px;padding-bottom:10px;-webkit-border-bottom-right-radius:8px;-webkit-border-bottom-left-radius:8px;-moz-border-radius-bottomright:8px;-moz-border-radius-bottomleft:8px;border-bottom-right-radius:8px;border-bottom-left-radius:8px;}
+
+    .nav-container li#menu-item-19988 ul.sub-menu li{float:none;display:block;margin-left:0;}
+    .nav-container li#menu-item-19988 ul.sub-menu li a{padding:0 20px;}
+    .nav-container li#menu-item-19988 ul.sub-menu li a:hover{color:#1e8ece!important;}
+    li#menu-item-19988 .fa{margin-right:5px;}
+    .home .nav-container{z-index:100;}
+    .home li#menu-item-19988{background-color:transparent!important;z-index:102;border-color:#FFF;}
+    .home li#menu-item-19988 .sub-menu {border-radius: 0px;}
+    .home li#menu-item-19988 .sub-menu a{color:#666;}
+    .home li#menu-item-19988 .sub-menu a:hover{color:#1E8ECE;}
+    .home .extra-nav li a:hover, .home .extra-nav li#menu-item-19988 a:hover, .home a.header-job-link:hover, .home .main-nav li a:hover {color:#ddd!important;}
+    .letsTalkModal {border-radius: 8px;border: 0px !important;background-color:#F9FAFA;}
+    .letsTalkModal strong{font-size:2em;padding: 40px 40px 20px;display: block;color: #36383c}
+    .letsTalkModal em{font-style: normal; padding: 0 40px 40px;display: block;}
+    .letsTalkModal #fancybox-frame {margin-top:-20px;}
+    
+    .ie8 .home .main .container {max-width:auto !important}
+  </style>    
+
 
   <!--[if (gte IE 6)&(lte IE 8)]>
     <script type="text/javascript" src="javascripts/libs/selectivizr-min.js"></script>
@@ -37,6 +70,7 @@
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.medallia.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.medallia.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 3.6.1">
+<link rel="stylesheet" href="http://www.medallia.com/dev7-custom-css.css?ver=1430244786" type="text/css" media="screen">
 
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -46,10 +80,13 @@
     ga('create', 'UA-42073457-1', 'medallia.com');
     ga('send', 'pageview');
   </script>
+
   <script src="http://www.medallia.com/wp-content/themes/medallia/analytics_helpers.js"></script>
   <script src="//munchkin.marketo.net/munchkin.js"></script>
+
 </head>
 <body class="page page-id-263 page-template page-template-page-legal-php">
+
 
   
   <div class="container">
@@ -86,8 +123,8 @@
 
               var featured = jobs[item].metadata[0].value;
 
-              if(featured == true) {
-                  $('.header-job-links').append('<a class="header-job-link" target="_blank" href="/opportunity?opp='+ oppID +'">'+ title +'</a>');
+              if(featured === true) {
+                  $('.header-job-links').append('<a class="header-job-link" target="_blank" href="/opportunity?gh_jid='+ oppID +'">'+ title +'</a>');
               };
 
             });
@@ -114,7 +151,15 @@
       <li id="menu-item-10026"><a href="http://blog.medallia.com">Blog</a></li>
 <li id="menu-item-2761"><a href="http://www.medallia.com/resources/">Resources</a></li>
 <li id="menu-item-6421"><a href="http://www.medallia.com/careers/">Careers</a></li>
-<li id="menu-item-155"><a href="http://www.medallia.com/contact-us/">Contact</a></li>
+<li id="menu-item-19988"><a href="#">Let’s Talk</a>
+<ul class="sub-menu">
+	<li id="menu-item-19990"><a title="Medallia Sales Team (844) 238-3767" href="http://go.medallia.com/Contact-Us-Form_Lets-Talk---Sales.html"><i class="fa fa-comment"></i> Sales</a></li>
+	<li id="menu-item-19991"><a title="Medallia Support Team" href="http://go.medallia.com/Contact-Us-Form_Lets-Talk---Support.html"><i class="fa fa-life-ring"></i> Support</a></li>
+	<li id="menu-item-19992"><a title="Medallia Partner Team" href="http://go.medallia.com/Contact-Us-Form_Lets-Talk---Partner.html"><i class="fa fa-user"></i> Partner</a></li>
+	<li id="menu-item-19993"><a title="Medallia PR Team" href="http://go.medallia.com/Contact-Us-Form_Lets-Talk---Press.html"><i class="fa fa-newspaper-o"></i> Press</a></li>
+	<li id="menu-item-20025"><a href="http://go.medallia.com/Contact-Us-Form_Lets-Talk---Other.html"><i class="fa fa-question"></i> Other</a></li>
+</ul>
+</li>
     </ul>
   </nav>
 </div>
@@ -122,23 +167,30 @@
 <nav class="main-nav">
       <div itemscope="" itemtype="http://schema.org/Organization">
       <a itemprop="url" href="http://www.medallia.com/" id="logo"><h1>Medallia</h1>
-      <img itemprop="logo" src="http://www.medallia.com/wp-content/uploads/2013/07/medallia-logo-2013.png" width="154" height="35" alt="Medallia Logo"></a>
-    </div>
+              <img itemprop="logo" src="http://www.medallia.com/wp-content/uploads/2013/07/medallia-logo-2013.png" width="154" height="35" alt="Medallia Logo"></a>
+          </div>
     <ul>
     <li id="menu-item-19453"><a href="http://www.medallia.com/software/">Product</a>
 <ul class="sub-menu">
 	<li id="menu-item-19454"><a href="http://www.medallia.com/software/">Software</a></li>
 	<li id="menu-item-10951"><a href="http://www.medallia.com/takes-whole-team-improve-customers-experience/">Tailored Roles</a></li>
-	<li id="menu-item-135"><a href="http://www.medallia.com/industries/">Industries</a></li>
 	<li id="menu-item-479"><a href="http://www.medallia.com/program-types/">Programs</a></li>
 	<li id="menu-item-111"><a href="http://www.medallia.com/use-cases/">Use Cases</a></li>
 	<li id="menu-item-110"><a href="http://www.medallia.com/technology/">Technology</a></li>
-	<li id="menu-item-106"><a href="http://www.medallia.com/feature-index/">Feature Index</a></li>
 </ul>
 </li>
 <li id="menu-item-109"><a href="http://www.medallia.com/services/">Services</a></li>
+<li id="menu-item-20279"><a href="http://www.medallia.com/industries/">Industries</a>
+<ul class="sub-menu">
+	<li id="menu-item-20282"><a href="http://www.medallia.com/industries/retail/">Retail</a></li>
+	<li id="menu-item-20285"><a href="http://www.medallia.com/industries/banks-insurance-brokers/">Financial Services</a></li>
+	<li id="menu-item-20281"><a href="http://www.medallia.com/industries/teleco/">Telecom</a></li>
+	<li id="menu-item-20280"><a href="http://www.medallia.com/industries/automotive-dealers/">Automotive</a></li>
+	<li id="menu-item-20283"><a href="http://www.medallia.com/industries/hospitality/">Hospitality</a></li>
+	<li id="menu-item-20284"><a href="http://www.medallia.com/industries/business-business-b2b/">B2B</a></li>
+</ul>
+</li>
 <li id="menu-item-104"><a href="http://www.medallia.com/customers/">Customers</a></li>
-<li id="menu-item-141"><a href="http://www.medallia.com/why-medallia/">Why Medallia?</a></li>
 <li id="menu-item-142"><a href="http://www.medallia.com/about/">Company</a>
 <ul class="sub-menu">
 	<li id="menu-item-143"><a href="http://www.medallia.com/about/">About Medallia</a></li>
@@ -157,6 +209,41 @@
     <div class="main">
 
   
+<script>
+  jQuery(function() {
+      var $ = jQuery.noConflict();
+      $('#menu-item-19988').hover(function() {
+          $(this).children('ul').fadeIn();
+      }, function() {
+          $(this).children('ul').fadeOut();
+      });
+
+      var addMyClass = function(){
+          $('#fancybox-content').addClass('letsTalkModal');
+      };
+
+      var initModal = function(){
+          addMyClass();
+      };
+
+      $('#menu-item-19988 .sub-menu a').addClass('iframe').each(function(){
+          $(this).fancybox({
+            'onStart': initModal,
+            'transitionIn': 'fade',
+            'width': 700,
+            'height': 600,
+            'titleShow': false,
+            'autoScale': false,
+            'centerOnScroll': false,
+            'onComplete': function() {
+              $('.letsTalkModal').prepend('<strong>Contact Us</strong><em>' + $(this).attr('title') + '</em>');
+            }
+          });
+      });
+
+
+  });
+</script>
 
 <div class="intro">
     <div class="content">
@@ -210,7 +297,7 @@
 <li>Using incident detection, response and escalation procedures</li>
 </ul>
 <h3>Enforcement</h3>
-<p>Medallia has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.&nbsp; The TRUSTe program covers only information that is collected through this Web site, http://www.medallia.com and does not cover information that may be collected through our mobile application.</p>
+<p>Medallia has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.&nbsp; The TRUSTe program covers only information that is collected through this Web site, //www.medallia.com and does not cover information that may be collected through our mobile application.</p>
 <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at&nbsp;<a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.</p>
 <h3>Legal Disclaimer</h3>
 <p>When requested by legal authorities to disclose personally identifiable information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. However, Medallia may be required by law to disclose personally identifiable information where judicial or other governmental subpoenas, warrants, or orders are properly issued. Individuals’ unsubscribe option in no way limits Medallia’s use, disclosure or distribution of personally-identifiable information to the extent such use, disclosure or distribution is required by law, court order or other valid legal process. &nbsp;Medallia will communicate with the affected client as soon as possible, unless prohibited by law or court order.</p>
@@ -241,11 +328,12 @@
 
   <footer class="site-footer footer">
     <div class="container">
-      <div id="nav_menu-2" class="widget widget_nav_menu"><h3>Find out more….</h3><div class="menu-footer-main-container"><ul id="menu-footer-main" class="menu"><li id="menu-item-7461"><a href="/net-promoter-score">Net Promoter Score</a></li>
+      <div id="nav_menu-2" class="widget widget_nav_menu"><h3>Find out more….</h3><div class="menu-footer-main-container"><ul id="menu-footer-main" class="menu"><li id="menu-item-20064"><a href="http://www.medallia.com/contact-us/"><span style="color:#ffffff; "><strong>Contact Us</strong></span></a></li>
+<li id="menu-item-7461"><a href="/net-promoter-score">Net Promoter Score</a></li>
 <li id="menu-item-7471"><a href="/customer-retention/">Customer Retention</a></li>
 <li id="menu-item-7481"><a href="/industries/#hospitality">Guest Satisfaction</a></li>
 <li id="menu-item-7491"><a href="/customer-satisfaction-surveys/">Customer Satisfaction Surveys</a></li>
-<li id="menu-item-7501"><a href="/use-cases/#web-experience">Customer Engagement</a></li>
+<li id="menu-item-7501"><a href="/customer-engagement/">Customer Engagement</a></li>
 <li id="menu-item-7511"><a href="/use-cases/#contact-center">Call Center Metrics</a></li>
 <li id="menu-item-7521"><a href="/text-analytics/">Text Analytics</a></li>
 <li id="menu-item-7541"><a href="/voice-of-the-customer/">Voice of the Customer</a></li>
@@ -253,13 +341,13 @@
 <li id="menu-item-10152"><a href="/enterprise-feedback-management/">Enterprise Feedback Management</a></li>
 <li id="menu-item-10155"><a href="/customer-experience-management/">Customer Experience Management</a></li>
 <li id="menu-item-10156"><a href="/cem-software/">CEM Software</a></li>
-</ul></div></div><div id="text-3" class="widget widget_text"><h3>Copyright © 2014. Medallia Inc. All rights reserved.</h3>			<div class="textwidget"><nav class="social-links">
+</ul></div></div><div id="text-3" class="widget widget_text"><h3>Copyright © 2015. Medallia Inc. All rights reserved.</h3>			<div class="textwidget"><nav class="social-links">
 <a href="http://www.linkedin.com/company/49697?trk=tyah&amp;trkInfo=tas%3Amedallia"><i class="icon-linkedin-sign"></i></a>
 <a href="https://www.facebook.com/MedalliaInc"><i class="icon-facebook-sign"></i></a>
 <a href="https://twitter.com/medallia"><i class="icon-twitter"></i></a>
 </nav>
 
-<a href="http://www.medallia.com/mystery-shopper-scam/"><h3>Alert: Medallia Mystery Shopper Scam</h3></a>
+<a href="//www.medallia.com/mystery-shopper-scam/"><h3>Alert: Medallia Mystery Shopper Scam</h3></a>
 
 <p>
 Medallia is a registered trademark of Medallia, Inc. Net Promoter, Net
@@ -269,7 +357,7 @@ trademarks of their respective owners.
 </p>
 
 <p>
-Use of this Website assumes acceptance of our <strong> <a href="http://www.medallia.com/terms-of-use/">Terms of Use</a> </strong> and <strong> <a href="http://www.medallia.com/privacy//">Privacy Policy</a></strong>. View our <strong> <a href="http://www.medallia.com/medallia-environmental-policy/">Environmental Policy</a></strong>. 
+Use of this Website assumes acceptance of our <strong> <a href="//www.medallia.com/terms-of-use/">Terms of Use</a> </strong> and <strong> <a href="//www.medallia.com/privacy//">Privacy Policy</a></strong>. View our <strong> <a href="//www.medallia.com/medallia-environmental-policy/">Environmental Policy</a></strong>. 
 </p>
 
 
