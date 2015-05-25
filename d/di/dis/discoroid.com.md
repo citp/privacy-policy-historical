@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoroid.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220234319id_/http%3A//en.discoroid.com/android/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoroid.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525131144id_/http%3A//en.discoroid.com/android/Privacy-Policy) for the most accurate reproduction.*
 
 # Download apps for Android, games for Android: Discoroid, Android Review
 
