@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspsnippets.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120105136id_/http%3A//aspsnippets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspsnippets.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526003833id_/http%3A//aspsnippets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ASP Snippets | ASP.Net, C#.Net, VB.Net, AJAX,JQuery, JavaScript, GridView,SQL Server, RDLC, SSRS, Crystal Reports, XML, JSON, FaceBook, Twitter, Google Maps, example, sample
 
