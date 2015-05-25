@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720004641id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525070010id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kuoni Travel
 
@@ -41,8 +41,6 @@ We may also use your IP (Internet Protocol) address to diagnose problems with ou
 We need your credit card details so that we can collect payment for your booking.
 
 Information you supply to us will be passed to our suppliers (such as airlines, hotels, transport companies) and agents only where necessary for the purposes of booking your holiday. This may include the transfer of information outside the EEA (European Economic Area).
-
-Read More
 
 ### Will Kuoni Travel disclose any of this personal information to third parties?
 
@@ -95,8 +93,6 @@ Kuoni has good relationships with a small number of carefully selected suppliers
 
 Cookies cannot harm your computer and Kuoni will not use cookies to collect personally identifiable information about you.
 
-Read More
-
 ### How to modify your browser settings to decline cookies
 
 ### Will Kuoni Travel use the information I give for direct mailings?
@@ -128,6 +124,10 @@ If you have any questions relating to our privacy policy, or, if at any time you
 
 
 
+Tag name
+
+| 
+
 Provider
 
 | 
@@ -142,7 +142,7 @@ Cookie
 
 Privacy URL  
   
----|---|---|---  
+---|---|---|---|---  
   
 E-Digital
 
@@ -172,7 +172,7 @@ ictf_in72 ictf_master ictf_il72
 
 <http://www.infinity-tracking.com/privacy-policy>  
   
-Google Analytics
+Google
 
 | 
 
@@ -182,7 +182,9 @@ Google Analytics evaluates your activity on our website and tracks information, 
 
 _utmz _utmc _utmb _utma
 
-|   
+| 
+
+[http://www.google.co.uk/intl/en/policies/privacy](http://www.google.co.uk/intl/en/policies/privacy/)  
   
 Tealeaf
 
@@ -198,8 +200,6 @@ TLTSID TLTUID
 
 <http://www.tealeaf.com/company/privacy-policy.php>  
   
-Show Cookies
-
 ### Functionality
 
 'Functionality' cookies are used to help you use the Kuoni website, provide services and remember settings to improve your visit.
@@ -278,8 +278,6 @@ MyPage'   mykuoni-remembered
 
 n/a  
   
-Show Cookies
-
 ### Targeting
 
 'Targeting' cookies are linked to services provided by third parties, such as 'Like' buttons and 'Share' buttons. The third party provides these services in return for recognising that you have visited our website.
@@ -318,31 +316,49 @@ Used by our affiliate partners to track referrals and sales related to these tar
 _aw_m_3353 affiliate
 
 |   
-Doubleclick | 
-
-Doubleclick 'Spotlight Tags' are used to measure the effectiveness of online marketing campaigns, so we can bring our customers the most relevant offers possible and limit the number of times a given ad is shown to you
-
-| 
-
-mec
+  
+Doubleclick (Google)
 
 | 
 
-[www.google.com/doubleclick](http://www.google.com/doubleclick)  
+Floodlight Tags are used to measure the effectiveness of online marketing campaigns,provide a mechanism to serve partner tags, and allow ads to be served with more relevant messaging based on pages you visit on this site
+
+| 
+
+Channel ID, id
+
+| 
+
+[www.google.co.uk/intl/en/policies/privacy/](http://www.google.co.uk/intl/en/policies/privacy/)  
   
 Google
 
 | 
 
-Retargeting Tags are used to measure the effectiveness of online marketing campaigns so we can provide relevant and tailored offers to our customers based on their previous search history.
+DNS Tags are used to measure the effectiveness of online marketing campaigns through the identification of organic search click visitors
 
 | 
 
-id
+Channel ID, NID, PREF
 
 | 
 
-<http://www.google.co.uk/intl/en/policies/privacy/>  
+[www.google.co.uk/intl/en/policies/privacy/](http://www.google.co.uk/intl/en/policies/privacy/)  
+  
+Mojn
+
+| 
+
+Mojn "tags" visitors to its partners' websites with browser cookies. Users tagged by Mojn are given a technical identifier. At no point does Mojn collect identifying personal data such as your name or address.  
+The browser cookies track the products viewed by the visitor and pages visited of the partner for whom Mojn is delivering ads. Pixel tags are used by Mojn to transfer browsing data from visitors of our partner's websites to Mojn's servers. 
+
+| 
+
+idt rtt rtttmp
+
+| 
+
+[www.mojn.com/privacy](http://www.mojn.com/privacy)  
   
 Quantcast
 
@@ -352,14 +368,54 @@ Retargeting Tags are used to measure the effectiveness of online marketing campa
 
 | 
 
-dmc
+d, mc
 
 | 
 
-<http://www.quantcast.com/privacy>  
+[www.quantcast.com/privacy](http://www.quantcast.com/privacy)  
   
-Show Cookies
+RadiumOne
 
+| 
+
+Retargeting Tags are used to measure the effectiveness of online marketing campaigns so we can provide relevant and tailored offers to our customers based on their previous search history.
+
+| 
+
+RA1balancer, ra1_sgm, ra1_sid, ra1_uid
+
+| 
+
+[radiumone.com/opt/](http://radiumone.com/opt/)  
+  
+GroupM
+
+| 
+
+Retargeting Tags are used to measure the effectiveness of online marketing campaigns so we can provide relevant and tailored offers to our customers based on their previous search history.
+
+| 
+
+OAX, id, mdata
+
+| 
+
+[www.groupm.com/privacy-policy](http://www.groupm.com/privacy-policy)  
+  
+Facebook
+
+| 
+
+Retargeting Tags are used to measure the effectiveness of online marketing campaigns so we can provide relevant and tailored offers to our customers based on their previous search history.
+
+| 
+
+datr, lu, fr
+
+| 
+
+[www.facebook.com/full_data_use_policy](https://www.facebook.com/full_data_use_policy)  
+  
 ### Social media
 
 We offer a share page widget on all of our web pages for Facebook, Twitter and Google+. This allows you to easily share holidays or travel related information that you are interested in with your friends, family and social networks.
