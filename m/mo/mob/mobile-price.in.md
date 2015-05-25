@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile-price.in privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106102231id_/http%3A//www.mobile-price.in/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-price.in privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526001557id_/http%3A//www.mobile-price.in/disclaimer-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy
 
