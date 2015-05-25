@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtranslator.net privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219183006id_/http%3A//imtranslator.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtranslator.net privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526005046id_/http%3A//www.imtranslator.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy of Smart Link Corporation.
 
@@ -12,7 +12,7 @@ Questions regarding our privacy policy should be directed to:
 **Smart Link Corporation  
 Phone: (949) 552 1599   
 Fax: (949) 552 1699   
-[Contact form](https://web.archive.org/web/20141219183006id_/http%3A//imtranslator.net/contacts.asp) **
+[Contact form](https://web.archive.org/web/20150526005046id_/http%3A//www.imtranslator.net/contacts.asp) **
 
 **Collected Information**  
 Whenever you visit our online services, Smart Link Corporation's web servers automatically collect and aggregate information from your web browser including your IP address, browser type, operating system, pages you access, date and time of your visit, Smart Link web sites cookie information and time spent on each web page. 
