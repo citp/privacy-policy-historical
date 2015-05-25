@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121155409id_/http%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525022309id_/http%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy to PoemofQuotes.com
 
