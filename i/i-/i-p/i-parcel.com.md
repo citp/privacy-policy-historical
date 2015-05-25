@@ -1,43 +1,40 @@
-> *The following text is extracted and transformed from the i-parcel.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208022301id_/http%3A//www.i-parcel.com/safeharbor.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-parcel.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525021851id_/https%3A//www.i-parcel.com/en/company-privacy-policy) for the most accurate reproduction.*
 
-# i-parcel Safe Harbor Privacy Statement
+# UPS i-parcel Privacy Policy | i-parcel
 
-## LOGISTICS AND CROSS BORDER ISSUES ARE VITAL COMPONENTS OF INTERNATIONAL REVENUES FOR ONLINE AND CATALOG MERCHANTS.
+**Privacy Policy**
 
-[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
-[](http://www.export.gov/safeharbor)
+**Last updated: 2-5-2015**
 
-### Effective 3-22-2013
+**Our Commitment To Privacy**
 
-This Statement describes how i-parcel, LLC and its clients collects, uses, and discloses certain personally identifiable information that it receives in the United States from the European Union ("EU Personal Data"). i-parcel complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. i-parcel has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view i-parcel’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-### Categories of Individual Data Subjects
+**The Information We Collect:**
 
-In general, i-parcel may obtain EU Personal Data in the United States about several different types of Individuals, including direct customers and customers of i-parcel’s ecommerce merchant customers. I-parcel’s practices with respect to each of these types of individual data subjects are described below.
+This notice applies to all information collected or submitted on the [i-parcel.com](https://www.i-parcel.com/) website and e-mail services. On some pages, you can make requests for information and register to receive materials. The types of personal information collected at these pages are:  
+Name  
+Address  
+Email address  
+Phone number  
+Credit/Debit Card Information  
+(etc.)
 
-### DIRECT CUSTOMERS
+**The Way We Use Information:**
 
-i-parcel generally collects, uses, and discloses information about direct customers located in the EU or Switzerland in accordance with the Website Privacy Policy at [www.i-parcel.com/privacy.aspx](http://www.i-parcel.com/privacy.aspx). If you become a direct customer we will collect your name, company name, shipping address, phone number and email address. We use this information to contact you about the services in which you have expressed interest, provide you with your login details, allow you to create invoices and shipments for your clients, to send you service related emails, and to allow you to track your packages until such time as they are delivered to you. You have the ability to upload shipment files to make it easier for you to create your shipments. These are stored on our site for your own personal use. They must remain on our site in order for us to satisfy record keeping requirements of U.S. Transportation Security Administration, Office of Foreign Assets Control and other American and foreign regulatory and compliance organizations.
+We use the information you provide about yourself when placing an order only to complete that transaction.  We do not share this information with outside parties except to the extent necessary to complete that transaction.
 
-### CUSTOMERS OF I-PARCEL’S ECOMMERCE MERCHANT CUSTOMERS
+We use the information you provide when placing a transaction only to ship the product and to confirm delivery.  We do not share this information with outside parties except to the extent necessary to complete that transaction.
 
-i-parcel may obtain various types of EU Personal Data about our clients. Such data may include their names, company names, shipping addresses, phone numbers, email addresses and complete descriptions of the goods ordered from i-parcel’s clients. i-parcel may use these types of EU Personal Data for business purposes, including to deliver or provide products or services; to establish or maintain client and business relationships; to provide access to Internet-based and e-commerce activities; to perform accounting functions, to satisfy exporting, importing and other legal requirements of American and foreign regulatory and compliance obligations; and to conduct other activities as necessary or appropriate in connection with the servicing and development of the business relationship. Employees and agents of our clients, business partners, and suppliers may contact us if any of their EU Personal Data changes, or if they would like to access and correct EU Personal Data that we maintain about them. However, clients should contact the original ecommerce merchant where i-parcel’s transaction originated to access and correct their own data. In any event, such persons can also contact us by sending an email to [privacy@i-parcel.com](mailto:privacy@i-parcel.com), or by using the information at the end of this privacy statement. Also, to the extent that any of these individuals receive marketing communications from XYZ, and wish to unsubscribe or otherwise stop receiving such communications, they can contact us at [privacy@i-parcel.com](mailto:privacy@i-parcel.com). 
+We use return email addresses to answer the email we receive or to send necessary correspondence to complete your transaction. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-If you wish to track your shipment we will ask for the tracking number and your email address if you wished to be notified about your tracking information.
+You can register with our website if you would like to receive updates on our  services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
 
-We obtain information about end users of our clients who we have placed on a Prohibited Parties List. This list has company names and addresses of end users whom we will not deliver to. This information is used for no other purposes.
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-### Clients
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-i-parcel provides a wide variety of services and solutions to our business clients ("Clients") that facilitate services including air carriage, customs clearance and delivery for individuals ("Data Subjects"). In some instances, i-parcel may obtain access to EU Personal Data about such Data Subjects in the course of providing the services and solutions. In other specific instances, i-parcel may also obtain access to data about our Clients' end users in the course of providing support services to the Clients ("End Users"). Such data may include names, addresses, phone numbers, email addresses, full description of products being transported, and other information, depending on the particular Client and application at issue.
-
-Wherever we obtain access to EU Personal Data about Data Subjects or End Users, we are acting as a mere data processor on behalf of our Clients, and we therefore conduct such activities strictly in accordance with their instructions and pursuant to our contractual arrangements with them. If you are an End User with an existing relationship with one of our Clients, you should refer to the Client's website to understand the privacy practices that apply to EU Personal Data that we may maintain about you. Moreover, if you would like to access and review your EU Personal Data, you should contact our Client with any such requests. We will cooperate as appropriate with requests from our Clients to assist with such responses.
-
-### Other Necessary Disclosures
-
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. i-parcel may disclose EU Personal Data to business partners and subcontractors as necessary in connection with the performance of requested customs clearance or delivery partners, or as otherwise appropriate in connection with a legitimate business need. i-parcel may also disclose EU Personal Data as necessary in connection with the sale or transfer of all or part of the business. In these situations, i-parcel will require the recipient of the data to protect the data in accordance with the relevant principles in the Safe Harbor, or otherwise take steps to ensure that the EU Personal Data is appropriately protected. i-parcel may also disclose EU Personal Data where required or permitted by law, or where i-parcel believes that such disclosures are appropriate in connection with a law enforcement request.
-
-### Cookies
+**Cookies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
@@ -47,37 +44,45 @@ We set a persistent cookie to store your passwords, so you don’t have to enter
 
 The use of cookies by our tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company use session ID cookies to make it easier for you to navigate our site and to track traffic statistics on our behalf.
 
-### Accessing Your Personally Identifiable Information
+**Accessing Your Personally Identifiable Information**
 
 If your personal identifiable information changes, or if you no longer desire our service, you may correct, update, or delete inaccuracies by emailing us at [privacy@i-parcel.com](mailto:privacy@i-parcel.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
-### Data Retention
+**Data Retention**
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [privacy@i-parcel.com](mailto:privacy@i-parcel.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Data Security and Integrity
-
-i-parcel has global hosting centers that store and process EU Personal Data in Burlington, Massachusetts and York, Pennsylvania, USA. i-parcel takes reasonable precautions to protect EU Personal Data in these centers from loss, misuse and unauthorized access, disclosure, alteration, and destruction. i-Parcel also makes reasonable efforts to keep EU Personal Data reliable for its intended use accurate, current, and complete.
-
-We follow generally accepted industry standards to protect the personal identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can email us at [privacy@i-parcel.com](mailto:privacy@i-parcel.com)
-
-### Links to 3rd Party Sties
-
-Our site includes links to other Web sites whose privacy practices may differ from those of i-parcel. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
-
-### Social Media Widgets
+**Social Media Widgets**
 
 Our Web site includes Social Media Features, such as the Facebook button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-### Changes in this Privacy Statement
+**Participation in Safe Harbor**
+
+If you are resident in the European Economic Area (“EEA”) or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of your personal information to countries outside of the EEA or Switzerland (as applicable).  i-parcel is certified under the U.S.-EU/Swiss Safe Harbor privacy framework regarding the collection, storage, use, transfer and other processing of personal information transferred from the EEA or Switzerland to the U.S.  Click [here](https://www.i-parcel.com/en/safe-harbor/ "Safe Harbor") to view our Safe Harbor Privacy Statement.
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+**Our Commitment To Children’s Privacy:**
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+**How You Can Access Or Correct Your Information**
+
+You can access all your personally identifiable information that we collect online and maintain by the provided online tools to do so. We use this procedure to better safeguard your information.
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+**Changes in this Privacy Statement**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our Home page prior to the change becoming effective.
 
-### Questions
+**Questions**
 
 If you have any questions about this safe Harbor Privacy Statement, or if you would like to request access to EU Personal Data that we may maintain about you, please contact us as follows:
 
@@ -87,4 +92,4 @@ i-parcel, LLC
 Burlington, MA. 01803  
 i-parcel, i-parcel, LLC
 
-i-parcel, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at i-parcel LLC, 25 Corporate Drive, Burlington, MA, 01801, USA. If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about-TRUSTe/contact-us).
+i-parcel, LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at i-parcel LLC, 25 Corporate Drive, Burlington, MA, 01801, USA. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe's Feedback and Resolution System").
