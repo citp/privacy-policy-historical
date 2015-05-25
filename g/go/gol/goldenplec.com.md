@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goldenplec.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129172940id_/http%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenplec.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525162048id_/https%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy
 
-Your privacy is critically important to us. At [GoldenPlec](http://www.goldenplec.com/) we have a few fundamental principles:
+Your privacy is critically important to us. At [GoldenPlec](https://www.goldenplec.com/) we have a few fundamental principles:
 
   * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
@@ -15,7 +15,7 @@ Your privacy is critically important to us. At [GoldenPlec](http://www.goldenple
 
 If you have questions about deleting or correcting your personal data please contact our [Administrator](mailto:admin@goldenplec.com).
 
-It is [GoldenPlec](http://www.goldenplec.com/)’s policy to respect your privacy regarding any information we may collect while operating our websites.
+It is [GoldenPlec](https://www.goldenplec.com/)’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
