@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221131157id_/http%3A//www.123weddingcards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123weddingcards.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525182059id_/http%3A//www.123weddingcards.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | 123 wedding cards
+# Privacy policy | 123WeddingCards
 
 Privacy Policy of 123WeddingCards.com
 
-123 Wedding Cards is determined to respect your privacy. Any or all information collected/ provided by you during the orders will be kept strictly confidential & private and will not be sold/ reused/rented, loaned, or otherwise disclosed in ways that you have not consented to. A more elaborate explanation about how we safeguard your personal information is given below:
+123WeddingCards is determined to respect your privacy. Any or all information collected/ provided by you during the orders will be kept strictly confidential & private and will not be sold/ reused/rented, loaned, or otherwise disclosed in ways that you have not consented to. A more elaborate explanation about how we safeguard your personal information is given below:
 
 **Resale or disclosure of information to third parties:**
 
