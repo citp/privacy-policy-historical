@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnaindia.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214100102id_/http%3A//apnaindia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnaindia.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525144306id_/http%3A//www.apnaindia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ApnaIndia.com,Classifieds|India Yellow pages|Jobs|Videos|News|Cricket|Movie Updates
 
