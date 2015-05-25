@@ -1,25 +1,20 @@
-> *The following text is extracted and transformed from the thenetfool.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207144634id_/http%3A//www.fool.com/help/index.htm%3Fdisplay%3Dnewuser03) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenetfool.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525084931id_/http%3A//www.fool.com/help/index.htm%3Fdisplay%3Dnewuser03) for the most accurate reproduction.*
 
 # Privacy Statement
 
 The Motley Fool, LLC ("The Motley Fool" or "we" or "us") is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy practices and explains what we do with the personal information that we collect from you on [www.fool.com](http://www.fool.com/). Please read the following to understand our practices regarding personal information and how they affect you as you use our features and services. This statement discloses our current privacy practices; if we make material changes to these practices, we will announce them and notify you via email.
 
-The Motley Fool has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website [www.fool.com](http://www.fool.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-
-If you have questions, concerns or complaints regarding our privacy statement or practices, please contact us at [PrivacyPenelope@Fool.com](mailto:PrivacyPenelope@fool.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
 This Privacy Statement answers the following questions:
 
   * What information does The Motley Fool gather about you?
   * How does The Motley Fool use your personal information?
-  * How do we use "IP addresses" and "cookies"?
   * Will The Motley Fool disclose any of your personal information?
   * What kind of security measures do we take to protect your information from accidental loss or disclosure?
   * Will The Motley Fool use your information for direct mailings?
   * How can you deactivate your account or correct or revise information that we have about you?
   * How do we respect children's privacy?
-  * Does The Motley Fool participate in the Safe Harbor program?
   * What else should you know about your privacy?
+  * Does the Motley Fool participate in the Safe Harbor program?
   * How will you know whether The Motley Fool's privacy policy has changed?
 
 
@@ -57,6 +52,16 @@ Our Web beacons do not collect personally identifiable information.  You can di
 
 Advertising networks that serve ads on our site may also use single-pixel GIFs in their advertisements. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a Web beacon.
 
+We have engaged third-party companies to process information about our users on our behalf, to help us improve our sites and find new members. These companies will combine our anonymized data about how you visit our websites with information that they have collected from outside our sites and provide it to us (and only us) so that we can optimize your experience on fool.com across devices and based on your interests. We will not provide the third-party service providers with your name, address, email address, or telephone number.
+
+If you would like more information about the information we are receiving and your choices with respect to that data, please:
+
+  1. visit the [DAA opt-out program](http://www.aboutads.info/choices/) the [Evidon opt-out program](http://choices.ghosteryenterprise.com/global-opt-out.html) to learn how to opt out of having your information collected in browsers for ad serving purposes;
+  2. download the Evidon Ad Control application, available for iOS and Android, to learn how to opt out of having your information collected in mobile apps; and
+  3. visit the [Network Advertising Initiative’s opt out page](http://www.networkadvertising.org/choices/).
+
+
+
 ### How Does The Motley Fool Use Your Personal Information?
 
 The Motley Fool collects personal information to provide you, the user, with the best and most personalized experience possible, and to provide our advertisers with an efficient way to reach the right audience. In short, by knowing a little about you, The Motley Fool can deliver more relevant content and advertisements to you.
@@ -64,41 +69,6 @@ The Motley Fool collects personal information to provide you, the user, with the
 We conduct research on our users' demographics, interests, and behavior based upon the information you provide us when you register or participate in contests or other promotions on our site, or based upon information we receive from other sources. This research is usually compiled and analyzed on an aggregated basis, but may also be combined with personal information to help us improve your experience. We may also notify you of products, services, or areas of our site that we think may interest you based on the information we've received. If you would prefer us not to contact you for these purposes, simply go to our [opt-out page](https://www.fool.com/Account/FreeMailSubscribe.aspx) and let us know.
 
 Sometimes we ask for personal information when providing special features and services. You do not have to give us that information, but without it, you may not be able to take advantage of those products or services. For example, you will be unable to track your personal stock portfolio on our site unless you input the stocks you own, and you may not be able to gain access to certain areas of our site unless you register and/or subscribe.
-
-### How Do We Use "IP Addresses" and "Cookies"?
-
-#### IP Addresses
-
-Your Web browser or email application automatically provides your Internet Protocol address ("IP address") to other computers with which you communicate over the Internet, so that they know where to send you information.
-
-We receive an IP address each time you view one of our Web pages, because the browser automatically reports it to us. We also may store the IP address when you register with The Motley Fool, post a message, or buy something from us.
-
-We may use IP addresses for various purposes, including:
-
-  * Diagnosing service or technology problems.
-  * Assessing and maintaining system security.
-  * Displaying the most appropriate advertising or content.
-  * Studying how people use our site and how we can improve it.
-  * Reporting to advertisers about aggregate, but not individual, information derived from IP addresses.
-
-
-
-#### Cookies
-
-Cookies are used on our sites in the following ways:
-
-  * We use cookies to access your stored account information automatically when you log on to our site, in order to deliver a better and more personalized service.
-  * We use cookies to estimate our audience size and usage patterns. The unique cookie that is given to each browser accessing The Motley Fool is then used to determine usage patterns and help us target content and ads based upon user interests.
-  * We use cookies to allow you to access your account information automatically, as well as make changes to your personal information.
-  * Our search engines may use cookies to expedite your search for content or products.
-  * In the course of serving advertisements to this site, our Web advertising partners, who include DoubleClick, AOL, and Advertising.com, may place or recognize a unique cookie on your browser. For more on how to opt-out of these cookies, please see [below](http://www.fool.com/help/index.htm?display=newuser03).
-  * Some of our advertisers use third-party networks to serve their advertisements on our sites and in our HTML-formatted newsletters. Often, these third-party advertising companies use cookies, Web beacons, and similar technologies to measure advertisement effectiveness. We do not control, nor do we have access to, their cookies or the information they obtain. Use of their tracking technology is subject to their own privacy policies. If you would like more information about the privacy policies of third-party advertising networks, including information on how to opt out of their tracking methods, check out <http://www.networkadvertising.org/optout_nonppii.asp>.
-
-
-
-Most browsers are set up to accept cookies, but you can configure yours to refuse cookies or notify you when you've received one. Browsers differ, so check your "Help" menu to learn how to change your cookie preferences. If you reject cookies on our sites, though, you will not be able to access all areas of them or use many of their features, including our discussion boards and portfolio tracker. When you accept our cookies, we cannot use them to find out who you really are, unless you tell us. And even then, they won't tell us what you are thinking, your ATM PIN, or to whom you are writing love letters.
-
-For more information about cookies, read the unofficial Cookie FAQ from [CookieCentral.com](http://www.cookiecentral.com/).
 
 ### Will The Motley Fool Disclose Any of Your Personal Information?
 
@@ -129,7 +99,7 @@ The Motley Fool is committed to protecting your personal information. We store i
 
 Personalized areas of our sites, such as My Fool, are password-protected. Only you have access to these password-protected areas. Do not share your passwords with anyone. The Motley Fool will never ask you for your password in an unsolicited phone call or email. If you are using a computer to which others have access, such as one in a computer lab, Internet cafe, or public library, always remember to log out and close your browser window when leaving our site.
 
-#### Data Retention
+### Data Retention
 
 Upon your request, we will remove your personal information from the website but we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our Fool Rules and take other actions otherwise permitted by law.
 
@@ -159,7 +129,7 @@ Our sites are not directed at children under the age of 13. We operate our sites
 
 ### Does The Motley Fool Participate in the Safe Harbor Program?
 
-The Motley Fool complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Motley Fool has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
+The Motley Fool complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Motley Fool has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
 
 ### What Else Should You Know About Your Privacy?
 
@@ -167,7 +137,7 @@ When you post information on discussion boards, in chat rooms, and in such featu
 
 Also please be aware that when you post messages on our discussion boards, people can respond to your posts through our "Reply to Author" email function. Of course, they still will not know your email address (unless you send email to them).
 
-This Privacy Statement applies to the operations of our U.S. sites. Data handling practices and rules may differ from country to country. Each Motley Fool entity (e.g., Fool.co.uk) may have different policies, which will apply to (and be stated on) its site.
+This Privacy Statement applies to the operations of The Motley Fool, LLC, which serves users in the United States of America, and by using the sites and providing us with personal data you are consenting to our processing data in the United States and under its laws. Data handling practices and rules may differ from country to country. Each Motley Fool entity (e.g., The Motley Fool Limited, which operates fool.co.uk in the United Kingdom) may have different policies, which will apply to (and be stated on) its sites.
 
 While we do our best to protect your personal information, The Motley Fool cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. What does all of this mean? Just as in the investing world, you must protect yourself. You are responsible for maintaining the secrecy of any password and/or account information. Please be careful and responsible whenever you are online, especially when using a computer that other people can use also.
 
@@ -177,10 +147,8 @@ Many of our advertisers or partners, such as brokerages, merchants, or data prov
 
 We may change this Privacy Statement at any time, but we will give notice of any material change (or any notices that we are required to give you) on our websites and/or in email messages prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy.
 
-Last Updated: October 24th, 2013  
+Last Updated: December 1st, 2014  
 Mailing address:  
 The Motley Fool  
 2000 Duke Street, Fourth Floor  
 Alexandria, VA 22314
-
-[](https://privacy.truste.com/privacy-seal/The-Motley-Fool,-LLC/validation?rid=4077755d-422d-4257-8a65-95b95326a1cf "TRUSTe European Safe Harbor certification")
