@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspeedboost.com privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108064057id_/http%3A//www.pcspeedboost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspeedboost.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525030238id_/http%3A//www.pcspeedboost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PC SpeedBoost — Clean Up Your PC
 
