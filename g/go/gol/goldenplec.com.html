@@ -1,70 +1,89 @@
-<!--The following is the downloaded HTML source of the goldenplec.com privacy policy that was archived on 2014-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141129172940id_/http%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldenplec.com privacy policy that was archived on 2015-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150525162048id_/https%3A//www.goldenplec.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4OUFZWGwcGV1lVAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+<!DOCTYPE html><html lang="en"><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/easy-social-share-buttons/assets/js/easy-social-share-buttons.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4OUFZWGwcGV1lVAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <meta charset="utf-8">
 <title>Privacy Policy</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <!--[if lt IE 9]>
-    	<script src='http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/js/respond.js'></script>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-<link rel="stylesheet" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/style.css">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-144.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-114.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-72.png">
-<link rel="apple-touch-icon-precomposed" href="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-57.png">
-<link rel="shortcut icon" href="http://www.goldenplec.com/favicon.ico">
+	  <script src='GoldenPlec/js/respond.js'></script>
+	  <!-- <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script> -->
+<!--[endif]-s--->
+<link rel="stylesheet" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/themes/goldenplecCorrect2/style.css">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-72.png">
+<link rel="apple-touch-icon-precomposed" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/themes/goldenplecCorrect2/img/icons/apple-touch-icon-57.png">
+<link rel="shortcut icon" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/favicon.ico">
+<script type="text/javascript">
+		  var templateUrl = 'https://www.goldenplec.com';
+	  </script>
  
-<link rel="canonical" href="http://www.goldenplec.com/privacy-policy/">
+<meta name="news_keywords" content="music, entertainment, news">
+<link rel="original-source" href="https://www.goldenplec.com/privacy-policy/">
+<meta name="description" content="Privacy&nbsp;Policy Your privacy is critically important to us. At GoldenPlec we have a few fundamental principles: We don’t ask you for personal information un">
+<link rel="canonical" href="https://www.goldenplec.com/privacy-policy/">
 <link rel="publisher" href="https://plus.google.com/b/112071514760753086020/112071514760753086020/posts">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="Privacy&nbsp;Policy Your privacy is critically important to us. At GoldenPlec we have a few fundamental principles: We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.) We don’t share your personal information with anyone …">
-<meta property="og:url" content="http://www.goldenplec.com/privacy-policy/">
+<meta property="og:description" content="Privacy&nbsp;Policy Your privacy is critically important to us. At GoldenPlec we have a few fundamental principles: We don’t ask you for personal information un">
+<meta property="og:url" content="https://www.goldenplec.com/privacy-policy/">
 <meta property="og:site_name" content="GoldenPlec">
 <meta property="article:publisher" content="http://www.facebook.com/goldenplec">
 <meta property="article:author" content="http://www.facebook.com/dionsis">
 <meta property="fb:admins" content="1183923284">
 <meta property="og:image" content="https://si0.twimg.com/profile_images/2453854008/2whznz7bz5g9xb7229jr.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Privacy&nbsp;Policy Your privacy is critically important to us. At GoldenPlec we have a few fundamental principles: We don’t ask you for personal information un">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:site" content="@goldenplec">
+<meta name="twitter:domain" content="GoldenPlec">
+<meta name="twitter:image:src" content="https://si0.twimg.com/profile_images/2453854008/2whznz7bz5g9xb7229jr.png">
+<meta name="twitter:creator" content="@dionsis">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.goldenplec.com\/","name":"GoldenPlec"}</script>
  
-<link rel="stylesheet" id="formidable-css" href="http://www.goldenplec.com/wp-content/uploads/formidable/css/formidablepro.css?ver=1.07.11" type="text/css" media="all">
-<link rel="stylesheet" id="wpt-twitter-feed-css" href="http://www.goldenplec.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="us-plugin-styles-css" href="http://www.goldenplec.com/wp-content/plugins/ultimate-social-deux/public/assets/css/style.css?ver=3.1.5" type="text/css" media="all">
-<style type="text/css">.us_floating .us_wrapper .us_button{width:45px;-webkit-transition:width 100ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 100ms ease-in-out,background-color 400ms ease-out;-o-transition:width 100ms ease-in-out,background-color 400ms ease-out;transition:width 100ms ease-in-out,background-color 400ms ease-out;}.us_floating .us_wrapper .us_button:hover{width:90px;-webkit-transition:width 100ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 100ms ease-in-out,background-color 400ms ease-out;-o-transition:width 100ms ease-in-out,background-color 400ms ease-out;transition:width 100ms ease-in-out,background-color 400ms ease-out;}.us_button:hover,.us_fan_count_button:hover{background-color:#008000;}.us_button{-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;-moz-border-radius-bottomright:0px;-moz-border-radius-bottomleft:0px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-webkit-border-bottom-right-radius:0px;-webkit-border-bottom-left-radius:0px;}.us_fan_count_button{-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;-moz-border-radius-bottomright:0px;-moz-border-radius-bottomleft:0px;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-webkit-border-bottom-right-radius:0px;-webkit-border-bottom-left-radius:0px;}div[class*='us_facebook']{background-color:#3b5998;}div[class*='us_twitter']{background-color:#00ABF0;}div[class*='us_google']{background-color:#D95232;}div[class*='us_delicious']{background-color:#66B2FD;}div[class*='us_stumble']{background-color:#E94B24;}div[class*='us_linkedin']{background-color:#1C86BC;}div[class*='us_pinterest']{background-color:#dd3333;}div[class*='us_buffer']{background-color:#000000;}div[class*='us_reddit']{background-color:#CEE3F8;}div[class*='us_vkontakte']{background-color:#537599;}.us_mail{background-color:#666666;}div[class*='us_love']{background-color:#FF0000;}div[class*='us_pocket']{background-color:#ee4056;}div[class*='us_tumblr']{background-color:#529ecc;}div[class*='us_print']{background-color:#60d0d4;}div[class*='us_flipboard']{background-color:#c10000;}div[class*='us_comments']{background-color:#b69823;}div[class*='us_feedly']{background-color:#414141;}div[class*='us_youtube']{background-color:#cc181e;}div[class*='us_vimeo']{background-color:#1bb6ec;}div[class*='us_dribbble']{background-color:#f72b7f;}div[class*='us_envato']{background-color:#82b540;}div[class*='us_github']{background-color:#201e1f;}div[class*='us_soundcloud']{background-color:#ff6f00;}div[class*='us_instagram']{background-color:#48769c;}div[class*='us_feedpress']{background-color:#ffafaf;}div[class*='us_mailchimp']{background-color:#6dc5dc;}div[class*='us_flickr']{background-color:#0062dd;}div[class*='us_members']{background-color:#0ab071;}.us_posts_fan_count{background-color:#924e2a;}</style>
-<link rel="stylesheet" id="suppamenu_style-css" href="http://www.goldenplec.com/wp-content/plugins/suppamenu/standard/css/suppa_frontend_style.css?ver=1.8.9" type="text/css" media="screen">
-<link rel="stylesheet" id="suppamenu_custom_style-css" href="http://www.goldenplec.com/wp-content/uploads/suppamenu/suppa_custom_style.css?ver=1.8.9" type="text/css" media="screen">
-<link rel="stylesheet" id="suppa_frontend_fontAwesome-css" href="http://www.goldenplec.com/wp-content/plugins/suppamenu/standard/css/fontAwesome/style-min.css?ver=1.8.9" type="text/css" media="screen">
-<link rel="stylesheet" id="suppa_frontend_hoverCSS-css" href="http://www.goldenplec.com/wp-content/plugins/suppamenu/standard/css/hover-master/hover-min.css?ver=1.8.9" type="text/css" media="screen">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=1.11.1"></script>
-<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/jquery/jquery.color.min.js?ver=2.1.1"></script>
 <script type="text/javascript">
-/* <![CDATA[ */
-var us_script = {"ajaxurl":"http:\/\/www.goldenplec.com\/wp-admin\/admin-ajax.php","tweet_via":"goldenplec","sharrre_url":"http:\/\/www.goldenplec.com\/wp-admin\/admin-ajax.php","success":"Great work! Your message was sent.","trying":"Trying to send email...","total_shares_text":"Total Shares","facebook_height":"500","facebook_width":"900","twitter_height":"250","twitter_width":"650","googleplus_height":"500","googleplus_width":"500","delicious_height":"550","delicious_width":"550","stumble_height":"550","stumble_width":"550","linkedin_height":"550","linkedin_width":"550","pinterest_height":"320","pinterest_width":"720","buffer_height":"500","buffer_width":"900","reddit_height":"500","reddit_width":"900","vkontakte_height":"500","vkontakte_width":"900","printfriendly_height":"500","printfriendly_width":"1045","pocket_height":"500","pocket_width":"900","tumblr_height":"500","tumblr_width":"900","flipboard_height":"500","flipboard_width":"900","vkontakte_appid":"","facebook_appid":"","home_url":"http:\/\/www.goldenplec.com","enabletracking":"","nonce":"c8c507d880","already_loved_message":"You have already loved this item.","error_message":"Sorry, there was a problem processing your request.","logged_in":"false","bitly":"false"};
-/* ]]> */
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.goldenplec.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.goldenplec.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel="stylesheet" id="formidable-css" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/formidable/css/formidablepro.css?ver=2.0.07" type="text/css" media="all">
+<link rel="stylesheet" id="wpt-twitter-feed-css" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="suppamenu_style-css" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/suppamenu/standard/css/suppa_frontend_style.css?ver=1.8.9" type="text/css" media="screen">
+<link rel="stylesheet" id="suppamenu_custom_style-css" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/suppamenu/suppa_custom_style.css?ver=1.8.9" type="text/css" media="screen">
+<link rel="stylesheet" id="suppa_frontend_fontAwesome-css" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/suppamenu/standard/css/fontAwesome/style-min.css?ver=1.8.9" type="text/css" media="screen">
+<link rel="stylesheet" id="suppa_frontend_hoverCSS-css" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/suppamenu/standard/css/hover-master/hover-min.css?ver=1.8.9" type="text/css" media="screen">
+<link rel="stylesheet" id="essb_cache_static-5b864affe52a91d408dc2d31a1719f54-css" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/essb_cache_static/5b864affe52a91d408dc2d31a1719f54.css" type="text/css" media="all">
+ 
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-142364-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('set', 'dimension1', 'page');
+	__gaTracker('set', 'dimension2', 'Aidan Cuffe');
+	__gaTracker('send','pageview');
+
 </script>
-<script type="text/javascript" src="http://www.goldenplec.com/wp-content/plugins/ultimate-social-deux/public/assets/js/script-ck.js?ver=3.1.5"></script>
-<meta name="twitter:card" content="summary">
+ 
+<link rel="stylesheet" id="essb-cache-css" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/essb_cache/c34af4c54fa42e959ff7050b383c1433.css" type="text/css" media="all"><meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@GoldenPlec">
-<meta name="twitter:url" content="http://www.goldenplec.com/privacy-policy/">
+<meta name="twitter:url" content="https://www.goldenplec.com/privacy-policy/">
 <meta name="twitter:title" content="Privacy Policy">
 <meta name="twitter:description" content="Privacy&nbsp;Policy Your privacy is critically important to us. At GoldenPlec we have a few …">
-<script>
-				var _gaq = _gaq || [];
-				_gaq.push(['_setAccount', 'UA-142364-1']);
-				_gaq.push(['_trackPageview']);
-
-				(function() {
-					var ga   = document.createElement('script');
-					ga.type  = 'text/javascript';
-					ga.async = true;
-					ga.src   = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-					var s    = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				}
-				)();
-			</script>
-<script data-cfasync="false" type="text/javascript">
+<script type="text/javascript">
+    window.google_analytics_uacct = "UA-142364-1";
+</script> <meta property="article:published_time" content="2013-06-28T13:48:34+00:00">
+<meta property="article:modified_time" content="2014-11-10T22:33:00+00:00">
+<meta name="dc.date.issued" content="2013-06-28T13:48:34+00:00">
+<meta name="dc.date.created content=" 2013-06-28t13:48:34+00:00"="">
+      <meta name="dc.date.modified content=" 2014-11-10t22:33:00+00:00"="">
+      <script data-cfasync="false" type="text/javascript">
 (function() {
 var useSSL = 'https:' == document.location.protocol;
 var src = (useSSL ? 'https:' : 'http:') +
@@ -72,6 +91,7 @@ var src = (useSSL ? 'https:' : 'http:') +
 document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 })();
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
 <script data-cfasync="false" type="text/javascript">
 googletag.defineSlot('/179733492/Goldenplec_Home_BottomMPU', [[300, 250], [300, 600]], 'div-gpt-ad-1415719336457-0').addService(googletag.pubads());
 googletag.defineSlot('/179733492/Goldenplec_Home_Leader', [[320, 50], [728, 90]], 'div-gpt-ad-1415719336457-1').addService(googletag.pubads());
@@ -81,96 +101,117 @@ googletag.pubads().enableSyncRendering();
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 </script>
-</head>
-<body class="page page-id-76562 page-template-default page-privacy-policy page-parent-privacy-policy"><script type="text/javascript">
-//<![CDATA[
-try{(function(a){var b="http://",c="www.goldenplec.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
-//]]>
-</script>
- 
+  <script async="" type="text/javascript" src="//goldenplec.disqus.com/count.js"></script></head>
+
+  <body class="page page-id-76562 page-template-default page-privacy-policy page-parent-privacy-policy"> 
+  <!-- Goldenplec_Home_Skin -->
 <div id="div-gpt-ad-1415719336457-3" style="width:1px; height:1px;">
 <script data-cfasync="false" type="text/javascript">
 googletag.display('div-gpt-ad-1415719336457-3');
 </script>
 </div>
-<header class="hd_header" role="banner">
-<div class="suppaMenu_wrap"><div id="menu-new-gp-desktop" class="suppaMenu"><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_1"><a href="http://www.goldenplec.com" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Home</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_2"><a href="http://www.goldenplec.com/news/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">News</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_3"><a href="http://www.goldenplec.com/events/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Events</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_4"><a href="http://www.goldenplec.com/music-reviews/" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">Reviews</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/album-categories/irish/?post_type=album-reviews"><span class="suppa_item_title">Irish Albums</span><span class="suppa_ar_arrow_right_1_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/album-categories/international/?post_type=album-reviews"><span class="suppa_item_title">International Albums</span><span class="suppa_ar_arrow_right_2_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/live-reviews/"><span class="suppa_item_title">Live Reviews</span><span class="suppa_ar_arrow_right_3_1"></span></a> </div></div></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_5"><a href="http://www.goldenplec.com/galleries/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Galleries</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_6"><a href="http://www.goldenplec.com/featured/" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">Features</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/featured/"><span class="suppa_item_title">Features</span><span class="suppa_ar_arrow_right_4_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/videos/"><span class="suppa_item_title">Videos</span><span class="suppa_ar_arrow_right_5_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/bands/"><span class="suppa_item_title">Bands</span><span class="suppa_ar_arrow_right_6_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/venues/"><span class="suppa_item_title">Venues</span><span class="suppa_ar_arrow_right_7_1"></span></a> </div></div></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_7"><a href="http://www.goldenplec.com/competitions/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Competitions</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_8"><a href="http://www.goldenplec.com/classical/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Classical</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_9"><a href="#" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">About GP</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/about-us/"><span class="suppa_item_title">About Us</span><span class="suppa_ar_arrow_right_8_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/team/"><span class="suppa_item_title">The Team</span><span class="suppa_ar_arrow_right_9_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/write-for-goldenplec/"><span class="suppa_item_title">Write for GoldenPlec</span><span class="suppa_ar_arrow_right_10_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="http://www.goldenplec.com/contact-us/"><span class="suppa_item_title">Contact Us</span><span class="suppa_ar_arrow_right_11_1"></span></a> </div></div></div></div>
-<div class="suppaMenu_rwd_wrap">
-<div class="suppa_rwd_top_button_container">
-<span class="suppa_rwd_button"><span aria-hidden="true" class="suppa-reorder"></span></span>
-<span class="suppa_rwd_text">Menu</span>
-</div>
-<div class="suppa_rwd_menus_container"></div>
-</div>
-</div> <nav class="hd_nav navbar navbar-default" role="navigation">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-<i class="fa fa-bars"></i>
-</button>
-</div> 
-<div class="navbar-collapse collapse">
-<div class="nav navbar-nav">
+	  <header class="hd_header" role="banner">
+		
+			<div class="suppaMenu_wrap"><div id="menu-new-gp-desktop" class="suppaMenu"><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_1"><a href="https://www.goldenplec.com" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Home</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_2"><a href="https://www.goldenplec.com/news/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">News</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_3"><a href="https://www.goldenplec.com/events/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Events</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_4"><a href="https://www.goldenplec.com/music-reviews/" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">Reviews</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/album-categories/irish/?post_type=album-reviews"><span class="suppa_item_title">Irish Albums</span><span class="suppa_ar_arrow_right_1_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/album-categories/international/?post_type=album-reviews"><span class="suppa_item_title">International Albums</span><span class="suppa_ar_arrow_right_2_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/live-reviews/"><span class="suppa_item_title">Live Reviews</span><span class="suppa_ar_arrow_right_3_1"></span></a> </div></div></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_5"><a href="https://www.goldenplec.com/galleries/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Galleries</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_6"><a href="https://www.goldenplec.com/featured/" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">Features</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/plec-picks-2015/"><span class="suppa_item_title">Plec Picks 2015</span><span class="suppa_ar_arrow_right_4_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/featured/"><span class="suppa_item_title">Features</span><span class="suppa_ar_arrow_right_5_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/videos/"><span class="suppa_item_title">Videos</span><span class="suppa_ar_arrow_right_6_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/bands/"><span class="suppa_item_title">Bands</span><span class="suppa_ar_arrow_right_7_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/venues/"><span class="suppa_item_title">Venues</span><span class="suppa_ar_arrow_right_8_1"></span></a> </div></div></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_7"><a href="https://www.goldenplec.com/festivals/" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">Festivals</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/electric-picnic-2015/"><span class="suppa_item_title">Electric Picnic 2015</span><span class="suppa_ar_arrow_right_9_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/longitude-2015/"><span class="suppa_item_title">Longitude 2015</span><span class="suppa_ar_arrow_right_10_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/knockanstockan/"><span class="suppa_item_title">Knockanstockan 2015</span><span class="suppa_ar_arrow_right_11_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/forbidden-fruit-festival-2015/"><span class="suppa_item_title">Forbidden Fruit Festival 2015</span><span class="suppa_ar_arrow_right_12_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/sea-sessions-2015/"><span class="suppa_item_title">Sea Sessions 2015</span><span class="suppa_ar_arrow_right_13_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/vantastival-2015/"><span class="suppa_item_title">Vantastival 2015</span><span class="suppa_ar_arrow_right_14_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/life-festival-2015/"><span class="suppa_item_title">Life Festival 2015</span><span class="suppa_ar_arrow_right_15_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/bare-in-the-woods-festival/"><span class="suppa_item_title">B.A.R.E in the Woods Festival</span><span class="suppa_ar_arrow_right_16_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/killarney-music-festival-2015/"><span class="suppa_item_title">Killarney Music Festival 2015</span><span class="suppa_ar_arrow_right_17_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/stendhal-2015/"><span class="suppa_item_title">Stendhal 2015</span><span class="suppa_ar_arrow_right_18_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/bd-festival-2015/"><span class="suppa_item_title">BD Festival 2015</span><span class="suppa_ar_arrow_right_19_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/body-soul-2015/"><span class="suppa_item_title">Body &amp; Soul 2015</span><span class="suppa_ar_arrow_right_20_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/stendhal-2015/"><span class="suppa_item_title">Stendhal 2015</span><span class="suppa_ar_arrow_right_21_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/inis-festival-2015/"><span class="suppa_item_title">Inis Festival 2015</span><span class="suppa_ar_arrow_right_22_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/festivals/valentia-isle-festival-2015/"><span class="suppa_item_title">Valentia Isle Festival 2015</span><span class="suppa_ar_arrow_right_23_1"></span></a> </div></div></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_8"><a href="https://www.goldenplec.com/competitions/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Competitions</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_9"><a href="https://www.goldenplec.com/classical/" class=" suppa_top_level_link suppa_menu_position_left  "><span class="suppa_item_title">Classical</span></a></div><div style=" float:left;  " class="suppa_menu suppa_menu_dropdown suppa_menu_10"><a href="#" class=" suppa_top_level_link suppa_menu_position_left   suppa_top_links_has_arrow "><span class="suppa_item_title">About GP</span><span class="era_suppa_arrow_box ctf_suppa_fa_box_top_arrow"><span aria-hidden="true" class="suppa-caret-down"></span></span></a><div class="suppa_submenu suppa_submenu_0" style="width:180px;left:0px;"><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/about-us/"><span class="suppa_item_title">About Us</span><span class="suppa_ar_arrow_right_24_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/team/"><span class="suppa_item_title">The Team</span><span class="suppa_ar_arrow_right_25_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/write-for-goldenplec/"><span class="suppa_item_title">Write for GoldenPlec</span><span class="suppa_ar_arrow_right_26_1"></span></a> </div><div class="suppa_dropdown_item_container"><a href="https://www.goldenplec.com/contact-us/"><span class="suppa_item_title">Contact Us</span><span class="suppa_ar_arrow_right_27_1"></span></a> </div></div></div></div>
+				<div class="suppaMenu_rwd_wrap">
+					<div class="suppa_rwd_top_button_container">
+						
+						<span class="suppa_rwd_button"><span aria-hidden="true" class="suppa-reorder"></span></span>
+						<span class="suppa_rwd_text">Menu</span>
+					</div>
+					<div class="suppa_rwd_menus_container"></div>
+				</div>
+				</div>			<nav class="hd_nav navbar navbar-default" role="navigation">
+	      <div class="navbar-header">
+	      	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	          <i class="fa fa-bars"></i>
+	        </button>
+	      </div><!-- / .navbar-header -->
+	
+	      <div class="navbar-collapse collapse">
+	        <div class="nav navbar-nav">
+	        	<ul>
+	        		<li><a href="https://www.goldenplec.com">Home</a></li>
+<li><a href="https://www.goldenplec.com/events">Events</a></li>
+<li><a href="https://www.goldenplec.com/music-reviews">Reviews</a></li>
+<li><a href="https://www.goldenplec.com/galleries">Galleries</a></li>
+<li><a href="https://www.goldenplec.com/competitions">Competitions</a></li>
+<li><a href="https://www.goldenplec.com/featured">Features</a></li>
+<li><a href="https://www.goldenplec.com/festivals/">Festivals</a>
 <ul>
-<li><a href="http://www.goldenplec.com">Home</a></li>
-<li><a href="http://www.goldenplec.com/events">Events</a></li>
-<li><a href="http://www.goldenplec.com/music-reviews">Reviews</a></li>
-<li><a href="http://www.goldenplec.com/galleries">Galleries</a></li>
-<li><a href="http://www.goldenplec.com/competitions">Competitions</a></li>
-<li><a href="http://www.goldenplec.com/featured">Features</a></li>
-<li><a href="http://www.goldenplec.com/videos">Videos</a></li>
-<li><a href="http://www.goldenplec.com/classical/">Classical</a></li>
-<li><a href="http://www.goldenplec.com/team/">The Team</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/electric-picnic-2015/">Electric Picnic 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/longitude-2015/">Longitude 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/knockanstockan/">Knockanstockan 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/forbidden-fruit-festival-2015/">Forbidden Fruit Festival 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/vantastival-2015/">Vantastival 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/bd-festival-2015/">BD Festival 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/killarney-music-festival-2015/">Killarney Music Festival 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/inis-festival-2015/">Inis Festival 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/sea-sessions-2015/">Sea Sessions 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/kilkenny-tradfest-2015/">Kilkenny TradFest 2015</a></li>
+	<li><a href="https://www.goldenplec.com/festivals/life-festival-2015/">Life Festival 2015</a></li>
 </ul>
-</div> 
-</div> 
-</nav> 
-<section class="hd_search header">
-<form role="search" method="get" id="searchform" class="searchform" action="http://www.goldenplec.com">
-<div>
-<input type="text" value="" name="s" id="s">
-<button type="submit" id="searchsubmit">
-<i class="fa fa-search"></i>
-</button>
-</div>
-</form>
-</section>
- 
-<div class="shd_wings scontainer">
-<section class="hd_hero" style="background-image: url(http://www.goldenplec.com/wp-content/uploads/2014/11/news5.jpg);">
-<div class="hd_overlay" style="opacity: 0.5;"></div>
-<a class="hd_logo" href="http://www.goldenplec.com">
-<img src="http://www.goldenplec.com/wp-content/uploads/2014/11/GoldenPlec_Logo_Main_Outline3.png" alt="GoldenPlec logo">
-</a> 
-<div class="hd_content_container full_width">
-<h1>Privacy Policy</h1>
-</div> 
-<div class="clearfix"></div>
-</section> 
+</li>
+<li><a href="https://www.goldenplec.com/videos">Videos</a></li>
+<li><a href="https://www.goldenplec.com/classical/">Classical</a></li>
+<li><a href="https://www.goldenplec.com/team/">The Team</a></li>
+	        	</ul>
+	        </div><!-- / .nav .navbar-nav -->
+	      </div><!--/ .nav-collapse -->
+	    </nav><!-- / .hd_nav .navbar .navbar-default -->
+	
+			  <section class="hd_search header">
+				<form role="search" method="get" id="searchform" class="searchform" action="https://www.goldenplec.com"> 
+					<div>
+						<input type="text" value="" name="s" id="s">
+						<button type="submit" id="searchsubmit">
+							<i class="fa fa-search"></i>
+						</button>
+					</div>
+				</form>
+			</section>  
+          <!-- / .hd_search --> 
+	
+			<div class="shd_wings scontainer">
+<section class="hd_hero" style="background-image: url(https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/2014/11/news5.jpg);">
+	<div class="hd_overlay" style="opacity: 0.5;"></div>
+
+	<a class="hd_logo" href="https://www.goldenplec.com">
+<img src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/2015/02/GoldenPlec_Logo_Main_Outline3-1000.png" alt="GoldenPlec logo">
+</a><!-- / .hd_logo -->
+	<div class="hd_content_container full_width">
+		<h1>Privacy Policy</h1>
+	</div><!-- / .hd_content_container -->
+	<div class="clearfix"></div>
+</section><!-- / .hd_hero -->
+
 <section class="hd_bar" id="charcoal-bar">
-<section class="hd_breadcrumbs">
- 
-<span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to GoldenPlec." href="http://www.goldenplec.com" class="home">Home</a></span><i class="fa fa-arrow-right"></i><span typeof="v:Breadcrumb"><span property="v:title">Privacy Policy</span></span></section> 
+	<section class="hd_breadcrumbs">
+<!-- Breadcrumb NavXT 5.2.0 -->
+<span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to GoldenPlec." href="https://www.goldenplec.com" class="home">Home</a></span><i class="fa fa-arrow-right"></i><span typeof="v:Breadcrumb"><span property="v:title">Privacy Policy</span></span></section><!-- / .hd_breadcrumbs -->
 <section class="hd_advert">
- 
+<!-- Goldenplec_Home_Leader -->
 <div id="div-gpt-ad-1415719336457-1">
 <script data-cfasync="false" type="text/javascript">
 googletag.display('div-gpt-ad-1415719336457-1');
 </script>
 </div>
 <div class="clearfix"></div>
-</section> 
-</section> 
-</div> 
-</header> 
-<div class="shd_wings scontainer">
+</section><!-- / .hd_advert -->
+</section><!-- / .hd_bar -->
+</div><!-- / .container -->
+		</header><!-- / .hd_header -->
+		
+		<div class="shd_wings scontainer">
 <main class="hd_main" role="main">
-<section class="hd_section">
-<div class="container">
-<div class="row">
-<div class="col-sm-6 col-md-7 col-lg-8">
-<section class="hd_wploop">
-<h2>Privacy&nbsp;Policy</h2>
-<p>Your privacy is critically important to us. At <a href="http://www.goldenplec.com">GoldenPlec</a> we have a few fundamental principles:</p>
+
+	<section class="hd_section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-md-7 col-lg-8">
+							  				<section class="hd_wploop">
+		  					<h2>Privacy&nbsp;Policy</h2>
+<p>Your privacy is critically important to us. At <a href="https://www.goldenplec.com">GoldenPlec</a> we have a few fundamental principles:</p>
 <ul>
 <li>We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)</li>
 <li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
@@ -178,7 +219,7 @@ googletag.display('div-gpt-ad-1415719336457-1');
 <li>In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.</li>
 </ul>
 <p>If you have questions about deleting or correcting your personal data please contact our <a href="mailto:admin@goldenplec.com">Administrator</a>.</p>
-<p>It is <a href="http://www.goldenplec.com">GoldenPlec</a>’s policy to respect your privacy regarding any information we may collect while operating our websites.</p>
+<p>It is <a href="https://www.goldenplec.com">GoldenPlec</a>’s policy to respect your privacy regarding any information we may collect while operating our websites.</p>
 <h3>Website Visitors</h3>
 <p>Like most website operators, GoldenPlec collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. GoldenPlec’s purpose in collecting non-personally identifying information is to better understand how GoldenPlec’s visitors use its website. From time to time, GoldenPlec may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
 <p>GoldenPlec also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on articles. GoldenPlec only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.</p>
@@ -199,115 +240,160 @@ googletag.display('div-gpt-ad-1415719336457-1');
 <h3>Comments</h3>
 <p>Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.</p>
 <h3>Privacy Policy Changes</h3>
-<p>Although most changes are likely to be minor, GoldenPlec may change its Privacy Policy from time to time, and in GoldenPlec’s sole discretion. GoldenPlec encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p> </section> 
-</div> 
-<div class="col-sm-6 col-md-5 col-lg-4">
-<aside class="hd_sidebar">
-<section class="hd_mpu">
- 
+<p>Although most changes are likely to be minor, GoldenPlec may change its Privacy Policy from time to time, and in GoldenPlec’s sole discretion. GoldenPlec encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>		  				</section><!-- / .hd_wploop -->
+										</div><!-- / .col-sm-6 .col-md-7 .col-lg-8 -->
+
+				<div class="col-sm-6 col-md-5 col-lg-4">
+					<aside class="hd_sidebar">
+	<section class="hd_mpu">
+<!-- Goldenplec_Home_MPU -->
 <div id="div-gpt-ad-1415719336457-2">
 <script data-cfasync="false" type="text/javascript">
 googletag.display('div-gpt-ad-1415719336457-2');
 </script>
 </div>
-</section> 
-<section class="hd_widget">
-<header>
-<h1 class="hd_main_title small widget">Goldenvault</h1>
-</header>
-<ul>
-<li>
-<a href="http://www.goldenplec.com/antlers-hospice-golden-vault-37/">
-<img width="1100" height="988" src="http://www.goldenplec.com/wp-content/uploads/2014/11/theantlershospice-e1414956322556.jpg" class="attachment-post-thumbnail wp-post-image" alt="theantlershospice">The Antlers – Hospice | Golden Vault #37 </a>
-</li>
-<li>
-<a href="http://www.goldenplec.com/stones-roses-stone-roses-goldenvault-36/">
-<img width="1000" height="905" src="http://www.goldenplec.com/wp-content/uploads/2014/10/the-stone-roses-front.jpeg" class="attachment-post-thumbnail wp-post-image" alt="the-stone-roses-front">The Stones Roses – The Stone Roses | Golden Vault #36 </a>
-</li>
-<li>
-<a href="http://www.goldenplec.com/bill-withers-just-as-i-am-golden-vault-35/">
-<img width="700" height="395" src="http://www.goldenplec.com/wp-content/uploads/2014/10/billwithers-e1413395516564.jpg" class="attachment-post-thumbnail wp-post-image" alt="billwithers">Bill Withers – Just As I Am | Golden Vault #35 </a>
-</li>
-<li>
-<a href="http://www.goldenplec.com/dead-milkmen-beelzebubba-golden-vault/">
-<img width="1000" height="1000" src="http://www.goldenplec.com/wp-content/uploads/2014/08/The-Dead-Milkmen-Beelzebubba.jpg" class="attachment-post-thumbnail wp-post-image" alt="The Dead Milkmen - Beelzebubba">The Dead Milkmen – Beelzebubba | Golden Vault #34 </a>
-</li>
-<li>
-<a href="http://www.goldenplec.com/acdc-back-black-golden-vault-33/">
-<img width="1500" height="846" src="http://www.goldenplec.com/wp-content/uploads/2014/08/backinblacklandscape.jpg" class="attachment-post-thumbnail wp-post-image" alt="backinblacklandscape">AC/DC- Back In Black | Golden Vault #33 </a>
-</li>
-</ul>
-</section> 
+</section><!-- / .hd_mpu -->
+	<section class="hd_widget">
+		<header>
+			<h1 class="hd_main_title small widget">Plec Picks 2015</h1>
+		</header>
+		<ul>
+								<li>
+						<a href="https://www.goldenplec.com/featured/girl-band-plec-picks-2015/">
+
+							<img width="650" height="400" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/2015/01/girl-band-homepage-slider.jpg" class="attachment-post-thumbnail wp-post-image" alt="girl-band---homepage-slider">Girl Band | Plec Picks 2015						</a>
+					</li>
+									<li>
+						<a href="https://www.goldenplec.com/featured/cloud-castle-lake-plec-picks-2015/">
+
+							<img width="650" height="400" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/2015/01/cloud-castle-lake-homepage-slider.jpg" class="attachment-post-thumbnail wp-post-image" alt="cloud-castle-lake-----homepage-slider">Cloud Castle Lake | Plec Picks 2015						</a>
+					</li>
+									<li>
+						<a href="https://www.goldenplec.com/featured/bitch-falcon-plec-picks-2015/">
+
+							<img width="650" height="400" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/2015/01/bitch-falcon-homepage-slider.jpg" class="attachment-post-thumbnail wp-post-image" alt="bitch-falcon--homepage-slider">Bitch Falcon | Plec Picks 2015						</a>
+					</li>
+							<li>
+				<a href="https://www.goldenplec.com/plec-picks-2015">See More</a>
+			</li>
+		</ul>
+
+	</section><!-- / .hd_widget -->
+	<section class="hd_widget">
+		<header>
+			<h1 class="hd_main_title small widget">Goldenvault</h1>
+		</header>
+
+		<ul>
+								<li>
+						<a href="https://www.goldenplec.com/featured/willis-alan-ramsay-willis-alan-ramsey-golden-vault-42/">
+
+							<img width="300" height="250" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/2015/05/rsz_ramsey-willis-alan-cover.jpg" class="attachment-post-thumbnail wp-post-image" alt="rsz_ramsey-willis-alan-cover">Willis Alan Ramsey – Willis Alan Ramsey | Golden Vault #42						</a>
+					</li>
+									<li>
+						<a href="https://www.goldenplec.com/featured/longpigs-sun-often-golden-vault-41/">
+
+							<img width="224" height="225" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/2015/04/longpigs.jpeg" class="attachment-post-thumbnail wp-post-image" alt="longpigs">Longpigs – The Sun Is Often Out | Golden Vault #41						</a>
+					</li>
+							<!--<li>
+				<a href="https://www.goldenplec.com/plec-picks-2015">See More</a>
+			</li>-->
+		</ul>
+	</section><!-- / .hd_widget -->
 <section class="hd_mpu2">
- 
+<!-- Goldenplec_Home_BottomMPU -->
 <div id="div-gpt-ad-1415719336457-0">
 <script data-cfasync="false" type="text/javascript">
 googletag.display('div-gpt-ad-1415719336457-0');
 </script>
 </div>
-</section> 
-</aside> 
-</div> 
-</div> 
-</div> 
-</section> 
-</main> 
-<footer class="hd_footer" role="contentinfo">
-<div class="container">
-<div class="row">
-<div class="col-sm-3">
-<h1>Connect</h1>
-<ul class="hd_social_links">
+</section><!-- / .hd_mpu2 -->
+</aside><!-- / .hd_sidebar -->
+				</div><!-- / .col-sm-6 .col-md-5 .col-lg-4 -->
+			</div><!-- / .row -->
+		</div><!-- / .container -->
+	</section><!-- / .hd_section -->
+	
+
+		</main><!-- / .hd_main -->
+
+		
+		<footer class="hd_footer" role="contentinfo">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-3">
+						<h1>Connect</h1>
+						<ul class="hd_social_links">
 <li>
-<a href="http://facebook.com/goldenplec" target="_blank"> <i class="fa fa-facebook"></i>
-<span>9,758</span>
-<small>Likes</small>
-</a></li>
+<a href="http://facebook.com/goldenplec" target="_blank">											<i class="fa fa-facebook"></i>
+
+											<span>11,361</span>
+											<small>Likes</small>
+										</a></li>
 <li>
-<a href="http://twitter.com/goldenplec" target="_blank"> <i class="fa fa-twitter"></i>
-<span>12,393</span>
-<small>Followers</small>
-</a></li>
+<a href="http://twitter.com/goldenplec" target="_blank">											<i class="fa fa-twitter"></i>
+
+											<span>14,001</span>
+											<small>Followers</small>
+										</a></li>
 <li>
-<a href="http://www.goldenplec.com/about-us/subscribe-to-newsletter/"> <i class="fa fa-envelope"></i>
-<span>6,465</span>
-<small>Subscribers</small>
-</a></li>
-<li>
-<a href="http://www.goldenplec.com/about-us/write-for-goldenplec/">
-<i class="fa fa-pencil-square-o"></i>
-<span class="small">Write For Us</span>
-</a>
-</li>
-</ul> 
-</div> 
-<div class="col-sm-5">
-<h1>Menu</h1>
-<div class="left_half">
+<a href="http://www.goldenplec.com/about-us/subscribe-to-newsletter/">											<i class="fa fa-envelope"></i>
+
+											<span>6,560</span>
+											<small>Subscribers</small>
+										</a></li>
+									<li>
+										<a href="http://www.goldenplec.com/about-us/write-for-goldenplec/">
+											<i class="fa fa-pencil-square-o"></i>
+											<span class="small">Write For Us</span>
+										</a>
+									</li>
+								</ul><!-- / .hd_social_links -->
+					</div><!-- / .col-sm-3 -->
+
+					<div class="col-sm-5">
+						<h1>Menu</h1>
+
+						<div class="left_half">
 <ul>
-<li><a href="http://www.goldenplec.com/">Home</a></li>
-<li><a href="http://www.goldenplec.com/news/">News</a></li>
-<li><a href="http://www.goldenplec.com/classical/">Classical</a></li>
-<li><a href="http://www.goldenplec.com/team/">Meet the Team</a></li>
-<li><a href="http://www.goldenplec.com/contact-us/">Contact Us</a></li>
-<li><a href="http://www.goldenplec.com/about-us/">About Us</a></li>
+<li><a href="https://www.goldenplec.com/">Home</a></li>
+<li><a href="https://www.goldenplec.com/news/">News</a></li>
+<li><a href="https://www.goldenplec.com/classical/">Classical</a></li>
+<li><a href="https://www.goldenplec.com/team/">Meet the Team</a></li>
+<li><a href="https://www.goldenplec.com/contact-us/">Contact Us</a></li>
+<li><a href="https://www.goldenplec.com/about-us/">About Us</a></li>
+<li><a href="https://goldenplec.com/magazine">Magazine</a></li>
+<li><a href="https://www.goldenplec.com/festivals/bare-in-the-woods-festival/">B.A.R.E in the Woods Festival</a></li>
+<li><a href="https://www.goldenplec.com/festivals/sea-sessions-2015/">Sea Sessions 2015</a></li>
+<li><a href="https://www.goldenplec.com/festivals/life-festival-2015/">Life Festival 2015</a></li>
+<li><a href="https://www.goldenplec.com/festivals/vantastival-2015/">Vantastival 2015</a></li>
+<li><a href="https://www.goldenplec.com/festivals/kilkenny-tradfest-2015/">Kilkenny TradFest 2015</a></li>
 </ul>
-</div> 
+</div><!-- / .left_half -->
 <div class="right_half">
 <ul>
-<li><a href="http://www.goldenplec.com/live-reviews/">Live Reviews</a></li>
-<li><a href="http://www.goldenplec.com/album-categories/international/?post_type=album-reviews">International Album Reviews</a></li>
-<li><a href="http://www.goldenplec.com/album-categories/irish/?post_type=album-reviews">Irish Album Reviews</a></li>
-<li><a href="http://www.goldenplec.com/galleries/">Gig Photos</a></li>
-<li><a href="http://www.goldenplec.com/videos/">Videos</a></li>
-<li><a href="http://www.goldenplec.com/competitions/">Competitions</a></li>
+<li><a href="https://www.goldenplec.com/live-reviews/">Live Reviews</a></li>
+<li><a href="https://www.goldenplec.com/album-categories/international/?post_type=album-reviews">International Album Reviews</a></li>
+<li><a href="https://www.goldenplec.com/album-categories/irish/?post_type=album-reviews">Irish Album Reviews</a></li>
+<li><a href="https://www.goldenplec.com/galleries/">Gig Photos</a></li>
+<li><a href="https://www.goldenplec.com/videos/">Videos</a></li>
+<li><a href="https://www.goldenplec.com/competitions/">Competitions</a></li>
+<li><a href="https://www.goldenplec.com/plec-picks-2015/">Plec Picks 2015</a></li>
+<li><a href="https://www.goldenplec.com/festivals/">Festivals</a></li>
+<li><a href="https://www.goldenplec.com/festivals/electric-picnic-2015/">Electric Picnic 2015</a></li>
+<li><a href="https://www.goldenplec.com/festivals/longitude-2015/">Longitude 2015</a></li>
+<li><a href="https://www.goldenplec.com/festivals/knockanstockan/">Knockanstockan 2015</a></li>
+<li><a href="https://www.goldenplec.com/festivals/forbidden-fruit-festival-2015/">Forbidden Fruit Festival 2015</a></li>
+<li><a href="https://www.goldenplec.com/festivals/bd-festival-2015/">BD Festival 2015</a></li>
 </ul>
-</div> 
-<div class="clearfix"></div>
-</div> 
-<div class="col-sm-4">
-<h1>Instagram Photos</h1>
-<div id="APTFIN_by_TAP-by-shortcode-53_302" class="AlpinePhotoTiles_inpost_container">    <div id="id-53_302-AlpinePhotoTiles_container" class="AlpinePhotoTiles_container_class"><div id="id-53_302-cascade-parent" class="AlpinePhotoTiles_parent_class" style="width:100%;max-width:100%;padding:0px;float:left;text-align:left;"><div class="AlpinePhotoTiles_cascade_column" style="width:33.333333333333%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/vfl_JCTCPP/" class="AlpinePhotoTiles-link" target="_blank" title=" twenty one pilots jumping and leaping around The Academy's stage last night. More on site today! " alt=" twenty one pilots jumping and leaping around The Academy's stage last night. More on site today! "><img id="id-53_302-tile-0" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/10748070_375858675907522_1742765050_s.jpg" title=" twenty one pilots jumping and leaping around The Academy's stage last night. More on site today! " alt=" twenty one pilots jumping and leaping around The Academy's stage last night. More on site today! " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a><a href="http://instagram.com/p/uTAg7EzCEX/" class="AlpinePhotoTiles-link" target="_blank" title=" A photoshoot with a few of the GP heads. I wonder what it's for? OooOOOoOooH! " alt=" A photoshoot with a few of the GP heads. I wonder what it's for? OooOOOoOooH! "><img id="id-53_302-tile-3" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/10735246_779739438752604_2080044999_s.jpg" title=" A photoshoot with a few of the GP heads. I wonder what it's for? OooOOOoOooH! " alt=" A photoshoot with a few of the GP heads. I wonder what it's for? OooOOOoOooH! " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:33.333333333333%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/vMXb_HzCFw/" class="AlpinePhotoTiles-link" target="_blank" title=" Having a bit of a Mac party here #workinghard #hardlyworking " alt=" Having a bit of a Mac party here #workinghard #hardlyworking "><img id="id-53_302-tile-1" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10251462_1533447656900012_1999493349_s.jpg" title=" Having a bit of a Mac party here #workinghard #hardlyworking " alt=" Having a bit of a Mac party here #workinghard #hardlyworking " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a><a href="http://instagram.com/p/r-iMv2TCMP/" class="AlpinePhotoTiles-link" target="_blank" title=" .@IHaveATribe putting on something special at #goldenbeck right now. " alt=" .@IHaveATribe putting on something special at #goldenbeck right now. "><img id="id-53_302-tile-4" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xpa1/t51.2885-15/925586_270719849783468_924461114_s.jpg" title=" .@IHaveATribe putting on something special at #goldenbeck right now. " alt=" .@IHaveATribe putting on something special at #goldenbeck right now. " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:33.333333333333%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="http://instagram.com/p/vJpdMDzCJ4/" class="AlpinePhotoTiles-link" target="_blank" title=" The countdown is on. #newsite #sitelaunch #excira " alt=" The countdown is on. #newsite #sitelaunch #excira "><img id="id-53_302-tile-2" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xap1/t51.2885-15/10802955_396849953813453_554655514_s.jpg" title=" The countdown is on. #newsite #sitelaunch #excira " alt=" The countdown is on. #newsite #sitelaunch #excira " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a><a href="http://instagram.com/p/r-bds2TCAX/" class="AlpinePhotoTiles-link" target="_blank" title=" Ah, sure would you look who it is! @WyvernLingo #goldenbeck " alt=" Ah, sure would you look who it is! @WyvernLingo #goldenbeck "><img id="id-53_302-tile-5" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="http://scontent-b.cdninstagram.com/hphotos-xpf1/t51.2885-15/10632077_451730204968922_798868008_s.jpg" title=" Ah, sure would you look who it is! @WyvernLingo #goldenbeck " alt=" Ah, sure would you look who it is! @WyvernLingo #goldenbeck " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a></div></div><div class="AlpinePhotoTiles_breakline"></div></div><div class="AlpinePhotoTiles_breakline"></div></div><div class="AlpinePhotoTiles_breakline"></div><script type="text/javascript"><!--//--><![CDATA[//><!--		// Use self invoking function expression
+</div><!-- / .right_half -->
+						<div class="clearfix"></div>
+					</div><!-- / .col-sm-5 -->
+
+					<div class="col-sm-4">
+						<h1>Instagram Photos</h1>
+						
+						<div id="APTFIN_by_TAP-by-shortcode-53_302" class="AlpinePhotoTiles_inpost_container"><!-- Using AlpinePT for Instagram v1.2.7 with JSON--><!-- Request made --><!-- Request made --><!-- Success using wp_remote_get() and JSON --><!-- Retrieved from transient --><div id="id-53_302-AlpinePhotoTiles_container" class="AlpinePhotoTiles_container_class"><div id="id-53_302-cascade-parent" class="AlpinePhotoTiles_parent_class" style="width:100%;max-width:100%;padding:0px;float:left;text-align:left;"><div class="AlpinePhotoTiles_cascade_column" style="width:33.333333333333%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="https://instagram.com/p/1S_vZGzCLC/" class="AlpinePhotoTiles-link" target="_blank" title=" Check www.goldenplec.com/mag for all mag locations and pick up yours! #Repost @david__dooley ・・・ My favourite spread of issue 2. #GoldenPlecMag #Villagers #ArtDirection " alt=" Check www.goldenplec.com/mag for all mag locations and pick up yours! #Repost @david__dooley ・・・ My favourite spread of issue 2. #GoldenPlecMag #Villagers #ArtDirection "><img id="id-53_302-tile-0" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s150x150/e15/11117151_1597061837207634_626436082_n.jpg" title=" Check www.goldenplec.com/mag for all mag locations and pick up yours! #Repost @david__dooley ・・・ My favourite spread of issue 2. #GoldenPlecMag #Villagers #ArtDirection " alt=" Check www.goldenplec.com/mag for all mag locations and pick up yours! #Repost @david__dooley ・・・ My favourite spread of issue 2. #GoldenPlecMag #Villagers #ArtDirection " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a><a href="https://instagram.com/p/zYDPQgTCJ2/" class="AlpinePhotoTiles-link" target="_blank" title=" Just picked up the photopass for @thecoronas :) Photo by @sean_smyth " alt=" Just picked up the photopass for @thecoronas :) Photo by @sean_smyth "><img id="id-53_302-tile-3" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/s150x150/e15/10979596_863743940355284_909255110_n.jpg" title=" Just picked up the photopass for @thecoronas :) Photo by @sean_smyth " alt=" Just picked up the photopass for @thecoronas :) Photo by @sean_smyth " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:33.333333333333%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="https://instagram.com/p/1SxUnkzCEW/" class="AlpinePhotoTiles-link" target="_blank" title=" The new #GoldenPlecMag is making its way around Dublin as we speak. Check www.GoldenPlec.com/Mag for full list of pick up points :) #irishmusic #irish #design #dublin " alt=" The new #GoldenPlecMag is making its way around Dublin as we speak. Check www.GoldenPlec.com/Mag for full list of pick up points :) #irishmusic #irish #design #dublin "><img id="id-53_302-tile-1" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/s150x150/e15/11078661_421098001384491_1764319818_n.jpg" title=" The new #GoldenPlecMag is making its way around Dublin as we speak. Check www.GoldenPlec.com/Mag for full list of pick up points :) #irishmusic #irish #design #dublin " alt=" The new #GoldenPlecMag is making its way around Dublin as we speak. Check www.GoldenPlec.com/Mag for full list of pick up points :) #irishmusic #irish #design #dublin " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a><a href="https://instagram.com/p/yzSY9OTCBE/" class="AlpinePhotoTiles-link" target="_blank" title=" The @Kodaline lads are busting out some acoustic versions of their songs now in @whelanslive " alt=" The @Kodaline lads are busting out some acoustic versions of their songs now in @whelanslive "><img id="id-53_302-tile-4" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/s150x150/e15/10963974_631758680262576_2028910067_n.jpg" title=" The @Kodaline lads are busting out some acoustic versions of their songs now in @whelanslive " alt=" The @Kodaline lads are busting out some acoustic versions of their songs now in @whelanslive " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a></div></div><div class="AlpinePhotoTiles_cascade_column" style="width:33.333333333333%;float:left;margin:0;"><div class="AlpinePhotoTiles_cascade_column_inner" style="display:block;margin:0 3px;overflow:hidden;"><a href="https://instagram.com/p/1Nx7TSTCAr/" class="AlpinePhotoTiles-link" target="_blank" title=" Issue 2 of #GoldenPlecMag is out this Friday! More info on site #villagers #irish #design #music #irishmusic " alt=" Issue 2 of #GoldenPlecMag is out this Friday! More info on site #villagers #irish #design #music #irishmusic "><img id="id-53_302-tile-2" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/s150x150/e15/11084794_1644445199119942_24751854_n.jpg" title=" Issue 2 of #GoldenPlecMag is out this Friday! More info on site #villagers #irish #design #music #irishmusic " alt=" Issue 2 of #GoldenPlecMag is out this Friday! More info on site #villagers #irish #design #music #irishmusic " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a><a href="https://instagram.com/p/ynNKXeTCOH/" class="AlpinePhotoTiles-link" target="_blank" title=" Having a meeting at the office - #GoldenPlecMag talk :) " alt=" Having a meeting at the office - #GoldenPlecMag talk :) "><img id="id-53_302-tile-5" class="AlpinePhotoTiles-image AlpinePhotoTiles-img-shadow AlpinePhotoTiles-img-noborder AlpinePhotoTiles-img-nocorners AlpinePhotoTiles-img-nohighlight" src="https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/s150x150/e15/10948808_423053767849691_1435433293_n.jpg" title=" Having a meeting at the office - #GoldenPlecMag talk :) " alt=" Having a meeting at the office - #GoldenPlecMag talk :) " border="0" hspace="0" vspace="0" style="margin:1px 0 5px 0;padding:0;max-width:100%;"></a></div></div><div class="AlpinePhotoTiles_breakline"></div></div><div class="AlpinePhotoTiles_breakline"></div></div><div class="AlpinePhotoTiles_breakline"></div><script type="text/javascript"><!--//--><![CDATA[//><!--		// Use self invoking function expression
 		(function() {// Wait for window to load. Them start plugin.
 			var alpinePluginLoadingFunction = function(method){
 				// Check for jQuery and on() ( jQuery 1.7+ )
@@ -325,9 +411,9 @@ googletag.display('div-gpt-ad-1415719336457-0');
 					if( jQuery().AlpineAdjustBordersPlugin ){
 						jQuery('#id-53_302-cascade-parent').AlpineAdjustBordersPlugin({highlight:'#64a2d8'});
 					}else{
-						var css = 'http://www.goldenplec.com/wp-content/plugins/alpine-photo-tile-for-instagram/css/AlpinePhotoTiles_style.css';
+						var css = 'https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/alpine-photo-tile-for-instagram/css/AlpinePhotoTiles_style.css';
 						var link = jQuery(document.createElement('link')).attr({'rel':'stylesheet','href':css,'type':'text/css','media':'screen'});
-						jQuery.getScript('http://www.goldenplec.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/AlpinePhotoTiles_script.js', function(){
+						jQuery.getScript('https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/AlpinePhotoTiles_script.js', function(){
 							if(document.createStyleSheet){
 								document.createStyleSheet(css);
 							}else{
@@ -342,49 +428,79 @@ googletag.display('div-gpt-ad-1415719336457-0');
 					}
 				}else{console.log('Alpine plugin failed because jQuery never loaded');}
 			});
-		})();//--><!]]> </script></div> </div> 
-</div> 
-</div> 
-<section class="hd_footer_lower">
-<div class="container">
-<div class="row">
-<div class="col-sm-4 col-md-4">
-<p class="text-left">© GoldenPlec 2014</p>
-</div> 
-<div class="col-sm-4 col-md-4">
-<section class="hd_footer_nav text-center">
-<ul>
-<li><a href="http://www.goldenplec.com/terms-of-service/">Terms</a></li>
-<li><a href="http://www.goldenplec.com/privacy-policy/">Privacy</a></li>
-<li><a href="http://www.goldenplec.com/privacy-policy/#cookies">Cookies</a></li>
-</ul>
-</section> 
-</div> 
-<div class="col-sm-4 col-md-4">
-<p class="text-right">
- 
- 
-</p> 
-</div> 
-</div> 
-</div> 
-</section> 
-</footer> 
-</div> 
-<link rel="stylesheet" id="AlpinePhotoTiles_style-css" href="http://www.goldenplec.com/wp-content/plugins/alpine-photo-tile-for-instagram/css/AlpinePhotoTiles_style.css?ver=1.2.7" type="text/css" media="all">
-<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
-<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2"></script>
-<script type="text/javascript" src="http://www.goldenplec.com/wp-content/uploads/suppamenu/suppa_js_settings.js?ver=1.8.9"></script>
-<script type="text/javascript" src="http://www.goldenplec.com/wp-includes/js/jquery/ui/jquery.ui.effect.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://www.goldenplec.com/wp-content/plugins/suppamenu/standard/js/suppa_frontend.min.js?ver=1.8.9"></script>
-<script type="text/javascript" src="http://www.goldenplec.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/AlpinePhotoTiles_script.js?ver=1.2.7"></script>
-<script type="text/javascript" src="http://www.goldenplec.com/wp-content/themes/goldenplecCorrect2/js/scripts.js"></script>
-<script>
+		})();//--><!]]> </script></div>					</div><!-- / .col-sm-4 -->
+				</div><!-- / .row -->
+			</div><!-- / .container -->
+
+			<section class="hd_footer_lower">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-4 col-md-4">
+							<p class="text-left">© GoldenPlec 2015</p>
+		  			</div><!-- / .col-md-4 -->
+
+		  			<div class="col-sm-4 col-md-4">	
+		  				<section class="hd_footer_nav text-center">
+		  					<ul>
+		  						<li><a href="https://www.goldenplec.com/terms-of-service/">Terms</a></li>
+<li><a href="https://www.goldenplec.com/privacy-policy/">Privacy</a></li>
+<li><a href="https://www.goldenplec.com/privacy-policy/#cookies">Cookies</a></li>
+		  					</ul>
+				  		</section><!-- / .hd_footer_nav -->
+		  			</div><!-- / .col-md-4 -->
+
+		  			<div class="col-sm-4 col-md-4">
+				  		<p class="text-right">
+
+				  		</p><!-- / .text-right -->
+				  	</div><!-- / .col-md-4 -->
+		  		</div><!-- / .row -->
+	  		</div><!-- / .container -->
+			</section><!-- / .hd_footer_lower-->
+		</footer><!-- / #footer .hd_footer -->
+
+		</div><!-- / .container -->
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'goldenplec';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <link rel="stylesheet" id="AlpinePhotoTiles_style-css" href="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/alpine-photo-tile-for-instagram/css/AlpinePhotoTiles_style.css?ver=1.2.7" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js?ver=1.11.2"></script>
+<script type="text/javascript" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/suppamenu/suppa_js_settings.js?ver=1.8.9"></script>
+<script type="text/javascript" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/suppamenu/standard/js/suppa_frontend.min.js?ver=1.8.9"></script>
+<script type="text/javascript" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/alpine-photo-tile-for-instagram/js/AlpinePhotoTiles_script.js?ver=1.2.7"></script>
+<script type="text/javascript">
+				(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+				po.src = 'https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/plugins/easy-social-share-buttons/assets/js/easy-social-share-buttons.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				})();</script><script type="text/javascript" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/uploads/essb_cache/7d4e5e679cb6d7fce27a90f600a524f0.js" defer=""></script>
+  	<script type="text/javascript" src="https://081dc07ace45d523f63c10e3-goldenplec.netdna-ssl.com/wp-content/themes/goldenplecCorrect2/js/scripts.js"></script>
+  	<script>
   	$(document).ready(function () {
-
   		var $carousel = $('.carousel');
-
   		// Check if a carousel element exists on the page before kicking things off
   		if ($carousel.is('*')) {
   			$carousel.carousel({
@@ -392,32 +508,31 @@ googletag.display('div-gpt-ad-1415719336457-0');
 			  pause: 'hover'
 			});
 
-				var currentIndex = 1;
+                //var currentIndex = 1;
+                // http://stackoverflow.com/a/17841504/1291469
+                 //$carousel.on('slide.bs.carousel', function (e) {
+                   // currentIndex = $carousel.find('.active').index() + 1;
+                   // _gaq.push(['_trackPageview', window . location . href + 'page/' + currentIndex])
+                //});
 
-				// http://stackoverflow.com/a/17841504/1291469
-				$carousel.on('slide.bs.carousel', function (e) {
-					currentIndex = $carousel.find('.active').index() + 1;
-	  			_gaq.push(['_trackPageview', window.location.href + 'page/' + currentIndex])
-				});
-
-			}
-
+            }
 		});
   	</script>
+
 <script>
 setTimeout(function()
 {
- if(jQuery('body').attr('style').match(/background/))
- {
-  jQuery('.shd_wings').addClass('hd_wings').addClass('container');
- }
+		try{
+			if(jQuery('body').attr('style').match(/background/) != undefined)
+			{
+				jQuery('.shd_wings').addClass('hd_wings').addClass('container');
+			}
+		}
+		catch (ex) {}
 },100);
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"4ed85d5bd9","applicationID":"4638764","transactionName":"NAADZ0JRDBECWhFdWA1KIFBEWQ0MTEkEU1I=","queueTime":224,"applicationTime":687,"atts":"GEcUEQpLH05BWEcOTB4Y","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script><script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4ed85d5bd9","applicationID":"4638764","transactionName":"NAADZ0JRDBECWhFdWA1KIFBEWQ0MTEkEU1I=","queueTime":6,"applicationTime":803,"atts":"GEcAEQpLHx8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
 
- <script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+<!-- Served from: www.goldenplec.com @ 2015-05-21 22:12:07 by W3 Total Cache --></body></html>
