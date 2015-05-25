@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wilkinsrv.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816043702id_/http%3A//www.wilkinsrv.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilkinsrv.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525074026id_/http%3A//www.wilkinsrv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to our website and governs data collection and usage. By using our website, you consent to the data practices described in this statement. 
+Protecting your private information is our priority. This Statement of Privacy applies to our website and governs data collection and usage. By using our website, you consent to the data practices described in this statement.
 
 **Collection of Your Personal Information**
 
