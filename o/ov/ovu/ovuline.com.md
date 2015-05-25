@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ovuline.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007234526id_/http%3A//www.ovuline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovuline.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525022200id_/http%3A//www.ovuline.com/privacy) for the most accurate reproduction.*
 
 # 
 
