@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the polerstuff.com privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220072707id_/http%3A//www.polerstuff.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the polerstuff.com privacy policy that was archived on 2015-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526072642id_/http%3A//www.polerstuff.com/pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 
@@ -9,7 +9,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-    <link rel="shortcut icon" type="image/png" href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/favicon.png?30861">
+    <link rel="shortcut icon" type="image/png" href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/favicon.png?6370196154437922411">
   
 
   
@@ -57,7 +57,7 @@
 
 
 
-<script type="text/javascript" async="" src="https://apps.socialcommerce.ninja/shopify/js/2458.js?shop=polerstuff.myshopify.com"></script><script type="text/javascript" async="" src="//secure.apps.shappify.com/apps/motivate/motivator.php?shop=polerstuff.myshopify.com"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script>
+<script type="text/javascript" async="" src="https://apps.socialcommerce.ninja/shopify/js/2458.js?shop=polerstuff.myshopify.com"></script><script type="text/javascript" async="" src="https://popup.lifterapps.com/js/modal.js?shop=polerstuff.myshopify.com"></script><script type="text/javascript" async="" src="//secure.apps.shappify.com/apps/motivate/motivator.php?shop=polerstuff.myshopify.com"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script>
   WebFontConfig = {
     
     typekit: { id: 'jym1gvx' },
@@ -74,7 +74,7 @@
 //<![CDATA[
       var Shopify = Shopify || {};
       Shopify.shop = "polerstuff.myshopify.com";
-      Shopify.theme = {"name":"iGlobal / Motivator","id":9011904,"theme_store_id":null,"role":"main"};
+      Shopify.theme = {"name":"iGlobal \/ Motivator","id":9011904,"theme_store_id":null,"role":"main"};
 
 //]]>
 </script>
@@ -84,7 +84,7 @@
 //<![CDATA[
     (function() {
       function asyncLoad() {
-        var urls = ["//secure.apps.shappify.com/apps/motivate/motivator.php?shop=polerstuff.myshopify.com","https://apps.socialcommerce.ninja/shopify/js/2458.js?shop=polerstuff.myshopify.com"];
+        var urls = ["\/\/secure.apps.shappify.com\/apps\/motivate\/motivator.php?shop=polerstuff.myshopify.com","https:\/\/popup.lifterapps.com\/js\/modal.js?shop=polerstuff.myshopify.com","https:\/\/apps.socialcommerce.ninja\/shopify\/js\/2458.js?shop=polerstuff.myshopify.com"];
         for (var i = 0; i < urls.length; i++) {
           var s = document.createElement('script');
           s.type = 'text/javascript';
@@ -101,7 +101,7 @@
 </script>
 <script id="__st">
 //<![CDATA[
-var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470704","pageurl":"www.polerstuff.com/pages/privacy-policy","s":"pages-9943932","u":"1531c0e39453","p":"page","rtyp":"page","rid":9943932};
+var __st={"a":2111616,"offset":-25200,"reqid":"5dacd744-de12-4497-8752-271e7f66d61a","pageurl":"www.polerstuff.com\/pages\/privacy-policy","s":"pages-9943932","u":"28bbbbcfd0cd","p":"page","rtyp":"page","rid":9943932};
 //]]>
 </script>
 <script>
@@ -124,14 +124,31 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
         (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
         
         (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
           var analytics = document.createElement('script');
-          analytics.onload = function() {
+          var loaded = false;
+          var onload = function() {
+            if (loaded) return;
+            loaded = true;
             window.ShopifyAnalytics.lib = window.analytics.noConflict();
-            window.ShopifyAnalytics.lib.initialize({"Google Analytics":{"trackingId":"UA-23108280-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true}});
+            window.ShopifyAnalytics.lib.initialize({"Google Analytics":{"trackingId":"UA-23108280-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true}});
             
         window.ShopifyAnalytics.lib.page(
           null,
-          {"url":"http://www.polerstuff.com/pages/privacy-policy","path":"/pages/privacy-policy"}
+          {}
         );
       
             
@@ -170,44 +187,52 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
         }
       });
     
-              try {
-                
-              } catch(e) {};
+
+              var originalDocumentWrite = document.write;
+              document.write = customDocumentWrite;
+              try {  } catch(e) {};
+              document.write = originalDocumentWrite;
             });
           }
+          analytics.onload = onload;
+          analytics.onreadystatechange = function() {
+            if (!/complete|loaded/.test(analytics.readyState)) return;
+            onload();
+          }
           analytics.async = true;
-          analytics.src = "//cdn.shopify.com/s/assets/vendor/analytics-4b69c43293b764c686d918b782b1621f.js";
+          analytics.src = "//cdn.shopify.com/s/assets/vendor/analytics-be9ba81d290e8e5e2365cdf5b0159437.js";
           document.getElementsByTagName('head')[0].appendChild(analytics);
           
       var eventsListenerScript = document.createElement('script');
       eventsListenerScript.async = true;
-      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-252bce38cdfe888dc51cbde08024127c.js";
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-5d1550e4fdae05e1e4c99e6f4b85e825.js";
       document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
     
         })();
-      </script><script async="" src="//cdn.shopify.com/s/assets/vendor/analytics-4b69c43293b764c686d918b782b1621f.js"></script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-252bce38cdfe888dc51cbde08024127c.js"></script>
-    <script type="text/javascript" src="//cdn.shopify.com/s/global/ga_urchin_forms.js?c77f91d3f0bfcf951e63b26b5c0d5e0dbdae492f"></script>
+      </script><script async="" src="//cdn.shopify.com/s/assets/vendor/analytics-be9ba81d290e8e5e2365cdf5b0159437.js"></script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-5d1550e4fdae05e1e4c99e6f4b85e825.js"></script>
+    <script type="text/javascript" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-bd0de8f02be4ad110afe9fdaf737084a.js"></script>
 
-  <link href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/style.css?30861" rel="stylesheet" type="text/css" media="all">
+
+  <link href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/style.css?6370196154437922411" rel="stylesheet" type="text/css" media="all">
 
   <!--[if lt IE 8]>
-    <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/json2.js?30861" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/json2.js?6370196154437922411" type="text/javascript"></script>
   <![endif]-->
 
   <!--[if lt IE 9]>
   <script type="text/javascript" src="https://getfirebug.com/firebug-lite.js"></script>
   <script src="//html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/dd_roundies.js?30861" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/dd_roundies.js?6370196154437922411" type="text/javascript"></script>
   <script>
   DD_roundies.addRule('.circle', '45px');
   </script>
   <![endif]-->
 
-  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/custom.modernizr.js?30861" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/custom.modernizr.js?6370196154437922411" type="text/javascript"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/shopify/api.jquery.js?c77f91d3f0bfcf951e63b26b5c0d5e0dbdae492f" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/shopify/option_selection.js?c77f91d3f0bfcf951e63b26b5c0d5e0dbdae492f" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-f09b787c2ca37b1b58fcf1e0bf893179.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/assets/themes_support/option_selection-73ded8016ade315cc3a3efa49f24bfb9.js" type="text/javascript"></script>
 
   
 
@@ -218,14 +243,14 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
     shop_url = 'http://www.polerstuff.com',
     shop_money_format = '${{amount}}',
     home_slider_auto_enabled = true,
-    home_slider_rotate_frequency = 7000,
+    home_slider_rotate_frequency = 5000,
     home_widget_twitter_enabled = false,
     home_widget_blog_enabled = false,
     product_zoom_enabled = false,
     product_modal_enabled = true;
   </script>
-<link href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/flexslider.css?30861" rel="stylesheet" type="text/css" media="all">
-  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/jquery.flexslider.js?30861" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/flexslider.css?6370196154437922411" rel="stylesheet" type="text/css" media="all">
+  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/jquery.flexslider.js?6370196154437922411" type="text/javascript"></script>
   
   
   <script src="//use.typekit.net/jym1gvx.js"></script>
@@ -259,11 +284,29 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
 */
 
 -->
-  <link href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/MyFontsWebfontsKit.css?30861" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/MyFontsWebfontsKit.css?6370196154437922411" rel="stylesheet" type="text/css" media="all">
   
-  <link href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/ig_welcome_mat.css?30861" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/ig_welcome_mat.css?6370196154437922411" rel="stylesheet" type="text/css" media="all">
 
 
+  
+  <script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '806309039450402']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=806309039450402&amp;ev=PixelInitialized" /></noscript>
+  
   
 
   
@@ -276,18 +319,27 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
   <header class="main-header">
     <div class="bg"></div>
     <div class="row top">
+      
+       <div class="shipping-account columns">
+       FREE SHIPPING ON ALL ORDERS OVER $100<br> IN THE CONTIGUOUS 48 STATES
+      </div>
+      
       <div class="columns logo-center">
         <h1 class="title clearfix" role="banner">
   
     <a href="/" role="banner" title="Poler Stuff">
-    <img class="toplogo" src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/polerlogo.svg?30861" alt="Poler Stuff" width="100px" style="width: 100px;"> 
+    <img class="toplogo" src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/polerlogo.svg?6370196154437922411" alt="Poler Stuff" width="100px" style="width: 100px;"> 
     </a>
   
 </h1>
       </div>
 
       <div class="search-account columns">
-        <div class="menu">
+        
+<div class="menu">
+  
+ 
+  
   
     <a class="searchbar-open" href="#">Search<span aria-hidden="true" class="glyph search"></span></a>
   
@@ -350,11 +402,9 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
                       
                       <ul>
                         
-                           <li><a href="/collections/poler-x-nike" title="">Poler x NIKE SB</a></li>
+                           <li><a href="/collections/spring-15" title="">Spring 15</a></li>
                         
-                           <li><a href="/collections/outerwear" title="">Outerwear</a></li>
-                        
-                           <li><a href="/collections/the-holiday-collection" title="">The Holiday Collection</a></li>
+                           <li><a href="/collections/outerwear" title="">Outerwear Sale</a></li>
                         
                            <li><a href="/collections/napsacks" title="">The Napsack</a></li>
                         
@@ -381,13 +431,15 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
                       
                       <ul>
                         
-                           <li><a href="/collections/outerwear" title="">Outerwear</a></li>
+                           <li><a href="/collections/spring-15" title="">Spring 15</a></li>
+                        
+                           <li><a href="/collections/outerwear" title="">Outerwear Sale</a></li>
                         
                            <li><a href="/collections/t-shirts" title="">Shirts</a></li>
                         
                            <li><a href="/collections/sweatshirts" title="">Sweatshirts</a></li>
                         
-                           <li><a href="/collections/hats" title="">Hats</a></li>
+                           <li><a href="/collections/headwear" title="">Hats</a></li>
                         
                            <li><a href="/collections/beanies" title="">Beanies</a></li>
                         
@@ -408,13 +460,15 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
                       
                       <ul>
                         
-                           <li><a href="/collections/outerwear" title="">Outerwear</a></li>
+                           <li><a href="/collections/spring-15" title="">Spring 15</a></li>
+                        
+                           <li><a href="/collections/outerwear" title="">Outerwear Sale</a></li>
                         
                            <li><a href="/collections/womens" title="">Shirts</a></li>
                         
                            <li><a href="/collections/womens-sweatshirts" title="">Sweatshirts</a></li>
                         
-                           <li><a href="/collections/hats" title="">Hats</a></li>
+                           <li><a href="/collections/headwear" title="">Hats</a></li>
                         
                            <li><a href="/collections/beanies" title="">Beanies</a></li>
                         
@@ -461,21 +515,6 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
             <li class="nav-item">
               <a class="nav-item-link" href="/collections/adventures">
                 Adventures
-              </a>
-            </li>
-          
-
-      
-          
-          
-
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-item-link" href="http://polerstuff.tumblr.com/">
-                Tumblr
               </a>
             </li>
           
@@ -576,6 +615,8 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
                       
                         <li class="sub-nav-item"><a href="/pages/return-policy" title="">Return Policy</a></li>
                       
+                        <li class="sub-nav-item"><a href="/pages/warranty-stuff" title="">Warranty Stuff</a></li>
+                      
                         <li class="sub-nav-item"><a href="/pages/privacy-policy" title="">Privacy Policy</a></li>
                       
                       </ul>
@@ -605,8 +646,6 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
                       <ul>
                       
                         <li class="sub-nav-item"><a href="/pages/us-shipping-policy" title="">USA Shipping</a></li>
-                      
-                        <li class="sub-nav-item"><a href="/pages/canada-shipping-policy" title="">Canada Shipping</a></li>
                       
                         <li class="sub-nav-item"><a href="/pages/int-l-shipping-policy" title="">International Shipping</a></li>
                       
@@ -744,11 +783,9 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
                     <ul class="sub-nav">
                       <li class="bg"></li>
                       
-                         <li><a href="/collections/poler-x-nike" title="">Poler x NIKE SB</a></li>
+                         <li><a href="/collections/spring-15" title="">Spring 15</a></li>
                       
-                         <li><a href="/collections/outerwear" title="">Outerwear</a></li>
-                      
-                         <li><a href="/collections/the-holiday-collection" title="">The Holiday Collection</a></li>
+                         <li><a href="/collections/outerwear" title="">Outerwear Sale</a></li>
                       
                          <li><a href="/collections/napsacks" title="">The Napsack</a></li>
                       
@@ -774,13 +811,15 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
                     <ul class="sub-nav">
                       <li class="bg"></li>
                       
-                         <li><a href="/collections/outerwear" title="">Outerwear</a></li>
+                         <li><a href="/collections/spring-15" title="">Spring 15</a></li>
+                      
+                         <li><a href="/collections/outerwear" title="">Outerwear Sale</a></li>
                       
                          <li><a href="/collections/t-shirts" title="">Shirts</a></li>
                       
                          <li><a href="/collections/sweatshirts" title="">Sweatshirts</a></li>
                       
-                         <li><a href="/collections/hats" title="">Hats</a></li>
+                         <li><a href="/collections/headwear" title="">Hats</a></li>
                       
                          <li><a href="/collections/beanies" title="">Beanies</a></li>
                       
@@ -800,13 +839,15 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
                     <ul class="sub-nav">
                       <li class="bg"></li>
                       
-                         <li><a href="/collections/outerwear" title="">Outerwear</a></li>
+                         <li><a href="/collections/spring-15" title="">Spring 15</a></li>
+                      
+                         <li><a href="/collections/outerwear" title="">Outerwear Sale</a></li>
                       
                          <li><a href="/collections/womens" title="">Shirts</a></li>
                       
                          <li><a href="/collections/womens-sweatshirts" title="">Sweatshirts</a></li>
                       
-                         <li><a href="/collections/hats" title="">Hats</a></li>
+                         <li><a href="/collections/headwear" title="">Hats</a></li>
                       
                          <li><a href="/collections/beanies" title="">Beanies</a></li>
                       
@@ -851,21 +892,6 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
           <li class="nav-item">
             <a class="nav-item-link" href="/collections/adventures">
               Adventures
-            </a>
-          </li>
-        
-
-    
-        
-        
-
-        
-        
-        
-        
-          <li class="nav-item">
-            <a class="nav-item-link" href="http://polerstuff.tumblr.com/">
-              Tumblr
             </a>
           </li>
         
@@ -957,6 +983,8 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
               
                 <li class="sub-nav-item"><a href="/pages/return-policy" title="">Return Policy</a></li>
               
+                <li class="sub-nav-item"><a href="/pages/warranty-stuff" title="">Warranty Stuff</a></li>
+              
                 <li class="sub-nav-item"><a href="/pages/privacy-policy" title="">Privacy Policy</a></li>
               
             </ul>
@@ -980,8 +1008,6 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
               <li class="bg"></li>
               
                 <li class="sub-nav-item"><a href="/pages/us-shipping-policy" title="">USA Shipping</a></li>
-              
-                <li class="sub-nav-item"><a href="/pages/canada-shipping-policy" title="">Canada Shipping</a></li>
               
                 <li class="sub-nav-item"><a href="/pages/int-l-shipping-policy" title="">International Shipping</a></li>
               
@@ -1036,7 +1062,8 @@ var __st={"a":2111616,"offset":-28800,"reqid":"4bc902f7-2201-4bbc-9579-893282470
 <p style="font-size: 20px;">&nbsp;</p>
 <p style="font-size: 20px;">How do I withdraw my consent?</p>
 <p style="font-size: 20px;"><br>If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at customerservice@polerstuff.com or mailing us at:</p>
-<p style="font-size: 20px;"><br>Poler Stuff<br>1215 SE 8th Avenue Portland Oregon US 97214</p>
+<p style="font-size: 20px;"><br>Poler Stuff</p>
+<p style="font-size: 20px;">123 NE 3rd Ave STE 004, Portland, OR 97232</p>
 <p style="font-size: 20px;">&nbsp;</p>
 <p style="font-size: 20px;">SECTION 3 - DISCLOSURE</p>
 <p style="font-size: 20px;">We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.</p>
@@ -1109,7 +1136,7 @@ var google_remarketing_only = true;
 
     <div class="column-1 large-2 columns">
     <a href="/" role="banner" title="Poler Stuff">
-    <img class="toplogo" style="margin-top: 30px;" src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/polerlogo.svg?30861" data-retina="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/polerlogo.svg?30861" alt="Poler Stuff" width="100px"> 
+    <img class="toplogo" style="margin-top: 30px;" src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/polerlogo.svg?6370196154437922411" data-retina="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/polerlogo.svg?6370196154437922411" alt="Poler Stuff" width="100px"> 
     </a>
     </div>
     
@@ -1119,7 +1146,9 @@ var google_remarketing_only = true;
         <div class="content">
           <p class="text">413 SW 10th Ave Portland, OR 97205
 <br>
-10am - 6pm Monday - Sunday
+11am - 7pm Monday - Saturday
+<br>
+11am - 6pm Sunday
 <br>
 503-432-8120
 <br>
@@ -1171,6 +1200,8 @@ var google_remarketing_only = true;
             <li><a href="/pages/contact-us" title="Contact Us">Contact Us</a></li>
           
             <li><a href="/pages/return-policy" title="Return Policy">Return Policy</a></li>
+          
+            <li><a href="/pages/warranty-stuff" title="Warranty Stuff">Warranty Stuff</a></li>
           
             <li><a href="/pages/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
           
@@ -1231,8 +1262,8 @@ var google_remarketing_only = true;
     </div>
   </footer>
 
-  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/plugins.js?30861" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/shop.js?30861" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/plugins.js?6370196154437922411" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/shop.js?6370196154437922411" type="text/javascript"></script>
   
   
   
@@ -1256,7 +1287,7 @@ window.onload = function(){
 }());
 </script>
 
-<script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/ig_welcome_mat.js?30861" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0211/1616/t/10/assets/ig_welcome_mat.js?6370196154437922411" type="text/javascript"></script>
 
 
 
