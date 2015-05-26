@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the master-resale-rights.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120050215id_/http%3A//master-resale-rights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the master-resale-rights.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526064801id_/http%3A//master-resale-rights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Private Label Rights (PLR), Master Resale Rights, Resell Rights, Private Label Right, plr ebook, video, plr articles. Worlds largest catalog.
 
