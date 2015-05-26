@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the verticalscope.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822063414id_/http%3A//www.verticalscope.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalscope.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526065306id_/http%3A//www.verticalscope.com/privacy-statement.html) for the most accurate reproduction.*
 
-# VerticalScope : Privacy Statement
+# VerticalScope.com
+
+## Privacy Statement
 
 VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users. 
 
