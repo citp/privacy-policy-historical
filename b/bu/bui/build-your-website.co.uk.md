@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117065019id_/http%3A//www.build-your-website.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526060900id_/http%3A//www.build-your-website.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,21 +9,19 @@ personal information we collect and how we use it.
 
 ### Routine Information Collection
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and  
-referring pages. None of this information can personally identify specific visitors to this site.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages.
 
-The information is tracked for routine administration and maintenance  
-purposes.
+None of this information can personally identify specific visitors to this site.
+
+The information is tracked for routine administration and maintenance purposes.
 
 ### Cookies and Web Beacons
 
-Where necessary, **Build-your-website** uses cookies to store information about a visitor’s preferences and history in order to better serve the  
-visitor and/or present the visitor with customized content.
+Where necessary, **Build-your-website** uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information.
 
-Such tracking is done directly by the third parties through their own servers  
-and is subject to their own privacy policies.
+Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
 In particular this site use Google Adsense and,
 
@@ -43,18 +41,18 @@ Disabling cookies for all sites is not recommended as it may interfere with your
 
 ### Email Addresses
 
-Our site’s registration and contact forms require that you enter your email address and contact name and other such information. This information is used to send out our electronic newsletter, query responses and other information about other products and services offered by the  
-website [www.build-your-website.co.uk.](http://www.build-your-website.co.uk./)
+Our site’s registration and contact forms require that you enter your email address and contact name and other such information. This information is used to send out our electronic newsletter, query responses and other information about other products and services offered by the website **www.build-your-website.co.uk**.
 
 **We will not give away or sell your email address**.  
-In the event that this website is sold you will be given 1 month advance  
-notice and the option to remove yourself from the email list.
+In the event that this website is sold you will be given 1 month advance notice and the option to remove yourself from the email list.
 
 **You are free to opt out of the list at any time**!
 
 ### How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal  information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our **Contact Us** page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information.
+
+If you have submitted personal  information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our **Contact Us** page.
 
 ### Updates and Effective Date
 
