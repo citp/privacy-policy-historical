@@ -1,8 +1,12 @@
-<!--The following is the downloaded HTML source of the ideacellular.com privacy policy that was archived on 2014-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125034859id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideacellular.com privacy policy that was archived on 2015-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526182612id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<meta charset="utf-8">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+<title>Idea Cellular – Cell Phone Services |3G, Prepaid, Postpaid &amp; Wireless Internet</title>
+<link rel="icon" type="image/ico" href="/ISC/images/idea.ico">
+<link rel="shortcut icon" href="/ISC/images/idea.ico">
 
 <script type="text/javascript" src="https://b3.mookie1.com/0/B3/ZAM/ZAP_bolt.js" id="zap_bolt"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NLDQBX"></script><script type="text/javascript">
    if (self === top) {
@@ -14,148 +18,33 @@ else
 top.location = self.location;
 }
 </script>
- </head>
-
-<body>
- 
-<div id="container" style="z-index: 10000;">
+</head><body><div id="container" style="z-index: 10000;">
 
 <meta http-equiv="X-Frame-Options" content="deny">
 
  <script type="text/javascript">
- var cirId = 'null';
+ var cirId = '';
  </script>
-<title>Idea Cellular – Cell Phone Services |3G, Prepaid, Postpaid &amp; Wireless Internet</title>
-<link rel="icon" type="image/ico" href="/ISC/images/idea.ico">
-<link rel="shortcut icon" href="/ISC/images/idea.ico">
 <script>
 var selctedPlanType='';
 </script>
-
-
 <link href="/ISC/style/stylesheet.css" rel="stylesheet" type="text/css">
 <link href="/ISC/style/threecolumn.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/ISC/style/jqueryStyle/jquery.ui.tabs.css">
-
+<link rel="stylesheet" href="/ISC/style/jqueryStyle/jquery.ui.css">
+<!--<link rel="stylesheet" href="/ISC/style/jqueryStyle/jquery.ui.tabs.css">
 <link rel="stylesheet" href="/ISC/style/jqueryStyle/jquery.ui.dialog.css">
-<!--<link href="/ISC/style/jquery-ui-1.8.25.custom.css" rel="stylesheet" type="text/css">-->
-
+<link href="/ISC/style/jqueryStyle/jquery.ui.menu.css" rel="stylesheet" type="text/css">-->
+<link href="/ISC/style/jqueryStyle/jquery.ui.autocomplete.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]>
 <script type="text/javascript" src="/ISC/scripts/html5.js"></script>
-
-
-
+<link href="/ISC/style/ie8.css" rel="stylesheet" type="text/css">
 <![endif]-->
-<script type="text/javascript" src="/ISC/scripts/jquery-1.9.1.js"></script>
-<script type="text/javascript" src="/ISC/scripts/jquery.ui.core.js"></script>
-<script type="text/javascript" src="/ISC/scripts/jquery.ui.widget.js"></script>
-<script type="text/javascript" src="/ISC/scripts/jquery.ui.accordion.min.js"></script>
-<script type="text/javascript" src="/ISC/scripts/jquery.ui.tabs.js"></script>
+<script type="text/javascript" src="/ISC/scripts/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/ISC/scripts/jquery-ui.js"></script> 
 <script type="text/javascript" src="/ISC/scripts/jquery.glide.js"></script>
 <script type="text/javascript" src="/ISC/scripts/global.js"></script>
-<script type="text/javascript" src="/ISC/scripts/jquery.ui.dialog.js"></script>
-<!--[if lt IE 9]>
-   <script>
-      document.createElement('header');
-      document.createElement('nav');
-      document.createElement('section');
-      document.createElement('article');
-      document.createElement('aside');
-      document.createElement('footer');
-   </script>
-<![endif]-->
-<script type="text/javascript">
-function checkCircle(planType)
-{
+<script type="text/javascript" src="/ISC/scripts/idea-wcm-scripts.js"></script>
 
-var circleId=cirId;
-if(circleId == 'null')
-{
-
-    $.ajax({
-      type: "POST",
-      url: "/IdeaWcmWebComponent/ValidateURLParam",
-      data: {planValue: planType},
-      success: function(msg) 
-     {
-     
-      if(msg=="success")
-      {
-       window.location.href="/idea/select-circle?PlanType="+planType;
-      }
-       else if(msg=="Invalid")
-      {
-       alert("Invalid Input");
-      }
-
-      
-     }
-
-    });
-
-}
-else{
- $.ajax({
-      type: "POST",
-      url: "/IdeaWcmWebComponent/CircleSelectionServlet",
-      data: { circle: circleId ,planValue: planType},
-      success: function( msg ) 
-     {
-         if(msg=="Invalid")
-         {
-          alert("Invalid Input");
-         }
-         else
-         {
-         window.location.href=msg;
-         }
-      }
-    });
-}
-
-}
-function validate(vasParam)
-{
-     $.ajax({
-      type: "POST",
-      url: "/IdeaWcmWebComponent/ValidateURLParam",
-      data: {planValue: vasParam},
-      success: function(msg) 
-     {
-      if(msg=="success")
-      {
-       window.location.href="/customer/value-added-services/service-details?PlanType="+vasParam;
-       }
-       else if(msg=="Invalid")
-       {
-        alert("Invalid Input");
-       }    
-     }
-
-    });
-}
-function generateHomePageURL()
-{
-var hostname=location.hostname;
-var protocol = location.protocol;
-var url=protocol+"//"+hostname;
-window.location.href=url;
-}
-function setLeftNavPlanType(leftNavPlanType)
-{
- 
-     $.ajax({
-      type: "POST",
-      url: "/IdeaWcmWebComponent/ValidateURLParam",
-      data: {leftNavPlanType: leftNavPlanType},
-      success: function(msg) 
-     {
-     }
-
-    });
-}
-
-</script>
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NLDQBX"
@@ -186,12 +75,22 @@ catch (e) { }
 //]]>
 </script>
 <!-- ZAP Lightning Bolt Ends -->
+
+<!--[if lt IE 9]>
+   <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+   </script>
+<![endif]-->
+
        <header>
         <div id="ideaLogo" class="fltlft" style="z-index: 9990;"> <a onclick="generateHomePageURL()" href="#"> <img src="/ISC/images/ideaLogo.jpg" width="76" height="46" alt="Idea"> </a> </div>
 
-<div id="abGroupLogo" class="fltrt" style="z-index: 9980;">
-
-    <a href="#" onclick="callPopup('the Aditya Birla Group\'s website','http://www.adityabirla.com/home')"><img id="adityaGroup" src="/ISC/images/abGroupLogo.jpg" width="85" height="42" alt="Aditya Birla Group"></a>
+<div id="abGroupLogo" class="fltrt" style="z-index: 9980;"><a href="#" onclick="callPopup('the Aditya Birla Group\'s website','http://www.adityabirla.com/home')"><img id="adityaGroup" src="/ISC/images/abGroupLogo.jpg" width="85" height="42" alt="Aditya Birla Group"></a>
 
     </div>
 
@@ -225,7 +124,7 @@ catch (e) { }
                     <li><a href="/switch-to-idea?ServiceType=post" target="_blank">MNP</a></li>
                     <li><a target="" title="" href="javascript:checkCircle('PostAct')">Activations</a></li>
                     <li><a href="https://care.ideacellular.com/wps/portal/account/express-paybill">Bill pay</a></li>
-                    <li class="highlight"><a href="/customer/postpaid/take-a-new-postpaid-connection/">Take a New Connection</a></li>
+                    <li class="highlight"><a href="/customer/postpaid/take-a-new-postpaid-connection">Take a New Connection</a></li>
                   </ul>
                 </div>
                 <div class="column" style="z-index: 9910;"> <img src="/ISC/images/widgets/Mega_Menu/Prepaid.jpg" width="131" height="81">
@@ -235,7 +134,7 @@ catch (e) { }
                     <li><a href="/switch-to-idea?ServiceType=pre" target="_blank">MNP</a></li>
                     <li><a target="" title="" href="javascript:checkCircle('PreAct')">Activations</a></li>
                     <li><a href="https://care.ideacellular.com/wps/portal/account/online-recharge">Online  Recharge</a></li>
-                    <li class="highlight"><a href="/customer/prepaid/take-a-new-prepaid-connection/">Take a New Connection</a></li>
+                    <li class="highlight"><a href="/customer/prepaid/take-a-new-prepaid-connection">Take a New Connection</a></li>
                   </ul>
                 </div>
                 <div class="column" style="z-index: 9900;"> <img src="/ISC/images/widgets/Mega_Menu/VAS.jpg" width="131" height="81">
@@ -244,7 +143,7 @@ catch (e) { }
                     <li id="ideaMall"><a href="http://www.ideamall.in/" target="_blank">Idea App Mall</a></li>
 
               <li id="dialerTone"><a href="http://ideadialertones.com/" target="_blank">Dialer Tones</a></li>
-                    <li><a href="javascript:validate('cricket')" id="cricket">Cricket &amp; Sports</a></li>
+                    <li><a href="javascript:validate('cricket')">Cricket &amp; Sports</a></li>
                     <li><a href="javascript:validate('humour')" id="humour">Humour &amp; Astrology</a></li>
 <li><a href="javascript:validate('movies')" id="movies">Movies &amp; Videos</a></li>
 
@@ -257,8 +156,8 @@ catch (e) { }
                     <li><a href="/mobile-internet/overview">2G</a></li>
                     <li><a href="/mobile-internet/overview">3G</a></li>
                     
-	 	    <li><a href="/mobile-internet/3G/get-idea-3G">Get Idea 3G</a></li>
-	 	    <li><a href="/mobile-internet/3G/usage-calculator">3G Usage Calculator</a></li>
+	 	    <li><a href="/mobile-internet/3g/get-idea-3g">Get Idea 3G</a></li>
+	 	    <li><a href="/mobile-internet/3g/usage-calculator">3G Usage Calculator</a></li>
                   </ul>
                 </div>
                 <div class="column" style="z-index: 9880;"> <img src="/ISC/images/widgets/Mega_Menu/Roaming.jpg" width="131" height="81">
@@ -270,11 +169,11 @@ catch (e) { }
                   </ul>
                 </div>
                 <div class="column" style="z-index: 9870;"> <img src="/ISC/images/widgets/Mega_Menu/Support.jpg" width="131" height="81">
-                  <h3><a href="/customer-care/Overview">Support</a></h3>
+                  <h3><a href="/customer-care/overview">Support</a></h3>
                   <ul>
                      <li><a href="/customer-care/need-help/idea-office-locations">Office Locations</a></li>
                      <li><a href="/customer-care/customer-faqs">FAQs</a></li>
-                     <li><a href="/customer-care/need-help/locate-idea-store">Store Locations</a></li>
+                     <li><a target="" title="" href="javascript:checkCircle('StoreLoc')">Store Locations</a></li>
                      <li><a href="https://twitter.com/idea_CARES" target="_blank">Idea_CARES@twitter</a></li>
                   </ul>
                 </div>
@@ -291,7 +190,7 @@ catch (e) { }
             <!--Regular Menu Button Ends--> 
             
             <!-- Regular Menu Button -->
-             <li><a href="/new-offers/overview"> Latest Offers</a></li>
+             <li><a href="/new-offers/overview">Latest Offers</a></li>
             <!-- Regular Menu Button Ends--> 
             
             <!-- Regular Menu Button -->
@@ -523,7 +422,8 @@ else
     <li><a href="/idea/promotions">Terms and Conditions</a></li>
     <li><a href="/idea/privacy-policy">Privacy Policy</a></li>
 <li><a href="/wps/wcm/connect/709ff7e8-0c41-43ec-8182-42aa43ebbc91/Mobile%2BCommunication-Radio%2BWaves%2Band%2BSafety%2B10th%2Bsept%2B12%2Bfinal.pdf?MOD=AJPERES" target="_blank">Customer Health</a></li>
-<li><a href="/wps/wcm/connect/9894142c-4f75-4c08-89a7-6bc26d935414/Sitemap.xls?MOD=AJPERES" target="_blank">Site Map</a></li>
+<!--<li><a href="/wps/wcm/connect/9894142c-4f75-4c08-89a7-6bc26d935414/Sitemap.xls?MOD=AJPERES" target="_blank" >Site Map</a></li>-->
+<li><a href="/sitemap">Site Map</a></li>
 </ul>
 </div>
 <div class="clearBoth" style="z-index: 9690;"></div>
@@ -532,13 +432,16 @@ else
      	<ul>
         	<li>Before an online recharge, kindly visit the Online tariff section for a detailed description.</li>
             <li>Dear Subscribers, kindly do not respond to missed calls from unknown international numbers or calls about winning prizes or lottery.</li>
+<li>Deactivation of Data Service: You can deactivate data services from your data default plan by sending an SMS “STOP” to 1925, or dial 1925 and then press 0.</li>
+<li>Reactivation of Data Service: You can reactivate data services if you have deactivated the data services earlier, by sending an SMS “START” to 1925, or dial 1925 and then press 1.</li>
             <li>Deactivation of Value Added Service (VAS): To cancel a VAS subscription, SMS "STOP" to 155223 (toll free) and select the service you wish to deactivate OR Dial 155223 (toll free) and select the service you wish to deactivate.</li>
+<li>Idea Money is an initiative from Idea Mobile Commerce Services Ltd. (IMCSL).</li>
         </ul>
      </div>
 <div class="clearBoth" style="z-index: 9670;"></div>
 <div class="copyRights" style="z-index: 9660;">
     <ul>
-    <li> © 2014 Idea Cellular Ltd. </li>
+    <li> © 2015 Idea Cellular Ltd. </li>
     <li> Best View 1024*768 + IE8 +</li>
     </ul>
     </div>
