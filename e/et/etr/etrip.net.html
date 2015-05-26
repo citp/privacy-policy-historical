@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the etrip.net privacy policy that was archived on 2014-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141002025042id_/http%3A//etrip.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etrip.net privacy policy that was archived on 2015-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526062849id_/http%3A//etrip.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <title>etrip.net - Privacy Policy</title>
@@ -81,7 +81,7 @@ var ADAPT_CONFIG = {
         <div class="main-nav">
           <ul>
             <li class="selected"><a href="http://etrip.net/hotels">Hotels</a></li>
-            <li class=""><a href="http://etrip.net/car-rental">Car Rental</a></li>
+            <li id="carrentalheader" class=""><a href="http://etrip.net/car-rental">Car Rental</a></li>
             <!--<li><a href="#">Flights</a></li>-->
           </ul>
         </div>
@@ -205,15 +205,37 @@ $(document).ready(function(){
                 <div class="top">
                   <div>
                   <ul class="footer-links">
-                      <li><a href="http://etrip.net/aboutus">About us</a> |</li> 
-                      <li><a href="http://etrip.net/privacy">Privacy Policy</a> |</li> 
-                      <li><a href="http://etrip.net/terms">Terms of use</a> |</li> 
-                      <li><a href="http://etrip.net/contact">Contact</a> |</li> 
-                      <li><a href="http://etrip.net/faqhotels">Hotels FAQ</a> |</li> 
-                      <li><a href="http://etrip.net/faqcars">Car Rental FAQ</a> |</li>
-                      <li><a href="http://etrip.net/app">Apps</a></li>                      
+				   <script>
+				  $(document).ready(function () {
+				  
+				  
+				if ($("#lang-selector option:selected").val() == "AR" )
+					{
+					$(".site-intro").attr('style','margin-top:42px;');	
+					$("#aboutus").attr('style','width:22px;');
+					$("#privacy").attr('style','width:87px;');
+					$("#terms").attr('style','width:77px;');
+					$("#contact").attr('style','width:47px;');
+					$("#CFAQ").attr('style','width:137px;');
+					$("#HFAQ").attr('style','width:107px;');
+					$("#app").attr('style','width:47px;');
+					$("#carrentalheader").attr('style','width:160px;');
+					
+					
+					}
+					
+        
+				  });
+				  </script>  
+                      <li id="aboutus"><a href="http://etrip.net/aboutus">About us</a> </li> 
+                      <li id="privacy"> <a style="padding:3px 3px 0px 3px;">|</a><a href="http://etrip.net/privacy">Privacy Policy</a></li> 
+                      <li id="terms"><a style="padding:3px 3px 0px 3px;">|</a><a href="http://etrip.net/terms">Terms of use</a> </li> 
+                      <li id="contact"><a style="padding:3px 3px 0px 3px;">|</a><a href="http://etrip.net/contact">Contact</a> </li> 
+                      <li id="HFAQ"><a style="padding:3px 3px 0px 3px;">|</a><a href="http://etrip.net/faqhotels">Hotels FAQ</a> </li> 
+                      <li id="CFAQ"><a style="padding:3px 3px 0px 3px;">|</a><a href="http://etrip.net/faqcars">Car Rental FAQ</a> </li>
+                      <li id="app"><a style="padding:3px 3px 0px 3px;">|</a><a href="http://etrip.net/app">Apps</a></li>                      
                   </ul>
-                </div>
+				  </div>
                </div>
               <div class="site-intro">
                   <p>Etrip helps you compare hotel prices from hundreds of different travel sites. We have access to millions of hotel deals worldwide and aim to provide you with the best possible price and availability for your hotel of choice.</p>
