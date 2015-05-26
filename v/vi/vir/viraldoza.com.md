@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viraldoza.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127191430id_/http%3A//www.viraldoza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraldoza.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526023234id_/http%3A//viraldoza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viral Doza
 
