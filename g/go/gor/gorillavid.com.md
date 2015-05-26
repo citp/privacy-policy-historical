@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gorillavid.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228021534id_/http%3A//gorillavid.in/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorillavid.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526175449id_/http%3A//gorillavid.in/pages/privacy.html) for the most accurate reproduction.*
 
-# GorillaVid - Just watch it!
+# GorillaVid - Cara mudah untuk membagi file anda
 
 ### Privacy
 
