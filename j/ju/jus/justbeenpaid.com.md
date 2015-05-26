@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justbeenpaid.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217151843id_/http%3A//adclickxpress.com/home/legal/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justbeenpaid.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526203925id_/http%3A//adclickxpress.com/home/legal/privacy-policies) for the most accurate reproduction.*
 
 # Ad Click Xpress :: Privacy Policies
 
