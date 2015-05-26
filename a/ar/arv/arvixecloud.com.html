@@ -1,0 +1,685 @@
+<!--The following is the downloaded HTML source of the arvixecloud.com privacy policy that was archived on 2015-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526180112id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="en-us"><head>
+
+	 <title>Arvixe Privacy Policy</title>
+
+	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	 <meta name="Author" content="Arvixe Web Design">
+	 <meta name="copyright" content="Arvixe Web Solutions">
+	 <meta name="description" content="Arvixe Privacy Policy outlines the policies in place to protect our customer's privacy as well as establish our adherence to the US-EU Safe Harbor program's key principles of secure data transmission.">
+	 <meta name="keywords" content="privacy policy, pp, privacypolicy, safe harbor, US-EU Safe Harbor, privacy protection, consumer privacy">
+	 <meta name="verify-v1" content="+5YyiwckKNkxZEHzi3qsNmIpfx//jlgR2Zs4IxQZW2g=">
+	 <meta name="y_key" content="cf41528449b1ed12">
+	 <meta name="alexaVerifyID" content="cXSJdPxAsDyub2hgxjmnJ35XKfc">
+
+    
+        <link rel="alternate" hreflang="en-us" href="http://www.arvixe.com/pp.php">
+<link rel="alternate" hreflang="en-gb" href="http://www.arvixe.co.uk/pp.php">
+<link rel="alternate" hreflang="es-mx" href="http://www.arvixe.mx/pp.php">
+<link rel="alternate" hreflang="ru" href="http://www.arvixe.ru/pp.php">
+<link rel="alternate" hreflang="en-ca" href="http://www.arvixe.ca/pp.php">
+<link rel="alternate" hreflang="de" href="http://www.arvixe.de/pp.php">
+<link rel="alternate" hreflang="fr" href="http://www.arvixe.fr/pp.php">
+<link rel="alternate" hreflang="tr" href="http://www.arvixe.com.tr/pp.php">
+<link rel="alternate" hreflang="ar" href="http://www.arvixe.ae/pp.php">
+<link rel="alternate" hreflang="zh-cn" href="http://www.arvixe.cn/pp.php">
+<link rel="alternate" hreflang="zh-hk" href="http://www.arvixe.hk/pp.php">
+<link rel="alternate" hreflang="en-in" href="http://www.arvixe.in/pp.php">
+<link rel="alternate" hreflang="zh-tw" href="http://www.arvixe.tw/pp.php">
+    
+	<style type="text/css"> img { border: none; } </style>
+        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/8012.js?439482" async="" type="text/javascript"></script><script src="https://c.compete.com/bootstrap/25f19125dfcbc47e8a015876798a7c86/bootstrap.js " type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/mootools.js"></script>
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+      <!-- <script>
+        // A bit paranoid if we think google will mess up?
+        // !window.jQuery && document.write('<script src="/js/jquery191/js/jquery-1.9.1.js"></script>')
+      </script> -->
+      <script>jQuery.noConflict()</script>
+      <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+      <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body><div id="knowledge_base_dialog" class="font" style="display: none"> <!-- Inline is intentional. This will be included by various pages, some lacking our CSS files. -->
+	<div>
+		<p class="inline">Your Question:</p>
+		<input id="knowledge_base_question" class="font spacing" type="text" maxlength="100">
+		<button id="knowledge_base_search" class="font spacing">Search</button>
+		<button id="knowledge_base_cancel" class="font spacing">Cancel</button>
+		<p id="knowledge_base_error" class="error">Please enter a question</p>
+	</div>
+	
+	<div id="response_sources">
+		<div id="knowledge_base">
+			<p class="title">Searching Knowledgebase:</p>
+			<div class="loader"><img src="/images/ajax-loader.gif"></div>
+			<p class="results"></p>
+		</div>
+		
+		<div id="blog_entries">
+			<p class="title">Searching Blog:</p>
+			<div class="loader"><img src="/images/ajax-loader.gif"></div>
+			<p class="results"></p>
+		</div>
+		
+		<div id="comunity_forums">
+			<p class="title">Searching Forum:</p>
+			<div class="loader"><img src="/images/ajax-loader.gif"></div>
+			<p class="results"></p>
+		</div>
+	</div>
+	
+	<div id="knowledge_base_feedback">
+		<p class="inline">Was this search helpful?</p>
+		<button id="unhelpful_answer" class="font spacing">No, Continue to LiveChat</button>
+		<button id="helpful_answer" class="font spacing">Yes, I'm good! </button>
+	</div>
+</div>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery('#knowledge_base_search').click(search_knowledge_base);
+	jQuery('#knowledge_base_question').keypress(function(event) { if(event.which == 13) { search_knowledge_base(); };});
+	jQuery('#knowledge_base_cancel').click(close_knowledge_base_dialog);
+	jQuery('#helpful_answer').click(function () {process_search_response(true);});
+	jQuery('#unhelpful_answer').click(function () {process_search_response(false);});
+});
+
+function search_knowledge_base() {
+	jQuery('#knowledge_base .results, #blog_entries .results, #comunity_forums .results, #knowledge_base_error').hide();
+	
+	var search_question = jQuery.trim(jQuery('#knowledge_base_question').val());
+	if(search_question.length == 0) {
+		jQuery('#knowledge_base_error').show();
+		return;
+	}
+	
+	jQuery('#knowledge_base, #knowledge_base .loader, #blog_entries, #blog_entries .loader, #comunity_forums, #comunity_forums .loader, #knowledge_base_feedback').show();
+	jQuery('#knowledge_base .results').load('/public_includer.php', { script: 'structure/sphinx/kbindex.php', data: search_question }, function() { show_results(jQuery('#knowledge_base')); });
+	jQuery('#blog_entries .results').load('/public_includer.php', { script: 'structure/sphinx/blogindex.php', data: search_question }, function() { show_results(jQuery('#blog_entries')); });
+	jQuery('#comunity_forums .results').load('/public_includer.php', { script: 'structure/sphinx/forumindex.php', data: search_question }, function() { show_results(jQuery('#comunity_forums')); });
+}
+
+function show_results(response_container) {
+	response_container.children('.loader').hide();
+	if(response_container.children('.results').html().indexOf('None Found.') != -1) response_container.children('.results').html('No Articles Found'); 
+	response_container.children('.results').show();
+	jQuery('#knowledge_base_dialog').dialog({ position: { my: 'center', at: 'center', of: window }});
+}
+
+function show_knowledge_base_dialog() {
+	var knowledge_base_dialog = jQuery('#knowledge_base_dialog').dialog({ 
+		autoOpen: false, 
+		resizable: false, 
+		modal: true,
+		maxHeight: 700,
+		maxWidth: 1000,
+		show: { effect: 'fade', duration: 500 },
+		width: 'auto',
+		height: 'auto',
+		position: { my: 'center', at: 'center', of: window},
+		open: function() { jQuery('.ui-widget-overlay').bind('click', function() { jQuery('#knowledge_base_dialog').dialog('close'); }); }});
+	jQuery('.ui-dialog-titlebar').hide();
+	jQuery('.ui-dialog').css('padding', '0');
+	jQuery('.ui-dialog').css('border-color', '#FFFFFF');
+	jQuery(knowledge_base_dialog).dialog('open');
+	jQuery('.ui-dialog, #knowledge_base_dialog').css('min-height', '30px');
+}
+
+function process_search_response(helpful) {
+	store_search_response(helpful);
+	if( !helpful) continue_to_chat();
+	close_knowledge_base_dialog();
+}
+
+function store_search_response(helpful) {
+	jQuery.ajax({
+		url: 'http://www.arvixe.com/knowledge_base_search.php',
+		method: 'POST',
+		data: { 
+			store_response: 'true',
+			helpful: helpful ? 'Y' : 'N',
+			search_term: jQuery.trim(jQuery('#knowledge_base_question').val()),
+		},
+		success: function() {},
+		error: function() {}
+	});
+}
+
+function continue_to_chat() {
+	var function_name = jQuery('#chat_blocker').next().children('a').prop('href').replace('javascript:', '').replace("('0');", '');
+	var function_content = eval(function_name+'.toString()');
+	var window_open_statment = function_content.substring(function_content.indexOf('chatwindow'), function_content.indexOf(';', function_content.indexOf('chatwindow')) + 1);
+	function_content = function_content.replace(window_open_statment, '');
+	invoke_chat_window = new Function('proactive', function_content.substring(function_content.indexOf('{')+1, function_content.lastIndexOf('}')));
+	invoke_chat_window('0');
+	window.open('http://www.arvixe.com/knowledge_base_search.php'+'?show_chat=true&chat_url='+encodeURIComponent(_chatWindowURL)+'&subject='+encodeURIComponent(jQuery.trim(jQuery('#knowledge_base_question').val())), 'chatWindow',
+			'toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=yes,resizable=1,width=599,height=679,left='+docWidth+',top='+docHeight);
+}
+
+function close_knowledge_base_dialog() {
+	jQuery('#knowledge_base_dialog').dialog('close');
+	jQuery('#knowledge_base_dialog').dialog('destroy');
+}
+</script>      <link type="text/css" rel="stylesheet" href="css/jquery-ui.min.css">
+      <script type="text/javascript">
+        jQuery(document).ready(function() {
+         jQuery('.domaintip').tooltip({position: {my: 'center bottom-6', at: 'center top'}});
+          jQuery('.tipS').hover(function() { jQuery('.tipS').tooltip('close'); }).tooltip({
+              position: {my: 'right-10'},
+              content: function(callback) {
+              jQuery.get('descriptions.php', { tooltip : jQuery(this).attr('id') }).done(function(data) { callback(data); });
+            }
+          });
+          jQuery('#swifttagdatacontainerjykzdziyk2').append('<div id="chat_blocker" style="cursor: pointer; height: 45px; position: absolute; width: 140px;"></div>');
+          jQuery('#chat_blocker').click(show_knowledge_base_dialog);
+        });
+      </script>
+      
+    <link type="text/css" rel="stylesheet" media="all" href="css/alert.css">
+  <link rel="stylesheet" href="css/styleset.css" type="text/css">
+  <link rel="stylesheet" href="css/topbox.css" type="text/css">
+
+  <link rel="shortcut icon" href="/favicon.ico">
+  <script type="text/javascript" src="js/general.js"></script>
+     <!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-513718-1']);
+  _gaq.push(['_setDomainName', 'arvixe.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview', '%2Fpp.php']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  <!-- SiteWit -->
+  <script type="text/javascript">
+    var loc = (("https:" == document.location.protocol) ? "https://analytics." : "http://analytics.");
+    document.write(unescape("%3Cscript src='" + loc + "sitewit.com/v3/1246909220/sw.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://analytics.sitewit.com/v3/1246909220/sw.js" type="text/javascript"></script>
+  <!--[if lt IE 9]>
+  <style type="text/css">
+    ul.navigator>li {
+      background: url("../images/main/navigator-background.png") repeat rgb(72,72,72);
+    }
+  </style>
+  <![endif]-->
+ 
+
+
+ 
+    <table><tbody><tr><td height="15"></td></tr></tbody></table>
+    <div align="center">
+        <table class="container" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+                <td class="container">
+                    <div align="center">
+
+                        <table cellspacing="0" cellpadding="0" class="content">
+                            
+<style>
+	body {
+	   margin : 0px 0px 0px 0px;
+	background:  #014c83 url("/images/background4.png") repeat-x top left;
+		}
+    a.main_links {
+      color: #5c5c5c;
+      font-size: 11px;
+      font-family: Verdana, Arial;
+      margin: 0px 0px 0px 0px;
+      font-weight: normal;
+      text-decoration: none;
+      }
+
+      a.main_links:hover {
+      color: #333333 !important;
+	  text-decoration: none;
+      }
+</style>
+
+
+  <tbody><tr>
+   <td height="10">
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+   
+<div align="center">
+ 
+	<table cellspacing="0" cellpadding="0" width="940">
+	 <tbody><tr>
+	  <td valign="middle" style="padding-left: 20px;" align="left" width="213" height="100">
+	   <a href="/"><img src="/images/logo_hosting.png" width="213" height="100" border="0" alt="Arvixe Web Hosting" style="padding: 0px; margin: 0px;"></a>
+	  </td>
+	  <td valign="bottom" width="727" align="right" style="padding-right: 20px;">
+
+      <table>
+       <tbody><tr>
+        <td align="right">
+        
+           <table cellspacing="0" cellpadding="0" style="margin-top: 5px;">
+            <tbody><tr>
+             <td style="padding-right: 20px;" valign="top">
+<!-- BEGIN FUSION TAG CODE --><div id="proactivechatcontainerjykzdziyk2"></div><table border="0" cellspacing="1" cellpadding="1"><tbody><tr><td align="center" id="swifttagcontainerjykzdziyk2"><div style="display: inline;" id="swifttagdatacontainerjykzdziyk2"></div><script type="text/javascript" src="https://support.arvixe.com/visitor/index.php?/default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPWp5a3pkeml5azImdmVyc2lvbj00LjAxLjY2JnByb2R1Y3Q9RnVzaW9uJmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CjI3NDEwMzM1Y2MxZDg1ZTVmMjU3ZWQxZDQwYTBkOWZmYzM4NDM4NjY="></script></td></tr></tbody></table><script type="text/javascript">var swiftscriptelemjykzdziyk2=document.createElement("script");swiftscriptelemjykzdziyk2.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "jykzdziyk2"; var swifttagurljykzdziyk2="https://support.arvixe.com/visitor/index.php?/default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPWp5a3pkeml5azImdmVyc2lvbj00LjAxLjY2JnByb2R1Y3Q9RnVzaW9uJmN1c3RvbW9ubGluZT0mY3VzdG9tb2ZmbGluZT0mY3VzdG9tYXdheT0mY3VzdG9tYmFja3Nob3J0bHk9CjI3NDEwMzM1Y2MxZDg1ZTVmMjU3ZWQxZDQwYTBkOWZmYzM4NDM4NjY=";setTimeout("swiftscriptelemjykzdziyk2.src=swifttagurljykzdziyk2;document.getElementById('swifttagcontainerjykzdziyk2').appendChild(swiftscriptelemjykzdziyk2);",1);</script><!-- END FUSION TAG CODE -->              </td>
+              <td valign="top">
+              
+                <table cellspacing="0" cellpadding="0">
+                 <tbody><tr>
+                  <td height="40">
+                    <font style="display: block;">
+                      <div class="support-text">24x7 U.S. Phone Support</div>
+                      <div class="support-number">1-888-927-8493</div>
+                    </font>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td height="1" bgcolor="#c2c2c2"></td>
+                 </tr>
+	<tr>
+		<td height="40" style="text-align: center;">
+			<a href="https://www.arvixe.com/billing.php" title="Login to Customer Portal" alt="Login to Customer Portal">
+			Login to Customer Portal<img style="vertical-align: middle; margin-left: 15px" alt="Login to Customer Portal" src="images/top_icons/submit_icon.png">
+			</a>
+		</td>
+	</tr>
+                 <tr>
+                  <td height="1" bgcolor="#c2c2c2"></td>
+                 </tr>
+                 <tr>
+                  <td height="10px;">
+                  </td>
+                 </tr>
+                </tbody></table>
+              
+              </td>
+             </tr>
+            </tbody></table>
+
+            
+        </td>
+       </tr>
+       <tr>
+        <td>
+          <font style="display: block;margin-bottom: 14px;">
+          	<a class="main_links" href="http://support.arvixe.com"><img src="images/top_icons/support_icon.png" alt="Support Center" style="vertical-align:text-bottom;" border="0">&nbsp;&nbsp;Support Center</a>
+          	<a class="main_links">&nbsp;&nbsp;</a>
+          	<a class="main_links" href="http://forum.arvixe.com/smf"><img src="images/top_icons/discussion.png" alt="Discussion Board" style="vertical-align:text-bottom;" border="0">&nbsp;&nbsp;Discussion Board</a>
+          	<a class="main_links">&nbsp;&nbsp;</a>
+          	<a class="main_links" href="http://blog.arvixe.com"><img src="images/top_icons/blog_icon.png" alt="Blog" style="vertical-align:text-bottom;" border="0">&nbsp;&nbsp;Blog</a>
+          	<a class="main_links">&nbsp;&nbsp;</a>
+          	<a class="main_links" href="about_arvixe"><img src="images/top_icons/about_icon.png" alt="About Us" style="vertical-align:text-bottom;" border="0">&nbsp;&nbsp;About Us</a>
+          	<a class="main_links">&nbsp;&nbsp;</a>
+          	<a class="main_links" href="/order.php"><img src="images/top_icons/cart_icon.png" alt="View Cart" style="vertical-align:text-bottom;" border="0">&nbsp;&nbsp;View Cart</a></font>
+        </td>
+       </tr>
+      </tbody></table>
+	  </td>
+	 </tr>
+	</tbody></table>
+
+</div>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+
+
+<ul class="navigator border-radius capitalize no-text-select submenu">
+  <li class="border-radius-left dropdown-holder">
+      <a href="/linux_web_hosting"><span class="empty"></span><div class="helvetica-font gray-text-color"><span>personal</span>Class</div><div class="separator"></div></a>
+<!--                 <ul>
+          <li class="divider"></li>
+          <li class="linux-icon"><a href="/linux_web_hosting"><span class="empty"></span>Linux</a></li>
+          <li class="windows-icon"><a href="/asp_net_web_hosting"><span class="empty"></span>Windows</a></li>
+      </ul> -->
+  </li>
+  <li>
+      <a href="/business_web_hosting"><span class="empty"></span><div class="helvetica-font gray-text-color"><span>business</span>Class</div><div class="separator"></div></a>
+<!--                 <ul>
+          <li class="divider"></li>
+          <li class="linux-icon"><a href="/business_web_hosting"><span class="empty"></span>Linux</a></li>
+          <li class="windows-icon"><a href="/asp_net_business_web_hosting"><span class="empty"></span>Windows</a></li>
+      </ul> -->
+  </li>
+  <li>
+      <a href="/reseller_web_hosting"><span class="empty"></span><div class="helvetica-font gray-text-color"><span>reseller</span>Class</div><div class="separator"></div></a>
+<!--                 <ul>
+          <li class="divider"></li>
+          <li class="linux-icon"><a href="/reseller_web_hosting"><span class="empty"></span>Linux</a></li>
+          <li class="windows-icon"><a href="/asp_net_reseller_web_hosting"><span class="empty"></span>Windows</a></li>
+      </ul> -->
+  </li>
+  <li>
+      <a href="/vps_virtual_private_servers_hosting"><span class="empty"></span><div class="helvetica-font gray-text-color"><span>VPS</span>Class</div><div class="separator"></div></a>
+<!--                 <ul>
+          <li class="divider"></li>
+          <li class="linux-icon"><a href="/vps_virtual_private_servers_hosting"><span class="empty"></span>Linux</a></li>
+          <li class="windows-icon"><a href="/windows_vps_hosting"><span class="empty"></span>Windows</a></li>
+      </ul> -->
+  </li>
+  <li class="border-radius-right dropdown-holder">
+      <a href="/managed_dedicated_servers"><span class="empty"></span><div class="helvetica-font gray-text-color"><span>dedicated</span>Class</div></a>
+      <ul>
+          <li class="divider"></li>
+          <li class="cloud-icon"><a href="/cloud"><span class="empty"></span>Cloud Hosting</a></li>
+          <li class="bare-icon"><a href="/bare_metal_servers"><span class="empty"></span>Bare Metal Servers</a></li>
+      </ul>
+  </li>
+</ul>
+
+
+   </td>
+  </tr>
+
+                            <tr>
+                                <td height="20">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+
+                                    <table cellspacing="0" cellpadding="0">
+                                        <tbody><tr>
+                                            <td width="900" valign="top" align="left">
+
+
+
+
+
+                                                <h1><font class="headblack">PRIVACY </font><font class="headblue">POLICY</font></h1>
+												
+												<p class="pretty" style="text-align: justify; text-indent: 1.5em;">Last Updated:&nbsp;<b>April 3rd, 2012</b></p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;">Arvixe, LLC ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. In addition, Arvixe complies with the U.S.-EU Safe Harbor and the U.S.-Switzerland Safe Harbor Framework as set forth by the United States Department of Commerce, the European Union, and Switzerland (for more information on the Safe Harbor Program please visit <a href="http://export.gov/safeharbor">http://export.gov/safeharbor/</a>).  This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Privacy:</b> Arvixe is devoted to creating and nurturing a trusting relationship with its Customers, built on the knowledge that any personal information collected is kept private and secure. In undertaking this commitment, Arvixe will do everything in its capacity to ensure that the integrity of its Customer's privacy is upheld.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Information Collected:</b> Arvixe uses various methods of data collection for ordering and support purposes. These methods include voluntary collection methods, such as through online registration forms, online and offline customer communications, and sales transactions, as well as automated collection systems such as communication protocols and cookies.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;">The personal information collected by Arvixe from Customers varies depending on the method of collection. Personal Identifying Information is collected voluntarily through the use of forms and for the use of the registration and billing of the Customer. This information may include name, title, address, phone number, and e-mail address, as well as information necessary for any financial transactions, such as credit card, CVV, and payment information. Automated means of collection, such as cookies and/or log files, are used to collect information about the use of Arvixe as well as user preferences and privileges.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Automated Information Collection:</b> Arvixe uses common automated information collection systems such as cookies and log files to facilitate the connection between the Customer's computer and the Arvixe servers. There are two types of cookies (pieces of data stored on the user's computer) used by Arvixe: Session cookies and Persistent cookies. These cookies serve to uniquely identify each user, as well as store session and user-specific settings and preferences in or between user sessions. Cookies do not contain personally identifiable information, and, while Arvixe doesn't offer an option to opt-out of cookies, browsers provide tools to monitor and control the acceptance, duration, and use of cookies.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;">Arvixe also makes use of log files in order to track information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), platform type and date/time stamps. Included in the log files, Arvixe gathers information that can be used in trend analysis, administration of the site, and overall demography tracking; this information is gathered through the counting of clicks and not linked to personally identifiable information.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Use of Information:</b> Arvixe uses collected information for a variety of purposes. These purposes include completing transactions for service, to best respond to user support or sales inquiries, to notify or alert customers of events relevant to their service, and to better accommodate the overall needs of Arvixe customers. To this end, Arvixe may need to share some of the data collected with banking institutions, outside contractors, or trusted affiliates. This information will not be transferred to any of the aforementioned parties unless they are proven to subscribe to the Safe Harbor Principles or are, themselves, subject to the EU Directive on Data Protection and thereby provide the same level of privacy protection required by the Safe Harbor Principles.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;">Information collected by Arvixe may also be used to evaluate the adequacy of current systems of marketing and sales, as well as provide insight into the effectiveness of potential changes within these systems. Under no circumstances will Arvixe share this information with a third party for compensation or for free, unless the Customer specifically authorizes the disclosure.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;">Aggregate, anonymous data collected may be used by Arvixe in discussion and/or correspondence with investors and potential partners. This data is statistical in nature, and will not include personally identifiable information. If the ownership is changed, information collected by Arvixe may be transferred to the new owners.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Security:</b> Because Arvixe considers the security of Customer's information paramount, Arvixe utilizes industry standard security measures to protect Customer Data from unauthorized access. These measures, which include policies, employee training, and physical access, as well as system protocols and mechanisms, contribute to the secure exchange and transmission of sensitive data. Particularly sensitive information, such as credit card numbers collected for financial transactions, is encrypted before its transmission to Arvixe by the Customer.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;">While Arvixe takes the utmost care in preserving the security of its Customer's information, it is important to note that we cannot guarantee that the loss, misuse, or alteration of this data will not occur. In the event of such an occurrence Arvixe will notify the affected individual of the transgression by email, fax, or, if necessary, U.S. Mail. Notification will be provided promptly, unless it stands to impede on a criminal investigation, in which case Arvixe may have to wait until such a notification is not foreseen to compromise the investigation.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Special Offers and Updates:</b> From time to time Arvixe Customers may receive promotions for new products, services, or deals. Arvixe respects the privacy of its Customers, and has included an opt-out option for these emails.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Service Announcements:</b> In the event that a Customer's service is going to be effected by scheduled or unscheduled maintenance, it may be necessary to send out a strictly service-related announcement. These emails are not optional, however they are intended to act as a professional notification rather than promotional.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Legal Disclaimer:</b> While Arvixe is dedicated to maintaining the integrity of its Customer's privacy, in the event of suspected or reported fraudulent and/or illegal behavior while using the services of Arvixe resulting in, or probable to result in, a subpoena, court order, or another applicable legal process it may be necessary to disclose personal information. In the case of the aforementioned, Arvixe will notify the Customer of the information request and, if deemed necessary, submission.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;">It is important to note that the websites linked to by Arvixe are not, nor should they ever be assumed, associated with or regulated under the Privacy Policy held by Arvixe. This Privacy Policy is only to be applied to Customer data collected by Arvixe, and we encourage the further inspection of the Privacy Policies of any website collecting your personal information.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Customer Responsibility:</b> It is the responsibility of the Customer to securely store their login information, such as usernames and passwords, or any other information necessary to access their private information maintained within the Arvixe systems.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;">It should be noted that there are programs, such as key-loggers and viruses, that can intercept this information from the computers used to access your Arvixe account. Caution should be taken when using computers other than your own, especially on those used by a number of other users, such as in public.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Safe Harbor:</b> Arvixe complies with the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries or Switzerland. Arvixe has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. We are committed to resolving any complaints about the privacy, collection, or use of your personal information, as such, anybody with inquiries or complaints regarding this privacy policy should first contact Arvixe at privacy@arvixe.com.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;">Arvixe has further committed to refer unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU and Switzerland Safe Harbor Program, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Arvixe, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.</p>
+
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Questions:</b> Questions regarding the Arvixe Privacy Policy may be directed to <b>privacy@arvixe.com</b>.</p>
+<p class="pretty" style="text-align: justify; text-indent: 1.5em;"><b>Contact Us:</b> Feel free to contact us by calling our toll free number 1-888-927-8493 or at our physical location at 3801 Calabasas Rd # 2005  Calabasas, CA 91302.</p>
+                                                <p class="pretty" style="text-align: justify; text-indent: 1.5em;"><font></font></p>
+
+
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+
+                                </td>
+                            </tr>
+
+
+
+                              <tr>
+   <td height="20">
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+	<br>
+   </td>
+  </tr>
+ </tbody></table>
+ <table cellspacing="0" cellpadding="0">
+  <tbody><tr>
+   <td width="1000">
+  <span class="menu_links">
+	<table width="1000" cellspacing="0" cellpadding="0" style="background: #d0dde9 url('../images/bottom/software_bg.png');">
+	 <tbody><tr>
+	  <td style="padding: 20px 20px 20px 20px;width: 195px;" valign="top" align="left">
+       <a href="http://www.arvixe.com" style="color: #1c83ae;">Web Hosting</a><br><br>
+	   <a href="linux_web_hosting" title="Linux Hosting" style="color: #5c5c5c; font-weight:normal">Linux Hosting</a><br>
+	   <a href="asp_net_web_hosting" title="ASP .NET Hosting" style="color: #5c5c5c; font-weight:normal">ASP .NET Hosting</a><br>
+	   <a href="business_web_hosting" title="Business Hosting" style="color: #5c5c5c; font-weight:normal">Business Hosting</a><br>
+	   <a href="reseller_web_hosting" title="Reseller Hosting" style="color: #5c5c5c; font-weight:normal">Reseller Hosting</a><br>
+	   <a href="managed_dedicated_servers" title="Dedicated Servers" style="color: #5c5c5c; font-weight:normal">Dedicated Servers</a><br>
+       <a href="alerts" title="Server Alerts" style="color: #5c5c5c; font-weight:normal">Server Alerts</a><br>
+	   <a href="aup.php" title="Acceptable Use Policy" style="color: #5c5c5c; font-weight:normal">Acceptable Use Policy</a><br>
+	   <a href="tos.php" title="Terms of Service" style="color: #5c5c5c; font-weight:normal">Terms of Service</a><br>
+	   <a href="pp.php" title="Privacy Policy" style="color: #5c5c5c; font-weight:normal">Privacy Policy</a><br>
+	   <a href="http://affiliates.arvixe.com/" title="Affiliate Program" style="color: #5c5c5c; font-weight:normal">Affiliate Program</a><br>
+	   <a href="sitemap.php" title="Site Map" style="color: #5c5c5c; font-weight:normal">Site Map</a><br><br>
+
+	  </td>
+			<td style="background: #a8c2d9; width: 1px;"></td><td style="background: #ffffff; width: 1px;">
+			</td><td style="padding: 20px 20px 20px 20px;width: 195px;" valign="top" align="left">
+				 <a href="blog_hosting" title="Blog Hosting" style="color: #1c83ae;">
+		 	Blog Hosting		 </a><br><br>
+				 		<a href="wordpress_hosting" title="WordPress" style="color: #5c5c5c; font-weight:normal">
+		 			WordPress Hosting		 		</a><br>
+		 			 		<a href="ExpressionEngine_hosting" title="ExpressionEngine" style="color: #5c5c5c; font-weight:normal">
+		 			ExpressionEngine Hosting		 		</a><br>
+		 			 		<a href="Movable_Type_hosting" title="Movable Type" style="color: #5c5c5c; font-weight:normal">
+		 			Movable Type Hosting		 		</a><br>
+		 					<br><br>
+					 <a href="cms_hosting" title="CMS Hosting" style="color: #1c83ae;">
+		 	CMS Hosting		 </a><br><br>
+				 		<a href="joomla_hosting" title="Joomla" style="color: #5c5c5c; font-weight:normal">
+		 			Joomla Hosting		 		</a><br>
+		 			 		<a href="drupal_hosting" title="Drupal" style="color: #5c5c5c; font-weight:normal">
+		 			Drupal Hosting		 		</a><br>
+		 			 		<a href="concrete5_hosting" title="Concrete5" style="color: #5c5c5c; font-weight:normal">
+		 			Concrete5 Hosting		 		</a><br>
+		 					</td>
+						<td style="background: #a8c2d9; width: 1px;"></td><td style="background: #ffffff; width: 1px;">
+			</td><td style="padding: 20px 20px 20px 20px;width: 195px;" valign="top" align="left">
+				 <a href="ecommerce_hosting" title="Ecommerce Hosting" style="color: #1c83ae;">
+		 	Ecommerce Hosting		 </a><br><br>
+				 		<a href="nopcommerce_hosting" title="nopCommerce" style="color: #5c5c5c; font-weight:normal">
+		 			nopCommerce Hosting		 		</a><br>
+		 			 		<a href="magento_hosting" title="Magento" style="color: #5c5c5c; font-weight:normal">
+		 			Magento Hosting		 		</a><br>
+		 					<br><br>
+					 <a href="video_sharing_hosting" title="Video Sharing Software Hosting" style="color: #1c83ae;">
+		 	Video Sharing Software Hosting		 </a><br><br>
+				 		<a href="clipbucket_hosting" title="ClipBucket" style="color: #5c5c5c; font-weight:normal">
+		 			ClipBucket Hosting		 		</a><br>
+		 			 		<a href="phpmotion_hosting" title="PHPMotion" style="color: #5c5c5c; font-weight:normal">
+		 			PHPMotion Hosting		 		</a><br>
+		 					<br><br>
+					 <a href="coupons" title="Coupons &amp; Discounts Hosting" style="color: #1c83ae;">
+		 	Coupons &amp; Discounts 		 </a><br><br>
+						</td>
+						<td style="background: #a8c2d9; width: 1px;"></td><td style="background: #ffffff; width: 1px;">
+			</td><td style="padding: 20px 20px 20px 20px;width: 195px;" valign="top" align="left">
+				 <a href="forum_hosting" title="Forum Hosting" style="color: #1c83ae;">
+		 	Forum Hosting		 </a><br><br>
+				 		<a href="vbulletin_hosting" title="vBulletin" style="color: #5c5c5c; font-weight:normal">
+		 			vBulletin Hosting		 		</a><br>
+		 			 		<a href="mybb_hosting" title="MyBB" style="color: #5c5c5c; font-weight:normal">
+		 			MyBB Hosting		 		</a><br>
+		 			 		<a href="phpbb_hosting" title="phpBB" style="color: #5c5c5c; font-weight:normal">
+		 			phpBB Hosting		 		</a><br>
+		 					<br><br>
+					 <a href="social_network_hosting" title="Social Network and Community Website Hosting" style="color: #1c83ae;">
+		 	Social Network and Community Website Hosting		 </a><br><br>
+				 		<a href="socialengine_hosting" title="SocialEngine" style="color: #5c5c5c; font-weight:normal">
+		 			SocialEngine Hosting		 		</a><br>
+		 			 		<a href="elgg_hosting" title="Elgg" style="color: #5c5c5c; font-weight:normal">
+		 			Elgg Hosting		 		</a><br>
+		 	            	<br><a href="/survey/results" class="bottom_links_header">Hosting Reviews</a>
+            				</td>
+				 </tr>
+	</tbody></table>
+	</span>
+   </td>
+  </tr>
+  <tr>
+   <td style="background: url('../images/bottom/containerstart.png') no-repeat top; width: 940px;">
+     <table style="padding: 20px 20px 20px 20px;">
+	  <tbody><tr>
+	   <td>
+	    <a href="http://facebook.arvixe.com" title="Facebook" target="_blank"><img src="images/bottom/facebook_icon.png" border="0"></a>
+	   </td>
+	   <td>
+	    <a href="http://twitter.com/arvixe" title="Twitter" target="_blank"><img src="images/bottom/twitter_icon.png" border="0"></a>
+	   </td>
+	   <td>
+	    <a href="http://linkedin.arvixe.com" title="LinkedIn" target="_blank"><img src="images/bottom/linkedin_icon.png" border="0"></a>
+	   </td>
+	   <td>
+	    <a href="https://plus.google.com/+arvixe/" title="Google+" target="_blank"><img src="images/bottom/gplus_icon.png" border="0"></a>
+	   </td>
+	   <td width="124"></td>
+	   <td>
+	    <img src="/images/bottom/payment_icons.png" border="0">
+	   </td>
+	  </tr>
+	 </tbody></table>
+   </td>
+  </tr>
+  <tr>
+   <td height="30" valign="middle" align="center" style="background: #eeeeee">
+    <font class="cp">Copyright&nbsp;© 2003-2015&nbsp;Arvixe, LLC. All trademarks are property of their legal owner.</font>
+   </td>
+  </tr>
+  <tr>
+   <td height="5">
+
+       
+<script type="text/javascript">
+adroll_adv_id = "4GFXVMD2CJDOVLDS4HMY2U";
+adroll_pix_id = "LLWU7SJEYVCT5HFCOMMXKN";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1014387819;
+var google_conversion_label = "SInVCJX10QUQ66jZ4wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1014387819/?value=0&amp;label=SInVCJX10QUQ66jZ4wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter22299145 = new Ya.Metrika({id:22299145,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/22299145" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        <script type="text/javascript"> 
+        __compete_code = '25f19125dfcbc47e8a015876798a7c86'; 
+        (function () { 
+        var s = document.createElement('script'), 
+        e = document.getElementsByTagName('script')[0]; 
+        s.src = (document.location.protocol.toLowerCase() === 'https:' ? 'https:' : 'http:') + 
+        '//c.compete.com/bootstrap/25f19125dfcbc47e8a015876798a7c86/bootstrap.js '; 
+        s.type = 'text/javascript'; 
+        s.async = true; 
+        if (e) { e.parentNode.insertBefore(s, e); } 
+        }()); 
+        </script>
+       <script type="text/javascript">
+           setTimeout(function(){var a=document.createElement("script");
+               var b=document.getElementsByTagName("script")[0];
+               a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/8012.js?"+Math.floor(new Date().getTime()/3600000);
+               a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+       </script>
+
+       <script language="JavaScript1.1" src="//pixel.mathtag.com/event/js?mt_id=704646&amp;mt_adid=129826&amp;v1=&amp;v2=&amp;v3=&amp;s1=&amp;s2=&amp;s3="></script>
+       
+   </td>
+  </tr>
+ 
+ 
+
+                        </tbody></table>
+
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="containerend">
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    <br><br>
+
+
+
+
+
+</body></html>
