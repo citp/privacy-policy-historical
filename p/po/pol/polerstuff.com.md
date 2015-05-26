@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polerstuff.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220072707id_/http%3A//www.polerstuff.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polerstuff.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526072642id_/http%3A//www.polerstuff.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Poler Stuff
 
@@ -36,8 +36,9 @@ How do I withdraw my consent?
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at customerservice@polerstuff.com or mailing us at:
 
   
-Poler Stuff  
-1215 SE 8th Avenue Portland Oregon US 97214
+Poler Stuff
+
+123 NE 3rd Ave STE 004, Portland, OR 97232
 
 SECTION 3 - DISCLOSURE
 
