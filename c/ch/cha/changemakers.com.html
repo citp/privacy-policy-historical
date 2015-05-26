@@ -1,460 +1,341 @@
-<!--The following is the downloaded HTML source of the changemakers.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121084003id_/http%3A//www.changemakers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the changemakers.com privacy policy that was archived on 2015-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526030349id_/http%3A//www.changemakers.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMAVV5bGwEBUFJSBwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-    <title>Privacy Policy | Changemakers</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta property="fb:app_id" content="122805084416482">
-<meta property="og:title" content="Privacy Policy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN"><html lang="en-us" dir="ltr" version="HTML+RDFa 1.1" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta property="og:url" content="https://www.changemakers.com/privacy">
 <meta property="og:site_name" content="Changemakers">
-<meta property="fb:app_id" content="">
+<link rel="shortcut icon" href="https://www.changemakers.com/sites/default/files/cm4_favicon.png" type="image/png">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<meta property="og:image" content="https://www.changemakers.com/sites/all/modules/changemakers/changeshops/changemakers_innovation/images/default_innovation_profile_image.png">
+<meta property="og:description" content="Changemakers Privacy PolicyIntroductionThe privacy of your personal information is important to Ashoka (“Changemakers” or “we”). This privacy policy (this “Privacy Policy”) is provided to explain our ">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="/privacy">
+<link rel="shortlink" href="/node/73535">
+<meta property="og:title" content="Privacy Policy">
+  <title>Privacy Policy | Changemakers</title>  
+  <link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/default/files/css/css_99qcNlW5Z2idYptZfy3m0_AB2wZjbvBOtzbc_j51K7U.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/default/files/css/css_BlICe9bnyHWdlkKnKKeC43F1ErB-MeInJd4Oqn0DTkY.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/default/files/css/css__jUCi8xHmmacFSRuI3pxxO_eEKRqyjB2xLmaJ6T6jws.css" media="all">
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/qtip2/2.2.0/jquery.qtip.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/default/files/css/css_PojzGWoxLqg5ZJt90dKZ0zn-9e-hNGD3Kou4zIJZNZo.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/default/files/css/css_NO2H8AuGMm4fX6KrNO48eoVuVJPQIlhlN13BQ0RESFw.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/all/themes/velocity/css/color-orange-style.css?norp3k" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/all/themes/velocity/css/layout-wide-style.css?norp3k" media="all">
 
-<meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="//static-changemakerscom.netdna-ssl.com">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="Changemakers Privacy Policy Introduction The privacy of your personal information is  important to Ashoka (&amp;ldquo;Changemakers&amp;rdquo; or &amp;ldquo;we&amp;rdquo;). This privacy policy (this  &amp;ldquo;Privacy Po">
-<meta property="og:image" content="http://www.changemakers.com//sites/all/modules/changemakers/changeshops/changemakers_innovation/images/default_innovation_profile_image.png">
-<meta property="og:url" content="http://www.changemakers.com/privacy">
-<meta property="og:site_name" content="Changemakers">
-<link rel="shortcut icon" href="http://static-changemakerscom.netdna-ssl.com/sites/default/files/cm4_favicon.png" type="image/x-icon">
-<link rel="meta" type="application/json" title="Exhibit JSON" href="/exhibit/views/cm4_front_pg_image_button_blocks">
-    <link href="//cloud.webtype.com/css/59ad8ee5-926d-4677-a50a-f79f6e38a3f3.css" rel="stylesheet" type="text/css">
-    <link type="text/css" rel="stylesheet" media="all" href="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_css/css_6cf687942327dcaa2799b9965d003dc3_0.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_css/css_b0b017c07ceb1340b3b9278a8e82ba73_1.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_css/css_9df9042a1fa48a88a71cf0e64ec181b8_0.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_css/css_9fba953c3692b5f9533fefdf07841a9f_0.css">
-<link type="text/css" rel="stylesheet" media="all" href="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_css/css_6eb447cb9dd3b5e44db405738e9d0a2e_0.css">
-    <!--[if gte IE 9]>
-      <style type="text/css">
-        .gradient {filter: none;}
-      </style>
-    <![endif]-->
-    <!--[if IE 8]>
-    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css?T" />
-    <![endif]-->
-    <!--[if IE 7]>
-    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css?T" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cm4/css/ie7-fixes.css?T" />
-    <![endif]-->
-    <!--[if lte IE 6]>
-    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css?T"/>
-    <![endif]-->
-    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/grid16-960.css?T">
-        <script type="text/javascript" src="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_js/js_b1b3dd1b7b67eb0776dccf8853048c21_6.js"></script>
-<script type="text/javascript" src="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_js/js_289f9f1a616057c63348606e319e16c5_1.js"></script>
-<script type="text/javascript" src="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_js/js_ac91e172db894365e0c077a15ad54691_0.js"></script>
-<script type="text/javascript" src="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_js/js_78e27bc888c84c85ccb6bbd02e6e9997_0.js"></script>
-<script type="text/javascript" src="http://static-changemakerscom.netdna-ssl.com/sites/default/files/advagg_js/js_d4ba2d68222f7d7569b4da9b691773aa_0.js"></script>
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/default/files/css/css_aq7V0ButyD0LcdS0KXhMKkUsRfxRkHhn2UWAIRzmlvA.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="https://www.changemakers.com/sites/default/files/css/css_qGTRS9I2dpJ4T24UBfBt5Cgsyikf9MRB5-h7tIK4FSA.css" media="all">
+<!--<![endif]-->
+  <script type="text/javascript" src="https://www.changemakers.com/sites/default/files/js/js_YG98FuAkznGpfUVD7la3EObWLhNr4zOIqZcdXzZxHVI.js"></script>
+<script type="text/javascript" src="https://www.changemakers.com/sites/default/files/js/js_q--KWwopi9rBcjRqnWmjkcv6TYRdfRIZ6W93Xudf03M.js"></script>
+<script type="text/javascript" src="https://www.changemakers.com/sites/default/files/js/js_-nCw_uINNOvO-Ropoa_AohZTMwkmDqDWEkzdELQQw0A.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/qtip2/2.2.0/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="https://www.changemakers.com/sites/default/files/js/js_o-bS7hnEqZzQ5Bv_WR-NhcZ46NoDVecbYpro-DPVIt0.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","dhtmlMenu":{"slide":"slide","clone":"clone"},"fancybox":{"options":{"width":"75%","height":"75%","padding":10,"margin":20,"titleShow":true,"titlePosition":"outside","scrolling":"auto","showCloseButton":1,"showNavArrows":1,"cyclic":0,"opacity":0,"overlayShow":1,"overlayColor":"#666","overlayOpacity":"0.5","hideOnOverlayClick":0,"hideOnContentClick":1,"enableEscapeButton":1,"centerOnScroll":1,"autoScale":true,"easingIn":"swing","easingOut":"swing","changeFade":"fast","changeSpeed":300,"transitionIn":"fade","speedIn":300,"transitionOut":"fade","speedOut":300,"onStart":"","onComplete":"","onClosed":"","onCleanup":"","onCancel":""},"selector":""},"fbconnect":{"user_pictures":"disallow","language_code":"en_US","app_id":"122805084416482","debug":0,"connect_js":"document.location.protocol + \u0027\/\/connect.facebook.net\/en_US\/all.js\u0027","loginout_mode":"manual","invite_name":"Changemakers","fast_reg_mode":1,"fbuid":null,"user":{"uid":0,"fbuid":null}},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"googleanalytics":{"trackOutbound":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"qtip":{"target_position":"topRight","tooltip_position":"bottomLeft","show_speech_bubble_tip":true,"show_speech_bubble_tip_side":false,"color":"blue","border_radius":"3","border_width":"3","show_event_type":"mouseover","hide_event_type":"mouseout","show_solo":true},"user_relationships_ui":{"loadingimage":"\/sites\/all\/modules\/user_relationships\/user_relationships_ui\/images\/loadingAnimation.gif","savingimage":"\/sites\/all\/modules\/user_relationships\/user_relationships_ui\/images\/savingimage.gif","position":{"position":"absolute","left":"0","top":"0"}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg src=\u0022http:\/\/static-changemakerscom.netdna-ssl.com\/sites\/all\/modules\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 width=\u002216\u0022 height=\u002216\u0022 \/\u003E","throbber":"\u003Cimg src=\u0022http:\/\/static-changemakerscom.netdna-ssl.com\/sites\/all\/modules\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 width=\u002232\u0022 height=\u002232\u0022 \/\u003E"},"cm_modal_registration":true,"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"yaselectCustomization":{"active":true},"connect-user":{"modalTheme":"CToolsModalDialogConnectuser"},"connect-offer-need":{"modalTheme":"CToolsModalDialogConnectofferneed"},"login-signup":{"modalSize":{"type":"fixed","width":325,"height":"auto"}},"featureToMyCommunity":{"modalSize":{"type":"fixed","width":700,"height":"auto"}}});
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-84162-6"]);_gaq.push(['_setCustomVar', 1, "User roles", "anonymous user", 1]);_gaq.push(['_setCustomVar', 2, "Audience type", "[profile_audience]", 1]);_gaq.push(['_setCustomVar', 3, "Node type", "[type-name]", 3]);_gaq.push(['_setCustomVar', 4, "Tags", "[term-raw]", 3]);_gaq.push(["_trackPageview"]);_gaq.push(['_trackPageLoadTime']);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
 //--><!]]>
 </script>
-    <script type="text/javascript">
-    <!--//--><![CDATA[//><!--
-      var $scroll = $('#slider .scroll');
-      $scroll
-        .before('<img class="scrollButtons left" src="/sites/all/modules/changemakers/changeshops/changemakers_innovation/images/scroll_left.png" />')
-        .after('<img class="scrollButtons right" src="/sites/all/modules/changemakers/changeshops/changemakers_innovation/images/scroll_right.png" />');
-    //--><!]]>
-    </script>
-
-
-<!-- Adding javascript for TFA Forms in Footer for Salesforce Signup -->
-<script language="JavaScript">
-<!--
-
-function noEntry() {
-
- if (document.registration_form.tfa_1.value.length<1) {
-alert("Please fill in your first name.");
-return false; }
-
-else if (document.registration_form.tfa_2.value.length<1) {
-alert("Please fill in your last name.");
-return false; }
-
-
-else if (document.registration_form.tfa_3.value.length<1) {
-alert("Please fill in your email address.");
-return false; }
-
-
-else { return true; }
-}
-// -->
+<script type="text/javascript" src="https://www.changemakers.com/sites/default/files/js/js_6lIHmU9ouLUdP5-W0GnUldH2XDZc-NBbDMq4-ozLTOI.js"></script>
+<script type="text/javascript" src="https://www.changemakers.com/sites/default/files/js/js_vE10ohI9N-xYCJ9cgBx0WBPa0J0oxeERvdbtRxM0wjk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"velocity","theme_token":"dBnJS4jAXgR3W8hBxO0K48098HlDD1EHwJHjzsfEdwE","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.progressbar.min.js":1,"public:\/\/languages\/en-us_OBC7vqYdZnZaVnQFLQJxQJdCuXk4cWfYXxnlzQ1xqig.js":1,"sites\/all\/modules\/fbconnect\/fbconnect.js":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.0\/jquery.qtip.min.js":1,"sites\/all\/modules\/qtip\/js\/qtip.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/velocity\/js\/modernizr.js":1,"sites\/all\/themes\/velocity\/js\/sticky.js":1,"sites\/all\/themes\/velocity\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.progressbar.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/fbconnect\/fbconnect.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.0\/jquery.qtip.min.css":1,"sites\/all\/modules\/qtip\/css\/qtip.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/velocity\/css\/st-reset.css":1,"sites\/all\/themes\/velocity\/css\/global.css":1,"sites\/all\/themes\/velocity\/css\/color-orange-style.css":1,"sites\/all\/themes\/velocity\/css\/layout-wide-style.css":1,"ie::normal::sites\/all\/themes\/velocity\/css\/velocity-alpha-default.css":1,"ie::normal::sites\/all\/themes\/velocity\/css\/velocity-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/all\/themes\/velocity\/css\/velocity-alpha-default.css":1,"narrow::sites\/all\/themes\/velocity\/css\/velocity-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/velocity\/css\/velocity-alpha-default.css":1,"normal::sites\/all\/themes\/velocity\/css\/velocity-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/all\/themes\/velocity\/css\/velocity-alpha-default.css":1,"wide::sites\/all\/themes\/velocity\/css\/velocity-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1}},"fbconnect":{"user_pictures":"disallow","language_code":"en_US","app_id":"122805084416482","debug":0,"connect_js":"document.location.protocol + \u0027\/\/connect.facebook.net\/en_US\/all.js\u0027","loginout_mode":"manual","invite_name":"Changemakers","fast_reg_mode":1,"fast_reg_autoname":1,"fbuid":0,"user":{"uid":0,"fbuid":null}},"qtip":"[]","nice_menus_options":{"delay":"800","speed":"slow"},"responsive_menus":[{"toggler_text":"\u2630 Menu","selectors":[".nice-menu","#competition-scroller-anchor .item-list \u003E ul"],"media_size":"800","absolute":true,"remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}},"CToolsModal":{"modalSize":{"type":"scale"},"closeText":"","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.changemakers.com\/sites\/all\/modules\/changemakers\/competition_entry_review\/images\/close-modal.png\u0022 alt=\u0022\u0022 \/\u003E","modalOptions":{"opacity":".75","background-color":"#000"}}});
+//--><!]]>
 </script>
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    
+  <![endif]-->
+  
+  <!--[if IE 8]>
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/velocity/css/ie8-fixes.css" />
+  <![endif]-->
+  <!--[if IE 7]>  
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/velocity/css/ie7-fixes.css" />
+  <![endif]-->
+  <!--[if IE]>  
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/velocity/css/ie-fixes.css" />
+  <![endif]-->
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/velocity/fontawesome/css/font-awesome.min.css">
 
 
-  </head>
-<body id="pid-privacy" class="not-front not-logged-in page-node node-type-page no-sidebars i18n-en-us full-node layout-main sidebars-split font-size-12 grid-type-960 grid-width-16 " style="">
-    <!-- legacy modal dom construct -->
-    <div id="messages_overlay" style="display:none;"></div>
-    <div id="messages" style="display:none;">
-      <div id="messages_inner">
-        <h3><span>Notifications</span><a href="javascript:void(0);" class="close-messages" title="close messages">×</a></h3>
-        <div class="messages-body">
-        </div>
-      </div>
-    </div>
-    <!-- END legacy modal dom construct -->
-                <div id="page" class="page">
-              <div id="page-inner">
-                  <div id="pre-header">
-                    <div id="top-user-menu">
-<ul id="cm4-top-user-menu" class="cm4-top-user-menu">
-      <li><a href="/user/login/nojs?destination=node/73535" class="ctools-use-modal user-signup-button ctools-modal-login-signup" title="Sign in">SIGN IN</a></li>
-        
-    <li class="language-selector"><div id="language-select-form">  <select id="language-select-list" onchange="document.location.href=this.options[this.selectedIndex].value;"><option value="/privacy" lang="en-us" selected="selected">English</option><option value="/es/privacy" lang="es">Español</option><option value="/pt-br/privacy" lang="pt-br">Português</option><option value="/fr/privacy" lang="fr">Français</option><option value="/ar/privacy" lang="ar">العربية</option><option value="/th/privacy" lang="th">ภาษาไทย</option>  </select></div>    </li>
-  </ul>
+
+<!-- ADDTHIS SCRIPT TO TRACK ACTION -->
+<!-- USE THIS UNTIL ADDTHIS MODULE IS UPDATED -->
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5546f11b77ac1147" async="async"></script>
+
+<!-- END OF ADDTHIS SCRIPT -->
+
+
+<!-- SCRIPT ITEMS FOR TFA FORM FOR ENEWSLETTER SIGNUP THROUGH SALESFORCE -->
+<link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-layout.css" rel="stylesheet" type="text/css">
+
+<!--[if IE 8]>
+<link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<link href="https://www.tfaforms.com/themes/get/17257" rel="stylesheet" type="text/css">
+
+<link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-jsonly.css" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css">
+
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.7/js/wforms.js"></script>
+
+<script type="text/javascript">
+wFORMS.behaviors.prefill.skip = false;
+</script>
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.7/js/localization-en_GB.js"></script>
+<!-- END OF TFAFORMS SCRIPT -->
+
+
+
+
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-73535 node-type-page i18n-en-us context-privacy">
+
+<!-- Preloader -->
+<div id="preloader">
+	<div id="status">&nbsp;</div>
 </div>
-                  </div>
-                  <div id="skip">
-                    <a href="#main-content-area">Skip to Main Content Area</a>
-                  </div>
-                  <!-- header-top row: width = grid_width -->
-                                    <!-- header-group row: width = grid_width -->
-                  <div id="header-group-wrapper" class="header-group-wrapper full-width">
-                    <div id="header-group" class="header-group row grid16-16">
-                      <div id="header-group-inner" class="header-group-inner inner clearfix">
-                                                <div id="header-site-info" class="header-site-info block">
-                            <div id="header-site-info-inner" class="header-site-info-inner inner">
-                                                          <div id="logo">
-                                <a href="/" title="Home"><img src="http://static-changemakerscom.netdna-ssl.com/sites/default/files/cm4_logo.png" alt="Home"></a>
-                              </div>
-                                                                                    <div id="site-name-wrapper" class="clearfix">
-                                                              <span id="site-name"><a href="/" title="Home">Changemakers</a></span>
-                                                                                        </div><!-- /site-name-wrapper -->
-                                                        </div><!-- /header-site-info-inner -->
-                          </div><!-- /header-site-info -->
-                                                                                                <div id="cm4-search-box"><div id="search-box" class="search-box block">
-<div id="search-box-inner" class="search-box-inner inner clearfix">
-<form action="/search/site" accept-charset="UTF-8" method="post" id="search-theme-form">
-<div><div id="search" class="container-inline">
-  <input class="search-input form-text" type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" value="" title="Enter search terms">
-  <input id="search_header" class="search_submit" type="submit" name="op" value="">
-  <input type="hidden" name="form_build_id" id="form-UTaAis88CA8Wgf0UekpSYf8QBzx29xd2Pxp3epILWXY" value="form-UTaAis88CA8Wgf0UekpSYf8QBzx29xd2Pxp3epILWXY">
-<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
-</div><!-- /search -->
-</div></form>
-</div><!-- /search-box-inner -->
-</div><!-- /search-box -->
-</div>
-                        <div id="primary-menu" class="primary-menu block">
-<div id="primary-menu-inner" class="primary-menu-inner inner clearfix">
-<ul class="menu sf-menu"><li class="leaf first dhtml-menu "><a href="/projects" title="" id="dhtml_menu-89689">Projects</a></li><li class="leaf  dhtml-menu "><a href="/opportunities" title="Competitions" id="dhtml_menu-269">Opportunities</a></li><li class="leaf last dhtml-menu "><a href="/community/changemakers" title="" id="dhtml_menu-89255">Community</a></li></ul></div><!-- /primary-menu-inner -->
-</div><!-- /primary-menu -->
-                      </div><!-- /header-group-inner -->
 
-                      
-
-                    </div><!-- /header-group -->
-                  </div><!-- /header-group-wrapper -->
-                                    <!-- preface-top row: width = grid_width -->
-                                    <!-- main row: width = grid_width -->
-                  <div id="main-wrapper" class="main-wrapper full-width">
-                    <div id="main" class="main row grid16-16">
-                      <div id="main-inner" class="main-inner inner clearfix">
-                                                                        <!-- main group: width = grid_width - sidebar_first_width -->
-                        <div id="main-group" class="main-group row nested grid16-16">
-                          <div id="main-group-inner" class="main-group-inner inner">
-                                                        <div id="main-content" class="main-content row nested">
-                              <div id="main-content-inner" class="main-content-inner inner">
-                                <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
-                                <div id="content-group" class="content-group row nested grid16-16">
-                                  <div id="content-group-inner" class="content-group-inner inner">
-                                                                                                            <div id="content-region" class="content-region row nested">
-                                      <div id="content-region-inner" class="content-region-inner inner">
-                                        <a name="main-content-area" id="main-content-area"></a>
-                                                                                <div id="content-inner" class="content-inner block">
-                                          <div id="content-inner-inner" class="content-inner-inner inner">
-                                                                                        <h1 class="title">Privacy Policy</h1>
-                                            
-                                                                                                                                    <div id="content-content" class="content-content">
-                                            
-<div id="node-73535" class="node odd full-node node-type-page">
-  <div class="inner">
-    
-    
-    
-    
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-3 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title="Changemakers"><img src="https://www.changemakers.com/sites/all/themes/velocity/logo.png" alt="Changemakers" id="logo"></a>      </div>
+                        <hgroup class="site-name-slogan element-invisible">        
+                                <h2 class="site-name element-invisible"><a href="/" title="Home">Changemakers</a></h2>
+                              </hgroup>
+          </div>
+          </div>
+</div><div class="grid-9 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="block block-nice-menus block-1 block-nice-menus-1 odd block-without-title" id="block-nice-menus-1">
+  <div class="block-inner clearfix">
+                
     <div class="content clearfix">
-      <h2 align="center"><strong>Changemakers Privacy Policy</strong></h2> <h3>Introduction</h3> <p>The privacy of your personal information is  important to Ashoka (“Changemakers” or “we”). This privacy policy (this  “Privacy Policy”) is provided to explain our online information practices and  the choices you can make about the way that your personally identifiable  information (“Personal Information”) is collected and used at the Changemakers website  and all other websites owned or controlled by Changemakers (collectively, the  “Site”).<br>   If you are an employee of Changemakers or  its affiliates, please note that other internal company policies apply to you  related to employee use of company computer systems and networks.<br>   Please note that by using the Site, you agree  to be bound by the terms and conditions of this Privacy Policy. This Privacy  Policy is effective as of March 23, 2010.</p> <h3>Passive Information Collection; Cookies</h3> <p>A cookie is a text-only piece of  information that a website transfers to your computer’s hard disk so that the  website can remember who you are. A cookie will normally contain the name of  the internet domain from which the cookie has come, the "lifetime" of  the cookie, and a value, usually a randomly generated unique number. We use  cookies to evaluate the general use of the Site. We also use cookies to  identify who you are after you log in or register so that we can tailor your  personal preferences for a more personalized experience. Cookies also insure  that the appearance of the Site conforms to your Internet browser. You usually  can configure your Internet browser to reject cookies. However, if you do so,  you might not be able to access certain pages or use important functions on the  Site. We reserve the right to introduce new passive tracking technologies and  techniques related to the use of the Site. In general, we do not link your  identity with information that we collect passively. However, in any situation  where you log in with your username and password, any or all of the information  that is passively collected about your activities on the Site may be linked  with your identity, and therefore may become Personal Information about you.<br>   To learn more about cookies and other  passive tracking technologies and how they may be used on your computer, please  read the help information supplied with your Internet browser software.</p> <h3>Active Information Collection</h3> <p>In general, when you visit the Site you  remain anonymous, but on some pages, you need to provide Personal Information  to register, enter a competition, contact us, and conduct other activities and  transactions via the Site. The types of Personal Information collected at the  Site may include any or all of the following, depending on your activities on  the Site: name, address, e-mail address, phone number, fax number, website,  organization (including the organization’s name, website, phone number, and  address), username, password, language, photograph and other Personal  Information that you actively provide to us via the Site.<br>   We also enable you to submit Personal Information  about other people. For example, we request that you provide us with such  information about individuals who you wish to nominate for a competition  sponsored by Changemakers, or to use as references, or who may be interested in  hearing about Changemakers. The following types of Personal Information may be  collected about such persons: name, organization name, email address, phone  number, city, and country.</p> <h3>Use of Personal Information</h3> <p>We use and disclose Personal Information to  provide information about our organization, our competitions, or other issues  of interest.<br>   Except as provided herein, WE WILL NOT SELL  ANY PERSONAL INFORMATION THAT YOU PROVIDE THROUGH THE SITE WITHOUT YOUR PRIOR WRITTEN  CONSENT. We may use Personal Information that you provide to update you on our  activities, let you know about new projects and competitions that we believe  may be of interest to you, and contact you about the outcome of competitions.  If you do not want to receive this information in the future, please contact us  at <a title="Linkification: mailto:connect@changemakers.com" href="mailto:connect@changemakers.com" class="linkification-ext">connect@changemakers.com</a>.<br>   From time to time, we may share certain  Personal Information with other non-profits to enable them to share information  that may be of interest to you. If you do not want us to share Personal  Information with these entities, please contact us at<a href="mailto:privacy@changemakers.net"> </a><a href="mailto:connect@changemakers.com">connect@changemakers.com</a> and we will take  reasonable measures to avoid sharing such information in the future. Please  note that these other parties are sometimes independent from Changemakers, and  if your information has already been shared with such parties and you wish to  stop all communications from such parties and/or stop any use of the shared  information by such parties, you will need to address such issues with them  directly. <br>   We may share Personal Information with our  partners, affiliates, consultants, suppliers, and providers. We require that  these entities keep your Personal Information confidential and only use your  Personal Information to the extent necessary to perform their functions and not  for any other purpose. <br>   We may disclose Personal Information in  response to legal process or when we believe in good faith that the law  requires it, for example, in response to a court order, subpoena, or a law  enforcement agency's request. We also reserve the right to disclose Personal  Information to protect the security of the Site, and to protect ourselves and our  partners, affiliates, consultants, suppliers, and providers against liability.&nbsp; <br>   In the event that Changemakers or a  significant portion of Changemakers’ assets or business is sold, assigned,  merged, or otherwise transferred, Changemakers may transfer your Personal  Information as a part of the transaction. In the event such a transfer occurs, Changemakers  will use reasonable efforts to keep your Personal Information subject to the  same protection as it was prior to the transfer. In the event that your  Personal Information becomes subject to a different privacy policy,  Changemakers will use reasonable efforts to notify you of such change. <br>   The Site is not directed to children and Changemakers does not  knowingly solicit information from any child under the age of 13.</p> <h3>How You Can Access or Correct Your Information</h3> <p>If you are a registered user of the Site,  you can access and correct certain Personal Information that we collect online  and maintain by clicking on "sign in" and entering your username and  password. If any errors in your Personal Information cannot be corrected by  accessing your account or if you have other questions related to updating or  changing your account information, please contact us using the contact  information below. You may also contact us using the information below to ask  us to remove your Personal Information from our records, electronic or  otherwise.</p> <h3>Use of Anonymous Information</h3> <p>The Site's web servers collect anonymous  logs during user visits to the Site. This information is used to create  aggregate statistics, for example, when the Site is accessed, the pages which  refer visitors to the Site, the type of web browsers visitors use, and which  pages of the Site are viewed. These statistics help us understand how the Site  is used and provide us with valuable information for improving the Site in the  future. From time to time, we may share such aggregate, non-personally  identifiable statistical information with ­­advertisers and our partners,  affiliates, consultants, suppliers, and providers. The type and amount of  information we receive and store depends on how you use the Site. You can  access most of our pages without telling us who you are and without revealing  any Personal Information.</p> <h3>Security</h3> <p>Changemakers tries very hard to protect our  users' Personal Information. Though Changemakers strives to protect this  information, no transmission of data is completely secure. Changemakers will  not be liable under any circumstances for damages resulting from use of  information collected from you or any other visitors to the Site. When you  access your account information, we usually offer the use of a secure server.  The secure server software receives encrypted information through the Secure  Sockets Layer (SSL) of your Internet browser which encrypts the Personal  Information you input before it is sent to us and seeks to prevent anyone from  reading it as the information travels from your computer to ours.<br>   You should be aware that when you  voluntarily disclose Personal Information via competition entries, messages,  forums, postings, or in other areas of the Site, that information, along with  any substantive information disclosed in your communication, can be collected  and correlated and used by third parties and may result in unsolicited messages  from other posters or third parties. Such activities are beyond the control of  Changemakers.&nbsp; Please do not post any  Personal Information on the Site that you expect to keep private.</p> <h3>Usernames and Passwords</h3> <p>It is your responsibility to safeguard any  username or password that you have received in connection with the Site, and to  notify us if you ever suspect that the security and confidentiality of such  username or password has been compromised in any way. You are solely  responsible for any use of the Site via your username and password.</p> <h3>Links</h3> <p>Please note that third parties may also  collect information about you, through cookies or other technologies, when you  link to their websites through the Site. We do not monitor or control the  information collection or privacy practices of these or any other third  parties, and are not responsible for their practices or the content of their  websites. If you are concerned about how third parties collect and use  information, please review their privacy practices posted on their websites.</p> <h3>Changes to Changemakers Privacy Policy</h3> <p>Our privacy practices, like the online  medium itself, are subject to change. Changemakers may, in its sole discretion,  change this Privacy Policy at any time to reflect changes in the way we collect  and use Personal Information in the future. Please check this Privacy Policy  frequently and particularly before you submit additional Personal Information  via the Site. All revisions to this Privacy Policy will be posted on the Site  via a link from the home page of the Site. Your continued use of the Site after  changes in this Privacy Policy indicates your assent to such changes.</p> <h3>International Users</h3> <p>Changemakers collects, processes, stores,  discloses, and disposes of Personal Information that you submit to us in  accordance with applicable United States law. Please note that the Personal Information  you submit to the Site will be transferred to the United States to be processed  by Changemakers in order to provide the Site and its services to you or for  such other purposes as set forth in this Privacy Policy. If you are not a  resident of the United States, you acknowledge and agree that we may collect  and use your Personal Information, as discussed in this Privacy Policy, outside  your resident jurisdiction. In addition, we may store such Personal Information  in the United States, outside your resident jurisdiction. In particular, you  are advised that the United States uses a sectoral model of privacy protection  that relies on a mix of legislation, governmental regulation, and  self-regulation. Please be aware that United States law may offer different  levels of protection for Personal Information than may be available in your  country.</p> <h3>How to Contact Us</h3> <p>Your privacy is very important to us.  Should you have any questions or concerns about this Privacy Policy, please  address them to:<br>   Changemakers<br>   1700 North Moore Street<br>   Suite 2000<br>   Arlington, VA 22209<br>   You may also send us an email at <a href="mailto:privacy@changemakers.net">connect@changemakers.com</a>.</p>    </div>
-
-       
-      </div><!-- /inner -->
-
-  </div><!-- /node-73535 -->
-<div id="block-block-52" class="block block-block odd first last grid16-16">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <style>#edit-suggest-connection-wrapper {display:none;}</style>
-
-<style>
-/*timeline showing twice on competition nodes */
-#node-competition.full-node .timeline-row {display:none}
-</style>
-
-<style>
-/* CM-3413 */
-div.wide-heading{position:relative;margin:-10px -62px 13px -62px;z-index:5;padding:20px 0 12px;clear:both}
-div.wide-heading div.wide-content{border:0!important;background-color: #d7d7d7; background-image: -webkit-gradient(linear, left top, left bottom, from(#d7d7d7), to(#ffffff)); background-image: -webkit-linear-gradient(top, #d7d7d7, #ffffff); background-image: -moz-linear-gradient(top, #d7d7d7, #ffffff); background-image: -o-linear-gradient(top, #d7d7d7, #ffffff); background-image: linear-gradient(to bottom, #d7d7d7, #ffffff);padding:25px 0px;position:relative}
-div.wide-heading div.wide-content h2{border:0!important;color:#464646;font-size:20px;font-weight:bold;text-transform:uppercase;margin:0 0 0 80px;padding:0}
-#node-community-changeshop .wide-heading{margin-left:-82px;margin-bottom:25px;margin-top:25px;margin-right:-62px}
-</style>
+      <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu-269 menu-path-node-306899 first odd "><a href="/opportunities" title="All available challenges">Challenges</a></li>
+<li class="menu-89689 menu-path-projects  even "><a href="/projects" title="">Projects</a></li>
+<li class="menu-102842 menu-path-node-304194  odd "><a href="/learning">Learning</a></li>
+<li class="menu-1997 menu-path-blog  even "><a href="/blog" title="Blog">Blog</a></li>
+<li class="menu-102391 menuparent  menu-path-view  odd last menu-views"><div class="view view-cm3637-usermenuitem view-id-cm3637_usermenuitem view-display-id-block view-dom-id-6e758e68065d852f3a45264f88d8d21a">
+        
+  
+  
+      <div class="view-empty">
+      <a href="/user/login">Log in</a>    </div>
+  
+  
+  
+  
+  
+  
+</div><ul></ul></li>
+</ul>
     </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->                                                                                        </div><!-- /content-content -->
-                                                                                      </div><!-- /content-inner-inner -->
-                                        </div><!-- /content-inner -->
-                                      </div><!-- /content-region-inner -->
-                                    </div><!-- /content-region -->
-                                                                      </div><!-- /content-group-inner -->
-                                </div><!-- /content-group -->
-                              </div><!-- /main-content-inner -->
-                            </div><!-- /main-content -->
-                                                      </div><!-- /main-group-inner -->
-                        </div><!-- /main-group -->
-                                                      
-                      </div><!-- /main-inner -->
-                    </div><!-- /main -->
-                  </div><!-- /main-wrapper -->
-
-                  <!-- postscript-bottom row: width = grid_width -->
-                                    <!-- footer row: width = grid_width -->
-                  <div id="footer-wrapper" class="footer-wrapper full-width">
-<div id="footer" class="footer row grid16-16">
-<div id="footer-inner" class="footer-inner inner clearfix">
-<div id="block-block-60" class="block block-block odd first grid16-4">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <script type="text/javascript" src="https://jira.changemakers.com/s/d41d8cd98f00b204e9800998ecf8427e/en_US-7bkn1o-1988229788/6252/29/1.4.7/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?collectorId=b80b7e45"></script>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block --><div id="block-block-96" class="block block-block even  grid16-4">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <style>
-#edit-field-review-notes-0-value-wrapper {
-display: none;
-}
-</style>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block --><div id="block-block-99" class="block block-block odd  grid16-4">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <script>
-$(document).ready( function() {
-$("h2.drupal-tabs-title:contains('2nd Round Questions')").parent().css("background-color", "#FFC69C").css("padding", "5px");
-});
-$('a[href$="#entries-fields-tab-1"]').css('width','155px');
-</script>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block --><div id="block-block-103" class="block block-block even  last grid16-4">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <script type="text/javascript">
-function badBrowser(){
-	if($.browser.msie && parseInt($.browser.version) <= 8){ return true;}
-	return false;
-}
-
-function getBadBrowser(c_name)
-{
-	if (document.cookie.length>0)
-	{
-	c_start=document.cookie.indexOf(c_name + "=");
-	if (c_start!=-1)
-		{ 
-		c_start=c_start + c_name.length+1; 
-		c_end=document.cookie.indexOf(";",c_start);
-		if (c_end==-1) c_end=document.cookie.length;
-		return unescape(document.cookie.substring(c_start,c_end));
-		} 
-	}
-	return "";
-}	
-
-function setBadBrowser(c_name,value,expiredays)
-{
-	var exdate=new Date();
-	exdate.setDate(exdate.getDate()+expiredays);
-	document.cookie=c_name+ "=" +escape(value) + ((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
-}
-
-if(badBrowser() && getBadBrowser('browserWarning') != 'seen' ){
-	$(function(){
-		$("<div id='browserWarning'>You are using an unsupported browser. Please switch to the latest version of <a href='http://getfirefox.com'>FireFox</a>, <a href='https://www.google.com/intl/en/chrome/browser/'>Chrome</a>, or <a href='http://www.microsoft.com/windows/downloads/ie/getitnow.mspx'>Internet Explorer</a> for a better experience. Thanks!&nbsp;&nbsp;&nbsp;[<a href='#' id='warningClose'>close</a>] </div> ")
-			.css({
-				backgroundColor: '#fcfdde',
-				'width': '100%',
-				'border-top': 'solid 1px #000',
-				'border-bottom': 'solid 1px #000',
-				'text-align': 'center',
-				padding:'5px 0px 5px 0px'
-			})
-			.prependTo("body");
-		
-		$('#warningClose').click(function(){
-			setBadBrowser('browserWarning','seen');
-			$('#browserWarning').slideUp('slow');
-			return false;
-		});
-	});	
-}
-</script>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block --></div><!-- /footer-inner -->
-</div><!-- /footer -->
-</div><!-- /footer-wrapper -->
-                  <!-- footer-message row: width = grid_width -->
-                  <div id="footer-message-wrapper" class="footer-message-wrapper full-width">
-                    <div id="footer-message" class="footer-message row ">
-                      <div id="footer-message-inner" class="footer-message-inner inner clearfix">
-                                                <div id="footer-left-wrapper" class="container-12">
-                            <div id="block-changemakers-footer" class="block block-changemakers odd first grid16-0">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <div>  <div id="footer-left-wrapper" class="container-12">
-
-  	<div class="grid-4">
-          <div id="footer-logo">
-        <img src="/sites/default/files/cm4_logo.png" alt="Home">
+  </div>
+</div><div class="block block-lang-dropdown block-language block-lang-dropdown-language even block-without-title" id="block-lang-dropdown-language">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form class="lang_dropdown_form language" id="lang_dropdown_form_language" action="/privacy" method="post" accept-charset="UTF-8"><div><div class="form-item form-type-select form-item-lang-dropdown-select">
+ <select style="width:85px" class="lang-dropdown-select-element form-select" id="lang-dropdown-select-language" name="lang_dropdown_select"><option value="en-us" selected="selected">English</option><option value="es">Español</option><option value="pt-br">Português</option><option value="fr">Français</option><option value="ar">العربية</option><option value="th">ภาษาไทย</option></select>
+</div>
+<input type="hidden" name="en-us" value="/privacy">
+<input type="hidden" name="es" value="/es/privacy">
+<input type="hidden" name="pt-br" value="/pt-br/privacy">
+<input type="hidden" name="fr" value="/fr/privacy">
+<input type="hidden" name="ar" value="/ar/privacy">
+<input type="hidden" name="th" value="/th/privacy">
+<noscript><div>
+<input type="submit" id="edit-submit" name="op" value="Go" class="form-submit" />
+</div></noscript><input type="hidden" name="form_build_id" value="form-CurNJ6T7dNxZPlqKvRy9tDq7ExwzVea3AU54aXcyZsU">
+<input type="hidden" name="form_id" value="lang_dropdown_form">
+</div></form>    </div>
+  </div>
+</div><div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/privacy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-O4zNyHIk59YCH7u3-GECtJXryn7cDpKZyiruQRGPBeo">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
       </div>
+</div><div id="zone-full-width-wrapper" class="zone-wrapper zone-full-width-wrapper clearfix">  
+  <div id="zone-full-width" class="zone zone-full-width clearfix container-12">
+      </div>
+</div><div id="zone-title-wrapper" class="zone-wrapper zone-title-wrapper clearfix">  
+  <div id="zone-title" class="zone zone-title clearfix container-12">   
+     
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div></div>
+       
+  
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">Privacy Policy</h1>
+                  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+    
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+            <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <article about="/privacy" typeof="sioc:Item foaf:Document" class="node node-page node-published node-not-promoted node-not-sticky author-administration odd clearfix" id="node-page-73535">
+        <span property="dc:title" content="Privacy Policy" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2><strong>Changemakers Privacy Policy</strong></h2><h3>Introduction</h3><p>The privacy of your personal information is important to Ashoka (“Changemakers” or “we”). This privacy policy (this “Privacy Policy”) is provided to explain our online information practices and the choices you can make about the way that your personally identifiable information (“Personal Information”) is collected and used at the Changemakers website and all other websites owned or controlled by Changemakers (collectively, the “Site”).<br>If you are an employee of Changemakers or its affiliates, please note that other internal company policies apply to you related to employee use of company computer systems and networks.<br>Please note that by using the Site, you agree to be bound by the terms and conditions of this Privacy Policy. This Privacy Policy is effective as of March 23, 2010.</p><h3>Passive Information Collection; Cookies</h3><p>A cookie is a text-only piece of information that a website transfers to your computer’s hard disk so that the website can remember who you are. A cookie will normally contain the name of the internet domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. We use cookies to evaluate the general use of the Site. We also use cookies to identify who you are after you log in or register so that we can tailor your personal preferences for a more personalized experience. Cookies also insure that the appearance of the Site conforms to your Internet browser. You usually can configure your Internet browser to reject cookies. However, if you do so, you might not be able to access certain pages or use important functions on the Site. We reserve the right to introduce new passive tracking technologies and techniques related to the use of the Site. In general, we do not link your identity with information that we collect passively. However, in any situation where you log in with your username and password, any or all of the information that is passively collected about your activities on the Site may be linked with your identity, and therefore may become Personal Information about you.<br>To learn more about cookies and other passive tracking technologies and how they may be used on your computer, please read the help information supplied with your Internet browser software.</p><h3>Active Information Collection</h3><p>In general, when you visit the Site you remain anonymous, but on some pages, you need to provide Personal Information to register, enter a competition, contact us, and conduct other activities and transactions via the Site. The types of Personal Information collected at the Site may include any or all of the following, depending on your activities on the Site: name, address, e-mail address, phone number, fax number, website, organization (including the organization’s name, website, phone number, and address), username, password, language, photograph and other Personal Information that you actively provide to us via the Site.<br>We also enable you to submit Personal Information about other people. For example, we request that you provide us with such information about individuals who you wish to nominate for a competition sponsored by Changemakers, or to use as references, or who may be interested in hearing about Changemakers. The following types of Personal Information may be collected about such persons: name, organization name, email address, phone number, city, and country.</p><h3>Use of Personal Information</h3><p>We use and disclose Personal Information to provide information about our organization, our competitions, or other issues of interest.<br>Except as provided herein, WE WILL NOT SELL ANY PERSONAL INFORMATION THAT YOU PROVIDE THROUGH THE SITE WITHOUT YOUR PRIOR WRITTEN CONSENT. We may use Personal Information that you provide to update you on our activities, let you know about new projects and competitions that we believe may be of interest to you, and contact you about the outcome of competitions. If you do not want to receive this information in the future, please contact us at <a class="linkification-ext" href="mailto:connect@changemakers.com" title="Linkification: mailto:connect@changemakers.com">connect@changemakers.com</a>.<br>From time to time, we may share certain Personal Information with other non-profits to enable them to share information that may be of interest to you. If you do not want us to share Personal Information with these entities, please contact us at<a href="mailto:privacy@changemakers.net"> connect@changemakers.com </a>and we will take reasonable measures to avoid sharing such information in the future. Please note that these other parties are sometimes independent from Changemakers, and if your information has already been shared with such parties and you wish to stop all communications from such parties and/or stop any use of the shared information by such parties, you will need to address such issues with them directly.<br>We may share Personal Information with our partners, affiliates, consultants, suppliers, and providers. We require that these entities keep your Personal Information confidential and only use your Personal Information to the extent necessary to perform their functions and not for any other purpose.<br>We may disclose Personal Information in response to legal process or when we believe in good faith that the law requires it, for example, in response to a court order, subpoena, or a law enforcement agency's request. We also reserve the right to disclose Personal Information to protect the security of the Site, and to protect ourselves and our partners, affiliates, consultants, suppliers, and providers against liability.&nbsp;<br>In the event that Changemakers or a significant portion of Changemakers’ assets or business is sold, assigned, merged, or otherwise transferred, Changemakers may transfer your Personal Information as a part of the transaction. In the event such a transfer occurs, Changemakers will use reasonable efforts to keep your Personal Information subject to the same protection as it was prior to the transfer. In the event that your Personal Information becomes subject to a different privacy policy, Changemakers will use reasonable efforts to notify you of such change.<br>The Site is not directed to children and Changemakers does not knowingly solicit information from any child under the age of 13.</p><h3>How You Can Access or Correct Your Information</h3><p>If you are a registered user of the Site, you can access and correct certain Personal Information that we collect online and maintain by clicking on "sign in" and entering your username and password. If any errors in your Personal Information cannot be corrected by accessing your account or if you have other questions related to updating or changing your account information, please contact us using the contact information below. You may also contact us using the information below to ask us to remove your Personal Information from our records, electronic or otherwise.</p><h3>Use of Anonymous Information</h3><p>The Site's web servers collect anonymous logs during user visits to the Site. This information is used to create aggregate statistics, for example, when the Site is accessed, the pages which refer visitors to the Site, the type of web browsers visitors use, and which pages of the Site are viewed. These statistics help us understand how the Site is used and provide us with valuable information for improving the Site in the future. From time to time, we may share such aggregate, non-personally identifiable statistical information with ­­advertisers and our partners, affiliates, consultants, suppliers, and providers. The type and amount of information we receive and store depends on how you use the Site. You can access most of our pages without telling us who you are and without revealing any Personal Information.</p><h3>Security</h3><p>Changemakers tries very hard to protect our users' Personal Information. Though Changemakers strives to protect this information, no transmission of data is completely secure. Changemakers will not be liable under any circumstances for damages resulting from use of information collected from you or any other visitors to the Site. When you access your account information, we usually offer the use of a secure server. The secure server software receives encrypted information through the Secure Sockets Layer (SSL) of your Internet browser which encrypts the Personal Information you input before it is sent to us and seeks to prevent anyone from reading it as the information travels from your computer to ours.<br>You should be aware that when you voluntarily disclose Personal Information via competition entries, messages, forums, postings, or in other areas of the Site, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Changemakers.&nbsp; Please do not post any Personal Information on the Site that you expect to keep private.</p><h3>Usernames and Passwords</h3><p>It is your responsibility to safeguard any username or password that you have received in connection with the Site, and to notify us if you ever suspect that the security and confidentiality of such username or password has been compromised in any way. You are solely responsible for any use of the Site via your username and password.</p><h3>Links</h3><p>Please note that third parties may also collect information about you, through cookies or other technologies, when you link to their websites through the Site. We do not monitor or control the information collection or privacy practices of these or any other third parties, and are not responsible for their practices or the content of their websites. If you are concerned about how third parties collect and use information, please review their privacy practices posted on their websites.</p><h3>Changes to Changemakers Privacy Policy</h3><p>Our privacy practices, like the online medium itself, are subject to change. Changemakers may, in its sole discretion, change this Privacy Policy at any time to reflect changes in the way we collect and use Personal Information in the future. Please check this Privacy Policy frequently and particularly before you submit additional Personal Information via the Site. All revisions to this Privacy Policy will be posted on the Site via a link from the home page of the Site. Your continued use of the Site after changes in this Privacy Policy indicates your assent to such changes.</p><h3>International Users</h3><p>Changemakers collects, processes, stores, discloses, and disposes of Personal Information that you submit to us in accordance with applicable United States law. Please note that the Personal Information you submit to the Site will be transferred to the United States to be processed by Changemakers in order to provide the Site and its services to you or for such other purposes as set forth in this Privacy Policy. If you are not a resident of the United States, you acknowledge and agree that we may collect and use your Personal Information, as discussed in this Privacy Policy, outside your resident jurisdiction. In addition, we may store such Personal Information in the United States, outside your resident jurisdiction. In particular, you are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Please be aware that United States law may offer different levels of protection for Personal Information than may be available in your country.</p><h3>How to Contact Us</h3><p>Your privacy is very important to us. Should you have any questions or concerns about this Privacy Policy, please address them to:<br>Changemakers<br>1700 North Moore Street<br>Suite 2000<br>Arlington, VA 22209<br>You may also send us an email at <a href="mailto:privacy@changemakers.net">connect@changemakers.com</a>.</p></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>    </div>
+  </div>
+</div>   
+  </div>
+</div>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix">  
+  <div id="zone-postscript" class="zone zone-postscript clearfix container-12">
+    <div class="grid-3 region region-postscript-first" id="region-postscript-first">
+  <div class="region-inner region-postscript-first-inner">
+    <div class="block block-block block-logo block-118 block-block-118 odd block-without-title" id="block-block-118">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p><a href="/"><img alt="Changemakers" id="logo_dark" src="/sites/all/themes/velocity/logo_white.png"></a></p>
     </div>
-
-
-
-    <div id="social-media-icons" class="grid-4 push-4">
-      <ul>
-        <li><a class="facebook-icon" href="https://www.facebook.com/ashokaschangemakers" target="_blank"><img src="/sites/all/themes/cm4/images/42px-placeholder.png" alt="Facebook"></a></li>
-        <li><a class="twitter-icon" href="http://twitter.com/changemakers" target="_blank"><img src="/sites/all/themes/cm4/images/42px-placeholder.png" alt="Twitter"></a></li>
-        <li><a class="youtube-icon" href="http://www.youtube.com/user/ChangemakersVideo" target="_blank"><img src="/sites/all/themes/cm4/images/42px-placeholder.png" alt="YouTube"></a></li>
-        <li><a class="linkedin-icon" href="http://www.linkedin.com/groups?gid=1554587" target="_blank"><img src="/sites/all/themes/cm4/images/42px-placeholder.png" alt="LinkedIn"></a></li>
-      </ul>
-<br>
-
-@2014 Ashoka Changemakers<br>
-<a href="/legal">Terms</a> &amp; <a href="/privacy">Privacy Policy</a>
-
+  </div>
+</div><div class="block block-block block-social-icons block-119 block-block-119 even block-without-title" id="block-block-119">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p><a class="facebook-icon" href="https://www.facebook.com/ashokaschangemakers" target="_blank"><span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></a><a class="twitter-icon" href="http://twitter.com/changemakers" target="_blank"><span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a><a class="youtube-icon" href="http://www.youtube.com/user/ChangemakersVideo" target="_blank"><span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-youtube fa-stack-1x fa-inverse"></i></span></a><a class="linkedin-icon" href="http://www.linkedin.com/groups?gid=1554587" target="_blank"><span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x fa-inverse"></i></span></a></p>
     </div>
-
-
-
-    <div id="copyright-terms" class="grid-4 pull-4">
-      <div>
-<form method="post" action="http://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0" name="registration_form" onsubmit="return noEntry()">
-<input type="text" id="tfa_1" name="tfa_1" value="" placeholder="First" class="required"><br>
-<input type="text" id="tfa_2" name="tfa_2" value="" placeholder="Last" class="required"><br>
-<input type="text" id="tfa_3" name="tfa_3" value="" placeholder="you@email.com" class="validate-email required">
-<div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction" value="Sign Up for E-newsletter!"></div>
-<input type="hidden" value="293-3fb6174f52fb56cd2943fcc127ea6fd6" name="tfa_dbCounters" id="tfa_dbCounters" autocomplete="off"><input type="hidden" value="342364" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="d60c127a53478218f89348fbb037c161" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="1409940936" name="tfa_dbTimeStarted" id="tfa_dbTimeStarted" autocomplete="off"><input type="hidden" value="2" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
-</form> 
-
-     </div>
+  </div>
+</div><div class="block block-block block-121 block-block-121 odd block-without-title" id="block-block-121">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
+<script type="text/javascript">
+	FreshWidget.init("", {"queryString": "&widgetType=popup", "utf8": "✓", "widgetType": "popup", "buttonType": "text", "buttonText": "Support", "buttonColor": "black", "buttonBg": "#f07e42", "alignment": "2", "offset": "235px", "formHeight": "500px", "url": "https://changemakers.freshdesk.com"} );
+</script>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-3 region region-postscript-second" id="region-postscript-second">
+  <div class="region-inner region-postscript-second-inner">
+    <div class="block block-block block-enewsletter block-116 block-block-116 odd block-without-title" id="block-block-116">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="http://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0" method="post" name="registration_form" onsubmit="return noEntry()"><input class="required" id="tfa_1" name="tfa_1" placeholder="First" type="text" value=""><br><input class="required" id="tfa_2" name="tfa_2" placeholder="Last" type="text" value=""><br><input class="validate-email required" id="tfa_3" name="tfa_3" placeholder="you@email.com" type="text" value=""><div class="actions" id="tfa_0-A"><input class="primaryAction" type="submit" value="Sign Up for E-newsletter!"></div>
+<input autocomplete="off" id="tfa_dbCounters" name="tfa_dbCounters" type="hidden" value="293-3fb6174f52fb56cd2943fcc127ea6fd6"><input id="tfa_dbFormId" name="tfa_dbFormId" type="hidden" value="342364"><input id="tfa_dbResponseId" name="tfa_dbResponseId" type="hidden" value=""><input id="tfa_dbControl" name="tfa_dbControl" type="hidden" value="d60c127a53478218f89348fbb037c161"><input autocomplete="off" id="tfa_dbTimeStarted" name="tfa_dbTimeStarted" type="hidden" value="1409940936"><input id="tfa_dbVersionId" name="tfa_dbVersionId" type="hidden" value="2"><input id="tfa_switchedoff" name="tfa_switchedoff" type="hidden" value=""></form>
     </div>
-
-  <div class="clear-block"></div>
-
-  <div id="footer-upper-left" class="grid-4">
-    <!--
-    <div class="footer-header"></div>
-                  <div id="browse-competitions-button" class="icon-button"><a id="browse-competitions-button-link" href="competitions"></a></div>
-    -->
   </div>
-
-  <div id="footer-upper-right" class="grid-4">
-    <!--
-    <div class="footer-header"></div>
-                  <div id="browse-changeshops-button" class="icon-button"><a id="browse-changeshops-button-link" href="innovations"></a></div>
-
+</div>  </div>
+</div><div class="grid-3 region region-postscript-third" id="region-postscript-third">
+  <div class="region-inner region-postscript-third-inner">
+    <div class="block block-block block-legacy-terms block-117 block-block-117 odd block-without-title" id="block-block-117">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p>©&nbsp;2015 Ashoka Changemakers.<br>
+<a href="/legal">Terms</a> &amp; <a href="/privacy">Privacy Policy</a></p>
+    </div>
   </div>
-
-  <div class="clear-block"></div>
-
-  <div id="footer-lower-left" class="grid-4 push-4">
-<a href="http://www.changemakers.com/support"><img src="/sites/default/files/2x-graphic.png" style="margin-left:-30px"></a>
-
-  <div class="footer-header"></div>
-  <div class="item-list">
-    <ul>
-      <li><a href="/about/changemakers"></a></li>
-      <li><a href="/about/careers"></a></li>
-      <li><a href="/about/partner"></a></li>
-      <li><a href="/contact"></a></li>
-    </ul>
+</div>  </div>
+</div><div class="grid-3 region region-postscript-fourth" id="region-postscript-fourth">
+  <div class="region-inner region-postscript-fourth-inner">
+    <div class="block block-menu block-footer-menu block-menu-footer-menu odd block-without-title" id="block-menu-footer-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/what-we-do" title="">About</a></li>
+<li class="leaf"><a href="/what-you-can-do-here" title="What You Can Do Here">What You Can Do Here</a></li>
+<li class="leaf"><a href="/about/team" title="">Our Team</a></li>
+<li class="leaf"><a href="/careers" title="">Careers</a></li>
+<li class="leaf"><a href="/about/faqs" title="">FAQs</a></li>
+<li class="leaf"><a href="/partners" title="">Partners</a></li>
+<li class="last leaf"><a href="/about/contact" title="">Contact Us</a></li>
+</ul>    </div>
   </div>
-  -->
-  </div>
-
-  <div id="footer-lower-right" class="grid-4 push-4">
-    <!--
-    <div class="footer-header"></div>
-                  <div id="more-topics-button" class="icon-button"><a id="more-topics-button-link" href="blog"></a></div>
-    -->
-  </div>
-
-
-
-</div> <!-- container 12 --></div>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block --><div id="block-menu-footer-menu" class="block block-menu even  grid16-0">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <ul class="menu"><li class="leaf first dhtml-menu "><a href="/community/changemakers" title="About us" id="dhtml_menu-97804-1">About</a></li><li class="leaf  dhtml-menu "><a href="/about/changemakers" title="" id="dhtml_menu-20091-1">What We Do</a></li><li class="leaf  dhtml-menu "><a href="/about/team" title="" id="dhtml_menu-20212-1">Our Team</a></li><li class="leaf  dhtml-menu "><a href="/getting_started" title="What You Can Do Here" id="dhtml_menu-97805-1">What You Can Do Here</a></li><li class="leaf  dhtml-menu "><a href="/about/careers" title="" id="dhtml_menu-20498-1">Careers</a></li><li class="leaf  dhtml-menu "><a href="/about/partner" title="" id="dhtml_menu-20463-1">Partner With Us</a></li><li class="leaf  dhtml-menu "><a href="/about/faqs" title="" id="dhtml_menu-20638-1">FAQs</a></li><li class="leaf last dhtml-menu "><a href="/about/contact" title="" id="dhtml_menu-20556-1">Contact Us</a></li></ul>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->                        </div>
-                      </div><!-- /footer-message-inner -->
-                    </div><!-- /footer-message -->
-                  </div><!-- /footer-message-wrapper -->
-              </div><!-- /page-inner -->
-    </div><!-- /page -->
-          <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  
+  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+    <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
       <script type="text/javascript">
         window.fbAsyncInit = function() {
           FB.init({
-            appId  : '122805084416482',
-            status : true, // check login status
+            appId : '122805084416482',
             cookie : true, // enable cookies to allow the server to access the session
-            xfbml  : true,
+            xfbml : true,
             logging: '0',
             channelURL: 'http://www.changemakers.com/sites/all/modules/fbconnect/channel.html',
-            oauth : true
+            oauth  : true
           });
-          
+          // whenever the user logs in, we tell our login service
+          FB.Event.subscribe('auth.login', function() {
+            window.location.reload();
+          });
+          FB.Event.subscribe('auth.logout', function(response) {
+            window.location.reload();
+          });
+
           jQuery(document).trigger('fb:init');
         };
-      
+
         (function() {
           var e = document.createElement('script');
           e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
           e.async = true;
           document.getElementById('fb-root').appendChild(e);
         }());
-      </script>
-<div style="display: none"><form action="/privacy?destination=node%2F73535" accept-charset="UTF-8" method="post" id="fbconnect-autoconnect-form">
-<div><input type="submit" name="op" id="edit-connect" value="Connect" class="form-submit">
-<input type="hidden" name="form_build_id" id="form-fhUk565mcCWPmzkwRVaAiw6dyzJZ9bE5zlxxXb5kUgA" value="form-fhUk565mcCWPmzkwRVaAiw6dyzJZ9bE5zlxxXb5kUgA">
-<input type="hidden" name="form_id" id="edit-fbconnect-autoconnect-form" value="fbconnect_autoconnect_form">
+      </script>  </div>
+</div><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6b646c4122","applicationID":"3293611","transactionName":"YwFTbRdUWUYAUhFRCVpLcFoRXFhbTl8KXANrFFBeAGpBXARG","queueTime":0,"applicationTime":404,"ttGuid":"","agentToken":"","atts":"T0ZQG19OSkg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
-</div></form>
-</div><script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/jquery_update\/replace\/jquery.js":true,"\/misc\/drupal.js":true,"\/sites\/default\/files\/languages\/en-us_3803d225b3e2beb62a1925b979173b9f.js":true,"\/sites\/all\/modules\/dhtml_menu\/dhtml_menu.js":true,"\/sites\/all\/libraries\/fancybox\/jquery.fancybox-1.3.1.js":true,"\/sites\/all\/modules\/fancybox\/js\/fancybox.js":true,"\/sites\/all\/modules\/fbconnect\/fbconnect.js":true,"\/sites\/all\/modules\/fivestar\/js\/fivestar.js":true,"\/sites\/all\/modules\/google_analytics\/googleanalytics.js":true,"\/sites\/all\/modules\/og\/og.js":true,"\/sites\/all\/modules\/panels\/js\/panels.js":true,"\/sites\/all\/libraries\/qtip\/\/jquery.qtip-1.0.0-rc3.min.js":true,"\/sites\/all\/modules\/qtip\/js\/qtip.js":true,"\/sites\/all\/modules\/user_relationships\/user_relationships_ui\/user_relationships_ui.js":true,"\/sites\/all\/modules\/views_slideshow\/js\/jquery.cycle.all.min.js":true,"\/sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_singleframe\/views_slideshow.js":true,"\/sites\/all\/modules\/jquery_update\/replace\/jquery.form.js":true,"\/sites\/all\/modules\/ctools\/js\/ajax-responder.js":true,"\/sites\/all\/modules\/ctools\/js\/modal.js":true,"\/sites\/all\/modules\/changemakers\/changemakers\/changemakers-search.js":true,"\/sites\/all\/modules\/changemakers\/changemakers\/js\/scroll_vert_inv.js":true,"\/sites\/all\/modules\/changemakers\/changeshops\/changeshops_profile\/js\/profile-slider.js":true,"\/sites\/all\/modules\/extlink\/extlink.js":true,"\/sites\/all\/modules\/changemakers\/changemakers\/tabbing_view.js":true},"css":{"\/sites\/all\/modules\/logintoboggan\/logintoboggan.css":true,"\/modules\/node\/node.css":true,"\/modules\/system\/defaults.css":true,"\/modules\/system\/system.css":true,"\/modules\/system\/system-menus.css":true,"\/modules\/user\/user.css":true,"\/sites\/all\/modules\/cck\/theme\/content-module.css":true,"\/sites\/all\/modules\/ctools\/css\/ctools.css":true,"\/sites\/all\/modules\/date\/date.css":true,"\/sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":true,"\/sites\/all\/modules\/date\/date_popup\/themes\/jquery.timeentry.css":true,"\/sites\/all\/modules\/dhtml_menu\/dhtml_menu.css":true,"\/sites\/all\/libraries\/fancybox\/jquery.fancybox-1.3.1.css":true,"\/sites\/all\/modules\/fbconnect\/fbconnect.css":true,"\/sites\/all\/modules\/filefield\/filefield.css":true,"\/sites\/all\/modules\/fivestar\/css\/fivestar.css":true,"\/sites\/all\/modules\/fivestar\/widgets\/basic\/basic.css":true,"\/sites\/all\/modules\/linkedin\/linkedin_auth\/linkedin_auth.css":true,"\/sites\/all\/modules\/mollom\/mollom.css":true,"\/sites\/all\/modules\/og\/theme\/og.css":true,"\/sites\/all\/modules\/panels\/css\/panels.css":true,"\/sites\/all\/modules\/qtip\/css\/qtip.css":true,"\/sites\/all\/modules\/user_relationships\/user_relationships_ui\/user_relationships_ui.css":true,"\/sites\/all\/modules\/video_filter\/video_filter.css":true,"\/sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_singleframe\/views_slideshow.css":true,"\/modules\/forum\/forum.css":true,"\/misc\/farbtastic\/farbtastic.css":true,"\/sites\/all\/modules\/calendar\/calendar.css":true,"\/sites\/all\/modules\/ctools\/css\/modal.css":true,"\/sites\/all\/modules\/extlink\/extlink.css":true,"\/sites\/all\/modules\/cck\/modules\/fieldgroup\/fieldgroup.css":true,"\/sites\/all\/modules\/views\/css\/views.css":true,"\/sites\/all\/modules\/changemakers\/changemakers\/changemakers.css":true,"\/sites\/all\/themes\/fusion\/fusion_core\/css\/style.css":true,"\/sites\/all\/themes\/fusion\/fusion_core\/css\/typography.css":true,"\/sites\/all\/themes\/fusion\/fusion_core\/css\/superfish.css":true,"\/sites\/all\/themes\/fusion\/fusion_core\/css\/superfish-navbar.css":true,"\/sites\/all\/themes\/fusion\/fusion_core\/css\/superfish-vertical.css":true,"\/sites\/all\/themes\/cm4\/competition.css":true,"\/sites\/all\/themes\/cm4\/960.css":true,"\/sites\/all\/themes\/cm4\/create_changemakers.css":true,"\/sites\/all\/themes\/cm4\/homepage.css":true,"\/sites\/all\/themes\/cm4\/progress_bar.css":true,"\/sites\/all\/themes\/cm4\/ccs_style.css":true,"\/sites\/all\/themes\/cm4\/css\/offer_needs.css":true,"\/sites\/all\/themes\/cm4\/css\/nav-slidedown.css":true,"\/sites\/all\/themes\/cm4\/css\/cm4-qtip-styles.css":true,"\/sites\/all\/themes\/cm4\/style.css":true,"\/sites\/all\/modules\/changemakers\/changeshops\/changemakers_innovation\/css\/featured_changeshop.css":true,"\/sites\/all\/modules\/changemakers\/competition\/css\/competition_list.css":true}}});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/jquery_update\/replace\/jquery.js":true,"\/misc\/drupal.js":true,"\/sites\/default\/files\/languages\/en-us_3803d225b3e2beb62a1925b979173b9f.js":true,"\/sites\/all\/modules\/dhtml_menu\/dhtml_menu.js":true,"\/sites\/all\/libraries\/fancybox\/jquery.fancybox-1.3.1.js":true,"\/sites\/all\/modules\/fancybox\/js\/fancybox.js":true,"\/sites\/all\/modules\/fbconnect\/fbconnect.js":true,"\/sites\/all\/modules\/fivestar\/js\/fivestar.js":true,"\/sites\/all\/modules\/google_analytics\/googleanalytics.js":true,"\/sites\/all\/modules\/og\/og.js":true,"\/sites\/all\/modules\/panels\/js\/panels.js":true,"\/sites\/all\/libraries\/qtip\/\/jquery.qtip-1.0.0-rc3.min.js":true,"\/sites\/all\/modules\/qtip\/js\/qtip.js":true,"\/sites\/all\/modules\/user_relationships\/user_relationships_ui\/user_relationships_ui.js":true,"\/sites\/all\/modules\/views_slideshow\/js\/jquery.cycle.all.min.js":true,"\/sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_singleframe\/views_slideshow.js":true,"\/sites\/all\/modules\/jquery_update\/replace\/jquery.form.js":true,"\/sites\/all\/modules\/ctools\/js\/ajax-responder.js":true,"\/sites\/all\/modules\/ctools\/js\/modal.js":true,"\/sites\/all\/modules\/changemakers\/changemakers\/changemakers-search.js":true,"\/sites\/all\/modules\/changemakers\/changemakers\/js\/scroll_vert_inv.js":true,"\/sites\/all\/modules\/changemakers\/changeshops\/changeshops_profile\/js\/profile-slider.js":true,"\/sites\/all\/modules\/extlink\/extlink.js":true,"\/sites\/all\/modules\/changemakers\/changemakers\/tabbing_view.js":true}}});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-84162-6"]);_gaq.push(['_setCustomVar', 1, "User roles", "anonymous user", 2]);_gaq.push(['_setCustomVar', 2, "Audience type", "has_account,created_entry,comp_finalist", 1]);_gaq.push(['_setCustomVar', 3, "Node type", "Page", 3]);_gaq.push(["_trackPageview"]);_gaq.push(['_trackPageLoadTime']);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"1003249977","applicationID":"2143008","transactionName":"bgYHZhFSXkpTAUVRDFdMJFEXWl9XHRJQXwZmDgRcAlRVS20MXlwGZhUMVxQ=","queueTime":0,"applicationTime":709,"ttGuid":"","agentToken":"","atts":"QkEEEFlITUQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
