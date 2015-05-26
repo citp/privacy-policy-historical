@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the hightail.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118013727id_/https%3A//www.hightail.com/aboutus/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hightail.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526180158id_/https%3A//www.hightail.com/aboutus/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - Hightail
 
-### Last updated October 23, 2014
+### Last updated April 2, 2015
 
 Thanks for being part of Hightail. Your privacy is very important to us and we take it very seriously. This Privacy Policy applies to https://www.hightail.com and all associated applications, owned and operated by Hightail, Inc. and/or affiliates thereof (“Hightail”). It describes how your personal information is collected, used, disclosed and protected by Hightail when using our Services. By using our Services, you acknowledge that you understand this policy, so please read it carefully.
 
 You should also read our [Terms of Service](https://web.archive.org/aboutus/legal/terms-of-service "Terms of Service").
 
 [](https://privacy.truste.com/privacy-seal/Hightail,-Inc-/validation?rid=f2b78e0c-0d8e-48f9-8b77-846044bb0202 "TRUSTe European Safe Harbor certification")
+
+[](https://privacy.truste.com/privacy-seal/Hightail,-Inc-/validation?rid=dc5820e4-44e9-4e27-a3aa-2a696a5874d1 "Validate TRUSTe privacy certification")
 
 ### We know that legalese can be painful. To help you review this policy, we’ve added quick summaries of each section here.
 
@@ -46,9 +48,7 @@ The TRUSTe program covers only information that is collected through this Web si
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Email Privacy at Hightail"). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/> request.
 
-Hightail’s privacy practices described in this Statement comply with the APEC Cross Border Privacy Rules System.
-
-To learn more about the APEC CBPR system, please visit <http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>.
+<http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>
 
 Hightail also complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Hightail has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
@@ -56,7 +56,7 @@ To learn more about the Safe Harbor program, and to view Hightail's certificatio
 
 Back to Top
 
-### We have global privacy certifications, including TRUSTe, APEC CBPR and Safe Harbor.
+### We have global privacy certifications, including TRUSTe and Safe Harbor.
 
 ## 3\. Information collected by Hightail
 
@@ -98,7 +98,7 @@ If you have been added to a user's Hightail address book and no longer wish to h
 
 #### User postings and testimonials on our website
 
-Hightail users can post comments or messages to the Hightail website, such as on our blog and community forum, which may be available to the public. We recommend that you guard your anonymity and sensitive information and we encourage you to think carefully about what information about yourself you disclose in your comments or messages. To request removal of such comments and message, contact Customer Support at [support@hightail.com](https://web.archive.org/web/20141118013727id_/https%3A//www.hightail.com/aboutus/legal/support@hightail.com "Hightail Support Email"). In some cases, we may not be able to remove them, in which case we will let you know we are unable to do so.
+Hightail users can post comments or messages to the Hightail website, such as on our blog and community forum, which may be available to the public. We recommend that you guard your anonymity and sensitive information and we encourage you to think carefully about what information about yourself you disclose in your comments or messages. To request removal of such comments and message, contact Customer Support at [support@hightail.com](https://web.archive.org/web/20150526180158id_/https%3A//www.hightail.com/aboutus/legal/support@hightail.com "Hightail Support Email"). In some cases, we may not be able to remove them, in which case we will let you know we are unable to do so.
 
 We post Hightail user testimonials on our website, which may contain Personal Information such as the user's name. We obtain user consent prior to posting of any such testimonial. If you wish to request the removal of your testimonial you may contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email").
 
