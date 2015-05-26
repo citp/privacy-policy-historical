@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scientist.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229080503id_/http%3A//scientist.com/%23privaryPolicyDialog) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientist.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526212850id_/http%3A//scientist.com/%23privaryPolicyDialog) for the most accurate reproduction.*
 
 # Scientist.com
 
