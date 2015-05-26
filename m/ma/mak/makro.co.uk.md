@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makro.co.uk privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228192419id_/http%3A//www.makro.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makro.co.uk privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526054156id_/http%3A//www.makro.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - makro.co.uk
 
@@ -22,10 +22,14 @@ We take the privacy of all our customers and website users seriously. This Priva
 
 L **inks with other MAKRO websites:** This privacy policy only covers MAKRO's websites. We are not responsible for the data policies or procedures or content of other linked websites. We recommend that you check the privacy and security policies of each website you visit. Cookies and similar devises such as web bugs may be used by us to provide you with customised information from our website. A cookie is an element of data that a web site can send to your browsers, which may then store it on your system. 
 
- **Cookies:** allow us to understand who has seen which pages and advertisements, to determine how frequently pages are visited and to determine which are the most popular areas of our website. We may use cookies so that we can give you a more personalised experience when returning to our website. CLICK HERE to find out more information about Makro's Cookies.
+ **Cookies:** allow us to understand who has seen which pages and advertisements, to determine how frequently pages are visited and to determine which are the most popular areas of our website. We may use cookies so that we can give you a more personalised experience when returning to our website.
+
+To find out more information about Makro's Cookies, please [click here >](https://web.archive.org/cookies.html)
 
  **Third parties:** We may supplement the information that you provide to us with information that we receive from other parties.
 
- **Sale of Business:** In the event that the business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchaser's advisers and will be passed on to any new owners of the business to use in the same way as set out in this Policy.  
+ **Sale of Business:** In the event that the business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchaser's advisers and will be passed on to any new owners of the business to use in the same way as set out in this Policy.
+
+To view Makro's full terms and conditions, please [click here >](https://web.archive.org/terms-and-conditions.html)  
   
 ---|---
