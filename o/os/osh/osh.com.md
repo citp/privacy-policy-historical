@@ -1,211 +1,73 @@
-> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202524id_/http%3A//www.osh.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526185125id_/http%3A//www.osh.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # osh Site
 
-[
+Orchard Supply Company, LLC ("Orchard Supply Hardware", “our" or "we"), a subsidiary of Lowe’s Companies, Inc., respects your privacy. This Privacy Statement describes how we collect, use, share, and protect information, and the choices you can make about such information. It also contains other important privacy disclosures, such as how we may update the Statement and how you can contact us. This Privacy Statement applies to most interactions with our customers, visitors, and online job applicants, including:
 
-](https://web.archive.org/)
+In some cases, we may provide additional details about privacy practices specific to a particular operation or location. For example, some stores may post additional privacy details specific to that store or an event.
 
-### Privacy Policy
+#### Information We Collect by Automated Means Online
 
-#### Effective on June 20, 2014
+When you use our websites (“online services”), we may collect certain information by automated means, using technologies such as cookies, Web server logs, and Web beacons. This information may be used to provide a better-tailored shopping experience, and for market research, data analytics, and system administration purposes. For instance, we may use this information to determine whether you've visited us before or are new to our website, to store your preferences and settings, to provide sign-in authentication, and for compliance with our legal obligations, policies, and procedures. We also may use this information to target custom content and ads to you on this and other websites, including as described in the Interest-Based Advertising section below.
 
-Orchard Supply Company, LLC ("Orchard Supply Hardware", "our" or "we") wants you to know how we collect, use, share and protect information about you. This statement ("Privacy Statement") applies to all information we collect, whether through osh.com, when you visit our stores, or from other sources.
+Our online services may use cookies and other types of local storage (such as browser-based or plugin-based local storage). Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings. Your browser may provide the ability to notify you when you receive certain types of cookies and the ability to restrict or disable certain cookies. 
 
-### What Information Do We Collect?
+Our online services generally use Web server logs to record information about your use of the services, such as your device type, operating system type, browser type, domain, system settings, and IP address, as well as the language your system uses and the country and time zone where your device is located. These logs also may record information such as the address of the Web page that referred you to our website, and other information about your interaction with our websites, such as which pages you visit. This is a common practice that supports the operation of our online services.
 
-We collect information about you, including when you:
+Our web pages, e-mails, and electronic newsletters may contain tags known as “Web beacons” or “single-pixel gifs,” which are small electronic images used to help deliver cookies on our sites, count visitors to our webpages, determine whether e-mails are opened, and deliver co-branded services. We may also work with other companies by sharing information about the use of our beacons or to place Web beacons on our sites, their sites, in our e-mails, or in advertisements, to let us develop statistics on how often clicking on an advertisement or product on our sites or in our e-mails results in a purchase or other action, including on other sites. Our webpages and e-mails may also contain Web beacons from third parties, which help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other website operations. These Web beacons may allow the third parties to set or read a cookie on your computer.
 
-  * Purchase, order, return, exchange or request information about our products and services in our stores or on osh.com 
-  * Call one of our call centers about a product, delivery, installation, or for customer service 
-  * Register on osh.com
-  * Visit osh.com or participate in interactive features of osh.com, such as product reviews or Weekly Ad
-  * Join our loyalty program, Club Orchard
-  * Sign up for e-mails from Orchard Supply Hardware
-  * Use a social media service, for example, Orchard Supply Hardware’s Facebook page, Pinterest page, Google+ page, or YouTube channel, or follow Orchard Supply Hardware on Twitter
-  * Enter a contest or sweepstakes, or respond to one of our surveys
-  * Conduct a transaction where we collect information required by law (for example, age-restricted purchases)
-  * Are recorded by in-store cameras (primarily for security purposes, and also for operational purposes such as measuring traffic patterns)
-  * Provide us with comments, suggestions, or other input
+#### Information We Collect by Automated Means Offline
 
+When you call our customer service centers or other phone support lines, we may record audio of the conversations for quality control, training, security, and analytics purposes. 
 
+We use video monitoring and recording at our stores to enhance security, protect against theft and other crimes, and to monitor in-store traffic patterns, customer counts and interests, and perform similar analytics. 
 
-The types of information we collect include: your name, mailing address, billing address, e-mail address, telephone (or mobile) number, credit/debit card number, month and day of your birth, drivers' license number, and purchase/return/exchange information.
+In some stores, we may use OSHbot robots to enhance the customer service experience. The OSHbot uses a touch screen along with visual and voice sensors to interact with customers, provide product information, and help customers find the products they are looking for. The OSHbot does not collect personal information and its sensors do not collect or store information intended to allow identification of individuals. 
 
-When you purchase a product to be delivered, we also collect personal information about the recipient so that we can fulfill your purchase. Third party recipients’ personal information is not used for marketing purposes.
+#### Information We Collect from Other Sources 
 
-#### Information Collected Automatically
+We may obtain certain information about you from other businesses, such as updated addresses or phone numbers we obtain from vendors who maintain such data, or your e-mail address if you have “opted in” with them to receive marketing communications from Orchard Supply Hardware. We may also obtain information about you from individuals, such as through “Refer a Friend” programs or if someone purchases a product and asks that it be delivered to you, and from public sources, such as information you submit in a public forum (for example, a customer review).
 
-_osh.com Collection_
+#### Service Providers 
 
-When you visit osh.com, we use cookies, web beacons, and other technologies to receive and store certain types of information. If you sign in under your Club Orchard account, this technology can use your IP address to connect your online activity with your personal information. The information we collect includes the IP (Internet protocol) address of your computer or mobile device, and your domain name, page requests, keystrokes, browser type, operating system and time spent on osh.com. This information helps us customize your website experience and make our marketing messages more relevant. This technology applies to Orchard Supply Hardware content presented on another website, for example, Orchard Supply Hardware Weekly Ad.
+We may disclose your personal information to companies that provide services to us (such as providers of hosting, support, delivery, printing, e-mail, data enhancement, and repair services) or that help us market our products and services. These companies may need access to information about you in order to perform their functions. These companies are not authorized to use the information we disclose to them for any other purpose.
 
-In order to provide the best online experience possible, we also use this information for reporting and analysis purposes, such as how you are shopping on osh.com, performance of our marketing efforts, and your response to those marketing efforts.
+When you request installed home improvement services, we may disclose the information you provide in the contact form you fill out online, or by calling our toll free number, to an authorized contractor so that they can contact you for a consultation and estimate. Similarly, if you choose to apply for an Orchard Business Credit Card provided by Synchrony Bank, we urge you to mail the application directly to Synchrony Bank. But if we receive a completed application, we will forward it to Synchrony Bank on your behalf.
 
-Orchard Supply Hardware does not collect personally identifiable information about users’ online activities over time and across third-party websites or online services.
+#### Legal, Enforcement, Security, and Investigation
 
-We may use third-party web analytics services on osh.com, such as those of Google Analytics. These service providers use the technology described above to help us analyze how users use osh.com. The information collected by the technology (including your IP address) will be disclosed to these service providers, who use the information to evaluate your use of osh.com. 
+We may disclose information about you (1) if we believe we are required to do so by law, regulation or legal process, such as a court order or subpoena; (2) as we deem appropriate or necessary in response to requests by government agencies, such as law enforcement authorities or tax authorities; (3) when we believe disclosure is appropriate or necessary to protect the rights, property, or safety of Orchard Supply Hardware, our customers, or others, including to prevent physical, financial or other harm, injury or loss, or to collect debt you owe; or (4) in connection with an investigation of suspected or actual unlawful activity. 
 
-Third parties may collect personally identifiable information about your online activities over time and across different websites or online services when you use osh.com.
+We maintain administrative, technical, and physical safeguards designed and intended to protect personal information against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure or use. Despite these safeguards, due to inherent uncertainty in the use of the Internet and information systems and the potential for unlawful attacks by third parties, we cannot guarantee that the use of our systems or websites will be completely safe or secure. 
 
-To learn more about managing cookies, go to the section of this Privacy Statement under "How Can You Change your Privacy Preferences?".
+Information we collect and use may be transferred, stored, and accessed globally to support our operations. We retain information for as long as it is needed or useful to provide and improve our products and services, comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-_Third-Party Cookies_
+#### Postal Mail & E-Mail
 
-We partner with third-party vendors to deliver advertisements about our products and services when you visit other websites on the Internet. These vendors place third party cookies which help us provide you with advertisements that are customized to your particular product preferences and improve the effectiveness of our marketing efforts.
+If you do not wish to receive mailers, coupons, and other promotional mail, you may contact us as indicated below. Please provide the mailing address you wish to exclude in your correspondence. 
 
-To opt out of third-party vendors' cookies, go to the section of this Privacy Statement under "How Can You Change your Privacy Preferences?".
+If you do not wish to continue to receive promotional and marketing e-mails, and you have registered for an account on osh.com, you may log into your account at any time and change your e-mail subscription preferences. Additionally, you may click on the "Unsubscribe" link in any promotional email you receive from us and update your preferences on the resulting webpage. You may also contact us as indicated below. Please note that due to e-mail production schedules you may still receive any e-mails already in production but not yet sent. 
 
-#### Information from Other Sources
+We may also continue to send transactional e-mails, which contain information about a prior purchase or an ongoing service, even if you opt-out of promotional e-mails or newsletters.
 
-We may obtain your e-mail address from a third party if you have “opted in” to receive marketing communications from Orchard Supply Hardware.
+#### Do Not Track 
 
-#### Public Forums
+We do not collect personally identifiable information about users’ online activities over time and across third-party websites and we do not process or respond to "Do Not Track" signals from your browser or other mechanisms that enable consumer choice regarding the collection of personal information about one's online activities over time and across third-party websites or online services.
 
-Any information you submit in a public forum (for example, a customer review, forum or social network) can be read, collected, or used by us and others, and could be used to personalize your experience. You alone are responsible for the information you choose to submit in these public forums.
+As described in the Interest-Based Advertising section below, however, we do participate in online advertising networks administered by third parties, and we may share information about activities on our websites with those networks, which may track your online activities over time and across third-party websites. 
 
-### How Do We Use Your Information?
+#### Interest-Based Advertising
 
-We may use the information we collect from you in the following ways:
+We collect data about your activities on our websites for use in providing advertising tailored to your individual interests, and we may share information about activities on our websites with advertising networks administered by third parties. These ad networks track your online activities over time and across websites by collecting information through automated means, and they use this information to show you advertisements that are tailored to your individual interests. The information they collect includes information about your visits to our websites, such as the pages you have viewed. This collection and ad targeting takes place both on our websites and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network. As a result, you may see certain ads on other websites based on prior activity on our websites. 
 
-#### Product and Service Fulfillment
+#### Notice to California Customers 
 
-  * To process your purchases, orders, payments, returns/exchanges, or requests for information or service, or to otherwise serve you
-  * To administer contests, promotions, surveys, product reviews, or other osh.com features
-  * To administer Club Orchard
+Subject to certain limitations under California Civil Code § 1798.83, if you are a California resident and have an established business relationship with us, you may ask us to provide you with (i) a list of certain categories of personal information that we have disclosed to certain third parties for their direct marketing purposes during the immediately preceding calendar year and (ii) the identity of certain third parties that received personal information from us for their direct marketing purposes during that calendar year. To make such a request, please contact us as follows:
 
+Orchard Supply Hardware  
+Privacy Office  
+6450 Via Del Oro  
+San Jose, CA 95119  
 
 
-#### Our Marketing Purposes
-
-  * To personalize your online experience and to allow us to deliver the type of content and product offerings which are of interest to you
-  * To send you newsletters, coupons, marketing communications, and other information regarding our products and services
-  * To send Club Orchard promotional communications
-  * To administer promotions
-
-
-
-#### Internal Operations
-
-  * To improve the effectiveness of osh.com, our stores, and our marketing efforts
-  * To conduct research and analysis, including surveys
-  * To perform other business activities as needed, or as described elsewhere in this policy
-
-
-
-#### Fraud Prevention
-
-  * To prevent fraudulent transactions, monitor against theft and otherwise protect our customers and our business
-
-
-
-#### Legal Compliance
-
-  * To assist law enforcement and respond to subpoenas
-
-
-
-#### Aggregate Information Collected By Us
-
-  * Aggregate Information is non-personally identifiable and anonymous information about you. Aggregate Information is used in a collective manner and no single person can be identified by that compiled information. For example, the number of people who shopped at our stores is Aggregate Information that does not personally identify a specific user. We collect Aggregate Information.
-
-
-
-### How Do We Protect Personal Information?
-
-We have established and implemented reasonable physical, technical, and administrative procedures to safeguard and secure the personal information we collect.
-
-#### Secure Shopping
-
-When you use a debit, credit or prepaid card in one of our stores or on osh.com, your payment card information is collected, stored and transmitted in compliance with the Payment Card Industry Data Security Standard (PCI DSS). 
-
-When you place orders on osh.com, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of osh.com from capturing and viewing your personal information. 
-
-#### Passwords
-
-To provide you with an increased level of security, online access to your personal information is protected with a password you select. We strongly recommend that you do not disclose your password to anyone. Orchard Supply Hardware will never ask you for your password in any unsolicited communication (including unsolicited correspondence such as letters, phone calls or e-mail messages).
-
-No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information from unauthorized access, use or disclosure, we cannot ensure or warrant the security of any information you transmit to us on osh.com.
-
-#### Information about Children
-
-We are committed to protecting children’s privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personally identifiable information from children under the age of 13. If a child under the age of 13 has provided us with personally identifiable information, we ask that a parent or guardian contact us.
-
-### Do We Disclose the Information We Collect to Outside Parties?
-
-We do not sell, trade, or otherwise transfer to third parties your personally identifiable information **except** as described below:
-
-#### Affiliates
-
-We may share your personal information among our affiliates who provide a product or service for us.
-
-#### Service Providers
-
-We may disclose your personal information to companies that provide services to us (such as providers of hosting, support, mobile, delivery, printing, e-mail, data enhancement, and repair services) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we disclose to them for any other purpose.
-
-#### Enforcement of Rights/Security
-
-We may disclose information you provide to us when we believe disclosure is appropriate:
-
-  * To comply with legal requirements (for example, in response to a subpoena)
-  * To protect and/or enforce the rights, property interests, or safety of Orchard Supply Hardware, our visitors, or others
-  * To resolve disputes, troubleshoot problems, and prevent fraud
-  * To enforce or apply this Privacy Statement, applicable terms and conditions, and other agreements
-
-
-
-#### Sale of the Company
-
-If some or all of our business or assets are sold or otherwise transferred, the information you provide may also be transferred to the buyer or transferee. We also may retain a copy of that information.
-
-### How Can You Access and Modify or Delete Your Information?
-
-#### osh.com
-
-If you registered for an account on osh.com, you may log into your account at any time and modify, delete or update your information.
-
-#### Club Orchard
-
-If you are a member of Club Orchard, you may log into your account at [www.cluborchard.osh.com](http://www.cluborchard.osh.com/) any time and modify, update your information or cancel your membership. You can also contact us at 888-SHOP-OSH and select option 4 to speak to a Club Orchard representative.
-
-### How Can You Change Your Privacy Preferences?
-
-#### Postal Mail
-
-If you do not wish to receive mailers, coupons, and other promotional mail, contact us at [oshmkt@osh.com](mailto:oshmkt@osh.com) to opt out.
-
-#### E-mail
-
-If you registered for an account on osh.com, you may log into your account at any time and change your preferences such as your e-mail subscriptions. Please note that due to e-mail production schedules you may receive any e-mails already in production. You also have the ability to unsubscribe to promotional e-mails by contacting us using the information contained in the e-mail or via the opt out link included in each e-mail. 
-
-#### Club Orchard
-
-If you are a member of Club Orchard, you may log into your account at [www.cluborchard.osh.com](http://www.cluborchard.osh.com/) any time and cancel your membership. You can also contact us at 888-SHOP OSH and select option 4 to speak to a Club Orchard representative.
-
-#### Orchard Supply Hardware Cookies
-
-The “help” function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the osh.com features. You may also make your cookie anonymous for analysis and reporting purposes.
-
-#### Third Party Collection
-
-To opt out of third-party vendor's cookies on other websites, visit the Network Advertising Initiative website at <http://www.networkadvertising.org/choices/>.
-
-To learn about opting out of Google Analytics, go to https://tools.google.com/dlpage/gaoptout. 
-
-#### California Residents
-
-Under California law, California residents who have an established business relationship with Orchard Supply Hardware may opt out of Orchard Supply Hardware disclosing personal information about them to third parties, including to Orchard Supply Hardware’s subsidiaries and affiliated companies, for their marketing purposes. Orchard Supply Hardware does not disclose information to its subsidiaries and corporate affiliates for their marketing purposes.
-
-### What About Privacy of Information Collected by Third Parties?
-
-In an attempt to provide you with increased value, osh.com may contain links to third party sites, offer third party installed home products through kiosks located in our stores, or refer you to third parties for decorating services and the like. These third parties have separate and independent privacy policies or may have no privacy policy.
-
-We are not responsible or liable for the activities or privacy policies of linked sites, third party vendors in our stores, or third parties to whom we may refer you for services. We want to protect the integrity of osh.com and Orchard Supply Hardware, and welcome any feedback about a linked site (including if a specific link does not work) or about a third party vendor.
-
-### How Do I Ask Questions and Provide Feedback Regarding Privacy?
-
-We welcome your questions, comments and concerns about privacy. Please contact us at [oshmkt@osh.com](mailto:oshmkt@osh.com) with any questions or comments you may have regarding the privacy of your information. You may also contact us at Orchard Supply Hardware, Marketing Department, 6450 Via Del Oro San Jose, California 95119; 408-281-3500.
-
-#### Privacy Statement Revisions
-
-By interacting with Orchard Supply Hardware, you consent to our use of information that is collected or submitted as described in this Privacy Statement. We may change or add to this Privacy Statement without notice (for example, if we modify our practices regarding the collection or use of information). If we do, we will post the amended Privacy Statement on osh.com; we encourage you to visit osh.com to periodically review our Privacy Statement.
+We do not disclose personal information to third parties, including subsidiaries or corporate affiliates, for their direct marketing purposes.
