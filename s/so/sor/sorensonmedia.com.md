@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222183318id_/http%3A//www.sorensonmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526085212id_/http%3A//www.sorensonmedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Sorenson
+# Privacy | Sorenson Media
 
 ## Sorenson Media, Inc. Privacy Policy
 
