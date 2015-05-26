@@ -1,65 +1,31 @@
-> *The following text is extracted and transformed from the amyporterfield.com privacy policy that was archived on 2013-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130712033025id_/http%3A//www.amyporterfield.com/profitlab/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amyporterfield.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526053953id_/http%3A//www.amyporterfield.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Facebook Profit Lab by Amy Porterfield
+# Privacy Policy - Amy Porterfield
 
-## Privacy Policy
+We are committed to protecting your privacy and security and have explained in detail the steps we take to do so. We control this site from offices in the United States of America. We do not represent that materials on the site are appropriate or available for use in other locations. Persons who choose to access this site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable.
 
-Amy Porterfield, Inc. and www.amyporterfield.com are serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
+#### Outside Sites (Their Privacy Policies May Be Different)
 
-Our mailing address is:  
-2647 Gateway Rd Suite 105-112   
-Carlsbad, California 92009 USA
+The Site contains links to other websites, like our sponsor’s websites or links to booksellers, that may offer products or services that our customers might find useful. These sites may request information from you. In such instances, the collection and use of your personal information will be governed by the privacy policy applicable to that site. We do not control the privacy policies, contents or links that appear on these sites. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information.
 
-We can be reached via e-mail at info@amyporterfield.com.
+#### How and Why We Collect Information
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+We collect your information in order to record and support your participation in the activities you select. If you register for a course, a membership site, or a free training series, for example, the information is used to enroll you in the program, to enroll you in our newsletters, to track your preferences, and to keep you informed about the product and related products. As a visitor to our Sites, you can engage in many activities without providing any personal information.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who:
+> If you opt in to receive any free training series, download a free product, register for a webinar, seminar, or live event, or purchase any product sold by us or promoted by us, you will automatically be subscribed to our free newsletter. If you do not wish to receive this free newsletter, you may opt out at any time. We include an unsubscribe link at the bottom of every e-mail we send. If you have any trouble opting out, please [send an e-mail to us.](mailto:amy@amyporterfield.com) We will manually remove you from our e-mail list(s).
 
-  * communicate with us through on-line forms and registration forms
-  * communicate with us via e-mail
-  * make postings to our chat areas
+In connection with other activities, such as those described above, we may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, we may ask that you provide us personal information, such as your first and last name, mailing address (including ZIP code), e-mail address, telephone, credit card, and other personal information. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
 
+In all cases, we will collect personal identification information from you only if you voluntarily submit such information to us. We will also tell you how we use your information or if we share it with another party. Except as otherwise provided in this policy, we will never intentionally disclose any personal identification information about you as an individual user to any third party without having received your permission.
 
+If you supply us with your contact information you may receive periodic e-mails, mailings or calls from us with information on new products and services, important issues, or upcoming events. If you wish to be removed from any postal, e-mail, phone, or other lists, please let us know by[ ](mailto:amy@amyporterfield.com)e-mailing us. You can also write us or call us at the contact information above. Please provide us with your exact name, e-mail address, mailing address, and phone. We will be sure your name is removed from the appropriate lists immediately.
 
-We aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
+When you use our Sites, we or our authorized technology services provider may also collect certain technical and routing information from you to facilitate your use of the Site and its services. We use this information to administer the Site and to understand and measure traffic patterns on the Site so that we know which areas of our sites are favorites of our users, which areas need improvement, and what technologies are being used so that we may continually improve our sites. This information is collected in aggregate form, without identifying you or any user individually. We may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.
 
-The information we collect is used to:
+This data is often tracked by us our our technology services provider by using “cookies” during your visit. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card and enables us to record your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.)
 
-  * Improve the content of our Web page
-  * Customize the content and/or layout of our page
-  * Notify consumers about updates to our Web site
-  * Contact consumers for marketing purposes
-  * Disclosed when legally required to do so, at the request of governmental authorities conducting an investigation
-  * Verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+#### Exceptions to Privacy Policy
 
+While we are committed to keeping your information secure and private, we have the following exceptions to our privacy policy: We will release specific information about you or your account to comply with any valid legal inquiry or process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Sites, or a physical or property threat to you or others. We may also transfer user information, including personally identifiable information, in connection with a corporate merger, consolidation, the sale of related assets or corporate division or other fundamental corporate change.
 
-
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site and to customize Web page content based on visitors' browser type or other information that the visitor sends.
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address.
-
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information pertaining to their original reason for data submission.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
-
-Upon request we provide site visitors with access to information (and a description of information) that we maintain about them, such as:
-
-  * unique identifier information (e.g., customer number or password)
-  * transaction information (e.g., dates on which customers made purchases, amounts and types of purchases)
-  * communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries)
-  * contact information (e.g., name, address, phone number)
-
-
-
-Consumers can access this information by e-mailing us at the above address.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information and communications that the consumer/visitor has directed to the site.
-
-Consumers can have this information corrected by sending us an e-mail at the above address.
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
-
-If you feel that this site is not following its stated information policy, you may contact us using the above details.
+Further, the information you enter when making a purchase or an online donation will be shared with payment processors, financial gateways, and your credit card company to authorize credit card payments. Such information may also be shared with necessary third parties solely for the purpose or carrying out the transactions. Please note that if you give out personal information online through a discussion board or posting site, that information can be collected and used by third parties. Although we strive to protect our users’ privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
