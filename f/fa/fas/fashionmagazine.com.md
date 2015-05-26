@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124180301id_/http%3A//www.stjoseph.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmagazine.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526045340id_/http%3A//www.stjoseph.com/privacy-policy) for the most accurate reproduction.*
 
 # St. Joseph Communications – Privacy Policy
 
