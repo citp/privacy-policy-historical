@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the gamefanshop.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122003229id_/http%3A//www.gamefanshop.com/partner-Pistol/page/privacy/%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefanshop.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526225929id_/http%3A//www.gamefanshop.com/partner-TechRaptor/page/privacy/%3F) for the most accurate reproduction.*
 
-# GameFanShop Privacy Policy
+# TechRaptor Shop Privacy Policy
 
 #### Our Commitment to Privacy
 
-We are glad that you have chosen to shop at GameFanShop.com. We are committed to protecting your privacy online. This page explains how we collect, use and protect the information that you provide to us. We respect your privacy and intend to give you as much control as possible over your personal information. 
+We are glad that you have chosen to shop with us. We are committed to protecting your privacy online. This page explains how we collect, use and protect the information that you provide to us. We respect your privacy and intend to give you as much control as possible over your personal information. 
 
 #### What Information Do We Collect? 
 
   * **Information That You Provide Us**  
-We accept and store any information that you submit on GameFanShop.com or by any other means. For example, you may provide personal information when you place an order, enter a giveaway, request a publication, or contact us. This information may include name, address, phone numbers, email address, credit card and payment information, and other personal information. 
+We accept and store any information that you submit or by any other means. For example, you may provide personal information when you place an order, enter a giveaway, request a publication, or contact us. This information may include name, address, phone numbers, email address and payment information, and other personal information. 
   * **Web Site Use Information**  
-We collect and analyze technical information about how customers interact with GameFanShop.com including, but not limited to, IP addresses, browser types, operating systems, pages viewed, links, dates and times, and other information. 
+We collect and analyze technical information about how customers interact with our store including, but not limited to, IP addresses, browser types, operating systems, pages viewed, links, dates and times, and other information. 
   * **Cookies**  
 Like many websites, we utilize a standard technology called "cookies" to differentiate you from other shoppers and to store and retrieve information about your interaction with the website, like the items in your shopping cart or wishlist for example. 
   * **Email Information and Contact Forms**  
@@ -35,10 +35,10 @@ To review or correct your personal information, or to change your communication 
 
 #### Links to Other Websites
 
-GameFanShop is not responsible for the content or practices employed by other websites that are linked to from GameFanShop.com. When you use a link to go from GameFanShop.com to another website, our privacy policy is no longer in effect. 
+We are not responsible for the content or practices employed by other websites that are linked to from our shop. When you use a link to go from our shop to another website, our privacy policy is no longer in effect. 
 
 #### Your Consent
 
 By using our website you consent to our collection and use of your personal information as described in this Policy. If we change our policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
 
-This policy was last updated on July 16, 2011. If you have any questions or concerns about this privacy policy, please [contact us](http://www.gamefanshop.com/page/contactus/). 
+This policy was last updated on July 16, 2011. If you have any questions or concerns about this privacy policy, please [contact us](http://www.gamefanshop.com/partner-TechRaptor/page/contactus/). 
