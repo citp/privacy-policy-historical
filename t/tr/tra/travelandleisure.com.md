@@ -1,213 +1,147 @@
-> *The following text is extracted and transformed from the travelandleisure.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620204334id_/http%3A//www.amexpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelandleisure.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526233112id_/https%3A//subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_new.html%3Fdnp-source%3DE) for the most accurate reproduction.*
 
-# Privacy Statement
+# Travel+Leisure Privacy Policy for the US
 
-* AMERICAN EXPRESS PUBLISHING is a trademark of American Express Marketing & Development Corp. and is used under limited license. Time Inc. Affluent Media Group is not affiliated with American Express Company or its subsidiaries.
+## PRIVACY POLICY
 
-  
-Effective Date: November 11, 2013
+### Table of Contents
 
-American Express Publishing ("AEP," "we," "our" or "us"), a division of Time Inc. Affluent Media Group, is committed to safeguarding your privacy. We want you to know how we may collect, use, share, and keep information about you and the choices that are available to you. [Click here](https://web.archive.org/web/20140620204334id_/http://www.amexpub.com/privacy/aep-bus-units.html) for a list of the businesses that are governed by this Privacy Policy.
-
-This online privacy policy applies to AEP sites, applications, products, publications and services that reference this policy. AEP is not affiliated with American Express Company or its subsidiaries, and this Policy does not apply to those sites that have their own online privacy policies such as the American Express website, americanexpress.com, and the American Express Network website, amexnetwork.com.
-
-Our sites, applications, products, publications and services are not intended for children under 13 years of age. We do not knowingly solicit data online from, or market online to, children under 13 years of age. 
-
-Since we may change this online privacy policy from time to time, we recommend that you check the current version available. 
-
-## What is in this online privacy policy?
-
-  * What information does this online privacy policy cover?
-  * What information do we collect and how do we collect it?
-  * How do we use the information we collect about you?
+  * The Information We Collect
+  * How We Use the Information 
+  * Privacy Options
   * Your California Privacy Rights: Notice to California Customers
-  * How do we share your information?
-    * How we treat your Personal Information
-    * How we handle aggregate and de-identified information
-  * How do we keep and safeguard your information?
-  * What are your choices?
   * Collection of Information by Third-Party Sites and Sponsors
-  * How we serve advertising
+  * Cookies
+  * Our Commitment to Security
   * Accessing, Correcting, and Deleting Your Personal Information
+  * Retention of Personal Information
+  * Special Note for Parents
+  * Changes to this Privacy Policy
   * How to Contact Us
-  * Glossary
 
 
 
-##   
-What information does this online privacy policy cover?
+This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20150526233112id_/https%3A//subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_new_eu.html?dnp-source=E), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20150526233112id_/https%3A//subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_new_caneu.html?dnp-source=E).
 
-This online privacy policy describes how we (and our Service Providers) may collect, use, share, and keep information that we get about you. We gather Online Information, which is data or information collected on the AEP sites and applications as well as on sites and applications of third parties relating to topics about our business, and Other Information, which is AEP internal information (for example subscription transaction data), external data used to process transactions and other online and offline data, including data collected from or about you via telephone, postal mail, in person and from Business Partners.
+Thank you for visiting Travel+Leisure, or using our mobile device applications (the "Apps") or other services (together with the Apps, the "Services"), Services within the network of Time Inc. and its subsidiaries, each of which have adopted this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice.
 
-We gather Online Information and Other Information if you:
+#### The Information We Collect
 
-  * Visit or use our sites, applications, products, publications or services;
-  * Order publications or other products;
-  * Receive or reply to communications from us; 
-  * View or click on our ads or engage with other online content or in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities;
-  * Interact with us through social media sites and other sites and applications; and
-  * Provide information via any other means in connection with AEP generally or with any of the AEP products and services listed here (hyperlink to www.amexpub/privacy/products).
+Through Time Inc. publications, websites, and other media, you can order publications and products; engage in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities. Your personally identifiable information may be required to engage in these activities as well as to receive products and services that you may have requested. The types of personally identifiable information that may be collected at these pages and elsewhere include but are not limited to: name, address, gender, e-mail address, telephone number, fax number and credit or debit card information.
 
+We may also collect information about your personal or professional interests and use of or opinions about various products, programs and services. For instance, we may ask you to identify your job or industry to qualify you for free business magazines.
 
+At some Time Inc. sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number.
 
-In this policy, we also explain how we may combine Online Information and Other Information we collect from you and how we then use the combined information. 
+We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information.
 
-##   
-What information do we collect and how do we collect it?
+back to top
 
-The types of information we collect depends on which product or service you use.
+#### How We Use the Information
 
-Sometimes you give information directly to us (or to our Service Providers). For example, you might give us your name, address, e-mail address, telephone number, date of birth and credit or debit card information in order to:
+We may use the information you provide about yourself or others to fulfill requests for our publications, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest.
 
-  * Subscribe to or purchase any of our products or services, such as our publications (hyperlink to product page) or club memberships (hyperlink to product page that includes list of clubs/events); 
-  * Fill out a form or survey;
-  * Give us information for consideration for content on a website or in a magazine or application. This might include writing an essay, taking photographs or videos, and other activities. 
-  * Register, log into or update the settings on your account using our online services;
-  * Enter a competition or register for a marketing offer; or
-  * Buy something on our sites and in our applications. 
+We may combine information we receive with outside records and share such information with third parties for use on our behalf to enhance our ability to market to you those products or services that may be of interest to you.
 
+We may disclose personally identifiable information that we receive from you and from third party sources to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
 
+When you request a magazine, service, or other product, we will forward the information you give us to the publisher or provider to the extent necessary to fulfill your request. They may contact you with special offers of possible interest.
 
-At some AEP sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include recipient's name, address, e-mail address and telephone number.
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or sweepstakes, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account.
 
-We (and our Service Providers or Third-Party Ad-Servers) also collect information through Cookies and Similar Technologies. Most Cookies and Similar Technologies will only collect De-Identified Information such as how you arrive at our website or your general location. However, certain Cookies and Similar Technologies do collect Personal Information. For example, if you click Remember Me when you log in to our website, a cookie will store your information. 
+If you choose to submit content (e.g., a "letter to our editors" or an online review), we may publish your name, screen name and other information you have provided to us. You hereby consent to this.
 
-We (and our Service Providers or Third-Party Ad-Servers) may collect information using Cookies and Similar Technologies about:
+The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
 
-  * The device you use to browse our sites (for example, we may collect information about the operating system or the browser version and the type of computer or mobile device, including other identifying details);
-  * The IP Address and information related to that IP Address (such as domain information, your internet provider and general geographic location);
-  * Browsing history on our site (such as what you search for, the pages you view, how long you stay, and how often you come back);
-  * How you search for our site, from which sites you visit to our site, and which of our Business Partners’ sites you visit;
-  * Which ads or online content from us and our Business Partners you view, access, or click on;
-  * Whether you open our electronic communications and which parts you click on 
-  * The location of your mobile device (for example, when you use our mobile sites or apps to register to receive location-based content).
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs, or services.
 
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
+Agents and contractors of Time Inc. that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc.
 
-We (and our Service Providers or Third-Party Ad-Servers) also may collect information made publicly available through third-party platforms (such as social media sites), online databases or other directories. 
+We may transfer your personally identifiable information to other Time Inc. offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other Time Inc. offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of Time Inc., our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
 
-## How do we use the information we collect about you?
-
-We may use Online Information we collect about you on its own or combine it with Other Information we have about you to:
-
-  * Deliver products and services, including to:
-    * recognize you when you return to our sites;
-    * complete transactions; 
-    * tell you about updates to your membership, products, and services;
-    * answer questions and respond to your requests made through our sites and through third-party sites (including social media); 
-    * improve our sites and make them easier to use; 
-  * Use the location of your mobile device to prevent fraud or deliver other location-based services that you may request;
-  * Protect your information;
-  * Update you about new features and benefits; 
-  * Determine how to best provide services to you, such as the best way to contact you;
-  * Advertise and market our products and services - and those of our Business Partners \- including to:
-    * present Targeted Advertising send or provide you with ads, promotions, and offers;
-    * analyze whether our ads, promotions, and offers are effective; 
-    * help us determine whether you may be interested in new products or services; 
-  * Conduct research and analysis, including to:
-    * better understand our customers and site visitors;
-    * allow you to give feedback by rating and reviewing our products and services and those of our Business Partners; 
-    * produce data analytics, statistical research, and reports; 
-    * review and change our products and services;
-  * Use it in other ways as required or permitted by law or with your consent.
-
-
-
-## Your California Privacy Rights: Notice to California Customers
-
-California's "Shine the Light" law, Civil Code Section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: AEP sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](http://www.amexpub.com/privacy/optout/aepoffline/), or for email please [click here](http://www.amexpub.com/privacy/optout/aepemail). To find out more about your opt-out rights, please contact us as described in the "How to Contact Us" section below.
-
-Some Online Information and Other Information is Personal Information, which is information that can identify a person, such as name, address, e-mail address, telephone number, date of birth and credit or debit card information.
-
-## How we treat your Personal Information
-
-We do not share Personal Information with anyone except as described below. We may share Personal Information as required or as permitted by law, such as:
-
-  * With regulatory authorities, courts, and governmental agencies to comply with legal orders, legal or regulatory requirements, and government requests;
-  * With our Service Providers, regulatory authorities, and governmental agencies to detect and prevent fraud or criminal activity, and to protect the rights of AEP or others;
-  * Within the other divisions of Time Inc. Affluent Media Group that share this privacy policy;
-  * With our Service Providers who perform services for us and help us operate our business (we require Service Providers to safeguard Personal Information and only use your Personal Information for the purposes we specify);
-  * With Business Partners who may wish to contact you about products, services, and offers that may interest you, either in conjunction with AEP or by themselves. These Business Partners’ practices are not covered by this privacy policy. (If you do not want us to share your Personal Information with our Business Partners in the future, please [click here](http://www.amexpub.com/privacy/optout/bpoffline/).);
-  * In the context of a sale of all or part of [American Express Publishing](https://www.americanexpress.com/au/content/privacy-statement-2012.html#AEFC) or Time Inc. Affluent Media Group or their assets; or
-  * For specific products or services, when you have given your consent.
-  * Also, we may transfer Personal Information to Service Providers or companies within the Time Inc. Affluent Media Group throughout the world, for example, to process transactions and provide you with our products or services. Regardless of where we process your information, we still protect it in the manner described in this privacy policy and according to the applicable laws.
-
-
-
-## How we handle Aggregate and De-Identified Information
-
-Aggregate Information or De-Identified Information does not identify you individually; it helps us to analyze patterns among groups of people. We may share Aggregate Information or De-Identified Information in several ways, for example:
-
-  * For the same reasons as we might share Personal Information;
-  * With Business Partners to help develop and market products and deliver targeted content and ads;
-  * With Business Partners to conduct analysis and research about customers and site visitors; or
-  * With Third-Party Ad-Servers to place ads (including ads of our Business Partners) on various sites and applications, and to analyze the effectiveness of those ads.
-
-
+Please note that if Time Inc. or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
 
-## How do we keep and safeguard your information?
+#### Privacy Options
 
-We use administrative, technical and physical security measures to protect your Personal Information. These measures include computer safeguards and secured files and facilities. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc., please [click here](https://web.archive.org/web/20150526233112id_/https%3A//subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_form_offline.html?dnp-source=E).
 
-We will keep your Online Information and Other Information as long as necessary to deliver our products and services, unless we are required by law or regulation or for litigation and regulatory investigations to keep it for a longer period of time.
+If you prefer not to receive e-mail marketing from this or any other Time Inc. property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc., please [click here](https://web.archive.org/web/20150526233112id_/https%3A//subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_form_online.html?dnp-source=E).
 
-## What are your choices?
+Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-You have choices about how AEP uses your information, such as how we market to you or how we manage Cookies or Similar Technologies[1].
+back to top
 
-## What are your choices about how we directly market to you?
+#### Your California Privacy Rights: Notice to California Customers
 
-You can choose how you would like to receive direct marketing communications - whether we send them to you through postal mail, email and/or telephone. If you choose to not receive marketing communications from us, we will honor your choice. Please be aware that if you choose not to receive such communications, certain offers attached to the products or services you have chosen may be affected. We will still communicate with you in connection with servicing your account, fulfilling your requests, or administering any promotion or any program in which you have elected to participate.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Time Inc. sites do not recognize the “do not track signals” that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20150526233112id_/https%3A//subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_form_offline.html?dnp-source=E), or for email please [click here](https://web.archive.org/web/20150526233112id_/https%3A//subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_form_online.html?dnp-source=E). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
 
-## Collection of Information by Third-Party Sites and Sponsors
+#### Collection of Information by Third-Party Sites and Sponsors
 
-Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information.
+Some of our sites contain links to other sites whose information practices may be different than ours. Time Inc. also allows you to connect with other sites and services in order to share content and information. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information.
 
-AEP sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the AEP site and the third parties. AEP has no control over the third parties' use of this information.
+Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information.
 
-## How we serve advertising
+Time Inc. sites may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). 
 
-We use reputable third parties to serve advertisements, including Online Behavioral Advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). 
+For more information on advertisements and your behavioral advertising options, visit our [About Ads page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html).
 
-For additional information on advertisements and your Online Behavioral Advertising options, visit our [About Ads page](http://www.amexpub.com/privacy/aep-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html). 
+#### Cookies
 
-## Accessing, Correcting, and Deleting Your Personal Information
+To enhance your experience on our Services, we may place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
+
+We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
+
+Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser.s instructions.
+
+_Local Shared Objects_ : Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
+
+_HTML 5_ : HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
+
+_Cache Cookies_ : Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
+
+_Web Beacons_ : Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
+
+These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
+
+back to top
+
+#### Our Commitment to Security
+
+We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
+
+#### Accessing, Correcting, and Deleting Your Personal Information
 
 We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates.
 
-We encourage you to review and update the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate or incomplete by contacting us as described in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
+We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
 
-If you have questions about our online privacy policy, you may contact us by 1-866-642-1356 or write to us at
+#### Retention of Personal Information
 
-American Express Publishing  
+We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in the **"Accessing, Correcting, and Deleting Your Personal Information"** section above.
+
+#### Special Note for Parents
+
+The site you are visiting is one of the Time Inc. general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
+
+#### Changes to this Privacy Policy
+
+This Privacy Policy may be changed by Time Inc. The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+
+#### How to Contact Us
+
+If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=LE) or by writing to:
+
+Time Customer Service  
 Attention: Consumer Affairs  
 3000 University Center Drive  
 Tampa, Florida 33612-6408
 
-[Click here](mailto:aepprivacy@timeinc.com) to email us if you have any questions about our online privacy policy. 
+<http://www.travelandleisure.com/>
 
-**Aggregate Information** \- data or information relating to multiple people which has been combined or aggregated. Aggregate Information includes information that we create or compile from various sources, including subscriptions or certain data from Cookies and Similar Technologies. 
+back to top
 
-**American Express Publishing ("we," "our," "us"),** \- a division of Time Inc. Affluent Media Group. All rights reserved. AMERICAN EXPRESS PUBLISHING is a trademark of American Express Marketing & Development Corp. and is used under limited license. Time Inc. Affluent Media Group is not affiliated with American Express Company or its subsidiaries.
-
-**Time Inc. Affluent Media Group** \- any affiliate and subsidiary of, and any company owned or controlled by, the Time Inc. Affluent Media Group.
-
-**Business Partners** \- any third parties with whom we conduct business and have a contractual relationship, such as a business that advertises on our sites, applications or within our products. 
-
-**Cookies and Similar Technologies** \- A _cookie_ is a small data file that a website transfers to your computer's hard drive. We may send cookies when you visit our site or sites where our ads appear or when you make purchases, request or personalize information, or register for certain services. If you accept the cookies used on our site, sites that are “powered by” another company on our behalf, or sites where our ads appear, you may give us access to information about your interests. We may use that information to personalize your experience. Similar technologies such as web beacons, pixels, gifs, and tags also do the same thing. We use the term _Cookies and Similar Technologies_ in this policy to refer to all technologies that collect information in this way. 
-
-Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies, and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused Cookies and Similar Technologies. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser’s instructions. 
-
-**De-identified Information** \- data or information used in a way that does not identify you to a third party. We often derive De-Identified Information from Personal Information. It includes information that we may collect from various sources, such as subscriptions or certain data from Cookies and Similar Technologies.
-
-**IP Address** \- a number assigned to a device when connecting to the Internet. 
-
-**Service Providers** \- any vendor, third party and/or company that performs business operations on our behalf, such as printing, mailing, and other communications services (email, direct mail, etc.), marketing, data processing, servicing, collections, or ad management.
-
-**Targeted Advertising** \- Ads that we, or our Service Providers, display on our sites and outside the Time Inc. Affluent Media Group based on the preferences or interests inferred from data collected from a particular computer or device regarding web viewing behaviors over time and across different websites.
-
-**Third-Party Ad-Servers** \- companies that provide the technology to place ads on sites and mobile applications and track how ads perform. These companies may also place and access cookies on your computer and device. The information they collect from our sites is in a form that does not identify you personally.
-
-© 2020 American Express Publishing, a division of Time Inc. Affluent Media Group. All rights reserved. AMERICAN EXPRESS PUBLISHING is a trademark of American Express Marketing & Development Corp. and is used under limited license. Time Inc. Affluent Media Group is not affiliated with American Express Company or its subsidiaries.
+This Privacy Policy was revised Jan. 2, 2014.
