@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdameritrade.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126020108id_/https%3A//www.tdameritrade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdameritrade.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526180201id_/https%3A//www.tdameritrade.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TD Ameritrade
 
