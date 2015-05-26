@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvertisingnetwork.org privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122050638id_/http%3A//www.freeadvertisingnetwork.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvertisingnetwork.org privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526072149id_/http%3A//www.freeadvertisingnetwork.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Free Advertising - 100% Free Web, Mobile and Email Advertising
 
