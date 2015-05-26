@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118044125id_/http%3A//www.gaadi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526064741id_/http%3A//www.gaadi.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# New Cars in India | Car Prices in India | Car India | Indian Cars
 
 At Gaadi.com (" **Website** "), we believe strongly in protecting the privacy of your personal information, and in using it only in ways that have been notified to you. This Privacy Policy is a legal document which principally sets out what personal information we collect and retain, how we use it, whom we may disclose it to, the security measures we take to protect that information, and how you can correct inaccuracies in the personal information we hold. You should read it in conjunction with the visitor agreement/terms and conditions of the Website.
 
