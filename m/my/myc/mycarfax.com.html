@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycarfax.com privacy policy that was archived on 2014-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219023834id_/http%3A//www.carfax.com/privacyStatement.cfx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycarfax.com privacy policy that was archived on 2015-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526143640id_/http%3A//www.carfax.com/privacyStatement.cfx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>CARFAX Privacy Policy</title>
@@ -18,57 +18,94 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700" rel="stylesheet" type="text/css">
 <link href="http://media.carfax.com/css/cfx/new_footer_v2.css?version=20140124" rel="stylesheet" type="text/css">
 <link href="http://media.carfax.com/css/cfx/header_v2.css?version=20140123" rel="stylesheet" type="text/css">
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=251880174856141"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="http://media.carfax.com/js/lib/jquery-cookie-1.4.1.js"></script>
+<script type="text/javascript" src="http://media.carfax.com/js/lib/knockout-3.2.0.js"></script>
+<script type="text/javascript" src="http://media.carfax.com/js/cfx/shared/ucl-saves.js"></script>
 
 <div id="fb-root"></div>
 
 <!-- Begin Header-->
 
 <header class="main">
-  <div class="mobile-only headerSimple">
-    <i class="ib mobileLogo"></i>
-    <a href="http://www.carfax.com/cars-for-sale" class="ib btnMobileOutline">Find<br>A Car</a><a href="https://secure.carfax.com/creditCard.cfx?partner=CAR&amp;partnerSiteLocation=4" id="mobileHeaderOrder" class="ib btnMobileOutline">Order<br>Reports</a>
-  </div>
-  <div class="hdrwrapper">
-    <a href="http://www.carfax.com/" class="logo"><img src="http://media.carfax.com/img/cfx/hdr/logo.png" width="201" height="38" alt="CARFAX"></a>
-    <div class="hdrSplit">
-    <div class="cfxRS">
-      <form action="http://www.carfax.com/cfm/check_order.cfm" method="post" id="getRecordsHdrAlt">
-        <input id="headerVinBoxPartnerCode" name="partnerCode" type="hidden" value="CAR">
-        <input id="headerVinBoxPartnerSiteLocation" name="partnerSiteLocation" type="hidden" value="5">
-        <input name="checkReport" type="hidden" value="DEC">
-        <input name="checkReportVersion" type="hidden" value="30">
-        <fieldset>
-            <input name="vin" id="txtVinNumberAlt" maxlength="17" autocorrect="off" type="text" class="field" placeholder="Enter VIN Number">
-           <button name="Go" type="submit" class="hdrGreenBtn">Go</button>
+    <div class="mobile-only headerSimple">
+        <i class="ib mobileLogo"></i>
+        <a href="http://www.carfax.com/cars-for-sale" class="ib btnMobileOutline">Find<br>A Car</a><a href="https://secure.carfax.com/creditCard.cfx?partner=CAR&amp;partnerSiteLocation=4" id="mobileHeaderOrder" class="ib btnMobileOutline">Order<br>Reports</a>
+    </div>
+    <div class="hdrwrapper">
+        <a href="http://www.carfax.com/" class="logo"><img src="http://media.carfax.com/img/cfx/hdr/logo.png" width="201" height="38" alt="CARFAX"></a>
+        <div class="hdrSplit">
+            <div class="cfxRS">
+                <form action="http://www.carfax.com/cfm/check_order.cfm" method="post" id="getRecordsHdrAlt">
+                    <input id="headerVinBoxPartnerCode" name="partnerCode" type="hidden" value="CAR">
+                    <input id="headerVinBoxPartnerSiteLocation" name="partnerSiteLocation" type="hidden" value="5">
+                    <input name="checkReport" type="hidden" value="DEC">
+                    <input name="checkReportVersion" type="hidden" value="30">
+                    <fieldset>
+                        <input name="vin" id="txtVinNumberAlt" maxlength="17" autocorrect="off" type="text" class="field" placeholder="Enter VIN Number">
+                        <button name="Go" type="submit" class="hdrGreenBtn">Go</button>
+                        <div class="cf"></div>
+                    </fieldset>
+                    <label>Get CARFAX Reports</label>
+                </form>
+            </div>
+
+            <ul class="carfaxnav">
+                <li><a href="https://secured.carfax.com/showroom/login.cfx">Login</a></li>
+                <li><a href="http://support.carfax.com">Help</a></li>
+            </ul>
+        </div>
+
+        <div class="hdrSplit">
+            <ul class="ib headernav">
+                <li><a id="headerForSale" href="http://www.carfax.com/cars-for-sale">Used Cars for Sale</a></li>
+                <li><a href="http://www.carfax.com/car-dealer">Find a Dealer</a></li>
+                <li><a href="http://www.carfax.com/car-research">Car Research</a></li>
+                <li><a href="http://www.carfax.com/guides">Car Guides</a></li>
+                <li><a href="http://www.carfax.com/blog/">Blog</a></li>
+                <li class="last"><a id="headerOrder" href="https://secure.carfax.com/creditCard.cfx?partner=CAR&amp;partnerSiteLocation=4" rel="nofollow">Order Reports</a></li>
+            </ul>
+
             <div class="cf"></div>
-        </fieldset>
-        <label>Get CARFAX Reports</label>
-      </form>
+        </div>
     </div>
 
-    <ul class="carfaxnav">
-      <li><a href="https://secured.carfax.com/showroom/login.cfx">Login</a></li>
-      <li><a href="http://support.carfax.com">Help</a></li>
-    </ul>
+    <input type="hidden" id="mainVin">
+
+    <div class="hdrwrapper" id="uclSaveContainer" style="display:none;">
+        <div id="saved-cars-and-searches">
+            <div class="saved-cars">
+                <ul>
+                    <li>
+                        <label>Saved Cars</label>
+                        <span class="saved-count" data-bind="text: getLength(savedCars)"></span>
+                    </li>
+                    <li>
+                        <ul class="saved-list saved-car-list" data-bind="foreach: savedCars">
+                            <li><a data-bind="attr: {href: '/vehicles/' + vin}"><img width="60px" data-bind="attr: {src: 'http://img.vast.com/320x240/' + id}"></a><a class="saved-record-url" data-bind="attr: {href: '/vehicles/' + vin}, text: year + ' ' + make + ' ' + model"></a><span data-bind="click: $parent.removeSavedCars" class="remove-search"></span></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="saved-searches">
+                <ul>
+                    <li>
+                        <label>Saved Searches</label>
+                        <span class="saved-count" data-bind="text: getLength(savedSearches)"></span>
+                    </li>
+                    <li>
+                        <ul class="saved-list saved-search-list" data-bind="foreach: savedSearches">
+                            <li><a data-bind="attr: {href: url}, text: name"></a><span data-bind="click: $parent.removeSavedSearch" class="remove-search"></span></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </div>
-
-  <div class="hdrSplit">
-    <ul class="ib headernav">
-    <li><a id="headerForSale" href="http://www.carfax.com/cars-for-sale">Used Cars for Sale</a></li>
-    <li><a href="http://www.carfax.com/car-dealer">Find a Dealer</a></li>
-    <li><a href="http://www.carfax.com/car-facts">Car Research</a></li>
-    <li><a href="http://www.carfax.com/guides">Car Guides</a></li>
-    <li><a href="http://www.carfax.com/blog/">Blog</a></li>
-    <li class="last"><a id="headerOrder" href="https://secure.carfax.com/creditCard.cfx?partner=CAR&amp;partnerSiteLocation=4" rel="nofollow">Order Reports</a></li>
-    </ul>
-
-    <div class="cf"></div>
-  </div>
-
-</div>
 </header>
 
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=251880174856141"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" src="http://media.carfax.com/js/cfx/shared/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="http://media.carfax.com/js/cfx/shared/jquery-latest.min.js"></script>
     <script type="text/javascript" src="http://media.carfax.com/js/cfx/shared/OmnitureOnClick.js"></script>
 
 
@@ -182,49 +219,49 @@ var s_code=s.t();if (s_code) document.write(s_code);</script>
 </div>
 
 <footer>
-  <div class="mobile-only footerSimple">
-    <div class="ft-social-mobile">
-    <a href="http://www.facebook.com/carfax" target="_blank"><i class="ft-facebook"></i></a><a href="http://plus.google.com/+carfax" target="_blank"><i class="ft-gplus"></i></a><a href="http://twitter.com/carfaxreports" target="_blank"><i class="ft-twitter"></i></a><a href="http://www.pinterest.com/carfax" target="_blank"><i class="ft-pinterest"></i></a><a href="http://www.linkedin.com/company/carfax" target="_blank"><i class="ft-linkedin"></i></a>
+    <div class="mobile-only footerSimple">
+        <div class="ft-social-mobile">
+            <a href="http://www.facebook.com/carfax" target="_blank"><i class="ft-facebook"></i></a><a href="http://plus.google.com/+carfax" target="_blank"><i class="ft-gplus"></i></a><a href="http://twitter.com/carfaxreports" target="_blank"><i class="ft-twitter"></i></a><a href="http://www.pinterest.com/carfax" target="_blank"><i class="ft-pinterest"></i></a><a href="http://www.linkedin.com/company/carfax" target="_blank"><i class="ft-linkedin"></i></a>
+        </div>
+        <p>© CARFAX, Inc. All Rights Reserved.</p>
+        <p class="disclaimer">CARFAX Vehicle History Reports are based on <a href="http://www.carfax.com/company/vhr-data-sources" target="_blank">information supplied to CARFAX</a>. CARFAX does not
+            have the complete history of every vehicle.  Use the CARFAX search as one important tool, along
+            with a vehicle inspection and test drive, to make a better decision about your next used car.</p>
+        <p class="policies"><a href="http://www.carfax.com/privacyStatement.cfx">Privacy Statement</a> <span>|</span> <a href="http://www.carfax.com/cfm/legal_disclaimer.cfm">Terms and Conditions</a></p>
     </div>
-    <p>© CARFAX, Inc. All Rights Reserved.</p>
-     <p class="disclaimer">CARFAX Vehicle History Reports are based on <a href="http://www.carfax.com/about/data_sources.cfx" target="_blank">information supplied to CARFAX</a>. CARFAX does not
-        have the complete history of every vehicle.  Use the CARFAX search as one important tool, along
-        with a vehicle inspection and test drive, to make a better decision about your next used car.</p>
-     <p class="policies"><a href="http://www.carfax.com/privacyStatement.cfx">Privacy Statement</a> <span>|</span> <a href="http://www.carfax.com/cfm/legal_disclaimer.cfm">Terms and Conditions</a></p>
-  </div>
-  <div class="ft-tools">
+    <div class="ft-tools">
         <div class="ft-other freeServices">
-      <label>FREE SERVICES:<sup>&nbsp;</sup></label>
-      <nav> <a href="http://www.mycarfax.com/?s_id=int_carfax_001" target="_blank">myCARFAX<sup>™</sup></a> <span>|</span> <a href="http://www.lemoncheck.com/" target="_blank">Lemon Check<sup>®</sup></a> <span>|</span> <a href="http://www.carfax.com/cfm/general_check.cfm?partner=car_q" target="_blank"> Record Check</a> <span>|</span> <a href="http://recall.carfax.com/" target="_blank"> Recall Check</a>  <span>|</span> <a href="http://www.carfax.com/vehicle_history/SampleReports.cfx" target="_blank"> Sample Reports</a> <span>|</span> <a href="http://www.carfax.com/cfm/general_check.cfm?partner=cfx_5 " target="_blank">Odometer Check</a> </nav>
+            <label>FREE SERVICES:<sup>&nbsp;</sup></label>
+            <nav> <a href="http://www.mycarfax.com/?s_id=int_carfax_001" target="_blank">myCARFAX<sup>™</sup></a> <span>|</span> <a href="http://www.lemoncheck.com/" target="_blank">Lemon Check<sup>®</sup></a> <span>|</span> <a href="http://www.carfax.com/cfm/general_check.cfm?partner=car_q" target="_blank"> Record Check</a> <span>|</span> <a href="http://www.carfax.com/recall" target="_blank"> Recall Check</a>  <span>|</span> <a href="http://www.carfax.com/vehicle_history/SampleReports.cfx" target="_blank"> Sample Reports</a> <span>|</span> <a href="http://www.carfax.com/cfm/general_check.cfm?partner=cfx_5 " target="_blank">Odometer Check</a> </nav>
+        </div>
+        <div class="ft-other moreCARFAX">
+            <label>MORE CARFAX:</label>
+            <nav> <a href="http://www.carfax.com/company/about" target="_blank" rel="nofollow">About CARFAX</a> <span>|</span> <a href="http://www.carfax.com/blog/" target="_blank">Blog</a> <span>|</span> <a href="http://news.carfax.com/" target="_blank">Press Room</a> <span>|</span> <a href="http://www.carfaxonline.com/" target="_blank" rel="nofollow">CARFAX for Dealers</a> <span>|</span> <a href="http://www.carfax.com/company/partners" target="_blank" rel="nofollow">Partner</a> <span>|</span> <a href="http://www.carfax.com/car-research" target="_blank">Car Research</a> <span>|</span> <a href="http://www.carfax.com/auto-repair-shops" target="_blank">Find Auto Repair Shops</a><br>
+                <a href="http://www.carfaxbig.com/index.cfx" target="_blank" rel="nofollow">CARFAX Banking &amp; Insurance Group</a> <span>|</span> <a href="http://www.carfax.eu/" rel="nofollow" target="_blank">CARFAX Europe</a> <span>|</span> <a href="http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qLi9VfwR&amp;cs=90baVfw0" target="_blank" rel="nofollow">Careers</a> <span>|</span> <a href="http://www.carfax.com/cfx-sitemap" target="_blank">Site Map</a> <span> | </span> <a href="http://www.carfax.com/help" rel="nofollow">Help</a></nav>
+        </div>
+        <div class="cf"></div>
     </div>
-    <div class="ft-other moreCARFAX">
-      <label>MORE CARFAX:</label>
-      <nav> <a href="http://www.carfax.com/about/car_history/hcabout.cfm" target="_blank" rel="no follow">About CARFAX</a> <span>|</span> <a href="http://www.carfax.com/blog/" target="_blank">Blog</a> <span>|</span> <a href="http://news.carfax.com/" target="_blank">Press Room</a> <span>|</span> <a href="http://www.carfaxonline.com/" target="_blank" rel="no follow">CARFAX for Dealers</a> <span>|</span> <a href="http://www.carfax.com/partners.cfx" target="_blank" rel="no follow">Partner With CARFAX</a> <span>|</span> <a href="http://www.carfax.com/car-facts" target="_blank">Car Research</a><br>
-        <a href="http://www.carfaxbig.com/index.cfx" target="_blank" rel="no follow">CARFAX Banking &amp; Insurance Group</a> <span>|</span> <a href="http://www.carfax.eu/" target="_blank">CARFAX Europe</a> <span>|</span> <a href="http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qLi9VfwR&amp;cs=90baVfw0" target="_blank" rel="no follow">Careers</a> <span>|</span> <a href="http://www.carfax.com/cfx-sitemap" target="_blank">Site Map</a> <span> | </span> <a href="http://www.carfax.com/car-facts/used-cars-sitemap" target="_blank">  Top Cars</a> <span> | </span> <a href="http://www.carfax.com/help">Help</a></nav>
+    <div class="ftWrapper">
+        <div class="ft-left">
+            <div class="ft-logo"></div>
+            <div>© 2015 CARFAX, Inc.</div>
+            <nav class="policies"><a href="http://www.carfax.com/privacyStatement.cfx" rel="nofollow">Privacy Statement</a> <span>|</span> <a href="http://www.carfax.com/cfm/legal_disclaimer.cfm">Terms &amp; Conditions</a> <span>|</span> <a href="http://www.carfax.com/cfm/trademark_info.cfm">Trademark</a> <span>|</span> <a href="#" class="adchoices">AdChoices</a>
+                <div class="adchoicesInfo">
+                    <div class="adchoicesBubble">
+                        <span class="adchoices-close">X</span>
+                        <p>CARFAX is committed to protecting your privacy. To better understand how you use the CARFAX web sites and to create a more valuable experience for you, we may collect data about your use of the CARFAX web sites, directly and through our partners. To learn more about the information collected by CARFAX and how such information is used, please review the <a href="http://www.carfax.com/privacyStatement.cfx" target="_blank">Privacy Statement</a>.</p>
+                        To learn more about interest-based advertising or to make choices about the use of your information, please click here: <a href="http://www.aboutads.info/choices/" rel="nofollow" target="_blank">http://www.aboutads.info/choices/</a>.</div>
+                    <div class="adchoicesTriangle"></div>
+                </div>
+            </nav>
+        </div>
+        <div class="ft-right">
+            <div class="ft-social"><a href="http://www.facebook.com/carfax" target="_blank"><i class="ft-facebook"></i></a><a href="http://plus.google.com/+carfax" target="_blank"><i class="ft-gplus"></i></a><a href="http://twitter.com/carfaxreports" target="_blank"><i class="ft-twitter"></i></a><a href="http://www.pinterest.com/carfax" target="_blank"><i class="ft-pinterest"></i></a><a href="http://www.linkedin.com/company/carfax" target="_blank"><i class="ft-linkedin"></i></a></div>
+            <div class="disclaimer">CARFAX Vehicle History Reports are based on <a href="http://www.carfax.com/company/vhr-data-sources" target="_blank">information supplied to CARFAX</a>. CARFAX does not have the complete history of every vehicle.  Use the CARFAX search as one important tool, along
+                with a vehicle inspection and test drive, to make a better decision about your next used car.</div>
+        </div>
+        <div class="cf"></div>
     </div>
-    <div class="cf"></div>
-    </div>
-  <div class="ftWrapper">
-    <div class="ft-left">
-      <div class="ft-logo"></div>
-      <div>© 2014 CARFAX, Inc.</div>
-      <nav class="policies"><a href="http://www.carfax.com/privacyStatement.cfx">Privacy Statement</a> <span>|</span> <a href="http://www.carfax.com/cfm/legal_disclaimer.cfm">Terms &amp; Conditions</a> <span>|</span> <a href="http://www.carfax.com/cfm/trademark_info.cfm">Trademark</a> <span>|</span> <a href="#" class="adchoices">AdChoices</a>
-      <div class="adchoicesInfo">
-        <div class="adchoicesBubble">
-        <span class="adchoices-close">X</span>
-        <p>CARFAX is committed to protecting your privacy. To better understand how you use the CARFAX web sites and to create a more valuable experience for you, we may collect data about your use of the CARFAX web sites, directly and through our partners. To learn more about the information collected by CARFAX and how such information is used, please review the <a href="http://www.carfax.com/privacyStatement.cfx" target="_blank">Privacy Statement</a>.</p>
-To learn more about interest-based advertising or to make choices about the use of your information, please click here: <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/</a>.</div>
-    <div class="adchoicesTriangle"></div>
-</div>
-      </nav>
-    </div>
-    <div class="ft-right">
-      <div class="ft-social"><a href="http://www.facebook.com/carfax" target="_blank"><i class="ft-facebook"></i></a><a href="http://plus.google.com/+carfax" target="_blank"><i class="ft-gplus"></i></a><a href="http://twitter.com/carfaxreports" target="_blank"><i class="ft-twitter"></i></a><a href="http://www.pinterest.com/carfax" target="_blank"><i class="ft-pinterest"></i></a><a href="http://www.linkedin.com/company/carfax" target="_blank"><i class="ft-linkedin"></i></a></div>
-      <div class="disclaimer">CARFAX Vehicle History Reports are based on <a href="http://www.carfax.com/about/data_sources.cfx" target="_blank">information supplied to CARFAX</a>. CARFAX does not have the complete history of every vehicle.  Use the CARFAX search as one important tool, along
-        with a vehicle inspection and test drive, to make a better decision about your next used car.</div>
-    </div>
-    <div class="cf"></div>
-  </div>
 </footer>
 
 <script type="text/javascript">
@@ -265,11 +302,11 @@ To learn more about interest-based advertising or to make choices about the use 
                 input.val("");
                 input.removeClass("placeholder")}
         }).blur(function() {
-                    var input = $(this);
-                    if (input.val() == "" || input.val() == input.attr("placeholder")) {
-                        input.addClass("placeholder");
-                        input.val(input.attr("placeholder"))}
-                }).blur()
+            var input = $(this);
+            if (input.val() == "" || input.val() == input.attr("placeholder")) {
+                input.addClass("placeholder");
+                input.val(input.attr("placeholder"))}
+        }).blur()
 
 
         var qs = (function(a) {if (a == "") return {};var b = {};for (var i = 0; i < a.length; ++i){var p=a[i].split("=");if (p.length != 2) continue;b[p[0]] = decodeURIComponent(p[1].replace(/\+/g, " "));}return b;})(window.location.search.substr(1).split("&"));
@@ -281,13 +318,13 @@ To learn more about interest-based advertising or to make choices about the use 
             var pc=r[0];var pl=r[1];
         }
 
-                                                                if (pc != undefined && pc != null) {
+        if (pc != undefined && pc != null) {
             $("#mainPartnerCode").val(pc);
             $("#mainPartnerSiteLocation").val(pl);
             $("#headerOrder").attr("href", "https://secure.carfax.com/creditCard.cfx?partnerCode="+pc+"&partnerSiteLocation="+pl);
             $("#mobileHeaderOrder").attr("href", "https://secure.carfax.com/creditCard.cfx?partnerCode="+pc+"&partnerSiteLocation="+pl);
-                                                                                                $("#headerVinBoxPartnerCode").val(pc);
-                                                                                                $("#headerVinBoxPartnerSiteLocation").val(pl);
+            $("#headerVinBoxPartnerCode").val(pc);
+            $("#headerVinBoxPartnerSiteLocation").val(pl);
         }
     });
 </script>
@@ -317,28 +354,28 @@ To learn more about interest-based advertising or to make choices about the use 
 <!-- Google Code for Remarketing Tag -->
 <script type="text/javascript">
     /* <![CDATA[ */
-        var google_conversion_id = 1072531029;
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
+    var google_conversion_id = 1072531029;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
     /* ]]> */
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
     <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072531029/?value=0&amp;guid=ON&amp;script=0"/>
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072531029/?value=0&amp;guid=ON&amp;script=0"/>
     </div>
 </noscript>
 
 <!-- Begin BlueKai Tag -->
-<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
+<iframe name="__bkframe" height="0" width="0" frameborder=" 0" src="javascript:void(0)"></iframe>
 <script type="text/javascript" src="http://media.carfax.com/js/cfx/shared/bk-coretag.js"></script>
 <script type="text/javascript">
 
-//These lines check to make sure the Site Catalyst vars exist.
-//If so the assign their value to a local variable
-//If not they are set to an empty string
-//  I LOVE BLUEKAI
+    //These lines check to make sure the Site Catalyst vars exist.
+    //If so the assign their value to a local variable
+    //If not they are set to an empty string
+    //  I LOVE BLUEKAI
 
     var bkProducts = (typeof s.products != "undefined" ? s.products : "");
 
