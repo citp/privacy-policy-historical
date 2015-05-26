@@ -1,204 +1,156 @@
-<!--The following is the downloaded HTML source of the mergentonline.com privacy policy that was archived on 2010-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100412141316id_/http%3A//mergentonline.com/noticesCM.asp%3Fcontentscode%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mergentonline.com privacy policy that was archived on 2015-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526044500id_/http%3A//www.mergentonline.com/noticescm.php%3Fpagetype%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>Mergent Online - Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="machinename" content="www.mergentonline.com">
+<meta name="fromipaddress" content="204.236.235.245">
+<meta name="referer" content="">
+<meta name="host" content="www.mergentonline.com"><link rel="stylesheet" href="css/main.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/tablesorter.css" type="text/css" media="print, projection, screen">
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="css/ie6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/ie7.css" /><![endif]-->
+<script type="text/javascript" src="scripts/jquery.js"></script>
+<script language="javascript" src="scripts/basic.js"></script>
+<script type="text/javascript" src="scripts/jquery.bgiframe.js"></script>	<script type="text/javascript">
+	$(document).ready(function() {
 
-	<meta machinename="2K3MOL02">
-	<meta fromipaddress="204.236.235.245">
-	<meta referer="">
-	<meta host="www.mergentonline.com">
-	<title>Mergent Online</title>
-	
-	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://23devtest01/rss.asp">
-	<link type="text/css" rel="stylesheet" href="header.css">	
-	<script type="text/javascript" language="javascript" src="scripts/global.js"></script>
-	
-	<link type="text/css" rel="stylesheet" href="styles.css">	
-	<script type="text/javascript" language="javascript" src="scripts/dropbox.js"></script>
-<script type="text/javascript" language="javascript">
+	$('#companytab ul li a span').each(function(index) {
+	    var oldtext = $(this).text();
+	 	$(this).html(oldtext);
+	});
+	function imageresize() {
+		var contentwidth = $('#header').width();
+		if ((contentwidth) <= '800'){
+		 	$('.middle').css({
+		 		'width':'450px',
+		 		'background-image':'url(/images/mol_header_small.jpg)'
+			});
+			$('div.filler').css({
+				'margin-left':'0px'
+			});
+					} else {
+		 	$('.middle').css({
+		 		'width':'643px',
+		 		'background-image':'url(/images/mol_header.jpg)'
+			});
 
-function BrseGetElement(id)
-{
-	var Element;
+		 	$('#companytab a, #toptab a').css({
+		 		'padding': '0.6em 0.6em 0.25em'
+			});
 
-	if (document.getElementById)
-	{
-		Element = document.getElementById(id);
-		
-		if (Element== null && document.getElementByName)
-			Element = document.getElementByName(id);
-		
-		if (Element== null && document)
-			Element = document[id];
+		 	$('#toptab').css({
+		 		'height': '1.8em'
+			});
+
+			$('#companytab ul li a span, #toptab ul li a span').each(function(index) {
+	    		var oldtext = $(this).html();
+				var newtext = oldtext.replace(/<br \/>/gi, ' ');
+				newtext = newtext.replace(/<br>/gi, ' ');
+	    		$(this).html(newtext);
+	  		});
+		 }
 	}
-	else if (document.all)
-	{
-		Element = document.all[id];
-	}
-	
-	if (!Element)
-	{
-		for ( nForm = 0; nForm < document.forms.length && !Element; ++nForm )
-			Element = document.forms[nForm][id];	
-	}
+	imageresize();
+	var prevWidth;
+	var previousContentWidth = $('#header').width();
+	$(window).bind("resize", function(){
+  		var width = $(window).width();
+  		if ( prevWidth == width )
+		     return; /* hack to prevent recursion in IE6 */
+		prevWidth = width;
+		var contentWidth = $('#header').width();
+		if ((previousContentWidth <= 800 && contentWidth > 800) || (previousContentWidth > 800 && contentWidth <= 800)) {
+			imageresize();
+		}
+//alert(previousContentWidth + ' ' + contentWidth);
+		previousContentWidth = contentWidth;
+	});
 
-	return Element;
-}
+	//05Oct2010 Margaret - added 2 br within the maincontent div when top tab appears in 2 rows & in IE7 only.
+	//	bug fixed where toptab overlaps first 2 rows of html
+	if ((/msie|MSIE 7/.test(navigator.userAgent)) && $('#toptab ul li a span').length != 0){
+		// element found and browser is IE7
+		var topTabPosition = $('#toptab ul li a span').position().top;	//get toptab top position
+		var topTabRowWidth = 0;
+		$('#toptab ul li a span').each(function(){
+			//find if toptab has 2 rows display on browser, topTabRowWidth > 0 if 2 rows display
+			var currTopTabPos = $(this).position().top;
+			if ((currTopTabPos > 0) && (currTopTabPos != topTabPosition)){
+				topTabRowWidth = currTopTabPos - topTabPosition;
+			}
+		});
 
-function BrseGetElementsByName(id)
-{
-	var Element;
-
-	if (document.getElementsByName)
-	{
-	  Element = document.getElementsByName(id);
-	}
-	else if (document.all)
-	{
-	  Element = document.all[id];
-	}
-
-	return Element;
-}
-
-function BrseGetParentElement(id)
-{
-	var Element;
-
-	if (window.parent.document.getElementById)
-	{
-		Element = window.parent.document.getElementById(id);
-		
-		if (Element== null && window.parent.document.getElementByName)
-			Element = window.parent.document.getElementByName(id);
-		
-		if (Element== null && window.parent.document)
-			Element = window.parent.document[id];
-	}
-	else if (window.parent.document.all)
-	{
-		Element = window.parent.document.all[id];
-	}
-	
-	if (!Element)
-	{
-		for ( nForm = 0; nForm < window.parent.document.forms.length && !Element; ++nForm )
-			Element = window.parent.document.forms[nForm][id];	
-	}
-
-	return Element;
-}
-
-
-
-window.name= "mainmergentwindow";
-
-function onsizebody()
-{
-	if(document.layers)	{history.go(0)}
-}
-
-function onloadbody()
-{
-	//Position the Company Analysis List dropbox relative to the bottom of the header to avoid differences between positioning in IE & NS
-	window.focus();
-
-	if(typeof(onload_page) != 'undefined')
-	{
-		onload_page();
-	}
-	
-	if(typeof(window_onload) != 'undefined')
-	{
-		window_onload();
-	}
-	
-	if(typeof(pc_init) != 'undefined')
-	{
-		pc_init();
+		if (topTabRowWidth > 0){	// toptab has 2 rows display
+			if (topTabRowWidth >= 25){
+				$('#maincontent').prepend('<br />');
+				if (topTabRowWidth >= 40){
+					$('#maincontent').prepend('<br />');
+				}
+			}
+		}
 	}
 
-}
 
-function refreshpage()
-{
-	window.location= "noticesCM.asp?contentscode=Privacy";
-}
-
-function addtolist( szList, szCompany )
-{	
-
-	window.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompany;
-
-//	document.addtolistframe.location= "addtolist.asp?list=" + szList + "&company=" + szCompany;	
-}
-
-
-function addtolist_epic( szList, szEpic )
-{
-
-	window.addtolistframe.location= "addtolist.asp?list=" + szList + "&epic=" + szEpic;
-
-//	document.addtolistframe.location= "addtolist.asp?list=" + szList + "&epic=" + szEpic;
-}
-
-function addtocustomlist( szPage, varParams, varSourcePath )
-{
-	varSourcePath= escape( varSourcePath );
-		
-
-	window.addtolistframe.location= "addtocustomlist.asp?list=" + szPage + "&params=" + varParams + "&source=" + varSourcePath;
-
-//	document.addtolistframe.location= "addtocustomlist.asp?list=" + szPage + "&params=" + varParams + "&source=" + varSourcePath;
-}
-
-
-
-
-function OnChangeCountryComboPDF( varForm )
-{
-	
-	opencountrypopuppdf( varForm.form.country2.value );
-	
-}
-</script>
-</head>
-
-<body onresize="onsizebody()" onload="onloadbody();">
-
-<div id="banner">
-	<div id="dateandtime">
-		<script language="JavaScript" type="text/javascript">var nDate= new Date(); document.write( nDate.toLocaleString() );</script>2/19/2020, 5:11:06 PM
-	</div>
-	<div id="bannermenu">	
-		<a href="JavaScript:EndUserAdminLink(false, undefined );" title="">Administration</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="noticesCM.asp?contentscode=contact">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="javascript:void window.open('Help/HelpIndex.htm','','resizable=yes,toolbar=no,top=100,left=100,scrollbars=yes,status=no,menubar=no,width=600,height=400');">Help</a>		
-			
-			
-	</div>
-	<div id="mergentlogo">
-		<a href="http://www.mergent.com" target="_blank"><img src="/images/Small_Logo.gif"></a>
-	</div>
+	});
+	</script></head>
+<body onload="onloadbody();" onresize="onresizebody();"><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
+<script type="text/javascript" src="scripts/wz_tooltip.js"></script><script>window.tt_HideSrcTags.done=true;</script><div id="header"><h1 class="left">Mergent Online</h1>
+<h1 class="middle" style="width: 643px; background-image: url(&quot;/images/mol_header.jpg&quot;);">Mergent, Inc</h1>
+<div id="headerlinks"><a href="javascript:endUserAdminLink(0,0);">Administration</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="noticescm.php?pagetype=contact">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="javascript:popHelpWindow('Help/HelpIndex.htm','');">Help</a><br> version 1.82.9</div>
+<div id="dateandtime"><script language="JavaScript" type="text/javascript">var nDate= new Date(); document.write( nDate.toLocaleString() );</script>2/24/2020, 5:47:33 AM</div>
 </div>
+<div id="toptab" style="height: 1.8em;">    <ul>	<li><a onmouseover="Tip('<div class=wztooltip>About Mergent Online</div>', BORDERWIDTH, 0, PADDING, 0)" onmouseout="UnTip()" href="noticescm.php?pagetype=about" style="padding: 0.6em 0.6em 0.25em;"><span>About Mergent Online</span></a></li>
+	<li><a onmouseover="Tip('<div class=wztooltip>Announcement</div>', BORDERWIDTH, 0, PADDING, 0)" onmouseout="UnTip()" href="noticescm.php?pagetype=announce" style="padding: 0.6em 0.6em 0.25em;"><span>Announcements</span></a></li>
+	<li><a onmouseover="Tip('<div class=wztooltip>Contact Us</div>', BORDERWIDTH, 0, PADDING, 0)" onmouseout="UnTip()" href="noticescm.php?pagetype=contact" style="padding: 0.6em 0.6em 0.25em;"><span>Contact Us</span></a></li>
+	<li><a onmouseover="Tip('<div class=wztooltip>Copyright</div>', BORDERWIDTH, 0, PADDING, 0)" onmouseout="UnTip()" href="noticescm.php?pagetype=copyright" style="padding: 0.6em 0.6em 0.25em;"><span>Copyright</span></a></li>
+	<li><a id="selected" onmouseover="Tip('<div class=wztooltip>Privacy Policy</div>', BORDERWIDTH, 0, PADDING, 0)" onmouseout="UnTip()" href="noticescm.php?pagetype=privacy" style="padding: 0.6em 0.6em 0.25em;"><span>Privacy Policy</span></a></li>
+	<li><a onmouseover="Tip('<div class=wztooltip>Feedback</div>', BORDERWIDTH, 0, PADDING, 0)" onmouseout="UnTip()" href="noticescm.php?pagetype=feedback" style="padding: 0.6em 0.6em 0.25em;"><span>Feedback</span></a></li>
+    </ul></div><div id="line"></div>
+<div id="loginarea">          <div class="clearboth">
+       </div>
+        <form action="authenticate.php" method="post" onsubmit="return validateinput()" name="login" id="login">
+            <div class="first">
+                <h1>Enter Mergent Online</h1>
+      </div>
+            <div class="group">
+            <div class="user">
+                <label for="username">Username*</label>
+                <input type="text" name="username" id="username">
+            </div>
+            <div class="pass">
+                <label for="password">Password*</label>
+                <input type="password" name="password" id="password">
+            </div>
+            <div class="group">
+            <div class="remember">
+                <input type="checkbox" name="remember" id="remember">
+            </div>
+            <div class="remembertext">
+                Remember my Username on this computer
+            </div>
+            </div>
+            <div class="login">
+                <input type="submit" value="Login">
+            </div>
+            </div>
+            <div class="filler">
+                &nbsp;
+            </div>
+            <div class="forgot">
+                
+                
+                
+		<i>Required fields*</i>&nbsp;&nbsp;&nbsp;&nbsp;<a href="noticescm.php?pagetype=forgotpassword">Forgot your Username/Password</a>
+            </div>
+        </form>
 
-<iframe name="addtolistframe" id="AddToListFrame" width="0" height="0" frameborder="0" src="javascript:false"></iframe>
-
-<div id="backlinks">
-<span class="currentpage">Notices</span>
 </div>
-
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<link rel="File-List" href="./Privacy_files/filelist.xml">
-<title>Privacy Policy</title>
-
-
-
-
-<p><font color="#006633" size="2"><b><font size="3">Privacy Policy</font></b></font></p>
+<div id="maincontent"><p><font color="#046598" size="2"><b><font size="3">Privacy Policy</font></b></font></p>
 
 <p>Mergent, Inc. and its affiliated sites respect and understand your
 privacy and your personal data. Mergent is committed to protecting your privacy
@@ -208,7 +160,7 @@ your person data.</p>
 <p><b>Information Collected and Use</b></p>
 
 <p>Mergent collects information about our visitors, users and any
-other individual connecting to Mergent’s sites in its day-to-day business. The
+other individual connecting to Mergent�™s sites in its day-to-day business. The
 information gathered and stored includes contact names, telephone numbers, fax
 numbers, addresses, email address, payment details and any other related data
 We collect personal data only through inquiries, registration or other voluntary
@@ -228,7 +180,7 @@ us at any time not to contact you by ways of mail, fax and email.</p>
 <p>A "cookie" is a piece of software transferred to your
 Web browser. A cookie allows us to collect data about how our websites and
 services are being used and will not identify individual users. Mergent may use
-cookies to store some personal preferences for those visiting Mergent’s site
+cookies to store some personal preferences for those visiting Mergent�™s site
 frequently. Mergent may place cookies on visitors' systems to
 deliver our service more efficiently.</p>
 
@@ -243,41 +195,23 @@ retained in our database and you will have the chance to change or delete the
 information at any time. You have the option of conducting your credit card
 transactions through an encrypted secured server.</p>
 
-<p><b>Changes to Mergent’s Privacy Policy</b></p>
+<p><b>Changes to Mergent�™s Privacy Policy</b></p>
 
 <p>Mergent reserves the right to change, modify, add, or remove
 portions of this policy at any time. We will notify you about significant
 changes in the way we treat personal data by sending a notice either in an email
-or by placing any changes on Mergent’s sites.</p>
+or by placing any changes on Mergent�™s sites.</p>
 
 
 <p><b>Questions and Suggestions</b></p>
 
-<p>If you have any questions or suggestions about Mergent’s privacy
+<p>If you have any questions or suggestions about Mergent�™s privacy
 and personal data protection policy, please feel free to contact us at <a href="mailto:customerservice@mergent.com">customerservice@mergent.com</a>.</p>
 
-<p>&nbsp;</p>
-
-
-
-
-
-
-<br>
-   
-
-
-<div id="footerbar">
-	<div id="leftedge"></div>
-	<div id="rightedge"></div>
-	<a href="noticesCM.asp?contentscode=copyright">Copyright © 2005 Mergent</a>
-	&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="noticesCM.asp?contentscode=Privacy">Privacy Policy</a>
-	&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="noticesCM.asp?contentscode=SLA">Service Level</a>
-	&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="Feedback.asp">Feedback</a>	
+<p> </p>
 </div>
+<div id="footer"></div>
+
 
 
 </body></html>
