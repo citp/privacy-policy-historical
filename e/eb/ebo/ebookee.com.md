@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookee.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221055911id_/http%3A//ebookee.org/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookee.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526180059id_/http%3A//ebookee.org/terms.php) for the most accurate reproduction.*
 
 # Ebookee Book Store associates with Amazon!
 
