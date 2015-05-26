@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entropay.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231025313id_/https%3A//www.entropay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entropay.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526175410id_/https%3A//www.entropay.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
