@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vandvshop.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018105252id_/http%3A//vandvshop.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandvshop.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526163502id_/https%3A//www.vandvshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | V & V ShopV & V Shop
+# Privacy Policy
 
-Thanks for visiting [**vandvshop.com**](http://vandvshop.com/) and reviewing our privacy policy.
+Thanks for visiting [ **vandvshop.com**](http://vandvshop.com/) and reviewing our privacy policy.
 
 We are committed to protect all information that you share with us. We have accordingly developed this privacy policy to protect your personal information and keep it confidential. We follow stringent procedures to help protect the confidentiality, security, and integrity of data stored on our systems.
 
@@ -33,4 +33,4 @@ We may use technology to track the patterns of behavior of visitors to our site.
 
 The information collected in this way can be used to identify you unless you modify your browser settings.
 
-If you have any questions about our Privacy Policy, please e-mail your questions to us at **vandvshops@gmail.com**.
+If you have any questions about our Privacy Policy, please e-mail your questions to us at **  vandvshops@gmail.com**.
