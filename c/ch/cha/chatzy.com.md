@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024034627id_/http%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526060039id_/http%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
 
 # Chatzy - Privacy Policy
 
@@ -29,6 +29,8 @@ Chatzy uses cookies to store user preferences and track number of users. Our roo
 As mentioned, chat contents is considered confidential and will never be sold or given away to third parties for commercial purposes.
 
 Likewise, information about individual chat users, such as IP address, email address, number of visits, etc. is only used for inhouse analysis.
+
+Your IP address is always hidden, but your registered email address is visible to the Administrator when you enter a [Virtual Room](https://web.archive.org/advanced.htm).
 
 We do NOT disclose IP addresses to private users who have been offended in the chatrooms.
 
