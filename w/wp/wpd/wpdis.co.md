@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpdis.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055700id_/http%3A//wpdis.co/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdis.co privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526214823id_/http%3A//wpdis.co/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WPDis.co - Free And Premium Worpress Themes for Download
 
