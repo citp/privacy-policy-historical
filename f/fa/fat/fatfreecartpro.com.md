@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fatfreecartpro.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221203919id_/http%3A//www.e-junkie.com/ej/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatfreecartpro.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526175452id_/http%3A//www.e-junkie.com/ej/privacy.htm) for the most accurate reproduction.*
 
 # E-junkie - Privacy Policy
 
-## INFORMATION E-junkie.com GATHERS AND TRACKS
+### INFORMATION E-junkie.com GATHERS AND TRACKS
 
-### E-junkie.com gathers two types of information about users:
+#### E-junkie.com gathers two types of information about users:
 
   * Information that users provide through optional, voluntary submissions. These are voluntary submissions like registration, to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys.  
  
@@ -12,9 +12,9 @@
 
 
 
-### E-junkie.com gathers user information in the following processes:
+#### E-junkie.com gathers user information in the following processes:
 
-#### Optional Voluntary Information
+##### Optional Voluntary Information
 
 We offer the following services, which require some type of voluntary submission of personal information by users:
 
@@ -38,17 +38,17 @@ E-junkie.com may occasionally conduct user surveys to better target our content 
 
 
 
-#### Children
+##### Children
 
 Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
 
-#### Usage tracking
+##### Usage tracking
 
 E-junkie.com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. E-junkie.com does break down overall usage statistics according to a user's domain name, browser type, and MIME type of content provided by reading this information from the browser string (information contained in every user's browser which is transmitted automatically in the course of any HTTP connection).
 
 E-junkie.com sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
 
-## USE OF INFORMATION
+### USE OF INFORMATION
 
 E-junkie.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
@@ -56,19 +56,19 @@ As stated above, we use information that users voluntarily provide in order to s
 
 E-junkie.com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-## SHARING OF THE INFORMATION
+### SHARING OF THE INFORMATION
 
 E-junkie.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics.
 
-## OPT-OUT POLICY
+### OPT-OUT POLICY
 
 We give users options to opt-out wherever necessary and practical. Such choices include opting not to participate in certain interactive areas, which completely obviates the need to gather any personally identifiable information from our users
 
-## YOUR CONSENT
+### YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by E-junkie.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-## COOKIES
+### COOKIES
 
 Some elements of our site may send your computer a Cookie. A Cookie is a very small file which computers use to store information about websites and vice-versa.
 
@@ -82,11 +82,11 @@ Forum members may be served an additional Cookie which allows their browser to v
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique Cookie on your browser.
 
-## REGISTRATION
+### REGISTRATION
 
 Optional registration for site promotions, newsletters, member access areas and the Forums may request additional personal information about a user. This information is stored in a protected area of the site's database and may be shared at the discretion of Sine Info Ventures Pvt. Ltd. with appropriate law-enforcement bodies or in good faith with other third parties.
 
-## SECURITY AND TERMS OF USE
+### SECURITY AND TERMS OF USE
 
 This site has stringent security measures in place to protect the loss, misuse and alteration of the information under our control.
 
