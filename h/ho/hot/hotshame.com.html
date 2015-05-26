@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotshame.com privacy policy that was archived on 2014-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125021446id_/http%3A//www.hotshame.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotshame.com privacy policy that was archived on 2015-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526180349id_/http%3A//www.hotshame.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -232,6 +232,7 @@ document.write("<script type=\"text/javascript\" src=\""+u1ce1e2b94d+"\"></sc"+"
 </script><script type="text/javascript" src="//a.xvika.com/scr?zoneId=109&amp;utm_campaign="></script>
 
 
+<script type="text/javascript" src="/js/fab.js"></script>
 <script type="text/javascript">
 var userLang = navigator.language || navigator.userLanguage; 
 if( userLang == 'ru' ) {
@@ -298,6 +299,53 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 })();
 
 
+var video_dir = "";
+var video_title = "";
+$('.dd_link').each(function() {
+$(this).attr('href', $(this).attr('href') + '&t=' + encodeURIComponent(btoa(video_title)) + '&d=' + encodeURIComponent(btoa(video_dir)) + '&v=' + encodeURIComponent(btoa(flashvars.video_url)) + '&im=' + encodeURIComponent(flashvars.preview_url) );
+});
+
+function adBlockNotDetected() {
+    console.log('ab not found');
+    if (typeof ga !== 'undefined') {
+      ga('send', 'event', 'Adblock', 'No', {'nonInteraction': 1}); 
+    } else if (typeof _gaq !== 'undefined') { 
+      _gaq.push(['_trackEvent', 'Adblock', 'No', undefined, undefined, true]);
+    }
+    if( GetCookie('adbd') == 1 ) {
+      if (typeof ga !== 'undefined') {
+        ga('send', 'event', 'Adblock', 'Disable', {'nonInteraction': 1}); 
+      } else if (typeof _gaq !== 'undefined') { 
+        _gaq.push(['_trackEvent', 'Adblock', 'Disable', undefined, undefined, true]);
+      }
+    }
+}
+
+function adBlockDetected() {
+    console.log('ab detected');
+    SetCookie('adbd',1,24);
+    $('#vpc').html("<div style='margin:0 auto;width: 700px;'><img src='/images/sad.png' style='margin-left: 277px;margin-top:13px;'><h1 style='color:white;text-align: center;'>Please disable AdBlock to watch </h1><img src='/images/adb.png' style='width: 400px;margin-left: 150px;'></div>");
+    if (typeof ga !== 'undefined') {
+      ga('send', 'event', 'Adblock', 'Yes', {'nonInteraction': 1}); 
+    } else if (typeof _gaq !== 'undefined') { 
+      _gaq.push(['_trackEvent', 'Adblock', 'Yes', undefined, undefined, true]);
+    }
+}
+
+if( _GET('utm_campaign') != null ) {
+  if(typeof fuckAdBlock === 'undefined') {
+    adBlockDetected();
+  } else {
+    fuckAdBlock.onDetected(adBlockDetected);
+    fuckAdBlock.onNotDetected(adBlockNotDetected);    
+  }
+  fuckAdBlock.setOptions({
+    checkOnLoad: true,
+    resetOnEnd: true
+  });
+}
+
 </script>
+<meta name="check" content="c7503be2f83f870c23031e86ae453ccf">
 
 </body></html>
