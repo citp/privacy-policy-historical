@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the calcpa.org privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210104308id_/http%3A//www.calcpa.org/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcpa.org privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527000543id_/https%3A//www.calcpa.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[](https://web.archive.org/webtocase)
-
-| 
+# Privacy Policies
 
 ## California Society of CPAs' Online Privacy Policy Statement
 
@@ -63,7 +59,7 @@ We work to include security measures in this Site to protect the loss, misuse an
 
 ###### **6\. User Ability to Access, Update and Correct Personal Information.**
 
-To ensure that all of your Personal Information is correct and up-to-date, you may visit your personal profile at [www.calcpa.org/find](http://www.calcpa.org/find). Through your personal profile you may: (a) review and update your Personal Information that we have already collected; (b) choose whether or not you wish us to send you information about us, or promotional material from some of our partners; and (c) choose whether or not you wish us to share some of your Personal Information with third parties. ****
+To ensure that all of your Personal Information is correct and up-to-date, you may visit your personal profile at [Find a CPA](https://www.calcpa.org/public-resources/find-a-cpa). Through your personal profile you may: (a) review and update your Personal Information that we have already collected; (b) choose whether or not you wish us to send you information about us, or promotional material from some of our partners; and (c) choose whether or not you wish us to share some of your Personal Information with third parties. ****
 
 ###### **7\. Lost or Stolen Information.**
 
@@ -80,7 +76,7 @@ This Privacy Policy and our Terms and Conditions of Use may change frequently, a
 
 ###### ****10\. Conditions of Use.
 
-By using our Site, you consent to the collection and use of information described above. Your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms and Conditions of Use](https://web.archive.org/Content/about/factsheet/terms.aspx), including limitations on damages and the application of the law of the State of California. If you have any concern about privacy at our Site, please send a detailed message to us at [info@calcpa.org](mailto:info@calcpa.org), and we will try to resolve it. **  
+By using our Site, you consent to the collection and use of information described above. Your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms and Conditions of Use](https://www.calcpa.org/privacy-policy/terms-and-conditions-of-use), including limitations on damages and the application of the law of the State of California. If you have any concern about privacy at our Site, please send a detailed message to us at [info@calcpa.org](mailto:info@calcpa.org), and we will try to resolve it. **  
 **
 
 ###### **11\. Opt Out Process.**
@@ -119,6 +115,3 @@ San Mateo, California 94404-4072
 We can be reached via e-mail at [info@calcpa.org](mailto:info@calcpa.org)
 
 Or you can reach us by telephone at (800) 922-5272. 
-
-
-
