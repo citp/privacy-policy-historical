@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideacellular.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125034859id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideacellular.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526182612id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.*
 
 # Idea Cellular – Cell Phone Services |3G, Prepaid, Postpaid & Wireless Internet
 
