@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecallnow.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126221604id_/http%3A//www.onecallnow.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecallnow.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526165409id_/http%3A//www.onecallnow.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Rights | One Call Now
 
