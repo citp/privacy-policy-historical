@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226050625id_/http%3A//www.topcashback.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526064102id_/http%3A//www.topcashback.com/Privacy) for the most accurate reproduction.*
 
 # Top Cashback - Privacy
 
@@ -29,6 +29,10 @@ We aim to be very flexible and transparent in the use of members details. If use
 
 If any user feels this site is not following its stated information policy, then they may inform us through our [contact us](https://web.archive.org/Help) form.
 
+How Secure Is Your Data Held By Us? At Top CashBack, we treat the security of your data extremely seriously and have a number of measures in place to ensure that your data isn’t compromised or accessed unless absolutely necessary to offer our services 
+
+All of our data is held on secure servers and password/payment details are encrypted. Only staff members of Top CashBack have access to this data and they may only see the last 4 digits of details such as your bank account number.
+
 Cookie Policy We recommend that all users enable cookies in their browsers to make full use of the site and to ensure that any purchases on third party websites are recorded. Cookies are small pieces of data or information that are stored by a user’s browser on to their hard-drive. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. 
 
 If users do not have cookies enabled, it is likely that third-party merchants will not record some of their purchases.
@@ -39,11 +43,10 @@ Subscription We do not share or rent email addresses or information, further you
 
 Contact If you have any queries or concerns, please first use our [contact page](https://web.archive.org/contact) to get in touch
 
-Email:  
-  
 Mailing Address:  
-style="margin: 0px">MediaNet Systems Ltd.  
+TopCashback (USA) Inc.  
 (TopCashBack.com)  
 3422 Old Capitol Trail  
 Ste 1701  
-Wilmington, DE 19808-6192
+Wilmington, DE 19808-6192  
+<http://www.topcashback.com/contact>
