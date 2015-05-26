@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the mylikes.com privacy policy that was archived on 2014-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141118012242id_/http%3A//mylikes.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mylikes.com privacy policy that was archived on 2015-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526175051id_/http%3A//mylikes.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         
-    <link href="http://d2h0k96vhpmtat.cloudfront.net/s/gz/1408053642/landingpages-bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="http://d2h0k96vhpmtat.cloudfront.net/s/gz/1430172981/landingpages-bootstrap.css" rel="stylesheet" type="text/css">
 
     <title>Privacy Policy - MyLikes</title>
     <meta name="description" content="MyLikes is a social media advertising platform that empowers publishers to promote what they like and engage their audiences while making money.">
@@ -192,7 +192,7 @@
                 </p>
 
                 <p class="last_modified">
-                    Last modified: July 22 2014.                </p>
+                    Last modified: March 15 2015.                </p>
                 
             </div>
         </div>
@@ -266,8 +266,51 @@
         </div>
     </div>
 </div>
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript" src="http://d2h0k96vhpmtat.cloudfront.net/s/gz/1406052568/landingpages-bootstrap.js"></script><script type="text/javascript">  var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-4983970-8']);_gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script>        <div id="bottom_of_the_page"></div>
-            
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript" src="http://d2h0k96vhpmtat.cloudfront.net/s/gz/1430854138/landingpages-bootstrap.js"></script><script type="text/javascript">  var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-4983970-8']);_gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script>        <div id="bottom_of_the_page"></div>
+        <script type="text/javascript" src="../static/js/jquery.tablesorter.js"></script>
+<script type="text/javascript">
+    $.tablesorter.addParser({
+        id: 'date',
+        is: function(s) {
+            return false;
+        },
+        format: function(s) {
+            return s.replace(/-/,0);
+        },
+        type: 'text'
+    });
+
+    $.tablesorter.addParser({
+        id: 'tag',
+        is: function(s) {
+            return false;
+        },
+        format: function(s) {
+            return s.replace(/-/,"").toLowerCase();
+        },
+        type: 'text'
+    });
+
+
+    $.tablesorter.addParser({
+        id: 'spend',
+        is: function(s) {
+            return false;
+        },
+        format: function(s) {
+            var temp =  s.replace('$','').replace(/,/g,'').replace(/-/,0);
+            return temp;
+        },
+        type: 'numeric'
+    });
+
+    $(function() {
+            $("#reporting_table").tablesorter({
+                headers: { 0: { sorter:'date' }, 1: { sorter:'date' } , 3: {sorter : 'tag'}, 4: {sorter : 'spend'}, 5: {sorter: 'spend'}, 6: {sorter : 'spend' }, 7: {sorter : 'spend' }, 8: { sorter :'spend' } }
+            });
+    });
+</script>
+    
 
 
 
