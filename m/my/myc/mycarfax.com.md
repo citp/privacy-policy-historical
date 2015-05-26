@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycarfax.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219023834id_/http%3A//www.carfax.com/privacyStatement.cfx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycarfax.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526143640id_/http%3A//www.carfax.com/privacyStatement.cfx) for the most accurate reproduction.*
 
 # CARFAX Privacy Policy
 
