@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprisecarshare.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224013437id_/http%3A//www.enterprisecarshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisecarshare.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526043346id_/http%3A//www.enterprisecarshare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
