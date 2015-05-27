@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extendedstayhotels.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115958id_/http%3A//www.extendedstayamerica.com/privacy/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendedstayhotels.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527220525id_/http%3A//www.extendedstayamerica.com/privacy/default.html) for the most accurate reproduction.*
 
 # Extended Stay America - Privacy Policy
 
