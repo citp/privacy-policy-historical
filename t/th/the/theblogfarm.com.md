@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theblogfarm.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105072018id_/http%3A//www.theblogfarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogfarm.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528012106id_/http%3A//www.theblogfarm.com/privacy-policy) for the most accurate reproduction.*
 
-# The Blog Farm | Our Privacy Policy
+# Privacy Policy
 
-This Privacy Policy describes what user information is collected by The Blog Farm.
+**This Privacy Policy describes what user information is collected by The Blog Farm.**
 
 The Blog Farm shall be referred to as TBF within this document.
 
@@ -37,32 +37,3 @@ By using any aspect of The Blog Farm website you consent and agree to our [onli
 **Changes to our Privacy Policy:  **
 
 Changes to The Blog Farm’s privacy policy may take place at any time without prior notification required. Any future changes to the policy will be posted here.
-
-  * ### Mena Ukodoisready
-
-Mental meanderings, pet peeves, lighthearted, jokes, demented thoughts or cerebral engaging articles, you will find it here.
-
-  * ### Digital Combat Soldiers
-
-We began as a squad playing the game Delta Force. A game industry portal linking the latest news, reviews and previews.. all games.. all platforms!
-
-  * ### Dennys People Watching
-
-Watching Life unfold, observing everyone at work and at play, making our lives interesting: people in the news…
-
-  * ### Chatter Busy
-
-A blog about Show Biz…
-
-  * ### 365 Days Of Balloons
-
-A daily blog showcasing a new balloon design each day. Mot is a Professional Balloon Entertainer and Magician. He has been creating smiles with his kid safe and family friendly entertainment for over a decade now.
-
-  * [ ](http://spookysoiree.blogspot.com/ "Spooky Soiree")
-
-### [Spooky Soiree](http://spookysoiree.blogspot.com/ "Spooky Soiree")
-
-Halloween How-To’s & Parties on a Budget!
-
-
-
