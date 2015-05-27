@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the feedvisor.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021211409id_/http%3A//feedvisor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedvisor.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527212315id_/http%3A//feedvisor.com/privacy) for the most accurate reproduction.*
 
-# FeedVisor™ Privacy Policy
+# Privacy Policy | Feedvisor |
+
+## **FeedVisor™ Privacy Policy**
 
 This is the privacy policy (“ **Privacy Policy** “) that governs how we, FeedVisor Ltd. (“ **FeedVisor** “, “ **we** “, “ **our** ” or “ **us** “), use Personal Information (defined below) that we collect, receive and store about individuals in connection with the use of: (i) the website [www.feedvisor.com](http://www.feedvisor.com/), and any other website that we operate (each, together with its sub-domains, content and services, a “ **Site** “); and (ii) any software that we license or enable access to (“ **Software** “). The Site and the Software are individually and collectively referred to herein as the “ **Service** “.
 
