@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the confirio.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625115027id_/http%3A//www.confirio.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the confirio.com privacy policy that was archived on 2015-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150527191858id_/http%3A//www.confirio.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Confirio | Privacy</title>
@@ -265,6 +265,20 @@ box-shadow:0 5px 5px rgba(180,180,180,1);">
 											xmlColl.send(null);
 										}
 										
+										function love(id)
+										{
+											idg=id;
+											xmlColl=GetXmlCollObject()
+											if (xmlColl==null)
+											{
+												return;
+											}
+											var url="/ajax.php?func=love&id=" + id;
+											xmlColl.onreadystatechange=loveChanged;
+											xmlColl.open("GET",url,true);
+											xmlColl.send(null);
+										}
+										
 										function starmsg(id,status)
 										{
 											xmlColl=GetXmlCollObject()
@@ -336,6 +350,14 @@ box-shadow:0 5px 5px rgba(180,180,180,1);">
 												var url="/matcherinterface.php?update=0";
 												xmlColl3.open("GET",url,true);
 												xmlColl3.send(null);
+											}
+										}
+										
+										function loveChanged()
+										{
+											if (xmlColl.readyState==4)
+											{ 
+												document.getElementById("article["+idg+"]").innerHTML=xmlColl.responseText;
 											}
 										}
 
@@ -557,7 +579,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1357776835149-5');
 						<td bgcolor="#DFDFDF" height="1" width="100%"></td></tr>
 						<tr><td height="3" width="100%"></td></tr>
 						<tr><td width="100%" valign="top" align="center">
-							© 2014	 Confirio. All Rights Reserved.<br>
+							© 2015	 Confirio. All Rights Reserved.<br>
 							<a href="/aboutus.php">About Us</a> | <a href="/contact.php">Affiliates</a> | <a href="http://www.confirio.com/reviews/">Reviews</a> | <a href="/contact.php">Contact</a> | <a href="/advertise.php">Advertise</a> | <a href="/policy.php">Terms</a> | <a href="/safety.php">Safety</a> | <a href="/privacypolicy.php">Privacy</a> &nbsp;<div class="langs" style="display:inline-block;height:1em">	<div id="langb" lang="en" class="langb" onmouseover="togglelm()"><img align="absmiddle" src="/images/countries/en.png"><font size="2"> English</font></div>	<table width="155" height="662" cellspacing="0" cellpadding="0" border="0" id="langmenu"><tbody><tr><td width="36" align="center"><img align="absmiddle" src="/images/countries/ar.png"></td><td width="119" align="left"><a lang="ar" hreflang="ar" href="javascript:lang('ar');">العربية</a></td></tr>
 <tr><td width="36" align="center"><img align="absmiddle" src="/images/countries/da.png"></td><td width="119" align="left"><a lang="da" hreflang="da" href="javascript:lang('da');">Dansk</a></td></tr>
 <tr><td width="36" align="center"><img align="absmiddle" src="/images/countries/de.png"></td><td width="119" align="left"><a lang="de" hreflang="de" href="javascript:lang('de');">Deutsch</a></td></tr>
@@ -592,15 +614,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1357776835149-5');
 			</td>
 		</tr>
 	</tbody></table>
-	</div><p>	
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-12296850-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+	</div><p>
+	
+
 
 </p></body></html>
