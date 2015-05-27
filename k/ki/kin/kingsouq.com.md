@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsouq.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926005855id_/http%3A//www.kingsouq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsouq.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527163313id_/http%3A//www.kingsouq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,9 @@ It is our goal to bring you information that is tailored to your individual need
 **What information do we collect?**  
 We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
 
-When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, or other information,the details collected from the customers  do  not include credit card details.You may, however, visit our site anonymously.The personal details collected will not be shared or sold to any third parties.
+When you browse our website,we may collect your IP address, browser, operating system, and the URL you request.
+
+When ordering or registering, we may ask you for your IP address, the date and time, name, e-mail address, mailing address, phone number, or other information,your PayPal email and your PayPal shipping address, the details collected from the customers  do  not include credit card details.You may, however, visit our site anonymously.The personal details collected will not be shared or sold to any third parties. All credit/debit cards details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties.
 
 We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.  
 Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use ‘cookies'?" section below for information about cookies and how we use them.
@@ -38,7 +40,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
   
 **How can you opt-out, remove or modify information you have provided to us?**  
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.  
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.If you no longer want to receive our newsletter, you can click the unsubscribe link.  
 To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
 **Refund Policy**  
@@ -53,7 +55,7 @@ If the shipment has already left our warehouse,we won’t be able to cancel the 
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
 **Changes to our policy**  
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on February 1, 2011.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on Dec 1th, 2014.
 
 **Questions and feedback**  
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
@@ -63,3 +65,23 @@ This online privacy policy applies only to information collected through our web
 
 **Your consent**  
 By using our site, you consent to our privacy policy.
+
+*Recommended statement is “Any dispute or claim arising out of or in connection with this website shall be governed and construed in accordance with the laws of UAE.
+
+*The Website Policies and Terms & Conditions may be changed or updated occasionally to meet the requirements and standards. Therefore the Customers’ are encouraged to frequently visit these sections in order to be updated about the changes on the website. Modifications will be effective on the day they are posted.
+
+**Contact Us**
+
+Need Assistance Before Purchase: [sales@kingsouq.com](mailto:sales@kingsouq.com)
+
+Need Assistance With Order: [service@kingsouq.com](mailto:service@kingsouq.com)
+
+Need Assistance After Delivery: [support@kingsouq.com](mailto:support@kingsouq.com)
+
+Tel:  +971 4 2564 551 (10 lines)
+
+Phone Work Timing, Sunday-Thursday AM 11:00-PM 2:30 PM 5:30-PM 11:30 UTC/GMT +4
+
+Add:Shop 1-2, Opp Ferrari Hotel,Behind Musalla Road,Deira,Dubai UAE
+
+P.O.Box:52376 Dubai UAE
