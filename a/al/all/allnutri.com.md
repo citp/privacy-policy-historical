@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnutri.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221121514id_/http%3A//allnutri.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnutri.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527141745id_/http%3A//allnutri.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Allnutri.com - Privacy Policy of AllNutri's User Agreement
 
