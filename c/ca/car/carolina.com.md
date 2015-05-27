@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carolina.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223124836id_/http%3A//www.carolina.com/help/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolina.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527044017id_/http%3A//www.carolina.com/help/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
