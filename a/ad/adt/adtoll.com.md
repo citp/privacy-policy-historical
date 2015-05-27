@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtoll.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225941id_/http%3A//support.clickbooth.com/support/solutions/articles/4000020208-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtoll.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527204756id_/http%3A//support.clickbooth.com/support/solutions/articles/4000020208-privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Clickbooth Support
 
