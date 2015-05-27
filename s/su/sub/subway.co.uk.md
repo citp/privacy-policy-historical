@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subway.co.uk privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229013213id_/http%3A//www.subway.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subway.co.uk privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527040052id_/http%3A//www.subway.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # SUBWAY - Eat Fresh | Privacy Policy
 
