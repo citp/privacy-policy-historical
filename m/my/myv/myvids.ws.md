@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvids.ws privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225101556id_/http%3A//myvids.ws/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvids.ws privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527235411id_/http%3A//myvids.ws/static/privacy) for the most accurate reproduction.*
 
 # privacy policy - Myvids.ws Taboo Tube Videos
 
