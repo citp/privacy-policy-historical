@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivs.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707123612id_/https%3A//www.rivs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivs.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527235958id_/https%3A//www.rivs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RIVS Digital Interviews | Video Interviews | Job Applicant Management | Efficient Hiring
 
