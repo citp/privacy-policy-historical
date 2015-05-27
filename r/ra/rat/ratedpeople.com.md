@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727153323id_/http%3A//www.ratedpeople.com/c/legal-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527122814id_/http%3A//www.ratedpeople.com/c/legal-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Home
+# Privacy Policy - Home
 
 We absolutely respect your privacy. Rated People Ltd is registered with the Data Protection Agency (number: Z931442X) and we do not sell, trade or share personal information with organisations or individuals not connected with the Service. This section explains what information is stored and how it is used. It should be read in conjunction with our [User Agreements](http://www.ratedpeople.com/c/legal-2) and [Payment Terms](http://www.ratedpeople.com/c/legal-2/payment-terms).
 
@@ -14,8 +14,6 @@ This Privacy Policy was last modified on 2 April 2013.
   6. Access to information
 
 
-
-* * *
 
 ## 1\. Information that we collect and store
 
@@ -33,8 +31,6 @@ Our mobile apps use Flurry and Google Analytics to gather generic data about usa
 
 back to top
 
-* * *
-
 ## 2\. How we use this information
 
 We check the accuracy of the information that you provide on registration and during your continued use of the Service and remind you of your obligations to provide accurate information to us as set out in clause 4 of our respective [User Agreements](http://www.ratedpeople.com/c/legal-2). 
@@ -51,8 +47,6 @@ We may disclose your personal data if we are compelled to do so by law, or in re
 
 back to top
 
-* * *
-
 ## 3\. Security measures
 
 To prevent unauthorised access, maintain accuracy of our records and to ensure proper use and protection of Your Information, we have put appropriate physical, electronic and managerial procedures in place. 
@@ -60,8 +54,6 @@ To prevent unauthorised access, maintain accuracy of our records and to ensure p
 We use the latest 256-bit SSL encryption technology to endeavour to ensure that sensitive data transmitted to and from our server cannot be accessed by external parties. We further encrypt all passwords and other sensitive information such as payment details. Our server is protected by a dedicated firewall and we operate strict internal policies with regard to accessing personal information. However, we cannot guarantee the security of any information or data which is transmitted over public or third party networks. Please note: you must ensure that your password remains secret.
 
 back to top
-
-* * *
 
 ## 4\. Cookies
 
@@ -73,15 +65,11 @@ Users may opt out of Google’s use of cookies by visiting the [Google advertisi
 
 back to top
 
-* * *
-
 ## 5\. Retention of your information
 
 We will retain your personal information only as long as is necessary for the purposes to which you consent under this Privacy Policy, after which we will delete it from our systems.
 
 back to top
-
-* * *
 
 ## 6\. Access to information
 
