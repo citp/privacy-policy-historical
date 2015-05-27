@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivescosmetics.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220092558id_/http%3A//www.motivescosmetics.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivescosmetics.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527223248id_/http%3A//www.motivescosmetics.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Motives by Loren Ridinger | Motives Cosmetics
 
@@ -8,7 +8,7 @@ This Privacy Policy applies to motivescosmetics.com, which is owned and operated
 
 **We appreciate the trust you place in Market America, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. By using or accessing the Site, you accept the practices described in this Privacy Policy.**
 
-**We work closely with Shop MA, Inc., SHOP.com Marketplace, Inc., Conquer Entertainment, Inc., Live Enterprise, LLC, Market America Worldwide, Inc. and each of their various subsidiaries and affiliated companies (collectively the “Affiliates”), and your personal, technical and discretionary information may be shared with each of these Affiliates, in the discretion of Market America, Inc. For this reason, throughout these Terms, references made to “Market America” “MA” “Company” “we” “us” and “our” collectively include Market America, Inc., and the Affiliates. The Site is hosted in the United States.**
+We work closely with Shop MA, Inc., SHOP.com Marketplace, Inc., Conquer Entertainment, Inc., Live Enterprise, LLC, Market America Worldwide, Inc. and each of their various subsidiaries and affiliated companies (collectively the “Affiliates”), and your personal, technical and discretionary information may be shared with each of these Affiliates, in the discretion of Market America, Inc. For this reason, throughout these Terms, references made to “Market America” “MA” “Company” “we” “us” and “our” collectively include Market America, Inc., and the Affiliates. The Site is hosted in the United States.
 
 ### Information We Collect
 
@@ -34,9 +34,9 @@ To best serve your needs, we will, from time to time, collect certain informatio
 
 
 
-**2\. Technical information we collect and store automatically**. When you visit the Site, we may store some or all of the following: the Internet address from which you accessed the Site, the date and time you visited the Site, whether you are a new or returning visitor, the page from which you exit the Site, what country you are visiting from (your network location), the Internet address of the web site from which you linked to the Site, the name of the file or words you searched for, items clicked on a page, and the browser and operating system used.
+ **2\. Technical information we collect and store automatically**. When you visit the Site, we may store some or all of the following: the Internet address from which you accessed the Site, the date and time you visited the Site, whether you are a new or returning visitor, the page from which you exit the Site, what country you are visiting from (your network location), the Internet address of the web site from which you linked to the Site, the name of the file or words you searched for, items clicked on a page, and the browser and operating system used.
 
-**3\. Cookies**. In addition, we store certain information from your browser using cookies. A cookie is a small data file that is stored by your web browser on your computer. The cookies we use include, without limitation, session ID cookies and persistent cookies. 
+ **3\. Cookies**. In addition, we store certain information from your browser using cookies. A cookie is a small data file that is stored by your web browser on your computer. The cookies we use include, without limitation, session ID cookies and persistent cookies. 
 
 ### Using Information We Collect
 
