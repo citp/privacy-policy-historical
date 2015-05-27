@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaspringtour.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916031913id_/http%3A//www.chinaspringtour.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaspringtour.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527222019id_/http%3A//www.chinaspringtour.com/policy.html) for the most accurate reproduction.*
 
 # ChinaSpringTour
 
