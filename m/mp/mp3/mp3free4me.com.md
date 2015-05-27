@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mp3free4me.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007235332id_/http%3A//www.mp3free4me.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3free4me.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527211406id_/http%3A//mp3free4me.com/privacy.php) for the most accurate reproduction.*
 
 # mp3free4me.com
 
-[Home](https://web.archive.org/web/20141007235332id_/http%3A//www.mp3free4me.com/index.php) | [About Us](https://web.archive.org/web/20141007235332id_/http%3A//www.mp3free4me.com/about.php) | [Contact](https://web.archive.org/web/20141007235332id_/http%3A//www.mp3free4me.com/contact.php) | 
+[Home](https://web.archive.org/web/20150527211406id_/http%3A//mp3free4me.com/index.php) | [About Us](https://web.archive.org/web/20150527211406id_/http%3A//mp3free4me.com/about.php) | [Contact](https://web.archive.org/web/20150527211406id_/http%3A//mp3free4me.com/contact.php) | 
 
 ## Free YouTube to MP3 Free Download Software
 
@@ -37,7 +37,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-© 2014 **mp3free4me.com** , All rights reserved.  
+© 2015 **mp3free4me.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
 
 
@@ -45,6 +45,6 @@ Unauthorized duplication or publication of any materials from this Site is expre
 
   
   
-Return to the [mp3free4me.com](https://web.archive.org/web/20141007235332id_/http%3A//www.mp3free4me.com/index.php) home page 
+Return to the [mp3free4me.com](https://web.archive.org/web/20150527211406id_/http%3A//mp3free4me.com/index.php) home page 
 
-[About Us](https://web.archive.org/web/20141007235332id_/http%3A//www.mp3free4me.com/about.php) | [Privacy Policy](https://web.archive.org/web/20141007235332id_/http%3A//www.mp3free4me.com/privacy.php) | [Contact](https://web.archive.org/web/20141007235332id_/http%3A//www.mp3free4me.com/contact.php)
+[About Us](https://web.archive.org/web/20150527211406id_/http%3A//mp3free4me.com/about.php) | [Privacy Policy](https://web.archive.org/web/20150527211406id_/http%3A//mp3free4me.com/privacy.php) | [Contact](https://web.archive.org/web/20150527211406id_/http%3A//mp3free4me.com/contact.php)
