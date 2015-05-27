@@ -1,51 +1,41 @@
-> *The following text is extracted and transformed from the alexmalave.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501232037id_/http%3A//www.500in15.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexmalave.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527053725id_/http%3A//alexmalave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-> Last Updated: Marty 23, 2010 
-> 
-> This site strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
-> 
-> How we gather information from users
-> 
-> How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, our company also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
-> 
-> What we do with the information we collect
-> 
-> Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
-> 
-> Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
-> 
-> We may use Personally Identifiable Information collected on this site to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by this site and other topics we think you might find of interest. 
-> 
-> Personally Identifiable Information collected by this site may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
-> 
-> Affiliated sites, linked sites and advertisements
-> 
-> This site expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame of content that is actually created or hosted by a third party. Also, through our company web sites you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. This site is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
-> 
-> While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. This site does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
-> 
-> You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of this site and this policy.
-> 
-> Children
-> 
-> This site does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe this site has any information from or about anyone under 13, please contact us at the address listed below.
-> 
-> Contacting Us.
-> 
-> We can be reached by contacting:
-> 
-> Email: dominateincome@gmail.com
-> 
-> Changes to this Policy
-> 
-> We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-> 
-> Governing law
-> 
-> This policy and the use of this Site are governed by United States law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Florida. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
-> 
-> If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: USA, under the rules of the United States of America. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
-> 
-> This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+### Privacy Policy:
+
+Dynasty Media LLC (" **Alex Malave** ") operates alexmalave.com and may operate other websites. It is Alex Malave's policy to respect your privacy regarding any information we may collect while operating our websites.
+
+### Website Visitors
+
+Like most website operators, Alex Malave collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Alex Malave's purpose in collecting non-personally identifying information is to better understand how Alex Malave's visitors use its website. From time to time, Alex Malave may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+Alex Malave also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on alexmalave.com blogs/sites. Alex Malave only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+
+### Gathering of Personally-Identifying Information
+
+Certain visitors to Alex Malave's websites choose to interact with Alex Malave in ways that require Alex Malave to gather personally-identifying information. The amount and type of information that Alex Malave gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [alexmalave.com](http://alexmalave.com/) to provide a username and email address. Those who engage in transactions with Alex Malave are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Alex Malave collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Alex Malave. Alex Malave does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+### Aggregated Statistics
+
+Alex Malave may collect statistics about the behavior of visitors to its websites. Alex Malave may display this information publicly or provide it to others. However, Alex Malave does not disclose personally-identifying information other than as described below.
+
+### Protection of Certain Personally-Identifying Information
+
+Alex Malave discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Alex Malave's behalf or to provide services available at Alex Malave's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Alex Malave's websites, you consent to the transfer of such information to them. Alex Malave will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Alex Malave discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Alex Malave believes in good faith that disclosure is reasonably necessary to protect the property or rights of Alex Malave, third parties or the public at large. If you are a registered user of an Alex Malave website and have supplied your email address, Alex Malave may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Alex Malave and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Alex Malave takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Alex Malave uses cookies to help Alex Malave identify and track visitors, their usage of Alex Malave website, and their website access preferences. Alex Malave visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Alex Malave's websites, with the drawback that certain features of Alex Malave's websites may not function properly without the aid of cookies.
+
+### Business Transfers
+
+If Alex Malave, or substantially all of its assets, were acquired, or in the unlikely event that Alex Malave goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Alex Malave may continue to use your personal information as set forth in this policy.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Alex Malave and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Alex Malave may change its Privacy Policy from time to time, and in Alex Malave's sole discretion. Alex Malave encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a alexmalave.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
