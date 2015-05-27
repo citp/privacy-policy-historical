@@ -1,19 +1,66 @@
-> *The following text is extracted and transformed from the phonenumberdata.net privacy policy that was archived on 2012-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120122003655id_/http%3A//www.phonenumberdata.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumberdata.net privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527125126id_/http%3A//www.phonenumberdata.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-The privacy of our visitors to our site is important to us. We recognize that privacy of your personal information is important.
+**What information do we collect?**
 
-Here is information on what types of personal information we receive and collect when you use visit our site, and how we safeguard your information. PhonenumberData.net does not provide any personally identifiable information to these third-party ad servers or ad networks.
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-Log Files: As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Information collected from cookies: in order to offer you a personalized service, PhonenumberData.net may use cookies to ease storing and tracking your preferences. For instance, we may use cookies to make sure you don't see the same ad repeatedly, or to deliver content specific to your interests; the content contained is not distributed to third parties. 
+ **What do we use your information for?**
 
-PhonenumberData.net allows other companies, called third-party ad servers or ad networks, to serve advertisements within the PhonenumberData.net site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the PhonenumberData.net site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+Any of the information we collect from you may be used in one of the following ways: 
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+; To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
 
 For any suggestions and comments regarding PhonenumberData.net or our Privacy Policy, please contact us via [contact page](https://web.archive.org/contact.html)
-
-[<-Back](https://web.archive.org/)
