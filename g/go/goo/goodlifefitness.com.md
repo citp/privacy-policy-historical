@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209085707id_/http%3A//www.goodlifefitness.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527031348id_/http%3A//www.goodlifefitness.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GoodLife Fitness
 
@@ -139,7 +139,7 @@ EMAIL
 
 #### Personal Information Request
 
-[Print Personal Information Request Form ](https://web.archive.org/web/20141209085707id_/http%3A//www.goodlifefitness.com/pdf/InformationRequestForm.pdf?20140225 "Download the information request form")
+[Print Personal Information Request Form ](https://web.archive.org/web/20150527031348id_/http%3A//www.goodlifefitness.com/pdf/InformationRequestForm.pdf?20140225 "Download the information request form")
 
 #### Amendments to Our Privacy Policy
 
