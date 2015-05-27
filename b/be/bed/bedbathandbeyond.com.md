@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bedbathandbeyond.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050549id_/http%3A//www.bedbathandbeyond.com/store/static/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbathandbeyond.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527034144id_/http%3A//www.bedbathandbeyond.com/store/static/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - BedBathandBeyond.com
+# Privacy Policy
 
 **Privacy Policy Effective Date: This Privacy Policy became effective in November, 1999, and was most recently changed on November 7, 2010.**
 
