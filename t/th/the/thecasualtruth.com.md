@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecasualtruth.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128024914id_/http%3A//thecasualtruth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecasualtruth.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527042144id_/http%3A//thecasualtruth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Casual Truth
 
