@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flowrestling.org privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206012903id_/http%3A//www.flowrestling.org/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowrestling.org privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527090430id_/http%3A//www.flowrestling.org/site/privacy) for the most accurate reproduction.*
 
-# Flowrestling - Privacy Site | Flowrestling
+# FloWrestling - Privacy Site | FloWrestling
 
-Flowrestling takes user privacy very seriously. Absolutely no information submitted to Flowrestling via membership, feedback form, or mailing list will be given out, sold, or distributed to any outside organization. Your contact information is used to contact the visitor (you) with information from Flowrestling. Users may opt-out of receiving future mailings by contacting Flowrestling. We use third-party advertising companies to serve ads when you visit our Web site. These third-party advertising companies may use advertising technologies such as cookies, web beacons and other similar advertising technologies.
+FloWrestling takes user privacy very seriously. Absolutely no information submitted to FloWrestling via membership, feedback form, or mailing list will be given out, sold, or distributed to any outside organization. Your contact information is used to contact the visitor (you) with information from FloWrestling. Users may opt-out of receiving future mailings by contacting FloWrestling. We use third-party advertising companies to serve ads when you visit our Web site. These third-party advertising companies may use advertising technologies such as cookies, web beacons and other similar advertising technologies.
 
 These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:
 
@@ -12,6 +12,6 @@ Third Party Links: We offer affiliate links on our site. We are in no way respon
 
 ##  **Children**
 
-If you are under 13 years of age, please do not access Flowrestling. Flowrestling is not intended for children under 13, and we will not knowingly collect any information from any children under the age of 13. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will promptly remove that information from our database.
+If you are under 13 years of age, please do not access FloWrestling. FloWrestling is not intended for children under 13, and we will not knowingly collect any information from any children under the age of 13. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will promptly remove that information from our database.
 
-Flocasts Management
+FloSports Management
