@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stormpath.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723044011id_/https%3A//stormpath.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stormpath.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527103355id_/https%3A//stormpath.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stormpath User Management API
 
@@ -39,6 +39,21 @@ Our Web sites may contain links to other Web sites for news and other informatio
 **Security**
 
 We use physical, electronic and administrative safeguards, including firewall, encryption and password protection for our databases, designed to protect the security of the data collected and to prevent unauthorized access or disclosure to any of your information.
+
+**Safe Harbor Compliance**
+
+Stormpath complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Stormpath has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
+In compliance with the US-EU Safe Harbor Principles, Stormpath commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union citizens with inquiries or complaints regarding this privacy policy should first contact us at: [compliance@stormpath.com](mailto:compliance@stormpath.com)
+
+Or 
+
+Stormpath, Inc.  
+217 S B Street, Ste 1  
+San Mateo, CA 94401  
+Attn: Compliance Dept. 
+
+Stormpath has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program> for more information and to file a complaint. 
 
 **Contacting Us With Questions or Concerns**
 
