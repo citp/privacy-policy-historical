@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221033908id_/http%3A//www.zenefits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527054358id_/http%3A//www.zenefits.com/privacy) for the most accurate reproduction.*
 
 # Zenefits
 
