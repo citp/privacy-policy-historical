@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpnotifywizard.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125211253id_/http%3A//wpnotifywizard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpnotifywizard.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527021615id_/http%3A//wpnotifywizard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
