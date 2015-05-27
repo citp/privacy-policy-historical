@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2014-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141213233845id_/http%3A//www.cilory.com/content/3-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527085028id_/http%3A//www.cilory.com/content/3-Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cilory
 
@@ -61,7 +61,9 @@ We follow a very strict privacy policy as follows:
 
   * You may receive transactional SMS, calls on registered mobile/landline number with us, related to your account/orders placed on our website.
   * All the calls/SMS will be related to transactions performed on our website.
-  * You may be sent promotional SMS related to offers/products on our site. Should you wish to not receive those, you may click on the un-subscribe link provided on those SMS.  
+  * You may be sent promotional SMS related to offers/products on our site. Should you wish to not receive those, you may click on the un-subscribe link provided on those SMS.
+  * You may receive alerts/notifications related to your order on our mobile apps.
+  * You may receive notications on our mobile apps related to new products/offers etc. added on cilory.com. You may turn off notifications if you wish to by changing App Notification settings on your mobile.   
  
 
 
