@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rateelert.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204210337id_/http%3A//www.rateelert.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateelert.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527195411id_/http%3A//www.rateelert.com/privacy.php) for the most accurate reproduction.*
 
 # Rateelert
 
@@ -12,7 +12,7 @@ Any information we collect will be kept strictly confidential, and used only to 
 
 This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-This Privacy Policy is incorporated into, and part of, the [Terms and Conditions ](https://web.archive.org/web/20141204210337id_/http%3A//www.rateelert.com/terms.php), which govern your use of the Site in general.
+This Privacy Policy is incorporated into, and part of, the [Terms and Conditions ](https://web.archive.org/web/20150527195411id_/http%3A//www.rateelert.com/terms.php), which govern your use of the Site in general.
 
 This Site is not intended for use by persons under the age of 15 years old. You must be 15 years old or older to provide any personal information to the Site, or to us through the Site. 
 
