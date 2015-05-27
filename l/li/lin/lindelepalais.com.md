@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220115218id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527220756id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
 
 # lindelepalais.com :: Policy and more
 
@@ -44,7 +44,7 @@ L'INDE is committed in displaying web-site contents devoid of descriptions or re
 Although L'INDE will try its best to ensure a continuous access to lindelepalais.com, the dynamic nature of the internet and its contents may lead to interruptions useful to update the web-site. L'INDE has adopted technical and organizing measures to safeguard the security of the service provided at lindelepalais.com , the integrity of data related to electronic communication and avoid dispersion, destruction and loss of data and private information, unauthorized or illegal access to such data and information.
 
 **Promotions  
-** Customers subscribing to the lindelepalais.com newsletter will receive updates on promotions and promo codes which could be used during the check-out process. Every code has a starting and ending date and these time limits cannot be extended, besides discount do not add up if not differently specified.
+** Customers subscribing to the lindelepalais.com newsletter will receive updates on promotions and promo codes which could be used during the check-out process. Every code has a starting and ending date and these time limits cannot be extended, besides discount do not add up if not differently specified. This also applies to discounted items, so promocodes will only work for full-priced items if not differently specified.
 
 **Applicable law and disputes**  
 The present General Conditions of Use are regulated by the Italian law.  
