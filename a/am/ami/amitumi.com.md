@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amitumi.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230072521id_/http%3A//amitumi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amitumi.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527212138id_/http%3A//amitumi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | :AmiTumi: Bangladesh's first 24x7 Lifestyle Magazine
 
