@@ -1,58 +1,73 @@
-> *The following text is extracted and transformed from the freemoneysystem.net privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821085906id_/http%3A//freemoneysystem.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemoneysystem.net privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528015259id_/http%3A//freemoneysystem.net/privacy.php) for the most accurate reproduction.*
 
-# Free Money System Privacy Policy
+# Privacy
 
-PRIVACY POLICY
+* * *
 
-1\. Our Commitment to Privacy. This notice describes our Privacy Policy. Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy. 
+Privacy Policy Statement - 'FreeMoneySystem'
 
-2\. What Information is Collected.
+Note on translation - This Privacy Policy Statement may have been translated into various languages for the convenience of 'FreeMoneySystem' Users. While the translation is correct to the best of 'FreeMoneySystem's' knowledge, 'FreeMoneySystem' is not responsible or liable in the event of an inaccuracy. English is the controlling language of this Privacy Policy Statement, and any translation has been prepared for you as a courtesy only. In the event of a conflict between the English-language version of this Privacy Policy Statement and a version that has been translated into another language, the English-language version shall control.
 
-      (a) Information You Provide to Us: 
+Important - This Privacy Policy Statement outlines the use of all identifying personal information submitted and collected on http://www.FreeMoneySystem.co/ (the "Site"). This privacy notice does not encompass other websites or third-party links referenced to or by 'FreeMoneySystem' in any way, including but no limited to print, online, or in e-mail. 'FreeMoneySystem', its affiliates, clients and all of their respective authorized representatives, officers, directors, employees, agents, shareholders, licensors, attorneys, successors, and assigns ("FreeMoneySystem"), is firmly committed to protecting personal and financial information. This Privacy Policy statement embodies our commitment to its protection through adherence to fair electronic information practices.
 
-              We collect the Personally Identifiable Information you choose to enter on various pages of our site, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our site, sign up for newsletters or mailings, or make a purchase. 
+1.       Acknowledgement and acceptance of terms
 
-               The categories of Personally Identifiable Information we collect are your first and last name, e-mail address, physical address, and telephone number.
+'FreeMoneySystem' is committed to protecting its users' privacy. This Privacy Policy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our Site. By accessing our Site, you acknowledge and fully understand the Privacy Statement and freely consent to the information collection and use practices described in this Site Privacy Policy Statement.
 
-               You can choose not to provide certain information, but you may not be able to take advantage of our services and features.
+2.       Information we collect and how we use it
 
-      (b) Automatic Information: 
+When you use or connect to our Site through your computer or a mobile device, the owners and publishers of the Site collect certain information from and about its users in a few ways, directly from our web server logs, from you, with the aid of cookies, with web beacons, and through the use of website analytics through a third party service provider. We may collect personally identifiable information necessary for internal marketing purposes based on user activity, registration and billing from customers who purchase our products and services online.
 
-             When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site.
+'FreeMoneySystem's proxy is a gateway for the user's network, and is set for the purposes of retrieving such information, and base marketing material on it. We do not collect any sensitive information.
 
-      (c) “Cookies”: 
+Visitors to our Site can register to create an account, access the Site, download Software, and possibly purchase services. When you register, we will request some personal information such as your name, address, e-mail, telephone number or facsimile number, location, account number and other relevant information. We also collect your IP computer address. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
-             Cookies are pieces of information that are transferred to your computer from a web server. 
+3.       Web server logs
 
-             We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors' browser type or other information that the visitor sends.
+When you visit our Site, we may track information through web server logs to better administer the Site and analyze its usage. Examples of information we may track include but is not limited to your Internet Protocol address ("IP"), the type of browser or computer you use, the number of links you click within the Site, the geographical location from which you accessed the Site, the date and time of your visit, the name of your Internet service provider, any web pages you linked to our Site from, and pages you viewed on the Site.
 
-             Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies.
+4.       Use of cookies
 
-3\. How and When the Information is Used. The information we collect is used for administering our business activities as follows:
+'FreeMoneySystem' may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server to identify that specific user the next time he or she visits the website. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
 
-       (a) to improve the content of our site;
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
 
-       (b) to customize the content and/or layout of site pages for each individual visitor;
+We do not allow other companies on our Site to place cookies, unless there is a temporary overriding of a part in the Site (such as integrating another site that relies on third-party cookies, into the existing website).
 
-               (c) used to notify consumers about updates to our Web site;
+5.       Modifying cookie settings
 
-               (d) shared with other reputable organizations to help them contact consumers for marketing purposes;
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to delete or decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Site.
 
-               (e) used by us to contact consumers for marketing purposes.  
-4\. How We Protect Your Information. The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy.
+6.       Use of web beacons or gif files
 
-5\. Who Has Access to the Information. Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure.
+This Site may contain electronic images known as "Web Beacons" (also called single-pixel gifs) that allow the owners and publishers of the Site to count users who have visited those pages and to deliver similar services. The owners and publishers of the Site may include Web Beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
-6\. Methods We Use to Protect Your Information. We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons.
+Some Web Beacons may be placed by third party service providers to help us determine the effectiveness of our advertising campaigns or e-mail communications. These Web Beacons may be used by these service providers to place a persistent cookie on your computer, for the benefit of 'FreeMoneySystem'. This allows the service provider to recognize your computer each time you visit certain pages or e-mails and compiles anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and e-mails bring you to our website and how you use the Site. 'FreeMoneySystem's' Web Beacons are not used to collect or access your identifying personal information.
 
-7\. Children. This website does not provide services or sell products to children under the age of 18.  If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below.
+7.       Notice on Disclosure of user personal information
 
-  8\. How You Can Access Your Information. You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below.
+'FreeMoneySystem' reserves the right to share aggregated site statistics with partner companies, sites and affiliates, including brokers, to help enhance its service offerings, but does not sell or forward identifying personal information to third party companies. Personal User information collected by or submitted to 'FreeMoneySystem' shall not be disclosed to any third parties without your permission, unless such information: (i) to fulfill your service requests; (ii) is required to be disclosed by law, regulation, legal process, law enforcement or government regulatory authorities, in which case we shall give you as much advance notice as is reasonably practicable in order to allow you to limit or restrict to such disclosure; or (iii) is required to be disclosed in order for us to protect our legal rights or defend against liability; or (iv) in connection with a merger, acquisition, or liquidation of 'FreeMoneySystem'.
 
-9\. Consent. By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
+8.       Opting out
 
-10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
+If you wish, you may choose not to receive emails, newsletters or other communications from the 'FreeMoneySystem' by clicking the "Unsubscribe" link in the email communication sent to your registered email account with the Site.
 
-11\. Effective Date. This Privacy Policy is effective as of [date].
+9.       Accessing and changing personal information
 
-12\. Contact E-Mail. You may contact us concerning this Privacy Policy at the following e-mail address [insert email address.]
+You can ensure that your identifying personal information in your web account file is correct and up to date by contacting our support attendants via our support desk at support@FreeMoneySystem.co.
+
+10.   Internet based data transfer
+
+Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore by browsing this Site and communicating electronically with us, you acknowledge and agree to our processing of personal data in this manner.
+
+11.   Changes to this Statement
+
+The owners and publishers of the Site have the discretion to periodically update this Privacy Policy Statement. We encourage you to periodically review this Privacy Policy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Policy statement and any updates.
+
+12.   Contact us
+
+If you have questions regarding the security of the Site, our Privacy Policy Statement, its implementation, and/or our information collection and dissemination practices, please contact us via our support desk at support@FreeMoneySystem.co.
+
+"Endorsed by ScamWatchdog.org" 
+
+'FreeMoneySystem' © 2015 All rights reserved
