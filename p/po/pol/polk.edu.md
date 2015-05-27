@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226062310id_/http%3A//www.polk.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527063119id_/http%3A//www.polk.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ‹ Polk State College
 
@@ -18,4 +18,4 @@ Under Florida law, e-mail addresses are public record. If you do not want your e
 
 This notice is intended for students, employees, volunteers, contractors and applicants and is made in compliance with FL Statute 119.071(5).  Polk State College collects your SSN for use in performance of the College’s duties and responsibilities for the following purposes: classification of accounts; identification and scholarship reporting; financial aid processing; athletics recruiting; accreditation of programs; and reporting to a receiving agency or governmental entity where the disclosure is necessary to perform its duties and responsibilities. Social Security numbers are also used as a unique numeric identifier in certain cases and may be used for search purposes. Federal Law requires that we protect social security numbers from disclosure to unauthorized parties. Students and employees are assigned Polk State College identification numbers to assist in protecting their identities.
 
-The chart listing the College areas that collect Social Security numbers and the laws that mandate or authorize their collection are in the [SSN Collection Details](http://www.polk.edu/wp-content/uploads/SSN_CollectionUsage.pdf) pdf.
+The chart listing the College areas that collect Social Security numbers and the laws that mandate or authorize their collection are in the [SSN Collection Details](http://www.polk.edu/wp-content/uploads/ssn_collection_details.pdf) pdf.
