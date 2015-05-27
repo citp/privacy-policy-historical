@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the transfast.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008063536id_/https%3A//www.transfast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfast.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527063150id_/https%3A//www.transfast.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | transfast
 
-Policy Effective as of June 20, 2014.
+[ ](https://web.archive.org/)
 
-TRANSFAST Remittance LLC, a Delaware Corporation (“TRANSFAST”, “we”, “our”) takes your Privacy very seriously. This Privacy Policy applies to the Site, www.TRANSFAST.com.   ‘Site’, by definition for this agreement includes our Service application(s) available via internet/web access, mobile and smart phones, tablets, or any other technology that allows you to access the Service, which exists now or in the future.
+Policy Effective as of February 11, 2015
+
+TRANSFAST Remittance LLC, a Delaware Corporation (“TRANSFAST”, “we”, “our”) takes your Privacy very seriously. This Privacy Policy applies to the Site, www.TRANSFAST.com.   ‘Site’, by definition for this agreement includes our Service application(s) available via internet/web access, mobile and smart phones, tablets, or any other technology that allows you to access the Service, which exists now or in the future.This privacy policy describes how TRANSFAST Remittance LLC collects and uses the personal information you provide on our web site: [www.transfast.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 We are committed to protecting our customers' privacy and security. This Privacy Statement explains what personal information we collect about you, with whom we share it, and how you [The user of the Service] can direct us not to share certain information with certain parties. "Personal Information" refers to information such as name and email that can be used to identify an individual. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions.
 
-TRANSFAST has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+TRANSFAST has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, [contact us](mailto:customersupport@transfast.com).  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
@@ -20,15 +22,17 @@ We may collect the following information about you, which may include non-public
 •    Information that we lawfully obtain from third parties, such as identity verification services and credit reporting agencies;  
 •    Information that we indirectly obtain from you, such as information about the hardware and software you use when accessing the Service, your IP address, phone number and geolocation data obtained from your mobile device, the pages you access on this website, and other websites that you visit prior to accessing the Service.
 
-We may also use "cookies" to track your use of this website. A cookie is a small data file that we may place on your computer to identify you when you return to the website. You are free to decline our cookies if your browser permits, but doing so may interfere with your use of the Service. The information we store in the cookie is not PII (Personally Identifiable Information) but a number that we generate and could not be used to lookup a user's PII without the proprietary TRANSFAST system.
+Technologies such as: COOKIES, beacons, tags and scripts are used by TRANSFAST and our partners [such as marketing, website, IVR and account verification and security verification partners], affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We also use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by TRANSFAST only and does not cover the use of cookies by any third-party.
+We use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-Our third party partners may also employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
+We use COOKIES to enhance and simplify the user experience on our home page and throughout our site, to remember users’ settings (e.g. language preference, preferred country of remittance, and for authentication). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We also may choose to partner with third party ad networks to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partners may use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, verify security, and to improve marketing, analytics, or site functionality.]
 
-(Google AdSense/Adwords) We may choose to use Google AdSense to publish ads for and on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: http://www.google.com/privacy_ads.html.  
+(Google AdSense/Adwords) We may choose to use Google AdSense to publish ads for and on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>.
+
+We also may choose to partner with third party ad networks to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partners may use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.  
 **  
 Why We Collect Information**  
 We collect information for the following purposes:  
@@ -41,7 +45,7 @@ We collect information for the following purposes:
 •    To send transaction alerts to you and/or the recipient of your remittance
 
 **How We Share Information with others**  
-We do not sell or rent the information we collect to third parties for their promotional purposes unless we receive your permission to do so. Nevertheless, we may share information about you (including nonpublic, non-personally identifiable information) with:  
+We do not sell, share or rent the information we collect to third parties for their promotional purposes unless we receive your permission to do so. Nevertheless, we may share information about you (including nonpublic, non-personally identifiable information) with:  
 •    Third-party service providers under contract with TRANSFAST that help us with our business operations, such as transaction processing, fraud prevention, collections, email communications, live chat and marketing. These service providers are authorized to use your personal information only as necessary to provide these services to us.  
 •    Third-parties that we partner with to offer additional products and services, such as long-distance telephone minutes, but only when you elect to receive information about those additional products and services.  
 •    In the event of the sale, acquisition or merger of some or all of our assets, your personal information might be a part of the transferred assets. We shall notify you in the event of such an occurrence by placing a notice on our website.  
@@ -59,6 +63,14 @@ The servers TRANSFAST uses to store your information are protected both physical
 
 All TRANSFAST employees pass financial and criminal background checks as a condition of employment.
 
+**Testimonials**  
+We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at customersupport@transfast.com
+
+**R** **eferrals**  
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name, email address and phone number.  We will automatically send your friend a one-time email inviting him or her to visit the site. TRANSFAST  stores  this information for the sole purpose of sending this one-time email, and for tracking the success of our referral program. 
+
+Your friend may contact us at customersupport@transfast.com, or click the "Unsubscribe" button at the end of the email  to request that we remove this information from our database.
+
 **Choices You Can Make About Our Use of Your Information**  
 Federal and state laws allow you to restrict the sharing of your personal information in certain instances. However, these laws also state that you cannot restrict other types of sharing. Because we have chosen to refrain from certain types of data sharing, the only type of sharing of your personal information that you may restrict is as follows:  
 •    If, after giving us your permission to share your personal information with third parties, with whom we market our jointly offered products, you later decide that you no longer want us to share such information, you may contact us by email or by mail at TRANSFAST, attn: Customer Service, 44 Wall Street, 4th Floor, New York, NY 10005, USA.  
@@ -67,13 +79,11 @@ Federal and state laws allow you to restrict the sharing of your personal inform
 Third Party Sites and Additional Policy Information**  
 The Site may contain links to other web sites. TRANSFAST Remittance LLC is not responsible for the privacy practices or the content of these other web sites. We encourage you to familiarize yourself with the privacy practices of these other sites prior to submitting your personal information to them.
 
-With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us.
-
-Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are/were visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. **
+Our Web site includes Social Media Features, such as the Facebook, Linkedin and Twitter buttons and Widgets or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are/were visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. **
 
 CONTACT US
 
-** Questions, notifications, requests for refunds or further information can be sent to TRANSFAST, as follows: ****
+** Questions, notifications, requests for refunds or further information can be sent to TRANSFAST, as follows:
 
 **Phone:  
 **1-888-973-6383   
@@ -87,5 +97,6 @@ Attn: Customer Service
 44 Wall Street, 4th floor  
 New York, NY 10005, USA
 
+  
   
 
