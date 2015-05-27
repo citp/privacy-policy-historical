@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220085108id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527213745id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -6,15 +6,9 @@ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering sys
 
  **Privacy & Security**
 
-[](https://privacy.truste.com/privacy-seal/KingLinen/validation?rid=e7cf2269-f764-4fd9-945f-2939cfc67a97 "TRUSTe online privacy certification")
-
 **Information Collection and Use**
 
 KingLinen is committed to protecting your privacy. We have established this Privacy Policy to communicate our information practices pertaining to the use of the personal information you submit to us. This Privacy Policy applies exclusively to the Site [www.kinglinen.com](http://www.kinglinen.com/) . Personal Information refers to information such as name, or email that can identify a person.
-
-[KingLinen](http://www.kinglinen.com/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, http://www.kinglinen.com.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at CustomerService@KingLinen.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) .
 
 We collect information from you when you place an order on our site or subscribe to our mailing list. We do not sell, trade, or otherwise transfer to outside partners your personally information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep your information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
