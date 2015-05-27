@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biofaces.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105014312id_/http%3A//www.biofaces.com/privacity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biofaces.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527203409id_/http%3A//www.biofaces.com/privacity) for the most accurate reproduction.*
 
 # Privacy Policy - Biofaces - Bring Nature Closer
 
