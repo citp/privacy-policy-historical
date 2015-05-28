@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northpark.edu privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126150203id_/http%3A//www.northpark.edu/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpark.edu privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528150431id_/http%3A//www.northpark.edu/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - North Park University - Christian, Urban, Intercultural
 
