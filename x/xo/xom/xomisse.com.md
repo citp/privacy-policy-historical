@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xomisse.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025143453id_/http%3A//xomisse.com/about/disclaimer-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xomisse.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529014416id_/http%3A//xomisse.com/about/disclaimer-policies) for the most accurate reproduction.*
 
 # Disclaimer, Copyright + Policies | xomisse
 
@@ -10,7 +10,7 @@ XOMISSE is an educational and informational resource for bloggers based on perso
 
 © Elaine Malone 2013-2014 All Rights Reserved. Unless otherwise stated all content on [XOMISSE](http://xomisse.com/ "XOMISSE") by Elaine Malone is protected by Copyright. 
 
-You **may NOT** re-distribute, modify, publish, reproduce, sell, create derivative works from or commercially exploit my content without my prior written consent. If wanting to feature an article you may quote a short snippet from the post which MUST link back to the original post on XOMISSE. You **may NOT** post the entire blog post, step-by-step instructions, code or any written material without prior permission. To share downloadable material please link to the original post of content or original page containing download link. If you would like to re-post content on your site or use content commercially, please email me at contact[at]xomisse[dot]com for a license.
+You **may NOT** re-distribute, modify, publish, reproduce, sell, create derivative works from or commercially exploit my content without my prior written consent. If wanting to feature an blog post / article you may quote a **short snippet** from the post which **MUST** link back to the original post on XOMISSE. You **may NOT** post the entire blog post, step-by-step instructions, code or any written material without prior permission. This is monitored and action will be taken if you are found to be in violation. To share downloadable material please link to the original post of content or original page containing download link. If you would like to re-post content on your site or use content commercially, please email me at contact[at]xomisse[dot]com for written permission and a license.
 
 ## Privacy Policies
 
