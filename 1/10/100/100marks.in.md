@@ -1,62 +1,96 @@
-> *The following text is extracted and transformed from the 100marks.in privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108093812id_/http%3A//www.100marks.in/News/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100marks.in privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528181922id_/http%3A//www.embibe.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy »
+# Embibe.com - Privacy policy
 
-To avail certain information/services from 100Marks users are required to provide some personal details like – Name, Address, Sex, Age, Email id etc., and the like. (All required information is Service Dependent). The Information supplied enables to improve the content and service. If you choose not to provide us with certain personal information, we may not be able to provide you with the information/services you require, or of the desired quality we prefer to provide.
+### INTRODUCTION
 
-**Use of Cookies**
+We, at 'Indiavidual Learning Private Limited' are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
-“Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. There are many myths circulating about cookies, but you should know that cookies are only read by the server that placed them, and are unable to do such things as run programs on your computer, plant viruses or extract your personal information. The use of cookies is very common on the Internet and 100Marks.in’s use of cookies is similar to that of such sites as Yahoo!, CNN.com and other reputable online companies.  
-First and foremost, you can rest assured that no personally identifiable information (“PII”) about you (e.g., name, address, etc.) is gathered or stored in the cookies placed by the 100Marks.in site and, as a result, none can be passed on to any third parties.  
-Cookies allow us to serve you better and more efficiently, and to personalize your experience at our site. 100Marks.in uses cookies to personalize your experience on the 100Marks.in site, and with respect to advertisements. As to the former, these types of cookies allow you to log in without having to type your log – in name each time (only your password is needed. None of this information is passed to any third party, and is used solely by us to provide you with a better user experience on 100Marks.in site.  
-A cookie may also be placed by our advertising server. Such cookies are used only for purposes of tracking the effectiveness of advertising served by us on our site and no PII is gathered from you by the use of these cookies, nor is this information shared with any third parties. Similarly, a cookie may be placed by our third – party advertising companies. These companies may use aggregated statistics about your visits to this and other web sites in order to provide advertisements about related goods and services that you may be interested in. The information they collect does not include your PII.  
-The third – party advertising companies may also employ technology that is used to measure the effectiveness of ads. Any such information is anonymous. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. No PII is collected during this process. The information is anonymous, and does not link online actions to an identifiable person. If you would like more information, and want to explore the option of not having this information collected by third – party advertisers.  
-Most Web browsers automatically accept cookies. Of course, by changing the options on your web browser or using certain software programs, you can control how and whether cookies will be accepted by your browser. 100Marks.in supports your right to block any unwanted Internet activity, especially that of unscrupulous websites. However, blocking 100Marks.in cookies may disable certain features on the 100Marks.in site, and may make it impossible to purchase or use certain services available on the 100Marks.in site. Please note that it is possible to block cookie activity from certain websites while permitting cookies from sites you trust, like 100Marks.in.  
-**Collection of Information:**
+"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit Indiavidual Learning Private Limited's Web pages without telling us who you are or revealing any Personal Information about yourself.
 
-100Marks compiles information through various sources/channels like:  
-Your feedback, suggestions & queries via emails or letters.  
-From publicly available sources of information like directories,newspapers, magazines.  
-From other Telecommunication & information service providers.  
-Your business associates, etc.  
-Usage of Information:  
-The information collected via various channels & media are well handled & managed:
+### COOKIES AND OTHER TRACKING TECHNOLOGIES
 
-  * To serve you better.
-  * To verify your identity.
-  * To inform you how to use our services better
-  * To conduct appropriate checks for credit-worthiness & other related financial matters.
-  * To keep you updated with changes in our products & services.
-  * To assist you to understand your audience and confirm the value of advertising on our website.
-  * To promote & market your services to our other users.
-  * To contact you from time to time about the updated versions of your content which would provide the users such features that would benefit you.
-  * To provide response to your inquiry or to process your requests.
-  * To research, develop, improvise & monitor the performance of the structure of our website.
-  * To deliver user-friendly website to the interest of our users.
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.
+
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
+
+### THIRD PARTY SERVICES
+
+Third parties provide certain services available on www.embibe.com on Indiavidual Learning Private Limited's behalf. 'Indiavidual Learning Private Limited' may provide information, including Personal Information, that 'Indiavidual Learning Private Limited' collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which 'Indiavidual Learning Private Limited' maintains its Web site and mailing lists. 'Indiavidual Learning Private Limited' will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Indiavidual Learning Private Limited's behalf.
+
+'Indiavidual Learning Private Limited' does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Indiavidual Learning Private Limited's behalf unless such transfer is legally required. Similarly, it is against Indiavidual Learning Private Limited's policy to sell Personal Information collected online without consent.
+
+### YOUR CONSENT
+
+By using this Web site, you consent to the terms of our Online Privacy Policy and to Indiavidual Learning Private Limited's processing of Personal Information for the purposes given above as well as those explained where 'Indiavidual Learning Private Limited' collects Personal Information on the Web.
+
+### INFORMATION SECURITY
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
+
+We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
+
+### UPDATING YOUR INFORMATION
+
+We provide mechanisms for updating and correcting your personally identifying information for many of our services.
+
+### INFORMATION SHARING AND DISCLOSURE
+
+'Indiavidual Learning Private Limited' does not rent, sell, or share personal information about you with other people (save with your consent) or non- affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances
+
+We provide the information to trusted partners who work on behalf of or with 'Indiavidual Learning Private Limited' under confidentiality agreements. These companies may use your personal information to help 'Indiavidual Learning Private Limited' communicate with you about offers from 'Indiavidual Learning Private Limited' and our marketing partners. However, these companies do not have any independent right to share this information.
+
+We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+
+We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Indiavidual Learning Private Limited's terms of use, or as otherwise required by law.
+
+We transfer information about you if 'Indiavidual Learning Private Limited' is acquired by or merged with another company. In this event, 'Indiavidual Learning Private Limited' will notify you before information about you is transferred and becomes subject to a different privacy policy.
+
+'Indiavidual Learning Private Limited' displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
+
+'Indiavidual Learning Private Limited' does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+
+'Indiavidual Learning Private Limited' advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
+
+'Indiavidual Learning Private Limited' works with vendors, partners, advertisers, and other service providers in different industries and categories of business.
+
+### CONFIDENTIALITY AND SECURITY
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+
+We have physical, electronic, and procedural safeguards that comply with the laws prevalent in India to protect personal information about you.
+
+### CHANGE YOUR PERSONAL INFORMATION
+
+To update, correct or review your Personal Information that was previously provided by you to use, you have the following options:
+
+If you have signed up with us and have an account, you may make the changes on your account profile page by signing in and saving the said changes/ modfications. Any change/ modification made by you, will be reflected on the website.
+
+In the alternative, you may write to us at the following address:
+
+Indiavidual Learning Pvt Ltd.  
+Unit 5, Jetha Compound, Byculla East Mumbai - 400027  
+Maharashtra, India  
 
 
+Please mention the changes to be made clearly and we will try and update the requite changes/ modifications as requested by you in your letter.
 
-**Disclosure of Information:**
+### SENSITIVE INFORMATION
 
-In order to deliver the services you require and for the purposes set out above, ’100Marks’ may disclose your personal information to entities outside ’100Marks’ The disclosure may be done:
+Kindly do not send us or disclose any sensitive personal information for example information relating to your racial or ethnic origin, political opinions, religion or other beliefs, health etc. on or through the site or otherwise to us.
 
-  * For the purpose of marketing, customer enquiry.
-  * For Billing & Debt recovery functions.
-  * To credit providers, bankers.
-  * To our professional consultants, advisors, auditors & lawyers.
-  * To other telecommunication & information service providers.
-  * To promote your business.
+### AUTHORIZED STATEMENT
 
+This Privacy Policy represents the sole privacy statement of our practices with respect to the collection of Personal Information through the Sites and our use and disclosure of this information. Any other statement or summary with respect to any privacy policy published by any third party shall have no binding or legal effect whatsoever.
 
+### CHANGES TO THIS PRIVACY POLICY
 
-For market research ’100Marks’ takes reasonable steps to ensure confidentiality and privacy obligations towards protection of your personal information.  
-**Links to other Sites**
+'Indiavidual Learning Private Limited' reserves the right to update, change or modify this policy at any time. The policy shall come to effect from the date of such update, change or modification.
 
-100Marks.in gives links to other websites. Such sites are governed by their own respective privacy policies, which are beyond our control. Once you leave our site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can’t find the privacy policy of any of these sites via a link from the site’s homepage/Other pages, you should contact the site directly for more information. When we present information to our advertisers — to help them understand our audience and confirm the value of advertising on our website — it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with’ MeraCareerGuide’ we contact you from time to time for updation of your content to provide the users such features that we believe may be useful to you.  
-**Security**
+Indiavidual Learning Private Limited shall not be liable for any loss or damage sustained by reason of any disclosure (inadvertent or otherwise) of any information concerning the user's account and / or information relating to or regarding online transactions using credit cards / debit cards and / or their verification process and particulars nor for any error, omission or inaccuracy with respect to any information so disclosed and used whether or not in pursuance of a legal process or otherwise.
 
-All information gathered by us is securely stored. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is accessible to anyone with Internet access.  
-**Change of Policy**
+'Indiavidual Learning Private Limited' welcomes your comments regarding this privacy statement at the contact address given at the website. Should there be any concerns about contravention of this Privacy Policy, 'Indiavidual Learning Private Limited' will employ all commercially reasonable efforts to address the same.
 
-We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected,regardless of what the new policy may be.  
-This policy is effective as of June 27,2013. Any material changes in the way 100Marks.in uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices via email to info@100Marks.in. Please reference the privacy policy in your subject line. 100Marks.in will attempt to respond to all reasonable concerns or inquiries as soon as possible.
+Note: The terms in this agreement may be changed by Indiavidual Learning Private Limited at any time. Indiavidual Learning Private Limited is free to offer its services to any client/prospective client without restriction
