@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the univerteam.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925060219id_/http%3A//univerteam.com/wp-content/uploads/2014/03/Univerteam-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the univerteam.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528163252id_/http%3A//univerteam.com/wp-content/uploads/2014/10/Univerteam-Privacy-Policy-2.pdf) for the most accurate reproduction.*
 
-# Univerteam, Ltd
+# Univerteam Limited -
 
-Univerteam, Ltd - Privacy Policy – 6th March, 2014
-Univerteam Ltd (hereinafter referred to as “UNIVERTEAM”, "Company" or "We")
-respect your privacy and are committed to protecting it through our compliance with
-this policy.
+Univerteam Limited - Privacy Policy – 15th September, 2014
+Univerteam Limited - #604, Tower A, New Trade Plaza 6 - On Ping Street, Shatin, N.T.
+Hong Kong, (hereinafter referred to as “UNIVERTEAM”, "Company" or "We") respect
+your privacy and are committed to protecting it through our compliance with this
+policy.
 This policy and any other documents referred to in it describes the personal
 information that we collect from you, or that you provide on this website
 www.univerteam.com           (which may link to other Univerteam websites,
@@ -64,11 +65,11 @@ your computer. Use of cookies help us to improve our Website and to deliver a be
 and more personalized service by enabling us to:
 
 
-    Estimate our audience size and usage patterns.
-    Store information about your preferences, allowing us to customize our
+   • Estimate our audience size and usage patterns.
+   • Store information about your preferences, allowing us to customize our
        Website according to your individual interests.
-    Speed up your searches.
-    Recognize you when you return to our Website.
+   • Speed up your searches.
+   • Recognize you when you return to our Website.
 Cookies are generally safe, as they only identify your computer. Accepting a cookie
 does not provide access to your computer or any Personally Identifiable Information
 about you, other than the information you may choose to share. Other servers
