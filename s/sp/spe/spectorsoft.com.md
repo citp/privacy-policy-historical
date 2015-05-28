@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709132750id_/http%3A//www.spectorsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528082422id_/http%3A//www.spectorsoft.com/privacy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy | SpectorSoft
 
