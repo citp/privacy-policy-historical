@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myproperty.ph privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004101108id_/http%3A//www.myproperty.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproperty.ph privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529001344id_/http%3A//www.myproperty.ph/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MyProperty
+# Privacy Policy | MyProperty.ph
 
 ## A. Overview
 
@@ -77,12 +77,15 @@ MyProperty.ph may use third parties to provide certain services for any of the f
   * **Payment gateway service**
   * **Web analytics**
   * **Newsletters**
+  * **Facebook Integration**
 
 
 
 Third party service providers are prohibited from using your personal information for any other purpose.
 
 Currently, MyProperty.ph uses Google Analytics as a third party web analytics service, which tracks the traffic of the site. It is used for internal use in analyzing the usage and performance of MyProperty.ph. Google Analytics does not have access to the personal information of our users.
+
+MyProperty.ph has Facebook Integration, as a third party social network service, where users can choose to share their ads on MyProperty.ph via Facebook.
 
 MyProperty.ph also uses iContact, a third-party e-mail newsletter service. It is used to design and release e-newsletters, and does not have access to the personal information of our users. 
 
@@ -96,7 +99,7 @@ MyProperty.ph occasionally updates the Privacy Policy to reflect the feedback fr
 
 We encourage our users to read and review this Privacy Policy and stay well informed of how we protect you as our users. If in any way you believe that we have not adhered to this policy please contact us. MyProperty.ph welcomes your comments and inquiries regarding this Privacy Policy.
 
-Telephone no.: **+63 (2) 451-8888 local 1122 or 1146.**
+Telephone no.: **+63 (2) 505-1833.**
 
 E-mail: **info@myproperty.ph**
 
