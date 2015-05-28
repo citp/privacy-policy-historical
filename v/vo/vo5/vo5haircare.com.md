@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vo5haircare.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626071105id_/http%3A//www.vo5haircare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vo5haircare.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528081829id_/http%3A//www.vo5haircare.com/privacy) for the most accurate reproduction.*
 
 # Privacy | VO5 Haircare
 
