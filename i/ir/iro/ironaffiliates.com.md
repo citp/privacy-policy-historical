@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironaffiliates.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021094551id_/http%3A//www.ironaffiliates.com/sites/all/themes/ninesixty/documents/Privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironaffiliates.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528111236id_/http%3A//www.ironaffiliates.com/sites/all/themes/ninesixty/documents/Privacy_policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY
 
