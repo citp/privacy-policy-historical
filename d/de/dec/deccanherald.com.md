@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deccanherald.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007222107id_/http%3A//www.deccanherald.com//pdfs/Privacy-Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deccanherald.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529010339id_/http%3A//www.deccanherald.com//pdfs/Privacy-Statement.pdf) for the most accurate reproduction.*
 
 # 
 
