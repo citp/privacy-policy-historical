@@ -1,93 +1,355 @@
-> *The following text is extracted and transformed from the steveharvey.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611085216id_/http%3A//www.premiereinteractive.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steveharvey.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528064400id_/https%3A//www.steveharvey.com/doc/privacy-policy.pdf) for the most accurate reproduction.*
 
-# Clear Channel - Terms of Use Agreement
+# ll Privacy Policy
 
-UPDATED AS OF: January 27, 2014
+  ll Privacy Policy
+  This Privacy Policy explains how we collect, use, disclose and transfer the information you
+  provide when you interact with us including (but not limited to) via our websites, downloadable
+  applications, such as games, interactive TV and Mobile Apps (as defined below) that link to this
+  policy (“online services”). This policy only applies to those online services that link to this
+  policy. This policy also tells you how we use tracking technologies, cookies and browsing data
+  we collect from your use of the online services, the measures we take to protect the security of
+  the information you provide to us through the online services, and how you can contact us if you
+  have any questions regarding the online services (including if you want to unsubscribe from our
+  services or update your contact details).
+  1. SCOPE AND CONSENT
+  When you use the online services, you are contracting with STEVE HARVEY RADIO
+  NETWORK, INC. If you reside outside of the United States, STEVE HARVEY RADIO
+  NETWORK, INC is your data controller. By using the online services, you expressly consent to
+  our collection, use, disclosure, and retention of your personal information as described in this
+  Privacy Policy.
+  2. TYPES OF INFORMATION WE COLLECT
+  Our goal is to collect and use information to deliver effective and personalized services which
+  take your interests and preferences into account, as well as for our legitimate business needs and
+  interests.
+  There are two main types of information we collect about users of our online services that
+  include (but are not limited to) the following:
+• Information that identifies you: This is commonly referred to as “personal information” and
+  includes, for example, information that you provide to us such as your name, home address, age,
+  gender, telephone number, e-mail address, payment information (including your credit card
+  number), and/or photos or video footage of you; and
+• Information that relates to you, but on its own does not identify you: Such as information about
+  your Internet connection, the equipment you use to access our online services and information
+  relating to your usage of those services.
+  There are six main categories of information we collect about users of our online services users
+  that include (but are not limited to) the following:
+• Contact/Registration information: for example, your telephone number or e-mail address, where
+  you have subscribed to a service such as program updates; name, age, gender or interests when
+  you register for an account on one of our online services; delivery address where you are buying
+  a product or service through an online service; or your age, location or delivery address if you
+  choose to enter a competition or sweepstake offered through the online services.
 
-Clear Channel Broadcasting, Inc. ("Clear Channel", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter and Facebook pages, and Mobile Application ("Platforms").
 
-## INFORMATION COLLECTED ON OUR PLATFORMS
+• Transaction information: when you order products or services through the online services, you
+  may provide information such as your credit / debit card details and other personal information
+  related to that transaction.
+• Information that you provide on message boards and other user forums: including your
+  username, images or videos. Please use caution when posting to messages boards or other
+  forums, as information posted to these portions of the online services is public information.
+• Information about your equipment: for example, the type and version of your device’s
+  operating system or web browser, your device ID, and in some instances, your device’s location.
+• Information about your interactions with the online services: for example, your Internet
+  protocol or (IP) address, pages that you visit within the online services, gameplay data or other
+  information collected through Cookies and Tracking Technologies.
+• Information that is collected from social networks and publicly available data: if you visit our
+  online services on a device through which you also interact with social networks or if you
+  interact with us through a social media function such as a plug-in (for example, a Facebook
+  “like” button) then you may be permitting us to have on-going access to some information from
+  your social network profile (such as your name, email address, your friend list, photo, age,
+  gender, location, birthday, social networking ID, current city, the people/sites you follow, and so
+  forth). If you don’t want a social network to collect the information about you as described
+  above, or you don’t want to a social network to share it with us and other third parties, please
+  review the privacy settings and instructions of the applicable social network before you visit and
+  use our online services.
+  We may also receive other information (e.g., content viewed and information about the
+  advertisements within the content you have been shown or may have clicked on, etc.) from your
+  interaction with the online services. You agree that we may share your video viewing with, or
+  obtain information about your video viewing from, analytics providers and advertising partners
+  and third-party social media sites for two years or until you withdraw your consent. The
+  information we have access to from the third-party services varies by service and is controlled by
+  your privacy settings on that service and by your consent. Information that may be passed to
+  analytics providers and advertising partners may be via cookies and tracking technologies. Please
+  see our Cookies and Tracking Technologies page for information, including your choices in
+  relation to these technologies. By associating an account managed by a third party with your
+  STEVE HARVEY RADIO NETWORK, INC account and authorizing us to have access to this
+  information, you agree that we may collect, use, and store information from third-party services
+  in accordance with this Privacy Policy.
+  3. HOW WE COLLECT YOUR INFORMATION
+  We collect your information when you use our online services in three main ways:
+• Directly from you, when you provide it to us: for example, when you request products or
+  services from us, when you register with us, respond to surveys, contact us or otherwise interact
+  with us. Please remember that if others use devices into which you remain logged in, they may
+  share information with us as if they were you, and they may have access to information that you
+  have previously provided us. To protect your privacy, please log out from the online services
+  you use from shared devices.
+• Automatically, when you use our online services: we collect information through the use of
+  Cookies and Other Technologies and when you download our Mobile Apps. Please see our
 
-Information You Provide To Us
 
-We or our service providers may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), or payment information (such as account or credit card number). The types of Personal Information collected may vary depending on your use of the features of the Platforms. For example, your credit card number and other payment related information may be collected in connection with your purchase of products and/or services through the Platforms. We post customer testimonials/video testimonials on our Platforms which may contain personally identifiable information. If we want to post a customer's name along with their testimonial, we obtain the customer's consent via email prior to posting the testimonial.
+  Cookies and Tracking Technologies, and Mobile Apps pages for further information, including
+  your choices in relation to the use of these technologies.
+• From third parties including social networks, other online services, from publicly available
+  records, and from our trusted business partners.
+  4. HOW WE USE YOUR INFORMATION
+  We use information to:
+• provide the services you have requested, including sweepstakes, contests or promotions;
+• create an online services account if you have requested one;
+• personalize the services offered by us or our affiliates, including providing personalized
+  advertising on some online services (see options for opting-out of personalized advertising here);
+• respond to your inquiries, requests, and comments;
+• allow you to participate in the interactive features of our online services, where you choose to do
+  so;
+• provide technical support for the online services;
+• prevent fraud or potentially illegal activities (including copyright infringement) on the online
+  services;
+• protect the safety of users and others on the online services;
+• enforce our online services’ terms of service;
+• understand how online services are used so that we can continuously improve them, and the
+  services we provide to you;
+• send you service-related communications, including announcements and administrative
+  messages;
+• send you newsletters and information about products, services and promotions relating to us
+  and/or our business partners or other organizations that we work with, in accordance with your
+  communication preferences. Subject to legal restrictions (including consent where necessary) we
+  may also use technology (such as Facebook Custom Audiences) to deliver advertising to you on
+  other sites based on the email address or other personal information you provided to us or
+  through the use of information we received from third parties. Please see Your Rights and
+  Choices for further information about how you can control these updates;
+• if you use an STEVE HARVEY RADIO NETWORK, INC e-commerce website to send gifts,
+  we may use the email addresses that you provide to send your gifts, provide other
+  communications relating to such transaction, as well as any further communications as may be
+  authorized by the recipients;
+• implement social networking features you have activated; and
+• we may combine all the information we collect or receive about you for any of the foregoing
+  purposes.
+  5. HOW WE SHARE YOUR INFORMATION
+  Information shared among STEVE HARVEY RADIO NETWORK, INC affiliates.
+• When you choose to register for an account on any STEVE HARVEY RADIO NETWORK,
+  INC online service: the information you provide may be shared with STEVE HARVEY RADIO
+  NETWORK, INC affiliates and used to help us better tailor our services, products and
+  advertising to you. Note that you may be registered for different accounts with different STEVE
 
-Information Collected Automatically
 
-**Usage Information.** Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used ("Usage Information"). Usage Information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the Platforms, such as song history, interaction with friends and group activities. This information helps us keep our Platforms fresh and interesting to our visitors and allows us to tailor content to a visitor's interests.
+  HARVEY RADIO NETWORK, INC group companies or in different areas of our business.
+  Please visit the account settings page of the applicable online service if you wish you “de-
+  register” from your account or for more information, or e-mail privacy@steveharvey.com.
+• Information collected automatically: this information collected from your interaction with the
+  online services via Cookies and Tracking Technologies, which may or may not include personal
+  information, may be shared with STEVE HARVEY RADIO NETWORK, INC affiliates for the
+  purposes of research, analysis, marketing and ad-serving. For information about this and your
+  choices see Cookies and Tracking Technologies.
+  Information shared with trusted third parties:
+• Service providers or business partners that we have retained to perform certain business-
+  related functions on our behalf: Such as for research and analytics, hosting websites, fulfilling
+  transactions, maintaining databases, administering contests, providing technology services and
+  platforms, and processing payments. These parties are provided only with the personal
+  information or other information they need to perform their functions and can only use and
+  disclose that information as is necessary to perform the services on our behalf, or to comply with
+  legal requirements. We take steps to ensure that third-party service providers will take
+  appropriate steps to protect your personal information.
+• Social Networks: You may interact with certain features of the online services that cause
+  information to be published to your social networks. For example, you may click on a Facebook
+  “like” button, which publishes to your Facebook account that you “like” one of our TV shows or
+  movies. On pages of the online services that contain social network functionality, the social
+  network providing the functionality may be able to collect information about you, even if you
+  don’t use that functionality. For example, if a page within the online services contains a
+  Facebook “like” button, Facebook may be able to collect data about your visit to that page, even
+  if you don’t click on the “like” button. To control this sharing of information, please review the
+  privacy policy of the relevant social network and/or log out of it before you use the online
+  services.
+• For Mobile Apps: In addition, in relation to Mobile Apps we may share your usage and personal
+  information with operating system, platforms providers, carriers and/or other mobile apps either
+  operated by us or third parties. Please see our Mobile Apps section for additional detail.
+  Information we share with advertisers (including Targeted Advertising)
+  Some online services, including Mobile Apps, may be supported with advertising, and collect
+  data to help the online services serve ads. This helps keep the cost of online services low or free.
+  We may work with advertisers and third-party advertising networks, who may receive
+  information about how you interact with advertising provided in the online service. We may also
+  work with consumer data resellers that buy and/or sell information to other companies for
+  multiple purposes including offering products and services that may interest you. These third
+  parties may view, edit or set their own tracking technologies/cookies. The use of these
+  technologies by these third parties is subject to their own privacy policies and is not covered by
+  this Privacy Policy. They might also obtain information about other applications that you have
+  downloaded to your mobile device, the mobile websites you visit and other information about
+  you or your device in order to analyze and serve anonymous targeted advertising on the online
 
-**Device Identifier** We or our service providers automatically collect your IP address or other unique identifier ("Device Identifier") for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, track users' web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use.
 
-**Cookies; Pixel Tags** The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information). A pixel tag may tell your browser to get content from another server.
+  services and elsewhere. For information about your choices relating to these activities, see
+  Cookies and Tracking Technologies.
+  Information shared with other parties
+  In addition, we may disclose your personal information collected through the online services to
+  law enforcement agencies, government/regulatory bodies, and content protection organizations
+  to:
+• Protect our legal rights, privacy or safety, and those of our subsidiaries, affiliates, employees,
+  agents and contractors or other individuals;
+• Protect the safety and security of visitors to our online services or other properties;
+• Protect against fraud or other illegal activity or for risk management purposes;
+• Respond to inquiries or requests from government, regulatory, law enforcement or public
+  authorities;
+• Permit us to pursue available remedies, commence, participate in, or defend litigation, or limit
+  the damages that we may sustain;
+• Comply with the law including with subpoenas, search warrants, court orders, and other legal
+  process; or
+• Enforce applicable terms of service
+  Sale or transfer of all or part of our business or assets
+  We reserve the right to transfer your usage information and personal information in the event we
+  sell or transfer all or a part of our business or assets so that the buyer can continue to offer you
+  the online services. We will make commercially reasonable efforts to provide you with
+  reasonable notice of such transfer, or as otherwise required by law. If you do not want your
+  personal information to be processed following such a transfer, you should contact the
+  subsequent owner of the business.
+  6. CHILDREN
+• Except where otherwise indicated we do not knowingly collect or store any personal information
+  from children under the age of 13. We use an age-gate to make certain features unavailable for
+  use by children under 13, and we do not knowingly collect personal information from children
+  under 13 in connection with those features. Where required, we will provide notice to and obtain
+  verifiable consent from parents or guardians for the collection of personal information from
+  children under 13, and provide parents or guardians the ability to request access to personal
+  information we have collected from their children. We encourage parents and guardians to spend
+  time with their children online and to be fully familiar with the online services used by their
+  children. If a parent or guardian becomes aware that his or her child under 13 has provided us
+  with information without his or her consent, he or she should contact us at
+  privacy@steveharvey.com. As required by law, we will delete such information from our files
+  within a reasonable time.
+• For certain websites covered by this Privacy Policy and involved in e-commerce (for example,
+  www.fandango.com), you may only be able to use that site and any related services if you are 18
+  years of age or older, or the age of majority in your jurisdiction of residence, whichever is older.
+  If you are under the age of 18 or the age of majority in your jurisdiction of residence, you may
+  only use that site and any related services with the involvement of a parent or legal guardian.
 
-To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser's cookie folder, please refer to your browser's help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, we will honor your request, however please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your Clear Channel account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
-You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser.
+California minors under 18 years old may request the removal of any information that they
+posted to STEVE HARVEY RADIO NETWORK, INC sites by contacting
+privacy@steveharvey.com. Upon such request, STEVE HARVEY RADIO NETWORK, INC
+will anonymize or remove from public view any content posted by a minor to one of its websites,
+unless required by law to retain such content or information.
+7. HOW WE PROTECT YOUR INFORMATION
+We maintain procedural, technical and physical safeguards for our online services to help protect
+against loss, misuse or unauthorized access, disclosure, alteration or destruction of the personal
+information you provide via our online services. We also ask the service providers that help us
+deliver our online services to so the same. For example, we limit access to this information to
+authorized employees and contractors who need to know that information in order to operate,
+develop or improve our online services. Unfortunately, no transmission of data is guaranteed to
+be completely secure. It may be possible for third parties not under our control to intercept or
+access transmissions or private communications unlawfully. Therefore, any transmission of
+personal information to us is made at your own risk. If you believe that your interaction with us
+is no longer secure, please notify us using the contact details below.
+Usernames & Passwords
+It is important that you protect and maintain the security of any account and that you notify us
+immediately of any unauthorized use of any STEVE HARVEY RADIO NETWORK, INC
+account. Do not disclose your password to anyone else.
+8. YOUR RIGHTS AND CHOICES
+Communication Preferences and Opt-outs
+If you have subscribed to one or more of our email newsletters or are receiving them from us and
+you don’t want them anymore, you can unsubscribe. Select the “unsubscribe” link at the bottom
+of any message, by other means provided to unsubscribe, or using the contact details below, to
+unsubscribe from marketing and promotional e-mails and associated marketing delivered to you
+on third party services based on your subscription data. However, you cannot unsubscribe from
+some service related messages.
+Mobile Apps
+For additional information about your choices in relation to Mobile Apps including information
+on how to opt out of targeted advertising see the Mobile Apps policy.
+Advertising/Cookies and Similar Technologies
+For more information about your choices for cookies and similar technology (“Cookies and
+Tracking Technology”) including where such technology is used to provide targeted or other
+advertising on our online services please see our Cookies and Tracking Technologies policy.
 
-For more information on advertising using cookies and how to opt out of advertising cookies specifically, please see Advertising; How To Opt-Out below 
 
-## HOW WE USE THE INFORMATION WE COLLECT
+Access and Correction
+In addition to the functionality provided to you via the online services (such as using “account
+settings” for registered users), where legally required we provide online visitors with access to
+their personal information and the ability to review, update and correct it.
+Some access requests may be subject to a small fee. To help your privacy and security, we will
+take reasonable steps to verify your identity, such as requiring a password and user ID, and
+possibly photo ID before granting access to your personal information. Please contact
+privacy@steveharvey.com for more information about exercising these rights.
+Data Retention and Deletion
+We will retain your data for as long as you use the online services and for a reasonable time
+thereafter. If you’d like to delete, modify or update the data that you provided via the online
+services please use the settings on the online services or contact us at privacy@steveharvey.com
+and we will respond in a reasonable time. Please note that some or all of this data may be
+required in order for the online services to function properly, and we may be required to retain
+certain information by law.
+9. WHERE YOUR INFORMATION WILL BE USED
+STEVE HARVEY RADIO NETWORK, INC is based in the United States and may from time to
+time transfer your personal information to other countries and make it accessible to any of our
+affiliates and third-party service providers internationally. Where the transfer of information is to
+a country which does not provide an adequate level of information protection, STEVE HARVEY
+RADIO NETWORK, INC has taken steps to ensure that your personal information receives an
+appropriate level of protection.
+If you are located outside of the United States, please be aware that information we collect,
+including personal information, may be transferred to, and processed, stored and used in the
+United States. Under United States law, your personal information may be subject to access
+requests from governments, courts, or law enforcement in the United States.
+By using our online services and providing your personal information to us you understand and
+agree that your personal information may be sent to other countries including those which do not
+provide an equivalent level of information protection as the European Economic Area (EEA).
+10. COOKIES AND OTHER TECHNOLOGIES
+For more information about the use of Cookies and Other Technology on our online services
+(including your opt-out choices) please see the Cookies and Tracking Technologies policy.
+Through our Cookies and Tracking Technologies policy, we provide opt-out choices. The effect
+of an opt-out will be to stop targeted advertising, but it will still allow the collection of usage
+data for certain purposes (e.g., research, analytics and internal online services operation
+purposes).
 
-We use the information we collect about and from you for a variety of business purposes such as to respond to your questions and requests; provide you with access to certain areas and features of the Platforms such as your favorite stations, your musical preferences, songs you have listened to, shared playlists and your interaction with other users; verify your identity; communicate with you about your account and activities on the Platforms and, in our discretion, changes to any Clear Channel policy; market research, Platform analytics and operations; tailor content, advertisements, and offers we serve you; improve the Platforms; comply with license obligations; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent. We may collect location based information about you to provide you with radio stations in your area and to tailor advertisements and offers we serve to you.
 
-## SHARING OF INFORMATION
+11. MOBILE APPS
+For more information about our information collection and use practices with respect to online
+services that are mobile applications (“Mobile Apps”) see the Mobile Apps policy.
+12. IMPORTANT INFORMATION
+Notice to California Residents:
+Residents of the State of California may request a list of all third parties to which our online
+service has disclosed certain personal information (as defined by California law) during the
+preceding year for those third parties’ direct marketing purposes. If you are a California resident
+and want such a list, please contact us at Legal Department, 7322 SW Freeway, Suite 2010
+Houston, Texas 77074, US. For all requests, you must put the statement “Your California
+Privacy Rights” in the body of your request, as well as your name, street address, city, state, and
+zip code. In the body of your request, please provide enough information for us to determine if
+this applies to you. You need to attest to the fact that you are a California resident and provide a
+current California address for our response. Please note that we will not accept requests via the
+telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or
+sent properly, or that do not have complete information.
+California Business & Professions Code Section 22575(b) (as amended effective January 1,
+2014) provides that California residents are entitled to know how STEVE HARVEY RADIO
+NETWORK, INC responds to “Do Not Track” browser settings. STEVE HARVEY RADIO
+NETWORK, INC does not currently take actions to respond to Do Not Track signals because a
+uniform technological standard has not yet been developed. We continue to review new
+technologies and may adopt a standard once one is created.
+Links to Other Websites:
+The online services may contain links to third-party websites for your convenience and / or
+information (for example, to sites which are provided by our third-party vendors). If you access
+other websites using the links provided, you may leave STEVE HARVEY RADIO NETWORK,
+INC’s online services. When you access these other sites, even ones that may contain the
+STEVE HARVEY RADIO NETWORK, INC logo, please understand that the operators of these
+websites may collect information from you which will be used by them in accordance with their
+Privacy Policy and Terms of Use, which may differ from ours and we do not endorse or control
+the policies or practices of that website.
+You should always read the Privacy Policy of any website you access carefully in order to
+understand their specific privacy and information usage practices.
+13. UPDATES TO OUR PRIVACY POLICY
+From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in
+the law or technology, or changes in our practices regarding information collection and use. If
 
-Except as described here, we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Notice and in the following circumstances:
 
-**Third Parties Providing Services On Our Behalf** We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate our Platforms, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions, contests, sweepstakes, surveys or provide marketing or promotional assistance and "powered by" partners or partners in co-branded sites. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties to provide you with product information and promotional and other offers.
-
-**Your Agreement To Have Your Personal Information Shared** While on our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party.
-
-**Business Transfers** We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. In the event that Clear Channel is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
-
-**Legal Disclosure** We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public.
-
-## INFORMATION WE RECEIVE FROM THIRD PARTIES
-
-We may receive information about you from third parties. For example, if you are on another website and you opt-in to receive information from Clear Channel, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information and Personal Information such as lists of your friends, "likes", comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on our Platform to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party website or interactive service. We may also receive information about you from third party data providers. We may supplement the information we collect about you through the Platforms with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-## YOUR PRIVACY RIGHTS, CHOICE AND ACCESS
-
-You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at [privacy@iheartradio.com](mailto:privacy@iheartradio.com?subject=Clear%20Channel%20Privacy%20Statement); (iii) contacting us by mail at Clear Channel Digital Customer Service, 200 E. Basse Road, San Antonio, TX 78209; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
-
-If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@iheartradio.com](mailto:privacy@iheartradio.com?subject=Clear%20Channel%20Privacy%20Statement). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
-
-## ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT
-
-We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. Such providers may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to non-Personal Information such as your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is subject to their own privacy policies, not ours.
-
-If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information by visiting the [NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp). Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides a mechanism to opt out of receiving cookies from those companies. Please note that if you opt-out of targeted advertising, we may still track your visits to the Platforms for our own analytics, operations and security purposes.
-
-## CHILDREN
-
-We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
-
-## SECURITY OF YOUR INFORMATION
-
-We take information security seriously; however, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk.
-
-## OTHER SITES
-
-The Platforms may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page).
-
-The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice.
-
-## CONSENT TO PROCESSING AND TRANSFER OF INFORMATION
-
-The Platforms are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Clear Channel makes no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.
-
-## CHANGES
-
-We may update this Privacy Notice to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-## CONTACT US
-
-If you have any questions or concerns about this Privacy Statement, the practices of the Platforms, or your experiences with the Platforms, please contact us at:  
-Attn: Privacy Questions  
-Clear Channel Radio Digital  
-200 E. Basse Road  
-San Antonio, TX 78209
-
-Re: Clear Channel Privacy Statement
-
-E-Mail: [privacy@iheartradio.com](mailto:privacy@iheartradio.com?subject=Clear%20Channel%20Privacy%20Statement)
+we make material revisions to the way we collect or use your personal information so that we are
+using it for purposes or sharing data with third parties that you have not consented to, we will
+provide you with notice of those changes and may do so by either: (1) announcing the change on
+the home page of our website or (2) taking other actions as we deem appropriate under the
+circumstances, including without limitation, posting the revised version of this Privacy Policy
+online. You agree that we may notify you about material changes in the way we treat personal
+information by placing a notice on our online services. You should check our online services
+frequently for updates.
+You can determine when this Privacy Policy was last revised by referring to the “Last Updated”
+or similar legend at the top of this page. Any changes to this Privacy Policy will become
+effective upon posting of the revised Privacy Policy on the Internet, accessible through this site.
+By continuing to use this online service following such changes, you will be deemed to have
+agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be
+amended from time to time, in whole or in part, please do not continue using our online services.
+14. CONTACT US
+For any queries in relation to this Privacy Policy please contact us at privacy@steveharvey.com ,
+STEVE HARVEY RADIO NETWORK, INC Legal Department 7322 SW Freeway, Suite 2010,
+Houston, Texas 77074, US.
+For enquiries from outside of the US please contact us at privacy@steveharvey.com , STEVE
+HARVEY RADIO NETWORK, INC Legal Department 7322 SW Freeway, Suite 2010,
+Houston, Texas 77074, US.
+	  
