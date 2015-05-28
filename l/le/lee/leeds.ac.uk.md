@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leeds.ac.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220012535id_/http%3A//www.leeds.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeds.ac.uk privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528023819id_/http%3A//www.leeds.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy notice - Privacy notice - University of Leeds
 
