@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the marinemax.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194213id_/http%3A//www.marinemax.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinemax.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529001204id_/http%3A//www.marinemax.com/privacy-policy) for the most accurate reproduction.*
 
-# MarineMax Privacy Policy
-
-Share 
+# MarineMax.com Privacy Policy
 
 **Effective Date: March 26, 2013**
 
@@ -34,7 +32,7 @@ We use the information we collect for a variety of purposes, including to:
 
 
 
-While on our website, you may choose to receive emails from MarineMax. Additionally while on our website, if you fill out a form requesting more information, you will be added to our email list. You may also sign up to receive our emails by contacting us at [marketing@marinemax.com](mailto:marketing@marinemax.com) or 727-531-1700. Upon signing up for MarineMax emails, you will receive the MarineMax monthly newsletter and emails about news, events, partner offers and other information we think will be or interest to you. As we learn more about you and your boating interest, we will strive to send you emails that are relevant to your boating lifestyle and interests.
+While on our website, you may choose to receive emails from MarineMax. Additionally while on our website, if you fill out a form requesting more information, you will be added to our email list. You may also sign up to receive our emails by contacting us at [marketing@marinemax.com](mailto:marketing@marinemax.com) or 727-531-1700. Upon signing up for MarineMax emails, you will receive the MarineMax monthly newsletter and emails about news, events, partner offers and other information we think will be of interest to you. As we learn more about you and your boating interest, we will strive to send you emails that are relevant to your boating lifestyle and interests.
 
 **Sharing of Information**
 
@@ -49,7 +47,7 @@ You may choose to opt out from the emails we send to you through these methods:
   * In commercial emails that we send you, you may use the “unsubscribe” or “update your profile” included at the bottom of the email.
   * You may send an email to marketing@marinemax.com.
   * You may call 727-531-1700 and ask to speak to a team member in the marketing department.
-  * You may send mail to the following address: Marketing, 18167 US Highway 19 N, Suite 300, Clearwater, FL 33764.
+  * You may send mail to the following address: Marketing, 2600 McCormick Drive, Suite 200, Clearwater, FL 33764.
 
 
 
@@ -58,7 +56,7 @@ After being added to our email list, you also may choose the types of emails you
   * In commercial emails that we send you, you may use the “update your profile” included at the bottom of the email.
   * You may send an email to marketing@marinemax.com.
   * You may call 727-531-1700 and ask to speak to a team member in the marketing department.
-  * You may send mail to the following address: Marketing, 18167 US Highway 19 N, Suite 300, Clearwater, FL 33764.
+  * You may send mail to the following address: Marketing, 2600 McCormick Drive, Suite 200, Clearwater, FL 33764.
 
 
 
@@ -66,7 +64,7 @@ After being added to our email list, you also may choose the types of emails you
 
   * You may send an email to marketing@marinemax.com.
   * You may call 727-531-1700 and ask to speak to a team member in the marketing department.
-  * You may send mail to the following address: Marketing, 18167 US Highway 19 N, Suite 300, Clearwater, FL 33764.
+  * You may send mail to the following address: Marketing, 2600 McCormick Drive, Suite 200, Clearwater, FL 33764.
 
 
 
