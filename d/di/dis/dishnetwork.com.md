@@ -1,71 +1,118 @@
-> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201025543id_/http%3A//dishnetwork.com/content/aboutus/privacy_notice/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528051524id_/http%3A//www.dish.com/downloads/legal/Website_Privacy_Statement%25203_1_15_final.pdf) for the most accurate reproduction.*
 
-# DISH Network -- Subscriber Privacy Notice
+# DISH Websites Privacy Statement
 
-[Spanish Privacy Policy](https://web.archive.org/downloads/pdf/programming/espanol/DISH_Network_Subscriber_Privacy_Notice_Spanish.pdf)
+DISH Websites Privacy Statement
+Welcome to the DISH.com, mydish.com or dishanywhere.com website of DISH Network
+L.L.C. and its subsidiaries (collectively, “DISH,” “we,” or “us”). This privacy statement
+discloses the privacy practices for visitors to those websites and any other website
+operated by DISH (collectively, the “websites”).
+Children
+DISH does not knowingly collect personally identifiable information from children under
+the age of thirteen and does not wish to collect any such information.
+Information Collection and Use
+The information collected by DISH falls into two categories: (1) information voluntarily
+supplied by you as a visitor to and/or user of the website and (2) tracking information
+recorded as you navigate through the website. Some of this information is personally
+identifiable information, but much of it is not. Personally identifiable information is
+information that identifies you specifically; it does not include aggregate data or data
+that does not identify you or other particular persons.
+To make use of some features on our website, (for example, in order to process
+requests for new services or make changes to existing products and services) you might
+need to register and provide certain information as part of the registration process. We
+may ask for your name, email address, street address, zip code, and credit card or
+financial account information. We might also request information about your residence
+and number of televisions. Supplying this information is entirely voluntary, but if you
+choose not to supply the information, we may be unable to provide you with the
+products and services we make available to other users of and visitors to our websites.
+When you submit any personally identifiable information over the website, DISH (i) will
+use the information for the purposes described at the time you submit it, and (ii) may
+use the information to contact you to make you aware of other products and services of
+interest. If you prefer to remain anonymous, you are still free to take advantage of the
+publicly available content on our websites without registration.
+In connection with the standard operation of DISH’s systems, certain non-personally
+identifiable information about visitors to the websites is recorded. This information is
+used primarily to tailor and enhance visitors’ experience using the website. We may use
+this information in an aggregate, non-personally identifiable form to, among other
+things, measure the use of our websites and determine which products and services are
+the most popular with website visitors.
+When an individual visits any Internet site, a unique address called an “IP address” is
+recorded. DISH archives the log files in order to create aggregate statistical reports,
+detect errors at the website, and for security reasons.
+Reports for advertisement clicks are shared with the advertiser and advertising
+networks as are cookies and calls. This information may be stored in DISH databases
+and/or those of advertisers and advertising networks. However, advertisers usually
+                                              1
 
-As a subscriber to the DISH Network satellite television service provided by EchoStar, you are entitled under Section 338(i) of the Communications Act of 1934 (the “Communications Act”) to know the following:
 
-  * the limitations imposed by the Communications Act upon satellite carriers in the collection and disclosure of personally identifiable information about subscribers;
-  * the nature of personally identifiable information we collect and the nature of the use of such information;
-  * the nature, frequency, and purpose of any disclosure of personally identifiable information which may be made and to whom;
-  * the period during which we maintain personally identifiable information;
-  * the process for gaining access to your personally identifiable information; and
-  * your rights under the Communications Act concerning personally identifiable information and its collection and disclosure.
+have this information already since their server captures it when a person clicks on an
+ad. This is done to verify billing for the ads as well as for targeting and performance
+measurement.
+DISH uses Google Analytics to collect information about traffic to this website. Google
+Analytics is a web analysis service provided by Google. Google Analytics utilizes the
+data collected to track and examine the use of websites, including ours, to prepare
+reports on its activities and share them with other Google services. You can opt out of
+having your information collected by Google Analytics by visiting here.
+This website also uses the Google AdWords remarketing service to advertise on third
+party websites to previous visitors to our sites. It could mean that we advertise to
+previous visitors who have not completed a task on our site. This could be in the form of
+an advertisement on the Google search results page, or a site in the Google Display
+Network. Third-party vendors, including Google, use cookies to serve ads based on
+someone’s past visits to other websites. Of course, any data collected will be used in
+accordance with our own privacy policy and Google’s privacy policy. You can set
+preferences for how Google advertises to you using the Google Ad Preferences page.
+Disclosure of Personally Identifiable Information
+We consider the personally identifiable information contained in our business records to
+be confidential. We may sometimes disclose personally identifiable information about
+you (including to our affiliates or to others who work for us) when it is necessary to
+conduct a legitimate business activity related to the services we provide to you, and for
+other reasons.
+We also may be required by law or legal process to disclose certain personally
+identifiable information about you to lawyers and parties in connection with litigation and
+to law enforcement personnel. For example, we may be required by law to disclose
+personally identifiable information about you without your consent and without notice in
+order to comply with a valid legal process such as a subpoena, court order, or search
+warrant.
+Cookies
+Internet “cookies” may be used to customize our websites to the viewer. A cookie is a
+standard feature of browser software. Cookies help us tailor and personalize our
+websites. These cookies remain on your system and are automatically retrieved when
+you visit at a later time. These cookies contain only information concerning the type of
+customer (current or potential) and frequently visited pages. Typically, no other
+personal information is stored in cookies.
+Cookies may also be placed on your system by an Internet advertising network in order
+to track the viewing of ads displayed on DISH websites. Because it is not required for
+you to identify yourself, cookies cannot be associated with you if you elect not to log in
+or identify yourself in any other way.
+Customers who are uncomfortable with the use of cookies have the option of disabling
+                                             2
 
-In this notice, the terms “EchoStar,” “DISH Network,” “we,” “us,” or “our” refer to the operating company subsidiary of EchoStar Communications Corporation that owns and/or operates the DISH Network direct broadcast satellite television service. The term “you” refers to you as a subscriber to our satellite television service.
 
-**The kind of information that the Communications Act and this notice apply to.**  
-The Communications Act applies to personally identifiable information that you have furnished to EchoStar, or that we have collected using the satellite system, in connection with the provision of our satellite television service or other service. Personally identifiable information is information that identifies a particular person; it does not include aggregate data that does not identify a particular person or persons.
-
-**The kind of personally identifiable information that EchoStar collects.**  
-The Communications Act authorizes EchoStar as a satellite carrier to use its satellite facilities to collect personally identifiable information concerning any subscriber for the following purposes:
-
-  * in order to obtain information necessary to render our satellite television service or other services to our subscribers; and
-  * to detect unauthorized reception of satellite signals. 
-
-The Communications Act prohibits EchoStar from using its satellite facilities to collect personally identifiable information concerning any subscriber for any purposes other than those listed above without the subscriber's prior written or electronic consent. In order to provide reliable, high quality service to you, we keep regular business records containing information about you that may constitute personally identifiable information. These records generally include the following information: your name, service address, billing address, e-mail address, telephone number, social security number, bank account number, credit card number, and other similar account information. We may also collect and maintain other information about your account, such as billing and payment history, service information, customer correspondence and communications records, records indicating the number of television sets and devices connected to our satellite facilities, and the programming service options you have chosen. Additionally, if you rent your residence, we may have a record of whether landlord permission was required prior to installing our satellite facilities as well as your landlord's name and address. When you use our interactive or other transactional television services, the satellite system automatically collects certain information on your use of these services. Most of this information is used to carry out a particular request you make using your remote control or set-top box and is not personally identifiable information. This information may include information required to change your television channel, review listings in an electronic program guide, and pause or fast forward through certain programs, among other information. It may also include other information such as the time you actually use our services and the use of other features of our services, and which menus and menu screens are used most often and the time spent using them. If you watch a pay-per-view program or purchase a product or service, for example, the system may collect certain personally identifiable information such as account and billing-related information related to the pay-per-view programs or other products or services ordered so that you may be properly billed for them. We may also combine your personally identifiable information, with personally identifiable information obtained from third parties for the purpose of creating enhanced databases or business records and we may use these databases and these business records in marketing and other activities related to our satellite service and other services. We also maintain records of research concerning subscriber satisfaction and viewing habits, which are obtained from subscriber interviews and questionnaires.
-
-**The ways that EchoStar uses personally identifiable information.**  
-We collect, maintain, and use personally identifiable information as permitted by the Communications Act. We use this information primarily to conduct business activities related to providing you with our satellite television service and other services, and to help us detect theft of service. Generally speaking, we use personally identifiable information in connection with billing and collections, administration, surveys, marketing, service delivery and customization, maintenance and operations, and fraud prevention. We also use personally identifiable information to:
-
-  * install, operate, provide, and maintain our satellite television service and other services;
-  * confirm you are receiving the level(s) of service requested and are properly billed;
-  * identify you when changes are made to your account or services;
-  * inform you of new products or services that may be of interest to you;
-  * understand the use of, and identify improvements to, our services;
-  * detect unauthorized reception of our services;
-  * determine whether applicable policies and terms of service are being violated;
-  * configure satellite television service-related devices;
-  * comply with law; and
-  * as otherwise necessary to provide the service.
-
-**Disclosure of personally identifiable information to others.** EchoStar considers the personally identifiable information contained in our business records to be confidential. The Communications Act authorizes EchoStar to disclose personally identifiable information concerning any subscriber for the following purposes if the disclosure is:  
-
-
-  * necessary to render, or conduct a legitimate business activity related to, the satellite service or other services provided to the subscriber;
-  * required by law or legal process (as described below in this notice); or
-  * of the names and addresses of subscribers for “mailing list” or other purposes (subject to each subscriber's right to prohibit or limit this disclosure as described below in this notice).
-
-The Communications Act prohibits us from disclosing personally identifiable information concerning any subscriber for any purposes other than those listed above without the subscriber's prior written or electronic consent. We may disclose personally identifiable information as provided for in the Communications Act when it is necessary to render, or conduct a legitimate business activity related to the satellite television service we provide to you. Generally, these disclosures involve billing and collections, administration, surveys, marketing, service delivery and customization, maintenance and operations, and fraud prevention. We may also collect, use, and disclose information about you in non-personally identifiable or aggregate formats, such as ratings surveys and service usage and other statistical reports, which do not personally identify you, your particular viewing habits, or the nature of any transaction you have made over the satellite television system. The frequency of any disclosure of personally identifiable information varies in accordance with our business needs and activities. The Communications Act authorizes EchoStar to disclose limited personally identifiable information to others, such as charities, marketing organizations, or other businesses, for satellite or non-satellite “mailing list” or other purposes. From time to time we may disclose your name and address for these purposes. Any “mailing list” and related disclosures that we may make are limited by the Communications Act to disclosures of subscriber names and addresses where the disclosures do not reveal, directly or indirectly, (i) the extent of any viewing or other use by the subscriber of a satellite service or other service provided by us; or (ii) the nature of any transaction made by the subscriber over any facilities used by us. As provided for in the Communications Act, we may disclose personally identifiable information about you to our affiliates or to others who work for us, such as outside auditors, professional advisors, service providers and vendors, potential business merger, acquisition, or sale partners, and regulators when the disclosure is necessary to render, or conduct a legitimate business activity related to the satellite television service or other services we provide to you. We also may be required by law or legal process to disclose certain personally identifiable information about you to lawyers and parties in connection with litigation and to law enforcement personnel or to third parties such as, charities, marketing organizations, or other businesses, in connection with disclosures made for “mailing list” or other purposes as described above in this notice. If we (or our parent company) enter into a merger, acquisition, or sale of all or a portion of our assets, in most instances our subscribers' personally identifiable information will be one of the items transferred as part of the transaction.
-
-**Limiting EchoStar's use and disclosure of personally identifiable information.**  
-You have the right at any time to prohibit or limit disclosure of your personally identifiable information for “mailing list” purposes as described above in this notice by contacting us by telephone at 1-888-367-1428 or 1-888-367-1429 (Spanish). You can visit us at www.dishnetwork.com/myaccount. If you prefer to contact us in writing, you may send a written request to DISH Network, Attn: CSS/PRIVACY, PO Box 6633 Englewood, CO 80112. Be sure to include your name and address and your DISH Network account number. The written request should be signed by the person who is identified in our billing records as the subscriber. If you have a joint account, a request by one party will apply to the entire account. If you have multiple accounts, your notice must separately identify each account covered by the request.
-
-**When EchoStar is required to disclose personally identifiable information by law.**  
-We make every reasonable effort to protect your privacy as described in this notice. Nevertheless, we may be required by law to disclose personally identifiable information about you without your consent and without notice in order to comply with a valid legal process such as a subpoena, court order, or search warrant. The Communications Act requires EchoStar as a satellite carrier to disclose personally identifiable information to a third party or governmental entity in response to a court order. If the court order is sought by a governmental entity, the Communications Act requires that the satellite subscriber be afforded the opportunity to appear and contest in a court proceeding relevant to the court order any claims made in support of the court order. At such a proceeding, the Communications Act requires the governmental entity to offer clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case. In addition, under the authority of an administrative subpoena, state welfare agencies may obtain the names, addresses, and certain other information of individuals as they appear in the subscriber records of the satellite company with respect to those who owe, or are owed, welfare or child support, for example. This information may be obtained without a court order and does not require that a subscriber be given notice of and the opportunity to contest the disclosure. We may also use or disclose personally identifiable information about you without your consent to protect our customers, employees, or property, in emergency situations, and to enforce our rights under our terms of service and policies, in court or elsewhere.
-
-**Protection of personally identifiable information.**  
-We follow industry-standard practices to take such actions as are necessary to prevent unauthorized access to personally identifiable information by a person other than the subscriber or us. However, we cannot guarantee that these practices will prevent every unauthorized attempt to access, use, or disclose personally identifiable information.
-
-**Maintaining personally identifiable information.**  
-EchoStar maintains personally identifiable information about you in our regular business records while you are a subscriber to our satellite television service or other services. We also maintain this information for a period of time after you are no longer a subscriber if the information is necessary for the purposes for which it was collected or to satisfy legal requirements. These purposes typically include business, legal, or tax purposes. If there are no pending requests, orders, or court orders for access to this personally identifiable information, we will destroy the information after it is no longer necessary for the purposes for which it was collected.
-
-**Examining personally identifiable information.**  
-You may examine your personally identifiable information that we collect and maintain in our regular business records. In most cases, the personally identifiable information contained in these records is billing and account information. If you wish to obtain a copy of the information, please mail a written notarized request for a copy of your personally identifiable information to DISH Network, Attn: CSS/PRIVACY, PO Box 6633 Englewood, CO 80112, giving us a reasonable period of time to locate and prepare the information for your review. All requests must include your DISH Network account number. We will mail the information to you at your current billing address. You will only be permitted to request records that contain personally identifiable information about you and no one else. In order to protect you and ensure that the request is being made by the true person to whom the information pertains, we will only process notarized requests. You will be provided a reasonable opportunity to correct errors if any of the personally identifiable information is inaccurate.
-
-**Recourse for violation of your privacy rights.**  
-If you believe that you have been aggrieved by any act of ours in violation of the Communications Act, you may enforce the limitations imposed on us by the Communications Act with respect to your personally identifiable information through a civil lawsuit brought in a United States District Court seeking damages, attorney's fees, and litigation costs reasonably incurred. Other rights and remedies may be available to you under federal or other applicable laws, as well.
-
-**Changes to this notice.**   
-As required by the Communications Act, we will provide you with a copy of our subscriber privacy notice annually. We may modify this notice at any time. We will notify you of any material changes through written, electronic, or other means as permitted by law.
+them on their browser. DISH in no way discriminates against website visitors who have
+disabled cookies on their browser.
+Notice to California Residents
+DISH does not recognize “Do Not Track” requests from internet browsers.
+Other websites
+To make our website more valuable to our visitors, we may offer some features in
+conjunction with other partners. Our website may also include links to other websites
+whose privacy policies and practices may differ from ours. Once you leave our website,
+the use of any information that you provide is governed by the privacy policy of the
+operator of the website that you are visiting. We recommend that you read the privacy
+policy of such other website.
+Security
+All information gathered on our websites is stored within a DISH database accessible
+only to DISH and its specifically authorized contractors and vendors. However, we
+cannot guarantee the complete security of our database, nor can we guarantee that
+information you provide will not be intercepted while being transmitted to us over the
+Internet.
+Changes to this Privacy Statement
+We may change this notice at any time. If we do so, we will post the changes on our
+website. By continuing to use the website after we post any changes, you accept and
+agree to this privacy statement, as modified.
+Privacy Policy for DISH Subscribers
+This privacy statement discloses the privacy practices for certain DISH websites only.
+We supply a copy of the privacy notice that applies to our satellite television subscribers
+separately. You may view that privacy notice anytime by visiting www.dish.com/legal
+and clicking on the “Subscriber Privacy Notice” link.
+Version: January 2015
+                                             3
