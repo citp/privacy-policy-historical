@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalismedia.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228145753id_/http%3A//www.globalismedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalismedia.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528025338id_/http%3A//www.globalismedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Globalis Media Inc.
 
@@ -38,4 +38,4 @@ You also agree that you have provided notice to, and obtained consent from, any 
 
 CONTACT US
 
-For more information or if you have questions or concerns regarding this Privacy Policy, please contact us via the button below. Alternatively, you may send written correspondence to the following address: Globalis Media Inc., Att: Privacy Dept., Keppel Center #906, Cebu Business Park, Cebu City 6000, Philippines.
+For more information or if you have questions or concerns regarding this Privacy Policy, please contact us via the button below. Alternatively, you may send written correspondence to the following address: Globalis Media Inc., Att: Privacy Dept., Keppel Center #1002B, Cebu Business Park, Cebu City 6000, Philippines.
