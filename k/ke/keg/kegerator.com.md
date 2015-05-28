@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kegerator.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121123622id_/http%3A//www.kegerator.com/cs%253A-other-information%253A-privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegerator.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528063857id_/http%3A//www.kegerator.com/cs%253A-other-information%253A-privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # CS: Other Information: Privacy Policy
 
 ## Your Personal Information
 
-We at CompactAppliance.Com recognize your right to privacy and are committed to protecting your privacy. We use the information that we collect on our site to provide you with a superior shopping experience. When you order, we will ask for information that will ensure that your order is processed in an accurate, secure, and timely manner. Information we ask for includes your name, e-mail address, contact phone number, mailing and billing address, and credit card number and expiration date. In fulfilling your order, we only share your personal information with outside parties to the extent necessary to fulfill your order. We may also run contests on our web site in which we ask visitors for contact information that includes name, address, and e-mail address. This information is used to contact contestants if they should win. We will use your email to periodically send you our e-mail newsletter that contains special offers and updates about our products and services. You may opt-out of receiving these emails and you may modify your contact information at any time. 
+We recognize your right to privacy and are committed to protecting your privacy. We use the information that we collect on our site to provide you with a superior shopping experience. When you order, we will ask for information that will ensure that your order is processed in an accurate, secure, and timely manner. Information we ask for includes your name, e-mail address, contact phone number, mailing and billing address, and credit card number and expiration date. In fulfilling your order, we only share your personal information with outside parties to the extent necessary to fulfill your order. We may also run contests on our web site in which we ask visitors for contact information that includes name, address, and e-mail address. This information is used to contact contestants if they should win. We will use your email to periodically send you our e-mail newsletter that contains special offers and updates about our products and services. You may opt-out of receiving these emails and you may modify your contact information at any time. 
 
 You will receive administrative emails regarding your order that cannot be opt-ed out of. The first email you receive will serve as receipt of your order. The information included in this email consists of sales price, order number, and shipping information. You will receive a second email when your order ships. This will contain all tracking information so that you will be able to locate the status of your order at any time. 
 
@@ -12,7 +12,7 @@ We protect your account information against unauthorized access or release. We d
 
 ## Cookies
 
-To personalize your experience at CompactAppliance.Com, we use a feature on your Internet browser called a cookie. Cookies are small files that your web browser places on your computer's hard drive. We use cookies to keep track of your shopping cart and power other services like writing a review. By disabling cookies you will not be able to use the shopping cart feature on the [CompactAppliance.com](http://www.compactappliance.com/) web site. 
+To personalize your experience we use a feature on your Internet browser called a cookie. Cookies are small files that your web browser places on your computer's hard drive. We use cookies to keep track of your shopping cart and power other services like writing a review. By disabling cookies you will not be able to use the shopping cart feature on the web site. 
 
 ## Log Files
 
@@ -20,19 +20,19 @@ Your IP address is used to help identify you and your shopping cart. We use IP a
 
 ## Live Chat Help
 
-CompactAppliance.com incorporates a live chat option on its website. A third party service provider powers the chat functionality. Information obtained through this order form of communication may not be used or shared with the third party hosting the software. 
+We use a live chat option on this web site. A third party service provider powers the chat functionality. Information obtained through this order form of communication may not be used or shared with the third party hosting the software. 
 
 ## Links to/from Other Sites
 
-To enhance your shopping experience, the CompactAppliance.Com site may have links to other sites on the internet that are owned by third party vendors and other third parties (External Sites), or you may come to CompactAppliance.com from a link from an external site. The other web sites will have their own rules on privacy that you should review. [CompactAppliance.com](http://www.compactappliance.com/) is not responsible for the privacy policies of external sites. 
+To enhance your shopping experience, this site may have links to other sites on the internet that are owned by third party vendors and other third parties (External Sites), or you may come to this site from a link from an external site. The other web sites will have their own rules on privacy that you should review. This web site is not responsible for the privacy policies of external sites. 
 
 ## Correcting, Updating, Deactivating
 
-There are several ways to update information you have provided CompactAppliance.Com: 
+There are several ways to update information you have provided to this site: 
 
-  * Email [info@CompactAppliance.com](mailto:info@CompactAppliance.com) to update or change any information you may have provided us. 
+  * Email our corporate office at [service@livingdirect.com](mailto:service@livingdirect.com) to update or change any information you may have provided us. 
   * Email [optout@CompactAppliance.com](mailto:optout@CompactAppliance.com) to be removed from our newsletter 
-  * Call toll free at [1-800-297-6076](tel:1-800-297-6076)
+  * Call toll free at 1-866-950-8710 
   * You may also respond to the email with "Remove" or "Unsubscribe" in the subject line to be removed from any future newsletters. 
 
   
@@ -40,19 +40,17 @@ There are several ways to update information you have provided CompactAppliance.
 
 ## Sweepstakes
 
-CompactAppliance.com offers sweepstakes on its web site. Any information collected in registering for these sweepstakes is used to contact individuals should they win. We will also use your email address to send you a newsletter containing information on specials and events. You may opt-out of receiving notices by indicating "Remove" or "Unsubscribe" in the subject line. 
+This web site offers sweepstakes. Any information collected in registering for these sweepstakes is used to contact individuals should they win. We will also use your email address to send you a newsletter containing information on specials and events. You may opt-out of receiving notices by indicating "Remove" or "Unsubscribe" in the subject line. 
 
 ## Security
 
-This website takes every precaution to protect our users' information. Our shopping cart incorporates industry-standard secure server software (Secure Socket Layers / SSL) provided by [Verisign](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.CompactAppliance.com&lang=en) into sensitive sections of our store. All online transactions at CompactAppliance.Com are handled using this encryption technology. When you enter your credit card number into the order form, it is transmitted across the internet in an encrypted (scrambled) form, then decoded when it gets out. For added security, we also encrypt the credit card number when it is stored on disk. 
+This website takes every precaution to protect our users' information. Our shopping cart incorporates industry-standard secure server software (Secure Socket Layers / SSL) provided by McAfee, into sensitive sections of our store. All online transactions at our web site are handled using this encryption technology. When you enter your credit card number into the order form, it is transmitted across the internet in an encrypted (scrambled) form, then decoded when it gets out. For added security, we also encrypt the credit card number when it is stored on disk. 
 
-To verify that we use Verisign SSL technology, you may click on the Verisign logo below: 
+To verify that we use SSL technology, you may click on the McAfee or Verisign logo at the bottom of this page or our shopping cart.
 
-[ ](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.CompactAppliance.com&lang=en)
+Paymentech Services, a state-of-the-art credit card verification service, keeps your transactions secure by encrypting all of your personal information while validating the transaction. We use RSA encryption technology to scramble your data so that it would be virtually impossible to break into. 
 
-Paymentech Services, a state-of-the-art credit card verification service, keeps CompactAppliance.Com's transactions secure by encrypting all of your personal information while validating the transaction. We use RSA encryption technology to scramble your data so that it would be virtually impossible to break into. 
-
-There are two ways to make sure you are browsing secure pages. Both Internet Explorer and Netscape Navigator indicate secure modes with a symbol - the image of a closed padlock. You will know the information is protected if the closed-lock symbol pops into view in the lower right or left-hand corner of your screen while you are checking it out. You can also verify secure pages by checking the address, or URL, listed on the scroll bar. If you spot an "s"after the "http" at the beginning of the address, you know that you're browsing in a secure environment. 
+There are two ways to make sure you are browsing secure pages. Most modern browsers like Internet Explorer, FireFox, Chrome, and Safari indicate secure modes with a symbol - the image of a closed padlock. You will know the information is protected if the closed-lock symbol pops into view in the lower right or left-hand corner of your screen while you are checking it out. You can also verify secure pages by checking the address, or URL, listed on the scroll bar. If you spot an "s"after the "http" at the beginning of the address, you know that you're browsing in a secure environment. 
 
 ## Federal Law Limits Your Liability
 
