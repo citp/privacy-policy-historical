@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806230628id_/http%3A//www.healthypawspetinsurance.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypawspetinsurance.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528225505id_/https%3A//www.healthypawspetinsurance.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Healthy Paws Pet Insurance Privacy Policy
 
@@ -41,7 +41,7 @@ We only disclose your information as necessary to effect, administer, or enforce
 
 From time to time, we may change this Privacy Policy. The effective date of this policy, as stated below, indicates the last time this policy was revised or materially changed. Checking the effective date below allows you to determine whether there have been changed since the last time you reviewed the policy. 
 
-Effective Date: 12/18/2013
+Effective Date: 6/1/2014
 
 Healthy Paws Pet Insurance LLC  
 P.O. Box 50034  
