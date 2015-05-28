@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golfgenius.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221032721id_/http%3A//www.golfgenius.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfgenius.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528025044id_/http%3A//www.golfgenius.com/privacy.html) for the most accurate reproduction.*
 
-# Golf Genius Software ::
+# Golf Genius ::
 
 ##  Effective Date: February 4, 2014 
 
