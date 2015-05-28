@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228191754id_/http%3A//www.citypages.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528191719id_/http%3A//www.citypages.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Minneapolis Privacy Policy
 
