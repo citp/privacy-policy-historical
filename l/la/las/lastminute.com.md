@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastminute.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220063610id_/http%3A//www.lastminute.com/site/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminute.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528181248id_/https%3A//www.lastminute.com/site/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | lastminute.com
 
@@ -7,7 +7,7 @@
 
 ### 1\. Who controls your information?
 
-Information collected by us is controlled by Last Minute Network Limited (trading as lastminute.com) (‘lastminute.com’, ‘we’, and ‘us’) with its registered office at 77 Hatton Garden EC1N 8JS, UK. 
+Information collected by us is controlled by LMnext UK Ltd (trading as lastminute.com) (‘lastminute.com’, ‘we’, and ‘us’) with its registered office at 77 Hatton Garden EC1N 8JS, UK.
 
   
 
@@ -48,7 +48,7 @@ lastminute.com may collect personal information about you in the following circu
 
 ### 3\. How do we use your information? 
 
-lastminute.com will use your information to provide you with a dynamic, personalised and secure service to offer you a truly rewarding online experience. In particular, we will use your information for the following general purposes as long as you have given us your consent: 
+lastminute.com will use your information to provide you with a dynamic, personalised and secure service to offer you a truly rewarding online experience. In particular, we will use your information for the following general purposes as long as you have given us your consent:
 
   * For registering your account with lastminute.com: We will use the information that you provide to us when you register as a member on the website to set up and maintain your account. We will send you a confirmation email notifying you that your account has been set up. We may also obtain information about you from other sources and add this to your account profile for example, updated delivery details from couriers. 
   
@@ -75,7 +75,7 @@ We are happy to say that we are not in the business of selling or renting your p
 
 
 
-Any personal information processed by our group companies will be in accordance with the terms of this Privacy Policy or similarly stringent conditions and as permitted under applicable data protection laws. We place contractual restrictions on our non-group third party partners who receive your personal information, to ensure that they use this in accordance with this Privacy Policy and applicable data protection laws. 
+Any personal information processed by our group companies will be in accordance with the terms of this Privacy Policy or similarly stringent conditions and as permitted under applicable data protection laws. We place contractual restrictions on our non-group third party partners who receive your personal information, to ensure that they use this in accordance with this Privacy Policy and applicable data protection laws.
 
 Please note that our group companies and third party suppliers may be established in countries that might not offer a level of protection for your personal information that is equivalent to the one offered in your country of residence. However, we will endeavour to protect all personal information we collect from you in accordance with strict data protection standards.
 
@@ -99,7 +99,7 @@ In order to process your data as described in this privacy policy, we may need t
 
 ### 6\. How do we keep your personal information secure?
 
-We use leading technological and security measures (electronic, physical and procedural) to ensure the safety and confidentiality of your personal information through collection, storage and disclosure. Such measures include maintaining a secure encryption based transmission system, intrusion detection and prevention software and virus protection software in respect of personal information. Other than as strictly required by our payment providers and by our credit card companies to process payments, lastminute.com reveals only the last 5 digits of your stored credit card number to authorised personnel only. 
+We use leading technological and security measures (electronic, physical and procedural) to ensure the safety and confidentiality of your personal information through collection, storage and disclosure. Such measures include maintaining a secure encryption based transmission system, intrusion detection and prevention software and virus protection software in respect of personal information. Other than as strictly required by our payment providers and by our credit card companies to process payments, lastminute.com reveals only the last 5 digits of your stored credit card number to authorised personnel only.
 
   
 
