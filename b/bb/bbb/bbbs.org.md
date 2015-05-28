@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226070052id_/http%3A//www.bbbs.org/site/c.9iILI3NGKhK6F/b.5960971/k.D130/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528060316id_/http%3A//www.bbbs.org/site/c.9iILI3NGKhK6F/b.5960971/k.D130/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Big Brothers Big Sisters
 
-## Privacy Notice Effective Date: May 1, 2006
+## Privacy Notice Effective Date: Jan. 1, 2015
 
 We at Big Brothers Big Sisters of America (“BBBS”) respect your concerns about privacy and value the trust you have placed in us. This Privacy Notice describes the types of personal information we collect, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. In addition, we describe the choices you can make about how we use the information you provide to us. We tell you how you can update your contact information, remove your name from our mailing list, or answer any questions you may have about our privacy practices.
 
@@ -34,7 +34,7 @@ The "help" portion of the toolbar on most browsers will tell you how to stop acc
 
 Does BBBS share the information it obtains about me with third parties?
 
-BBBS does not share personal information about you with any third parties for their own marketing purposes. We do share this information with service providers we have retained to perform services on our behalf, but these service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. We also may disclose information about you to other members of the BBBS family (such as our local agencies, which may have their own privacy policies) and as required by law.
+BBBS does not share personal information about you with any third parties for their own marketing purposes. We do share this information with service providers we have retained to perform services on our behalf who may have their own privacy policies that may apply, but these service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. We also may disclose information about you to other members of the BBBS family (such as our local agencies, which may have their own privacy policies) or to sponsorship partners solely with respect to tracking and enhancing campaigns in furtherance of our mission and as required by law.
 
 How does BBBS protect personal information?
 
@@ -68,4 +68,4 @@ If you have any questions about BBBS’s privacy practices, [click here](https:/
 
 99997.026302 NEW_YORK 177259v2
 
-DATED: May 1, 2006
+DATED: Jan. 1, 2015
