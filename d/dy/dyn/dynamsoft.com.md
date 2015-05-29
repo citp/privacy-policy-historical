@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903125734id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529195624id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -10,7 +10,7 @@ Dynamsoft Corporation collects contact information from customers at several dif
 
 **Information Using and Sharing**
 
-The information we collect during your registration process is used to notify users about new products and services or special events. If you do not wish to receive such email messages in the future, you may opt out of these communications by visiting our [unsubscribe page](https://web.archive.org/web/20140903125734id_/http%3A//www.dynamsoft.com/Subscribe/Unsubscribe.aspx). 
+The information we collect during your registration process is used to notify users about new products and services or special events. If you do not wish to receive such email messages in the future, you may opt out of these communications by visiting our [unsubscribe page](https://web.archive.org/web/20150529195624id_/http%3A//www.dynamsoft.com/Subscribe/Unsubscribe.aspx). 
 
 The information provided is not shared with any third parties for commercial or non-commercial purposes.
 
