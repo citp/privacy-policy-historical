@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singsale.com.sg privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925111846id_/http%3A//www.singsale.com.sg/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singsale.com.sg privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529034627id_/http%3A//www.singsale.com.sg/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # Singsale.com.sg - Privacy
 
@@ -40,7 +40,7 @@ In order to prevent unauthorised access or disclosure, we have put in place suit
 We never sell or rent your personal information. We may release personal information under the following circumstances:  
 
 
-  * Where release is required by law (for example, a subpoena) or regulation or is requested by a government agency;
+  * Where release is required by law (for example, a subpoena) or regulation or is requested by a government agency
   * Where our records indicate a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of;
   * To appropriate persons, where your communication suggests possible harm to others.
   * To our affiliates and subsidiaries (some of which are based outside of Singapore) who may use and disclose your information for the same or similar purposes as us.
