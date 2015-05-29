@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the masterresellrights.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132006id_/http%3A//www.masterresellrights.com/pages/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterresellrights.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529070708id_/http%3A//www.masterresellrights.com/pages/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-New Page 3
 
 The following describes the Privacy Policy for our MasterResellRights.com website.
 
@@ -53,5 +51,5 @@ We have included links on this website for your use and reference. We are not re
 
 **QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
 
-Support desk:  [ http://www.marketersupport.com](http://www.marketersupport.com/)   
+Support desk:  [ http://www.MRRSupport.com](http://www.mrrsupport.com/)   
 Telephone number:  +447590107420
