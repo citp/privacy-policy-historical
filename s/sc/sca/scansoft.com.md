@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230124703id_/http%3A//www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scansoft.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529103105id_/http%3A//www.nuance.com/company/company-overview/company-policies/privacy-policies/index.htm%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policies | Nuance
 
