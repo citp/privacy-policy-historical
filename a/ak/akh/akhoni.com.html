@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the akhoni.com privacy policy that was archived on 2014-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141021030032id_/http%3A//www.akhoni.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akhoni.com privacy policy that was archived on 2015-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150530003245id_/http%3A//www.akhoni.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,6 +7,7 @@
 <meta name="description" content="Akhoni.com - Largest E-commerce site in Bangladesh">
 <meta name="keywords" content="E-commerce, Bangladesh">
 <meta name="robots" content="INDEX,FOLLOW">
+<link rel="alternate" href="http://m.akhoni.com/privacy-policy">
 <link rel="icon" href="http://www.akhoni.com/media/favicon/default/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.akhoni.com/media/favicon/default/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="http://www.akhoni.com/skin/frontend/default/akhoni/css/lightbox.css" type="text/css" media="screen">
@@ -20,7 +21,10 @@
 -->
 
 
+
+
 <!-- share -->
+<meta property="og:image" content="http://www.akhoni.com/skin/frontend/default/akhoni/images/akhoni-fb.png">
 <!-- share -->
 
 
@@ -78,7 +82,7 @@ optionalZipCountries = ["BD","HK","IE","MO","PA"];
         onRender : [],
         hasFileOption : false,
         counterBegin :0,
-        secureUrlOnFrontend: 1,
+        secureUrlOnFrontend: 0,
         wishlistVersionMatch: 1,
         disabled: 0,
         disabledForProducts: [],
@@ -341,7 +345,7 @@ function miniLoginShow(shoID)
                          <input type="submit" class="button gradient" value="LOGIN">
                          <span class="login_or">OR</span>
                     </div>
-                    <a href="https://www.akhoni.com/customer/account/forgotpassword/" class="f-left">Lost Your Password?</a>
+                    <a href="http://www.akhoni.com/customer/account/forgotpassword/" class="f-left">Lost Your Password?</a>
                 </div>
             
 			
@@ -421,7 +425,7 @@ jQuery('#mini_loginform').submit(function(e)
 				else {
 				      	jQuery('#advice-required-entry-valid').hide();	
 						jQuery('#header_Login_hover-showing').hide();	
-				        //var url = "https://www.akhoni.com/customer/account/"; 
+				        //var url = "http://www.akhoni.com/customer/account/"; 
                         var successmsg = 'Welcome <span style="color:#6B1846">'+data.cName+'!</span>';
                         $$('.products-grid').each(function(ele) {
                           ele.setStyle({position: 'relative'})
@@ -459,7 +463,7 @@ function showError(_id,success_msg,type)
 </style>                                                                </li>
                                 
                                                                     <li>
-                                        <a title="Registration" href="https://www.akhoni.com/customer/account/create/">Register</a>
+                                        <a title="Registration" href="http://www.akhoni.com/customer/account/create/">Register</a>
                                     </li>
                                                                 
                                 
@@ -471,7 +475,7 @@ function showError(_id,success_msg,type)
                </div>
                
                <div class="delivery_info">
-                        <p><a href="http://www.akhoni.com/how-to-buy"><img src="http://www.akhoni.com/media/wysiwyg/how-to-buy.png" alt=""></a><img style="border-right: 1px solid #ffffff;" src="http://www.akhoni.com/media/wysiwyg/cashOnDelv.png" alt="Cash On Delivery"><a title="Easy Replacement" href="http://www.akhoni.com/replacement-policy" target="_self"><img title="Easy Replacement" src="http://www.akhoni.com/media/wysiwyg/easy_replacement.jpg" alt="Easy Replacement"></a></p>               </div>
+                        <p><a href="http://www.akhoni.com/how-to-buy"><img src="http://www.akhoni.com/media/wysiwyg/how-to-buy.png" alt=""></a><a title="Cash on Delivery" href="http://www.akhoni.com/cash-on-delivery" target="_self"><img style="border-right: 1px solid #ffffff;" src="http://www.akhoni.com/media/wysiwyg/cashOnDelv.png" alt="Cash On Delivery"></a><a title="Easy Replacement" href="http://www.akhoni.com/replacement-policy" target="_self"><img title="Easy Replacement" src="http://www.akhoni.com/media/wysiwyg/easy_replacement.jpg" alt="Easy Replacement"></a></p>               </div>
                     
             </div>
                        
@@ -589,7 +593,8 @@ function showError(_id,success_msg,type)
                 
                 <select name="category" id="category_search_field" onchange="changeFunc();">
                     <option value="">All Categories</option>
-                                                                <option class="parent-cat" value="88">Clothing</option>
+                                                                <option value="366">Mango Fest</option>
+                                                                                    <option class="parent-cat" value="88">Clothing</option>
                                                                                                             <option class="parent-cat" value="148">T-Shirt</option>
                                                                                                             <option class="parent-cat" value="122">Beauty &amp; Health</option>
                                                                                                             <option class="parent-cat" value="35">Computers &amp; Electronics</option>
@@ -597,14 +602,8 @@ function showError(_id,success_msg,type)
                                                                                                             <option class="parent-cat" value="107">Sunglasses &amp; Eyewear</option>
                                                                                                             <option value="63">Watches</option>
                                                                                     <option class="parent-cat" value="70">Perfume &amp; Body Spray</option>
-                                                                                                            <option class="parent-cat" value="67">Jewellery</option>
-                                                                                                            <option class="parent-cat" value="177">Sports</option>
                                                                                                             <option class="parent-cat" value="118">Leather Products</option>
                                                                                                             <option class="parent-cat" value="77">Kids Corner</option>
-                                                                                                            <option class="parent-cat" value="121">Antivirus &amp; Internet Security</option>
-                                                                                                            <option class="parent-cat" value="192">Household Accessories</option>
-                                                                                                            <option class="parent-cat" value="13">Mobile Phones</option>
-                                                                                                            <option class="parent-cat" value="109">Bags &amp; Luggage</option>
                                                                                 </select>
             </div>
         </div>
@@ -678,7 +677,7 @@ function estoreHide(hideID)
         <a href="http://www.akhoni.com/estore">         
           <div id="estore_link" onmouseover="estoreShow('estore_link');return false;" onmouseout="estoreHide('estore_link');return false;">
             <span class="estore">eStore</span>
-            <img style="margin-top:4.5px; float: left;" src="https://www.akhoni.com/skin/frontend/default/akhoni/images/navigation/e-store.png" alt="estore">
+            <img style="margin-top:4.5px; float: left;" src="http://www.akhoni.com/skin/frontend/default/akhoni/images/navigation/e-store.png" alt="estore">
           </div>
         </a>
                     
@@ -688,7 +687,7 @@ function estoreHide(hideID)
         
     <!-- sorting $vendors_info according to company name in ascending order -->
         
-                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                        
         
             
         
@@ -697,7 +696,7 @@ function estoreHide(hideID)
     	
         <!-- hover arrow image -->
         <div style="position: relative;">
-            <img class="estore_arror_img" src="https://www.akhoni.com/skin/frontend/default/akhoni/images/estore_arrow.png">
+            <img class="estore_arror_img" src="http://www.akhoni.com/skin/frontend/default/akhoni/images/estore_arrow.png">
             <div class="clear"></div>
         </div>
             
@@ -713,23 +712,6 @@ function estoreHide(hideID)
                                                         <h2>
                         <a href="http://www.akhoni.com/estore/Aesthetic" title="Aesthetic eStore">                               
                         Aesthetic eS…                        </a>
-                    </h2>
-                                        
-                    
-                                             </li>
-                                        
-                                
-                                
-                            
-                                
-                                                            <li class="estore_hover_li">
-                            <!-- alphabets -->
-                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=B">
-                                B<br>                            </a>
-                                                            
-                                                        <h2>
-                        <a href="http://www.akhoni.com/estore/BdMart" title="BD Mart">                               
-                        BD Mart                        </a>
                     </h2>
                                         
                     
@@ -757,8 +739,8 @@ function estoreHide(hideID)
                                 
                                                                             
                                                         <h2>
-                        <a href="http://www.akhoni.com/estore/Civvy Street eStore" title="Civvy Street eStore">                               
-                        Civvy Street…                        </a>
+                        <a href="http://www.akhoni.com/estore/ComputerSource" title="Computer Source">                               
+                        Computer Sou…                        </a>
                     </h2>
                                         
                     
@@ -780,17 +762,51 @@ function estoreHide(hideID)
                                 
                                                             <li class="estore_hover_li">
                             <!-- alphabets -->
-                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=E">
-                                E<br>                            </a>
+                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=D">
+                                D<br>                            </a>
                                                             
                                                         <h2>
-                        <a href="http://www.akhoni.com/estore/ExcelTechnologies" title="Excel Technologies Ltd">                               
-                        Excel Techno…                        </a>
+                        <a href="http://www.akhoni.com/estore/dapper" title="Dapper">                               
+                        Dapper                        </a>
                     </h2>
                                         
                     
                                              </li>
                                         
+                                
+                                
+                            
+                                
+                                                            <li class="estore_hover_li">
+                            <!-- alphabets -->
+                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=E">
+                                E<br>                            </a>
+                                                            
+                                                        <h2>
+                        <a href="http://www.akhoni.com/estore/elements" title="Element S">                               
+                        Element S                        </a>
+                    </h2>
+                                        
+                    
+                                        
+                                
+                                
+                            
+                                
+                                                                            
+                                                        <h2>
+                        <a href="http://www.akhoni.com/estore/europeansports" title="European Sports Shop">                               
+                        European Spo…                        </a>
+                    </h2>
+                                        
+                    
+                                             </li>
+                                        
+                                
+                                
+                            
+                                
+                                                                            
                                 
                    
                     </ul>                                 
@@ -799,67 +815,9 @@ function estoreHide(hideID)
                                                         <ul class="estore_hover_ul">
                                             <li class="estore_hover_li">
                             <!-- alphabets -->
-                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=G">
-                                G<br>                            </a>
-                                                            
-                                                        <h2>
-                        <a href="http://www.akhoni.com/estore/GabyTrade" title="Gaby Trade International eStore">                               
-                        Gaby Trade I…                        </a>
-                    </h2>
-                                        
-                    
-                                        
-                                
-                                
-                            
-                                
-                                                                            
-                                                        <h2>
-                        <a href="http://www.akhoni.com/estore/GoGreen" title="Go Green eStore">                               
-                        Go Green eSt…                        </a>
-                    </h2>
-                                        
-                    
-                                             </li>
-                                        
-                                
-                                
-                            
-                                
-                                                            <li class="estore_hover_li">
-                            <!-- alphabets -->
-                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=J">
-                                J<br>                            </a>
-                                                            
-                                                        <h2>
-                        <a href="http://www.akhoni.com/estore/joconde" title="Joconde">                               
-                        Joconde                        </a>
-                    </h2>
-                                        
-                    
-                                             </li>
-                                        
-                                
-                                
-                            
-                                
-                                                            <li class="estore_hover_li">
-                            <!-- alphabets -->
                             <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=M">
                                 M<br>                            </a>
                                                             
-                                                        <h2>
-                        <a href="http://www.akhoni.com/estore/Meenaherbal" title="Meena Herbal">                               
-                        Meena Herbal                        </a>
-                    </h2>
-                                        
-                    
-                                        
-                                
-                                
-                            
-                                
-                                                                            
                                                         <h2>
                         <a href="http://www.akhoni.com/estore/MinsaEnterprise" title="Minsa Enterprise eStore">                               
                         Minsa Enterp…                        </a>
@@ -878,66 +836,42 @@ function estoreHide(hideID)
                                 P<br>                            </a>
                                                             
                                                         <h2>
-                        <a href="http://www.akhoni.com/estore/Pearl" title="PEARL International-eStore">                               
-                        PEARL Intern…                        </a>
-                    </h2>
-                                        
-                    
-                                        
-                                
-                                
-                            
-                                
-                                                                            
-                                                        <h2>
                         <a href="http://www.akhoni.com/estore/PebbleChild" title="Pebble Child Bangladesh Ltd eStore">                               
                         Pebble Child…                        </a>
                     </h2>
                                         
                     
-                                             </li>
                                         
                                 
                                 
                             
                                 
                                                                             
+                                                        <h2>
+                        <a href="http://www.akhoni.com/estore/PrestigeBengal" title="Prestige Bengal Limited eStore">                               
+                        Prestige Ben…                        </a>
+                    </h2>
+                                        
+                    
+                                             </li>
+                                        
                                 
-                   
-                    </ul>                                 
+                                
                             
                                 
-                                                        <ul class="estore_hover_ul">
-                                            <li class="estore_hover_li">
+                                                            <li class="estore_hover_li">
                             <!-- alphabets -->
-                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=S">
-                                S<br>                            </a>
+                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=R">
+                                R<br>                            </a>
                                                             
                                                         <h2>
-                        <a href="http://www.akhoni.com/estore/Sharif&amp;Sons" title="Sharif &amp; Sons Computer System - eStore">                               
-                        Sharif &amp; Son…                        </a>
-                    </h2>
-                                        
-                    
-                                        
-                                
-                                
-                            
-                                
-                                                                            
-                                                        <h2>
-                        <a href="http://www.akhoni.com/estore/Shirtex" title="Shirtex">                               
-                        Shirtex                        </a>
+                        <a href="http://www.akhoni.com/estore/redvelvet" title="Red Velvet">                               
+                        Red Velvet                        </a>
                     </h2>
                                         
                     
                                              </li>
                                         
-                                
-                                
-                            
-                                
-                                                                            
                                 
                                 
                             
@@ -968,10 +902,12 @@ function estoreHide(hideID)
                                              </li>
                                         
                                 
-                                
+                   
+                    </ul>                                 
                             
                                 
-                                                            <li class="estore_hover_li">
+                                                        <ul class="estore_hover_ul">
+                                            <li class="estore_hover_li">
                             <!-- alphabets -->
                             <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=U">
                                 U<br>                            </a>
@@ -990,24 +926,12 @@ function estoreHide(hideID)
                                 
                                                             <li class="estore_hover_li">
                             <!-- alphabets -->
-                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=Z">
-                                Z<br>                            </a>
+                            <a class="estore_hover_li_a" href="http://www.akhoni.com/estore?firstchar=W">
+                                W<br>                            </a>
                                                             
                                                         <h2>
-                        <a href="http://www.akhoni.com/estore/ZkITe9" title="ZkITe9 e-Store">                               
-                        ZkITe9 e-Sto…                        </a>
-                    </h2>
-                                        
-                    
-                                        
-                                
-                                
-                            
-                                
-                                                                            
-                                                        <h2>
-                        <a href="http://www.akhoni.com/estore/Zone83" title="Zone 83 eStore">                               
-                        Zone 83 eSto…                        </a>
+                        <a href="http://www.akhoni.com/estore/whizbang" title="Whizbang">                               
+                        Whizbang                        </a>
                     </h2>
                                         
                     
@@ -1031,819 +955,628 @@ function estoreHide(hideID)
     
       </div>
       <ul id="nav">
-        <li class="level0 nav-1 level-top first parent">
+        <li class="level0 nav-1 level-top first">
+<a class="category_name_level1" title="Mango Fest" href="http://www.akhoni.com/mango-fest.html">
+<span>Mango Fest</span>
+</a>
+</li><li class="level0 nav-2 level-top parent">
 <a class="category_name_level1" title="Clothing" href="http://www.akhoni.com/clothing.html">
 <span>Clothing</span>
 </a>
 <ul class="level0" style="width: 427px">
-<li class="level1 nav-1-1 first parent">
-<a class="category_name_level1" title="Men" href="http://www.akhoni.com/clothing/men.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/men-clothing.jpg">
-</a>
-<a class="category_name_level1" title="Men" href="http://www.akhoni.com/clothing/men.html">
-<span>Men</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first">
-<a class="category_name_level1" title="Shirts" href="http://www.akhoni.com/clothing/men/shirts.html">
-<span>Shirts</span>
-</a>
-</li><li class="level2 nav-1-1-2">
-<a class="category_name_level1" title="T-Shirt (Men)" href="http://www.akhoni.com/clothing/men/t-shirt.html">
-<span>T-Shirt (Men)</span>
-</a>
-</li><li class="level2 nav-1-1-3">
-<a class="category_name_level1" title="Pants" href="http://www.akhoni.com/clothing/men/pants.html">
-<span>Pants</span>
-</a>
-</li><li class="level2 nav-1-1-4">
-<a class="category_name_level1" title="Panjabi" href="http://www.akhoni.com/clothing/men/panjabi.html">
-<span>Panjabi</span>
-</a>
-</li><li class="level2 nav-1-1-5">
-<a class="category_name_level1" title="Tie" href="http://www.akhoni.com/clothing/men/tie.html">
-<span>Tie</span>
-</a>
-</li><li class="level2 nav-1-1-6">
-<a class="category_name_level1" title="Suit Pieces" href="http://www.akhoni.com/clothing/men/suit-pieces.html">
-<span>Suit Pieces</span>
-</a>
-</li><li class="level2 nav-1-1-7 last">
-<a class="category_name_level1" title="Shorts" href="http://www.akhoni.com/clothing/men/shorts.html">
-<span>Shorts</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level1 nav-1-2 parent">
-<a class="category_name_level1" title="Women" href="http://www.akhoni.com/clothing/women.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/women-clothing.jpg">
-</a>
-<a class="category_name_level1" title="Women" href="http://www.akhoni.com/clothing/women.html">
-<span>Women</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-1-2-8 first">
-<a class="category_name_level1" title="Salwar Kameez" href="http://www.akhoni.com/clothing/women/salwar-kameez.html">
-<span>Salwar Kameez</span>
-</a>
-</li><li class="level2 nav-1-2-9">
-<a class="category_name_level1" title="T-Shirt (Women)" href="http://www.akhoni.com/clothing/women/t-shirt-ladies.html">
-<span>T-Shirt (Women)</span>
-</a>
-</li><li class="level2 nav-1-2-10">
-<a class="category_name_level1" title="Saree" href="http://www.akhoni.com/clothing/women/saree.html">
-<span>Saree</span>
-</a>
-</li><li class="level2 nav-1-2-11">
-<a class="category_name_level1" title="Pants" href="http://www.akhoni.com/clothing/women/pants.html">
-<span>Pants</span>
-</a>
-</li><li class="level2 nav-1-2-12">
-<a class="category_name_level1" title="Kurti" href="http://www.akhoni.com/clothing/women/kurti.html">
-<span>Kurti</span>
-</a>
-</li><li class="level2 nav-1-2-13">
-<a class="category_name_level1" title="Shirts" href="http://www.akhoni.com/clothing/women/shirts.html">
-<span>Shirts</span>
-</a>
-</li><li class="level2 nav-1-2-14">
-<a class="category_name_level1" title="Party Dress" href="http://www.akhoni.com/clothing/women/party-dress.html">
-<span>Party Dress</span>
-</a>
-</li><li class="level2 nav-1-2-15 last">
-<a class="category_name_level1" title="Pattiala " href="http://www.akhoni.com/clothing/women/pattiala.html">
-<span>Pattiala </span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level1 nav-1-3 last">
-<a class="category_name_level1" title="Kids" href="http://www.akhoni.com/clothing/kids.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/kids_1.jpg">
-</a>
-<a class="category_name_level1" title="Kids" href="http://www.akhoni.com/clothing/kids.html">
-<span>Kids</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level0 nav-2 level-top parent">
-<a class="category_name_level1" title="T-Shirt" href="http://www.akhoni.com/t-shirt.html">
-<span>T-Shirt</span>
-</a>
-<ul class="level0" style="width: 427px">
 <li class="level1 nav-2-1 first parent">
-<a class="category_name_level1" title="Men" href="http://www.akhoni.com/t-shirt/men.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/t-shirt-men.jpg">
+<a class="category_name_level1" title="Men" href="http://www.akhoni.com/clothing/men.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/men-clothing.jpg">
 </a>
-<a class="category_name_level1" title="Men" href="http://www.akhoni.com/t-shirt/men.html">
+<a class="category_name_level1" title="Men" href="http://www.akhoni.com/clothing/men.html">
 <span>Men</span>
 </a>
 <ul class="level1">
 <li class="level2 nav-2-1-1 first">
-<a class="category_name_level1" title="Round Collar" href="http://www.akhoni.com/t-shirt/men/round-collar.html">
-<span>Round Collar</span>
+<a class="category_name_level1" title="Shirts" href="http://www.akhoni.com/clothing/men/shirts.html">
+<span>Shirts</span>
 </a>
-</li><li class="level2 nav-2-1-2 last">
-<a class="category_name_level1" title="Polo" href="http://www.akhoni.com/t-shirt/men/polo.html">
-<span>Polo</span>
+</li><li class="level2 nav-2-1-2">
+<a class="category_name_level1" title="T-Shirt (Men)" href="http://www.akhoni.com/clothing/men/t-shirt.html">
+<span>T-Shirt (Men)</span>
+</a>
+</li><li class="level2 nav-2-1-3">
+<a class="category_name_level1" title="Pants" href="http://www.akhoni.com/clothing/men/pants.html">
+<span>Pants</span>
+</a>
+</li><li class="level2 nav-2-1-4">
+<a class="category_name_level1" title="Panjabi" href="http://www.akhoni.com/clothing/men/panjabi.html">
+<span>Panjabi</span>
+</a>
+</li><li class="level2 nav-2-1-5">
+<a class="category_name_level1" title="Tie" href="http://www.akhoni.com/clothing/men/tie.html">
+<span>Tie</span>
+</a>
+</li><li class="level2 nav-2-1-6">
+<a class="category_name_level1" title="Jackets &amp; Hoodies" href="http://www.akhoni.com/clothing/men/jackets-hoodies.html">
+<span>Jackets &amp; H…</span>
+</a>
+</li><li class="level2 nav-2-1-7">
+<a class="category_name_level1" title="Sweater" href="http://www.akhoni.com/clothing/men/sweater.html">
+<span>Sweater</span>
+</a>
+</li><li class="level2 nav-2-1-8">
+<a class="category_name_level1" title="Shorts" href="http://www.akhoni.com/clothing/men/shorts.html">
+<span>Shorts</span>
+</a>
+</li><li class="level2 nav-2-1-9 last">
+<a class="category_name_level1" title="Cap" href="http://www.akhoni.com/clothing/men/cap.html">
+<span>Cap</span>
 </a>
 </li>
 <li class="clear"></li></ul>
-</li><li class="level1 nav-2-2">
-<a class="category_name_level1" title="Women" href="http://www.akhoni.com/t-shirt/women.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/t-shirt-women.jpg">
+</li><li class="level1 nav-2-2 parent">
+<a class="category_name_level1" title="Women" href="http://www.akhoni.com/clothing/women.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/women-clothing.jpg">
 </a>
-<a class="category_name_level1" title="Women" href="http://www.akhoni.com/t-shirt/women.html">
+<a class="category_name_level1" title="Women" href="http://www.akhoni.com/clothing/women.html">
 <span>Women</span>
 </a>
-</li><li class="level1 nav-2-3 last">
-<a class="category_name_level1" title="Kids" href="http://www.akhoni.com/t-shirt/kids.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/kids.jpg">
+<ul class="level1">
+<li class="level2 nav-2-2-10 first">
+<a class="category_name_level1" title="Salwar Kameez" href="http://www.akhoni.com/clothing/women/salwar-kameez.html">
+<span>Salwar Kameez</span>
 </a>
-<a class="category_name_level1" title="Kids" href="http://www.akhoni.com/t-shirt/kids.html">
+</li><li class="level2 nav-2-2-11">
+<a class="category_name_level1" title="T-Shirt (Women)" href="http://www.akhoni.com/clothing/women/t-shirt-ladies.html">
+<span>T-Shirt (Women)</span>
+</a>
+</li><li class="level2 nav-2-2-12">
+<a class="category_name_level1" title="Saree" href="http://www.akhoni.com/clothing/women/saree.html">
+<span>Saree</span>
+</a>
+</li><li class="level2 nav-2-2-13">
+<a class="category_name_level1" title="Pants" href="http://www.akhoni.com/clothing/women/pants.html">
+<span>Pants</span>
+</a>
+</li><li class="level2 nav-2-2-14">
+<a class="category_name_level1" title="Kurti" href="http://www.akhoni.com/clothing/women/kurti.html">
+<span>Kurti</span>
+</a>
+</li><li class="level2 nav-2-2-15">
+<a class="category_name_level1" title="Shirts" href="http://www.akhoni.com/clothing/women/shirts.html">
+<span>Shirts</span>
+</a>
+</li><li class="level2 nav-2-2-16">
+<a class="category_name_level1" title="Party Dress" href="http://www.akhoni.com/clothing/women/party-dress.html">
+<span>Party Dress</span>
+</a>
+</li><li class="level2 nav-2-2-17">
+<a class="category_name_level1" title="Pattiala " href="http://www.akhoni.com/clothing/women/pattiala.html">
+<span>Pattiala </span>
+</a>
+</li><li class="level2 nav-2-2-18">
+<a class="category_name_level1" title="Inner Wear" href="http://www.akhoni.com/clothing/women/inner-wear.html">
+<span>Inner Wear</span>
+</a>
+</li><li class="level2 nav-2-2-19">
+<a class="category_name_level1" title="Palazzo &amp; Leggings" href="http://www.akhoni.com/clothing/women/palazzo-leggings.html">
+<span>Palazzo &amp; L…</span>
+</a>
+</li><li class="level2 nav-2-2-20 last">
+<a class="category_name_level1" title="Shawl" href="http://www.akhoni.com/clothing/women/shawl.html">
+<span>Shawl</span>
+</a>
+</li>
+<li class="clear"></li></ul>
+</li><li class="level1 nav-2-3 last">
+<a class="category_name_level1" title="Kids" href="http://www.akhoni.com/clothing/kids.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/kids_1.jpg">
+</a>
+<a class="category_name_level1" title="Kids" href="http://www.akhoni.com/clothing/kids.html">
 <span>Kids</span>
 </a>
 </li>
 <li class="clear"></li></ul>
 </li><li class="level0 nav-3 level-top parent">
+<a class="category_name_level1" title="T-Shirt" href="http://www.akhoni.com/t-shirt.html">
+<span>T-Shirt</span>
+</a>
+<ul class="level0" style="width: 568px">
+<li class="level1 nav-3-1 first parent">
+<a class="category_name_level1" title="Men" href="http://www.akhoni.com/t-shirt/men.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/t-shirt-men.jpg">
+</a>
+<a class="category_name_level1" title="Men" href="http://www.akhoni.com/t-shirt/men.html">
+<span>Men</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-3-1-1 first">
+<a class="category_name_level1" title="Round Collar" href="http://www.akhoni.com/t-shirt/men/round-collar.html">
+<span>Round Collar</span>
+</a>
+</li><li class="level2 nav-3-1-2 last">
+<a class="category_name_level1" title="Polo T-Shirts" href="http://www.akhoni.com/t-shirt/men/polo.html">
+<span>Polo T-Shirts</span>
+</a>
+</li>
+<li class="clear"></li></ul>
+</li><li class="level1 nav-3-2">
+<a class="category_name_level1" title="Women" href="http://www.akhoni.com/t-shirt/women.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/t-shirt-women.jpg">
+</a>
+<a class="category_name_level1" title="Women" href="http://www.akhoni.com/t-shirt/women.html">
+<span>Women</span>
+</a>
+</li><li class="level1 nav-3-3">
+<a class="category_name_level1" title="Kids" href="http://www.akhoni.com/t-shirt/kids.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/kids.jpg">
+</a>
+<a class="category_name_level1" title="Kids" href="http://www.akhoni.com/t-shirt/kids.html">
+<span>Kids</span>
+</a>
+</li><li class="level1 nav-3-4 last">
+<a class="category_name_level1" title="Jersey" href="http://www.akhoni.com/t-shirt/jersey.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/jersey_1.jpg">
+</a>
+<a class="category_name_level1" title="Jersey" href="http://www.akhoni.com/t-shirt/jersey.html">
+<span>Jersey</span>
+</a>
+</li>
+<li class="clear"></li></ul>
+</li><li class="level0 nav-4 level-top parent">
 <a class="category_name_level1" title="Beauty &amp; Health" href="http://www.akhoni.com/beauty-health.html">
 <span>Beauty &amp; Health</span>
 </a>
-<ul class="level0" style="width: 709px">
-<li class="level1 nav-3-1 first parent">
+<ul class="level0" style="width: 568px">
+<li class="level1 nav-4-1 first parent">
 <a class="category_name_level1" title="Men" href="http://www.akhoni.com/beauty-health/men.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/men.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/men.jpg">
 </a>
 <a class="category_name_level1" title="Men" href="http://www.akhoni.com/beauty-health/men.html">
 <span>Men</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-1-1 first">
+<li class="level2 nav-4-1-1 first">
 <a class="category_name_level1" title="Skin Care" href="http://www.akhoni.com/beauty-health/men/skin-care.html">
 <span>Skin Care</span>
 </a>
-</li><li class="level2 nav-3-1-2">
+</li><li class="level2 nav-4-1-2">
 <a class="category_name_level1" title="Bath &amp; Body" href="http://www.akhoni.com/beauty-health/men/bath-body.html">
 <span>Bath &amp; Body</span>
 </a>
-</li><li class="level2 nav-3-1-3">
+</li><li class="level2 nav-4-1-3">
 <a class="category_name_level1" title="Hair Care" href="http://www.akhoni.com/beauty-health/men/hair-care.html">
 <span>Hair Care</span>
 </a>
-</li><li class="level2 nav-3-1-4 last">
+</li><li class="level2 nav-4-1-4 last">
 <a class="category_name_level1" title="Shaving" href="http://www.akhoni.com/beauty-health/men/shaving.html">
 <span>Shaving</span>
 </a>
 </li>
 <li class="clear"></li></ul>
-</li><li class="level1 nav-3-2 parent">
+</li><li class="level1 nav-4-2 parent">
 <a class="category_name_level1" title="Women" href="http://www.akhoni.com/beauty-health/women.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/women.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/women.jpg">
 </a>
 <a class="category_name_level1" title="Women" href="http://www.akhoni.com/beauty-health/women.html">
 <span>Women</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-2-5 first">
+<li class="level2 nav-4-2-5 first">
 <a class="category_name_level1" title="Skin Care" href="http://www.akhoni.com/beauty-health/women/skin-care.html">
 <span>Skin Care</span>
 </a>
-</li><li class="level2 nav-3-2-6">
+</li><li class="level2 nav-4-2-6">
 <a class="category_name_level1" title="Bath &amp; Body" href="http://www.akhoni.com/beauty-health/women/bath-body.html">
 <span>Bath &amp; Body</span>
 </a>
-</li><li class="level2 nav-3-2-7">
+</li><li class="level2 nav-4-2-7">
 <a class="category_name_level1" title=" Hair Care" href="http://www.akhoni.com/beauty-health/women/hair-care.html">
 <span> Hair Care</span>
 </a>
-</li><li class="level2 nav-3-2-8 last">
+</li><li class="level2 nav-4-2-8 last">
 <a class="category_name_level1" title="Make Up" href="http://www.akhoni.com/beauty-health/women/make-up.html">
 <span>Make Up</span>
 </a>
 </li>
 <li class="clear"></li></ul>
-</li><li class="level1 nav-3-3 parent">
+</li><li class="level1 nav-4-3 parent">
 <a class="category_name_level1" title="Kids" href="http://www.akhoni.com/beauty-health/kids.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/kids-health.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/kids-health.jpg">
 </a>
 <a class="category_name_level1" title="Kids" href="http://www.akhoni.com/beauty-health/kids.html">
 <span>Kids</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-3-9 first">
+<li class="level2 nav-4-3-9 first">
 <a class="category_name_level1" title="Bath &amp; Body" href="http://www.akhoni.com/beauty-health/kids/bath-body.html">
 <span>Bath &amp; Body</span>
 </a>
-</li><li class="level2 nav-3-3-10">
-<a class="category_name_level1" title="Wipes" href="http://www.akhoni.com/beauty-health/kids/wipes.html">
-<span>Wipes</span>
-</a>
-</li><li class="level2 nav-3-3-11 last">
+</li><li class="level2 nav-4-3-10 last">
 <a class="category_name_level1" title="Diaper" href="http://www.akhoni.com/beauty-health/kids/diaper.html">
 <span>Diaper</span>
 </a>
 </li>
 <li class="clear"></li></ul>
-</li><li class="level1 nav-3-4">
-<a class="category_name_level1" title="Offers" href="http://www.akhoni.com/beauty-health/offers.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/offers.jpg">
+</li><li class="level1 nav-4-4 last">
+<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/beauty-health/accessories.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/household-accessories_1.jpg">
 </a>
-<a class="category_name_level1" title="Offers" href="http://www.akhoni.com/beauty-health/offers.html">
-<span>Offers</span>
-</a>
-</li><li class="level1 nav-3-5 last">
-<a class="category_name_level1" title="Medical Equipments" href="http://www.akhoni.com/beauty-health/medical-equipments.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/medical-equipments.jpg">
-</a>
-<a class="category_name_level1" title="Medical Equipments" href="http://www.akhoni.com/beauty-health/medical-equipments.html">
-<span>Medical Equipme…</span>
-</a>
-</li><li class="clear" style="width:0; margin:0;"></li>
-<li class="clear"></li></ul>
-</li><li class="level0 nav-4 level-top parent">
-<a class="category_name_level1" title="Computers &amp; Electronics" href="http://www.akhoni.com/computers-gaming.html">
-<span>Computers &amp; Electronics</span>
-</a>
-<ul class="level0" style="width: 724px">
-<li class="level1 nav-4-1 first parent">
-<a class="category_name_level1" title="Computers" href="http://www.akhoni.com/computers-gaming/computers.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/my_computer-_1_.jpg">
-</a>
-<a class="category_name_level1" title="Computers" href="http://www.akhoni.com/computers-gaming/computers.html">
-<span>Computers</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-4-1-1 first">
-<a class="category_name_level1" title="Router" href="http://www.akhoni.com/computers-gaming/computers/router.html">
-<span>Router</span>
-</a>
-</li><li class="level2 nav-4-1-2">
-<a class="category_name_level1" title="Keyboard" href="http://www.akhoni.com/computers-gaming/computers/keyboard.html">
-<span>Keyboard</span>
-</a>
-</li><li class="level2 nav-4-1-3">
-<a class="category_name_level1" title="Hard Drive" href="http://www.akhoni.com/computers-gaming/computers/hard-drive.html">
-<span>Hard Drive</span>
-</a>
-</li><li class="level2 nav-4-1-4">
-<a class="category_name_level1" title="Mouse" href="http://www.akhoni.com/computers-gaming/computers/mouse.html">
-<span>Mouse</span>
-</a>
-</li><li class="level2 nav-4-1-5">
-<a class="category_name_level1" title="Speakers" href="http://www.akhoni.com/computers-gaming/computers/speakers.html">
-<span>Speakers</span>
-</a>
-</li><li class="level2 nav-4-1-6">
-<a class="category_name_level1" title="Webcams" href="http://www.akhoni.com/computers-gaming/computers/webcams.html">
-<span>Webcams</span>
-</a>
-</li><li class="level2 nav-4-1-7">
-<a class="category_name_level1" title="Graphics Tablets" href="http://www.akhoni.com/computers-gaming/computers/graphics-tablets.html">
-<span>Graphics Tablets</span>
-</a>
-</li><li class="level2 nav-4-1-8 last">
-<a class="category_name_level1" title="Wireless Networking" href="http://www.akhoni.com/computers-gaming/computers/wireless-access-point.html">
-<span>Wireless Networ…</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level1 nav-4-2 parent">
-<a class="category_name_level1" title="Tabs" href="http://www.akhoni.com/computers-gaming/tabs.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/tab_1.jpg">
-</a>
-<a class="category_name_level1" title="Tabs" href="http://www.akhoni.com/computers-gaming/tabs.html">
-<span>Tabs</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-4-2-9 first">
-<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/computers-gaming/tabs/accessories.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/accessories.jpg">
-</a>
-<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/computers-gaming/tabs/accessories.html">
-<span>Accessories</span>
-</a>
-</li><li class="level2 nav-4-2-10 last">
-<a class="category_name_level1" title="Tabs" href="http://www.akhoni.com/computers-gaming/tabs/tabs.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/tab.jpg">
-</a>
-<a class="category_name_level1" title="Tabs" href="http://www.akhoni.com/computers-gaming/tabs/tabs.html">
-<span>Tabs</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level1 nav-4-3">
-<a class="category_name_level1" title="Pendrives" href="http://www.akhoni.com/computers-gaming/pendrives.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/pendrive.jpg">
-</a>
-<a class="category_name_level1" title="Pendrives" href="http://www.akhoni.com/computers-gaming/pendrives.html">
-<span>Pendrives</span>
-</a>
-</li><li class="level1 nav-4-4">
-<a class="category_name_level1" title="Headphones" href="http://www.akhoni.com/computers-gaming/headphones.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/headphones.jpg">
-</a>
-<a class="category_name_level1" title="Headphones" href="http://www.akhoni.com/computers-gaming/headphones.html">
-<span>Headphones</span>
-</a>
-</li><li class="level1 nav-4-5">
-<a class="category_name_level1" title="Gaming" href="http://www.akhoni.com/computers-gaming/gaming.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/gaming.jpg">
-</a>
-<a class="category_name_level1" title="Gaming" href="http://www.akhoni.com/computers-gaming/gaming.html">
-<span>Gaming</span>
-</a>
-</li><li class="clear" style="width:0; margin:0;"></li><li class="level1 nav-4-6 last">
-<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/computers-gaming/accessories.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/accessories_2.jpg">
-</a>
-<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/computers-gaming/accessories.html">
+<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/beauty-health/accessories.html">
 <span>Accessories</span>
 </a>
 </li>
 <li class="clear"></li></ul>
 </li><li class="level0 nav-5 level-top parent">
+<a class="category_name_level1" title="Computers &amp; Electronics" href="http://www.akhoni.com/computers-gaming.html">
+<span>Computers &amp; Electronics</span>
+</a>
+<ul class="level0" style="width: 724px">
+<li class="level1 nav-5-1 first parent">
+<a class="category_name_level1" title="Computers" href="http://www.akhoni.com/computers-gaming/computers.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/my_computer-_1_.jpg">
+</a>
+<a class="category_name_level1" title="Computers" href="http://www.akhoni.com/computers-gaming/computers.html">
+<span>Computers</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-1-1 first">
+<a class="category_name_level1" title="Router" href="http://www.akhoni.com/computers-gaming/computers/router.html">
+<span>Router</span>
+</a>
+</li><li class="level2 nav-5-1-2">
+<a class="category_name_level1" title="Keyboard" href="http://www.akhoni.com/computers-gaming/computers/keyboard.html">
+<span>Keyboard</span>
+</a>
+</li><li class="level2 nav-5-1-3">
+<a class="category_name_level1" title="Hard Drive" href="http://www.akhoni.com/computers-gaming/computers/hard-drive.html">
+<span>Hard Drive</span>
+</a>
+</li><li class="level2 nav-5-1-4">
+<a class="category_name_level1" title="Mouse" href="http://www.akhoni.com/computers-gaming/computers/mouse.html">
+<span>Mouse</span>
+</a>
+</li><li class="level2 nav-5-1-5">
+<a class="category_name_level1" title="Speakers" href="http://www.akhoni.com/computers-gaming/computers/speakers.html">
+<span>Speakers</span>
+</a>
+</li><li class="level2 nav-5-1-6">
+<a class="category_name_level1" title="Webcams" href="http://www.akhoni.com/computers-gaming/computers/webcams.html">
+<span>Webcams</span>
+</a>
+</li><li class="level2 nav-5-1-7">
+<a class="category_name_level1" title="Graphics Tablets" href="http://www.akhoni.com/computers-gaming/computers/graphics-tablets.html">
+<span>Graphics Tablets</span>
+</a>
+</li><li class="level2 nav-5-1-8 last">
+<a class="category_name_level1" title="Wireless Networking" href="http://www.akhoni.com/computers-gaming/computers/wireless-access-point.html">
+<span>Wireless Networ…</span>
+</a>
+</li>
+<li class="clear"></li></ul>
+</li><li class="level1 nav-5-2 parent">
+<a class="category_name_level1" title="Tabs" href="http://www.akhoni.com/computers-gaming/tabs.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/tab_1.jpg">
+</a>
+<a class="category_name_level1" title="Tabs" href="http://www.akhoni.com/computers-gaming/tabs.html">
+<span>Tabs</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-2-9 first">
+<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/computers-gaming/tabs/accessories.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/accessories.jpg">
+</a>
+<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/computers-gaming/tabs/accessories.html">
+<span>Accessories</span>
+</a>
+</li><li class="level2 nav-5-2-10 last">
+<a class="category_name_level1" title="Tabs" href="http://www.akhoni.com/computers-gaming/tabs/tabs.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/tab.jpg">
+</a>
+<a class="category_name_level1" title="Tabs" href="http://www.akhoni.com/computers-gaming/tabs/tabs.html">
+<span>Tabs</span>
+</a>
+</li>
+<li class="clear"></li></ul>
+</li><li class="level1 nav-5-3">
+<a class="category_name_level1" title="Pendrives" href="http://www.akhoni.com/computers-gaming/pendrives.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/pendrive.jpg">
+</a>
+<a class="category_name_level1" title="Pendrives" href="http://www.akhoni.com/computers-gaming/pendrives.html">
+<span>Pendrives</span>
+</a>
+</li><li class="level1 nav-5-4">
+<a class="category_name_level1" title="Headphones" href="http://www.akhoni.com/computers-gaming/headphones.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/headphones.jpg">
+</a>
+<a class="category_name_level1" title="Headphones" href="http://www.akhoni.com/computers-gaming/headphones.html">
+<span>Headphones</span>
+</a>
+</li><li class="level1 nav-5-5">
+<a class="category_name_level1" title="Gaming" href="http://www.akhoni.com/computers-gaming/gaming.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/gaming.jpg">
+</a>
+<a class="category_name_level1" title="Gaming" href="http://www.akhoni.com/computers-gaming/gaming.html">
+<span>Gaming</span>
+</a>
+</li><li class="clear" style="width:0; margin:0;"></li><li class="level1 nav-5-6">
+<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/computers-gaming/accessories.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/accessories_2.jpg">
+</a>
+<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/computers-gaming/accessories.html">
+<span>Accessories</span>
+</a>
+</li><li class="level1 nav-5-7 last parent">
+<a class="category_name_level1" title="Antivirus &amp; Internet Security" href="http://www.akhoni.com/computers-gaming/antivirus-internet-security.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/Antivirus.jpg">
+</a>
+<a class="category_name_level1" title="Antivirus &amp; Internet Security" href="http://www.akhoni.com/computers-gaming/antivirus-internet-security.html">
+<span>Antivirus &amp;&nbsp;</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-5-7-11 first">
+<a class="category_name_level1" title="Kaspersky" href="http://www.akhoni.com/computers-gaming/antivirus-internet-security/kaspersky.html">
+<span>Kaspersky</span>
+</a>
+</li><li class="level2 nav-5-7-12">
+<a class="category_name_level1" title="AVG" href="http://www.akhoni.com/computers-gaming/antivirus-internet-security/avg.html">
+<span>AVG</span>
+</a>
+</li><li class="level2 nav-5-7-13">
+<a class="category_name_level1" title="TrustPort" href="http://www.akhoni.com/computers-gaming/antivirus-internet-security/trustport.html">
+<span>TrustPort</span>
+</a>
+</li><li class="level2 nav-5-7-14 last">
+<a class="category_name_level1" title="Norton" href="http://www.akhoni.com/computers-gaming/antivirus-internet-security/norton.html">
+<span>Norton</span>
+</a>
+</li>
+<li class="clear"></li></ul>
+</li>
+<li class="clear"></li></ul>
+</li><li class="level0 nav-6 level-top parent">
 <a class="category_name_level1" title="Gifts,Chocolates,Flowers" href="http://www.akhoni.com/gifts-chocolates-flowers.html">
 <span>Gifts,Chocolates,Flowers</span>
 </a>
 <ul class="level0" style="width: 724px">
-<li class="level1 nav-5-1 first">
+<li class="level1 nav-6-1 first">
 <a class="category_name_level1" title="Cards &amp; Mugs" href="http://www.akhoni.com/gifts-chocolates-flowers/cards-mugs.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/Cards_Mug_1.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/Cards_Mug_1.jpg">
 </a>
 <a class="category_name_level1" title="Cards &amp; Mugs" href="http://www.akhoni.com/gifts-chocolates-flowers/cards-mugs.html">
 <span>Cards &amp; Mugs</span>
 </a>
-</li><li class="level1 nav-5-2">
+</li><li class="level1 nav-6-2">
 <a class="category_name_level1" title="Toys &amp; Candles" href="http://www.akhoni.com/gifts-chocolates-flowers/toys-candles.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/toys_1.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/toys_1.jpg">
 </a>
 <a class="category_name_level1" title="Toys &amp; Candles" href="http://www.akhoni.com/gifts-chocolates-flowers/toys-candles.html">
 <span>Toys &amp; Cand…</span>
 </a>
-</li><li class="level1 nav-5-3">
+</li><li class="level1 nav-6-3">
 <a class="category_name_level1" title="Photo Frame/Album" href="http://www.akhoni.com/gifts-chocolates-flowers/photo-frame-album.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/Photoframe.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/Photoframe.jpg">
 </a>
 <a class="category_name_level1" title="Photo Frame/Album" href="http://www.akhoni.com/gifts-chocolates-flowers/photo-frame-album.html">
 <span>Photo Frame/Alb…</span>
 </a>
-</li><li class="level1 nav-5-4">
+</li><li class="level1 nav-6-4">
 <a class="category_name_level1" title="Gift Wrapping" href="http://www.akhoni.com/gifts-chocolates-flowers/gift-wrapping.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/wrapping.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/wrapping.jpg">
 </a>
 <a class="category_name_level1" title="Gift Wrapping" href="http://www.akhoni.com/gifts-chocolates-flowers/gift-wrapping.html">
 <span>Gift Wrapping</span>
 </a>
-</li><li class="level1 nav-5-5">
+</li><li class="level1 nav-6-5">
 <a class="category_name_level1" title="Mirror" href="http://www.akhoni.com/gifts-chocolates-flowers/mirror.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/mirror.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/mirror.jpg">
 </a>
 <a class="category_name_level1" title="Mirror" href="http://www.akhoni.com/gifts-chocolates-flowers/mirror.html">
 <span>Mirror</span>
 </a>
-</li><li class="clear" style="width:0; margin:0;"></li><li class="level1 nav-5-6">
+</li><li class="clear" style="width:0; margin:0;"></li><li class="level1 nav-6-6">
 <a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/gifts-chocolates-flowers/accessories.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/accessories01.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/accessories01.jpg">
 </a>
 <a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/gifts-chocolates-flowers/accessories.html">
 <span>Accessories</span>
 </a>
-</li><li class="level1 nav-5-7">
+</li><li class="level1 nav-6-7">
 <a class="category_name_level1" title="Chocolates" href="http://www.akhoni.com/gifts-chocolates-flowers/chocolates.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/chocolate-icon.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/chocolate-icon.jpg">
 </a>
 <a class="category_name_level1" title="Chocolates" href="http://www.akhoni.com/gifts-chocolates-flowers/chocolates.html">
 <span>Chocolates</span>
 </a>
-</li><li class="level1 nav-5-8 last">
+</li><li class="level1 nav-6-8">
 <a class="category_name_level1" title="Flowers" href="http://www.akhoni.com/gifts-chocolates-flowers/flowers.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/flowers.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/flowers.jpg">
 </a>
 <a class="category_name_level1" title="Flowers" href="http://www.akhoni.com/gifts-chocolates-flowers/flowers.html">
 <span>Flowers</span>
 </a>
+</li><li class="level1 nav-6-9">
+<a class="category_name_level1" title="Badminton" href="http://www.akhoni.com/gifts-chocolates-flowers/badminton.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/badminton_1.jpg">
+</a>
+<a class="category_name_level1" title="Badminton" href="http://www.akhoni.com/gifts-chocolates-flowers/badminton.html">
+<span>Badminton</span>
+</a>
+</li><li class="level1 nav-6-10">
+<a class="category_name_level1" title="Indoor Games" href="http://www.akhoni.com/gifts-chocolates-flowers/indoor-games.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/Indoor-Games_1.jpg">
+</a>
+<a class="category_name_level1" title="Indoor Games" href="http://www.akhoni.com/gifts-chocolates-flowers/indoor-games.html">
+<span>Indoor Games</span>
+</a>
+</li><li class="clear" style="width:0; margin:0;"></li><li class="level1 nav-6-11 last">
+<a class="category_name_level1" title="e-Gift Voucher" href="http://www.akhoni.com/gifts-chocolates-flowers/e-gift-voucher.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/gift_4.jpg">
+</a>
+<a class="category_name_level1" title="e-Gift Voucher" href="http://www.akhoni.com/gifts-chocolates-flowers/e-gift-voucher.html">
+<span>e-Gift Voucher</span>
+</a>
 </li>
 <li class="clear"></li></ul>
-</li><li class="level0 nav-6 level-top parent">
+</li><li class="level0 nav-7 level-top parent">
 <a class="category_name_level1" title="Sunglasses &amp; Eyewear" href="http://www.akhoni.com/sunglasses-eyewear.html">
 <span>Sunglasses &amp; Eyewear</span>
 </a>
-<ul class="level0" style="width: 286px">
-<li class="level1 nav-6-1 first">
+<ul class="level0" style="width: 427px">
+<li class="level1 nav-7-1 first">
 <a class="category_name_level1" title="Shades" href="http://www.akhoni.com/sunglasses-eyewear/shades.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/Shades.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/Shades.jpg">
 </a>
 <a class="category_name_level1" title="Shades" href="http://www.akhoni.com/sunglasses-eyewear/shades.html">
 <span>Shades</span>
 </a>
-</li><li class="level1 nav-6-2 last">
+</li><li class="level1 nav-7-2">
 <a class="category_name_level1" title="Contact Lens" href="http://www.akhoni.com/sunglasses-eyewear/contact-lense.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/contact-lens.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/contact-lens.jpg">
 </a>
 <a class="category_name_level1" title="Contact Lens" href="http://www.akhoni.com/sunglasses-eyewear/contact-lense.html">
 <span>Contact Lens</span>
 </a>
+</li><li class="level1 nav-7-3 last">
+<a class="category_name_level1" title="Glasses" href="http://www.akhoni.com/sunglasses-eyewear/frames.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/Glasses.jpg">
+</a>
+<a class="category_name_level1" title="Glasses" href="http://www.akhoni.com/sunglasses-eyewear/frames.html">
+<span>Glasses</span>
+</a>
 </li>
 <li class="clear"></li></ul>
-</li><li class="level0 nav-7 level-top">
+</li><li class="level0 nav-8 level-top">
 <a class="category_name_level1" title="Watches" href="http://www.akhoni.com/watches.html">
 <span>Watches</span>
 </a>
-</li><li class="level0 nav-8 level-top parent">
+</li><li class="level0 nav-9 level-top parent">
 <a class="category_name_level1" title="Perfume &amp; Body Spray" href="http://www.akhoni.com/perfume-body-spray.html">
 <span>Perfume &amp; Body Spray</span>
 </a>
-<ul class="level0" style="width: 568px">
-<li class="level1 nav-8-1 first parent">
+<ul class="level0" style="width: 427px">
+<li class="level1 nav-9-1 first parent">
 <a class="category_name_level1" title="Men" href="http://www.akhoni.com/perfume-body-spray/men.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/perfume-Men.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/perfume-Men.jpg">
 </a>
 <a class="category_name_level1" title="Men" href="http://www.akhoni.com/perfume-body-spray/men.html">
 <span>Men</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-8-1-1 first">
+<li class="level2 nav-9-1-1 first">
 <a class="category_name_level1" title="Body Spray" href="http://www.akhoni.com/perfume-body-spray/men/body-spray.html">
 <span>Body Spray</span>
 </a>
-</li><li class="level2 nav-8-1-2">
+</li><li class="level2 nav-9-1-2 last">
 <a class="category_name_level1" title="Perfumes" href="http://www.akhoni.com/perfume-body-spray/men/perfumes.html">
 <span>Perfumes</span>
 </a>
-</li><li class="level2 nav-8-1-3 last">
-<a class="category_name_level1" title="Deodorant" href="http://www.akhoni.com/perfume-body-spray/men/deodorant.html">
-<span>Deodorant</span>
-</a>
 </li>
 <li class="clear"></li></ul>
-</li><li class="level1 nav-8-2 parent">
+</li><li class="level1 nav-9-2 parent">
 <a class="category_name_level1" title="Women" href="http://www.akhoni.com/perfume-body-spray/women.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/perfume-women.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/perfume-women.jpg">
 </a>
 <a class="category_name_level1" title="Women" href="http://www.akhoni.com/perfume-body-spray/women.html">
 <span>Women</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-8-2-4 first">
+<li class="level2 nav-9-2-3 first">
 <a class="category_name_level1" title="Body Spray" href="http://www.akhoni.com/perfume-body-spray/women/body-spray.html">
 <span>Body Spray</span>
 </a>
-</li><li class="level2 nav-8-2-5 last">
+</li><li class="level2 nav-9-2-4 last">
 <a class="category_name_level1" title="Perfumes" href="http://www.akhoni.com/perfume-body-spray/women/perfumes.html">
 <span>Perfumes</span>
 </a>
 </li>
 <li class="clear"></li></ul>
-</li><li class="level1 nav-8-3">
+</li><li class="level1 nav-9-3 last">
 <a class="category_name_level1" title="Gift Packs/ Combo/Offers" href="http://www.akhoni.com/perfume-body-spray/gift-packs-combo-offers.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/gift-packs.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/gift-packs.jpg">
 </a>
 <a class="category_name_level1" title="Gift Packs/ Combo/Offers" href="http://www.akhoni.com/perfume-body-spray/gift-packs-combo-offers.html">
 <span>Gift Packs/ Com…</span>
 </a>
-</li><li class="level1 nav-8-4 last">
-<a class="category_name_level1" title="Air Freshener" href="http://www.akhoni.com/perfume-body-spray/air-freshener.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/air-freshener.jpg">
-</a>
-<a class="category_name_level1" title="Air Freshener" href="http://www.akhoni.com/perfume-body-spray/air-freshener.html">
-<span>Air Freshener</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level0 nav-9 level-top parent">
-<a class="category_name_level1" title="Jewellery" href="http://www.akhoni.com/jewellery.html">
-<span>Jewellery</span>
-</a>
-<ul class="level0" style="width: 724px">
-<li class="level1 nav-9-1 first">
-<a class="category_name_level1" title="Bangles" href="http://www.akhoni.com/jewellery/bangles.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/Bangles.jpg">
-</a>
-<a class="category_name_level1" title="Bangles" href="http://www.akhoni.com/jewellery/bangles.html">
-<span>Bangles</span>
-</a>
-</li><li class="level1 nav-9-2">
-<a class="category_name_level1" title="Bracelets" href="http://www.akhoni.com/jewellery/bracelets.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/bracelets.jpg">
-</a>
-<a class="category_name_level1" title="Bracelets" href="http://www.akhoni.com/jewellery/bracelets.html">
-<span>Bracelets</span>
-</a>
-</li><li class="level1 nav-9-3">
-<a class="category_name_level1" title="Necklaces &amp; Chains" href="http://www.akhoni.com/jewellery/necklaces-chains.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/necklaces.jpg">
-</a>
-<a class="category_name_level1" title="Necklaces &amp; Chains" href="http://www.akhoni.com/jewellery/necklaces-chains.html">
-<span>Necklaces &amp;&nbsp;</span>
-</a>
-</li><li class="level1 nav-9-4">
-<a class="category_name_level1" title="Earrings" href="http://www.akhoni.com/jewellery/earrings.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/earrings.jpg">
-</a>
-<a class="category_name_level1" title="Earrings" href="http://www.akhoni.com/jewellery/earrings.html">
-<span>Earrings</span>
-</a>
-</li><li class="level1 nav-9-5">
-<a class="category_name_level1" title="Rings" href="http://www.akhoni.com/jewellery/rings.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/ring.jpg">
-</a>
-<a class="category_name_level1" title="Rings" href="http://www.akhoni.com/jewellery/rings.html">
-<span>Rings</span>
-</a>
-</li><li class="clear" style="width:0; margin:0;"></li><li class="level1 nav-9-6">
-<a class="category_name_level1" title="Pendants &amp; Lockets" href="http://www.akhoni.com/jewellery/pendants-lockets.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/Lockets.jpg">
-</a>
-<a class="category_name_level1" title="Pendants &amp; Lockets" href="http://www.akhoni.com/jewellery/pendants-lockets.html">
-<span>Pendants &amp; …</span>
-</a>
-</li><li class="level1 nav-9-7 last">
-<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/jewellery/accessories.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/jew_accessories.jpg">
-</a>
-<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/jewellery/accessories.html">
-<span>Accessories</span>
-</a>
 </li>
 <li class="clear"></li></ul>
 </li><li class="level0 nav-10 level-top parent">
-<a class="category_name_level1" title="Sports" href="http://www.akhoni.com/sports.html">
-<span>Sports</span>
-</a>
-<ul class="level0" style="width: 427px">
-<li class="level1 nav-10-1 first">
-<a class="category_name_level1" title="Jersey" href="http://www.akhoni.com/sports/jersey.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/jersey.jpg">
-</a>
-<a class="category_name_level1" title="Jersey" href="http://www.akhoni.com/sports/jersey.html">
-<span>Jersey</span>
-</a>
-</li><li class="level1 nav-10-2">
-<a class="category_name_level1" title="Indoor Games" href="http://www.akhoni.com/sports/indoor-games.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/Indoor-Games.jpg">
-</a>
-<a class="category_name_level1" title="Indoor Games" href="http://www.akhoni.com/sports/indoor-games.html">
-<span>Indoor Games</span>
-</a>
-</li><li class="level1 nav-10-3 last">
-<a class="category_name_level1" title="World Cup Accessories" href="http://www.akhoni.com/sports/accessories.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/world-cup-accessories.jpg">
-</a>
-<a class="category_name_level1" title="World Cup Accessories" href="http://www.akhoni.com/sports/accessories.html">
-<span>World Cup Acces…</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level0 nav-11 level-top parent">
 <a class="category_name_level1" title="Leather Products" href="http://www.akhoni.com/leather-products.html">
 <span>Leather Products</span>
 </a>
 <ul class="level0" style="width: 724px">
-<li class="level1 nav-11-1 first">
+<li class="level1 nav-10-1 first">
 <a class="category_name_level1" title="Belts" href="http://www.akhoni.com/leather-products/belts.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/belts.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/belts.jpg">
 </a>
 <a class="category_name_level1" title="Belts" href="http://www.akhoni.com/leather-products/belts.html">
 <span>Belts</span>
 </a>
-</li><li class="level1 nav-11-2">
+</li><li class="level1 nav-10-2">
 <a class="category_name_level1" title="Mens Wallet" href="http://www.akhoni.com/leather-products/mens-wallets.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/wallets.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/wallets.jpg">
 </a>
 <a class="category_name_level1" title="Mens Wallet" href="http://www.akhoni.com/leather-products/mens-wallets.html">
 <span>Mens Wallet</span>
 </a>
-</li><li class="level1 nav-11-3">
+</li><li class="level1 nav-10-3">
 <a class="category_name_level1" title="Ladies Wallet" href="http://www.akhoni.com/leather-products/ladies-wallet.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/bag.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/bag.jpg">
 </a>
 <a class="category_name_level1" title="Ladies Wallet" href="http://www.akhoni.com/leather-products/ladies-wallet.html">
 <span>Ladies Wallet</span>
 </a>
-</li><li class="level1 nav-11-4">
+</li><li class="level1 nav-10-4">
 <a class="category_name_level1" title="Key Case" href="http://www.akhoni.com/leather-products/key-case.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/bag-1.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/bag-1.jpg">
 </a>
 <a class="category_name_level1" title="Key Case" href="http://www.akhoni.com/leather-products/key-case.html">
 <span>Key Case</span>
 </a>
-</li><li class="level1 nav-11-5">
+</li><li class="level1 nav-10-5">
 <a class="category_name_level1" title="Card Holder" href="http://www.akhoni.com/leather-products/card-holder.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/bag-2.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/bag-2.jpg">
 </a>
 <a class="category_name_level1" title="Card Holder" href="http://www.akhoni.com/leather-products/card-holder.html">
 <span>Card Holder</span>
 </a>
-</li><li class="clear" style="width:0; margin:0;"></li><li class="level1 nav-11-6">
-<a class="category_name_level1" title="Passport Holder" href="http://www.akhoni.com/leather-products/passport-holder.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/bag-3.jpg">
+</li><li class="clear" style="width:0; margin:0;"></li><li class="level1 nav-10-6">
+<a class="category_name_level1" title="Handbag" href="http://www.akhoni.com/leather-products/handbag.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/bag-5.jpg">
 </a>
-<a class="category_name_level1" title="Passport Holder" href="http://www.akhoni.com/leather-products/passport-holder.html">
-<span>Passport Holder</span>
+<a class="category_name_level1" title="Handbag" href="http://www.akhoni.com/leather-products/handbag.html">
+<span>Handbag</span>
 </a>
-</li><li class="level1 nav-11-7 last">
-<a class="category_name_level1" title="Travel Purse" href="http://www.akhoni.com/leather-products/travel-purse.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/bag-4.jpg">
+</li><li class="level1 nav-10-7 last">
+<a class="category_name_level1" title="Casual Bag" href="http://www.akhoni.com/leather-products/casual-bag.html">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/backpack_1.jpg">
 </a>
-<a class="category_name_level1" title="Travel Purse" href="http://www.akhoni.com/leather-products/travel-purse.html">
-<span>Travel Purse</span>
+<a class="category_name_level1" title="Casual Bag" href="http://www.akhoni.com/leather-products/casual-bag.html">
+<span>Casual Bag</span>
 </a>
 </li>
 <li class="clear"></li></ul>
-</li><li class="level0 nav-12 level-top parent">
+</li><li class="level0 nav-11 level-top last parent">
 <a class="category_name_level1" title="Kids Corner" href="http://www.akhoni.com/kids-corner.html">
 <span>Kids Corner</span>
 </a>
-<ul class="level0" style="width: 568px">
-<li class="level1 nav-12-1 first">
+<ul class="level0" style="width: 427px">
+<li class="level1 nav-11-1 first">
 <a class="category_name_level1" title="Diaper" href="http://www.akhoni.com/kids-corner/diaper.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/diaper.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/diaper.jpg">
 </a>
 <a class="category_name_level1" title="Diaper" href="http://www.akhoni.com/kids-corner/diaper.html">
 <span>Diaper</span>
 </a>
-</li><li class="level1 nav-12-2">
+</li><li class="level1 nav-11-2">
 <a class="category_name_level1" title="Toys" href="http://www.akhoni.com/kids-corner/toys.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/toy.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/toy.jpg">
 </a>
 <a class="category_name_level1" title="Toys" href="http://www.akhoni.com/kids-corner/toys.html">
 <span>Toys</span>
 </a>
-</li><li class="level1 nav-12-3">
-<a class="category_name_level1" title="Baby Care" href="http://www.akhoni.com/kids-corner/baby-care.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/baby-care.jpg">
-</a>
-<a class="category_name_level1" title="Baby Care" href="http://www.akhoni.com/kids-corner/baby-care.html">
-<span>Baby Care</span>
-</a>
-</li><li class="level1 nav-12-4 last">
+</li><li class="level1 nav-11-3 last">
 <a class="category_name_level1" title="T-Shirt" href="http://www.akhoni.com/kids-corner/t-shirt.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/kids_2.jpg">
+<img class="category_thumb_image" src="http://www.akhoni.com/media/catalog/product/cache/cat_resized/kids_2.jpg">
 </a>
 <a class="category_name_level1" title="T-Shirt" href="http://www.akhoni.com/kids-corner/t-shirt.html">
 <span>T-Shirt</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level0 nav-13 level-top parent">
-<a class="category_name_level1" title="Antivirus &amp; Internet Security" href="http://www.akhoni.com/antivirus-internet-security.html">
-<span>Antivirus &amp; Internet Se…</span>
-</a>
-<ul class="level0" style="width: 568px">
-<li class="level1 nav-13-1 first parent">
-<a class="category_name_level1" title="Type" href="http://www.akhoni.com/antivirus-internet-security/type.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/type.jpg">
-</a>
-<a class="category_name_level1" title="Type" href="http://www.akhoni.com/antivirus-internet-security/type.html">
-<span>Type</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-13-1-1 first">
-<a class="category_name_level1" title="Antivirus" href="http://www.akhoni.com/antivirus-internet-security/type/antivirus.html">
-<span>Antivirus</span>
-</a>
-</li><li class="level2 nav-13-1-2">
-<a class="category_name_level1" title="Internet Security" href="http://www.akhoni.com/antivirus-internet-security/type/internet-security.html">
-<span>Internet Securi…</span>
-</a>
-</li><li class="level2 nav-13-1-3 last">
-<a class="category_name_level1" title="Mobile Security" href="http://www.akhoni.com/antivirus-internet-security/type/mobile-security.html">
-<span>Mobile Security</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level1 nav-13-2 parent">
-<a class="category_name_level1" title="Operating System" href="http://www.akhoni.com/antivirus-internet-security/operating-system.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/Operating-System.jpg">
-</a>
-<a class="category_name_level1" title="Operating System" href="http://www.akhoni.com/antivirus-internet-security/operating-system.html">
-<span>Operating System</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-13-2-4 first">
-<a class="category_name_level1" title="Windows" href="http://www.akhoni.com/antivirus-internet-security/operating-system/windows.html">
-<span>Windows</span>
-</a>
-</li><li class="level2 nav-13-2-5">
-<a class="category_name_level1" title="Mac" href="http://www.akhoni.com/antivirus-internet-security/operating-system/mac.html">
-<span>Mac</span>
-</a>
-</li><li class="level2 nav-13-2-6 last">
-<a class="category_name_level1" title="Android" href="http://www.akhoni.com/antivirus-internet-security/operating-system/android.html">
-<span>Android</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level1 nav-13-3 parent">
-<a class="category_name_level1" title="Brands" href="http://www.akhoni.com/antivirus-internet-security/brands.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/Brands.jpg">
-</a>
-<a class="category_name_level1" title="Brands" href="http://www.akhoni.com/antivirus-internet-security/brands.html">
-<span>Brands</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-13-3-7 first">
-<a class="category_name_level1" title="Kaspersky" href="http://www.akhoni.com/antivirus-internet-security/brands/kaspersky.html">
-<span>Kaspersky</span>
-</a>
-</li><li class="level2 nav-13-3-8">
-<a class="category_name_level1" title="AVG" href="http://www.akhoni.com/antivirus-internet-security/brands/avg.html">
-<span>AVG</span>
-</a>
-</li><li class="level2 nav-13-3-9">
-<a class="category_name_level1" title="Bitdefender" href="http://www.akhoni.com/antivirus-internet-security/brands/bitdefender.html">
-<span>Bitdefender</span>
-</a>
-</li><li class="level2 nav-13-3-10 last">
-<a class="category_name_level1" title="TrustPort" href="http://www.akhoni.com/antivirus-internet-security/brands/trustport.html">
-<span>TrustPort</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level1 nav-13-4 last parent">
-<a class="category_name_level1" title="Users" href="http://www.akhoni.com/antivirus-internet-security/users.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/user.jpg">
-</a>
-<a class="category_name_level1" title="Users" href="http://www.akhoni.com/antivirus-internet-security/users.html">
-<span>Users</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-13-4-11 first">
-<a class="category_name_level1" title="1 User" href="http://www.akhoni.com/antivirus-internet-security/users/1-user.html">
-<span>1 User</span>
-</a>
-</li><li class="level2 nav-13-4-12">
-<a class="category_name_level1" title="3 Users" href="http://www.akhoni.com/antivirus-internet-security/users/3-users.html">
-<span>3 Users</span>
-</a>
-</li><li class="level2 nav-13-4-13">
-<a class="category_name_level1" title="5 Users" href="http://www.akhoni.com/antivirus-internet-security/users/5-users.html">
-<span>5 Users</span>
-</a>
-</li><li class="level2 nav-13-4-14">
-<a class="category_name_level1" title="10 Users" href="http://www.akhoni.com/antivirus-internet-security/users/10-users.html">
-<span>10 Users</span>
-</a>
-</li><li class="level2 nav-13-4-15 last">
-<a class="category_name_level1" title="Business Solutions" href="http://www.akhoni.com/antivirus-internet-security/users/business-solutions.html">
-<span>Business Soluti…</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level0 nav-14 level-top parent">
-<a class="category_name_level1" title="Household Accessories" href="http://www.akhoni.com/home-appliances.html">
-<span>Household Accessories</span>
-</a>
-<ul class="level0" style="width: 145px">
-<li class="level1 nav-14-1 first last">
-<a class="category_name_level1" title="Household Accessories" href="http://www.akhoni.com/home-appliances/household-accessories.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/household-accessories.jpg">
-</a>
-<a class="category_name_level1" title="Household Accessories" href="http://www.akhoni.com/home-appliances/household-accessories.html">
-<span>Household Acces…</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level0 nav-15 level-top parent">
-<a class="category_name_level1" title="Mobile Phones" href="http://www.akhoni.com/mobiles.html">
-<span>Mobile Phones</span>
-</a>
-<ul class="level0" style="width: 286px">
-<li class="level1 nav-15-1 first">
-<a class="category_name_level1" title="Memory Card" href="http://www.akhoni.com/mobiles/memory-card.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/memory-card.jpg">
-</a>
-<a class="category_name_level1" title="Memory Card" href="http://www.akhoni.com/mobiles/memory-card.html">
-<span>Memory Card</span>
-</a>
-</li><li class="level1 nav-15-2 last">
-<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/mobiles/accessories.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/accessories_1.jpg">
-</a>
-<a class="category_name_level1" title="Accessories" href="http://www.akhoni.com/mobiles/accessories.html">
-<span>Accessories</span>
-</a>
-</li>
-<li class="clear"></li></ul>
-</li><li class="level0 nav-16 level-top last parent">
-<a class="category_name_level1" title="Bags &amp; Luggage" href="http://www.akhoni.com/bags-luggage.html">
-<span>Bags &amp; Luggage</span>
-</a>
-<ul class="level0" style="width: 286px">
-<li class="level1 nav-16-1 first">
-<a class="category_name_level1" title="Ladies Purse" href="http://www.akhoni.com/bags-luggage/ladies-purse.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/ladies-purse.jpg">
-</a>
-<a class="category_name_level1" title="Ladies Purse" href="http://www.akhoni.com/bags-luggage/ladies-purse.html">
-<span>Ladies Purse</span>
-</a>
-</li><li class="level1 nav-16-2 last">
-<a class="category_name_level1" title="Backpack" href="http://www.akhoni.com/bags-luggage/backpack.html">
-<img class="category_thumb_image" src="https://www.akhoni.com/media/catalog/product/cache/cat_resized/backpack.jpg">
-</a>
-<a class="category_name_level1" title="Backpack" href="http://www.akhoni.com/bags-luggage/backpack.html">
-<span>Backpack</span>
 </a>
 </li>
 <li class="clear"></li></ul>
@@ -1962,12 +1695,13 @@ document.observe('dom:loaded', function () { new Referafriend($('referafriend-bu
 //-->
 </script>
 <span>Refer your friend, get taka 50</span></li>
-<li><strong><a href="#">We Accept</a></strong> <a style="display: inline-block;" href="#"> <img src="http://www.akhoni.com/media/wysiwyg/footer_four.png" alt="M-Coupon"> </a> <span>Your Payment is secure with us. We don't store any card information</span></li>
+<li><strong><a href="#">We Accept</a></strong> <a style="display: inline-block;" href="#"> <img src="http://www.akhoni.com/media/wysiwyg/footer_four_1.png" alt="M-Coupon"> </a> <span>Your Payment is secure with us. We don't store any card information</span></li>
 <li><strong><a href="http://www.akhoni.com/feature-your-business">Feature Your Business</a></strong> <a style="display: inline-block;" href="http://www.akhoni.com/feature-your-business"> <img src="http://www.akhoni.com/skin/frontend/default/akhoni/images/footer/footer_five.png" alt="M-Coupon"> </a> <span>Promote your business and increase your sales</span></li>
 </ul>    </div>
     <div class="footer_bottom">
       <div class="footer_bottom_main">
-        <ul class="footer_bottom_ul">
+        <!--p class="dcl_msg"><a style="color: #6e1550; font-weight: bold; text-decoration: none;" href="http://www.akhoni.com/disclaimer_message" target="_blank">Disclaimer Message</a></p-->
+<ul class="footer_bottom_ul">
 <li><a href="http://www.akhoni.com/about">About</a></li>
 <li><a href="http://www.akhoni.com/press">Press</a></li>
 <li><a href="http://www.akhoni.com/career">Career</a></li>
@@ -1991,7 +1725,7 @@ document.observe('dom:loaded', function () { new Referafriend($('referafriend-bu
 
     
         <div id="footer_newsletter" class="footer_newsletter2">
-            <form action="https://www.akhoni.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+            <form action="http://www.akhoni.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
                 <div class="subscribe-content">
         
                     <span onclick="settingCookie('subscribe_cookie_live', 'http://www.akhoni.com/')">
