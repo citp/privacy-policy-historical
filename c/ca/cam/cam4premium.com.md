@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4premium.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224175229id_/http%3A//www.cam4premium.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4premium.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529175551id_/http%3A//www.cam4premium.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Cam4Premium - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
