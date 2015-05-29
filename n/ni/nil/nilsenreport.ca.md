@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nilsenreport.ca privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013124015id_/http%3A//nilsenreport.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nilsenreport.ca privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529104205id_/http%3A//nilsenreport.ca/privacy-policy) for the most accurate reproduction.*
 
-# Nilsen Report | Privacy Policy
+# Privacy Policy | Nilsen Report
 
 This Privacy Policy governs the manner in which Nilsen Report collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://nilsenreport.ca](http://nilsenreport.ca/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Nilsen Report.
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Nilsen Report may collect and use Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
 
 
