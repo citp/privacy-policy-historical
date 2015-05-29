@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the influitive.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120205655id_/http%3A//influitive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influitive.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529151725id_/http%3A//influitive.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Influitive
+# Privacy - Influitive
 
 Last updated: August 26, 2013
 
@@ -48,20 +48,7 @@ We reserve the right to change this Privacy Policy at any time and if we decide 
 
 You have the right to ask whether we hold any personal information about you, to see that information, and to ask us to correct or update your information. In addition, if you feel we have not dealt with your privacy-related requests or concerns to your satisfaction, or if you have any questions or concerns regarding this Privacy Policy and/or the practices of Influitive in relation to data, please contact us at privacy_officer@influitive.com.
 
-#### Contact Influitive
-
-**Toronto**  
-191 Niagara Street  
-Toronto, ON M5V 1C9  
-[Google Map](https://www.google.ca/maps/place/191+Niagara+St/@43.642263,-79.4070327,17z/data=!3m1!4b1!4m2!3m1!1s0x882b34e1de0f068b:0x1569e3faadcdae55) **Menlo Park**  
-68 Willow Road, Suite 165  
-Menlo Park, CA 94025  
-[Google Map](https://www.google.ca/maps/place/68+Willow+Rd+%23165,+Menlo+Park,+CA+94025,+USA/@37.4522341,-122.1662128,17z/data=!3m1!4b1!4m2!3m1!1s0x808fbb48d8771a0f:0x201fbda789a95fa6) **Boston - Marketing and Sales Office**  
-75 Kneeland St, 15th Floor  
-Boston, MA 02111  
-[Google Map](https://www.google.ca/maps/preview?ie=UTF-8&fb=1&gl=ca&sll=42.3503851,-71.0606479&sspn=0.0243583,0.0439463&q=75+Kneeland+St,+Boston,+MA+02111,+USA&ei=NqgNVLenJ-eK8QH5iYCwDw&ved=0CB4Q8gEwAA)
-
-#### Get in touch to learn more
+#### GET IN TOUCH TO LEARN MORE
 
 Looking to build your advocate program? Get the ball rolling by filling out our contact us form below.
 
