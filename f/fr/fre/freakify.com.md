@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freakify.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125300id_/http%3A//freakify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakify.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529104120id_/http%3A//freakify.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Freakify.com | Learn Technology
+# Privacy Policy - Freakify.com | Learn Technology : Freakify.com
 
 ## Privacy Policy for Freakify.com
 
