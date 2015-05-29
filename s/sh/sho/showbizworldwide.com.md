@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showbizworldwide.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126130835id_/http%3A//www.showbizworldwide.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showbizworldwide.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529143652id_/http%3A//www.showbizworldwide.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy - ShowBiz Worldwide Network
 
