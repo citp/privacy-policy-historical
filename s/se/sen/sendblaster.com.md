@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendblaster.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130033756id_/http%3A//www.sendblaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendblaster.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529043105id_/http%3A//www.sendblaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SendBlaster
 
@@ -53,13 +53,13 @@ To the extent that you do provide us with Personal Information, Edisplay S.r.l. 
 
 ## Third Party Services
 
-Third parties provide certain services available on www.sendblaster.com on Edisplay S.r.l.'s behalf. Edisplay S.r.l. may provide information, including Personal Information, that Edisplay S.r.l. collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Edisplay S.r.l. maintains its Web site and mailing lists. Edisplay S.r.l. will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Edisplay S.r.l.'s behalf.
+Third parties provide certain services available on www.sendblaster.com and its localized versions (.it, .de, and so on) on Edisplay S.r.l.'s behalf. Edisplay S.r.l. may provide information, including Personal Information, that Edisplay S.r.l. collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Edisplay S.r.l. maintains its Web site and mailing lists. Edisplay S.r.l. will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Edisplay S.r.l.'s behalf.
 
 Edisplay S.r.l. does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Edisplay S.r.l.'s behalf unless such transfer is legally required. Similarly, it is against Edisplay S.r.l.'s policy to sell Personal Information collected online without consent.
 
 ## Children's Privacy
 
-www.sendblaster.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
+www.sendblaster.com and its localized versions (.it, .de, and so on) is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
 
 ## Commitment
 
