@@ -1,27 +1,149 @@
-<!--The following is the downloaded HTML source of the investagrams.com privacy policy that was archived on 2014-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140922032539id_/http%3A//www.investagrams.com/About/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investagrams.com privacy policy that was archived on 2015-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150530013343id_/http%3A//investagrams.com/About/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="description" content="One stop shop to financial freedom. All in one Stock Market Website. Learn how to invest in Stock Market. Real Time Virtual Trading, Analysis, Recommendation, Dynamic HTML5 Charts, Tutorials and Many More."><meta name="keywords" content="Investagrams,Investagram,invest,stock market,pse,real time monitoring,stock,philippines stock exchange,chart,HTML5 chart,pse game,virtual trade,how to invest"><meta name="msvalidate.01" content="40A1AE61E78A43E9110D0723A66FD2A8"><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="description" content="One stop shop to financial freedom. All in one Stock Market Website. Learn how to invest in Stock Market. Real Time Virtual Trading, Analysis, Recommendation, Dynamic HTML5 Charts, Tutorials and Many More."><meta name="keywords" content="Investagrams,Investagram,invest,stock market,pse,real time monitoring,stock,philippines stock exchange,chart,pse game,virtual trade,how to invest"><meta name="msvalidate.01" content="40A1AE61E78A43E9110D0723A66FD2A8"><title>
 	Investagrams - Privacy Policy
 </title>
+        
+        <meta property="fb:app_id" content="1599265263687910">
+        <meta property="og:locale" content="en_US">
+        <meta property="og:site_name" content="Investagrams">
+        <meta property="og:image" content="http://investagrams.com/Images/app_icon.png?Investagrams_ImageUrl_1.0.0.1">
 
-        <link href="../Images/app_icon.png" rel="shortcut icon" type="image/x-icon">
-        <link href="../Images/app_icon.png" rel="image_src"></head><body>"
+        <link href="../Images/app_icon.png?Investagrams_ImageUrl_1.0.0.1" rel="shortcut icon" type="image/x-icon">
+        <link href="../Images/app_icon.png?Investagrams_ImageUrl_1.0.0.1" rel="image_src"></head><body>"
 
         <!-- CSS Stylesheet -->
-        <link href="../CSS/Bootstrap/bootstrap.css" rel="stylesheet" type="text/css">
-        
-        
-        <link href="../CSS/Common/MainSiteStyle.css" rel="stylesheet" type="text/css">
-        <link href="../CSS/Stock/StockStyle.css" rel="stylesheet" type="text/css">
+        <link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
+        <link href="../CSS/Bootstrap/bootstrap.css?Investagrams_CSS_1.0.0.1" rel="stylesheet" type="text/css">
+        <link href="../CSS/Common/MainSiteStyle.css?Investagrams_CSS_1.0.0.1" rel="stylesheet" type="text/css">
+        <link href="../CSS/Stock/StockStyle.css?Investagrams_CSS_1.0.0.1" rel="stylesheet" type="text/css">
 
         <!-- Javascript -->
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="../Javascript/JQuery/jquery-2.1.1.js" type="text/javascript"></script>
-        <script src="../Javascript/Bootstrap/bootstrap.js" type="text/javascript"></script>
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="../Javascript/JQuery/jquery-2.1.1.js?Investagrams_Javascript_1.0.0.1" type="text/javascript"></script>
+        <script src="../Javascript/JQuery/jquery.nicescroll.min.js?Investagrams_Javascript_1.0.0.1" type="text/javascript"></script>
+        <script src="../Javascript/Bootstrap/bootstrap.js?Investagrams_Javascript_1.0.0.1" type="text/javascript"></script>
+        <script src="../Javascript/Common/MainSiteJavascript.js?Investagrams_Javascript_1.0.0.1" type="text/javascript"></script>
         
-        <script src="../Javascript/Common/MainSiteJavascript.js" type="text/javascript"></script>
+        
+        
 
-    
+
+
+<script type="text/javascript">
+
+
+    $(document).ready(function () {
+
+        initSearchBar();
+
+    });
+
+
+    //setup before functions
+    var typingTimer;                //timer identifier
+    var doneTypingInterval = 200;  //time in ms, 5 second for example
+
+    function initSearchBar() {
+        $("#SearchKeywordTextBox").focus(function () {
+            DisplaySearchBarResultContentPanel();
+        });
+
+        $("#SearchKeywordTextBox").click(function () {
+            DisplaySearchBarResultContentPanel();
+        });
+
+        $(document).mouseup(function (e) {
+            var container = $("#SearchKeywordTextBox");
+
+            if (!container.is(e.target) // if the target of the click isn't the container...
+                && container.has(e.target).length === 0) // ... nor a descendant of the container
+            {
+                $("#SearchBarResultContentPanel").hide();
+            }
+        });
+
+
+        //on keyup, start the countdown
+        $('#SearchKeywordTextBox').keyup(function () {
+            clearTimeout(typingTimer);
+            if ($('#SearchKeywordTextBox').val) {
+                typingTimer = setTimeout(doneTyping, doneTypingInterval);
+            }
+        });
+
+        //user is "finished typing," do something
+        function doneTyping() {
+            //do something
+            PerformSearching();
+        }
+    }
+
+    function PerformSearching() {
+        var text = UpdateSearchKeyword();
+
+        if (text.trim() != '') {
+            DisplaySearchBarResultContentPanel();
+
+            var coreUrl = $("#SearchForKeyword").attr("href").split("=")[0];
+            $("#SearchForKeyword").attr("href", coreUrl + "=" + encodeURIComponent($('#SearchKeywordTextBox').val()));
+
+
+            var getSearchStockLock = false;
+            if (!getSearchStockLock) {
+                getSearchStockLock = true;
+                $.ajax({
+                    type: "POST",
+                    url: "../WebService/StockWebService.aspx/GetSearchSnippet",
+                    data: '{keyword: \'' + text + '\'}',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (response) {
+                        getSearchStockLock = false;
+                        $("#SearchBarResultContentPanel li.StockSnippet").remove();
+                        $("#SearchBarResultContentPanel").prepend(response.d);
+                    },
+                    failure: function (response) {
+                        getSearchStockLock = false;
+                        console.log(response.failure);
+                    },
+                    error: function (response) {
+                        getSearchStockLock = false;
+                        console.log(response.error);
+                    }
+                });
+            }
+        }
+        else {
+            $("#SearchBarResultContentPanel").hide();
+        }
+    }
+
+    function UpdateSearchKeyword() {
+        var text;
+
+        if ($('#SearchKeywordTextBox').val().length > 15) {
+            text = $('#SearchKeywordTextBox').val().substr(0, 15) + "...";
+        }
+        else {
+            text = $('#SearchKeywordTextBox').val();
+        }
+
+        $("#SearchForKeyword span").text(text);
+
+        return $('#SearchKeywordTextBox').val();
+    }
+
+
+    function DisplaySearchBarResultContentPanel() {
+        if ($('#SearchKeywordTextBox').val().trim() != '') {
+            $("#SearchBarResultContentPanel").show();
+        }
+    }
+
+
+
+</script>
 
 
     <div>
@@ -39,7 +161,7 @@
                 <div class="navbar-collapse collapse">
 
                     <ul class="nav navbar-nav">
-                        <li class=""><a href="../Default">Home</a></li>
+                        <li><a href="../Default">Home</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Stock <b class="caret"></b></a>
                             <ul class="dropdown-menu" role="menu">
@@ -57,9 +179,7 @@
                                 <li class="divider"></li>
                                 <li class="dropdown-header">Broker</li>
                                 <li><a href="../Stock/Broker/BrokerInformation">Broker Information</a></li>
-                                <li class="divider"></li>
-                                <li class="dropdown-header">Tutorials</li>
-                                <li><a href="#">Beginners' Guide</a></li>
+                                
                                 <li class="divider"></li>
                                 <li class="dropdown-header">Foreign Equities</li>
                                 <li><a href="../Stock/ForeignEquities/ForeignEquitiesNYSE">New York Stock Exchange (NYSE)</a></li>
@@ -77,60 +197,82 @@
                                 <li class="dropdown-header">Portfolio</li>
                                 <li><a href="../Trade/TradePortfolio">Portfolio</a></li>
                                 <li><a href="../Trade/TradeRecord">Record</a></li>
+                                <li><a href="../Trade/TradeStatementAccount">Statement of Account</a></li>
                                 <li class="divider"></li>
                                 <li class="dropdown-header">Scoreboard</li>
                                 <li><a href="../Trade/TradeRankings">Rankings</a></li>
                             </ul>
                         </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social <b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li class="dropdown-header">Discover</li>
+                                <li><a href="../Social/Discover/WhoToFollow">Who to Follow</a></li>
+                                <li><a href="../Social/Discover/PopularAccounts">Popular Accounts</a></li>
+                            </ul>
+                        </li>
                     </ul>
 
-                    <a href="../Default" class="navbar-brand logoStyle">Investagrams</a>
+
+                    <img id="InvestagramsHeaderLoader" src="../Images/Loading%20State/loading_state_2.gif?Investagrams_ImageUrl_1.0.0.1" alt="Loading..." class="headerLoaderStyle">
+                    <a id="InvestagramsHeaderLogo" href="../Default" class="navbar-brand logoStyle">Investagrams</a>
 
 
 
 
-                    <ul class="nav navbar-nav navbar-right">
+                    <ul class="nav navbar-nav navbar-right" style="margin-top: 1px;">
                         
-                               <li class="dropdown user-menu">
-                                    <a href="#" class="dropdown-toggle font-size-icon" data-toggle="dropdown">
-                                        <span class="glyphicon glyphicon-user">
-                                    </span></a>
-                                   <ul class="dropdown-menu" role="menu">
-                                       <li class="user-header">
-                                           <img src="../Images/Account/Default/default_avatar_admin.jpg" class="img-circle" alt="User Image">
-                                           <p>
-                                               Hello!
+                            <li class="dropdown user-menu">
+                                <a href="#" class="dropdown-toggle font-size-icon" data-toggle="dropdown">
+                                    <span class="glyphicon glyphicon-user">
+                                </span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li class="user-header">
+                                        <img src="../Images/Account/Default/default_avatar_admin.jpg?Investagrams_ImageUrl_1.0.0.1" class="img-circle" alt="User Image">
+                                        <p>
+                                            Hello!
 
                                         <small>Please Login</small>
-                                           </p>
-                                       </li>
-                                       <li class="user-footer">
-                                           <div class="pull-left">
-                                               <a href="../Welcome/Register" class="btn btn-default btn-flat">Register</a>
-                                           </div>
-                                           <div class="pull-right">
-                                               <a href="#" data-toggle="modal" data-target="#panelLoginDialog" class="btn btn-default btn-flat">Login</a>
-                                           </div>
-                                       </li>
-                                       
-                                   </ul>
-                                </li>
-                            
+                                        </p>
+                                    </li>
+                                    <li class="user-footer">
+                                        <div class="pull-left">
+                                            <a href="../Register/" class="btn btn-default btn-flat">Register</a>
+                                        </div>
+                                        <div class="pull-right">
+                                            <a href="#" data-toggle="modal" data-target="#panelLoginDialog" class="btn btn-default btn-flat">Login</a>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                            </li>
+                        
+
+                        
+
 
                     </ul>
 
-
-
-
+                    
+                    
+                    
                     <div class="col-xs-3 navbar-right">
-                        <form id="formSearchStock" class="navbar-form" method="get" action="../Stock/SearchStock">
+                        <form id="formSearchStock" class="navbar-form" style="padding: 0;" method="get" action="../Search/SearchStock">
                             <div class="input-group">
-                                <input type="search" name="Stock" class="form-control" value="" placeholder="Search Stock (e.g. MEG)" title="Example: MEG or Megaworld" autocomplete="on" required="">
+                                <input type="search" id="SearchKeywordTextBox" name="Keyword" class="form-control" value="" placeholder="Search Investagrams" title="Search for stock, people, or post." autocomplete="off" required="">
+                                <input type="hidden" name="Direct" value="true">
                                 <span class="input-group-btn">
-                                    <button type="submit" class="btn btn-primary" title="Search Stock"><i class="glyphicon glyphicon-search"></i></button>
+                                    <button type="submit" class="btn btn-primary" title="Search"><i class="glyphicon glyphicon-search"></i></button>
                                 </span>
                             </div>
                         </form>
+
+                        <ul id="SearchBarResultContentPanel" class="dropdown-search-result-content dropdown-menu">
+                            
+                            <li>
+                                <a id="SearchForKeyword" href="../Search/SearchStock?Keyword=">Search for <span></span></a>
+                            </li>
+                        </ul>
                     </div>
 
 
@@ -138,6 +280,17 @@
             </div>
         </div>
 
+        <div id="AlertNotificationMessage" class="alert-notification-message" style="display:none;">
+	
+            <div id="AlertNotificationPanelMessage" class="alert alert-success alert-dismissible">
+		
+                <button type="button" class="close" onclick="closeAlertNotificationMessage()"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <span id="AlertNotificationTextMessage">Hello There!</span>
+            
+	</div>
+        
+</div>
+            
 
         <div id="breakPanel">
 	
@@ -153,46 +306,74 @@
 	
 
             
-            <form method="post" action="PrivacyPolicy" id="ctl06">
-	<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="+EekeZtbvXMe5BVnvUlzoeSgabS7b2DRqJjrQlftYgH4oemScVB9V/VHU+D7t8M8uxQbUi8rIQAwyKn5nis0t9wHmWJzMfGrK9d5320gw1tsdh9NwddHhF/Rw9mrPgLm7Z2KLm9DzMf1VDayfLfhtVKV/CvU1KPw30lcarWsEzrfMiMRb/LBYoFq3Mhx/+GLhciqev+PNIiGdEKW8JinKcqeb6BYa193D38mbNmIR8N73c3fAUPvA7EP7dDEm6fbVeeENQyNcjU5iGSjkw0cYSxy0bK87ckq5sHneJ3G40c8oxrCVSBzI7cfadZdYrk9uHHzEgseeDi2nLXAXM4Fsw==">
+            <form method="post" action="PrivacyPolicy" id="ctl07">
+	<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="JOtG9eApInXCS2/tUBLkvWBgzH7XVUohyw11XlOeijas2+d7pst6YU5HdCDaayLojpxh0Hu11WsaD+8xnn79ODcHwpPG5ruU1RUMIJ1RbPVeuaeTX0nSdm86zQc6otZqViHx5c8+lg6sNh7rUrd4FSDsQiTHATeotHFL+x8DY23XVFIn1wH+5KxTSLJnBTjqTVI5wHRzfebCRtFhlorf88NqtLBMLsdJvSbiwUkhXWNEa8271KJQudf6IBDG0FEX2n1Im1q1r17eeaaISqyqs3gpbDmuCMZhgDVSoyYP1WFZXhJRmBhe+GA/7C/Mwhpn">
 
 	
-<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yB70-ysdWrf1ICSp0zatRrppXzKShz09SH2nNFSrTIWiGvXSdrxf7yNXuTiPY1IZ3t7nCNsQWEZZ0wH8lTID-yTAfpnTKpLiCcRNdjiyZ43eegWy8fiy14Gyo1po11oo0iV5lJzuiUE3sav7c9t9Ypk1&amp;t=348b0da" type="text/javascript"></script>
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="U3gspEBBnRoQFtcN2SkBG0aAtDd2Oqju7xCv24iZB6Mya0fBq5vRgCwUadyWgLlguXw8gvdO4/S17zcV4Rdn6XAC2sPpIlJ6lmwazi6qU/HkYwbHAxdnJiwqkMNMUobfS3bspqMfnPkorFmew+/EXo0dv6y34Qq+7xPI4WdMgdz7BvL2vzTpcyJu9iiDW2o8Q8YThgJmA9AojAPJfrN/sg==">
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yEd3vggYIIY1J_MEaMKgVGm5LwYH7cSnwLRr5b_ebO7_qLRMabQDGjNhc4w5l1pYXzesiLWh-6p25khi2HRKTpdXNjGXvlKg4d62vUxc63DAjs7-aNLK5rqNDa9YDByqX4vwm2HGLjeRltk3Boy7gnU1&amp;t=ffffffff805766b3" type="text/javascript"></script>
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6BDAE3DB">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="PGrpeDqQ8hfrkDyNar0gkKELeVvEOfcEa9C2o2UwwRrRnlEVraDzDSXGARAGZBBZuwYIiQ5H8v0mPVjusweceDaO02RUNeKD4DnIhqsZm5Jo/ekN4YrGOV8BQceq2eWnbL8mwhvqeWNrraZ99cdSqlcxM2Tp7LOEKU7k5WCKKA4gAVYeVFdBE54NZ9IvIVGFMEmO5QZj7WQxjU+8ecs+LQ==">
                 
 
+                <script type="text/javascript">
 
-                
-                        
-                        <div class="modal fade" id="panelLoginDialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                            <div class="modal-dialog">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                                        <h4 class="modal-title">Login</h4>
-                                    </div>
-                                    <div class="modal-body">
-                                        
+                    /*ASP.NET UpdatePanel Ajax Method*/
+
+                    var prm = Sys.WebForms.PageRequestManager.getInstance();
+
+
+                    prm.add_beginRequest(beginRequest);
+
+                    //To Handle Scroll Position After Ajax Response
+                    function beginRequest() {
+                        prm._scrollPosition = null;
+                    }
+
+                    /*END OF ASP.NET UpdatePanel Ajax Method*/
+
+                </script>
+
+                <div id="LoginDialogPopUp">
+		
+                    
+                    <div class="modal fade" id="panelLoginDialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                    <h4 class="modal-title">Login</h4>
+                                </div>
+                                <div class="modal-body">
+                                    
 
 
 <div class="form-horizontal">
 
-    <table id="LoginLogoutView_loginUserControl_LoginControl" cellspacing="0" cellpadding="0" width="100%">
-		<tbody><tr>
-			<td>
+    <div class="row text-center">
+        <div class="col-xs-12">
+            <a href="https://www.facebook.com/dialog/oauth?client_id=1599265263687910&amp;redirect_uri=http://investagrams.com/Account/ApplicationIntegration/Facebook/LoginFacebook&amp;scope=email,publish_stream">
+                <img src="../Images/Account/Login/login-facebook.png?Investagrams_ImageUrl_1.0.0.1" alt="Facebook">
+            </a>
+        </div>
+    </div>
+    
+
+    <hr>
+
+    
             <div id="LoginUpdatePanel">
-				
+			
                     <div class="form-group">
                         <label class="col-xs-2 control-label">Username</label>
                         <div class="col-xs-9">
-                            <input name="ctl00$LoginLogoutView$loginUserControl$LoginControl$Username" type="text" maxlength="40" id="LoginLogoutView_loginUserControl_LoginControl_Username" class="form-control" placeholder="Username" required="true">
+                            <input name="ctl00$LoginUserControlPanel$Username" type="text" maxlength="40" id="LoginUserControlPanel_Username" class="form-control" placeholder="Username" required="true">
                             
                         </div>
                     </div>
                     <div class="form-group">
                         <label class="col-xs-2 control-label">Password</label>
                         <div class="col-xs-9">
-                            <input name="ctl00$LoginLogoutView$loginUserControl$LoginControl$Password" type="password" maxlength="40" id="LoginLogoutView_loginUserControl_LoginControl_Password" class="form-control" placeholder="Password" required="true">
+                            <input name="ctl00$LoginUserControlPanel$Password" type="password" maxlength="40" id="LoginUserControlPanel_Password" class="form-control" placeholder="Password" required="true">
                             
                         </div>
                     </div>
@@ -200,9 +381,9 @@
                     <div class="form-group">
                         <div class="col-xs-offset-2 col-xs-10">
                             <div class="checkbox">
-                                <input id="LoginLogoutView_loginUserControl_LoginControl_RememberMe" type="checkbox" name="ctl00$LoginLogoutView$loginUserControl$LoginControl$RememberMe"><label for="LoginLogoutView_loginUserControl_LoginControl_RememberMe">Remember me</label>
+                                <input id="LoginUserControlPanel_RememberMe" type="checkbox" name="ctl00$LoginUserControlPanel$RememberMe"><label for="LoginUserControlPanel_RememberMe">Remember me</label>
                                 <span>·</span>
-                                <a id="LoginLogoutView_loginUserControl_LoginControl_ForgotPassword" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$LoginLogoutView$loginUserControl$LoginControl$ForgotPassword", "", true, "", "", false, true))'>Forgot Password?</a>
+                                <a id="LoginUserControlPanel_ForgotPassword" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$LoginUserControlPanel$ForgotPassword", "", true, "", "", false, true))'>Forgot Password?</a>
                             </div>
                         </div>
                     </div>
@@ -217,39 +398,41 @@
 
                     <div class="form-group">
                         <div class="col-xs-offset-2 col-xs-2">
-                            <input type="submit" name="ctl00$LoginLogoutView$loginUserControl$LoginControl$LoginButton" value="Login" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LoginLogoutView$loginUserControl$LoginControl$LoginButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="LoginButton" class="btn btn-primary">
+                            <input type="submit" name="ctl00$LoginUserControlPanel$LoginButton" value="Login" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LoginUserControlPanel$LoginButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="LoginButton" class="btn btn-primary">
                         </div>
                         <div class="col-xs-2">
-                            <div id="LoginLogoutView_loginUserControl_LoginControl_LoginPageUpdateProgress" style="display:none;">
-					
-                                    <img src="../Images/Loading%20State/loading_state_modern.gif" alt="Loading...">
+                            <div id="LoginUserControlPanel_LoginPageUpdateProgress" style="display:none;">
+				
+                                    <img src="../Images/Loading%20State/loading_state_2.gif?Investagrams_ImageUrl_1.0.0.1" alt="Loading...">
                                 
-				</div>
+			</div>
                         </div>
                     </div>
 
                     
                 
-			</div>
+		</div>
 
 
 
             
-        </td>
-		</tr>
-	</tbody></table>
+
+        
 
 
 
 </div>
-                                    </div>
-                                    <div class="modal-footer" style="text-align: left;">
-                                        <p>New to Investagrams? <a href="../Welcome/Register">Signup Now</a></p>
-                                    </div>
+                                </div>
+                                <div class="modal-footer" style="text-align: left;">
+                                    <p>New to Investagrams? <a href="../Welcome/Register">Signup Now</a></p>
                                 </div>
                             </div>
                         </div>
-                    
+                    </div>
+                
+	</div>
+
+                
 
 
 
@@ -492,13 +675,13 @@
 
                                 <div class="panel-body">
                                     <div class="table-responsive">
-                                        <table id="EventsTable" class="eventOverviewTable">
+                                        <table id="EventsTable" class="eventOverviewTable margin-center">
 			<tbody><tr>
-				<td>Sep 22</td><td><a title="" class="popover-dismiss" data-placement="left" data-toggle="popover" data-content="<p style='text:alight:justify;'>Start: Monday, September 22, 2014 09:30:00 AM<br/>End: Monday, September 22, 2014 03:30:00 PM<br/><br/>Url: <a href='#' >Click Here</a><br/><br/>Description:Common. Cash Dividend. Php0.38 per share</p>" href="/About/PrivacyPolicy#" data-original-title="DIVIDENDS:Payment Date Alliance Global Group, Inc.">DIV:Payment Date Alliance Global Group, Inc.</a></td>
+				<td>Jun 08</td><td><a title="DIVIDENDS:Ex-Date BDO Unibank, Inc." class="popover-dismiss" data-placement="left" data-toggle="popover" data-content="<p style='text:alight:justify;'>Start: Monday, June 08, 2015 09:30:00 AM<br/>End: Monday, June 08, 2015 03:30:00 PM<br/><br/>Url: <a href='#' >Click Here</a><br/><br/>Description:COMMON. Cash. P0.30 per common share for the Second Quarter of 2015</p>" href="/About/PrivacyPolicy#">DIV:Ex-Date BDO Unibank, Inc.</a></td>
 			</tr><tr>
-				<td>Sep 23</td><td><a title="" class="popover-dismiss" data-placement="left" data-toggle="popover" data-content="<p style='text:alight:justify;'>Start: Tuesday, September 23, 2014 09:30:00 AM<br/>End: Tuesday, September 23, 2014 03:30:00 PM<br/><br/>Url: <a href='#' >Click Here</a><br/><br/>Description:Common. 1.7341193688% Stock Dividend. Cash Dividend: P0.0173411936  per share</p>" href="/About/PrivacyPolicy#" data-original-title="DIVIDENDS:Payment Date Makati Finance Corporation	">DIV:Payment Date Makati Finance Corporation	</a></td>
+				<td>Jun 12</td><td><a title="HOLIDAY:Independence Day" class="popover-dismiss" data-placement="left" data-toggle="popover" data-content="<p style='text:alight:justify;'>Start: Friday, June 12, 2015 12:00:00 AM<br/>End: Friday, June 12, 2015 11:59:00 PM<br/><br/>Url: <a href='#' >Click Here</a><br/><br/>Description:Regular Holiday</p>" href="/About/PrivacyPolicy#">HOL:Independence Day</a></td>
 			</tr><tr>
-				<td>Sep 24</td><td><a title="" class="popover-dismiss" data-placement="left" data-toggle="popover" data-content="<p style='text:alight:justify;'>Start: Wednesday, September 24, 2014 12:00:00 AM<br/>End: Wednesday, September 24, 2014 12:00:00 AM<br/><br/>Url: <a href='#' >Click Here</a><br/><br/>Description:PHP 0.04 per share</p>" href="/About/PrivacyPolicy#" data-original-title="DIVIDENDS:Ex-Date Leisure &amp; Resorts World Corporation">DIV:Ex-Date Leisure &amp; Resorts World Corporation</a></td>
+				<td>Jun 22</td><td><a title="DIVIDENDS:Ex-Date Filinvest Land, Inc." class="popover-dismiss" data-placement="left" data-toggle="popover" data-content="<p style='text:alight:justify;'>Start: Monday, June 22, 2015 09:30:00 AM<br/>End: Monday, June 22, 2015 03:30:00 PM<br/><br/>Url: <a href='#' >Click Here</a><br/><br/>Description:COMMON. Cash. P0.0373 + P0.018</p>" href="/About/PrivacyPolicy#">DIV:Ex-Date Filinvest Land, Inc.</a></td>
 			</tr>
 		</tbody></table>
                                         <p style="text-align: center; font-size: 20px; margin: 0 0 0;">
@@ -527,20 +710,45 @@
                             </div>
                         </div>
 
+                        
                         <div>
                             <div class="panel panel-info">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title" style="text-align: center;">Tweets</h4>
+                                    <h4 class="panel-title" style="text-align: center;">Stock Trendings</h4>
                                 </div>
 
                                 <div class="panel-body">
-                                    <div>
-                                        <a class="twitter-timeline" href="https://twitter.com/investagrams" data-widget-id="500292430717923328">Tweets by @investagrams</a>
-                                        <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+                                    <div class="table-responsive">
+                                        <table id="StockTrendsTable" class="eventOverviewTable margin-center">
+			<tbody><tr>
+				<td><a title="$FNI - Global Ferronickel Holdings, Inc." href="../Search/SearchPost?Keyword=FNI">$FNI - Global Ferronickel Holdings, Inc.</a></td>
+			</tr><tr>
+				<td><a title="$PSEI - Philippines Stock Exchange Index" href="../Search/SearchPost?Keyword=PSEI">$PSEI - Philippines Stock Exchange Index</a></td>
+			</tr><tr>
+				<td><a title="$IS - Island Information and Technology, Inc" href="../Search/SearchPost?Keyword=IS">$IS - Island Information and Technology, Inc</a></td>
+			</tr><tr>
+				<td><a title="$PIP - Pepsi-Cola Products Philippines, Inc." href="../Search/SearchPost?Keyword=PIP">$PIP - Pepsi-Cola Products Philippines, Inc.</a></td>
+			</tr><tr>
+				<td><a title="$GTCAP - GT Capital Holdings, Inc." href="../Search/SearchPost?Keyword=GTCAP">$GTCAP - GT Capital Holdings, Inc.</a></td>
+			</tr><tr>
+				<td><a title="$DNL - D and L (D&amp;L) Industries, Inc." href="../Search/SearchPost?Keyword=DNL">$DNL - D and L (D&amp;L) Industries, Inc.</a></td>
+			</tr><tr>
+				<td><a title="$FLI - Filinvest Land, Inc." href="../Search/SearchPost?Keyword=FLI">$FLI - Filinvest Land, Inc.</a></td>
+			</tr><tr>
+				<td><a title="$URC - Universal Robina Corporation" href="../Search/SearchPost?Keyword=URC">$URC - Universal Robina Corporation</a></td>
+			</tr><tr>
+				<td><a title="$GERI - Global-Estate Resorts, Inc." href="../Search/SearchPost?Keyword=GERI">$GERI - Global-Estate Resorts, Inc.</a></td>
+			</tr><tr>
+				<td><a title="$EDC - Energy Development Corporation" href="../Search/SearchPost?Keyword=EDC">$EDC - Energy Development Corporation</a></td>
+			</tr>
+		</tbody></table>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
+
+                        
 
                         <div>
                             <div class="panel panel-info">
@@ -600,7 +808,7 @@
 
                                     <br>
 
-                                    
+
                                     <div class="advertisementBox advertisement-small-square">
                                         <style>
                                             .investagrams-responsive {
@@ -615,10 +823,8 @@
                                             (adsbygoogle = window.adsbygoogle || []).push({});
                                         </script>
                                     </div>
-                                    
-                                    
 
-
+                                    
                                 </div>
                             </div>
 
@@ -626,15 +832,14 @@
                                 
 
 <p>
-    Investagrams © 2014 
+    Investagrams © 2015
     <span>·</span>
     <a href="About">About</a>
     <span>·</span>
     <a href="Terms">Terms</a>
     <span>·</span>
     <a href="PrivacyPolicy">Privacy Policy</a>
-    <span>·</span>
-    <a href="Blog">Blog</a>
+    
     <span>·</span>
     <a href="ContactUs">Contact Us</a>
 </p>
@@ -652,7 +857,8 @@
 </div>
 
         
-
+        
+        
 
     </div>
 
