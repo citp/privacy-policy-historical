@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009215455id_/http%3A//gamextazy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529234939id_/http%3A//gamextazy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamexTazy
 
