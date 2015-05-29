@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeprnow.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007151518id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeprnow.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529022811id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Online Free Press Release PR Distribution Submission Service Websites
 
