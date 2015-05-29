@@ -1,35 +1,51 @@
-> *The following text is extracted and transformed from the jetradar.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513230016id_/http%3A//www.jetradar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetradar.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530014946id_/http%3A//www.jetradar.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Jetradar
+# Privacy and Cookie Policy
 
-**(Version 3 after 15/01/2013. If you disagree with any of the items below, please don’t use our web sites.)**
+**(Version 5 after 04/22/2015. If you disagree with any of the items below, please don’t use our web sites.)**
 
 ## Who we are
 
 We (Go Travel Un Limited doing business as JetRadar, a Hong Kong Limited Liability Company, and its subsidiaries, collectively referred to as **JetRadar** ) operate a number of web sites allowing you to search for airline tickets, hotel rooms, travel insurance and car rentals: 
 
-  * www.jetradar.com (English)
-  * www.jetradar.de (German)
-  * www.aviasales.ru (Russian)
-  * www.hotelresearch.ru (Russian)
-  * www.hotellook.com, www.bookmybest.com (English)
-  * www.hotellook.ru, www.bookmybest.ru (Russian)
+  * www.jetradar.com
+  * www.jetradar.de
+  * www.jetradar.co.uk
+  * www.jetradar.com.au
+  * www.jetradar.es
+  * it.jetradar.com
+  * fr.jetradar.com
+  * www.jetradar.sg
+  * ca.jetradar.com
+  * ie.jetradar.com
+  * www.jetradar.co.th
+  * www.jetradar.in
+  * www.jetradar.co.nz
+  * www.aviasales.ru
 
 
 
-## What information we collect about you
+## What is a cookie files?
 
-Please be advised that we don’t knowingly collect any information about minors; however, if we find out that certain records belong to minors, we’ll go at great lengths to remove that information from our database ASAP. This section only describes our policies towards your data; you buy travel products from other companies operating other web sites, hence they may have slightly different rules. 
+In short, a cookie is a small text file that is placed on your computer or mobile device to help ensure that you get the best possible experience when you visit a website. 
 
-## Web site
+## Why does JetRadar use cookies?
 
-  * We may install our own cookie (a small file) in your browser. This cookie allows us to determine:
-    * Whether it’s your first visit or not, and
-    * Whether you visited our site directly or via a link or search form published by one of our partners.
-    * Your search history: origin, destination and travel dates.
+Cookies allow us to improve the website's content, functionality and speed, while their tracking ability also helps us to understand your likes and dislikes, which means we can respond quickly and adapt the site accordingly. 
+
+## What information we collect with cookies
+
+  * Whether it’s your first visit or not, and
+  * Whether you visited our site directly or via a link or search form published by one of our partners.
+  * Your search history: origin, destination and travel dates.
   * We are using the Google Analytics tracking system. It may install cookies in your browser according to Google’s privacy policy.
+  * In addition to the cookies JetRadar delivers to your computer, certain third parties may deliver cookies to your computer for a variety of reasons for more targeted advertising experience. We are working with online advertising companies to display online behavioral advertising on our sites and third party sites that you visit. This targeting may be based on information you submit on our sites or third party platforms. Your search parameters (origin, destination, travel dates, class and number of passengers) could be used for advertising purposes. Please note what we are not sharing Personally identifiable information to third parties. To opt-out from such kind of advertisements you can follow next link: [aboutads.info](http://www.aboutads.info/choices/).
 
 
+
+## How can you disable cookies?
+
+Most browsers allow you to reject all cookies. For example, in Google Chrome you can disable all cookies by clicking "Settings"->"Content Settings" and selecting "Don't allow websites to use cookies". 
 
 ## Email list
 
@@ -81,4 +97,4 @@ Please be advised that we don’t knowingly collect any information about minors
 
 ## Closing Comments
 
-This document is constantly evolving to reflect our latest developments. We reserve the right to change it at any time. 
+This document is constantly evolving to reflect our latest developments. We reserve the right to change it at any time.
