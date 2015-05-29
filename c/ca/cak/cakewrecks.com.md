@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakewrecks.com privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105103318id_/http%3A//cakewrecks.squarespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakewrecks.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529075939id_/http%3A//cakewrecks.squarespace.com/privacy) for the most accurate reproduction.*
 
 # Cake Wrecks - Privacy
 
