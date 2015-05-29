@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zopomobileshop.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210074359id_/http%3A//www.zopomobileshop.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopomobileshop.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529120650id_/http%3A//www.zopomobileshop.com/content/6-privacy-policy) for the most accurate reproduction.*
 
-# Buy ZOPO Mobile Phone at Official Authorized Shop
+# Privacy policy - ZOPO MOBILE RETAIL SHOP
 
 ## Privacy policy
 
-******Private Information Security**  
+ **** **Private Information Security**  
 For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Authorize zopomobileshop.com﻿ keeps this information encrypted and secure on your behalf.  
  **Your privacy**  
 At zopomobileshop.com﻿, we take your privacy very seriously. Please read this policy (this "Policy") to see how zopomobileshop.com﻿ handles your personal information that you give to us when you register our website (the "Site"). This Policy only covers employees of zopomobileshop.com﻿ and does not extend to people or companies thatzopomobileshop.com﻿ does not employ or manage. We reserve the right to modify this Policy. We will notify you of substantial changes to this Policy by telling you about them on our Announcements Board.  
