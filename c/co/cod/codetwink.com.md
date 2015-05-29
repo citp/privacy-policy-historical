@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codetwink.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121123521id_/http%3A//www.codetwink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codetwink.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529113727id_/http%3A//www.codetwink.com/privacy.php) for the most accurate reproduction.*
 
 # CodeTwink - Home of the GameGenie PS3
 
@@ -73,6 +73,3 @@ Saint Louis, MO 63116
 webmaster@codetwink.com
 
 This document was last updated on June 17, 2013
-
-  
-
