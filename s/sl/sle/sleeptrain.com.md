@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206065442id_/http%3A//www.sleeptrain.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529082722id_/http%3A//www.sleeptrain.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sleep Train
 
 ## Archive
 
+  * [November 20, 2014](http://www.sleeptrain.com/legal-privacy-policy-nov-2014.html)
   * [December 2, 2013](http://www.sleeptrain.com/legal-privacy-policy-02Dec2013.html)
   * [January 22, 2013](http://www.sleeptrain.com/legal-privacy-policy-22Jan13.html)
   * [October 26, 2012](http://www.sleeptrain.com/legal-privacy-policy-26Oct2012.html)
@@ -17,9 +18,11 @@
 
 [Your California Privacy Rights](http://www.sleeptrain.com/legal-california-privacy-rights.html)
 
-**Last Updated: November 20, 2014**
+**Last Updated: May 6, 2015**
 
 At Sleep Train we are committed to ensuring the privacy of our customers. This privacy policy explains Sleep Train’s privacy practices, including those of our Web site located at www.sleeptrain.com (“Site”), for our customers who purchase our products and services. By using our Site, you consent to the terms of this privacy policy.
+
+This policy does not apply to the Customer Ratings and Reviews Terms of Use. Please [click here](http://www.sleeptrain.com/bazaarvoice-terms-conditions.html) to access the Customer Ratings and Reviews Terms of Use. 
 
 **What is Personal Information?**
 
@@ -100,7 +103,7 @@ Our Site contains links to other web sites. Any personal information you provide
 
 **Use of our Site by Children**
 
-We encourage parents to take an active interest in their children’s use of the Internet. Our site is not meant for children and we do not intend to collect information from children who are under 16 years of age. If you are under 16, you should not provide information on our Site and should ask your parent to do so for you.
+We encourage parents to take an active interest in their children’s use of the Internet. Our site is not meant for children and we do not intend to collect information from children who are under 18 years of age. If you are under 18, you should not provide information on our Site and should ask your parent to do so for you.
 
 **Security**
 
