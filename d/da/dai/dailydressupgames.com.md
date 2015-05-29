@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydressupgames.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209080451id_/http%3A//www.dailydressupgames.com/page/3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydressupgames.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530003354id_/http%3A//www.dailydressupgames.com/page/3.html) for the most accurate reproduction.*
 
 # Dress Up Games - Bratz Games - Cooking Games - Girl Games - Fashion Games - Privacy Policy
 
