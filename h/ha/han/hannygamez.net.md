@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hannygamez.net privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814002650id_/http%3A//www.hannygamez.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannygamez.net privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529100551id_/http%3A//www.hannygamez.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# HannyGamez: Download Games and Play Now! > A Free Game Daily!
+# HannyGamez: Download Games & Play Now! > A Free Game Daily!
 
 **Cookies & 3rd Party Advertisements:**  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
