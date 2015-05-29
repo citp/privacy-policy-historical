@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourhotcar.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153909id_/http%3A//www.yourhotcar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhotcar.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530002147id_/http%3A//www.yourhotcar.com/privacy.html) for the most accurate reproduction.*
 
 # - Buy
 
