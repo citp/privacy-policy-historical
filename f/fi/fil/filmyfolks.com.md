@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmyfolks.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007171716id_/http%3A//www.filmyfolks.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmyfolks.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530004209id_/http%3A//www.filmyfolks.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy of filmyfolks.com.
 
@@ -14,8 +14,8 @@ filmyfolks.com will respect the privacy policy of the viewers of our site. Your 
 
 ### Information we gather
 
-We collect information from various sources and provide the utmost true information best of us. We also have possibility to gather information from our own members. Our goal is to provide prime information and maintain long-lasting relation with the website visiters.   
-As you browse our Web site, WordStream Web servers collect information about your visit, not about you personally. Via Web server logs, we monitor statistics such as:  
+We collect information from various sources and provide the utmost true information best of us. We also have possibility to gather information from our own members. Our goal is to provide prime information and maintain long-lasting relation with the website visitors.   
+As you browse our Web site, servers collect information about your visit, not about you personally. Via Web server logs, we monitor statistics such as:  
 How many people visit our Web sites.  
 Which pages people visit on our Web sites.  
 From which domains our visitors come (e.g., "yahoo.com" or "google.com").  
