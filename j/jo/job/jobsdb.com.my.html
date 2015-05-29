@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobsdb.com.my privacy policy that was archived on 2014-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141116030652id_/http%3A//my.jobsdb.com/en-my/pages/terms/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobsdb.com.my privacy policy that was archived on 2015-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150529160805id_/http%3A//my.jobsdb.com/en-my/pages/terms/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="jobseeker-site country-sg lang-en mod-static" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<meta charset="UTF-8">
@@ -27,9 +27,9 @@
 <meta property="article:modified_time" content="2014-09-12T20:03:33+00:00">
 <meta property="og:updated_time" content="2014-09-12T20:03:33+00:00">
 <meta property="og:image" content="http://content.jobsdb.com/Content/d0729/images/Shared/v8Revamp2/jobsdb_logo_general_2013.gif">
-<link rel="stylesheet" id="jobsdb-style-css" href="http://sg.jobsdb.com/en-sg/wp-content/themes/jobsdb/style.css?ver=20141116" type="text/css" media="all">
+<link rel="stylesheet" id="jobsdb-style-css" href="http://sg.jobsdb.com/en-sg/wp-content/themes/jobsdb/style.css?ver=20150529" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='jobsdb-ie-css'  href='http://sg.jobsdb.com/en-sg/wp-content/themes/jobsdb/css/ie.css?ver=20141116' type='text/css' media='all' />
+<link rel='stylesheet' id='jobsdb-ie-css'  href='http://sg.jobsdb.com/en-sg/wp-content/themes/jobsdb/css/ie.css?ver=20150529' type='text/css' media='all' />
 <![endif]-->
 
 <meta name="referrer" content="origin">
@@ -349,7 +349,7 @@ _gaq.push(['_trackPageview']);
 _gaq.push(['_trackPageLoadTime']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl.google-analytics.com/ga.js' : 'http://content.jobsdb.com.sg/Content/v243/Javascript/ga.js?v=11/16/2014');
+ga.src = ('https:' == document.location.protocol ? 'https://ssl.google-analytics.com/ga.js' : 'http://content.jobsdb.com.sg/Content/v264/Javascript/ga.js?v=5/29/2015');
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 //]]>
@@ -357,12 +357,12 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <script type="text/javascript">
 var siteCatalystAccID = 'jobsdb-prd-sg';
 </script>
-<script type="text/JavaScript" src="http://content.jobsdb.com.sg/Content/v243/Javascript/s_code.js"></script>
-<script type="text/JavaScript" src="http://content.jobsdb.com.sg/Content/v243/Javascript/abTest.js"></script>
+<script type="text/JavaScript" src="http://content.jobsdb.com.sg/Content/v264/Javascript/s_code.js"></script>
+<script type="text/JavaScript" src="http://content.jobsdb.com.sg/Content/v264/Javascript/abTest.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 function InitOmnitureSiteCatalyst(s){
-var userInfo = getCookie('JsAccInfo');
+var userInfo = getCookie('JsAccInfo_XX');
 var useInfoObj = (userInfo) ? eval('(' + userInfo + ')') : null; 
 var userid = (useInfoObj) ? useInfoObj.Uid : null;
 if(userid != null){
@@ -378,7 +378,7 @@ s.eVar4 = 'logged out';
 }
 var utcOffsetMins = 480;
 s.eVar32 = GetCurrentDateTimeTrackingValue(utcOffsetMins);
-if(typeof abTest === 'function'){var ab = new abTest(s,'[{"DrawSampleAjaxURL":null,"CookieExpireMilliseconds":0.0,"VersionNumber":1,"ABTestKey":"AB.SearchAlgo","PercentOfB":11.0,"IsDrawFromAjax":false}]');}
+if(typeof abTest === 'function'){var ab = new abTest(s,'[{"DrawSampleAjaxURL":null,"CookieExpireMilliseconds":2592000000.0,"VersionNumber":1,"ABTestKey":"AB.SearchAlgo","PercentOfB":10.1,"IsDrawFromAjax":false}]');}
 s.eVar1 = "EN";
 s.eVar2 = "CMS";
 s.eVar6 = "D=g";
@@ -446,8 +446,8 @@ if(P1MemberCookie == "Not Assigned" || P1MemberCookie == "Old Form") {
 s.contextData['AB.MemP1'] = P1MemberCookie;
 s.contextData['AB.MemP1Version'] = serveNumber;
 s.contextData['AB.NonMemP1'] = P1NonMemberCookie;
-// User classification
-var isHasResumeId; var isHasP1Profile; var userClassificationCookie;
+//User classification
+var uc_uid; var isHasResumeId; var isHasP1Profile; var userClassificationCookie;
 var visitNumber = s.getVisitNum();
 var languageCodeID = getLanguageID(s.eVar1);
 var loginStatusID = getLoginStatusID(s.eVar4);
@@ -461,6 +461,13 @@ if(loginStatusID == 0) {
        userClassificationCookie = getCookie('UserClassification');
    }
    var cookieObj = JSON.parse(userClassificationCookie);
+   uc_uid = cookieObj.Uid;
+   if(uc_uid != s.eVar3){
+       document.cookie='UserClassification=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/';
+       ajaxSynchronization("http://sg.jobsdb.com/SG/EN/JobSeeker/UpdateUserClassificationCookie", false, false, "GET");
+       userClassificationCookie = getCookie('UserClassification');
+       cookieObj = JSON.parse(userClassificationCookie);
+   }
    isHasResumeId = cookieObj.IsHasResume;
    isHasP1Profile = cookieObj.IsHasP1Profile;
 }
@@ -516,7 +523,7 @@ function InitGoogleTagManager()
 		<div class="footer-body">
 			<div class="lower-footer">
 				<div class="footer-content">
-					<p class="footer-copyright">Copyright © 1998-2014, jobsDB. All Rights Reserved.</p>
+					<p class="footer-copyright">Copyright © 1998-2015, jobsDB. All Rights Reserved.</p>
 					<div class="footer-links">
 						<menu class="urls box">      
 							<li><a href="http://sg.jobsdb.com/en-sg/pages/terms/privacy-policy-my" target="_self">Privacy Statement</a></li>
