@@ -1,131 +1,96 @@
-> *The following text is extracted and transformed from the downloadcollection.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528072425id_/http%3A//www.downloadcollection.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadcollection.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530003420id_/http%3A//www.downloadcollection.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Information of Download Collection.Com
 
 ### New Software
 
-[**Rylstim Youtube Downloader 3.0.4527.17018**](https://web.archive.org/rylstim_youtube_downloader.htm)  
-Published: 27 May, 2012 12:07   
-Liked a youtube movie and don't want to lose it? Save the... 
+[**System Monitor II 21.4**](https://web.archive.org/system_monitor_ii.htm)  
+Published: 27 May, 2015 23:26   
+System Monitor shows your CPU core usage (supporting up... 
 
-[**Genuine Registry Doctor 2.5.4.8**](https://web.archive.org/genuine_registry_doctor.htm)  
-Published: 27 May, 2012 12:01   
-Genuine Registry Doctor offers your system FREE and... 
+[**Syncios 4.2.7**](https://web.archive.org/syncios.htm)  
+Published: 27 May, 2015 23:20   
+Syncios is an easy-to-use yet powerful iOS Manager,... 
 
-[**Speedtest4free 1.0**](https://web.archive.org/speedtest4free.htm)  
-Published: 27 May, 2012 11:56   
-Test your Internet connection speed and ping, whenever... 
+[**ByteScout PDF Multitool 6.00.2071**](https://web.archive.org/bytescout_pdf_multitool.htm)  
+Published: 27 May, 2015 23:16   
+PDF Multitool (FREEWARE) includes set of functions to... 
 
-[**SamLogic Image Resizer 1.0**](https://web.archive.org/samlogic_image_resizer.htm)  
-Published: 26 May, 2012 13:34   
-An easy-to-use program that converts / resizes images... 
+[**Export Auto-Complete Lists for Outlook 3.7**](https://web.archive.org/export_auto-complete_lists_for_outlook.htm)  
+Published: 27 May, 2015 23:06   
+Free, easy and fast way to save Microsoft Outlook... 
 
-[**UninstallButton Free 1.6.0.2**](https://web.archive.org/uninstallbutton_free.htm)  
-Published: 26 May, 2012 13:30   
-Simple free tool for easy removing programs from your... 
+[**Green Gallery 1.8**](https://web.archive.org/green_gallery.htm)  
+Published: 27 May, 2015 23:04   
+It's more than a tool. It's the most beautiful... 
 
-[**CloudBerry Explorer for OpenStack 1.2.1.22**](https://web.archive.org/cloudberry_explorer_for_openstack.htm)  
-Published: 24 May, 2012 15:53   
-CloudBerry Explorer is a FREEWARE Windows Client for... 
+[**Blue Fantasy 3.0**](https://web.archive.org/blue_fantasy.htm)  
+Published: 27 May, 2015 23:02   
+Enjoy fantastic special effects screensaver. This free... 
 
-[**Clearsight Antivirus Lite 1.1**](https://web.archive.org/clearsight_antivirus_lite.htm)  
-Published: 24 May, 2012 15:48   
-Incremental virus database update, Easy to use,... 
+[**Moyea Free PPT to PDF Converter 1.2.2.346**](https://web.archive.org/moyea_free_ppt_to_pdf_converter.htm)  
+Published: 27 May, 2015 23:01   
+Moyea Free PPT to PDF Converter is a totally free, smart... 
 
 ### New Reviews
 
-[ ** Disk Size Manager 2.1 ** ](https://web.archive.org/disk_size_manager.htm)   (Jhon Brain)   
-A nice tool for hard disk space manager. I can utilize my... 
-
-[ ** Image to PDF Converter Free 2.0 ** ](https://web.archive.org/image_to_pdf_converter_free.htm)   (deewinc)   
-Very light weight and excellent in performance. Very fast... 
-
-[ ** PortableApps Maker with P-Apps 1.1 ** ](https://web.archive.org/portableapps_maker_with_p-apps.htm)   (Onemegabyte)   
-Superb portable application tool, smaller in size and... 
-
-[ ** CodeLobster PHP Edition 3.5 ** ](https://web.archive.org/codelobster_php_edition.htm)   (Ruslan)   
-I recommend you Codelobster PHP Edition.  
-It's most... 
-
-[ ** Skype for the Nokia N800 1.7.62.49.1 ** ](https://web.archive.org/skype_for_the_nokia_n800.htm)   (kakda)   
-For me Skype is very good for contact other friend or... 
-
-[ ** stChess 2 ** ](https://web.archive.org/stchess.htm)   (J. Niz)   
-This is perfect for setting up a round robin tournament.... 
-
-[ ** CloneBuddy 3.6.1.2 ** ](https://web.archive.org/clonebuddy.htm)   (Harold Adams Sr.)   
-Appears to be an excellent program and just what I am... 
-
-[ ** Calculator Prompter 2.7 ** ](https://web.archive.org/calculator_prompter.htm)   (Adriko Moses)   
-Very good for student who are pursuing science. 
-
-[ ** Tint Photo Editor 1.0.1 ** ](https://web.archive.org/tint_photo_editor.htm)   (Chingjei)   
-This software is really very amazing 
-
-[ ** Registry Optimizer Free 2.4.3.8 ** ](https://web.archive.org/registry_optimizer_free.htm)   (Arabella)   
-Great product, consistent performance, easy to use.... 
-
 ### Popular Software
 
-[**PCL to PDF 64-bit / 64-bit .NET 11.6**](https://web.archive.org/pcl_to_pdf_64-bit___64-bit__net.htm)  (37)  
-Released: 08 July, 2111   
-PCL Tool SDK 64-bit v11.6 - Option III is designed for... 
+[**Comodo Endpoint Security Manager 1.5**](https://web.archive.org/comodo_endpoint_security_manager.htm)  (1336)  
+Released: 30 June, 2013   
+Comodo Business Antivirus includes Comodo's award winning... 
 
-[**Rylstim Youtube Downloader 3.0.4527.17018**](https://web.archive.org/rylstim_youtube_downloader.htm)  (795)  
-Released: 24 May, 2012   
-Liked a youtube movie and don't want to lose it? Save the... 
+[**FreeCommander 2009.02b**](https://web.archive.org/freecommander.htm)  (1890)  
+Released: 08 November, 2011   
+FreeCommander is an advanced file manager program. It can... 
 
-[**Genuine Registry Doctor 2.5.4.8**](https://web.archive.org/genuine_registry_doctor.htm)  (546)  
-Released: 25 May, 2012   
-Genuine Registry Doctor offers your system FREE and... 
+[**AbiWord 2.8.6**](https://web.archive.org/abiword.htm)  (770)  
+Released: 05 December, 2011   
+AbiWord is a free word processor for all major operating... 
 
-[**Naturpic Video Cutter 6.0**](https://web.archive.org/naturpic_video_cutter.htm)  (244)  
-Released: 24 May, 2012   
-Naturpic Video Cutter is a powerful tool to cut large... 
+[**TestDisk and PhotoRec 6.14**](https://web.archive.org/testdisk_and_photorec.htm)  (1449)  
+Released: 24 October, 2012   
+TestDisk is a powerful free data recovery software! 
 
-[**Speedtest4free 1.0**](https://web.archive.org/speedtest4free.htm)  (19)  
-Released: 20 May, 2012   
-Test your Internet connection speed and ping, whenever... 
+[**Apache OpenOffice.org 4.0.1**](https://web.archive.org/apache_openoffice_org.htm)  (787)  
+Released: 24 May, 2013   
+If you are not happy with paying for commercial office... 
 
-[**PDF File Converter 2.8**](https://web.archive.org/pdf_file_converter.htm)  (5)  
-Released: 23 May, 2012   
-PDF File Converter can help you quickly and securely... 
+[**NaviFirm Plus 3.2**](https://web.archive.org/navifirm_plus.htm)  (1904)  
+Released: 20 June, 2013   
+NaviFirm Plus is a program that allows you to download... 
 
-[**NoteBurner M4V Converter Plus for Mac 2.4.2**](https://web.archive.org/noteburner_m4v_converter_plus_for_mac.htm)  (7)  
-Released: 25 May, 2012   
-NoteBurner M4V Converter Plus for Mac can easily remove... 
+[**Norton AntiVirus 2013 20.3.0.36**](https://web.archive.org/norton_antivirus_2013.htm)  (8063)  
+Released: 15 August, 2013   
+Introducing the new Norton AntiVirus. Norton Antivirus... 
 
-[**SamLogic Image Resizer 1.0**](https://web.archive.org/samlogic_image_resizer.htm)  (40)  
-Released: 21 May, 2012   
-An easy-to-use program that converts / resizes images... 
+[**NetBeans IDE 7.4**](https://web.archive.org/netbeans_ide.htm)  (532)  
+Released: 02 December, 2013   
+Free and open source IDE for programmers in almost all... 
 
-[**UninstallButton Free 1.6.0.2**](https://web.archive.org/uninstallbutton_free.htm)  (25)  
-Released: 14 May, 2012   
-Simple free tool for easy removing programs from your... 
+[**Safari for Windows 5.1.7**](https://web.archive.org/safari_for_windows.htm)  (2296)  
+Released: 04 December, 2013   
+Experience the fastest web browsing in your windows PC... 
 
-[**CloudBerry Explorer PRO for OpenStack 1.2.1.23**](https://web.archive.org/cloudberry_explorer_pro_for_openstack.htm)  (2)  
-Released: 20 April, 2012   
-CloudBerry Explorer PRO is a Windows Client for... 
+[**Nokia Suite 3.8**](https://web.archive.org/nokia_suite.htm)  (7362)  
+Released: 05 December, 2013   
+Download Nokia Suite and install in your windows PC to... 
 
-[**CloudBerry Explorer for OpenStack 1.2.1.22**](https://web.archive.org/cloudberry_explorer_for_openstack.htm)  (142)  
-Released: 20 April, 2012   
-CloudBerry Explorer is a FREEWARE Windows Client for... 
+[**Turbo C++ 3.0**](https://web.archive.org/turbo_c__.htm)  (3172)  
+Released: 08 December, 2013   
+Turbo C++ by Borland is the most popular editor, compiler... 
 
-[**Clearsight Antivirus Lite 1.1**](https://web.archive.org/clearsight_antivirus_lite.htm)  (285)  
-Released: 03 January, 2011   
-Incremental virus database update, Easy to use,... 
+[**GeekUninstaller 1.1.1.21**](https://web.archive.org/geekuninstaller.htm)  (779)  
+Released: 08 December, 2013   
+GeekUninstaller is a free small sized uninstaller program... 
 
-[**Universal Explorer 5.1**](https://web.archive.org/universal_explorer.htm)  (15)  
-Released: 03 February, 2011   
-It is a powerful Windows Explorer replacement designed to... 
+[**SeaMonkey 2.23**](https://web.archive.org/seamonkey.htm)  (815)  
+Released: 07 January, 2014   
+Advanced Internet user, web developer and corporate... 
 
-[**Web Data Extractor 8.3**](https://web.archive.org/web_data_extractor.htm)  (16)  
-Released: 27 December, 2011   
-A powerful web data / link extractor utility. Extract... 
-
-[**Extract URL 1.4**](https://web.archive.org/extract_url.htm)  (11)  
-Released: 10 June, 2004   
-A powerful URL extractor utility. Extract URL with title,... 
+[**Ahnenblatt 2.74**](https://web.archive.org/ahnenblatt.htm)  (20)  
+Released: 15 November, 2012   
+Ahnenblatt is a free and easy-to-use genealogy software... 
 
 ## Privacy Policy
 
