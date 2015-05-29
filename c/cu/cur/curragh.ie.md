@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curragh.ie privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709095344id_/http%3A//www.curragh.ie/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curragh.ie privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529061213id_/http%3A//www.curragh.ie/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from the Curragh Racecourse
 
