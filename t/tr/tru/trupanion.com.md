@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028190940id_/http%3A//trupanion.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trupanion.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529051239id_/http%3A//trupanion.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Trupanion
 
 ##  Privacy Policy 
 
@@ -114,6 +114,8 @@ We also want to make you aware of how we use online data collecting devices know
 
 "Cookies" help us to understand your website usage, so we can continually improve its usability. For example, we may use "cookies" to personalize your experience on our website, if you have accepted this option (e.g., to remember your customer ID on a login page). We may also use "cookies" to offer you other insurance and financial services products that may suit your needs. During the period you are logged into our site, we log IP addresses (a number assigned to your computer when you use the Internet), browser and platform types, domain name, access times, referral data (the last site or URL you visited before logging into our site and the first site or URL you visit after leaving our site), and your activity while using our site.
 
+While you may choose to disable cookies via your browser settings, doing so may not allow us to enhance your web experience. Non-personally identifiable information may be collected for use in Google Analytics features, such as Demographics and Interest Reporting, Remarketing, Display Network Impression Reporting, and DoubleClick Campaign Manager Integration. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by visiting Google Ads Settings.
+
 We use the Secure Socket Layer (SSL) protocol, secure servers and security protocol to safeguard the information you submit over the Internet. It is important to note that email messages are not secure. Email messages traveling through the Internet are subject to viewing, alteration, and copying by potentially anyone on the Internet.
 
 This website contains links to other sites. We provide links to other sites as a convenience to persons who visit our web site. If you choose to use the services provided by those sites, you may be asked by those sites to provide certain personally identifiable information. Please be aware that we are not responsible for the privacy practices of those sites, even if our name or logo appear on those sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every website that you visit, as the privacy policies of those sites may differ from ours. This privacy statement applies solely to this website.
@@ -129,5 +131,3 @@ By opting out, you will stop receiving behavioral target ads from your visits to
 **
 
 Please feel free to call us at our toll-free number at 888.733.2685 if you would like to ask us any questions about this form, or about any of our policies. We look forward to serving all of your insurance needs.
-
-*Revised August 8, 2012
