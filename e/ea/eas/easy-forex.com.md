@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the easy-forex.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230052359id_/http%3A//www.easy-forex.com/int/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-forex.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530010000id_/http%3A//www.easy-forex.com/int/en/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Please wait...
+# PRIVACY POLICY – SECURITY
 
 By registering with or accessing the easy forex website, you consent to the collection and use of your personal data.
 
