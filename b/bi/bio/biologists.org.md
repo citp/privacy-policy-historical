@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biologists.org privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202085632id_/http%3A//www.biologists.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologists.org privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530012900id_/http%3A//www.biologists.com/privacy_policy.html) for the most accurate reproduction.*
 
 # The Company of Biologists Ltd
 
@@ -40,7 +40,7 @@ Browsing and viewing publicly accessible areas of the Website does not require y
 
 2.6 We may also monitor your Website usage (including your patterns of Website usage) from time to time, although we are not obliged to do so and may in our sole discretion choose not to do so. Any such monitoring may involve the processing of your personal information. We may also provide aggregated website usage information to third parties, but this aggregated information will be anonymised and will not therefore include information that can be used to identify you.
 
-2.7 You may modify your preferences or get further information by writing to us at Data Protection, The Company of Biologists, Bidder Building, 140 Cowley Road, Cambridge, CB4 0DL, UK or by email to [datap@biologists.com](mailto:datap@biologists.com).
+2.7 You may modify your preferences or get further information by writing to us at Data Protection, The Company of Biologists, Bidder Building, Station Road, Histon, Cambridge, CB24 9LF, UK or by email to [datap@biologists.com](mailto:datap@biologists.com).
 
 ### **3\. Disclosing your Information**
 
@@ -86,9 +86,10 @@ Privacy policy last updated 13 June 2010
 
 The Company of Biologists Limited  
 Bidder Building  
-140 Cowley Road  
+Station Road  
+Histon  
 Cambridge  
-CB4 0DL  
+CB24 9LF  
 United Kingdom
 
 Registered on Data Protection Public Register under number Z5687555
