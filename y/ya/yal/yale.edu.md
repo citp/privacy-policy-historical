@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yale.edu privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220055544id_/http%3A//yale.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yale.edu privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529103618id_/http%3A//yale.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
