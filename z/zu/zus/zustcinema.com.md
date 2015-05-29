@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zustcinema.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512221115id_/http%3A//www.zustcinema.com/p/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zustcinema.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529032211id_/http%3A//telugu.zustcinema.com/p/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
 
-# Privacy Policy and Disclaimer ~ Telugu Cinema News Updates
+# Privacy Policy and Disclaimer
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
 
@@ -12,12 +12,11 @@ The ads from this site are served by Google AdSense, a third-party service that 
 
 Contact Information
 
-If you have any questions or concerns please contact me at  . This privacy policy updated December 2010..
+If you have any questions or concerns please contact me at **admin@zustcinema.com**   . This privacy policy updated Febuary 2014..
 
 Disclaimer
 
-Some images contained in **[Zustcinema.com](http://zustcinema.com/) ** have been obtained from various internet sources. The copyright of these pictures belongs to their original publisher / photographer. Please let us know at 
+Some images contained in **[Zustcinema.com](http://zustcinema.com/) ** have been obtained from various internet sources. The copyright of these pictures belongs to their original publisher / photographer. Please let us know at **admin@zustcinema.com** if any Copyright Violation occurs and we will remove them right away. 
 
-if any Copyright Violation occurs and we will remove them right away. 
-
-If by anyhow any of the content is offensive to you, please, contact us asking for the removal. If you own copyrights over any of them and do not agree with it being shown here, please send us an email with ownership proof and we will remove it. email us at 
+If by anyhow any of the content is offensive to you, please, contact us asking for the removal. If you own copyrights over any of them and do not agree with it being shown here, please send us an email with ownership proof and we will remove it. email us at **admin@zustcinema.com**  
+                                                                                                     (Privacy Policy Updated in Febuary, 2014)
