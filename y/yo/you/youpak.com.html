@@ -1,0 +1,174 @@
+<!--The following is the downloaded HTML source of the youpak.com privacy policy that was archived on 2015-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150529034821id_/http%3A//www.youpak.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title>Privacy Policy - youpak.com</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="description" content="Watch or Download Youtube videos without any Proxy or VPN even if youtube is blocked in your country.">
+<meta name="keywords" content="youpak.com, youpak, pakistani videos, browse videos, browse youtube videos, watch youtube video, unblock youtube videos, download youtube videos, watch youtube videos without proxy or vpn">
+<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="stylesheet" href="styles/bootstrap.min.css?ver=1.3">
+<link rel="stylesheet" href="styles/styles.css?ver=1.3">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=334186876754714&amp;version=v2.0"></script><script src="//cdnjs.cloudflare.com/ajax/libs/pace/0.4.17/pace.js?v=0.4.17"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.4/typeahead.bundle.min.js"></script>
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script type="text/javascript">
+	 $(document).ready(function() {
+
+
+        var anExcitedSource = function(query, cb) {
+            $.getJSON("http://suggestqueries.google.com/complete/search?callback=?",
+                    { 
+                      'hl':'en',
+					  'jsonp':'suggestCallBack',
+					  'q':query,
+					  'client':'youtube',
+					  'ds':'yt',
+                      'gl':'us'
+                    }
+                );
+                
+                suggestCallBack = function (data) {
+                    var suggestions = [];
+                    $.each(data[1], function(key, val) {
+                        suggestions.push({"value":val[0]});
+                    });
+                    suggestions.length = 6;                     cb(suggestions);
+                };
+        };
+        
+    
+    
+         
+        $('#searchInput').typeahead({
+                autoselect: false,
+                highlight: true,
+                minLength: 2,
+                hint: false
+            },
+            {
+                source: anExcitedSource
+            }).on('typeahead:selected', function(e){
+                e.target.form.submit();
+              });
+             
+                
+        
+    });
+	</script>
+<style>h3{color:#515151;font-size:15px;line-height:1.31;font-weight:700;}</style>
+</head>
+<body>
+<div class="navbar navbar-default navbar-fixed-top bs-docs-nav" role="banner">
+<div class="container">
+<div class="navbar-header">
+<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a href="/" class="navbar-brand logo"><img src="/images/logo.png?ver=1.3" height="25"></a>
+</div>
+<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+<div class="col-lg-6 col-md-6 col-sm-6">
+<form action="search" id="search" role="form" class="navbar-form navbar-left navbar-search">
+<span class="twitter-typeahead" style="position: relative; display: inline-block;">
+<input id="searchInput" type="text" class="search-input form-control typeahead tt-query" placeholder="Search Videos / Youtube video link" name="q" value="">
+<input type="hidden" value="type">
+<button type="submit" class="btn navbar-search-btn"><i class="fa fa-search btn-bg-blue"></i></button>
+</span>
+</form>
+</div>
+<ul class="nav navbar-nav navbar-right">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories<span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="category?id=27">Education</a></li>
+<li><a href="category?id=40">Sci-Fi/Fantasy</a></li>
+<li><a href="category?id=28">Science &amp; Technology</a></li>
+<li><a href="category?id=17">Sports</a></li>
+<li><a href="category?id=24">Entertainment</a></li>
+<li><a href="category?id=23">Comedy</a></li>
+<li><a href="category?id=25">News &amp; Politics</a></li>
+<li><a href="category?id=1">Film &amp; Animation</a></li>
+<li><a href="category?id=10">Music</a></li>
+</ul>
+</li>
+<li><a href="/">Home</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="container white-back">
+<div class="row">
+<div class="col-md-8 margin-bottom-15" style="border-right:1px solid #CCC">
+<div class="page-header" style="border-bottom:2px solid #CCC">
+<h2>Privacy policy</h2>
+</div>
+<h3>What information do we collect?</h3>
+<p>We donot collect any kind of information.</p>
+<h3>Do we use cookies?</h3>
+<p>We do use cookies but over SSL only.</p>
+<h3>Do we disclose any information to outside parties?</h3>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<h3>Online Privacy Policy Only</h3>
+<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+<h3>Your Consent</h3>
+<p>By using our site, you consent to our <a href="/privacy" target="_blank">web site privacy policy</a>.</p>
+<h3>Changes to our Privacy Policy</h3>
+<p>If we decide to change our privacy policy, we will post those changes on this page.</p>
+<h3>Contacting Us</h3>
+<p>If there are any questions regarding this privacy policy you may contact us by using <a href="contact" target="_blank">this contact form</a>.</p>
+</div>
+<div class="col-md-4">
+<div class="like-box-hide">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=334186876754714&version=v2.0";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like-box margin-top-15" data-href="https://www.facebook.com/youpakistan" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" class=" modal-footer panel-footer">
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<ul class="nav nav-pills">
+<li><a href="/terms">TOS</a></li>
+<li><a href="/privacy">Privacy Policy</a></li>
+<li><a href="/contact">Contact us</a></li>
+</ul>
+</div>
+<div class="col-md-6">
+<p class="muted credit color-858585">Copyright © 2015, All Rights Reserved!</p>
+</div>
+</div>
+</div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54853494-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body></html>
