@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitorious.org privacy policy that was archived on 2014-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141108042251id_/http%3A//en.gitorious.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitorious.org privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529030738id_/http%3A//en.gitorious.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
