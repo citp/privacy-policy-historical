@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgirlarcade.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122141344id_/http%3A//www.allgirlarcade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgirlarcade.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529073132id_/http%3A//www.allgirlarcade.com/privacypolicy) for the most accurate reproduction.*
 
 # SparkCityWorld.com - Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Policy applies to our Sites (defined below) and to our Mobile Apps 
 
 This Privacy Policy explains what personal information we collect about you when you use the Sites or Apps, how the information will be used, with whom we share your information, and how you can control the collection, use and sharing of your information or update your information. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. 
 
-Your use of the Sites and Apps are also governed by our [Terms of Use](https://web.archive.org/web/20141122141344id_/http://www.allgirlarcade.com/privacypolicy/%3C?=URL_TERMS?%3E) into which this Privacy Policy is incorporated by reference. 
+Your use of the Sites and Apps are also governed by our [Terms of Use](http://www.allgirlarcade.com/termsofuse/) into which this Privacy Policy is incorporated by reference. 
 
 **Notice to Parents and Legal Guardians**
 
