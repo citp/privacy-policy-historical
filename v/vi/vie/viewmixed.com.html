@@ -1,34 +1,18 @@
-<!--The following is the downloaded HTML source of the viewmixed.com privacy policy that was archived on 2014-07-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140716023950id_/http%3A//viewmixed.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viewmixed.com privacy policy that was archived on 2015-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150529114001id_/http%3A//viewmixed.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><!-- Design by VennerLabs (http://www.vennerlabs.com) - Proudly powered by WordPress (http://wordpress.org) --><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=98abf26b-c95c-4883-b906-6cb1839634cf" id="infinity" data-guid="98abf26b-c95c-4883-b906-6cb1839634cf" data-version="async"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://www.ExitJunction.com/script/script.jsp?val=27031&amp;amp;sver=2"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4DWFBVGwABVVNbBwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><link rel="stylesheet" type="text/css" href="http://cdn.viewmixed.com/wp-content/cache/minify/000000/M9DPTUyvyszNrErVLy6pzEnVMUASSS4u1i8oSi0pqQzIyC_Jx5BLSizG1JCak1hcklmck5mCKVecnZqTWpKfBwA.css" media="all">
-
+<!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!-- Design by VennerLabs (http://www.vennerlabs.com) - Proudly powered by WordPress (http://wordpress.org) --><head>
 	
-		<!-- Begin ExitJunction.com Code -->
-		<script type="text/javascript">
-		try{
-		var ej27031=document.createElement("script");
-		ej27031.type="text/javascript";
-		ej27031.src="http://www.ExitJunction.com/script/script.jsp?val=27031&amp;sver=2";
-		var ej227031=document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0];
-		ej227031.insertBefore(ej27031, ej227031.firstChild);
-		}catch (e27031){}
-		</script>
-		<!-- Copyright by ExitJunction.com -->
-
-
-
+	
         <!-- Basic Page
 
         ================================================== -->
 
         <title>Privacy Policy | ViewMixed</title>
-
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-		
+        <meta name="viewport" content="width=device-width, target-densitydpi=device-dpi, initial-scale=1, maximum-scale=1">
+			
 
         
 
@@ -36,7 +20,7 @@
 
         ================================================== -->
 
-        
+        <link rel="stylesheet" type="text/css" media="screen" href="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/style.css">
 
 		
 
@@ -74,21 +58,36 @@
 
         <link rel="alternate" type="application/rss+xml" title="ViewMixed » Feed" href="http://viewmixed.com/feed">
 <link rel="alternate" type="application/rss+xml" title="ViewMixed » Comments Feed" href="http://viewmixed.com/comments/feed">
-<link rel="alternate" type="application/rss+xml" title="ViewMixed » Privacy Policy Comments Feed" href="http://viewmixed.com/privacy-policy/feed">
-
-
-
-
+<link rel="stylesheet" id="wp-most-popular-css" href="http://cloudfront.viewmixed.com/wp-content/plugins/wp-most-popular/system/css/custom.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="paginext_link_pages-css" href="http://cloudfront.viewmixed.com/wp-content/plugins/paginext-link-pages/css/paginext-link-pages.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="posts-by-tag-css" href="http://cloudfront.viewmixed.com/wp-content/plugins/posts-by-tag/css/posts-by-tag-custom.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="pretty_photo-css" href="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/css/prettyPhoto.css?ver=4.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="base-css" href="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/css/base.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="elastislide-css" href="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/css/elastislide.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="skeleton-css" href="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/css/skeleton.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="dynamic-style-css" href="http://viewmixed.com/wp-content/themes/magzimize/css/dynamic-style.php?ver=1.0" type="text/css" media="all">
-<script type="text/javascript" src="http://cdn.viewmixed.com/wp-content/cache/minify/000000/M9bPKixNLarUMYYydHMz04sSS1L1cjPzAA.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" async="" src="http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=98abf26b-c95c-4883-b906-6cb1839634cf" id="infinity" data-guid="98abf26b-c95c-4883-b906-6cb1839634cf" data-version="async"></script><script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/plugins/widget-area-init/js/cookie.min.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/plugins/widget-area-init/js/cookie-setter.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://viewmixed.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdn.viewmixed.com/wp-includes/wlwmanifest.xml"> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cloudfront.viewmixed.com/wp-includes/wlwmanifest.xml"> 
 <link rel="canonical" href="http://viewmixed.com/privacy-policy">
 <link rel="shortlink" href="http://viewmixed.com/?p=594">
-<meta name="generator" content="Magzimize by Elthemes">
+    <script type="text/javascript">
+        var showWidget = cookie.get('showWidget','organic-taboola');
+        if( showWidget == 'organic-taboola' ){
+            widgetAreaResponse = {"desktop-in-head":"","desktop-above-menu":"<div id=\"text-160\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><!-- BEGIN JS TAG - 728x90 VM_0D_728x90 - DO NOT MODIFY --><SCRIPT TYPE=\"text\/javascript\">document.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=14193&size=728x90&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');<\/SCRIPT><!-- END TAG -->\r\n\r\n<div class=\"ad-notice\">ADVERTISEMENT<\/div>\r\n<\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-below-menu":"","desktop-above-top-title":"","desktop-above-top-pagination":"<div id=\"execphp-38\" class=\"widget widget_execphp clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">VM 2D 728&#215;90, OpenX &gt;&gt; Lijit &gt;&gt; Adsense<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"execphpwidget\"><!--\/* OpenX JavaScript tag *\/-->\r\n<script type=\"text\/javascript\">\r\nif (!window.OX_ads) { OX_ads = []; }\r\nOX_ads.push({ \"auid\" : \"537155115\" });\r\n<\/script>\r\n<script type=\"text\/javascript\">\r\ndocument.write('<scr'+'ipt src=\"http:\/\/us-ads.openx.net\/w\/1.0\/jstag\"><\\\/scr'+'ipt>');\r\n<\/script>\r\n<noscript><iframe id=\"9a4ab83300\" name=\"9a4ab83300\" src=\"http:\/\/us-ads.openx.net\/w\/1.0\/afr?auid=537155115&cb=INSERT_RANDOM_NUMBER_HERE\" frameborder=\"0\" scrolling=\"no\" width=\"728\" height=\"90\"><a href=\"http:\/\/us-ads.openx.net\/w\/1.0\/rc?cs=9a4ab83300&cb=INSERT_RANDOM_NUMBER_HERE\" ><img src=\"http:\/\/us-ads.openx.net\/w\/1.0\/ai?auid=537155115&cs=9a4ab83300&cb=INSERT_RANDOM_NUMBER_HERE\" border=\"0\" alt=\"\"><\/a><\/iframe><\/noscript>\r\n\r\n<div class=\"ad-notice\">ADVERTISEMENT<\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-below-bottom-pagination":"<div id=\"text-74\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Padding: 22<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div class=\"padding\" style=\"height:22px\"><\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-74\" class=\"widget widget_execphp clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Superlinks VM 5D Waterfall Tag<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"execphpwidget\"><hr \/>\r\n<div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n<!-- BEGIN JS TAG - 728x90 VM 5D - DO NOT MODIFY -->\r\n<SCRIPT TYPE=\"text\/javascript\">\r\ndocument.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.super-links.net\/tag?zone_id=8457&size=728x90&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');\r\n<\/SCRIPT>\r\n<!-- END TAG --><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-88\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Padding: 4<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div class=\"padding\" style=\"height:4px\"><\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-75\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">RevContent<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div id=\"rcjsload_29c49e\"><\/div>\r\n<script type=\"text\/javascript\">\r\n(function() {\r\nvar rcel = document.createElement(\"script\");\r\nrcel.id = 'rc_' + Math.floor(Math.random() * 1000);\r\nrcel.type = 'text\/javascript';\r\nrcel.src = \"http:\/\/trends.revcontent.com\/serve.js.php?w=172&t=\"+rcel.id+\"&c=\"+(new Date()).getTime()+\"&width=\"+(window.outerWidth || document.documentElement.clientWidth);\r\nrcel.async = true;\r\nvar rcds = document.getElementById(\"rcjsload_29c49e\"); rcds.appendChild(rcel);\r\n})();\r\n<\/script>\r\n\r\n<script type='text\/javascript'>\r\n(function(){\r\n\tspoutjs=document.createElement('script'),firstjs=document.getElementsByTagName('script')[0];\r\n\tspoutjs.async=1;\r\n\tspoutjs.src='\/\/cdn.spoutable.com\/8f9e5721-17de-4bfe-ab7f-2f4ec85ce207\/spoutable.js';\r\n\tfirstjs.parentNode.insertBefore(spoutjs,firstjs)\r\n})();\r\n<\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop_above_bottom_ad":"<div id=\"text-167\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><script type=\"text\/javascript\" src=\"http:\/\/ap.lijit.com\/www\/delivery\/fpi.js?z=290429&u=SolutionsWide&width=300&height=250\"><\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-blog-sidebar":"<div id=\"execphp-76\" class=\"widget widget_execphp clearfix sidebar-ad\">\t\t\t<div class=\"execphpwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n\r\n<!-- BEGIN JS TAG - 300x250 VM 1D - DO NOT MODIFY -->\r\n<SCRIPT TYPE=\"text\/javascript\">\r\ndocument.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=12887&size=300x250&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');\r\n<\/SCRIPT>\r\n<!-- END TAG -->\r\n<\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>\t\t<style type=\"text\/css\">\r\n\t\tdiv.wp-most-popular-widget-title, ul.most-popular-posts li.widget-title, ul.most-popular-posts li.wp-most-popular-posts-by-tag-item  div.number-rating {\r\n\t\t\tbackground-color:\t#42bad8;\r\n\t\t}\r\n\t\tul.most-popular-posts li.wp-most-popular-posts-by-tag-item  a.posts-by-tag-item-title:hover {\r\n\t\t\tbackground-color: rgba(66, 186, 216, 1.0);\r\n\t\t}\r\n\t\tul.most-popular-posts li.wp-most-popular-posts-by-tag-item  a.posts-by-tag-item-title {\r\n\t\t\tbackground-color: rgba(66, 186, 216, .8);\r\n\t\t}\r\n\t\t#wmp_widget-2 div.widget-title {\r\n\t\t\theight: auto;\r\n\t\t\tpadding: 20px 1px 20px 5px;\r\n\t\t}\r\n\t\tul.most-popular-posts li.wp-most-popular-posts-by-tag-item  div.number-rating div {\r\n\t\t\tline-height: 30px;\r\n\t\t}\r\n\t\t<\/style>\r\n\t\t<div id=\"wmp_widget-7\" class=\"widget widget_wmp_widget clearfix sidebar-ad\"><div class=\"wp-most-popular-widget-title\">Most Popular<\/div><ul class=\"most-popular-posts\">\t\t\t<li class=\"wp-most-popular-posts-by-tag-item \" id=\"posts-by-tag-item-12545\">\r\n\t\t\t\t<div class=\"number-rating\"><div>#1<\/div><\/div>\r\n\t\t\t\t<div class=\"tag-widget-body-container\">\r\n\t\t\t\t\t<div class=\"tag-widget-body-thumbnail-container\">\r\n\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/perfectly-timed-moments-in-25-photos\/12545\" title=\"Perfectly Timed Moments In 25 Photos (#12 got caught!)\">\r\n\t\t\t\t\t\t\t<img width=\"300\" height=\"153\" src=\"http:\/\/cloudfront.viewmixed.com\/wp-content\/uploads\/2014\/08\/Perfectly-Timed-Photos-300x153.jpg\" class=\"attachment-medium wp-post-image\" alt=\"Perfectly-Timed-Photos\" \/>\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"tag-widget-body-content-container\">\r\n\t\t\t\t\t\t<div class=\"tag-widget-body-title-container\">\r\n\t\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/perfectly-timed-moments-in-25-photos\/12545\" class = \"posts-by-tag-item-title\">\r\n\t\t\t\t\t\t\t\tPerfectly Timed Moments In 25 Photos (#12 got caught!)\t\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/li>\r\n\t\t\t\t\t\t<li class=\"wp-most-popular-posts-by-tag-item \" id=\"posts-by-tag-item-12348\">\r\n\t\t\t\t<div class=\"number-rating\"><div>#2<\/div><\/div>\r\n\t\t\t\t<div class=\"tag-widget-body-container\">\r\n\t\t\t\t\t<div class=\"tag-widget-body-thumbnail-container\">\r\n\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/12348\/12348\" title=\"29 Prom Pictures That, Um&#8230; Just Take A Look\">\r\n\t\t\t\t\t\t\t<img width=\"222\" height=\"300\" src=\"http:\/\/cloudfront.viewmixed.com\/wp-content\/uploads\/2014\/08\/prom6-222x300.jpg\" class=\"attachment-medium wp-post-image\" alt=\"prom6\" \/>\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"tag-widget-body-content-container\">\r\n\t\t\t\t\t\t<div class=\"tag-widget-body-title-container\">\r\n\t\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/12348\/12348\" class = \"posts-by-tag-item-title\">\r\n\t\t\t\t\t\t\t\t29 Prom Pictures That, Um&#8230; Just Take A Look\t\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/li>\r\n\t\t\t\t\t\t<li class=\"wp-most-popular-posts-by-tag-item \" id=\"posts-by-tag-item-4547\">\r\n\t\t\t\t<div class=\"number-rating\"><div>#3<\/div><\/div>\r\n\t\t\t\t<div class=\"tag-widget-body-container\">\r\n\t\t\t\t\t<div class=\"tag-widget-body-thumbnail-container\">\r\n\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/10-death-row-prisoners-famous-last-words\/4547\" title=\"14 Death Row Prisoner&#8217;s Famous Last Words\">\r\n\t\t\t\t\t\t\t<img width=\"300\" height=\"282\" src=\"http:\/\/cloudfront.viewmixed.com\/wp-content\/uploads\/2013\/11\/lastwords9-300x282.jpg\" class=\"attachment-medium wp-post-image\" alt=\"Famous last words of Jimmy Glass before the electric chair: &quot;I&#039;d rather be fishing.&quot; Well, wouldn&#039;t we all.\" \/>\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"tag-widget-body-content-container\">\r\n\t\t\t\t\t\t<div class=\"tag-widget-body-title-container\">\r\n\t\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/10-death-row-prisoners-famous-last-words\/4547\" class = \"posts-by-tag-item-title\">\r\n\t\t\t\t\t\t\t\t14 Death Row Prisoner&#8217;s Famous Last Words\t\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/li>\r\n\t\t\t<\/ul><\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-77\" class=\"widget widget_execphp clearfix sidebar-ad\">\t\t\t<div class=\"execphpwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n<!--\/* OpenX Asynchronous JavaScript tag *\/-->\r\n<div id=\"537217599_INSERT_SLOT_ID_HERE\" style=\"width:300px;height:250px;margin:0;padding:0\">\r\n  <noscript><iframe id=\"0222be05d9\" name=\"0222be05d9\" src=\"http:\/\/us-ads.openx.net\/w\/1.0\/afr?auid=537217599&cb=INSERT_RANDOM_NUMBER_HERE\" frameborder=\"0\" scrolling=\"no\" width=\"300\" height=\"250\"><a href=\"http:\/\/us-ads.openx.net\/w\/1.0\/rc?cs=0222be05d9&cb=INSERT_RANDOM_NUMBER_HERE\" ><img src=\"http:\/\/us-ads.openx.net\/w\/1.0\/ai?auid=537217599&cs=0222be05d9&cb=INSERT_RANDOM_NUMBER_HERE\" border=\"0\" alt=\"\"><\/a><\/iframe><\/noscript>\r\n<\/div>\r\n<script type=\"text\/javascript\">\r\n  var OX_ads = OX_ads || [];\r\n  OX_ads.push({\r\n     slot_id: \"537217599_INSERT_SLOT_ID_HERE\",\r\n     auid: \"537217599\"\r\n  });\r\n<\/script>\r\n<script type=\"text\/javascript\" src=\"http:\/\/us-ads.openx.net\/w\/1.0\/jstag\"><\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-77\" class=\"widget widget_text clearfix sidebar-ad\">\t\t\t<div class=\"textwidget\"><ins class=\"adbladeads\" data-cid=\"5258-1265066183\" data-host=\"web.adblade.com\" data-tag-type=\"1\" data-width=\"300\" data-height=\"880\" style=\"display:none\"><\/ins>\r\n<script async src=\"http:\/\/web.adblade.com\/js\/ads\/async\/show.js\" type=\"text\/javascript\"><\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-88\" class=\"widget widget_execphp clearfix sidebar-ad\">\t\t\t<div class=\"execphpwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n\r\n<!-- BEGIN JS TAG - 300x250 VM 4D - 300x250 - DO NOT MODIFY -->\r\n<SCRIPT TYPE=\"text\/javascript\">\r\ndocument.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=13354&size=300x250&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');\r\n<\/SCRIPT>\r\n<!-- END TAG --><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-79\" class=\"widget widget_execphp clearfix sidebar-ad\">\t\t\t<div class=\"execphpwidget\"><link href='http:\/\/fonts.googleapis.com\/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text\/css'>\r\n<style type=\"text\/css\">\r\n\tdiv.crowdignite-container {\r\n\t\twidth: 215px;\r\n\t\tpadding: 20px;\r\n\t\tfont-family: 'Yanone Kaffeesatz', sans-serif;\r\n\t}\r\n\t\tdiv.crowdignite-container h3, div.crowdignite-container h2 {\r\n\t\t\tpadding: 0;\r\n\t\t\tmargin: 0 0 -5 0;\r\n\t\t\tfont-weight: normal;\r\n\t\t}\r\n\r\n\t\tdiv.crowdignite-container h2 {\r\n\t\t\tmargin-bottom: 25px;\r\n\t\t}\r\n\r\n\t\tdiv.crowdignite-container h3.green {\r\n\t\t\tcolor: #93cc5d;\r\n\t\t}\r\n\r\n\t\tdiv.crowdignite-container a.crowdignite-heading {\r\n\t\t\tpadding: 10px 0;\r\n\t\t\tborder-top: 1px dotted #C0C0C0;\r\n\t\t\tdisplay: block;\r\n\t\t\ttext-decoration: none;\r\n\t\t\tcolor: #101010;\r\n\t\t\tfont-size: 15px;\r\n\t\t}\r\n<\/style>\r\n<div class=\"crowdignite-container\">\r\n\t<h3 class=\"green\">More From<\/h3>\r\n\t<h2>Our Partners<\/h2>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/822466329\/0\/1\/77226069?user_id=463747d9ce1b0bb84104f04d592dc176&slot=0&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Floyd Mayweather Sued for $20 Million By Ex-Girlfriend He Abused  <\/a>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/717242795\/0\/1\/56821865?user_id=463747d9ce1b0bb84104f04d592dc176&slot=1&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Kim Kardashian Insists North West Will Need to Get a Job<\/a>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/821378989\/0\/1\/76065979?user_id=463747d9ce1b0bb84104f04d592dc176&slot=2&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Is Meri Brown Quitting Sister Wives and Leaving Kody Brown?<\/a>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/831358953\/0\/1\/84593745?user_id=463747d9ce1b0bb84104f04d592dc176&slot=3&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Vanderpump Rules Star Vail Bloom Dating Chris Pine?!<\/a>\r\n\t<\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-end-of-slideshow":"<div id=\"text-97\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Revcontent EOS<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div id=\"rcjsload_07b683\"><\/div>\r\n<script type=\"text\/javascript\">\r\n(function() {\r\nvar rcel = document.createElement(\"script\");\r\nrcel.id = 'rc_' + Math.floor(Math.random() * 1000);\r\nrcel.type = 'text\/javascript';\r\nrcel.src = \"http:\/\/trends.revcontent.com\/serve.js.php?w=173&t=\"+rcel.id+\"&c=\"+(new Date()).getTime()+\"&width=\"+(window.outerWidth || document.documentElement.clientWidth);\r\nrcel.async = true;\r\nvar rcds = document.getElementById(\"rcjsload_07b683\"); rcds.appendChild(rcel);\r\n})();\r\n<\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-bottom-splitter-1":"","desktop-bottom-splitter-2":"","desktop-test-widget":"","desktop-promoted-widget":"","desktop-end-of-body":""};
+        }else if( showWidget == 'outbrain' ){
+            widgetAreaResponse = {"desktop-in-head":"","desktop-above-menu":"<div id=\"text-160\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><!-- BEGIN JS TAG - 728x90 VM_0D_728x90 - DO NOT MODIFY --><SCRIPT TYPE=\"text\/javascript\">document.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=14193&size=728x90&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');<\/SCRIPT><!-- END TAG -->\r\n\r\n<div class=\"ad-notice\">ADVERTISEMENT<\/div>\r\n<\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-below-menu":"","desktop-above-top-title":"<div id=\"execphp-48\" class=\"widget widget_execphp clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\"> VM 2D 728&#215;90, OpenX &gt;&gt; Lijit &gt;&gt; Adsense<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"execphpwidget\"><!--\/* OpenX JavaScript tag *\/-->\r\n<script type=\"text\/javascript\">\r\nif (!window.OX_ads) { OX_ads = []; }\r\nOX_ads.push({ \"auid\" : \"537155115\" });\r\n<\/script>\r\n<script type=\"text\/javascript\">\r\ndocument.write('<scr'+'ipt src=\"http:\/\/us-ads.openx.net\/w\/1.0\/jstag\"><\\\/scr'+'ipt>');\r\n<\/script>\r\n<noscript><iframe id=\"9a4ab83300\" name=\"9a4ab83300\" src=\"http:\/\/us-ads.openx.net\/w\/1.0\/afr?auid=537155115&cb=INSERT_RANDOM_NUMBER_HERE\" frameborder=\"0\" scrolling=\"no\" width=\"728\" height=\"90\"><a href=\"http:\/\/us-ads.openx.net\/w\/1.0\/rc?cs=9a4ab83300&cb=INSERT_RANDOM_NUMBER_HERE\" ><img src=\"http:\/\/us-ads.openx.net\/w\/1.0\/ai?auid=537155115&cs=9a4ab83300&cb=INSERT_RANDOM_NUMBER_HERE\" border=\"0\" alt=\"\"><\/a><\/iframe><\/noscript>\r\n\r\n<div class=\"ad-notice\">ADVERTISEMENT<\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-above-top-pagination":"","desktop-below-bottom-pagination":"<div id=\"text-45\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Padding: 22<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div class=\"padding\" style=\"height:22px\"><\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-45\" class=\"widget widget_execphp clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">CPXi VM 5D Tag<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"execphpwidget\"><hr \/>\r\n<div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n<!-- BEGIN JS TAG - Viewmixed.com 728 VM 5D Global Display $1.25 CPM Floor < - DO NOT MODIFY -->\r\n<SCRIPT SRC=\"http:\/\/select.brealtime.com\/ttj?id=4473322&size=728x90&referrer=${REFERER_URL}\" TYPE=\"text\/javascript\"><\/SCRIPT>\r\n<!-- END TAG -->\r\n<\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-87\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">RevContent<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div id=\"rcjsload_29c49e\"><\/div>\r\n<script type=\"text\/javascript\">\r\n(function() {\r\nvar rcel = document.createElement(\"script\");\r\nrcel.id = 'rc_' + Math.floor(Math.random() * 1000);\r\nrcel.type = 'text\/javascript';\r\nrcel.src = \"http:\/\/trends.revcontent.com\/serve.js.php?w=172&t=\"+rcel.id+\"&c=\"+(new Date()).getTime()+\"&width=\"+(window.outerWidth || document.documentElement.clientWidth);\r\nrcel.async = true;\r\nvar rcds = document.getElementById(\"rcjsload_29c49e\"); rcds.appendChild(rcel);\r\n})();\r\n<\/script>\r\n\r\n<script type='text\/javascript'>\r\n(function(){\r\n\tspoutjs=document.createElement('script'),firstjs=document.getElementsByTagName('script')[0];\r\n\tspoutjs.async=1;\r\n\tspoutjs.src='\/\/cdn.spoutable.com\/8f9e5721-17de-4bfe-ab7f-2f4ec85ce207\/spoutable.js';\r\n\tfirstjs.parentNode.insertBefore(spoutjs,firstjs)\r\n})();\r\n<\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop_above_bottom_ad":"<div id=\"text-167\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><script type=\"text\/javascript\" src=\"http:\/\/ap.lijit.com\/www\/delivery\/fpi.js?z=290429&u=SolutionsWide&width=300&height=250\"><\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-blog-sidebar":"<div id=\"text-154\" class=\"widget widget_text clearfix sidebar-ad\">\t\t\t<div class=\"textwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n\r\n<!-- BEGIN JS TAG - 300x250 VM 1D - DO NOT MODIFY -->\r\n<SCRIPT TYPE=\"text\/javascript\">\r\ndocument.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=12887&size=300x250&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');\r\n<\/SCRIPT>\r\n<!-- END TAG -->\r\n<\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-133\" class=\"widget widget_text clearfix sidebar-ad\">\t\t\t<div class=\"textwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n<center>\r\n\r\n<!-- BEGIN JS TAG - 160x600 VM 6D - DO NOT MODIFY -->\r\n<SCRIPT TYPE=\"text\/javascript\">\r\ndocument.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=12236&size=160x600&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');\r\n<\/SCRIPT>\r\n<!-- END TAG -->\r\n\r\n<\/center><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>\t\t<style type=\"text\/css\">\r\n\t\tdiv.wp-most-popular-widget-title, ul.most-popular-posts li.widget-title, ul.most-popular-posts li.wp-most-popular-posts-by-tag-item  div.number-rating {\r\n\t\t\tbackground-color:\t#42bad8;\r\n\t\t}\r\n\t\tul.most-popular-posts li.wp-most-popular-posts-by-tag-item  a.posts-by-tag-item-title:hover {\r\n\t\t\tbackground-color: rgba(66, 186, 216, 1.0);\r\n\t\t}\r\n\t\tul.most-popular-posts li.wp-most-popular-posts-by-tag-item  a.posts-by-tag-item-title {\r\n\t\t\tbackground-color: rgba(66, 186, 216, .8);\r\n\t\t}\r\n\t\t#wmp_widget-2 div.widget-title {\r\n\t\t\theight: auto;\r\n\t\t\tpadding: 20px 1px 20px 5px;\r\n\t\t}\r\n\t\tul.most-popular-posts li.wp-most-popular-posts-by-tag-item  div.number-rating div {\r\n\t\t\tline-height: 30px;\r\n\t\t}\r\n\t\t<\/style>\r\n\t\t<div id=\"wmp_widget-8\" class=\"widget widget_wmp_widget clearfix sidebar-ad\"><div class=\"wp-most-popular-widget-title\">Most Popular<\/div><ul class=\"most-popular-posts\">\t\t\t<li class=\"wp-most-popular-posts-by-tag-item \" id=\"posts-by-tag-item-12545\">\r\n\t\t\t\t<div class=\"number-rating\"><div>#1<\/div><\/div>\r\n\t\t\t\t<div class=\"tag-widget-body-container\">\r\n\t\t\t\t\t<div class=\"tag-widget-body-thumbnail-container\">\r\n\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/perfectly-timed-moments-in-25-photos\/12545\" title=\"Perfectly Timed Moments In 25 Photos (#12 got caught!)\">\r\n\t\t\t\t\t\t\t<img width=\"300\" height=\"153\" src=\"http:\/\/cloudfront.viewmixed.com\/wp-content\/uploads\/2014\/08\/Perfectly-Timed-Photos-300x153.jpg\" class=\"attachment-medium wp-post-image\" alt=\"Perfectly-Timed-Photos\" \/>\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"tag-widget-body-content-container\">\r\n\t\t\t\t\t\t<div class=\"tag-widget-body-title-container\">\r\n\t\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/perfectly-timed-moments-in-25-photos\/12545\" class = \"posts-by-tag-item-title\">\r\n\t\t\t\t\t\t\t\tPerfectly Timed Moments In 25 Photos (#12 got caught!)\t\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/li>\r\n\t\t\t\t\t\t<li class=\"wp-most-popular-posts-by-tag-item \" id=\"posts-by-tag-item-12348\">\r\n\t\t\t\t<div class=\"number-rating\"><div>#2<\/div><\/div>\r\n\t\t\t\t<div class=\"tag-widget-body-container\">\r\n\t\t\t\t\t<div class=\"tag-widget-body-thumbnail-container\">\r\n\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/12348\/12348\" title=\"29 Prom Pictures That, Um&#8230; Just Take A Look\">\r\n\t\t\t\t\t\t\t<img width=\"222\" height=\"300\" src=\"http:\/\/cloudfront.viewmixed.com\/wp-content\/uploads\/2014\/08\/prom6-222x300.jpg\" class=\"attachment-medium wp-post-image\" alt=\"prom6\" \/>\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"tag-widget-body-content-container\">\r\n\t\t\t\t\t\t<div class=\"tag-widget-body-title-container\">\r\n\t\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/12348\/12348\" class = \"posts-by-tag-item-title\">\r\n\t\t\t\t\t\t\t\t29 Prom Pictures That, Um&#8230; Just Take A Look\t\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/li>\r\n\t\t\t\t\t\t<li class=\"wp-most-popular-posts-by-tag-item \" id=\"posts-by-tag-item-4547\">\r\n\t\t\t\t<div class=\"number-rating\"><div>#3<\/div><\/div>\r\n\t\t\t\t<div class=\"tag-widget-body-container\">\r\n\t\t\t\t\t<div class=\"tag-widget-body-thumbnail-container\">\r\n\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/10-death-row-prisoners-famous-last-words\/4547\" title=\"14 Death Row Prisoner&#8217;s Famous Last Words\">\r\n\t\t\t\t\t\t\t<img width=\"300\" height=\"282\" src=\"http:\/\/cloudfront.viewmixed.com\/wp-content\/uploads\/2013\/11\/lastwords9-300x282.jpg\" class=\"attachment-medium wp-post-image\" alt=\"Famous last words of Jimmy Glass before the electric chair: &quot;I&#039;d rather be fishing.&quot; Well, wouldn&#039;t we all.\" \/>\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"tag-widget-body-content-container\">\r\n\t\t\t\t\t\t<div class=\"tag-widget-body-title-container\">\r\n\t\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/10-death-row-prisoners-famous-last-words\/4547\" class = \"posts-by-tag-item-title\">\r\n\t\t\t\t\t\t\t\t14 Death Row Prisoner&#8217;s Famous Last Words\t\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/li>\r\n\t\t\t<\/ul><\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-85\" class=\"widget widget_execphp clearfix sidebar-ad\">\t\t\t<div class=\"execphpwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n<!--\/* OpenX Asynchronous JavaScript tag *\/-->\r\n<div id=\"537217599_INSERT_SLOT_ID_HERE\" style=\"width:300px;height:250px;margin:0;padding:0\">\r\n  <noscript><iframe id=\"0222be05d9\" name=\"0222be05d9\" src=\"http:\/\/us-ads.openx.net\/w\/1.0\/afr?auid=537217599&cb=INSERT_RANDOM_NUMBER_HERE\" frameborder=\"0\" scrolling=\"no\" width=\"300\" height=\"250\"><a href=\"http:\/\/us-ads.openx.net\/w\/1.0\/rc?cs=0222be05d9&cb=INSERT_RANDOM_NUMBER_HERE\" ><img src=\"http:\/\/us-ads.openx.net\/w\/1.0\/ai?auid=537217599&cs=0222be05d9&cb=INSERT_RANDOM_NUMBER_HERE\" border=\"0\" alt=\"\"><\/a><\/iframe><\/noscript>\r\n<\/div>\r\n<script type=\"text\/javascript\">\r\n  var OX_ads = OX_ads || [];\r\n  OX_ads.push({\r\n     slot_id: \"537217599_INSERT_SLOT_ID_HERE\",\r\n     auid: \"537217599\"\r\n  });\r\n<\/script>\r\n<script type=\"text\/javascript\" src=\"http:\/\/us-ads.openx.net\/w\/1.0\/jstag\"><\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-84\" class=\"widget widget_execphp clearfix sidebar-ad\">\t\t\t<div class=\"execphpwidget\"><ins class=\"adbladeads\" data-cid=\"5258-1265066183\" data-host=\"web.adblade.com\" data-tag-type=\"1\" data-width=\"300\" data-height=\"880\" style=\"display:none\"><\/ins>\r\n<script async src=\"http:\/\/web.adblade.com\/js\/ads\/async\/show.js\" type=\"text\/javascript\"><\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-83\" class=\"widget widget_execphp clearfix sidebar-ad\">\t\t\t<div class=\"execphpwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n<!-- BEGIN JS TAG - 300x250 VM 4D - 300x250 - DO NOT MODIFY -->\r\n<SCRIPT TYPE=\"text\/javascript\">\r\ndocument.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=13354&size=300x250&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');\r\n<\/SCRIPT>\r\n<!-- END TAG --><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-86\" class=\"widget widget_execphp clearfix sidebar-ad\">\t\t\t<div class=\"execphpwidget\"><link href='http:\/\/fonts.googleapis.com\/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text\/css'>\r\n<style type=\"text\/css\">\r\n\tdiv.crowdignite-container {\r\n\t\twidth: 215px;\r\n\t\tpadding: 20px;\r\n\t\tfont-family: 'Yanone Kaffeesatz', sans-serif;\r\n\t}\r\n\t\tdiv.crowdignite-container h3, div.crowdignite-container h2 {\r\n\t\t\tpadding: 0;\r\n\t\t\tmargin: 0 0 -5 0;\r\n\t\t\tfont-weight: normal;\r\n\t\t}\r\n\r\n\t\tdiv.crowdignite-container h2 {\r\n\t\t\tmargin-bottom: 25px;\r\n\t\t}\r\n\r\n\t\tdiv.crowdignite-container h3.green {\r\n\t\t\tcolor: #93cc5d;\r\n\t\t}\r\n\r\n\t\tdiv.crowdignite-container a.crowdignite-heading {\r\n\t\t\tpadding: 10px 0;\r\n\t\t\tborder-top: 1px dotted #C0C0C0;\r\n\t\t\tdisplay: block;\r\n\t\t\ttext-decoration: none;\r\n\t\t\tcolor: #101010;\r\n\t\t\tfont-size: 15px;\r\n\t\t}\r\n<\/style>\r\n<div class=\"crowdignite-container\">\r\n\t<h3 class=\"green\">More From<\/h3>\r\n\t<h2>Our Partners<\/h2>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/822466329\/0\/1\/77226069?user_id=463747d9ce1b0bb84104f04d592dc176&slot=0&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Floyd Mayweather Sued for $20 Million By Ex-Girlfriend He Abused  <\/a>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/821378989\/0\/1\/76065979?user_id=463747d9ce1b0bb84104f04d592dc176&slot=1&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Is Meri Brown Quitting Sister Wives and Leaving Kody Brown?<\/a>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/717242795\/0\/1\/56821865?user_id=463747d9ce1b0bb84104f04d592dc176&slot=2&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Kim Kardashian Insists North West Will Need to Get a Job<\/a>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/828614775\/0\/1\/82719943?user_id=463747d9ce1b0bb84104f04d592dc176&slot=3&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Bethenny Frankel's Got a New Man and a New Attitude!<\/a>\r\n\t<\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-159\" class=\"widget widget_text clearfix sidebar-ad\"><div class=\"widget-heading\"><span class=\"widget-name\">WAHWAH Anchored Unit<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><!-- WAHWAH Radio Player -->\r\n<script src=\"http:\/\/cdn-s.wahwahnetworks.com\/00BA6A\/toolbar\/publishers\/2105\/wahwahobject.js\"><\/script>\r\n<!-- End WAHWAH Radio Player --><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-end-of-slideshow":"<div id=\"text-98\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">More Articles From Our Sponsors<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div style=\"text-align:center;\">\r\n<span class=\"widget-title\">More Articles From Our Sponsors<\/span>\r\n<\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-89\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Revcontent EOS<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div id=\"rcjsload_07b683\"><\/div>\r\n<script type=\"text\/javascript\">\r\n(function() {\r\nvar rcel = document.createElement(\"script\");\r\nrcel.id = 'rc_' + Math.floor(Math.random() * 1000);\r\nrcel.type = 'text\/javascript';\r\nrcel.src = \"http:\/\/trends.revcontent.com\/serve.js.php?w=173&t=\"+rcel.id+\"&c=\"+(new Date()).getTime()+\"&width=\"+(window.outerWidth || document.documentElement.clientWidth);\r\nrcel.async = true;\r\nvar rcds = document.getElementById(\"rcjsload_07b683\"); rcds.appendChild(rcel);\r\n})();\r\n<\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-bottom-splitter-1":"","desktop-bottom-splitter-2":"","desktop-test-widget":"","desktop-promoted-widget":"","desktop-end-of-body":""};
+        }else{
+            widgetAreaResponse = {"desktop-in-head":"","desktop-above-menu":"<div id=\"text-160\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><!-- BEGIN JS TAG - 728x90 VM_0D_728x90 - DO NOT MODIFY --><SCRIPT TYPE=\"text\/javascript\">document.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=14193&size=728x90&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');<\/SCRIPT><!-- END TAG -->\r\n\r\n<div class=\"ad-notice\">ADVERTISEMENT<\/div>\r\n<\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-below-menu":"","desktop-above-top-title":"","desktop-above-top-pagination":"<div id=\"execphp-73\" class=\"widget widget_execphp clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\"> VM 2D 728&#215;90, OpenX &gt;&gt; Lijit &gt;&gt; Adsense<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"execphpwidget\"><!--\/* OpenX JavaScript tag *\/-->\r\n<script type=\"text\/javascript\">\r\nif (!window.OX_ads) { OX_ads = []; }\r\nOX_ads.push({ \"auid\" : \"537155115\" });\r\n<\/script>\r\n<script type=\"text\/javascript\">\r\ndocument.write('<scr'+'ipt src=\"http:\/\/us-ads.openx.net\/w\/1.0\/jstag\"><\\\/scr'+'ipt>');\r\n<\/script>\r\n<noscript><iframe id=\"9a4ab83300\" name=\"9a4ab83300\" src=\"http:\/\/us-ads.openx.net\/w\/1.0\/afr?auid=537155115&cb=INSERT_RANDOM_NUMBER_HERE\" frameborder=\"0\" scrolling=\"no\" width=\"728\" height=\"90\"><a href=\"http:\/\/us-ads.openx.net\/w\/1.0\/rc?cs=9a4ab83300&cb=INSERT_RANDOM_NUMBER_HERE\" ><img src=\"http:\/\/us-ads.openx.net\/w\/1.0\/ai?auid=537155115&cs=9a4ab83300&cb=INSERT_RANDOM_NUMBER_HERE\" border=\"0\" alt=\"\"><\/a><\/iframe><\/noscript>\r\n\r\n<div class=\"ad-notice\">ADVERTISEMENT<\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-below-bottom-pagination":"<div id=\"text-28\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Padding: 22<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div class=\"padding\" style=\"height:22px\"><\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-34\" class=\"widget widget_execphp clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Adsense VM 5D<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"execphpwidget\"><hr \/>\r\n<div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n\r\n<script async src=\"\/\/pagead2.googlesyndication.com\/pagead\/js\/adsbygoogle.js\"><\/script>\r\n<!-- AdSense_728x90_VM 5D -->\r\n<ins class=\"adsbygoogle\"\r\n     style=\"display:inline-block;width:728px;height:90px\"\r\n     data-ad-client=\"ca-pub-2290399371519575\"\r\n     data-ad-slot=\"7674633021\"><\/ins>\r\n<script>\r\n(adsbygoogle = window.adsbygoogle || []).push({});\r\n<\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-94\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Revcontent<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div id=\"rcjsload_29c49e\"><\/div>\r\n<script type=\"text\/javascript\">\r\n(function() {\r\nvar rcel = document.createElement(\"script\");\r\nrcel.id = 'rc_' + Math.floor(Math.random() * 1000);\r\nrcel.type = 'text\/javascript';\r\nrcel.src = \"http:\/\/trends.revcontent.com\/serve.js.php?w=172&t=\"+rcel.id+\"&c=\"+(new Date()).getTime()+\"&width=\"+(window.outerWidth || document.documentElement.clientWidth);\r\nrcel.async = true;\r\nvar rcds = document.getElementById(\"rcjsload_29c49e\"); rcds.appendChild(rcel);\r\n})();\r\n<\/script>\r\n\r\n<script type='text\/javascript'>\r\n(function(){\r\n\tspoutjs=document.createElement('script'),firstjs=document.getElementsByTagName('script')[0];\r\n\tspoutjs.async=1;\r\n\tspoutjs.src='\/\/cdn.spoutable.com\/8f9e5721-17de-4bfe-ab7f-2f4ec85ce207\/spoutable.js';\r\n\tfirstjs.parentNode.insertBefore(spoutjs,firstjs)\r\n})();\r\n<\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop_above_bottom_ad":"<div id=\"text-167\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><script type=\"text\/javascript\" src=\"http:\/\/ap.lijit.com\/www\/delivery\/fpi.js?z=290429&u=SolutionsWide&width=300&height=250\"><\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-blog-sidebar":"<div id=\"text-168\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><script src='http:\/\/cdn.mediagraph.com\/os\/static\/apps\/2.0\/_onescreen.js'><\/script>\r\n<div id='os_dmp_embed'><\/div>\r\n<script>com.onescreen.widgets.load('23006-47547f46825366e267ec18b3dc0704bf', 'os_dmp_embed',{\r\n      'playerRenderer': 'fancy'\r\n});\r\n<\/script>\r\n<noscript>This application requires JavaScript.<\/noscript><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-33\" class=\"widget widget_execphp clearfix\">\t\t\t<div class=\"execphpwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n\r\n<!-- BEGIN JS TAG - 300x250 VM 1D - DO NOT MODIFY -->\r\n<SCRIPT TYPE=\"text\/javascript\">\r\ndocument.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=12887&size=300x250&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');\r\n<\/SCRIPT>\r\n<!-- END TAG -->\r\n<\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-134\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n<center>\r\n<!-- BEGIN JS TAG - 160x600 VM 6D - DO NOT MODIFY -->\r\n<SCRIPT TYPE=\"text\/javascript\">\r\ndocument.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=12236&size=160x600&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');\r\n<\/SCRIPT>\r\n<!-- END TAG -->\r\n\r\n\r\n<\/center><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>\t\t<style type=\"text\/css\">\r\n\t\tdiv.wp-most-popular-widget-title, ul.most-popular-posts li.widget-title, ul.most-popular-posts li.wp-most-popular-posts-by-tag-item  div.number-rating {\r\n\t\t\tbackground-color:\t#42bad8;\r\n\t\t}\r\n\t\tul.most-popular-posts li.wp-most-popular-posts-by-tag-item  a.posts-by-tag-item-title:hover {\r\n\t\t\tbackground-color: rgba(66, 186, 216, 1.0);\r\n\t\t}\r\n\t\tul.most-popular-posts li.wp-most-popular-posts-by-tag-item  a.posts-by-tag-item-title {\r\n\t\t\tbackground-color: rgba(66, 186, 216, .8);\r\n\t\t}\r\n\t\t#wmp_widget-2 div.widget-title {\r\n\t\t\theight: auto;\r\n\t\t\tpadding: 20px 1px 20px 5px;\r\n\t\t}\r\n\t\tul.most-popular-posts li.wp-most-popular-posts-by-tag-item  div.number-rating div {\r\n\t\t\tline-height: 30px;\r\n\t\t}\r\n\t\t<\/style>\r\n\t\t<div id=\"wmp_widget-11\" class=\"widget widget_wmp_widget clearfix\"><div class=\"wp-most-popular-widget-title\">Most Popular<\/div><ul class=\"most-popular-posts\">\t\t\t<li class=\"wp-most-popular-posts-by-tag-item \" id=\"posts-by-tag-item-12545\">\r\n\t\t\t\t<div class=\"number-rating\"><div>#1<\/div><\/div>\r\n\t\t\t\t<div class=\"tag-widget-body-container\">\r\n\t\t\t\t\t<div class=\"tag-widget-body-thumbnail-container\">\r\n\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/perfectly-timed-moments-in-25-photos\/12545\" title=\"Perfectly Timed Moments In 25 Photos (#12 got caught!)\">\r\n\t\t\t\t\t\t\t<img width=\"300\" height=\"153\" src=\"http:\/\/cloudfront.viewmixed.com\/wp-content\/uploads\/2014\/08\/Perfectly-Timed-Photos-300x153.jpg\" class=\"attachment-medium wp-post-image\" alt=\"Perfectly-Timed-Photos\" \/>\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"tag-widget-body-content-container\">\r\n\t\t\t\t\t\t<div class=\"tag-widget-body-title-container\">\r\n\t\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/perfectly-timed-moments-in-25-photos\/12545\" class = \"posts-by-tag-item-title\">\r\n\t\t\t\t\t\t\t\tPerfectly Timed Moments In 25 Photos (#12 got caught!)\t\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/li>\r\n\t\t\t\t\t\t<li class=\"wp-most-popular-posts-by-tag-item \" id=\"posts-by-tag-item-12348\">\r\n\t\t\t\t<div class=\"number-rating\"><div>#2<\/div><\/div>\r\n\t\t\t\t<div class=\"tag-widget-body-container\">\r\n\t\t\t\t\t<div class=\"tag-widget-body-thumbnail-container\">\r\n\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/12348\/12348\" title=\"29 Prom Pictures That, Um&#8230; Just Take A Look\">\r\n\t\t\t\t\t\t\t<img width=\"222\" height=\"300\" src=\"http:\/\/cloudfront.viewmixed.com\/wp-content\/uploads\/2014\/08\/prom6-222x300.jpg\" class=\"attachment-medium wp-post-image\" alt=\"prom6\" \/>\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"tag-widget-body-content-container\">\r\n\t\t\t\t\t\t<div class=\"tag-widget-body-title-container\">\r\n\t\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/12348\/12348\" class = \"posts-by-tag-item-title\">\r\n\t\t\t\t\t\t\t\t29 Prom Pictures That, Um&#8230; Just Take A Look\t\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/li>\r\n\t\t\t\t\t\t<li class=\"wp-most-popular-posts-by-tag-item \" id=\"posts-by-tag-item-4547\">\r\n\t\t\t\t<div class=\"number-rating\"><div>#3<\/div><\/div>\r\n\t\t\t\t<div class=\"tag-widget-body-container\">\r\n\t\t\t\t\t<div class=\"tag-widget-body-thumbnail-container\">\r\n\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/10-death-row-prisoners-famous-last-words\/4547\" title=\"14 Death Row Prisoner&#8217;s Famous Last Words\">\r\n\t\t\t\t\t\t\t<img width=\"300\" height=\"282\" src=\"http:\/\/cloudfront.viewmixed.com\/wp-content\/uploads\/2013\/11\/lastwords9-300x282.jpg\" class=\"attachment-medium wp-post-image\" alt=\"Famous last words of Jimmy Glass before the electric chair: &quot;I&#039;d rather be fishing.&quot; Well, wouldn&#039;t we all.\" \/>\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<div class=\"tag-widget-body-content-container\">\r\n\t\t\t\t\t\t<div class=\"tag-widget-body-title-container\">\r\n\t\t\t\t\t\t\t<a href=\"http:\/\/viewmixed.com\/10-death-row-prisoners-famous-last-words\/4547\" class = \"posts-by-tag-item-title\">\r\n\t\t\t\t\t\t\t\t14 Death Row Prisoner&#8217;s Famous Last Words\t\t\t\t\t\t\t<\/a>\r\n\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t<\/li>\r\n\t\t\t<\/ul><\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-30\" class=\"widget widget_execphp clearfix\">\t\t\t<div class=\"execphpwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n<!--\/* OpenX Asynchronous JavaScript tag *\/-->\r\n<div id=\"537217599_INSERT_SLOT_ID_HERE\" style=\"width:300px;height:250px;margin:0;padding:0\">\r\n  <noscript><iframe id=\"0222be05d9\" name=\"0222be05d9\" src=\"http:\/\/us-ads.openx.net\/w\/1.0\/afr?auid=537217599&cb=INSERT_RANDOM_NUMBER_HERE\" frameborder=\"0\" scrolling=\"no\" width=\"300\" height=\"250\"><a href=\"http:\/\/us-ads.openx.net\/w\/1.0\/rc?cs=0222be05d9&cb=INSERT_RANDOM_NUMBER_HERE\" ><img src=\"http:\/\/us-ads.openx.net\/w\/1.0\/ai?auid=537217599&cs=0222be05d9&cb=INSERT_RANDOM_NUMBER_HERE\" border=\"0\" alt=\"\"><\/a><\/iframe><\/noscript>\r\n<\/div>\r\n<script type=\"text\/javascript\">\r\n  var OX_ads = OX_ads || [];\r\n  OX_ads.push({\r\n     slot_id: \"537217599_INSERT_SLOT_ID_HERE\",\r\n     auid: \"537217599\"\r\n  });\r\n<\/script>\r\n<script type=\"text\/javascript\" src=\"http:\/\/us-ads.openx.net\/w\/1.0\/jstag\"><\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-58\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><ins class=\"adbladeads\" data-cid=\"5258-1265066183\" data-host=\"web.adblade.com\" data-tag-type=\"1\" data-width=\"300\" data-height=\"880\" style=\"display:none\"><\/ins>\r\n<script async src=\"http:\/\/web.adblade.com\/js\/ads\/async\/show.js\" type=\"text\/javascript\"><\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-57\" class=\"widget widget_execphp clearfix\">\t\t\t<div class=\"execphpwidget\"><div class=\"ad-notice-right\">ADVERTISEMENT<\/div>\r\n<!-- BEGIN JS TAG - 300x250 VM 4D - 300x250 - DO NOT MODIFY -->\r\n<SCRIPT TYPE=\"text\/javascript\">\r\ndocument.write('<S' + 'CRIPT TYPE=\"text\/javascript\" SRC=\"http:\/\/cpm.solutionswide.com\/tag?zone_id=13354&size=300x250&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '\"><\/S' + 'CRIPT>');\r\n<\/SCRIPT>\r\n<!-- END TAG --><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"execphp-80\" class=\"widget widget_execphp clearfix\">\t\t\t<div class=\"execphpwidget\"><link href='http:\/\/fonts.googleapis.com\/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text\/css'>\r\n<style type=\"text\/css\">\r\n\tdiv.crowdignite-container {\r\n\t\twidth: 215px;\r\n\t\tpadding: 20px;\r\n\t\tfont-family: 'Yanone Kaffeesatz', sans-serif;\r\n\t}\r\n\t\tdiv.crowdignite-container h3, div.crowdignite-container h2 {\r\n\t\t\tpadding: 0;\r\n\t\t\tmargin: 0 0 -5 0;\r\n\t\t\tfont-weight: normal;\r\n\t\t}\r\n\r\n\t\tdiv.crowdignite-container h2 {\r\n\t\t\tmargin-bottom: 25px;\r\n\t\t}\r\n\r\n\t\tdiv.crowdignite-container h3.green {\r\n\t\t\tcolor: #93cc5d;\r\n\t\t}\r\n\r\n\t\tdiv.crowdignite-container a.crowdignite-heading {\r\n\t\t\tpadding: 10px 0;\r\n\t\t\tborder-top: 1px dotted #C0C0C0;\r\n\t\t\tdisplay: block;\r\n\t\t\ttext-decoration: none;\r\n\t\t\tcolor: #101010;\r\n\t\t\tfont-size: 15px;\r\n\t\t}\r\n<\/style>\r\n<div class=\"crowdignite-container\">\r\n\t<h3 class=\"green\">More From<\/h3>\r\n\t<h2>Our Partners<\/h2>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/822466329\/0\/1\/77226069?user_id=463747d9ce1b0bb84104f04d592dc176&slot=0&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Floyd Mayweather Sued for $20 Million By Ex-Girlfriend He Abused  <\/a>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/717242795\/0\/1\/56821865?user_id=463747d9ce1b0bb84104f04d592dc176&slot=1&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Kim Kardashian Insists North West Will Need to Get a Job<\/a>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/821378989\/0\/1\/76065979?user_id=463747d9ce1b0bb84104f04d592dc176&slot=2&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Is Meri Brown Quitting Sister Wives and Leaving Kody Brown?<\/a>\r\n\t\t<a href=\"http:\/\/crowdignite.com\/v\/32627\/831358953\/0\/1\/84593745?user_id=463747d9ce1b0bb84104f04d592dc176&slot=3&referp=0\" class=\"crowdignite-heading\" target=\"_blank\">Vanderpump Rules Star Vail Bloom Dating Chris Pine?!<\/a>\r\n\t<\/div><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div><div id=\"text-166\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">WAHWAH Anchored Unit<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><!-- WAHWAH Radio Player -->\r\n<script src=\"http:\/\/cdn-s.wahwahnetworks.com\/00BA6A\/toolbar\/publishers\/2105\/wahwahobject.js\"><\/script>\r\n<!-- End WAHWAH Radio Player --><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-end-of-slideshow":"<div id=\"text-96\" class=\"widget widget_text clearfix\"><div class=\"widget-heading\"><span class=\"widget-name\">Revcontent EOS<\/span><div class=\"widget-stripe\"><\/div><\/div>\t\t\t<div class=\"textwidget\"><div id=\"rcjsload_07b683\"><\/div>\r\n<script type=\"text\/javascript\">\r\n(function() {\r\nvar rcel = document.createElement(\"script\");\r\nrcel.id = 'rc_' + Math.floor(Math.random() * 1000);\r\nrcel.type = 'text\/javascript';\r\nrcel.src = \"http:\/\/trends.revcontent.com\/serve.js.php?w=173&t=\"+rcel.id+\"&c=\"+(new Date()).getTime()+\"&width=\"+(window.outerWidth || document.documentElement.clientWidth);\r\nrcel.async = true;\r\nvar rcds = document.getElementById(\"rcjsload_07b683\"); rcds.appendChild(rcel);\r\n})();\r\n<\/script><\/div>\n\t\t<\/div><div class=\"seperator clearfix\"><span class=\"line\"><\/span><\/div>","desktop-bottom-splitter-1":"","desktop-bottom-splitter-2":"","desktop-test-widget":"","desktop-promoted-widget":"","desktop-end-of-body":""};
+        }
+    </script>
+    <!-- WordPress Most Popular --><script type="text/javascript">/* <![CDATA[ */ jQuery.post("http://viewmixed.com/wp-admin/admin-ajax.php", { action: "wmp_update", id: 594, token: "f130e56892" }); /* ]]> */</script><!-- /WordPress Most Popular --><meta name="generator" content="Magzimize by Elthemes">
 <meta name="generator" content="VennerFramework 1.0">
-        <link rel="shortcut icon" href="http://cdn.viewmixed.com/wp-content/themes/magzimize/images/ifav.ico">
-        <style>.page-previous-next {background-color:#42BAD8;color:#FFFFFF;padding:5px;width:70px;text-align:center;}
+<link rel="shortcut icon" href="http://cloudfront.viewmixed.com/wp-content/uploads/2014/12/vm_favicon.png">
+<style>.page-previous-next {background-color:#42BAD8;color:#FFFFFF;padding:5px;width:70px;text-align:center;}
 .page-previous {float:left;margin-left:0px;}
 .page-next {float:right;margin-right:0px;}
 
@@ -96,59 +95,266 @@ div#navigation-main ul li a {font-size:9px;padding:9px;}
 
 div#content .alternative-small-preview .alternative-small-image img {width: auto;height: auto;}
 div#content .alternative-small-preview .alternative-small-image {overflow:hidden;}
-.regular-content img {max-width:720px;height: auto;}
+.regular-content img {max-width:720px;height: auto;width:auto}
 .pw-float-right{position:absolute!important;top:0!important;right:-35px!important;margin-top:0!important;}
-.regular-content{position:relative;}</style>
+.regular-content{position:relative;}
+
+</style>
+
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 1.5.2 -->
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="ViewMixed">
+<meta property="og:title" content="Privacy Policy">
+<meta itemprop="name" content="Privacy Policy">
+<meta property="og:url" content="http://viewmixed.com/privacy-policy">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Last Updated: March&nbsp;19, 2015
+
+Generally VIEWMIXED.COM (&quot;Site&quot; or &quot;we&quot;, &quot;our&quot; or &quot;us&quot;) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail addres">
+<meta itemprop="description" content="Last Updated: March&nbsp;19, 2015
+
+Generally VIEWMIXED.COM (&quot;Site&quot; or &quot;we&quot;, &quot;our&quot; or &quot;us&quot;) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail addres">
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags -->
 
 
 
-		<!-- Custom CSS -->
-		<link rel="stylesheet" id="dynamic-style-css" href="http://viewmixed.com/dynamic-style.php?ver=1.0" type="text/css" media="all">
-
-<!-- DFP -->
-<script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
+<!-- AdSupply Interstitial -->
+<script data-cfasync="false" type="text/javascript">
+	(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");
+	(function() {
+	var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+	s.src = "http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=98abf26b-c95c-4883-b906-6cb1839634cf";
+	s.id = "infinity"; s.setAttribute("data-guid", "98abf26b-c95c-4883-b906-6cb1839634cf"); s.setAttribute("data-version", "async");
+	var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e);
+	})();
 </script>
 
-<!-- Not used? -->
-<!--script type='text/javascript'>
-googletag.cmd.push(function() {
-googletag.defineSlot('/12955483/VM-T2-468X60', [468, 60], 'div-gpt-ad-1367349550009-0').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script-->
 
-<!-- DFP: A_VM_PgNextButtn_Top_468x60 -->
+<!-- Native Ads -->
+<script type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script>
+<style type="text/css">
+/*
+Global Styles
+------------------------------------------------------------ */
+#social-bar-container {
+	width: 100%;
+	text-align: center;
+	margin-top: 5px;
+	padding-top: 10px;
+	border-top: 1px dotted #C0A890;
+	height: 45px;
+	margin-bottom: 20px;
+}
+.social-bar content {
+  padding-top: 5px;
+}
+.social-bar a:hover {
+  color: #FFFFFF;
+}
+div.social-bar {
+	display: inline-block;
+	margin: 0;
+	z-index: 9999;
+	padding-top: 10px;
+	text-align: center;
+}
+ 
+a.button-dribbble,
+a.button-facebook,
+a.button-googleplus,
+a.button-linkedin,
+a.button-pinterest,
+a.button-comments,
+a.button-tumblr,
+a.button-twitter,
+.previous-nav a,
+.next-nav a,
+a.button-return {
+	border-radius: 3px;
+	box-shadow: 0 1px 1px #999;
+	color: #fff;
+	display: inline-block;
+	font-size: 16px;
+	margin: 0 5px 5px 0;
+	text-align: center;
+	width: 140px;
+}
+
+.social-bar span.icon, .teaser span.icon, .pagination-numbers span.icon {
+	display: inline-block;
+	width: 34px;
+	height: 30px;
+	float: left;
+	margin-right: 15px;
+}
+.social-bar content, .teaser content, .pagination-numbers content {
+	display: inline-block;
+	float: left;
+}
+/*
+Facebook
+------------------------------------------------------------ */
+ 
+a.button-facebook {
+	background-color: #2b4170; /* fallback color */
+	#background: -moz-linear-gradient(top, #3b5998, #2b4170);
+	#background: -ms-linear-gradient(top, #3b5998, #2b4170);
+	#background: -webkit-linear-gradient(top, #3b5998, #2b4170);
+	border: 1px solid #2b4170;
+	text-shadow: 0 -1px -1px #1f2f52;
+}
+ 
+a.button-facebook:hover {
+	background-color: #3b5998; /* fallback color */
+	#background: -moz-linear-gradient(top, #2b4170, #3b5998);
+	#background: -ms-linear-gradient(top, #2b4170, #3b5998);
+	#background: -webkit-linear-gradient(top, #2b4170, #3b5998);
+}
+
+a.button-facebook span.icon {
+	background: url(http://cloudfront.viewmixed.com/wp-content/themes/magzimize/images/social-icons-2.png) -36px -12px no-repeat;
+	background-size: 210px 158px;
+}
+
+a.like-us span.icon {
+	background: url(http://cloudfront.viewmixed.com/wp-content/themes/magzimizeimages/social-icons-2.png) -139px -13px no-repeat;
+	background-size: 210px 158px;
+}
+
+/*
+Google+
+------------------------------------------------------------ */
+ 
+a.button-googleplus {
+	background-color: #c33219; /* fallback color */
+	#background: -moz-linear-gradient(top, #e64522, #c33219);
+	#background: -ms-linear-gradient(top, #e64522, #c33219);
+	#background: -webkit-linear-gradient(top, #e64522, #c33219);
+	border: 1px solid #c33219;
+	text-shadow: 0 -1px -1px #972412;
+}
+ 
+a.button-googleplus:hover {
+	background-color: #e64522; /* fallback color */
+	#background: -moz-linear-gradient(top, #c33219, #e64522);
+	#background: -ms-linear-gradient(top, #c33219, #e64522);
+	#background: -webkit-linear-gradient(top, #c33219, #e64522);
+}
+
+a.button-googleplus span.icon {
+	background: url(http://cloudfront.viewmixed.com/wp-content/themes/magzimize/images/social-icons-2.png) -176px -46px no-repeat;
+	background-size: 210px 158px;
+}
+
+
+/*
+Twitter
+------------------------------------------------------------ */
+ 
+a.button-twitter {
+	background-color: #0081ce; /* fallback color */
+	#background: -moz-linear-gradient(top, #00aced, #0081ce);
+	#background: -ms-linear-gradient(top, #00aced, #0081ce);
+	#background: -webkit-linear-gradient(top, #00aced, #0081ce);
+	border: 1px solid #0081ce;
+	text-shadow: 0 -1px -1px #005ea3;
+}
+ 
+a.button-twitter:hover {
+	background-color: #00aced; /* fallback color */
+	#background: -moz-linear-gradient(top, #0081ce, #00aced);
+	#background: -ms-linear-gradient(top, #0081ce, #00aced);
+	#background: -webkit-linear-gradient(top, #0081ce, #00aced);
+}
+
+a.button-twitter span.icon {
+	background: url(http://cloudfront.viewmixed.com/wp-content/themes/magzimize/images/social-icons-2.png) -1px -12px no-repeat;
+	background-size: 210px 158px;
+}
+
+/*
+Pinterest
+------------------------------------------------------------ */
+ 
+a.button-pinterest {
+	background-color: #a0171c; /* fallback color */
+	#background: -moz-linear-gradient(top, #cb2027, #a0171c);
+	#background: -ms-linear-gradient(top, #cb2027, #a0171c);
+	#background: -webkit-linear-gradient(top, #cb2027, #a0171c);
+	border: 1px solid #a0171c;
+	text-shadow: 0 -1px -1px #761114;
+}
+ 
+a.button-pinterest:hover {
+	background-color: #cb2027; /* fallback color */
+	#background: -moz-linear-gradient(top, #a0171c, #cb2027);
+	#background: -ms-linear-gradient(top, #a0171c, #cb2027);
+	#background: -webkit-linear-gradient(top, #a0171c, #cb2027);
+}
+
+a.button-pinterest span.icon {
+	background: url(http://cloudfront.viewmixed.com/wp-content/themes/magzimize/images/social-icons-2.png) -141px -47px no-repeat;
+	background-size: 210px 158px;
+}
+
+/*
+Comments
+------------------------------------------------------------ */
+ 
+a.button-comments {
+	background-color: #e2733d; /* fallback color */
+	#background: -moz-linear-gradient(top, #e88845, #e2733d);
+	#background: -ms-linear-gradient(top, #e88845, #e2733d);
+	#background: -webkit-linear-gradient(top, #e88845, #e2733d);
+	border: 1px solid #e2733d;
+	text-shadow: 0 -1px -1px #9a4824;
+}
+ 
+a.button-comments:hover {
+	background-color: #e88845; /* fallback color */
+	#background: -moz-linear-gradient(top, #e2733d, #e88845);
+	#background: -ms-linear-gradient(top, #e2733d, #e88845);
+	#background: -webkit-linear-gradient(top, #e2733d, #e88845);
+}
+
+a.button-comments span.icon {
+	background: url(http://cloudfront.viewmixed.com/wp-content/themes/magzimize/images/social-icons-2.png) -107px -82px no-repeat;
+	background-size: 210px 158px;
+}
+/** Post Share **/
+.post-share {
+	width: 80px; padding: 10px 0px; padding-bottom: 0; background: #ffffff; border: 1px solid #CCC;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	text-align: center;
+	position: fixed;
+	top: 255px;
+	left: auto;
+	z-index: 15;
+	margin-left: -120px;
+}
+
+.share-widget {
+	margin-bottom: 10px;
+}
+</style>
+
+
+
+   
+<!-- PLACE THIS CODE IN WEBSITE HEADER -->
+<!-- nativeads pixel 10003-viewmixed.com-pixel 2014-12-12 895041 start -->
+<script type="text/javascript" src="//cpanel.nativeads.com/js/pixel/pixel-10003-6b57f8e4061e2fa6a9cc6d2a50811fda1fda5262.js"></script>
+<!-- nativeads pixel 10003-viewmixed.com-pixel 2014-12-12 895041 end -->
+
 <script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.defineSlot('/12955483/A_VM_PgNextButtn_Top_468x60', [468, 60], 'div-gpt-ad-1379543890236-0').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script>
+            document.write(widgetAreaResponse["desktop-in-head"]);
+    </script>
+    </head>
 
-<!-- DFP: A_VM_PgNextButtn_Btm_468x60 -->
-<script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.defineSlot('/12955483/A_VM_PgNextButtn_Btm_468x60', [468, 60], 'div-gpt-ad-1379543949380-0').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script>
-
-        <!-- Facebook Conversion Code for ViemMixed Pixel -->
+	<body class="page page-id-594 page-template-default unknown">
+    <!-- Facebook Conversion Code for ViemMixed Pixel -->
         <script type="text/javascript">
         var fb_param = {};
         fb_param.pixel_id = '6015109733381';
@@ -164,36 +370,40 @@ googletag.enableServices();
         </script>
         <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6015109733381&amp;value=0&amp;currency=USD" /></noscript>
         <!-- Facebook Conversion Code for ViemMixed Pixel -->
-
-
-<!-- AdSupply Interstitial -->
-<script data-cfasync="false" type="text/javascript">
-(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");
-(function() {
-var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
-s.src = "http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=98abf26b-c95c-4883-b906-6cb1839634cf";
-s.id = "infinity"; s.setAttribute("data-guid", "98abf26b-c95c-4883-b906-6cb1839634cf"); s.setAttribute("data-version", "async");
-var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e);
-})();
+        
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18604690" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
 </script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=18604690&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1576517782576092',
+      xfbml      : true,
+      version    : 'v2.1'
+    });
+  };
 
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+    <div id="uptime-checker"></div>
 
-
-
-    </head>
-
-	<body class="page page-id-594 page-template-default unknown">
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-	
 		<div class="the_body">
 		
 			<div class="wrap_container">
@@ -223,9 +433,9 @@ var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s,
 									<div class="breaking_next"></div>
 									<div class="breaking_prev"></div>
 								</div>
-								<div class="breaking"><ul class="list"><li class="css-1"><a href="http://viewmixed.com/25-incredibly-realistic-3d-drawings/42">25 Incredibly Realistic 3D Drawings</a></li><li class="css-2"><a href="http://viewmixed.com/25-most-popular-video-games-ever/15">25 Most Popular Video Games Ever</a></li></ul></div>							</div>
+								<div class="breaking"><ul class="list"><li class="css-1"><a href="http://viewmixed.com/its-whipping-time-sean-hannity-takes-off-belt-in-defense-of-nfls-peterson/13718">It’s Whipping Time: Sean Hannity Takes Off Belt in Defense of NFL’s Peterson</a></li></ul></div>							</div>
 														
-							<div class="date">Wednesday, July 16, 2014</div>
+							<div class="date">Friday, May 29, 2015</div>
 						</div>
 						
 						<!-- BEGIN Mobile Navigation Top -->
@@ -236,9 +446,13 @@ var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s,
 						<!-- BEGIN BANNER -->
 						<div id="logo-banner" class="clearfix">
 							<!-- LOGO -->
-														<div id="logo"><a href="http://viewmixed.com"><img src="http://cdn.viewmixed.com/wp-content/uploads/2013/02/logo1.jpg" alt="">&nbsp;</a></div>
+														<div id="logo"><a href="http://viewmixed.com"><img src="http://cloudfront.viewmixed.com/wp-content/uploads/2013/02/logo1.jpg" alt="">&nbsp;</a></div>
 							
-							
+							<ul class="sidebar no-title" style="text-align: right;float:right;">
+                            <script type="text/javascript">
+            document.write(widgetAreaResponse["desktop-above-menu"]);
+    </script>
+                            </ul>
                            			<!---->
 							</div>
 						</div>
@@ -254,15 +468,15 @@ var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s,
 								<ul id="menu-main-menu" class="menu"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5"> <a href="http://viewmixed.com/">Home</a></li>
 <li id="menu-item-118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-118"> <a href="http://viewmixed.com/category/art">Art</a></li>
 <li id="menu-item-119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119"> <a href="http://viewmixed.com/category/business">Business</a></li>
-<li id="menu-item-120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120"> <a href="http://viewmixed.com/category/celebrity">Celebrity</a></li>
+<li id="menu-item-14344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14344"> <a href="http://viewmixed.com/category/celebrity">Celebrity</a></li>
 <li id="menu-item-121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121"> <a href="http://viewmixed.com/category/crazy-news">Crazy News</a></li>
 <li id="menu-item-122" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-122"> <a href="http://viewmixed.com/category/entertainment">Entertainment</a></li>
 <li id="menu-item-123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123"> <a href="http://viewmixed.com/category/fact">Fact!</a></li>
 <li id="menu-item-126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126"> <a href="http://viewmixed.com/category/funny">Funny</a></li>
-<li id="menu-item-127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127"> <a href="http://viewmixed.com/category/health">Health</a></li>
-<li id="menu-item-128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-128"> <a href="http://viewmixed.com/category/politics">Politics</a></li>
-<li id="menu-item-129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-129"> <a href="http://viewmixed.com/category/sports">Sports</a></li>
-<li id="menu-item-130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130"> <a href="http://viewmixed.com/category/travel">Travel</a></li>
+<li id="menu-item-14349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14349"> <a href="http://viewmixed.com/category/health">Health</a></li>
+<li id="menu-item-14350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14350"> <a href="http://viewmixed.com/category/politics">Politics</a></li>
+<li id="menu-item-14351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14351"> <a href="http://viewmixed.com/category/sports">Sports</a></li>
+<li id="menu-item-14352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14352"> <a href="http://viewmixed.com/category/travel">Travel</a></li>
 </ul>							</div>
 							
 							<!--div id="search"></div-->
@@ -271,25 +485,20 @@ var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s,
 						</div>
 						<!-- END NAVIGATION MAIN -->
 						
-						<!-- Search Form -->
-						<!--form method="get" id="search-form" action="http://viewmixed.com/">
-							<input id="search-box" type="text" name="s" value="To search type and hit enter" onfocus="if(this.value=='To search type and hit enter')this.value='';" onblur="if(this.value=='')this.value='To search type and hit enter';"/>
-						</form-->
-						
 						<!-- Mobile Navigation Main -->
 						<div class="mobilenav-main">
 							<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5"> <a href="http://viewmixed.com/">Home</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-118"> <a href="http://viewmixed.com/category/art">Art</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-119"> <a href="http://viewmixed.com/category/business">Business</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-120"> <a href="http://viewmixed.com/category/celebrity">Celebrity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14344"> <a href="http://viewmixed.com/category/celebrity">Celebrity</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121"> <a href="http://viewmixed.com/category/crazy-news">Crazy News</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-122"> <a href="http://viewmixed.com/category/entertainment">Entertainment</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123"> <a href="http://viewmixed.com/category/fact">Fact!</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-126"> <a href="http://viewmixed.com/category/funny">Funny</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-127"> <a href="http://viewmixed.com/category/health">Health</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-128"> <a href="http://viewmixed.com/category/politics">Politics</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-129"> <a href="http://viewmixed.com/category/sports">Sports</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130"> <a href="http://viewmixed.com/category/travel">Travel</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14349"> <a href="http://viewmixed.com/category/health">Health</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14350"> <a href="http://viewmixed.com/category/politics">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14351"> <a href="http://viewmixed.com/category/sports">Sports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14352"> <a href="http://viewmixed.com/category/travel">Travel</a></li>
 </ul>						</div>
 						
 					</div>
@@ -298,13 +507,17 @@ var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s,
 					<!-- END header -->
 					
 					
-					
 					<!-- BEGIN content -->
 					<div>
 
 					<!-- CONTENT
 					================================================== -->
-					
+					<div class="expandable">
+					<script type="text/javascript">
+            document.write(widgetAreaResponse["desktop-below-menu"]);
+    </script>
+						<div style="clear:both"></div>
+					</div>
 					<!-- BEGIN blog-container -->
 					<div id="blog-container">
 						
@@ -321,24 +534,27 @@ var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s,
 		
 				
 		<!-- THE CONTENT -->
-		<div class="post-594 page type-page status-publish hentry entry-content clearfix" id="post-594">
-			<p><b>Privacy Policy for www.viewmixed.com</b></p>
-<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at vm1@viewmixed.com.</p>
-<p>At www.viewmixed.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.viewmixed.com and how it is used.</p>
-<p><b>Log Files</b><br>
-Like many other Web sites, www.viewmixed.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
-<p><b>Cookies and Web Beacons</b><br>
-www.viewmixed.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
-<p><b>DoubleClick DART Cookie</b><br>
-.:: Google, as a third party vendor, uses cookies to serve ads on www.viewmixed.com.<br>
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.viewmixed.com and other sites on the Internet.<br>
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html</p>
-<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….<br>
-Google Adsense</p>
-<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.viewmixed.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
-<p>www.viewmixed.com has no access to or control over these cookies that are used by third-party advertisers.</p>
-<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.viewmixed.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
-<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
+		<div class="post-594 page type-page status-publish hentry entry-content clearfix" id="post-594">			
+			<p><em>Last Updated: March&nbsp;19, 2015</em></p>
+<p>Generally VIEWMIXED.COM (“Site” or “we”, “our” or “us”) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter “PII”).</p>
+<p>VIEWMIXED.COM is owned by SolutionsWide. For VIEWMIXED.COM, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.</p>
+<p><strong>What does this Privacy Policy cover?</strong></p>
+<p>This Privacy Policy applies to collection, use, storage and disclosure of information by us.<br>
+Please be aware that, as part of the service provided by this Site, we may provide links to websites operated by third parties. We are not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. You should check the applicable privacy policies of such third-party Web sites or applications to determine how they handle any information they collect from you.</p>
+<p><strong>What information does VIEWMIXED.COM collect and how is it used? Does VIEWMIXED.COM disclose information to third parties?</strong></p>
+<p>We may collect any or all of the following three types of information: (i) traffic or clickstream data, or (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) (“Non-PII”). Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of VIEWMIXED.COM.</p>
+<p>(a) Traffic or Clickstream Data (“Clickstream Data”). Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and VIEWMIXED.COM, but only in anonymous form. Notwithstanding the foregoing, such third parties and VIEWMIXED.COM may combine such Clickstream Data with any PII that you choose to give to such third parties or VIEWMIXED.COM when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.</p>
+<p>(b) Non-Personally Identifiable Information. As part of our on-going efforts to ensure the best possible experience for all users of the Site, we may use log files, web beacons and cookies to collect Non-PII from the Site, browsers, advertisers and third-party sites. “Log files” track actions occurring on the Site and collect data including: your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. “Web beacons” are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. “Cookies” are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services. All information collected by Cookies, Web beacons and Log files are Non-PII.</p>
+<p>There are two classes of Cookies based on how long they remain on your system: (i) “Session Cookies” may be used only during your visit to the Site and are erased once you close your browser, and (ii) “Persistent Cookies” (if applicable) remain on your browser for one (1) year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site.</p>
+<p>There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. Most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of your browser and browser add-ons for more information.</p>
+<p>A useful resource on understanding Cookies may be found at http://www.allaboutcookies.org.</p>
+<p>(c) Third Party Advertising. We have relationships with third-party advertising companies to drive traffic to and to serve ads on our Site. We share Clickstream Data and Non-PII with such advertising companies. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.</p>
+<p><strong>Is data stored by VIEWMIXED.COM secure?</strong></p>
+<p>We employ reasonable measures to ensure the security of all information and we routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.</p>
+<p><strong>How can I learn about changes to this privacy policy?</strong></p>
+<p>We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post the revised Privacy Policy and the date the Privacy Policy was last updated on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. We encourage you to review the Privacy Policy whenever you use this Site to make sure you understand how your information will be used. It is the express will of the parties that this agreement and all related documents have been drawn up in English.</p>
+<p><strong>How do I find out more about VIEWMIXED.COM information practices?</strong></p>
+<p>If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us by e-mail at info@viewmixed.com</p>
 		</div>
 		
 				
@@ -349,20 +565,20 @@ Google Adsense</p>
 <!-- call sidebar -->
 <!-- BEGIN SIDEBAR -->
 <div id="sidebar">
-	
-		
+	<script type="text/javascript">
+            document.write(widgetAreaResponse["desktop-blog-sidebar"]);
+    </script>
 </div>
 <!-- END SIDEBAR -->
 <div class="clear"></div>
 
-						</div>
 					</div>
 				</div>
 			</div>
 			<!-- END CONTAINER -->
 		</div>
 		<!-- END WRAP CONTAINER -->
-	
+	</div>
 	<!-- END THE BODY -->
 	
 
@@ -371,7 +587,7 @@ Google Adsense</p>
 	
 	<!-- BEGIN FOOTER -->
 	<div id="footer-widget">
-		<div id="container" class="container">
+		<div class="container">
 			<div id="navigation-bottom" class="clearfix">
 			
 				<div class="widget-bottom">
@@ -386,13 +602,20 @@ Google Adsense</p>
 		</div>
 	</div>
 	<div id="footer-copyright">
-		<div id="container" class="container">
+		<div class="container">
 			<div id="copyright">
-				<a href="http://viewmixed.com/privacy-policy">Privacy Policy</a> | © 2013 ViewMixed			</div>
+				<a href="http://viewmixed.com/privacy-policy">Privacy Policy</a> | <a href="http://viewmixed.com/dmca">DMCA</a> | <a href="http://viewmixed.com/contact-us">Contact Us</a> | <a href="http://viewmixed.com/terms">Terms Of Use</a> | <a href="http://viewmixed.com/sitemap">Sitemap</a> | © 2015 ViewMixed                <div style="float:right;">
+                    <script type="text/javascript" language="JavaScript">
+                    glam_affiliate_id = '1719871591';
+                    </script>
+                    <script src="http://www8.glam.com/js/widgets/glammedia_logo.js"></script>
+                </div>
+			</div>
 			<img src="http://web.adblade.com/orders.php?id=15822" border="0">
 		</div>
 	</div>
 	<!-- END FOOTER -->
+    
 
 
 
@@ -408,14 +631,22 @@ Google Adsense</p>
   ga('send', 'pageview');
 
 </script>
-<script type="text/javascript" src="http://cdn.viewmixed.com/wp-content/cache/minify/000000/fZBRDoIwEAUvZAvReA-vUOlSHqG0drcqnF4i_kgo3zOdvG1deeNmeMxU9Vz1j0xp0i3kCcun-p9yjpRacLcFv2cxkch064KEgkGGMTrtMW4FHyylEXNSZ33Vlz1lbagM1YREx8YL1pGUuWmWhkU4SIi5c-GMdqA3D1gWq-IKDV7-IR7s1DQYFnxD-0aMuskswRcCK_wA.js"></script>
-<script type="text/javascript" src="http://cdn.viewmixed.com/wp-content/cache/minify/000000/M9FPzs_NTc0r0S1KLcip1MvNzAMA.js"></script>
-<script type="text/javascript">
-   window._taboola = window._taboola || [];
-       _taboola.push({article:'auto'});
-                 
-</script>
-<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/viewmixed/loader.js"></script> 
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery.fitvids.js?ver=1.0"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/superfish.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery.prettyPhoto.js?ver=3.1.3"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery.easing.min.js?ver=4.1.1"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/modernizr-2.5.3.min.js?ver=2.5.3"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery-ui-core.min.js?ver=1.8.2"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery-ui-widget.js?ver=1.8.2"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery-ui-accordion.js?ver=1.8.2"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery-ui-tabs.js?ver=1.8.2"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery.flexslider-min.js?ver=1.8"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery.isotope.min.js?ver=1.5.25"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery.elastislide.js?ver=1.1.0"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquerypp.custom.js?ver=1.1.0"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-content/themes/magzimize/js/jquery.custom.js?ver=1.0"></script>
+<script type="text/javascript" src="http://cloudfront.viewmixed.com/wp-includes/js/comment-reply.min.js?ver=4.1.1"></script>
+
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
@@ -441,14 +672,19 @@ qacct:"p-HJv9EukV2qyjx"
 </div>
 </noscript>
 <!-- End Quantcast tag -->
-<div id="uptime-checker"></div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"3e3c4054e8","applicationID":"3112907","transactionName":"b1YBYUJZX0cDBkwMVlYcIlZEUV5aTRVZAlw=","queueTime":0,"applicationTime":111,"ttGuid":"","agentToken":"","atts":"QxECFwpDTEk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script type="text/javascript">
+            document.write(widgetAreaResponse["desktop-end-of-body"]);
+    </script>
+
+
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Minified using disk
-Content Delivery Network via cdn.viewmixed.com
-Application Monitoring using New Relic
+Page Caching using memcached
+Database Caching 6/17 queries in 0.031 seconds using memcached
+Object Caching 0/0 objects using memcached
+Content Delivery Network via Amazon Web Services: CloudFront: cloudfront.viewmixed.com
 
- Served from: viewmixed.com @ 2014-07-15 19:39:52 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+ Served from: viewmixed.com @ 2015-05-29 04:40:02 by W3 Total Cache --></body></html>
