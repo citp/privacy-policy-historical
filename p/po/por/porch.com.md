@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200654id_/http%3A//porch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529074917id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Porch
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy Overview
 
-**_Overview._** Porch.com, Inc., a Delaware corporation, and our affiliates (collectively, “Porch,” “we,” “us”), are providing this Privacy Policy (“Privacy Policy”) with respect to all of our Services, all of which are hosted in the United States. This Privacy Policy describes our collection, use and disclosure of information that we receive when you use our Services. All terms used in this Privacy Policy that are not defined herein have the meanings set forth in our Terms of Use.
+**_Overview._** Porch.com, Inc., a Delaware corporation, and our affiliates (collectively, ?Porch,? ?we,? ?us?), are providing this Privacy Policy (?Privacy Policy?) with respect to all of our Services, all of which are hosted in the United States. This Privacy Policy describes our collection, use and disclosure of information that we receive when you use our Services. All terms used in this Privacy Policy that are not defined herein have the meanings set forth in our Terms of Use.
 
 **_Privacy Policy Updates._** We may update this Privacy Policy from time to time to reflect changes to our information practices by updating this page and the Privacy Policy effective date above. Your continued use of the Services after the date the Privacy Policy is changed (or the posted effective date, if later) will constitute your acceptance and agreement to such changes.
 
@@ -48,7 +48,7 @@ Your privacy is important to us and we are committed to protecting your informat
 
 **_Porch Service Providers._** We may utilize third party service providers to help us administer, provide and improve the Services and these providers have access to your personally identifiable information only as necessary to perform services for us (e.g., we may share your credit/debit card information with our third party transaction processors only as necessary to complete your purchase, or we may utilize third party service providers to provide you with targeted messaging and advertising and these providers have access to your information only as necessary to provide these offers).
 
-**_Co-Branded Partners._** Some of our Services may be co-branded and offered in conjunction with a third party. If you use such co-branded Services both Porch and the third party may receive information provided by you or collected in conjunction with the co-branded Services. For example, If you sign-up with Porch through a Lowe's promoted or co-branded website or within a Lowe's store directly, Porch may share your information with Lowe’s.
+**_Co-Branded Partners._** Some of our Services may be co-branded and offered in conjunction with a third party. If you use such co-branded Services both Porch and the third party may receive information provided by you or collected in conjunction with the co-branded Services. For example, If you sign-up with Porch through a Lowe's promoted or co-branded website or within a Lowe's store directly, Porch may share your information with Lowe?s.
 
 **_Investigations and Law._** We may release personally identifiable information when we believe that doing so is appropriate to comply with applicable laws, to avoid legal liability, to cooperate with government or law enforcement or private parties; to investigate or enforce a potential violation of our Terms, policies and guidelines; to bill and collect amounts owed to us; to protect our rights, reputation, safety or property or that of users or others; and to address fraud, security or technical issues.
 
