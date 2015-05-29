@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebar.com privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129032758id_/http%3A//www.thebar.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebar.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529234421id_/http%3A//us.thebar.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -196,9 +196,9 @@ If you would like to unsubscribe from thebar.com communications, or from all com
 
 ## 11\. Portfolio permissions
 
-If you have given permission to receive communications about Diageo brands generally (for example, by opting to receive news and special offers by email about Diageo's other great alcohol brands), you may from time to time receive communications about brands to which you have not opted in specifically. Information about many of Diageo's brands can be found at [www.diageobrands.com.](http://www.diageobrands.com/)
+If you have given permission to receive communications about Diageo brands generally (for example, by opting to receive news and special offers by email about Diageo's other great alcohol brands), you may from time to time receive communications about brands to which you have not opted in specifically. Information about many of Diageo's brands can be found at [www.diageo.com/en-row/ourbrands.](http://www.diageo.com/en-row/ourbrands/Pages/default.aspx)
 
-We occasionally may send you communications about brands not featured on [www.diageobrands.com.](http://www.diageobrands.com/) (e.g., new brands). We recommend that you refer to [www.diageobrands.com.](http://www.diageobrands.com/) from time to time as the list of featured brands will be updated periodically.
+We occasionally may send you communications about brands not featured on [www.diageo.com/en-row/ourbrands.](http://www.diageo.com/en-row/ourbrands/Pages/default.aspx) (e.g., new brands). We recommend that you refer to [www.diageo.com/en-row/ourbrands.](http://www.diageo.com/en-row/ourbrands/Pages/default.aspx) from time to time as the list of featured brands will be updated periodically.
 
 Providing general permission for us to communicate with you about our brands does not mean that you will receive communications about all of Diageo's brands. We will only communicate with you about those brands that we think may be of particular interest to you. Any such communications will provide you with an opportunity to unsubscribe from the brand in question and/or from all communications about Diageo brands.
 
