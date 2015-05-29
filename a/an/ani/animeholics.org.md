@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeholics.org privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924143709id_/http%3A//animeholics.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeholics.org privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529094122id_/http%3A//animeholics.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ Anime Holics Organization uses third-party advertising companies to serve ads wh
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us.
+If you feel that this site is not following its stated information policy, you may [contact us](http://animeholics.org/contact-us/ "Contact Us | AHO Streaming").
