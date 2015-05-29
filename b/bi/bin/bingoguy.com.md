@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingoguy.com privacy policy that was archived on 2014-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140909101953id_/http%3A//bingoguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingoguy.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529161030id_/http%3A//bingoguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Bingoguy Privacy Policy
 
