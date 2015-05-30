@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directmirror.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921000632id_/http%3A//www.directmirror.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directmirror.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530024017id_/http%3A//directmirror.com/privacy) for the most accurate reproduction.*
 
-# Directmirror.com - Upload & Mirror your files!
+# Directmirror - Mirror your files in one click
 
 Privacy Policy
 
