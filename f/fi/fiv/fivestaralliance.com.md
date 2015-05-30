@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223150428id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531003831id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Five Star Alliance
 
@@ -6,7 +6,7 @@ Last Updated 5/23/2014
 
 [](https://privacy.truste.com/privacy-seal/Five-Star-Alliance/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b "TRUSTe online privacy certification")
 
-Five Star Alliance has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This program covers only the information that is collected through this website [www.FiveStarAlliance.com](http://www.fivestaralliance.com/ "www.FiveStarAlliance.com").
+Five Star Alliance has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This program covers only the information that is collected through this website www.FiveStarAlliance.com.
 
 If you have questions or complaints regarding our privacy policy or practices, you you should first contact Five Star Alliance's privacy policy administrator, by phone at (703) 836-0692. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
@@ -14,7 +14,7 @@ If you have questions or complaints regarding our privacy policy or practices, y
 
 Five Star Alliance takes your privacy very seriously, and we appreciate the fact that by using our service you are placing a great deal of trust in us. Our service has been built from the ground up with your privacy foremost in mind. We know that privacy is an important issue for our clients, and it is thus an important issue for us. We make it our highest priority to secure and protect the confidentiality of the personally identifiable information that you provide to us.
 
-This policy clearly explains the type of personally identifiable information we gather when you use the Five Star Alliance service found on our web site: [www.fivestaralliance.com](http://www.fivestaralliance.com/ "www.fivestaralliance.com"). This policy also outlines the steps we have taken to safeguard the data we collect, and it explains the control we provide to you over the data we collect.
+This policy clearly explains the type of personally identifiable information we gather when you use the Five Star Alliance service found on our web site: www.fivestaralliance.com. This policy also outlines the steps we have taken to safeguard the data we collect, and it explains the control we provide to you over the data we collect.
 
 ### Information we collect
 
@@ -98,4 +98,4 @@ Five Star Alliance
 1900 L Street NW, Suite 401  
 Washington, DC 20036 USA  
 (703) 836-0692  
-<http://www.fivestaralliance.com/>
+http://www.fivestaralliance.com/
