@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphasandesh.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707062717id_/http%3A//www.alphasandesh.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphasandesh.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530062211id_/http%3A//www.alphasandesh.com/privacy.php) for the most accurate reproduction.*
 
 # Mass email marketing company-Alphasandesh.com
 
@@ -51,3 +51,5 @@ We may share aggregate statistics about our customer's traffic patterns and rese
 To update your PII all you need to do is login to your account, select the Setup and Options tab on the left hand navigation bar and make the necessary changes.
 
 PII Information collected is purely for the purposes of identifying users and account purposes. No PII is collected through any tracking technologies. But website user data generated from tracking technologies are tied into PII for the sole purpose of better understanding the effectiveness of marketing campaigns. This data is in turn used to identify potential target markets, to streamline communications to clients and prospective clients and to aid in the development of a better product. The information collected through tracking technologies include: search behaviour, site traffic, time on site, referring ad campaigns and information on drop off points of traffic.
+
+Sign up now and get 2,000 emails free
