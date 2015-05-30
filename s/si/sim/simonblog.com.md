@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the simonblog.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704220218id_/http%3A//www.simonblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonblog.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530085106id_/http%3A//www.simonblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The iPhone and iPad Blog by SimonThe iPhone and iPad Blog by Simon
+# Privacy Policy - The iPhone and iPad Blog
+
+## Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@simonblog.com.
 
