@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypleasure.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128113940id_/http%3A//www.mypleasure.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypleasure.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531005812id_/http%3A//www.mypleasure.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy & Security -- MyPleasure.com
 
