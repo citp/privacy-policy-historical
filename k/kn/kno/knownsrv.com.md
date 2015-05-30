@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knownsrv.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209052540id_/http%3A//knownsrv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knownsrv.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530152736id_/http%3A//knownsrv.com/privacy.php) for the most accurate reproduction.*
 
 # KnownSRV | Secure, Quality, and Fast Hosting Solutions
 
@@ -148,7 +148,7 @@ You represent and warrant that posting content to any public area of the KnownSR
 
 **
 
-If you are visiting KnownSRV website from a country other than the countries in which our servers are located (currently the United States), the various communications will necessarily result in the transfer of information across international boundaries. By visiting our website and communicating electronically with us, you consent to the processing and transfer of your data as set out in this Privacy Policy.
+If you are visiting KnownSRV website from a country other than the countries in which our servers are located (currently the Netherlands), the various communications will necessarily result in the transfer of information across international boundaries. By visiting our website and communicating electronically with us, you consent to the processing and transfer of your data as set out in this Privacy Policy.
 
 **
 
