@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedsword.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030174907id_/http%3A//nakedsword.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedsword.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530212303id_/http%3A//nakedsword.com/privacy) for the most accurate reproduction.*
 
 # Privacy | NakedSword: The Best Gay Porn Movies Online
 
