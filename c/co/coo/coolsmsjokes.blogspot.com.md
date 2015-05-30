@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolsmsjokes.blogspot.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522085232id_/http%3A//coolsmsjokes.blogspot.com/2006/07/to-help-you-make-decisions-about_14.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsmsjokes.blogspot.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530182637id_/http%3A//coolsmsjokes.blogspot.com/2006/07/to-help-you-make-decisions-about_14.html) for the most accurate reproduction.*
 
 # SMS Messages: Privacy Policy
 
