@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the box10.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124003148id_/http%3A//www.box10.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the box10.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530025259id_/https%3A//www.box10.com/privacy.html) for the most accurate reproduction.*
 
 # Box10 Games - Free Games - Free Online Games On Box10
 
