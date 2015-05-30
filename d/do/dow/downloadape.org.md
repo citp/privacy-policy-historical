@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadape.org privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014205700id_/http%3A//www.downloadape.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadape.org privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531010541id_/http%3A//downloadape.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DownloadApe.org
 
