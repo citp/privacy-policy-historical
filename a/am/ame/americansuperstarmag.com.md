@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229175053id_/http%3A//www.americansuperstarmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530201314id_/http%3A//www.americansuperstarmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Superstar Magazine
 
