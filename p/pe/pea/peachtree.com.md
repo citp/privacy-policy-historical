@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080121id_/http%3A//na.sage.com/us/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530172044id_/http%3A//na.sage.com/us/legal) for the most accurate reproduction.*
 
 # Legal | Sage North America | U.S.
 
@@ -6,23 +6,33 @@
 
 All materials available through this website and other websites owned or provided by Sage or any of its affiliated entities (collectively “Sage”), including any products, services, and web content including but not limited to software, images, text, and various downloads (“Materials”) are owned by Sage and/or by Sage vendors, who have given permission to use the Materials.
 
-Materials are protected by copyright, trademark, and other intellectual property laws and all rights in the said Materials are reserved by Sage or their respective owners. You may view, copy, and print pages from the website for personal use only. You may not otherwise use, reproduce, download, modify, store, post, broadcast, transmit, sell, or make available to any party any part of the content from the website without the prior written approval of Sage.
+Materials are protected by copyright, trademark, and other intellectual property laws and all rights in the Materials are reserved by Sage or their respective owners. You may view, copy, and print pages from the website for personal use only. You may not otherwise use, reproduce, download, modify, store, post, broadcast, transmit, sell, or make available to any party any part of the content from the website without the prior written approval of Sage. 
 
 #### Copyright notice
 
-© 2014 Sage Software, Inc. All Rights Reserved.
+© 2015 Sage Software, Inc. All Rights Reserved.
 
 #### Trademark notice
 
 Sage owns many valuable trademarks worldwide that represent Sage as well as its products and services. Most Sage trademarks are registered in the U.S. and in other countries, typically in the name of Sage. Sage does not use the trademark legends.
 
-All references to Sage and Sage products and services must be accurate and never misleading in any way. Sage trademarks may only be used to refer to Sage and Sage products and services, and may not be combined with any other company names, product names, services names, or as part of any domain names.
+All references to Sage and Sage products and services must be accurate and never misleading in any way. Sage trademarks may only be used to refer to Sage and Sage products and services, and may not be combined with any other company names, product names, services names, or as part of any domain names. Sage logos are reserved for exclusive use by Sage, its licensees, and partners under written contract with Sage. No other uses of the Sage logos are permitted.
 
-Sage logos are reserved for exclusive use by Sage, its licensees, and partners under written contract with Sage. No other uses of the Sage logos are permitted.
+The following products, services, and taglines listed herein as well as related logos are registered trademarks or trademarks of Sage and/or its affiliates in the US and/or other countries. This list is provided here for reference only and may not be complete or current and will change from time to time. 
 
-The following products, services, and taglines listed herein as well as related logos are trademarks or registered trademarks of Sage. This list is provided here for reference only and may not be complete or current and will change from time to time.
+Sage; Sage Software; Sage logos; Sage Connected Services; Sage Cloud Services; SData; Sage E-Marketing; Sage Information System; Sage Summit; Sage View, Sage Advisor; Sage Communicator; Sage Harmonizer; Sage Messaging; Sage Migrator; Sage Project Lifecycle Management; Get The Insights Behind Your Numbers; Helping Those Who Do Good Things Do Them Even Better; It Turns Time Into Money; Smartimer; Simply Accounting; Abra; Accpac; Accuracy, Control, Results; Business Care; BusinessVision; BusinessWorks; DacEasy; FirstStep; MAS; MAS 90; MAS 200; MAS 500; Master Builder; Payment Boss; Peachtree; ProAlert; Return on Employee Investment; ROEI; Your Business in Mind Your Relationships. Your Information. Your CRM; Telemagic; Timeslips; TSRemote; TSTimer; ULTIA; Sage DataSage; Sage Transaction Services
 
-Abra; Accpac; Accpac eTransact; Accuracy, Control, Results; Business Care; BusinessVision; BusinessWorks; DacEasy; FAS; FAS Gov; FirstStep; Get The Insights Behind Your Numbers; Harmonizer; Helping Those Who Do Good Things Do Them Even Better; Insights; Intergy; It Turns Time Into Money; MAS; MAS 90; MAS 200; MAS 500; Master Builder; Payment Boss; Peachtree; Peachtree Payroll Service; ProAlert; Return on Employee Investment; ROEI; Sage; Sage 50 Accounting; Sage 50—Canadian Edition; Sage 50 First Step Accounting; Sage 50 HR Manager; Sage 50 Premium Accounting; Sage 50 Quantum Accounting Sage 50—U.S. Edition; Sage 100 Contractor; Sage 100 Fund Accounting; Sage 100 ERP; Sage 300 Construction and Real Estate; Sage 300 ERP; Sage 300 Trade Specialty; Sage 500 ERP; Sage logo; Sage Abra; Sage Abra Alerts; Sage Abra Attendance; Sage Abra Benefits Messenger; Sage Abra eRecruiter; Sage Abra ESS; Sage Abra HRMS; Sage Abra OrgPlus; Sage Abra Payroll; Sage Abra Recruiting Solution; Sage Abra Train; Sage ACH Processing; Sage Accountants Network (SAN); Sage Accpac; Sage Accpac ePOS; Sage Accpac ERP; Sage Accpac Exchange; Sage Accpac HRMS; Sage Accpac Insight; Sage Accpac WMS; Sage Active Planner; Sage Advisor; Sage BusinessVision; Sage BusinessWorks; Sage Card Processing; Sage Checks and Forms; Sage Check Processing; Sage Communicator; Sage Connected Services; Sage Credit and Debit Card Processing; SageCRM; SageCRM.com; Sage DacEasy; Sage DataSage; Electronic Check Services; Sage E-Marketing; Sage ERP X3; Sage Estimating; Sage Exchange; Sage FAS;Sage FAS Gov; Sage Fixed Assets; Sage Gateway; Sage Giftcard; Sage HRMS; Sage Information System; Sage MAS 90; Sage MAS 200; Sage MAS 500; Sage Master Builder; Sage Messaging; Sage Migrator; Sage One; Sage Payment Solutions; Sage Payroll Services; Sage Peachtree; Sage PFW; Sage PFW ERP; Sage Pro; Sage Pro ERP; Sage Project Lifecycle Management; Sage Simply Accounting; Sage Software; Sage Source; Sage Summit; Sage Timberline Enterprise; Sage Timberline Estimating; Sage Timberline Office; Sage TimeSheet; Sage Timeslips; Sage Transaction Services; Sage University; Sage Vault; Sage Virtual Terminal; SData; Simple Comptable; Simple Paie; Simply Accounting; Simply Accounting First Step; Simply Online; Simply Payroll; SimplyNet; Smartimer; Telemagic; Timberline; TimeSheet; Timeslips; TSRemote; TSTimer; ULTIA; Your Business in Mind Your Relationships. Your Information. Your CRM.
+Sage One; Sage One Accounting; Sage One Accounting Standard; Sage One Invoicing; Sage One Accountant Edition; Sage One Accountant Pack; Sage One Connect; Sage Accountants Network; SAN; Sage Accountant Solutions; Leadership Education for Accounting Professionals (LEAP) 
+
+Sage 300 Construction and Real Estate; Sage 300 Construction and Real Estate Project Management; Sage 300 Trade Specialty; Sage 100 Contractor; Sage Construction Anywhere; Sage Estimating; Sage 300 Construction and Real Estate Office Connector; Sage 300 Office Connector Import; Sage 300 Office Connector Financials; Sage 300 Office Connector Query; Sage 300 Office Connector Write; Sage Paperless Construction; Sage Service Operations; Sage Service Operations for Technicians; Sage Service Operations for Customers; Sage Estimating eTakeoff Dimension; Sage Estimating eTakeoff Bridge; Sage Estimating Cut & Fill; Sage 300 Construction and Real Estate Document Management; Sage 300 Construction and Real Estate MyAssistant; Sage 300 Construction and Real Estate MyCommunicator for Outlook; PlanSwift for Sage; Sage Estimating ePlan Takeoff Integrator; Sage Bid Management; Sage Construction Project Management; Sage Estimating Advanced Assembly Databases; Sage Estimating Industry Databases; Sage Estimating Knowledgebases; Sage Estimating RSMeans Databases; Sage Construction and Real Estate Forms; Sage Academy; Sage Anytime Learning; Sage Realtime Learning; Sage Replay Learning.
+
+Sage 100 ERP; Sage 100 Standard ERP; Sage 100 Advanced ERP; Sage 100 Premium ERP; Sage 100 ERP Online; Sage 300 ERP; Sage 300 Standard ERP; Sage 300 Advanced ERP; Sage 300 Premium ERP; Sage 300 Online; Sage 300 ERP Online; Sage 500 ERP; Sage Mobile Sales; Sage Mobile Service; Sage Billing and Payment; Sage MAS 90; Sage MAS 200; Sage MAS 500.
+
+Sage Payment Solutions, Sage Exchange; Sage Merchant Account; Sage ACH Account; Sage Virtual Terminal; Sage Mobile Payments; Sage Virtual Check (ACH); Sage Point of Sale Check Conversion; Sage Check 21; Sage Gift Card; Sage Loyalty Card; Sage Small Business Loan; Sage International Payments; Sage Account Updater; Sage Chargeback Assistance Program; Sage Terminal Replacement Program.
+
+Sage Payroll Solutions, Sage Payroll Services; Sage Payroll Full Service, Sage Payroll Essentials; Sage Time; Sage BusinessVision; Sage BusinessWorks; Sage DacEasy; Sage Fixed Assets; Sage HRMS; Sage Timeslips; EasyChoice; Encore; Paychoice; Paychoice Connection; PeopleChoice HR; Payroll in a Flash; Online Employer; Paychoice Online; Sage Active Planner; Sage Source
+
+SageCRM; SageCRM.com; Sage ERP X3 
 
 #### Third-party trademarks
 
@@ -30,22 +40,20 @@ Business Objects® and the Business Objects logo, BusinessObjects®, and Crystal
 
 UPS®, the UPS brandmark and the Color Brown are trademarks of United Parcel Service of America Inc. Citrix®, GoToMyPC®, GoToMeeting®, GoToWebinar®, GoToAssistExpress®, and Access Your PC from Anywhere® are trademarks of Citrix Systems, Inc. and/or one or more of its affiliates and may be registered in the United States Patent and Trademark Office and in other countries.
 
-Microsoft ®SQL Server®, Windows Vista® and the Windows logo are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or in other countries.
-
-The names of all other products and services are property of their respective owners.
+Microsoft ®SQL Server®, Windows Vista® and the Windows logo are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or in other countries. The names of all other products and services are property of their respective owners.
 
 #### Questions
 
 For questions regarding Sage copyrights or trademarks, please contact the Sage North America Legal Department:
 
-Legal Department  
-Sage  
-1715 N. Brown Road  
-Lawrenceville, GA 30043
+Legal Department   
+Sage   
+1715 N. Brown Road   
+Lawrenceville, GA 30043 
 
-## Privacy policy
+## Sage North America Privacy Policy (Excluding Sage Payroll)
 
-Updated: May 11, 2012
+Updated: April 24, 2015
 
 Sage is committed to the security and privacy of our customer’s data. This Privacy Policy explains our commitment to safeguarding our customers’ data and serves as our agreement with our customers and other parties about our data handling practices. This policy lists the types of data we collect, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
 
@@ -146,7 +154,67 @@ We may change this Privacy Policy at any time by posting the then current policy
 
 Email [privacy.na@sage.com](mailto:Privacy.na@sage.com).
 
-## Corporate compliance
+## Sage Payroll Privacy Policy
+
+Please read this notice carefully to understand how we collect, use, protect and otherwise handle your personal information. 
+
+#### What information do we collect?
+
+We collect information from you when you register on our site or use our services. When registering on our site, you may be asked to enter your name and e-mail address. As a result of our relationship with your employer, we may capture other information, including bank account number(s) and social security number.
+
+#### What do we use your information for?
+
+Any of the information we collect from you may be used in one of the following ways:
+
+  * To personalize your experience (your information helps us to better respond to your individual needs and preferences)
+  * To process payroll and related transactions
+  * To send periodic emails
+  * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering our services.
+
+
+
+#### How do we protect your information?
+
+We have implemented a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+
+We only offer our services through the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and stored in our encrypted Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential.
+
+Your private information will be kept on file in order to provide payroll and related services.
+
+#### Do we use cookies?
+
+Yes. (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.)
+
+#### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in providing our services, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+
+#### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+#### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our OnlineEmployer.com website at [http://na.sage.com/us/legal/online](https://web.archive.org/us/legal/online).
+
+#### Your consent
+
+By using our site, you consent to our web site privacy policy.
+
+#### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified on 4/8/2015.
+
+#### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Sage Payroll   
+305 Fellowship Rd, Suite 300  
+Mt Laurel, NJ 08054  
+856-231-4667 
+
+## Corporate compliance and employment compliance
 
 Sage complies with applicable North American and U.K. business conduct laws and regulations.
 
@@ -164,8 +232,6 @@ Because The Sage Group plc is a U.K.-headquartered business, its subsidiaries, i
 
 
 Sage takes these principles very seriously and will continue to monitor and review any bribery and corruption risks which the business might face.
-
-## Employment compliance
 
 Sage is an equal opportunity workplace and affirmative action employer. We participate in E-Verify.
 
