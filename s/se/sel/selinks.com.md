@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selinks.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702125655id_/http%3A//www.selinks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selinks.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530062117id_/http%3A//www.selinks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Sell Links, Buy Text Link Ads. Selinks - Link Building Service
 
