@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promotionalcode.ca privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128054205id_/http%3A//promotionalcode.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotionalcode.ca privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530055345id_/http%3A//promotionalcode.ca/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of PromotionalCode.ca | Promotional Code
+# Privacy Policy of PromotionalCode.ca
 
 Promotional Code Canada takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
