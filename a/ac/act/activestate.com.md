@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225201945id_/http%3A//www.activestate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530061133id_/http%3A//www.activestate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActiveState Software
 
