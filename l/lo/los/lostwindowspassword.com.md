@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostwindowspassword.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070842id_/http%3A//www.lostwindowspassword.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostwindowspassword.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530232650id_/http%3A//www.lostwindowspassword.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | Lost Windows Password | Windows Password Reset
 
@@ -21,8 +21,6 @@ You can change the settings in your browser to prevent cookies if you do not wan
 ###### Changes to this policy
 
 Please note that Windows Password Key may change this policy from time to time. Any amended policy terms will be posted to the Windows Password Recovery website. 
-
-[](https://web.archive.org/web/20140625070842id_/http%3A//www.lostwindowspassword.com/products/wifi-password-key.html)
 
 Awards
 
