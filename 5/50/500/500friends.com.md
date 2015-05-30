@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2014-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140901053320id_/http%3A//www.500friends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 500friends.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530113102id_/http%3A//www.500friends.com/privacy) for the most accurate reproduction.*
 
 # Privacy | 500friends
 
@@ -69,8 +69,8 @@ In compliance with the US-EU Safe Harbor Principles, 500friends, Inc commits to 
 
 ATTN: Privacy Matters   
 500friends   
-444 Spear Street, Suite 213   
-San Francisco, CA 94105 
+222 Sutter St, Suite 450   
+San Francisco, CA 94108 
 
 or via email at [privacy@500friends.com](mailto:privacy@500friends.com)
 
@@ -80,7 +80,7 @@ Back to Top
   * What can you do if you have a question or concern about this policy and who within our organization is accountable for compliance? 
     
 
-If you feel that we are not complying with our stated privacy policy, you may contact us at [ privacy@500friends.com ](mailto:privacy@500friends.com) or via regular mail at 500friends, Inc.,444 Spear St. Suite 213, San Francisco CA 94105 Attn: COO. We are responsible for the Personal Information under our control, and we have designated our COO as the responsible party for ensuring our compliance with this policy and with any applicable privacy legislation. 
+If you feel that we are not complying with our stated privacy policy, you may contact us at [ privacy@500friends.com ](mailto:privacy@500friends.com) or via regular mail at 500friends, Inc.,222 Sutter St, Suite 450, San Francisco CA 94108 Attn: COO. We are responsible for the Personal Information under our control, and we have designated our COO as the responsible party for ensuring our compliance with this policy and with any applicable privacy legislation. 
 
 Back to Top
 
