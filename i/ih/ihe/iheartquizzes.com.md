@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the iheartquizzes.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227112030id_/http%3A//www.iheartquizzes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartquizzes.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531004224id_/http%3A//www.iheartquizzes.com/privacy) for the most accurate reproduction.*
 
-# iheartquizzes - #1 Quiz Website
+# iHeartQuizzes
 
 ## Privacy Policy
 
 #### 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@iheartquizzes.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us on our Facebook page [iHeartQuizzes](https://www.facebook.com/iheartquizzes)
 
 At www.iheartquizzes.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.iheartquizzes.com and how it is used.
 
@@ -63,8 +63,3 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **Your Consent**
 
 By using our site, you consent to our privacy policy.
-
-  
-
-
-[**iheartquizzes.com**](http://www.iheartquizzes.com/index.php) © 2014 - All rights reserved. 
