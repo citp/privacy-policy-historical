@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pngworkforce.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231150820id_/http%3A//pngworkforce.com/page/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngworkforce.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530223304id_/http%3A//pngworkforce.com/page/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
