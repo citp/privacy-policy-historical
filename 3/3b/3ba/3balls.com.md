@@ -1,115 +1,71 @@
-> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114190622id_/http%3A//privacy-policy.truste.com/verified-policy/www.3balls.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530220256id_/http%3A//www.3balls.com/file_include-file/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy for www.3balls.com
+# Privacypolicy | 3balls.com
 
-Effective on March 16, 2010 
+**3balls.com, Inc. Internet Privacy Policy**  
+**  
+** The Privacy Policy below describes the information that is collected from users on the website, www.3balls.com (hereinafter “site” or “Site”) and what we do with the information collected. If you have any questions or comments about the Privacy Policy, feel free to contact us at [talk2us@3balls.com](mailto:talk2us@3balls.com). This Privacy Policy does not apply to the practices of companies that 3balls.com does not own or control, or to people that 3balls.com does not employ or manage.
 
-This privacy statement describes how 3Balls.com Inc. collects and uses the personal information you provide on our Web site: [www.3balls.com ](http://www.3balls.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+**Collected Information**  
+At 3balls.com, you may be ordering products, contacting us or subscribing to our online newsletters. Most of the personal information that we collect is required in order to properly fulfill your order. Some of the information you are asked to submit include the following: name, shipping address, billing address, e-mail address, telephone number, gender and credit card information, including the cvv code. 
 
-**TRUSTe**
+3balls.com offers a newsletter and email alert. If you no longer want to be sent our newsletter or email alert just click the unsubscribe link on the next newsletter or send an email to [talk2us@3balls.com](mailto:talk2us@3balls.com) and let us know to remove you from our newsletter list. 
 
-3Balls.com Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+Customers who provide their telephone number to us (required on all orders) online may receive a telephone call from us with any questions or information we need to fulfill the order placed on 3balls.com. We do not make any phone numbers in our customer database available to any other companies.   
+Certain features of our site may only be available to customers who provide us with the requested information such as those that are ordering products.
 
-If you have questions or concerns regarding this policy, you should first contact us at [support@3balls.com ](mailto:support@3balls.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+3balls.com may collect certain non-personally identifiable information when you visit our website such as: the referring domain before visiting our website, the path analysis of the customer on our website, the type of browser you are using and the domain name of your Internet service provider.
 
-## Collection and Use of Personal Information
+**The Use of Information**  
+The information you provide about yourself is used to provide the products and services that you have requested or what we think you might be interested in. The information we collect may also be used to contact you due to problems with your request or to update you about new products and customer promotions. 3balls.com will not sell, rent, or share your personal information or email addresses with any third party except in the following scenarios:
 
-We collect the following personal information from you
-
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Financial Information such as bank or brokerage account numbers, types of investments
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information such as product wish lists, order history, marketing preferences
-
+  * We provide personally identifiable information to trusted third parties who work on behalf of or with 3balls.com under confidentiality agreements such as credit card processing companies to bill you for goods and services. These companies may use your personal information to help 3balls.com communicate with you, but are prohibited from using your personal information for any other purpose. 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+  * We will share your personally identifiable information in response to subpoenas, court orders, legal processes, or to establish or exercise our legal rights or to defend against legal claims. 
+  
 
-We use this information to
-
-  * Fulfill your order
-  * Send you an order confirmation
-  * Assess the needs of your business to determine suitable products
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Administer contests and sweepstakes you entered, and notify you if you won
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-  * Display content based upon your interests
+  * We will also share your personally identifiable information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of 3balls.com’s terms of service, or as otherwise required by law.
 
 
 
-**Choice/Opt-Out**
+3balls.com will use the non-personally identifiable aggregate information that we collect to improve the design and content of our website. We also may use this aggregate information to examine path analysis and site usage. 
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@3balls.com ](mailto:support@3balls.com).
+Employees of 3balls.com who have access to personally identifiable information are obligated to protect this information in a manner that is consistent with this Privacy Policy. The personal information will only be used to carry out the orders/services they are providing you from 3balls.com. 
 
-## Information Sharing
+**Cookies**  
+Like many companies, we use "cookies" on our website. Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to remember user's activities on a website. For example, cookies may be used to remember what is in your shopping cart after leaving the website. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser. 
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+We use cookies on our site to use for advertising purposes. If you do not wish to have cookies on your computer, you can Opt **-** Out of this advertising service by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-We may also disclose your personal information
+We do not link data collected from cookies to your personally identifiable information.
 
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if 3Balls.com Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
+**IP Addresses**  
+Like many companies, we automatically track certain information based on your behavior on our website. 3balls.com might use the information collected to do research on our customers’ website behavior as well as demographics. The information we collect might include the URL where you came from and the pages you go to next. We also might collect information on your IP address (Internet Protocol). An ISP provides a unique IP address every time if you are using a dial up. However for LAN or cable models, an IP address may be permanently assigned to one computer. IP addresses are automatically logged by web servers, collecting information about a user's traffic patterns. An IP address does not identify an individual by name, however it can reveal what geographic area you are connecting from. 
 
+**Confidentiality and Security**  
+3balls.com is committed to making your online ordering process secure.  We have implemented security safeguards designed to protect the personal information that you provide when logging into your user account, in accordance with industry standards. Access to your personally identifiable data from your user account such as credit card information is protected by SSL encryption when it is exchanged between your web browser and the site. However, since the Internet is not a 100% secure environment, we cannot ensure or warrant the security of any information that you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information.   
+Be sure to log off from 3balls.com when finished using a shared computer. No administrator at 3balls.com will have knowledge of your password. 3balls.com also protects your personal information off-line. Access to your personal information is limited to employees who 3balls.com reasonably believes will need that information to provide services to you. However, 3balls.com is not responsible for the confidentiality, security or distribution of your own personal information by our partners and third parties outside the scope of our agreement with such partners and third parties. 
 
+**Children's and Minor's Privacy**  
+3balls.com strongly encourages parents and guardians to supervise the online activities of their minor children and consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent minors from disclosing their name, address, and other personally identifiable information online without parental permission. Although the site is not intended for use by minors, 3balls.com respects the privacy of minors who may inadvertently use the Internet.
 
-_PayPal_
+**Payments**  
+Credit card information on our site is strongly encrypted with SSL (Secure Sockets Layer). SSL is used to communicate with secure browsers such as Internet Explorer and Firefox. This encryption makes it extremely difficult for anyone to access your credit card information while it is being sent from your computer to our server. Once we receive your order, we continue to protect your information and keep it secure in a data warehouse that is protected on our server. If you do not trust sending your credit card information over the Internet, feel free to call us at 508-580-8770 to take your order. 
 
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+**Links**  
+The site, [www.3balls.com](http://www.3balls.com/) may contain links to other sites. The linked sites are not necessarily under the control of 3balls.com. Please be aware that 3balls.com is not responsible for the privacy practices of such other sites. 3balls.com encourages you to be aware when you leave this site and to read the privacy policies of each and every website that collects personally identifiable information. If you decide to access any of the third-party sites linked to this site, you do this entirely at your own risk. Any links to any partner of the site should be the responsibility of the linking party, and 3balls.com shall not be responsible for notification of any change in name or location of any information on the site.
 
-## Cookies and Other Tracking Technologies
+**Surveys, Contests, Special Offers**  
+From time to time, 3balls.com may provide persons over the age of [13] with the opportunity to participate in surveys, contests, or special offers on our site. If you participate, we will request certain personally identifiable information from you. The requested information typically includes contact information such as name and shipping address. We use this information to notify contest winners and award prizes, and to send participants an email alert, if they choose to receive it.
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+Participation in these surveys, contests, or special offers is completely voluntary.   
+We may have other similar offers or programs on our site and unless we indicate otherwise at the time that we collect the information, we will use such information in accordance with our Privacy Policy.
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+**California Residents**  
+California Civil Code Section 1798.83, known as the “Shine The Light” law, permits our customers who are California residents to request and obtain from us a list of what personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year and the names and addresses of those third parties. Requests may be made only once a year and are free of charge. Under Section 1798.83, we currently do not share any personal information with third parties for their direct marketing purposes.
 
-_Advertising_
+**Updates to Privacy Policy**  
+The 3balls.com Privacy Policy was last updated in October 2014. We encourage you to periodically check our Privacy Policy and review so you always understand what information we are collecting from you. For any questions about our Privacy Policy, please feel free to contact us at [talk2us@3balls.com](mailto:talk2us@3balls.com) or call us at 508-580-8770. 
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used to serve you targeted ads, you may opt-out of being served targeted ads by clicking here (link to NAI opt-out: <http://www.networkadvertising.org/managing/opt_out.asp>). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
-_Web beacons_
-
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
-
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
-
-_Links to Other Web Sites_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of 3Balls.com Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
-
-## Security
-
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@3balls.com ](mailto:support@3balls.com)
-
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
-
-## Additional Policy Information
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [support@3balls.com ](mailto:support@3balls.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-3Balls.com Inc. 
-
-319 Manley Street Suite 1 
-
-West Bridgewater, MA, United States 02379
-
-Phone: 508-580-8770
+© 3balls.com 2014. All Rights Reserved. 
