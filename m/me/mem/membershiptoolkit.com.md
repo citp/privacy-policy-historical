@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membershiptoolkit.com privacy policy that was archived on 2014-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141126002405id_/http%3A//www2.membershiptoolkit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershiptoolkit.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531000012id_/http%3A//www2.membershiptoolkit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,8 +24,8 @@ Additionally, you retain all rights of ownership to the data you have stored on 
 
 **Corrections and Updates**
 
-You may keep your registration information current by visiting the account area of our Site. If you wish to change or update any of your personal information and are unable to do so, please contact us at [support@membershiptoolkit.com](mailto:support@membershiptoolkit.com).
+You may keep your registration information current by visiting the account area of our Site. If you wish to change or update any of your personal information and are unable to do so, please contact us at [support@membershiptoolkit.com](mailto:support@membershiptoolkit.com).
 
 **Questions**
 
-If you have any questions about this privacy statement or your dealings with the Membership Toolkit Site or Service, you can always contact us at [support@membershiptoolkit.com](mailto:support@membershiptoolkit.com).
+If you have any questions about this privacy statement or your dealings with the Membership Toolkit Site or Service, you can always contact us at [support@membershiptoolkit.com](mailto:support@membershiptoolkit.com).
