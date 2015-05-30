@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communispace.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226153419id_/http%3A//www.communispace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communispace.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530072025id_/http%3A//www.communispace.com/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Communispace
 
@@ -30,6 +30,45 @@ Our Site uses or may use "cookies" to gather Non-Personally Identifiable Informa
 
 Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept certain cookies, by adjusting the preferences in your browser. If you turn off cookies, though, there may be some features and functions of our Site and Communities that will not be available to you and some pages may not display properly.
 
+We may use the following types of Cookies within our Site and our mobile applications: 
+
+  1. **Strictly necessary cookies** \- "Strictly Necessary" cookies are required for the operation of the Site. These cookies let you access and navigate the Community and allow you to use essential features and secure areas. Without these cookies, services you have asked for cannot be provided. Please note that we do not use information gathered from these cookies for marketing purposes or for remembering where you've been on the internet.
+  2. **Analytics cookies** \- These cookies allow us to track and analyse page visits and traffic sources so we can measure and improve the performance of our Site using a service provided by Google Analytics. They allow us to collect statistical information about our visitors, such as whether they have visited the Site before and the pages they view. This information is gathered anonymously; it does not enable us to identify who you are and we do not combine any analytic information we collect from these cookies with your personally identifiable information.
+  3. **Preference cookies** \- These cookies may be used to save your personal preferences so that we can remember your settings and display personalised information to you the next time you visit. Generally, these types of cookies require you to "opt in" to store your preference.
+  4. **Session cookies** \- These cookies store temporary information to enable Site functionality. They are automatically deleted when you close your browser.
+  5. **Third Party cookies** \- These cookies may be set on our Site by other companies or "third parties". These companies may collect data that enables them to display advertisements on other sites that are relevant to your interests or these cookies may be used to allow for functionality of third party applications or devices we offer on our Site. For more information on these cookies, please visit the relevant third-party website.
+
+
+
+A list of cookies currently used on our Site may be found below:
+
+Name | Type | Classification | Description  
+---|---|---|---  
+CSAUTH | Session or Persistent | Strictly necessary | Primary community authentication cookie, encrypted  
+UserNameValue | Persistent: 2 months | Preference | Stores user's login name (if requested)  
+catapiauth | Session | Strictly necessary | Primary mobile API authentication cookie, encrypted  
+last-login-xsrf-error | Session | Strictly necessary | Cross site request forgery protection  
+__RequestVerificationToken_* | Session | Strictly necessary | Cross site request forgery protection  
+CSSessionTimer | Session | Strictly necessary | Session expiration warning time  
+community-culture | Session | Strictly necessary | Stores the Culture/UiCulture settings for the current community, for use early in the request pipeline  
+CatalystWURFL | Persistent: 12 hours | Analytics | Cookie used to disable back-end device recognition in case of errors  
+WurflCloud_Client | Persistent: 24 hours | Analytics, Strictly necessary, Third Party | Device detection cookie  
+__ControllerTempData | Session | Session | Used to support edge case user interface validation when needed to transmit user interface validation message between different pages  
+BrowserCheck | Session | Analytics | Browser optimisation & diagnostics  
+CcS | Session | Session | Activity list page expand state  
+hp_tour | Session & Local Storage | Preference | First time feature use tour state  
+collab_tour | Session & Local Storage | Preference | First time feature use tour state  
+BIGipServerpool.* | Session | Strictly necessary | Session affinity/load balancing state  
+CSpace_DisclaimerResult | Session | Session | Captures media upload agreement consent  
+scayt_verLang | Session | Third Party | TinyMCE spellchecker version information  
+TinyMCE* | Session | Third Party | TinyMCE spellchecker utility  
+TinyMCE_* | Session | Third Party | TinyMCE spellchecker utility  
+__utma | Persistent | Analytics, Third Party | Google Analytics  
+__utmv | Persistent | Analytics, Third Party | Google Analytics  
+__utmb | Session | Analytics, Third Party | Google Analytics  
+__utmz | Persistent | Analytics, Third Party | Google Analytics  
+opentok_client_id | Session | Third Party, Session | Third party video chat session management  
+  
 ## Information Provided Through Communities
 
 Your selection for and/or participation in an online Community may require you to submit Personally Identifiable Information to Communispace. This information will be used for market research purposes and to contact you regarding Community participation and not for direct marketing purposes (however, if you have provided your information to Communispace in other ways, such as through our website, we may use your information to contact you as set forth above).
@@ -79,7 +118,7 @@ Currently, to help facilitate login to our communities, we may offer in some Com
 
 ## Use of the Communispace Mobile Application
 
-In some Communities, members may have the option to participate in Community activities on their mobile device through Communispace's mobile application. Use of the mobile application is voluntary and optional. Members who choose to use the mobile application must provide their Community login and password to access and complete mobile Community activities. The mobile application may request your permission to collect location data and/or may request access to multimedia stored on your mobile device (i.e., photos or videos). Location data is not required for participation in Community activities; if you do not wish for your location data to be submitted, please respond accordingly when prompted on your mobile device. Multimedia will only be collected from your device if you affirmatively select it for submission through the application (i.e., you chose an image or video to submit for a Community activity). You can change your permissions with respect to location data and multimedia sharing through the settings feature on your mobile device. Any information and content collected through the mobile application will be used consistent with this Policy and the policies and agreements applicable to your Community.
+In some Communities, members may have the option to participate in Community activities on their mobile device through Communispace's mobile application. Use of the mobile application is voluntary and optional. Members who choose to use the mobile application must provide their Community login and password to access and complete mobile Community activities. The mobile application may request your permission to collect location data and/or may request access to multimedia stored on your mobile device (i.e. photos or videos). Location data is not required for participation in Community activities; if you do not wish for your location data to be submitted, please respond accordingly when prompted on your mobile device. Multimedia will only be collected from your device if you affirmatively select it for submission through the application (i.e. you chose an image or video to submit for a Community activity). You can change your permissions with respect to location data and multimedia sharing through the settings feature on your mobile device. Any information and content collected through the mobile application will be used consistent with this Policy and the policies and agreements applicable to your Community.
 
 Use of the mobile application may not be available in all Communities, at the Sponsor's discretion.
 
