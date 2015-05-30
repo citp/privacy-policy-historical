@@ -1,83 +1,102 @@
-> *The following text is extracted and transformed from the etutorworld.net privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905111731id_/http%3A//www.etutorworld.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etutorworld.net privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530035344id_/https%3A//www.etutorworld.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Online Tutoring | Online Tutoring Service | eTutorWorld
 
-**eTutorWorld has a firm commitment to protecting your privacy. We value your privacy and we will never sell your email address and personal information. The following statement explains our policy in regard to the use of any personal information you may give us as you use any part of eTutorWorld website.**
+**Effective on March 21, 2015**
 
-**1.**  This Policy applies to all of the products, services and websites offered by  eTutorWorld or its subsidiaries or affiliated companies (collectively,  eTutorWorld’s "services"). In order to participate in the Service, you understand  and agree that you may be asked to provide Personal Identifying Information as  part of the registration process and at other points in using the Service, and that  we will store information that you provide. In the course of our business we will  use that information in aggregated form to provide statistical user data about our  subscribers to advertisers, potential advertisers, and content licensors. At various  points in using the Service you may also need to provide additional Personal  Identifying Information so that we can perform tasks you request in the Service,  such as fulfilling orders or make calculations to estimate financial aid eligibility.  During the registration process, you are given the opportunity to indicate whether  you want us or our partners to contact you about the Service, our sites, our other  products and services, or products and services from other companies, or whether  you do not want to receive any such notices. Any specific Personal Identifying  Information gathered by us shall not be disclosed to third parties without your  permission. 
+This privacy statement describes how Etutorworld Corporation collects and uses the personal information you provide on our Web site: [www.etutorworld.com](http://www.etutorworld.com/) . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-**2.**   **Information we collect and how we use it :** In order to provide our full range of services, we require customers, who register  to use the services offered on our Site (collectively, the "Service") to give us  contact information, such as their name, address, phone number, and e-mail  address, and billing information, such as billing name and address, credit card  number, and the school grade and subjects to use the service. 
+**Collection and Use of Personal Information**
 
-You understand and agree that we may use your IP address to help diagnose  problems with our server and to administer the Service. Your IP address is  required to help identify you and to develop important demographic information  about the users of the Service. 
+### We collect the following personal information from you
 
-The Service may use cookies (i.e., session information written to your computer by your browser) to help you keep track of where you left off when you were last working in any part of our sites. eTutorWorld uses 128 Byte SSL encryption for the Service. More information on our use of "cookies" can be found below (eTutorWorld Cookies). We do not, however, have access to any information about you from cookies you might receive while using the Service. 
-
-Except as we explicitly state at the time we request information, we do not  disclose to third parties the information provided. All financial and billing  information that we collect through the Site is used solely to check the  qualifications of prospective customers and to bill for the Service. This billing  information is not used by eTutorWorld for marketing or promotional purposes.  eTutorWorld uses a credit card authorization service provider to manage the  credit card processing. This service provider uses the information for the sole  purpose of credit card processing. 
-
-**3.  Information you provide : **For children under age 13, the Children's Online Privacy Protection Act  (COPPA) provides that a parent's permission must be obtained before your  personal information may be collected and used. Please have your parents  contact  us before we are able to create an account for you or provide you with any tutoring. 
-
-**4.  Note to parents of children under the age of 13 :** You are welcome to contact  us to review any identifiable information we have collected about your child. If  you desire, you may request that we delete this information and/or specify that  we collect no more of your child's information. Please note that we will need to  verify the identity of anyone requesting information about a child to ensure that  the person is in fact the child's parent or legal guardian, and that a request for  us to delete all personal information about a child requires us to cancel the  child's  tutoring account. 
-
-**5.  Note to Students : **If your parents and/or your school pay for/subsidize the cost of your tutoring,  we may share your personal information with them at their request. This  includes the content of your tutoring sessions (transcripts) and the written  comments you leave in post-session surveys. 
-
-On the other hand, if you pay us from your own account, without the  involvement of your parents or your school, we will not share your personal  information with them. If we have reason to believe that disclosing your  personal identification is required by law, or is otherwise reasonable to protect  someone from possible injury, we may do so. 
-
-At eTutorWorld, though we make every effort to preserve your privacy we may  need to disclose personal information when required by law wherein we have a  good-faith belief that such action is necessary to comply with a current judicial  proceeding, a court order or legal process served on our Web site. 
-
-When completing a form, you may be asked to provide your name, mailing  address, telephone number, e-mail address, age, current job status, level of  education, or an explanation for your request. We collect that information in order  to: 
-
-  * Email information you request;
-  * Mail information you request;
-  * Contact you regarding your request;
-  * Send or forward your information to schools, universities and/or colleges or trade schools, and special program requests.
-  * Personalize your experience making your future requests faster;
-  * Generate anonymous statistics.
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Unique Identifiers such as user name, account number, password
 
 
 
-Your personal information will be shared with schools, universities, colleges and trade schools that are third parties or sponsors that you may request information from and to other parties through whom your information is mailed or shipped, by common carriers such as UPS or the US Postal Office. This shared personal information includes all the following: 
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-  * your name;
-  * your e-mail address; 
-  * your street address; 
-  * your telephone number; 
+We use this information to
 
-
-
-Your personal information will never be distributed to mailing-list firms. We process spam via " [**_spamcop.net_**](http://www.spamcop.net/)" 
-
-**6.  eTutorWorld Cookies : **Cookies are files that your Web browser puts on your computer when you visit  a Web site. We may use cookies to record how often you visit our site, and  what pages you go to on our site. The cookie itself does not have personal  information in it, so no one except us can figure out who you are from our  cookie. 
-
-Sometimes we use files from other companies (called third-party cookies) to  help us see where people go on our website, to improve our services. Third- party cookies do not contain any personally identifying information, and the  third party can not figure out who you are, or contact you. Sometimes, we link  to other sites. We do not make these sites, and we can't be responsible for what  they post on their sites. 
-
-**7.  Third Party Cookies : **Occasionally, eTutorWorld may share aggregate, non-personally identifiable  information about our users with our business and alliance partners. Our site links  to third party sites that collect information that you provide in forms. Most forms  require cookies to work, and our affiliates and partners sites do use cookies on  their sites. Other than our business and alliance partners, the company does not  provide Personal Information to any third party for any purpose whatsoever and  the company will not do so unless it is legally required to do so. Similarly, it is  against our policy to sell Personal Information collected online without consent.  The company will take reasonable steps to ensure that third-parties who receive  any information from us protect such information on eTutorWorld Customer's  behalf. To learn how to enable cookies on your computer, visit the Web site that  corresponds to the browser you use: 
-
-  * [ **_Microsoft Internet Explorer_**](http://www.microsoft.com/windowsxp/home/evaluation/overviews/cookiemgmt.asp)
-  * **Mozilla Firefox**
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
 
 
 
-**8.  Log information : ** When you use eTutorWorld services, our servers  automatically record information that your browser sends whenever you visit a  website. These server logs may include information such as your web request,  Internet Protocol address, browser type, browser language, the date and time of  your request and one or more cookies that may uniquely identify your browser. 
+**Choice/Opt-Out**
 
-**9.  User communications : **When you send email or other communication to  eTutorWorld, we may retain those communications in order to process your  inquiries, respond to your requests and improve our services. 
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [contact@etutorworld.com](mailto:contact@etutorworld.com) .
 
-**10.  Affiliated sites : **We offer some of our services in connection with other web  sites. Personal information that you provide to those sites may be sent to  eTutorWorld in order to deliver the service. We process such information in  accordance with this Policy. The affiliated sites may have different privacy  practices and we encourage you to read their privacy policies. 
+### **Information Obtained from Third Parties**
 
-**11.  Links : **eTutorWorld may present links in a format that enables us to keep track  of whether these links have been followed. We use this information to improve  the quality of our search technology, customized content and advertising. 
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-If the personal information we've gathered from you changes, we will gladly correct, update, or remove any personal data you have previously provided to us. If you registered on our site you can update your own information by logging in at the URL provided in the email that was sent with a copy of the information you provided us at your initial registration. We only collect information you provide when you place a request for information from our site. If eTutorWorld makes any changes in policy of how we use any information you have provided to eTutorWorld we will notify you of any changes in the use of your personally identifiable information via the e-mail address you supplied. The e-mail will ask for your permission and you will be provided an opt out prior to eTutorWorld making any changes. To request a change or removal of your personal information after you have placed a request to eTutorWorld, send e-mail to [ **_contact@etutorworld.net_**](mailto:contact@etutorworld.net) or contact one of our customer service associates at **231-668-4187**. 
+**Information Sharing**
 
-We use your IP address to help diagnose problems with our server, to administer and tune the operation of our site, and to log your browser type and referring URL information. Your IP address may also be used in collecting statistical data such as number of "hits" and "page views" which is gathered for broad usage information only. None of this information can identify you personally. We do have partners and affiliates, we can not identify any personal information from your IP address. When you visit our site your IP address is recorded as a normal function of the following server logs. 
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-  * Access logs show us which pages an IP address accesses on the visit.
-  * Error logs show any errors your browser encountered during a visit.
-  * Agent logs show us what type of browser you used to view the site.
-  * Referrer logs show us the keywords used to find our site and which search engine or point of entry you used. 
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * if Etutorworld Corporation is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
 
 
 
-If we modify this privacy policy, we will post a notice on our Web site. It is currently the only way eTutorWorld can notify you of our policies. We will also provide an opt out option advising new visitors that we have changed our privacy policy on their first visit to our web site. 
+**PayPal**
 
-This web site also contains links to other web sites. Please note that when you click on one of these links, you are 'clicking' to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. 
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
 
-If you have questions about this privacy statement, please contact eTutorWorld customer service department at [ **_contact@etutorworld.net_**](mailto:contact@etutorworld.net) or at **231-668-4187**. 
+### **Cookies and Other Tracking Technologies**
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+**Web beacons**
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+### Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [contact@etutorworld.com](mailto:contact@etutorworld.com)
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at contact@etutorworld.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### Additional Policy Information
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [contact@etutorworld.com](mailto:contact@etutorworld.com)
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Contact Information
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+Etutorworld Corporation  
+6594 Ellies Way  
+Fairfax Station, VA, United States 22039  
+Email: [contact@etutorworld.com](mailto:contact@etutorworld.com)  
+Phone: (269)-763-4602
