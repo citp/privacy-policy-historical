@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtymasseur.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701135747id_/http%3A//www.dirtymasseur.com/home/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtymasseur.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531003424id_/http%3A//www.dirtymasseur.com/home/pp) for the most accurate reproduction.*
 
 # Privacy Policy
 
