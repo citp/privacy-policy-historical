@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802234045id_/http%3A//www.securetrading.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530203704id_/http%3A//www.securetrading.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Secure Trading
 
@@ -6,7 +6,7 @@
 
 Secure Trading Limited (“ **We** “) are committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms of Use](http://www.securetrading.com/terms-use "Terms of Use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, via this Website (as defined below) will be processed and stored by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.securetrading.com (“ **Website** ”) you are accepting and consenting to the practices described in this policy which may be amended from time to time.
+This policy (together with our [Terms of Use](https://www.securetrading.com/terms-use "Terms of Use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, via this Website (as defined below) will be processed and stored by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.securetrading.com (“ **Website** ”) you are accepting and consenting to the practices described in this policy which may be amended from time to time.
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Secure Trading Limited of European Operations Centre, Parc Menai, Bangor, Gwynedd, UK LL57 4BL.
 
@@ -27,7 +27,7 @@ We (or our agents or sub-contractors acting our behalf) may collect and process 
 
 ### **COOKIES**
 
-The Website uses cookies to distinguish you from other users of the Website. This helps us to provide you with a good experience when you browse the Website and also allows us to improve the Website. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](http://www.securetrading.com/cookie "Cookie Policy").
+The Website uses cookies to distinguish you from other users of the Website. This helps us to provide you with a good experience when you browse the Website and also allows us to improve the Website. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy](https://www.securetrading.com/cookie "Cookie Policy").
 
 ### **USES MADE OF THE INFORMATION**
 
@@ -78,7 +78,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Secure Trading Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](http://www.securetrading.com/terms-use "Terms of Use") and any other agreements; or to protect the rights, property, or safety of Secure Trading Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://www.securetrading.com/terms-use "Terms of Use") and any other agreements; or to protect the rights, property, or safety of Secure Trading Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
   * With your express consent.
   * We may also share anonymised, aggregated data, such as access statistics, with third parties such as business partners. This will not involve the identification of individuals.
 
@@ -92,7 +92,7 @@ The data that you provide us is sent via a secure link (HTTPS) and sensitive dat
 
 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. We will never contact you and ask for your password.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of your personal data.
 
