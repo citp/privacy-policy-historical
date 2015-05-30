@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomsoft.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124091921id_/http%3A//freedomsoft.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomsoft.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530215431id_/http%3A//freedomsoft.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,8 +63,8 @@ Our Company's Commitment to Data Security:  Services and Web sites we sponsor h
 
 **Revisions to This Policy** : Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
 
-© 2014  
- **FreedomSoft LLLP**  
-2885 Sanford Ave #18591  
-Grandville, MI 49418  
+© 2015  
+**FreedomSoft 303, LLC**  
+5023 W 120th Ave #102   
+Broomfield, CO 80020   
 Phone: 888-866-2853
