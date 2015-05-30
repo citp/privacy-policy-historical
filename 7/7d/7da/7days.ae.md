@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 7days.ae privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009225659id_/https%3A//7daysindubai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7days.ae privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531015656id_/https%3A//7days.ae/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 7DAYS Dubai
+# Privacy Policy - 7DAYS UAE
 
 This privacy policy applies only to this website (the “Site”). If you do not accept this privacy policy, you must not use this Site. 
 
