@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no1-travel.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709114613id_/http%3A//www.no1-travel.com/reg/privacy_e.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no1-travel.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530234733id_/http%3A//www.no1-travel.com/reg/privacy_e.htm) for the most accurate reproduction.*
 
 # COMPANY INFOMATION | Across No.1 TRAVEL × H.I.S / H.I.S. travel agency - served for a foreign community in Japan for over 30 years
 
