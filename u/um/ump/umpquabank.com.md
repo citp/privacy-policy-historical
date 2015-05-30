@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704140037id_/https%3A//www.umpquabank.com/ask-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530084103id_/https%3A//www.umpquabank.com/ask-us/privacy-policy) for the most accurate reproduction.*
 
 # Umpqua Bank -- your privacy policy
 
@@ -6,7 +6,7 @@ Your privacy always comes first. Learn about how we use and protect your informa
 
 Your personal information is your personal information. That means you have the right to choose how we share and use certain personal information about you.
 
-Click on the link below to learn more about our Privacy Policy.
+Click on the links below to learn more about our Privacy Policies.
 
 ##  not sure it's legit? 
 
