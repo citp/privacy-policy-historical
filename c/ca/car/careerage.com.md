@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerage.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014318id_/http%3A//www.careerage.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerage.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531011932id_/http%3A//www.careerage.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # CareerAge.com Privacy Policy
 
@@ -75,11 +75,11 @@ You may have the ability to accept or decline cookies. Most Web browsers automat
     * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
   9. **Third-party Advertising Companies**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you 
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>
 
   10. **Use of Web Beacons**
 
-CareerAge.com Web pages do not contain electronic images known as Web beacons (sometimes called single-pixel gifs). 
+CareerAge.com Web pages may contain electronic images known as Web beacons (sometimes called single-pixel gifs). 
 
   11. **Access to and Modification of Your Information**
 
