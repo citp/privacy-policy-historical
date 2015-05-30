@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wan-ifra.org privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009023048id_/http%3A//www.wan-ifra.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wan-ifra.org privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530173015id_/http%3A//www.wan-ifra.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WAN-IFRA
 
@@ -16,9 +16,9 @@ In normal cases, you can visit all publically accessible WAN-IFRA websites witho
 
 ### Utilisation and sharing of personal data
 
-WAN-IFRA consists of the headquarters operation in Darmstadt (Germany), a headquarters extension in Paris (France) as well as subsidiaries outside of the EU in Singapore and Mumbai (India). The data recorded by the local WAN-IFRA regional offices is stored and managed on central database servers at the headquarters in Darmstadt. However, the subsequent processing steps may be carried out at the individual WAN-IFRA offices worldwide as required.
+WAN-IFRA consists of the headquarters operation in Frankfurt (Germany), a headquarters extension in Paris (France) as well as subsidiaries outside of the EU in Singapore and Mumbai (India). The data recorded by the local WAN-IFRA regional offices is stored and managed on central database servers at the headquarters in Frankfurt. However, the subsequent processing steps may be carried out at the individual WAN-IFRA offices worldwide as required.
 
-When the regional offices access personal data stored on the central server in Darmstadt, it is considered a transfer to 3rd parties. In the case of France, this is done in accordance with the laws and directives of the EU as well as the complementary local regulations. Although outside of the European Union, the offices in Singapore and India have been bound by directive to abide by the EU data protection laws.
+When the regional offices access personal data stored on the central server in Frankfurt, it is considered a transfer to 3rd parties. In the case of France, this is done in accordance with the laws and directives of the EU as well as the complementary local regulations. Although outside of the European Union, the offices in Singapore and India have been bound by directive to abide by the EU data protection laws.
 
 WAN-IFRA does not share, sell, transfer or otherwise disseminate your personal data to other third parties, unless this is required for the purpose of the contract, is required by law or you have given express consent to do so. For instance, it may be necessary to pass on your address and order data to our contractors when you order products or services.
 
