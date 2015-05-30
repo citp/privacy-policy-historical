@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321172951id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530062931id_/https%3A//www.ruelala.com/faq/privacy) for the most accurate reproduction.*
 
 # 
 
 Rue La La is committed to protecting your privacy. At Rue La La, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy as set forth in this Privacy Policy. This Privacy Policy applies to our websites (including ruelala.com), mobile applications and related services (collectively, the "Services"). This Privacy Policy does not apply to other websites to which we link. You agree that your use of the Services signifies that you have read and consent to the collection, use and sharing of your information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, you should not use the Services.
 
-**Information Collected**
+#### Information Collected
 
 _User Provided Information_ \- 
 
@@ -34,7 +34,7 @@ Further, we may obtain information from others (including social media networks,
 
 We and our vendors may use technology such as cookies and web beacons in connection with these activities to identify you when you are online, and to collect information about your online activities, such as the type of browser you use, the websites you visit and the content and advertising that you find interesting. Cookies are small text files that may remain on your computer's hard drive for a period of time that may be used to maintain data relevant to your navigation of the Internet, save personal settings and information, and track web browsing habits. Web beacons are clear picture files that you cannot see that we use to monitor traffic and track your activities on the Internet.
 
-**How We Use Your Information**
+#### How We Use Your Information
 
 We use this information in several ways:
 
@@ -46,7 +46,7 @@ We use this information in several ways:
 
 
 
-**How We Share Your Information**
+#### How We Share Your Information
 
 We may share the information that you provide to us, and the information that we collect about you as described above, to others (including social media networks and advertising service providers and networks) to serve you ads tailored to your interests or to tailor ads that may be served to you on our website and mobile application, as well as other websites and mobile applications, and on social media networks. In some cases, this may involve transferring your personal information to parties located in other countries.
 
@@ -66,7 +66,7 @@ If you use a bulletin board, chat room or any other publicly accessible area of 
 
 We use non-personally identifiable information in the aggregate, so that we can improve our Services and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
 
-**Choice and Opt-Out**
+#### Choice and Opt-Out
 
 We offer you certain choices about the collection, use and sharing of your information:
 
@@ -74,19 +74,19 @@ _Marketing Communications_ \- You may choose not to receive marketing email comm
 
 _Location Data_ \- When you use our mobile applications, you can choose not to share your location data by adjusting the applicable settings on your mobile device (the manufacturer or your service provider should be able to provide assistance).
 
-_Data Analytics_ \- If you do not wish to have technology used to gather information about how you interact with the Services while you are on our website, please click [here](http://www.ruelala.com/analytics "here") at the start of each session on our site. A cookie will be set on your browser that instructs this technology not to start for that session. If you have disabled this technology during a session and wish to reactivate it for that session, please click [here](http://www.ruelala.com/analytics "here"). Please note that the next time you access the site the analytics will be reactivated, so you will have to disable the technology each time. Please note also that if you are accessing the Services through our mobile applications, these links will not function and this technology will not be disabled. If you do not wish to have technology used to gather information about how you interact with the Services while you use our mobile applications, then you should not access the Services through our mobile applications. If you reject the cookies and web beacons we use, you may still use certain aspects of the Services, but you will not be maximizing the value of the Services.
+_Data Analytics_ \- If you do not wish to have technology used to gather information about how you interact with the Services while you are on our website, please click [here](https://web.archive.org/analytics "here") at the start of each session on our site. A cookie will be set on your browser that instructs this technology not to start for that session. If you have disabled this technology during a session and wish to reactivate it for that session, please click [here](https://web.archive.org/analytics "here"). Please note that the next time you access the site the analytics will be reactivated, so you will have to disable the technology each time. Please note also that if you are accessing the Services through our mobile applications, these links will not function and this technology will not be disabled. If you do not wish to have technology used to gather information about how you interact with the Services while you use our mobile applications, then you should not access the Services through our mobile applications. If you reject the cookies and web beacons we use, you may still use certain aspects of the Services, but you will not be maximizing the value of the Services.
 
 _Targeted Advertising_ \- As noted above, we may use the information you provide to us, and information we collect about your use of our products and services, to assist us and our partners in our effort to deliver you online advertising that is relevant to your interests. In connection with these activities, we may work with social media networks and advertising service providers who help deliver these ads to you. These advertising service providers may also use cookies, web beacons and similar technologies to collect and track information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests.
 
 If you do not wish to have us collect, use and share information about you to deliver targeted online advertising in this manner, please click [here](http://www.networkadvertising.org/choices/ "here") and follow the instructions of how to opt out. Please also note that most opt-out mechanisms are cookie-based and will only affect the specific computer and browser that is used to submit an opt-out request. If you have multiple computers or change computers, or use multiple browsers, you will need to submit opt-out requests for each such computer or browser. In addition, if you delete, block or otherwise restrict cookies, you will need to renew your opt-out choices to ensure that any opt-out cookies remain effective.
 
-**Accessing and Updating Your Personal Information and Preferences**
+#### Accessing and Updating Your Personal Information and Preferences
 
 If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [atyourservice@ruelala.com](mailto:atyourservice@ruelala.com "atyourservice@ruelala.com"). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to register may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.
 
 While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction.
 
-**How We Protect Your Information**
+#### How We Protect Your Information
 
 We are committed to protecting the information we receive from you. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
@@ -94,11 +94,11 @@ We encrypt your credit card number and other personal information using secure s
 
 We also require you to enter a password to access your account. We recommend that you not disclose your password to unauthorized people.
 
-**Children's Privacy and Parental Controls**
+#### Children's Privacy and Parental Controls
 
 We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Services. Parents should be aware that there are parental control tools available online that you can use to prevent your children from submitting information online without parental permission or from accessing material that is harmful to minors.
 
-**Your California Privacy Rights**
+#### Your California Privacy Rights
 
 If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [Legal@RueLaLa.com](mailto:Legal@RueLaLa.com) or write to us at the following address:
 
@@ -107,7 +107,8 @@ Legal Department
 20 Channel Center  
 Boston, MA 02210
 
-**Privacy Policy Changes**   
+#### Privacy Policy Changes
+
 If we decide to change this Privacy Policy, we will post the revised Privacy Policy here so that you will always know what information we gather, how we might use that information and whether we may disclose it to anyone. Your continued use of the Services indicates your consent to the Privacy Policy as posted.
 
 If you have any questions about this Privacy Policy, please contact us at:
@@ -115,8 +116,8 @@ If you have any questions about this Privacy Policy, please contact us at:
 Rue La La  
 20 Channel Center  
 Boston, MA 02210  
-1-888-992-LALA (5252)  
+[1-888-992-LALA (5252)](tel:+18889925252)  
 [atyourservice@ruelala.com](mailto:atyourservice@ruelala.com "atyourservice@ruelala.com")
 
 Last Updated: May 3, 2013  
-© 2008 - 2014 Retail Convergence.com, LP. All rights reserved. 
+© 2008 - 2015 Retail Convergence.com, LP. All rights reserved. 
