@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifread.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006231219id_/http%3A//www.ifread.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifread.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530195518id_/http%3A//www.ifread.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
