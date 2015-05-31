@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pazienti.net privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403005419id_/http%3A//www.pazienti.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazienti.net privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531020730id_/http%3A//pazienti.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Pazienti.it
 
