@@ -1,22 +1,32 @@
-> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030062650id_/http%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531021416id_/http%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # HomeAway Vacation Rentals: Privacy Policies
 
-_Last updated: September 3, 2013_
+_Last updated: May 1, 2015_
 
 We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to HomeAway.com, VRBO.com, VacationRentals.com, software.homeaway.com, any subdomains thereof and any other websites where this policy is linked to in the footer of the page and any mobile application of such websites (which we have collectively called the “Site” in this policy).
 
-The Site is operated by HomeAway.com, Inc. which is part of the HomeAway, Inc. group (comprised of HomeAway, Inc.  You can find details of the HomeAway group and the companies in it in its initial, annual and quarterly filings made with the United States Securities and Exchange Commission on Forms S-1, 10-K and 10-Q, which can be accessed here: <http://investors.homeaway.com/sec.cfm>.
+The Site is operated by HomeAway.com, Inc., which is part of the HomeAway group.  You can find details of the HomeAway group and the companies in it in HomeAway, Inc.’s initial, annual and quarterly filings made with the United States Securities and Exchange Commission on Forms S-1, 10-K and 10-Q, which can be accessed here: 
+
+[_http://investors.homeaway.com/sec.cfm_](http://investors.homeaway.com/sec.cfm)
+
+.
 
 The terms “users” or “you” as used in this Privacy Policy, refer to travelers, who use the Site to look for properties to rent, members who list their properties for rent on the Site and other users who use software or other tools or services we provide on a Site.  It also applies to other visitors to our site - for example our investors or those applying for a job through the Site.
 
-We use information collected about you as explained in this Privacy Policy. The Site may contain links to third parties' websites. We're not responsible for the privacy practices or the content of those websites. The Site may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on a Site. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those tools, services or websites.  Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions - available at [Terms & Conditions](http://www.homeaway.com/info/about-us/legal/terms-conditions).
+We use information collected about you as explained in this Privacy Policy. The Site may contain links to third parties' websites. We're not responsible for the privacy practices or the content of those websites. The Site may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on a Site. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those tools, services or websites.  Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions - available at 
+
+[_Terms & Conditions_](http://www.homeaway.com/info/about-us/legal/terms-conditions)
+
+.
 
 By providing information to us when listing a property, searching for a property, using any tool or service on a Site or otherwise using the Site, you expressly agree to this Privacy Policy. This Privacy Policy was last updated on the date set forth above and applies from that date.  We may occasionally amend this Privacy Policy to reflect regulatory requirements, advances in technology, Site updates and changes in our information collection and disclosure practices. Any new policy will automatically be effective when it is published on the website. You should therefore return here regularly to view our most up to date Privacy Policy. You should also print a copy for your records.
 
 **Safe Harbor**
 
-HomeAway complies with the US Department of Commerce’s Safe Harbor scheme to cover the transfer of data to the US from the European Union and Switzerland.  HomeAway has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about this scheme and see the information we have filed with the Department of Commerce here: <http://export.gov/safeharbor/>
+HomeAway complies with the US Department of Commerce’s Safe Harbor scheme to cover the transfer of data to the US from the European Union and Switzerland.  HomeAway has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about this scheme and see the information we have filed with the Department of Commerce here: 
+
+[_http://export.gov/safeharbor/_](http://export.gov/safeharbor/)
 
 **Who processes your personal data, and where?**
 
@@ -32,7 +42,8 @@ At various times you may give your personal data to us. For example, in order to
 
 **How we use your personal data**
 
-Our primary purpose in collecting your personal data is to provide you with the services you request and those which we believe will optimize your use of the Site.  You agree that we may use your personal data for the following purposes:  
+Our primary purpose in collecting your personal data is to provide you with the services you request and those which we believe will optimize your use of the Site.  You agree that we may use your personal data for the following purposes:
+
 •    For the services or to support your request;  
 •    To contact you from time to time with user or service updates;  
 •    To send other messages that help us provide our services on the Site;  
@@ -45,7 +56,7 @@ Our primary purpose in collecting your personal data is to provide you with the 
 
 We collate statistics about site traffic, sales and other commercial information which we pass onto third parties to assist us in improving the services we provide to you. We also use demographic information to tailor the Site and we share that information with third parties so that they can build up a better picture of our customer base and general consumer trends.
 
-If you are a member, we will also be able to contact you about your account and your use of our services.
+If you are a member, we may also display your phone number on the listing itself so that travelers and guests may contact you and to restrict fraudulent behavior. We may also contact you about your account and your use of our services.
 
 **How We May Disclose Your Personal Data**
 
@@ -67,7 +78,7 @@ In the unlikely event that we or HomeAway, Inc. or any part of the HomeAway grou
 
 **Newsletters**
 
-If you sign up as a member on the Site, you will receive our Owner newsletter, which is an integral part of the services we provide. Traveler users of the Site will be given the option to receive our Traveler newsletter when they register with us. We and HomeAway group may offer different newsletters from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these newsletters at any time, although it may take a short while for the changes in your preferences to become effective.
+If you sign up as a member on the Site, you will receive our Owner newsletter, which is an integral part of the services we provide. Traveler users of the Site will be given the option to receive our Traveler newsletter when they register with us. We and the HomeAway group may offer different newsletters from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these newsletters at any time, although it may take a short while for the changes in your preferences to become effective.
 
 **Surveys**
 
@@ -79,19 +90,20 @@ From time to time we may provide games on the Site.  These games may allow for 
 
 **Mobile Applications**
 
-When you download or use [apps relating to our websites](http://www.amazon.com/gp/feature.html?&docId=1000511451), we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer.
+When you download or use [_apps relating to our websites_](http://www.amazon.com/gp/feature.html?&docId=1000511451), we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer.
 
 **Telephone Calls**
 
-As well as collecting data online and from correspondence we may also speak with you face to face (for example at an Owner’s meeting) or by  telephone.  We frequently record telephone conversations.  Those recordings are also governed by this Privacy Policy and we keep this data in the same way that we keep other data.  Recordings of calls may also be transferred to locations or processed worldwide.
+As well as collecting data online and from correspondence we may also speak with you face to face (for example at an Owner’s meeting) or by telephone.  We frequently record telephone conversations.  This Privacy Policy also governs those recordings and we keep this data in the same way that we keep other data.  Recordings of calls may also be transferred to locations or processed worldwide.
 
 **Inquiries and other Electronic Communications**
 
-Travelers may send inquiries to members via clickable links on the listings on a Site. Further, travelers and members may communicate with each other via tools on a Site. If you choose to send an inquiry through these links, your personal information, including your email address and any other information you supply (unless the Site specifies otherwise),will be visible to the member in question so that they might reply directly to you. Your details may also be sent to us and we have access to those communications even if you contact the member directly. If members and travelers further engage in communications through a Site, we also have access to those communications, which we monitor for trust and security purposes. Additionally those inquiries and messages may be hosted on, be processed by or transmit through our servers. If you engage in such communications and call the other party, you may be asked to leave a return telephone number. Do not share information in the e-mail or phone call that you are not prepared to allow such person and HomeAway group to have, including, but not limited to, credit card and bank account information. In addition inquiries and messages can be sent to the individual member you selected and to our system. Our customer service team may share such communications with members. We may also from time to time, use third party e-mail servers to send and track receipt of such communications, and analyze the pattern of such communications for trust and security purposes as well as to gather data, such as inquiry and booking data (on an anonymous basis), to assist us in better understanding our business.
+Travelers may send inquiries to members via clickable links on the listings on a Site. Further, travelers and members may communicate with each other via tools on a Site. If you choose to send an inquiry through these links, your personal information, including your email address and any other information you supply (unless the Site specifies otherwise), will be visible to the member in question so that they might reply directly to you. Your details may also be sent to us and we have access to those communications even if you contact the member directly. If members and travelers further engage in communications through a Site, we also have access to those communications, which we monitor for trust and security purposes. Additionally those inquiries and messages may be hosted on, be processed by or transmit through our servers. If you engage in such communications and call the other party, you may be asked to leave a return telephone number. Do not share information in the e-mail or phone call that you are not prepared to allow such person and HomeAway group to have, including, but not limited to, credit card and bank account information. In addition inquiries and messages can be sent to the individual member you selected and to our system. Our customer service team may share such communications with members. We may also from time to time, use third party e-mail servers to send and track receipt of such communications, and analyze the pattern of such communications for trust and security purposes as well as to gather data, such as inquiry and booking data (on an anonymous basis), to assist us in better understanding our business.
 
 **How Do We Protect Your Personal Information Once We Have It?**
 
-We take reasonable technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data. While no system is completely secure, we believe the measures implemented by the Site reduce our vulnerability to security problems to a level appropriate to the type of data involved. We have security measures in place to protect our user database and access to this database is restricted internally. However, it remains your responsibility:  
+We take reasonable technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data. While no system is completely secure, we believe the measures implemented by the Site reduce our vulnerability to security problems to a level appropriate to the type of data involved. We have security measures in place to protect our user database and access to this database is restricted internally. However, it remains your responsibility:
+
 •    To protect against unauthorized access to your use of the Site;
 
 •    To ensure no-one else uses the Site while your machine is logged on to the Site (including by logging on to your machine through a mobile, Wi-Fi or shared access connection you are using);
@@ -103,7 +115,7 @@ We take reasonable technical and organizational measures to guard against unauth
 •    To maintain good internet security.  For example if your email account or Facebook account is compromised this could allow access to your account with us if you have given us those details and/or permitted access through those accounts. If your email account is compromised it could be used to ask us to reset a password and gain access to your account with us. You should keep all of your account details secure.  If you think that any of your accounts has been compromised you should change your account credentials with us, and in particular make sure any compromised account does not allow access to your account with us.  You should also tell us as soon as you can, so that we can try to help you keep your account secure and if necessary warn anyone else who could be affected.  
 If you have asked us to share data with third party sites, however (such as Facebook) their servers may not be secure. Credit card information is generally stored by our credit card processing partners and we ask them to keep that data secure.  We also use third parties to help us optimize our website flow, content and advertising (see below). 
 
-Note that, despite the measures taken by us and the third parties we engage, the internet is not secure.  As a result others may nevertheless unlawfully intercept or access private transmissions or data.
+Note that, despite the measures taken by us and the third parties we engage, the Internet is not secure.  As a result others may nevertheless unlawfully intercept or access private transmissions or data.
 
   **What are Cookies, Web Beacons and Clear GIFs and Why Do We Use Them?**
 
@@ -120,7 +132,11 @@ Web beacons may be used to track the traffic patterns of users from one page to 
 
 **Phishing or False emails**
 
-If you receive an unsolicited email that appears to be from us or one of our members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link.  Please contact us at [Customer Support](http://support.homeaway.com/) if you get an email like this.
+If you receive an unsolicited email that appears to be from us or one of our members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link.  Please contact us at 
+
+[_Customer Support_](http://support.homeaway.com/)
+
+if you get an email like this.
 
 **Job applicants, current and former employees**
 
@@ -136,9 +152,17 @@ You can see any personal information processed by us.  The best way of seeing t
 
 We will contact you from time to time for marketing purposes. Unless you have opted out, this could include contacting you by phone or email.  
 You may opt-out of receiving marketing communications from us by the following means:  
-1.    Contact us at [Customer Support](http://support.homeaway.com/);  
+1.    Contact us at 
+
+[_Customer Support_](http://support.homeaway.com/)
+
+;  
 2.    Follow the instructions included in each communication or newsletter;  
-3.    Use the [Unsubscribe function](http://www.homeaway.com/newsletter/subscribe); or  
+3.    Use the 
+
+[_Unsubscribe function_](http://www.homeaway.com/newsletter/subscribe)
+
+; or  
 4.    Mail the request to us at 1011 W. Fifth Street, Suite 300 Austin, Texas 78703.
 
 Please remember that if you change your preferences it may take a short time for those preferences to become effective.
@@ -149,4 +173,8 @@ We will retain your personal data only as long as is necessary for the purposes 
 
 **How do I contact you?**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Customer Support](http://support.homeaway.com/). If you are unhappy with their answers, you can also speak to our Chief Privacy Officer Arndt Soret at asoret@homeaway.com.  In the unlikely event you still have an unresolved complaint, if your data was transferred to the US from the EU or Switzerland under Safe Harbor, you can also contact our dispute resolution service operated by NIPC, an independent arbitration service based in the EU.  Our Chief Privacy Officer can give you the details for this service.
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at 
+
+[_Customer Support_](http://support.homeaway.com/)
+
+. In the unlikely event you still have an unresolved complaint, if your data was transferred to the US from the EU or Switzerland under Safe Harbor, you can also contact our dispute resolution service operated by NIPC, an independent arbitration service based in the EU.  Customer Support can give you the details for this service.
