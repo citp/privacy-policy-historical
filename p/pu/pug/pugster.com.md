@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pugster.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105213id_/http%3A//www.pugster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pugster.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531095341id_/http%3A//www.pugster.com/privacy.php) for the most accurate reproduction.*
 
-# Pugster Jewelry, Pugster Beads, Italian Charms, Pugster Charms Bracelets, Links Charms
+# Privacy Policy at Pugster
 
 At Pugster.com, **your privacy is a top priority**. Please read our privacy policy details.
 
