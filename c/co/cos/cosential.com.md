@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229014905id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531031502id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
 
 # Cosential - Privacy Policy
 
