@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyoftheweb.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611232945id_/http%3A//go.microsoft.com/fwlink/%3Flinkid%3D123161) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyoftheweb.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531230655id_/http%3A//go.microsoft.com/fwlink/%3Flinkid%3D123161) for the most accurate reproduction.*
 
 # Microsoft.com Privacy Statement
 
@@ -100,7 +100,14 @@ Other Important Privacy InformationOther Information
   * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
   * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
     * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
-    * By Phone: 425-882-8080 
+    * By Phone: 425-882-8080
+  * Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
+
+> Microsoft Ireland Operations, Ltd.  
+>  Attn: Data Protection  
+>  Carmenhall Road  
+>  Sandyford, Dublin 18, Ireland
+
   * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
 
 
