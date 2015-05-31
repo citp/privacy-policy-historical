@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uobd2.net privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018030223id_/http%3A//www.uobd2.net/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uobd2.net privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531042653id_/http%3A//www.uobd2.net/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UOBD2.net - UOBD2 - China Auto Diagnostic Tool Center
 
