@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120194036id_/http%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531054215id_/http%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Cultures for Health Privacy Policy | Customer Privacy
 
@@ -7,8 +7,10 @@ This Application collects some Personal Data from its Users. Your privacy is imp
 Cultures for Health  
 1801 N. Louise Drive  
 Sioux Falls, SD 57107  
-customersupport@culturesforhealth.com  
-800-962-1959 ph.
+customersupport@culturesforhealth.com
+
+**  
+Types of Data Collected**
 
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data, Email, First Name, Last Name and Phone Number.
 
@@ -52,13 +54,13 @@ This does not mean that all Personal Data are used for this purpose. Information
 
 Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e., displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
 
-#### AdRoll (Semantic Sugar, Inc.)
+**AddShoppers**
 
-AdRoll is an advertising service provided by Semantic Sugar, Inc.
+AddShoppers is an onsite marketing platform provided by Add Shoppers, LLC. 
 
-Personal data collected: Cookie and Usage Data.
+Personal data collected: Email, Name, Cookie 
 
-Place of processing: USA – [Privacy Policy](http://www.adroll.com/about/privacy)
+Place of Processing: USA - [Privacy Policy](http://www.addshoppers.com/privacy)
 
 #### Google AdSense (Google)
 
@@ -187,13 +189,13 @@ These services make it possible to manage a database of email contacts to commun
 
 The services are used to collect data concerning the date and time when the mail is viewed by the User, as well as when the User interacts with incoming mail, such as by clicking on links included in the email.
 
-#### Mailchimp (Mailchimp)
+**AddShoppers**
 
-Mailchimp is an email address management and message sending service provided by Mailchimp Inc.
+AddShoppers is an onsite marketing platform provided by Add Shoppers, LLC. 
 
-Personal data collected: Email.
+Personal data collected: Email, Name, Cookie 
 
-Place of processing: USA – [Privacy Policy](http://mailchimp.com/legal/privacy/)
+Place of Processing: USA - [Privacy Policy](http://www.addshoppers.com/privacy)
 
 #### Listrak
 
@@ -220,6 +222,14 @@ Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/poli
 These services allow this Application and its partners to inform, optimize and serve advertising based on past use of this Application by the User. 
 
 This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.
+
+**AddShoppers**
+
+AddShoppers is an onsite marketing platform provided by Add Shoppers, LLC. 
+
+Personal data collected: Email, Name, Cookie 
+
+Place of Processing: USA - [Privacy Policy](http://www.addshoppers.com/privacy)
 
 #### Listrak
 
