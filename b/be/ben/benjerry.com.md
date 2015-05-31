@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benjerry.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205001626id_/http%3A//www.benjerry.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benjerry.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531083519id_/http%3A//www.benjerry.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ben & Jerry’s
 
