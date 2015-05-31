@@ -1,57 +1,106 @@
-> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018183835id_/http%3A//www.coldwatercreek.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531191304id_/http%3A//www.coldwatercreek.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Coming Soon | Coldwater Creek
+# Privacy Policy | Coldwater Creek
 
-This Statement was last updated on September 1, 2014.
+## Effective Date 11/3/2014
 
-This Privacy and Security Statement (“Policy”) describes how CWC Direct LLC (“We,” “Our,” or “Company”) treat personal information on the websites where it is located. This policy does not apply to the websites and practices of Our subsidiaries or other affiliates.
+  
 
-We may revise this Privacy and Security Statement at any time without notice by updating this page. By using this Site you agree to be bound by any such revisions and should therefore periodically visit this Site and page to determine the current terms to which you are bound. In the event we make a material change to this Statement, you will be notified of such changes and given the opportunity to opt-out of new or different uses of your personal information. When this Privacy and Security Statement is revised, we will also revise the "last updated" date at the top of this Statement.
 
-No. We never sell, rent, or trade e-mail addresses. Because we think that products of our affiliate, The Talbots, Inc. (“Talbots”), would be of interest to you, we may share your information with Talbots. Talbots will use your information as described in its privacy policy, which can be found [here](http://www.talbotsinc.com/brands/talbots/Privacy.asp).
+### This Privacy Policy applies to the sites where it appears.
 
-We do occasionally share names and mailing addresses with other reliable companies. We may provide our trusted third party service providers with customer e-mail addresses, for use solely in connection with providing services to us, as explained in more detail below. If you prefer that we not share your name, e-mail address or mailing address, please email us at [customerservice@coldwaterdirect.com](mailto:customerservice@coldwaterdirect.com).
+This Policy describes how we treat personal information on the websites where it is located. It also applies to mobile versions of our sites. By interacting with us, you consent to these practices.
 
-Yes. We may acquire names and addresses, as well as other information as described below, from various sources, including through this website and our pages on social media sites such as Facebook, Twitter, and Pinterest, when you call or e-mail us or communicate with us through social media, when you participate in promotions, contests or surveys, or from third parties.
+This policy does not apply to the practices of CWC Direct LLC’s subsidiaries or other affiliates.
 
-When you place an order, request e-mail updates, request a catalog, or participate in a promotion, contest or survey, we may ask for some or all of the following: your name, address, phone number and e-mail address. If placing an order, we may ask for credit card information.
+  
 
-We maintain a record of your online, catalog and store purchases. If you ship your order to an address different from your billing address, we will ask you to enter the Ship To name and address. If you use Send-a-Hint, you will be asked for the e-mail address of the recipient. If you use Send-a-Hint or send an electronic gift card to someone, you will be asked for the e-mail address of the recipient. We never use these e-mail addresses for any other purpose except as stated in this Policy.
 
-Your information is used to process and deliver your order to the address you request. Your payment information allows us to bill your credit card company. If we have any questions regarding your order, we will contact you by phone or e-mail. If you make a purchase, we may send you information and updates about new products, special sales, customer surveys and promotions. We use both e-mail and postal addresses to share information with our customers. When you supply e-mail addresses in Send-a-Hint or to send an electronic gift card, we use those addresses only for the purpose you intend.
+## We collect information from and about you.
 
-We often use testimonials from our customers in printed material or on our website, but only when we have express permission to do so. Testimonials come from customer comments sent or e-mailed directly to us. We may use information we obtain about you to enforce our Terms of Use and to protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users.
+**We collect contact information.** For example, we might collect your name and email address if you register on our website sign up for our emails. We may also collect your phone number and shipping address.
 
-We may share customer information with select third parties.
+**We collect payment information.** For example, we collect your credit card number and billing address if you make a purchase.
 
-From time to time we provide aggregate, statistical information about consumers and sales on our website and site shopping information. These statistics are used in communications, such as our annual report, and do not identify individuals.
+**We collect demographic information.** We may collect information like your birthday month and day. We may also collect your zip code.
 
-We may also share customer information with our trusted third party service providers who provide advertising services using information that our customers provide, such as name, street address, email address, and transaction history, as further described below. Our trusted third parties are contractually prohibited from using customer information for any purpose other than to provide services to Coldwater Creek. If you prefer Coldwater Creek not to share your information with our third party service providers, please e-mail us at [customerservice@coldwaterdirect.com](mailto:customerservice@coldwaterdirect.com).
+**We collect information you submit or post.** For example, we collect information you submit to us to enter a promotion or when you participate in a survey. We also collect information if you contact us.
 
-We may also disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
+**We collect other information.** If you use our website, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us.
 
-We also reserve the right to transfer information we have about you in the event we sell, merge or transfer all or a portion of our business or assets. Should such a sale, merger or transfer occur, we will use reasonable efforts to direct the transferee to use information you have provided to us in a manner that is consistent with our Privacy and Security Statement, except for information that is shared with Talbots, which will be used by Talbots as described in its privacy policy. Following such a sale, merger or transfer, you may contact the entity to which we transferred your information with any inquiries concerning the processing of that information.
+## We collect information in different ways.
 
-No. However, you may find it more convenient if you sign up for an account with us. In your account we can store your name, address and credit card information so you don't have to enter that information during future shopping visits. Only the last four digits of your credit card numbers are displayed for easy identification.
+**We collect information directly from you.** For example, we may collect information if you register with us or enter a promotion. We also collect information if you contact us. We may also collect information from product and service reviews you post.
 
-You can update your information by emailing us at [customerservice@coldwaterdirect.com](mailto:customerservice@coldwaterdirect.com).
+**We collect information passively.** We use tracking tools like browser and flash cookies. We may also use data tags, or web beacons to collect information from you. We collect information about users over time when you use this website. We may have third parties collect personal information this way. Learn more about these tools and how you can control them, [here](http://www.coldwatercreek.com/about-tracking/about-tracking.html).
 
-Your web browser may let you choose your preference as to whether you want to allow websites to collect personal information over time about your online activities across different websites or online services. At this time our site does not respond to the preferences you may have set in your web browser regarding the collection of such personal information, and our site may continue to collect personal information in the manner described in this Privacy and Security Statement. We may enable third parties to collect personal information in connection with our site. This Statement does not apply to, and we are not responsible for, any collection of personal information by third parties on our site.
+**We get information about you from third parties.** For example, our business partners may share information about you with us. Social media platforms may also give us information.
 
-At the bottom of each e-mail is information about removing your name from our e-mail list. You may also remove your name or change the frequency of the e-mails you receive in My Account. Log in with your e-mail address and password. Select E-mail & Password Information. On the next screen, make your selection, then save your changes. Our promotions are prepared in advance, so it may take a few days for the change to take effect, and you may receive e-mails during that time.
+**We combine information.** For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have.
 
-After you make a purchase, for your convenience we will still send e-mail order confirmations and information about your order. We may also contact you by phone or mail if we have questions regarding your order.
+  
 
-Coldwater Creek does not direct its websites to children under the age of thirteen. If we learn that a user is under thirteen years of age, we will promptly delete any personal information that such user has provided to us.
 
-We use a variety of industry standard technologies and processes to protect your personal and financial information.
+## We use information as disclosed and described here.
 
-We will cover any liability imposed on you by your bank or credit card company, up to $50, in the unlikely event that your card is used without your authorization at Coldwatercreek.com. We will also do whatever we can to help resolve the situation. The Fair Credit Billing Act requires your bank or credit card company to hold you responsible for no more than $50 of unauthorized or fraudulent charges on a credit card. Most debit card issuers voluntarily adopt the same liability limitations as credit card issuers, but you may want to check with your bank to make sure. Remember: if unauthorized use of your credit or debit card does occur, it is your responsibility to notify your card provider as stated in your agreement with them.
+**We use your information to respond to your requests or questions.** For example, we might contact you about your questions. Or we may use your information to notify you if you are a promotion winner.
 
-Like hundreds of other companies, Coldwater Creek, Inc. has been the target of a spam e-mail campaign on the Internet; e-mail that is sent illegally and illegitimately to the mass public. The senders create enticing subject lines to make the recipient think the e-mail message is from or has something to do with a legitimate company or organization, when in reality, the sender has nothing to do with the legitimate company. We go to great lengths to ensure our customers' privacy, the integrity of Coldwater Creek, Inc. and our brand. We advise anyone receiving a spam e-mail to report it as abuse to their Internet Service Providers.
+**We use your information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us.
 
-California Civil Code Section 1798.83 permits customers of Coldwater Creek who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [customerservice@coldwaterdirect.com](mailto:customerservice@coldwaterdirect.com) or write us:
+**We use your information for security purposes.** We may use your information to protect our company, or our customers. We may also use your information to protect our websites.
 
+**We use your information for marketing purposes.** For example, we might send you information about new products and special offers. We might also use your information to serve you ads about products and offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. If you enroll in our email newsletter we may send you information by email. To manage this, read the choices section below.
+
+**We use information to communicate with you about your account or our relationship.** We may contact you about your account your purchases. We might also contact you about this Policy or our website Terms.
+
+**We use your information as otherwise disclosed or permitted by law.**
+
+## We may share information with third parties.
+
+**We will share information that you submit or post.** For example, we may share your wish list and shipping address if you choose to or make it public. We may also display reviews you submit regarding our products or services.
+
+**We will share information with third parties who perform services on our behalf.** For example, we share information with companies who help us send emails or operate our sites. We also share information with companies that help us run a promotion.
+
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share information if you are a winner of a sweepstakes or contest as part of a winner’s list. We may share information if a government agency or investigatory body requests it. We might share information if we are investigating potential fraud. This might include fraud we think has happened during a promotion.
+
+**We may share information with a successor to all or part of our business.** For example, if part of our business is sold or transferred we may include user information as part of that transaction.
+
+**We may share information for other reasons we may describe to you from time to time.**
+
+## You have certain choices about sharing and marketing practices.
+
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
+
+**You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, please [click here](http://www.coldwatercreek.com/about-tracking/about-tracking.html).
+
+## These sites and children.
+
+Our sites where this policy is found are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at customerservice@coldwaterdirect.com. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children's privacy on-line [here](http://www.business.ftc.gov/privacy-and-security/children's-privacy).
+
+## We use standard security measures.
+
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+## We may link to other sites or have third party services on our site we don’t control.
+
+If you click on a link to a third party site, you will be taken to websites we do not control. This policy does not apply to the privacy practices of these websites. Read the privacy policy of other websites carefully. We are not responsible for these third party practices.
+
+Our site may also serve third party content that contains their own cookies or tracking technologies. To learn more, click here. We do not control the use of those technologies.
+
+### Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy, please email us at [customerservice@coldwaterdirect.com](mailto:customerservice@coldwaterdirect.com)
+
+You can also write to us or call at:  
 Coldwater Creek c/o TG  
 5389 East Provident Dr  
-Cincinnati OH 45246
+Cincinnati OH 45246  
+1-888-678-5576
+
+If you have any questions about this Policy or want to correct or update your information, please email us at [customerservice@coldwaterdirect.com](mailto:customerservice@coldwaterdirect.com)
+
+### We may update this Policy.
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+
+© 2014 Coldwater Creek Direct. All rights reserved.
