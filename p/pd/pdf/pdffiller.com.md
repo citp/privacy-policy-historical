@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdffiller.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224130324id_/http%3A//www.pdffiller.com/en/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdffiller.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531235832id_/http%3A//www.pdffiller.com/en/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - PDFfiller
 
@@ -30,7 +30,7 @@ Files filled out by customers are stored on the server. However, these files and
 
 ## 2\. How we use information we collect? 
 
-**__Personal Information__** is or may be used: (i) to set up an account and profile and to securely access their PDFfiller account, (ii) to administer your use of the Service and to provide and improve our Service, (iii) to better understand your needs and interests, (iv) to personalize and improve your experience, and (v) to provide or offer software updates and product announcements. If you no longer wish to receive communications from us, please follow the “unsubscribe” instructions provided in any of those communications, or send us an email to [support@pdffiller.com](mailto:support@pdffiller.com).
+**__Personal Information__** is or may be used: (i) to set up an account and profile and to securely access their PDFfiller account, (ii) to administer your use of the Service and to provide and improve our Service, (iii) to better understand your needs and interests, (iv) to personalize and improve your experience, and (v) to provide or offer software updates and product announcements. If you no longer wish to receive communications from us, please follow the “unsubscribe” instructions provided in any of those communications, or contact [PDFfiller support](http://www.pdffiller.com/en/support?utm_source=privacy_policy&utm_medium=web&utm_campaign=support).
 
 PDFfiller discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on PDFfiller 's behalf or to provide services available at PDFfiller 's website and mobile platforms, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of USA; by using PDFfiller 's websites, you consent to the transfer of such information to them.
 
@@ -54,7 +54,7 @@ PDFfiller discloses potentially personally-identifying and personally-identifyin
 
 ## 4\. Changing or Deleting Your Information
 
-If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing information in your “My Account” page. If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on your [My Account](https://web.archive.org/en/account.htm) page. In some cases we may retain copies of your information if required by law. For questions about your Personal Information on our Service, please contact support@pdffiller.com. We will respond to your inquiry within 30 days.
+If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing information in your “My Account” page. If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on your [My Account](https://web.archive.org/en/account.htm) page. In some cases we may retain copies of your information if required by law. For questions about your Personal Information on our Service, please contact [PDFfiller support](http://www.pdffiller.com/en/support?utm_source=privacy_policy&utm_medium=web&utm_campaign=support). We will respond to your inquiry within 30 days.
 
 ## 5\. Data and File Retention
 
@@ -90,12 +90,12 @@ Our Privacy Policy may change from time to time. We will not reduce your rights 
 
 ## 10.Security
 
-The security of your information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [support@pdffiller.com](http://support@pdffiller.com/).
+The security of your information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact [PDFfiller support](http://www.pdffiller.com/en/support?utm_source=privacy_policy&utm_medium=web&utm_campaign=support).
 
 ## 11\. Our Policy Toward Children
 
-Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us to [support@pdffiller.com](mailto:support@pdffiller.com). If we become aware that a child under 13 has provided us with Personal Information, we will take steps to delete such information from our files.
+Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [PDFfiller support](http://www.pdffiller.com/en/support?utm_source=privacy_policy&utm_medium=web&utm_campaign=support). If we become aware that a child under 13 has provided us with Personal Information, we will take steps to delete such information from our files.
 
 Questions or Concerns?
 
-If you would like to communicate with us about this Privacy Policy or PDFfiller's collection and use of your Personally Identifying Information please contact PDFfiller at support@ PDFfiller.com
+If you would like to communicate with us about this Privacy Policy or PDFfiller's collection and use of your Personally Identifying Information please contact [PDFfiller support](http://www.pdffiller.com/en/support?utm_source=privacy_policy&utm_medium=web&utm_campaign=support).
