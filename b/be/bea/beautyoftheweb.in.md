@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyoftheweb.in privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227172307id_/http%3A//go.microsoft.com/fwlink/%3Flinkid%3D123161) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyoftheweb.in privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531230655id_/http%3A//go.microsoft.com/fwlink/%3Flinkid%3D123161) for the most accurate reproduction.*
 
 # Microsoft.com Privacy Statement
 
