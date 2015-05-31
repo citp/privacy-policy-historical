@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208115452id_/http%3A//www.audionetwork.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531074743id_/http%3A//www.audionetwork.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Audio Network - Listen, buy and download today
 
 **Data Protection Information**
 
-[ **www.audionetwork.com**](http://www.audionetwork.com/) is owned and operated by **Audio Network Limited**.
+[ **www.audionetwork.com**]() is owned and operated by **Audio Network Limited**.
 
 Audio Network Limited and its subsidiary companies **Audio Network US Inc** , **Audio Network Australia Pty Ltd** , **Audio Network Canada Inc,**   **Audio Network (Holland) BV** and **Audio Network GmbH** maintain a strict customer information privacy policy to protect any personal information that you may give us.
 
@@ -49,6 +49,6 @@ Please note that you can stop receiving this information at any time by either a
 
 Occasionally it may be necessary for us to make changes or alterations to this Privacy Policy.
 
-You are advised that it is your responsibility to check [ **www.audionetwork.com**](http://www.audionetwork.com/) for such changes.
+You are advised that it is your responsibility to check [ **www.audionetwork.com**](https://web.archive.org/) for such changes.
 
 Your order is covered by the **Privacy Policy** in force at the time you make your order.
