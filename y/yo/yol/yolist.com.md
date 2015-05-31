@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yolist.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103104147id_/http%3A//tcnext.com/tcnext/WEB/static_pages/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolist.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531235656id_/http%3A//tcnext.com/tcnext/WEB/static_pages/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - tcnext.com
 
-Times Business Solutions Ltd, (TBSL) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the online properties- [www.timesjobs.com](http://www.timesjobs.com/), [www.magicbricks.com](http://www.magicbricks.com/), [www.simplymarry.com](http://www.simplymarry.com/), [www.ads2book.com](http://www.ads2book.com/), [www.peerpower.com](http://www.peerpower.com/) and [www.tcnext.com](http://www.tcnext.com/) TBSL. 
+Times Business Solutions Ltd, (TBSL) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the online properties- [www.timesjobs.com](http://www.timesjobs.com/), [www.magicbricks.com](http://www.magicbricks.com/), [www.simplymarry.com](http://www.simplymarry.com/), [www.ads2book.com](http://www.ads2book.com/), [www.peerpower.com](http://www.peerpower.com/) and [http://tcnext.com](http://tcnext.com/) TBSL. 
 
 TBSL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TBSL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TBSL is: (a)information supplied by users and   
 (b) information automatically tracked while navigation (Information). 
