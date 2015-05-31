@@ -1,100 +1,81 @@
-> *The following text is extracted and transformed from the eataly.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eataly.net privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601004012id_/http%3A//www.eataly.net/it_en/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**PROCESSING OF YOUR PERSONAL DATA ON EATALY NET**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**What is A Privacy Policy?**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This information is provided - [**also in pursuance of Section 13 of Legislative Decree no. 196/2003**](http://www.garanteprivacy.it/garante/document?ID=1219452) -  to any entity having to do with the web-based services that are made available by Eataly Net S.r.l via electronic networks as from the following address:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+_www.eataly.net_
 
-**Information Collection and Use**
+which corresponds to the home page of our official web site.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+The information provided only applies to our web site and does not concern any web sites that may be visited by an user via external links.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+The information provided is also based on the guidelines contained in Recommendation no. 2/2001, which was adopted on 17 May 2001 by the European data protection authorities within the Working Party set up under [**Article 29 of European Directive 95/46/EC**](http://www.garanteprivacy.it/garante/document?ID=432175) in order to lay down minimum requirements for the collection of personal data online - especially with regard to arrangements, timing and contents of the information to be provided by data controllers to users visiting web pages for whatever purpose.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Data Controller**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Visiting this site may result into the processing of data concerning identified or identifiable persons.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The data controller Mr. Franco Denari,while the data processor is Eataly Net S.r.l. with registered office in Monticello d’Alba S.S. 231, Zona Industriale n. 2 (CN), CAP 12066, VAT n.: 03453380044
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Place Where Data Is Processed**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+The processing operations related to the web-based services that are made available via this website are carried out at the aforementioned office of Eataly Net exclusively by technical staff in charge of said processing, or else by persons tasked with such maintenance activities as may be necessary from time to time.
 
-**Security**
+No data resulting from web-based services is either communicated or disseminated.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Any personal data that is provided by users requesting to be sent information materials such as bulletins, CD-ROMs, newsletters, annual reports, answers to questions, decisions and sundry provisions, etc. is only used to provide the service and/or discharge the tasks requested and is disclosed to third parties only if this is necessary for the said purposes. Personal data entered by users are collected and managed electronically by the company or delgated third parties for the following purposes: purposes related to accessing communication information shown on [http://shop.eataly](http://shop.eataly/) and related websites. In any case your data will not be exchanged or sold to third parties (except for posting companies and data entry companies). Within Eataly Net S.r.l. data will be accessible solely by specifically designated people working within the administrative department. ****
 
-**Updating Your Information**
+  **Categories of Processed Data**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+_Navigation Data_
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The information systems and software procedures relied upon to operate this web site acquire personal data as part of their standard functioning; the transmission of such data is an inherent feature of Internet communication protocols.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Such information is not collected in order to relate it to identified data subjects, however it might allow user identification per se after being processed and matched with data held by third parties.
 
-      iii.      You may call us at: (480) 505-8800
+This data category includes IP addresses and/or the domain names of the computers used by any user connecting with this web site, the URI (Uniform Resource Identifier) addresses of the requested resources, the time of such requests, the method used for submitting a given request to the server, returned file size, a numerical code relating to server response status (successfully performed, error, etc.), and other parameters related to the user's operating system and computer environment.
 
-       iv.      You may fax us at: (480) 505-8844
+These data are only used to extract statistical information on website use as well as to check its functioning. The data might be used to establish liability in case computer crimes are committed against the website; except for this circumstance, any data on web contacts is currently retained for no longer than seven days.
 
-**Sending Emails**
+_Data Provided Voluntarily by Users_
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Sending e-mail messages to the addresses mentioned on this website, which is done on the basis of a freely chosen, explicit, and voluntary option, entails acquisition of the sender's address, which is necessary in order to reply to any request, as well as of such additional personal data as is contained in the message(s).
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Specific summary information notices will be shown and/or displayed on the pages that are used for providing services on demand.
 
-**Compliance with Laws and Law Enforcement**
+_Cookies_
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+No personal data concerning users is acquired by the website in this regard.
 
-**Third Party Service Providers**
+No cookies are used to transmit personal information, nor are so-called persistent cookies or user tracking systems implemented.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Use of the so-called session cookies – which are not stored permanently on the user's computer and disappear upon closing the browser – is exclusively limited to the transmission of session ID's – consisting of server-generated casual numbers – as necessary to allow secure, effective navigation.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The so-called session cookies used by this website make it unnecessary to implement other computer techniques that are potentially detrimental to the confidentiality of user navigation, whilst they do not allow acquiring the user's personal identification data.
 
-**Supplementation of Information**
+Eataly Net works along with other companies which lay cookies or beacons on our websites. The service providers contribute to the functioning of our websites, by compiling meaasurements, anonimous analyses, pertaining the website or the provision of advertising services. The afore-mentioned companies are obliged to use the collected information solely for the above mentioned services and by no means for commercial ends.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**Optional Data Provision**
 
-**Contests/Surveys**
+Subject to the specifications made with regard to navigation data, users are free to provide the personal data either to be entered in the application forms submitted to Eataly Net or referred to in contacting Eataly Net to request delivery of information materials and other communications.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Failure to provide such data may entail the failure to be provided with the items requested.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+**  Processing Arrangements**
 
-**Tell-A-Friend**
+Personal data is processed with automated means for no longer than is necessary to achieve the purposes for which it has been collected.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Specific security measures are implemented to prevent the data from being lost, used unlawfully and/or inappropriately, and accessed without authorisation. ****
 
-**What Happens to my Personal Information if I Opt Out?**
+**Data Subjects' Rights**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Data subjects are entitled at any time to obtain confirmation of the existence of personal data concerning them and be informed of their contents and origin, verify their accuracy, or else request that such data be supplemented, updated or rectified ([ **Section 7 of Legislative Decree no. 196/2003**](http://www.garanteprivacy.it/garante/document?ID=1219452)).
 
-**Transfer of Data Abroad**
+The above Section also provides for the right to request erasure, anonymisation or blocking of any data that is processed in breach of the law as well as to object in all cases, on legitimate grounds, to processing of the data.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+All requests should be addressed to Eataly Net S.r.l. , Monticello d’Alba S.S. 231 Zona Industriale n. 2 (CN) CAP 12066, Italy VAT no.: 03453380044 or via fax to 0173/228167
