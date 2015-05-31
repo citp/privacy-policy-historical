@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703135832id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catster.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601012836id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy | catster
 
-Catster.com is a website for sharing cat facts and photos with other cat lovers. It is operated by SAY Media, Inc., a privately held company in San Francisco, CA, USA. Your personal privacy is EXTREMELY important to us. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us. 
+Catster.com is a website for sharing cat facts and photos with other cat lovers. It is operated by i-5 Publishing, LLC, a privately held company based in Irvine, CA, USA. Your personal privacy is EXTREMELY important to us. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us. 
 
 By using Catster.com, you consent to the collection and use of your personal information as outlined in the Privacy Policy. From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the site. You should visit this page periodically to review any such changes to the Privacy Policy. 
 
@@ -50,9 +50,9 @@ You can always contact us at any time by email at catsters@catster.com .
 
 Our mailing address is:  
 Catster  
-SAY Media, Inc.  
-180 Townsend Street  
-San Francisco, CA 94107  
+i-5 Publishing, LLC  
+2017 Mission Street, 2nd Floor  
+San Francisco, CA 94110  
 
 
 **Unsubscribing**
