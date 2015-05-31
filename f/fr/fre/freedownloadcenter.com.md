@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218032150id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloadcenter.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531232416id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 | 
 
-[Spy Emergency ](http://www.freedownloadscenter.com/Reviews/r9263.html)
+[Free Video Slideshow Maker ](http://www.freedownloadscenter.com/Reviews/r9591.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r9263.html)
+[](http://www.freedownloadscenter.com/Reviews/r9591.html)
 
-**Spy Emergency** the reliable Anti-Spyware, Anti-Virus, Anti-Spam solution that cleans your system from spywares and other online security threats. 
+**Free Video Slideshow Maker** creates dynamic video presentations and video slide shows effortlessly. 
 
-[Latest Acoustica MP3 Audio Mixer installer ](http://www.freedownloadscenter.com/Reviews/r9264.html)
+[Notes to PST Conversion ](http://www.freedownloadscenter.com/Reviews/r9592.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r9264.html)
+[](http://www.freedownloadscenter.com/Reviews/r9592.html)
 
-**Latest Acoustica MP3 Audio Mixer installer** is the most ideal and convenient program to Mix MP3s, record your own, set volume fades and pans. 
+**Notes to PST Conversion** is a professional tool with the capabilities to migrate Lotus Notes NSF files or Domino Server to Outlook PST files or Exchange Server. 
 
 Reviews newsletter 
 
