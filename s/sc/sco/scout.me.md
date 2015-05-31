@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scout.me privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230152420id_/http%3A//www.telenav.com/legal/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scout.me privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531082701id_/http%3A//www.telenav.com/legal/policies.html) for the most accurate reproduction.*
 
 # Telenav Policies
 
@@ -18,9 +18,9 @@ The types of personal and other information we may collect about you are primari
 
 (a) Register/Information Related to Your Account
 
-We collect and store personal information about you when you register to become a customer of our services, and when you otherwise transmit such information to us via the internet (including partner websites) or by email. For instance, to maintain your account we collect and store in a database your name, nickname(s), billing address, email address, mobile phone number, or device ID/number for certain devices, mobile phone model, wireless carrier, and in certain circumstances the last four digits of your credit card number, credit card holder's names, and credit card expiration dates.
+We collect and store personal information about you when you register to become a customer of our services, and when you otherwise transmit such information to us via our applications, the internet (including partner websites) or by email. For instance, to maintain and/or verify your account we collect and store in a database your name, nickname(s), billing address, email address, mobile phone number, or device ID/number for certain devices, mobile phone model, wireless carrier, and in certain circumstances the last four digits of your credit card number, credit card holder's names, and credit card expiration dates.
 
-We use your name, billing address, and credit card number for the purpose of billing you for our services, and other services offered from within certain Telenav products, and with your permission, may store such information for future transactions.
+We use your name, billing address, and credit card number for the purpose of billing you for our services, and other services offered from within certain Telenav products, and with your permission, may store such information for future transactions. In certain versions of our applications, you may also be given the option to provide a profile photo. 
 
 When you choose to access our services through a Facebook log-in, we collect your name, profile picture, email, Facebook password and your Facebook contacts list with your permission. Your name will be displayed and stored within our application and your email and Facebook password will be stored to provide future access to our application. We may use this email to contact you regarding your account and/or to respond to any inquiry or feedback you submit from within our applications as described in section (b) below. If you want to revoke authorization for the application to interact with your Facebook account, you can remove the application from the list of permitted Apps or turn off the Platform for Apps, Plugin and Websites from the Settings menu for your Facebook account. 
 
@@ -72,13 +72,15 @@ We automatically receive certain types of information, some of which may be asso
 
 (a) Information Related to Your Location and Route or Other User Content
 
-Each time you access the Telenav GPS Navigator™ or Scout® service or our partnered branded versions of GPS Navigator services, we record your location and route information, including your point of origin (which may be your then-current location), the address of your destination, the starting time of your trip, and the route you are instructed to follow. We record your current location when your wireless device requests a rerouting (which occurs, for example, when you deviate from the specified instructions). We maintain a database with these locations and route information, and may keep such information indefinitely to improve our map coverage and to provide other features that may enhance your service capabilities, functions, and your user experience. We may periodically receive your current location from the GPS hardware associated with your wireless device for the purpose of providing enhanced services, including traffic flow data. When your location, GPS heading and speed are used for these purposes, we strip it of your personal information, such as your phone number, prior to storing.
+Each time you access the Telenav GPS Navigator™ or Scout® service or our partnered branded versions of GPS Navigator services, we record your location and route information, including your point of origin (which may be your then-current location), the address of your destination, the starting time of your trip, and the route you are instructed to follow. We record your current location when your wireless device requests a rerouting (which occurs, for example, when you deviate from the specified instructions). We maintain a database with these locations and route information, and may keep such information indefinitely to improve our map coverage and to provide other features that may enhance your service capabilities, functions, and your user experience. We may periodically receive your current location from the GPS hardware associated with your wireless device for the purpose of providing enhanced services, including traffic flow data. When your location, GPS heading and speed are used for these purposes, we strip it of your personal information, such as your phone number, prior to storing. We may share such location data in anonymized form with our third party partners performing research and analysis about traffic conditions and road segment usage.
+
+When your mobile device's Location Services are being used by Scout or other third party applications or your mobile operating systems services, the Scout application may periodically collect and store data about your current location along with an anonymized version of your device IDs to create an anonymous profile for advertising purposes. For additional information about this data usage and how to opt-out, please see below regarding geohistorical-based and interest-based advertising. Additionally, this location data may also be used by us for anonymous traffic flow data or floating car data.
 
 When you choose to use your current GPS location for specifying the locale for a business finder search, or obtaining a map, we use your location information for the requested purpose, and then discard it. We anonymously record any search activities and results for comparative analysis. Further, we anonymously record transactions for the purpose of paying directory listing and mapping data providers.
 
-Some versions of our services include a location and information sharing feature that enables you to share your location or other information with another party. These location exchanges are transmitted within the application or via the internet or text messages using SMS. For example, when you create or join a Meet Up with the Scout application, your current location will be displayed on a map visible by other Meet Up participants. Your location will be removed from the map when you delete or close the Meet Up. We record these location exchanges, and may keep such information indefinitely. To respect the privacy of any individual with whom you would like to conduct a location exchange, but who has requested not to accept SMS messages, we maintain a list of recipients who have opted-out of receiving these messages. For some applications we may save this location information until you replace it or elect to delete your account. Upon termination of our services, all data in your profile will be removed. However, information regarding yourself in connection with any particular event or Meet Up shall remain available within the applicable service, but shall remain available solely in connection with the event. Any other user submission data, email, or other such service interaction shall be removed from the applicable service, and shall no longer be available to you or other members of such service.
+Some versions of our services include a location and information sharing feature that enables you to share your location or other information with another party. These location exchanges are transmitted within the application or via the internet or text messages using SMS. For example, when you create, join, or navigate to a Meet Up with the Scout application, your name, profile photo, current location and/or ETA at the Meet Up location will be displayed on a map visible by other Meet Up participants. The Meet Up and your location and/or ETA will be removed from the map visible to other participants when you delete the Meet Up. We record these location exchanges, and may keep such information indefinitely.
 
-Additionally, in some versions of our applications, you can allow our application to access the data stored in the address book and/or calendar on your mobile device. Our applications may use data from your address book or for your Facebook or Google+ contacts (if you signed in with a FacebookÂ  or Google+ sign-in) to allow you to search for and navigate to the addresses of your contacts, chat with your contacts within the application, or create a Meet Up within the application. Our applications may use calendar entry data to provide you with reminders about upcoming appointments and to provide navigation to the locations of your appointments. We will only access this data if you have given permissions for a particular Telenav application to do so, and you can revoke such permissions at any time by changing the settings on your mobile device.
+Additionally, in some versions of our applications, you can allow our application to access the data stored in the address book and/or calendar on your mobile device. Our applications may use data from your address book or for your Facebook or Google+ contacts (if you signed in with a Facebook or Google+ sign-in) to allow you to search for and navigate to the addresses of your contacts, chat with your contacts within the application, or create a Meet Up within the application. Our applications may use calendar entry data to provide you with reminders about upcoming appointments and to provide navigation to the locations of your appointments. We will only access this data if you have given permissions for a particular Telenav application to do so, and you can revoke such permissions at any time by changing the settings on your mobile device.
 
 When you access Telenav map and data services through a third party application, we receive and store your location information from your device along with any address or point of interest search requests along with associated destination location information. We maintain a database with locations and search information, and may keep such information indefinitely to improve our map coverage and to provide other features that may enhance your service capabilities, functions, and your user experience. Such data does not contain any personal information, such as your phone number.
 
@@ -95,7 +97,7 @@ The data that we collect from you may be used for the following purposes:
 
 
 
-We may employ browser cookies or similar technologies to identify the computer, mobile device, or some of our services and record your preferences and other data. We use cookies or similar technologies to evaluate how our websites, devices or applications are used and to provide continuous improvement to our services, make recommendations, and complete transactions you request. Cookies may be stored locally on mobile devices or on computer servers operated or controlled by Telenav. We may use a tracking pixel, agent or other visitor identification technology that collects anonymous data about your use of some of our services. We may also use Web beacons, also known as Web bugs, which are mostly invisible small graphic images (1-by-1 pixel), in the same color as the background of the web page or an HTML email, to monitor interaction with our websites or emails. In addition, when you visit our website our systems automatically collect your IP address and the type of browser that you use. When you browse our websites, our systems log the Telenav web pages that you visit. Server log files are records of activity automatically created by the server and stored. If we combine or link cookie or Web beacons with personal information, we will treat the combined or linked information as personal information under this policy. We may employ third-parties to place advertisements about our products and services on other web sites. The use of cookies, Web beacons or other similar technologies by such third parties is governed by their privacy policies.
+We may employ browser cookies or similar technologies to identify the computer, mobile device, or some of our services and record your preferences and other data. We use cookies or similar technologies to evaluate how our websites, devices or applications are used and to provide continuous improvement to our services, make recommendations, and complete transactions you request. Cookies may be stored locally on mobile devices or on computer servers operated or controlled by Telenav. We may use a tracking pixel, agent or other visitor identification technology that collects anonymous data about your use of some of our services. We may also use Web beacons, also known as Web bugs, which are mostly invisible small graphic images (1-by-1 pixel), in the same color as the background of the web page or an HTML email, to monitor interaction with our websites or emails. In addition, when you visit our website our systems automatically collect your IP address and the type of browser that you use. When you browse our websites our systems log the Telenav web pages that you visit. Server log files are records of activity automatically created by the server and stored. If we combine or link cookie or Web beacons with personal information, we will treat the combined or linked information as personal information under this policy. We may employ third-parties to place advertisements about our products and services on other web sites. The use of cookies, Web beacons or other similar technologies by such third parties is governed by their privacy policies.
 
 You may limit the automatic collection of certain information through the use of cookies by our websites by disabling the cookies using your browser options. Please be aware that disabling cookies may prevent you from using specific features on our websites, such as ordering services, or maintaining an online account.
 
@@ -120,7 +122,7 @@ If you would like to opt out of the use of data for geohistorical-based and inte
 
 When you use the voice command or entry features on our services, we record your audible utterance (what you said). We collect utterances from our entire subscriber population, organize them by what was said, and then use this information to adjust speech recognition performance parameters to improve accuracy.
 
-We will also collect information relating to the performance of our applications, including the state of your device at the time of an error or issue with the application, and such information is disclosed to and processed by third party providers, including but not limited to Crashlytics, for purposes of collecting information about errors or issues within our applications so we may improve our applications.
+We will also collect information relating to your use of and the performance of our applications, including the state of your device at the time of an error or issue with the application, and such information is disclosed to and processed by third party providers, including but not limited to Crashlytics, for purposes of collecting information about errors or issues within our applications so we may improve our applications.
 
 We may retain any data you provide to us in an email inquiry, for the purpose of tracking the types of questions we receive.
 
@@ -238,7 +240,7 @@ CH - 3003 Berne
 Telephone: +41 (0)31 322 43 95 (Monday - Friday, 10am - 12 am)   
 Fax: +41 (0)31 325 99 96
 
-Telenav Privacy Policy last updated as of December 18, 2014.
+Telenav Privacy Policy last updated as of May 22, 2015.
 
 * * *
 
@@ -334,6 +336,7 @@ Communication
 Environment (ACE) |  | http://www.cs.wustl.edu/~schmidt/ACE-copying.html | • Automotive  
 AFNetworking |  | https://github.com/AFNetworking/AFNetworking/blob/master/LICENSE | • iPhone  
 • Clients  
+AndroidSlidingUpPanel |  | https://github.com/umano/AndroidSlidingUpPanel/blob/master/LICENSE.txt | • Client  
 ASIHTTPRequest |  | https://github.com/pokeb/asi-http-request/blob/master/LICENSE | • iPhone  
 • Clients  
 ASN1C |  | https://github.com/vlm/asn1c | • iPhone  
@@ -363,6 +366,7 @@ Javascript library |  | http://www.mozilla.org/MPL/MPL-1.1.html | • Clients
 JPEG |  | BSD License | • TeleNav GPS Navigator 7.x   
 • Automotive   
 JSON |  | http://www.json.org/license.html | • TeleNav GPS Navigator 7.x   
+MarqueeLabel |  | https://github.com/cbpowell/MarqueeLabel/blob/master/LICENSE | • Clients  
 Microsoft Visual  
 Studio 2005/8  
 runtime libraries |  | http://download.microsoft.com/documents/useterms  
@@ -378,6 +382,7 @@ PhoneGap | 0.9.3 | http://www.phonegap.com/about/license/ | • TeleNav GPS Navi
 PNG |  | http://www.libpng.org/pub/png/src/libpng-LICENSE.txt | • Automotive  
 protobuf |  | http://www.opensource.org/licenses/bsd-license.php | • TeleNav GPS Navigator 7.x  
 protobuf-net r640 |  | https://code.google.com/p/protobuf-net/downloads/detail?name=protobuf-net%20r640.zip&can=2&q= | • Clients  
+protobuf-objc |  | https://github.com/alexeyxo/protobuf-objc/blob/master/src/runtime/Classes/AbstractMessage.h | • Clients  
 Protocol Buffers  | 2.3.0 | http://opensource.org/licenses/BSD-3-Clause | • Automotive  
 QT | 1.1.4 | http://qt.nokia.com/products/licensing/ | • Test frameworks  
 Quattroshapes |  | https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md | • Clients  
@@ -388,6 +393,7 @@ SBJSON | V3.0.4 | http://www.opensource.org/licenses/bsd-license.php | • iPhon
 SBJson |  | http://superloopy.io/json-framework/ | • iPhone  
 • Clients  
 SGI SI GLU | 2.0 | http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.2.0.pdf | • Automotive  
+SlidingMenu |  | https://github.com/jfeinstein10/SlidingMenu/blob/master/LICENSE.txt | • Client  
 speex |  | http://www.xiph.org/licenses/bsd/speex/ | • TeleNav Navigator  
 • Hybrid clients  
 sqlite | V3.7.9 | http://www.sqlite.org/copyright.html | • Clients  
@@ -405,7 +411,7 @@ WriteableBitmapEx | 1.0.5 | http://writeablebitmapex.codeplex.com/license | • 
 zlib | 1.2.5 | http://www.gzip.org/zlib/zlib_license.html | • Clients  
 • Automotive   
   
-Telenav Open Source Statement last updated as of April 25, 2014.
+Telenav Open Source Statement last updated as of January 20, 2015.
 
 * * *
 
