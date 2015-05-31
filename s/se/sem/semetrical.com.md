@@ -1,103 +1,48 @@
-> *The following text is extracted and transformed from the semetrical.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233138id_/http%3A//www.semetrical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semetrical.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531105514id_/http%3A//www.semetrical.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Semetrical
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+This is the privacy policy statement for this site. It describes the types of information we may collect and how we use it to provide services to our customers.
 
-**(1) What information do we collect?**
+By using this website, you agree to the collection and use of your personal information as described in this policy. If we make any significant changes to this policy we will place a notice of this on our home page.
 
-We may collect, store and use the following kinds of data: 
+If you have any questions or comments about this Privacy Policy, please [contact us](https://web.archive.org/contact).
 
-(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views);   
-(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;   
-(c) information that you provide to us for the purpose of registering with us;   
-(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;   
-(e) any other information that you choose to send to us; and   
-(f) information about websites that is publicly available.
+## Use of Your Information
 
-**(2) Cookies**
+We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+  * To provide information to you that you request from us relating to our service.
+  * To provide information to you relating to other services that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
+  * To inform you of any specific business purposes relating to smoothcontract.
+  * We may send you email in connection with support queries or to notify you of any critical issues with our service.
 
-We may use both "session" cookies and "persistent" cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit. 
 
-Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date. 
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html. 
+Any other email messages will only be sent if you have explicitly opted in to receive them (for example news on service updates). You may elect to opt out of these messages at any time by sending us an email to the address above.
 
-Our advertisers/payment services providers may also send you cookies. 
+Your password will be maintained on our system in an encrypted form and is not accessible to anyone but you, although we may change your password if you request us to do so.
 
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin. 
+## Use of Cookies
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites.
+Cookies are used to distinguish between new or return visitors, and contain no information that can be used to identify individual visitors. Cookies are not required for use of our website, but must be enabled to login to your account. You can read about what cookies are and how we use them in our [cookie policy](https://web.archive.org/page/cookie-policy "OVALTWO Cookie Policy").
 
-**(3) Using your personal data**
+## Logging Data
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website. 
+All requests made by your use of this service will be automatically recorded for the purposes of compiling web traffic statistics. We also record the IP address of all visitors in order to compile geographic access statistics.
 
-We may use your personal information to: 
+This site uses [Google Analytics](http://www.google.com/analytics/) to help understand use of this service. Google Analytics collects the information sent by your browser as part of a web page request, including cookies and your IP address. Google also receives this information and their use of it is governed by their [Privacy Policy](http://www.google.com/intl/en/privacy.html).
 
-(a) administer the website;   
-(b) improve your browsing experience by personalising the website;   
-(c) enable your use of the services available on the website;   
-(d) send to you goods purchased via the website, and supply to you services purchased via the website;   
-(e) send statements and invoices to you, and collect payments from you;   
-(f) send you general (non-marketing) commercial communications;   
-(g) send you email notifications which you have specifically requested;   
-(h) send to you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);   
-(i) provide third parties with statistical information about our users - but this information will not be used to identify any individual user;   
-(j) deal with enquiries and complaints made by or about you relating to the website. 
+## Disclosing Your Information
 
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us. 
+We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+  * In the event that we sell any or all of our business to the buyer.
+  * Where we are legally required by law to disclose your personal information.
+  * To further fraud protection and reduce the risk of fraud.
 
-**(4) Disclosures**
 
-We may disclose information about you to insofar as reasonably necessary for the purposes as set out in this privacy policy. 
 
-In addition, we may disclose information about you: 
+## Access to Information
 
-(a) to the extent that we are required to do so by law;   
-(b) in connection with any legal proceedings or prospective legal proceedings;   
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and   
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.   
-Except as provided in this privacy policy, we will not provide your information to third parties.
-
-**(5) International data transfers**
-
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy. 
-
-Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Areas (EEA). 
-
-You expressly agree to such transfers of personal information.
-
-**(6) Security of your personal data**
-
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. 
-
-You are responsible for keeping your password and user details confidential. We will not ask you for your password.
-
-**(7) Policy amendments**
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
-
-**(8) Your rights**
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00). 
-
-You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
-
-**(9) Third party websites**
-
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
-
-**(10) Updating information**
-
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
-
-**(11) Contact**
-
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email at enquiries@semetrical.com.
+In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Upon request we provide site visitors with access to all information that we maintain about them. Consumers can make a request to view or correct any such information via email to the address given above.
