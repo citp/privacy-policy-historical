@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 101cookbooks.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221040830id_/http%3A//www.101cookbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101cookbooks.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531113911id_/http%3A//www.101cookbooks.com/privacy.html) for the most accurate reproduction.*
 
-# 101 Cookbooks - Healthy Recipe Journal
+# 101 Cookbooks Privacy Policy - 101 Cookbooks - Healthy Recipe Journal
 
 101Cookbooks.com is firmly committed to maintaining the privacy and protection of your personal information. This Privacy Policy outlines our efforts to maintain your privacy. 
 
