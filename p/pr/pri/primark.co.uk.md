@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primark.co.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220070125id_/http%3A//www.primark.com/en/customer-service/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primark.co.uk privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531082534id_/http%3A//www.primark.com/en/customer-service/privacy-and-cookies) for the most accurate reproduction.*
 
 # Primark - Privacy & Cookies
 
