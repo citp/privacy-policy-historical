@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecomfile.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223063444id_/http%3A//www.telecomfile.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecomfile.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531053527id_/http%3A//www.telecomfile.com/privacy-policy.html) for the most accurate reproduction.*
 
 # TelecomFile | Privacy-policy
 
