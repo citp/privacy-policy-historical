@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xinz.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230151617id_/http%3A//www.xinz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xinz.org privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601000707id_/http%3A//www.xinz.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech and Money Making Blog
 
@@ -58,6 +58,5 @@ This policy was last modified on 07/04/2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.xinz.org
-
+http://www.xinz.org  
 info@xinz.org
