@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the oxyshopping.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071706id_/http%3A//www.oxyshopping.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxyshopping.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531082130id_/http%3A//www.oxyshopping.com/privacy_policy.php) for the most accurate reproduction.*
 
-# About us :: OxyShopping.com
+# Privacy policy :: OxyShopping.com
+
+###### Oxyshopping.com Privacy policy 01.07.2011 
 
 By visiting the Oxyshopping.com website, you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. 
 
