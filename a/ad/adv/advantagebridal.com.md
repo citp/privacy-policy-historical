@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advantagebridal.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227083406id_/http%3A//www.advantagebridal.com/advantage-bridal-security-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantagebridal.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531113921id_/http%3A//www.advantagebridal.com/advantage-bridal-security-policy.html) for the most accurate reproduction.*
 
 # Advantage Bridal Security and Privacy Policy - Home
 
