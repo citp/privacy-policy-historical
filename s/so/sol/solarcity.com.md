@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220235421id_/http%3A//www.solarcity.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531094720id_/http%3A//www.solarcity.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Solar Power Systems | SolarCity
 
