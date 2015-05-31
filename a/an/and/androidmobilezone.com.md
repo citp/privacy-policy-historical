@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidmobilezone.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003645id_/http%3A//www.androidmobilezone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidmobilezone.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601002537id_/http%3A//www.androidmobilezone.com/privacy-policy) for the most accurate reproduction.*
 
 # Android Mobile Games, Android Mobile Apps,Apk,Ringtones-AndroidMobileZone.com
 
@@ -6,6 +6,8 @@
   2. Privacy Policy
 
 
+
+Advertisement
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@androidmobilezone.com. 
 
