@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyisland.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701124627id_/http%3A//www.edmentum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyisland.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531122113id_/http%3A//www.edmentum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edmentum
 
