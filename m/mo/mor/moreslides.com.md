@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moreslides.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209050210id_/http%3A//moreslides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreslides.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601001538id_/http%3A//moreslides.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
