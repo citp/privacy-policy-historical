@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110091728id_/http%3A//www.edf.org/about/this-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531211652id_/http%3A//www.edf.org/about/this-site/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Environmental Defense Fund
 
@@ -18,7 +18,7 @@ If you have any questions, [please ask](https://web.archive.org/contact).
   4. What choices are available to you regarding collection, use, and distribution of the information?
   5. What kind of security procedures are in place to protect against the loss, misuse, or alteration of your information?
   6. How you can access, update, or delete your information.
-  7. How "cookies" are used.
+  7. How “cookies” are used.
   8. Changes in our privacy policy.
   9. Official terms and conditions.
   10. How to opt out.
@@ -29,7 +29,7 @@ If you have any questions, [please ask](https://web.archive.org/contact).
 
 This means information that tells us something about who you are, such as your name, phone number, email address, mailing address, or even credit card number (if you use a credit card to make a donation).
 
-If you visit our sites to read or download information, such as consumer brochures or press releases, we collect and store only the following non-personally identifying information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; which pages you visit; and the Internet address of the web site from which you may have linked directly to our site.
+If you visit our sites to read or download information, such as consumer brochures or press releases, we collect and store only the following non-personally identifying information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University’s domain); the date and time you access our site; which pages you visit; and the Internet address of the web site from which you may have linked directly to our site.
 
 If you ask for one of our many personalized or enhanced services, we will ask you to provide us with personally identifiable information. For example, if you wish to contact your representative in Congress, we will ask for your address so that we can direct your communication to the correct member of Congress. We also keep a record of faxes and e-mails you send from our system, as well as your comments.
 
@@ -47,7 +47,7 @@ We are Environmental Defense Fund, a non-profit, tax-deductible environmental ad
 
 We use your personal information to give you personalized service (for example, information about your neighborhood, or your favorite subjects); to send you email alerts; to answer your requests; to let you become a member online, etc. You can opt out at any time to stop any further contact from us.
 
-We also use it to track use of our web sites; this lets us see which of our features are the most popular so we can better serve our users' needs. This also lets us provide aggregate data about our traffic (not identifying you personally, but showing how many visitors used which features, for example) to outside parties. Also see, "How 'cookies' are used." 
+We also use it to track use of our web sites; this lets us see which of our features are the most popular so we can better serve our users’ needs. This also lets us provide aggregate data about our traffic (not identifying you personally, but showing how many visitors used which features, for example) to outside parties. Also see, “How ‘cookies’ are used.” 
 
 We may also use this information to suggest other web site services to you, ask you to become a member of EDF, or to solicit donations. At any time you can opt out, so that we will not contact you by email, mail, fax, or telephone.
 
@@ -63,7 +63,7 @@ Now, or at any time in the future, you can [correct or update your information o
 
 ### **5\. What kind of security procedures are in place to protect against the loss, misuse, or alteration of your information?**
 
-We store your personally identifiable information on secure servers. We also use other "anti-hacking" security measures and employ security consultants. We use a secure server to process all credit card donations and updates to monthly billing.
+We store your personally identifiable information on secure servers. We also use other “anti-hacking” security measures and employ security consultants. We use a secure server to process all credit card donations and updates to monthly billing.
 
 [top]
 
@@ -73,11 +73,11 @@ Please [contact us](https://web.archive.org/contact) to obtain, change, update o
 
 [top]
 
-### **7\. How "cookies" are used**
+### **7\. How “cookies” are used**
 
-Some of our web sites use "cookie" data to provide better services. They remind us who you are and how you like to use our web site, based on what you've done and told us before. The cookie is placed in your computer and is read when you come back to our web site. Cookies let us take you to the information and features you're particularly interested in. They also let us track your and others' usage, so we know which parts of our sites are most popular. You can reject cookies or delete them.
+Some of our web sites use “cookie” data to provide better services. They remind us who you are and how you like to use our web site, based on what you’ve done and told us before. The cookie is placed in your computer and is read when you come back to our web site. Cookies let us take you to the information and features you’re particularly interested in. They also let us track your and others’ usage, so we know which parts of our sites are most popular. You can reject cookies or delete them.
 
-Google Analytics is used to analyze traffic to this web site. For more details about Google's privacy practices, please see [Google's privacy center](http://www.google.com/privacy.html).
+Google Analytics is used to analyze traffic to this web site. For more details about Google’s privacy practices, please see [Google’s privacy center](http://www.google.com/privacy.html).
 
 [top]
 
