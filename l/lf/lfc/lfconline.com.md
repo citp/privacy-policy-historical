@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119033347id_/http%3A//www.lfconline.com/privacy_policy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531083809id_/http%3A//www.lfconline.com/privacy_policy/index.shtml) for the most accurate reproduction.*
 
 # Liverpool FC News - LFC Online
 
