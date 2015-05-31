@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyebuydirect.com privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201124358id_/http%3A//www.eyebuydirect.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyebuydirect.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531084206id_/http%3A//www.eyebuydirect.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | EyeBuyDirect
 
@@ -30,7 +30,7 @@ Through your use of the Website, we may also gather certain information that doe
 
 We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer.
 
-Also, like many websites, we use "cookies," which are files stored on your computer's hard drive by your browser. Cookies help us to identify account holders and to optimize shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Website. You may occasionally get cookies from companies advertising on our behalf. We do not control these cookies, and these cookies are not subject to our cookie policy.
+We use "cookies," which are files stored on your computer's hard drive by your browser. Cookies help us identify account holders and to optimize shopping experience by allowing us to hold selections in a shopping cart when a user exits this Website. We recommend that you leave cookies "turned on" so that we may offer a better shopping experience. You may occasionally get cookies from companies advertising on our behalf. These cookies are not covered in our policy statement nor do we have control over these cookies.
 
 We also may collect and store information we receive from other sources. This information enables us to update information contained in our database, to provide product recommendations and special offers and, send you email reminders about shopping opportunities (if you have signed up for our email list.)
 
@@ -56,7 +56,7 @@ We use Anonymous Information to determine how people use parts of the Website. W
 
 ###### Third-party Agents
 
-We occasionally have third-party agents, subsidiaries, affiliates and partners that perform functions on our behalf. These entities have access to Personal Information needed to perform their functions. These third-party agents are contractually obligated to maintain confidentiality and security of Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Website.
+We have third-party agents, including Google, to show our ads on sites on the internet and to use cookies to serve ads based on your prior visits to our website. These agents have access to Personal Information needed to perform their functions. You may opt out of Google's use of cookies by visiting the [Google Advertising Opt-Out Page](http://www.google.com/policies/privacy/ads/). More information on opting out of the use of cookies is available at the [Network Advertising Initiative Opt Out Page](http://www.networkadvertising.org/managing/opt_out.asp). We may have data of your interactions with our ads across the Google Display Network or DoubleClick for Advertisers in conjunction with activity on our website. These third-party agents are contractually obligated to maintain confidentiality and security of Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Website.
 
 ###### Transactional partners
 
