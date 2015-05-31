@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookstrand.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127144531id_/https%3A//www.bookstrand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookstrand.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601000935id_/http%3A//www.bookstrand.com/privacy) for the most accurate reproduction.*
 
-# Privacy | BookStrand
+# Privacy - Bookstrand
 
 Siren-BookStrand, Inc. respects the privacy of its readers and shall not disclose, distribute or rent its email subscriber information to any third party, nor shall it permit anyone else to do so.
 
