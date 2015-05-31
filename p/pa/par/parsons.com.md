@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parsons.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064900id_/http%3A//www.parsons.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parsons.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531100036id_/http%3A//www.parsons.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,3 @@ Parsons might store or disclose your information as allowed (or as required by l
 Although Parsons might collect or provide aggregate statistics about its site and its users for its own purposes (and share this with other parties), this data does not contain any identifiable information—rather, it reveals only internet addresses, types of operating systems, browser software, and pages accessed by visitors. We use this aggregate data to learn more about the behavior of our visitors/users and to measure overall user demographics.  It must be noted that the Parsons website contains hyperlinks to other non-Parsons sites of interest to visitors, and we do not control or monitor the privacy, accuracy, quality, or integrity of those sites.
 
 This Parsons privacy policy only applies to information collected and maintained by Parsons. We reserve the right to modify this policy any time by updating this webpage. This privacy policy was last updated on November 23, 2010\. Questions regarding our policy should be directed [here](mailto:webmaster@parsons.com "Contact the Parsons.com Webmaster").
-
-  * Email
-
-
