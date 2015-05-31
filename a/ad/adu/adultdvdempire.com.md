@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226142234id_/http%3A//www.adultdvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601015144id_/http%3A//www.adultdvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # Help Pages & Customer Service Info | Adult DVD Empire
 
