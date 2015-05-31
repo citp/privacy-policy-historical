@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailstore.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024138id_/http%3A//www.mailstore.com/en/legal-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailstore.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601011416id_/http%3A//www.mailstore.com/en/legal-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
     
     § 1 Overview
     
-    All personal data (e.g. name, address, email address, phone number, bank information, credit card number) is processed according to the regulations of the German Privacy Act. The following rules provide information regarding the type, range and purpose for which personal data is stored, processed and used. This privacy statement applies to our websites only. If you follow links from our website to other sites, please refer to the privacy statements provided there.
+    All personal data (e.g. name, address, email address, phone number, bank information, credit card number) is processed according to the regulations of the German Privacy Act. The following rules provide information regarding the type, range and purpose for which personal data is stored, processed and used. If you follow links from our website to other sites, please refer to the privacy statements provided there.
     
     § 2 Automatic Data Gathering
     
@@ -26,7 +26,9 @@
     
     1. Personal data required for contracting and determining subject terms and alterations of contract (inventory data) is used for contract execution only. For instance, in order to deliver our products, your name and address must be submitted to the delivery service. Without your express permission or legal basis, no data is submitted to any third parties not taking part in fulfillment of contract.
     
-    2. In individual cases, by order of the appropriate authorities, inventory data may be made available to be used as necessary for criminal prosecution, averting of danger through state police departments, performing legal tasks of the German federal and state constitution protection agencies, the German Federal Intelligence Service (Bundesnachrichtendienst, BND), the German Military Counter-Intelligence Service (Militaerischer Abschirmdienst, MAD), or for the protection of intellectual property rights.
+    2. MailStore passes your afore-mentioned personal data on to its parent company Carbonite, Inc. (2 Avenue de Lafayette, Boston, MA 02111, USA) for business purposes.
+    
+    3. In individual cases, by order of the appropriate authorities, inventory data may be made available to be used as necessary for criminal prosecution, averting of danger through state police departments, performing legal tasks of the German federal and state constitution protection agencies, the German Federal Intelligence Service (Bundesnachrichtendienst, BND), the German Military Counter-Intelligence Service (Militaerischer Abschirmdienst, MAD), or for the protection of intellectual property rights.
     
     § 4 Usage Data
     
@@ -48,12 +50,3 @@
     § 7 Disclosure
     
     Upon request, you will receive information on the data stored about your person or pseudonym. This information can also be provided electronically, if desired.
-
-## Any Questions?
-
-**Phone**  
-800-747-2915 
-
-## Free Live Demo
-
-Let our technical experts present MailStore Server in a free webinar, at no obligation to you.
