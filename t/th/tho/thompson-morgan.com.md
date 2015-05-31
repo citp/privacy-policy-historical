@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030081248id_/http%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompson-morgan.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531111237id_/http%3A//www.thompson-morgan.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Thompson & Morgan - Security & Privacy Policy
 
