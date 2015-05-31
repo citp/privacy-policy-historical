@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bryant.edu privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127100849id_/http%3A//www.bryant.edu/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bryant.edu privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531085748id_/http%3A//www.bryant.edu/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Bryant University
 
