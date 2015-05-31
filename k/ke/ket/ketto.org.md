@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216084628id_/http%3A//www.ketto.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531111535id_/http%3A//www.ketto.org/privacy-policy.php) for the most accurate reproduction.*
 
-# | Ketto.org
+# Privacy Policy - Ketto.org
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and User information privacy. Please read the following statement to learn about our information gathering and dissemination practices. The following Privacy Policy should be read along with the Ketto – Terms of Use for a full understanding of Ketto's practices as well as the Users responsibilities when interacting with the site [www.ketto.org](http://www.ketto.org/)
 
