@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leatherman.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102171929id_/http%3A//www.leatherman.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leatherman.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601005601id_/http%3A//www.leatherman.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Leatherman
 
