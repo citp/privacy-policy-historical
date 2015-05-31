@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120115953id_/http%3A//helpdesk.bulkpowders.co.uk/index.php%3F/Knowledgebase/Article/View/2/2/privacy-and-data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531051958id_/http%3A//help.bulkpowders.com/hc/en-gb/articles/200492852-Privacy-Policy-Data-Security) for the most accurate reproduction.*
 
-# Privacy and Data Policy - Powered by Kayako Help Desk Software
+# Privacy Policy & Data Security – Help
 
 **BULK POWDERS™  Data Security**
 
@@ -62,9 +62,9 @@ We feel confident that credit card information entered on our site will not be a
 
 Do you have Trusted Shop (Internet Shopping is Safe) accreditation? You can shop online with us in confidence as the Trusted Shop logo certifies that we have
 
-  * Registered with the Trusted Shop programme and undertaken to trade in a manner that is legal, decent, honest, truthful and fair. 
-  * Had our website and service reviewed and monitored by IMRG (Interactive Media Retail Group). 
-  * Had our business, VAT and Data Protection registrations checked by IMRG. 
+  * Registered with the Trusted Shop programme and undertaken to trade in a manner that is legal, decent, honest, truthful and fair.
+  * Had our website and service reviewed and monitored by IMRG (Interactive Media Retail Group).
+  * Had our business, VAT and Data Protection registrations checked by IMRG.
 
 
 
@@ -90,3 +90,5 @@ BULK POWDERS™ will never pass on your email address to a third party for marke
 From time to time we may send you details by post from companies whose products and services may be of interest to you. If you wish to opt-out of third party offers and promotions let us know at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk) or by calling us on 01206 222 018. 
 
 We respect your privacy and are committed to protect it.
+
+Have more questions? [Submit a request](https://web.archive.org/hc/en-gb/requests/new)
