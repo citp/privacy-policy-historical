@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flynax.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010173541id_/http%3A//www.flynax.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flynax.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531072308id_/http%3A//www.flynax.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Flynax Classifieds Software Company Privacy Policy
 
@@ -27,4 +27,4 @@ You can subscribe or unsubscribe to www.flynax.com newsletter. If you wish to do
 
 Changes to This Policy and Questions about Privacy
 
-www.flynax.com reserves the right to make changes to this policy. Those changes will become effective 30 days after notice of them is posted here. If you have any questions about this privacy policy, please send them via e-mail to [privacy@flynax.com](https://web.archive.org/web/20141010173541id_/http%3A//www.flynax.com/privacy@flynax.com)
+www.flynax.com reserves the right to make changes to this policy. Those changes will become effective 30 days after notice of them is posted here. If you have any questions about this privacy policy, please send them via e-mail to [privacy@flynax.com](https://web.archive.org/web/20150531072308id_/http%3A//www.flynax.com/privacy@flynax.com)
