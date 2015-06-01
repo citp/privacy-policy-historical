@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the preapps.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221194224id_/http%3A//www.preapps.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the preapps.com privacy policy that was archived on 2015-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150602012425id_/http%3A//www.preapps.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#" lang="en" dir="ltr"><head>
   <base href="http://www.preapps.com/">
@@ -11,8 +11,11 @@
 	alert('Please enable cookie, your browser cookie is disabled now');
 	}
 </script>
-<script type="text/javascript" src="https://platform.twitter.com/widgets.js" async=""></script>
-<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+<!--script type="text/javascript"  src="https://platform.twitter.com/widgets.js" async></script>
+<script type="text/javascript" src='http://connect.facebook.net/en_US/all.js'></script-->
+
+<script type="text/javascript" src="http://www.preapps.com/application/modules/Core/externals/newhome_js/twitter_widget.js"></script>
+<script type="text/javascript" src="http://www.preapps.com/application/modules/Core/externals/newhome_js/fb_all.js"></script>
 <script type="text/javascript">
 FB.init({appId: "525852900843618",
       status: true,
@@ -47,6 +50,7 @@ FB.init({appId: "525852900843618",
 				var bubble_19 ="<span class='datafont'>+15<br /></span><span class='datafont1'>pts</span>";
 				var bubble_20 ="<span class='datafont'>+15<br /></span><span class='datafont1'>pts</span>";
 			</script>
+   <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.preapps.com/privacy">
 	<link rel="stylesheet" href="http://www.preapps.com/application/modules/Core/externals/newhome_css/animation_bubble.css" media="all">
     <link type="text/css" rel="stylesheet" media="screen" href="http://www.preapps.com/externals/maincss.css">
 	<link type="text/css" rel="stylesheet" media="screen" href="http://www.preapps.com/externals/dev.css">
@@ -70,7 +74,7 @@ FB.init({appId: "525852900843618",
 <script type="text/javascript" src="https://preapps_js.s3.amazonaws.com/canimate2.js.gz?c=76"></script>
 <script type="text/javascript">
     //<![CDATA[
-    Date.setServerOffset('Sun, 21 Dec 2014 19:42:23 +0000');  
+    Date.setServerOffset('Tue, 2 Jun 2015 1:24:24 +0000');  
     en4.orientation = 'ltr';
     en4.core.environment = 'production';
     en4.core.language.setLocale('en');
@@ -144,13 +148,13 @@ FB.init({appId: "525852900843618",
 //anylinkcssmenu.init("menu_anchors_class") ////Pass in the CSS class of anchor links (that contain a sub menu)
 /*anylinkcssmenu.init("anchorclass")*/
 </script>
-
 <div class="topBar"></div>
-<div class="row container relative padR7">
+<div class="row relative padR7">
+<div class="containerin">
 <div class="col alpha">
   <div id="logo"><a href="http://www.preapps.com/"><img src="https://preapps_static_images.s3.amazonaws.com/preapps-logo.png" alt="PreApps" width="151" height="50"></a></div>
 </div>
-<div class="col fr alpha">
+<div class="col fr alpha omega">
   <div class="row relative">
   <div>
 <div class="generic_layout_container layout_core_new_home_signin_signout"><div class="signInBox">
@@ -172,31 +176,101 @@ FB.init({appId: "525852900843618",
 </div>
 <!-- Begin Main Navigation -->
 <nav id="nav" class="col fr alpha">
-  <div class="mainmenu">
+<div class="mainmenu">
+
     <ul id="menu-header-menu" class="topmenu">
-      <li class="menu-item "><a href="http://www.preapps.com/">Home</a></li>
-      <li class="menu-item "><a href="http://www.preapps.com/new-top-apps" title="Top Apps">Top Apps</a>
-      </li>
-      <li class="menu-item "><a href="http://www.preapps.com/app-ideas" title="App Ideas">App Ideas</a></li>
-      <li class="menu-item "><a href="http://www.preapps.com/blogs" title="App News">App News</a></li>
-      <li class="menu-item "><a href="http://www.preapps.com/services" title="Services">Services</a>
-          <ul class="sub-menu">
-              <li class="menu-item"><a class="#" href="http://www.preapps.com/demo-video" title="Demo Video Production">App Demo Video</a></li>
-              <!--li class="menu-item"><a class="#" href="http://www.preapps.com/app-icon-creation" title="App Development">App Icon Creation</a></li-->
-			   <li class="menu-item"><a class="#" href="http://www.preapps.com/app-review-submission" title="App Review Submission">App Review Submission</a></li>
-              <li class="menu-item"><a class="#" href="http://www.preapps.com/app-press-release" title="App Press Release">App Press Release</a></li>
-              <li class="menu-item"><a class="#" href="http://www.preapps.com/app-store-optimization" title="App Store Optimization">App Store Optimization</a></li>
-			  <li class="menu-item"><a class="#" href="http://www.preapps.com/app-development" title="App Development">App Development</a></li>
+      <!--li class="menu-item "><a href="http://www.preapps.com/">Home</a></li-->
+      <li class=" menu-item "><a href="http://www.preapps.com/new-iphone-apps" title="Top Apps">Devices</a>
+      		<ul>
+               <li id="ios" class="menu-item"><a href="http://www.preapps.com/new-iphone-apps" title="iOS">iOS</a>
+               		<ul id="ios" class="sub-menu padleft">
+               			<li class="menu-item"><a href="http://www.preapps.com/new-iphone-apps" title="iPhone Apps">iPhone Apps</a></li>
+               			<li class="menu-item"><a href="http://www.preapps.com/new-ipad-apps" title="iPad Apps">iPad Apps</a></li>
+               		</ul>
+               </li>
+               <li id="android" class="menu-item"><a href="http://www.preapps.com/new-android-apps">Android</a></li>
+               <li id="win8" class="menu-item"><a href="http://www.preapps.com/new-windows-phone-apps">Windows</a>
+               		<ul id="win8" class="sub-menu padleft">
+                        <li><a href="http://www.preapps.com/new-windows-phone-apps">Windows Phone</a></li>
+                        <li><a href="http://www.preapps.com/new-windows-8-apps">Windows 8</a></li>
+                    </ul>
+               </li>
           </ul>
       </li>
-      <li class="menu-item last "><a href="http://www.preapps.com/about-us" title="Developers">About</a>
+      <li id="cat" class=" menu-item "><a href="http://www.preapps.com/new-top-apps">Categories</a> 
+      		<ul id="cat" class="sub-menu padleft">
+      					<li class="menu-item "><a href="http://www.preapps.com/new-top-apps" title="Top Apps">Top Apps</a>
+      					</li>
+            			<li class="new-apps"><a href="http://www.preapps.com/new-apps">New PreApps</a></li>
+                                                                <li><a href="http://www.preapps.com/new-books-apps" class="#" title="New Books Apps"><span>Books</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-featured-apps">Featured Apps</a></li>
+                                                                    <li><a href="http://www.preapps.com/new-education-apps" class="#" title="New Education Apps"><span>Education</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-entertainment-apps" class="#" title="New Entertainment Apps"><span>Entertainment</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-finance-apps" class="#" title="New Finance Apps"><span>Finance</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-food-drink-apps" class="#" title="New Food < Drink Apps"><span>Food &amp; Drink</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-game-apps" class="#" title="New Game Apps"><span>Game</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-health-fitness-apps" class="#" title="New Health < Fitness Apps"><span>Health &amp; Fitness</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-lifestyle-apps" class="#" title="New Lifestyle Apps"><span>Lifestyle</span></a></li>
+                                
+                                                           
+                                                                    <li><a href="http://www.preapps.com/new-medical-apps" class="#" title="New Medical Apps"><span>Medical</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-music-apps" class="#" title="New Music Apps"><span>Music</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-navigation-apps" class="#" title="New Navigation Apps"><span>Navigation</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-news-apps" class="#" title="New News Apps"><span>News</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-photo-video-apps" class="#" title="New Photo < Video Apps"><span>Photo &amp; Video</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-productivity-apps" class="#" title="New Productivity Apps"><span>Productivity</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-reference-apps" class="#" title="New Reference Apps"><span>Reference</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-social-networking-apps" class="#" title="New Social Networking Apps"><span>Social Networking</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-sports-apps" class="#" title="New Sports Apps"><span>Sports</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-travel-apps" class="#" title="New Travel Apps"><span>Travel</span></a></li>
+                                
+                                                           
+                                                                    <li><a href="http://www.preapps.com/new-utilities-apps" class="#" title="New Utilities Apps"><span>Utilities</span></a></li>
+                                
+                                                                <li><a href="http://www.preapps.com/new-weather-apps" class="#" title="New Weather Apps"><span>Weather</span></a></li>
+                                
+                              
+						</ul>
+      </li>
+      <li class="menu-item "><a href="http://www.preapps.com/blogs" title="App News">App News</a></li>
+	  <li class="menu-item "><a href="http://www.preapps.com/app-ideas" title="App Ideas">App Ideas</a></li>  
+          
+      <li class=" menu-item "> <a href="http://www.preapps.com/app-marketing-services/" title="Services">Services</a>
+          
+          
+          <ul class="sub-menu">
+              <li class="menu-item"><a class="#" href="http://www.preapps.com/app-marketing-services/app-demo-video" title="Demo Video Production">App Demo Video</a></li>
+              <!--li class="menu-item"><a class="#" href="http://www.preapps.com/app-icon-creation" title="App Development">App Icon Creation</a></li-->
+			   <li class="menu-item"><a class="#" href="http://www.preapps.com/app-marketing-services/app-review-submissions" title="App Review Submission">App Review Submission</a></li>
+              <li class="menu-item"><a class="#" href="http://www.preapps.com/app-marketing-services/app-press-creation-2" title="App Press Release">App Press Release</a></li>
+              <li class="menu-item"><a class="#" href="http://www.preapps.com/app-marketing-services/app-store-optimization" title="App Store Optimization">App Store Optimization</a></li>
+			  <!-- <li class="menu-item"><a class="#" href="http://www.preapps.com/app-marketing-services/app-development" title="App Development">App Development</a></li> -->
+          </ul>
+            </li>
+      <li class=" menu-item last "><a href="http://www.preapps.com/about-us" title="Developers">About</a>
           <ul class="sub-menu">
               <li class="menu-item"><a class="#" href="http://www.preapps.com/about-us" title="How PreApp Works">How PreApp Works</a></li>
               <li class="menu-item"><a class="#" href="http://www.preapps.com/developer-benefits" title="Developer Benefits">Developer Benefits</a></li>
               <li class="menu-item"><a class="#" href="http://www.preapps.com/testimonial" title="Success Stories">Success Stories</a></li>
 			  <li class="menu-item"><a class="#" href="http://www.preapps.com/app/posting" title="Submit Your App">Submit Your App</a></li>
               <li class="menu-item"><a class="#" href="http://www.preapps.com/featured-options" title="Featured Options">Featured Options</a></li>
-              <li class="menu-item"><a class="#" href="http://www.preapps.com/app/upgrade" title="Upgrade Account">Upgrade Account</a></li>
+              <li class="menu-item"> <a class="#" href="http://www.preapps.com/app/upgrade" title="Upgrade App"> Upgrade App </a> </li>
          
               <li class="menu-item"><a class="#" href="http://www.preapps.com/our-partners" title="Our Partners">Our Partners</a></li>
               <li class="menu-item"><a class="#" href="http://www.preapps.com/app-essential" title="Developer Toolkit">Developer Toolkit</a></li>
@@ -207,97 +281,23 @@ FB.init({appId: "525852900843618",
           </ul>
       </li>
     </ul>
-  </div>
+          </div>
 </nav>
+
 <!-- End Main Navigation -->
+</div>
+</div>
 
-<div>
-<div class="generic_layout_container layout_core_new_home_toplink"><script type="text/javascript" src="https://preapps_js.s3.amazonaws.com/Core/scripts/newhome_js/scripts/cssverticalmenu.js.gz"></script>
-<div class="openMenu">
-  <ul id="verticalmenu" class="glossymenu">
-    <li class="ios"><a href="http://www.preapps.com/new-iphone-apps"><i class="icon"><img src="https://preapps_static_images.s3.amazonaws.com/apple-icon.png" alt="iOS Apps"></i>iOS</a>
-    	<ul>
-        	<li><a href="http://www.preapps.com/new-iphone-apps">iPhone Apps</a></li>
-        	<li><a href="http://www.preapps.com/new-ipad-apps">iPad Apps</a></li>
-		</ul>	
-    </li>
-    <li class="android"><a href="http://www.preapps.com/new-android-apps"><i class="icon"><img src="https://preapps_static_images.s3.amazonaws.com/android-icon.png" alt="Android Apps"></i>Android</a>
-    </li>
-    <li class="win8"><a href="http://www.preapps.com/new-windows-phone-apps"><i class="icon"><img src="https://preapps_static_images.s3.amazonaws.com/win8-icon.png" alt="Windows Apps"></i>Windows</a>
-    	<ul>
-        	<li><a href="http://www.preapps.com/new-windows-phone-apps">Windows Phone</a></li>
-        	<li><a href="http://www.preapps.com/new-windows-8-apps">Windows 8</a></li>
-		</ul>
-    </li>
-    <li class="categories"><a href="#"><i class="icon"><img src="https://preapps_static_images.s3.amazonaws.com/category-icon.png" alt="App Categories"></i>Categories</a>
-            <ul>
-            	<li class="new-apps"><a href="http://www.preapps.com/new-apps">New PreApps</a></li>
-
-            							<li><a href="http://www.preapps.com/new-books-apps" class="#" title="	Books Apps"><span>Books</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-featured-apps">Featured Apps</a></li>
-											<li><a href="http://www.preapps.com/new-education-apps" class="#" title="	Education Apps"><span>Education</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-entertainment-apps" class="#" title="	Entertainment Apps"><span>Entertainment</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-finance-apps" class="#" title="	Finance Apps"><span>Finance</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-food-drink-apps" class="#" title="	Food < Drink Apps"><span>Food &amp; Drink</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-game-apps" class="#" title="	Game Apps"><span>Game</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-health-fitness-apps" class="#" title="	Health < Fitness Apps"><span>Health &amp; Fitness</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-lifestyle-apps" class="#" title="	Lifestyle Apps"><span>Lifestyle</span></a></li>
-                	
-                                   
-                    						<li><a href="http://www.preapps.com/new-medical-apps" class="#" title="	Medical Apps"><span>Medical</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-music-apps" class="#" title="	Music Apps"><span>Music</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-navigation-apps" class="#" title="	Navigation Apps"><span>Navigation</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-news-apps" class="#" title="	News Apps"><span>News</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-photo-video-apps" class="#" title="	Photo < Video Apps"><span>Photo &amp; Video</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-productivity-apps" class="#" title="	Productivity Apps"><span>Productivity</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-reference-apps" class="#" title="	Reference Apps"><span>Reference</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-social-networking-apps" class="#" title="	Social Networking Apps"><span>Social Networking</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-sports-apps" class="#" title="	Sports Apps"><span>Sports</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-travel-apps" class="#" title="	Travel Apps"><span>Travel</span></a></li>
-                	
-                                   
-                    						<li><a href="http://www.preapps.com/new-utilities-apps" class="#" title="	Utilities Apps"><span>Utilities</span></a></li>
-                	
-                						<li><a href="http://www.preapps.com/new-weather-apps" class="#" title="	Weather Apps"><span>Weather</span></a></li>
-                	
-                  
-				</ul>
-    </li>
-    <li class="srch">
-    	<div>
-
- <div class="col searchTop">
-	<form id="global_search_form1" class="search-form" action="/search" method="post" onsubmit="return searchSub()">
-		<input type="image" onclick="document.getElementById('topsubmit').click();" src="https://preapps_static_images.s3.amazonaws.com/find-icon.png" alt="Seach Apps" class="find">
-		<input id="global_search_field" type="text" class="input-box" placeholder="Search" name="query">
-    	<input type="submit" id="topsubmit" style="visibility:hidden;width:0px;height:0px;" alt="Find" class="find">
+<div id="submiUrApp"><a href="http://www.preapps.com/app/posting"><img alt="Submit Your App" src="https://preapps_static_images.s3.amazonaws.com/submit-ur-app.png"></a></div>
+<div id="searchBar">
+    <form id="global_search_form1" class="search-form" action="/search" method="post" onsubmit="return searchSub()">
+		<!--input type="image" onclick="document.getElementById('topsubmit').click();" src="https://preapps_static_images.s3.amazonaws.com/find-icon.png" alt="Seach Apps" class="find"-->
+		<input id="global_search_field" type="text" placeholder="Search" class="search" name="query">
+    	<!--input type="submit" id='topsubmit' style="visibility:hidden;width:0px;height:0px;" alt="Find" class="find"-->
+        <input type="submit" value="" class="search_icon" id="topsubmit">
 	</form>
-</div></div>
-    </li>
-  </ul>
-</div>
-
 </div>
 </div>
-</div>
-
-<div id="submiUrApp"><a href="http://www.preapps.com/app/posting"><img alt="Submit Your App" src="https://preapps_static_images.s3.amazonaws.com/submit-ur-app.png"></a></div></div>
 </div>
 </header>
 <div aria-hidden="true" aria-labelledby="myModalLabel" role="dialog" tabindex="-1" class="modal hide fade" id="myModal" style="display: none;"></div>
@@ -371,7 +371,7 @@ FB.init({appId: "525852900843618",
 .padR9{ padding-right:10px;}
 </style>
     <div class="row marT10 marB25">
-        <div class="col full padL20" style="width:98%;">
+        <div class="full" style="width:100%;">
             <div class="headerWrapper clearfix marB10">
       			<div class="fl">
             		<h2>Featured On:</h2>
@@ -425,7 +425,6 @@ FB.init({appId: "525852900843618",
 				<li><a class="#" href="http://www.preapps.com/contact" title="Contact Us">Contact Us</a></li>
                 <li><a title="white paper" href="http://www.preapps.com/public/white-paper.pdf" target="_blank">White Paper</a></li>
                 <li><a title="press links" href="http://www.preapps.com/press-link">Press Links</a></li>
-                <li><a title="Our team" href="http://www.preapps.com/our-team">Our Team</a></li>
 				<li><a class="#" href="http://www.preapps.com/preapps-images" title="PreApps Images">PreApps Images</a></li>
                
               </ul>
@@ -433,9 +432,10 @@ FB.init({appId: "525852900843618",
             <div class="col services">
               <div class="title">SERVICES &amp; HELP:</div>
               <ul>
-				<li><a class="#" href="http://www.preapps.com/demo-video" title="Demo Video Production">App Demo Video Production</a></li>
+				<li><a class="#" href="http://www.preapps.com/app-demo-video" title="Demo Video Production">App Demo Video Production</a></li>
 				<li><a class="#" href="http://www.preapps.com/app-review-submission" title="App Review Submission">App Review Submission</a></li>
 				<li><a class="#" href="http://www.preapps.com/app-press-release" title="App Press Release">App Press Release</a></li>
+				<li><a class="#" title="App store optimization" href="http://www.preapps.com/app-store-optimization">App Store Optimization</a></li>
                 <li><a title="help" href="http://www.preapps.com/faq">Help &amp; F.&amp;.Q's</a></li>
                 <li><a title="tip n tricks" href="http://www.preapps.com/tips-n-tricks">Tips &amp; Tricks</a></li>
               
@@ -459,7 +459,7 @@ FB.init({appId: "525852900843618",
               </ul>
             </div>
           </div>
-        <div class="copyright_text"> PreApps.com  2014 © All rights reserved.<br>
+        <div class="copyright_text"> PreApps.com  2015 © All rights reserved.<br>
         <!--<a href="http://www.preapps.com/terms" title="term & conditions">Terms & Conditions</a> | <a href="http://www.preapps.com/privacy">Privacy Policy</a>--></div>	
     </div>
  <div style="float: left;width: 110px; height:110px;top:0; z-index:9999" id="canimation2">
