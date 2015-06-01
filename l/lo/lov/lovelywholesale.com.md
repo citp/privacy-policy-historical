@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovelywholesale.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203183859id_/http%3A//www.lovelywholesale.com/article-9-Privacy%2BPolicy%2B.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelywholesale.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602002140id_/http%3A//www.lovelywholesale.com/article-9-Privacy%2BPolicy%2B.html) for the most accurate reproduction.*
 
-# Privacy Policy _Our Store_FAQ_Help Center_Cheap Clothes,Cheap Shoes Online,Wholesale Shoes,Clothing On lovelywholesale.com - LovelyWholesale.com
+# Privacy Policy _Our Store_FAQ_Help Center_LovelyWholesale | Wholesale Shoes,Wholesale Clothing, Cheap Clothes,Cheap Shoes Online. - LovelyWholesale.com
 
 Privacy Policy   
 Lily / 2011-07-14
