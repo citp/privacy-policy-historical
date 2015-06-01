@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205192906id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601042638id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
 
 # Legal Statement and Privacy Policy at Casinomeister
 
@@ -51,7 +51,7 @@
     * [Pitch a Bitch](http://www.casinomeister.com/forums/content.php?r=314-pitch-a-bitch)
     * [The "No Can Do" List](http://www.casinomeister.com/no-can-do-list.php)
     * [Casino Complaints Archive](http://www.casinomeister.com/pitchabitch/index.php)
-    * [2013 Complaint Summary](http://www.casinomeister.com/pitchabitch/full-year_summary_2013.php)
+    * [2014 Complaint Summary](http://www.casinomeister.com/pitchabitch/full-year_summary_2014.php)
 
 | 
 
@@ -67,7 +67,8 @@
 
 | 
 
-  * [Meister Awards](http://www.casinomeister.com/meister_awards/bestworst2013.php)
+  * [Meister Awards](http://www.casinomeister.com/meister_awards/bestworst2014.php)
+    * [2014](http://www.casinomeister.com/meister_awards/bestworst2014.php)
     * [2013](http://www.casinomeister.com/meister_awards/bestworst2013.php)
     * [2012](http://www.casinomeister.com/meister_awards/bestworst2012.php)
     * [2011](http://www.casinomeister.com/meister_awards/bestworst2011.php)
@@ -104,7 +105,7 @@
 ---|---|---|---|---|---|---|---|---  
 |  | 
 
-[home](https://web.archive.org/web/20141205192906id_/http%3A//www.casinomeister.com/index.php) >> This page  
+[home](https://web.archive.org/web/20150601042638id_/http%3A//www.casinomeister.com/index.php) >> This page  
 
 
 | Statement  
@@ -121,13 +122,13 @@ In addition, The information contained herein is not guaranteed to be correct, c
   
 "Pitch a Bitch" section - dealing with player complaints  
 ---  
-Casinomeister does not give personal advice on how to handle player disputes. No funds whatsoever pass through Casinomeister from an operator to the player or visa versa. Casinomeister busts no kneecaps nor does Casinomester make veiled threats of roguedom if casinos don't consider player grievances. Casinomeister’s mission is to provide information and post complaints to help eradicate fraud. Our "Pitch a Bitches" section was developed so that the free flow of information, both good and bad, would protect the consumer. 
+Casinomeister does not give personal advice on how to handle player disputes. No funds whatsoever pass through Casinomeister from an operator to the player or visa versa. Casinomeister busts no kneecaps nor does Casinomeister make veiled threats of roguedom if casinos don't consider player grievances. Casinomeister’s mission is to provide information and post complaints to help eradicate fraud. Our "Pitch a Bitches" section was developed so that the free flow of information, both good and bad, would protect the consumer. 
 
 Naturally, if casinos are non-responsive or are behaving badly, they'll be thrown into the rogue pit.   
   
 Trademark  
 ---  
-Casinomeister® is a registered trademark protected in the US, all member states of the EU, the Russian Federation, and pending in Australia. If this trademark is infringed, we will aggressively enforce our intellectual property rights to the fullest extent of the law, including the seeking of civil remedies and criminal prosecution. 
+Casinomeister® is a registered trademark protected in the US, all member states of the EU, the Russian Federation, and Australia. If this trademark is infringed, we will aggressively enforce our intellectual property rights to the fullest extent of the law, including the seeking of civil remedies and criminal prosecution. 
 
 Intellectual property theft is a crime. Don't do it.   
   
@@ -135,19 +136,20 @@ Privacy Policy
 ---  
 **Email Addresses:** For each visitor to Casinomeister, our Webserver automatically recognizes only the visitor's domain name and the IP address, but not the email address.
 
-However, we collect the email addresses of those who join our forum, the email addresses of those who communicate with us via email, and email addresses volunteered by the visitors such as survey information and/or site registrations.
+However, we collect the email addresses of those who join our forum, our newsletters, our promotions, and those who communicate with us via email.
 
 The email addresses are used to notify visitors about Casinomeister's newsletter or forum announcements. **They are not shared with any other organizations for commercial purposes**.
 
-If you do not want to receive any email from us in the future, please contact me [here](http://www.casinomeister.com/forums/members/casinomeister.html).
+If you do not want to receive any email from us in the future, please contact me [here](http://www.casinomeister.com/forums/member.php?u=1).
 
-**Other Collected Information:** Any other information we collect (Scavenger Hunt survey, Who Wants to be a Casinomeister? Bierfest, etc.) is used for internal purposes and used to improve the content of Casinomeister. It is then discarded. 
+We reserve the right to publish the email addresses of those who post spam in our forum, or who send us abusive "fan" mail. 
+
+**Other Collected Information:**   
+If a member submits a complaint via our "Pitch a Bitch" complaint service, that player gives us explicit permission to share his personal information with the casino in question. The casino in turn is allowed to share information with us concerning this individual, and any information they feel is necessary to assist in the resolution process. This mutual agreement is acknowledged during the submission phase of the complaint. 
 
 Upon request we provide visitors with access to unique identifier information (e.g., their personal login name or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., emails, customer inquiries), or contact information (e.g., name, address, phone number) that we maintain about them.
 
-Consumers can access this information by contacting me [here ](http://www.casinomeister.com/forums/members/casinomeister.html). 
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, or unique identifiers.
+Members can access this information by contacting me [here ](http://www.casinomeister.com/forums/member.php?u=1). 
 
 **Cookies:**  
 Cookies are used in our banner serving software and in our forum. No information is obtained from the user except information from the users' browsers to ensure that different banners are displayed while the user navigates through the site. Cookies used in the forum enable users to have their browsers remember their passwords. This can be turned off by the user in "user control panel" in the forum. We also use cookies to ensure you have only one account in our forum. If you wish to have more than one account in our forum (business and civilian, etc.), or you share your computer with your wife, boyfriend, pet goat, and they would like to open an account, please contact us.
@@ -155,42 +157,44 @@ Cookies are used in our banner serving software and in our forum. No information
 **Security:**   
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact me [here](http://www.casinomeister.com/forums/members/casinomeister.html).   
+If you feel that this site is not following its stated information policy, you may contact me [here](http://www.casinomeister.com/forums/member.php?u=1).   
   
 Top of page | [Home](http://www.casinomeister.com/) | [News](http://www.casinomeister.com/news/) | [Forum](http://www.casinomeister.com/forums/) | [Webcast](http://www.casinomeister.com/webcast/) | [Vortran](http://www.casinomeister.com/vortran.php) | [Accredited Casinos](http://www.casinomeister.com/accredited_casinos.php) | [Evil Ones](http://www.casinomeister.com/rogue/) | [Pitch a Bitch](http://www.casinomeister.com/problems.php) | [Online Gambling Resources](http://www.casinomeister.com/online_gambling_resources.php) | [Poker](http://www.casinomeister.com/poker/)
 
 |   
 ---  
-[Rogue Announcement](http://www.casinomeister.com/rogue/cyber-bets.php)  
+[Rogue Announcement](http://www.casinomeister.com/rogue/)  
   
-Cyber-bets.com - Treacherous Rogue!   
+Treacherous Rogues!   
 
 
-Fake KGC certificate.
+Fake KGC certificate.  
+[Cyber-Bets.com](http://www.casinomeister.com/rogue/cyber-bets.php).
 
-Read about it [here](http://www.casinomeister.com/rogue/cyber-bets.php).  
+Fake Curaçao license  
+[Tobwin](http://www.casinomeister.com/rogue/tobwin.php)  
   
 [Rogue section here...](http://www.casinomeister.com/rogue/)  
 ---  
 [Casinomeister News](http://www.casinomeister.com/news/)  
-[IS YOUTUBE CENSORING SLOT VIDS?](http://www.casinomeister.com/news/november2014/online_casino_news4/IS-YOUTUBE-CENSORING-SLOT-VIDS.php)
+[MEISTER AWARDS ANNOUNCED!](http://www.casinomeister.com/meister_awards/bestworst2014.php)
 
-Reports that channels featuring slots are being closed. Read about it [here](http://www.casinomeister.com/news/november2014/online_casino_news4/IS-YOUTUBE-CENSORING-SLOT-VIDS.php).   
+Best Casino, Worst Casino, Best Casino Group, Worst Casino Group, Evil Marketing Award, Evil Player Award, all this and more!  
   
 Casinomeister's Webcast!
 
 My Vegas trip - The Amazing Protecto's Player Warning  
   
   
-[ONLINE GAMBLING INTERVIEW MAKES FOR TRULY TERRIBLE TELEVISION](http://www.casinomeister.com/news/november2014/online_casino_news4/ONLINE-GAMBLING-INTERVIEW-MAKES-FOR-TRULY-TERRIBLE-TELEVISION.php)
+[LATEST IN PLAYBOY SERIES FROM MICROGAMING](http://www.casinomeister.com/news/october2014/online_casino_news2/LATEST-IN-PLAYBOY-SERIES-FROM-MICROGAMING.php)
 
-Two former Arkansas politicians in a biased and misinformation-riddled exchange of opinions 
+Multiplayer version of popular iconic Playboy-branded slot 
 
-Check it out [**here**](http://www.casinomeister.com/news/november2014/online_casino_news4/ONLINE-GAMBLING-INTERVIEW-MAKES-FOR-TRULY-TERRIBLE-TELEVISION.php)  
+Check it out [**here**](http://www.casinomeister.com/news/october2014/online_casino_news2/LATEST-IN-PLAYBOY-SERIES-FROM-MICROGAMING.php)  
   
 [More news here...](http://www.casinomeister.com/news/)  
     
 [Legal Statements and Privacy Policy](http://www.casinomeister.com/legal.php)   
 Casinomeister.com does not intend for any of the information contained on this website to be used for illegal purposes. You must ensure you meet all age and other regulatory requirements before entering a casino or placing a wager. Online gambling is illegal in many jurisdictions and users should consult legal counsel regarding the legal status of online gambling and gaming in their jurisdictions. The information in this site is for news and entertainment purposes only. Casinomeister.com is an independent directory and information service free of any gaming operator's control. Links to third party websites on Casinomeister.com are provided solely for informative/educational purposes. If you use these links, you leave this Website. 
 
-Copyright 1998-2014. All rights reserved. Casinomeister is a registered trademark ®. 
+Copyright 1998-2015. All rights reserved. Casinomeister is a registered trademark ®. 
