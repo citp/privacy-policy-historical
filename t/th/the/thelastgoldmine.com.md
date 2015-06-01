@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelastgoldmine.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925174352id_/http%3A//www.thelastgoldmine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelastgoldmine.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601232839id_/http%3A//www.thelastgoldmine.com/privacy.php) for the most accurate reproduction.*
 
 # The Last Goldmine
 
