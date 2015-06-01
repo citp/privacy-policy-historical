@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugg.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228031043id_/http%3A//www.uggaustralia.com/on/demandware.store/Sites-UGG-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugg.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601084654id_/http%3A//www.uggaustralia.com/on/demandware.store/Sites-UGG-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
 
 # UGG® Official Site | Privacy Policy
 
