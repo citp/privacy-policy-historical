@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescorealfood.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111043518id_/http%3A//www.tesco.com/termsandconditions/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescorealfood.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602013058id_/http%3A//www.tesco.com/termsandconditions/privacy.htm) for the most accurate reproduction.*
 
 # Tesco.com Privacy policy
 
