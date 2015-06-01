@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tumbledeal.com privacy policy that was archived on 2014-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141216140956id_/http%3A//www.tumbledeal.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tumbledeal.com privacy policy that was archived on 2015-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150602003648id_/http%3A//www.tumbledeal.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" "><head>
 	<title>TumbleDeal.com - Privacy Policy</title>
@@ -13,14 +13,11 @@
 	<link rel="apple-touch-icon" href="http://dmfdbcgq38wo9.cloudfront.net/apple-touch-icon.png">
 	<link href="https://plus.google.com/103425068974240036877" rel="publisher">
 
-	<link href="http://dmfdbcgq38wo9.cloudfront.net/css/normal.css?1418674328" media="all" type="text/css" rel="stylesheet">
-<link href="http://dmfdbcgq38wo9.cloudfront.net/css/phase.css?1418674331" media="all" type="text/css" rel="stylesheet">
-<link href="http://dmfdbcgq38wo9.cloudfront.net/css/custom.css?1418674329" media="all" type="text/css" rel="stylesheet">
+	<link href="http://dmfdbcgq38wo9.cloudfront.net/css/normalize.css?1433198909" media="all" type="text/css" rel="stylesheet">
+<link href="http://dmfdbcgq38wo9.cloudfront.net/css/webflow.css?1433198909" media="all" type="text/css" rel="stylesheet">
+<link href="http://dmfdbcgq38wo9.cloudfront.net/css/phase.css?1433198909" media="all" type="text/css" rel="stylesheet">
+<link href="http://dmfdbcgq38wo9.cloudfront.net/css/custom.css?1433198909" media="all" type="text/css" rel="stylesheet">
 <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" media="all" type="text/css" rel="stylesheet">
-<link href="http://dmfdbcgq38wo9.cloudfront.net/libs/select2/select2.css?1418674329" media="all" type="text/css" rel="stylesheet">
-<link href="http://dmfdbcgq38wo9.cloudfront.net/css/counters/flipResponsive.css?1418674329" media="all" type="text/css" rel="stylesheet">
-<link href="http://dmfdbcgq38wo9.cloudfront.net/css/main.css?1418674331" media="all" type="text/css" rel="stylesheet">
-<link href="http://dmfdbcgq38wo9.cloudfront.net/css/help.css?1418674330" media="all" type="text/css" rel="stylesheet">
 		<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -39,11 +36,11 @@ Tumble.isTablet = false;
 Tumble.isPhone = false;
 Tumble.updatesPerSecond = 1;</script>	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
-<script src="http://dmfdbcgq38wo9.cloudfront.net/js/counters/flipResponsive/flipResponsive.js?1418674330"></script>
-<script src="http://dmfdbcgq38wo9.cloudfront.net/js/libraries.js?1418674325"></script>
-<script src="http://dmfdbcgq38wo9.cloudfront.net/js/main.js?1418674325"></script>
-<script src="http://dmfdbcgq38wo9.cloudfront.net/libs/history.js?1418674330"></script>
-<script src="http://dmfdbcgq38wo9.cloudfront.net/js/help.js?1418674330"></script>
+<script src="http://dmfdbcgq38wo9.cloudfront.net/js/counters/flipResponsive/flipResponsive.js?1433198909"></script>
+<script src="http://dmfdbcgq38wo9.cloudfront.net/js/libraries.js?1433198909"></script>
+<script src="http://dmfdbcgq38wo9.cloudfront.net/js/main.js?1433198909"></script>
+<script src="http://dmfdbcgq38wo9.cloudfront.net/libs/history.js?1433198909"></script>
+<script src="http://dmfdbcgq38wo9.cloudfront.net/js/help.js?1433198909"></script>
 		<script type="text/javascript"> 
 (function(){ 
 var s = document.createElement('script');s.async = true;s.src = ('https:' == window.location.protocol ? 'https://s3.amazonaws.com/' :'http://')
@@ -59,7 +56,7 @@ var s = document.createElement('script');s.async = true;s.src = ('https:' == win
 		});
 
 		$(function(){
-			if(!Tumble.isMobile || $('body').hasClass('bd-help')){
+			if( (!Tumble.isMobile && !$('body').hasClass('bd-results')) || $('body').hasClass('bd-help')){
 				//Zopim chat
 				window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
 					d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
@@ -70,10 +67,27 @@ var s = document.createElement('script');s.async = true;s.src = ('https:' == win
 										$zopim.livechat.button.show();
 				});
 			}
-		})
+		});
 
+		//adroll
+		adroll_adv_id = "LD7FBZWDQRBYXF2ENW23T3";
+		adroll_pix_id = "OOCZATUR45HSRBNZBNPG76";
+		(function () {
+			var oldonload = window.onload;
+			window.onload = function(){
+				__adroll_loaded=true;
+				var scr = document.createElement("script");
+				var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+				scr.setAttribute('async', 'true');
+				scr.type = "text/javascript";
+				scr.src = host + "/j/roundtrip.js";
+				((document.getElementsByTagName('head') || [null])[0] ||
+				document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+				if(oldonload){oldonload()}};
+		}());
 	</script>
 
+	
 </head>
 <body id="backgrounds-home" class="bd-help bd-help-privacy">
 <div class="clear"></div>
@@ -86,15 +100,18 @@ var s = document.createElement('script');s.async = true;s.src = ('https:' == win
 	<a class="w-nav-link mobilemenulink w--nav-link-open events " href="http://www.tumbledeal.com/">EVENTS</a>
 
 			<a class="w-nav-link mobilemenulink w--nav-link-open featured " href="http://www.tumbledeal.com/1/featured/">FEATURED</a>
-			<a class="w-nav-link mobilemenulink w--nav-link-open fashion " href="http://www.tumbledeal.com/24/fashion/">FASHION</a>
-			<a class="w-nav-link mobilemenulink w--nav-link-open jewelry " href="http://www.tumbledeal.com/23/jewelry/">JEWELRY</a>
-			<a class="w-nav-link mobilemenulink w--nav-link-open home " href="http://www.tumbledeal.com/22/home/">HOME</a>
-			<a class="w-nav-link mobilemenulink w--nav-link-open electronics " href="http://www.tumbledeal.com/21/electronics/">ELECTRONICS</a>
-			<a class="w-nav-link mobilemenulink w--nav-link-open lifestyle " href="http://www.tumbledeal.com/25/lifestyle/">LIFESTYLE</a>
+			<a class="w-nav-link mobilemenulink w--nav-link-open fashion " href="http://www.tumbledeal.com/2/fashion/">FASHION</a>
+			<a class="w-nav-link mobilemenulink w--nav-link-open jewelry " href="http://www.tumbledeal.com/3/jewelry/">JEWELRY</a>
+			<a class="w-nav-link mobilemenulink w--nav-link-open home " href="http://www.tumbledeal.com/4/home/">HOME</a>
+			<a class="w-nav-link mobilemenulink w--nav-link-open electronics " href="http://www.tumbledeal.com/5/electronics/">ELECTRONICS</a>
+			<a class="w-nav-link mobilemenulink w--nav-link-open lifestyle " href="http://www.tumbledeal.com/6/lifestyle/">LIFESTYLE</a>
+			<a class="w-nav-link mobilemenulink w--nav-link-open handbags " href="http://www.tumbledeal.com/7/handbags/">HANDBAGS</a>
 	
 			<a class="w-nav-link mobilemenulink login w--nav-link-open" href="https://www.tumbledeal.com/auth/login" onclick="return Tumble.PopManager.showTemplate('login');">Sign In</a>
 		<a class="w-nav-link mobilemenulink register w--nav-link-open" href="https://www.tumbledeal.com/welcome?_r=1">Join Now</a>
 	
+	<a class="w-nav-link mobilemenulink myaccount w--nav-link-open" href="http://www.tumbledeal.com/help/support">HELP</a>
+
 
 	</nav>
 
@@ -104,10 +121,10 @@ var s = document.createElement('script');s.async = true;s.src = ('https:' == win
 	<div class="w-nav header">
 		<div class="w-container">
 
-			<div id="mobilemenubutton_back" class="w-nav-button mobilemenubutton w-hidden-main w-hidden-medium">
+						<div id="mobilemenubutton_back" class="w-nav-button mobilemenubutton w-hidden-main w-hidden-medium">
 				<div id="mobilemenuicon" class="mobilemenuicon"></div>
 			</div>
-
+			
 
 			<!--LOGO-->
 						<a class="w-nav-brand brand" href="http://www.tumbledeal.com/">
@@ -166,12 +183,13 @@ var s = document.createElement('script');s.async = true;s.src = ('https:' == win
 				</li>
 
 									<li id="bucket-1" class="submenulistitem"><a class="submenulink featured " href="http://www.tumbledeal.com/1/featured/">FEATURED</a></li>
-									<li id="bucket-24" class="submenulistitem"><a class="submenulink fashion " href="http://www.tumbledeal.com/24/fashion/">FASHION</a></li>
-									<li id="bucket-23" class="submenulistitem"><a class="submenulink jewelry " href="http://www.tumbledeal.com/23/jewelry/">JEWELRY</a></li>
-									<li id="bucket-22" class="submenulistitem"><a class="submenulink home " href="http://www.tumbledeal.com/22/home/">HOME</a></li>
-									<li id="bucket-21" class="submenulistitem"><a class="submenulink electronics " href="http://www.tumbledeal.com/21/electronics/">ELECTRONICS</a></li>
-									<li id="bucket-25" class="submenulistitem"><a class="submenulink lifestyle " href="http://www.tumbledeal.com/25/lifestyle/">LIFESTYLE</a></li>
-				
+										<li id="bucket-2" class="submenulistitem"><a class="submenulink fashion " href="http://www.tumbledeal.com/2/fashion/">FASHION</a></li>
+										<li id="bucket-3" class="submenulistitem"><a class="submenulink jewelry " href="http://www.tumbledeal.com/3/jewelry/">JEWELRY</a></li>
+										<li id="bucket-4" class="submenulistitem"><a class="submenulink home " href="http://www.tumbledeal.com/4/home/">HOME</a></li>
+										<li id="bucket-5" class="submenulistitem"><a class="submenulink electronics " href="http://www.tumbledeal.com/5/electronics/">ELECTRONICS</a></li>
+										<li id="bucket-6" class="submenulistitem"><a class="submenulink lifestyle " href="http://www.tumbledeal.com/6/lifestyle/">LIFESTYLE</a></li>
+										<li id="bucket-7" class="submenulistitem"><a class="submenulink handbags " href="http://www.tumbledeal.com/7/handbags/">HANDBAGS</a></li>
+					
 			</ul>
 		</div>
 	</div>
@@ -376,18 +394,18 @@ Oklahoma City, OK 73104</p>
 			<div id="contentoverlay" class="contentoverlay"></div>
 		</div>
 		
-<div class="footer">
+<div class="footer " id="footer">
 	<div class="w-container">
 		<div class="footercolumn">
 			<div class="footertitle">DISCOVER</div>
-			<a class="footerlink" href="http://www.tumbledeal.com/help/#how-it-works">How it Works</a>
-			<a class="footerlink" href="http://www.tumbledeal.com/help/#about-us">About Us</a>
+			<a class="footerlink" href="http://www.tumbledeal.com/help/how_it_works">How it Works</a>
+			<a class="footerlink" href="http://www.tumbledeal.com/help/about">About Us</a>
 			<a class="footerlink" href="http://www.tumbledeal.com/help/privacy">Privacy Policy</a>
 			<a class="footerlink" href="http://www.tumbledeal.com/help/terms">Terms &amp; Conditions</a>
 		</div>
 		<div class="footercolumn">
 			<div class="footertitle">GET&nbsp;HELP</div>
-			<a class="footerlink" href="http://www.tumbledeal.com/help/#faq">FAQs</a>
+			<a class="footerlink" href="http://www.tumbledeal.com/help/contents">FAQs</a>
 			<a class="footerlink" href="http://www.tumbledeal.com/help/email">Email Support</a>
 			<a class="footerlink" href="http://www.tumbledeal.com/help">Live Chat</a>
 			<a class="footerlink" href="http://www.tumbledeal.com/help/returns">Shipping &amp; Returns</a>
@@ -402,11 +420,11 @@ Oklahoma City, OK 73104</p>
 			<a alt="twitter" class="footericon twitter" href="https://twitter.com/TumbleDeal"></a>
 			<a alt="google" class="footericon pinterest" href="https://www.pinterest.com/TumbleDeal"></a>
 			<a class="footerlink" href="#" style="display:none;">Refer Friends, Earn Cash!</a>
-			<div class="footercopyright">©&nbsp;<span title="32">tumbledeal.com.</span> <span title="0.03">All Rights Reserved</span></div>
+			<div class="footercopyright">©&nbsp;<span title="177">tumbledeal.com.</span> <span title="0.048">All Rights Reserved</span></div>
 		</div>
 	</div>
 </div>
-	</div>
+			</div>
 </div>
 
 
@@ -432,7 +450,8 @@ Oklahoma City, OK 73104</p>
 		js.src = "//connect.facebook.net/en_US/all.js";
 		fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));
-</script>
+
+	</script>
 
 
 
