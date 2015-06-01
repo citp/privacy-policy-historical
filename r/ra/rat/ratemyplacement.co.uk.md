@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223133315id_/http%3A//www.ratemyplacement.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601085835id_/http%3A//www.ratemyplacement.co.uk/privacy) for the most accurate reproduction.*
 
 # Rate My Placement - Guides on helping you find a placement or internship
 
