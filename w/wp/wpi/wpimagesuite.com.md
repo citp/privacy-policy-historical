@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpimagesuite.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227014355id_/http%3A//wpimagesuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpimagesuite.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602001324id_/http%3A//wpimagesuite.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
