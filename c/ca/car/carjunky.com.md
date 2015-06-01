@@ -1,64 +1,117 @@
-> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011124930id_/http%3A//www.carjunky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunky.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601103138id_/http%3A//www.carjunky.com/privacypolicy/index.php) for the most accurate reproduction.*
 
-# CarJunky.com - Privacy Statement
+# Privacy Policy
 
-|  | 
+CarJunky.com recognizes the importance of maintaining your privacy. We value our relationship with you and we appreciate the trust you show in providing information to us. Explaining how we collect, use and protect customer information is, therefore, of utmost importance to us.
 
-* * *
+This privacy policy ("Privacy Policy") applies to **www.CarJunky.com** (the "Site", "Web Site", "we", or "us"). The Policy is designed to tell you how we collect and use personal information (as defined below) so you can make an informed decision about using CarJunky.com . Please read this statement before using CarJunky.com or submitting any personal information to us. **We reserve the right to change the provisions of this Privacy Policy at any time. We will notify you of these changes by posting a revised Privacy Policy on CarJunky.com and indicating on the Privacy Policy the date it was last updated. Your use of CarJunky.com following the posting of such changes or revised statement shall constitute your consent to any such changes.** We encourage you to review our Privacy Policy whenever you visit CarJunky.com to determine if any changes have been made and to make sure that you understand how any personal information you provide will be used.
 
-**
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING THIS WEB SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY DESCRIBED HEREIN, AND ALL UPDATES THERETO AND ALL ADDITIONAL TERMS, GUIDELINES AND DISCLOSURES INCORPORATED BY REFERENCE. YOU ACCEPT THIS PRIVACY POLICY BY ACTUALLY USING THIS WEB SITE OR ITS SERVICES. IN THIS CASE, YOU UNDERSTAND AND AGREE THAT CARJUNKY.COM WILL TREAT YOUR USE OF THE WEB SITE AS ACCEPTANCE OF THIS PRIVACY POLICY, FROM THAT POINT ONWARDS.
 
-## Our Mission
+CARJUNKY.COM DOES NOT PUBLISH CONTENT THAT IS TARGETED TO CHILDREN
 
-**
+If you are under age 13, please do not attempt to use this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.
 
-To make a unique place where any carjunky / carjunkie can come and find any automotive site their looking for. To communicate with other carjunkies about information on racing, repairing, upgrading, restoring their vehicles and any other car related topic. 
+We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices.
 
-## Privacy Statement
+This Privacy Policy applies to all of the software, apps, applications, products, services and Web Sites offered by CarJunky.com or any of its subsidiaries or affiliated companies.
 
-CarJunky.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: CarJunky.com.
+The entire content of this website is copyrighted to Carjunky.com and should never be reproduced/copied to another website without written authorization from the owner.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests.
+Websites that are scraping content in the form of RSS feeds, bots, or manual methods will be reported to their web host with a DMCA take down notice.
 
-This site contains links to other sites. **CarJunky.com** is not responsible for the privacy practices or the content of such Web sites.
+**Information Collected and "Cookies"**
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+This section of our Privacy Policy applies to all information collected by or submitted to CarJunky.com . The information that we collect from you helps us personalize and continually improve upon your CarJunky.com shopping experience. You have the option not to provide certain information; however, withholding information may prevent you from being able to take full advantage of some of our Web Site's features.
 
-## Public Forums
+When you visit our Site, we automatically receive and store any information you enter on our Web Site. For example, you provide information when you: search for a product; place an order through CarJunky.com ; place an item in your shopping cart; browse our Site; provide information in your account; communicate with us by phone, chat, or e-mail; complete a questionnaire or any other way. As a result of those actions, you might supply us with such information as your: name, address, e-mail address, phone numbers, financial information (such as credit card or similar payment information), transactional information (based on your activities on the Site and content you generate or that relates to your account), shipping information, billing information (and other information you provide to purchase or ship an item), community discussions, chats, dispute resolution, correspondence through the Site, and correspondence sent to us. We use this information to market products to you on the Site and through e-mail, do internal research on your interests, and to help us better understand and serve you.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+We also store certain types of information when you interact with us on our Site. For example, we use "cookies" and can obtain certain information from your web browser. By transferring these alphanumeric identifiers or "cookies" that your browser creates at our request in an approved and standardized place on your computer, CarJunky.com assigns you a unique customer code and records information about your activity on our Site. When you visit or return to our Site, we read the cookie to identify you as one of our customers and help you recall orders or preferences you have selected. The cookie also enables us to recall your past activities, post your account data, send e-mail to you, and tailor Site elements and special offers to you. The cookie does not retain your billing information, nor does it save any of your personally identifiable information in an explicit fashion. Most Web browsers accept cookies by default, but allow users to reject cookies by changing the browser preferences. If you have set up your browser to reject cookies, some aspects of our Site, including our Shopping Cart, will not work properly. This privacy statement covers the use of cookies by CarJunky.com only and does not cover the use of cookies by any advertisers.
 
-## Supplementation Information
+Whenever you interact with us and our Site, we collect, store, and analyze some data about you, which may include the full Uniform Resource Locator (URL) click stream to, through and from our Web Site, including date and time; cookie number; products you viewed or searched for or placed in your shopping cart; and the phone number you used to call our 800 number. Your IP address is used for CarJunky.com internal use only and helps us diagnose problems with our server and administer our Web Site. We also automatically track certain information about your activities on our Site. These may include: browser type and version, operating system and platform, statistics on page views, traffic to and from the Site, ad data, standard web log information, and purchase history. We use this information to market products to you on the Site and through e-mail, do internal research on your interests, and to help us better understand and serve you. If you are a registered CarJunky.com customer or if you make a purchase on our Site, we link this automatically-collected data to your personally identifiable information. We may collect and measure session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
-We do not sell the information obtained from our user. This includes emails, address and any other contact information. The only time you will receive a message from us is you signed up for one of our services such as classifieds, autoforums, news, or newsletters. We have automated emailing applications that will contact our users to inform them of a response. 
+When you purchase products from us you are required to provide us with your email address. We use your email address to keep you updated on the status of your order. We use this to send you your order confirmation, tracking numbers and other pertinent information about your order such as notifications on shipping delays. You will also receive product updates, recommendations, special announcements as well as email-only discounts from carjunky.com . You can always stop these emails by clicking on the unsubscribe link found on every email we send you or by emailing us at _privacy@carjunky.com_. We respect your privacy and will never rent or sell your email address to external marketing companies.
 
-## Information Contained on the Site
+We might also receive information about you from other sources and add it to our account information. Examples of these include: updated delivery and address information from our carriers or other third parties (which we use to correct our records and deliver your next purchase or communication more easily); page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information including paid listings. Supplemental information received from third parties may also include credit history information from credit bureaus and third-party credit card fraud detection services, which we use to help prevent and detect fraud . Also, if the information you provide cannot be verified, we may ask you to send us additional information (such as your driver license, credit card statement, and/or a recent utility bill or other information confirming your address), or to answer additional questions online to help verify your information.
 
-Copyright �1999-2009 by CARJUNKY®, all rights reserved. CARJUNKY®,Carjunkies® are registered trademarks of CARJUNKY.com. All other trademarks, tradenames and/or service marks are the property of their respective holders. Although all information and prices contained herein are obtained from sources deemed to be reliable, CARJUNKY® assumes no responsibility for the accuracy of the information and no liability for any errors and/or omissions. Even though forum members are here on their free will please double check with a professional of the the information found herein. All information is subject to change without notice. For legal Advice please seek professional advice. 
+We use third-party advertising companies to serve ads on our behalf. These companies may use a cookie or an action tag to track your response to their advertisement and to measure the effectiveness of their advertising or to award incentives or points to their members who respond to their advertisements. CarJunky.com has no access to or control over these cookies. By using these action tags CarJunky.com does not gain access to any of your information collected by these advertisers nor does it share any of your personally identifiable information such as your name, telephone number or address with these companies unless the advertiser or CarJunky.com otherwise notifies you. Please [click here](http://www.networkadvertising.org/) in order to learn more about the information collection practices of some of the third-party advertising companies we may use. Please [click here](http://www.networkadvertising.org/choices/) in order to learn more about the "opt-out" procedures of some of the third-party advertising companies we may use.
 
-## Third Party Advertisers "Google"
+**Retargeting**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+CarJunky.com is part of the Google AdWords Remarketing program. Google Remarketing may assign a cookie to track visitors coming and leaving pages or areas of a website. This information is then used to generate Remarketing Lists of visitors that left the site from that particular area or page and may be used to tailor and serve ad content on the Google Display Network that target these groups of users.
 
-## Choice/Opt-Out
+CarJunky.com has no access to or control over these third party cookies and does not gain access to any of your information collected by Google nor does it share any of your personally identifiable information such as your name, telephone number, e-mail, and home address with the Google Display Network of sites unless the site or CarJunky.com otherwise notifies you. If you choose to customize your ads preferences or outright prevent Google's use of cookies during your browsing sessions, you may do so by visiting the **Google Advertising Opt-out page**. Alternatively, you may also choose to opt out of receiving cookies from other third party ad servers simultaneously through the **Network Advertising Initiative (NAI) Opt-out Tool**.
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+CarJunky.com occasionally enters into cooperative marketing arrangements with independent companies. Under these cooperative marketing arrangements, our Site may display the name and/or brand(s) of the independent company. Personally identifiable information that you supply to us while you are on our Site, whether or not our Site displays a name or brand of another company, will be handled in accordance with this CarJunky.com Privacy Policy and will not be shared with the cooperative marketing company unless CarJunky.com otherwise notifies you.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+**Use of Information**
 
-  1. You can send email to carjunkywebteam @ aol dot com
+To carry out certain business functions, such as order fulfillment or e-mail delivery, we sometimes hire other companies to perform these functions on our behalf. These companies have access to the information needed to perform their functions, but are required to keep it secure and confidential and not use it for any other purpose than completing their contractual requirements to CarJunky.com . As a part of the normal process of completing your purchase, CarJunky.com may provide your personal data to a third party payment processor, depending on your chosen method of payment. Any credit card or similar payment information you submit is used in billing for the specific transaction in which the information was submitted unless otherwise disclosed. Payment information is stored for a time on our secure servers to allow the processing of refunds or to respond to customer inquiries.
+
+From time-to-time CarJunky.com may provide you the opportunity to participate in contests or surveys on our Site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.
+
+CarJunky.com may use aggregate, non-personally identifying information for purposes that we deem necessary. For instance, we will use this non-identifying and aggregate information to better design our Web Site and to share with advertisers for marketing and promotional purposes. However, in these instances we do not disclose anything that could be used to identify you. We do not use or share the personally identifiable information provided to us online in ways unrelated to the ones described herein without providing you an opportunity to opt-out of such operations.
+
+It is possible that in the future CarJunky.com or its assets may be acquired by another company. It is also possible that CarJunky.com may partner with or purchase another company to continue to do business as a combined entity. In the event that this occurs, it is possible that our customer information may be transferred to the new business entity as one of CarJunky.com assets. In such an event, we will update this Privacy Policy to notify you of such change in ownership or control of your personal information.
+
+**Compliance with Law and Fraud Protection**
+
+We may collect and disclose any information, including personally identifiable and transactional information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. We may collect and possibly share personally identifiable information and any other information available to us in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any personal or as otherwise required by law. We may also exchange information, including personally identifiable information, with other companies and organizations for credit fraud protection and risk reduction.
+
+**Secure Encryption**
+
+We use Secure Socket Layer (SSL) technology, which is supported by the vast majority of modern Internet browsers. SSL works best when you are using the latest 128-bit encryption version of Microsoft Internet Explorer. SSL technology represents the highest level of security available on the Internet. It automatically encrypts information traveling over the Internet, verifies the identity of the transacting servers through certificates and digital signatures, and confirms that the integrity of message content is maintained throughout transmission.
+
+CarJunky.com minimum requirement for transactions is the standard 40-bit or 56-bit encryption supported by the Internet Explorer 5.0 browser. If you are not using this browser, please refer to your browser's documentation for information on its security features. We transmit the entire credit card number to the appropriate credit card company during order processing, but we reveal only the last four digits of your credit card numbers when confirming an order in compliance with Payment Card Industry Data Security Standard.
+
+**Credit Card Security**
+
+Our servers use Secure Sockets Layer (SSL), an encryption technology that works with Netscape, Microsoft Internet Explorer, AOL, and Apple's Safari's browser. This ensures that only CarJunky.com can read your personal information. We reveal only the last four digits of your credit card numbers when confirming an order. We will, however, transmit the entire credit card number to the appropriate credit card company during order processing.
+
+After you click on the "checkout" button, be sure that the Site's URL always begins with https://www.CarJunky.com / The "s" in "https://" at the beginning of the URL means you are logging into a secure page. If the URL does not begin with https, you are not on any CarJunky.com page.
+
+CarJunky.com has also obtained a digital certificate from Network Solutions, a leading provider of Internet trust services. When you enter a secured portion of our Site, an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small popup window displaying site-security information will appear. This certificate guarantees that your personal information is being transmitted in a secure (encrypted) form to an CarJunky.com Web server, not to an unknown or unauthorized server.
+
+CarJunky.com is regularly tested and certified to pass industry-leading third party security assessment services testing. This industry-leading third party security assessment services testing helps protect you from identity theft and credit card fraud.
+
+Ultimately, your personal information is protected by the password you created when you registered for an account at CarJunky.com on the "Log-In / Quick Checkout" page. Please keep this password confidential. No representative of CarJunky.com will ever ask you for your password. The confidentiality of your password is yours to protect.
+
+**Information Security**
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to employees, contractors and agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+**Public Forums and Communication**
+
+**Public Forum** " means an area, site or feature offered as part of any CarJunky Site that offers the opportunity for users to submit content (" **User Submissions** ") for viewing by one or more CarJunky Site users, including without limitation a message board, forum, social community environment, conversation page, or blog.
+
+You acknowledge that Public Forums and features offered therein are for public and not private communications, and you have no expectation of privacy with regard to any User Submission to a Public Forum. We cannot guarantee the security of any information you disclose through any of these media; you make such disclosures voluntarily and at your own risk. You should use good judgment when posting information, remarks or other content regarding other users, service providers, CarJunky or any other third party. You may be held legally responsible for damages suffered by other users, CarJunky or third parties as a result of legally actionable or defamatory comments, remarks or other information or content which you post to a CarJunky Site. CarJunky is not legally responsible for any User Submissions, even if a User Submission is defamatory or otherwise legally actionable.
+
+You are and will remain solely responsible for the User Submissions you distribute on or through any CarJunky Site in any Public Forum and for the consequences of submitting and posting same. We have no duty to monitor any Public Forum. You will be solely liable for any damage resulting from any infringement of copyrights, proprietary rights, or any other harm resulting from a User Submission. By submitting material to any CarJunky Site, you automatically grant, or warrant that the owner of such material has expressly granted, CarJunky the royalty-free, perpetual, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate and distribute such material (in whole or in part) worldwide and/or to incorporate it in other works in any form, media or technology now known or hereafter developed for the full term of any copyright or other rights that may exist in such material. You also permit any other user to access, view, store or reproduce the material for that user's personal use. You hereby grant CarJunky the right to edit, copy, publish and distribute any material you make available on any CarJunky Site.
+
+You acknowledge that your use or reliance upon any User Submission posted in any Public Forum is at your own risk. For example, we are not responsible for, and we do not endorse, the opinions, advice, or recommendations posted or sent by users in any Public Forum and we specifically disclaim any and all liability in connection therewith. We do not confirm nor verify the qualifications, background, or abilities of users or the information they post in any Public Forum. Therefore, we recommend that you be careful and exercise common sense and good judgment when using any CarJunky Site or Public Forum.
+
+Rules of Conduct: you agree that you will not submit any User Submission on any CarJunky Site that:
+
+  1. is defamatory, abusive, harassing, threatening, or an invasion of a right of privacy of another person;
+  2. is bigoted, hateful, or racially or otherwise offensive;
+  3. is violent, vulgar, obscene, pornographic or otherwise sexually explicit, or otherwise harms or can reasonably be expected to harm any person or entity;
+  4. is illegal or encourages or advocates illegal activity or the discussion of illegal activities with the intent to commit them, including a User Submission that is, or represents an attempt to engage in, child pornography, stalking, sexual assault, fraud, trafficking in obscene or stolen material, drug dealing and/or drug abuse, harassment, theft, or conspiracy to commit any criminal activity;
+  5. infringes or violates any right of a third party including: (a) copyright, patent, trademark, trade secret or other proprietary or contractual rights; (b) right of privacy (specifically, you must not distribute another person's personal information of any kind without their express permission) or publicity; or (c) any confidentiality obligation;
+  6. is commercial, business-related or advertises or offers to sell any products, services or otherwise (whether or not for profit), or solicits others (including solicitations for contributions or donations);
+  7. contains a virus or other harmful component, or otherwise tampers with, impairs or damages the CarJunky Sites or any connected network, or otherwise interferes with any person or entity's use or enjoyment of the CarJunky Sites;
+  8. (a) does not generally pertain to the designated topic or theme of the relevant Public Forum; (b) violates any specific restrictions applicable to a Public Forum, including its age restrictions and procedures; or (c) is antisocial, disruptive, or destructive, including "flaming," "spamming," "flooding," "trolling," and "griefing" as those terms are commonly understood and used on the Internet; or
+  9. is false or misleading.
 
 
 
-## Correct/Update
+We cannot and do not assure that other users are or will be complying with the foregoing Rules of Conduct or any other provisions of these Terms of Use, and, as between you and us, you hereby assume all risk of harm or injury resulting from any such lack of compliance.
 
-This site gives users the following options for changing and modifying information previously provided. 
+We reserve the right, but disclaim any obligation or responsibility, to refuse to post or communicate or remove any User Submission from any CarJunky Site that violates these Terms of Use (including the Rules of Conduct).
 
-  1. email webmaster at carjunky dot com
+**Changes to this Privacy Policy**
 
+This Privacy Policy was last modified on August 29, 2014.
 
+Please note that this Privacy Policy may change at any time. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. We will post any Privacy Policy changes on this page.
 
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  CarJunky.com Admin at [Webmaster@carjunky.com](mailto:webmaster@carjunky.com) |   
----|---
+Close
