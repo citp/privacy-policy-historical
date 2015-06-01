@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifbappliances.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132430id_/http%3A//www.ifbappliances.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifbappliances.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601194131id_/http%3A//www.ifbappliances.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
