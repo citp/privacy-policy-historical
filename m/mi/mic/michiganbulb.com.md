@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224062249id_/http%3A//www.michiganbulb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601040114id_/http%3A//www.michiganbulb.com/privacy_policy) for the most accurate reproduction.*
 
 # Flower Bulbs, Shrubs, Ornamental Grasses, Groundcover, Plants Discount, Plant Garden and Perennials - MI Bulb, MichiganBulb.com
 
-DECEMBER SPECIAL: FREE $20.00 Off Any Order Of $40 Or More! Expires: December 31, 2014
+JUNE SPECIAL: FREE $20.00 Off Any Order Of $40 Or More! Expires: June 30, 2015
 
 This is the Website of Michigan Bulb Company
 
