@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualdj.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604194757id_/http%3A//www.virtualdj.com/atomixproductions/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualdj.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601085516id_/http%3A//www.virtualdj.com/atomixproductions/disclaimer.html) for the most accurate reproduction.*
 
 # VIRTUAL DJ SOFTWARE - Disclaimer
 
