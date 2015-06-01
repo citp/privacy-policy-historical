@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmeetings.com privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205073428id_/http%3A//americanmeetings.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmeetings.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602003024id_/http%3A//americanmeetings.com/privacy-policy-2) for the most accurate reproduction.*
 
 # American Meetings, Inc. – Corporate Meetings, Conference Management & Meeting Planning Companies
 
