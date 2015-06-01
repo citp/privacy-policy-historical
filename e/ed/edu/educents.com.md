@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the educents.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701171924id_/http%3A//www.educents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educents.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601064004id_/http%3A//www.educents.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Educents
 
-The Educents privacy policy (the “Privacy Policy”) is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and other information you submit to us through Educents. By accessing or otherwise using the Educents websites, e-mails or other services (collectively “Educents”), you agree to the terms and conditions of this Privacy Policy (which is incorporated into and forms a part of the Educents [Terms & Conditions](https://www.educents.com/national-deals/page/terms-and-conditions) and consent to the processing of your information according to the Privacy Policy.
+The Educents privacy policy (the “Privacy Policy”) is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and other information you submit to us through Educents. By accessing or otherwise using the Educents websites, e-mails or other services (collectively “Educents”), you agree to the terms and conditions of this Privacy Policy (which is incorporated into and forms a part of the Educents [Terms & Conditions](https://www.educents.com/terms-conditions) and consent to the processing of your information according to the Privacy Policy.
 
 • To personalize your experience  
 (your information helps us to better respond to your individual needs)
