@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121003342id_/http%3A//www.settingforfour.com/about/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601021258id_/http%3A//www.settingforfour.com/about/disclosure-policy) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policies - Setting for Four
 
@@ -30,7 +30,7 @@ This policy is valid from 08 March 2013
   
   For questions about this blog, please contact  Heather at [settingforfour@gmail.com](mailto:settingforfour@gmail.com).
 
- This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+ Occasionally this blog accepts forms of compensation in the form of cash advertising, sponsorship, affiliate links, paid insertions or other forms of compensation.
 
  This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.
 
