@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706031714id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602000032id_/https%3A//www.adspeed.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
@@ -34,7 +34,7 @@ To help our members with the service, we provide forums and message boards to me
 
 #### Spyware and Deceptive Advertising
 
-Our [Terms of Service](https://web.archive.org/Knowledges/2/Content/Terms_Service.html) clearly states our policy against spyware, adware and deceptive advertising. We take actions promptly to protect your privacy and our own reputation. [Learn more](https://web.archive.org/Knowledges/223/Technical/howto_remove_spyware_malware_computer.html)
+Our [Terms of Service](https://web.archive.org/Terms-of-Service.html) clearly states our policy against spyware, adware and deceptive advertising. We take actions promptly to protect your privacy and our own reputation. [Learn more](https://web.archive.org/Knowledges/223/Technical/howto_remove_spyware_malware_computer.html)
 
 #### General
 
@@ -44,15 +44,15 @@ If you have any questions about this privacy statement, or the practices of AdSp
 
 ## Testimonials
 
-  * > This is SO EASY that it takes no knowledge on HTML programming or anything. Your options are incredible, not sure how you do it. I just really wanted to say THANK YOU!
+  * > I LOVE AdSpeed. This has been terrific for my website.
 > 
-> _John L_  
->  Trending123
+> _Mark F_  
+>  Harvard Magazine
 
-  * > I am very happy with your service.
+  * > Thank you very much! I greatly appreciate it.
 > 
-> _Philipp Schwörbel_  
->  berlinmedien.net
+> _Steve Ingels_  
+> 
 
 
 
