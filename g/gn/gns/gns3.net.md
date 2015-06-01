@@ -1,106 +1,87 @@
-> *The following text is extracted and transformed from the gns3.net privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908141610id_/http%3A//www.gns3.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gns3.net privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601100029id_/http%3A//www.gns3.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - GNS3
+# GNS3
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+_Last Updated: October 14, 2014_
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
+At GNS3 we value the confidentiality and security of information about our community members and the organizations they represent. This GNS3 Privacy Policy describes how we handle personal and company information when you use the GNS3 software ("Software") and Community Portal ("Portal"), including the details provided when you sign up for the community and download the GNS3 software (collectively, the Portal and the Software are referred to as the "Platform"). 
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+## Introduction
 
-**What do we use your information for?**
+The Platform eliminates the need for physical hardware infrastructure when designing and building new networks combined with the power of a strong community. This community is where Network Professionals can go to get information on network products and services plus advice and expertise from their peers. 
 
-Any of the information we collect from you may be used in one of the following ways:
+## Why We Collect Information
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+GNS3 collects information and data to in order to help us refine the Platform - with the goal of providing a more enhanced user experience. We always strive to customize the user experience based on the unique environment and circumstances of the user, therefore your feedback is key to help us achieve this goal. In gathering this information it enables GNS3 to connect you with other Network Professionals in the Portal, provide you with up to date information and discussions that you might be interested in, and bring information about new network products and services that you may need. 
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+## What Information We Collect
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+When you sign up for a GNS3 account, we ask you for personal information such as your name, email address, company name and network certifications to create a profile ("Profile"). For your convenience, we allow you to register to join GNS3 by using log in credentials from third-party social networking sites ("SNS") such as Facebook. If you register via a SNS, you will be providing us with the some of the personal information you have already provided to the SNS. With the exception of your email which is never viewable, some of the information provided from your SNS may be viewable by persons who visit GNS3 which you can control by editing your GNS3 profile. This information is never shared with third parties without your permission.
 
-; To process transactions
+If you chose to complete the personal information sections of your Profile you should be aware that this information is visible to other users (the "Community"). Personally identifiable information you submit to your profile, any of our forums or discussion groups are considered publicly available outside the GNS3 network and can be read, collected, or used by other members of the Community to send you unsolicited messages. You may edit and delete this information at any time, but in some cases this may impact your ability to use the Platform. To request removal of your personal information from our Community contact us at [privacy@gns3.com](mailto:privacy@gns3.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+## Cookies
 
-; To administer a contest, promotion, survey or other site feature
+GNS3 uses cookies, alphanumeric identifiers in the form of text files that are stored on your computer, to make GNS3 easier to use, to improve our content marketing, and to protect you and GNS3. You can remove or block cookies using the settings in your browser, but in some cases that may impact your ability to use the GNS3.
 
-; To send periodic emails
+Where we use third party service providers acting on our behalf, they are required to abide by this Privacy Policy. Many of the advertisements you see when using GNS3 have been placed by third parties. These third parties may choose to use their own cookies for the purposes of collecting information relating to the viewing of their advertising. This Privacy Policy is intended to cover the use of cookies implemented by GNS3 and does not describe third party cookies in detail.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+## How We Use Your Information
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We use your email address to contact you about administrative notices, community activity, product updates, offers and promotions, and general news about GNS3 and our partners. The frequency of these emails varies based on the type of notification. You can manage your email preferences with respect to content and delivery or you may unsubscribe from all emails about GNS3 and our partners.
 
-**How do we protect your information?**
+We may use third party service providers to help us deliver parts of the Platform. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use a third party service to manage our email marketing campaigns. This system stores your name, email address and the date on which you registered. The Platform provider is required to adhere to all terms and conditions of this privacy policy.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+We may share anonymous aggregated information with third parties outside of GNS3, such as advertisers and market research firms approved by GNS3, for their marketing purposes. For example, we share with advertisers the breakdown of our user community by region and industry. When we share such information it does not identify you or your company individually.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We also work with a third party to monitor certain pages of the Platform for the purpose of reporting traffic and other advertising statistics. Where authorized by us, this third party may use cookies and/or other monitoring technologies to compile anonymous statistics about our visitors. No personally identifiable information is transferred to this third party.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+## How We Disclose Your Information
 
-**Do we use cookies?**
+GNS3 does not sell or rent your personal information or data and will disclose your personal information only in the following circumstances: 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+  * to analyze usage and improve the Platform;
+  * to fulfill users requests for certain products upgrades, information and services;
+  * for market research, project planning and protecting against error, fraud or other criminal activity;
+  * to third-party contractors that provide services to GNS3 and are bound by these same privacy restrictions;
+  * to enforce GNS3 Terms of Use; or
+  * when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets, including as a result of a merger, financing, acquisition, or bankruptcy transaction or proceeding; 
+  * to respond to lawful requests and legal processes and for safety purposes;
+  * to comply with laws; or 
+  * as otherwise set forth in this Privacy Policy.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## Your Choices
 
-**Third party links**
+You can uninstall the Software through the "Add or Remove Programs" Control Panel at any time. When you uninstall the Software, the Software will be deleted. Once deleted it cannot be recovered. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+If your personal or company information changes, you may update your information using the "Preferences" link or by clicking on your photo icon at the top of the Portal. GNS3 gives you full control over the content and information that you chose to disclose as part of your user profile and can edits the contents on an ongoing basis. 
 
-**California Online Privacy Protection Act Compliance**
+GNS3 will retain the information that you have provided in your profile and throughout the community so as long as your account is active. If you would like to terminate your account in the Portal please contact [accounts@gns3.com](mailto:accounts@gns3.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+## Information Confidentiality and Security
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+Access to your information is limited to GNS3 employees and contracted third parties, as needed, in order to operate, develop or improve our Platform. These individuals are bound by confidentiality obligations. They may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. When we use third parties to assist us, we require that they comply with all the same confidentiality and security measures. Nevertheless, no security system is impenetrable. We cannot and do not guarantee that information that you transmit or otherwise supply will be secure. **GNS3 EXPRESSLY DISCLAIMS ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR COLLECTED INFORMATION OR ANY OTHER INFORMATION THAT YOU PROVIDE TO US THROUGH THE PLATFORM.**
 
-**Children’s Online Privacy Protection Act Compliance**
+## Third-Party Sites
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Please be aware that other websites that may be accessed through the Platform may collect personally identifiable information about you. Please note that the privacy policies of these sites may differ from those of GNS3. GNS3 is not responsible for the privacy policies and practices of any linked website. This Privacy Policy does not cover the information practices of those third-party websites linked to our site. We encourage you to read the privacy statement of any website you may visit.
 
-**Illegal Content**
+Parts of the Platform includes Social Media Features, such as the Facebook Like button and Widgets, such as the Google Maps button or interactive mini-programs that run on our website. These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-GNS3.net does not host or promote the use of illegal or pirated content and software. GNS3 should only be used by those with legal access to the IOS they are using.
+## Children's Privacy
 
-**Company Affiliation  
-**
+This service is not intended for or directed to persons under the age of 13. Any person who provides their information to the Company through the account login page for new customers or any other part of the Platform represents to the Company that they are 13 years of age or older.
 
-GNS3 has no affiliation with CISCO Systems, Juniper, Redhat, nor Microsoft.
+## Changes to Privacy Statement
 
-**Online Privacy Policy Only**
+GNS3 may update its privacy policy from time to time. When we change the policy in a material way a prominent notice will be posted on our website along with the updated privacy policy prior to the changes becoming effective. Please check this URL frequently to see the latest version of this policy.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+## Feedback
 
-**Terms and Conditions**
+If you have comments on the GNS3 team on our software, community portal or customer support, please send us an email to [feedback@gns3.com](mailto:feedback@gns3.com). Please note that by doing so, you also grant GNS3 and third parties permission to use and incorporate your ideas or comments into the Platform (or third party software or content) without further compensation or approval.
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms/) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
-
-**Your Consent**
-
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
-
-This policy was last modified on 18/11/2012
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://www.gns3.net
-
-Box 174  
-Calgary, Alberta T1T 1T1  
-Canada  
-webmaster@gns3.net
+The information contained in this web site is subject to change without notice.  
+Copyright © 2007-2014 GNS3 Technologies, Inc. All rights reserved.  
+GNS3 Technologies, Inc. 288, 200 - Rivercrest Drive SE Calgary, AB, T2T 2X5
