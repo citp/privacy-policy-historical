@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829070731id_/http%3A//www.bikini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601235745id_/http%3A//www.bikini.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BIKINI.COM
+# Privacy Policy | Bikinis, Swimwear, The Bikini & Beach Lifestyle | BIKINI.COM
 
 This Privacy Policy describes Bikini.com, LLC.'s policies on the collection and use of your information.  Please review it carefully as it applies to those websites owned or controlled by Bikini.com, LLC, its affiliates and subsidiaries ("Bikini.com, LLC," "us," or "we") on which it is posted (the "Sites").  This Privacy Policy does not apply to those of our websites that do not display or link to this Privacy Policy or that have their own privacy policy or to information we may collect from you or about you in other ways, including through emails you may send to us.
 
