@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinktime.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628161707id_/http%3A//www.rinktime.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinktime.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601095918id_/http%3A//www.rinktime.com/privacy.cfm) for the most accurate reproduction.*
 
 # Skating Rink Directory - Privacy Policy
 
