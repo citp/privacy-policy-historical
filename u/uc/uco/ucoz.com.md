@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224232916id_/http%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601152959id_/http%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
 
 # uCoz - Login to the System
 
@@ -68,7 +68,7 @@ We have a strict policy against spyware and adware and apply this to all uCoz us
 
 **Refund Policy**
 
-uCoz has a 30-day refund period. Refund can be requested at any time during subscription period, except for the first month from it's activation date (the moment of first payment). Refund can be done only for period that was not used by user, starting from 1st day of the next month following after refund request (e.g. if refund was requested on May 12th, in that case the period starting from June 1st will be refunded). The request shall include a significant reason for the refund. All requests would be processed and solved individually depending on the arguments provided. If you think that you shall be refunded, please contact us
+You can request a refund at any time. The sum to be refunded amounts to the sum remaining in your website account less the fee of the payment system and one month's cost of the selected plan for early termination. The request shall include a significant reason for the refund. The refund process may take up to 30 days. All requests will be processed and resolved individually, depending on the arguments provided. If you think that you shall be refunded, please contact us.
 
 **Your Consent**
 
