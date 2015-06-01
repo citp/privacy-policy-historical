@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tobook.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625062954id_/http%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tobook.com privacy policy that was archived on 2015-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150601023118id_/https%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><!--teta--><head>
   <title>toBook.com - Privacy policy</title>
@@ -70,7 +70,7 @@ function SignIn()
   }
   
   xmlHttp = GetXmlHttpObject();
-  var url="http://www.tobook.com/ajaxSignInCustomer.asp";
+  var url="https://www.tobook.com/ajaxSignInCustomer.asp";
 	url = url +"?sid=" + Math.random();
   url = url + "&username=" + guestEmail;
   url = url + "&pw=" + guestPassword;
@@ -109,7 +109,7 @@ function SignOut(customerID){
     return false;
   }
   xmlHttp = GetXmlHttpObject();
-  var url="http://www.tobook.com/ajaxSignOutCustomer.asp";
+  var url="https://www.tobook.com/ajaxSignOutCustomer.asp";
   //url = url +"?sid=" + Math.random();
   //url = url + "&id=" + customerID;
   xmlHttp.onreadystatechange = function()
@@ -127,7 +127,7 @@ function SignOut(customerID){
   xmlHttp.open("GET", url, true);
   xmlHttp.send(null);	
 	
-	location.assign("http://www.tobook.com/");
+	location.assign("https://www.tobook.com/");
 	xmlHttp = GetXmlHttpObject();
   var url="https://www.tobook.com/ajaxSignOutCustomer.asp";
   //url = url +"?sid=" + Math.random();
@@ -136,14 +136,14 @@ function SignOut(customerID){
   { 
     if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
     {
-        location.assign("http://www.tobook.com/");
+        location.assign("https://www.tobook.com/");
 				location.reload();
 			//location.reload();
 			//var url="https://www.tobook.com/ajaxSignOutCustomer.asp";
 			//xmlHttp.open("POST", url, true);
 			//xmlHttp.send(null);
 			alert("https");
-			location.href="http://www.tobook.com/";
+			location.href="https://www.tobook.com/";
 			//			location.assign("http://www.tobook.com/");
 		//location.reload();
 		}
@@ -177,7 +177,7 @@ function SignUp(){
   }
   
   xmlHttp = GetXmlHttpObject();
-  var url="http://www.tobook.com/ajaxSignUpCustomer.asp";
+  var url="https://www.tobook.com/ajaxSignUpCustomer.asp";
   url = url +"?sid=" + Math.random();
   url = url + "&username=" + guestEmail;
   url = url + "&pw=" + guestPassword;
@@ -274,16 +274,17 @@ function SignUp(){
 		
 			My bookings
 			
-	</a> 
+	</a>
 	&nbsp;|&nbsp;
 	
 	
-<a class="dark" href="/Feedback.asp">
+<a class="dark" href="https://www.tobook.com/Feedback.asp">
 	Feedback<!--Feedback-->
 </a>
 <script>
 	$(function() {
 			$( "#tabs" ).tabs();
+         //alert('a');
 	});
 </script>
 
@@ -415,6 +416,8 @@ function SignUp(){
 
       <option value="51" class="normal">South African Rand (ZAR)</option>
 
+      <option value="74" class="normal">South Korean Won (KRW)</option>
+
       <option value="59" class="normal">Sweden Kronor (SEK)</option>
 
       <option value="60" class="normal">Swiss Francs (CHF)</option>
@@ -435,7 +438,7 @@ function SignUp(){
   </div>
 	<!-- breadcrump -->
   <div>
-    <a href="/">
+    <a href="https://www.tobook.com/">
       <img src="/images/tobook-logo-white-bg-220_61.jpg" id="logo" title="tobook.com logo" style="width:10%" alt="tobook.com logo">
     </a>
   </div>
@@ -457,7 +460,7 @@ function SignUp(){
 
 <div class="breadcrumb">
 
-  <a class="dark" href="/">World<!--World--></a>
+  <a class="dark" href="https://www.tobook.com/">World<!--World--></a>
 
 </div>
 
@@ -468,6 +471,7 @@ function SignUp(){
                 </div>
 
                 <div style="clear:both">								
+
 
                   <div id="mainPane" style="margin-top:1%;">									
 
@@ -533,7 +537,7 @@ function SignUp(){
                 </p>
                 <p>
                 If you have any questions about this privacy statement or would like more information about our 
-                company, please <a class="dark11" href="about.asp#contactus">contact us</a>.
+                company, please <a class="dark11" href="https://www.tobook.com/about.asp#contactus">contact us</a>.
                 </p>
               <!-- END OF THE CONTENT -->
             </td>
@@ -547,30 +551,31 @@ function SignUp(){
                   
   
   <div class="footer white">
-    <a class="white" href="/">Home<!--Home--></a>&nbsp;
-    <a class="white" href="/help/help.asp?topic=homepage">Help<!--Help--></a>&nbsp;
-    <a class="white" href="/about.asp">About us<!--About us--></a>&nbsp;   
+    <a class="white" href="https://www.tobook.com/">Home<!--Home--></a>&nbsp;
+    <a class="white" href="https://www.tobook.com/help/help.asp?topic=homepage">Help<!--Help--></a>&nbsp;
+    <a class="white" href="https://www.tobook.com/about.asp">About us<!--About us--></a>&nbsp;   
 		
-		<a class="white" href="/products_services/">Products &amp; Services<!--Products--></a>&nbsp;		
+		<a class="white" href="https://www.tobook.com/products_services/">Products &amp; Services<!--Products--></a>&nbsp;		
 		
 		<!--
 		
 		
 		< tb : a class="white" href="/tool/engine/EngineDescription.asp" >< tb : txt id="536">Products< / tb : txt >< / tb : a >&nbsp;
 		-->
-    <a class="white" href="/contactus.asp">Contact us<!--Contact us--></a>&nbsp;
-    <a class="white" href="/privacy.asp">Privacy policy<!--Privacy policy--></a>&nbsp;
-    <a class="white" href="/partner/partner.asp">Affiliate<!--Affiliate--></a>&nbsp;
-    <a class="white" href="/newsletter/newsletter.asp">Newsletter<!--Newsletter--></a>&nbsp;
+    <a class="white" href="https://www.tobook.com/contactus.asp">Contact us<!--Contact us--></a>&nbsp;
+    <a class="white" href="https://www.tobook.com/privacy.asp">Privacy policy<!--Privacy policy--></a>&nbsp;
+    <a class="white" href="https://www.tobook.com/partner/partner.asp">Affiliate<!--Affiliate--></a>&nbsp;
+    <a class="white" href="https://www.tobook.com/newsletter/newsletter.asp">Newsletter<!--Newsletter--></a>&nbsp;
 
-    <a class="white" href="/jobs.asp">Jobs<!--Jobs--></a>&nbsp;
-    <a class="white" href="/sitemap/sitemap.asp">Sitemap<!--Sitemap--></a>&nbsp;
-    <a class="white" href="/Advantages.asp">Hotel Login<!--Hotel Login--></a> 
+    <a class="white" href="https://www.tobook.com/jobs.asp">Jobs<!--Jobs--></a>&nbsp;
+    <a class="white" href="https://www.tobook.com/sitemap/sitemap.asp">Sitemap<!--Sitemap--></a>&nbsp;
+    <a class="white" href="https://www.tobook.com/Advantages.asp">Hotel Login<!--Hotel Login--></a> 
     <a class="white" href="http://mobile.tobook.com">Mobile<!--mobile--></a>
-    <a class="white" href="/NewHotelList.asp">Recently added<!--Recently added--></a>
-	<a class="white" href="/Register1.asp">Register your property</a>&nbsp;&nbsp;©&nbsp;2013    
+    <a class="white" href="https://www.tobook.com/NewHotelList.asp">Recently added<!--Recently added--></a>
+	<a class="white" href="https://www.tobook.com/Register1.asp">Register your property</a>&nbsp;&nbsp;©&nbsp;2013    
   </div>
   <div class="footer white">This website uses cookies. <!--This website uses cookies.--> </div>
+
                 </div>
 								
               </div>
@@ -580,6 +585,25 @@ function SignUp(){
       </div>
     </div>
   </div>
+	<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 988057315;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/988057315/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 
 
