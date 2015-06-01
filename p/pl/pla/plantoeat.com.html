@@ -1,83 +1,94 @@
-<!--The following is the downloaded HTML source of the plantoeat.com privacy policy that was archived on 2014-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141121014017id_/http%3A//www.plantoeat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plantoeat.com privacy policy that was archived on 2015-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150601221502id_/http%3A//www.plantoeat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
-<!--[if IE]>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"transactionName":"clpaQERfCg5dQxYWUVZQRxseXxIKXUMQ","errorBeacon":"bam.nr-data.net","beacon":"beacon-6.newrelic.com","applicationTime":30,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js","ttGuid":"","queueTime":21,"applicationID":"157235","licenseKey":"fc311df502"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQGVUVSDQQCV1Q="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-    <![endif]-->
-<script type="text/javascript" async="" src="//widget.uservoice.com/my5qRMm3CBeJmmy2yyGnw.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=1422821094608558&amp;version=v2.0"></script><script>if(navigator.userAgent.match(/IEMobile\/10\.0/) || navigator.userAgent.match(/IEMobile\/11\.0/)){var msViewportStyle=document.createElement("style");msViewportStyle.appendChild(document.createTextNode("@-ms-viewport{width: 720px !important}"));document.getElementsByTagName("head")[0].appendChild(msViewportStyle);}</script>
-<meta charset="utf-8">
- 
-<meta name="viewport" content="width=640px">
-<title>Plan to Eat - Web Site Terms and Conditions of Use</title>
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-<meta name="Description" content="We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.">
-<meta name="verify-v1" content="gy51+n7Z3R/Nv8CpQPt8JtL/MB70qY4hk/7y3e5pAlg=">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="msapplication-TileImage" content="/mstile-144x144.png">
-<link href="https://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet" type="text/css">
-<link href="https://plus.google.com/113418299050594998586" rel="publisher">
-<link rel="image_src" href="http://pte.s3.amazonaws.com/a/simple-meal-planning-280280.gif">
-<meta property="og:image" content="http://pte.s3.amazonaws.com/a/simple-meal-planning-280280.gif">
-<script src="http://assets.plantoeat.com/assets/proErrorLogging.js?8b3f501" type="text/javascript"></script><link rel="canonical" href="http://www.plantoeat.com/privacy"> <script src="http://assets.plantoeat.com/javascripts/modernizr/modernizr.min.js?8b3f501" type="text/javascript"></script>
-<link href="http://assets.plantoeat.com/assets/proPublic.css?8b3f501" media="all" rel="stylesheet" type="text/css"> <link href="/font/fontello.min.css?8b3f501" media="all" rel="stylesheet" type="text/css">
-<link href="http://assets.plantoeat.com/assets/proPrint.css?8b3f501" media="print" rel="stylesheet" type="text/css"> <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
-    <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
-    <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
-    <![endif]-->
-<link href="http://fonts.googleapis.com/css?family=Oswald:700" rel="stylesheet">
-<link href="http://fonts.googleapis.com/css?family=Sanchez:400" rel="stylesheet">
-<link href="http://fonts.googleapis.com/css?family=Playfair+Display:700italic" rel="stylesheet">
-<style type="text/css" media="screen"></style>
-<script type="text/javascript">
-        // Prevent links in standalone web apps opening Mobile Safari - https://gist.github.com/kylebarrow/1042026
-    </script>
-</head>
-<body class="public"><script type="text/javascript">
-//<![CDATA[
-try{(function(a){var b="http://",c="www.plantoeat.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
-//]]>
+<link href="//fonts.googleapis.com/css?family=Oswald:700|Arvo:400,700|Playfair+Display:700italic" rel="stylesheet">
+<link href="/font/fontello.min.css" rel="stylesheet">
+  <!--[if IE]>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <![endif]-->
+  <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=18"></script><script type="text/javascript" async="" src="//widget.uservoice.com/my5qRMm3CBeJmmy2yyGnw.js"></script><script>if(navigator.userAgent.match(/IEMobile\/10\.0/) || navigator.userAgent.match(/IEMobile\/11\.0/)){var msViewportStyle=document.createElement("style");msViewportStyle.appendChild(document.createTextNode("@-ms-viewport{width: 720px !important}"));document.getElementsByTagName("head")[0].appendChild(msViewportStyle);}</script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!--<meta name="viewport" content="width=640px">-->
+    <title>Plan to Eat - Web Site Terms and Conditions of Use</title>
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+  <meta name="Description" content="We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.">
+  <meta name="verify-v1" content="gy51+n7Z3R/Nv8CpQPt8JtL/MB70qY4hk/7y3e5pAlg=">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <link href="https://plus.google.com/113418299050594998586" rel="publisher">
+  <link rel="image_src" href="http://pte.s3.amazonaws.com/a/simple-meal-planning-280280.gif">
+  <meta property="og:image" content="http://pte.s3.amazonaws.com/a/simple-meal-planning-280280.gif">
+<link rel="canonical" href="http://www.plantoeat.com/privacy">  <link href="http://assets.plantoeat.com/assets/proPublic.css?0c02f05" media="all" rel="stylesheet" type="text/css">  <link href="/assets/proPrint.css?0c02f05" media="print" rel="stylesheet" type="text/css">  <!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+  <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+  <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+  <![endif]-->
+  <style type="text/css" media="screen">
+
+</style>
+  <script type="text/javascript">
+// Prevent links in standalone web apps opening Mobile Safari - https://gist.github.com/kylebarrow/1042026
 </script>
-<header class="pte-header">
-<div class="row">
-<div class="pte-shadow"><img src="/images/header_shadow.png"></div>
-<a href="/welcome" class="pte-logo"><img src="/images/pte_logo_hd.png" width="220" height="96"></a>
-<a class="button pte-tryit show-for-medium-up" href="/signup/">Try It Free For 30 Days<i class="icon-right-dir icon-right right"></i></a>
-<div class="pte-nav">
-<a href="/login" class="nav-login"><i class="icon-lock"></i>LOG IN</a>
-<div class="pte-main-nav">
-<a href="/welcome" class="show-for-medium-up"><i class="icon-home"></i>HOME</a>
-<a href="/tour/"><i class="icon-direction"></i>TOUR</a>
-<a href="/blog/"><i class="icon-chat"></i>BLOG</a>
-</div>
-</div>
-</div>
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+
+
+<body class="public">
+
+
+
+
+
+
+
+    <header class="pte-header" style="display: block">
+    <div class="row">
+        <div class="pte-shadow"><img alt="Header_shadow" height="44" src="http://assets.plantoeat.com/images/header_shadow.png?0c02f05" width="943"></div>
+        <a href="/welcome" class="pte-logo"><img alt="Pte_logo_hd" height="96" src="http://assets.plantoeat.com/images/pte_logo_hd.png?0c02f05" width="220"></a>
+        <a class="button pte-tryit show-for-medium-up" href="/signup/">Try It Free For 30 Days<i class="icon-right-dir pos-right right"></i></a>
+        <div class="pte-nav">
+            <a href="/login" class="nav-login"><i class="icon-lock"></i>LOG IN</a>
+            <div class="pte-main-nav">
+                <a href="/welcome" class="show-for-medium-up"><i class="icon-home"></i>HOME</a>
+                <a href="/tour/"><i class="icon-direction"></i>TOUR</a>
+                <a href="/blog/"><i class="icon-chat"></i>BLOG</a>
+            </div>
+        </div>
+    </div>
 </header>
+
+
+
 <div id="main" class="pte-main header-spacer">
-<section class="pte-main-section">
-<div class="row pte-main-section-relative">
-<div class="pte-main-section-left show-for-medium-up">
-<div class="pte-main-section-left-top"></div>
-<div class="pte-main-section-left-crap"></div>
-</div>
-<div class="pte-main-section-right show-for-medium-up">
-<div class="pte-main-section-right-top"></div>
-<div class="pte-main-section-right-crap"></div>
-</div>
-<div class="content">
+        <section class="pte-main-section">
+            <div class="row pte-main-section-relative">
+                <div class="pte-main-section-left show-for-medium-up">
+                    <div class="pte-main-section-left-top"></div>
+                    <div class="pte-main-section-left-crap"></div>
+                </div>
+
+                <div class="pte-main-section-right show-for-medium-up">
+                    <div class="pte-main-section-right-top"></div>
+                    <div class="pte-main-section-right-crap"></div>
+                </div>
+
+                <div class="content">
 <p class="text-right"><strong>Last updated:</strong> 4/25/2013</p>
+
 <h2>About the Plan to Eat Privacy Policy</h2>
 <p>At Plan to Eat (www.plantoeat.com), we recognize the importance of your privacy. It’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use and disclose it. </p>
 <p>With these concerns in mind, we’ve developed the Plan to Eat Privacy Policy, outlined below. This Privacy Policy explains Plan to Eat’s privacy practices for visitors to our Web site at Plan to Eat (the “Web site”). By using our Web site, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Plan to Eat Terms and Conditions. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will post a new policy on the Web site and update the “last updated” date set forth above. Therefore, we encourage you to check our Privacy Policy whenever you visit the Web site to see if it has been updated since your last visit. If you have any questions about our Privacy Policy, you can contact us at support@plantoeat.com.</p>
+
 <h3>Types of Information We Collect</h3>
 <ul><li><strong>Personal Information:</strong> Personal information is information to specifically identify an individual, such as a customer’s name, address, telephone number, e-mail address, credit card or other account number, and information about that individual’s activities when directly linked to that person such as information about his or her purchases. Personal information also includes demographic information, such as date of birth, gender, geographic area, and preferences, when such information is linked to other personal information that identifies the individual.</li>
 <li><strong>Aggregate Information:</strong> Personal information does not include “aggregate” information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use a service might be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Likewise, information about the products you purchase might be collected and combined with information about the products purchased by others. Aggregate data helps us understand trends and customer needs so that we can better consider new products and services, and tailor existing products and services to customer desires. We might share aggregate information about our users with third parties for various purposes, such as helping us better understand and improve our services, and for advertising and marketing purposes.</li></ul>
+
+
 <h3>How We Collect and Use Personal Information</h3>
 <p>Plan to Eat collects personal information from you at several different points on our Web site, as set forth below. In general, we use personal information for the purpose for which it was collected (such as to provide services or complete transactions you have requested, for billing purposes, and to anticipate and resolve problems with our Web site and our products and services), for our own internal business operations, to respond to customer support inquiries and for other purposes as described below.</p>
+
 <h3>Registration, Purchases; Other Information Submissions</h3>
 <ul><li>When you register to become a member on our Web site, you are asked to create a unique username and password. We might also request certain information about your tastes and preferences (such as your favorite food, purchases or recipes).</li>
 <li>Information you provide during registration might be used for some or all of the following:
@@ -88,28 +99,38 @@ try{(function(a){var b="http://",c="www.plantoeat.com",d="/cdn-cgi/cl/",e="img.g
 <ul><li>for editorial purposes, such as when you submit a recipe to us (e.g., to attribute your submitted recipe to you);
 to contact you for any reason regarding content you have submitted to the Web site (e.g., to ask you a question about a recipe you have submitted); and</li>
 <li>to identify you by name when posting content you submit to us on the Web site (e.g., when you request a recipe on the Web site, to post your name and a description of the recipe you are requesting).</li></ul></li>
-<li> If, during or immediately following registration, you choose to view offers for goods and services that are available from selected third party companies (“Co-Registration Vendors”), we will make certain contact and demographic information you provide during registration (e.g., name, age, and/or e-mail address) available to these vendors. If you request goods or services from a Co-Registration Vendor, you might be asked to submit additional demographic and other personal information. The Co-Registration Vendor might use your registration information which we provide to it, along with any information you submit directly to it, to fulfill, or secure fulfillment of, your request. For additional information about disclosure of your personal information to our Co-Registration Vendors, and their use thereafter, please see the “Disclosure of Personal Information” section below.</li>
+
+<li>	If, during or immediately following registration, you choose to view offers for goods and services that are available from selected third party companies (“Co-Registration Vendors”), we will make certain contact and demographic information you provide during registration (e.g., name, age, and/or e-mail address) available to these vendors. If you request goods or services from a Co-Registration Vendor, you might be asked to submit additional demographic and other personal information. The Co-Registration Vendor might use your registration information which we provide to it, along with any information you submit directly to it, to fulfill, or secure fulfillment of, your request. For additional information about disclosure of your personal information to our Co-Registration Vendors, and their use thereafter, please see the “Disclosure of Personal Information” section below.</li>
+
 <li>Any information that is not personally identifiable information but is publicly displayed on the Web site (such as user name and photos) might appear in the results of searches conducted on Internet search engines while you are a member of the Web site and potentially for some time period after your membership is terminated, depending upon the search engine’s indexing practices.</li></ul>
+
 <h3>Communication</h3>
 <p>As a Plan to Eat member, you will receive our transactional business communications (e.g. e-mail address confirmation, administrative messages, etc.) at your e-mail address or street address. In addition you might be automatically enrolled in one or more of our e-mail subscription programs. While we reserve the right to send you our transactional business communications without offering you the opportunity to opt-out of receiving them, we do provide you with the opportunity to select whether or not you wish to continue to receive our subscription-based e-mails. You will also be given the opportunity to select whether to receive promotional offerings, such as renewal notifications and new product offerings.</p>
+
 <h3>E-mail and Newsletters</h3>
 <p>When you submit your e-mail address to us to initiate a subscription to one of our newsletters we ask for personal information such as your name and e-mail address. This personal information is only used to send you the newsletter(s) you have requested. You might opt-out of such follow-up contacts by following the instructions in the newsletter. Please also note that we use a “double opt-in” process to confirm your subscription to our newsletters. When you initiate a subscription to one of our e-mail newsletters, we send a confirmation e-mail message to the e-mail address. We only subscribe your e-mail address to the newsletter after you follow the steps in the confirmation e-mail message. We do not use a double opt-in confirmation process for alerts.</p>
+
 <h3>E-mail-A-Friend</h3>
 <p>When you elect to use our referral service for e-mailing a recipe or other content to a friend, we ask you for your friend’s name and e-mail address. Plan to Eat will automatically send your friend a one-time e-mail on your behalf which contains the recipe or other content, and which invites your friend to visit the Web site. Plan to Eat uses your friend’s name and e-mail address only to send this one-time e-mail, and does not store this information. If your friend does not wish to receive “e-mail-a-friend” messages to be sent on your behalf, he or she must contact you directly. Plan to Eat users may not use our referral service to send unwanted spam to others.</p>
+
 <h3>Invite-A-Friend</h3>
 <p><strong>When You Use “Invite-A-Friend” or other referral services</strong> </p>
 <p>If you elect to use any of our referral services for informing a friend about our Site or any portion thereof, you will be asked to provide your friend’s name and e-mail address. We will then automatically send the friend a one-time e-mail (usually including your name and email address) inviting them to visit the Site. We ask for this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program.
 </p>
 <h3>Public Forums</h3>
-<p> We may offer chat rooms, message boards, bulletin boards, blogs or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.</p>
+<p>	We may offer chat rooms, message boards, bulletin boards, blogs or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.</p>
+
 <h3>Contests, Promotions, Offers, and Surveys</h3>
 <p>From time to time our Web site requests personal information from users via contests, promotions, offers and surveys. Participation in these contests, promotions, offers, and surveys is completely voluntary and you therefore may choose whether to disclose personal information in connection with these activities. Personal Information requested in these activities might include contact information (e.g., your name and shipping address) and demographic information (e.g., your zip code or age level). We use this information to notify you if you’ve won and to award prizes. We use information we collect in surveys for internal purposes, such as to ascertain the use of this Web site and improve its usefulness to you. We might also provide third parties with this information, and might combine it with some or all of your registration information. Third parties might use the information we provide them to contact you regarding products or services of interest to you. These disclosures are discussed in greater detail below in the “Disclosure of Personal Information” section. When we provide information collected during a contest, promotion, offer, or survey on the Web site to third parties, we always disclose this to you at the time of collection.</p>
+
 <h3>Customer Service</h3>
 <p>We collect personal information when you submit comments, questions or suggestions to our customer service department. We use the information you provide to respond to your submission and use the ideas to make site improvements.</p>
+
 <h3>Cookies, Web Beacons, and Log Files </h3>
 <ul><li><strong>Cookies: </strong> We use “cookie” technology on our Web site. We might place one or more cookies in the browser file of your computer. Although such cookies do not contain any personally identifying information about you, we might link this information to personal information about you. If we do, we will treat it as personal information under this Privacy Policy. We use cookies to provide functional information about your browser, which is recorded in the Web site’s logs and which allows us to provide a better experience on our Website. We also use cookies to gather broad demographic information and general usage patterns about you and other users of our Web site. In the course of placing advertisements on this Web site, our third-party advertisers may place or recognize a unique cookie on your browser. We use cookies to enhance and personalize your experience on the Web site, including helping authenticate you when you use the Web site, remembering your preferences and registration information and customizing the content, and advertisements provide tot you join the Web site. For example, storing a cookie on your computer allows you to log in without typing the registered e-mail address or registration number and password. We also use cookies to deliver information and fresh content specific to your interests. If you do not want these cookies stored on your computer you can reject cookies by modifying your browser settings accordingly (each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences). However, if you choose to reject cookies, you might not be able to access products and services we offer which require you to “login” or “sign in”. Please also note certain types of e-mails available through the Web site might automatically log you in to the Web site and/or set new cookies when you click on the links in the e-mails and you might need to manually remove such cookies if you do not want them to be set on your computer. See section titled “Third-Party Web site Advertising - General” below for additional information about cookies.</li>
-<li> <strong>Web Beacons:</strong> We use, and permit third parties to use, “Web beacons” (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) on our Web site and in our e-mail newsletters, to monitor the effectiveness of advertising and for other lawful purposes. These Web beacons do not collect personally identifying information about you on our Web site.</li>
-<li><strong> Log Files:</strong> We track log files on our Web site (i.e., we log your computer’s IP address into our log files when you visit a page on our Web site) and use them to analyze trends, administer the Web site, track your movements on the Web site, and gather broad demographic information for aggregate use. We might link some or all of this information to personally identifiable information that is stored on a cookie in your computer. We only use information gathered from these activities for our internal marketing and operational purposes.</li></ul>
+<li>	<strong>Web Beacons:</strong> We use, and permit third parties to use, “Web beacons” (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) on our Web site and in our e-mail newsletters, to monitor the effectiveness of advertising and for other lawful purposes. These Web beacons do not collect personally identifying information about you on our Web site.</li>
+<li><strong>	Log Files:</strong> We track log files on our Web site (i.e., we log your computer’s IP address into our log files when you visit a page on our Web site) and use them to analyze trends, administer the Web site, track your movements on the Web site, and gather broad demographic information for aggregate use. We might link some or all of this information to personally identifiable information that is stored on a cookie in your computer. We only use information gathered from these activities for our internal marketing and operational purposes.</li></ul>
+
 <h3>Disclosure of Personal Information</h3>
 <p>Plan to Eat will not sell, rent, or share personal information with third parties without your prior consent except in the limited circumstances described in this Privacy Policy.</p>
 <ul><li><strong>Consent:</strong> With your consent, we might disclose your personal information to third parties in order to provide you with products and services that you have requested.
@@ -118,220 +139,269 @@ to contact you for any reason regarding content you have submitted to the Web si
 <li><strong>Plan to Eat’s Own Business Purposes:</strong> We use and disclose information about you for our own internal statistical, design, or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic, user interest, purchasing and other trends among our users. We might outsource these tasks and disclose personal information about you to third parties, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. We might also share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business. We require our third party vendors to keep such information confidential and to only use the information for the purpose it was provided.</li>
 <li><strong>Protection of Plan to Eat and Others:</strong> We disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users’ rights, property or safety; or to protect our users from fraudulent, abusive, or unlawful use of our Web site; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of personal information without delay.</li>
 <li><strong>Business Transfers: </strong>Information about our users, including personal information, might be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company.</li></ul>
+
 <h3>Children</h3>
 <p>We do not intend, and the Website is not designed, to collect personal information from children under the age of 13. If you are under 13 years old, you should not register for our services or otherwise provide information on our Website and should ask your parent to do so for you.</p>
+
 <h3>Third Party Web site Advertising - General</h3>
 <p>We use one or more third-party advertising companies to serve ads when you visit our Web site. We do not share personal information about you with any third party advertiser unless you give us permission to do so, separate from any permission you provide during the registration process. These advertisers might seek to use cookies and Web beacons to track session data about the ads you have seen and types of things in which you appear interested. These advertisers might also use combined information about your visits to our Web site and other Web sites in order to provide advertisements about related goods and services of interest to you. 3rd party advertising networks may place a cookie on your computer to tailor ad content both on Plan to Eat and on sites within the third party network that you visit in the future. If you would like more information about this practice and how to opt-out of having this information used by Network Advertising Initiative (NAI) companies, please click here.</p>
 <ul><li>Third Party Search Engines - Plan to Eat provides access to publicly viewed site information by third-party search engine “crawlers” (such as Google). Plan to Eat blocks access by these engines to personal information beyond the publicly viewed information you agreed to upon registering for the site, and as indicated in this privacy policy and terms and conditions.</li></ul>
+
 <h3>Third Party Links</h3>
 <p>From time to time we might have links to other Web sites from our Web site. We do not control, and therefore cannot be responsible for, the collection, use, or disclosure of your information by any such third party Web site. Please carefully review the privacy policy of any third-party Web site that you link to from our Web site. The privacy policies of such Web sites might differ from that of our Web site; therefore, we encourage you to review and understand the privacy policies of such Web sites before providing them with any information.</p>
+
 <h3>Third Party Sources</h3>
 <p>Plan to Eat might also obtain information about you from third parties, such as demographic marketing information, address verification, or third party mailing lists, and add such information to, or combine it with, your personal information. Should we ever obtain this information and link it to you, we will treat it all as personal information under this Privacy Policy.</p>
+
 <h3>Security</h3>
 <p>We use reasonable security measures to store and maintain personally identifying information so as to protect it from loss, misuse, alteration or destruction by unauthorized parties while it is under our control. We use secure socket layer (“SSL”) encryption when transmitting certain kinds of information, such as payment information, over the Internet. </p>
+
 <h3>International Users</h3>
 <p>We collect, process, and maintain your information in the United States, where privacy laws might not be as protective as in your home country. If you are using the Web site from outside of the United States, by providing your information to us you are consenting to the transfer of your information to the United States for processing and maintaining in a manner consistent with this Privacy Policy.</p>
+
 <h3>Correcting/Updating Personal Information</h3>
 <p>We give you the opportunity to opt-out of receiving commercial e-mail from us by following the opt-out instructions provided in the message. Even if you opt-out in this manner, however, you will still receive account-related messages from us. To get placed on our “DO NOT E-MAIL” list, send a request to support@plantoeat.com. If your e-mail address is added to the “DO NOT E-MAIL” list, you will not receive any newsletters or other opt-in e-mail messages. Please note, however, that your e-mail address being placed on the “DO NOT E-MAIL” list does not prevent you from receiving “send-to-a-friend” e-mail messages, or email messages from third parties from which you requested information, products, or services from during or immediately after registration. To opt-out from messages from these third parties, or from any other communications that you receive directly from third parties, you must contact them directly in order to opt-out.</p>
+
 <h3>California Privacy Rights</h3>
 <p>California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to any third party for their direct marketing purposes without your consent. If, having provided your consent, you would like to revoke your consent to future disclosure of your personal information to third parties, send a request to support@plantoeat.com with “California Opt-Out” in the subject line. Please note that this opt-out will not prevent the use of information that has already been disclosed to third parties with your consent and you should contact them directly to opt-out from such communications. If you would like more information with respect to your privacy rights under California law, you may contact us at support@plantoeat.com. Please indicate such a request by placing “California Disclosure Information” in the subject line.</p>
+
 <h3>Contact Us</h3>
 <p>If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with Plan to Eat, please contact us at support@plantoeat.com or use the following address: <strong>Plan to Eat</strong>, 411 N. Railroad Ave., Loveland, Colorado, 80537.
 </p>
 </div>
+            </div>
+
+        </section>
 </div>
+
+    <a name="cta_anchor" id="cta_anchor"></a>
+
+    <div class="pte-cta-row">
+        <div class="row">
+            
+            <div class="medium-8 columns show-for-medium-up">
+                <p>&nbsp;</p>
+                 <p class=""><a href="/signup/"><img alt="Try it free for 30 days" height="108" src="http://assets.plantoeat.com/images/v3/tryitforfree30days.png?0c02f05" width="615"></a></p>
+                <div class="text-left">
+                    <p>You are invited to a free, 30 day, full-service, no strings attached trial.</p>
+                    <p>No payment information is required and your feedback is welcome.</p>
+                    <p>At the end of the trial you can subscribe for $4.95/month or $39/year.</p>
+                </div>
+            </div>
+            <div class="small-12 medium-4 columns">
+                <div class="pte-cta-section-right text-center">
+                    <div class="pte-cta-tryit-mobile text-center show-for-small-only">
+                        Try it <span class="pte-cta-tryit-for-30-days-mobile">Free For 30 Days</span>
+                    </div>
+                    <br>
+                    <form class="pte-cta-form text-left" action="https://www.plantoeat.com/signup" method="POST">
+                        <input type="hidden" name="invitation_token" value="">
+                        <input type="text" name="login_hp" value="" id="login_hp_98789">
+                        <p><label>User Name<input type="text" name="user[login]" placeholder="User Name"></label></p>
+                        <p><label>Email<input type="text" id="ctaemail" name="user[email]" placeholder="Email"></label></p>
+                        <input type="hidden" id="email_confirmation" name="user[email_confirmation]">
+                        <p><label>Password<input type="password" id="ctapassword" name="user[password]" placeholder="Password"></label></p>
+                        <input type="hidden" id="password_confirmation" name="user[password_confirmation]">
+                        <p><label><input type="checkbox" name="agree" value="1"> <span class="pte-terms-link">I accept the <a href="http://www.plantoeat.com/terms_of_service_privacy" target="_blank">Terms of Use</a></span></label></p>
+
+                        <button class="w100" type="submit"><span>Create Account</span><i class="icon-right-dir pos-right right"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="pte-gift-subscription-ad">
+  <div class="row valign-middle">
+    <div class="columns medium-8 right text-left">
+      <h1>Gift Subscriptions</h1>
+      <h4 class="nocase">Eat healthier food. Save time &amp; Money. Know what‘s for dinner.</h4>
+      <p><em>Wow, that sounds like a great gift!</em></p>
+    </div>
+    <div class="columns medium-4 left">
+      <p><a class="button" href="https://www.plantoeat.com/gift"><span>Give a Gift Subscription</span><i class="icon-right-dir pos-right right"></i></a>
+      </p>
+    </div>
+  </div>
+</div>
+<section class="pte-testimonials-section">
+    <div class="sliding-background"></div>
+    <div class="sliding-container"><blockquote data-tid="89">
+    <div class="pte-testimonial-card"><div class="pte-testimonial-comment-text">You've helped me organize so many recipes that I normally would never have gotten around to trying and saved me so much time meal planning and list making. Your customer service is top notch! Thank you!</div></div>
+    <div class="pte-testimonial-quote-tri"><div></div></div>
+<p class="pte-testimonial-author">
+    <strong>Lydia</strong> Facebook
+</p>
+<p class="pte-testimonial-num"><span class="show-for-medium-up">90<i> of </i>180</span></p>
+<div class="row pte-testimonial-nav">
+    <div class="text-left i"><span class="icon-left-dir"></span></div>
+    <div class="text-right i"><span class="icon-right-dir"></span></div>
+</div>
+</blockquote><blockquote data-tid="90">
+    <div class="pte-testimonial-card"><div class="pte-testimonial-comment-text">I just wanted to say thank you for making Plan to Eat so simple. I have tried other recipe planners before and just found them so clunky and time-consuming that it wasn't worth my while. Plan to Eat has taken all of that and turned it on its head. I love that you don't have to enter ingredients or instructions one at a time. Even if the recipe won't transfer (and they do 90% of the time) all I have to do is copy and paste everything at once. And don't even get me started on how unbelievably painless it is to add this stuff to my menu planner. Even my husband, who thought subscription-based meal planning software was frivolous, is a true believer. He upgraded our free trial to paid before it was over, and he didn't even tell me first because he was so sold on it. Now, in minutes I can do what used to take hours...which meant it never got done. Thank you a million times over!</div></div>
+    <div class="pte-testimonial-quote-tri"><div></div></div>
+<p class="pte-testimonial-author">
+    <strong>Missy</strong> Plan to Eat Support Website
+</p>
+<p class="pte-testimonial-num"><span class="show-for-medium-up">91<i> of </i>180</span></p>
+<div class="row pte-testimonial-nav">
+    <div class="text-left i"><span class="icon-left-dir"></span></div>
+    <div class="text-right i"><span class="icon-right-dir"></span></div>
+</div>
+</blockquote><blockquote data-tid="91">
+    <div class="pte-testimonial-card"><div class="pte-testimonial-comment-text">I love it! Its brilliant! It changed my life! After initial set up which was expected, it now takes me 20 minutes to plan my week's meals and get a shopping list including all the stuff I regularly buy.</div></div>
+    <div class="pte-testimonial-quote-tri"><div></div></div>
+<p class="pte-testimonial-author">
+    <strong>Val</strong> Plan to Eat Support Website
+</p>
+<p class="pte-testimonial-num"><span class="show-for-medium-up">92<i> of </i>180</span></p>
+<div class="row pte-testimonial-nav">
+    <div class="text-left v"><span class="icon-left-dir"></span></div>
+    <div class="text-right v"><span class="icon-right-dir"></span></div>
+</div>
+</blockquote><blockquote data-tid="92">
+    <div class="pte-testimonial-card"><div class="pte-testimonial-comment-text">I've been adding my recipes today. LOVE that I can try it out for 30 days without giving any payment info.</div></div>
+    <div class="pte-testimonial-quote-tri"><div></div></div>
+<p class="pte-testimonial-author">
+    <strong>Corrie</strong> Facebook
+</p>
+<p class="pte-testimonial-num"><span class="show-for-medium-up">93<i> of </i>180</span></p>
+<div class="row pte-testimonial-nav">
+    <div class="text-left i"><span class="icon-left-dir"></span></div>
+    <div class="text-right i"><span class="icon-right-dir"></span></div>
+</div>
+</blockquote><blockquote data-tid="93">
+    <div class="pte-testimonial-card"><div class="pte-testimonial-comment-text">Why did I not try out Plan to Eat a LONG time ago? Been using it this week and it's awesome! I especially love how easy it is to import recipes I find online so they are all in one place!!!</div></div>
+    <div class="pte-testimonial-quote-tri"><div></div></div>
+<p class="pte-testimonial-author">
+    <strong>Amy</strong> Facebook
+</p>
+<p class="pte-testimonial-num"><span class="show-for-medium-up">94<i> of </i>180</span></p>
+<div class="row pte-testimonial-nav">
+    <div class="text-left i"><span class="icon-left-dir"></span></div>
+    <div class="text-right i"><span class="icon-right-dir"></span></div>
+</div>
+</blockquote></div>
 </section>
-</div>
-<a name="cta_anchor" id="cta_anchor"></a>
-<div class="pte-cta-row">
-<div class="row">
-<br>
-<div class="givethanksAd">
-<div class="pte-bf-ad">
-<div class="fb-like" data-href="http://www.plantoeat.com/black_friday_sale" data-layout="button_count" data-action="recommend" data-show-faces="false" data-share="true"></div>
-<img class="bf-ad-image" src="https://s3.amazonaws.com/pte/a/bf/bf-banner-heading-2014.png" width="280" height="115" alt="Black Friday Weekend Sale" nopin="nopin"><img class="bf-ad-image" src="https://s3.amazonaws.com/pte/a/bf/bf-banner-50off-2013.png" width="280" height="115" alt="50% all Yearly Subscriptions" nopin="nopin">
-<a href="/black_friday_sale/" class="pte-bf-ad-more" title="Black Friday &amp; Cyber Monday Sale">More Info</a>
-<div class="pte-bf-ad-bg">
-<div class="pte-bf-ad-startsin caps">
-<span class="caps">Starts in:</span>
-<div class="pte-bf-ad-countdown">
-<span class="countdown_row countdown_show4">
-<span class="countdown_section">
-<span class="countdown_amount">7</span><br>Days
-</span>
-<span class="countdown_section">
-<span class="countdown_amount"></span><br>Hours
-</span>
-<span class="countdown_section">
-<span class="countdown_amount"></span><br>Minutes
-</span>
-<span class="countdown_section">
-<span class="countdown_amount"></span><br>Seconds
-</span>
-</span>
-</div>
-</div>
-<div class="clearfix"><br></div>
- 
-</div>
-</div>
-</div>
-<div class="medium-8 columns show-for-medium-up">
-<p>&nbsp;</p>
-<p class=""><img alt="Try it free for 30 days" height="108" src="http://assets.plantoeat.com/images/v3/tryitforfree30days.png?8b3f501" width="615"></p>
-<div class="text-left">
-<p>You are invited to a free, 30 day, full-service, no strings attached trial.</p>
-<p>No payment information is required and your feedback is welcome.</p>
-<p>At the end of the trial you can subscribe for $4.95/month or $39/year.</p>
-</div>
-</div>
-<div class="small-12 medium-4 columns">
-<div class="pte-cta-section-right text-center">
-<div class="pte-cta-tryit-mobile text-center show-for-small-only">
-Try it <span class="pte-cta-tryit-for-30-days-mobile">Free For 30 Days</span>
-</div>
-<br>
-<form class="pte-cta-form text-left" action="https://www.plantoeat.com/signup" method="POST">
-<input type="hidden" name="invitation_token" value="">
-<input type="text" name="login_hp" value="" id="login_hp_98789">
-<p><input type="text" name="user[login]" placeholder="User Name"></p>
-<p><input type="text" id="ctaemail" name="user[email]" placeholder="Email"></p>
-<input type="hidden" id="email_confirmation" name="user[email_confirmation]">
-<p><input type="password" id="ctapassword" name="user[password]" placeholder="Password"></p>
-<input type="hidden" id="password_confirmation" name="user[password_confirmation]">
-<p><label><input type="checkbox" name="agree" value="1"> <span class="pte-terms-link">I accept the <a href="http://www.plantoeat.com/terms_of_service_privacy">Terms of Use</a></span></label></p>
-<p><button class="w100" type="submit">Get Started <i class="icon-right-dir icon-right right"></i></button></p>
-</form>
-</div>
-</div>
-</div>
-</div>
+
+<section class="about-us-section">
+    <div class="row">
+        <div class="columns medium-4 text-right">
+            <p class="top"><em><strong>Plan to Eat is brought to you by... <span style="font-size:1.5em;">US!</span></strong></em></p>
+            <p><a class="button" href="/about/"><span>Click Here for an Introduction</span><i class="icon-right-dir pos-right right"></i></a></p>
+        </div>
+        <div class="columns medium-8">
+            <a href="/about/"><img alt="Staff-dinner" height="201" src="https://pte.s3.amazonaws.com/public/staff-dinner.jpg" width="722"></a>
+        </div>
+    </div>
+</section>
+
 <footer class="pte-footer-row">
-<div class="row pte-nav-footer">
-<div class="medium-5 small-12 columns">
-<a href="/tour/" class="mobile-only"><i class="icon-direction"></i>TOUR</a>
-<a href="/blog/"><i class="icon-chat"></i>BLOG</a>
-<a href="/about/"><i class="icon-users"></i>ABOUT</a>
-<a href="http://feedback.plantoeat.com"><i class="icon-plus-squared"></i>SUPPORT</a>
-<a href="http://feedback.plantoeat.com/"><i class="icon-mail"></i>CONTACT</a>
-</div>
-<div class="medium-7 small-12 columns">
-<a href="https://www.facebook.com/plantoeat" class="scnd"><i class="icon-facebook"></i>FACEBK</a>
-<a href="https://twitter.com/PlanToEat"><i class="icon-twitter"></i>TWITTER</a>
-<a href="http://www.pinterest.com/plantoeat/"><i class="icon-pinterest"></i>PNTRST</a>
-<a href="https://plus.google.com/+PlantoeatMealPlanner/posts"><i class="icon-gplus"></i>GOOGLE+</a>
-<a href="http://www.plantoeat.com/blog/feed/"><i class="icon-rss"></i>RSS</a>
-</div>
-<div class="show-for-small-only columns">
-<a href="/login" class="mobile-only"><i class="icon-lock"></i>LOG IN</a>
-</div>
-</div>
-<div class="row show-for-medium-up pte-footer-section">
-<h3 class="text-left nocase">Browse the content you'll find at Plan to Eat:</h3>
-<div class="medium-4 columns">
-<div class="pte-footer-section">
-<div class="pte-footer-links">
-<br>
-<h5><a href="/tour/what-a-good-meal-planner-can-do-for-you/">How Plan To Eat Works</a></h5>
-<ul>
-<li><a href="/tour/what-a-good-meal-planner-can-do-for-you/">A good meal planner</a></li>
-<li><a href="/tour/your-online-recipe-organizer/">Your online recipe organizer</a></li>
-<li><a href="/tour/share-recipes-with-your-friends/">Share recipes with friends</a></li>
-<li><a href="/tour/take-your-recipes-into-your-kitchen/">Your recipes in the kitchen</a></li>
-<li><a href="/tour/where-your-recipes-meet-your-calendar/">Recipes on the calendar</a></li>
-<li><a href="/tour/an-automated-grocery-list-maker/">Automated grocery list maker</a></li>
-<li><a href="/tour/take-your-shopping-list-with-you/">A mobile shopping list</a></li>
-<li><a href="/tour/how-plan-to-eat-works/">How Plan to Eat works</a></li>
-<li><a href="/tour/were-meal-planners-too/">We're meal planners too</a></li>
-</ul>
-<h5><a href="/tour/meal-planning-is-fun/">What Others Are Saying</a></h5>
-<ul>
-<li><a href="/tour/meal-planning-is-fun/">Meal planning is fun</a></li>
-<li><a href="/tour/an-easy-to-use-meal-planner/">The easy meal planner</a></li>
-<li><a href="/tour/a-meal-planner-that-saves-money/">Save money by planning</a></li>
-<li><a href="/tour/try-other-meal-planners/">Try other meal planners</a></li>
-<li><a href="/tour/having-a-meal-plan-saves-time/">Meal plans save time</a></li>
-<li><a href="/tour/waste-less-food-when-you-meal-plan/">Waste less with a meal plan</a></li>
-<li><a href="/tour/meal-planning-is-great-for-health/">Meal plan for health</a></li>
-<li><a href="/tour/meal-planning-brings-peace-of-mind/">Meal plan for peace of mind</a></li>
-<li><a href="/tour/manage-allergies-with-a-menu-plan/">Manage food allergies</a></li>
-<li><a href="/tour/care-for-your-family-with-a-meal-plan/">Care for your family</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="medium-4 columns">
-<div class="pte-footer-section">
-<div class="pte-footer-links">
-<br><h5><a href="http://www.plantoeat.com/blog">FROM THE BLOG</a></h5> <ul> <li><a href="http://www.plantoeat.com/blog/category/allergen-friendly-2/">Allergen Friendly (51)</a></li> <li><a href="http://www.plantoeat.com/blog/category/cook-book-review/">Cook Book Review (3)</a></li> <li><a href="http://www.plantoeat.com/blog/category/cookbook-reviews/">Cookbook Reviews (28)</a></li> <li><a href="http://www.plantoeat.com/blog/category/allergen-friendly-2/dairy-free-2/">Dairy-Free (44)</a></li> <li><a href="http://www.plantoeat.com/blog/category/family-table/">Family Table (14)</a></li> <li><a href="http://www.plantoeat.com/blog/category/fix-freeze-feast/">Fix Freeze Feast (15)</a></li> <li><a href="http://www.plantoeat.com/blog/category/gaps-diet-2/">GAPS Diet (25)</a></li> <li><a href="http://www.plantoeat.com/blog/category/giveaways/">Giveaways (11)</a></li> <li><a href="http://www.plantoeat.com/blog/category/allergen-friendly-2/gluten-free-2/">Gluten-Free (51)</a></li> <li><a href="http://www.plantoeat.com/blog/category/healthy-eating/">Healthy Eating (49)</a></li> <li><a href="http://www.plantoeat.com/blog/category/kitchen-organization/">Kitchen Organization (15)</a></li> <li><a href="http://www.plantoeat.com/blog/category/meal-plan/">Meal Plan (9)</a></li> <li><a href="http://www.plantoeat.com/blog/category/more-with-less/">More with Less (24)</a></li> <li><a href="http://www.plantoeat.com/blog/category/nourishing-traditions/">Nourishing Traditions (36)</a></li> <li><a href="http://www.plantoeat.com/blog/category/paleo-diet-2/">Paleo Diet (9)</a></li> <li><a href="http://www.plantoeat.com/blog/category/recipe-swap-friday/">Recipe Swap Friday (4)</a></li> <li><a href="http://www.plantoeat.com/blog/category/recipes/">Recipes (417)</a></li> <li><a href="http://www.plantoeat.com/blog/category/the-art-of-real-food/">The Art of Real Food (17)</a></li> <li><a href="http://www.plantoeat.com/blog/category/tips-tricks/">Tips &amp; Tricks (81)</a></li> <li><a href="http://www.plantoeat.com/blog/category/allergen-friendly-2/top-8-allergen-free/">Top 8 Allergen-Free (34)</a></li> <li><a href="http://www.plantoeat.com/blog/category/using-plan-to-eat/">Using Plan to Eat (25)</a></li> </ul>
-</div>
-</div>
-</div>
-<div class="medium-4 columns">
-<div class="pte-footer-section">
-<div class="pte-footer-links">
-<br>
-<h5><a href="http://feedback.plantoeat.com/knowledgebase">Help Articles</a></h5>
-<ul>
-<li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46701-affiliate-partnerships">Affiliate Partnerships</a></li>
-<li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46463-getting-started">Getting Started</a></li>
-<li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46699-meal-planner">Meal Planner</a></li>
-<li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46698-mobile-site">Mobile site</a></li>
-<li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46700-recipe-book">Recipe Book</a></li>
-<li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46696-recipes-add-gather-share">Recipes: Add, Gather, &amp; Share</a></li>
-<li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46697-shopping-list">Shopping List</a></li>
-</ul>
-<h5><a href="/about/">ABOUT US</a></h5>
-<ul>
-<li><a href="/about/#whyplantoeat">Why Plan to Eat?</a></li>
-<li><a href="/about/#ourfamily">Our Family</a></li>
-<li><a href="/about/#foodphilosophy">Food Philosophy</a></li>
-<li><a href="/about/#businessphilosophy">Business Philosophy</a></li>
-<li><a href="/about/#testimonials">Testimonials</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="medium-12 small-12 columns">
-<div class="pte-footer-section">
-<br>
-© 2014 Plan to Eat, LLC &nbsp; <span class="links"><a href="/terms_of_service">Legal</a> &nbsp;/&nbsp; <a href="/privacy">Privacy</a></span><br>&nbsp;
-</div>
-</div>
-</div>
+  <div class="row pte-nav-footer">
+    <div class="medium-5 small-12 columns">
+      <div class="medium-5 small-12 columns">
+        <a href="/tour/" class="mobile-only"><i class="icon-direction"></i>TOUR</a>
+        <a href="/blog/"><i class="icon-chat"></i>BLOG</a>
+        <a href="/about/"><i class="icon-users"></i>ABOUT</a>
+      </div>
+      <div class="medium-7 small-12 columns">
+        <a href="http://feedback.plantoeat.com"><i class="icon-plus-squared"></i>SUPPORT</a>
+        <a href="http://feedback.plantoeat.com/"><i class="icon-mail"></i>CONTACT</a>
+      </div>
+    </div>
+    <div class="medium-7 small-12 columns">
+      <div class="medium-5 small-12 columns">
+        <a href="https://www.facebook.com/plantoeat" class="scnd"><i class="icon-facebook"></i>FACEBK</a>
+        <a href="https://twitter.com/PlanToEat"><i class="icon-twitter"></i>TWITTER</a>
+        <a href="http://www.pinterest.com/plantoeat/"><i class="icon-pinterest"></i>PNTRST</a>
+      </div>
+      <div class="medium-7 small-12 columns">
+        <a href="https://plus.google.com/+PlantoeatMealPlanner/posts"><i class="icon-gplus"></i>GOOGLE+</a>
+        <a href="http://www.plantoeat.com/blog/feed/"><i class="icon-rss"></i>RSS</a>
+      </div>
+    </div>
+    <div class="show-for-small-only small-12 columns">
+      <a href="/login" class="mobile-only"><i class="icon-lock"></i>LOG IN</a>
+    </div>
+  </div>
+
+  <div class="row show-for-medium-up pte-footer-section">
+    <h3 class="text-left nocase">Browse the content you'll find at Plan to Eat:</h3>
+
+    <div class="medium-4 columns">
+      <div class="pte-footer-section">
+        <div class="pte-footer-links">
+          <br>
+          <h5><a href="/tour/what-a-good-meal-planner-can-do-for-you/">How Plan To Eat Works</a></h5>
+          <ul>
+            <li><a href="/tour/what-a-good-meal-planner-can-do-for-you/">A good meal planner</a></li>
+            <li><a href="/tour/your-online-recipe-organizer/">Your online recipe organizer</a></li>
+            <li><a href="/tour/share-recipes-with-your-friends/">Share recipes with friends</a></li>
+            <li><a href="/tour/take-your-recipes-into-your-kitchen/">Your recipes in the kitchen</a></li>
+            <li><a href="/tour/where-your-recipes-meet-your-calendar/">Recipes on the calendar</a></li>
+            <li><a href="/tour/an-automated-grocery-list-maker/">Automated grocery list maker</a></li>
+            <li><a href="/tour/take-your-shopping-list-with-you/">A mobile shopping list</a></li>
+            <li><a href="/tour/how-plan-to-eat-works/">How Plan to Eat works</a></li>
+            <li><a href="/tour/were-meal-planners-too/">We're meal planners too</a></li>
+          </ul>
+          <h5><a href="/tour/meal-planning-is-fun/">What Others Are Saying</a></h5>
+          <ul>
+            <li><a href="/tour/meal-planning-is-fun/">Meal planning is fun</a></li>
+            <li><a href="/tour/an-easy-to-use-meal-planner/">The easy meal planner</a></li>
+            <li><a href="/tour/a-meal-planner-that-saves-money/">Save money by planning</a></li>
+            <li><a href="/tour/try-other-meal-planners/">Try other meal planners</a></li>
+            <li><a href="/tour/having-a-meal-plan-saves-time/">Meal plans save time</a></li>
+            <li><a href="/tour/waste-less-food-when-you-meal-plan/">Waste less with a meal plan</a></li>
+            <li><a href="/tour/meal-planning-is-great-for-health/">Meal plan for health</a></li>
+            <li><a href="/tour/meal-planning-brings-peace-of-mind/">Meal plan for peace of mind</a></li>
+            <li><a href="/tour/manage-allergies-with-a-menu-plan/">Manage food allergies</a></li>
+            <li><a href="/tour/care-for-your-family-with-a-meal-plan/">Care for your family</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="medium-4 columns">
+      <div class="pte-footer-section">
+        <div class="pte-footer-links">
+          <br><h5><a href="http://www.plantoeat.com/blog">FROM THE BLOG</a></h5> <ul> <li><a href="http://www.plantoeat.com/blog/category/allergen-friendly-2/">Allergen Friendly (51)</a></li> <li><a href="http://www.plantoeat.com/blog/category/cook-book-review/">Cook Book Review (3)</a></li> <li><a href="http://www.plantoeat.com/blog/category/cookbook-reviews/">Cookbook Reviews (28)</a></li> <li><a href="http://www.plantoeat.com/blog/category/allergen-friendly-2/dairy-free-2/">Dairy-Free (44)</a></li> <li><a href="http://www.plantoeat.com/blog/category/family-table/">Family Table (14)</a></li> <li><a href="http://www.plantoeat.com/blog/category/fix-freeze-feast/">Fix Freeze Feast (15)</a></li> <li><a href="http://www.plantoeat.com/blog/category/gaps-diet-2/">GAPS Diet (25)</a></li> <li><a href="http://www.plantoeat.com/blog/category/giveaways/">Giveaways (11)</a></li> <li><a href="http://www.plantoeat.com/blog/category/allergen-friendly-2/gluten-free-2/">Gluten-Free (51)</a></li> <li><a href="http://www.plantoeat.com/blog/category/healthy-eating/">Healthy Eating (49)</a></li> <li><a href="http://www.plantoeat.com/blog/category/kitchen-organization/">Kitchen Organization (15)</a></li> <li><a href="http://www.plantoeat.com/blog/category/meal-plan/">Meal Plan (9)</a></li> <li><a href="http://www.plantoeat.com/blog/category/more-with-less/">More with Less (24)</a></li> <li><a href="http://www.plantoeat.com/blog/category/nourishing-traditions/">Nourishing Traditions (36)</a></li> <li><a href="http://www.plantoeat.com/blog/category/paleo-diet-2/">Paleo Diet (9)</a></li> <li><a href="http://www.plantoeat.com/blog/category/recipe-swap-friday/">Recipe Swap Friday (4)</a></li> <li><a href="http://www.plantoeat.com/blog/category/recipes/">Recipes (417)</a></li> <li><a href="http://www.plantoeat.com/blog/category/the-art-of-real-food/">The Art of Real Food (17)</a></li> <li><a href="http://www.plantoeat.com/blog/category/tips-tricks/">Tips &amp; Tricks (81)</a></li> <li><a href="http://www.plantoeat.com/blog/category/allergen-friendly-2/top-8-allergen-free/">Top 8 Allergen-Free (34)</a></li> <li><a href="http://www.plantoeat.com/blog/category/using-plan-to-eat/">Using Plan to Eat (25)</a></li> </ul>
+        </div>
+      </div>
+    </div>
+    <div class="medium-4 columns">
+      <div class="pte-footer-section">
+        <div class="pte-footer-links">
+          <br>
+          <h5><a href="http://feedback.plantoeat.com/knowledgebase">Help Articles</a></h5>
+          <ul>
+            <li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46701-affiliate-partnerships">Affiliate
+              Partnerships</a></li>
+            <li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46463-getting-started">Getting Started</a>
+            </li>
+            <li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46699-meal-planner">Meal Planner</a></li>
+            <li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46698-mobile-site">Mobile site</a></li>
+            <li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46700-recipe-book">Recipe Book</a></li>
+            <li>
+              <a href="http://feedback.plantoeat.com/knowledgebase/topics/46696-recipes-add-gather-share">Recipes: Add,
+                Gather, &amp; Share</a></li>
+            <li><a href="http://feedback.plantoeat.com/knowledgebase/topics/46697-shopping-list">Shopping List</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="medium-12 small-12 columns">
+      <div class="pte-footer-section">
+        <br>
+        © 2015 Plan to Eat, LLC &nbsp;
+        <span class="links"><a href="/terms_of_service">Legal</a> &nbsp;/&nbsp; <a href="/privacy">Privacy</a></span><br>&nbsp;
+      </div>
+    </div>
+  </div>
 </footer>
-<script>var production=true;</script><script src="http://assets.plantoeat.com/assets/proJQPublic.js?8b3f501" type="text/javascript"></script> <script src="http://assets.plantoeat.com/javascripts/jquery.countdown.min.js?8b3f501" type="text/javascript"></script>
-<script type="text/javascript">
-
-	$(function(){
-
-		startTime = new Date('2014/11/28');
-		if ($('.pte-bf-ad-countdown').length) $('.pte-bf-ad-countdown').countdown({until: startTime, format: 'dHMS', timezone: -5});
-
-		$('.givethanksAd .hide_thanksgiving_banner').on('click', function(event) {
-			event.preventDefault();
-			event.stopPropagation();
-			$('.givethanksAd').hide('blind');
-			$.cookie("hide_thanksgiving_banner_2014", true, { 'expires': 365, 'domain' : PTE.cookieDomain, 'path': '/' });
-		});
-		$('.pte-bf-ad').on('click', function(event){
-			event.stopPropagation();
-			window.location = '/black_friday_sale';
-		});
-	});
-	</script>
- 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1422821094608558&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<script src="http://assets.plantoeat.com/javascripts/analytics.js?8b3f501" type="text/javascript"></script>
+<script src="http://assets.plantoeat.com/assets/proErrorLogging.js?0c02f05" type="text/javascript"></script><script src="http://assets.plantoeat.com/javascripts/modernizr/modernizr.min.js?0c02f05" type="text/javascript"></script>
+<script>var production=true;</script><script src="http://assets.plantoeat.com/assets/proJQPublic.js?0c02f05" type="text/javascript"></script><script src="http://assets.plantoeat.com/javascripts/analytics.js?0c02f05" type="text/javascript"></script>
 <script>
     UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/my5qRMm3CBeJmmy2yyGnw.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
     UserVoice.push(['set', {
@@ -343,4 +413,25 @@ Try it <span class="pte-cta-tryit-for-30-days-mobile">Free For 30 Days</span>
 </script>
 
 
-</body></html>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","bam.nr-data.net","fc311df502","157235","clpaQERfCg5dQxYWUVZQRxseXxIKXUMQ",2,6,new Date().getTime(),"","","","",""]);</script><script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=18';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
+
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
