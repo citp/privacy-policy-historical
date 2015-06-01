@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2014-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140914213114id_/http%3A//www.dll-files.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601102553id_/http%3A//www.dll-files.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - DLL-files.com
 
 This is the web site of **www.dll-files.com**.
 
-To see the different ways to contact us, [see our About Us section](https://web.archive.org/web/20140914213114id_/http%3A//www.dll-files.com/about.php).
+To see the different ways to contact us, [see our About Us section](https://web.archive.org/web/20150601102553id_/http%3A//www.dll-files.com/about.php).
 
 For each visitor to our Web site, our Web server automatically recognizes and logs such information that your browser sends whenever you make a request form our servers, such as your browser type, Internet Protocol address, browser language, cookie information and date/time of request. We may compile information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations as well as email address and payment information related to a purchase from our web service.
 
@@ -23,6 +23,8 @@ We collect the e-mail addresses of those who communicate with us via e-mail. Thi
 We collect e-mail addresses whenever you purchase a service or product from us. This information is, unless otherwise stated, only used for purposes of fulfilling our obligations to our customers, such as product delivery, purchase documents and critical service messages and updates. In conjunction with such purchases or a separate newsletter signup, customers can opt-in to receive offers, updates and service-related information from us or affiliated partners. [If you do not want to receive e-mail from us in the future, please let us know by contacting us](https://dllfilescom.zendesk.com/). 
 
 Additional information, such as physical address, telephone number etc. that is supplied during purchases or registrations on our site will only be used for internal purposes, in order to fulfill intended commitments (such as product delivery, support contact). It is collected by our Payment Services Provider but will not be distributed to other third parties.
+
+Other non-personally identifiable information may be collected in aggregate form through service interactions, such as using our DLL-Files Fixer software. This includes information such as which .DLL files are accessed from our servers and from where. Users are able to voluntarily supply this information along with the success rate of such installations. This information is used for statistical purposes in aggregate form, to evaluate the functionality of our service, and is not used in any way to identify individual users.
 
 We retain the right to update this Privacy notice at any time without prior notification. If our information practices change at some time in the future we will only use data collected from the time of the policy change forward for any new purposes.
 
