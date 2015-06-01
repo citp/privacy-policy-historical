@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the producttesting.uk.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221162619id_/http%3A//producttesting.uk.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producttesting.uk.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601223907id_/http%3A//www.producttesting.uk.com/p/privacy-policy) for the most accurate reproduction.*
 
 # Product Testing Privacy Policy
 
-## Privacy Policy
+## **Privacy Policy**
 
 This website is operated by ProductTesting.uk.com, we are registered under the data protection act (Registration No. Z7981900) and our postal address is:
 
@@ -13,11 +13,15 @@ Maidstone
 Kent  
 ME14 5PP
 
-With respect to cookies: We use cookies to record user-specific information on what survey pages users access while on site, to ensure the best user experience.
+With respect to cookies: We use cookies to record user-specific information on what survey pages users access while on site, to ensure the best user experience. 
 
 'Cookies' are a type of file stored on your internet device (PC, Phone or Tablet) and used by most websites in various ways enabling us to personalise your online experience.
 
-We work closely with some of the UK's leading brands to help them better target their offers and help them learn more about what consumers want from their products. Our surveys provide manufacturers, retailers and service providers with the information they need to better serve you.
+We work closely with some of the UK's leading brands to help them better target their offers and help them learn more about what consumers want from their products. Our surveys provide manufacturers, retailers and service providers with the information they need to better serve you. 
+
+Here you will find a list of suppliers who are authorised to place and read cookies on our properties (including websites and emails), as well as information on how to opt-out through their privacy policies.Category: Personalised advertising & email marketing. Company: Criteo
+
+The purpose of Criteo’s service is to find visitors of our advertising clients’ properties and send them personalised emails or serve them personalised ads. Criteo uses cookies to single out users and then personalise ads based on their browsing experience. To learn more or opt out of Criteo Display click here <http://www.criteo.com/privacy/>. To learn more or opt out of CriteoEmail click <http://privacy.criteoemail.com/privacy/policy>
 
 This Privacy Policy (together with our terms of use) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
@@ -36,7 +40,7 @@ We use personal information collected via ProductTesting.uk.com to:
 
 ProductTesting.uk.com collects stores and uses data about you and your answers to specific questions asked by sponsors. Submission Technology and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone, SMS or email. We may also use the personal information you provide for the purposes of identity verification, credit and risk management, revenue collection, database verification and enhancement.
 
-When you register and enter your details you will, only if you choose to opt in, consent to us and selected third parties including The Times, The Guardian, Aditus, UK Prize, [Allgroove Limited](http://www.producttesting.uk.com/allgroove.html), Roberts Jackson LTD, solicitors and other associated partners sending you information by email, post, SMS or telephone about products and/or services that have been selected based on your stated interests. You will also be contacted via phone by either O2, Talktalk, Vodafone, Scottish Power or Prizestore.
+When you register and enter your details you will, only if you choose to opt in, consent to us and selected third parties including The Times, The Guardian, Aditus, UK Prize, [Allgroove Limited](http://www.producttesting.uk.com/allgroove.html), Roberts Jackson LTD, Comptown, solicitors and other associated partners sending you information by email, post, SMS or telephone about products and/or services that have been selected based on your stated interests. You will also be contacted via phone by either O2, Talktalk, Vodafone, Scottish Power or Prizestore.
 
 We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, send SMS alerts or notification, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
