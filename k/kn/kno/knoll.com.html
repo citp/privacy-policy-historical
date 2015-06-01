@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the knoll.com privacy policy that was archived on 2014-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141122001137id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knoll.com privacy policy that was archived on 2015-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150601021948id_/http%3A//www.knoll.com/privacy-policy/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="stylish-select"><head>
+<!DOCTYPE html><html lang="en" class="stylish-select"><head>
 <title>Knoll</title>
 <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
 <!--<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />-->
@@ -49,7 +49,7 @@ jQuery.browser.version = RegExp.$1;
 <script type="text/javascript" src="/js/plugins/jquery.lightbox-0.5.js"></script> 
 <script type="text/javascript" src="/js/plugins/jquery.lightbox-0.51.js"></script> 
 <script type="text/javascript" src="/js/jquery/jquery.tablesorter.js"></script>
-<script type="text/javascript" src="/js/jquery/home1.js"></script>
+<script type="text/javascript" src="/js/jquery/home1.js?ts=20150429093600"></script>
 <script type="text/javascript" src="/js/jquery/jquery.stylish-select.js"></script>
 <script type="text/javascript" src="/js/plugins/jwplayer/jwplayer.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.viewport.mini.js"></script>
@@ -62,11 +62,13 @@ jQuery.browser.version = RegExp.$1;
 <script type="text/javascript" src="/js/jquery/searchLibraryMod.js"></script>
 <script type="text/javascript" src="/js/jquery/searchGlobalKeyboardControlsMod.js"></script>
 <script type="text/javascript" src="/js/jquery/searchGlobalResultsMod.js"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=knolladdthis"></script>
 <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery-contained-sticky-scroll-min.js"></script>
 <script type="text/javascript" src="/js/jquery/shoppingCartCommon.js"></script>
 <script type="text/javascript" src="/js/jquery/iscroll.min.js"></script>
+<!-- <script type="text/javascript" src="/js/jquery/advanced_textile_search_filterBuilder.js"></script>
+<script type="text/javascript" src="/js/jquery/advanced_textile_search.js"></script> -->
+<script type="text/javascript" src="/js/jquery/cross_site_scripting.js"></script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-1219454-1']);
@@ -226,16 +228,22 @@ image_include: "at_image"
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
+<!--[if gt IE 10]-->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=knolladdthis"></script>
+<!--[endif]-->
+<!--[if !IE]-->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=knolladdthis"></script>
+<!--[endif]-->
+<script>
+dataLayer = [];
+</script>
 <script type="text/javascript" src="https://web.archive.org/web/20131013084546/http://www.athenahealth.com/foresee/foresee-surveydef.js"></script></head>
 <body>
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NP5BWZ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NP5BWZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NP5BWZ');</script>
+})(window,document,'script','dataLayer','GTM-NP5BWZ');</script> 
 <!-- End Google Tag Manager -->
 <!--header starts-->
 <header id="outer_header"> 
@@ -257,42 +265,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a class="level1" href="/shop">Shop &amp; Browse</a>
 <section class="sub_menu">
 <ul>
-<li>
-<a href="/shop/by-category">By Category</a>
+<li> 
+<a href="/shop/by-category">By Category</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
-<a href="/shop/by-category/gift-guide">Holiday Gift Guide</a>
+<a href="/shop/by-category/seating">Seating</a> 
 </li>
 <li>
-<a href="/shop/by-category/knoll-classics">Knoll Classics</a>
+<a href="/shop/by-category/tables">Tables</a> 
 </li>
 <li>
-<a href="/shop/by-category/new">New &amp; Expanded</a>
+<a href="/shop/by-category/knoll-classics">Classics</a> 
 </li>
 <li>
-<a href="/shop/by-category/quickship">Quickship</a>
+<a href="/shop/by-category/outdoor">Outdoor</a> 
 </li>
 <li>
-<a href="/shop/by-category/outdoor">Outdoor</a>
+<a href="/shop/by-category/quickship">Quickship</a> 
 </li>
 <li>
-<a href="/shop/by-category/seating">Seating</a>
+<a href="/shop/by-category/new">New &amp; Expanded</a> 
 </li>
 <li>
-<a href="/shop/by-category/tables">Tables</a>
+<a href="/shop/by-category/home-office">Home Office</a> 
 </li>
 <li>
-<a href="/shop/by-category/home-office">Home Office</a>
+<a href="/shop/by-category/small-business">Small Business</a> 
 </li>
 <li>
-<a href="/shop/by-category/small-business">Small Business</a>
+<a href="/shop/by-category/ergonomic-desk-chairs">Ergonomic Desk Chairs</a> 
 </li>
 </ul>
 <ul class="span6">
-<li>
-<a href="/shop/by-category/totes-and-travel-collection">Totes &amp; Travel Collection</a>
-</li>
 <li>
 <a href="/shop/by-category/accessories">Accessories</a>
 </li>
@@ -303,13 +308,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="/shop/by-category/floor-coverings">Floor Coverings</a>
 </li>
 <li>
-<a class="" href="/shop/knolltextiles">Textiles</a>
-</li>
-<li>
 <a href="/shop/by-category/kids">Kids Furniture</a>
 </li>
 <li>
-<a href="/shop/by-category/vintage-knoll">Vintage Knoll</a>
+<a class="" href="/shop/knolltextiles">Textiles</a>
 </li>
 <li>
 <a href="/shop/by-category/leather">Leather</a>
@@ -317,24 +319,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>
 <a href="/shop/by-category/felt">Felt</a>
 </li>
+<li>
+<a href="/shop/by-category/totes-and-travel-collection">Totes &amp; Travel Collection</a>
+</li>
 </ul>
 </section>
 </li>
-<li>
-<a href="/shop/by-room">By Room</a>
+<li> 
+<a href="/shop/by-room">By Room</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
-<a href="/shop/by-room/living-room">Living Room</a>
+<a href="/shop/by-room/living-room">Living Room</a> 
 </li>
 <li>
-<a href="/shop/by-room/dining-room">Dining Room</a>
+<a href="/shop/by-room/dining-room">Dining Room</a> 
 </li>
 <li>
-<a href="/shop/by-room/kitchen">Kitchen</a>
+<a href="/shop/by-room/kitchen">Kitchen</a> 
 </li>
 <li>
-<a href="/shop/by-room/home-office">Home Office</a>
+<a href="/shop/by-room/home-office">Home Office</a> 
 </li>
 </ul>
 <ul class="span6">
@@ -350,75 +355,75 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 </section>
 </li>
-<li>
-<a href="/shop/by-designer">By Designer</a>
+<li> 
+<a href="/shop/by-designer">By Designer</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
-<a href="/shop/by-designer/2x4">2x4</a>
+<a href="/shop/by-designer/2x4">2x4</a> 
 </li>
 <li>
-<a href="/shop/by-designer/david-adjaye">David Adjaye</a>
+<a href="/shop/by-designer/david-adjaye">David Adjaye</a> 
 </li>
 <li>
-<a href="/shop/by-designer/antenna-design">Antenna Design</a>
+<a href="/shop/by-designer/antenna-design">Antenna Design</a> 
 </li>
 <li>
-<a href="/shop/by-designer/anni-albers">Anni Albers</a>
+<a href="/shop/by-designer/anni-albers">Anni Albers</a> 
 </li>
 <li>
-<a href="/shop/by-designer/edward-barber-jay-osgerby">Edward Barber + Jay Osgerby</a>
+<a href="/shop/by-designer/edward-barber-jay-osgerby">Edward Barber + Jay Osgerby</a> 
 </li>
 <li>
-<a href="/shop/by-designer/harry-bertoia">Harry Bertoia</a>
+<a href="/shop/by-designer/harry-bertoia">Harry Bertoia</a> 
 </li>
 <li>
-<a href="/shop/by-designer/irma-boom">Irma Boom</a>
+<a href="/shop/by-designer/irma-boom">Irma Boom</a> 
 </li>
 <li>
-<a href="/shop/by-designer/marcel-breuer">Marcel Breuer</a>
+<a href="/shop/by-designer/marcel-breuer">Marcel Breuer</a> 
 </li>
 <li>
-<a href="/shop/by-designer/don-chadwick">Don Chadwick</a>
+<a href="/shop/by-designer/don-chadwick">Don Chadwick</a> 
 </li>
 <li>
-<a href="/shop/by-designer/joseph-durso">Joseph D'Urso</a>
+<a href="/shop/by-designer/joseph-durso">Joseph D'Urso</a> 
 </li>
 <li>
-<a href="/shop/by-designer/Maria-Cornejo">Maria Cornejo</a>
+<a href="/shop/by-designer/Maria-Cornejo">Maria Cornejo</a> 
 </li>
 <li>
-<a href="/shop/by-designer/dorothy-cosonas">Dorothy Cosonas</a>
+<a href="/shop/by-designer/dorothy-cosonas">Dorothy Cosonas</a> 
 </li>
 <li>
-<a href="/shop/by-designer/formway-design">Formway Design</a>
+<a href="/shop/by-designer/formway-design">Formway Design</a> 
 </li>
 <li>
-<a href="/shop/by-designer/emanuela-frattini-magnusson">Emanuela Frattini Magnusson</a>
+<a href="/shop/by-designer/emanuela-frattini-magnusson">Emanuela Frattini Magnusson</a> 
 </li>
 <li>
-<a href="/shop/by-designer/frank-gehry">Frank Gehry</a>
+<a href="/shop/by-designer/frank-gehry">Frank Gehry</a> 
 </li>
 <li>
-<a href="/shop/by-designer/alexander-girard">Alexander Girard</a>
+<a href="/shop/by-designer/alexander-girard">Alexander Girard</a> 
 </li>
 <li>
-<a href="/shop/by-designer/suzanne-huguenin">Suzanne Huguenin</a>
+<a href="/shop/by-designer/suzanne-huguenin">Suzanne Huguenin</a> 
 </li>
 <li>
-<a href="/shop/by-designer/jehslaub">Jehs+Laub</a>
+<a href="/shop/by-designer/jehslaub">Jehs+Laub</a> 
 </li>
 <li>
-<a href="/shop/by-designer/florence-knoll">Florence Knoll</a>
+<a href="/shop/by-designer/florence-knoll">Florence Knoll</a> 
 </li>
 <li>
-<a href="/shop/by-designer/marc-krusin">Marc Krusin</a>
+<a href="/shop/by-designer/marc-krusin">Marc Krusin</a> 
 </li>
 <li>
-<a href="/shop/by-designer/maya-lin">Maya Lin</a>
+<a href="/shop/by-designer/maya-lin">Maya Lin</a> 
 </li>
 <li>
-<a href="/shop/by-designer/piero-lissoni">Piero Lissoni</a>
+<a href="/shop/by-designer/piero-lissoni">Piero Lissoni</a> 
 </li>
 </ul>
 <ul class="span6">
@@ -462,10 +467,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="/shop/by-designer/rodarte">Rodarte</a>
 </li>
 <li>
-<a href="/shop/by-designer/eero-saarinen">Eero Saarinen</a>
+<a href="/shop/by-designer/richard-sapper">Richard Sapper</a>
 </li>
 <li>
-<a href="/shop/by-designer/richard-sapper">Richard Sapper</a>
+<a href="/shop/by-designer/Eero-Saarinen">Eero Saarinen</a>
 </li>
 <li>
 <a href="/shop/by-designer/ruth-adler-schnee">Ruth Adler Schnee</a>
@@ -488,27 +493,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 </section>
 </li>
-<li>
-<a href="/shop/knolltextiles">KnollTextiles</a>
+<li> 
+<a href="/shop/knolltextiles">KnollTextiles</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
-<a href="/shop/knolltextiles/recent-introductions">Recent Introductions</a>
+<a href="/shop/knolltextiles/recent-introductions">Recent Introductions</a> 
 </li>
 <li>
-<a href="/shop/knolltextiles/drapery">Drapery</a>
+<a href="/shop/knolltextiles/drapery">Drapery</a> 
 </li>
 <li>
-<a href="/shop/knolltextiles/wallcovering">Wallcovering</a>
+<a href="/shop/knolltextiles/wallcovering">Wallcovering</a> 
 </li>
 <li>
-<a href="/shop/knolltextiles/upholstery">Upholstery</a>
+<a href="/shop/knolltextiles/upholstery">Upholstery</a> 
 </li>
 <li>
-<a href="/shop/knolltextiles/panel-fabrics">Panel Fabrics</a>
+<a href="/shop/knolltextiles/panel-fabrics">Panel Fabrics</a> 
 </li>
 <li>
-<a href="/shop/knolltextiles/healthcare">Healthcare</a>
+<a href="/shop/knolltextiles/healthcare">Healthcare</a> 
 </li>
 </ul>
 <ul class="span6">
@@ -527,11 +532,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>
 <a href="/shop/knolltextiles/knoll-luxe">Knoll Luxe</a>
 </li>
+<li>
+<a href="/shop/knolltextiles/last-call-knolltextiles">Last Call KnollTextiles</a>
+</li>
 </ul>
 </section>
 </li>
-<li>
-<a href="/shop/inspiration">Inspiration</a>
+<li> 
+<a href="/shop/inspiration">Inspiration</a> 
 </li>
 </ul>
 </section>
@@ -540,21 +548,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a class="level1" href="/design-plan">Design &amp; Plan</a>
 <section class="sub_menu">
 <ul>
-<li>
-<a href="/design-plan/planning">Planning</a>
+<li> 
+<a href="/design-plan/planning">Planning</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
-<a href="/design-plan/planning/revolution-workplace">r/evolution workplace™</a>
+<a href="/design-plan/planning/revolution-workplace">r/evolution workplace™</a> 
 </li>
 <li>
-<a href="/design-plan/planning/open-plan">Open Plan</a>
+<a href="/design-plan/planning/open-plan">Open Plan</a> 
 </li>
 <li>
-<a href="/design-plan/planning/private-offices">Private Office</a>
+<a href="/design-plan/planning/private-offices">Private Office</a> 
 </li>
 <li>
-<a href="/design-plan/planning/activity-spaces">Activity Spaces</a>
+<a href="/design-plan/planning/activity-spaces">Activity Spaces</a> 
 </li>
 </ul>
 <ul class="span6">
@@ -565,49 +573,168 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="/design-plan/planning/ergonomics">Workplace Ergonomics</a>
 </li>
 <li>
+<a href="/design-plan/planning/knoll-residential">Residential </a>
+</li>
+<li>
 <a href="/Typicals/search" target="_self">Planning Ideas Library</a>
 </li>
 </ul>
 </section>
 </li>
-<li>
-<a href="/design-plan/products">Products</a>
-<section class="sub_menu_level3">	
+<li> 
+<a href="/design-plan/products">Products</a> 
+<section class="sub_menu_level3 superNav">	
 <ul class="span6">
-<li>
-<a href="/design-plan/products/by-category">By Category</a>
+<li class="superNav3">By Category</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/systems-furniture">Systems Furniture</a> 
 </li>
-<li>
-<a href="/design-plan/products/by-brand">By Brand</a>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/spine-based-planning">Technology Walls + Spine-based Planning</a> 
 </li>
-<li>
-<a href="/design-plan/products/by-application">By Application</a>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/ergonomic-products">Ergonomic Products</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/seating">Task Seating</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/side-seating">Side Seating</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/lounge">Lounge Seating</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/tables">Tables</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/height-adjustable-tables/height-adjustable-desks">Height-Adjustable Tables + Desks</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/desks">Desks</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/files-and-storage">Files and Storage</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/accessories">Accessories </a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/outdoor">Outdoor</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-category/residential">Residential</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-brand/knolltextiles">Textiles</a>
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/knoll-essentials" target="_self">Knoll Essentials</a>
 </li>
 </ul>
 <ul class="span6">
-<li>
-<a href="/design-plan/products/by-designer">By Designer</a>
+<li class="superNav3">By Application</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-application/open-plan">Open Plan Environments</a> 
 </li>
-<li>
-<a href="/design-plan/knoll-essentials" target="_self">Knoll Essentials</a>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-application/activity-spaces">Activity Spaces</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-application/private-office">Private Office</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-application/conference-and-meeting">Conference and Meeting</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-application/administrative-areas">Administrative Areas</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-application/reception-and-lounge">Reception and Lounge</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-application/training-and-classroom">Training and Classroom</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-application/dining-and-cafe">Dining and Café </a> 
+</li>
+</ul>
+<ul class="span6">
+<li class="superNav3">By Designer</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/adjaye">David Adjaye</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/antenna">Antenna Design</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/edward-barber-jay-osgerby">Edward Barber + Jay Osgerby</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/harry-bertoia">Harry Bertoia</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/chadwick">Don Chadwick</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/formway">Formway Design</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/krusin">Marc Krusin</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/knoll">Florence Knoll</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/mies-van-der-rohe">Ludwig Mies van der Rohe</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/saarinen">Eero Saarinen</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer/sapper">Richard Sapper</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-designer" target="_self">VIEW ALL</a>
+</li>
+</ul>
+<ul class="span6">
+<li class="superNav3">By Brand</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-brand/knolloffice">Knoll Office</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-brand/knollstudio">KnollStudio</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-brand/knollextra">KnollExtra</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-brand/knolltextiles">KnollTextiles</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-brand/spinneybeck-design">Spinneybeck</a> 
+</li>
+<li class="superNav4"> 
+<a href="/design-plan/products/by-brand/filzfelt-design">FilzFelt</a> 
 </li>
 </ul>
 </section>
 </li>
-<li>
+<li> 
 <a href="/design-plan/resources/research" target="_self">Research</a>
 <section class="sub_menu_level3">	
 <ul class="span6">
-<li>
+<li> 
 <a href="/design-plan/resources/research?tp=Case+Studies%3B" target="_self">Case Studies</a>
 </li>
-<li>
+<li> 
 <a href="/design-plan/resources/research?tp=Ergonomics%3B" target="_self">Ergonomics</a>
 </li>
-<li>
+<li> 
 <a href="/design-plan/resources/research?tp=Industry+Sectors%3B" target="_self">Industry Sectors</a>
 </li>
-<li>
+<li> 
 <a href="/design-plan/resources/research?tp=Infographics%3B" target="_self">Infographics</a>
 </li>
 </ul>
@@ -627,51 +754,57 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 </section>
 </li>
-<li>
-<a href="/design-plan/market-focus">Market Focus </a>
+<li> 
+<a href="/design-plan/market-focus">Market Focus </a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
-<a href="/design-plan/market-focus/knoll-healthcare-solutions">Healthcare</a>
+<a href="/design-plan/market-focus/knoll-healthcare-solutions">Healthcare</a> 
 </li>
 <li>
-<a href="/design-plan/market-focus/small-business-and-startups">Small Business and Startups</a>
+<a href="/design-plan/market-focus/small-business-and-startups">Small Business and Startups</a> 
 </li>
 <li>
-<a href="/design-plan/market-focus/higher-education">Higher Education</a>
+<a href="/design-plan/market-focus/higher-education">Higher Education</a> 
+</li>
+<li>
+<a href="/design-plan/market-focus/knoll-for-government">Government/GSA</a> 
 </li>
 </ul>
 <ul class="span6">
-<li>
-<a href="/design-plan/market-focus/knoll-for-government">Government/GSA</a>
-</li>
 <li>
 <a href="/design-plan/market-focus/canadian-federal-government">Canadian Federal Government</a>
 </li>
 <li>
 <a href="/design-plan/market-focus/knoll-for-legal">Legal</a>
 </li>
+<li>
+<a href="/design-plan/market-focus/knoll-global-business-division">Global Business Division</a>
+</li>
+<li>
+<a href="/design-plan/market-focus/knoll-residential">Residential </a>
+</li>
 </ul>
 </section>
 </li>
-<li>
-<a href="/design-plan/resources">Resources</a>
+<li> 
+<a href="/design-plan/resources">Resources</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
-<a href="/design-plan/resources/media-bank">Media Bank</a>
+<a href="/design-plan/resources/media-bank">Media Bank</a> 
 </li>
 <li>
-<a href="/design-plan/resources/surface-finishes">Surface Finishes</a>
+<a href="/design-plan/resources/surface-finishes">Surface Finishes</a> 
 </li>
 <li>
-<a href="/design-plan/resources/project-profiles">Project Profiles</a>
+<a href="/design-plan/resources/project-profiles">Project Profiles</a> 
 </li>
 <li>
-<a href="/design-plan/resources/research">Research</a>
+<a href="/design-plan/resources/research">Research</a> 
 </li>
 <li>
-<a href="/design-plan/resources/brochures">Brochures</a>
+<a href="/design-plan/resources/brochures">Brochures</a> 
 </li>
 </ul>
 <ul class="span6">
@@ -693,11 +826,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 </section>
 </li>
-<li>
-<a href="/design-plan/teams">Teams</a>
+<li> 
+<a href="/design-plan/teams">Teams</a> 
 </li>
-<li>
-<a href="/design-plan/knoll-essentials">Knoll Essentials</a>
+<li> 
+<a href="/design-plan/knoll-essentials">Knoll Essentials 2015</a> 
 </li>
 </ul>
 </section>
@@ -706,43 +839,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a class="level1" href="/discover-knoll">Discover Knoll</a>
 <section class="sub_menu">
 <ul>
-<li>
-<a href="/discover-knoll/news">News</a>
+<li> 
+<a href="/discover-knoll/news">News</a> 
 </li>
-<li>
-<a href="/discover-knoll/sales-teams">Teams</a>
+<li> 
+<a href="/discover-knoll/sales-teams">Teams</a> 
 </li>
-<li>
-<a href="/discover-knoll/our-story">Our Story</a>
+<li> 
+<a href="/discover-knoll/our-story">Our Story</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
-<a href="/discover-knoll/our-story/knoll-museum">Knoll Museum</a>
+<a href="/discover-knoll/our-story/knoll-museum">Knoll Museum</a> 
 </li>
 </ul>
-</section>
+</section></li>
+<li> 
+<a href="/discover-knoll/designers">Designers</a> 
 </li>
-<li>
-<a href="/discover-knoll/designers">Designers</a>
-</li>
-<li>
-<a href="/discover-knoll/timeline">Timeline</a>
+<li> 
+<a href="/discover-knoll/timeline">Timeline</a> 
 <section class="sub_menu_level3">	
 <ul class="span6">
 <li>
-<a href="/discover-knoll/timeline/1920">1920</a>
+<a href="/discover-knoll/timeline/1920">1920</a> 
 </li>
 <li>
-<a href="/discover-knoll/timeline/1930">1930</a>
+<a href="/discover-knoll/timeline/1930">1930</a> 
 </li>
 <li>
-<a href="/discover-knoll/timeline/1940">1940</a>
+<a href="/discover-knoll/timeline/1940">1940</a> 
 </li>
 <li>
-<a href="/discover-knoll/timeline/1950">1950</a>
+<a href="/discover-knoll/timeline/1950">1950</a> 
 </li>
 <li>
-<a href="/discover-knoll/timeline/1960">1960</a>
+<a href="/discover-knoll/timeline/1960">1960</a> 
 </li>
 </ul>
 <ul class="span6">
@@ -764,7 +896,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 </section>
 </li>
-<li>
+<li> 
 <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=66169&amp;p=irol-irhome" target="_self">Investor Relations</a>
 </li>
 </ul>
@@ -785,6 +917,9 @@ $( 'section#navigation ul li:first-child' ).addClass( "active" );
 } else if( url.indexOf( '/knolltextileproductdetail' ) >= 0 ) {
 window.console && console.log( "Selecting Shop & Browse for Textiles" );
 $( 'section#navigation ul li:first-child' ).addClass( "active" );
+} else if( url.indexOf( '/myknollgallery' ) >= 0 ) {
+window.console && console.log( "Selecting myknollgallery" );
+$( 'section#navigation ul li:first-child' ).addClass( "active" );
 } else if( url.indexOf( '/Typicals' ) >= 0 ) {
 window.console && console.log( "Selecting Design & Plan for Typicals" );
 $( 'section#navigation ul li:first-child + li' ).addClass( "active" );
@@ -798,7 +933,7 @@ $( 'li[data-urlPath=' + path + ']' ).addClass( "active" );
 </script>
 </section>
 <section class="right_header">
-<form action="/" method="POST" id="logout"><input type="HIDDEN" name="_authkey_" value="17D20A00A77EEEADB05E468B1FA9FC1A75A061171B1CA9CAFDE4454208D987DF5BC4AF1C1DF40A6E9138869F0592F4D7">
+<form action="/" method="POST" id="logout"><input type="HIDDEN" name="_authkey_" value="90661871F1ADEC9CD2819CD60FA6A68DC29E6F89493A961BA1643C41D85221C91DC542A227ADF7C2EA5A52561A7FE219">
 <input type="hidden" name="logout" value="true">
 <input type="hidden" name="c" value="Page">
 <input type="hidden" name="childpagename" value="Knoll/Knoll_SplashPageLayout">
@@ -811,13 +946,23 @@ $( 'li[data-urlPath=' + path + ']' ).addClass( "active" );
 function logout() {
 //setSiteCookie("_knollguid", "", 365, "/");
 createCookie( "kv", "", -1 );
-document.getElementById( 'logout' ).submit();
-var url = '/myaccount/signout';
+//document.getElementById( 'logout' ).submit();
 $.ajax({
-type: "GET",
-url: url,
+type: "POST",
+url: '/cart/signout',
 success: function() {
 window.console && console.log( "success" );
+},
+error: function() {
+window.console && console.log("failed");
+}
+});
+$.ajax({
+type: "POST",
+url: '/myaccount/signout',
+success: function() {
+window.console && console.log( "success" );
+window.location = '/myaccount/signin';
 },
 error: function() {
 window.console && console.log("failed");
@@ -863,6 +1008,8 @@ document.cookie = name + "=" + value+expires + "; path=/" + domain;
 <script type="text/javascript">
 function validateGlobalSearchForm() {
 var x=document.getElementById( 'search-input' ).value;
+x = negateCrossSiteScripting( x );
+$( '#search-input' ).val( x );
 if( !x || x == null ) { 
 return false;
 } else {
@@ -871,7 +1018,7 @@ if( x == "" ) {
 return false
 }
 }
-x = x.toLowerCase();
+x = x.toLowerCase();	
 if( "autocad" == x ) {
 location.href = "/design-plan/resources/furniture-symbols";
 return false;
@@ -940,6 +1087,7 @@ return false;
 </script>
 <form action="/search-results" method="GET" onsubmit="return validateGlobalSearchForm()" id="globalSearchForm"> 
 <input name="searchtext" id="search-input" type="text" value="" autocomplete="off">
+<!-- parent should equal parent input param -->
 <input type="hidden" name="parent" value="1347383661578">
 <input type="submit" class="sub" value="">
 <div class="search-list" id="main-search-list">
@@ -1009,7 +1157,7 @@ East Greenville, PA 18041<br>
 <li class="first"><a href="/myaccount" target="_self">Sign In</a></li>
 </ul></section>
 <section class="linklist width01"><h3>Here to Help</h3><ul>
-<li class="first"><a href="/contact-us">Contact Us</a></li><li class="first"><a href="/selling-policy">Selling Policy</a></li><li class="first"><a href="/privacy-policy/privacy-policy">Privacy Policy</a></li><li class="first"><a href="/faqs/frequently-asked-questions">FAQs</a></li><li class="first"><a href="/email-preference-center">Email Preference Center</a></li>
+<li class="first"><a href="/contact-us">Contact Us</a></li><li class="first"><a href="/selling-policy">Selling Policy</a></li><li class="first"><a href="/privacy-policy/privacy-policy">Privacy Policy</a></li><li class="first"><a href="/faqs/frequently-asked-questions">FAQs</a></li><li class="first"><a href="/terms-of-use/terms-of-use">Terms of Use</a></li><li class="first"><a href="/email-preference-center">Email Preference Center</a></li>
 </ul></section>
 <section class="linklist width01"><h3>How to Find Us</h3><ul>
 <li class="first"><a href="/flagship-retail-shop">Knoll Home Design Shop</a></li><li class="first"><a href="/location/" target="_self">Locations</a></li><li class="first"><a href="http://www.knoll-int.com/" target="_blank">Knoll International</a></li><li class="first"><a href="/trade-accounts">Trade Accounts</a></li><li class="first"><a href="/discover-knoll/sales-teams">Sales Teams</a></li>
@@ -1025,7 +1173,7 @@ East Greenville, PA 18041<br>
 <fieldset>
 <input type="hidden" name="_charset_">
 <form action="/cs/Satellite/Knoll/email-preference-center" method="get">
-<input type="text" name="email" class="text_box" placeholder="Subscribe to Knoll E-News">
+<input type="text" id="email-preference" name="email" class="text_box" placeholder="Subscribe to Knoll E-News">
 <input type="hidden" name="source" value="sb">
 <input type="submit" value="Sign Up" class="signup_btn">
 </form> 
@@ -1034,18 +1182,19 @@ East Greenville, PA 18041<br>
 <section class="follow_us">
 <h3>Join Us</h3>
 <ul>
-<li><a href="http://www.facebook.com/knollinc"><img src="/images/facebook.gif" alt="facebook"></a></li>
 <li><a href="http://twitter.com/knoll_inc"><img src="/images/twitter.gif" alt="twitter"></a></li>
+<li><a href="http://www.facebook.com/knollinc"><img src="/images/facebook.gif" alt="facebook"></a></li>
+<li><a href="http://instagram.com/knollinc#"><img alt="instagram" src="/images/instagram.gif"></a></li>
+<li><a href="http://knollinc.tumblr.com/"><img alt="tumblr" src="/images/tumblr_logo.gif"></a></li>
 <li><a href="http://www.youtube.com/user/knolldesign"><img src="/images/youtube.gif" alt="youtube"></a></li>
 <li><a href="http://pinterest.com/knolldesign/"><img alt="pinterest" src="/images/pinterest_logo.gif"></a></li>
-<li><a href="http://knollinc.tumblr.com/"><img alt="tumblr" src="/images/tumblr_logo.gif"></a></li>
-<li><a href="http://instagram.com/knollinc#"><img alt="instagram" src="/images/instagram.png"></a></li>
+<li><a href="http://www.mymorpholio.com/site.php/home/member/id/ub6UdesHydGbfQGZ"><img src="/images/morpholio.gif" alt="morpholio"></a></li>
 </ul>
-</section>
 <section class="nda">
 <ul>
 <li><a href="/knollnewsdetail/knoll-wins-the-prestigious-smithsonians-cooper-hewitt-national-design-award"><img alt="nda" src="/images/nda_award.gif"></a></li>
 </ul>
+</section>
 </section>
 </section>
 <section class="logolist">
@@ -1094,11 +1243,7 @@ window.open('/cs/Satellite?pagename=Knoll/Common/Utils/AddToMailingList&email='+
 }
 </script>
 <!-- Listrak Analytics - Script Source-->
-<script type="text/javascript">
-var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + biJsHost + "s1.listrakbi.com/scripts/script.js?m=XCQkAdBXToTF&v=1' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s1.listrakbi.com/scripts/script.js?m=XCQkAdBXToTF&amp;v=1" type="text/javascript"></script>
-<!-- Listrak Analytics - Submit Tracking Click-->
+<script type="text/javascript" src="https://cdn.listrakbi.com/scripts/script.js?m=XCQkAdBXToTF&amp;v=1"></script>
 <script type="text/javascript">
 _ltk.Click.Submit();
 <!-- Added By Knoll - Listrak Script for modal 4/18 -->
@@ -1108,9 +1253,15 @@ _ltk.Modal.load("Knoll - Shop and Browse");
 } else if (lk="DP") {
 _ltk.Modal.load("Knoll - Design and Plan");
 }
-} 
+}
+$( document ).ready( function() {
+_ltk.SCA.CaptureEmail('email');
+_ltk.SCA.CaptureEmail('email-preference');
+_ltk.SCA.CaptureEmail('username');
+_ltk.SCA.CaptureEmail('shipToEmail');
+_ltk.SCA.CaptureEmail('billToEmail');
+});
 </script>
-<!-- End of Knoll Add 4/18 -->
 <!-- Google Anylytics 
 <script type="text/javascript">
 var _gaq = _gaq || [];
