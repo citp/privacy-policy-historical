@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103033019id_/http%3A//www.contactatonce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602001053id_/http%3A//www.contactatonce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Contact At Once!
 
@@ -29,6 +29,8 @@ If you request information from us or wish to access certain features of the sit
 ### **Opting Out**
 
 Most customers tell us they appreciate receiving our news and promotions; however, we believe it’s very important for you to be able to choose whether you receive periodic mailings and information from us. You can choose to opt out at any time by simply replying to a mailing to inform us of your preference or by following the unsubscribe instructions within each communication.
+
+Also, we partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ### **Cookies and Other Technologies**
 
