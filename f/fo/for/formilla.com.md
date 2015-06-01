@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formilla.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120145050id_/http%3A//www.formilla.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formilla.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601043550id_/http%3A//www.formilla.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Formilla.com
 
@@ -48,6 +48,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+Our product uses third party IP2Location LITE data available from [http://lite.ip2location.com](http://lite.ip2location.com/)
+
 #### California Online Privacy Protection Act Compliance
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
@@ -66,7 +68,7 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 10/13/2013
+This policy was last modified on 5/17/2015
 
 #### Contacting Us
 
