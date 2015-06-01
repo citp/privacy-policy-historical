@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131510id_/http%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602011742id_/http%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.*
 
 # swimsuitsforall - Privacy Policy
 
