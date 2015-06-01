@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2014-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141030035659id_/http%3A//www.cleverbridge.com/corporate/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602013918id_/http%3A//www.cleverbridge.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - cleverbridge e-commerce
+# Privacy Policy - cleverbridge Full-Service Ecommerce Solutions
 
-cleverbridge (“cleverbridge”, “we”, or “us”) takes the privacy and protection of personal information very seriously. By visiting and using the cleverbridge website located at http://www.cleverbridge.com (the “Site”), you acknowledge and agree that you accept the practices and policies outlined in this privacy policy (“Privacy Policy”). 
+cleverbridge (“ **cleverbridge** ”, “ **we** ”, or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting and using the cleverbridge website located at http://www.cleverbridge.com (the “ **Site** ”), you acknowledge and agree that you accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). 
 
 ## What This Privacy Policy Covers
 
 This Privacy Policy describes cleverbridge’s practices with respect to Personal Information and Anonymous Information that we collect when you visit or use the Site. This Privacy Policy does not apply to (a) the use of your Personal Information that is collected by third parties that cleverbridge does not own or control or that do not support cleverbridge in providing the Site and (b) the collection and use of your Personal Information in connection with a cleverbridge store, which is governed by a separate privacy policy that is provided in connection with such store. 
 
-“Personal Information” is information that is personally identifiable like names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing. 
+“ **Personal Information** ” is information that is personally identifiable like names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing. 
 
-“Anonymous Information” means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. 
+“ **Anonymous Information** ” means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. 
 
 We collect and use Personal Information and Anonymous Information as described in this Privacy Policy. 
 
-BY USING THE SITE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SITE, YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY.
+BY USING THE SITE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SITE, YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY. 
 
-YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY AND BY USING THE SITE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SITE, YOU ARE EXPRESSLY CONSENTING TO SUCH PROCESSING.
+YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY AND BY USING THE SITE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SITE, YOU ARE EXPRESSLY CONSENTING TO SUCH PROCESSING. 
 
 ## Personal Information We Collect
 
@@ -29,7 +29,7 @@ We collect the following Personal Information that you submit to us voluntarily:
 
 ## Information Collected Via Technology
 
-As you visit the Site, certain information may also be collected passively, including your Internet protocol (IP) address the time of your visit. cleverbridge may also stores a small text file called a “Cookie” on your computer that may contain information such as the Internet browser that you are using to access the Site, or the country of language settings of your Internet browser. cleverbridge may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). 
+As you visit the Site, certain information may also be collected passively, including your Internet protocol (IP) address the time of your visit. cleverbridge may also stores a small text file called a “ **Cookie** ” on your computer that may contain information such as the Internet browser that you are using to access the Site, or the country of language settings of your Internet browser. cleverbridge may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). 
 
 ## Use Of Information We Collect
 
@@ -43,7 +43,7 @@ Except as otherwise stated in this Privacy Policy, we do not disclose to or shar
 
 We may provide your Personal Information to third party service providers and suppliers who work on behalf of or with us to provide you with some of the services and features of the Site and to help us communicate with our users and clients. However, these service providers and suppliers do not have any independent right to use this information. 
 
-We may share some or all of your Personal Information with our parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy. 
+We may share some or all of your Personal Information with our parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy. 
 
 In the event cleverbridge goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of cleverbridge or its assets may continue to use your Personal Information as set forth in this Privacy Policy. You hereby consent to cleverbridge sharing your Personal Information under the above circumstances. 
 
@@ -72,3 +72,11 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 ## Contact Us
 
 If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to privacy(at)cleverbridge.com. 
+
+Let’s get started! Fill out the form below and one of our sales representatives will be in touch shortly.
+
+If you have a charge on your credit card from cleverbridge, lost your license key or have a question about your purchase, our [Customer Service](https://support.cleverbridge.com/hc/en-us) team can help.
+
+Request a demo
+
+What color is the sky?
