@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetruthaboutcancer.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203070845id_/http%3A//thetruthaboutcancer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcancer.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602005237id_/http%3A//thetruthaboutcancer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - The Truth About Cancer
+# Privacy policy
 
 ### How We Treat Your Personal Information
 
