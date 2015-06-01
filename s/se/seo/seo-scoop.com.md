@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221164601id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601063708id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy | Search Engine People Blog
+# Online Privacy Policy - Search Engine People
 
 **What information do we collect?**
 
