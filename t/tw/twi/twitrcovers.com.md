@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitrcovers.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120044139id_/http%3A//www.twitrcovers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitrcovers.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601085459id_/http%3A//www.twitrcovers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TwitrCovers
 
