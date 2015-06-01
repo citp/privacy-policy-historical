@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertydirect.in privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203185220id_/http%3A//www.propertydirect.in/home/home/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertydirect.in privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602011341id_/http%3A//www.propertydirect.in/home/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - propertyDirect.in
 
@@ -15,4 +15,4 @@ The [propertydirect.in](http://www.propertydirect.in/) website is owned and oper
 
 Except where you are explicitly informed, propertDirect.in do not sell, rent, share, trade or give away any of your personal information. [propertydirect.in](http://www.propertydirect.in/) may tie-up with partners to bring you various services. However, we will never share your personal information, without your explicitly permission. Still, we encourage you to review the privacy policy of the partner for questions about their use, any personally identifiable information that you may separately submit to such partner. If we change our privacy policy, we will prominently post a link to those changes on our Homepage so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify you by way of an email. We will give you a choice as to whether or not we can use information in this different manner and act accordingly. 
 
-If you have questions or concerns regarding this statement, please write to us: [Contact Us](https://web.archive.org/web/20121203185220id_/http%3A//www.propertydirect.in/home/home/contactUs.faces)
+If you have questions or concerns regarding this statement, please write to us: [Contact Us](https://web.archive.org/web/20150602011341id_/http%3A//www.propertydirect.in/home/contactUs.faces)
