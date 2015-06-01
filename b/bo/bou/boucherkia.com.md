@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boucherkia.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204050423id_/http%3A//boucherkia.com/page/Privacypolicy/master/secondary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boucherkia.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601025426id_/http%3A//boucherkia.com/page/Privacypolicy/master/secondary) for the most accurate reproduction.*
 
 # Frank Boucher Kia of Racine | WI New Kia & Used Car Dealer
 
-This statement is effective as of May 14, 2014. [Please see previous version here.](https://web.archive.org/web/20141204050423id_/http%3A//boucherkia.com/page/PrivacypolicyPrevious/master/secondary)
+This statement is effective as of May 14, 2014. [Please see previous version here.](https://web.archive.org/web/20150601025426id_/http%3A//boucherkia.com/page/PrivacypolicyPrevious/master/secondary)
 
 ## Introduction
 
@@ -110,7 +110,7 @@ Advertising that is customized based on predictions generated over time from you
 
 We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement. 
 
-Some companies disclose when they are using interest-based advertising programs on our website to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon  in or around third-party advertisements on our website that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices), [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.evidon.com](https://web.archive.org/web/20141204050423id_/http%3A//boucherkia.com/page/Privacypolicy/master/www.evidon.com). Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
+Some companies disclose when they are using interest-based advertising programs on our website to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon  in or around third-party advertisements on our website that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices), [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.evidon.com](https://web.archive.org/web/20150601025426id_/http%3A//boucherkia.com/page/Privacypolicy/master/www.evidon.com). Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
 
 ## Information We Share
 
