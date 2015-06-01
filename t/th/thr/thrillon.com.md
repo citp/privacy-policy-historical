@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrillon.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020635id_/http%3A//www.thrillon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillon.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602014532id_/http%3A//www.thrillon.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Thrill On
 
@@ -119,9 +119,9 @@ To ask questions or comment about this Privacy Policy and our privacy practices,
 
 Thrill On, Inc.
 
-7825 Washington Avenue, Fifth Floor
+100 North Sixth Street, Suite 670A
 
-Minneapolis, Minnesota 55439
+Minneapolis, MN 55403
 
 [team@thrillon.com](mailto:team@thrillon.com)
 
