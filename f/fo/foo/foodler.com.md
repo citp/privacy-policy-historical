@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodler.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204195901id_/http%3A//www.foodler.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodler.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601233336id_/http%3A//www.foodler.com/privacy.do) for the most accurate reproduction.*
 
-# Privacy Policy | Foodler
+# Privacy Policy
 
 ## Information Collection
 
