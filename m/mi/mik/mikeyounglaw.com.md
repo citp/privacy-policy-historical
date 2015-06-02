@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218162152id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602071955id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Internet Lawyer - Internet Business Lawyer Mike Young - Internet Attorney
+# Privacy Policy - Texas Internet Lawyer - Internet Business Lawyer Mike Young - Internet Attorney
 
 This is the website of Internet Lawyer Mike Young’s Law Office of Michael E. Young PLLC, a Texas professional limited liability company.
 
@@ -16,7 +16,7 @@ For each visitor to this website, the Web server automatically recognizes no inf
 
 The law firm collects the e-mail addresses of those who post messages to the blog, the e-mail addresses of those who communicate with the firm via e-mail, aggregate information on what pages website visitors access or visit, information volunteered by the visitor, such as survey information and/or site registrations.The information collected is used to improve the content of this website.
 
-With respect to cookies: this website does not set any cookies.
+With respect to cookies: this website sets cookies to customize the welcome greeting you receive as a visitor.
 
 If you do not want to receive e-mail from [Internet Lawyer Young](http://mikeyounglaw.com/category/internet-lawyer-2/) or the law firm in the future, please let us know by sending an e-mail at the above address.
 
@@ -32,4 +32,4 @@ Upon request, we provide site visitors with access to a description of informati
 
 If you feel that this Internet lawyer site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-This policy was last updated on July 29, 2013.
+This policy was last updated on January 29, 2015.
