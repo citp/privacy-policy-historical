@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vzochat.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615145617id_/http%3A//www.conferendo.com/en/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzochat.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602204316id_/http%3A//ww3.conferendo.com/en/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement / Free Video Chat Conferendo
 
-[conferen.do](http://www.conferendo.com/en/Default.aspx) is a service of TrueConf LLC('TRUECONF').
+[conferen.do](http://ww3.conferendo.com/en/Default.aspx) is a service of TrueConf LLC('TRUECONF').
 
 TRUECONF is committed to protecting your privacy at all times. We do not sell, rent or lease any of the information collected to third parties without your prior permission. This Statement of Privacy governs data collection and usage at all TRUECONF sites and services, including Conferendo.
 
@@ -28,7 +28,7 @@ TRUECONF uses 'cookies' to help deliver a convenient, personalized online experi
 
 One of the primary purposes of a cookie is to provide a better online experience. However you have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer.
 
-If you choose to decline cookies, you will not be able to use some interactive features within the [Conferendo.com](http://www.conferendo.com/en/Default.aspx).
+If you choose to decline cookies, you will not be able to use some interactive features within the [Conferendo.com](http://ww3.conferendo.com/en/Default.aspx).
 
 ## Control your Personal Information
 
