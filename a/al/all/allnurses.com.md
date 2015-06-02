@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212220543id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602022124id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
 
-# Privacy Policy for Nurses | Nursing Students
-
-This site is owned and operated by ALLNURSES.COM, INC. . Your privacy on the Internet is of the utmost importance to us. We want to make your online experience satisfying and safe.
-
-## Commitment To Your Privacy
+# Privacy Policy
 
 This site is owned and operated by ALLNURSES.COM, INC. . Your privacy on the Internet is of the utmost importance to us. We want to make your online experience satisfying and safe. 
 
@@ -17,9 +13,9 @@ We invite you to contact us if you have questions about this policy. You may con
     261 School Ave Suite 300 
     Excelsior, MN 55331
 
-Or, you may contact us by [email](http://allnurses.com/sendmessage.php) or via Private Message.
+Or, you may contact us by [email](https://web.archive.org/web/20150602022124id_/http%3A//allnurses.com/sendmessage.php) or via Private Message.
 
-Our [Terms of Service](http://allnurses.com/terms-info.html "Terms of Service")
+Our [Terms of Service](https://web.archive.org/web/20150602022124id_/http%3A//allnurses.com/terms-info.html "Terms of Service")
 
 ## Information This Site Gathers And Tracks
 
@@ -128,7 +124,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
     * Google, as a third party vendor, uses cookies to serve ads on ALLNURSES.COM, INC. 
     * Google's use of the DART cookie enables it to serve ads to users based on their visit to ALLNURSES.COM, INC. and other sites on the Internet. 
     * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [Google Advertisement](http://www.google.com/policies/technologies/ads/)
-    * [How Google uses data when you use our partners’ sites or apps](http://www.google.com/policies/privacy/partners/)
+    * [How Google uses data when you use our partners sites or apps](http://www.google.com/policies/privacy/partners/)
   * **Amazon**
 
 
