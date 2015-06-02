@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydestination.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221095442id_/http%3A//www.mydestination.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydestination.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602222236id_/http%3A//www.mydestination.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy My Destination - My Destination
 
@@ -81,4 +81,4 @@ MY DESTINATION may amend this Privacy Policy from time to time and such amendmen
 
 This Privacy Policy will be governed by English law and the parties hereby submit to the exclusive jurisdiction of the English courts.
 
-"Once you step onto the road, and you don't keep your feet, there's no telling where you might be swept off to" \- J.R.R. Tolkien
+"People travel to faraway places to watch, in fascination, the kind of people they ignore at home" \- Dagobert D. Runes
