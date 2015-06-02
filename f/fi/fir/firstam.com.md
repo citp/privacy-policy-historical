@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214173847id_/http%3A//www.firstam.com/about/company-information/privacy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstam.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602030708id_/http%3A//www.firstam.com/about/company-information/privacy-information.html) for the most accurate reproduction.*
 
 # Privacy Information - First American - About - Company Information
-
-### We Are Committed to Safeguarding Customer Information
 
 In order to better serve your needs now and in the future, we may ask you to provide us with certain information. We understand that you may be concerned about what we will do with such information - particularly any personal or financial information. We agree that you have a right to know how we will utilize the personal information you provide to us. Therefore, together with our subsidiaries we have adopted this Privacy Policy to govern the use and handling of your personal information.
 
@@ -48,8 +46,6 @@ Some of First American's Web sites may make use of "cookie" technology to measur
 
 FirstAm.com uses stored cookies. The goal of this technology is to better serve you when visiting our site, save you time when you are here and to provide you with a more meaningful and productive Web site experience.
 
-### Fair Information Values
-
   
 **Fairness** We consider consumer expectations about their privacy in all our businesses. We only offer products and services that assure a favorable balance between consumer benefits and consumer privacy.
 
@@ -62,7 +58,3 @@ FirstAm.com uses stored cookies. The goal of this technology is to better serve 
 **Education** We endeavor to educate the users of our products and services, our employees and others in our industry about the importance of consumer privacy. We will instruct our employees on our fair information values and on the responsible collection and use of data. We will encourage others in our industry to collect and use information in a responsible manner.
 
 **Security** We will maintain appropriate facilities and systems to protect against unauthorized access to and corruption of the data we maintain.
-
-|  |   
----|---|---  
-|  | 
