@@ -1,71 +1,13 @@
-> *The following text is extracted and transformed from the befonts.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227224358id_/http%3A//befonts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the befonts.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602022619id_/http%3A//befonts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Fonts
 
 [Home](http://befonts.com/) Privacy Policy
 
-**The following is an outline of** **Befonts.com** Privacy Policy.
+Your privacy is an important part of our relationship with you. Protecting your privacy is just [one](http://befonts.com/nudely-font.html) part of our mission to provide you a safe web environment. When you email us, your information will remain confidential. Posts made in our forum are open to public viewing so please do not submit any person information. We do not take any responsibility for such actions, it is your sole responsibility, so post content that will be appropriate and safe to be used on such medium. We, will not share, rent or trade any of your information with any third parties. When you visit our website, we collect some [technical](http://befonts.com/le-havre.html) information related to your [computer](http://befonts.com/vox-font-family.html) and the manner in which you are accessing our site and includes such information as the internet protocol (IP) address of your computer, what operating system your computer is using, what browser software (e.g., Explorer, Netscape or other) your computer is using, and who your Internet service provider is, the [Uniform](http://befonts.com/uniform.html) Resource Locator (‘URL’) of the web site from which you just came and the URL to which you go next and certain operating metrics, such as the amount of time you use our website. This general information may be used to help us better understand how our site is viewed and used. We may share some general information about our site with our [business](http://befonts.com/vox-font-family.html) partners or the general public. For example, we may share information regarding the daily number of unique users to our site with potential [corporate](http://befonts.com/chameleon.html) partners or advertising opportunities. This information does not contain any of your personal data that can be used to contact you or identify you.
 
-•General
+When we place links or advertising banners to other sites from our website, please note that we do not control the content, practices or privacy policies of any of these other sites. We do not endorse or hold ourselves responsible for the privacy policies or information gathering practices of any other websites, other than sites run by us.
 
-At **Befonts.com** we know that your number [one](http://befonts.com/nudely-font.html) concern is that we meet the security and privacy standards you expect. You should be aware of the following safety and privacy issues when you browse our website.
+We use the highest security [standard](http://befonts.com/press-gothic.html) available to protect your personally identifiable information while it is in transit to us. All data stored on our servers is protected by a secure ‘firewall’ so that no unauthorized use or activity can take place. Although we will make every effort to safeguard your personal information from loss, misuse or alteration by third parties, you should be aware that there is always some risk that thieves may find a way to thwart our security system or that transmissions over the Internet will be intercepted.
 
-**What information is collected by Befonts.com?**
-
-Standard use of the Site
-
-In general, you can browse the Site without telling us who you are or revealing any personal information. The only information we gather during a general navigation on the Site is the information intended for the server logs: IP (Internet Protocol) address, domain name, browser [type](http://befonts.com/1000-open-type-fonts.html), operating system and information such as the site from which you are connected, pages visited, and the dates and times of those visits.
-
-Collect of Personal Information
-
-If you subscribe to a newsletter, log on, request information, send any comments or if you join a discussion group or electronic mailing list, you will need to provide some personal information : name and e-mail address, for example. Such information is collected only with your permission and is stored in different databases and mailing lists belonging to Befonts.com.
-
-The registration of personal information leads to the submission of a cookie* on certain [parts](http://befonts.com/candlescript-pro-parts.html) of Befonts.com. By setting this cookie, Befonts.com will remember your personal details at the next visit so you do not have to re-enter the same information. This helps us to improve the quality of services that we offer.
-
-Participation in electronic discussion groups means that other participants in the group that you have chosen (including those who are not Site Administrators) will be aware of any personal information that you choose to disclose. In some [open](http://befonts.com/1000-open-type-fonts.html) discussion groups the information is public.
-
-**What does Befonts.com do with the information it collects?**
-
-Standard use of the Site
-
-The information collected during the navigation in the “Befonts.com” area is used to analyze trends and the use of the site in order to improve its usefulness. No personal information is attached there.
-
-Personal Information
-
-Befonts.com may use such information to:
-
-  * Contact you – either in response to a request or a suggestion, or to send you news, documents, publications, and so on;
-  * Confirm your entries on the site;
-
-  * “Remember” your online profile and preferences;
-
-  * Statistical analysis performing.
-
-
-
-
-**What will happen if I do not want to provide personal information?**
-
-Providing personal information on the Site is optional. If you do not want to deliver information of this kind, you can always surf the Site, but you will not be able to access the entire Service and its Information.
-
-Removal or modification of information
-
-You can delete or modify your personal information at any time by returning to the page where you registered them or by contacting the coordinator of the page. If the page in question does not provide any information on this subject, you can contact privacy(at)theme123(dot)net for more information.
-
-If you are not the issuer of personal information that concerns you and want to have it removed, you can send your request to privacy(at)theme123(dot)net
-
-Security
-
-The personal data entrusted to the Site will not be sold or transferred to any third party. Any information provided to Befonts.com by users of the Site is preserved with the utmost care and maximum safety. It will be used only in the manner described in this privacy policy, or according to the special rules of visited sites or in a manner to which you have explicitly consented.Befonts.com uses techniques and a variety of measures to ensure the safety of information stored in its systems and protects them from loss, misuse, unauthorized access, disclosure, alteration, or destruction.
-
-All our volunteers who have access to personal information or are associated with the processing of these data, are obliged to respect the confidentiality of every user of the Site, which covers the personal information.
-
-The Site provides links to sites outside the “Befonts.com” area and could not be held responsible for the privacy practices or the content located on them.
-
-Modifications
-
-Any modification of these terms can be made at any time without prior publication or announcement.
-
-Contact
-
-**Send the infringement notice via Email: iwdefy177@gmail.com**
+We may, from time to time, amend our Privacy Policy. We reserve the right, at our discretion, to change, modify, add or remove portions of our Privacy Policy at any time and from time to time. These changes will be posted for general public view. When you visit our website, you agree to all terms of our privacy policy and our disclaimer. Your continued use of this website constitutes your continued agreement to these terms. If you do not agree with the terms of our Privacy Policy, you should cease using our website.
