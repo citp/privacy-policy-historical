@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovefreethings.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005132433id_/http%3A//www.ilovefreethings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovefreethings.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602214203id_/http%3A//www.ilovefreethings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Love Free Things
 
