@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wardhanime.net privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229151724id_/http%3A//wardhanime.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wardhanime.net privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602022502id_/http%3A//wardhanime.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « AWSubs | Accelerated Words Subs
 
