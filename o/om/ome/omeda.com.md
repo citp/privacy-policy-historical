@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omeda.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331074347id_/http%3A//www2.omeda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omeda.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602080128id_/http%3A//www2.omeda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Omeda
+# Privacy Policy | Omeda | Integrated marketing services
 
 Omeda is a leader in providing outsourced technology, database, and customer data solutions. Our Corporate Website Privacy Policy applies to individuals, prospects, and customers who visit our site. It does not apply to any of the subscription or survey web pages and marketing micro-sites that we host on behalf of our customers. Our customers, including their pages and micro-sites, each have their own unique privacy policies. Please be aware that Omeda is not responsible for the privacy practices of other sites.
 
@@ -53,4 +53,4 @@ This Policy is the sole authorized statement of Omeda’s practices with respect
 
 This website contains links to other sites. The inclusion of any link does not imply our endorsement of the external site company, its website, or the products and services it promotes and sells. Please be aware that Omeda is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website that collects personally identifiable information. This privacy statement applies solely to information collected by Omeda.
 
-_Last revised July 15, 2008_
+_Last revised July 28, 2014_
