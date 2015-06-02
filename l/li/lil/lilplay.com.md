@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilplay.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703012924id_/http%3A//www.lilplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilplay.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602022505id_/http%3A//www.lilplay.com/privacy) for the most accurate reproduction.*
 
 # lilplay.com - Privacy Policy
 
