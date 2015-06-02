@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203347id_/http%3A//appirio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602035218id_/http%3A//appirio.com/privacy) for the most accurate reproduction.*
 
 # Appirio, Inc. Privacy Policy - Appirio
 
 [](https://privacy.truste.com/privacy-seal/Appirio-Inc/validation?rid=8f5bcc44-bbcc-4021-8104-1c889c1a5710 "TRUSTe European Safe Harbor certification")
 
   
-Appirio Inc (“Appirio”) has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/)  including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.appirio.com](http://www.appirio.com/).
+Appirio Inc (“Appirio”) has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.appirio.com](http://www.appirio.com/).
 
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [security@appirio.com](mailto:security@appirio.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) .
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 This privacy statement covers the Web site [www.appirio.com](http://www.appirio.com/) (“Site”) and personally identifiable information about users of our services and products (“Services”) . Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -39,31 +39,35 @@ In performing and providing our Services to you, we may have access to personall
 
 We use your personally identifiable information for the purposes for which it was collected as set forth above and not for promotional purposes or for use by third parties for promotional purposes.
 
-**Cookies**
+**Cookies and Tracking Technologies**
 
-We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies generally do not permit us to personally identify you.
+Technologies such as: cookies, beacons, tags and scripts are used by Appirio and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use third-party tracking services that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate.
+We use cookies to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+**Analytics / Log Files**
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+
+**Local Storage Object**
+
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 **Testimonials**
 
 We post testimonials on our web site which contain personally identifiable information such as the customer’s name. We do obtain the customer’s consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personally identifiable information that is being displayed on our website under public pages please send your request to [security@appirio.com](mailto:security@appirio.com).
 
-**Clear Gifs (Web Beacons/Web Bugs)**
-
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Site users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
-
 **Blogs, Forums and Chartrooms**
 
 If you use a bulletin board, blog, or chat room on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [security@appirio.com](mailto:security@appirio.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
-**Aggregate Informations**
-
-The Site may track the total number of visitors to our Site, IP addresses, the number of visitors to each page of our Site and items clicked on our Site. Additionally, when we provide our Services to you, we may track aggregate and anonymous data that you provide to use to provide our Services to benchmark and improve our Services and ensure you are complying with the terms of your license from us. We may use this data in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to diagnose server problems, analyze trends, administer and improve the Site, track users’ movement, and gather broad demographic information for aggregate use.
-
 **Behavioral Targeting / Re-Targeting**
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking Here](mailto:remove@appirio.com). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **Onward Transfer**
 
@@ -81,7 +85,7 @@ Appirio recognizes the privacy interests of children and we encourage parents an
 
 **Access**
 
-You may correct, amend or delete your personally identifiable information that Appirio stores, except where the burden or expense to Appirio of providing access would be disproportionate to the risks to your privacy or where the legitimate rights of persons other than you would be violated. Please email [security@appirio.com](mailto:security@appirio.com) to correct, amend or delete your personally identifiable information.
+You may correct, amend or delete your personally identifiable information that Appirio stores, except where the burden or expense to Appirio of providing access would be disproportionate to the risks to your privacy or where the legitimate rights of persons other than you would be violated. Please email [security@appirio.com](mailto:security@appirio.com) to correct, amend or delete your personally identifiable information. We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -93,7 +97,7 @@ The Appirio Knowledge Base is powered by Salesforce.com. No personally identifia
 
 **Security**
 
-We may employ procedural and technological security measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Appirio may use encryption, password protection and other security measures to help prevent unauthorized access to your personally identifiable information.
+We may employ procedural and technological security measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Appirio may use encryption, password protection and other security measures to help prevent unauthorized access to your personally identifiable information. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
 **Widget**
 
@@ -111,4 +115,4 @@ San Francisco, CA 94102
 Tel: (415) 268-9911  
 Toll Free: (888) 680-SaaS (7227)
 
-Effective Date January 24, 2014
+Effective Date March 9, 2015
